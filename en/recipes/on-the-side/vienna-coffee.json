@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "vienna-coffee",
+  "name": "Vienna Coffee",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "coffee",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup instant coffee",
+    "2 cups instant cocoa (Nestle's)",
+    "2 cups Creamora",
+    "1/2 cup sugar or 1 cup powdered sugar",
+    "1 teaspoon cinnamon"
+  ],
+  "recipeInstructions": "1. Mix all ingredients together thoroughly.\n2. Store the mixture in a tightly covered jar.\n3. To serve, add two teaspoons of the mixture to a cup containing boiling water.\n4. Top with a tablespoon of whipped cream.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "southern-fried-chicken",
+  "name": "Pollo frito del sur",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "3 libras de pollo para freír, cortado en trozos",
+    "1/2 taza de leche entera o evaporada",
+    "1/2 taza de agua",
+    "2 cucharaditas de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1 cucharadita de pimentón",
+    "1 taza de harina de uso común",
+    "Aceite para cocinar"
+  ],
+  "recipeInstructions": "1. Mezclar la leche y el agua.\n2. Cortar el pollo en trozos y sumergirlo en el líquido.\n3. Colocar los ingredientes secos, incluida la harina, en una bolsa de papel.\n4. Calentar el aceite hasta alcanzar casi temperatura de humo.\n5. Retirar el pollo del líquido y cubrirlo con la mezcla de harina, uno a la vez.\n6. Sacudir el exceso de harina sobre cada trozo.\n7. Colocar el pollo en la sartén y freír hasta dorar ambos lados, cubriendo apretadamente.\n8. Reducir el fuego y continuar cocinando durante 40 minutos sin cubrir.\n9. Aumentar el fuego para crujir el pollo, volviéndolo una vez cada pocos minutos durante 5-10 minutos adicionales.",
+  "url": null
+}

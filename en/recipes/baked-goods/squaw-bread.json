@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "squaw-bread",
+  "name": "Squaw Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "1 1/8 cups water",
+    "2 tablespoons vegetable oil",
+    "1 1/2 tablespoons honey",
+    "1 1/2 tablespoons brown sugar",
+    "1 1/2 tablespoons raisins",
+    "2/3 teaspoon salt",
+    "3/4 cup rye flour",
+    "3/4 cup whole wheat flour",
+    "1 1/2 cups bread flour",
+    "2 teaspoons yeast"
+  ],
+  "recipeInstructions": "1. Place all ingredients in the bread machine according to the manufacturer's instructions.\n2. Use the wheat setting on the machine.",
+  "url": null
+}

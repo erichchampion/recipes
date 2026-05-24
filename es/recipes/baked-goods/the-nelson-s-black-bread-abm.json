@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "the-nelson-s-black-bread-abm",
+  "name": "El Pan Negro de Nelson ABM",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "2 1/4 cucharaditas levadura seca activa",
+    "2 tazas harina clara",
+    "1 1/4 tazas harina de centeno",
+    "2 cucharaditas semillas de eneldo",
+    "2 cucharadas mantequilla",
+    "2 cucharadas melaza",
+    "2 cucharaditas vinagre balsámico",
+    "1 1/3 tazas agua"
+  ],
+  "recipeInstructions": "1. Verificar que todos los ingredientes estén a temperatura ambiente antes de comenzar.\n2. Añadir los ingredientes a la máquina panificadora en el orden indicado: levadura, harina, semillas de eneldo, mantequilla, melaza, vinagre balsámico y colorante caramelo.\n3. Seleccionar el programa \"Pan Blanco\".\n4. Presionar \"Iniciar\".",
+  "url": null
+}

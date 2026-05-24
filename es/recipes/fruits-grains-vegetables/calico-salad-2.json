@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "calico-salad-2",
+  "name": "Ensalada Calico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de azúcar",
+    "1/2 taza de aceite de ensalada",
+    "1/2 taza de vinagre",
+    "1/2 taza de sal",
+    "1/2 taza de pimienta",
+    "1/2 pimiento verde, picado",
+    "1/2 taza de judías amarillas de cera",
+    "1/2 taza de judías rojas",
+    "1/2 taza de guisantes verdes cortados"
+  ],
+  "recipeInstructions": "1. Lavar y escurrir las judías rojas, verdes y de cera.\n2. Añadir los pimientos picados y la cebolla a las judías.\n3. Mezclar el azúcar, el aceite, el vinagre, la sal y la pimienta en un bol aparte.\n4. Verter el aderezo sobre la ensalada.\n5. Refrigerar hasta servir.",
+  "url": null
+}

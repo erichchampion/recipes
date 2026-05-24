@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "bloody-mary-speghetti-sauce",
+  "name": "Salsa de Espagueti Bloody Mary",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "hamburguesas",
+    "carne molida",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de ketchup",
+    "1 taza de agua",
+    "1/2 taza de vinagre",
+    "1/2 taza de salsa Worcestershire",
+    "1 cebolla grande, picada",
+    "1 pizca de polvo de chile",
+    "1 1/2 libras de carne molida, dorada y escurrida"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una olla grande.\n2. Llevar la mezcla a ebullición a fuego medio.\n3. Reducir el fuego a bajo y dejar cocinar a fuego lento durante 30 a 40 minutos, removiendo ocasionalmente, hasta que la salsa espese ligeramente.\n4. Servir sobre espaguetis.",
+  "url": null
+}

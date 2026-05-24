@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-pizza-lasagna",
+  "name": "Crockpot Pizza/Lasagna",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italian",
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "12 oz pkg kluski noodles, cooked and drained",
+    "1 1/2 lb hamburger, cooked and drained",
+    "1 large onion, chopped",
+    "16 oz pizza sauce",
+    "8 oz spaghetti sauce",
+    "8 oz shredded cheddar cheese",
+    "8 oz shredded mozzarella cheese"
+  ],
+  "recipeInstructions": "1. Mix the hamburger and sauces together.\n2. Layer the meat mixture, noodles, and cheeses in the crockpot.\n3. Cook on low for 3-4 hours.",
+  "url": null
+}

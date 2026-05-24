@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-and-crunchy-pizza-dough",
+  "name": "Masa de pizza rápida y crujiente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "masa",
+    "plato principal",
+    "pizza",
+    "rápido"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "2 cucharaditas de polvo de hornear",
+    "Sal (opcional)",
+    "1/4 taza de aceite",
+    "2/3 taza de leche"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta formar una masa.\n2. Amasar la masa sobre una superficie enharinada hasta que quede suave y elástica, aproximadamente 5 minutos.\n3. Formar una bola y dejar reposar durante 10-15 minutos.\n4. Estirar la masa a la grosor deseado sobre una bandeja para pizza o una piedra para hornear.",
+  "url": null
+}

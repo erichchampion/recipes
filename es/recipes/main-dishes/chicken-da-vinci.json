@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-da-vinci",
+  "name": "Pollo Da Vinci",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "carnes",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "2 pechugas de pollo sin hueso, cortadas en tiras finas",
+    "1 cucharada de aceite",
+    "2 pimientos verdes, rebanados",
+    "1 cebolla, rebanada en rodajas gruesas o cortada en trozos",
+    "1 champiñón fresco",
+    "1 lb (450g) salchichas italianas, cortadas en rodajas de ½ pulgada (1,27 cm) de grosor aproximadamente",
+    "4 dientes de ajo, picados",
+    "Caldo de pollo",
+    "Vino blanco"
+  ],
+  "recipeInstructions": "1. Cocinar las salchichas italianas hasta que estén listas y retirarlas del sartén.\n2. En la grasa restante de las salchichas, añadir aceite de oliva al gusto.\n3. Saltear el ajo y los pimientos verdes hasta que estén aproximadamente medio cocidos.\n4. Añadir la cebolla y cocinar hasta que las verduras estén apenas tiernas, aún crujientes pero sin dorarse.\n5. Retirar las verduras del sartén y añadirlas a las salchichas.\n6. Añadir más aceite y saltear los champiñones hasta que estén dorados. Retirar y añadir al resto de ingredientes.\n7. Finalmente, saltear el pollo hasta que esté hecho.\n8. Devolver todo al sartén.\n9. Sazonar generosamente con romero y orégano. Un poco de albahaca tampoco viene mal.\n10. Si el plato parece seco, añadir pequeñas cantidades de caldo de pollo o una mezcla de caldo y vino blanco.\n11. Si se ha añadido demasiado líquido, espesarlo con almidón de maíz.",
+  "url": null
+}

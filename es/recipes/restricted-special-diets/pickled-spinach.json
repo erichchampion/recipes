@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pickled-spinach",
+  "name": "Espinacas encurtidas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "guarniciones",
+    "dietas especiales",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 tazas de espinacas; desgarradas",
+    "1 taza de tomate; picado",
+    "1/4 taza de pimiento verde; picado",
+    "1/4 taza de vinagre",
+    "1/3 taza de aceite vegetal (hasta 1/2 taza)",
+    "2 rebanadas de tocino; cocido y desmenuzado",
+    "Hojas de lechuga; opcional"
+  ],
+  "recipeInstructions": "1. Mezcla los primeros cinco ingredientes en un bol y revuelve suavemente.\n2. Refrigera durante al menos 15 minutos.\n3. Espolvorea el tocino por encima, si se desea.\n4. Sirve sobre hojas de lechuga, si se prefiere.",
+  "url": null
+}

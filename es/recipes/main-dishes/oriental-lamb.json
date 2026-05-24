@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "oriental-lamb",
+  "name": "Cordero Oriental",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cerdo",
+    "plato principal",
+    "carne",
+    "carnes",
+    "oriental"
+  ],
+  "recipeIngredient": [
+    "4 lb solomillo de cordero",
+    "1 taza de vino blanco",
+    "1 diente de ajo, picado finamente",
+    "1 cucharada de salsa de soja",
+    "1/4 cucharadita de jengibre en polvo",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar el vino blanco, el ajo, la salsa de soja y el jengibre en un bol.\n2. Añadir sal y pimienta al gusto.\n3. Colocar los solomillos de cordero en la mezcla y darles la vuelta ocasionalmente.\n4. Broilar o asar a la parrilla hasta alcanzar el punto de cocción deseado.",
+  "url": null
+}

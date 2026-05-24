@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-vinaigrette",
+  "name": "Vinaigrette de Tomate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de tomate picado y pelado",
+    "2 cucharadas de vinagre de vino blanco",
+    "1/2 cucharadita de albahaca seca (o 1 1/2 cucharaditas de albahaca fresca)",
+    "1/2 cucharadita de tomillo seco (o 1 1/2 cucharaditas de tomillo fresco)",
+    "1/2 cucharadita de mostaza dijon"
+  ],
+  "recipeInstructions": "1. Mezclar en una licuadora el tomate picado, el vinagre de vino blanco, la albahaca seca, el tomillo seco y la mostaza dijon.\n2. Licuar hasta obtener una consistencia suave.\n3. Conservar en el refrigerador durante un máximo de 2 días.\n4. Servir sobre ensaladas verdes o ensalada de pasta.",
+  "url": null
+}

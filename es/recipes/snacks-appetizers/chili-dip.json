@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-dip",
+  "name": "Dip de chili",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "8 oz de queso crema",
+    "1 lata de chili (sin frijoles)",
+    "2 cucharadas de chiles verdes picados",
+    "1/2 taza de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el queso cheddar rallado en un bol.\n2. Calentar la mezcla en el microondas hasta que esté caliente.\n3. Añadir el queso cheddar rallado y remover suavemente.\n4. Servir con tus chips favoritos.\n5. Para quienes prefieren un toque más picante, puedes agregar 1/4 taza de queso Monterey Jack con jalapeños antes de servir.",
+  "url": null
+}

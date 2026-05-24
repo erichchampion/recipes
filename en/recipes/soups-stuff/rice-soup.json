@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-soup",
+  "name": "Rice Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "appetizers",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 tbsp Ghee",
+    "1 cup Mixed vegetables, diced",
+    "2 Garlic cloves",
+    "2 cups Cooked rice",
+    "3 cups Water",
+    "1/2 tsp Sage",
+    "1 t Rosemary",
+    "1 t Parsley",
+    "1 tbsp Soy sauce",
+    "Salt and pepper"
+  ],
+  "recipeInstructions": "1. Heat the ghee in a large soup pot.\n2. Saute the diced vegetables and garlic for 15 minutes.\n3. Pour over water, bring to a boil, and simmer until the vegetables are almost tender.\n4. While the vegetables are simmering, add the herbs one at a time.\n5. About 5 minutes before the cooking is finished, add the cooked rice.\n6. If needed, add more water to reach desired consistency.\n7. Turn off the heat.",
+  "url": null
+}

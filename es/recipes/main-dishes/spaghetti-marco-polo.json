@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-marco-polo",
+  "name": "Spaguetis Marco Polo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "8 oz de espagueti cocido",
+    "2/3 taza de nueces picadas",
+    "1/2 taza de aceitunas negras picadas",
+    "1/2 taza de pimientos rojos picados",
+    "1/2 taza de perejil fresco picado",
+    "1 cucharada de aceite de oliva",
+    "1 diente de ajo picado",
+    "Sal y pimienta al gusto",
+    "4 cucharadas de queso parmesano sin grasa rallado",
+    "1 cucharadita de orégano seco picado"
+  ],
+  "recipeInstructions": "1. Mezclar en un bol grande las nueces, aceitunas negras, pimientos rojos y perejil. Mezclar bien.\n2. Sazonar con sal y pimienta al gusto. Añadir el orégano picado y remover suavemente.\n3. Calentar el aceite de oliva en una sartén grande a fuego medio-alto. Agregar el ajo picado y cocinar durante unos 30 segundos, luego retirar del fuego.\n4. Incorporar el espagueti cocido a la sartén. Remover con cuidado para combinar.\n5. Sazonar con sal y pimienta recién molida al gusto. Mezclar bien.\n6. Servir los espaguetis con la mezcla de nueces por encima y espolvoreados con queso parmesano rallado.",
+  "url": null
+}

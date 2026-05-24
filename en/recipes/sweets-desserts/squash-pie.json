@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "squash-pie",
+  "name": "Squash Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1 pint boiled dry squash",
+    "1 cup brown sugar",
+    "3 eggs",
+    "2 teaspoons molasses",
+    "1 teaspoon butter",
+    "1 teaspoon ginger and cinnamon",
+    "1/2 teaspoon salt",
+    "1 pint milk"
+  ],
+  "recipeInstructions": "1. Beat the eggs.\n2. Add the remaining ingredients to the beaten eggs.\n3. Pour the mixture into an unbaked pie shell.\n4. Bake in a preheated oven at 325°F until set.",
+  "url": null
+}

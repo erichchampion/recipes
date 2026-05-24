@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-bread",
+  "name": "Beer Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "3 cups Flour",
+    "1 tbsp Honey",
+    "3 3/4 tsp Baking Powder",
+    "12 oz Beer",
+    "2 1/4 tsp Salt"
+  ],
+  "recipeInstructions": "1. Grease a 9x5x3-inch loaf pan.\n2. Mix flour, salt, and baking powder in a bowl.\n3. Combine the dry ingredients with beer and honey in a large bowl until well mixed.\n4. Pour the batter into the prepared pan.\n5. Bake at 350°F for 45 minutes or until a wooden pick comes out clean when inserted into the center.\n6. Turn the bread out onto a cooling rack to cool completely before slicing.",
+  "url": null
+}

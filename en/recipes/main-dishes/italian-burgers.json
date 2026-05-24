@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-burgers",
+  "name": "Italian Burgers",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 1/4 pounds lean ground beef",
+    "1 package frozen chopped spinach, thawed and drained",
+    "2 cloves garlic, finely chopped",
+    "3 tablespoons Parmesan cheese, grated",
+    "1/2 cup spaghetti sauce, bottled",
+    "1/2 cup Italian bread crumbs",
+    "1/2 cup shredded nonfat mozzarella cheese",
+    "8 hamburger buns"
+  ],
+  "recipeInstructions": "1. Combine beef, spinach, garlic, Parmesan, sauce and crumbs in bowl.\nDivide mixture into 8 equal patties.\n2. Broil or grill 4 inches from heat for 6 minutes on each side or until cooked through. Top with 2 tablespoons shredded mozzarella. Broil until cheese melts. Serve on buns.",
+  "url": null
+}

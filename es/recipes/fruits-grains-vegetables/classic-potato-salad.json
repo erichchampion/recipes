@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "classic-potato-salad",
+  "name": "Ensalada de patatas clásica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 taza de mayonesa Hellmann's Real",
+    "2 cucharadas de vinagre",
+    "1 1/2 cucharaditas de sal",
+    "1 cucharadita de azúcar",
+    "1/4 cucharadita de pimienta negra",
+    "4 tazas de patatas cocidas y cortadas en cubos (5-6 medianas)",
+    "1 taza de apio cortado en rodajas",
+    "1/2 taza de cebolla picada",
+    "2 huevos duros, picados"
+  ],
+  "recipeInstructions": "1. Mezclar la mayonesa, el vinagre, la sal, el azúcar y la pimienta en un bol.\n2. Incorporar las patatas, el apio, la cebolla y los huevos picados hasta obtener una mezcla homogénea.\n3. Tapar y refrigerar durante al menos 30 minutos para que se mezclen los sabores.",
+  "url": null
+}

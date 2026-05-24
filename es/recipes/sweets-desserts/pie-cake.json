@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pie-cake",
+  "name": "Tarta-Pastel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 caja de bizcocho (no usar una mezcla con pudín)",
+    "20 onzas de piña triturada en almíbar, escurrida",
+    "1 lata de relleno de tartas de cereza",
+    "1 taza de nueces picadas",
+    "1/2 taza de margarina"
+  ],
+  "recipeInstructions": "1. Verter la piña escurrida en un molde rectangular de 30 x 45 x 2 cm y extender uniformemente.\n2. Cubrir la piña con el relleno de tartas de cereza, distribuyéndolo lo más uniformemente posible.\n3. Espolvorear la mezcla de bizcocho sobre las capas y presionar ligeramente con los dedos.\n4. Espolvorear las nueces picadas sobre el bizcocho y agregar pequeños trozos de margarina por encima.\n5. Precalentar el horno a 180 °C.\n6. Hornear durante 50-55 minutos, o hasta que esté firme al presionar ligeramente con los dedos. Servir caliente o frío.",
+  "url": null
+}

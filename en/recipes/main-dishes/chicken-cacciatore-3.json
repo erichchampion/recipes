@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-cacciatore-3",
+  "name": "Chicken Cacciatore",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "poultry",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "3 pounds Chicken parts",
+    "1/4 cup Oil",
+    "Salt to taste",
+    "Pepper to taste",
+    "1 teaspoon Garlic powder",
+    "2 teaspoons Italian seasoning",
+    "2 teaspoons Onion powder",
+    "1 Bay leaf",
+    "1 package Spaghetti sauce mix",
+    "1 can Tomatoes - 1 lb",
+    "1/4 cup Dry white wine"
+  ],
+  "recipeInstructions": "1. Heat the oil in a skillet over medium heat.\n2. Quickly brown the chicken pieces, then transfer them to the crockpot.\n3. In the same skillet, combine the remaining ingredients and stir until well blended and heated through.\n4. Add the mixture back into the crockpot containing the chicken.\n5. Cover and cook on LOW for 7-8 hours.\n6. Serve over spaghetti or hot rice.",
+  "url": null
+}

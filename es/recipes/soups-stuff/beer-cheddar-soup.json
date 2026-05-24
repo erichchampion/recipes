@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-cheddar-soup",
+  "name": "Sopa de Cerveza y Queso Cheddar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 litro de cerveza",
+    "1 litro de caldo de pollo",
+    "1 taza de crema espesa",
+    "3 yemas de huevo",
+    "1 taza de queso cheddar rallado",
+    "1 cucharadita de pimentón"
+  ],
+  "recipeInstructions": "1. Llevar la cerveza y el caldo de pollo a ebullición a fuego moderado.\n2. Reducir el fuego y dejar hervir durante 25 minutos.\n3. Batir las yemas de huevo hasta que estén espesas y de un color amarillo pálido.\n4. Incorporar lentamente la crema espesa a la mezcla de huevos, batiendo constantemente para evitar la coagulación.\n5. Añadir lentamente un poco del caldo caliente a la mezcla de huevos, removiendo continuamente.\n6. Verter la mezcla de huevos y queso en la sopa restante.\n7. Calentar durante 5 minutos, sin permitir que hierva.",
+  "url": null
+}

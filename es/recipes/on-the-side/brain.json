@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "brain",
+  "name": "Cerebro",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "Licor de durazno (Peach Schnapps)",
+    "Bailey's Irish Cream",
+    "Granadina (opcional)"
+  ],
+  "recipeInstructions": "1. Llena un vaso para chupitos a la mitad con licor de durazno.\n2. Vierte una pequeña cantidad de Bailey's Irish Cream en una cucharadita.\n3. Vierte cuidadosamente el Bailey's en el centro del licor de durazno.\n4. Si lo deseas, añade un chorrito de granadina para crear un efecto de \"aborto\".",
+  "url": null
+}

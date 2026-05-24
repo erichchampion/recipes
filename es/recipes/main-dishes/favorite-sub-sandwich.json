@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "favorite-sub-sandwich",
+  "name": "Sándwich favorito de subs",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "aperitivos",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "3 tazas de lechuga picada",
+    "1/2 taza de aderezo ranch Kraft, dividido",
+    "1 hogaza de pan italiano, cortada por la mitad a lo largo",
+    "1 paquete (10 onzas) de salchichas Oscar Mayer All-Beef",
+    "4 rebanadas de queso americano",
+    "1 pimiento verde mediano, cortado en rodajas finas",
+    "1 lata (2 3/4 onzas) de aceitunas con el hueso, cortadas (opcional)"
+  ],
+  "recipeInstructions": "1. Mezcla la lechuga con 1/4 taza del aderezo y reserva.\n2. Unta las superficies cortadas del pan con 1/4 taza del aderezo restante.\n3. Llena el pan con las salchichas, el queso, los vegetales, las aceitunas y la mezcla de lechuga.\nRinde para 4 a 6 porciones.\nVariaciones:\nReemplaza el aderezo ranch Kraft por aderezo caesar ranch o aderezo ranch sin grasa.\nSustituye 4 a 6 rodillos imperiales por la hogaza de pan italiano.",
+  "url": null
+}

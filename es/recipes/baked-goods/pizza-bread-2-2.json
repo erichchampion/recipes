@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-bread-2-2",
+  "name": "Pan de pizza #2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina de pan",
+    "ciclo de masa",
+    "hecho a mano"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina de pan",
+    "1 cucharada de aceite",
+    "1 cucharadita de sal",
+    "2 cucharadas de azúcar",
+    "7/8 taza de leche",
+    "1/4 taza de queso parmesano y romano rallado",
+    "1 1/2 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Preparar la masa con el programa de MASA.\n2. Dejar reposar durante 20-30 minutos.\n3. Dividir en tantas bolas como pizzas desee (o una pizza de 30 cm), amasar ligeramente y dejar reposar 10 minutos.\n4. Dar forma a círculos planos y colocarlos en una bandeja para hornear, pinchándolos con un tenedor.\n5. Dejar reposar durante 10 minutos a temperatura ambiente.\n6. Untar con salsa de pizza, espolvorear con mozzarella y añadir los toppings que prefiera (si desea un pan para acompañar una comida, queda bien solo con la salsa).\n7. Hornear en horno precalentado a 400 °F durante 15-20 minutos o hasta dorar.",
+  "url": null
+}

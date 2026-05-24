@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "crock-pot-minestrone-soup",
+  "name": "Crock-Pot Minestrone Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "beans",
+    "slow cooker",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 Medium onion, chopped",
+    "2 Medium carrots, thinly sliced",
+    "2 Stalks celery, diced",
+    "1 Medium red bell pepper, seeded and diced",
+    "1 Medium zucchini, sliced into 1/4 inch thick rounds",
+    "2 cloves garlic, minced",
+    "2 cans vegetable broth (14.5 oz each)",
+    "1 can crushed tomatoes (28 oz)",
+    "2 cans kidney beans, drained",
+    "2 teaspoons dried marjoram",
+    "1/4 teaspoon black pepper"
+  ],
+  "recipeInstructions": "1. Add all ingredients except the rice to the Crock-Pot.\n2. Cover and cook on Low for 8 to 10 hours [High: 4 to 5 hours].\n3. Stir in the cooked rice and combine well.\n4. Serves 6 to 8.",
+  "url": null
+}

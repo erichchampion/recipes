@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-wings",
+  "name": "Alas mexicanas",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "aves de corral",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "10 onzas de salsa picante",
+    "1/2 taza de margarina derretida",
+    "1/4 taza de ketchup",
+    "1 cucharadita de polvo de chile",
+    "1 cucharadita de semillas de comino molido",
+    "1/2 cucharadita de polvo de ajo",
+    "5 libras de alas de pollo grandes, divididas o no, con las puntas cortadas (opcional)"
+  ],
+  "recipeInstructions": "1. Mezclar la salsa picante, la margarina, el ketchup y las especias en un bol. Calentar la mezcla a fuego medio, revolviendo con frecuencia.\n2. Freír las alas a 365°F (185°C) hasta que estén crujientes, aproximadamente 6-9 minutos dependiendo del tamaño y el equipo utilizado. Consulte bajo \"PROCEDIMIENTO DE MANEJO DE ALAS BAR\" para obtener información sobre el manejo adecuado de las alas.\n3. Escurrir bien las alas.\n4. Saltear las alas cocidas en la mezcla de salsa picante.",
+  "url": null
+}

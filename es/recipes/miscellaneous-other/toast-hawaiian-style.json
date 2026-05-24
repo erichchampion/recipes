@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "toast-hawaiian-style",
+  "name": "Tostada al estilo hawaiano",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "asiático",
+    "étnico",
+    "hawaiano"
+  ],
+  "recipeIngredient": [
+    "4 rebanadas de pan blanco",
+    "4 rebanadas de jamón cocido",
+    "4 rebanadas de piña (anillos)",
+    "4 rebanadas de queso Gouda",
+    "4 cerezas al marrasquino"
+  ],
+  "recipeInstructions": "1. Coloca una rebanada de jamón, una rebanada de piña y una rebanada de queso sobre cada rebanada de pan.\n2. Hornea en un horno precalentado a 200 °C hasta que el queso se derrita.\n3. Adorna con cerezas y sirve inmediatamente.",
+  "url": null
+}

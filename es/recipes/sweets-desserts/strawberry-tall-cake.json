@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-tall-cake",
+  "name": "Pastel alto de fresas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres",
+    "fresas"
+  ],
+  "recipeIngredient": [
+    "Bizcocho:",
+    "1 sobre de mezcla de bizcocho amarillo, versión con pudín",
+    "Glaseado:",
+    "2 litros de fresas",
+    "1 tarro de glaseado de fresa",
+    "Crema:",
+    "1 sobre de queso crema (225 g)",
+    "1/2 taza de azúcar",
+    "1 sobre de merengue batido (340 g)",
+    "1 taza de azúcar glas"
+  ],
+  "recipeInstructions": "Bizcocho:\nHornee el bizcocho siguiendo las instrucciones del paquete en dos moldes redondos de 23 cm. Déjelo enfriar por completo.\nCorte cada capa por la mitad, obteniendo cuatro capas.\nGlaseado:\nCorte las fresas en trozos pequeños y mézclelas con el glaseado.\nCrema:\nBatir juntos el queso crema, el azúcar, el merengue batido y el azúcar glas hasta obtener una textura suave.\nMontaje:\nExtienda la mezcla de crema sobre una capa de bizcocho. Cubra con la mitad de la mezcla de glaseado.\nRepita con las tres capas restantes. Cubra la parte superior y los lados del bizcocho con el resto de la crema.\nAdorne con unas fresas.\nRefrigere hasta el momento de servir.",
+  "url": null
+}

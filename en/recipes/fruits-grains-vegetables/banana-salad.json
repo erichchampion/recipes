@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-salad",
+  "name": "Banana Salad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "fruit",
+    "salads"
+  ],
+  "recipeIngredient": [
+    "10 Bananas",
+    "1/2 cup Peanuts (ground)",
+    "1 tbsp Vinegar",
+    "2 tbsp Water",
+    "1 Egg, well beaten",
+    "2/3 cup Sugar",
+    "1/2 cup Butter/margarine"
+  ],
+  "recipeInstructions": "1. In a double boiler, combine vinegar, water, butter, egg, and sugar.\n2. Heat over medium heat until thickened. Stir often to prevent sticking.\n3. When cooled, pour the mixture over sliced bananas.\n4. Top with ground peanuts.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "garlic-bread-eb",
+  "name": "Pan de ajo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de agua",
+    "2 tazas de harina de pan",
+    "1 cucharada de azúcar",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de mantequilla",
+    "2 cucharadas de queso parmesano",
+    "1/2 cucharadita de albahaca dulce",
+    "1/2 cucharadita de polvo de ajo",
+    "1/2 cucharadita de pasta de ajo",
+    "1 1/2 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Mezclar el agua, la harina de pan, el azúcar, la sal, la mantequilla, el queso parmesano, la albahaca dulce, el polvo de ajo y la pasta de ajo en un bol hasta que esté bien combinado.\n2. Dar forma a la masa en un pan redondo.\n3. Colocar el pan sobre una bandeja para hornear.\n4. Hornear según las configuraciones del ciclo regular de su horno.",
+  "url": null
+}

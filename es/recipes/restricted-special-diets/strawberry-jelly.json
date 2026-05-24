@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-jelly",
+  "name": "Gelatina de fresa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "frutas",
+    "mermeladas",
+    "dietas especiales"
+  ],
+  "recipeIngredient": [
+    "2 sobrecillas de gelatina sin sabor",
+    "4 tazas de fresas; deshuesadas, lavadas y pasadas por un colador",
+    "1/2 taza de zumo de limón",
+    "1/2 cucharadita de sal",
+    "Edulcorante sin calorías equivalente a 4 tazas de azúcar",
+    "1 cucharada de almidón de flecha"
+  ],
+  "recipeInstructions": "1. Mezcla la gelatina, el zumo de limón, la sal y el almidón en un bol.\n2. Añade las fresas a la mezcla.\n3. Calienta a fuego medio durante unos 3 minutos, removiendo constantemente hasta que se disuelva.\n4. Retira del fuego y añade el edulcorante.\n5. Llena frascos esterilizados con la gelatina y sella.",
+  "url": null
+}

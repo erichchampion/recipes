@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "delicious-nut-cookies",
+  "name": "Delicious Nut Cookies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 cup Butter",
+    "3 Egg",
+    "1 cup Sugar",
+    "3 1/4 cups Flour",
+    "1 tsp Cinnamon",
+    "1 tsp Soda",
+    "1/2 tsp Salt",
+    "1/2 cup Walnuts",
+    "1/2 cup Raisins, chopped",
+    "1/2 cup Currants"
+  ],
+  "recipeInstructions": "1. Cream the butter and sugar gradually.\n2. Add the eggs one at a time, mixing well after each addition.\n3. Dissolve the soda in hot water, then add it to the mixture.\n4. Incorporate half of the flour, mixed with cinnamon and salt.\n5. Add the walnuts, raisins, currants, and remaining flour.\n6. Drop by spoonfuls onto buttered tins.\n7. Bake at 350°F for about 15 minutes.\n8. Substitute other nuts if desired.",
+  "url": null
+}

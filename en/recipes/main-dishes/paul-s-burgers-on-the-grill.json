@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "paul-s-burgers-on-the-grill",
+  "name": "Paul's Burgers on the Grill",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 lb ground beef",
+    "1/4 cup ketchup",
+    "1/4 cup onion, finely chopped",
+    "2 tsp Italian seasoning",
+    "1 tsp garlic powder",
+    "1/2 tsp salt",
+    "4 hamburger buns, split",
+    "lettuce leaves and tomato slices -- optional"
+  ],
+  "recipeInstructions": "1. Combine the first six ingredients in a medium bowl; mix well.\n2. Shape into four patties.\n3. Grill over medium coals for 4-5 minutes per side or until no longer pink.\n4. Serve on buns; top with lettuce and tomato if desired.",
+  "url": null
+}

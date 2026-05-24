@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "amazing-coconut-pie",
+  "name": "Pastel de Coco Increíble",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postre",
+    "tartas",
+    "fácil",
+    "huevos",
+    "tarta imposible",
+    "merengue",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de leche",
+    "3/4 taza de azúcar",
+    "1/2 taza de Bisquick",
+    "4 huevos",
+    "1/4 taza de mantequilla",
+    "1/2 cucharadita de extracto de vainilla",
+    "1 taza de coco rallado"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el coco en una licuadora a velocidad baja durante 3 minutos.\n2. Verter la mezcla en un molde para pastel y dejar reposar durante 5 minutos.\n3. Cubrir con coco rallado.\n4. Hornear a 180 °C durante 40 minutos.",
+  "url": null
+}

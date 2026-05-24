@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "crock-pot-hashbrowns",
+  "name": "Crock Pot Hashbrowns",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "main dish",
+    "potatoes",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "1 package Hashbrowns (32 oz)",
+    "1 can Soup, cream of mushroom",
+    "1/2 cup Margarine",
+    "1 can Soup, cheddar cheese",
+    "1 cup Sour cream"
+  ],
+  "recipeInstructions": "1. Put hashbrowns in crock pot.\n2. Mix soups and sour cream together.\n3. Pour the mixture over the hash browns.\n4. Cut up margarine and stir into the hash browns.\n5. Cook on low for 4 to 6 hours, stirring occasionally.",
+  "url": null
+}

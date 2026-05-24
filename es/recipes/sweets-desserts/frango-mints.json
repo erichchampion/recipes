@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "frango-mints",
+  "name": "Pollo Menta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "chocolate"
+  ],
+  "recipeIngredient": [
+    "12 oz de chocolate",
+    "1/2 taza de margarina",
+    "2 huevos",
+    "1 extracto de menta",
+    "1 1/2 tazas de azúcar glas",
+    "2 cucharaditas de vainilla"
+  ],
+  "recipeInstructions": "1. Derrite el chocolate y déjalo enfriar.\n2. Bate la margarina, el azúcar glas, los huevos y la vainilla hasta obtener una mezcla cremosa.\n3. Añade el chocolate derretido y unas gotas de extracto de menta a la mezcla.\n4. Vierte la mezcla en un molde cuadrado de 20 cm.\n5. Deja enfriar y solidificar completamente.\n6. Corta en cuadrados.",
+  "url": null
+}

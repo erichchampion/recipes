@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "macaroni-and-cheese",
+  "name": "Macarrones con Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "aperitivos",
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "12 onzas de macarrones (3/4 caja)",
+    "2 huevos grandes",
+    "3 cucharadas de mantequilla o margarina sin sal",
+    "1 1/2 tazas de leche",
+    "8 onzas de queso cheddar rallado (aproximadamente 2 tazas)",
+    "1 cucharadita de sal",
+    "1 cucharadita de pimienta negra molida recién",
+    "1 cucharadita de azúcar",
+    "1/2 cucharadita de colorante alimentario amarillo opcional"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375 grados F. Cocinar los macarrones en una olla grande con agua hirviendo salada hasta que estén tiernos pero no gomosos, aproximadamente 8 minutos. Escurrirlos muy bien y transferirlos a un bol de mezcla grande.\n2. Mezclar los macarrones con los ingredientes restantes, reservando aproximadamente 1/4 taza de leche y 1/4 taza de queso. Transferir a un plato para hornear ovalado de 11 pulgadas. Verter la leche reservada sobre la parte superior y espolvorear con el queso reservado.\n3. Hornear hasta que la parte superior esté dorada y burbujee, aproximadamente 25 minutos. Servir caliente.",
+  "url": null
+}

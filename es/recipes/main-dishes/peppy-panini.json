@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "peppy-panini",
+  "name": "Panini Picantes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 hogaza de focaccia italiana de 20 cm",
+    "6 cucharadas de crema de queso vegetal ligera, dividida",
+    "1 tomate, cortado en rodajas finas",
+    "1/2 pimiento verde, cortado en rodajas finas",
+    "24 rebanadas de pepperoni",
+    "2 láminas finas de cebolla roja, separadas",
+    "3/4 taza de queso provolone rallado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180 °C.\n2. Cortar la focaccia por la mitad horizontalmente.\n3. Untar cada mitad con 3 cucharadas de crema de queso.\n4. Cubrir una mitad con rodajas de tomate, pimiento verde, pepperoni y queso.\n5. Tapar con la otra mitad de pan.\n6. Envolver firmemente con papel de aluminio.\n7. Hornear durante 20 a 25 minutos o hasta que esté caliente.\n8. Cortar en triángulos.",
+  "url": null
+}

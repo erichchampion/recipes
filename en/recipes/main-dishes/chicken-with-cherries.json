@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-with-cherries",
+  "name": "Chicken with Cherries",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1 Chicken",
+    "1 Glass of Cherries, drained",
+    "White Wine",
+    "Paprika (mild)",
+    "Cinnamon",
+    "Fond du monde (salt and pepper)",
+    "Noodles, spiral kind",
+    "Cornstarch, if needed."
+  ],
+  "recipeInstructions": "1. Wash the chicken and rub with the seasonings, omitting Fond du monde.\n2. Fill the pitted cherries inside of the chicken.\n3. Place the chicken in a baking dish and add white wine until the chicken \"swims.\"\n4. Bake at 175-200°C for about 1 hour.\n5. Mix the juice with Fond du monde, season to taste, and thicken with cornstarch if needed.\n6. Serve with spiral noodles.",
+  "url": null
+}

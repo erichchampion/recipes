@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-muffins-3",
+  "name": "Basic Muffins 3",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "low-calorie",
+    "muffins"
+  ],
+  "recipeIngredient": [
+    "2 cups Whole-wheat flour",
+    "2 teaspoons Baking powder",
+    "1/4 cup Honey",
+    "2 cups Water, or nut milk",
+    "2 tablespoons Applesauce",
+    "1/2 teaspoon Vanilla",
+    "1/2 teaspoon Cinnamon",
+    "1/2 teaspoon Mace",
+    "1/4 teaspoon Nutmeg",
+    "1/4 teaspoon Allspice",
+    "1/4 teaspoon Ginger"
+  ],
+  "recipeInstructions": "Combine dry ingredients. Combine wet ingredients. Fold together until just moistened. Spoon into lightly oiled or non-stick muffin tins. Bake at 350°F for 30 minutes.",
+  "url": null
+}

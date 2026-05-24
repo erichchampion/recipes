@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-easy-waffles",
+  "name": "Quick & Easy Waffles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "4 Eggs",
+    "1 cup Milk",
+    "1 tbsp Baking powder",
+    "1/2 tsp Salt (optional)",
+    "2 cups Flour",
+    "1/2 cup Butter, melted",
+    "1 tbsp Sugar",
+    "1 t Vanilla (optional)"
+  ],
+  "recipeInstructions": "1. Beat the eggs and sugar until light and foamy.\n2. Add the cooled melted butter, milk, and vanilla extract to the egg mixture.\n3. Sift together the flour and baking powder, then add them to the egg mixture.\n4. Stir in the salt and mix well.\n5. Pour the batter into a preheated waffle iron and bake until golden brown.\n6. Serve hot and enjoy!",
+  "url": null
+}

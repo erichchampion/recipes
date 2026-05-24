@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "bean-and-beef-soup",
+  "name": "Bean and Beef Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "1 lb Navy beans",
+    "1 lb Prunes",
+    "1 quart Cut carrots",
+    "1 1/2 quarts Cut potatoes",
+    "1 lb Beef stew meat",
+    "1 Onion",
+    "Salt and pepper",
+    "12 Whole cloves"
+  ],
+  "recipeInstructions": "1. Soak 1 pound navy beans overnight.\n2. Cook the beans, prunes, beef, and vegetables separately without draining.\n3. Mix all ingredients together.\n4. Simmer until the flavors are well combined.",
+  "url": null
+}

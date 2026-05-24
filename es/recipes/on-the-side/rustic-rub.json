@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "rustic-rub",
+  "name": "Salsa rústica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "es: marinadas",
+    "guarniciones",
+    "especias"
+  ],
+  "recipeIngredient": [
+    "8 cucharadas de pimentón dulce",
+    "3 cucharadas de pimentón picante",
+    "5 cucharadas de pimienta negra molida",
+    "6 cucharadas de polvo de ajo",
+    "3 cucharadas de polvo de cebolla",
+    "6 cucharadas de sal",
+    "2 1/2 cucharadas de orégano seco",
+    "2 1/2 cucharadas de tomillo seco"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Machacar hasta obtener una mezcla homogénea.\nSe puede conservar en un recipiente hermético en el armario de especias durante hasta 3 meses.",
+  "url": null
+}

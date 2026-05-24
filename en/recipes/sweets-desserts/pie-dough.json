@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pie-dough",
+  "name": "Pie Dough",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pie",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "3 cups all-purpose flour",
+    "1 1/2 cups unsalted shortening",
+    "Salt, to taste",
+    "Ice water, as needed"
+  ],
+  "recipeInstructions": "1. In a large bowl, mix the flour and salt.\n2. Cut in the shortening until the mixture resembles coarse crumbs.\n3. Gradually add ice water, stirring with a fork until dough holds together.\n4. Divide the dough into two portions and form into balls.\n5. Wrap each ball in plastic wrap and refrigerate for at least 1 hour before rolling out to make pie shells.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pepper-salad",
+  "name": "Ensalada de Pimienta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "ensaladas",
+    "dietas especiales"
+  ],
+  "recipeIngredient": [
+    "1/2 repollo pequeño",
+    "1 zanahoria, cortada finamente",
+    "1/4 taza pimiento verde (rojo o amarillo)",
+    "2 tazas agua",
+    "1 cucharada aliño tipo mayonesa"
+  ],
+  "recipeInstructions": "1. Cortar el repollo en cuñas pequeñas.\n2. Colocar la mitad del repollo en licuadora junto con el agua, la zanahoria y el pimiento verde.\n3. Licuar rápidamente hasta obtener una mezcla suave, luego detener la licuadora y colar cualquier líquido excesivo.\n4. Devolver la mezcla licuada a la licuadora y licuar nuevamente con el resto del repollo.\n5. Colar una vez más si es necesario.\n6. Mezclar el repollo licuado con el aliño de mayonesa.",
+  "url": null
+}

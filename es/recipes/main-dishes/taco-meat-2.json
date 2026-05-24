@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-meat-2",
+  "name": "Carne para tacos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida de pavo o de solomillo superior",
+    "1 taza de cebolla picada",
+    "1 diente de ajo picado",
+    "1 1/2 cucharaditas de comino en polvo",
+    "1 cucharadita de orégano",
+    "1/2 taza de salsa de tomate",
+    "1/2 taza de chiles verdes picados",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Calentar una sartén grande a fuego medio.\n2. Agregar la carne molida y sellar sobre fuego medio hasta que esté dorada, sin remover, aproximadamente 5-6 minutos. (Si se usa carne de res, escurrir toda la grasa).\n3. Incorporar la cebolla, el ajo, el comino y el orégano y remover para desmenuzar los grumos de carne. Saltear hasta que la cebolla esté completamente cocida, aproximadamente 3-4 minutos.\n4. Reducir el fuego a medio-bajo e incorporar la salsa de tomate y los chiles. Reducir hasta que la mayor parte del líquido se haya evaporado, aproximadamente 5-8 minutos.\n5. Agregar la sal y la pimienta. Rellenar 8 tacos o 8 enchiladas.",
+  "url": null
+}

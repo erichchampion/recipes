@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-rice-pilaf",
+  "name": "Arroz falso pilaf",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "diabetico",
+    "pilaf",
+    "arroz",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz sin cocinar",
+    "2 tazas de caldo de pollo o ternera (o agua)"
+  ],
+  "recipeInstructions": "1. En una cacerola, lleva el caldo a ebullición.\n2. Agrega el arroz cocido al líquido hirviendo.\n3. Revuelve bien y sirve.",
+  "url": null
+}

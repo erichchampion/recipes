@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "portuguese-sweet-bread-abm-2",
+  "name": "Portuguese Sweet Bread ABM",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "desserts",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 cup evaporated milk",
+    "3 tablespoons unsalted butter, cut into pieces",
+    "2 eggs",
+    "1 1/2 teaspoons lemon rind, finely minced",
+    "1 tablespoon vanilla extract",
+    "6 tablespoons sugar",
+    "1 teaspoon salt",
+    "1/4 teaspoon asorbic acid",
+    "3 cups bread flour",
+    "2 teaspoons yeast"
+  ],
+  "recipeInstructions": "1. Place all ingredients in the bread machine.\n2. Program for white or sweet bread.\n3. Press start.",
+  "url": null
+}

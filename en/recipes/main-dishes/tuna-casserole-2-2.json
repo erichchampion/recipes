@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tuna-casserole-2-2",
+  "name": "Tuna Casserole#2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dishes",
+    "casseroles",
+    "fish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 large can tuna",
+    "1 package wide egg noodles",
+    "1 can cream of mushroom soup",
+    "1 can cream of celery soup",
+    "1/2 cup grated Cheddar cheese",
+    "1 tablespoon grated onion"
+  ],
+  "recipeInstructions": "1. Cook the noodles and drain the tuna.\n2. Mix all ingredients together in a buttered casserole dish.\n3. Top with a little cheese and some cracker crumbs.\n4. Bake at 350°F for 40 minutes, or until bubbly.",
+  "url": null
+}

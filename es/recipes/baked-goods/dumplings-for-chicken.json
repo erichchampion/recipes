@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "dumplings-for-chicken",
+  "name": "Empanadillas de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pan",
+    "panes",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 1/3 tazas de harina",
+    "1 cucharadita de sal",
+    "2 cucharaditas de polvo de hornear",
+    "1 huevo",
+    "1/2 taza de leche"
+  ],
+  "recipeInstructions": "1. Batir el huevo.\n2. Mezclar los demás ingredientes con el huevo.\n3. Cocinar al vapor sin levantar la tapa durante 10-12 minutos.",
+  "url": null
+}

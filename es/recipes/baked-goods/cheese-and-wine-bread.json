@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-and-wine-bread",
+  "name": "Pan de queso y vino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina de uso múltiple",
+    "2 cucharadas de harina de uso múltiple",
+    "1/2 cucharadita de polvo de hornear",
+    "1/4 cucharadita de crema de tártaro",
+    "1/2 cucharadita de sal",
+    "1/8 cucharadita de bicarbonato de sodio",
+    "1/4 taza de leche en polvo instantánea sin grasa",
+    "1/3 taza de manteca vegetal",
+    "1 cucharada de azúcar",
+    "1 cucharadita de cebolla picada",
+    "1 huevo batido",
+    "1/4 taza de leche",
+    "1/4 taza de vino blanco",
+    "1/2 cucharadita de orégano seco",
+    "1/4 taza de queso parmesano recién rallado"
+  ],
+  "recipeInstructions": "1. Mezcla la harina, el polvo de hornear, la crema de tártaro, la sal y el bicarbonato en un bol.\n2. Agrega la leche en polvo a los ingredientes tamizados.\n3. Corta la manteca vegetal hasta que la mezcla tenga la consistencia de migas gruesas.\n4. Incorpora el azúcar, la cebolla picada, el huevo batido, la leche, el vino blanco y el orégano. Mezcla bien.\n5. Vierte la masa en un molde redondo engrasado de 23 cm o 25 cm de diámetro.\n6. Espolvorea con queso parmesano rallado.\n7. Hornea a 425 °F durante 15-20 minutos, o hasta que un palillo insertado en el centro salga limpio.",
+  "url": null
+}

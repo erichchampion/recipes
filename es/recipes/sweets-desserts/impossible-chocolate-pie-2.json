@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "impossible-chocolate-pie-2",
+  "name": "Pastel de chocolate imposible",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "chocolate",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 Huevos",
+    "2 oz Chocolate derretido",
+    "1 taza Leche",
+    "1/4 taza Mantequilla",
+    "1 cucharadita Extracto de vainilla",
+    "1 taza Azúcar morena",
+    "1 taza Bisquick"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 grados Fahrenheit.\n2. Mezclar todos los ingredientes en una licuadora durante 1 minuto.\n3. Verter la mezcla en un molde para pastel.\n4. Hornear durante 30 minutos, o hasta que al insertar un cuchillo salga limpio.\n5. Dejar enfriar completamente el pastel antes de servir.\n6. Cubrir con crema batida.",
+  "url": null
+}

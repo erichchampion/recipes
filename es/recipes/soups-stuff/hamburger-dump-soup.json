@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-dump-soup",
+  "name": "Sopa de Deshecho de Hamburguesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 lb de hamburguesa molida",
+    "3 cubos de caldo de carne",
+    "1 lata de salsa de tomate",
+    "3 cuartos de agua",
+    "1/2 cucharadita de sal",
+    "1 pizca de pimienta negra",
+    "1 cebolla picada",
+    "1/2 cucharadita de albahaca seca",
+    "1 cucharadita de perejil en hojuelas",
+    "1 lata de setas cortadas",
+    "3 latas de verduras mixtas",
+    "1/2 lb de fideos (de cualquier tipo)",
+    "1 lata de tomates cortados"
+  ],
+  "recipeInstructions": "1. Verter el agua en una olla grande y llevar a ebullición.\n2. Añadir los cubos de caldo, salsa de tomate, sal, pimienta, perejil, cebolla y albahaca.\n3. Agregar la hamburguesa molida en trozos pequeños a la olla.\n4. Reducir el fuego y dejar cocinar durante 10 minutos.\n5. Incorporar las verduras, setas, tomates y fideos (o arroz). También se pueden utilizar sobras de pequeñas porciones de verduras del refrigerador.\n6. Añadir agua si es necesario.\n7. Cocinar hasta que los fideos estén tiernos.",
+  "url": null
+}

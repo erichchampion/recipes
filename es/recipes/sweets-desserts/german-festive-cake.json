@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "german-festive-cake",
+  "name": "Pastel Festivo Alemán",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 sobre de mezcla de bizcocho de chocolate suizo",
+    "1 taza de almendras (picadas)",
+    "1 cucharadita de canela",
+    "3 huevos",
+    "1/2 taza de aceite para cocinar",
+    "1 cucharadita de extracto de almendra",
+    "2 tazas de plátanos (firme, picados)",
+    "8 onzas de piña al natural (escurrida)"
+  ],
+  "recipeInstructions": "Precalentar el horno a 350°F. Engrasar un molde para bizcocho tubular de 10 pulgadas.\nCombinar la mezcla de bizcocho, las almendras y la canela en un bol grande.\nBatir ligeramente los huevos; agregar el aceite, el extracto de almendra, los plátanos y la piña.\nIncorporar a los ingredientes secos y mezclar con una cuchara; no batir.\nVerter en el molde. Hornear durante 45-55 minutos o hasta que al insertar un palillo, este salga limpio.\nSi se desea, espolvorear la tarta con azúcar glas.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-stew",
+  "name": "Estofado de Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabético",
+    "plato principal",
+    "dietas especiales"
+  ],
+  "recipeIngredient": [
+    "6 oz de tocino canadiense",
+    "9 tazas de salsa de tomate",
+    "1 1/2 tazas de agua",
+    "12 cucharadas de cebolla, picada",
+    "6 cucharadas de setas, en trozos",
+    "6 cucharadas de aceitunas negras, deshuesadas y picadas",
+    "6 cucharadas de apio, picado",
+    "6 cucharadas de pimiento verde, picado",
+    "6 gotas de orégano seco",
+    "6 gotas de polvo de ajo",
+    "Sal al gusto",
+    "3 tazas de macarrones cocidos"
+  ],
+  "recipeInstructions": "1. Freír el tocino canadiense; escurrir y retirar cualquier grasa.\n2. Calentar la salsa de tomate y el agua hasta que hierva.\n3. Añadir el tocino, las verduras y las especias.\n4. Cocinar hasta que las verduras estén tiernas.\n5. Incorporar los macarrones y recalentar la sopa antes de servir.\nRinde 2 1/2 tazas de sopa.",
+  "url": null
+}

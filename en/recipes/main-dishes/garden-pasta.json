@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "garden-pasta",
+  "name": "Garden Pasta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 small eggplant",
+    "1 small zucchini",
+    "1 small onion",
+    "4 cloves garlic",
+    "2 tomatoes",
+    "handful of broccoli flowerettes",
+    "marsala wine",
+    "red wine",
+    "balsamic vinegar",
+    "marjoram",
+    "sage",
+    "chives",
+    "basil",
+    "parsley"
+  ],
+  "recipeInstructions": "1. Boil water for linguine.\n2. Dice onion and sauté in the wines and vinegar.\n3. Chop garlic and add after 3 minutes.\n4. Add all herbs, vegetables (except tomatoes), and cook down, adding water if necessary. Cook pasta in the meantime.\n5. When cooked to taste, add tomatoes.\n6. Serve over pasta.\nCooking the eggplant in the wine and vinegar gives it a subtle sweetness and a consistency similar to mushrooms.",
+  "url": null
+}

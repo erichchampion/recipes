@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-crockpot",
+  "name": "Chili (Crockpot)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "chili",
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "3 One pound cans kidney beans",
+    "-drained",
+    "2 One pound cans tomatoes",
+    "-cut up",
+    "2 lb Ground beef browned and",
+    "-drained",
+    "2 medium Onions coarsely chopped",
+    "1 cup Diced celery",
+    "1 Glove minced garlic",
+    "4 -6 tablespoons chili powder",
+    "1 t Cumin",
+    "-salt and pepper to taste"
+  ],
+  "recipeInstructions": "1. Put all ingredients in Crockpot in the order listed.\n2. Stir once.\n3. Cover and cook on Low for 10-12 hours or High for 5-6 hours.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "enchiladas",
+  "name": "Enchiladas",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "estadounidense",
+    "étnico",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "2 tazas de ricota",
+    "1 taza de cebolla verde picada",
+    "1 cucharadita de comino",
+    "8 tortillas de maíz",
+    "2 tazas de queso cheddar rallado",
+    "1 huevo",
+    "2 cucharadas de pimientos verdes picados",
+    "1 taza de queso Jack",
+    "10 onzas de salsa de enchilada"
+  ],
+  "recipeInstructions": "1. Mezclar en un bol los seis primeros ingredientes.\n2. Rellenar cada tortilla con la mezcla.\n3. Colocar las tortillas rellenas en un plato para hornear rectangular de vidrio engrasado de 8 x 12 pulgadas.\n4. Verter la salsa de enchilada sobre las tortillas.\n5. Microondas a potencia máxima durante 11 a 13 minutos, girando el plato a mitad de cocción.\n6. Espolvorear uniformemente el queso cheddar encima y cocinar durante 1 a 2 minutos adicionales.",
+  "url": null
+}

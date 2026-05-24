@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "whoopies",
+  "name": "Whoopies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "5 cucharadas de cacao en polvo",
+    "1 taza de azúcar",
+    "1 cucharadita de polvo de hornear",
+    "1 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de sal",
+    "1/2 taza de manteca vegetal",
+    "1 cucharadita de extracto de vainilla",
+    "2 yemas de huevo",
+    "1 taza de leche",
+    "2 claras de huevo",
+    "1/2 taza de manteca vegetal",
+    "1 cucharadita de extracto de vainilla",
+    "1/4 cucharadita de sal",
+    "2 tazas de azúcar glas"
+  ],
+  "recipeInstructions": "1. Mezclar la harina, el cacao en polvo, el polvo de hornear, el bicarbonato de sodio, el azúcar y la sal.\n2. En un bol aparte, batir la manteca vegetal con la vainilla y las yemas de huevo hasta obtener una mezcla cremosa.\n3. Agregar gradualmente la mezcla seca a la mezcla húmeda alternándola con 1 taza de leche.\n4. Colocar porciones de masa en una bandeja para hornear engrasada.\n5. Hornear a 375°F (190°C) durante 12 minutos.\n6. Para el relleno: Batir las claras de huevo hasta que formen picos firmes, luego incorporar la manteca vegetal, la vainilla, la sal y el azúcar glas.",
+  "url": null
+}

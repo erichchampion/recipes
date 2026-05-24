@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-n-swiss-croissants",
+  "name": "Croasánes de jamón y queso suizo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "jamón",
+    "tentempies"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de mantequilla (45 ml)",
+    "750 ml de setas, laminadas",
+    "45 ml de cebolla verde, laminada",
+    "25 ml de harina",
+    "175 ml de leche",
+    "sal",
+    "pimienta",
+    "4 croissants grandes, cortados por la mitad",
+    "8 rebanadas de jamón",
+    "170 g de queso suizo, laminado"
+  ],
+  "recipeInstructions": "1. Derretir la mantequilla en una sartén.\n2. Saltear las setas y cebollas hasta que estén tiernas y se haya evaporado el líquido de las setas.\n3. Incorporar la harina. Añadir gradualmente la leche. Cocinar y remover a fuego medio hasta que la mezcla hierva y espese. Sazonar con sal y pimienta al gusto.\n4. En la mitad inferior de cada croissant, colocar 2 rebanadas de jamón, un cuarto del queso y un cuarto de la salsa de setas.\n5. Cubrir con la parte superior del croissant.\n6. Hornear en horno precalentado a 350°F (180°C) durante unos 15 minutos o hasta que se calienten por completo.",
+  "url": null
+}

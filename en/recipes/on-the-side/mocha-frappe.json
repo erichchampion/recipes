@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "mocha-frappe",
+  "name": "Mocha Frappe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "4 scoops frozen chocolate yogurt",
+    "1/4 cup coffee",
+    "Chocolate syrup, to taste"
+  ],
+  "recipeInstructions": "1. Combine the frozen chocolate yogurt, coffee, and chocolate syrup in a blender.\n2. Blend until smooth.\n3. Pour into glasses and serve.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-bread-5",
+  "name": "French Bread",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "french",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "Regular loaf",
+    "3/4 cup water",
+    "2 cups white bread flour",
+    "1 tablespoon sugar",
+    "1 teaspoon salt",
+    "1 1/2 teaspoons active dry yeast"
+  ],
+  "recipeInstructions": "1. It's best with an extra knead, which my machine doesn't have, so I turn it off after the first knead and restart it again.",
+  "url": null
+}

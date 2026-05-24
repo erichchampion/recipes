@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "roman-punch",
+  "name": "Rompope",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "batido",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 litro de sorbete de limón",
+    "1 taza de ron de buena calidad",
+    "1 copa de champán frío (dividido)"
+  ],
+  "recipeInstructions": "1. Verter el sorbete de limón en un bol frío.\n2. Mezclar lentamente el ron.\n3. Añadir rápidamente el champán frío y servir en copas para sorbete.\n4. El ponche debe tener una textura cremosa, no espesa, para beberlo cómodamente.",
+  "url": null
+}

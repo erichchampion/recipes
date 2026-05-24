@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "missing-egg-sandwich",
+  "name": "Sándwich sin huevo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "sándwiches",
+    "dietas especiales",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de tofu firme, machacado",
+    "1 cebolla verde, finamente picada",
+    "2 cucharadas mayonesa vegana",
+    "1 cucharada gelatina de pepinillos",
+    "1 cucharadita mostaza",
+    "1/4 cucharadita cúrcuma en polvo",
+    "1/4 cucharadita comino molido",
+    "1/4 cucharadita polvo de ajo",
+    "Una pizca de sal"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar el tofu machacado con la cebolla verde picada.\n2. Agregar al bol la mayonesa vegana, la gelatina de pepinillos, la mostaza, el cúrcuma en polvo, el comino molido, el polvo de ajo y la sal.\n3. Mezclar bien hasta que todos los ingredientes estén completamente integrados.\n4. Servir sobre pan integral con tomate y lechuga.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "redfish-mousquetaire",
+  "name": "Redfish Mousquetaire",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "fish",
+    "main dish",
+    "meat",
+    "mp",
+    "seafood",
+    "wines"
+  ],
+  "recipeIngredient": [
+    "2 cups Water",
+    "1 cup White Wine",
+    "2 Halves Lemons",
+    "4 Black Peppercorns",
+    "1 Medium Onion, Chopped",
+    "Salt (to Taste)",
+    "Pepper (to Taste)",
+    "4 Redfish Fillets"
+  ],
+  "recipeInstructions": "1. Place water and white wine in a large saucepan.\n2. Add lemon halves, peppercorns, onion, salt, and pepper to the pan.\n3. Bring mixture to a simmer over medium heat.\n4. Gently add redfish fillets to the saucepan.\n5. Cook until fish is tender, about 10-15 minutes.\n6. Remove from heat and serve with additional lemon wedges if desired.",
+  "url": null
+}

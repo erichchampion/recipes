@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "corn-pasta",
+  "name": "Pasta de Maíz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 taza de pasta de maíz",
+    "2 tazas de agua",
+    "sal",
+    "1-2 tazas de tomates Roma picados",
+    "alecre fresco",
+    "perejil fresco",
+    "cebolleta o cebolla verde, picada",
+    "6-12 setas picadas"
+  ],
+  "recipeInstructions": "1. Cocinar 1-2 tazas de pasta de maíz en el microondas según las instrucciones del paquete.\n2. Añadir 2 tazas de agua a la pasta cocida y remover hasta que esté bien mezclada.\n3. Sazonar con sal.\n4. Incorporar 1-2 tazas de tomates Roma picados.\n5. Agregar orégano, perejil, cebolleta o cebolla verde.\n6. Mezclar 6-12 setas picadas.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "steak-and-cheese",
+  "name": "Steak y Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "queso",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "2 lb de solomillo de res",
+    "1/4 taza de harina",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "1/4 cucharadita de sal de ajo o apio",
+    "6 cucharadas de mantequilla",
+    "1 cebolla grande, finamente picada",
+    "1 taza de caldo de res",
+    "1 taza de queso cheddar fuerte rallado",
+    "2 cucharadas de perejil finamente picado"
+  ],
+  "recipeInstructions": "1. Cortar el solomillo en rebanadas finas.\n2. Golpear el solomillo para lograr un grosor de aproximadamente 0,6 cm.\n3. Mezclar la harina con la sal, pimienta y sal de ajo o apio en un plato poco profundo.\n4. Cubrir ambos lados del solomillo con la mezcla de harina sazonada.\n5. Dejar reposar el solomillo durante 5 minutos antes de cortarlo en porciones para servir (8-10).\n6. Calentar la mantequilla en una sartén grande y pesada a fuego moderado.\n7. Dorar el solomillo por ambos lados hasta que adquiera un color dorado.\n8. Espolvorear uniformemente la cebolla picada sobre el solomillo.\n9. Añadir el caldo de res y llevar a ebullición.\n10. Cubrir la sartén y reducir el fuego. Cocinar durante 1 hora o hasta que el solomillo esté tierno.\n11. Espolvorear queso cheddar rallado y perejil picado sobre la parte superior del solomillo.\n12. Cubrir de nuevo y cocinar durante un minuto más para que se derrita el queso.\n13. Servir caliente con arroz esponjoso.",
+  "url": null
+}

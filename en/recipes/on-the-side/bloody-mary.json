@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "bloody-mary",
+  "name": "Bloody Mary",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 fluid ounces vodka",
+    "3 fluid ounces tomato juice",
+    "1/2 fluid ounce lemon juice",
+    "1/2 teaspoon Worcestershire sauce",
+    "1 dash Tabasco sauce, or to taste",
+    "1 pinch celery salt, or to taste",
+    "1 pinch salt",
+    "1 pinch pepper",
+    "1 stalk celery",
+    "1 lime wedge"
+  ],
+  "recipeInstructions": "1. Combine the vodka, tomato juice, lemon juice, Worcestershire sauce, Tabasco sauce, celery salt, salt, and pepper in a mixing glass.\n2. Fill the mixing glass with cracked ice.\n3. Shake well until chilled.\n4. Strain into a highball or collins glass filled with ice cubes.\n5. Garnish with a celery stalk and lime wedge.",
+  "url": null
+}

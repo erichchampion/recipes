@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "vanilla-sauce",
+  "name": "Salsa de vainilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "postres",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de azúcar",
+    "Una pizca de sal",
+    "1 cucharada de maicena",
+    "1 taza de agua o jugo de manzana",
+    "2 cucharadas de mantequilla",
+    "1 cucharadita de extracto de vainilla",
+    "Una pizca de nuez moscada"
+  ],
+  "recipeInstructions": "1. Mezcla el azúcar, la sal y la maicena en un bol.\n2. Añade lentamente el agua (o jugo de manzana) a los ingredientes secos, removiendo constantemente hasta que se disipen todos los grumos.\n3. Vierte la mezcla en una cacerola a fuego medio.\n4. Cocina, removiendo continuamente, hasta que espese y quede clara.\n5. Agrega la mantequilla, el extracto de vainilla y la nuez moscada. Remueve hasta que esté bien combinado.\n6. Sirve caliente.",
+  "url": null
+}

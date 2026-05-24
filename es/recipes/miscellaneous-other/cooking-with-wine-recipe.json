@@ -1,0 +1,17 @@
+{
+  "@type": "Recipe",
+  "identifier": "cooking-with-wine-recipe",
+  "name": "Cocina con Vino y Receta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "sugerencias",
+    "varios"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de jerez seco",
+    "1/2 taza de vino fortificado (como Madeira, Marsala o Oporto)"
+  ],
+  "recipeInstructions": "1. Utiliza un chorrito de vino fortificado para dar sabor a cualquier plato.\n2. Los vinos fortificados conservan su sabor durante hasta dos meses o más.\n3. El jerez es el más común, pero también funcionan bien la Madeira, Marsala y el Oporto.",
+  "url": null
+}

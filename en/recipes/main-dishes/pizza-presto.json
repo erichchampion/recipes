@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-presto",
+  "name": "Pizza Presto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cheese",
+    "main dish",
+    "meats",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 large Or 4 sm Boboli shells",
+    "1 tbsp Margarine or butter",
+    "1 medium Yellow onion, sliced",
+    "1 large Green pepper, cut in strips",
+    "1/4 lb Pepperoni, sliced",
+    "1/4 lb Ground meat, cooked",
+    "2 oz Black olives, pit, slice",
+    "1 1/2 tsp Oregano",
+    "Black pepper to taste",
+    "1 oz Cheddar cheese, grated",
+    "1 oz Mozzarella cheese, cut thin strips"
+  ],
+  "recipeInstructions": "1. Preheat oven to 450°F.\n2. Saute onion until tender.\n3. Add green pepper and pepperoni, stirring frequently for several minutes.\n4. Remove from heat and add black olives and cooked beef.\n5. Mix the combination together with oregano and pepper.\n6. Spread on Boboli shells.\n7. Sprinkle grated cheese and mozzarella over top.\n8. Heat for 6 to 8 minutes.\n9. Serve piping hot.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-be-cued-chicken-perdue",
+  "name": "Beer-be-Cued Chicken-Perdue",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "marinades",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1 Perdue chicken, halved",
+    "1 can beer",
+    "1 tablespoon dark molasses",
+    "1 tablespoon onion juice",
+    "2 tablespoons lemon juice",
+    "1/2 cup ketchup",
+    "1 teaspoon salt"
+  ],
+  "recipeInstructions": "1. Make sauce by combining the beer, dark molasses, onion juice, lemon juice, ketchup, and salt in a bowl.\n2. Marinate the chicken in the sauce overnight.\n3. Cook on an outdoor grill for approximately 1 hour or until done, turning and basting with the sauce every 10-15 minutes.",
+  "url": null
+}

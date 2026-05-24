@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-blueberry-pie",
+  "name": "Apple Blueberry Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "apples",
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "3/4 cup Sugar",
+    "3 tbsp Cornstarch",
+    "1/2 tsp Salt",
+    "5 cups Apples; peeled and sliced",
+    "1 cup Blueberries; fresh if possible",
+    "1 tbsp Lemon juice",
+    "2 tbsp Margarine",
+    "1 Pie shell; unbaked, double crust"
+  ],
+  "recipeInstructions": "1. In a large bowl, stir together sugar, cornstarch, and salt.\n2. Add apples, blueberries, and lemon juice; toss to coat the fruit.\n3. Turn into an un-baked 9-inch pie plate lined with pastry.\n4. Dot with margarine.\n5. Add top crust and seal and flute the edge.\n6. Bake in a 425°F oven until the crust is browned and the filling is bubbly.",
+  "url": null
+}

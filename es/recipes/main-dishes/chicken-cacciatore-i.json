@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-cacciatore-i",
+  "name": "Pollo Cacciatore I",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "250 ml de vinagre de vino",
+    "250 ml de aceite de oliva",
+    "250 ml de vino blanco seco",
+    "3 dientes de ajo, machacados",
+    "5 ml de azúcar",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una sartén grande apta para horno.\n2. Limpiar y cortar el pollo, dejando la piel. Añadir a la sartén.\n3. Precalentar el horno a 175 °C.\n4. Agregar el vinagre y llevar a ebullición. Cubrir parcialmente y reducir el fuego.\n5. Incorporar el vino y el azúcar, devolver a ebullición, bajar el fuego y cubrir parcialmente.\n6. Hornear a 175 °C durante 15-20 minutos o hasta que esté dorado.",
+  "url": null
+}

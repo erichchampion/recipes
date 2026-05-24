@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "chipotle-chutney",
+  "name": "Chutney de Chipotle",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimento",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "3 pimientos poblano asados y picados",
+    "1 manzana Granny Smith sin pelar, picada",
+    "1/2 taza de vinagre de jerez",
+    "1/2 taza de azúcar moreno claro",
+    "1/4 taza de azúcar granulada",
+    "1 chile chipotle enlatado, sin semillas y picado",
+    "1 cucharadita de ajo picado"
+  ],
+  "recipeInstructions": "1. Asar los pimientos poblano en una parrilla o bajo el grill hasta que estén carbonizados.\n2. Dejar enfriar los pimientos antes de retirar la piel, las semillas y picarlos.\n3. En una cacerola, mezclar los pimientos poblanos con los demás ingredientes.\n4. Cocinar a fuego medio-bajo durante unos 25 minutos, removiendo ocasionalmente, hasta que la manzana esté tierna y se haya evaporado la mayor parte del líquido.",
+  "url": null
+}

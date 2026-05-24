@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-fondue-2-2",
+  "name": "Fondue de Queso #2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "platos secundarios",
+    "queso",
+    "fondue",
+    "aperitivos",
+    "queso/huevos"
+  ],
+  "recipeIngredient": [
+    "1 taza de agua",
+    "2 tazas de vino blanco seco, como Sauterne",
+    "1 cucharadita de sal de mesa",
+    "1 cucharada de mantequilla"
+  ],
+  "recipeInstructions": "1. Coloca la mantequilla en la parte superior de un termostato y enciéndelo directamente sobre el quemador.\n2. Lleva a ebullición.\n3. Coloca la sartén en la base del termostato.\n4. Añade 4 tazas de queso suizo americano.\n5. Incorpora 3 cucharadas de almidón de maíz, suavizado con agua.\n6. Revuelve hasta que el queso se derrita.\n7. Vierte en un recipiente para fondue.",
+  "url": null
+}

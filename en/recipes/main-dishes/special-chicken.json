@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "special-chicken",
+  "name": "Special Chicken",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "poultry",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "1 each chicken, skinned and cut up",
+    "8 ounces apricot preserves (low sugar)",
+    "8 ounces French dressing (low-fat)",
+    "1 package dry onion soup mix"
+  ],
+  "recipeInstructions": "1. Place the chicken in the cooker.\n2. Mix the rest of the ingredients together well.\n3. Pour the mixture over the chicken.\n4. Cover and cook on low for 7-9 hours.",
+  "url": null
+}

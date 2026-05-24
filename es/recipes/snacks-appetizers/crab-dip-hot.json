@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "crab-dip-hot",
+  "name": "Dip de Cangrejo, Caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempié"
+  ],
+  "recipeIngredient": [
+    "24 onzas de queso crema",
+    "3 latas de carne de cangrejo, escurrida",
+    "1/2 cucharadita de sal de ajo",
+    "1/2 taza de mayonesa Hellman's",
+    "2 cucharaditas de mostaza",
+    "1/4 taza de jerez seco",
+    "2 cucharaditas de azúcar en polvo",
+    "1 cucharadita de jugo de cebolla",
+    "1/2 cucharadita de sal sazonada"
+  ],
+  "recipeInstructions": "1. Derretir el queso crema al baño María.\n2. Incorporar los ingredientes restantes al queso crema derretido y mezclar bien.\n3. Colocar la mezcla en un servicio para fondue.\n4. El dip se puede congelar y recalentar más tarde.",
+  "url": null
+}

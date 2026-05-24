@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-stir-fry",
+  "name": "Chicken Stir Fry",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "4 boneless, skinless chicken breasts",
+    "2 large carrots, sliced into thin wheels",
+    "2 green peppers, diced",
+    "1 red pepper, diced (optional)",
+    "2 tablespoons vegetable oil",
+    "1 1/2 cups chicken stock",
+    "2 tablespoons low sodium soy sauce",
+    "2 tablespoons cornstarch",
+    "2 tablespoons hot water"
+  ],
+  "recipeInstructions": "1. Cut the semifrozen chicken into bite-sized pieces and set aside.\n2. Heat a pan with oil over medium-high heat.\n3. Stir-fry the chicken until browned on all sides (about 3 minutes).\n4. Add carrots, peppers, and any optional vegetables to the pan and sprinkle with soy sauce.\n5. Stir-fry the vegetables until softened (approximately 3-5 minutes).\n6. Mix cornstarch with hot water in a separate bowl.\n7. Pour the mixture into the hot chicken stock in the pan.\n8. Cover and steam the stir-fried vegetables and chicken for about 2-3 minutes.\n9. Lift the cover and cook, stirring until the sauce thickens (about 2 more minutes).\n10. Top with desired toppings such as nuts or coconut.\n11. Serve over hot cooked rice.",
+  "url": null
+}

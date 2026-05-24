@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "jello-salad",
+  "name": "Ensalada de Gelatina",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "gelatina",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 caja grande de mezcla instantánea de gelatina, cualquier sabor",
+    "1 recipiente grande de queso cottage",
+    "8 onzas (225 g) de queso crema ablandado",
+    "1 lata grande de piña enlatada, escurrida",
+    "1/4 taza de azúcar"
+  ],
+  "recipeInstructions": "1. Coloca la mezcla seca de gelatina en un bol y mézclala con la piña y el queso cottage.\n2. Incorpora el queso crema a la mezcla.\n3. Añade crema batida y azúcar, mezclando hasta que esté bien integrado.\n4. Refrigera hasta que se asiente.",
+  "url": null
+}

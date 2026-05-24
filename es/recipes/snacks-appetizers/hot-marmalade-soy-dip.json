@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-marmalade-soy-dip",
+  "name": "Dip de soja con mermelada caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "salsas",
+    "aderezos",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1/3 taza de mermelada de naranja",
+    "1/4 taza de jugo de limón",
+    "1/4 taza de salsa de soja",
+    "1 diente de ajo, finamente picado",
+    "Una pizca de jengibre",
+    "1 cucharadita de almidón de maíz",
+    "1 cucharada de agua fría"
+  ],
+  "recipeInstructions": "1. Mezclar la mermelada, el jugo de limón, la salsa de soja, el ajo y el jengibre en un bol.\n2. Calentar la mezcla hasta que hierva.\n3. Disolver el almidón de maíz en el agua fría.\n4. Añadir lentamente la solución de almidón de maíz a la salsa caliente, removiendo constantemente.\n5. Cocinar hasta espesar.\n6. Servir caliente.",
+  "url": null
+}

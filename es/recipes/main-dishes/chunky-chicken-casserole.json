@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chunky-chicken-casserole",
+  "name": "Estofado de Pollo Casero",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "pollo",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo cocidas y cortadas en trozos",
+    "2 latas de guisantes verdes",
+    "1 lata de chicharros de agua",
+    "2 latas de sopa de pollo",
+    "1 taza de mayonesa",
+    "2 cucharadas de jugo de limón",
+    "Queso Cheddar rallado"
+  ],
+  "recipeInstructions": "1. Mezcla la sopa, la mayonesa y el jugo de limón.\n2. En un molde para hornear de 30x40 cm, alterna capas de guisantes verdes, trozos de pollo, chicharros de agua, mezcla de sopa y queso rallado.\n3. Hornea a 180 °C durante 45 minutos a 1 hora hasta que la mezcla esté burbujeante.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "hominy-casserole",
+  "name": "Cazuela de Hominy",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "cereales",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 cebolla mediana picada",
+    "1 diente de ajo picado",
+    "1 cucharada de aceite de cocina",
+    "1 taza (8 onzas) de crema agria",
+    "3/4 taza de queso cheddar rallado, dividido",
+    "1/4 taza de leche",
+    "1 lata (4 onzas) de chiles verdes picados",
+    "1/4 cucharadita de comino en polvo",
+    "3 latas (15 onzas cada una) de hominy dorado, escurridas"
+  ],
+  "recipeInstructions": "1. En una sartén pequeña, cocine la cebolla y el ajo en aceite hasta que estén tiernos.\n2. Retire del fuego.\n3. En un bol, combine la mezcla de cebolla, crema agria, la mitad del queso, leche, chiles y comino.\n4. Agregue el hominy y mezcle bien.\n5. Vierta en un plato para hornear engrasado de 2 cuartos.\n6. Hornee al descubierto a 175 °C durante 30 minutos o hasta que se caliente por completo.\n7. Espolvoree con el queso restante.\n8. Sirva inmediatamente.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "super-good-spareribs",
+  "name": "Costillas de cerdo super buenas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecua",
+    "plato principal",
+    "carne",
+    "cerdo",
+    "costillas"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar moreno",
+    "2 cucharadas de almidón de maíz",
+    "1/2 cucharadita de polvo de ajo",
+    "1 taza de agua",
+    "3 cucharadas de salsa de soja"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una sartén y calentar hasta que hierva, removiendo hasta que espese.\n2. Colocar las costillitas en una asadera con 1 taza de agua, cubrir y hornear a 350°F durante 1 hora o hasta que estén tiernas.\n3. Verter la salsa sobre las costillitas y hornear durante otros 20 minutos, pincelando frecuentemente.",
+  "url": null
+}

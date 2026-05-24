@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cafe-chicken",
+  "name": "Cafe Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "2 Each Chickens, about 2-1/2 pounds",
+    "Cut into eighths",
+    "1 Onion, chopped",
+    "2 Garlic cloves, chopped",
+    "Salt and white pepper to taste",
+    "1 Green pepper, diced",
+    "1 Medium ripe tomato, peeled, seeded and chopped",
+    "1 cup Dry white wine",
+    "Pinch of cayenne pepper"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a slow cooker.\n2. Cover the pot and set at Low.\n3. Cook for 6 to 8 hours, or until chicken is tender.\nYIELD: Serves 6 to 8",
+  "url": null
+}

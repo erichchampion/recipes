@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "coffee-cake-with-yeast",
+  "name": "Pastel de café con levadura",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "pastel",
+    "pasteles",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de leche (escaldada y enfriada)",
+    "3/4 taza de manteca",
+    "1 taza de azúcar",
+    "1 1/2 tazas de agua caliente",
+    "1 cucharadita de sal",
+    "2 sobre de levadura seca",
+    "1/2 taza de agua tibia",
+    "9 tazas de harina (aproximadamente)"
+  ],
+  "recipeInstructions": "1. Dejar levar la masa hasta que doble su tamaño.\n2. Desinflar la masa y extenderla en moldes enmantequillados.\n3. Untar la parte superior con mantequilla derretida.\n4. Espolvorear azúcar y canela sobre los pasteles.\n5. Hornear a 175 °C durante 15-20 minutos o hasta que estén listos.",
+  "url": null
+}

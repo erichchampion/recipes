@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-ice-cream-1",
+  "name": "Helado de chocolate #1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helado",
+    "helados y sorbetes"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "5 tazas de leche evaporada",
+    "1 1/2 cucharaditas de vainilla",
+    "1/4 cucharadita de sal",
+    "2 cuadrados de chocolate"
+  ],
+  "recipeInstructions": "1. Calentar la leche hasta que forme pequeñas burbujas en la superficie.\n2. Disolver el azúcar en 2 tazas de la leche caliente.\n3. Verter lentamente la mezcla de azúcar y leche sobre el chocolate derretido, removiendo constantemente para evitar manchas oscuras.\n4. Añadir las 3 tazas restantes de leche.\n5. Incorporar la vainilla y la sal.\n6. Batir la mezcla en una heladera hasta alcanzar la consistencia deseada.\n7. Rinde aproximadamente 2 litros.",
+  "url": null
+}

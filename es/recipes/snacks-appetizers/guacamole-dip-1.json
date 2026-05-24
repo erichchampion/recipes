@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "guacamole-dip-1",
+  "name": "Dip de guacamole #1",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "salsas",
+    "mexicano",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 aguacate, pelado y sin hueso",
+    "1 cucharada de jugo de limón",
+    "2 cucharadas de chiles verdes picados (enlatados)",
+    "1/2 taza de tomate picado",
+    "2 cucharadas de mayonesa",
+    "1 cucharadita de sal",
+    "1/8 cucharadita de polvo de ajo",
+    "4 gotas de salsa picante"
+  ],
+  "recipeInstructions": "Artichokes cocidos, fríos (opcional)\n1. Triturar el aguacate con jugo de limón en una licuadora.\n2. En un bol pequeño, mezclar la mezcla de aguacate con chiles verdes, tomate, mayonesa, sal, polvo de ajo y salsa picante.\n3. Tapar y refrigerar durante 1 hora.\n4. Servir con artichokes fríos, si se desea.",
+  "url": null
+}

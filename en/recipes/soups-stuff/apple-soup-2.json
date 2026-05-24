@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-soup-2",
+  "name": "Apple Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "16 Apples, cored and chopped",
+    "1/4 cup Maple syrup",
+    "5 cups Water",
+    "1 tablespoon Arrowroot",
+    "1/2 teaspoon Lemon peel, grated",
+    "1 tablespoon Lemon juice",
+    "1 inch Cinnamon, wrapped in Cheese cloth",
+    "1/4 cup White wine",
+    "1/2 cup Sour cream"
+  ],
+  "recipeInstructions": "1. Simmer apples, water, lemon peel, cinnamon, and maple syrup until apples are tender, about 20 minutes; remove cinnamon.\n2. Puree soup in blender.\n3. Return to saucepan.\n4. Remove about a cup of liquid and combine it with arrowroot. When thickened, return to soup.\n5. Stir in lemon juice, white wine. Heat through.\n6. Serve with a spoonful of sour cream on each bowl.",
+  "url": null
+}

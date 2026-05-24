@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecue-sauce-1",
+  "name": "Salsa Barbacoa 1",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "cajún",
+    "salsas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "3 tazas de cebolla picada",
+    "1/4 taza de miel",
+    "2 cucharadas de ajo picado",
+    "2 cucharaditas de zumo de limón",
+    "1 taza de pimiento dulce picado",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de menta seca",
+    "3 cucharadas de salsa Lea & Perrins",
+    "1/2 cucharadita de salsa picante Louisiana",
+    "1 taza de vinagre"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en un cazo lo suficientemente grande para contenerlos.\n2. Lleva la mezcla a ebullición.\n3. Reduce el fuego a bajo y cocina, tapado, durante varias horas hasta que espese.",
+  "url": null
+}

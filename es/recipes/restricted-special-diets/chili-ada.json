@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-ada",
+  "name": "Chili-Ada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "familiar",
+    "plato principal",
+    "dietas especiales"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1 lata de tomates pelados (pequeña)",
+    "1/2 cucharadita de polvo de chile",
+    "1 cebolla grande, picada",
+    "2 pimientos verdes, picados",
+    "2 tallos de apio, cortados",
+    "1/2 lata de frijoles rojos (pequeña)",
+    "Sal y pimienta al gusto",
+    "1/2 cucharadita de salsa de soja (opcional)"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida en una sartén.\n2. Escurrir el exceso de grasa de la carne.\n3. Añadir al sartén los ingredientes restantes excepto los frijoles rojos.\n4. Reducir el fuego y cocinar a fuego lento hasta que todo esté bien mezclado.\n5. Opcionalmente, cocinar a fuego lento durante 30 minutos o menos si se prefiere.\n6. Incorporar los frijoles rojos y cocinar hasta que estén calientes.\n7. Servir en cuencos o sobre arroz.",
+  "url": null
+}

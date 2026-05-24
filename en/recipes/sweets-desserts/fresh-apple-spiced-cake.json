@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "fresh-apple-spiced-cake",
+  "name": "Fresh Apple Spiced Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "2 cups Apples (peeled and chopped)",
+    "1 cup Sugar",
+    "1/2 cup Salad Oil",
+    "1 Egg",
+    "1 3/4 cups Flour",
+    "1 tsp Soda",
+    "1 tsp Baking Powder",
+    "1/2 tsp Cinnamon",
+    "1/4 tsp Allspice",
+    "1/4 tsp Salt",
+    "1 cup Nuts (chopped)"
+  ],
+  "recipeInstructions": "1. Pour sugar over apples and let stand for 20 minutes.\n2. Add salad oil and egg to the mixture and stir well.\n3. Sift flour and spices into the apple mixture, then add nuts.\n4. Bake in a loaf or tube pan at 350°F for one hour.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-calzone",
+  "name": "Taco Calzone",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "3 oz de masa de pizza",
+    "1 oz de mezcla de quesos Chef-Mate Monterey Jack y Cheddar",
+    "(salsa para untar, sin calentar)",
+    "2 oz de relleno de carne para tacos",
+    "(salsa para tacos Que Bueno [etiqueta de la receta])",
+    "1/4 oz de aceitunas maduras, deshuesadas y cortadas",
+    "1 1/2 cucharaditas de cebolla verde, cortada"
+  ],
+  "recipeInstructions": "1. Estirar la masa de pizza para que cubra una bandeja para pizza ligeramente engrasada de 7 pulgadas.\n2. Extender la salsa de queso uniformemente a lo largo del borde de la masa, dejando un espacio de 1/2 pulgada desde el borde.\n3. Colocar el relleno de carne para tacos a lo largo de la mitad de la masa. Adornar con aceitunas y cebolla verde. Doblar la masa por la mitad y sellar los bordes firmemente.\n4. Pinchar la parte superior del calzone generosamente con un tenedor. Hornear en un horno de convección precalentado a 375°F durante 8-10 minutos, o hasta que la corteza sea dorada. Servir.\nRinde 1 pequeño calzone.",
+  "url": null
+}

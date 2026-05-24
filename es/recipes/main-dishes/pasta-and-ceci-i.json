@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-and-ceci-i",
+  "name": "Pasta y garbanzos I",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "frijoles",
+    "italiano",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "2 latas pequeñas de garbanzos",
+    "2 latas grandes de tomates triturados",
+    "4 dientes de ajo",
+    "2 cucharadas de albahaca o orégano",
+    "1 lb (aprox. 450 g) de Ditalini",
+    "1 taza de agua",
+    "2 cucharadas de aceite de oliva"
+  ],
+  "recipeInstructions": "1. En una sartén, saltea el ajo en aceite de oliva.\n2. Añade los tomates triturados, el agua, los garbanzos y las hierbas.\n3. Deja cocinar a fuego lento durante 1 hora.\n4. Cocina la pasta Ditalini al dente.\n5. Agrega la pasta cocida a la salsa.",
+  "url": null
+}

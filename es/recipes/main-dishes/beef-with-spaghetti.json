@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-with-spaghetti",
+  "name": "Carne de res con espagueti",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1,5 kg de carne para estofar cortada en trozos de 2,5 cm",
+    "1/4 taza de cebolla picada",
+    "2 cucharadas de caldo instantáneo de res",
+    "1/2 cucharadita de polvo de cebolla",
+    "1/2 taza de vino tinto seco",
+    "200 g de espagueti crudo",
+    "Salsa de ajo y tomate:",
+    "1 diente de ajo cortado por la mitad",
+    "1 cucharada de aceite de oliva",
+    "1 lata de tomates enteros (400 g)",
+    "1/4 taza de cebolla picada",
+    "1 cucharada de mantequilla o margarina",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de azúcar",
+    "1/4 cucharadita de hojas de albahaca seca",
+    "1/4 cucharadita de romero seco (opcional)",
+    "Pimienta al gusto"
+  ],
+  "recipeInstructions": "Preparar la salsa de ajo y tomate (ver receta abajo). Mezclar la carne, la cebolla, el caldo, el polvo de cebolla, el vino y la salsa en una olla holandesa. Tapar y cocinar en un horno precalentado a 175 °C, removiendo ocasionalmente, hasta que la carne esté tierna (2,5-3 horas). Añadir agua o vino durante la cocción si es necesario. Cocinar el espagueti según las instrucciones del paquete. Servir la mezcla de carne sobre el espagueti.\nSalsa de ajo y tomate:\nCocinar el ajo en el aceite a fuego bajo hasta que esté dorado; retirar. Incorporar los tomates (con su jugo) y el resto de los ingredientes; desmenuzar los tomates con un tenedor. Llevar a ebullición; reducir el fuego. Cocinar a fuego lento sin tapar, removiendo frecuentemente, hasta que la salsa espese (40-50 minutos).",
+  "url": null
+}

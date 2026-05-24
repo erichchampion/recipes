@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-curry",
+  "name": "Curry rápido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "salsas",
+    "mariscos",
+    "camarones"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de mantequilla",
+    "3 tazas de gambas cocidas",
+    "2 cucharaditas de sal",
+    "1 taza de trozos de piña",
+    "2 cucharaditas de polvo de curry",
+    "1/2 cucharadita de eneldo seco",
+    "1/4 taza de harina",
+    "2 tazas de leche",
+    "Arroz (cantidad al gusto)"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una sartén a fuego medio.\n2. Retira la sartén del fuego y mezcla la harina, el polvo de curry, el eneldo y la sal.\n3. Añade la leche poco a poco mientras revuelves para evitar grumos.\n4. Cocina, revolviendo constantemente, hasta que la mezcla espese y hierva.\n5. Vierte lentamente el resto de la leche, removiendo continuamente hasta que se integre bien.\n6. Agrega las gambas (o almejas o pollo) y los trozos de piña.\n7. Cocina unos minutos hasta que todo esté caliente.\n8. Sirve sobre arroz. Se puede acompañar con condimentos como cacahuetes picados, coco rallado y chutney.",
+  "url": null
+}

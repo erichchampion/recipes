@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegan-almond-cheesecake",
+  "name": "Tarta de almendras vegana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pastel",
+    "postres",
+    "tofu",
+    "vegano",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 base de galleta Graham de 23 cm, sin hornear",
+    "400 g de tofu",
+    "1/2 taza de azúcar moreno",
+    "1/2 taza de harina de almendras",
+    "1/4 taza de miel o sirope",
+    "1/4 taza de aceite",
+    "2 cucharadas de zumo de limón",
+    "1 cucharadita de extracto de almendras",
+    "Una pizca de sal",
+    "1/4 taza de almendras laminadas, tostadas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180 °C.\n2. Mezclar todos los ingredientes excepto la base y las almendras laminadas en una procesadora de alimentos hasta obtener una textura suave y cremosa.\n3. Verter la mezcla en la base sin hornear.\n4. Cubrir con almendras laminadas.\n5. Hornear durante unos 45 minutos o hasta que se formen grietas en el borde del relleno.",
+  "url": null
+}

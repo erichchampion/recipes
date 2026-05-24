@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "jellybean",
+  "name": "Jalebi",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "bebidas secundarias",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 oz de licor de anís (o sambuca)",
+    "1 oz de brandy de guinda"
+  ],
+  "recipeInstructions": "Verter el licor de anís en un vaso para cóctel. Flotar el brandy de guinda sobre el licor vertiéndolo muy lentamente y utilizando una cucharadita o una cuchara de bar vuelta del revés.",
+  "url": null
+}

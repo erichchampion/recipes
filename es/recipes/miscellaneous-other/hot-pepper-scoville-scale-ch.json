@@ -1,0 +1,38 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-pepper-scoville-scale-ch",
+  "name": "Escalera de picante Scoville",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "sugerencias",
+    "mexicana",
+    "variada"
+  ],
+  "recipeIngredient": [
+    "Arbol: 15-30 Scovilles",
+    "Ancho: 1-1,5 Scovilles",
+    "Aji Rojo: 30-50 Scovilles",
+    "Cayena: 30-50 Scovilles",
+    "Cereza: 0,1-.5 Scovilles",
+    "Chipotle: 50-100 Scovilles",
+    "De Arbol (variedad): 15-30 Scovilles",
+    "Guajillo: 2,5-5 Scovilles",
+    "Habanero: 100-300 Scovilles",
+    "Red Savina Hab: 350-577 Scovilles",
+    "Nuevo México: 0,5-1 Scovilles",
+    "Tam Jalapeno: 2,5-5 Scovilles",
+    "Pasilla: 1-1,5 Scovilles",
+    "Poblano: 1-1,5 Scovilles",
+    "Pequin: 30-50 Scovilles",
+    "Pepperoncini: 0-.5 Scovilles",
+    "Rocotillo: 1.5-2.5 Scovilles",
+    "Rocoto: 30-50 Scovilles",
+    "Serrano: 5-23 Scovilles",
+    "Tabasco: 30-50 Scovilles",
+    "Thai: 50-100 Scovilles",
+    "Wax Amarillo: 5-15 Scovilles"
+  ],
+  "recipeInstructions": "1. Ancho/Poblano: 1000-1500 Scovilles\n2. Pimiento: 100-600 Scovilles\n3. Cayena: 30.000-50.000 Scovilles\n4. Cereza: 0-3500 Scovilles\n5. Cubano: 0-500 Scovilles\n6. De Arbol: 15.000-30.000 Scovilles\n7. Thai Hot: 30.000-100.000 Scovilles\n8. Jalapeno: 2500-10.000 Scovilles\n9. Mirasol: 2500-5000 Scovilles\n10. Nuevo México: 0,5-1500 Scovilles\n11. Wax de Hungría (dulce): 0 Scovilles; (picante): 5 Scovilles\n12. Pimiento (dulce): 0 Scovilles; (MexiBell): 100-600 Scovilles\n13. Cascabel: 4 Scovilles\n14. Cayena: 30.000-50.000 Scovilles\n15. Cereza: 0-3500 Scovilles\n16. Chiltepin: 8-9 Scovilles\n17. Cubanoelle: 0 Scovilles\n18. Datil: 10 Scovilles\n19. De Arbol (variedad): 7 Scovilles\n20. Floral Gem: 6-7 Scovilles\n21. Fresno: 5-7 Scovilles\n22. Mirasol: 4-5 Scovilles\n23. Habanero: 80.000-150.000+ Scovilles\n24. Jalapeno: 2500-10.000 Scovilles\n25. Nuevo México: 1-4 Scovilles\n26. Pasilla: 3-4 Scovilles\n27. Pepperoncini: 0-1 Scovilles\n28. Pimento (variedad): 0 Scovilles\n29. Poblano (incluye Mulato y Ancho): 3-4 Scovilles\n30. Rocoto: +10 Scovilles\n31. Santa Fe Grand: 6 Scovilles\n32. Scotch bonnet: +10 Scovilles\n33. Serrano: 5-8 Scovilles\n34. Tabasco: 8-9 Scovilles\n35. Tomate: 0 Scovilles",
+  "url": null
+}

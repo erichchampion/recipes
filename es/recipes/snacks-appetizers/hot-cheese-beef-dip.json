@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-cheese-beef-dip",
+  "name": "Dip de queso/carne caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempié"
+  ],
+  "recipeIngredient": [
+    "2 tazas de sopa de queso",
+    "1 lata de tomates y chiles",
+    "1/2 lata de pimientos verdes",
+    "4 oz lata de chiles Ortega, azules",
+    "1/2 lata de salsa - lata amarilla",
+    "1 tomate mediano, picado",
+    "1 taza de carne asada desmenuzada (opcional)",
+    "Chips de maíz"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una olla para fondue.\n2. Calentar a fuego lento hasta que la mezcla esté burbujeante.\n3. Servir con chips de maíz. Si se desea, espesar ligeramente mezclando harina y agua.\n4. La carne asada desmenuzada es opcional.",
+  "url": null
+}

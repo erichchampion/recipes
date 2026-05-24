@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mrs-thomas-casserole",
+  "name": "Casserola de la Sra. Thomas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guiso",
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de carne molida, dorada y escurrida",
+    "1 taza de cebolla picada",
+    "16 onzas de maíz, escurrido",
+    "1 lata de sopa de pollo cremoso",
+    "1 lata de sopa de setas cremoso",
+    "1 1/2 cucharaditas de sal",
+    "1/2 cucharadita de pimienta",
+    "10 onzas de pasta, cocida y escurrida"
+  ],
+  "recipeInstructions": "1. Dorar la carne y las cebollas juntas hasta que la carne esté hecha y las cebollas estén tiernas.\n2. Agregar todos los demás ingredientes a la mezcla de carne.\n3. Mezclar todo bien.\n4. Verter la mezcla en un recipiente para hornear de 2,5 cuartos o en dos recipientes más pequeños.\n5. Hornear a 175 °C durante 30 minutos.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "park-place-punch",
+  "name": "Sorbete de Park Place",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "diabético",
+    "ponche",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de bebida de frambuesa y arándanos",
+    "2 cucharadas de jugo de naranja",
+    "1 cucharadita de jugo de limón",
+    "1 soda de club"
+  ],
+  "recipeInstructions": "1. Verter la bebida de frambuesa y arándanos, el jugo de naranja y el jugo de limón en un vaso alto lleno de hielo.\n2. Cubrir con soda de club.",
+  "url": null
+}

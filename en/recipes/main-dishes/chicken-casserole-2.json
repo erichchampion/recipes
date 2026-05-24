@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-casserole-2",
+  "name": "Chicken Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "4 Chicken Breast, cooked & cubed",
+    "7 oz Macaroni",
+    "16 oz Sour Cream",
+    "2 Cans Cream Of Chicken Soup (no-water)",
+    "Cheddar Cheese - grated",
+    "Monterey Jack Cheese - grated"
+  ],
+  "recipeInstructions": "1. Cook macaroni in chicken broth and drain.\n2. Mix chicken, macaroni, sour cream, and soup.\n3. Pour the mixture into a greased 9x13 pan.\n4. Top with cheeses.\n5. Bake at 300°F for 45 minutes.",
+  "url": null
+}

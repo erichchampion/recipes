@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "oatmeal-fudge",
+  "name": "Oatmeal Fudge",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "candy",
+    "chocolate",
+    "desserts",
+    "fudge"
+  ],
+  "recipeIngredient": [
+    "1 stick butter",
+    "2 cups sugar",
+    "1/2 cup milk",
+    "1/2 cup cocoa",
+    "2 cups oatmeal",
+    "1/2 cup coconut",
+    "1/2 cup pecans",
+    "1 teaspoon vanilla",
+    "1 pinch of salt"
+  ],
+  "recipeInstructions": "1. Melt the butter in a saucepan over medium heat.\n2. Add sugar and milk to the butter, stirring until well combined.\n3. Bring mixture to a boil, then continue boiling for exactly 3 minutes.\n4. Remove from heat and stir in cocoa, oatmeal, coconut, pecans, vanilla, and salt until all ingredients are evenly distributed.\n5. Spoon the mixture onto wax paper and allow it to cool completely before serving.",
+  "url": null
+}

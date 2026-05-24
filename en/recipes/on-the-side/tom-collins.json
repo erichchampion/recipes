@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tom-collins",
+  "name": "Tom Collins",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz Gin",
+    "1 tsp Powdered sugar",
+    "1 tbsp Lemon juice (from half a lemon)",
+    "Club soda",
+    "1 Orange slice",
+    "1 Maraschino cherry"
+  ],
+  "recipeInstructions": "1. In a mixing glass, combine the lemon juice, powdered sugar, and gin.\n2. Cover and shake well to ensure all ingredients are mixed together.\n3. Pour the mixture into a collins glass filled with ice cubes.\n4. Fill the glass with club soda.\n5. Stir gently to combine.\n6. Garnish with lemon slices, an orange slice, and a maraschino cherry.\n7. Serve with a straw.",
+  "url": null
+}

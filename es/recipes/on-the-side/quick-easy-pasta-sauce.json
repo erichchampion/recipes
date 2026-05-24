@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-easy-pasta-sauce",
+  "name": "Salsa de pasta rápida y fácil",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 lata de puré de tomate (28 onzas)",
+    "1 lata de salsa de tomate (16 onzas)",
+    "2 cucharadas de condimento italiano",
+    "2 cucharaditas de pimienta negra",
+    "3 cucharadas de polvo de ajo con perejil"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una cacerola.\n2. Reducir el fuego y cocinar a fuego lento durante 15 minutos, removiendo ocasionalmente.\n3. Servir sobre tu pasta favorita.",
+  "url": null
+}

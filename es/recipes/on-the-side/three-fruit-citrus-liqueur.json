@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "three-fruit-citrus-liqueur",
+  "name": "Licor de tres frutas cítricas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "licores",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 toronja - cáscara",
+    "1 naranja - cáscara",
+    "1 limón - cáscara",
+    "1 quinta de vodka",
+    "1 taza de jarabe de azúcar"
+  ],
+  "recipeInstructions": "1. Retirar la cáscara de la toronja, naranja y limón, teniendo cuidado de evitar la parte blanca amarga.\n2. Colocar las cáscaras en una botella o recipiente limpio lleno de vodka.\n3. Cerrar bien el recipiente y dejar reposar durante dos semanas.\n4. Pasadas las dos semanas, colar la mezcla a través de un paño de queso en otro recipiente limpio.\n5. Añadir el jarabe de azúcar al líquido colado.",
+  "url": null
+}

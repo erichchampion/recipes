@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-spaghetti",
+  "name": "Chili Spaghetti",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "favorites",
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "3/4 lb lean ground beef",
+    "1 small onion",
+    "1 clove garlic",
+    "14 ounces dry spaghetti, cooked",
+    "4 cups tomato sauce",
+    "4 ounces lowfat cheddar cheese, shredded",
+    "1 small pimientos, jar",
+    "1 teaspoon chili powder",
+    "pinch salt",
+    "1/8 teaspoon pepper"
+  ],
+  "recipeInstructions": "1. Cook the meat in a skillet with the onion and garlic until the meat is thoroughly cooked.\n2. Drain any excess fat from the pan well.\n3. Add the remaining ingredients (tomato sauce, spaghetti, pimientos, chili powder, salt, and pepper) to the pan.\n4. Simmer for 10 minutes, stirring occasionally.\n5. Sprinkle the shredded cheddar cheese over the top of the mixture and stir until melted.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "minted-yogurt-sauce",
+  "name": "Salsa de yogur con menta",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "griega",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de yogur natural sin grasa",
+    "1/4 taza de menta fresca picada",
+    "2 dientes de ajo picados",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar el yogur, la menta picada, el ajo, la sal y la pimienta hasta que queden bien integrados.",
+  "url": null
+}

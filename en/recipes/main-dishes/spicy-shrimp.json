@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-shrimp",
+  "name": "Spicy Shrimp",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "seafood",
+    "shrimp"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Shrimp, cleaned",
+    "1 1/2 c Chicken bouillon",
+    "1/2 cup Red vinegar",
+    "1 each Onion, sliced",
+    "2 tbsp Dry mustard",
+    "1 tbsp Hot sauce",
+    "1/2 tsp Thyme"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a saucepan.\n2. Bring to a boil.\n3. Reduce heat and simmer until shrimp turns pink.\n4. Remove from heat and allow to cool.\n5. Transfer to a bowl, chill, then drain off liquids.\n6. Serve with lemon slices and parsley.",
+  "url": null
+}

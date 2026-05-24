@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-bake-oven-cake",
+  "name": "Pastel del horno fácil",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de mezcla para pastel",
+    "1 cucharada de leche"
+  ],
+  "recipeInstructions": "1. Engrasa y enharina el molde.\n2. Mezcla la mezcla para pastel y la leche hasta obtener una consistencia suave.\n3. Vierte la masa en el molde.\n4. Hornea en un horno Easy Bake precalentado durante unos 15 minutos.",
+  "url": null
+}

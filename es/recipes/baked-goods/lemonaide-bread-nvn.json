@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemonaide-bread-nvn",
+  "name": "Pan de Limonada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "2 1/2 cucharaditas levadura seca activa",
+    "1 3/4 tazas harina de pan",
+    "1 1/2 tazas harina integral",
+    "1 1/4 cucharaditas sal",
+    "1 1/2 cucharaditas azúcar",
+    "1 1/2 cucharaditas aceite vegetal",
+    "1/4 taza concentrado de limonada congelada, descongelado",
+    "1 taza agua"
+  ],
+  "recipeInstructions": "1. Introducir todos los ingredientes en la orden recomendada por el fabricante de la máquina panificadora.\n2. Procesar en el ciclo básico de pan.",
+  "url": null
+}

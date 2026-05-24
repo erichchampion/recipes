@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mashed-potato-salad-1",
+  "name": "Ensalada de puré de patatas 1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "patatas",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 taza de mayonesa Miracle Whip",
+    "1 cucharada de mostaza",
+    "1/2 cucharadita de semillas de apio",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimienta",
+    "4 tazas de puré de patatas congeladas en cubos",
+    "2 huevos duros cocidos",
+    "1/2 taza de cebolla picada",
+    "1/2 taza de pepinillos dulces picados"
+  ],
+  "recipeInstructions": "1. Hervir las patatas durante 8 minutos, o hasta que estén cocidas por completo.\n2. En un bol, mezclar la mayonesa, mostaza, semillas de apio, sal y pimienta.\n3. Añadir las patatas hervidas, los huevos duros picados, la cebolla picada y los pepinillos dulces al bol.\n4. Mezclar todos los ingredientes hasta que estén bien combinados.",
+  "url": null
+}

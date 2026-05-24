@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "hershey-cake",
+  "name": "Hershey Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "chocolate",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "10 oz Plain Hershey bars",
+    "0.5 tsp Soda",
+    "1 cup Margarine or butter",
+    "1 cup Buttermilk",
+    "2 cups Sugar",
+    "5.5 oz can Hershey Chocolate",
+    "4 Eggs",
+    "0.5 tsp Vanilla",
+    "2.5 cups Flour",
+    "2.5 cups Chopped nuts",
+    "0.25 tsp Salt"
+  ],
+  "recipeInstructions": "1. Melt the Hershey bars in a double boiler.\n2. Cream the margarine and sugar together.\n3. Add the melted Hershey bars to the creamed mixture, beating well after each addition.\n4. Sift together the flour, salt, and soda.\n5. Gradually add the sifted ingredients alternately with buttermilk.\n6. Incorporate the chocolate syrup, vanilla, and chopped nuts into the batter.\n7. Pour the batter into a greased and floured tube pan.\n8. Bake at 325 degrees Fahrenheit for 1 hour and 30 minutes.",
+  "url": null
+}

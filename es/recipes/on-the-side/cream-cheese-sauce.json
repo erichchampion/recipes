@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cream-cheese-sauce",
+  "name": "Salsa de queso crema",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso/huevos",
+    "salsas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "8 oz de queso crema",
+    "Crema, según sea necesario para diluir",
+    "Sal de apio",
+    "Salsa Tabasco",
+    "Jugo de cebolla o polvo de cebolla",
+    "Salsa Worcestershire"
+  ],
+  "recipeInstructions": "1. Agregar suficiente crema al queso crema hasta alcanzar la espesura deseada.\n2. Sazonar con sal de apio, salsa Tabasco, jugo de cebolla o polvo de cebolla y salsa Worcestershire al gusto.",
+  "url": null
+}

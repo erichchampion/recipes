@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "eggs-benedict-3",
+  "name": "Eggs Benedict",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "eggs",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "4 whole English muffins, toasted",
+    "4 slices ham, cooked",
+    "4 poached eggs",
+    "1/2 cup Hollandaise sauce",
+    "1/4 teaspoon paprika",
+    "6 tablespoons butter"
+  ],
+  "recipeInstructions": "1. Melt 3 tablespoons butter in a pan over medium-high heat. Cook the sliced ham until crispy. Remove from heat and keep warm.\n2. Poach the eggs to desired consistency and drain on tea towels.\n3. Toast the English muffins.\n4. For each serving, spread butter on one half of an English muffin.\n5. Place a slice of ham on the unbuttered half. Top with a poached egg.\n6. Drizzle two tablespoons of Hollandaise sauce over the eggs and ham.\n7. Sprinkle with paprika.",
+  "url": null
+}

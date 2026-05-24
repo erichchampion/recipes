@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "a-boiled-dinner",
+  "name": "Una cena hervida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne de cerdo",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "2-3 libras de costillas de cerdo",
+    "1 1/2 tazas de agua caliente",
+    "1 papa mediana, pelada y cortada por la mitad",
+    "1 1/2 tazas de guisantes verdes enlatados o cocidos, con su líquido",
+    "Sal",
+    "Pimienta"
+  ],
+  "recipeInstructions": "1. Dorar las costillas de cerdo en una sartén sin añadir grasa.\n2. Añadir el agua y dejar cocinar a fuego lento durante 1 hora.\n3. Agregar las papas a la carne y cocinar hasta que estén tiernas (aproximadamente 25 minutos).\n4. Incorporar los guisantes y su líquido durante los últimos 10 minutos de cocción.\n- Si se usan guisantes crudos, añadirlos junto con las papas.\n5. Sazonar con sal y pimienta. Retirar la grasa excesiva antes de servir.\nPara completar la comida:\nServir con una ensalada de lechuga, tomate y apio crujiente, y un betty de manzana con salsa de limón como postre.\nVariación:\nSe pueden usar costillas de res en lugar de costillas de cerdo. Cubrir con agua y cocinar a fuego lento durante aproximadamente 3 horas o hasta que estén tiernas. Omite la sal y continúa según lo indicado anteriormente. Buena con chucrut.",
+  "url": null
+}

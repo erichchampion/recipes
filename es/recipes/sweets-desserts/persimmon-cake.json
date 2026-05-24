@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "persimmon-cake",
+  "name": "Pastel de persimón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de manteca",
+    "1 taza de azúcar",
+    "1 taza de pulpa de persimón",
+    "2 huevos",
+    "1/4 cucharadita de bicarbonato de sodio",
+    "2 tazas de harina tamizada",
+    "3 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Batir la manteca y el azúcar hasta obtener una mezcla cremosa.\n2. Agregar la pulpa de persimón y los huevos batidos a la mezcla.\n3. Tamizar los ingredientes secos (harina, polvo de hornear y sal) y incorporarlos a la mezcla líquida.\n4. Batir bien hasta que todos los ingredientes estén integrados.\n5. Verter la masa en un molde engrasado.\n6. Hornear en horno moderado (325°F a 350°F) durante aproximadamente una hora.",
+  "url": null
+}

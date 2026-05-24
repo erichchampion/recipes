@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "gazpacho",
+  "name": "Gazpacho",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas y estofados"
+  ],
+  "recipeIngredient": [
+    "4 tazas de tomates rojos maduros, picados",
+    "1 taza de pepino, picado",
+    "1 taza de pimientos rojos grandes, picados",
+    "1/2 taza de cebolla, picada",
+    "1 diente de ajo",
+    "1 taza de migas de pan",
+    "1/4 taza de aceite de oliva",
+    "1 cucharada de vinagre balsámico",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta blanca"
+  ],
+  "recipeInstructions": "1. Triturar las verduras en una licuadora o procesador de alimentos.\n2. Pasarlas por un colador para eliminar las semillas.\n3. Triturar las migas de pan con aceite de oliva y vinagre balsámico.\n4. Mezclar esta mezcla con el puré de verduras.\n5. Sazonar con sal y pimienta.\n6. Refrigerar bien antes de servir.",
+  "url": null
+}

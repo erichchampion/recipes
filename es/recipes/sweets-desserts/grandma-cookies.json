@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "grandma-cookies",
+  "name": "Galletas de la Abuela",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "dulces",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de chips de chocolate",
+    "1 taza de chips de butterscotch",
+    "1 taza de mantequilla de maní",
+    "3 tazas de Rice Krispies"
+  ],
+  "recipeInstructions": "1. Derrite los chips de chocolate y butterscotch en una sartén o baño maría.\n2. Agrega la mantequilla de maní y mezcla hasta obtener una textura suave.\n3. Incorpora gradualmente los Rice Krispies, removiendo hasta que queden bien cubiertos.\n4. Extiende la mezcla sobre papel pergamino para formar galletas.\n5. Deja enfriar las galletas completamente en el refrigerador.\n6. Guarda las galletas frías en el refrigerador.",
+  "url": null
+}

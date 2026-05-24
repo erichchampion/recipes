@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "jamaican-hamburgers",
+  "name": "Hamburguesas jamaicanas",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "jamaicano",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de mantequilla",
+    "1 pequeña cebolla, picada",
+    "1/4 cucharadita de pimienta cayena",
+    "1/4 cucharadita de canela",
+    "1/2 libra de carne molida magra",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra",
+    "1/2 cucharadita de polvo de curry",
+    "1/2 cucharadita de tomillo seco",
+    "1/4 taza de pan rallado",
+    "1 huevo batido"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes y formar 2 hamburguesas grandes.\n2. A la parrilla o al horno durante 5-7 minutos por lado.",
+  "url": null
+}

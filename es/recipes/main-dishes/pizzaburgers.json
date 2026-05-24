@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizzaburgers",
+  "name": "Pizzaburgueros",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "bocadillos",
+    "plato principal",
+    "plato principal de carne de hamburguesa"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne de hamburguesa",
+    "12 oz (2 tazas) de salsa de tomate",
+    "6 oz de aceitunas verdes rellenas, picadas",
+    "1 lb de queso mozzarella en cubos",
+    "Sal, pimienta y orégano al gusto"
+  ],
+  "recipeInstructions": "1. Utilice un pequeño tarro de aceitunas verdes rellenas para esta receta.\n2. Sazone con sal, pimienta y orégano al gusto.",
+  "url": null
+}

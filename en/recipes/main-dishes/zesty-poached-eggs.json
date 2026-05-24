@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "zesty-poached-eggs",
+  "name": "Zesty Poached Eggs",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "eggs",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "4 eggs",
+    "2 slices whole wheat bread",
+    "1/4 cup Cheese Whiz",
+    "1/4 cup salsa"
+  ],
+  "recipeInstructions": "1. Poach the eggs.\n2. Toast the bread slices.\n3. Place two poached eggs on each slice of toasted bread.\n4. Top with melted Cheese Whiz and salsa.\n5. Serve immediately.",
+  "url": null
+}

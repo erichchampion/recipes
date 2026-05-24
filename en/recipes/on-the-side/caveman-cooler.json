@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "caveman-cooler",
+  "name": "Caveman Cooler",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 quart cranberry juice",
+    "1 quart ginger ale",
+    "1 cup tropical punch-flavored soft drink",
+    "1 cup orange juice"
+  ],
+  "recipeInstructions": "1. Chill all ingredients.\n2. Combine in a punch bowl just before serving.",
+  "url": null
+}

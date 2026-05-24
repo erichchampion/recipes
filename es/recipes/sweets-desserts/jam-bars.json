@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "jam-bars",
+  "name": "Barras de mermelada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de margarina",
+    "1/2 taza de azúcar moreno",
+    "1 1/2 tazas de harina",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de bicarbonato de sodio",
+    "1 taza de avena sin cocer",
+    "10 onzas de mermelada del sabor elegido"
+  ],
+  "recipeInstructions": "1. Batir la margarina y el azúcar hasta que estén ligeros y esponjosos.\n2. Agregar los ingredientes secos combinados; mezclar bien.\n3. Presionar la mitad de la mezcla de migas en un molde para hornear engrasado de 13 x 9 pulgadas.\n4. Extender la mermelada sobre la capa de masa. Espolvorear con la mezcla de migas restante.\n5. Hornear a 200 °C durante 20 a 25 minutos.\n6. Enfriar, cortar en barras.",
+  "url": null
+}

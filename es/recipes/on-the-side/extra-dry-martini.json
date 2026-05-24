@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "extra-dry-martini",
+  "name": "Martini seco extremo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "refrescos",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz de ginebra",
+    "1 gota de vermut seco",
+    "1 aceituna"
+  ],
+  "recipeInstructions": "Llenar un vaso mezclador con hielo. Verter la ginebra y el vermut seco. Remover (o agitar) y colar en un vaso de martini. Decorar con una aceituna.",
+  "url": null
+}

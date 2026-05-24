@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "something-i-think-it-s-pie",
+  "name": "Something (i Think It's Pie)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1 Stick Butter",
+    "3 Eggs (beaten)",
+    "2 cups Sugar",
+    "2 cups Canned Milk",
+    "2 tbsp Flour",
+    "1 tsp Vanilla Extract"
+  ],
+  "recipeInstructions": "1. Cream together the butter, sugar, flour, and vanilla extract until well combined.\n2. Beat in the eggs one at a time.\n3. Pour the mixture into an unbaked pie shell.\n4. Bake until set (when a knife inserted comes out clean).\n- For a cheesecake-like texture: 325°F for 45-60 minutes.\n- For a firmer pie texture: 425°F for 35-45 minutes.",
+  "url": null
+}

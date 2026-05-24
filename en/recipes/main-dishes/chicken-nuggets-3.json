@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-nuggets-3",
+  "name": "Chicken Nuggets",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry",
+    "wrv"
+  ],
+  "recipeIngredient": [
+    "1 cup All-purpose flour",
+    "4 teaspoons Seasoned salt",
+    "1 tablespoon Paprika",
+    "1 tablespoon Poultry seasoning",
+    "1 tablespoon Ground mustard",
+    "1/2 teaspoon Pepper",
+    "8 Chicken breast halves, skin and bone removed, pounded to 1/2 inch thick, cut into 1-1/2-inch pieces",
+    "1/4 cup Vegetable or olive oil"
+  ],
+  "recipeInstructions": "1. In a ziplock bag, combine the first six ingredients.\n2. Add chicken in batches and shake to coat evenly.\n3. Heat oil in a skillet.\n4. Cook chicken, turning frequently, until browned and juices run clear, about 6-8 minutes.",
+  "url": null
+}

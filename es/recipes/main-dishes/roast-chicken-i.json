@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "roast-chicken-i",
+  "name": "Pollo asado I",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "italiano",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "4 lb de pollo para asar",
+    "2 dientes de ajo, picados",
+    "Sal y pimienta al gusto",
+    "2 cucharaditas de orégano",
+    "4 cucharadas de mantequilla o aceite de oliva",
+    "1/2 taza de vinagre de vino tinto"
+  ],
+  "recipeInstructions": "1. Cortar el pollo en trozos para servir y lavarlos bien. Secar.\n2. Untar la bandeja de horno con mantequilla y colocar los trozos con la piel hacia abajo.\n3. Espolvorear cada pieza con sal, pimienta, orégano, perejil y ajo picado.\n4. Hacer pequeños puntos de mantequilla sobre cada pieza.\n5. Rociar cada pieza con vinagre de vino tinto.\n6. Hornear en horno precalentado a 180 °C durante 1 hora.",
+  "url": null
+}

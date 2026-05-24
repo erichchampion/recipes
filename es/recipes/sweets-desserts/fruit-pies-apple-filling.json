@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-pies-apple-filling",
+  "name": "Pasteles de frutas - Relleno de manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "frutas",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "6 tazas de manzanas peladas y en rodajas",
+    "3/4 taza de azúcar",
+    "1/8 cucharadita de sal",
+    "2 cucharaditas de zumo de limón",
+    "1/2 cucharadita de canela"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Rellenar la masa del pastel con el relleno de manzana.\n3. Cubrir con la tapa de la masa.\n4. Hornear en un horno a 400 °F (200 °C) durante 45 minutos o hasta que esté dorado.",
+  "url": null
+}

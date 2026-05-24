@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "roast-turkey-3",
+  "name": "Roast Turkey",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "poultry",
+    "turkey"
+  ],
+  "recipeIngredient": [
+    "1 turkey (half pound per serving)"
+  ],
+  "recipeInstructions": "1. How much to buy: 1/2 lb per serving.\n2. Defrost time: 20-lb bird takes 3 days in the fridge or 12 hours in a sink of water. Remove giblets as soon as thawed.\n3. Roast time: Unstuffed, chilled turkey at 325°F -\n- 6-8 lbs: 2 3/4 to 3 1/2 hours\n- 8-12 lbs: 3 1/4 to 4 hours\n- 12-16 lbs: 3 1/2 to 4 hours\n- 16-20 lbs: 4 to 6 hours\n- 20-26 lbs: 5 1/2 to 7 1/2 hours\n4. Stuffing: Add 25 minutes cooking time for birds under 12 lb.",
+  "url": null
+}

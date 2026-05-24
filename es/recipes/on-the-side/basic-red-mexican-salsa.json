@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-red-mexican-salsa",
+  "name": "Salsa Mexicana Básica",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "mexicano",
+    "salsas",
+    "salsas y aderezos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "5 tomates rojos frescos",
+    "1/2 cebolla grande",
+    "Pimientos verdes serranos frescos (al gusto)",
+    "1 diente de ajo pequeño",
+    "Sal y pimienta"
+  ],
+  "recipeInstructions": "1. Hervir agua en una olla. Cocinar los tomates rojos durante uno o dos minutos, luego pelarlos.\n2. Mezclar los tomates pelados con los pimientos verdes, el ajo picado, la sal y la pimienta en una licuadora. Procesar hasta obtener una textura suave.\n3. Utilizar la salsa inmediatamente para tacos o quesadillas, o cocinarla en una sartén a fuego medio, añadiendo un poco de aceite vegetal si es necesario. Cocinar durante unos 10 minutos.\n4. Servir con chilaquiles o huevos.",
+  "url": null
+}

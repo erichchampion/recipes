@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "abm-mustard-wheat-rye",
+  "name": "ABM Mustard Wheat Rye",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "2 teaspoons Yeast",
+    "1 cup Bread flour",
+    "1/2 cup Whole wheat flour",
+    "1/2 cup Rye flour",
+    "1 tablespoon Gluten",
+    "1/3 cup Dijon mustard",
+    "2/3 cup Water",
+    "1 tablespoon Lecithin granules",
+    "1 tablespoon Molasses"
+  ],
+  "recipeInstructions": "1. Dump yeast into the machine.\n2. Add in flours and lecithin granules.\n3. Fill a measuring cup to 2/3rds with warm water.\n4. Add mustard until the liquid measures a full cup. Stir in molasses.\n5. Dump everything into the machine.\n6. Set the machine to basic bake mode.\nTested on 3/3/94, this results in a small dark loaf with a nice mustardy flavor. While dense, it can be sliced quite thinly and makes a great egg salad sandwich. If you substitute another fat for the lecithin granules, you might want to add a little more gluten.",
+  "url": null
+}

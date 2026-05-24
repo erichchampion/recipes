@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-marinated-chicken",
+  "name": "Pollo marinado básico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "marinadas",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de pechuga de pollo sin hueso y sin piel",
+    "3 cucharadas de salsa de soja",
+    "1 cucharada de miel",
+    "1 cucharada de aceite de oliva",
+    "1 cucharadita de jugo de limón",
+    "1 cucharadita de polvo de ajo"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el pollo en un bol.\n2. Agregar el pollo y mezclar bien para cubrirlo con la marinada.\n3. Tapar y marinar en la nevera por al menos 1 hora, volteando ocasionalmente.",
+  "url": null
+}

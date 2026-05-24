@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "ranch-burgers",
+  "name": "Hamburguesas de Ranch",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de carne molida",
+    "3/4 taza de aderezo para ensalada ranch",
+    "3/4 taza de migas de pan secas",
+    "1/4 taza de cebolla picada",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra",
+    "Panecillos con semillas de sésamo",
+    "Lechuga, tomate, cebolla (en rodajas, opcional)",
+    "Aderezo para ensalada ranch"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcle la carne molida, 3/4 taza de aderezo ranch, las migas de pan, la cebolla picada, la sal y la pimienta.\n2. Forme la mezcla en seis hamburguesas.\n3. Asar a fuego medio-alto durante 4-5 minutos para un punto medio de cocción.\n4. Coloque las hamburguesas en los panecillos con semillas de sésamo y adiciones al gusto.\n5. Sirva con una generosa cantidad de aderezo ranch adicional.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-popcorn",
+  "name": "Palomitas de queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "palomitas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de mantequilla",
+    "1 onza de queso azul",
+    "1/2 taza de palomitas de maíz, infladas",
+    "1/4 taza de queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. En una sartén pesada, combine la mantequilla y el queso azul.\n2. Cocine a fuego moderado, removiendo hasta que se derrita.\n3. Vierta la mezcla sobre las palomitas de maíz.\n4. Espolvoree con queso parmesano rallado.",
+  "url": null
+}

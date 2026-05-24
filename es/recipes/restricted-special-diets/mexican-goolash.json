@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-goolash",
+  "name": "Goulash mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "plato principal",
+    "carnes",
+    "mexicano",
+    "dietas especiales"
+  ],
+  "recipeIngredient": [
+    "1/2 libra de carne molida magra",
+    "1 1/2 tazas de macarrones crudos",
+    "1/2 taza de cebolla picada",
+    "1/4 cucharadita de polvo de ajo",
+    "1/4 cucharadita de pimienta negra",
+    "3 tazas de jugo de tomate (Hunt's sin sal)",
+    "1/4 cucharadita de polvo de chile"
+  ],
+  "recipeInstructions": "1. Añadir los macarrones a agua hirviendo y cocinar durante 7 minutos.\n2. Cocinar la carne molida, la cebolla y el pimiento verde en una sartén de hierro fundido hasta que la carne esté dorada y las verduras estén tiernas. Escurrir el exceso de grasa.\n3. Incorporar el jugo de tomate, los macarrones cocidos y las especias a la sartén. Reducir a fuego lento hasta que la mayor parte del líquido se haya absorbido.",
+  "url": null
+}

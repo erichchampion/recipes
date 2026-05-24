@@ -1,0 +1,17 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-cider",
+  "name": "Sidra de manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "manzanas",
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "Manzanas (de caída de viento o crabas), lavadas y sin corazón."
+  ],
+  "recipeInstructions": "1. Lavar las manzanas y quitarles el corazón.\n2. Triturar a través de una prensa de sidra para extraer el jugo.\n3. Colar el jugo para eliminar cualquier sólido.\n4. Hervir el jugo colado durante cinco minutos.\n5. Sellar el recipiente con una tapa para conservar la sidra de manzana.",
+  "url": null
+}

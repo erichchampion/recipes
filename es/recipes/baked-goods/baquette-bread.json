@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "baquette-bread",
+  "name": "Pan de Baquette",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "sin grasa"
+  ],
+  "recipeIngredient": [
+    "2 litros de agua tibia",
+    "2 onzas de azúcar",
+    "2 onzas de sal",
+    "2 onzas de aceite de oliva; o aceite vegetal",
+    "8 onzas de levadura seca activa",
+    "7-8 libras de harina de pan"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande, reservando algo de harina para más tarde.\n2. Amasar la masa durante 5-10 minutos hasta que quede suave.\n3. Tapar y dejar levar hasta que doble su tamaño.\n4. Desinflar la masa y darle forma a los panes deseados (baguettes, hogazas redondas, etc.).\n5. Hornear a 190°C durante 20-30 minutos, dependiendo del tamaño del pan.\n6. Para un sabor más intenso, se pueden añadir hierbas frescas picadas y ajo asado a la masa.",
+  "url": null
+}

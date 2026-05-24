@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "israeli-salad",
+  "name": "Ensalada Israelí",
+  "recipeCuisine": "Africa & Middle East",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "ensaladas",
+    "dietas especiales"
+  ],
+  "recipeIngredient": [
+    "2 pepinos medianos",
+    "1/2 taza pimiento verde, picado",
+    "2 tazas lechuga picada",
+    "2 cucharadas cebolla verde finamente picada",
+    "3/4 taza zanahoria rallada o cortada en tiras finas",
+    "2 cucharadas perejil fresco finamente picado",
+    "1 taza tomate fresco cortado en cubos",
+    "1/4 taza rábano",
+    "1 cucharadita aceite vegetal",
+    "3 cucharadas jugo de limón fresco",
+    "1/2 cucharadita pimienta molida"
+  ],
+  "recipeInstructions": "1. Pelar y cortar los pepinos por la mitad a lo largo. Retirar las semillas y el centro pulposo.\n2. Cortar la carne del pepino en dados y medir 2 tazas.\n3. En un bol grande, mezclar todos los ingredientes excepto el jugo de limón.\n4. Agregar el aceite vegetal y el jugo de limón a la mezcla.\n5. Sazonar con sal y pimienta al gusto.\n6. Revolver bien y servir inmediatamente.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "crock-pot-venison-stew",
+  "name": "Estofado de ciervo en olla de cocción lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "juego",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 lb de cubos de ciervo",
+    "2 cucharadas de aceite",
+    "3 tallos de apio, picados",
+    "1/2 taza de cebolla picada",
+    "2 dientes de ajo, picados finamente",
+    "1 cucharada de perejil fresco picado",
+    "1/2 taza de agua",
+    "1/2 taza de vino tinto seco",
+    "1 taza de salsa de tomate",
+    "Sal y pimienta al gusto",
+    "Orégano",
+    "Albahaca"
+  ],
+  "recipeInstructions": "1. Dorar el ciervo en aceite caliente.\n2. Colocar el apio y la cebolla picada en el fondo de una olla de cocción lenta.\n3. Agregar el ciervo dorado y el resto de los ingredientes.\n4. Cocinar a fuego bajo durante 7-10 horas, removiendo ocasionalmente.",
+  "url": null
+}

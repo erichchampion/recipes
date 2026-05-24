@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "measurement-equivalents-metric-american-british",
+  "name": "Equivalentes de Medición - Métrico ~ Americano ~ Británico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "sugerencias",
+    "varios"
+  ],
+  "recipeIngredient": [
+    "Mediciones líquidas estadounidenses (métricas):",
+    "1 cucharadita = 5 mL",
+    "1 cucharada = 15 mL",
+    "1 taza = 227 mL",
+    "1 pinta = 454 mL",
+    "1 litro = 907 mL",
+    "1 galón = 3,628 mL",
+    "Mediciones líquidas británicas:",
+    "1 onza líquida británica = 1.04 onzas estadounidenses",
+    "1 pinta británica = 20 onzas británicas",
+    "1 cuarto británico = 40 onzas británicas",
+    "1 gill británica = 5 onzas (aproximadamente 2/3 de una taza estadounidense)",
+    "1 pinta británica pesa una libra en todas partes excepto en Inglaterra, donde pesa una libra y un cuarto.",
+    "Mediciones secas británicas:",
+    "Las medidas secas para onzas y libras, y las medidas lineales para pulgadas y pies son las mismas que las medidas estadounidenses."
+  ],
+  "recipeInstructions": "De: Sallie Austin, INTERCOOK echo\nCONVERSIÓN DE MEDICIONES LÍQUIDAS AMERICANAS A MÉTRICAS:\n1. Multiplica las onzas por 28.35 para convertirlas a gramos.\n2. Multiplica los gramos por 0.035 para convertirlos a onzas.\n3. Multiplica los litros por 0.95 para convertirlos a cuartos estadounidenses.\n4. Multiplica los litros por 0.88 para convertirlos a cuartos británicos.\n5. Convierte los cuartos estadounidenses a litros multiplicando por 1.057.\n6. Convierte los cuartos británicos a litros multiplicando por 1.14.\nEQUIVALENCIAS DE TAZAS Y DECILITROS:\n1 decilitro = 6 2/3 cucharadas\nConvierte las tazas en decilitros multiplicando la cantidad de la taza por el factor correspondiente en la tabla inferior:\nTazas: Decilitros:\n1/4 taza = 0.56 dl\n1/3 taza = 0.75 dl\n1/2 taza = 1.13 dl\n2/3 taza = 1.5 dl\n3/4 taza = 1.68 dl\n1 taza = 2.27 dl",
+  "url": null
+}

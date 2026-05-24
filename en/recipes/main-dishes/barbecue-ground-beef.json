@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecue-ground-beef",
+  "name": "Barbecue Ground Beef",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "ground beef",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "1 pound ground beef",
+    "1 tablespoon shortening",
+    "1 cup finely chopped onion",
+    "1 cup finely chopped green pepper",
+    "1 tablespoon sugar",
+    "2 tablespoons prepared mustard",
+    "1 tablespoon vinegar",
+    "1 tablespoon salt",
+    "1 cup catsup",
+    "1/2 teaspoon ground cloves"
+  ],
+  "recipeInstructions": "1. Brown the meat slowly in shortening until it crumbles.\n2. Combine all remaining ingredients and add to the meat.\n3. Cover and simmer for about 30 minutes.\n4. Serves 6 to 8 people.",
+  "url": null
+}

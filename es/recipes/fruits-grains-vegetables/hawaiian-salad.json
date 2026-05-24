@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "hawaiian-salad",
+  "name": "Ensalada Hawaiana",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "niños",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 manzanas",
+    "2 plátanos",
+    "1 lata de mezcla de frutas",
+    "1 bolsa de mini marshmallows",
+    "(opcional)",
+    "1 recipiente de crema batida (puede sustituirse por mi versión de crema batida...)"
+  ],
+  "recipeInstructions": "1. Cortar la fruta en trozos pequeños.\n2. Mezclar los trozos de fruta con la mezcla de frutas en lata y los marshmallows.\n3. Añadir la crema batida, si se desea, y remover hasta que todo esté bien combinado.\n4. Refrigerar la ensalada antes de servir.",
+  "url": null
+}

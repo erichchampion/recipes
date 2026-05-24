@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tamale-pie-6",
+  "name": "Pastel de tamales",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "tartas de cena",
+    "plato principal",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "1 paquete de tortillas",
+    "2 libras de carne molida de hamburguesa",
+    "1 lata de aceitunas picadas",
+    "2 tazas de queso cheddar",
+    "1 lata de sopa de setas",
+    "1 cebolla picada",
+    "1 lata de salsa para enchiladas (tamaño grande)",
+    "1 lata de salsa de tomate española (pequeña)"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida con la cebolla picada.\n2. Mezclar la salsa para enchiladas y la salsa de tomate española en un bol.\n3. Extender una capa de sopa de setas en el fondo de una fuente para hornear.\n4. Sumergir cada tortilla en la mezcla de salsas y disponerlas en capas, alternando con la carne, la sopa de setas, las aceitunas y aproximadamente 2 tazas de queso.\n5. Verter el resto de salsa sobre el pastelito.\n6. Hornear a 180 grados Celsius hasta que esté caliente y el queso se haya derretido.",
+  "url": null
+}

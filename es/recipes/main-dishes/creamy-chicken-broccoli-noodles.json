@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "creamy-chicken-broccoli-noodles",
+  "name": "Nudillos de Pollo Cremosos con Brócoli",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "pasta",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "2 paquetes de fideos ramen (pollo)",
+    "1 lata de sopa de setas con crema",
+    "1/2 lata de leche",
+    "1 1/2 tazas de pollo cocido en cubos",
+    "1 1/2 tazas de brócoli cocido en floretes",
+    "1/2 taza de tomates cherry cortados por la mitad (opcional)"
+  ],
+  "recipeInstructions": "1. Cocinar los fideos según las instrucciones del paquete; escurrir, reservando un poco del líquido.\n2. Mezclar la sopa de setas con crema y la leche. Calentar a fuego medio, removiendo con frecuencia.\n3. Incorporar los tomates cherry (opcional).",
+  "url": null
+}

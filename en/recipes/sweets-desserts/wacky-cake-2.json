@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "wacky-cake-2",
+  "name": "Wacky Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 1/2 C. cake flour",
+    "1 C. sugar",
+    "3 T. cocoa (unsweetened like Hershey's)",
+    "1 t. baking soda",
+    "1/2 t. salt",
+    "6 T. applesauce",
+    "1 T. white vinegar",
+    "1 t. vanilla",
+    "1 C. cold water"
+  ],
+  "recipeInstructions": "1. Sift the dry ingredients into a large bowl.\n2. Add the liquids, mixing thoroughly.\n3. Pour the mixture into an 8-inch square pan sprayed with Pam.\n4. Bake at 350 degrees for 25 to 30 minutes.\n5. Frost with your favorite white frosting.",
+  "url": null
+}

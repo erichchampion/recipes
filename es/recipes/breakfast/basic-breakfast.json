@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-breakfast",
+  "name": "Desayuno básico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 taza de yogur natural sin grasa",
+    "1 plátano",
+    "1/2 taza de granola de uvas"
+  ],
+  "recipeInstructions": "1. Echar el yogur en un bol.\n2. Añadir rodajas de plátano.\n3. Cubrir con granola de uvas.\n4. La granola de uvas también puede ser un aperitivo crujiente. No creo que contenga grasas añadidas o azúcar más allá de lo que se encuentra naturalmente en los granos.",
+  "url": null
+}

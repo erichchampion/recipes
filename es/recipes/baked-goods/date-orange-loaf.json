@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "date-orange-loaf",
+  "name": "Pan de Fecha y Naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 ralladura de naranja",
+    "1 zumo de naranja (mezclado con agua hirviendo hasta obtener 1 taza)",
+    "1 huevo",
+    "1/2 taza de nueces picadas",
+    "1 taza de dátiles cortados en trozos, remojados en agua hirviendo y escurridos",
+    "2 cucharadas de mantequilla",
+    "1 taza de azúcar",
+    "2 tazas de harina",
+    "1 cucharadita de polvo de hornear",
+    "1/4 cucharadita de sal",
+    "1 cucharadita de bicarbonato de sodio"
+  ],
+  "recipeInstructions": "1. Mezclar el zumo de naranja con agua hirviendo hasta completar 1 taza.\n2. Tamizar juntos la harina, el polvo de hornear, la sal y el bicarbonato de sodio.\n3. En un bol, batir la mantequilla y el azúcar. Añadir el huevo.\n4. Incorporar alternativamente el zumo y los ingredientes secos.\n5. Agregar los dátiles y las nueces.\n6. Hornear en un molde para pan engrasado durante 50-60 minutos a 180°C.",
+  "url": null
+}

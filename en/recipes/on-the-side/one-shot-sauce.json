@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "one-shot-sauce",
+  "name": "One Shot Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 lb Butter",
+    "1/2 cup Finely chopped onion",
+    "2 Cloves garlic, minced",
+    "1/2 cup Whiskey",
+    "1/4 cup Worcestershire sauce",
+    "1 tbsp Pepper",
+    "1 1/2 ts Dry mustard",
+    "1 tsp Salt",
+    "1/4 tsp Tabasco"
+  ],
+  "recipeInstructions": "1. Melt the butter in a saucepan over low heat.\n2. Add onion and garlic, stirring until soft.\n3. Gradually add remaining ingredients, mixing continuously until combined.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-cool-whip",
+  "name": "Mock Cool Whip",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "frosting",
+    "toppings"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Skim milk",
+    "1/2 cup Nonfat dry milk powder",
+    "1/8 tsp Cream of tartar",
+    "4 tsp Lemon juice",
+    "2 tsp Sugar (optional)",
+    "1/2 tsp Vanilla extract (optional)"
+  ],
+  "recipeInstructions": "1. Place the skim milk in a small metal bowl and set it in the freezer.\nAllow to stand until ice crystals begin to form, which should take about 15 minutes.\n2. Remove the bowl from the freezer and add the dry milk powder and cream of tartar.\nUsing an electric hand mixer, whip the mixture on high speed until foamy.\n3. Gradually beat in 1 teaspoon lemon juice, continuing to beat until the mixture begins to thicken.\nAdd another teaspoon of lemon juice, and if desired, add sugar.\nContinue beating until the mixture peaks softly.\n4. Add the remaining 2 teaspoons lemon juice and continue whipping until stiff peaks form.\nIf desired, fold in vanilla extract and serve immediately as a dessert topping or use it as needed.",
+  "url": null
+}

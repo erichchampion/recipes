@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pork-with-mustard-sauce",
+  "name": "Cerdo con Salsa de Mostaza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 libra de lomo de cerdo",
+    "2 cucharadas de mantequilla o margarina",
+    "1/2 taza de caldo de carne",
+    "3/4 cucharadita de tomillo seco",
+    "1/2 taza de crema espesa",
+    "1 cucharada de mostaza dijon",
+    "Sal y pimienta al gusto",
+    "Nudillos calientes (opcional)"
+  ],
+  "recipeInstructions": "1. Cortar el lomo de cerdo en ocho trozos. Cortar cada trozo nuevamente, sin llegar a cortarlo por completo; aplastar ligeramente cada pieza con un mazo de carne.\n2. En una sartén grande a fuego medio-alto, cocinar el cerdo en mantequilla hasta que ya no esté rosado, aproximadamente 5-6 minutos por lado. Retirar el cerdo a un plato de servir y mantenerlo caliente; desechar los jugos.\n3. En la misma sartén, cocinar el caldo y el tomillo a fuego alto hasta reducir a la mitad. Bajar el fuego, incorporar la crema y la mostaza. Sazonar con sal y pimienta.\n4. Verter la salsa sobre el cerdo. Servir con nudillos si se desea.",
+  "url": null
+}

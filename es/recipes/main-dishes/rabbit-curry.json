@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "rabbit-curry",
+  "name": "Curry de Conejo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "juego",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 Palito de mantequilla o margarina (derretida)",
+    "1 Cebolla picada",
+    "1 Taza de caldo de pollo",
+    "1 cucharadita de polvo de curry",
+    "1 Conejo joven, cortado en trozos",
+    "1/2 Taza de harina",
+    "1 Manzana ácida picada",
+    "2 Tazas de crema agria",
+    "2 cucharaditas de cáscara de naranja rallada"
+  ],
+  "recipeInstructions": "1. Untar los trozos de conejo con mantequilla derretida.\n2. Pasarlos por harina. Sazonar con sal y pimienta.\n3. Hornear en una rejilla, dándoles la vuelta al menos una vez hasta que el conejo esté tierno. Enfriar y deshuesar.\n4. Saltear la cebolla y la manzana en la mantequilla o margarina restantes.\n5. Agregar 1/4 taza de harina. Remover hasta que se eliminen los grumos.\n6. Añadir lentamente el caldo de pollo y la crema agria, removiendo constantemente.\n7. Reducir el fuego a bajo y cocinar hasta que esté mezclado.\n8. Incorporar la cáscara de naranja, el polvo de curry, el conejo deshuesado y calentar bien.\n9. Servir sobre arroz.",
+  "url": null
+}

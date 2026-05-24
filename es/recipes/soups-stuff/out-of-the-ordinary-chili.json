@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "out-of-the-ordinary-chili",
+  "name": "Chili fuera de lo común",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "carnes",
+    "aves de corral",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de carne de res",
+    "1 1/2 libras de pollo",
+    "1 1/2 libras de pavo",
+    "2 tazas de agua",
+    "1 cucharada de polvo de chile",
+    "1 cucharada de polvo de curry",
+    "3 tomates, picados",
+    "4 tazas de frijoles rojos cocidos",
+    "1 cebolla, picada",
+    "1 manojo de cebolletas, cortadas en rodajas",
+    "1 1/2 tazas de queso cheddar natural rallado"
+  ],
+  "recipeInstructions": "1. En una sartén grande, saltea la carne hasta que esté ligeramente dorada.\n2. Escurre el exceso de grasa.\n3. Añade el agua, el polvo de chile y el curry; deja cocinar a fuego lento durante 5 minutos.\n4. Agrega los tomates y los frijoles; calienta hasta que estén bien integrados.\n5. Incorpora la cebolla.\n6. Sirve en cuencos y espolvorea con queso.",
+  "url": null
+}

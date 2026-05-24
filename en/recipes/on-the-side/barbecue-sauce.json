@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecue-sauce",
+  "name": "Barbecue Sauce",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "american",
+    "cajun",
+    "ethnic",
+    "sauces"
+  ],
+  "recipeIngredient": [
+    "3 Cups Onions, chopped",
+    "1/4 Cup Honey",
+    "1 Tablespoon Garlic, chopped",
+    "2 Tablespoons Lemon juice",
+    "1 Cup Sweet pepper, chopped",
+    "1 Tablespoon Salt",
+    "1/2 Cup Parsley, dried",
+    "3 Tablespoons Lea & Perrins",
+    "1 Cup Dry white wine",
+    "1/2 Teaspoon Mint, dried",
+    "3 Tablespoons Vinegar",
+    "1 Tablespoon Liquid smoke",
+    "2 Cups Ketchup",
+    "1/2 Tablespoon Louisiana hot sauce"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a large pot.\n2. Bring the mixture to a boil over high heat.\n3. Reduce the heat to low and simmer, covered, for several hours until the flavors are well combined.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pesto-spaghetti",
+  "name": "Spaguetis con pesto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 taza de perejil, picado finamente",
+    "1 cucharada de albahaca",
+    "1 pizca de sal",
+    "1/8 cucharadita de pimienta blanca",
+    "2 dientes de ajo, picados",
+    "2 cucharadas de mantequilla",
+    "2 cucharadas de agua hirviendo",
+    "3/4 taza de queso parmesano rallado",
+    "1 libra de espaguetis",
+    "1/4 taza de piñones, picados finamente (opcional)",
+    "1/2 taza de aceite de ensalada"
+  ],
+  "recipeInstructions": "1. Cocinar los espaguetis según las instrucciones del paquete y escurrir bien.\n2. Mezclar todos los ingredientes en un bol y verter sobre los espaguetis.\n3. Se pueden sustituir los piñones por nueces picadas finamente.\n4. Servir con queso parmesano adicional. Las sobras se pueden congelar.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-lemonade",
+  "name": "Limonada básica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "limonada",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 1/2 litros",
+    "6 limones",
+    "1 taza de azúcar",
+    "8 tazas de agua con hielo",
+    "1 taza de agua hirviendo"
+  ],
+  "recipeInstructions": "1. Exprimir el jugo de los limones en un bol. Reservar las cáscaras de limón.\n2. Colar el jugo de limón en un jarro grande.\n3. Añadir azúcar y agua con hielo al jarro; remover hasta que se disuelva el azúcar.\n4. Reservar la mezcla.\n5. Colocar las cáscaras de limón en un bol y añadir agua hirviendo. Dejar reposar hasta que el agua esté fría.\n6. Deseche las cáscaras de limón.\n7. Añadir el agua restante al jarro y remover bien.\n8. Refrigerar hasta que esté bien fría.",
+  "url": null
+}

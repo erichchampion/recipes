@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "cottage-cheese-pie",
+  "name": "Tarta de Queso Fresco",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "americano",
+    "productos horneados",
+    "postres",
+    "masa",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de queso fresco",
+    "3/4 taza de azúcar",
+    "1 sobre de mezcla para custard de huevo",
+    "2 cucharaditas de vainilla",
+    "3/4 taza de leche",
+    "1 base de masa para tarta sin hornear",
+    "2 yemas de huevo",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de jugo de limón",
+    "3 cucharadas de mantequilla derretida",
+    "2 claras de huevo batidas a punto de nieve"
+  ],
+  "recipeInstructions": "1. Mezclar el queso fresco, las yemas de huevo, el azúcar y la sal en un bol.\n2. Añadir gradualmente la mezcla de custard de huevo, la vainilla, la leche y el jugo de limón a la mezcla.\n3. Incorporar las claras de huevo batidas hasta que quede bien combinado.\n4. Verter la masa en la base de tarta preparada.\n5. Hornear a 180°C durante 30 minutos.",
+  "url": null
+}

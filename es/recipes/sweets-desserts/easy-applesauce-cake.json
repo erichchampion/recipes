@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-applesauce-cake",
+  "name": "Pastel de manzana casera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "1 cucharadita de sal",
+    "1 cucharadita de bicarbonato de sodio",
+    "2 cucharadas de cacao en polvo",
+    "1 taza de azúcar morena",
+    "1 cucharadita de canela molida",
+    "1/2 cucharadita de clavos de olor molidos",
+    "1 taza de puré de manzana",
+    "1/2 taza de aceite vegetal",
+    "2 huevos grandes"
+  ],
+  "recipeInstructions": "Precalentar el horno a 175 °C. Medir todos los ingredientes en un bol grande y mezclar a velocidad media hasta que estén bien combinados. Verter la masa en un molde para pastel Bundt ligeramente engrasado. Hornear durante 35 minutos o hasta que al insertar un palillo, este salga limpio.",
+  "url": null
+}

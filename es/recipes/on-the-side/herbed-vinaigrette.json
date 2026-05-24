@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "herbed-vinaigrette",
+  "name": "Vinaigrette de hierbas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "aderezo para ensalada",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "Vinagre de vino blanco o zumo de limón fresco (2 cucharadas)",
+    "Mostaza dijon (1/2 cucharadita)",
+    "Aceite de oliva (2 1/2 cucharadas)",
+    "Perejil fresco picado (2 1/2 cucharadas)",
+    "Cebolleta fresca, picada (2 1/2 cucharadas)",
+    "Tomillo fresco, picado o seco, desmenuzado (2 1/2 cucharadas)",
+    "Cervera fresca, picada o seca, desmenuzada (2 1/2 cucharadas)"
+  ],
+  "recipeInstructions": "1. En un bol, bate juntos el vinagre, la mostaza y la sal y pimienta al gusto.\n2. Añade el aceite de oliva lentamente mientras bates continuamente.\n3. Bate hasta que la vinagreta esté emulsionada.\n4. Incorpora el perejil, la cebolleta, el tomillo y la cervera picados o desmenuzados.\n5. Da para aproximadamente 1/2 taza.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "another-chicken-pot-pie",
+  "name": "Otra tarta de pollo con verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "tartas de cena",
+    "plato principal",
+    "probar"
+  ],
+  "recipeIngredient": [
+    "2 latas de sopa cremosa de brócoli",
+    "1 taza de leche",
+    "1/4 cucharadita de tomillo seco",
+    "1/4 cucharadita de pimienta",
+    "4 tazas de verduras cortadas y cocidas",
+    "2 tazas de pollo cortado en cubos y cocido",
+    "1 lata de masa de hojaldre refrigerada"
+  ],
+  "recipeInstructions": "1. En un recipiente para hornear de 3 cuartos, mezclar la sopa, la leche, el tomillo y la pimienta. Incorporar las verduras y el pollo.\n2. Hornear a 200°C durante 15 minutos o hasta que empiece a burbujear. Mientras tanto, cortar cada masa en cuartos.\n3. Retirar del horno, remover. Disponer los trozos de masa sobre la mezcla caliente de pollo y verduras. Hornear durante 15 minutos adicionales o hasta que esté dorada.\nVariación:\nEn los últimos 5 minutos de horneado, cubrir con queso cheddar o suizo derretido (rallado). Se puede sustituir el pollo por pavo. Las verduras pueden incluir zanahorias, brócoli, patatas, coliflor, opciones congeladas o frescas.",
+  "url": null
+}

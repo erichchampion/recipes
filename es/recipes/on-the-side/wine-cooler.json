@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "wine-cooler",
+  "name": "Enfriador de vino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 oz de vino",
+    "5 oz de refresco de limón y lima (p. ej., 7-UP, Sprite, Slice)",
+    "Hielo (opcional)"
+  ],
+  "recipeInstructions": "1. Verter el vino y el refresco de limón y lima en un vaso.\n2. Llenar con hielo, si se desea.\n3. Servir inmediatamente.\nEsta receta prepara refrigerios de vino similares a los que se compran en la tienda. Por lo general, utilizo un vino barato con notas intensas de bayas.",
+  "url": null
+}

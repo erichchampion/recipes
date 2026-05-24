@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "classic-oriental-marinade",
+  "name": "Marinada Oriental Clásica",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "chino",
+    "indonesio",
+    "marinadas",
+    "salsa",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2/3 taza de aceite de maní",
+    "1/4 taza de salsa de soja",
+    "1/2 taza de vino tinto",
+    "2 cucharadas de ketchup",
+    "2 cucharadas de jengibre cristalizado",
+    "2 cucharadas de ajo picado",
+    "1 cucharada de polvo de curry"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol hasta combinarlos bien.\n2. Tapar la mezcla y refrigerar durante 4 a 24 horas, o hasta 96 horas para un sabor más intenso.\n3. Utilizar esta marinada en carnes, aves o pescado antes de cocinarlas.",
+  "url": null
+}

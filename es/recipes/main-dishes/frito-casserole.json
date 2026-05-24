@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "frito-casserole",
+  "name": "Casserola frita",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 bolsa de Fritos",
+    "2 latas de frijoles chili (14 oz cada una)",
+    "2 latas de tomates (26 oz cada una)",
+    "2 latas de maíz, granos enteros, enlatados y escurridos (15 oz cada una)",
+    "Queso Cheddar rallado",
+    "1 lata grande de salsa de tomate (28 oz)",
+    "Salsa picante (opcional) al gusto",
+    "1 libra de carne molida, dorada y escurrida"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcle los Fritos, frijoles chili, carne molida, tomates, maíz y salsa de tomate.\n2. Añada salsa picante si se desea.\n3. Espolvoree queso Cheddar rallado sobre la mezcla.\n4. Coloque esta mezcla en un plato apto para horno, empezando con una capa de Fritos en la base.\n5. Repita las capas hasta que el plato esté lleno, terminando con otra capa de Fritos encima.\n6. Cubra y caliente en el microondas durante 10 a 15 minutos o hasta que se haya calentado por completo.\n7. Retire del microondas y espolvoree cualquier queso restante sobre la parte superior.\n8. Sirva caliente.",
+  "url": null
+}

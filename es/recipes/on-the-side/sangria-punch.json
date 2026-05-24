@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "sangria-punch",
+  "name": "Ponche de Sangría",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 naranjas, en rodajas",
+    "2 limones, en rodajas",
+    "2 limas, en rodajas",
+    "2 quintos de vino tinto rosado o Borgoña",
+    "1/4 taza de azúcar",
+    "1/4 taza de brandy",
+    "28 onzas (750 ml) de soda club fría",
+    "1/2 onza (15 ml) de triple sec",
+    "2 gotas de jugo de lima Rose's (opcional)"
+  ],
+  "recipeInstructions": "1. En un jarro grande, mezcla las rodajas de fruta, vino, brandy, triple sec, jugo de lima Rose's y azúcar.\n2. Refrigera durante la noche.\n3. Antes de servir, agrega la soda club fría y revuelve suavemente.",
+  "url": null
+}

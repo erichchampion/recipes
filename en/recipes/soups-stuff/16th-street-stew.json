@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "16th-street-stew",
+  "name": "16th-street Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "soups/stews",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Ground beef",
+    "1 medium Chopped onion",
+    "4 slices Bacon diced",
+    "1 Chopped green pepper",
+    "3 Potatoes peeled and diced",
+    "2 tsp Mustard",
+    "3 Beef bouillon cubes",
+    "1/4 tsp Pepper",
+    "2 cups Boiling water",
+    "6 tbsp Vinegar"
+  ],
+  "recipeInstructions": "1. Brown the meat, onion, bacon, and green pepper in a large pot.\n2. Drain excess fat from the pot.\n3. Stir in the remaining ingredients: mustard, beef bouillon cubes, pepper, boiling water, and vinegar.\n4. Simmer the stew on low heat for about 45 minutes or until the potatoes are tender.",
+  "url": null
+}

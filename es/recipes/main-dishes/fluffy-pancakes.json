@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fluffy-pancakes",
+  "name": "Tortitas esponjosas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "plato principal",
+    "crepes"
+  ],
+  "recipeIngredient": [
+    "2 1/2 tazas de harina",
+    "1 cucharadita de sal",
+    "1 cucharadita de bicarbonato de sodio",
+    "1 cucharada de azúcar moreno",
+    "2 huevos",
+    "2 1/2 - 3 tazas de buttermilk",
+    "2 cucharadas de aceite vegetal"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes secos juntos.\n2. En un bol aparte, batir los 2 huevos y añadir 3 tazas de buttermilk (al gusto) y 2 cucharadas de aceite, mezclando hasta combinar.\n3. Verter la mezcla líquida en el centro de los ingredientes secos.\n4. Remover suavemente solo lo suficiente para combinar; la masa debe permanecer con grumos.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-cinnamon-french-toast",
+  "name": "Tostada francesa de plátano canela",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "tostadas francesas",
+    "plato principal",
+    "crepes",
+    "gofres"
+  ],
+  "recipeIngredient": [
+    "1 plátano grande maduro",
+    "2 huevos grandes",
+    "1/2 taza de leche desnatada",
+    "1/2 cucharadita de canela",
+    "4 rebanadas de pan",
+    "3 cucharadas de margarina",
+    "1/2 taza de sirope de arce calentado"
+  ],
+  "recipeInstructions": "1. Mezcla los primeros cuatro ingredientes en un procesador hasta obtener una textura suave.\n2. Coloca el pan en la mezcla de leche y déjalo remojar hasta que se absorba todo el líquido, dándolo la vuelta ocasionalmente, aproximadamente 20 minutos.\n3. Derrite la mantequilla en una sartén grande y pesada a fuego medio.\n4. Añade el pan y cocina hasta que esté dorado, aproximadamente 3 minutos por cada lado.\n5. Sirve; sirve el sirope calentado aparte.",
+  "url": null
+}

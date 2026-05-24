@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "irish-raisin-bread",
+  "name": "Pan de pasas irlandés",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "étnicos"
+  ],
+  "recipeIngredient": [
+    "1 sobre de levadura",
+    "1 huevo",
+    "3 tazas de harina de pan",
+    "1/4 taza de mantequilla",
+    "1/4 taza de azúcar",
+    "3/4 taza de agua tibia",
+    "1 cucharadita de canela",
+    "1/2 taza de leche tibia",
+    "1/2 cucharadita de sal",
+    "1 taza de pasas"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar todos los ingredientes excepto las pasas.\n2. Seleccionar el programa de pan blanco en la máquina y ajustar el control de horneado a las 12 en punto.\n3. Agregar las pasas al sonar el pitido de las 10.",
+  "url": null
+}

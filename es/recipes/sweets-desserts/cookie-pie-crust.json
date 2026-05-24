@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cookie-pie-crust",
+  "name": "Base de tarta de galleta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "pasteles",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de margarina derretida",
+    "3 cucharadas de azúcar glas",
+    "1 cucharadita de polvo de hornear",
+    "1 taza de harina de uso común"
+  ],
+  "recipeInstructions": "1. En un bol pequeño, mezclar la margarina derretida y el azúcar glas.\n2. Incorporar el polvo de hornear y la harina de uso común hasta obtener una mezcla homogénea.\n3. Presionar la masa en un molde para tarta de 23 cm.\n4. Pinchar la superficie de la masa con un tenedor.\n5. Hornear a 475°F durante 8-10 minutos, o hasta que esté dorada.",
+  "url": null
+}

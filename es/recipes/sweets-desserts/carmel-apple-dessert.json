@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "carmel-apple-dessert",
+  "name": "Postre de manzana caramelo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 cucharadita de vinagre de sidra de manzana",
+    "1 cucharada de harina",
+    "1/2 taza de azúcar",
+    "1 huevo batido",
+    "400 g de piña triturada (reservar el jugo)",
+    "500 g de crema batida",
+    "4 tazas de manzanas cortadas en cubos",
+    "Una pequeña bolsa de cacahuetes triturados"
+  ],
+  "recipeInstructions": "1. Escurrir y reservar el jugo de la piña.\n2. Cocinar a fuego medio el vinagre de sidra de manzana, el huevo, la harina, el azúcar y el jugo de piña durante 5 minutos, hasta obtener una consistencia de crema, removiendo constantemente.\n3. Dejar enfriar.\n4. Mezclar las manzanas y la piña. Añadir la mezcla de crema y la crema batida. Refrigerar.\n5. Espolvorear con cacahuetes antes de servir.",
+  "url": null
+}

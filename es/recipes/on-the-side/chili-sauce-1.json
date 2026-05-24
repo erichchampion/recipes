@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-sauce-1",
+  "name": "Salsa de Chili #1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "conservas",
+    "preservación",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "24 tomates grandes, pelados y picados",
+    "3 pimientos rojos grandes, sin semillas y picados",
+    "4 pimientos verdes grandes, sin semillas y picados",
+    "6-8 pimientos jalapeño, sin semillas y picados",
+    "1 taza de azúcar",
+    "3 tazas de vinagre de sidra",
+    "2 cucharadas de sal",
+    "4 cebollas grandes",
+    "2 dientes de ajo",
+    "1 cucharadita de clavo molido",
+    "2 cucharaditas de jengibre",
+    "1 1/2 cucharaditas de canela",
+    "1 1/2 cucharaditas de pimienta negra"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes excepto las especias en una olla grande.\n2. Llevar a ebullición.\n3. Reducir el calor y cocinar a fuego lento durante 2 horas.\n4. Añadir las especias y continuar cocinando durante 15 minutos.\n5. Comprobar la sazón y la textura; cocinar más tiempo si es necesario para espesar.\n6. Verter en frascos calientes y esterilizados, y sellar.",
+  "url": null
+}

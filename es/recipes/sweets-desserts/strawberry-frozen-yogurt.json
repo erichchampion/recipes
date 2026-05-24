@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-frozen-yogurt",
+  "name": "Yogur helado de fresa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "yogur helado",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "2 cucharaditas de gelatina",
+    "1 taza de yogur natural",
+    "1/8 cucharadita de sal",
+    "1 1/2 cucharadas de zumo de limón",
+    "3 cucharadas de leche",
+    "2 cucharadas de azúcar",
+    "1/8 taza de fresas congeladas trituradas",
+    "1/2 taza de crema batida"
+  ],
+  "recipeInstructions": "1. Remojar la gelatina en la leche, en una taza para puré. Colocar la taza sobre agua hirviendo; remover hasta que la gelatina se disuelva por completo.\n2. Mezclar el yogur, el azúcar y la sal. Incorporar la mezcla de gelatina. Añadir las fresas y el zumo de limón. Enfriar hasta que espese ligeramente.\n3. Batir hasta formar espuma. Incorporar la crema batida.\n4. Verter la mezcla en un molde para cubos de hielo metálico. Cubrir con papel aluminio; congelar.",
+  "url": null
+}

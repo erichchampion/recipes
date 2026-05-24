@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "enchiladas-verdes-green-enchiladas",
+  "name": "Enchiladas verdes",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americana",
+    "étnica",
+    "plato principal",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "12 tortillas de maíz",
+    "4 cucharadas de aceite o manteca",
+    "1 diente de ajo",
+    "1 cucharada de harina",
+    "4 tazas de salsa de chile verde",
+    "Sal al gusto",
+    "2 tazas de queso cheddar o jack rallado",
+    "1/4 taza de cebolla picada"
+  ],
+  "recipeInstructions": "1. Freír las tortillas de maíz en aceite hasta que se ablanden.\n2. Calentar el ajo en aceite, luego desechar el ajo.\n3. Mezclar la harina con el aceite caliente.\n4. Incorporar la salsa de chile verde y calentar a fuego lento. Si la mezcla está demasiado espesa, agregar agua.\n5. Añadir sal al gusto.\n6. Cubrir placas aptas para horno con capas de tortillas, salsa, cebolla picada y queso.\n7. Espolvorear queso encima.\n8. Usar 3 tortillas para cada ración.\n9. Hornear hasta que el queso se derrita. Para un toque auténticamente mexicano, colocar un huevo escalfado o frito sobre las enchiladas; el huevo ayuda a unir los sabores.",
+  "url": null
+}

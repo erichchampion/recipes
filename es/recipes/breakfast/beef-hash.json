@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-hash",
+  "name": "Hash de ternera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "carne de res",
+    "fácil",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 taza de agua caliente",
+    "1 cubo de caldo de carne de res",
+    "3 papas medianas, peladas y cortadas en cubos (450 g)",
+    "1 cebolla mediana, picada",
+    "1 diente de ajo, picado finamente",
+    "2 cucharadas de aceite vegetal",
+    "2 tazas de carne de res cocida picada (de asado)",
+    "1/2 cucharadita de sal",
+    "1 cucharadita de pimienta negra molida",
+    "2 cucharadas de perejil fresco picado (opcional)"
+  ],
+  "recipeInstructions": "1. Mezclar el agua caliente y el cubo de caldo en un bol pequeño hasta que se disuelva.\n2. Calentar el aceite vegetal en una sartén grande a fuego medio-alto. Agregar los cubos de papa, la cebolla picada y el ajo picado. Cocinar, removiendo ocasionalmente, durante 10 minutos o hasta que las papas estén tiernas.\n3. Incorporar la carne picada, la sal, la pimienta y el perejil (si se usa). Reducir el fuego a bajo y cubrir la sartén. Dejar cocinar a fuego lento durante 15 minutos más, removiendo ocasionalmente, hasta que la carne esté bien caliente.\n4. Servir inmediatamente y disfrutar de su Hash de Carne de Res.",
+  "url": null
+}

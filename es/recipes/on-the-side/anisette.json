@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "anisette",
+  "name": "Anisado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "licores",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de semillas de anís",
+    "1 1/2 cucharaditas de semillas de eneldo",
+    "1 1/2 cucharaditas de cilantro molido",
+    "1 quinta parte de vodka",
+    "jarabe de azúcar, 1-2 tazas al gusto"
+  ],
+  "recipeInstructions": "1. Si las semillas de anís y eneldo se trituran primero en un mortero, el sabor será ligeramente más intenso.\n2. Añadir las especias al vodka y dejar en infusión durante una semana, agitando el frasco ocasionalmente durante el proceso.\n3. Colar varias veces a través de un paño de queso.\n4. Incorporar una taza de jarabe de azúcar; remover y probar.\n5. Si se desea, añadir más jarabe de azúcar gradualmente, probando después de cada adición y removiendo hasta alcanzar el nivel de dulzura deseado sin consumir todo el jarabe.",
+  "url": null
+}

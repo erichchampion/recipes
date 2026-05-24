@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-and-vegetable-soup",
+  "name": "Beef and Vegetable Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "meats",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 pound beef stew meat, cut into 1-inch cubes",
+    "2 onions",
+    "2 potatoes",
+    "3 carrots",
+    "3 celery stalks",
+    "1/4 head cabbage",
+    "3 tablespoons margarine",
+    "1 1/2 teaspoons salt",
+    "1/2 teaspoon black pepper"
+  ],
+  "recipeInstructions": "1. Melt margarine in a large heavy pot with lid. Trim meat of all fat and cut into 1-inch cubes. Brown beef on all sides.\n2. Add vegetables (except cabbage), sliced into pieces approximately the same size, and add 5 cups water. Cover and simmer for 1-1/2 hours, adding more water if needed.\n3. Slice cabbage and add to pot along with salt and pepper. Simmer for 20-25 minutes longer.",
+  "url": null
+}

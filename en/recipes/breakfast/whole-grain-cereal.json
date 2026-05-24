@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "whole-grain-cereal",
+  "name": "Whole Grain Cereal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "cereals",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 cup whole wheat berries",
+    "1 cup whole rye berries",
+    "1 cup whole triticale",
+    "1 cup whole barley",
+    "1 cup brown rice",
+    "1 cup buckwheat groats",
+    "1 cup millet",
+    "1 cup sesame seeds",
+    "1 cup flaxseed",
+    "1 cup lentils",
+    "10 cups oat groats"
+  ],
+  "recipeInstructions": "1. Combine all the grains and legumes in a large bowl.\n2. To cook, measure 2 cups of the cereal mixture to 5 cups of water.\n3. Bring the mixture to a boil over medium heat.\n4. Reduce heat and let it simmer until fully cooked (usually about 30-40 minutes).\n5. Allow the cooked cereal to cool completely overnight.\n6. In the morning, reheat individual portions in the microwave until heated through.\n7. Enjoy your chewy and satisfying whole grain breakfast!",
+  "url": null
+}

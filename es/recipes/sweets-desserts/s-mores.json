@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "s-mores",
+  "name": "S'mores",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "acampada",
+    "varios"
+  ],
+  "recipeIngredient": [
+    "Marshmallows",
+    "Barras de Hershey",
+    "Galletas Graham",
+    "Encendedores o encendedor",
+    "Ganchos"
+  ],
+  "recipeInstructions": "1. Prepara una galleta Graham grande rompiéndola por la mitad.\n2. Coloca una barra de Hershey sobre la mitad de la galleta Graham que tenga chocolate.\n3. Inserta un marshmallow (o dos) en los encendedores o el encendedor.\n4. Sostén el marshmallow sobre el fuego hasta que esté ligeramente dorado y asado, teniendo cuidado de no quemarlo.\n5. Cuando el marshmallow esté completamente asado, colócalo sobre la barra de Hershey.\n6. Coloca la otra mitad de la galleta Graham encima del marshmallow.\n7. Presiona suavemente y disfruta de tu delicioso s'more.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-broccoli-parmesan",
+  "name": "Pollo Brócoli Parmesano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "rápido"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite",
+    "1 libra de pollo crudo",
+    "1/4 taza de cebolla picada",
+    "1 lata de sopa de champiñones cremosos",
+    "2 cucharadas de leche",
+    "1 cucharada de jerez",
+    "8 onzas de champiñones enlatados",
+    "1 taza de brócoli cocido",
+    "1/2 taza de queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. Cortar el pollo en cubos.\n2. Calentar el aceite en una sartén.\n3. Cocinar el pollo y la cebolla hasta que el pollo esté dorado y la cebolla esté tierna.\n4. Incorporar la sopa de champiñones cremosos, la leche y el jerez.\n5. Agregar los champiñones, el brócoli y el queso parmesano.\n6. Reducir el fuego a bajo.\n7. Tapar y dejar cocinar a fuego lento durante 10 minutos, removiendo ocasionalmente.\n8. Servir sobre espagueti caliente cocido.",
+  "url": null
+}

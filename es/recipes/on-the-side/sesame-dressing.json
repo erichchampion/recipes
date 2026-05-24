@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "sesame-dressing",
+  "name": "Aderezo de Sésamo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 cucharaditas azúcar glas",
+    "1/2 cucharadita pimentón dulce",
+    "1/2 cucharadita mostaza en polvo",
+    "1/2 cucharadita sal",
+    "1/2 taza gelatina de arándanos, derretida",
+    "1/4 taza jugo de limón fresco",
+    "1 cucharada vinagre de sidra",
+    "1 taza aceite para ensaladas",
+    "1 cucharada semillas de sésamo tostadas"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar el azúcar glas, pimentón, mostaza y sal.\n2. Incorporar la gelatina derretida, jugo de limón y vinagre de sidra.\n3. Agregar gradualmente el aceite para ensaladas hasta obtener una mezcla homogénea.\n4. Añadir las semillas de sésamo tostadas y mezclar bien.\n5. Refrigerar hasta su uso.",
+  "url": null
+}

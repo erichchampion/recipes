@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "balsamic-sauce",
+  "name": "Balsamic Sauce",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "italian",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup Balsamic vinegar",
+    "4 cloves Garlic; sliced",
+    "2 sprigs Fresh rosemary",
+    "2 tbsp Butter; optional"
+  ],
+  "recipeInstructions": "1. Place all ingredients except butter in a saucepan.\n2. Bring to a boil over medium heat.\n3. Reduce heat and let simmer until reduced by half, approximately 10 minutes.\n4. Sauce is ready when it coats the back of a spoon.\n5. Add optional butter and stir well.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-dip-sandwiches",
+  "name": "French Dip Sandwiches",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "sandwiches",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "3 pounds beef chuck roast, trimmed",
+    "2 cups water",
+    "1/2 cup soy sauce",
+    "1 teaspoon dried rosemary",
+    "1 teaspoon dried thyme",
+    "1 teaspoon garlic powder",
+    "1 bay leaf",
+    "3 whole peppercorns",
+    "8 french rolls, split"
+  ],
+  "recipeInstructions": "1. Place the beef chuck roast in a slow cooker.\n2. Add water, soy sauce, and seasonings.\n3. Cover and cook on high for 5-6 hours or until beef is tender.\n4. Remove meat from broth; shred with fork and keep warm.\n5. Strain broth; skim off fat.\n6. Serve shredded beef on split french rolls.\n7. Pour broth into small cups for dipping.",
+  "url": null
+}

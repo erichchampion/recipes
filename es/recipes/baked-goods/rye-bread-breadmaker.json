@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "rye-bread-breadmaker",
+  "name": "Pan de centeno - Panificadora",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 1/8 tazas de agua tibia",
+    "2 cucharadas de mantequilla",
+    "2 tazas de harina de uso común",
+    "1 taza de harina de centeno oscura",
+    "2 cucharaditas de levadura",
+    "1 1/2 cucharaditas de sal",
+    "3 cucharadas de azúcar",
+    "1 1/2 cucharaditas de semillas de eneldo al gusto"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes a la panificadora según las instrucciones del fabricante.\n2. Seleccionar el programa para pan blanco durante 3 horas.",
+  "url": null
+}

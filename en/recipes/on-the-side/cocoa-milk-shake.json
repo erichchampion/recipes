@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cocoa-milk-shake",
+  "name": "Cocoa Milk Shake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "chocolate",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "3 tablespoons cocoa powder",
+    "1/2 teaspoon sugar or honey",
+    "1 pinch salt",
+    "1/4 teaspoon vanilla extract",
+    "1 egg, well beaten",
+    "1 cup milk"
+  ],
+  "recipeInstructions": "1. Mix the cocoa and sugar with a little milk to create a smooth paste.\n2. Gradually add the remaining ingredients (milk and egg) to the paste, beating well.\n3. Serve immediately or chill in the refrigerator until ready to serve. Top with a spoonful of whipped cream if desired.",
+  "url": null
+}

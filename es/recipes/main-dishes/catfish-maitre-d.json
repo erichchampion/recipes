@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "catfish-maitre-d",
+  "name": "Pescado blanco al estilo del maestro",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "4 filetes de bagre (de 200 g cada uno)",
+    "Sal y pimienta al gusto",
+    "1/2 taza de harina",
+    "1/4 taza de aceite vegetal",
+    "1/4 libra de mantequilla derretida",
+    "2 cucharadas de jugo de limón",
+    "1 cucharada de perejil picado"
+  ],
+  "recipeInstructions": "1. Sazonar los filetes de bagre con sal y pimienta.\n2. Pasarlos por harina.\n3. Calentar una sartén con la mantequilla derretida a fuego medio.\n4. Dorar los filetes por ambos lados.\n5. Retirarlos de la sartén y colocarlos en un plato apto para el horno.\n6. Hornear a 180 °C durante 10 minutos.\n7. En una cacerola pequeña, mezclar la mantequilla con el jugo de limón.\n8. Llevar a ebullición y remover.\n9. Sazonar con sal y pimienta al gusto.\n10. Verter sobre los filetes de bagre.\n11. Decorar con rodajas de limón y perejil picado.\n12. Servir.\nRinde: 4 porciones.",
+  "url": null
+}

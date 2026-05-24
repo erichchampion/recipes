@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "short-cake",
+  "name": "Pastel corto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postre",
+    "dulces"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "4 cucharadas de azúcar",
+    "4 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "1 barra de mantequilla o margarina ablandada (4 cucharadas)",
+    "2 huevos",
+    "4 cucharadas de leche",
+    "6 trozos de mantequilla"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 200°F (400°C).\n2. Mezclar los cinco primeros ingredientes en un procesador de alimentos hasta combinarlos.\n3. Batir juntos los huevos y la leche.\n4. Verter la mezcla de huevo sobre la mezcla de harina y procesar solo lo suficiente para mezclar.\n5. Estirar la masa sobre una superficie enharinada a unos 1/2 cm de grosor.\n6. Cortar 12 círculos con un cortador redondo grande.\n7. Colocar seis de los círculos cortados en una bandeja para hornear.\n8. Poner una porción de mantequilla encima de cada uno y luego cubrir con el segundo círculo cortado.\n9. Hornear en el horno precalentado durante 15 minutos, o hasta que estén dorados.\n10. Dividir en dos capas para crear un pastel corto.",
+  "url": null
+}

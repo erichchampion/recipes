@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pie-spice",
+  "name": "Pie Spice",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "side dishes",
+    "spices"
+  ],
+  "recipeIngredient": [
+    "1/2 teaspoon cinnamon",
+    "1/4 teaspoon nutmeg",
+    "1/8 teaspoon allspice",
+    "1/8 teaspoon cardamom",
+    "1/4 teaspoon ground cloves"
+  ],
+  "recipeInstructions": "1. Combine the spices in a bowl.\n2. Blend them together until well mixed, ensuring you have enough for 1 9-inch pie.",
+  "url": null
+}

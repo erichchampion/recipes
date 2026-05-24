@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-pudding-1",
+  "name": "Rice Pudding 1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "desserts",
+    "puddings",
+    "rice",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 cups brown rice, cooked",
+    "3/4 cup skim milk",
+    "3/4 cup water",
+    "2 tablespoons honey",
+    "1 teaspoon vanilla extract",
+    "2 teaspoons cinnamon"
+  ],
+  "recipeInstructions": "1. Combine the cooked brown rice, skim milk, water, honey, vanilla extract, and cinnamon in a saucepan.\n2. Stir until well combined.\n3. Transfer the mixture to a baking dish or oven-safe pot.\n4. Cover with foil or a lid.\n5. Bake in a preheated oven at 350°F (175°C) for 45 minutes or until set.",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "diabetic-cake",
+  "name": "Diabetic Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "desserts",
+    "diabetic"
+  ],
+  "recipeIngredient": [
+    "1 cup Water",
+    "2 Jumbo Eggs",
+    "1 cup Raisins",
+    "Artificial sweetener to = 1 C. sugar",
+    "1 cup Unsweetened Applesauce",
+    "3/4 cup Oil",
+    "1 tsp Baking Soda",
+    "1/4 tsp Cinnamon",
+    "1/2 tsp Nutmeg",
+    "1 tsp Vanilla",
+    "1/2 tsp Salt",
+    "1 1/2 cups Flour"
+  ],
+  "recipeInstructions": "1. Cook raisins until soft and drain.\n2. Mix the cooked raisins with applesauce, eggs, artificial sweetener (equal to 1 cup of sugar), oil, baking soda, cinnamon, nutmeg, vanilla, and salt.\n3. Combine flour with the remaining ingredients in a separate bowl.\n4. Pour the mixture into a greased 8-inch x 8-inch or 9-inch x 9-inch pan.\n5. Bake at 350 degrees Fahrenheit for the specified time.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "soy-chicken",
+  "name": "Pollo Soy",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "olla de presión"
+  ],
+  "recipeIngredient": [
+    "2 pechugas de pollo sin piel ni hueso",
+    "1/2 taza de apio en rodajas",
+    "1/4 taza de salsa de soja baja en sodio",
+    "1 taza de agua",
+    "1/2 cebolla en rodajas",
+    "3 cucharadas de azúcar moreno"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en la olla a presión.\n2. Cierra bien la tapa.\n3. Coloca el regulador de presión en la válvula y cocina durante 5 minutos con el regulador moviéndose lentamente.\n4. Deja que la presión baje por sí sola.",
+  "url": null
+}

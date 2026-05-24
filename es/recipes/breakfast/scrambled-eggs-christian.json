@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "scrambled-eggs-christian",
+  "name": "Huevos revueltos - Estilo cristiano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "12 huevos batidos",
+    "1/3 taza de suero de leche",
+    "Sal y pimienta al gusto",
+    "2 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. Mezclar el suero de leche, la sal y la pimienta.\n2. Derretir la mantequilla en una sartén grande.\n3. Agregar los huevos y cocinar hasta el punto deseado, removiendo constantemente.",
+  "url": null
+}

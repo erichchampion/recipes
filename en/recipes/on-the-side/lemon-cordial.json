@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-cordial",
+  "name": "Lemon Cordial",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "liqueurs",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "4 Lemons",
+    "1 1/2 tsp Lemon Extract",
+    "1 fifth Vodka or Brandy",
+    "1 cup Sugar Syrup or Honey"
+  ],
+  "recipeInstructions": "1. Peel the lemons, avoiding the white pith.\n2. Steep the lemon peel in the alcohol base for two weeks.\n3. Strain through cheesecloth and add the sugar syrup or honey.\n4. If using lemon extract, steep it in the alcohol.\n5. If using honey and not wanting it cloudy, let it sit for two weeks before siphoning off the clear liquid.",
+  "url": null
+}

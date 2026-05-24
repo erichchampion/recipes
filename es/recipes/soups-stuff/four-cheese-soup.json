@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "four-cheese-soup",
+  "name": "Sopa de Cuatro Quesos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "queso/huevos",
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de mantequilla sin sal",
+    "1 puerro mediano - solo las partes blanca y verde claro, picado",
+    "4 tazas de caldo de pollo bajo en sodio o caldo enlatado",
+    "1 papa mediana, pelada y cortada en dados",
+    "2 tazas de crema de leche",
+    "3/4 taza de queso provolone rallado (aproximadamente 3 onzas)",
+    "3/4 taza de queso parmesano rallado (aproximadamente 3 onzas)",
+    "3/4 taza de queso mozzarella rallado (aproximadamente 3 onzas)",
+    "3/4 taza de queso cheddar rallado (aproximadamente 3 onzas)",
+    "Croutons"
+  ],
+  "recipeInstructions": "6 porciones\n1. Derretir la mantequilla en una cacerola grande pesada a fuego medio.\n2. Agregar el puerro y saltear hasta que esté tierno, aproximadamente 5 minutos.\n3. Añadir el caldo y la papa; llevar a ebullición.\n4. Reducir el fuego y cocinar a fuego lento durante 25 minutos, removiendo ocasionalmente.\n5. Purificar la sopa en lotes utilizando un licuadora inmersa o procesador de alimentos.\n6. Devolver el puré a la cacerola.\n7. Incorporar la crema de leche y llevar a una cocción suave.\n(La sopa se puede preparar con anticipación. Cubrir y refrigerar; calentar antes de continuar.)\n8. Agregar gradualmente todos los quesos, revolviendo hasta que se derritan.\n9. Verter la sopa en cuencos y espolvorear con croutons.",
+  "url": null
+}

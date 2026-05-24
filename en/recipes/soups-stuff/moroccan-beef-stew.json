@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "moroccan-beef-stew",
+  "name": "Moroccan Beef Stew",
+  "recipeCuisine": "Africa & Middle East",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "beef",
+    "morocco",
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "2 lb Chuck roast (bite-size)",
+    "3 tbsp Flour",
+    "2 tsp Salt",
+    "2 tbsp Vegetable oil",
+    "20 oz Pineapple chunks",
+    "2 cups Juice/water",
+    "1/2 tsp Paprika",
+    "1/4 tsp Coriander",
+    "1/4 tsp Turmeric",
+    "1/4 tsp Cumin",
+    "1/4 tsp Ginger",
+    "1/8 tsp Cayenne pepper",
+    "1 cup Chopped celery",
+    "1/2 cup Chopped onion",
+    "2 cloves Minced garlic",
+    "1 cup Sliced carrots",
+    "3 small Tomatoes, wedged"
+  ],
+  "recipeInstructions": "1. Brown the chuck roast in oil.\n2. Add onion and garlic to the pot.\n3. Pour in juice/water.\n4. Stir in spices (paprika, coriander, turmeric, cumin, ginger, cayenne pepper).\n5. Add pineapple chunks and cook for 30 minutes more.\n6. Add carrots and tomatoes, then simmer until tender.\n7. Serve over rice or with bread.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-chicken-curry",
+  "name": "Curry de Pollo Fácil",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de margarina o mantequilla",
+    "1 cucharada de polvo de curry",
+    "1 cebolla pequeña picada (aproximadamente 1/4 taza)",
+    "2 tazas de pollo cortado y cocido",
+    "1/3 taza de pasas",
+    "1 manzana roja sin hueso, cortada en trozos gruesos",
+    "1 lata (350 g) de sopa de pollo condensada",
+    "1 lata de agua",
+    "2 tazas de arroz caliente",
+    "Cantidad deseada de maní"
+  ],
+  "recipeInstructions": "1. Derrite la margarina y el polvo de curry en una cacerola de 3 cuartos a fuego medio durante aproximadamente 4 minutos, revolviendo con frecuencia hasta que la cebolla esté tierna.\n2. Agrega los ingredientes restantes excepto el arroz y los maníes.\n3. Cocina, revolviendo ocasionalmente, hasta que se caliente.\n4. Sirve sobre el arroz y espolvorea con maní.",
+  "url": null
+}

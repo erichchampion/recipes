@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "angel-biscuits",
+  "name": "Galletas Ángel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "panes",
+    "desayuno"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de azúcar",
+    "1 sobre de levadura",
+    "1/2 taza de agua tibia",
+    "5 tazas de harina, tamizada",
+    "3 cucharaditas de polvo de hornear",
+    "1 cucharadita de sal",
+    "2 tazas de leche",
+    "3/4 taza de manteca derretida"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar el azúcar, la levadura y el agua tibia. Dejar reposar durante unos 10 minutos.\n2. En otro bol, combinar la manteca derretida con la leche hasta que la mezcla esté a una temperatura no demasiado caliente (aproximadamente 115 °F).\n3. Tamizar juntos la harina, el polvo de hornear y la sal.\n4. Alternar añadiendo la mezcla de leche y los ingredientes secos a la mezcla de levadura, comenzando y terminando con los ingredientes secos.\n5. Estirar sobre una superficie enharinada y cortar las galletas con un cortapastas.\n6. Colocar sobre una bandeja para hornear y hornear durante 12 a 15 minutos a 400 °F.",
+  "url": null
+}

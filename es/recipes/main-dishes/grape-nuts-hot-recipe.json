@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "grape-nuts-hot-recipe",
+  "name": "Receta de Grapas Calientes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de granos de uva (cereal)",
+    "1/4 taza de leche desnatada",
+    "Fruta fresca (opcional)",
+    "Miel (opcional)"
+  ],
+  "recipeInstructions": "1. Coloca los granos de uva en un bol apto para microondas.\n2. Añade la leche desnatada al bol.\n3. Microondas a potencia máxima hasta alcanzar el nivel de crujiente deseado. Para un crujiente más intenso, calienta durante 30 segundos; para uno más suave, calienta durante 60 segundos.\n4. Una vez listo, añade fruta fresca o miel al gusto.",
+  "url": null
+}

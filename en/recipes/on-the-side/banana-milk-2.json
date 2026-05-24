@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-milk-2",
+  "name": "Banana Milk",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "dairy",
+    "fruits",
+    "mcdougall",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 banana; peeled and sliced",
+    "1 cup water",
+    "1/2 tsp vanilla extract (optional)"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a blender.\n2. Process until smooth.",
+  "url": null
+}

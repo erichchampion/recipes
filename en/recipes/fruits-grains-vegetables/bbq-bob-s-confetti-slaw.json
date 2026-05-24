@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "bbq-bob-s-confetti-slaw",
+  "name": "BBQ Bob's Confetti Slaw",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "salad",
+    "salads",
+    "slaw"
+  ],
+  "recipeIngredient": [
+    "Cabbage (head), chopped",
+    "Carrot (large), chopped",
+    "Red onion, chopped",
+    "Sweet red pepper, diced",
+    "Yellow pepper, diced"
+  ],
+  "recipeInstructions": "1. Chop cabbage into bite-sized pieces.\n2. Chop carrot into matchsticks.\n3. Slice onion thinly.\n4. Dice peppers into small cubes.",
+  "url": null
+}

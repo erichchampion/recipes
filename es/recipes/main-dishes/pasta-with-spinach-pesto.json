@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-with-spinach-pesto",
+  "name": "Pasta con Pesto de Espinacas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "12 onzas de pasta",
+    "1 1/2 tazas de espinacas frescas, lavadas y escurridas",
+    "1/4 taza de agua o caldo de pollo",
+    "3 cucharadas de aceite de oliva",
+    "2 cucharadas de piñones",
+    "3 cucharadas de queso parmesano rallado",
+    "1 1/2 cucharaditas de ajo en polvo",
+    "Pimienta negra al gusto"
+  ],
+  "recipeInstructions": "1. Cocine la pasta en agua hirviendo con sal hasta que esté firme al mordisco, siguiendo las instrucciones del paquete. Escurra y coloque en un bol para servir.\n2. Mientras tanto, procese en un robot de cocina las espinacas, el agua o caldo, el aceite de oliva, los piñones, el queso parmesano, el ajo en polvo y la pimienta hasta obtener una mezcla suave. Vierta sobre la pasta.",
+  "url": null
+}

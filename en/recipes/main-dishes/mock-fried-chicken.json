@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-fried-chicken",
+  "name": "Mock Fried Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1/4 cup Buttermilk",
+    "1/2 tsp Salt",
+    "1/2 tsp Fresh Ground Pepper",
+    "1/4 tsp Ground Nutmeg",
+    "3 1/2 lb Chicken, Skinned, Cut Up",
+    "1 cup Fine Bread Crumbs"
+  ],
+  "recipeInstructions": "1. Preheat oven to 400°F.\n2. Mix buttermilk, salt, pepper, and nutmeg in a large bowl until well combined.\n3. Add chicken pieces one at a time, turning to coat evenly with the buttermilk mixture.\n4. Place bread crumbs in a shallow bowl.\n5. Turn each coated chicken piece into the bread crumbs, ensuring it is evenly covered.\n6. Arrange the chicken on a foil-lined baking sheet.\n7. Bake until the coating is crisp and the juice runs clear when a thigh is pierced with a fork (about 50 minutes).\n8. Serve hot or at room temperature.",
+  "url": null
+}

@@ -1,0 +1,17 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-nuts",
+  "name": "Beer Nuts",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "3/4 Cup water per lb of raw peanuts",
+    "1 Cup sugar per lb of raw peanuts"
+  ],
+  "recipeInstructions": "1. Combine sugar and water in a heavy skillet over medium-low heat.\n2. Cook until all liquid has evaporated, stirring constantly.\n3. Spread the mixture on a heavily salted cookie sheet.\n4. Top the mixture with more salt.\n5. Bake at 275°F for 30 minutes, stirring occasionally to prevent sticking.",
+  "url": null
+}

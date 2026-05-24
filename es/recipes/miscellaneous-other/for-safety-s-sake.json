@@ -1,0 +1,16 @@
+{
+  "@type": "Recipe",
+  "identifier": "for-safety-s-sake",
+  "name": "Por el bien de la seguridad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "misceláneo",
+    "conservación"
+  ],
+  "recipeIngredient": [
+    "El enlatado bajo presión es el único método recomendado para envasar carnes, aves de corral, mariscos y verduras. El bacteria Clostridium botulinum se destruye en alimentos poco ácidos cuando se procesan a la temperatura y presión correctas en ollas de enlatado bajo presión. Utilizar ollas de agua hirviendo para estos alimentos supone un riesgo real de intoxicación por botulismo."
+  ],
+  "recipeInstructions": "Si las bacterias Clostridium botulinum sobreviven y crecen dentro de un tarro de comida sellado, pueden producir una toxina mortal. Incluso un bocado de comida que contenga esta toxina puede ser letal. Hervir los alimentos 10 minutos a altitudes inferiores a 1.000 pies destruye esta poison si está presente. Para altitudes iguales o superiores a 1.000 pies, añadir 1 minuto por cada 1.000 pies adicionales de altitud. Advertencia: Para evitar el riesgo de botulismo, los alimentos poco ácidos y los tomates que no se hayan envasado según las recomendaciones de esta publicación o otras aprobadas por el USDA deben hervirse como se indica anteriormente, incluso si no se observan signos de deterioro. Todos los alimentos poco ácidos envasados de acuerdo con las recomendaciones aprobadas pueden consumirse sin hervirlos cuando estés seguro de lo siguiente:\nEl alimento fue procesado en una olla de enlatado bajo presión.\nLa presión medidora de la olla era precisa.\nSe utilizaron tiempos y presiones de procesamiento actualizados para el tamaño del tarro, el estilo de empaquetado y el tipo de alimento procesado.\nSe siguió el tiempo de procesamiento y presión recomendado para esterilizar el alimento a tu altitud.\nLa tapa del tarro está firmemente sellada y presenta una curvatura hacia adentro.\nNo ha habido fugas al abrir el tarro.\nNo sale líquido al abrir el tarro.\nNo se detectan olores artificiales o \"extraños\".",
+  "url": null
+}

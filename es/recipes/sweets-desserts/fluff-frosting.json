@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "fluff-frosting",
+  "name": "Glaseado esponjoso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "glaseado",
+    "glasés"
+  ],
+  "recipeIngredient": [
+    "1 taza de leche",
+    "1/4 taza de harina",
+    "1 cucharadita de vainilla",
+    "1 taza de azúcar",
+    "1/2 taza de mantequilla o margarina",
+    "1/2 taza de manteca vegetal"
+  ],
+  "recipeInstructions": "1. En una cacerola pequeña, cocinar la harina y la leche hasta que espese.\n2. Mezclar bien y dejar enfriar (tapar la mezcla mientras se enfría).\n3. En un bol, batir el azúcar, la mantequilla o margarina y la manteca vegetal a velocidad alta hasta obtener una textura esponjosa.\n4. Agregar la mezcla de leche y vainilla.\n5. Continuar batiendo hasta que la crema esté muy esponjosa.",
+  "url": null
+}

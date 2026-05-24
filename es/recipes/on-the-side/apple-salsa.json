@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-salsa",
+  "name": "Salsa de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "frutas",
+    "salsas",
+    "salsas y aderezos",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 manzanas rojas medianas (variedades Mac o Cortland)",
+    "2 cucharadas de jugo de limón",
+    "1/2 taza de segmentos de naranja, picados",
+    "1/2 taza de cebolla, finamente picada",
+    "1/2 taza de pimiento verde, finamente picado",
+    "1 pimiento jalapeño, picado",
+    "1 diente de ajo, picado",
+    "2 cucharadas de cilantro fresco, picado",
+    "1 cucharada de vinagre de sidra",
+    "1/2 cucharadita de comino en polvo",
+    "2 cucharadas de aceite vegetal"
+  ],
+  "recipeInstructions": "1. Retira el corazón y corta las manzanas en cubos de 1/4 de pulgada.\n2. Mezcla inmediatamente los cubos de manzana con jugo de limón.\n3. Agrega el resto de ingredientes y combina bien.\n4. Refrigera durante 2 horas antes de servir.\n5. Esta salsa combina perfectamente con cerdo, pollo, pavo y pescado. Rinde aproximadamente 3 tazas.",
+  "url": null
+}

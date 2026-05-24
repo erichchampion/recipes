@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pancakes-4",
+  "name": "Pancakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "pancakes"
+  ],
+  "recipeIngredient": [
+    "4 egg whites",
+    "1 tablespoon molasses",
+    "1 teaspoon vanilla extract",
+    "2 tablespoons wheat flour",
+    "1 teaspoon cinnamon",
+    "2 teaspoons sugar",
+    "1/4 cup oatmeal"
+  ],
+  "recipeInstructions": "1. In a large bowl, mix the egg whites, molasses, vanilla extract, wheat flour, cinnamon, and sugar until well combined.\n2. Gradually add the oatmeal to the mixture and stir until you have a batter-like consistency.\n3. Cook the pancakes on a preheated griddle or non-stick pan over medium heat until golden brown on both sides.",
+  "url": null
+}

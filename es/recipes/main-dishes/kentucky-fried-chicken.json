@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "kentucky-fried-chicken",
+  "name": "Pollo Frito de Kentucky",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "diversos",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 pollo joven",
+    "1 1/2 tazas de harina tamizada",
+    "1/2 cucharadita de sal",
+    "Una pizca de pimienta",
+    "1 1/2 cucharaditas de bicarbonato de sodio",
+    "1 huevo",
+    "1/2 taza de leche"
+  ],
+  "recipeInstructions": "1. Condimentar y cocinar el pollo hasta que esté hecho.\n2. Secar bien los trozos de pollo.\n3. Mezclar la harina tamizada, la sal, la pimienta y el bicarbonato en un bol.\n4. En otro bol, batir el huevo y añadir la leche para hacer una masa.\n5. Combinar la mezcla líquida con los ingredientes secos hasta que estén apenas combinados.\n6. Sumergir cada trozo de pollo en la masa.\n7. Freír los trozos de pollo hasta que estén dorados por todos lados.",
+  "url": null
+}

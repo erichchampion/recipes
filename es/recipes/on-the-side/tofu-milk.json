@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "tofu-milk",
+  "name": "Leche de tofu",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "lácteos",
+    "guarniciones",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "4 oz de tofu",
+    "1/2 taza a 2/3 taza de agua",
+    "2 cucharaditas de sirope de arce"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una licuadora.\n2. Licuar hasta obtener una textura suave.\n3. Utilizar menos agua para una consistencia más cremosa, o la cantidad completa para hacer leche.\n4. Rinde aproximadamente 1 taza por ración.",
+  "url": null
+}

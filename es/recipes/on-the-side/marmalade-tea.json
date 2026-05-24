@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "marmalade-tea",
+  "name": "Te de mermelada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "aperitivos",
+    "té"
+  ],
+  "recipeIngredient": [
+    "5 tazas de agua hirviendo",
+    "1 bolsita de té Lipton de tamaño familiar",
+    "1/2 taza de mermelada de naranja",
+    "2 cucharadas de azúcar",
+    "2 cucharadas de jugo de limón"
+  ],
+  "recipeInstructions": "1. Verter 5 tazas de agua hirviendo sobre la bolsita de té.\n2. Tapar y dejar reposar durante 5 minutos.\n3. Retirar la bolsita de té, apretándola suavemente.\n4. Agregar la mermelada, el azúcar y el jugo de limón, y mezclar bien.\n5. Colar la mezcla si se prefiere.\n6. Servir caliente. Rinde para 5 tazas.",
+  "url": null
+}

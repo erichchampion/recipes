@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-danish",
+  "name": "Danés de Queso",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "pasteles",
+    "probar"
+  ],
+  "recipeIngredient": [
+    "2 paquetes de hojaldre en forma de media luna",
+    "2 paquetes de queso crema de 225 g",
+    "1 taza de azúcar",
+    "1 cucharadita de extracto de vainilla",
+    "1 yema de huevo, reservar la clara"
+  ],
+  "recipeInstructions": "1. Forrar el fondo de un molde rectangular de 30 x 40 cm con una capa de hojaldre, presionando para que se ajuste.\n2. En un bol, mezclar el queso crema, el azúcar, las yemas de huevo y la vainilla hasta obtener una consistencia homogénea.\n3. Extender la mezcla uniformemente sobre la base de hojaldre.\n4. Cubrir con la otra capa de hojaldre y sellar los bordes.\n5. Batir la clara de huevo y pincelar la superficie de los daneses.\n6. Hornear a 180 °C durante 30 minutos.\nOpcional:\nAl enfriar, espolvorear con azúcar en polvo, glaseado de chocolate o fruta con crema batida.",
+  "url": null
+}

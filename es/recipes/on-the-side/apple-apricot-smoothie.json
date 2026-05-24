@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-apricot-smoothie",
+  "name": "Batido de manzana y albaricoque",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "frutas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 manzana Golden Delicious, pelada, sin corazón y cortada en trozos",
+    "1 taza de jugo de manzana",
+    "4 albaricoques frescos; deshuesados (la piel es opcional)",
+    "1 banana, pelada",
+    "3/4 taza de yogur natural",
+    "10-12 cubos de hielo",
+    "1 cucharada de miel"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes a una licuadora.\n2. Mezclar hasta obtener una consistencia suave.\nSirve para 2-4 personas. Tiempo de preparación: 5 minutos.",
+  "url": null
+}

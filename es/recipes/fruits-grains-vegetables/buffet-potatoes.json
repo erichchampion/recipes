@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "buffet-potatoes",
+  "name": "Patatas para buffet",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "patatas",
+    "verduras",
+    "patatas-verduras"
+  ],
+  "recipeIngredient": [
+    "2 libras de puré de patatas congelado, descongelado durante 45 minutos",
+    "100 gramos de mantequilla derretida",
+    "1 lata de sopa de pollo cremoso",
+    "1/4 taza de cebolla picada",
+    "1 tarrina (500 ml) de crema agria",
+    "10 onzas de queso cheddar rallado",
+    "Pan rallado"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el pan rallado.\n2. Verter la mezcla en un molde para horno de 30 x 40 cm o una fuente Pyrex.\n3. Espolvorear con pan rallado.\n4. Hornear a 180°C durante 1 hora.\n5. Servir para aproximadamente 10 personas.",
+  "url": null
+}

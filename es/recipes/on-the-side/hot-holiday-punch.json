@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-holiday-punch",
+  "name": "Ponche Navideño Caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "batido",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "3 tazas de jugo de manzana",
+    "3 tazas de jugo de naranja",
+    "6 tazas de jugo de arándanos cocinado",
+    "3/4 taza de jarabe de arce",
+    "2 cucharadas de azúcar en polvo",
+    "1 1/2 cucharaditas de canela",
+    "3/4 cucharadita de clavo",
+    "3/4 cucharadita de nuez moscada",
+    "Palos de canela (opcional)"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes excepto los palos de canela en una olla grande y pesada.\n2. Llevar a ebullición a fuego alto.\n3. Reducir el calor a bajo y dejar hervir durante unos minutos.\n4. Retirar del fuego y dejar enfriar un poco antes de servir.\n5. Opcionalmente, añadir palos de canela como palas decorativas en tazas de ponche caliente.\n6. Alternativamente, transferir el ponche a una olla de cocción lenta después de hervir y mantenerlo caliente a fuego bajo.",
+  "url": null
+}

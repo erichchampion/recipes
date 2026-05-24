@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "stack-a-dinner",
+  "name": "Stack-a-Dinner",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1/2 teaspoon olive oil",
+    "1 pound ground chicken breast, skinless, cooked",
+    "1/2 cup onions, chopped",
+    "1/2 cup bell peppers, chopped",
+    "8 ounces no-salt-added tomato sauce",
+    "1/4 cup catsup",
+    "1/2 teaspoon oregano",
+    "3 drops hot sauce",
+    "1/4 cup water",
+    "1 teaspoon salt",
+    "1/2 teaspoon black pepper",
+    "2 cups long-grain rice, cooked",
+    "1 cup frozen green peas, thawed",
+    "1 cup fat-free cheddar cheese, grated"
+  ],
+  "recipeInstructions": "1. In a skillet, heat olive oil over medium heat.\n2. Add chicken, onions, and bell peppers to the skillet.\n3. Cook until the chicken is no longer tender and vegetables are tender.\n4. Stir in tomato sauce, catsup, oregano, hot sauce, water, salt, and black pepper.\n5. Bring mixture to a boil and stir often.",
+  "url": null
+}

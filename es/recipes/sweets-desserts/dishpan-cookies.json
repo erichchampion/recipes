@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "dishpan-cookies",
+  "name": "Galletas del Balde",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de azúcar morena",
+    "2 tazas de azúcar blanca",
+    "1 libra de mantequilla o margarina ablandada",
+    "4 tazas de harina",
+    "4 huevos",
+    "1/2 cucharadita de sal",
+    "2 cucharaditas de bicarbonato de sodio",
+    "2 cucharaditas de extracto de vainilla",
+    "4 tazas de copos de maíz",
+    "12 onzas de chispas de chocolate",
+    "1/2 bolsa adicional de chispas de chocolate",
+    "1 1/2 tazas de avena Quaker",
+    "1 taza de coco rallado",
+    "1 taza de nueces o pecanas picadas",
+    "12 onzas de chispas de butterscotch",
+    "1/2 taza de pasas"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un cubo para platos u otro contenedor grande.\n2. Refrigerar durante 2 horas.\n3. Formar la mezcla en montículos y colocarlos en bandejas para galletas forradas con papel pergamino.\n4. Hornear a 175 °C durante unos 10 minutos.",
+  "url": null
+}

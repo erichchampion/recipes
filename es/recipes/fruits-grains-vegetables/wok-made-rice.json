@@ -1,0 +1,16 @@
+{
+  "@type": "Recipe",
+  "identifier": "wok-made-rice",
+  "name": "Arroz hecho en wok",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "2 tazas de agua",
+    "1 taza de arroz"
+  ],
+  "recipeInstructions": "1. Llevar el agua a ebullición en el wok a fuego alto.\n2. Añadir el arroz y cubrir el wok.\n3. Reducir el fuego a medio y dejar cocer durante 15 minutos o hasta que se absorba todo el agua.\n4. Apagar el fuego y dejar reposar el arroz durante 5 minutos.\n5. Desmenuzar el arroz con un tenedor y servir.\nRinde: 3 tazas de arroz",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-casserole",
+  "name": "Mexican Casserole",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "ground beef",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 1/2 pounds ground beef",
+    "1 large onion",
+    "3 cloves garlic",
+    "1 can Rotel tomatoes with chili peppers",
+    "1 can condensed cream of chicken soup",
+    "1 can Ranch-style beans",
+    "2 1/2 cups shredded sharp cheddar cheese",
+    "1 package corn tortillas, torn into pieces"
+  ],
+  "recipeInstructions": "1. Cook the ground beef in a skillet with onion and garlic over medium heat until no longer pink. Drain any excess fat.\n2. Mix the cooked meat with the cans of Rotel tomatoes, soup, and beans.\n3. Preheat oven to 350°F (175°C).\n4. In a casserole dish, spread half the tortillas on the bottom.\n5. Layer half the meat mixture over the tortillas.\n6. Sprinkle half the shredded cheese on top.\n7. Repeat steps 4-6 with remaining ingredients.\n8. Bake for 30-35 minutes or until hot and bubbly.\n9. Serve topped with shredded lettuce, chopped tomatoes, black olives, sour cream, jalapeno slices, and salsa.",
+  "url": null
+}

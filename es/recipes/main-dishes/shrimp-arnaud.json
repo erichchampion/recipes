@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "shrimp-arnaud",
+  "name": "Camarones Arnaud",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "aperitivos",
+    "plato principal",
+    "carne",
+    "marisco",
+    "gambas"
+  ],
+  "recipeIngredient": [
+    "1 camarón congelado (en bolsa)",
+    "2 cucharadas de aceite de maní",
+    "2 cucharadas de vinagre blanco",
+    "1 cucharada de cebolla verde picada",
+    "1 cucharada de salsa picante",
+    "2 cucharaditas de mostaza caliente",
+    "1 diente de ajo mediano",
+    "1/4 cucharadita de pimentón"
+  ],
+  "recipeInstructions": "1. Cocinar la bolsa de camarones según las instrucciones del paquete.\n2. Escurrir los camarones y dejarlos enfriar por completo.\n3. En un bol, mezclar el aceite, el vinagre blanco, la cebolla verde picada, la salsa picante, la mostaza caliente y el ajo machacado. Sazonar con sal.\n4. Agregar los camarones fríos a la mezcla y revolver para que queden bien cubiertos.\n5. Tapar el bol y refrigerar durante al menos 3 horas, revolviendo ocasionalmente.\n6. Servir escurridos los camarones y espolvorear ligeramente con pimentón.",
+  "url": null
+}

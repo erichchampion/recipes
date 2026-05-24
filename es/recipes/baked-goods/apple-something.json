@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-something",
+  "name": "Manzanas algo así",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 taza de mezcla instantánea de pudín de vainilla preparado",
+    "1/4 taza de puré de manzana",
+    "1/4 taza de agua",
+    "1 huevo batido",
+    "1/2 cucharadita de sal",
+    "1 cucharada de azúcar",
+    "4 tazas de harina para todo uso",
+    "1 cucharadita de levadura seca activa"
+  ],
+  "recipeInstructions": "1. Prepare la masa según las instrucciones de su máquina panificadora.\n2. Para el relleno, mezcle juntos media taza de mantequilla derretida o margarina (o 1/4 taza), cuatro onzas de queso crema (como Neufchatel) y 1 cucharada de azúcar.\n3. Agregue 3 cucharadas de canela, pasas y nueces si lo desea.\n4. Añada 1/2 cucharadita de extracto de vainilla a la mezcla de queso crema, luego incorpore gradualmente 2 tazas de azúcar glas hasta obtener una consistencia suave. Finalmente, agregue unas cucharadas de leche para lograr la textura deseada.\nLa receta se ha probado con éxito tanto con queso crema entero como bajo en grasa, obteniendo resultados similares con este último. No se utilizaron quesos crema sin grasa ya que no dieron buenos resultados.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-noodle-soup-2",
+  "name": "Chicken Noodle Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "amish",
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "4 lb Chicken",
+    "3 quarts Cold Water",
+    "1 Onion, Sliced",
+    "1 Carrot, Sliced",
+    "1 Bay Leaf",
+    "1 tsp Parsley",
+    "Salt and Pepper"
+  ],
+  "recipeInstructions": "1. Wash and clean the chicken carefully. Cut it into pieces.\n2. Cover the chicken with cold water in a large pot.\n3. Add the sliced onion, carrot, bay leaf, parsley, salt, and pepper.\n4. Bring to a boil, then reduce heat and let simmer for 3 hours or until the chicken is tender.\n5. Skim off any fat that rises to the surface.\n6. Remove the chicken from the pot and shred it if desired.\n7. Add the noodles to the pot and cook for an additional 15 minutes until they are done.\n8. Serve hot.",
+  "url": null
+}

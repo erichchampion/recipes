@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "diet-rite-bread",
+  "name": "Pan integral ligero",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 sobre de levadura",
+    "3 tazas de harina panadera",
+    "1 1/4 tazas de soda sin azúcar (Diet Rite o Club Soda) a temperatura ambiente"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en el pan del panificador.\n2. Selecciona la opción de pan blanco en la máquina de hacer pan.\n3. Presiona el botón de inicio para comenzar a hornear.",
+  "url": null
+}

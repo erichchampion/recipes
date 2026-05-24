@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-baja-coffee",
+  "name": "Café Baja Caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "guarniciones",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "8 tazas de agua caliente",
+    "3 cucharadas de polvo de café instantáneo",
+    "1/2 taza de licor de café",
+    "1/4 taza de crema de cacao",
+    "3/4 taza de crema batida",
+    "2 cucharadas de chocolate semiamargo rallado"
+  ],
+  "recipeInstructions": "1. En una olla de cocción lenta, combina el agua caliente, el polvo de café instantáneo, el licor de café y la crema de cacao.\n2. Tapa y calienta a fuego bajo durante 2 a 4 horas.\n3. Vierte la mezcla en tazas.\n4. Adorna cada taza con crema batida y chocolate semiamargo rallado.",
+  "url": null
+}

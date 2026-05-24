@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-cornbread-1",
+  "name": "Mexican Cornbread#1",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "3 cups Cornmeal",
+    "1/2 cup Flour",
+    "2 tsp Baking soda",
+    "2 tsp Salt",
+    "2 tbsp Sugar",
+    "3 Egg, beaten",
+    "2 1/2 cups Buttermilk",
+    "1/2 cup Oil",
+    "1 large Onion, chopped",
+    "1/2 tsp Garlic powder",
+    "1/2 cup Jalapeno pepper, finely diced",
+    "1 oz Pimiento, chopped",
+    "1/4 lb Bacon, crumbled",
+    "15 oz Cream corn",
+    "1 1/2 cups Cheese, grated"
+  ],
+  "recipeInstructions": "1. Preheat oven to 400°F (200°C).\n2. Mix together the cornmeal, flour, baking soda, salt, and sugar in a large bowl.\n3. In a separate bowl, whisk together the buttermilk, beaten eggs, and oil.\n4. Add the wet ingredients to the dry ingredients with a few swift strokes of the mixing spoon. Do not beat the dough; just stir enough to moisten all particles.\n5. Fold in the chopped onion, garlic powder, jalapeno pepper, pimiento, crumbled bacon, cream corn, and grated cheese.\n6. Pour the batter into a greased cast iron skillet.\n7. Bake for 25 to 30 minutes, or until the top is golden brown and a toothpick inserted into the center comes out clean.\nWARNING: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

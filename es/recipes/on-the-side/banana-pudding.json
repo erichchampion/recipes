@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-pudding",
+  "name": "Budín de Plátano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pasteles",
+    "galletas",
+    "budines",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "8 oz. de queso crema (a temperatura ambiente), batido",
+    "1 lata de Eagle Brand leche",
+    "1 pudín instantáneo de vainilla grande",
+    "3 tazas de leche fría",
+    "1 cucharadita de extracto de vainilla",
+    "plátanos",
+    "galletas de vainilla",
+    "8 onzas de Cool Whip"
+  ],
+  "recipeInstructions": "1. Mezclar el pudín instantáneo de vainilla, la leche de Eagle Brand y el queso crema a temperatura ambiente hasta que quede bien combinado.\n2. En un bol separado, doblar suavemente la mitad de la mezcla de queso crema batido con el Cool Whip.\n3. Forrar un plato de servicio con galletas de vainilla.\n4. Alternar capas de galletas, plátanos y mezcla de pudín en el plato.\n5. Verter el Cool Whip reservado sobre las capas.\n6. Refrigerar hasta que esté listo para servir.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomatoes-vinaigrette",
+  "name": "Tomatoes Vinaigrette",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "diabetic",
+    "salads",
+    "vegetable"
+  ],
+  "recipeIngredient": [
+    "1 cup sliced tomatoes (2 medium)",
+    "1 cup thinly sliced cucumber (1 medium)",
+    "1/2 cup sliced onion",
+    "1/4 cup wine vinegar",
+    "1/8 teaspoon celery seed",
+    "1/4 teaspoon ground savory",
+    "1/4 teaspoon ground tarragon",
+    "1/4 teaspoon crumbled bay leaf",
+    "1/8 teaspoon pepper"
+  ],
+  "recipeInstructions": "1. Alternate layers of vegetables in a shallow glass dish.\n2. Combine vinegar, herbs and spices, mix well, and pour over the vegetables.\n3. Cover and chill several hours or overnight.\n4. Drain and serve on shredded lettuce.\n5. Garnish with 2 teaspoons chopped parsley.",
+  "url": null
+}

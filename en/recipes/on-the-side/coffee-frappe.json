@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "coffee-frappe",
+  "name": "Coffee Frappe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "coffee",
+    "eggs",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "18 Ice cubes (to 22)",
+    "7 oz Double-strength coffee (chilled)",
+    "2 tbsp Sugar",
+    "2 tbsp Syrup (vanilla, hazelnut, raspberry or other)",
+    "Whipped cream (for garnish)"
+  ],
+  "recipeInstructions": "1. Place the ice, coffee, sugar and syrup in a blender.\n2. Blend until the frappe is smooth.\n3. Pour into a large, tall glass.\n4. Garnish with a dollop of whipped cream.\nSource: \"Starbucks Passion for Coffee\"",
+  "url": null
+}

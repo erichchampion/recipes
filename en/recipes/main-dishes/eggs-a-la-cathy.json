@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "eggs-a-la-cathy",
+  "name": "Eggs a La Cathy",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "eggs",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 package Crescent rolls",
+    "1 cup Ham, cubed",
+    "8 oz Monterey Jack, sliced",
+    "4 Eggs",
+    "3/4 cup Milk",
+    "1/2 cup Onions, chopped",
+    "1 1/2 tsp Mustard, Dijon",
+    "3/4 cup Basil leaves"
+  ],
+  "recipeInstructions": "1. Preheat oven to 425°F.\n2. Place crescent rolls in a 13\" x 9-inch pan and press up sides to form crust.\n3. Sprinkle with ham, then cover with cheese slices.\n4. In a bowl, whisk together eggs, milk, onions, mustard, and basil until combined.\n5. Pour the egg mixture evenly over the top of the rolls.\n6. Bake for 20 minutes or until golden brown.",
+  "url": null
+}

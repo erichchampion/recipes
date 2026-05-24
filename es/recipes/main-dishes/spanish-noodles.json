@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "spanish-noodles",
+  "name": "Pasta española",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "cereales",
+    "plato principal",
+    "pasta",
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "1/2 cucharadita de aceite de oliva",
+    "1/2 taza de cebolla picada",
+    "1/2 taza de pimiento rojo picado",
+    "1 libra de pechuga de pollo molida sin piel, cocida",
+    "28 onzas de tomates triturados",
+    "1/4 taza de salsa chili",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra",
+    "3 tazas de sustituto de espaguetis sin yemas"
+  ],
+  "recipeInstructions": "1. En una sartén, calentar el aceite a fuego medio.\n2. Agregar la cebolla, el pimiento rojo y el pollo. Cocinar hasta que el pollo ya no sea rosado y las verduras estén tiernas.\n3. Incorporar los tomates triturados, la salsa chili, la sal, la pimienta negra y el sustituto de espaguetis.\n4. Cocinar a fuego lento, cubierto, durante 30 minutos o hasta que los fideos estén hechos.",
+  "url": null
+}

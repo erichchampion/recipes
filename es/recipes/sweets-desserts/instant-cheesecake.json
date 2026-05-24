@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "instant-cheesecake",
+  "name": "Tarta de queso instantánea",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pastel",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 galleta digestiva de chocolate",
+    "1 bloque de queso crema Philadelphia",
+    "1 fresa"
+  ],
+  "recipeInstructions": "1. Coloca una galleta digestiva de chocolate en el fondo de un plato para servir.\n2. Extiende una capa uniforme de queso crema Philadelphia sobre la galleta, cubriéndola por completo.\n3. Corta una fresa por la mitad y colócala encima del queso crema.\n4. Presiona suavemente para asegurar las mitades de fresa en su lugar.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "hunter-s-venison-sausage",
+  "name": "Hunter's Venison Sausage",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "meats",
+    "sausages"
+  ],
+  "recipeIngredient": [
+    "4 lb Ground venison",
+    "4 lb Ground pork",
+    "2 tbsp Salt",
+    "2 tsp Black pepper",
+    "3/4 tsp Mace",
+    "1/4 tsp Nutmeg",
+    "1/4 tsp Cloves",
+    "1/2 tsp All-spice",
+    "1/2 tsp Garlic powder"
+  ],
+  "recipeInstructions": "1. Mix the ground venison and ground pork together.\n2. Add approximately 1/2 cup of hot water to the meat mixture until you achieve the desired texture for sausage pressing.\n3. Gradually add the spices, ensuring they are well incorporated into the meat mixture.",
+  "url": null
+}

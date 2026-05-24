@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetarian-supper-dish",
+  "name": "Plato principal vegetariano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "dietas especiales",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz blanco sin cocer",
+    "1 cebolla mediana, picada",
+    "2 dientes de ajo, finamente picados",
+    "2 cucharadas de aceite",
+    "1 calabacín mediano, cortado en trozos gruesos",
+    "1 pimiento verde, picado",
+    "1/2 cucharadita de orégano seco",
+    "1/8 cucharadita de pimienta negra",
+    "2 tomates medianos, pelados y cortados en trozos gruesos",
+    "1 lata (400 g) de frijoles rojos, escurridos",
+    "1/4 cucharadita de sal, al gusto",
+    "1/2 taza de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Cocinar el arroz según las instrucciones del paquete, reduciendo la cantidad de sal a 1/2 cucharadita.\n2. En una sartén grande, saltear la cebolla y el ajo en aceite hasta que la cebolla esté tierna.\n3. Agregar el calabacín, el pimiento verde, el orégano y la pimienta; cocinar las verduras hasta que estén crujientes, aproximadamente 5 minutos.\n4. Incorporar los tomates y los frijoles; calentar a fuego lento hasta que todo esté bien caliente.\n5. Añadir sal al gusto.\n6. Servir el arroz caliente en un plato.\n7. Verter la mezcla de verduras sobre el arroz.\n8. Espolvorear con queso cheddar.\nPara 7 personas",
+  "url": null
+}

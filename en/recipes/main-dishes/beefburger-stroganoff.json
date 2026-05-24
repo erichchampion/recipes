@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "beefburger-stroganoff",
+  "name": "Beefburger Stroganoff",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "bacon",
+    "beef",
+    "ground beef",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "1 1/2 pounds ground beef",
+    "3 slices bacon, diced",
+    "1 small onion, diced",
+    "2 tablespoons flour",
+    "1/4 teaspoon paprika",
+    "1 teaspoon salt",
+    "1 can cream of mushroom soup",
+    "2 tablespoons dry red wine",
+    "1 cup sour cream",
+    "6 to 8 hamburger buns, toasted and buttered"
+  ],
+  "recipeInstructions": "1. In a large skillet, brown the beef and bacon until no longer pink. Drain.\n2. Transfer the meat mixture to a slow cooker.\n3. Add diced onion, flour, paprika, and salt to the slow cooker.\n4. Stir in the undiluted soup and wine.\n5. Cover and cook on Low for 4-5 hours.\n6. Stir in the sour cream.\n7. Spoon the mixture over toasted buns.",
+  "url": null
+}

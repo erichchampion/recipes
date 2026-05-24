@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-broccoli",
+  "name": "Brócolis italianos",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "platos secundarios",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 manojo grande de brócoli",
+    "1 cebolla pequeña, picada",
+    "8 dientes de ajo frescos, picados",
+    "1/2 taza de aceite de oliva",
+    "1 taza de pan rallado italiano",
+    "3/4 taza de queso parmesano rallado",
+    "1 huevo, ligeramente batido",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar el brócoli al vapor o hervirlo hasta que esté tierno. Escurrir y machacarlo como se haría con las patatas, dejando pequeños trozos de brócoli.\n2. En una sartén grande, saltear la cebolla y el ajo en aceite. Cuando la cebolla empiece a dorar, añadir el brócoli y remover para mezclar.\n3. Incorporar el pan rallado y el queso y remover hasta que esté bien integrado. Retirar del fuego y añadir el huevo. Remover de nuevo para mezclar; sazonar con sal y pimienta y remover una vez más.\n4. Verter en un recipiente para hornear precalentado a 180 °C y hornear durante unos 15 minutos antes de servir.",
+  "url": null
+}

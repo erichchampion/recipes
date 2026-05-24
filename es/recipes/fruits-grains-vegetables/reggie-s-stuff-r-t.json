@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "reggie-s-stuff-r-t",
+  "name": "El Asado de Reggie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frijoles",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de garbanzos, remojados durante la noche",
+    "1/2 taza de frijoles lima, remojados durante la noche",
+    "1/2 taza de judías blancas (pequeñas navy), remojadas durante la noche",
+    "1/2 taza de mijo cocido",
+    "1/2 taza de cebada",
+    "1 cucharada de romero fresco, al gusto",
+    "1 cucharada de tomillo fresco, al gusto",
+    "1 cucharadita de orégano fresco, al gusto",
+    "1 cucharadita de salvia fresca, al gusto",
+    "1 cucharada de levadura nutricional",
+    "16 onzas de salsa de tomate"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes a la olla de cocción lenta.\n2. Encender el aparato.\n3. No agregar sal durante el proceso de cocción; sazonar al gusto al servir.",
+  "url": null
+}

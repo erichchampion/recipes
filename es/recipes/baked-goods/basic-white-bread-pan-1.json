@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-white-bread-pan-1",
+  "name": "Pan de trigo blanco básico - Pan-1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "2 1/4 tazas de harina de pan (10 1/2 oz)",
+    "1 cucharada de leche en polvo (1/5 oz)",
+    "1 cucharadita de sal (1/5 oz)",
+    "1 cucharada de mantequilla (2/5 oz)",
+    "2 cucharadas de azúcar (3/5 oz)",
+    "7/8 taza de agua (7 fl.oz)",
+    "1 cucharadita de levadura seca (1/10 oz)"
+  ],
+  "recipeInstructions": "Puede utilizar un temporizador o el modo de horneado rápido. Coloque todos los ingredientes (excepto los líquidos y la levadura) dentro del pan para pan. Añada los ingredientes líquidos. Cierre la tapa y coloque la levadura seca en el compartimento destinado a ella. Presione \"start\".\n(Por supuesto, siga las instrucciones de su propia máquina de pan para el orden de adición de los ingredientes. Algunas máquinas requieren que todos los ingredientes secos se coloquen en el fondo y luego se añadan los líquidos por encima.)",
+  "url": null
+}

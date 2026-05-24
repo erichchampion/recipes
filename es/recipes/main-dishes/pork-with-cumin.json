@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "pork-with-cumin",
+  "name": "Cerdo con comino",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "mexicano",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "2 lb de lomo de cerdo sin hueso",
+    "1/4 taza de harina blanqueada",
+    "1/2 taza de aceite vegetal",
+    "1 cebolla mediana, picada",
+    "1/2 taza de agua",
+    "2 cucharadas de jugo de naranja",
+    "2 cucharadas de jugo de limón",
+    "2 cucharadas de caldo de pollo en polvo",
+    "2 cucharadas de semillas de comino",
+    "1 cucharadita de orégano seco",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "4 tazas de tomates picados",
+    "Patatas medianas, cortadas en dados",
+    "1/2 taza de crema agria"
+  ],
+  "recipeInstructions": "1. Cortar el lomo de cerdo en cubos de 1 pulgada.\n2. Cortar las patatas (con o sin piel).",
+  "url": null
+}

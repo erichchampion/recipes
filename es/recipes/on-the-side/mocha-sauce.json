@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "mocha-sauce",
+  "name": "Salsa Mocha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2/3 taza de chips de chocolate semiamargo",
+    "1 cucharada de polvo de espresso instantáneo o granulos de café instantáneo",
+    "1/4 taza de crema espesa",
+    "2 cucharadas de jarabe de maíz",
+    "2 cucharadas de licor con sabor a café"
+  ],
+  "recipeInstructions": "1. En un bol pequeño, espolvorea el polvo de café instantáneo sobre los chips de chocolate.\n2. Calienta la crema y el jarabe de maíz en una sartén a fuego medio hasta que hierva.\n3. Vierte la mezcla de crema caliente sobre los chips de chocolate y déjalos reposar durante 30 segundos.\n4. Revuelve hasta obtener una textura suave, luego añade el licor y mezcla bien.\n5. La salsa se enfriará a temperatura ambiente y estará lista para servir una vez que esté suave.\n6. Sirve sobre helado de Mocha Moons.",
+  "url": null
+}

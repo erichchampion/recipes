@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mashed-potato-salad-3",
+  "name": "Mashed Potato Salad 3",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "potatoes",
+    "salads"
+  ],
+  "recipeIngredient": [
+    "Mashed potatoes",
+    "Chopped onion",
+    "Yellow mustard",
+    "Mayonnaise",
+    "Chopped hard-boiled egg",
+    "Chopped watermelon rind",
+    "Chopped sweet pickles",
+    "Juice from the pickles and rind"
+  ],
+  "recipeInstructions": "1. Combine all ingredients to taste.",
+  "url": null
+}

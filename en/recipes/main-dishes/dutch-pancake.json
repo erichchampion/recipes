@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "dutch-pancake",
+  "name": "Dutch Pancake",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "pancakes"
+  ],
+  "recipeIngredient": [
+    "3 each Egg, well beaten",
+    "1/2 cup Flour",
+    "1/2 tsp Salt",
+    "1/2 cup Milk"
+  ],
+  "recipeInstructions": "1. Beat the eggs thoroughly and add the flour and salt.\n2. Continue to beat and add the milk while beating.\n3. Pour into a well-buttered pan and bake for 25 minutes.\n4. Serve with powdered sugar and lemon juice.",
+  "url": null
+}

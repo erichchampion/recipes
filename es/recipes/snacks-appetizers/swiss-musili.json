@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "swiss-musili",
+  "name": "Musilí suizo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "barbara",
+    "tentempié"
+  ],
+  "recipeIngredient": [
+    "1 taza de avena",
+    "1 taza de zumo de naranja",
+    "1 taza de yogur natural",
+    "1 taza de zumo de limón",
+    "1 taza de leche",
+    "Azúcar al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande.\n2. Remover hasta obtener una mezcla homogénea.\n3. Tapar y refrigerar durante al menos 4 horas, o de un día para otro, para que se mezclen los sabores.",
+  "url": null
+}

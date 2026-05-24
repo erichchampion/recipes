@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "mondo-bizarro-sauce",
+  "name": "Salsa Mondo Bizarro",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso/huevos",
+    "pasta",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "4 dientes de ajo grandes",
+    "1/3 taza de hojas de albahaca fresca",
+    "1/3 taza de perejil picado",
+    "1 manojo de espinacas (aproximadamente 1 libra), sin tallos",
+    "3 tomates maduros medianos",
+    "1/2 taza de queso parmesano",
+    "1/2 cucharadita de sal",
+    "1/2 taza de piñones",
+    "Pimienta negra molida al gusto",
+    "Aceite de oliva para la pasta"
+  ],
+  "recipeInstructions": "1. Coloca el ajo, la albahaca, el perejil y las espinacas en una licuadora.\n2. Procesa hasta obtener una pasta uniforme.\n3. Añade los tomates y procesa solo unos segundos más.\n4. Transfiere la mezcla a un bol y mézclala con el queso parmesano, la sal y los piñones.\n5. Sirve a temperatura ambiente con pasta caliente aliñada con aceite de oliva.",
+  "url": null
+}

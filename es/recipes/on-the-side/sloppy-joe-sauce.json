@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "sloppy-joe-sauce",
+  "name": "Salsa para Sloppy Joe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1/2 taza de cebolla picada",
+    "1 taza de ketchup",
+    "1 cucharada de vinagre blanco",
+    "1 cucharada de jugo de limón",
+    "1 cucharada de salsa Worcestershire",
+    "1 cucharadita de mostaza dijon",
+    "1 cucharadita de pimentón dulce",
+    "1 cucharada de azúcar moreno oscuro",
+    "4 bollos"
+  ],
+  "recipeInstructions": "1. Dorar la carne y las cebollas hasta que ya no queden rastro de rosado. Asegurarse de desmenuzar bien la carne.\n2. (Opcional) Agregar un diente de ajo picado para dar más sabor.\n3. Mezclar todos los ingredientes líquidos en una sartén.\n4. Cocinar, sin cubrir, a fuego lento durante unos treinta minutos, removiendo ocasionalmente, hasta que la salsa espese.\n5. Servir la salsa sobre los bollos y disfrutar.",
+  "url": null
+}

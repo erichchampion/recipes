@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-soup-cake",
+  "name": "Sopa de Tomate en Forma de Pastel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "Bizcocho:",
+    "1 lata de sopa de tomate",
+    "1/2 taza de harina",
+    "1 taza de azúcar",
+    "1 taza de dátiles",
+    "1 taza de nueces",
+    "1 cucharadita de nuez moscada",
+    "1 cucharadita de canela",
+    "1 cucharadita de clavos",
+    "1 cucharadita de bicarbonato de sodio",
+    "1 cucharada de mantequilla",
+    "Glaseado:",
+    "1 taza de queso crema Philadelphia",
+    "1 taza de azúcar glas",
+    "1 cucharada de mantequilla",
+    "1 cucharadita de extracto de vainilla",
+    "1/2 taza de nueces picadas"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes del bizcocho hasta obtener una masa homogénea.\n2. Hornear durante 35 minutos a 350 °F (175 °C).\n3. Dejar enfriar completamente el bizcocho antes de desmoldarlo.\n4. Batir juntos todos los ingredientes del glaseado.\n5. Extender el glaseado sobre el bizcocho frío.",
+  "url": null
+}

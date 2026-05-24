@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "danish-pancakes",
+  "name": "Tortas danesas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "étnico",
+    "plato principal",
+    "tortitas"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de mantequilla",
+    "4 huevos",
+    "1 taza de leche",
+    "1 taza de harina"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 425°F (220°C).\n2. Dividir la mantequilla en dos platos para tartas.\n3. En un bol, mezclar los huevos, la leche y la harina hasta que queden bien combinados.\n4. Derretir la mantequilla en uno de los platos para tartas.\n5. Verter la masa uniformemente sobre la mantequilla derretida en ambos platos.\n6. Hornear durante 20 minutos.\n(Opcional) Cubrir con melocotones especiados (canela, clavos).",
+  "url": null
+}

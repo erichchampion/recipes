@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "sports-drink",
+  "name": "Bebida deportiva",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "saludable",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de azúcar",
+    "1/8 cucharadita de sal",
+    "16 onzas de té limón sin cafeína preparado",
+    "2 onzas de jugo de naranja"
+  ],
+  "recipeInstructions": "1. Disolver el azúcar y la sal en el té caliente.\n2. Dejar enfriar la mezcla.\n3. Mezclar con el jugo de naranja hasta obtener una textura suave.\n4. Refrigerar o congelar en una botella de agua o un recipiente cerrado durante hasta una semana.\nEsta bebida ofrece un servicio de 9 onzas con 60 calorías y 15 gramos de carbohidratos. De la revista Shape.",
+  "url": null
+}

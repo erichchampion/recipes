@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-hamburger-soup",
+  "name": "Sopa de hamburguesa en olla de cocción lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "olla de cocción lenta",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de carne picada magra",
+    "1 cebolla mediana, picada",
+    "1 taza de zanahorias, en rodajas",
+    "1 taza de apio, en rodajas",
+    "1 taza de col, en rodajas",
+    "6 oz de puré de tomate",
+    "2 cucharaditas de salsa Worcestershire",
+    "3 tazas de caldo o caldo de carne de res"
+  ],
+  "recipeInstructions": "1. En una sartén, dore la carne picada y escúrrela bien.\n2. Agregue la cebolla, las zanahorias, el apio y la col a la sartén.\n3. Mezcle el puré de tomate, la salsa Worcestershire y el caldo en un bol.\n4. Transfiera la mezcla del bol al crockpot.\n5. Coloque la carne picada sobre los vegetales y mezcle para combinar.\n6. Cubra y cocine a fuego lento durante 8-10 horas o a fuego alto durante 3-4 horas.",
+  "url": null
+}

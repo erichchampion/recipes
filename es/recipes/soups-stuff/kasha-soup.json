@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "kasha-soup",
+  "name": "Sopa de Kasha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 trozo de kombu (de 3\")",
+    "4 tazas de agua",
+    "1 taza de cebolla picada",
+    "1/2 taza de zanahoria picada",
+    "1/2 taza de col verde rallada",
+    "1/2 taza de patata cortada en dados",
+    "1/2 taza de setas laminadas",
+    "1 cucharada de aceite de sésamo",
+    "2 cucharaditas de polvo de ajo",
+    "1 cucharadita de albahaca seca",
+    "1/2 taza de kasha",
+    "1/2 taza de guisantes congelados",
+    "1/2 taza de chucrut escurrido",
+    "1,5 cucharaditas de miso"
+  ],
+  "recipeInstructions": "1. Remojar el kombu en agua durante 10 minutos. Retirar y picar la parte restante; reservar el agua.\n2. Calentar el aceite de sésamo en una olla grande a fuego medio. Añadir la cebolla, zanahoria, col, patata y setas. Saltear hasta que estén ligeramente ablandadas, unos 5 minutos.\n3. Incorporar el polvo de ajo, albahaca, kombu picado, agua reservada, kasha, guisantes congelados y chucrut. Llevar a ebullición.\n4. Retirar 1/4 taza del caldo y disolver el miso en ella. Devolver la mezcla a la olla.\n5. Cocinar a fuego lento hasta que los guisantes y el kasha estén hechos, aproximadamente 8 minutos. Servir caliente.",
+  "url": null
+}

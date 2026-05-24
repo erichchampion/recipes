@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pemmican",
+  "name": "Pemmican",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "game",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1 lb Caribou Jerky",
+    "2 tbsp Brown sugar",
+    "2 oz Raisins",
+    "2 oz Cranberries",
+    "5 oz Suet"
+  ],
+  "recipeInstructions": "1. Run the dry jerky through a food grinder a few times.\n2. In a loaf pan, combine the cranberries, raisins, and brown sugar.\n3. Blend the mixture until well combined.\n4. Melt the suet and stir it into the cranberry-raisin mixture.\n5. Allow the suet to cool and solidify.\nThis approximates the old style pemmican made to preserve meat without refrigeration and to add some vitamin C values.",
+  "url": null
+}

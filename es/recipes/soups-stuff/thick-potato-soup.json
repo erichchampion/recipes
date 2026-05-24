@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "thick-potato-soup",
+  "name": "Sopa espesa de patatas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "4 patatas grandes, cortadas en trozos pequeños",
+    "1 cebolla picada",
+    "Agua suficiente para cubrir las patatas",
+    "Mantequilla (para una salsa blanca espesa)",
+    "Harina",
+    "Polvo de caldo de pollo deshidratado",
+    "Sal",
+    "Pimienta",
+    "Nuez moscada",
+    "Leche, nata o medio crema (a elección)"
+  ],
+  "recipeInstructions": "1. Hervir los trozos de patata y la cebolla picada en agua suficiente para cubrirlos hasta que estén tiernos.\n2. Preparar una salsa blanca espesa con mantequilla, harina, polvo de caldo de pollo deshidratado, sal, pimienta y nuez moscada.\n3. Añadir lentamente leche caliente, nata o medio crema para lograr la consistencia deseada. Ajustar las especias si es necesario.\n4. Incorporar las patatas y cebollas cocidas a la salsa sin escurrirlas primero.\n5. Ajustar la espesura al gusto.",
+  "url": null
+}

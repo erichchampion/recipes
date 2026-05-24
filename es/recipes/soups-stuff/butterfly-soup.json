@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "butterfly-soup",
+  "name": "Sopa de Mariposas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 taza de mariposas",
+    "1 lata de sopa (cualquiera)",
+    "3 tazas de agua",
+    "Una pizca de sal",
+    "Una pizca de pimienta",
+    "Una pizca de azúcar",
+    "1 cucharada de jugo de limón"
+  ],
+  "recipeInstructions": "1. Mezclar las mariposas con la sopa y el agua.\n2. Mezclar por separado la sal, pimienta, azúcar y 1 cucharada de jugo de limón.\n3. Combinar ambas mezclas en una olla.\n4. Cocinar a fuego medio durante 30 minutos.\n5. Servir caliente y disfrutar.",
+  "url": null
+}

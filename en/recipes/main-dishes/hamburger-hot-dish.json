@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-hot-dish",
+  "name": "Hamburger Hot Dish",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "burgers",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground beef",
+    "1 cup Celery, diced",
+    "1/2 cup American cheese, diced",
+    "1/4 cup Ripe olives, cut up",
+    "2 cups Uncooked noodles",
+    "1 tsp Salt",
+    "1/4 tsp Onion salt",
+    "3 tbsp Ketchup OR",
+    "1 cup Canned tomatoes"
+  ],
+  "recipeInstructions": "1. Brown the hamburger.\n2. Add the remainder of the ingredients: celery, American cheese, ripe olives, uncooked noodles, salt, onion salt, ketchup or canned tomatoes.\n3. Cover tightly and bring to a boil.\n4. Reduce heat and simmer for 30 minutes, stirring occasionally. Add water as needed.",
+  "url": null
+}

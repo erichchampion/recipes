@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-smoothies",
+  "name": "Breakfast Smoothies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/2 cup orange juice",
+    "1 banana",
+    "6-7 frozen strawberries",
+    "4-5 slices frozen peaches",
+    "5-6 frozen blueberries",
+    "6-7 ice cubes",
+    "fresh mint (optional)",
+    "dash of nutmeg (optional)",
+    "1 tsp. honey (optional)"
+  ],
+  "recipeInstructions": "1. Place all ingredients except ice cubes in the blender.\n2. Puree until smooth.\n3. Add ice, and puree again.\n4. Pour into a glass.\n5. Sprinkle a dash of nutmeg on top and garnish with fresh mint if desired.",
+  "url": null
+}

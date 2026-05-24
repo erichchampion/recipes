@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "jerky-stew",
+  "name": "Estofado de Jerky",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas nativas americanas",
+    "sopas",
+    "sopas/estofados",
+    "estofados"
+  ],
+  "recipeIngredient": [
+    "1 lb de jerky de res o búfalo",
+    "1 taza de alforfón seco entero, remojado durante la noche en abundante agua",
+    "1 cebolla amarilla grande, pelada y picada",
+    "1 lb de papas, sin pelar y cortadas en cubos",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Romper el jerky en trozos de 1 pulgada y colocarlo en una olla pesada con tapa.\n2. Escurrir el alforfón y añadirlo a la mezcla junto con la cebolla.\n3. Cubrir con agua y llevar a ebullición.\n4. Cocinar a fuego lento, cubierto, hasta que el alforfón esté tierno (aproximadamente 2 horas). Añadir más agua si es necesario.\n5. Agregar las papas y cocinar por otros 20 minutos.\n6. Sazonar con sal y pimienta.",
+  "url": null
+}

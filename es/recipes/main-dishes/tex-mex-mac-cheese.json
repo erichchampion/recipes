@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "tex-mex-mac-cheese",
+  "name": "Mac y queso Tex-Mex",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guiso",
+    "guisos",
+    "queso",
+    "plato principal",
+    "carne de res",
+    "tex-mex",
+    "pavo"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida (res o pavo)",
+    "1 pimiento rojo, picado",
+    "1 cebolla, picada",
+    "1/2 taza de setas, laminadas",
+    "1 lata de pasta de tomate",
+    "1/2 taza de agua",
+    "1 lata de maíz entero, escurrido",
+    "Sal y pimienta al gusto",
+    "1 paquete de macarrones con queso o Velveeta y conchas"
+  ],
+  "recipeInstructions": "1. En una sartén grande, dora la carne molida o el pavo con el pimiento rojo, la cebolla y las setas picadas.\n2. Agrega la pasta de tomate y el agua. Incorpora el maíz.\n3. Cocina los macarrones con queso según las instrucciones del paquete, añadiendo leche y margarina si es necesario.\n4. Mezcla los macarrones cocidos con la mezcla de carne.\n5. Combina bien y sirve.",
+  "url": null
+}

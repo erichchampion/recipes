@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "chipotle-mayonnaise",
+  "name": "Mayonesa Chipotle",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "salsas mexicanas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de mayonesa",
+    "3/4 taza de crema agria",
+    "1 cucharadita de orégano seco (opcional)",
+    "2 chiles chipotle en adobo, finamente picados"
+  ],
+  "recipeInstructions": "1. Mezclar la mayonesa y la crema agria en un bol.\n2. Agregar los chiles chipotle picados a la mezcla.\n3. Si se usa, incorporar las hojas de orégano seco.\n4. Revolver bien hasta que todos los ingredientes estén integrados.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "gazpacho-8",
+  "name": "Gazpacho",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups"
+  ],
+  "recipeIngredient": [
+    "2 green peppers, seeded",
+    "2 red peppers, seeded",
+    "1 red onion",
+    "2 tomatoes, peeled and seeded",
+    "2 cloves garlic, chopped",
+    "2 cups spicy tomato juice",
+    "2 tablespoons olive oil",
+    "1 tablespoon red wine vinegar",
+    "2 tablespoons lemon juice",
+    "2 tablespoons dill, chopped",
+    "2 tablespoons basil, chopped",
+    "Salt and pepper",
+    "Croutes for garnish"
+  ],
+  "recipeInstructions": "1. Combine peppers, onions, tomatoes, and garlic in a food processor or blender.\n2. Puree to desired consistency.\n3. Add tomato juice, oil, vinegar, lemon juice, herbs, salt, and pepper.\n4. Chill the mixture.\n5. Garnish with croutes.",
+  "url": null
+}

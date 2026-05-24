@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "coca-cola-chicken",
+  "name": "Pollo con Coca-Cola",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "bebidas",
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "3 libras de pollo cortado en trozos",
+    "3/4 taza de Coca-Cola",
+    "1 taza de ketchup"
+  ],
+  "recipeInstructions": "1. Coloca el pollo cortado en una sartén sin engrasar.\n2. Mezcla 3/4 taza de Coca-Cola con 1 taza de ketchup.\n3. Vierte la mezcla sobre el pollo.\n4. Lleva a ebullición.\n5. Reduce el calor, tapa y deja cocinar a fuego lento durante 15 minutos.\n6. Retira la tapa y cocina por otra hora o hasta que esté tierno.\n(Esto sabe exactamente como pollo a la barbacoa) No agregues sal.",
+  "url": null
+}

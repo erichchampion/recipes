@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "kiwi-muffins",
+  "name": "Muffins de kiwi",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "huevos",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "1/2 libra de harina",
+    "1 sobre de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "5 1/4 cucharadas de azúcar",
+    "1 huevo batido",
+    "2 5/8 cucharadas de mantequilla derretida",
+    "1/2 taza de leche",
+    "1 ralladura de limón",
+    "1 1/2 tazas de kiwi pelado y picado",
+    "4 1/4 onzas de nueces picadas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 200°C.\n2. Mezclar juntos los cuatro primeros ingredientes. Incorporar el huevo, la mantequilla y la leche hasta que estén húmedos.\n3. Doblar la ralladura de limón, los kiwi y las nueces. Rellenar moldes para muffins forrados con papel al máximo de su capacidad y hornear durante unos 20 minutos.",
+  "url": null
+}

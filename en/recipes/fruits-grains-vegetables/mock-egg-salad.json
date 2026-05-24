@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-egg-salad",
+  "name": "Mock Egg Salad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "low-calorie",
+    "salads"
+  ],
+  "recipeIngredient": [
+    "19 ounces Can chick peas, drained",
+    "1/4 cup Tangy Boiled Dressing recipe",
+    "1/4 cup Chopped celery",
+    "1/2 teaspoon Basil",
+    "1/4 teaspoon Curry powder",
+    "1/4 teaspoon Garlic salt"
+  ],
+  "recipeInstructions": "1. Coarsely mash the chick peas.\n2. Combine the mashed chick peas with the dressing and other ingredients.\n3. Mix until well blended. A food processor can be used, but a coarse texture is more like traditional egg salad.\n4. Serve stuffed in a tomato on a lettuce leaf, or open-faced on whole wheat toast, garnished with cucumber slices.\n(ER Note: Try making one or two servings at a time and freeze extra chick peas in meal-sized amounts.)",
+  "url": null
+}

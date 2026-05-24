@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "garbanzo-stew",
+  "name": "Estofado de garbanzos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "entrada",
+    "congelable",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "4 tazas de caldo de verduras",
+    "1 taza de garbanzos, remojados durante la noche",
+    "1 taza de cebolla, picada",
+    "1 taza de tomates, picados",
+    "1 cucharadita de jengibre fresco, picado finamente",
+    "2 cucharaditas de cilantro en polvo",
+    "1 cucharadita de ajo, picado",
+    "1/4 cucharadita de comino en polvo",
+    "pimienta negra molida al gusto",
+    "sal al gusto",
+    "1 cucharadita de jugo de limón",
+    "1 cucharada de perejil fresco, picado"
+  ],
+  "recipeInstructions": "1. Combinar el caldo de verduras y los garbanzos en una olla grande. Llevar a ebullición y cocinar a fuego lento con la tapa puesta durante aproximadamente una hora, hasta que estén tiernos. Reservar 1 taza del líquido al escurrir.\n2. En la misma olla, mezclar los garbanzos, el líquido reservado, la cebolla, los tomates, el jengibre, el cilantro, el ajo y el comino. Llevar a ebullición y cocinar a fuego lento con la tapa puesta durante 20 minutos.\n3. Sazonar al gusto con sal y pimienta. Decorar con jugo de limón y perejil picado.",
+  "url": null
+}

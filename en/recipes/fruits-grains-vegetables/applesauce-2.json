@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "applesauce-2",
+  "name": "Applesauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "apples",
+    "fruits",
+    "spices"
+  ],
+  "recipeIngredient": [
+    "8 Gravenstein apples",
+    "peeled",
+    "cored",
+    "cut into eighths",
+    "1/2 cup water",
+    "Sugar to taste",
+    "2 tablespoons lemon juice",
+    "1 tablespoon grated lemon peel"
+  ],
+  "recipeInstructions": "1. Combine the apples and water in a heavy-bottomed pan.\n2. Place over low heat and cook, stirring occasionally.\n3. When the apples begin to get tender, add sugar to taste, being sparing until the apples mash easily.\n4. Add lemon juice and continue cooking until the applesauce is ready to be mashed with a fork.\n5. Remove from heat and stir in the grated lemon peel.\n6. Mash with the tines of a fork, leaving some coarse texture.\n7. Serve warm.",
+  "url": null
+}

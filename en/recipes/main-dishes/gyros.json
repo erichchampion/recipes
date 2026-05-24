@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "gyros",
+  "name": "Gyros",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "2 lb lamb, sliced thinly",
+    "1/2 cup olive oil",
+    "1/2 cup lemon juice, fresh",
+    "3 cloves garlic, peeled and chopped",
+    "1 tbsp thyme, fresh",
+    "1 tbsp oregano, fresh",
+    "fresh ground pepper"
+  ],
+  "recipeInstructions": "1. Combine the olive oil, lemon juice, garlic cloves, thyme, oregano, and pepper in a bowl.\n2. Place the lamb strips in the marinade and coat well. Cover and chill for 4 to 6 hours or overnight, turning several times.\n3. To make the gyro, place the meat, lettuce, diced or thinly sliced tomato, thinly sliced onion, and crumbled feta cheese in the middle of a pita bread.\n4. Top with tzatziki (yogurt and cucumber sauce) and fold or wrap the pita around the meat and vegetables.\nGarnish with fresh herbs if desired before serving.",
+  "url": null
+}

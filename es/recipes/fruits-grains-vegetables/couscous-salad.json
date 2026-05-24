@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "couscous-salad",
+  "name": "Ensalada de cuscús",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "2 tazas de cuscús cocido",
+    "6 cebolletas, picadas",
+    "2 tomates medianos, sin semillas y picados",
+    "1 pepino, sin semillas y picado",
+    "2 tazas de garbanzos cocidos",
+    "1 taza de perejil picado"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar el cuscús cocido.\n2. Añadir las cebolletas picadas.\n3. Incorporar los tomates picados.\n4. Agregar el pepino picado y sin semillas.\n5. Mezclar con los garbanzos cocidos.\n6. Incorporar el perejil picado.\n7. Darle la vuelta a la ensalada con cuidado para combinar todos los ingredientes.\n8. Ajustar la sazón si es necesario.",
+  "url": null
+}

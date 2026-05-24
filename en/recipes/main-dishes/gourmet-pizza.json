@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "gourmet-pizza",
+  "name": "Gourmet Pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italian",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 8-inch honey wheat pizza shell",
+    "4 tablespoons good quality pizza sauce",
+    "Olive oil to brush",
+    "10 roasted plum tomato slices",
+    "10 thin slices mozzarella cheese",
+    "12 asparagus tips",
+    "1 tablespoon chopped basil",
+    "1 tablespoon chopped oregano",
+    "1/4 teaspoon fresh minced garlic"
+  ],
+  "recipeInstructions": "1. Brush the pizza shell with olive oil.\n2. Spread the pizza sauce over the shell.\n3. Alternate slices of tomato and mozzarella around the pizza.\n4. Place asparagus, basil, oregano, and garlic on top of the pizza.\n5. Bake in a preheated 400°F oven for 10-12 minutes until golden and crisp.\n6. Cut into quarters and place on a warm plate.",
+  "url": null
+}

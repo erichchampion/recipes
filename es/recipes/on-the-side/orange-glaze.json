@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-glaze",
+  "name": "Glaseado de naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pasteles",
+    "postres",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar glas, tamizada",
+    "1/2 cucharadita de cáscara de naranja rallada",
+    "1 cucharada de jugo de naranja",
+    "2 cucharadas de agua (aproximadamente)",
+    "1 gota de colorante alimentario rojo",
+    "2 gotas de colorante alimentario amarillo"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes y batir hasta obtener una consistencia suave.",
+  "url": null
+}

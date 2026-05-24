@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "broiled-striped-bass",
+  "name": "Bacalao al horno con estrías",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "caza",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1 lubina de seis libras",
+    "1/2 taza de cebolletas picadas",
+    "1/2 taza de setas picadas",
+    "1 limón",
+    "1 taza de tomates picados y pelados",
+    "1 cucharadita de cebollino picado",
+    "1 cucharadita de perejil picado",
+    "1 cucharada de mantequilla",
+    "2 tazas de vino blanco seco",
+    "2 yemas de huevo",
+    "1 taza de salsa cremosa"
+  ],
+  "recipeInstructions": "1. Desesmarar y limpiar la lubina.\n2. Cocinarla en el horno a alta temperatura con vino, jugo de limón y una cucharada de mantequilla durante 15 minutos.\n3. Retirar los filetes y reducir el líquido de cocción hirviéndolo.\n4. Añadir los tomates picados y cocinar hasta que estén hechos.\n5. Incorporar la salsa cremosa, el perejil, el cebollino y las yemas de dos huevos. Cocinar, removiendo hasta espesar y obtener una consistencia cremosa.\n6. Verter sobre los filetes de lubina y servir.",
+  "url": null
+}

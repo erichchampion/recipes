@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "dump-cake-3",
+  "name": "Pastel de basura",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 lata de relleno de tarta de cerezas o cualquier sabor que prefiera",
+    "1 lata de piña triturada",
+    "1 paquete de mezcla de pastel amarillo",
+    "2 barras de mantequilla",
+    "1 lata de coco rallado",
+    "1 taza de nueces picadas"
+  ],
+  "recipeInstructions": "1. Extienda el relleno de cerezas en el fondo de un molde rectangular de 30x40 cm.\n2. Cubra las cerezas con la piña triturada.\n3. Espolvoree la mezcla de pastel amarillo sobre la capa de piña.\n4. Derrita la mantequilla y viértala uniformemente sobre la mezcla del pastel.\n5. Adorne con coco rallado y nueces picadas.\n6. Hornee a 180 °C durante 1 hora.",
+  "url": null
+}

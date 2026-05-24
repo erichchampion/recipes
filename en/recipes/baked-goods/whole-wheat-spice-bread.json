@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "whole-wheat-spice-bread",
+  "name": "Whole Wheat Spice Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 1/4 cups water, lukewarm",
+    "1 1/2 cups white bread flour",
+    "1 1/2 cups wheat bread flour",
+    "1 1/2 tablespoons dry milk",
+    "2 tablespoons brown sugar",
+    "3/4 teaspoon salt",
+    "2 tablespoons butter",
+    "1/2 cup raisins",
+    "1 1/2 teaspoons vanilla",
+    "1 teaspoon cinnamon",
+    "1/2 teaspoon nutmeg",
+    "1/2 teaspoon ginger, ground",
+    "2 1/2 teaspoons active dry yeast"
+  ],
+  "recipeInstructions": "1. Preheat the bread machine and follow the manufacturer's instructions for adding ingredients.\n2. Combine all ingredients in the order specified by the bread machine program.\n3. The dough will form a 1.5 pound loaf after baking.",
+  "url": null
+}

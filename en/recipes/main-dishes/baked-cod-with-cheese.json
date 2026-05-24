@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-cod-with-cheese",
+  "name": "Baked Cod with Cheese",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "fish",
+    "main dish",
+    "meat",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "1 1/2 Lb. cod fillets",
+    "salt",
+    "pepper",
+    "1 Tsp. sage",
+    "1/2 C. grated Swiss cheese",
+    "1 C. sour cream"
+  ],
+  "recipeInstructions": "1. Preheat oven to 350 degrees.\n2. Wash and dry codfish.\n3. Sprinkle both sides with salt, pepper, and sage.\n4. Place in a greased shallow baking dish.\n5. Sprinkle cheese on top and cover with sour cream.\n6. Bake for 25 minutes.",
+  "url": null
+}

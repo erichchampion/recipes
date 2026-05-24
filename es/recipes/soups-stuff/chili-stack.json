@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-stack",
+  "name": "Chili apilado",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "mexicano",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1 cucharadita de polvo de chile",
+    "2 cucharadas de manteca",
+    "1 cucharadita de sal",
+    "1 cebolla, picada finamente",
+    "Una pizca de pimienta",
+    "1 diente de ajo, picado finamente",
+    "1 lata de tomates (700 g)",
+    "1 pimiento verde, picado",
+    "1/2 taza de queso cheddar fuerte rallado",
+    "2 cucharadas de harina"
+  ],
+  "recipeInstructions": "1. Agregar la manteca a una sartén y calentar a fuego medio-alto.\n2. Cuando la manteca esté dorada, añadir la carne y cocinar hasta que esté desmenuzada.\n3. Mezclar la harina con la mezcla.\n4. Incorporar los ingredientes restantes, excepto el queso. Bajar el fuego a suave.\n5. Cocinar durante 30 minutos.\n6. Justo antes de servir, mezclar el queso. Delicioso servido sobre tostadas. Para 4-5 personas.",
+  "url": null
+}

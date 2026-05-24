@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-favorite-banana-bread",
+  "name": "My Favorite Banana Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "fruit"
+  ],
+  "recipeIngredient": [
+    "2 1/2 cups Flour",
+    "3/4 teaspoon Baking soda",
+    "2 1/4 teaspoons Baking powder",
+    "1 1/8 teaspoons Salt",
+    "3 teaspoons Orange rind, grated",
+    "2 Eggs",
+    "3/8 cup Oil",
+    "1 1/2 cups Bananas",
+    "3/4 cup Milk",
+    "1 1/8 cups Sugar"
+  ],
+  "recipeInstructions": "1. Sift the first five ingredients together.\n2. Combine the remaining ingredients in a separate bowl.\n3. Stir the wet and dry mixtures into a single batter.\n4. Pour the batter into a greased, lined loaf pan.\n5. Bake at 350°F for 50 minutes.",
+  "url": null
+}

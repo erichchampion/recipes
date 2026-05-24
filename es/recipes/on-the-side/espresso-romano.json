@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "espresso-romano",
+  "name": "Espresso Romano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de café molido fino",
+    "1 1/2 tazas de agua fría",
+    "2 tiras de cáscara de limón"
+  ],
+  "recipeInstructions": "1. Llene la sección del filtro de una cafetera de presión con agua fría.\n2. Coloque el filtro en la base y apriete la parte superior de la cafetera.\n3. Calentar a fuego medio hasta que el café comience a burbujear en la parte superior.\n4. Reduzca el calor a bajo y dejar hervir hasta que las burbujas se detengan.\n5. Servir inmediatamente. Adornar con cáscara de limón.\nDe Sheila Buff & Judi Olstein, \"La Guía del Mezclador Nuevo para Bebidas de Bajo Alcohol y No Alcohólicas\". Publicado por HPBooks, Inc., 1986, ISBN 0-89586-458-4.",
+  "url": null
+}

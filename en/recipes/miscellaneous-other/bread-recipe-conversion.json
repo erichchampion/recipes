@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "bread-recipe-conversion",
+  "name": "Bread Recipe Conversion",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "hints",
+    "liquidity",
+    "miscellaneous"
+  ],
+  "recipeIngredient": [
+    "2 cups all-purpose flour",
+    "1 1/8 cups water",
+    "1 tsp sugar",
+    "1 packet active dry yeast",
+    "1 tsp salt"
+  ],
+  "recipeInstructions": "1. Cut the recipe down so it will make one loaf.\n- If your original recipe calls for 6 cups of flour, it will make 3 loaves. Reduce to 2 cups of flour for one loaf.\n2. Determine machine parameters.\n- Check your bread machine's basic white bread recipe for capacity and motor power.\n- Identify the liquidity ratio range by matching the number of cups of flour with ounces of liquid in the recipe.\n- Determine bulk by checking if the recipe calls for 2 to 2 1/2 cups of flour (1 pound machine) or 3 to 4 cups of flour (1 1/2 pound machine).\n3. Determine liquidity ratio.\n- Use the provided chart to calculate the ratio by dividing dry ingredients by liquid.\n- Higher ratios indicate stiffer dough, while lower ratios indicate more liquid dough.\n4. Calculate dough liquidity:\n- List ingredients and amounts in decimal fractions.\n- Total each column (dry and wet) and multiply by the multiplier (3).\n- Divide the dry grand total by the wet grand total to get the ratio.\n5. Adjust if necessary:\n- If the ratio is within the machine's range, proceed with baking.\n- If below the range, slightly reduce liquid or increase dry ingredients and recalculate.\n- If above the range, add liquid or reduce dry ingredients and recalculate.\n6. Mix all ingredients in the bread machine according to your machine's instructions.\n7. Bake at the recommended temperature and time for a perfect loaf.",
+  "url": null
+}

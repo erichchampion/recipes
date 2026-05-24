@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "vodka-slush",
+  "name": "Slush de vodka",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "7 tazas de agua hirviendo",
+    "2 tazas de azúcar",
+    "12 onzas de limonada congelada",
+    "12 onzas de concentrado de jugo de naranja congelado",
+    "1 litro de vodka"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una licuadora.\n2. Licuar hasta obtener una consistencia suave y fría.\n3. Verter la mezcla en vasos.\n4. Añadir 7-Up o soda Squirt sobre cada vaso.\n5. Servir inmediatamente y disfrutar.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "irish-omelet-2",
+  "name": "Irish Omelet",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "cheese/eggs",
+    "ethnic",
+    "ireland"
+  ],
+  "recipeIngredient": [
+    "4 large eggs",
+    "1 large potato (mashed)",
+    "Squeeze lemon juice",
+    "1 tablespoon chopped chives",
+    "Salt and pepper",
+    "1 tablespoon butter"
+  ],
+  "recipeInstructions": "1. Separate the eggs and beat the yolks. Add to the mashed potato, mixing thoroughly.\n2. Stir in the lemon juice, chives, salt, and pepper.\n3. Melt the butter in a preheating omelette pan over medium heat.\n4. Whisk the egg whites until stiff and gently fold them into the potato mixture.\n5. Cook the mixture in the heated pan until golden brown on one side.\n6. Under the broiler for a few moments to finish cooking and puff up the omelet.\n7. Serve immediately.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-soft-serve",
+  "name": "Banana Soft Serve",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "bananas",
+    "desserts",
+    "ice cream"
+  ],
+  "recipeIngredient": [
+    "2 bananas, ripe, frozen",
+    "1/2 cup ricotta cheese, part skim milk",
+    "1/2 teaspoon vanilla extract",
+    "1 tablespoon sugar"
+  ],
+  "recipeInstructions": "1. In a food processor, combine the frozen bananas with the remaining ingredients.\n2. Using a steel blade, process until smooth.\n3. Divide into 4 individual serving bowls and serve immediately.",
+  "url": null
+}

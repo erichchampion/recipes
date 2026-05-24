@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "vienna-steaks",
+  "name": "Bistec de Viena",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de carne picada de ternera",
+    "1/2 lb de carne picada de res",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimentón dulce",
+    "1 cucharadita de jugo de limón",
+    "1 huevo",
+    "Una pizca de nuez moscada rallada",
+    "1 gota de jugo de cebolla",
+    "1/2 taza de crema agria"
+  ],
+  "recipeInstructions": "1. Bate el huevo hasta que esté bien mezclado.\n2. Combina el huevo con los demás ingredientes, excepto la crema agria.\n3. Forma las mezcla en tortitas y cocina al estilo de hamburguesas.\n4. Retira la carne a un plato para servir.\n5. Calienta la crema agria en la misma sartén y viértela sobre la carne.\n6. Sirve con setas.",
+  "url": null
+}

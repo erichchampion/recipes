@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "oatmeal-broccoli-quiche",
+  "name": "Tarta de avena y brócoli",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "tartas de cena",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "Base:",
+    "1 taza de avena",
+    "1 taza de harina",
+    "1/2 cucharadita de sal",
+    "1/2 taza de margarina",
+    "Relleno:",
+    "3 huevos",
+    "1/2 taza de leche",
+    "2/3 taza de brócoli picado",
+    "2/3 taza de queso rallado",
+    "1/2 taza de jamón cocido y cortado en dados",
+    "1 cucharada de cebolla picada"
+  ],
+  "recipeInstructions": "1. Presiona la base en un molde para tartas.\n2. Llena con el relleno mezclado.\n3. Hornea a 180°C durante 35 a 40 minutos.",
+  "url": null
+}

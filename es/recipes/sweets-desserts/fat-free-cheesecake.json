@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fat-free-cheesecake",
+  "name": "Tarta de queso sin grasa.",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pastel",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 barras de queso crema sin grasa",
+    "1/2 taza de azúcar",
+    "1 cucharadita de extracto de vainilla",
+    "2 claras de huevo o sustituto de huevo",
+    "Migas de galletas Graham para la base"
+  ],
+  "recipeInstructions": "1. Ablandar el queso crema sin grasa y añadir el resto de ingredientes (azúcar, extracto de vainilla, claras de huevo). Mezclar hasta obtener una consistencia suave.\n2. Verter la mezcla en una base preparada.\n3. Opcionalmente, agregar jugo de limón y ralladura para un sabor a limón.\n4. Hornear a 175 °C durante 30 minutos.",
+  "url": null
+}

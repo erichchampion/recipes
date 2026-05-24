@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "sourdough-bread-2",
+  "name": "Sourdough Bread#2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "4 cups Sourdough Starter",
+    "2 cups Warm Potato Water",
+    "1/2 cup Sugar",
+    "6 tbsp Oil",
+    "1 tsp Salt",
+    "10 cups Flour (approx)"
+  ],
+  "recipeInstructions": "1. Mix the sourdough starter, sugar, water, and oil in a large bowl.\n2. Gradually add 1/2 of the flour, stirring until well combined.\n3. Place the mixture in a warm area to double in volume, about 1-2 hours.\n4. Add the remaining flour and stir until a smooth dough forms that is easy to handle.\n5. Transfer the dough to a greased bowl, cover with a clean kitchen towel, and let it rise until doubled in size, about 1 hour.\n6. Knead the dough gently on a floured surface for a few minutes.\n7. Shape the dough into loaves and place them back in the greased bowl.\n8. Cover and let the dough rise again until nearly doubled, about 30-45 minutes.\n9. Preheat the oven to 500°F (260°C). Optionally lower to 400°F (200°C) after 10 minutes of baking.\n10. Bake for 10 minutes at 500°F (260°C), then bake for an additional 45 minutes at 400°F (200°C).\n11. Remove from the oven and let cool on a wire rack before slicing.\nWARNING: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

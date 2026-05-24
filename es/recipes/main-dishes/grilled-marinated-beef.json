@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "grilled-marinated-beef",
+  "name": "Bistec a la parrilla marinado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecua",
+    "carne de res",
+    "a la parrilla",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 lata de sopa de tomate condensada CAMPBELL'S",
+    "60 ml de agua",
+    "1 cucharada de jugo de limón",
+    "2 cucharaditas de salsa Worcestershire",
+    "750 g de solomillo de ternera sin hueso, de 1 cm de grosor"
+  ],
+  "recipeInstructions": "1. En un bol pequeño, mezclar la sopa de tomate, el agua, el jugo de limón y la salsa Worcestershire. Reservar 3/4 taza; refrigerar.\n2. Verter la marinada restante en un plato poco profundo de metal no pegajoso. Añadir el solomillo, girándolo para cubrirlo. Tapar; refrigerar al menos durante 2 horas, dándole la vuelta ocasionalmente.\n3. Para asar a la parrilla, retirar el solomillo de la marinada y colocarlo en la rejilla de la parrilla directamente sobre brasas medianas. Descartar la marinada. Asar sin tapar hasta alcanzar el punto deseado (aproximadamente 25 minutos para medio), dándolo la vuelta una vez durante la cocción.\n4. Mientras tanto, en una cacerola de 1 litro a fuego medio, calentar la mezcla de sopa reservada hasta que hierva. Cortar el solomillo en rodajas finas y servir con la mezcla de sopa.",
+  "url": null
+}

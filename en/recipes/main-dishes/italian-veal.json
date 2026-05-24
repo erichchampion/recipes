@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-veal",
+  "name": "Italian Veal",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "ethnic",
+    "italian",
+    "meat",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "2 pounds veal cubes",
+    "2 onions, sliced",
+    "2 large tomatoes, cut up",
+    "2 cloves garlic, minced",
+    "2 green peppers, sliced",
+    "1/4 cup white wine",
+    "4 teaspoons oregano",
+    "salt and pepper"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a crockpot.\n2. Cook on low for 8-10 hours.",
+  "url": null
+}

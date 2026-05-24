@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "lizzie-s-pork-chops",
+  "name": "Lomos de cerdo de Lizzie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "4 chuletas de cerdo",
+    "1 lata de caldo de pollo",
+    "(usamos College Inn)",
+    "1 diente de ajo picado",
+    "2 cucharadas de aceite de oliva",
+    "Especias adicionales al gusto",
+    "(usamos albahaca, orégano,",
+    "polvo de ajo con perejil,",
+    "y algunas otras especias",
+    "que había en su estante)"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una sartén.\n2. Dorar las chuletas de cerdo por ambos lados (sin cocinarlas completamente).\n3. Añadir el caldo de pollo, el ajo y las especias.\n4. Reducir el fuego a bajo y cocinar durante 1 hora.",
+  "url": null
+}

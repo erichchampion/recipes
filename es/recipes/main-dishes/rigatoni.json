@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "rigatoni",
+  "name": "Rigatoni",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "favoritos",
+    "italiana",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de rigatoni cocido",
+    "1 diente de ajo, picado finamente",
+    "1/3 taza de aceite de oliva",
+    "400g (14 1/2 oz) de tomates enlatados estofados",
+    "200g (8 oz) de salsa de tomate enlatada",
+    "1 cucharadita de orégano seco",
+    "1/4 cucharadita de pimienta negra molida",
+    "2 cucharadas de perejil fresco picado",
+    "Queso parmesano rallado al gusto"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una sartén a fuego medio.\n2. Saltear el ajo durante 3 minutos hasta que esté fragante.\n3. Agregar los tomates estofados, la salsa de tomate, el orégano, la pimienta y el perejil. Cocinar a fuego lento durante 10-15 minutos, removiendo ocasionalmente.\n4. Verter la salsa sobre el rigatoni cocido y mezclar bien.\n5. Servir caliente, espolvoreado con queso parmesano al gusto.",
+  "url": null
+}

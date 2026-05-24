@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "czechoslovakian-goulash",
+  "name": "Goulash checoslovaco",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "checo",
+    "étnico"
+  ],
+  "recipeIngredient": [
+    "1 lb de solomillo en trozos",
+    "1 lata mediana de jugo de verduras V-8",
+    "3 zanahorias picadas",
+    "10 papas peladas y cortadas",
+    "1/2 repollo picado",
+    "Pimienta de chili",
+    "Sal",
+    "Pimienta negra",
+    "Ketchup",
+    "Agua",
+    "Unas gotas de salsa Worcestershire"
+  ],
+  "recipeInstructions": "1. Dorar los trozos de carne.\n2. Sazonar con pimienta de chili, sal y pimienta negra.\n3. Agregar las verduras picadas (zanahorias, papas, repollo) a la sartén.\n4. Verter el jugo de verduras V-8.\n5. Añadir ketchup y salsa Worcestershire al gusto.\n6. Incorporar agua según sea necesario.\n7. Cocinar hasta que las verduras estén tiernas y la carne hecha.",
+  "url": null
+}

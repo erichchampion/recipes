@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "dry-baking-mix",
+  "name": "Mezcla de repostería seca",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "galletas",
+    "variado",
+    "mezclas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina de uso múltiple",
+    "1 cucharada de azúcar",
+    "1 cucharadita de polvo de hornear",
+    "1 pizca de sal",
+    "1/3 taza de manteca o shortening"
+  ],
+  "recipeInstructions": "1. Tamiza juntos los ingredientes secos (harina, azúcar, polvo de hornear y sal).\n2. Corta la manteca hasta que la mezcla tenga la apariencia de un migas fino.",
+  "url": null
+}

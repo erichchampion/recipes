@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "coffee-frappe",
+  "name": "Frappe de café",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "huevos",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "18 cubos de hielo (hasta 22)",
+    "7 onzas de café con doble fuerza (frío)",
+    "2 cucharadas de azúcar",
+    "2 cucharadas de sirope (vainilla, avellana, frambuesa u otro)",
+    "Crema batida (para decorar)"
+  ],
+  "recipeInstructions": "1. Coloca el hielo, el café, el azúcar y el sirope en una licuadora.\n2. Mezcla hasta obtener un frappé suave.\n3. Vierte en un vaso alto y ancho.\n4. Decora con una cucharada de crema batida.\nFuente: \"Starbucks Pasión por el Café\"",
+  "url": null
+}

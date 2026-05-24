@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "brown-sauce-3",
+  "name": "Brown Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "marinades",
+    "salsa",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 teaspoon grated onion",
+    "3 tablespoons butter",
+    "3 tablespoons flour",
+    "1 cup cream",
+    "1 teaspoon beef extract",
+    "salt and pepper"
+  ],
+  "recipeInstructions": "1. Brown the onion slightly in butter.\n2. Stir in the flour.\n3. Gradually pour in the cream, stirring constantly until the mixture thickens slightly.\n4. Add the beef extract, salt, and pepper, then cook for about 2 more minutes.",
+  "url": null
+}

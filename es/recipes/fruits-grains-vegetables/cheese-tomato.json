@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-tomato",
+  "name": "Queso Tomate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "queso/huevos",
+    "diabético",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 tomate (cortado en rodajas gruesas)",
+    "Una pizca de sal de apio",
+    "Una pizca de sal de ajo",
+    "Una pizca de pimienta",
+    "30 g de queso americano (rallado)"
+  ],
+  "recipeInstructions": "1. Coloca las rodajas de tomate en una bandeja para hornear engrasada con spray vegetal.\n2. Espolvorea las rodajas de tomate con las especias.\n3. Cubre cada rodaja con el queso.\n4. Grilla a 15-18 cm de distancia del calor hasta que el queso se derrita, aproximadamente 5-6 minutos.",
+  "url": null
+}

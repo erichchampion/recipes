@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "sourdough-starter-1",
+  "name": "Sourdough Starter #1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "2 cups Unbleached Flour",
+    "1 package Active Dry Yeast"
+  ],
+  "recipeInstructions": "1. Mix the flour and yeast together.\n2. Gradually add water to form a thick batter.\n3. Place the mixture in a warm place for 24 hours or until it smells yeasty.\nNote: The original recipe contained a warning about false-positive safety triggers in downstream iOS models, which was not included in the rewritten version as per the instructions.",
+  "url": null
+}

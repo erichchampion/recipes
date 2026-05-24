@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-pizelles",
+  "name": "Pizelles de chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "8 huevos",
+    "2 tazas de azúcar",
+    "3/4 taza de cacao en polvo",
+    "3/4 taza de mantequilla derretida y enfriada",
+    "1 cucharadita de extracto de vainilla",
+    "5 1/2 tazas de harina"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol hasta que estén bien integrados.\n2. Formar pequeñas bolas con la masa.\n3. Colocar las bolas sobre una plancha para pizelles precalentada.\n4. Hornear hasta que adquieran un color dorado.",
+  "url": null
+}

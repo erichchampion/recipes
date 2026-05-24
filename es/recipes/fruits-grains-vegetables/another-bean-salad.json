@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "another-bean-salad",
+  "name": "Otra ensalada de frijoles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "1/2 cucharadita de sal",
+    "1 taza de vinagre",
+    "400 g de frijoles verdes enlatados, escurridos",
+    "400 g de frijoles amarillos enlatados, escurridos",
+    "400 g de frijoles lima enlatados, escurridos",
+    "400 g de garbanzos enlatados, escurridos",
+    "400 g de frijoles rojos secos, escurridos",
+    "1 pimiento verde, cortado en tiras",
+    "4 tallos de apio, cortados en rodajas",
+    "3 cebollas medianas, cortadas en rodajas finas"
+  ],
+  "recipeInstructions": "1. Combinar el azúcar, la sal y el vinagre en una sartén. Llevar a ebullición durante 1 minuto.\n2. Dejar enfriar la mezcla.\n3. Mezclar todos los demás ingredientes.\n4. Verter la mezcla de vinagre sobre las verduras.\n5. Marinar en la nevera durante 24 horas, removiendo ocasionalmente.",
+  "url": null
+}

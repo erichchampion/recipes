@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "paella",
+  "name": "Paella",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "fish",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "2 pounds Chicken parts",
+    "Salt & pepper",
+    "1 Clove garlic, crushed",
+    "1 teaspoon Oregano",
+    "2 tablespoons Vegetable oil",
+    "1 Chorizo, sliced",
+    "1 Onion, chopped",
+    "1 Green pepper, chopped",
+    "1 cup Uncooked rice",
+    "2 1/2 cups Beef broth",
+    "8 ounces Tomato sauce",
+    "1/2 teaspoon Saffron",
+    "1/2 pound Shrimp, cooked & cleaned",
+    "1/2 cup Cooked peas"
+  ],
+  "recipeInstructions": "1. Wash and dry the chicken parts.\n2. Rub the chicken with seasonings (salt and pepper).\n3. Brown the chicken in oil in a large skillet until fully cooked through.\n4. Add chorizo; cook over low heat for 10 minutes, stirring occasionally.\n5. Add onion and green pepper; cook until softened, about 5 minutes more.\n6. Stir in broth, tomato sauce, and saffron; cover and simmer on low heat for 20 minutes.\n7. Stir in rice; cover and simmer for an additional 30 minutes.\n8. Add shrimp and peas; stir to combine.\n9. Allow any excess liquid to cook off before serving.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "cinnamon-cookies",
+  "name": "Galletas de Canela",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de manteca",
+    "1 taza de azúcar",
+    "2 yemas de huevo",
+    "1 cucharadita de vainilla",
+    "2 1/4 tazas de harina común (cernida)",
+    "2 cucharaditas de canela en polvo",
+    "1/2 cucharadita de sal",
+    "1 clara de huevo",
+    "1/4 taza de azúcar",
+    "1 cucharadita de canela en polvo"
+  ],
+  "recipeInstructions": "Tiempo de preparación: 1:00\nPrecalentar el horno a 200 °C.\nBatir la manteca con el azúcar hasta que quede ligero y esponjoso. Agregar las yemas de huevo y la vainilla; batir bien. Mezclar la harina, la canela y la sal. Incorporar los ingredientes secos a la mezcla en tres tandas. Formar las galletas y untarlas con la clara de huevo batida. Combinar el azúcar restante con la canela en polvo; espolvorear la mezcla sobre cada galleta. Hornear durante 8 a 10 minutos.",
+  "url": null
+}

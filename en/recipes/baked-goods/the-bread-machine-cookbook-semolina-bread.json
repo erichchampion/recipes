@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "the-bread-machine-cookbook-semolina-bread",
+  "name": "The Bread Machine Cookbook Semolina Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "1 pound loaf",
+    "1 cup water",
+    "1 tbsp olive oil",
+    "1 tsp sugar",
+    "1 tsp salt",
+    "1 1/2 cups semolina flour",
+    "1 1/2 cups bread flour",
+    "1 1/2 tsp yeast"
+  ],
+  "recipeInstructions": "1. Add all ingredients to the bread machine in the order specified by the manufacturer's instructions.\n2. Mix and knead according to the machine's settings.\n3. Bake according to the manufacturer's instructions.",
+  "url": null
+}

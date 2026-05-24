@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "all-in-one-breakfast",
+  "name": "Desayuno completo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 rebanada de pan integral tostado",
+    "3 rodajas de tomate",
+    "1 cucharadita de mantequilla",
+    "2 cucharadas de queso parmesano rallado",
+    "3 champiñones frescos, laminados finamente",
+    "1 rebanada de tocino; crujiente, luego desmenuzado"
+  ],
+  "recipeInstructions": "1. Coloca el pan tostado en una bandeja para hornear.\n2. Si lo deseas, extiende mantequilla uniformemente sobre el pan tostado.\n3. Cubre el pan con rodajas de champiñones y tomates.\n4. Espolvorea queso parmesano rallado y tocino desmenuzado encima.\n5. Hornea en un horno precalentado a 175°C (350°F) hasta que se derrita el queso.",
+  "url": null
+}

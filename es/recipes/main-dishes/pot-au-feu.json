@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "pot-au-feu",
+  "name": "Pot au feu",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "étnica",
+    "francesa"
+  ],
+  "recipeIngredient": [
+    "2 lb de solomillo de ternera sin hueso",
+    "1 hoja de laurel",
+    "6 granos de pimienta negra",
+    "1/2 cucharadita de tomillo",
+    "4 dientes de ajo",
+    "1 clavos enteros",
+    "2 cebollas peladas, cortadas por la mitad",
+    "2 zanahorias peladas, cortadas en rodajas",
+    "1 lb (aprox.) de paleta de cerdo (opcional)",
+    "2 tallos de apio, cortados en trozos de 2 pulgadas",
+    "2 o 3 pechugas de pollo",
+    "10 oz de caldo de carne",
+    "1/2 lb de salchicha polaca dorada y escurrida, cortada en cubos"
+  ],
+  "recipeInstructions": "1. Sazonar la carne al gusto.\n2. Preparar un bouquet de hierbas: envolver una hoja de laurel, los granos de pimienta, el tomillo, los dientes de ajo y el clavo entero en un paño de cocina o un colador.\n3. Alternar capas de carne y salchicha en la olla lenta. Añadir las verduras alrededor para rellenar la olla.\n4. Colocar el bouquet de hierbas en el centro de la olla.\n5. Verter el caldo de carne.\n6. Tapar y cocinar a fuego lento durante 8-10 horas.\n7. Servir con zanahorias, puerros, nabos, cebollas y patatas cocidas.",
+  "url": null
+}

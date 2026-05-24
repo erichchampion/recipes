@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "tofu-pizza",
+  "name": "Tofu Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza",
+    "tofu"
+  ],
+  "recipeIngredient": [
+    "3 panes pita, divididos en seis rondas",
+    "1 1/2 tazas de salsa de tomate y ajo, escurrida",
+    "1 lb de tofu, prensado",
+    "1/2 lb de setas frescas, en rodajas",
+    "1/2 taza de pimiento verde picado",
+    "1 1/2 cucharadas de parmesano rallado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375°F (190°C).\n2. Colocar las rondas de pan pita en una bandeja para hornear y extender con salsa de tomate y ajo.\n3. Desmenuzar el tofu sobre cada base de pizza.\n4. Cubrir con pimiento verde y setas.\n5. Espolvorear con parmesano rallado.\n6. Hornear durante 15 minutos.",
+  "url": null
+}

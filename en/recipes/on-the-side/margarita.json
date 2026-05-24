@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "margarita",
+  "name": "Margarita",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz Tequila",
+    "1 oz Lemon juice",
+    "1/2 oz Triple Sec"
+  ],
+  "recipeInstructions": "1. Rub the rim of a cocktail glass with the rind of lemon or lime, then dip the rim in salt.\n2. Shake together the tequila, lemon juice, and triple sec with ice.\n3. Strain the mixture into the prepared glass.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "singapore-sling-2",
+  "name": "Singapore Sling",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "brandy",
+    "vaso - Collins",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de zumo de limón fresco",
+    "1 cucharadita de azúcar en polvo",
+    "2 onzas de ginebra",
+    "2 tazas de soda",
+    "1 onza de brandy de cereza"
+  ],
+  "recipeInstructions": "1. Mezclar el zumo de limón, el azúcar en polvo y la ginebra en un vaso batidor con hielo.\n2. Agitar bien hasta enfriar.\n3. Colar la mezcla en un vaso Collins lleno de cubitos de hielo.\n4. Completar con una cantidad igual de soda.\n5. Flotar suavemente el brandy de cereza sobre la bebida.\n6. Decorar con rodajas de fruta fresca y servir con un pajita.",
+  "url": null
+}

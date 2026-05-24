@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "linguine-with-tuna",
+  "name": "Linguini con atún",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aceite de oliva",
+    "1 pimiento rojo, picado",
+    "1 pimiento verde, picado",
+    "1 cebolla, picada",
+    "10 ml de ajo, picado",
+    "1 libra de atún; asado, cortado en trozos pequeños",
+    "1/4 taza de vinagre balsámico",
+    "6 tomates, picados"
+  ],
+  "recipeInstructions": "1. Cocinar la linguine al dente según las instrucciones del paquete.\n2. Calentar el aceite de oliva en una sartén a fuego medio.\n3. Añadir los pimientos rojos y verdes, la cebolla y el ajo picado. Sazonar con sal y pimienta.\n4. Saltear hasta que las verduras estén tiernas.\n5. Incorporar el atún, los tomates, el vinagre balsámico y cualquier otra especia al gusto (por ejemplo, comino, cúrcuma). Mezclar bien.\n6. Reducir el fuego y cocinar durante unos minutos hasta que todo esté caliente.\n7. Servir la mezcla sobre la pasta cocida.",
+  "url": null
+}

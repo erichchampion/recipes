@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "spanish-potato-salad",
+  "name": "Ensalada de Patatas Española",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 lb de patatas nuevas",
+    "4 cucharadas de aceite de oliva",
+    "1 cucharada de vinagre de vino",
+    "2 dientes de ajo machacados",
+    "1 pimiento rojo pequeño",
+    "1 cucharada de cebolleta picada"
+  ],
+  "recipeInstructions": "1. Cocinar las patatas hasta que estén tiernas pero sin sobrecocinar.\n2. Mezclar el aceite de oliva y el vinagre de vino.\n3. Saltear las patatas calientes con la mezcla de aceite.\n4. Incorporar el ajo machacado y el pimiento rojo.\n5. Espolvorear con cebolleta picada.\n6. Servir mientras aún esté caliente.",
+  "url": null
+}

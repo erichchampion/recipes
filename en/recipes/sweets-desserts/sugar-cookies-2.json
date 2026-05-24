@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "sugar-cookies-2",
+  "name": "Sugar Cookies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 cup Lard",
+    "2 cups Sugar",
+    "1 Egg",
+    "1 cup Sour Milk",
+    "1 tsp Baking Soda",
+    "2 tsp Baking Powder",
+    "1 tsp Nutmeg",
+    "4 cups Flour",
+    "Pinch of Salt"
+  ],
+  "recipeInstructions": "1. Cream the lard and sugar until smooth.\n2. Add the egg, sour milk, baking soda, baking powder, nutmeg, and salt. Mix well.\n3. Gradually add the flour and mix until a dough forms.\n4. Roll out the dough and cut into desired shapes.\n5. Bake for 10 minutes at 450°F (230°C).\n6. Optional: Add currants or coconut to the batter before rolling out the dough.",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-pasta-n-cheese",
+  "name": "Pasta y queso italiano",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "Aderezo:",
+    "1/4 taza de aceite de oliva",
+    "1/4 taza de vinagre blanco",
+    "2 cucharadas de azúcar granulada",
+    "1 cucharadita de hojas de albahaca",
+    "1 cucharadita de orégano",
+    "1/4 cucharadita de pimienta negra",
+    "Ensalada:",
+    "2 tazas de pasta rotini, sin cocinar",
+    "1 1/2 tazas de brócoli congelado, descongelado",
+    "8 onzas de queso mozzarella sin grasa, rallado",
+    "1/2 taza de cebolla picada",
+    "1/2 taza de pimientos rojos picados"
+  ],
+  "recipeInstructions": "Preparar el aderezo: combinar en un frasco con tapa ajustable el aceite, el vinagre, el azúcar, la albahaca, el orégano y la pimienta. Agitar bien hasta que se mezcle.\nCocinar la pasta rotini según las instrucciones del paquete. Enjuagar con agua fría y escurrir antes de usar.\nPreparar la ensalada: combinar en un bol la pasta cocida, los trozos de brócoli, el queso mozzarella rallado, la cebolla y los pimientos rojos. Revolver hasta que todo esté distribuido uniformemente.\nIncorporar suavemente el aderezo a la mezcla de ensalada. Tapar el bol y refrigerar durante al menos 2 horas para permitir que se mezclen los sabores.",
+  "url": null
+}

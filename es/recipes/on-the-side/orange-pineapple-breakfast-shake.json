@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-pineapple-breakfast-shake",
+  "name": "Batido de Desayuno de Naranja y Piña",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "frutas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de jugo de naranja",
+    "1/2 taza de jugo de piña sin azúcar",
+    "1/2 taza de yogur natural",
+    "1 cucharadita de miel"
+  ],
+  "recipeInstructions": "1. En una licuadora, mezclar el jugo de naranja y el jugo de piña.\n2. Añadir el yogur natural y la miel a la licuadora.\n3. Licuar hasta que todos los ingredientes estén bien combinados.\n4. Verter el batido en un vaso.\n5. Decorar con una rodaja de naranja o un ramito de menta fresca, si se desea.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-or-pork-adobo",
+  "name": "Pollo o Cerdo Adobo",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "asiático",
+    "étnico",
+    "plato principal",
+    "filipino"
+  ],
+  "recipeIngredient": [
+    "3 lb de muslos de pollo o butifarra de cerdo",
+    "1/2 taza de vinagre",
+    "1/4 taza de salsa de soja",
+    "3 dientes de ajo machacados",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de granos de pimienta molidos",
+    "1 hoja de laurel"
+  ],
+  "recipeInstructions": "1. Si usa cerdo, corte la carne en trozos de 5 cm.\n2. En una olla grande, mezcle todos los ingredientes.\n3. Tapa y deja marinar entre 1 y 3 horas.\n4. Lleve a ebullición a fuego medio. Reduzca el calor y cocine a fuego lento durante 30 minutos (45 minutos para la carne de cerdo).\n5. Retire la tapa y continúe cocinando a fuego lento durante 15 minutos más o hasta que se evapore el líquido y el pollo o cerdo esté ligeramente dorado.\n6. Sirva para 6 personas.",
+  "url": null
+}

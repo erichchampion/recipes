@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "marinated-steak-kabobs",
+  "name": "Brochetas de solomillo marinado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 taza de cebolla, picada",
+    "1/2 taza de aceite vegetal",
+    "1/2 taza de zumo de limón",
+    "1/4 taza de salsa de soja",
+    "1 cucharada de salsa Worcestershire",
+    "1 cucharadita de mostaza preparada",
+    "500 g de solomillo, cortado en cubos de 2\"",
+    "1 pimiento verde grande, cortado en trozos de 1\"",
+    "2 cebollas medianas, cortadas en cuartos",
+    "2 tomates medianos, cortados en cuartos"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla en el aceite; retirar del fuego.\n2. Mezclar el zumo de limón, salsa de soja, salsa Worcestershire y mostaza. Verter sobre la carne y las verduras. Cubrir y marinar en la nevera durante la noche.\n3. Retirar la carne y las verduras de la marinada, reservando la marinada.\n4. Alternar la carne y las verduras en brochetas.\n5. A la parrilla 5 minutos por cada lado sobre carbón medio o hasta el punto deseado, pincelando frecuentemente con la marinada.",
+  "url": null
+}

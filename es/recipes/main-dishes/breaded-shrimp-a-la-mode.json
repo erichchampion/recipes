@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "breaded-shrimp-a-la-mode",
+  "name": "Gambas empanizadas a la moda",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco",
+    "camarones"
+  ],
+  "recipeIngredient": [
+    "20 gambas grandes",
+    "1/2 limón, su zumo",
+    "sal al gusto",
+    "1/2 lb queso mozzarella, cortado en cubos pequeños",
+    "1/2 taza de harina",
+    "1 taza de pan rallado",
+    "1/2 taza de queso parmesano rallado",
+    "1/2 cucharadita de pimentón dulce",
+    "1/2 taza de copos de maíz molidos",
+    "aceite para freír",
+    "2 huevos"
+  ],
+  "recipeInstructions": "1. Limpiar las gambas y extraer el intestino, dejando la cola.\n2. Lavar bien y sazonar con zumo de limón, sal y pimentón.\n3. Colocar 5 gambas en cada brocheta, colocando un trozo de mozzarella entre la cola y la parte más cercana a donde estaba la cabeza.\n4. Batir los huevos y mezclar con el queso parmesano; sazonar ligeramente con sal.\n5. Sumergir las brochetas primero en harina, luego en la mezcla de huevo y finalmente en la mezcla de pan rallado con copos de maíz.\n6. Freír en aceite caliente hasta dorar.\nServir con arroz y salsa tártara.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-ham-soup",
+  "name": "Sopa de Pollo y Jamón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 pechuga de pollo sin piel y cortada en lonchas finas",
+    "2 calabacines medianos",
+    "150g de setas",
+    "150g de jamón picado",
+    "2 cebollas picadas",
+    "3/4 litro de caldo de pollo hecho con concentrado líquido",
+    "2 cucharaditas de salsa de soja clara",
+    "1 cucharada de maicena"
+  ],
+  "recipeInstructions": "1. Coloca el pollo, los calabacines, las setas, el jamón y las cebollas en una olla.\n2. Añade el caldo de pollo y lleva a ebullición.\n3. Reduce el fuego y deja cocer destapada durante 5 minutos.\n4. En un bol aparte, mezcla la salsa de soja con la maicena hasta obtener una pasta suave.\n5. Vierte la mezcla en la olla removiendo constantemente hasta que la sopa espese.\n6. Sirve inmediatamente.",
+  "url": null
+}

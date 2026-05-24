@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "grilled-burgers",
+  "name": "Hamburguesas a la parrilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgueros",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de crema agria",
+    "2 cucharaditas de copos de perejil seco",
+    "1 cucharadita de tomillo seco",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra",
+    "2,5 kg de carne molida",
+    "10 panecillos para hamburguesa, cortados por la mitad",
+    "lechuga - opcional",
+    "tomate en rodajas - opcional",
+    "cebolla"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar la crema agria, los copos de perejil seco, el tomillo seco, la sal y la pimienta. Mezclar suavemente.\n2. Agregar gradualmente la carne molida a la mezcla y remover hasta que todos los ingredientes estén bien combinados.\n3. Dar forma a la mezcla en 10 hamburguesas.\n4. Asar las hamburguesas a la parrilla, sin cubrir, sobre carbón medio durante 4-5 minutos por cada lado, hasta que la carne ya no sea rosada.\n5. Servir las hamburguesas en los panecillos con lechuga, tomate y cebolla al gusto.",
+  "url": null
+}

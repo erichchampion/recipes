@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "fried-mussels",
+  "name": "Muslos fritos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "500 g langostinos",
+    "125 g ouzo",
+    "1/2 taza de aceite",
+    "100 g harina",
+    "1/2 cucharadita de sal",
+    "3 cucharadas de parmesano rallado",
+    "1 taza de cerveza",
+    "2 huevos",
+    "50 g yogur natural",
+    "1/2 cucharadita de bicarbonato de sodio"
+  ],
+  "recipeInstructions": "1. Limpiar bien los langostinos y colocarlos en un plato para hornear.\n2. Verter el ouzo sobre los langostinos y cubrir con papel film durante una hora.\n3. Retirar cada langostino individualmente y rebozarlo en la masa.\n4. Freírlos en aceite caliente hasta que estén dorados.\nMasa: Mezclar la cerveza con la harina, agregar sal, parmesano rallado, huevos, yogur y bicarbonato de sodio.",
+  "url": null
+}

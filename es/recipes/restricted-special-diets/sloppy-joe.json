@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "sloppy-joe",
+  "name": "Sloppy Joe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "plato principal",
+    "dietas especiales",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 cebolla pequeña, picada",
+    "4 dientes de ajo, picados",
+    "1 cucharada de aceite vegetal",
+    "3 setas grandes, picadas",
+    "1 zanahoria grande, rallada",
+    "1/2 cucharadita de perejil fresco picado",
+    "1/2 taza de tofu blando, desmenuzado",
+    "2 cucharaditas de tamari o salsa de soja",
+    "3 cucharadas de salsa de tomate"
+  ],
+  "recipeInstructions": "1. Calentar el aceite vegetal en una sartén a fuego medio.\n2. Añadir la cebolla y el ajo, cocinar hasta que estén transparentes.\n3. Incorporar las setas, la zanahoria y el perejil. Saltear brevemente.\n4. Agregar el tofu, el tamari y la salsa de tomate. Mezclar bien.\n5. Cocinar hasta que todo esté caliente.\n6. Servir en pan pita.",
+  "url": null
+}

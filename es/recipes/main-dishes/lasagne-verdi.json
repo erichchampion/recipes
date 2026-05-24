@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "lasagne-verdi",
+  "name": "Lasaña verde",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "etnica",
+    "italiana",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de espinacas cocidas, escurridas",
+    "2 huevos, ligeramente batidos",
+    "2 1/2 tazas de harina, hasta 3 tazas",
+    "6 litros de agua",
+    "4 cucharadas de aceite de oliva",
+    "3 tazas de salsa de tomate casera",
+    "3 tazas de salsa de queso",
+    "1/2 taza de queso parmesano recién rallado"
+  ],
+  "recipeInstructions": "Salar las espinacas y escurrir el exceso de líquido. Picar finamente hasta obtener una pasta suave. Preparar la masa con espinacas, huevos y harina, siguiendo la receta de pasta casera. Estirar la masa y cortarla en tiras de aproximadamente 5x8 cm. Hervir 6 litros de agua con 4 cucharadas de sal. Cocinar las tiras en pequeños lotes durante 2 minutos sin cubrir. Escurrir y refrescar con agua fría. Colocar una capa de aceite y salsa de tomate en un molde para hornear. Alternar capas de pasta, salsa de tomate y salsa de queso, terminando con una capa de salsa de tomate y espolvorear con parmesano. Hornear a 400°F (200°C) durante unos 20 minutos. Servir con el resto del parmesano en un plato aparte.\nRinde para 6 personas.",
+  "url": null
+}

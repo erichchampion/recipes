@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "whipped-cream-filling",
+  "name": "Relleno de crema batida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "postres",
+    "glaseado"
+  ],
+  "recipeIngredient": [
+    "1 taza de nata para montar (whipping cream)",
+    "1 cucharadita de extracto de vainilla",
+    "2 cucharadas de azúcar en polvo (ajustar al gusto)"
+  ],
+  "recipeInstructions": "1. Bate la nata y el extracto de vainilla juntos hasta que formen espuma.\n2. Añade gradualmente el azúcar en polvo, continuando con la batida hasta que se formen picos suaves.\nRendimiento: 2 tazas",
+  "url": null
+}

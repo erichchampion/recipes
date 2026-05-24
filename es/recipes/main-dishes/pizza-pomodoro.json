@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-pomodoro",
+  "name": "Pizza Tomate",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiana",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "2 cucharaditas de levadura seca",
+    "1/2 taza de agua tibia (105-115 °F)",
+    "1 cucharada de azúcar",
+    "1/2 taza de leche desnatada",
+    "2 dientes de ajo picados",
+    "Sal",
+    "3 tazas de harina",
+    "2 cucharadas de harina de maíz amarillo",
+    "1 1/2 cucharadas de aceite de oliva",
+    "5 tomates Roma finamente cortados",
+    "2 cucharadas de albahaca fresca picada",
+    "1/3 taza de queso Parmesano rallado"
+  ],
+  "recipeInstructions": "1. Espolvorea la levadura sobre el agua tibia en un bol pequeño y remueve hasta que se disuelva.\n2. Añade el azúcar y deja reposar hasta que la mezcla empiece a burbujear.\n3. Incorpora la leche, el ajo y 1 cucharadita de sal.\n4. Ve añadiendo la harina poco a poco hasta formar una masa firme pero suave.\n5. Transfiere la masa a una superficie ligeramente enharinada y amasa durante 10-12 minutos hasta que quede lisa y brillante.\n6. Forma una bola y colócala en un bol ligeramente engrasado, girándola para engrasar todos los lados. Cubre y deja levar en un lugar cálido hasta que doble su tamaño.\n7. Desinfla la masa y amásala brevemente. Extiéndela sobre una superficie enharinada hasta obtener un rectángulo de 13x9 pulgadas.\n8. Coloca la masa sobre una bandeja para hornear ligeramente engrasada y espolvoreada con harina de maíz.\n9. Unta la mitad del aceite de oliva sobre la masa. Coloca las rodajas de tomate en filas, superponiéndolas ligeramente.\n10. Cepilla los tomates con el resto del aceite y sazona al gusto con sal y pimienta.\n11. Hornea a 350 °F durante 20-25 minutos o hasta que los bordes de la masa estén dorados.\n12. Espolvorea con albahaca fresca y queso Parmesano. Corta en trozos de 2x4 pulgadas.",
+  "url": null
+}

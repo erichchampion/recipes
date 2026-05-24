@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "frozen-custard",
+  "name": "Helado congelado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de leche",
+    "2 cucharadas de harina",
+    "1 taza de azúcar",
+    "Una pizca de sal",
+    "1 cucharada de mantequilla",
+    "2 huevos",
+    "1 lata de leche evaporada",
+    "2 cucharaditas de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Mezclar la leche, la harina, el azúcar, la sal y la mantequilla en una cacerola a fuego medio.\n2. Cocinar hasta que espese ligeramente.\n3. Batir los huevos y añadirlos gradualmente a la mezcla caliente, batiendo constantemente.\n4. Cocinar durante unos minutos más a fuego bajo, removiendo con frecuencia.\n5. Retirar del fuego y agregar la leche evaporada y el extracto de vainilla.\n6. Enfriar hasta que esté firme antes de servir.",
+  "url": null
+}

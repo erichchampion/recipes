@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "minted-pasta-salad",
+  "name": "Ensalada de pasta con menta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "hierbas",
+    "pasta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de pasta (pequeña: orzo, con forma de caracolas)",
+    "Sal",
+    "1/3 taza de aceite de oliva ligero",
+    "2 cucharadas de vinagre de vino rojo",
+    "1/2 taza de hojas de menta fresca (picadas)",
+    "1 cucharadita de orégano fresco (picado)",
+    "2 dientes de ajo (picados finamente)",
+    "Pimienta negra molida al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta en agua hirviendo con sal hasta que esté al dente, siguiendo las instrucciones del paquete; escurrir bien.\n2. Mezclar el aceite, el vinagre, las hierbas, el ajo, la sal y la pimienta en un bol para servir. Agregar la pasta y mezclar suavemente. Servir caliente o a temperatura ambiente.",
+  "url": null
+}

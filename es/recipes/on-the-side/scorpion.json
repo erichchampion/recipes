@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "scorpion",
+  "name": "Escorpión",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 oz de vodka",
+    "2 oz de ron oscuro",
+    "2 oz de jugo de naranja",
+    "1 oz de brandy",
+    "1 oz de mezcla de limón y azúcar",
+    "2 oz de jugo de piña"
+  ],
+  "recipeInstructions": "1. Llenar un vaso tipo huracán o alto con hielo triturado.\n2. Mezclar los ingredientes y remover suavemente hasta que estén bien combinados.\n3. Decorar con una rodaja de naranja.",
+  "url": null
+}

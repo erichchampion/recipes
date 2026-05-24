@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-julius-copycat-recipe",
+  "name": "Receta Copia de Orange Julius",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "bebidas",
+    "frutas",
+    "varios",
+    "gambas"
+  ],
+  "recipeIngredient": [
+    "1 taza de jugo de naranja",
+    "1 taza de agua",
+    "2 huevos",
+    "3/4 cucharadita de extracto de vainilla",
+    "1/4 taza de azúcar granulada",
+    "1 taza de hielo (aprox.)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una licuadora a velocidad alta.\n2. Licuar durante exactamente un minuto.",
+  "url": null
+}

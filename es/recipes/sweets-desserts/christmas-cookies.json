@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "christmas-cookies",
+  "name": "Galletas de Navidad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres",
+    "festividades"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de azúcar",
+    "1/2 taza de mantequilla derretida",
+    "2 huevos batidos",
+    "1 cucharadita de extracto de vainilla",
+    "2 tazas de harina tamizada",
+    "1 cucharadita de cremor tártaro",
+    "1/2 cucharadita de bicarbonato de sodio",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Mezclar bien el azúcar con la mantequilla derretida.\n2. Incorporar los huevos batidos y el extracto de vainilla.\n3. Tamizar y mezclar los ingredientes secos, añadiéndolos a la mezcla de mantequilla, hasta obtener una buena combinación.\n4. Refrigerar la masa.\n5. Extender la masa sobre una superficie ligeramente enharinada hasta alcanzar un grosor de 1/8 de pulgada.\n6. Cortar las galletas con cortadores enharinados.\n7. Antes de hornear, espolvorear azúcar de colores sobre las galletas. Se adherirá y no será necesario añadir glaseado a menos que se desee.\n8. Hornear en horno precalentado a 375 °F durante 10 a 12 minutos.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "multi-grain-bread-abm",
+  "name": "Multi-Grain Bread ABM",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1/2 tbsp Yeast",
+    "2 cups Flour",
+    "3/4 cup Wheat flour",
+    "3/4 cup Wheat germ",
+    "3/4 cup Oats",
+    "3/4 cup Powdered milk",
+    "1/2 cup Sunflower seeds",
+    "2 tbsp Gluten",
+    "2 tbsp Sugar",
+    "1/2 tsp Salt",
+    "1 Egg"
+  ],
+  "recipeInstructions": "1. Combine boiling water with bulgur wheat, millet, corn syrup, and oil.\n2. Cool the mixture to room temperature.\n3. Bring all remaining ingredients to room temperature.\n4. Pour the cooled ingredients into a bread machine in order.\n5. Add the grain mixture.\n6. Set the baking control to medium.\n7. Select white bread and press Start.",
+  "url": null
+}

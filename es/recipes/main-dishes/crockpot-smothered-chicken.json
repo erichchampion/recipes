@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-smothered-chicken",
+  "name": "Pollo asfixiado en olla de cocción lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pollo",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo enteras (deshuesadas y sin piel)",
+    "240 g de setas frescas",
+    "1 lata de sopa de setas cremosas",
+    "1 lata de sopa de pollo cremoso",
+    "1 lata de sopa de cebolla francesa",
+    "Apio picado",
+    "Maíz dulce en latas"
+  ],
+  "recipeInstructions": "1. Cortar las pechugas de pollo en trozos para guiso.\n2. Saltear el pollo mientras se lavan y cortan las setas por la mitad.\n3. Añadir todos los ingredientes a la olla y cocinar a fuego lento durante aproximadamente 1 hora.\n4. Alternativamente, colocar todo en una olla de cocción lenta y dejarlo cocinar durante todo el día.\n5. Servir sobre arroz, fideos o patatas.",
+  "url": null
+}

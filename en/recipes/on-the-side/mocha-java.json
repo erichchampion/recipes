@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "mocha-java",
+  "name": "Mocha Java",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "coffee",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 ounces (2 squares) semi-sweet chocolate",
+    "4 teaspoons granulated sugar",
+    "1/4 cup heavy cream",
+    "4 cups hot coffee, freshly brewed",
+    "Whipped cream, garnish",
+    "Grated milk chocolate, garnish"
+  ],
+  "recipeInstructions": "1. Melt the chocolate in a heavy gauge saucepan over low heat, stirring constantly.\n2. Stir in the sugar and heavy cream. Blend until smooth.\n3. Gradually whisk in the hot coffee.\n4. Divide the mixture among 4 coffee mugs.\n5. Top each mug with whipped cream and finely grated milk chocolate.\n6. Serve immediately.\nYIELD: 4 servings",
+  "url": null
+}

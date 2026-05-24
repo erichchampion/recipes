@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-primavera",
+  "name": "Pizza Primavera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "Waldine Van Geffen VGHC42A",
+    "1 1/2 tazas de brócoli en floretes",
+    "1 taza de calabacín amarillo cortado en rodajas",
+    "3/4 taza de piezas de espárrago",
+    "8 onzas de mozzarella baja en grasa, desmenuzada",
+    "4 porciones de pan pita redondo",
+    "3 tomates plomos, cortados en rodajas",
+    "2 cucharadas de albahaca fresca picada",
+    "1/4 taza de guisantes congelados descongelados",
+    "2 cucharadas de parmesano rallado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 200 °C.\n2. Cocinar los vegetales hasta que estén tiernos pero crujientes y escurrir el exceso de agua.\n3. Espolvorear 1/4 taza de mozzarella sobre cada porción de pan pita.\n4. Colocar rodajas de tomate y albahaca encima.\n5. Distribuir los vegetales cocidos y los guisantes sobre las rodajas de tomate.\n6. Espolvorear el resto de la mozzarella y el parmesano sobre los toppings.\n7. Colocar en una bandeja para hornear.\n8. Hornear durante 8 minutos o hasta que se derrita el queso mozzarella.",
+  "url": null
+}

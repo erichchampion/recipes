@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "orangeade",
+  "name": "Naranjada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de miel",
+    "4 tazas de agua",
+    "2 tazas de jugo de naranja",
+    "1/4 taza de jugo de limón",
+    "Naranjas (cortadas en rodajas finas)",
+    "Hielo"
+  ],
+  "recipeInstructions": "1. Disuelve la miel en el agua utilizando un jarro grande.\n2. Añade las rodajas de naranja a la mezcla.\n3. Llena el jarro con hielo y remueve suavemente.",
+  "url": null
+}

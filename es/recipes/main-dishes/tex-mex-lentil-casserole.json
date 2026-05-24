@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "tex-mex-lentil-casserole",
+  "name": "Cazuela de lentejas Tex-Mex",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 taza de lentejas rojas",
+    "1 lata de caldo de verduras",
+    "1 taza de cebolla picada",
+    "1 lata de tomates troceados",
+    "1 lata de chiles verdes troceados",
+    "1 cucharadita de polvo de chile",
+    "1/4 cucharadita de comino molido",
+    "1/2 taza de queso bajo en grasa rallado",
+    "2 cucharadas de cilantro picado"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el queso y el cilantro en un recipiente apto para microondas de 1,5 litros con tapa.\n2. Microondas a potencia máxima durante 18-20 minutos.\n3. Retirar la tapa con cuidado y remover.\n4. Espolvorear con queso, tapar y dejar reposar durante 20 minutos.\n5. Decorar con cilantro antes de servir.",
+  "url": null
+}

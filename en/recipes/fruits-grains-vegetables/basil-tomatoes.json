@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "basil-tomatoes",
+  "name": "Basil Tomatoes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "salads",
+    "tomatoes",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "3 medium sliced tomatoes",
+    "2 tablespoons olive oil",
+    "1 teaspoon basil",
+    "1 teaspoon vinegar",
+    "1 pinch of salt",
+    "1 pinch of pepper",
+    "1 pinch of garlic powder"
+  ],
+  "recipeInstructions": "1. In a bowl, combine the olive oil, vinegar, basil, salt, and pepper.\n2. Add the sliced tomatoes to the mixture and stir until evenly coated.\n3. Sprinkle in the garlic powder.\n4. Chill for at least 2 hours before serving.",
+  "url": null
+}

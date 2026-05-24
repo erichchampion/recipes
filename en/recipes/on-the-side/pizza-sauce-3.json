@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-sauce-3",
+  "name": "Pizza Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pizza",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "10 oz canned tomato soup",
+    "1 tablespoon dried oregano leaves",
+    "1/2 teaspoon garlic salt",
+    "8 ounces shredded mozzarella",
+    "8 ounces shredded Muenster",
+    "1/3 cup grated Parmesan",
+    "1 thin slice of pepperoni (8 ounces)",
+    "8 ounces mushrooms, drained"
+  ],
+  "recipeInstructions": "1. Place the ingredients on top of the pizza dough in the order listed.\n2. Allow the assembled pizza to rise for 20 minutes in a warm place.\n3. Bake at 450°F for 20-25 minutes.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheddar-olive-tart",
+  "name": "Tarta de Queso Cheddar y Aceitunas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "queso/huevos",
+    "plato principal",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 huevos grandes",
+    "1 1/2 tazas de crema",
+    "4 oz (120 g) de queso cheddar rallado",
+    "1/2 taza de aceitunas negras en rodajas",
+    "Sal y pimienta al gusto",
+    "Una o más bases de tarta preparadas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375°F (190°C).\n2. Batir ligeramente los huevos y mezclar con todos los demás ingredientes.\n3. Verter la mezcla en la(s) base(s) de tarta preparada(s).\n4. Hornear durante 30 minutos en una base grande o 20 minutos en bases más pequeñas.",
+  "url": null
+}

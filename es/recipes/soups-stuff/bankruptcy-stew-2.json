@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "bankruptcy-stew-2",
+  "name": "Estofado de Quiebra",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "diabetico",
+    "plato principal",
+    "carnes",
+    "sopas",
+    "sopas/estofados",
+    "estofados",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 lb de solomillo de ternera magro (sin hueso)",
+    "1 taza de agua",
+    "1/2 taza de salsa de tomate",
+    "3 tazas de apio picado",
+    "3 tazas de cebolla amarilla en rodajas",
+    "3 tazas de zanahorias en rodajas",
+    "1 pimiento verde, cortado finamente",
+    "1 hoja de laurel",
+    "1 ramita de perejil fresco"
+  ],
+  "recipeInstructions": "1. Cortar el solomillo en cubos de 1 pulgada.\n2. Dorar los cubos de carne en una sartén antiadherente a fuego alto.\n3. Añadir el resto de los ingredientes a la sartén y cubrir.\n4. Cocinar a fuego medio durante 1 hora hasta que la carne esté tierna.",
+  "url": null
+}

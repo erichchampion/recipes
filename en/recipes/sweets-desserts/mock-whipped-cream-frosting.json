@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-whipped-cream-frosting",
+  "name": "Mock Whipped Cream Frosting",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "frosting"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cups Granulated Sugar",
+    "3/4 cup Butter (1 1/2 sticks)",
+    "1/2 cup Shortening",
+    "1 cup Milk, Lukewarm",
+    "3 tablespoons Vanilla"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a small bowl.\n2. Whip at slow speed until the mixture stops splattering.\n3. Increase to full speed and whip for not less than 10 minutes.\nDelicious with Graham Cracker Cake.",
+  "url": null
+}

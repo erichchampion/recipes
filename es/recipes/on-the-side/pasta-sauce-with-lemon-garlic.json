@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-sauce-with-lemon-garlic",
+  "name": "Salsa de pasta con limón y ajo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pasta",
+    "salsas",
+    "guarniciones",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aceite de oliva",
+    "2 dientes de ajo, picados finamente",
+    "1/2 taza de vino blanco seco",
+    "1/4 taza de zumo de limón",
+    "1 taza de tomates triturados",
+    "1/4 taza de albahaca fresca",
+    "2 cucharadas de queso parmesano rallado",
+    "1/2 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. En una sartén, calentar el aceite de oliva a fuego medio y añadir el ajo picado. Cocinar hasta que esté tierno.\n2. Retirar del fuego y verter el vino blanco. Volver a poner a fuego medio.\n3. Cocinar durante 1-2 minutos más, hasta que el vino se haya reducido a la mitad.\n4. Incorporar el zumo de limón, los tomates triturados, la albahaca, el queso parmesano y la pimienta negra.\n5. Servir sobre pasta cocida.",
+  "url": null
+}

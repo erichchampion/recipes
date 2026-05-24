@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "whoopie-pies",
+  "name": "Pastelitos Whoopie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de cacao",
+    "1/2 taza de agua caliente",
+    "1 1/2 tazas de azúcar",
+    "Huevos",
+    "1/2 taza de leche agria",
+    "1 cucharadita de vainilla",
+    "1/2 taza de manteca",
+    "1/2 cucharadita de sal",
+    "1 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de polvo de hornear",
+    "2 3/4 tazas de harina",
+    "Relleno:",
+    "3/4 taza de azúcar glas",
+    "3/4 taza de Crisco",
+    "6 cucharadas de crema de malvavisco",
+    "1 cucharadita de vainilla"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes de la \"tarta\" y verter por cucharaditas sobre una bandeja para hornear.\n2. Hornear durante 15 minutos a 350 °F (175 °C).\n3. Batir juntos los ingredientes del \"relleno\".\n4. Extender entre dos de las \"tartas\".\n5. Se conservarán bien congelados.",
+  "url": null
+}

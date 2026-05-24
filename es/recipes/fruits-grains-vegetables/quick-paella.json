@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-paella",
+  "name": "Paella Rápida",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pollo",
+    "étnico",
+    "arroz",
+    "español"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de margarina o mantequilla",
+    "1 1/3 tazas de arroz instantáneo (crudo)",
+    "1/2 taza de cebolla picada (o 2 cucharadas de cebolla instantánea picada)",
+    "1/3 taza de pimiento verde picado",
+    "2 ajos picados (o 1/4 cucharadita de polvo de ajo)",
+    "8 onzas de salsa de tomate enlatada",
+    "7 onzas de almejas enlatadas (escurridas)",
+    "5 onzas de pollo cocido enlatado"
+  ],
+  "recipeInstructions": "1. Calentar la margarina en una sartén grande y dorar ligeramente el arroz, la cebolla, el pimiento verde y el ajo.\n2. Añadir los ingredientes restantes con 1 1/2 tazas de agua y mezclar bien.\n3. Llevar a ebullición.\n4. Reducir el fuego y dejar cocer a fuego lento durante 5 minutos.",
+  "url": null
+}

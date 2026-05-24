@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "iced-cappuccino",
+  "name": "Cappuccino con hielo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/2 oz de hielo picado",
+    "2 oz de Bailey's Irish Cream",
+    "5 oz de café doble concentrado enfriado",
+    "1 oz de media crema",
+    "2 cucharaditas de azúcar",
+    "Crema batida (opcional)",
+    "Canela en polvo (opcional)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto la crema batida y la canela en un licuadora.\n2. Licuar durante 10 segundos.\n3. Verter en un vaso de 10 oz lleno de hielo picado.\n4. Cubrir con una cucharada de crema batida y espolvorear con canela.",
+  "url": null
+}

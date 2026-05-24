@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-and-pear-jam",
+  "name": "Mermelada de Plátano y Pera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "marmeladas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "6 libras de plátanos",
+    "2 limones",
+    "2 naranjas",
+    "2 libras de peras maduras",
+    "5 libras de azúcar granulado"
+  ],
+  "recipeInstructions": "1. Pelar los plátanos y cortarlos en dados, pesándolos.\n2. En una olla para conservas, agregar el jugo exprimido de limón y naranja, las peras cortadas en dados (peladas) y una libra de azúcar.\n3. Llevar a ebullición, luego agregar gradualmente los plátanos y el azúcar restante.\n4. Revolver suavemente; retirar la espuma y cocinar durante una hora.\n5. Dividir en frascos y sellar.",
+  "url": null
+}

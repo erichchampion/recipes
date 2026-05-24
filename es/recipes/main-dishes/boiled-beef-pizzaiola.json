@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "boiled-beef-pizzaiola",
+  "name": "Carne de vacuno hervida al estilo pizzaiola",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carnes",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 lata de tomates, escurridos (reservar el jugo)",
+    "1 diente de ajo, picado",
+    "2 cucharadas de perejil picado",
+    "1 cucharadita de orégano",
+    "Sal y pimienta al gusto",
+    "450 g de ternera en rodajas hervida",
+    "3 cucharadas de aceite de oliva",
+    "2 cucharadas de jugo reservado"
+  ],
+  "recipeInstructions": "1. Engrasar un plato para hornear poco profundo con aceite de oliva.\n2. Mezclar los tomates (con el jugo reservado), el ajo, el perejil, el orégano, la sal y la pimienta en un bol.\n3. Cubrir el fondo del plato para hornear con la mitad de la mezcla de tomates.\n4. Disponer las rodajas de ternera hervida sobre la mezcla de tomates en una sola capa.\n5. Cubrir la carne con el resto de la mezcla de tomates.\n6. Verter el aceite de oliva y espolvorear con el jugo reservado.\n7. Hornear a temperatura media (190 °C) durante unos 30 minutos.",
+  "url": null
+}

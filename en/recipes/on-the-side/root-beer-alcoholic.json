@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "root-beer-alcoholic",
+  "name": "Root Beer (Alcoholic)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 oz Galliano",
+    "1 oz Kahlua",
+    "Beer or club soda to fill"
+  ],
+  "recipeInstructions": "In a frosted beer mug, add Galliano and Kahlua. Fill with beer or club soda. Beer works best to produce a foamy, root beer-like \"head.\"",
+  "url": null
+}

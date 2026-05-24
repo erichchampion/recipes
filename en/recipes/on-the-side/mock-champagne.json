@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-champagne",
+  "name": "Mock Champagne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2/3 cup Sugar",
+    "2/3 cup Water",
+    "1 cup Grapefruit Juice",
+    "1/2 cup Orange Juice",
+    "3 tbsp Grenadine Syrup",
+    "28 oz Ginger Ale, chilled"
+  ],
+  "recipeInstructions": "1. Combine sugar and water in a saucepan over low heat.\n2. Stir until the sugar is dissolved.\n3. Bring to a boil and continue boiling for 10 minutes.\n4. Allow the mixture to cool completely.\n5. Add the cooled sugar syrup to grapefruit and orange juices.\n6. Chill thoroughly.\n7. Just before serving, add grenadine and ginger ale.",
+  "url": null
+}

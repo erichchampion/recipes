@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "red-wine-marinade",
+  "name": "Marinada de Vino Tinto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "barbecua",
+    "marinadas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 tazas de vino tinto seco",
+    "1/2 taza de vinagre de vino tinto",
+    "1/4 taza de aceite (preferiblemente de girasol)",
+    "10 hojas de salvia fresca (o 2 cucharaditas de salvia seca)",
+    "2 dientes de ajo, picados finamente"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un procesador de alimentos o licuadora.\n2. La marinada es mejor utilizarla el mismo día de su preparación.",
+  "url": null
+}

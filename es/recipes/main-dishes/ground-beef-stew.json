@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "ground-beef-stew",
+  "name": "Estofado de Carne Molida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carnes",
+    "olla de cocción lenta",
+    "estofados"
+  ],
+  "recipeIngredient": [
+    "3 Patatas, cortadas en cubos",
+    "4 Zanahorias medianas, en rodajas",
+    "1 Cebolla pequeña, picada",
+    "1 lata de Guisantes, escurridos",
+    "1 libra de Carne molida",
+    "Sal",
+    "1 lata de Sopa de tomate",
+    "1 lata de Agua caliente"
+  ],
+  "recipeInstructions": "1. Capa los ingredientes en una olla de cocción lenta sin mezclar: comienza con las patatas, luego las zanahorias.\n2. Añade cebolla, guisantes, carne molida y sal.\n3. Extiende uniformemente la sopa de tomate sobre todas las capas.\n4. Vierte el agua caliente encima.\n5. Cocina durante 7 horas.\n6. Revuelve antes de servir.",
+  "url": null
+}

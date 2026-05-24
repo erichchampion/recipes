@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "eggs-benedict-3",
+  "name": "Huevos Benedict",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "4 muffins ingleses enteros, tostados",
+    "4 rebanadas de jamón cocido",
+    "4 huevos pochados",
+    "1/2 taza de salsa holandesa",
+    "1/4 cucharadita de pimentón",
+    "6 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. Derrite 3 cucharadas de mantequilla en una sartén a fuego medio-alto. Cocina las rebanadas de jamón hasta que estén crujientes. Retira del fuego y mantén calientes.\n2. Haz huevos pochados a tu gusto y escúrrelos sobre toallas de papel.\n3. Tuesta los muffins ingleses.\n4. Para cada porción, extiende mantequilla en la mitad de un muffin inglés.\n5. Coloca una rebanada de jamón sobre la mitad sin mantequilla. Añade un huevo pochado encima.\n6. Vierte 2 cucharadas de salsa holandesa sobre los huevos y el jamón.\n7. Espolvorea con pimentón.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "root-beer-2",
+  "name": "Cerveza de raíz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 oz de sassafras",
+    "1 oz de especia todos los especias",
+    "1 oz de yuca amarilla",
+    "1 oz de enebro",
+    "0,5 oz de corteza de cerezo silvestre",
+    "0,5 oz de semillas de cilantro",
+    "1 oz de lúpulo",
+    "3 cuartos de melaza",
+    "0,5 litro de levadura",
+    "4 galones de agua fría"
+  ],
+  "recipeInstructions": "1. Mezclar el sassafras, la especia todos los especias, la yuca amarilla, el enebro, la corteza de cerezo silvestre, las semillas de cilantro y el lúpulo.\n2. Añadir la melaza a la mezcla.\n3. Cubrir todo con agua hirviendo.\n4. Dejar reposar la mezcla durante 24 horas.\n5. Filtrar la mezcla.\n6. Agregar la levadura y el agua fría.\n7. La cerveza estará lista en 24 horas.\n8. Envasar y sellar.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tex-mex-chicken-roll",
+  "name": "Rollo de Pollo Tex-Mex",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mayonesa ligera",
+    "1/3 taza de cilantro picado",
+    "2 tazas de pollo cocido desmenuzado",
+    "1/2 taza de salsa de tomate",
+    "4 tortillas de harina de tamaño burrito",
+    "2 tazas de lechuga romana desmenuzada",
+    "2 tazas de pimiento rojo en dados",
+    "1/2 taza de cebolla roja picada"
+  ],
+  "recipeInstructions": "1. Mezclar la mayonesa y el cilantro en un bol pequeño.\n2. Mezclar el pollo con la salsa en otro bol pequeño.\n3. Extender 2 cucharadas de la mezcla de mayonesa sobre un lado de cada tortilla.\n4. Cubrir cada tortilla, dentro de 1 pulgada del borde, con media taza de lechuga, media taza de mezcla de pollo, media taza de pimiento en dados y 2 cucharadas de cebolla picada.\n5. Enrollar apretadamente la tortilla comenzando desde el borde más cercano a usted.\n6. Envolver el rollo de tortilla apretadamente con papel film.\n7. Refrigerar hasta por 2 días.\n8. Cortar cada rollo en 2-3 trozos para servir.",
+  "url": null
+}

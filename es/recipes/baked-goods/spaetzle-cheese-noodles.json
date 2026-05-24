@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaetzle-cheese-noodles",
+  "name": "Espaguetis de queso",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "panes",
+    "queso/huevos",
+    "étnico",
+    "alemán",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de mantequilla o margarina",
+    "3 cebollas, cortadas en anillos pequeños",
+    "3 onzas de queso Emmenthaler rallado",
+    "1 cucharadita de mostaza en polvo",
+    "2 tazas de espaguetis Spaetzle cocidos",
+    "2 cucharadas de cebolla verde picada"
+  ],
+  "recipeInstructions": "1. Calentar la mantequilla en una sartén y añadir las cebollas. Dorar ligeramente.\n2. Mezclar el queso con la mostaza en polvo.\n3. Añadir los espaguetis cocidos a las cebollas y el queso; mezclar bien.\n4. Colocar la mezcla en un recipiente apto para horno.\n5. Hornear a 180 °C durante 20-30 minutos, o hasta que esté caliente y burbujeante.\n6. Espolvorear con cebolla verde picada antes de servir.",
+  "url": null
+}

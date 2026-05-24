@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "baloney-cheese-dogs",
+  "name": "Baloney Cheese Dogs",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cheese",
+    "hot dogs",
+    "main dish",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "2 hot dog buns",
+    "mayonnaise or mustard",
+    "2 slices turkey bologna",
+    "2 sticks cheddar cheese or string cheese sticks"
+  ],
+  "recipeInstructions": "1. Spread the inside of each hot dog bun with mayonnaise or mustard.\n2. Roll one slice of turkey bologna around each cheddar cheese stick.\n3. Place the assembled cheese dogs back into their respective hot dog buns.\n4. Wrap each bun tightly in plastic wrap to keep it fresh.",
+  "url": null
+}

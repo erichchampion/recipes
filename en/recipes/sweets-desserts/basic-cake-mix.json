@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-cake-mix",
+  "name": "Basic Cake Mix",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "miscellaneous",
+    "mixes"
+  ],
+  "recipeIngredient": [
+    "8 cups cake flour",
+    "1/4 cup baking powder",
+    "2 1/2 cups vegetable shortening",
+    "6 cups sugar",
+    "1 1/2 teaspoons salt"
+  ],
+  "recipeInstructions": "1. In a large bowl, sift together the cake flour, sugar, baking powder, and salt.\n2. Cut in the vegetable shortening until the mixture is as fine as cornmeal.\n3. Transfer the mixture to a large airtight container.\n4. Label the container as \"Basic Cake Mix.\"\n5. Store the mix in a cool, dry place.\n6. Use within 10-12 weeks.",
+  "url": null
+}

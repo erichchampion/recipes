@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecued-steaks",
+  "name": "Steakas a la barbacoa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecua",
+    "carne de vacuno",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "3 lb solomillo de res (top round steak)",
+    "2 cucharadas de zumo de limón",
+    "4 cucharadas de mostaza preparada"
+  ],
+  "recipeInstructions": "1. Golpear la carne con un mazo de madera o el borde de una placa pesada para igualar su grosor.\n2. Mezclar el zumo de limón y la mostaza, luego extender uniformemente sobre ambos lados del filete. Dejar marinar durante 4-5 horas a temperatura ambiente.\n3. Broilar los filetes a unos 15 cm sobre brasas calientes en una parrilla barbacoa durante 4-5 minutos por cada lado, o hasta alcanzar el punto de cocción deseado. El zumo de limón y la mostaza no serán perceptibles por sí solos; simplemente realzan el sabor de la carne.",
+  "url": null
+}

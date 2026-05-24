@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "coffee-syrup",
+  "name": "Coffee Syrup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 cups strong coffee",
+    "1 cup sugar",
+    "1/2 teaspoon vanilla"
+  ],
+  "recipeInstructions": "1. In a small saucepan, heat the coffee just until it begins to simmer.\n2. Stir in the sugar and vanilla, then continue simmering for 8 minutes, stirring occasionally until the sugar has completely dissolved.\n3. Allow the mixture to cool before using.\nYield: 1 to 1 1/2 cups",
+  "url": null
+}

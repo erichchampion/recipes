@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-salad",
+  "name": "Ensalada de frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frutas",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 manzanas cortadas en trozos",
+    "3 peras cortadas en trozos",
+    "1 naranja cortada en trozos",
+    "uvas sin semillas cortadas por la mitad",
+    "1 lata de piña triturada o en trozos pequeños",
+    "2 melocotones cortados en trozos",
+    "2 cucharadas de azúcar (opcional)",
+    "crema batida vegana",
+    "plátanos en rodajas descongelados"
+  ],
+  "recipeInstructions": "1. Mezclar todos los frutos cortados: manzanas, peras, naranja, uvas, piña y melocotones.\n2. Añadir el azúcar si se desea.\n3. Cubrir con crema batida vegana.\n4. Decorar con rodajas de plátano.",
+  "url": null
+}

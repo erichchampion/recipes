@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "good-cookies-2",
+  "name": "Good Cookies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts",
+    "eggs"
+  ],
+  "recipeIngredient": [
+    "1 cup Bisquick",
+    "1 egg",
+    "1 package Instant lemon pudding",
+    "110 ml oil"
+  ],
+  "recipeInstructions": "1. Mix together and let stand awhile.\n2. Form into balls, flatten with a glass, and bake at 180°C for 10 minutes.\nDifficulty: very easy. Precision: measure ingredients.",
+  "url": null
+}

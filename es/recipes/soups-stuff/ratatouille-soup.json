@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "ratatouille-soup",
+  "name": "Sopa de Ratatouille",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aceite de oliva o aceite vegetal",
+    "1 cebolla pequeña picada (aproximadamente ¼)",
+    "1 diente de ajo grande, machacado",
+    "1 berenjena pequeña, aproximadamente 1 libra, cortada en cubos",
+    "3 tomates medianos, picados groseramente",
+    "1 calabacín mediano, cortado en rodajas de ½ pulgada",
+    "1 pimiento verde pequeño, picado",
+    "¼ cucharadita de sal",
+    "10-½ onzas (o 340 ml) de sopa de verduras condensada o agua"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en una olla holandesa a fuego medio-alto.\n2. Cocinar la cebolla y el ajo durante aproximadamente 3 minutos, revolviendo ocasionalmente, hasta que la cebolla esté tierna y crujiente.\n3. Incorporar los ingredientes restantes y llevar a ebullición.\n4. Reducir el fuego, tapar y dejar cocer a fuego lento durante aproximadamente 10 minutos o hasta que las verduras estén tiernas.",
+  "url": null
+}

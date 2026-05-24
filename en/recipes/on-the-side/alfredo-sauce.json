@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "alfredo-sauce",
+  "name": "Alfredo Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pasta",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "4 tablespoons Butter",
+    "1/2 cup Heavy Cream",
+    "6 tablespoons Parmesan Cheese",
+    "1 tablespoon Flour",
+    "Salt and pepper to taste"
+  ],
+  "recipeInstructions": "1. In a saucepan, combine the butter, heavy cream, flour, salt, and pepper.\n2. Cook over medium heat, stirring occasionally, until all ingredients are well incorporated.\n3. Do not allow the mixture to boil or bubble excessively.\n4. Remove from heat once it resembles Alfredo sauce in appearance and texture.",
+  "url": null
+}

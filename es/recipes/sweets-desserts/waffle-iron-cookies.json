@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "waffle-iron-cookies",
+  "name": "Galletas de sartén para gofres",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de mantequilla",
+    "1 1/2 tazas de azúcar",
+    "4 huevos",
+    "3/4 taza de polvo de cacao",
+    "2 tazas de harina",
+    "2 cucharaditas de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol hasta que estén bien integrados.\n2. Con una cuchara para helado, colocar cucharadas generosas de masa en la sección de cocción de la plancha para waffles.\n3. Hornear durante 50-60 segundos, o hasta que estén doradas y cocidas por completo.\n4. Glaseado: Mezclar azúcar glas, leche, extracto de vainilla y colorante alimentario hasta obtener la consistencia deseada.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-pat-s-recipe",
+  "name": "Receta de Chili de Pat",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne de hamburguesa",
+    "1 cebolla picada",
+    "1 cucharada de grasa (puede ser aceite o mantequilla)",
+    "1 lata de frijoles rojos, escurridos",
+    "1 lata de sopa de tomate",
+    "2/3 taza de agua",
+    "1 cucharadita de sal",
+    "2 cucharaditas de vinagre",
+    "1/2 cucharadita de chile (o 1 cucharadita al gusto)"
+  ],
+  "recipeInstructions": "1. Calentar la grasa en una sartén a fuego medio.\n2. Añadir la cebolla picada y la carne de hamburguesa; dorar la carne.\n3. Incorporar el resto de los ingredientes y mezclar bien.\n4. Reducir el fuego a bajo y dejar cocinar durante 20-30 minutos, o hasta que espese.\n5. Ajustar la sazón al gusto.\n6. Servir caliente y disfrutar.",
+  "url": null
+}

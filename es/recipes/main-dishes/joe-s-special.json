@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "joe-s-special",
+  "name": "El Especial de Joe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "carne molida",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de espinacas picadas o",
+    "10 oz de paquete de espinacas congeladas picadas (deshelatas)",
+    "1 cucharada de aceite de oliva",
+    "1 cucharada de mantequilla",
+    "1 lb de carne molida",
+    "1 pequeña cebolla picada",
+    "1/2 cucharadita de albahaca seca molida",
+    "1/4 cucharadita de orégano seco molido",
+    "1/4 cucharadita de tomillo seco molido",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "4 huevos"
+  ],
+  "recipeInstructions": "1. Si se usan espinacas congeladas, colóquelas en un colador y escurra bien.\n2. Calentar el aceite de oliva y la mantequilla en una sartén grande y pesada.\n3. Agregar la carne molida a la sartén y cocinar, removiendo ocasionalmente, hasta que esté dorada y desmenuzada.\n4. Añadir la cebolla picada y cocinar hasta que esté tierna pero sin dorar.\n5. Incorporar la albahaca, el orégano, el tomillo, la sal y la pimienta.\n6. Agregar las espinacas escurridas y cocinar hasta que se evapore el líquido de las espinacas.\n7. Batir los huevos y añadirlos a la mezcla de carne. Cocinar, removiendo constantemente, hasta que los huevos estén cuajados.",
+  "url": null
+}

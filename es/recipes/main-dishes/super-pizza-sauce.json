@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "super-pizza-sauce",
+  "name": "Salsa de pizza super",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "3/4 cucharadita de pimienta negra",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de cebolla en polvo",
+    "1/2 cucharadita de ajo en polvo",
+    "1 cucharadita de cebolla picada",
+    "1 cucharadita de ajo picado",
+    "1/2 cucharadita de orégano",
+    "1 1/2 cucharadas de orégano seco"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes con 340 g de puré de tomate.\n2. Extiende una capa de salsa sobre la base de la pizza.\n3. Añade capas de queso mozzarella y parmesano o queso romano.\n4. Coloca tus toppings favoritos encima.\n5. Hornea a 200 °C durante 8 minutos.",
+  "url": null
+}

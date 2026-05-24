@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-con-cervesa",
+  "name": "Chili Con Cervesa",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "entree",
+    "mexican",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1/2 pound ground round",
+    "1/2 cup onion, minced",
+    "6 ounces tomato paste",
+    "12 ounces beer",
+    "16 ounces kidney beans, undrained",
+    "1 teaspoon sugar",
+    "1 teaspoon garlic powder",
+    "1 teaspoon salt",
+    "1/2 teaspoon oregano",
+    "1 teaspoon black pepper"
+  ],
+  "recipeInstructions": "1. COMBINE BEEF AND ONIONS IN A SAUCEPAN OVER MODERATE FLAME.\nHEAT AND STIR FOR 5-10 MINUTES UNTIL BEEF HAS BROWNED AND ONIONS HAVE SOFTENED.\n2. ADD TOMATO PASTE AND BEER. MIX WELL.\n3. ADD BEANS WITH THEIR JUICE, CHILI POWDER, SUGAR, AND GARLIC POWDER. MIX WELL.\n4. SEASON TO TASTE WITH SALT AND BLACK PEPPER.\n5. BRING TO A BOIL, REDUCE HEAT, AND SIMMER FOR 15-20 MINUTES, ADDING WATER AS NEEDED TO ADJUST CONSISTENCY.\n6. SERVE HOT.",
+  "url": null
+}

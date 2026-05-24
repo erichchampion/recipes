@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "broccoli-chicken-casserole",
+  "name": "Cazuela de Pollo con Brócoli",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "pollo",
+    "plato principal",
+    "verdura"
+  ],
+  "recipeIngredient": [
+    "3 tazas de pasta cocida",
+    "2 1/2 tazas de pechuga de pollo sin piel, picada y cocida",
+    "1/2 taza de cebolla picada",
+    "10 onzas de brócoli",
+    "10 3/4 onzas de sopa de champiñones",
+    "1/2 taza de leche descremada a temperatura ambiente",
+    "1/2 taza de queso suizo sin grasa rallado",
+    "1 cucharadita de albahaca",
+    "2 cucharaditas de sal",
+    "1/4 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 grados Fahrenheit.\n2. Cocinar la pasta según las instrucciones del paquete y escurrir.\n3. Engrasar ligeramente un recipiente para hornear de 2 1/2 cuartos; reservar.\n4. En un bol, mezclar la pasta, el pollo, la cebolla y el brócoli.\n5. En otro bol, combinar la sopa, la leche, el queso, la albahaca, la sal y la pimienta. Agregar esta mezcla a la pasta.\n6. Verter toda la mezcla en el recipiente preparado.\n7. Hornear cubierto durante 40 minutos.",
+  "url": null
+}

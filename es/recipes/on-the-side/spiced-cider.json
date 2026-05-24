@@ -1,0 +1,17 @@
+{
+  "@type": "Recipe",
+  "identifier": "spiced-cider",
+  "name": "Cider especiado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 galón de sidra",
+    "2 paquetes de palos de canela (canelitas rojas)"
+  ],
+  "recipeInstructions": "1. Verter la sidra en un cazo grande o sartén a fuego medio.\n2. Añadir los palos de canela al cazo y remover suavemente hasta que queden completamente sumergidos en el líquido.\n3. Calentar la mezcla, removiendo ocasionalmente, hasta que la canela se caliente y la sidra alcance una temperatura de servicio caliente.\n4. Servir la sidra especiada inmediatamente, dejando enfriar un poco antes de disfrutar.",
+  "url": null
+}

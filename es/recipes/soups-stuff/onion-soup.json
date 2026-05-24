@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "onion-soup",
+  "name": "Sopa de cebolla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "baja en calorías",
+    "mcdougall",
+    "sopas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "4 tazas de agua (o caldo vegetal)",
+    "3 cebollas; picadas",
+    "1/4 taza de agua",
+    "2 cucharadas de salsa de soja tamari bajo en sodio",
+    "1/2 cucharadita de mostaza seca (opcional)",
+    "Una pizca de tomillo (opcional)",
+    "1/4 cucharadita de polvo de ajo (opcional)"
+  ],
+  "recipeInstructions": "1. Saltea las cebollas en 1/4 taza de agua hasta que estén suaves y tiernas.\n2. Añade 4 tazas de agua (o caldo vegetal) y lleva a ebullición.\n3. Reduce el fuego a bajo.\n4. Agrega la salsa tamari.\n5. Deja cocinar cubierta durante al menos 30 minutos antes de servir.\n6. Cuanto más tiempo se cocine, más sabor tendrá.",
+  "url": null
+}

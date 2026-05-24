@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "marmalade",
+  "name": "Marmelada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "marmeladas",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 naranjas",
+    "1 limón",
+    "1 pomelo",
+    "4 pintas de agua",
+    "azúcar"
+  ],
+  "recipeInstructions": "1. Lavar la fruta y exprimir el jugo, separando las semillas.\n2. Picar finamente la cáscara de la fruta.\n3. Colocar las semillas en un paño de muselina y remojarlas con la cáscara, el jugo y 4 pintas de agua durante 24 horas.\n4. Cocinar todos los ingredientes juntos a fuego lento durante 1 hora.\n5. Dejar reposar la mezcla durante otras 24 horas.\n6. Medir la pulpa y agregar 1 libra de azúcar por cada pinta.\n7. Revolver hasta que el azúcar se disuelva y cocinar a fuego alto durante 30 minutos adicionales o hasta que espese.",
+  "url": null
+}

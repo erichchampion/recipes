@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-quiche-2",
+  "name": "Quiche mexicana 2",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "tartas de cena",
+    "plato principal",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "1 tortilla de harina de 18 cm",
+    "60 g de salchicha",
+    "1 huevo",
+    "1/8 cucharadita de sal",
+    "40 g de queso jack",
+    "2 cucharadas de pimiento verde picado",
+    "60 ml de leche"
+  ],
+  "recipeInstructions": "1. Calentar la tortilla y colocarla en un molde pequeño engrasado.\n2. Cubrir con la mitad del queso.\n3. Cocinar la salchicha y el pimiento verde, luego añadir al molde.\n4. Mezclar los ingredientes restantes y verter sobre el molde.\n5. Cubrir con el resto del queso.\n6. Hornear a 180 °C durante 30-35 minutos.",
+  "url": null
+}

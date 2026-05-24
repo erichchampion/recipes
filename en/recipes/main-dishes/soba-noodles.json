@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "soba-noodles",
+  "name": "Soba Noodles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "soba noodles",
+    "seaweed stock (from kombu)",
+    "dark soy sauce",
+    "mirin",
+    "sugar",
+    "salt",
+    "optional garnishes: green onions, sesame seeds"
+  ],
+  "recipeInstructions": "1. Cook the soba noodles according to package instructions until al dente.\n2. Rinse the cooked noodles in cold water and drain well on a strainer or mat.\n3. Prepare the dipping sauce by combining seaweed stock, dark soy sauce, mirin, sugar, and salt in a small pot.\n4. Simmer the sauce over low heat until it thickens slightly.\n5. Serve the soba noodles with the dipping sauce, garnished with green onions or sesame seeds if desired. Enjoy!",
+  "url": null
+}

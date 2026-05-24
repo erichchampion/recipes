@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "sour-cream-pie-2",
+  "name": "Sour Cream Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "2 Eggs",
+    "1 cup Sugar",
+    "1 cup Thick sour cream",
+    "1/4 tsp Nutmeg",
+    "1/8 tsp Salt",
+    "1 tbsp Lemon juice",
+    "1 Unbaked pie shell"
+  ],
+  "recipeInstructions": "1. Beat the eggs.\n2. Add sugar, beating until light.\n3. Whip sour cream and fold into egg mixture.\n4. Add raisins, nutmeg, salt, and lemon juice. Mix thoroughly.\n5. Pour mixture into pie shell.\n6. Bake at 450 degrees for 10 minutes.\n7. Reduce heat to 350 degrees and continue baking for 20 minutes.",
+  "url": null
+}

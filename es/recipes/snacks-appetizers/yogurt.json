@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "yogurt",
+  "name": "Yogur",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "lácteos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de leche evaporada",
+    "2 2/3 tazas de leche desnatada",
+    "1 cucharadita de gelatina sin sabor",
+    "1/4 taza de yogur comercial (o 1 sobre de iniciador de yogur)"
+  ],
+  "recipeInstructions": "1. Verter la leche en una cacerola de 2 litros y espolvorear la gelatina encima.\n2. Dejar reposar unos 5 minutos, luego remover con un batidor de alambre mientras se calienta hasta casi hervir (para pasteurizar).\n3. Enfriar a temperatura tibia. Añadir el yogur comercial (sin sabor) y batir hasta que esté bien incorporado.\n4. Enjuagar pequeños tarros con agua caliente y llenarlos con la mezcla de yogur tibio (tarros de conservas de 1/2 litro funcionan bien para esta cantidad, aproximadamente del tamaño de una ración del yogur comprado en tienda).\n5. Colocar en un lugar cálido cubierto con una manta durante la noche.\n6. Alternativamente, se puede verter la mezcla de yogur en una botella térmica calentada y dejarla reposar durante la noche. Personalmente, utilizo el fabricante de yogur Salton encontrado en el Salvamento para $2,00; funciona cada vez.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-and-bacon-sandwich",
+  "name": "Sándwich de plátano y tocino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de plátanos machacados",
+    "1 manzana",
+    "4 rebanadas de tocino",
+    "Sal al gusto",
+    "Lechuga"
+  ],
+  "recipeInstructions": "1. Machaca los plátanos hasta que queden finamente picados.\n2. Corta el tocino en trozos pequeños.\n3. Retira el corazón a la manzana y córtala en cubos.\n4. Mezcla en un bol los plátanos machacados, el tocino picado y la manzana cortada.\n5. Agrega sal al gusto.\n6. Extiende la mezcla entre rebanadas de pan untadas con mantequilla.\n7. Coloca hojas de lechuga encima.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-tomato-toast",
+  "name": "Tostada de Queso y Tomate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "sándwich",
+    "tentempies",
+    "verduras",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "4 rebanadas de pan francés",
+    "3 cucharadas de aceite de oliva con ajo",
+    "2 tomates maduros grandes, en rodajas",
+    "1 taza de queso mozzarella o feta rallado",
+    "3 cucharadas de mayonesa",
+    "1 cucharada de jugo de limón",
+    "1 cucharadita de eneldo fresco"
+  ],
+  "recipeInstructions": "1. En un bol pequeño, mezclar la mayonesa, el eneldo y el jugo de limón. Reservar.\n2. Tostar las rebanadas de pan en una sartén con aceite de oliva con ajo hasta que estén ligeramente doradas.\n3. Extender la mezcla de mayonesa en un lado de cada rebanada de pan tostado.\n4. Colocar las rodajas de tomate sobre el pan.\n5. Espolvorear el queso rallado sobre los tomates.\n6. Calentar las tostadas bajo el grill hasta que el queso se derrita y burbujee.",
+  "url": null
+}

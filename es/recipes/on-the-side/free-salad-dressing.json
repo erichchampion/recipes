@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "free-salad-dressing",
+  "name": "Aderezo de ensalada gratis",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "diabetico",
+    "aderezos",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de jugo de tomate",
+    "1 cucharada de cebolla, picada finamente",
+    "2 cucharadas de jugo de limón",
+    "Sal y pimienta al gusto",
+    "1 cucharadita de rábano picante"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Refrigerar durante al menos 30 minutos antes de servir.\n3. Agitar bien antes de cada uso.",
+  "url": null
+}

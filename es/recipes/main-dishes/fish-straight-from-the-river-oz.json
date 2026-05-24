@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-straight-from-the-river-oz",
+  "name": "Pescado directo del río - Oz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "Pescado",
+    "Sal",
+    "Pimienta",
+    "Limón"
+  ],
+  "recipeInstructions": "1. Encender un fuego para crear brasas.\n2. Atrapar el pescado y rodearlo con barro sin limpiarlo ni escamarlo. Colocarlo entero sobre las brasas y cubrir completamente.\n3. Volver a la pesca durante aproximadamente 3 horas.\n4. Retirar el pescado del fuego y eliminar suavemente el barro que lo rodea. Las escamas y la piel permanecerán en el barro.\n5. Sazonar con sal, pimienta y limón al gusto.\nNota: Asegurarse de que el barro no esté demasiado apretado y de que quede completamente cubierto por las brasas.",
+  "url": null
+}

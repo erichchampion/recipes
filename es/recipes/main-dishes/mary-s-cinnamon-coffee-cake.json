@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mary-s-cinnamon-coffee-cake",
+  "name": "Pastel de café con canela de María",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "postre",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "3 tazas de harina",
+    "1 taza de azúcar moreno",
+    "1 taza de azúcar granulado",
+    "1 cucharadita de canela en polvo",
+    "1 taza de mantequilla ablandada",
+    "1 cucharadita de sal",
+    "1 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de extracto de vainilla",
+    "2 huevos",
+    "1 taza de buttermilk"
+  ],
+  "recipeInstructions": "1. Mezcla la harina, el azúcar moreno, el azúcar granulado, la mantequilla ablandada y la canela hasta obtener migas.\n2. Reserva 3/4 taza para el topping. Mezcla los ingredientes restantes con las migas y remueve hasta que todos estén húmedos. No sobremezcles.\n3. Vierte la masa en un molde para pastel engrasado y enharinado.\n4. Espolvorea con el topping reservado.\n5. Hornea a 175 °C durante 45-50 minutos o hasta que un palillo insertado salga limpio.\n6. Deja enfriar antes de desmoldar.",
+  "url": null
+}

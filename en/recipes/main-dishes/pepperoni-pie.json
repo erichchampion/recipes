@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pepperoni-pie",
+  "name": "Pepperoni Pie",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "appetizers",
+    "cheese",
+    "dinner pies",
+    "eggs",
+    "italian",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "2 cups Pepperoni, chopped",
+    "2 cups Milk",
+    "2 eggs, beaten",
+    "1/2 lb Mozzarella, cubed",
+    "1 1/2 cups Flour"
+  ],
+  "recipeInstructions": "1. Mix all ingredients well and pour into a greased 9x11-inch pan.\n2. Bake at 400 degrees for 30 minutes or until set.\n3. Cut into 8 wedges and serve as an appetizer or first course.",
+  "url": null
+}

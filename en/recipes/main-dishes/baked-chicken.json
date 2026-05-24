@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-chicken",
+  "name": "Baked Chicken",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Flour",
+    "2 Beaten eggs",
+    "1/2 cup Buttermilk",
+    "1 tbsp Dijon mustard",
+    "2 cups Crushed cornflakes",
+    "6 Chicken legs or thighs"
+  ],
+  "recipeInstructions": "1. In a shallow dish, mix 1/2 cup of flour.\n2. In another shallow dish, beat the eggs.\n3. In a third shallow dish, combine the buttermilk and Dijon mustard.\n4. Dip each chicken piece in the flour mixture, then the beaten eggs, and finally coat with the cornflake crumb mixture.\n5. Place the coated chicken pieces on a baking sheet.\n6. Bake in a preheated oven at 425°F (220°C) for about 25 minutes, or until cooked through.",
+  "url": null
+}

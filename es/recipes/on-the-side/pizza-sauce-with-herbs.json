@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-sauce-with-herbs",
+  "name": "Salsa de pizza con hierbas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "hierbas",
+    "italiana",
+    "pizza",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aceite de oliva",
+    "1 diente de ajo grande, picado finamente",
+    "1 cebolla pequeña, picada",
+    "28 onzas (850 g) de tomates triturados en lata",
+    "1/4 taza de vino tinto seco o blanco seco (o 1/4 taza de agua)",
+    "1/2 cucharadita de orégano seco",
+    "1/2 cucharadita de albahaca seca",
+    "1/2 cucharadita de tomillo seco",
+    "4 semillas de eneldo, molidas",
+    "1 hoja de laurel pequeña",
+    "Pimienta roja molida al gusto (opcional)"
+  ],
+  "recipeInstructions": "1. En una sartén grande, calentar el aceite de oliva a fuego medio.\n2. Añadir el ajo picado y la cebolla. Saltear hasta que estén fragantes y translúcidos.\n3. Escurrir los tomates triturados y reservar el jugo en un bol aparte.\n4. Verter el jugo de vuelta en la sartén con la mezcla de ajo y cebolla.\n5. Incorporar el vino (o agua), orégano, albahaca, tomillo, semillas de eneldo y hoja de laurel.\n6. Llevar a ebullición y cocinar a fuego lento durante 10-15 minutos, removiendo ocasionalmente.\n7. Probar y ajustar la sazón si es necesario.\n8. Apagar el fuego cuando esté lista.",
+  "url": null
+}

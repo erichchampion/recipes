@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "shish-kebab",
+  "name": "Shish Kebab",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat",
+    "meats"
+  ],
+  "recipeIngredient": [
+    "2 lb Beef, cubed",
+    "1 lb Mushrooms",
+    "1 cup Tomato wedges",
+    "1 cup Onions, quartered",
+    "2 each Green pepper, quartered",
+    "1/2 cup Salad oil",
+    "1 each Clove garlic",
+    "1/4 cup Vinegar",
+    "1/2 tsp Soy sauce",
+    "1/2 tsp Basil",
+    "1 tbsp Lemon juice"
+  ],
+  "recipeInstructions": "1. Marinate the beef in oil, vinegar, soy sauce, garlic, lemon juice, basil, and salt and pepper to taste for 3 to 4 hours.\n2. Place alternating pieces of marinated beef, mushroom caps, quartered tomatoes, peppers, and onions on skewers.\n3. Roast the skewers, basting with marinade.",
+  "url": null
+}

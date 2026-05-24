@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "german-macaroni-salad",
+  "name": "Ensalada de macarrones alemana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pasta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "3 oz de setas en rodajas (enlatadas)",
+    "5 lonchas de tocino",
+    "1/2 taza de azúcar",
+    "3 cucharadas de harina",
+    "1/3 taza de vinagre",
+    "7 oz de macarrones con forma de codillo",
+    "1/2 cucharadita de sal",
+    "1/2 taza de cebolla verde picada",
+    "1/2 taza de apio picado"
+  ],
+  "recipeInstructions": "1. Escurrir las setas, reservando el líquido. Añadir agua al líquido reservado hasta obtener un total de 1 taza.\n2. En una olla de 3 cuartos, freír el tocino hasta que esté crujiente. Escurrir y reservar los jugos. Desmenuzar el tocino y apartar.\n3. En la misma olla, mezclar el azúcar, la harina, la sal y una pizca de pimienta. Incorporar estos ingredientes a los jugos reservados.\n4. Añadir el vinagre y el líquido reservado a la olla. Remover hasta que espese y burbujee.\n5. Cocinar los macarrones, luego mezclar con el aderezo y el resto de ingredientes (cebolla verde y apio picados).",
+  "url": null
+}

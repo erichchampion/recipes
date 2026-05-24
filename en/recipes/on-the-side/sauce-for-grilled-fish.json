@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "sauce-for-grilled-fish",
+  "name": "Sauce for Grilled Fish",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "fish",
+    "italian",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 Eggs, hard-boiled",
+    "2/3 cup Olive oil",
+    "4 Anchovy fillets",
+    "7 Drops of lemon juice"
+  ],
+  "recipeInstructions": "1. Chop the egg yolks and anchovy fillets separately.\n2. Combine the chopped egg yolks and anchovy fillets in a mortar and pestle.\n3. Blend until smooth.\n4. Gradually stir in the olive oil until the sauce has a creamy consistency.\n5. Stir in the lemon juice.\n6. Serve over grilled or boiled fish.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pot-roast-2",
+  "name": "Pot Roast",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "4 pounds beef roast",
+    "1 package Lipton onion dry soup mix",
+    "1 can Campbell's cream of mushroom soup",
+    "1 can water",
+    "3 medium celery stalks, cut 1/4 to 1/2 inch",
+    "3 medium carrots",
+    "8 medium potatoes, quartered"
+  ],
+  "recipeInstructions": "1. Place all ingredients except potatoes in a stock pot.\n2. Cook on low heat for about two hours.\n3. Turn the heat up to medium-low and add the potatoes and approximately one cup more water.\n4. Continue cooking for another three hours until the roast is tender.\nOr:\n1. Combine all ingredients, including potatoes, in a crockpot.\n2. Cook on high until everything is tender.",
+  "url": null
+}

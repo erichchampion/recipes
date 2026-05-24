@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruity-yogurt-sipper",
+  "name": "Batido de yogur frutal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 plátano maduro grande",
+    "1 1/2 tazas de leche",
+    "1 cartón (240 g) de yogur natural vainilla",
+    "2 cucharadas de azúcar glas",
+    "4 cubos de hielo grandes"
+  ],
+  "recipeInstructions": "1. Cortar el plátano en trozos.\n2. En un recipiente de licuadora, mezclar la fruta, la leche, el yogur y el azúcar glas.\n3. Tapar y licuar hasta obtener una consistencia suave.\n4. Añadir los cubos de hielo uno a uno por el orificio de la tapa mientras la licuadora está en marcha.\n5. Licuar hasta que esté suave.\n6. Servir para 4-6 personas.",
+  "url": null
+}

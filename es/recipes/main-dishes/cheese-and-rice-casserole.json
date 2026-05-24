@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-and-rice-casserole",
+  "name": "Cazuela de Queso y Arroz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "queso",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1/3 taza de apio finamente picado",
+    "2 tazas de arroz cocido",
+    "1/4 taza de cebolla picada",
+    "1 taza de leche",
+    "1/2 taza de queso americano rallado",
+    "3 huevos batidos",
+    "1/3 taza de perejil picado",
+    "1/8 cucharadita de pimienta",
+    "1/2 cucharadita de sal",
+    "Paprika al gusto",
+    "2 cucharadas de mantequilla o margarina"
+  ],
+  "recipeInstructions": "1. Cocinar el apio y la cebolla en la mantequilla hasta que estén tiernos pero no dorados.\n2. Mezclar con el arroz, el queso y el perejil.\n3. En otro bol, mezclar bien los huevos batidos, la leche, la sal y la pimienta.\n4. Añadir la mezcla de huevo al arroz.\n5. Verter en un molde para hornear de 10x9x2 pulgadas.\n6. Colocar el molde dentro de una bandeja para hornear de 13x9x2 pulgadas con agua caliente hasta la mitad de su altura.\n7. Hornear a 180°C durante 40-45 minutos, o hasta que un cuchillo insertado en el centro salga limpio.\n8. Espolvorear con paprika al gusto.",
+  "url": null
+}

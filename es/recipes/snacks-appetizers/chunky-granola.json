@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chunky-granola",
+  "name": "Granola rústica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "galletas",
+    "cereales",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "6 tazas de avena en hojuelas",
+    "1/2 taza de semillas de girasol (o nueces)",
+    "1/2 taza de coco rallado",
+    "1/2 taza de germen de trigo",
+    "1/2 taza de leche en polvo sin grasa",
+    "2/3 taza de miel",
+    "1/3 taza de aceite (reducir respecto a la receta original; se puede intentar usar incluso menos)",
+    "1/3 taza de leche sin grasa",
+    "2 claras de huevo",
+    "1 cucharadita de extracto de vainilla",
+    "1/2 taza de mermelada de naranja"
+  ],
+  "recipeInstructions": "Precalentar el horno a 175 °C.\nMezclar hasta que quede bien cubierto. Presionar la mezcla firmemente en dos bandejas para hornear engrasadas (de 9x13 pulgadas).\nHornear durante 10-15 minutos, o hasta que esté dorado. Cortar inmediatamente en 24 barras. Retirar de los moldes cuando esté frío.",
+  "url": null
+}

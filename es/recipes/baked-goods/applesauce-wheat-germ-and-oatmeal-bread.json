@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "applesauce-wheat-germ-and-oatmeal-bread",
+  "name": "Pan de manzana, germen de trigo y avena",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de puré de manzana",
+    "1 1/4 tazas de harina de uso común",
+    "1 taza de harina integral",
+    "1/2 taza de avena",
+    "1/4 taza de germen de trigo",
+    "1/4 taza de copos de avena",
+    "2 cucharaditas de gluten",
+    "1 cucharadita de canela",
+    "1/2 cucharadita de jengibre (opcional)",
+    "1 cucharadita de sal",
+    "1 1/2 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Mezclar la avena con un poco de harina gruesa antes de incorporarla a la masa.\n2. Añadir los ingredientes sólidos (harinas, gluten, canela, jengibre, sal) y la levadura en el orden indicado por las instrucciones del fabricante de la máquina.\n3. Amasar hasta obtener una mezcla homogénea, ajustando la cantidad de humedad si es necesario debido a las variaciones en las tandas de puré de manzana.",
+  "url": null
+}

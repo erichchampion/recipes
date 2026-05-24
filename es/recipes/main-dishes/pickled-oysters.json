@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pickled-oysters",
+  "name": "Ostras encurtidas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "5 docenas de ostras pequeñas",
+    "1 taza de agua",
+    "1 taza de vinagre blanco",
+    "1/4 taza de especias mixtas",
+    "4 cebollas medianas"
+  ],
+  "recipeInstructions": "1. Hervir las ostras durante 20 minutos y escurrir.\n2. Calentar el agua, el vinagre y las especias en una sartén hasta que hierva, luego colar la mezcla y dejar enfriar.\n3. Colocar rodajas de cebolla sobre las ostras.\n4. Refrigerar durante la noche.",
+  "url": null
+}

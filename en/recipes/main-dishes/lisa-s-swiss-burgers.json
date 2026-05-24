@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "lisa-s-swiss-burgers",
+  "name": "Lisa's Swiss Burgers",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "main dish",
+    "meat",
+    "swiss"
+  ],
+  "recipeIngredient": [
+    "Swiss cheese",
+    "Sauerkraut",
+    "Thousand island dressing"
+  ],
+  "recipeInstructions": "1. Assemble the assembled ingredients on grilled hamburgers and rolls.",
+  "url": null
+}

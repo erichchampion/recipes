@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "campfire-hash",
+  "name": "Hash de fogata",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "camping",
+    "plato principal",
+    "variado"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite de cocina",
+    "1 cebolla grande, picada",
+    "2 dientes de ajo, picados finamente",
+    "4 papas grandes, peladas y cortadas en cubos",
+    "1 libra de salchicha ahumada, cortada en cubos",
+    "1 lata de chiles verdes picados (4 onzas)",
+    "1 lata de maíz entero, escurrido"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en un olla holandesa.\n2. Saltear la cebolla y el ajo hasta que estén tiernos.\n3. Añadir las papas y cocinar, sin cubrir, a fuego medio durante 20 minutos, removiendo ocasionalmente.\n4. Incorporar la salchicha; cocinar y revolver hasta que las papas estén tiernas y bien doradas, aproximadamente 10 minutos más.\n5. Agregar los chiles y el maíz; cocinar hasta que todo esté caliente, revolviendo ocasionalmente.",
+  "url": null
+}

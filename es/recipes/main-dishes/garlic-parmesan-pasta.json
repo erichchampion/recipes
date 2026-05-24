@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "garlic-parmesan-pasta",
+  "name": "Pasta con Ajo y Queso Parmesano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato ligero",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de margarina",
+    "2 cucharaditas de albahaca seca, molida",
+    "2 cucharaditas de jugo de limón",
+    "1 1/4 cucharaditas de polvo de ajo con perejil",
+    "3/4 cucharadita de sal sazonada",
+    "8 onzas (225 g) de fettuccine, cocido y escurrido",
+    "1 1/2 tazas de brócoli en floretes, cocido",
+    "3 cucharadas de nueces picadas"
+  ],
+  "recipeInstructions": "1. Derretir la margarina en una sartén grande.\n2. Agregar la albahaca, el jugo de limón, el polvo de ajo con perejil y la sal sazonada. Mezclar bien.\n3. Incorporar la fettuccine, el brócoli y las nueces a la sartén. Revolver hasta que todo esté bien cubierto.\nPresentación:\nServir con una ensalada de espinacas frescas.",
+  "url": null
+}

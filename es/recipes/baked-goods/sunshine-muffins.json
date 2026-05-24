@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "sunshine-muffins",
+  "name": "Muffins de Sol",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "aperitivos",
+    "productos horneados",
+    "panes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "1 huevo grande; batido",
+    "2/3 taza de azúcar",
+    "1/2 taza de zumo de naranja",
+    "2 cucharadas de margarina; derretida",
+    "2 tazas de mezcla para bizcocho",
+    "1/2 taza de nueces picadas",
+    "1/2 taza de mermelada de naranja"
+  ],
+  "recipeInstructions": "1. Mezclar el huevo, el azúcar, el zumo de naranja y la margarina derretida en un bol grande.\n2. Mezclar bien.\n3. Incorporar la mezcla para bizcocho, las nueces picadas y la mermelada de naranja hasta obtener una masa homogénea.\n4. Rellenar moldes para muffins engrasados con dos tercios de la masa.\n5. Hornear en horno precalentado a 400°F (200°C) durante 20 a 25 minutos.",
+  "url": null
+}

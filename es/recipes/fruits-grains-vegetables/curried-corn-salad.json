@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "curried-corn-salad",
+  "name": "Ensalada de Maíz con Curry",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "baja en calorías",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 taza de maíz (fresco o enlatado)",
+    "1/2 pimiento rojo, cortado en dados",
+    "2 cucharadas de cebolla verde, picada",
+    "1/2 pepino, pelado, sin semillas y cortado",
+    "Hojas de espinaca (no las tenía, usé lechuga roja en su lugar)",
+    "Aderezo:",
+    "1 cucharada de vinagre de manzana",
+    "1 cucharadita de especias al curry (turmera, comino, cilantro, mezcladas)",
+    "1 cucharadita de mostaza",
+    "Pimienta tabasco o cayena al gusto"
+  ],
+  "recipeInstructions": "1. Mezcla el aderezo y viértelo sobre la ensalada.\n2. Deja marinar la mezcla durante unos minutos.",
+  "url": null
+}

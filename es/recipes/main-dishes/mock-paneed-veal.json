@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-paneed-veal",
+  "name": "Veal al horno con pan rallado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "ternera"
+  ],
+  "recipeIngredient": [
+    "2 pechugas de pollo sin hueso y sin piel de 8 onzas",
+    "Sal y pimienta",
+    "1 huevo batido con 4 cucharadas de agua",
+    "1 taza de mantequilla, o menos",
+    "1 taza de aceite vegetal, o menos",
+    "2 tazas de pan rallado italiano",
+    "Rodajas de limón para decorar"
+  ],
+  "recipeInstructions": "1. Calentar lentamente en una sartén pesada 1/3 taza de la mezcla de mantequilla y aceite.\n2. Cortar las pechugas de pollo por la mitad para obtener cuatro trozos.\n3. Colocar cada trozo entre papel de cera y golpear hasta que tengan 0,6 cm de grosor.\n4. Cortar cada trozo en mitades, sazonar con sal y pimienta.\n5. Sumergir cada pieza en la mezcla de huevo y cubrir uniformemente con pan rallado.\n6. Aumentar el calor bajo el aceite y dorar el pollo por ambos lados durante unos 2 minutos por lado, teniendo cuidado de no quemarlo.\n7. Servir con rodajas de limón.",
+  "url": null
+}

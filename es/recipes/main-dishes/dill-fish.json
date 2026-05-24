@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "dill-fish",
+  "name": "Pescado al eneldo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de filete de solla, turbot o bacalao",
+    "1/4 taza de jugo de lima",
+    "1 cucharadita de eneldo fresco picado",
+    "1 diente de ajo picado",
+    "sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F (175°C).\n2. Exprimir el jugo de lima sobre los filetes y marinar en la nevera durante al menos 30 minutos.\n3. Engrasar una bandeja para hornear con margarina.\n4. Colocar los filetes en la bandeja y espolvorear con eneldo, ajo, sal y pimienta.\n5. Hornear durante 5-10 minutos o hasta que el pescado se desmenuce fácilmente.",
+  "url": null
+}

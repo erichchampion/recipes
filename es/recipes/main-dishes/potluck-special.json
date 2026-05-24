@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "potluck-special",
+  "name": "Especial de la fiesta<EOS_TOKEN>",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "1 cebolla mediana, picada",
+    "400 gramos de tomates enlatados con jugo (28 onzas)",
+    "250 gramos de chucrut, enjuagado y escurrido",
+    "1 taza y media de arroz cocido",
+    "1 pimiento verde mediano, picado"
+  ],
+  "recipeInstructions": "1. En una sartén, dora la carne molida y la cebolla; escurre el exceso de grasa.\n2. Añade los ingredientes restantes; transfiérelo a un recipiente para hornear de 2 cuartos.\n3. Tapa y hornea a 175 °C durante 1 hora.",
+  "url": null
+}

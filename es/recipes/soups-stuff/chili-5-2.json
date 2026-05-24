@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-5-2",
+  "name": "Chili 5",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "guisos",
+    "chili",
+    "plato principal",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 libras de CARNE MOLIDA",
+    "2 cebollas picadas",
+    "2 latas de 400 g de TOMATES TRITURADOS",
+    "2 latas de 400 g de Frijoles PINTO",
+    "1 lata de 340 g de PASTA DE TOMATE",
+    "5 cucharadas de CHILI EN POLVO",
+    "Ajo en polvo al gusto"
+  ],
+  "recipeInstructions": "1. Dorar la carne y retirar el exceso de grasa.\n2. Freír las cebollas hasta que estén tiernas.\n3. Añadir ajo en polvo al gusto, así como el resto de ingredientes.\n4. Cocinar a fuego lento durante 2 horas, removiendo ocasionalmente.",
+  "url": null
+}

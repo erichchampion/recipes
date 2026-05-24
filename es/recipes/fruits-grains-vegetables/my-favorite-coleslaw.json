@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-favorite-coleslaw",
+  "name": "Mi coleslaw favorito",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 repollo",
+    "1 cebolla - picada finamente",
+    "2 cucharadas de vinagre para ensalada",
+    "1/4 taza de crema agria",
+    "1/4 taza de mayonesa",
+    "1 cucharadita de azúcar",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "(opcional) pimentón",
+    "(opcional) pimientos verdes, cortados en tiras finas",
+    "(opcional) pimientos rojos, cortados en tiras finas",
+    "1/2 cucharadita de mostaza en polvo (opcional)",
+    "1/4 cucharadita de semillas de apio (opcional)"
+  ],
+  "recipeInstructions": "1 Ralla el repollo en hilos muy finos. Espolvorea con vinagre, cebolla picada, pimienta negra y azúcar. Coloca en un bol hermético o en una bolsa de plástico y refrigera durante al menos 1 hora.\n2 Mezcla la crema agria, la mayonesa, la mostaza en polvo (si se usa), la sal, los pimientos verdes (si se usan), los pimientos rojos (si se usan) y las semillas de apio (si se usan).\n3 Agrega el aderezo a la coleslaw refrigerada y mezcla suavemente o agita todo. Refrigera durante al menos 2 horas antes de servir para un mejor sabor.",
+  "url": null
+}

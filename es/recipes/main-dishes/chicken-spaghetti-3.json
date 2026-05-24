@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-spaghetti-3",
+  "name": "Espaguetis de pollo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 taza de cebolla picada (aproximadamente 1 grande)",
+    "1 taza de agua",
+    "1 cucharada de orégano fresco o seco picado",
+    "2 cucharaditas de albahaca fresca o seca picada",
+    "1 ½ cucharaditas de tomillo fresco o seco picado",
+    "1 cucharadita de azúcar",
+    "3/4 cucharadita de romero fresco o seco picado",
+    "1 diente de ajo machacado",
+    "1 hoja de laurel",
+    "1 lata de salsa de tomate (de 250 g)",
+    "1 lata de puré de tomate (de 250 g)",
+    "1 ½ tazas de pollo o pavo cocido cortado en trozos",
+    "4 tazas de espagueti caliente cocido"
+  ],
+  "recipeInstructions": "1. Calentar todos los ingredientes excepto el pollo y el espagueti hasta que hiendan en una sartén de 30 cm.\n2. Reducir el fuego. Cubrir y dejar cocer a fuego lento durante 30 minutos, removiendo ocasionalmente.\n3. Incorporar el pollo. Cubrir y dejar cocer a fuego lento durante otros 30 minutos, removiendo ocasionalmente.\n4. Retirar la hoja de laurel. Servir la salsa sobre el espagueti.",
+  "url": null
+}

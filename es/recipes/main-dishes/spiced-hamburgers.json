@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "spiced-hamburgers",
+  "name": "Hamburguesas especiadas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "plato principal",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aceite de oliva",
+    "1 cebolla pequeña; picada finamente",
+    "1 cucharada de ajo picado finamente",
+    "1 cucharadita de pimienta negra molida",
+    "1/2 cucharadita de nuez moscada molida",
+    "1 cucharadita de cilantro molido",
+    "2 libras de carne molida",
+    "4 panecillos para hamburguesa tostados",
+    "4 rebanadas de cebolla roja (rebanadas finas)",
+    "4 rebanadas de tomate",
+    "Ketchup",
+    "Mostaza",
+    "Mayonesa"
+  ],
+  "recipeInstructions": "1. COMBINAR el aceite y la cebolla en una sartén pequeña a fuego medio y cocinar, removiendo, durante unos 4 minutos, o hasta que las cebollas se ablanden.\n2. Añadir el ajo, la pimienta, la nuez moscada y el cilantro al cazo y seguir cocinando durante otro minuto.\n3. Retirar la mezcla de cebolla del fuego y escurrir en un bol.\n4. Incorporar la carne molida a la mezcla de cebolla y mezclar bien.\n5. Formar 4 hamburguesas, colocarlas en un plato, cubrirlas y refrigerar durante 20 minutos.\n6. Colocar una sartén grande y pesada sobre el fuego a temperatura alta hasta que esté casi fumando.\n7. Agregar las hamburguesas a la sartén caliente y cocinar cada lado durante unos 2 minutos (para poco hechas) o 4 minutos (para medio-bien cocidas).\n8. Colocar las hamburguesas en los panecillos tostados.\n9. Adornar cada hamburguesa con una rebanada de cebolla roja y tomate.\n10. Servir con ketchup, mostaza y mayonesa al lado.",
+  "url": null
+}

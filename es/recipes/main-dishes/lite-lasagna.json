@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "lite-lasagna",
+  "name": "Lasaña ligera",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "O.Evans VPRJ01A",
+    "1/2 taza de espinacas; crudas, frescas, picadas finamente",
+    "4 placas de lasaña, cocidas",
+    "2 cebollas verdes, picadas finamente",
+    "1/2 taza de ricota desnatada",
+    "1/2 taza de salsa de tomate",
+    "1/2 taza de brócoli, picado y blanqueado",
+    "4 cucharaditas de mozzarella desnatada"
+  ],
+  "recipeInstructions": "Precalentar el horno a 375 °F (190 °C).\nSecar bien las placas de lasaña y extenderlas sobre la encimera.\nEn un bol mediano, mezclar la ricota, el brócoli, las espinacas y las cebollas verdes.\nDividir esta mezcla uniformemente entre las placas, extendiéndola con el dorso de una cuchara.\nEnrollar las placas como si fueran un rollo de jelly y colocarlas en un molde para hornear engrasado con spray antiadherente.\nVerter la salsa de tomate sobre las placas y espolvorear con el queso.\nHornear hasta que esté cocida y el queso se haya derretido, aproximadamente 20 minutos.\nServir caliente.",
+  "url": null
+}

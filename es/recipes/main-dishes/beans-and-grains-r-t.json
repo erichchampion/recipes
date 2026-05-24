@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "beans-and-grains-r-t",
+  "name": "Frijoles y Cereales",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "granos",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "4 tazas de judías al poro",
+    "1 taza de mijo",
+    "1 taza de bulgur",
+    "Agua - para cubrir",
+    "1/2 cucharadita de romero, al gusto",
+    "1/2 cucharadita de orégano, al gusto",
+    "1/2 cucharadita de tomillo, al gusto",
+    "1 cucharadita de polvo de ajo, al gusto",
+    "2 hojas de laurel",
+    "1 1/2 tazas de cebada"
+  ],
+  "recipeInstructions": "1. Agregar las judías al poro, cebada, romero, orégano, tomillo, polvo de ajo y hojas de laurel a la olla de cocción lenta.\n2. Verter agua en la olla de cocción lenta para cubrir los ingredientes.\n3. Cocinar a fuego lento durante aproximadamente 8 horas o hasta que las judías estén tiernas.\n4. Incorporar el mijo y el bulgur.\n5. Continuar cocinando durante 2 horas adicionales.\n6. Servir.",
+  "url": null
+}

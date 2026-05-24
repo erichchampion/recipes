@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "birdie-cake",
+  "name": "Pastel de Birdie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 huevos",
+    "2 tazas de harina",
+    "2 tazas de azúcar",
+    "2 cucharaditas de bicarbonato de sodio",
+    "1 lata de piña enlatada (nº 2)",
+    "1 cucharadita de vainilla"
+  ],
+  "recipeInstructions": "Verter los huevos en un medidor de 1/2 taza y llenar con agua hasta alcanzar la marca de 1/2 taza. Mezclar la harina, el azúcar, el bicarbonato de sodio, la piña enlatada y la vainilla. Hornear en un molde redondo o rectangular a 350 °F durante unos 35 minutos. Para el glaseado: Batir los ingredientes hasta obtener una consistencia homogénea y verter sobre el pastel caliente.",
+  "url": null
+}

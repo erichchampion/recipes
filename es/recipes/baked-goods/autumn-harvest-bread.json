@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "autumn-harvest-bread",
+  "name": "Pan de Cosecha de Otoño",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de zanahorias, picadas y cocidas, puré",
+    "1/2 taza de calabaza enlatada o calabacín de banana cortado en cubos y cocido, puré",
+    "1/2 taza de manzana sin azúcar",
+    "1/4 taza de agua de zanahoria (agua utilizada para cocinar las zanahorias)",
+    "1 1/2 tazas de harina integral",
+    "1 1/2 tazas de harina de pan",
+    "1 1/2 cucharaditas de sal",
+    "1 1/2 cucharadas de mantequilla o margarina",
+    "2 cucharadas de miel",
+    "1/4 cucharadita de canela molida",
+    "2 cucharaditas de levadura Red Star"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en el pan para hornear.\n2. Selecciona la configuración de costra ligera y presiona el botón de inicio.\n3. Una vez finalizado el ciclo de horneado, extrae el pan del molde.\n4. Colócalo sobre una rejilla y déjalo enfriar durante 1 hora antes de cortarlo.",
+  "url": null
+}

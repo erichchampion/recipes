@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "western-omelet",
+  "name": "Omeleta occidental",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "queso",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "3 huevos",
+    "1 cucharada de mantequilla",
+    "1/4 taza de jamón (picado)",
+    "2 cucharadas de cebolla (picada)",
+    "2 cucharadas de pimiento verde (picado)"
+  ],
+  "recipeInstructions": "1. Bate los huevos ligeramente.\n2. Mezcla los huevos batidos con el jamón, la cebolla y el pimiento verde.\n3. Cocina la tortilla según las indicaciones para una tortilla francesa.",
+  "url": null
+}

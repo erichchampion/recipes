@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "mideastern-chicken",
+  "name": "Pollo del Medio Oriente",
+  "recipeCuisine": "Africa & Middle East",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "oriental medio",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de aceite",
+    "1/4 cucharadita de nuez moscada",
+    "El jugo de 2 limones",
+    "1 taza (7 onzas) de aceitunas verdes",
+    "2 cucharadas de polvo de ajo",
+    "1/4 cucharadita de azafrán",
+    "4 tazas de vino blanco",
+    "1 cebolla picada",
+    "2,5 kg de pollo cortado en trozos"
+  ],
+  "recipeInstructions": "1. Mezclar el aceite, el jugo de limón, el polvo de ajo y el azafrán en una licuadora.\n2. Licuar hasta obtener una mezcla suave.\n3. Untar la mezcla uniformemente sobre los trozos de pollo.\n4. Colocar los ingredientes restantes (aceitunas, vino blanco, cebolla) en una sartén con el pollo.\n5. Tapar y cocinar a fuego lento durante 20-30 minutos.\n6. Servir con arroz al limón.",
+  "url": null
+}

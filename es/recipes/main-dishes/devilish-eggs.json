@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "devilish-eggs",
+  "name": "Huevos Diablitos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "aperitivos",
+    "cajún",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "6 huevos duros",
+    "2 cucharadas de mayonesa",
+    "2 cucharadas de mostaza Dijon",
+    "1 cucharada de salsa picante Louisiana",
+    "1 cucharada de pimientos picados",
+    "3 cucharadas de encurtido de eneldo",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "1. Cortar los huevos por la mitad.\n2. Retirar las yemas de las claras y reservar las claras.\n3. Machacar las yemas con un tenedor.\n4. Agregar la mayonesa y el resto de ingredientes a las yemas machacadas.\n5. Repartir la mezcla en las claras de huevo.\n6. Servir sobre una cama de lechuga.",
+  "url": null
+}

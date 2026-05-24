@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-soup-2",
+  "name": "Fish Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "seafood",
+    "soup",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "2 pounds fish fillet",
+    "1 cup onion, chopped",
+    "1 cup celery, chopped",
+    "1/2 cup bell pepper, chopped",
+    "1 clove garlic, minced",
+    "2 tablespoons oil",
+    "28 ounces canned tomatoes, undrained",
+    "1 cup chicken broth",
+    "1/4 cup white wine",
+    "1/4 cup parsley, chopped",
+    "1 teaspoon salt",
+    "1/2 teaspoon sugar",
+    "1/4 teaspoon basil"
+  ],
+  "recipeInstructions": "1. Remove skin from fish fillets and cut into 1-inch cubes.\n2. In a 5-quart pan, heat oil over medium heat. Add onion, celery, bell pepper, and garlic. Cook until tender but not browned.\n3. Stir in tomatoes, chicken broth, white wine, parsley, salt, sugar, and basil. Bring to a simmer and cook for 10 minutes.\n4. Gently add the fish cubes to the pan. Reduce heat to low and continue cooking for another 10 minutes or until the fish flakes easily with a fork. Stir occasionally.",
+  "url": null
+}

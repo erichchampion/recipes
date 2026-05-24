@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-blueberry-pie",
+  "name": "Tarta de Manzana y Arándano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "manzanas",
+    "repostería",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de azúcar",
+    "3 cucharadas de maicena",
+    "1/2 cucharadita de sal",
+    "5 tazas de manzanas; peladas y cortadas en rodajas",
+    "1 taza de arándanos; frescos si es posible",
+    "1 cucharada de jugo de limón",
+    "2 cucharadas de mantequilla",
+    "1 masa para tarta sin hornear, doble corteza"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar el azúcar, la maicena y la sal.\n2. Agregar las manzanas, los arándanos y el jugo de limón; remover para cubrir la fruta.\n3. Verter en una bandeja para tarta sin hornear de 23 cm forrada con masa.\n4. Espolvorear con mantequilla.\n5. Colocar la corteza superior y sellar y dar bordes a la tarta.\n6. Hornear en horno precalentado a 218°C hasta que la corteza esté dorada y el relleno burbujee.",
+  "url": null
+}

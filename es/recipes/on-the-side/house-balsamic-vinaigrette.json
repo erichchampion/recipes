@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "house-balsamic-vinaigrette",
+  "name": "Vinaigrette Balsámica Casera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "aderezos para ensaladas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de sal",
+    "2 cucharadas de vinagre de vino tinto",
+    "1 cucharada de vinagre balsámico",
+    "1 ½ cucharadas de mostaza dijon",
+    "1/2 cucharadita de pimienta negra",
+    "6 cucharadas de aceite de oliva",
+    "1 diente de ajo, picado finamente",
+    "1 cebolleta, cortada en rodajas finas (1/4 de pulgada)",
+    "2 cucharadas de perejil fresco picado"
+  ],
+  "recipeInstructions": "1. Mezcla la sal con el vinagre de vino tinto y balsámico.\n2. Añade la mostaza dijon y mezcla bien.\n3. Incorpora la pimienta negra y el aceite de oliva, batiendo hasta emulsionar.\n4. Agrega el ajo, la cebolleta y el perejil.",
+  "url": null
+}

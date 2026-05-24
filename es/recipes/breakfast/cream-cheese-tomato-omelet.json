@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cream-cheese-tomato-omelet",
+  "name": "Omeleta de queso crema y tomate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "6 huevos",
+    "1/4 taza de crema",
+    "sal",
+    "pimienta negra",
+    "1/4 taza de mantequilla",
+    "6 onzas de queso crema, en cubos",
+    "2 tomates frescos enteros, pelados, sin semillas, picados"
+  ],
+  "recipeInstructions": "1. Batir los huevos hasta que estén ligeros.\n2. Agregar la crema, la sal y la pimienta a los huevos batidos y mezclar bien.\n3. Derretir la mantequilla en una sartén grande a fuego medio.\n4. Verter la mezcla de huevos en la sartén una vez que la mantequilla esté derretida.\n5. Cuando el fondo de la omeleta esté cuajado pero aún suave, extender los tomates y el queso crema uniformemente sobre la parte superior.\n6. Doblar la omeleta por la mitad, cubriendo el relleno de queso y tomate.\n7. Continuar cocinando hasta que el fondo se dore por ambos lados al darla vuelta.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cookie-ice-cream-dessert",
+  "name": "Postre de helado de galleta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres"
+  ],
+  "recipeIngredient": [
+    "24 galletas Oreo",
+    "1 barra de mantequilla derretida",
+    "1/2 litro de helado de chispas de chocolate menta, o su sabor favorito de chocolate",
+    "1 tarro de fudge de chocolate o jarabe de fudge caliente, calentado",
+    "1 caja grande de Cool Whip",
+    "Licor de menta cremoso (opcional)",
+    "Migas de galleta o trozos de chocolate (opcional)"
+  ],
+  "recipeInstructions": "1. Triturar las galletas Oreo en un procesador de alimentos hasta obtener una consistencia en polvo.\n2. Mezclar la mantequilla derretida con las galletas trituradas.\n3. Presionar la mezcla en un molde rectangular apto para congelar.\n4. Congelar durante 15 minutos, luego cubrir con el helado suavizado.\n5. Devolver al congelador hasta que esté sólido.\n6. Extender el jarabe de fudge caliente sobre el helado y las galletas, luego volver a congelar.\n7. (Opcional) Añadir licor de menta cremoso en este momento y volver a congelar.\n8. Cubrir con Cool Whip y decorar con chispas de chocolate o trozos de galleta si se desea.\n9. Congelar durante la noche.",
+  "url": null
+}

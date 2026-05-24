@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "sharp-vinaigrette",
+  "name": "Vinaigrette Picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "aderezos para ensaladas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de aceite de oliva",
+    "1/4 taza de vinagre balsámico",
+    "2 cucharadas de mostaza Dijon, tipo Grey Poupon",
+    "1/4 cucharadita de sal",
+    "1 cucharadita de pimienta negra molida fresca",
+    "3 dientes grandes de ajo, picados finamente",
+    "El jugo de 1 limón grande"
+  ],
+  "recipeInstructions": "1. En un blender, combinar todos los ingredientes y mezclar a velocidad alta durante varios minutos.\n2. Alternativamente, en un bol, mezclar el vinagre, la mostaza, la sal, la pimienta y el ajo picado.\n3. Añadir gradualmente el aceite de oliva batiendo con un tenedor o una batidora hasta que la mezcla emulsiona.\n4. Utilizar ajos enteros frescos para lograr un sabor intenso.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "morning-glory-fruit-shake",
+  "name": "Batido de frutas Gloria Matutina",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "desayuno",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 tazas de plátanos en rodajas",
+    "2 tazas de fresas cortadas",
+    "2 tazas de piña picada",
+    "2 tazas de papaya picada",
+    "1 taza de manzanas peladas y cortadas en cubos",
+    "1/2 taza de cubitos de hielo",
+    "1 cucharada de miel"
+  ],
+  "recipeInstructions": "1. Coloca en la licuadora los plátanos, la piña o papaya picada, las manzanas, los cubitos de hielo y la miel.\n2. Licúa a velocidad alta hasta obtener una consistencia suave.\n3. Sirve inmediatamente.",
+  "url": null
+}

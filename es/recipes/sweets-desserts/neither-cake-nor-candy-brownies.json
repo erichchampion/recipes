@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "neither-cake-nor-candy-brownies",
+  "name": "Ni pastel ni caramelo (Brownie)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "brownie",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tabletas de chocolate negro sin azúcar",
+    "2 cucharadas de mantequilla",
+    "1 taza de azúcar",
+    "2 huevos, batidos",
+    "1/2 taza de harina",
+    "1 cucharadita de extracto de vainilla",
+    "1/2 taza de pasas, picadas",
+    "1/2 taza de nueces, picadas"
+  ],
+  "recipeInstructions": "1. Derrite el chocolate y la mantequilla juntos sobre agua caliente.\n2. Añade el azúcar y la vainilla; mezcla bien.\n3. Incorpora los huevos batidos.\n4. Cierna la harina y mézclala con las nueces y pasas.\n5. Hornea en un molde poco profundo engrasado a 180°C durante 20 minutos.\n6. Deja enfriar antes de cortar en cuadrados.",
+  "url": null
+}

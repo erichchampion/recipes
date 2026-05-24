@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pepper-soup",
+  "name": "Sopa de Pimienta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carnes",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne de res para estofar, cortada en trozos pequeños",
+    "6 tazas de agua",
+    "2 chiles verdes, sin semillas y picados finamente",
+    "1 cebolla, pelada y picada finamente",
+    "4 papas nuevas rojas, lavadas y cortadas en trozos pequeños (dejar la piel)",
+    "2 tomates, pelados y cortados en cubos",
+    "1/2 taza de puré de tomate",
+    "3 ramitas de tomillo fresco o 1 cucharadita de tomillo seco",
+    "2 tazas de arroz cocido, para servir"
+  ],
+  "recipeInstructions": "1. Coloca la carne, el agua, los chiles, la cebolla, las papas, los tomates, el puré de tomate, el tomillo y sal y pimienta al gusto en una olla con tapa o olla holandesa.\n2. Lleva a ebullición a fuego alto y mezcla bien.\n3. Tapa y cocina durante 1 hora o hasta que la carne esté muy tierna.\nPara servir:\n4. Coloca el arroz cocido en los cuencos y cúbrelos con la sopa.",
+  "url": null
+}

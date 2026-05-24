@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-beef-dip",
+  "name": "Dip de carne caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "carne de res",
+    "untos",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "2/3 taza de cebolla picada",
+    "1/2 taza de pimiento verde picado",
+    "3 dientes de ajo picados",
+    "8 onzas de salsa de tomate",
+    "1/4 taza de ketchup",
+    "1 cucharadita de azúcar",
+    "3/4 cucharadita de orégano seco",
+    "1/4 cucharadita de pimienta",
+    "8 onzas de queso crema ablandado",
+    "1/4 taza de queso parmesano rallado",
+    "Chips de tortilla"
+  ],
+  "recipeInstructions": "1. En una sartén grande, cocina la carne, la cebolla, el pimiento verde y el ajo hasta que la carne esté dorada.\n2. Agrega la salsa de tomate, el ketchup, el azúcar, el orégano y la pimienta; reduce el fuego y deja cocinar a fuego lento durante 10 minutos.\n3. Retira del fuego y mezcla los quesos hasta que se derritan.\n4. Transfiere a una olla para fondue o un recipiente para mantener caliente; sirve caliente con chips de tortilla.",
+  "url": null
+}

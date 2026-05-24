@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "shredded-mexican-chicken",
+  "name": "Pollo mexicano desmenuzado",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americano",
+    "étnico",
+    "de cuatro estrellas",
+    "mexicano",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "pecho de pollo sin hueso ni piel",
+    "4 cubos de caldo de pollo",
+    "1 cebolla mediana, picada finamente",
+    "1 cucharada de comino",
+    "1 cucharadita de chiles rojos secos molidos",
+    "1 cucharadita de orégano",
+    "agua"
+  ],
+  "recipeInstructions": "1. Coloca los pechos de pollo en una sartén grande y cúbrelos con agua.\n2. Añade todos los ingredientes: cubos de caldo de pollo, cebolla picada, comino, chiles rojos molidos y orégano.\n3. Tapa la sartén y cocina a fuego lento.\n4. Si es necesario, agrega más líquido para mantener el pollo cubierto.\n5. Cocina hasta que el pollo esté tierno.\n6. Desmenuza el pollo cocido con tenedores.\n7. Utiliza en tacos, tostadas, burritos, etc.",
+  "url": null
+}

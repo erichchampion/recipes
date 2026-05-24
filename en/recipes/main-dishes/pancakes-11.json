@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pancakes-11",
+  "name": "Pancakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "pancakes"
+  ],
+  "recipeIngredient": [
+    "2 cups Flour",
+    "2 tablespoons Sugar",
+    "3/4 teaspoon Salt",
+    "3 teaspoons Baking powder",
+    "2 Eggs",
+    "1 1/4 cups Milk",
+    "1/4 cup Salad oil or melted Crisco."
+  ],
+  "recipeInstructions": "1. Sift together flour, sugar, salt, and baking powder.\n2. Beat the eggs and add milk. Combine with dry ingredients, mixing until smooth.\n3. Add shortening or salad oil.\n4. Drop by spoonfuls onto a hot griddle.",
+  "url": null
+}

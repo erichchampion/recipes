@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-pizza-4",
+  "name": "White Pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "dairy",
+    "ethnic",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "2 cloves garlic, minced",
+    "1/4 cup butter, melted",
+    "Dough or pizza shell",
+    "4 oz cheddar or swiss cheese, grated",
+    "4 oz mozzarella cheese, grated",
+    "2 oz feta cheese, crumbled",
+    "1 oz parmesan/romano cheese, grated",
+    "1 tablespoon olive oil",
+    "1/2 teaspoon oregano",
+    "Red hot pepper, to taste"
+  ],
+  "recipeInstructions": "1. Sauté garlic in butter until light brown.\n2. Spray the bottom of a pizza pan or cookie sheet with non-stick oil.\n3. Knead dough to fit or place shell on the prepared pan.\n4. Sprinkle cheese evenly over the top.\n5. Drizzle with olive oil and sprinkle oregano and red pepper (if desired) over the top.\n6. Bake at 425°F until golden brown.",
+  "url": null
+}

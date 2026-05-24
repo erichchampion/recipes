@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-soy-marinade",
+  "name": "Marinada de limón y soja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "marinadas",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de salsa de soja",
+    "2 dientes de ajo picados finamente",
+    "1/4 taza de zumo de limón",
+    "1/4 cucharadita de jengibre molido"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol hasta que queden bien integrados.\n2. Verter la marinada sobre la carne y dejar en el refrigerador durante al menos 1 hora, o idealmente durante la noche.",
+  "url": null
+}

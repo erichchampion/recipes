@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecued-cornish-hen",
+  "name": "Pollo de Cornuall asado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecua",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "4 pollos cornudos",
+    "1 palo de mantequilla derretida",
+    "Salsa barbacoa:",
+    "1 diente de ajo, picado",
+    "2 cucharaditas de sal",
+    "1/4 taza de vinagre",
+    "1/4 taza de zumo de limón",
+    "1/4 taza de aceite",
+    "1 1/4 tazas de salsa Worcestershire",
+    "2 cucharadas de cebolla picada",
+    "1 cucharadita de pimentón dulce",
+    "1/2 taza de azúcar moreno",
+    "1/4 taza de ketchup"
+  ],
+  "recipeInstructions": "1. Cepille cada pollo cornudo con mantequilla derretida y colóquelos en un asador vertical.\n2. En un bol, machaque el ajo con la sal.\n3. Mezcle el ajo machacado con la sal con los demás ingredientes de la salsa barbacoa.\n4. Coloque los pollos derechos sobre la parrilla sobre las brasas.\n5. Cubra la parrilla y cepille los pollos con la salsa cada 10 minutos, aproximadamente durante 45 minutos, o hasta que estén tiernos.",
+  "url": null
+}

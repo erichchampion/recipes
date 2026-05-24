@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "betty-crocker-banana-bread",
+  "name": "Pan de plátano de Betty Crocker",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "2 cucharadas de manteca",
+    "1 huevo",
+    "3/4 taza de leche",
+    "3 tazas de harina para todo uso",
+    "3 1/2 cucharaditas de polvo de hornear",
+    "1 cucharadita de sal",
+    "1 taza de plátanos machacados",
+    "3/4 taza de nueces picadas"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol mediano para mezclar.\n2. Verter la masa en un molde para pan engrasado (9x5x3 pulgadas).\n3. Hornear a 175 °C durante 60-70 minutos, o hasta que sea de color dorado.\n- Un palillo insertado saldrá limpio cuando el pan esté hecho.\n4. Opcionalmente, dividir la masa entre dos moldes para pan más pequeños para reducir el tiempo de cocción a aproximadamente 45 minutos.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "hello-dollys",
+  "name": "Hello Dollys",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "Butter",
+    "Crushed vanilla wafers, 1 cup",
+    "Chocolate chips, 1 cup",
+    "Coconut, 1 can",
+    "Pecans, 1 cup",
+    "Condensed milk, 1 can"
+  ],
+  "recipeInstructions": "1. Melt butter in a 9-inch square pan.\n2. Layer the remaining ingredients on top of the melted butter.\n3. Bake for 30 minutes at 350 degrees Fahrenheit.\n4. Let cool before cutting.",
+  "url": null
+}

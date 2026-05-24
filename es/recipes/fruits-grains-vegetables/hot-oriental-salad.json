@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-oriental-salad",
+  "name": "Ensalada Caliente Oriental",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "plato principal",
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aceite de vegetal",
+    "2 dientes de ajo, picados finamente",
+    "1/2 cucharadita de jengibre fresco, picado",
+    "2 tallos de apio, cortados en tiras delgadas",
+    "8 repolletas chinas, cortadas en trozos de 1 pulgada",
+    "1/2 libra de setas frescas, laminadas",
+    "3/4 taza de espinaca, lavada y arrancada en pedazos",
+    "2 cucharadas de salsa de soja Kikkoman"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en una sartén grande o olla holandesa a fuego medio-alto.\n2. Añadir el ajo y el jengibre; saltear hasta que el ajo esté ligeramente dorado.\n3. Incorporar el apio y saltear durante 2 minutos.\n4. Agregar la repollada y las setas; saltear durante 2 minutos más.\n5. Añadir la espinaca y saltear durante 2 minutos hasta que las verduras estén tiernas.\n6. Verter la salsa de soja y mezclar bien para cubrir las verduras.\n7. Servir inmediatamente.",
+  "url": null
+}

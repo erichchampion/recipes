@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-chip-oatmeal-cookies",
+  "name": "Chocolate Chip Oatmeal Cookies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "chocolate chip",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1/2 cup sugar",
+    "1/2 cup brown sugar",
+    "3/4 cup oil",
+    "1 teaspoon vanilla",
+    "1 egg",
+    "1 cup flour",
+    "1 cup oatmeal",
+    "1 teaspoon baking powder",
+    "1/4 teaspoon salt",
+    "1 cup chocolate chips"
+  ],
+  "recipeInstructions": "1. Preheat oven to 375 degrees.\n2. Combine sugars, oil, egg, and vanilla in a bowl.\n3. Stir in dry ingredients (flour, oatmeal, baking powder, and salt).\n4. Fold in the chocolate chips.\n5. Drop by spoonfuls onto ungreased cookie sheets.\n6. Bake for 10 minutes.\n7. Remove from sheet and cool.",
+  "url": null
+}

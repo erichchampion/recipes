@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "wakeup-shakeup",
+  "name": "Despertar y Revuelta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "bebidas",
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "Plátano, en rodajas",
+    "Jugo de naranja, 1 taza",
+    "Huevo",
+    "Extracto de vainilla, 1 cucharadita"
+  ],
+  "recipeInstructions": "1. Llena tu vaso o taza con la cantidad deseada de jugo de naranja.\n2. Añade las rodajas de plátano al licuador.\n3. Vierte el extracto de vainilla y el huevo batido.\n4. Licúa hasta obtener una consistencia suave y espumosa.\nVariaciones:\n- Reemplaza el jugo de naranja por jugo de manzana u otro tipo de jugo.\n- Utiliza leche en lugar de jugo.\n- Agrega 1 cucharada de mermelada de fresa.\n- Incorpora ½ cucharadita de café instantáneo.",
+  "url": null
+}

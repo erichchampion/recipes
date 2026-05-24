@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "shrimp-sauce",
+  "name": "Shrimp Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "fish",
+    "sauces",
+    "seafood",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup Chili sauce",
+    "1 cup Mayonnaise",
+    "1/4 cup Pickle relish",
+    "1 egg, hard-cooked, chopped",
+    "1/2 teaspoon Mustard, prepared",
+    "1/2 teaspoon Onion, grated",
+    "1 tablespoon Lemon juice"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a bowl.\n2. Chill the mixture until ready to serve.\n3. Serve with baked or broiled shrimp.",
+  "url": null
+}

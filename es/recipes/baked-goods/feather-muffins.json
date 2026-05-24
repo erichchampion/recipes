@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "feather-muffins",
+  "name": "Muffins de Pluma",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "4 cucharadas de mantequilla o manteca",
+    "4 cucharadas de azúcar",
+    "1 huevo",
+    "3/4 taza de leche",
+    "3 cucharaditas de polvo de hornear",
+    "3 tazas de harina"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 400-450 °F (200-230 °C).\n2. Mezclar todos los ingredientes en un bol hasta que estén bien combinados.\n3. Verter la masa en moldes para muffins y hornear hasta que estén dorados, aproximadamente 20-25 minutos.",
+  "url": null
+}

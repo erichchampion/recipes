@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "one-pot-chicken-entree",
+  "name": "One Pot Chicken Entree",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "Skinless and boneless chicken breast, cut into chunks (1 cup)",
+    "Carrot -- peeled and chopped (2 cups)",
+    "Water or homemade chicken stock with no salt (2 cups)",
+    "Frozen peas (1/2 cup)",
+    "Cooked elbow macaroni or other pasta (1/2 cup)"
+  ],
+  "recipeInstructions": "1. In a pot, combine the chicken, carrots, and water.\n2. Bring to a simmer and cover.\n3. Cook for 8 to 10 minutes.\n4. Add the peas and macaroni.\n5. Continue cooking for another 4 to 5 minutes.\n6. Puree the mixture until smooth.\n7. Adjust consistency with extra water or stock if needed.",
+  "url": null
+}

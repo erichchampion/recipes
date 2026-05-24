@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "new-york-bistro-chicken",
+  "name": "Pollo del Bistro de Nueva York",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de aceite de oliva",
+    "1 cabeza de ajo, laminado finamente",
+    "4 pechugas de pollo deshuesadas y sin piel, cortadas por la mitad",
+    "1 cucharadita de tomillo fresco, picado",
+    "1/2 cucharadita de romero fresco, picado",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Combinar el aceite de oliva y el ajo laminado en una sartén grande. Tapar y cocinar a fuego medio durante 5 minutos.\n2. Golpear las pechugas de pollo hasta alcanzar un grosor uniforme de aproximadamente 0,6 cm. Condimentar con sal y pimienta.\n3. Destapar la sartén, mover el ajo a un lado y agregar el pollo sazonado. Cocinar durante 4-5 minutos por cada lado hasta que el pollo esté completamente cocido.\n4. Retirar el ajo con una cuchara perforada y exprimir el jugo sobre el pollo. Desechar las pieles.\n5. Transferir el pollo y el ajo a un plato de servir y rociar con los jugos de la sartén.",
+  "url": null
+}

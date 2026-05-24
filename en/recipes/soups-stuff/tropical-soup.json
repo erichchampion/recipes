@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "tropical-soup",
+  "name": "Tropical Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups"
+  ],
+  "recipeIngredient": [
+    "2 mangoes, sliced",
+    "2 papayas, seeded and cut into chunks",
+    "2 bananas",
+    "1/4 cup lime juice",
+    "Toasted coconut",
+    "Mint, chopped"
+  ],
+  "recipeInstructions": "1. Place the mangoes, papayas, and bananas in a blender.\n2. Add the lime juice.\n3. Blend until smooth.\n4. Gradually add buttermilk while continuing to blend.\n5. Pour the mixture into bowls.\n6. Chill in the refrigerator.\n7. Garnish with toasted coconut and mint before serving.",
+  "url": null
+}

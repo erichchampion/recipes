@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "new-mexico-green-sauce",
+  "name": "Salsa Verde de Nuevo México",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "salsas verduras",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 cebolla grande, picada finamente",
+    "4 chiles poblano asados, pelados, sin semillas y picados finamente (aproximadamente 1/2 taza)",
+    "1 chile jalapeño sin semillas y picado finamente",
+    "2 cucharadas de aceite vegetal",
+    "1/2 taza de crema para batir",
+    "1/4 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Asar los chiles poblano, pelarlos, quitarles las semillas y picarlos finamente. Deben quedar aproximadamente 1/2 taza.\n2. Quitarle las semillas al chile jalapeño y picarlo finamente.",
+  "url": null
+}

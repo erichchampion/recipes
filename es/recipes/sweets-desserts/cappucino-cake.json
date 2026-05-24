@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cappucino-cake",
+  "name": "Pastel de Cappucino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres",
+    "ninguno"
+  ],
+  "recipeIngredient": [
+    "1 bizcocho esponjoso",
+    "1 taza de café (hervido)",
+    "2 cucharaditas de gelatina",
+    "1 taza de leche condensada"
+  ],
+  "recipeInstructions": "1. Forrar un molde para pastel con papel aluminio y colocar el bizcocho esponjoso adentro, utilizando el molde original o asegurando un ajuste ajustado.\n2. Disolver lentamente la gelatina en el café hirviendo.\n3. Mezclar la mezcla de café con la leche condensada.\n4. Verter la mezcla sobre el bizcocho esponjoso, asegurándose de que se absorba uniformemente.\n5. Refrigerar hasta que esté cuajado durante varias horas.\n6. Cortar en porciones pequeñas y decorar con crema y chocolate en polvo.",
+  "url": null
+}

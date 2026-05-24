@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "granola-raisins-bread",
+  "name": "Pan con pasas y granola",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "2 1/2 cucharaditas levadura seca activa",
+    "2 1/4 tazas harina de trigo",
+    "1 taza harina integral",
+    "3 cucharadas leche en polvo",
+    "1 1/2 cucharaditas sal",
+    "1 1/2 cucharadas aceite",
+    "1 1/2 cucharadas miel",
+    "1 1/4 tazas agua",
+    "1/2 taza granola",
+    "1/3 taza pasas"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes excepto la granola y las pasas en el orden indicado por el manual de su máquina panificadora.\n2. Hornear en el programa para pan de pasas.\n3. Al sonar la alarma, añadir la granola y las pasas.\n4. Este pan se puede disfrutar caliente o frío.",
+  "url": null
+}

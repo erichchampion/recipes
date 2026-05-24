@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-raspberry-ice-cream",
+  "name": "Helado de fresa rápido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "congelador",
+    "helado",
+    "rápido"
+  ],
+  "recipeIngredient": [
+    "200 g de frambuesas congeladas",
+    "200 g de crema fresca",
+    "1 cucharada de azúcar glas",
+    "40 g de nueces, ligeramente tostadas y picadas",
+    "ramitas de menta - opcional",
+    "4 cucharadas de miel líquida, calentada para servir"
+  ],
+  "recipeInstructions": "1. Reserva un cuarto de las frambuesas y coloca el resto en un procesador de alimentos. Tritura hasta que esté justo deshecho, pero dejando algunos trozos. Añade la crema fresca y el azúcar glas, y mezcla ligeramente.\n2. Vierte la mezcla semifría en un recipiente para servir y espolvorea con las frambuesas reservadas y las nueces. Decora con menta si lo deseas y sirve con miel calentada por encima.",
+  "url": null
+}

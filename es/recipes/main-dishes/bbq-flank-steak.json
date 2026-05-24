@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "bbq-flank-steak",
+  "name": "Costilla de ternera a la barbacoa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecua",
+    "carne de vacuno",
+    "plato principal",
+    "marinadas",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 lb de solomillo de ternera",
+    "Sal al gusto",
+    "Pimienta negra molida al gusto",
+    "2 cucharadas de aceite de oliva",
+    "2 cucharaditas de vinagre de vino tinto",
+    "4 dientes de ajo, picados finamente",
+    "Zumo y ralladura de 1 limón",
+    "2 cucharadas de romero fresco, picado finamente"
+  ],
+  "recipeInstructions": "1. Sazonar el solomillo con sal y pimienta negra molida.\n2. Calentar el aceite de oliva en una sartén grande a fuego medio-alto.\n3. Añadir al sartén el vinagre de vino tinto, el ajo picado, la ralladura y el zumo de limón.\n4. Sellar el solomillo por 1-2 minutos por cada lado hasta que esté dorado.\n5. Transferir la sartén a la parrilla y cocinar durante 4-6 minutos por cada lado, o hasta alcanzar la temperatura interna deseada (poco hecho: 54°C).\n6. Retirar del fuego y dejar reposar durante 10 minutos antes de cortarlo en contra del grano.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "peach-melba-muffins",
+  "name": "Muffins de melocotón Melba",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "1 cucharadita de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "1/2 taza de azúcar",
+    "1 huevo batido",
+    "1/3 taza de mantequilla derretida",
+    "1 taza de leche",
+    "3/4 taza de duraznos cortados en trozos",
+    "3/4 taza de frambuesas",
+    "1/2 taza de azúcar",
+    "1/3 taza de harina",
+    "1/4 taza de mantequilla fría"
+  ],
+  "recipeInstructions": "Precalentar el horno a 200°C.\nMezclar la harina, el polvo de hornear, la sal y el azúcar.\nAñadir el huevo, la mantequilla derretida y la leche, mezclando hasta humedecer ligeramente.\nRellenar moldes para muffins engrasados aproximadamente hasta la mitad con la mezcla.\nCubrir con frutas y luego con la masa restante.\nMezclar el azúcar, la harina y la mantequilla fría hasta obtener migas.\nEspolvorear sobre los pasteles y hornear durante unos 20 minutos.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-smoothie-3",
+  "name": "Fruit Smoothie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "appetizers/snacks",
+    "beverages",
+    "dessert",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/2 cup nonfat vanilla yogurt",
+    "1/4 cup skim milk",
+    "1 banana, frozen",
+    "1/2 cup raspberries, frozen",
+    "1/2 cup strawberries, frozen",
+    "1 tbsp maple syrup"
+  ],
+  "recipeInstructions": "1. Place all ingredients in a blender or food processor.\n2. Blend until smooth and well combined.",
+  "url": null
+}

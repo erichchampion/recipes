@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cappuccino-shake",
+  "name": "Batido de Cappuccino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "de bajo calorías",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de leche desnatada",
+    "1 1/2 cucharadas de café instantáneo",
+    "2 sobrecitos de edulcorante artificial",
+    "2 gotas de extracto de brandy o ron",
+    "Una pizca de canela"
+  ],
+  "recipeInstructions": "1. En una licuadora, mezclar la leche, el café, el edulcorante y el extracto.\n2. Licuar hasta que el café esté completamente disuelto.\n3. Servir con una pizca de canela. Para tomar caliente, verter en una taza y calentar en el microondas.",
+  "url": null
+}

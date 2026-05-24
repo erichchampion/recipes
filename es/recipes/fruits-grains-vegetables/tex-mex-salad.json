@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "tex-mex-salad",
+  "name": "Ensalada Tex-Mex",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "misceláneo",
+    "ensaladas",
+    "tex-mex",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 Cebolla - picada",
+    "4 Tomates - picados",
+    "1 Lechuga - picada",
+    "1 1/4 Tazas de Queso Cheddar - rallado",
+    "3/4 Taza de Aderezo Italiano",
+    "1 lb de Carne Molida (Res, Pollo o Pavo)",
+    "15 oz de Frijoles Rojo - escurridos",
+    "1/4 cucharadita de Condimento Vegetal",
+    "1 Bolsa de Tortillas Chips - trituradas",
+    "1 Aguacate Grande - en rodajas",
+    "7 1/2 oz de Aceitunas"
+  ],
+  "recipeInstructions": "1. Mezcla la cebolla, los tomates, la lechuga y el queso con el aderezo italiano; reserva.\n2. Dora la carne en una sartén a fuego medio hasta que ya no esté rosada.\n3. Añade los frijoles escurridos y el condimento vegetal a la sartén. Reduce el fuego y cocina por 10 minutos.\n4. Combina la mezcla de carne cocida con los ingredientes de la ensalada (lechuga, tomates, queso).\n5. Incorpora las tortillas chips trituradas y las rodajas de aguacate.\n6. Adorna con aceitunas si lo deseas.",
+  "url": null
+}

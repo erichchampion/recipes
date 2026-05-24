@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "nacho-cheese-dip",
+  "name": "Nacho Cheese Dip",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "dips",
+    "mexican",
+    "restaurants",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "Provolone, 1/2 lb grated",
+    "American cheese, 1/2 lb grated",
+    "Heavy cream, 3/4 cup",
+    "Cream cheese, 8 oz",
+    "Garlic powder, 1/4 tsp",
+    "Worcestershire sauce, 3/4 tsp",
+    "Cayenne, 1/8 tsp",
+    "Yellow food coloring, 1/8 tsp"
+  ],
+  "recipeInstructions": "1. Melt provolone in the top of a double boiler over boiling water.\n2. Add American cheese and stir until the cream is incorporated.\n3. Add cream cheese and stir until everything is melted.\n4. Remove from heat and whisk in seasonings and food coloring.\n5. Serve warm with crackers, chips, or vegetables.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "kasha-burgers",
+  "name": "Kasha Burgers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "grains",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 cup buckwheat groats (kashe)",
+    "2 small onions, chopped",
+    "1/2 pound mushrooms, chopped",
+    "1 tablespoon parsley, chopped",
+    "3 egg whites",
+    "1/2 teaspoon salt",
+    "1/4 teaspoon pepper"
+  ],
+  "recipeInstructions": "1. Cook the buckwheat groats and cook the onions.\n2. Saute the mushrooms.\n3. Mix all ingredients together.\n4. Shape into burgers.\n5. Brown in a pan or griddle.",
+  "url": null
+}

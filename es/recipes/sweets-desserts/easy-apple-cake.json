@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-apple-cake",
+  "name": "Tarta de Manzana Fácil",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "4 manzanas, peladas y cortadas en rodajas",
+    "1/4 taza de azúcar",
+    "1/2 cucharadita de canela",
+    "1/2 taza de azúcar",
+    "2 cucharadas de mantequilla o margarina ablandada",
+    "1 huevo",
+    "1/4 cucharadita de extracto de vainilla",
+    "1 taza de harina",
+    "1 cucharadita de polvo de hornear"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 °F (175 °C).\n2. Mezclar 1/4 taza de azúcar y 1/2 cucharadita de canela. Colocar una capa de rodajas de manzana en un molde para hornear engrasado, espolvorear con la mitad de la mezcla de azúcar-canela, cubrir con el resto de manzanas y luego cubrir con el resto de la mezcla.\n3. Batir 1/2 taza de azúcar con la mantequilla hasta que esté bien combinada. Agregar el huevo y la vainilla, mezclando bien. Incorporar la harina y el polvo de hornear, verter sobre las manzanas y extender lo más uniformemente posible.\n4. Hornear durante 30 minutos. Servir caliente, con helado de vainilla.",
+  "url": null
+}

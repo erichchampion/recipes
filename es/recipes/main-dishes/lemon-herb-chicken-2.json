@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-herb-chicken-2",
+  "name": "Pollo con Hierbas y Limón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 lata (473 ml) de caldo de pollo Swanson",
+    "3 cucharadas de jugo de limón",
+    "1 cucharadita de hojas de albahaca seca, machacadas",
+    "1 cucharadita de tomillo seco, picado",
+    "Una pizca de pimienta",
+    "4 pechugas de pollo sin piel"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar el caldo, el jugo de limón, la albahaca, el tomillo y la pimienta.\n2. Colocar el pollo sobre una parrilla engrasada sobre brasas medianas-altas.\n3. Asar el pollo sin tapar durante 20 minutos, darle la vuelta con frecuencia.\n4. Untar el pollo con la mezcla de caldo y continuar asando durante otros 20 minutos o hasta que el pollo ya no esté rosado. Darle la vuelta y untar con frecuencia.\n5. Servir.",
+  "url": null
+}

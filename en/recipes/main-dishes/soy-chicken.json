@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "soy-chicken",
+  "name": "Soy Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry",
+    "pressure cooker"
+  ],
+  "recipeIngredient": [
+    "2 Chicken breast, skinned and boned",
+    "1/2 cup Sliced celery",
+    "1/4 cup Low sodium soy sauce",
+    "1 cup Water",
+    "1/2 Onion sliced",
+    "3 tbsp Brown sugar"
+  ],
+  "recipeInstructions": "1. Place all ingredients in cooker.\n2. Close securely.\n3. Place pressure regulator on vent pipe and cook for 5 minutes with pressure regulator rocking slowly.\n4. Let pressure drop off of its own accord.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "oven-beef-stew",
+  "name": "Estofado de Carne al Horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "3 lb de carne de res magra en cubos de 1 pulgada",
+    "1 lata de sopa de apio con crema (10 oz)",
+    "1/2 sobre de mezcla de sopa de cebolla seca (2.4 oz)",
+    "1 taza de vino tinto seco",
+    "1 cebolla, picada finamente",
+    "5 papas medianas, peladas y cortadas en octavas partes",
+    "8 zanahorias, peladas y cortadas por la mitad a lo largo",
+    "2 tazas de brócoli en floretes"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F. En una olla holandesa de 5 cuartos, combinar la carne, la sopa sin diluir, la mezcla de sopa seca, el vino y la cebolla. Mezclar bien. Cubrir con las piezas de papa y zanahoria, mezclando ligeramente. Tapar y hornear durante 2 horas.\n2. Agregar los floretes de brócoli, tapar y hornear por 15 minutos adicionales. Retirar la tapa y hornear otros 15 minutos.",
+  "url": null
+}

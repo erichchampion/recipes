@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "meat-fish-rub",
+  "name": "Condimento para carne y pescado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "barbecua",
+    "condimentos",
+    "marinadas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de pimentón dulce",
+    "1/4 taza de polvo de cebolla",
+    "1/8 cucharadita de cayena",
+    "1/2 cucharadita de pimienta blanca",
+    "2 cucharaditas de polvo de chile",
+    "3 cucharadas de azúcar moreno",
+    "1/2 taza de azúcar granulada",
+    "1 cucharadita de cúrcuma en polvo",
+    "1/2 cucharadita de pimienta negra",
+    "1/4 taza de sal"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Asegurarse de que los sabores se distribuyan uniformemente, mezclando bien.\n3. Espolvorear la carne o el pescado con el condimento antes de asar o ahumar.",
+  "url": null
+}

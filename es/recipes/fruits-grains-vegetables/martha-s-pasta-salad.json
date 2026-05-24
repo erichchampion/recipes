@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "martha-s-pasta-salad",
+  "name": "Ensalada de pasta de Martha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pasta",
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 lb de espagueti",
+    "1 cucharada de aceite de oliva",
+    "1 taza de pepino, cortado en cubos",
+    "1 pimiento rojo, picado",
+    "2 tomates enteros, cortados en cubos",
+    "18 onzas de salsa de tomate enlatada",
+    "8 onzas de aderezo italiano"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta durante 8 minutos.\n2. Escurrir y enfriar la pasta.\n3. Añadir aceite de oliva a la pasta fría.\n4. Mezclar los ingredientes restantes: salsa de tomate y aderezo italiano.\n5. Sazonar al gusto con cebolla y vinagre de vino tinto si se desea.",
+  "url": null
+}

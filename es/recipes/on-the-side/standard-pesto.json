@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "standard-pesto",
+  "name": "Pesto clásico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pesto",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 tazas de hojas de albahaca fresca",
+    "2 dientes de ajo, picados",
+    "2 onzas de piñones",
+    "Sal y pimienta al gusto",
+    "1/2 taza de queso parmesano rallado",
+    "1/2 taza de aceite de oliva"
+  ],
+  "recipeInstructions": "1. Coloca la albahaca, el ajo, los piñones y 1/2 cucharadita de sal en un procesador de alimentos.\n2. Procesa hasta obtener una pasta.\n3. Agrega el queso parmesano y procesa nuevamente hasta que esté bien mezclado.\n4. Con el procesador en marcha, añade lentamente el aceite de oliva.\n5. Ajusta la sazón al gusto.\n6. Transfiere el pesto a un bol.\nRinde: 1 taza generosa",
+  "url": null
+}

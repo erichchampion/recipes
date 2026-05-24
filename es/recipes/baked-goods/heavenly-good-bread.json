@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "heavenly-good-bread",
+  "name": "Pan celestialmente bueno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "2 g de levadura",
+    "2 1/4 tazas de harina de trigo para pan",
+    "6 onzas de agua tibia",
+    "3 cucharadas de miel",
+    "1 huevo",
+    "1 cucharada de azúcar",
+    "1/2 cucharadita de sal",
+    "3 cucharadas de polvo de buttermilk",
+    "2 cucharadas de mantequilla derretida"
+  ],
+  "recipeInstructions": "1. Coloca la levadura en un bol.\n2. Añade la harina y mezcla.\n3. Calienta el agua en el microondas.\n4. Mezcla la miel con el agua tibia, luego agrega el huevo y bate hasta que esté bien incorporado.\n5. En otro bol, combina el azúcar, la sal, el polvo de buttermilk y la mantequilla derretida.\n6. Vierte la mezcla líquida sobre los ingredientes secos.\n7. Inicia la máquina amasadora.",
+  "url": null
+}

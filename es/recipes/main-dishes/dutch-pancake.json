@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "dutch-pancake",
+  "name": "Tortitas holandesas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "tortitas"
+  ],
+  "recipeIngredient": [
+    "3 huevos, bien batidos",
+    "1/2 taza de harina",
+    "1/2 cucharadita de sal",
+    "1/2 taza de leche"
+  ],
+  "recipeInstructions": "1. Bate los huevos a fondo y añade la harina y la sal.\n2. Continúa batiendo y agrega la leche mientras sigues batiendo.\n3. Vierte en una sartén bien engrasada y hornea durante 25 minutos.\n4. Sirve con azúcar en polvo y jugo de limón.",
+  "url": null
+}

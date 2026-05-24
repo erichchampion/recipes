@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-fried-ice-cream",
+  "name": "French-Fried Ice Cream",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "ice cream"
+  ],
+  "recipeIngredient": [
+    "1 quart ice cream, vanilla",
+    "3 ounces almonds, slivered and finely ground",
+    "2 eggs, beaten",
+    "3/4 cup graham cracker crumbs"
+  ],
+  "recipeInstructions": "1. Preheat the oven to 350°F (175°C).\n2. In a large bowl, combine the ice cream, almond mixture, and egg mixture.\n3. Stir until well blended.\n4. Pour the mixture into greased muffin tins or ramekins.\n5. Bake for 20-25 minutes, or until set.\n6. Allow to cool completely before serving.",
+  "url": null
+}

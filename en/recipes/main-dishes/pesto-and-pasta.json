@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "pesto-and-pasta",
+  "name": "Pesto and Pasta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/4 pound Rotelle pasta",
+    "6 tablespoons pesto",
+    "2 cups tomato sauce",
+    "1/4 cup cream"
+  ],
+  "recipeInstructions": "1. Cook the Rotelle pasta according to package directions.\n2. Drain the cooked pasta and transfer it to a serving dish.\n3. Add 3 tablespoons of pesto to the pasta and toss until well coated.\n4. In a saucepan, combine the remaining pesto with the tomato sauce. Stir until fully mixed.\n5. Gradually add the cream to the mixture and stir well to ensure everything is combined.\n6. Pour the sauce over the pasta and serve.",
+  "url": null
+}

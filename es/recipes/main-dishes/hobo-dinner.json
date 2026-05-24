@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hobo-dinner",
+  "name": "Cena de vagabundo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "carne molida",
+    "plato principal",
+    "carne",
+    "cocina al aire libre"
+  ],
+  "recipeIngredient": [
+    "1/4 libra de carne molida",
+    "1 patata en rodajas",
+    "1 zanahoria en rodajas",
+    "2 cucharadas de cebolla picada",
+    "1 hoja de papel de aluminio resistente (18 x 25 cm)",
+    "Sal y pimienta - al gusto"
+  ],
+  "recipeInstructions": "1. Dar forma a la carne molida en una hamburguesa.\n2. Colocar la hamburguesa en el centro del papel de aluminio con las rodajas de patata, zanahoria y cebolla.\n3. Espolvorear sal y pimienta sobre los ingredientes si se desea.\n4. Doblar los bordes del papel de aluminio alrededor del contenido para sellarlo bien.\n5. Colocar la bolsa de papel de aluminio sellada en una bandeja para hornear.\n6. Hornear a 180°C durante 45 minutos.\n7. Abrir cuidadosamente el papel de aluminio después de hornear.",
+  "url": null
+}

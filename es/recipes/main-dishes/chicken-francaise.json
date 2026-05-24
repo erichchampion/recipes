@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-francaise",
+  "name": "Pollo Francesa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "pollo",
+    "étnico",
+    "francés"
+  ],
+  "recipeIngredient": [
+    "6 pechugas de pollo medianas",
+    "1/2 taza de vino blanco seco",
+    "340 g de sopa de champiñones en lata",
+    "3 oz (85 g) de champiñones laminados (1/2 taza)",
+    "1 pimiento rojo",
+    "1 taza de crema agria",
+    "Arroz cocido al vapor"
+  ],
+  "recipeInstructions": "1. Coloca las pechugas de pollo, con la piel hacia arriba, en un plato para hornear de 30 x 20 cm; espolvorea con sal.\n2. Mezcla el vino blanco con la sopa de champiñones y añade los champiñones. Vierte la mezcla sobre el pollo.\n3. Hornea a 175 °C durante 1 a 1 hora y 15 minutos.\n4. Retira el pollo a un plato; espolvorea con pimiento rojo.\n5. Vierte la salsa en una cacerola; incorpora la crema agria y calienta suavemente hasta que esté caliente.\n6. No hagas hervir o la salsa podría separarse.\n7. Sirve la salsa sobre el pollo y el arroz cocido al vapor.",
+  "url": null
+}

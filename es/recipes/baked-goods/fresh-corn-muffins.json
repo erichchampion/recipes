@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "fresh-corn-muffins",
+  "name": "Muffins de Maíz Fresco",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "diabético",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "1 taza de maicena de maíz blanca",
+    "1/2 taza de harina de uso general",
+    "1 cucharadita de polvo de hornear",
+    "1 cucharadita de sal",
+    "1 taza de maíz fresco, cortado en trozos de 1 pulgada",
+    "1 huevo, ligeramente batido",
+    "1/4 taza de aceite vegetal",
+    "1 taza de buttermilk"
+  ],
+  "recipeInstructions": "1. En un bol mediano, mezclar la maicena de maíz, la harina, el polvo de hornear y la sal.\n2. Agregar el maíz fresco, el huevo, el aceite vegetal y el buttermilk a los ingredientes secos. Revolver hasta combinar bien.\n3. Verter la masa uniformemente en 8 moldes para muffins antiadherentes.\n4. Hornear a 245 °F (475 °F) durante 20-25 minutos o hasta que estén doradas.",
+  "url": null
+}

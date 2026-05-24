@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cake-mix-cookies",
+  "name": "Galletas de mezcla de bizcocho",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "galletas",
+    "postres",
+    "ronda robota"
+  ],
+  "recipeIngredient": [
+    "1 paquete de mezcla de pastel (cualquier sabor)",
+    "2 huevos",
+    "1/2 taza de aceite vegetal"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 °F (175 °C).\n2. Mezclar todos los ingredientes hasta que estén bien combinados.\n3. Colocar cucharadas redondeadas sobre una bandeja para galletas sin engrasar.\n4. Hornear durante 9-12 minutos. Rinde aproximadamente 4 docenas de galletas.",
+  "url": null
+}

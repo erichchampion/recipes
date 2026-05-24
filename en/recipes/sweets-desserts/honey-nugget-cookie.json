@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "honey-nugget-cookie",
+  "name": "Honey Nugget Cookie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 cup Shortening",
+    "1 cup Brown Sugar",
+    "1 cup Honey",
+    "1 tsp Baking Powder",
+    "1 tsp Baking Soda",
+    "1 tsp Cinnamon",
+    "3 Cups Flour",
+    "3 Cups Oats",
+    "2 Eggs"
+  ],
+  "recipeInstructions": "Preheat the oven to 350 degrees.\nCombine the shortening, brown sugar, honey, and eggs in a bowl. Mix well.\nGradually stir in the remaining ingredients until fully incorporated.\nScoop spoonfuls of dough onto an ungreased cookie sheet.\nBake for 10-12 minutes at 350 degrees.",
+  "url": null
+}

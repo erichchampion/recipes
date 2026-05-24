@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "carrot-bisque",
+  "name": "Sopa de Zanahoria",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "5 rebanadas de tocino, picado",
+    "1 libra de zanahorias, peladas y picadas",
+    "6 cebolletas verdes, picadas",
+    "1 taza de setas, picadas",
+    "3 tallos de apio, picados",
+    "2 ramitas de tomillo fresco",
+    "1 hoja de laurel",
+    "4 tazas de caldo de pollo",
+    "1 taza de agua",
+    "1 taza de crema espesa",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. En una olla con tapa, saltea el tocino a fuego medio-alto hasta que esté crujiente. Añade las zanahorias, cebolletas, setas y apio. Cocina, sin cubrir, durante 5 minutos. Agrega el tomillo, la hoja de laurel, el caldo de pollo y el agua. Lleva a ebullición. Reduce el fuego, tapa y deja cocinar a fuego lento durante 50 minutos.\n2. Retira la hoja de laurel. Coloca la sopa en un procesador de alimentos y tritura hasta obtener una textura suave. Devuelve la mezcla a la olla sobre fuego bajo. Añade la crema, sal y pimienta al gusto. Calienta hasta que esté tibia.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "that-cherry-stuff",
+  "name": "Esa cosa de cerezas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "postres",
+    "frutas",
+    "legumbres"
+  ],
+  "recipeIngredient": [
+    "1 lata (400 g) de relleno de tarta de cerezas",
+    "1 tubo (250 g) de crema batida congelada, descongelada",
+    "1 lata (397 g) de leche condensada dulce",
+    "1 lata (340 g) de piña triturada, escurrida",
+    "1 taza de nueces picadas (al gusto)"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar el relleno de tarta de cerezas, la crema batida, la leche condensada y la piña triturada.\n2. Revolver hasta que todos los ingredientes estén bien combinados.\n3. Transferir la mezcla a un bol para servir o a cuencos individuales.\n4. Refrigerar antes de servir.",
+  "url": null
+}

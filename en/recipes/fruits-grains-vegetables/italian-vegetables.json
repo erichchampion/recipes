@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-vegetables",
+  "name": "Italian Vegetables",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "italian",
+    "rice",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "3/4 cup Rice",
+    "1/4 teaspoon Salt",
+    "2 cups Water",
+    "6 tablespoons Oil",
+    "2 tablespoons White Wine Vinegar",
+    "2 tablespoons Soy Sauce",
+    "1/4 teaspoon Pepper",
+    "1/4 teaspoon Turmeric",
+    "1/4 pound Spinach",
+    "1/2 cup Sliced Green Onion",
+    "4 Crumbled Bacon Crumbles"
+  ],
+  "recipeInstructions": "1. Bring a pot of salted water to a boil. Add rice and cook, covered, until the rice is tender (about 18-20 minutes). Drain.\n2. In a bowl, mix oil, white wine vinegar, soy sauce, pepper, and turmeric.\n3. Stir the mixture into the warm rice.\n4. Tear spinach into small pieces.\n5. Toss spinach, sliced green onion, and crumbled bacon into the rice.\n6. Serve as a cold salad or warm side dish.",
+  "url": null
+}

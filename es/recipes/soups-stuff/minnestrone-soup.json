@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "minnestrone-soup",
+  "name": "Sopa Minnestrone",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "italiano",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne picada de res",
+    "1 taza de cebolla picada",
+    "1 cucharadita de ajo picado",
+    "1/4 cucharadita de pimienta negra",
+    "1 lata de caldo de carne",
+    "2 latas de agua",
+    "3 cucharaditas de base de sopa de carne (aprox.)",
+    "1 1/2 cucharaditas de mezcla de hierbas italianas O",
+    "1/2 cucharadita cada una de orégano, albahaca, tomillo y romero frescos.",
+    "1 lata de tomates enteros (400g), picados en trozos",
+    "8 onzas de frijoles rojos (225g), escurridos",
+    "1 1/2 taza de zanahorias cortadas",
+    "1 taza de guisantes verdes congelados",
+    "1 taza de lima (frijol blanco) congelado",
+    "1 taza de macarrones pequeños"
+  ],
+  "recipeInstructions": "1. Dorar la carne picada, la cebolla, el ajo y la pimienta en una olla.\n2. Agregar el resto de los ingredientes (excepto los macarrones) a una olla y cocinar por al menos 20 minutos.\n3. Incorporar los macarrones y cocinar hasta que estén tiernos.\n4. Si se dispone de hierbas frescas, usarlas; realzarán mucho el sabor de la sopa.",
+  "url": null
+}

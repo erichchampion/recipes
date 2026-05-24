@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "hunter-s-venison-sausage",
+  "name": "Salsicha de Ciervo del Cazador",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "embutidos"
+  ],
+  "recipeIngredient": [
+    "4 libras de carne molida de ciervo",
+    "4 libras de carne molida de cerdo",
+    "2 cucharadas de sal",
+    "2 cucharaditas de pimienta negra",
+    "3/4 cucharadita de nuez moscada",
+    "1/4 cucharadita de jengibre en polvo",
+    "1/4 cucharadita de clavo de olor",
+    "1/2 cucharadita de especias mixtas (allspice)",
+    "1/2 cucharadita de ajo en polvo"
+  ],
+  "recipeInstructions": "1. Mezclar la carne molida de ciervo y cerdo.\n2. Agregar aproximadamente 1/2 taza de agua caliente a la mezcla hasta obtener la consistencia deseada para rellenar las salchichas.\n3. Incorporar gradualmente las especias, asegurándose de que queden bien distribuidas en la mezcla de carne.",
+  "url": null
+}

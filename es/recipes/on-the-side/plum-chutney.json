@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "plum-chutney",
+  "name": "Chutney de ciruela",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimento",
+    "encurtidos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "25 libras de ciruelas",
+    "8 libras de cebollas",
+    "4 libras de manzanas",
+    "5 libras de pasas",
+    "8 tazas de azúcar moreno",
+    "7 tazas de vinagre blanco",
+    "2 trozos de jengibre fresco",
+    "7 cucharaditas de mostaza en polvo",
+    "7 cucharaditas de polvo de curry",
+    "7 cucharaditas de sal"
+  ],
+  "recipeInstructions": "1. Cocinar todos los ingredientes excepto el azúcar moreno.\n2. Añadir el azúcar moreno y remover hasta su completa disolución.\n3. Continuar cocinando hasta alcanzar la consistencia deseada, luego embotellar el chutney.",
+  "url": null
+}

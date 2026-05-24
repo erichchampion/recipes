@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "greek-salad",
+  "name": "Greek Salad",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "ethnic",
+    "greek",
+    "pasta",
+    "salads"
+  ],
+  "recipeIngredient": [
+    "3 pounds bow tie noodles",
+    "3 pints cherry tomatoes, seeded and halved",
+    "1 1/2 pounds feta cheese",
+    "1 1/2 cans black olives, sliced",
+    "10 ounces spinach, torn",
+    "2 cups olive oil",
+    "1 teaspoon minced garlic",
+    "1 lemon, juiced",
+    "1/2 cup red wine vinegar",
+    "oregano to taste",
+    "salt and pepper to taste"
+  ],
+  "recipeInstructions": "1. Cook bow tie noodles according to package directions, then drain and cool.\n2. Whisk together olive oil, minced garlic, juice from 1 lemon, and 1/2 cup red wine vinegar until slightly thickened.\n3. Mix the dressing into the cooled pasta.\n4. Slice black olives, halve cherry tomatoes, and tear spinach into bite-sized pieces.\n5. Add the prepared vegetables to the pasta mixture.\n6. Crumble feta cheese into the salad and gently mix.\n7. Season with oregano, salt, and pepper to taste.",
+  "url": null
+}

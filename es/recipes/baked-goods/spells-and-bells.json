@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "spells-and-bells",
+  "name": "Hechizos y Campanas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 sobre de levadura seca activa",
+    "1/4 taza de agua tibia (110 grados)",
+    "2 huevos",
+    "1 taza de crema batida",
+    "1 cucharadita de vainilla",
+    "1/3 taza de azúcar",
+    "3 1/2 tazas de harina",
+    "1 cucharada de polvo de hornear",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Disolver la levadura en el agua tibia.\n2. Batir juntos los huevos, crema, vainilla y azúcar hasta que estén ligeros y esponjosos.\n3. Incorporar la levadura disuelta.\n4. Mezclar los ingredientes secos; amasar hasta obtener una masa suave y fácil de manejar para extenderla.\n5. Dividir la masa en dos mitades.\n6. Estirar ambas mitades a 1/3 cm de grosor sobre una superficie enharinada.\n7. Cortar con cortadores de galletas navideñas (estrella, campana, árbol, etc.).\n8. Freír en aceite profundo a 175 grados Celsius hasta que estén dorados.\n9. Escurrir sobre papel absorbente.\n10. Servir simples, espolvoreados con azúcar o glaseados.",
+  "url": null
+}

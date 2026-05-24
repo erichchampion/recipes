@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "gumbo-vegan",
+  "name": "Gumbo Vegano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 cebolla mediana, picada",
+    "1 pimiento verde, cortado en dados",
+    "1 tallo de apio, picado",
+    "2 tazas de okra, cortada en rodajas (fresca o congelada)",
+    "Sal y pimienta al gusto",
+    "1 lata de tomates triturados con sabor a italiano",
+    "1 cucharadita de polvo de ajo",
+    "1 cucharada de salsa Tabasco",
+    "1 taza de maíz entero, fresco o congelado"
+  ],
+  "recipeInstructions": "1. Saltea la cebolla, el pimiento verde y el apio en un poco de agua hasta que estén tiernos.\n2. Añade el resto de los ingredientes e hierve.\n3. Reduce el fuego y deja cocinar a fuego lento durante 10 minutos.\n4. Sirve sobre arroz si se desea para una comida principal.",
+  "url": null
+}

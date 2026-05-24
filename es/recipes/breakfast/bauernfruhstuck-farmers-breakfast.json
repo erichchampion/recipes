@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "bauernfruhstuck-farmers-breakfast",
+  "name": "Desayuno de granjero",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "alemán",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "4 patatas medianas",
+    "1/2 cucharadita de sal",
+    "4 lonchas o cubos de tocino",
+    "1 taza de jamón cocido cortado en cubitos",
+    "3 huevos grandes",
+    "2 tomates medianos, pelados",
+    "3 cucharadas de leche",
+    "1 cucharada de cebollino picado"
+  ],
+  "recipeInstructions": "1. Hierve las patatas sin pelar durante 30 minutos.\n2. Enjuaga bajo agua fría, pela y deja enfriar.\n3. Corta las patatas en rodajas.\n4. En una sartén grande, cocina el tocino hasta que esté transparente.\n5. Añade las rodajas de patata; cocina hasta que estén ligeramente doradas.\n6. Mientras tanto, bate los huevos con la leche y la sal en un bol.\n7. Mezcla el jamón en cubos.\n8. Corta los tomates en gajos finos y añádelos a la mezcla de huevo.\n9. Vierte la mezcla de huevo sobre las patatas en la sartén.\n10. Cocina hasta que los huevos estén cuajados.\n11. Espolvorea con cebollino picado y sirve inmediatamente.",
+  "url": null
+}

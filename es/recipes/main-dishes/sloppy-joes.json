@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "sloppy-joes",
+  "name": "Joes desaliñados",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 cucharadita de sal",
+    "1/2 cucharadita de ralladura de limón",
+    "500 g de carne de res magra (85%) molida dos veces",
+    "1/4 taza de salsa Tabasco",
+    "1/4 taza de cebolla finamente picada",
+    "3/4 taza de caldo de carne",
+    "3/4 taza de apio con hojas, finamente picado",
+    "1/2 cucharadita de mostaza en polvo finamente molida",
+    "1/4 taza de pimiento verde finamente picado"
+  ],
+  "recipeInstructions": "1. Agregar la sal a la carne.\n2. Extender la carne en una sartén grande y seca a fuego medio-alto.\n3. Revolar con un tenedor hasta que la carne cambie de color por completo y se forme grasa líquida en el fondo.\n4. Añadir la cebolla, el apio y el pimiento verde. Revolver y cocinar 1-2 minutos.\n5. Mezclar todos los ingredientes restantes con la carne y mezclar bien.\n6. Llevar a ebullición, tapar, reducir el fuego a bajo y dejar cocer a fuego lento durante 15-20 minutos, revolviendo frecuentemente hasta que esté cocido y bien mezclado.",
+  "url": null
+}

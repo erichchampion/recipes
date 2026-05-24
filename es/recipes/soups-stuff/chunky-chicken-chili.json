@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "chunky-chicken-chili",
+  "name": "Guiso de Pollo Grosero",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "aves de corral",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 libra de pechuga de pollo, cortada en trozos pequeños",
+    "1 taza de cebolla picada",
+    "1/2 taza de apio en rodajas",
+    "1/2 taza de zanahorias en rodajas",
+    "2 dientes de ajo picados",
+    "2 tazas de salsa de tomate fresca (ver receta posterior)",
+    "2 latas de tomates (800 g cada una)",
+    "2 latas de agua (400 g cada una)",
+    "3 cucharaditas de comino en polvo",
+    "1/2 cucharadita de cúrcuma",
+    "1/3 de bolsa de garbanzos remojados",
+    "1 pimiento verde picado",
+    "4 cubos de caldo de pollo"
+  ],
+  "recipeInstructions": "1. Dorar el pollo, la cebolla y el ajo en una olla grande.\n2. Agregar todos los tomates, agua y garbanzos a la olla. Reducir el fuego y cocinar a fuego lento durante 30 minutos.\n3. Incorporar todos los demás ingredientes y cocinar a fuego lento hasta que los garbanzos y las verduras estén tiernos.",
+  "url": null
+}

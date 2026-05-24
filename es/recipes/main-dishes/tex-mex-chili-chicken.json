@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "tex-mex-chili-chicken",
+  "name": "Pollo Chili Tex-Mex",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "chili",
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "1 lb de pechuga de pollo, cortada en trozos",
+    "1 bolsa de arroz instantáneo, preparada",
+    "1 cucharada de aceite de cocina",
+    "1 pizca de salsa Tabasco (o al gusto)",
+    "1 cebolla mediana, picada",
+    "3/4 taza de queso Jack rallado",
+    "1 pimiento verde, picado finamente",
+    "1 lata de chili sin frijoles (15 oz.)",
+    "1 pimiento rojo, picado finamente",
+    "1 lata de tomates estofados al estilo mexicano",
+    "1 diente de ajo, picado"
+  ],
+  "recipeInstructions": "1. En una sartén grande, saltea el pollo en aceite hasta que ya no esté rosado; reserva.\n2. En la misma sartén, cocina la cebolla, los pimientos y el ajo hasta que estén tiernos.\n3. Escurre cualquier líquido excesivo del chili y los tomates estofados.\n4. Mezcla el chili, los tomates y la salsa de pimiento rojo en la sartén.\n5. Coloca el pollo sobre la mezcla.\n6. Reduce el fuego y deja cocinar a fuego lento durante diez minutos.\n7. Espolvorea con queso Jack rallado.",
+  "url": null
+}

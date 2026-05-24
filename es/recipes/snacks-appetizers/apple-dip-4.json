@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-dip-4",
+  "name": "Dip de manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de maní picado",
+    "1/2 taza de azúcar morena",
+    "1 cucharadita de extracto de vainilla",
+    "8 onzas de queso crema"
+  ],
+  "recipeInstructions": "1. Mezclar en un bol el maní picado, el azúcar morena y el extracto de vainilla.\n2. Agregar gradualmente el queso crema a la mezcla y remover hasta que esté bien combinado.\n3. Servir con rodajas de manzana.",
+  "url": null
+}

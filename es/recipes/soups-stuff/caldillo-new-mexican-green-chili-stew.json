@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "caldillo-new-mexican-green-chili-stew",
+  "name": "Caldillo de Chile Verde (Estofado de Chiles Verdes Nuevo Mexicano)",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "plato principal",
+    "mexicano",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne de res magra redonda o cerdo",
+    "2 cucharadas de aceite",
+    "3 papas medianas, cortadas en cubos",
+    "1/2 taza de cebolla, en rodajas",
+    "1 diente de ajo grande, picado",
+    "2 cucharaditas de sal",
+    "6 chiles verdes"
+  ],
+  "recipeInstructions": "1. Cortar la carne en cubos y sazonar con sal. Freír hasta que esté dorada en el aceite.\n2. Añadir las papas al carne frita junto con la cebolla, el ajo, la sal y los chiles. Verter suficiente agua para cubrir los ingredientes.\n3. Seguir añadiendo agua si es necesario. El guiso tendrá una consistencia de sopa.",
+  "url": null
+}

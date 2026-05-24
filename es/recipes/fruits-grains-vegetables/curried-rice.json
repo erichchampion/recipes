@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "curried-rice",
+  "name": "Arroz curry",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "asiático",
+    "chino",
+    "étnico"
+  ],
+  "recipeIngredient": [
+    "2 tazas de arroz basmati blanco o marrón",
+    "1/4 cucharadita de canela en polvo",
+    "1/8 cucharadita de cardamomo molido (o semillas de vainas de cardamomo, machacadas)",
+    "1/2 cucharadita de cúrcuma",
+    "1 cucharadita de sal",
+    "1/2 taza de almendras laminadas",
+    "1/2 taza de pasas",
+    "4 tazas de agua hirviendo",
+    "1 taza de guisantes verdes, frescos o congelados"
+  ],
+  "recipeInstructions": "1. Tostar el arroz en una sartén grande a fuego medio hasta que comience a volverse opaco y adquiera un aspecto algo harinoso.\n2. Añadir los ingredientes restantes, excepto los guisantes, y llevar a ebullición.\n3. Cubrir la olla y cocinar hasta que el arroz esté tierno y se haya absorbido todo el agua (20 minutos para el arroz blanco, 60 minutos para el arroz marrón).\n4. Incorporar los guisantes justo antes de servir (un par de minutos antes si se usan guisantes frescos).\n5. Servir para 6-8 personas.",
+  "url": null
+}

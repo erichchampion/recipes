@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "salad-pizza",
+  "name": "Salad Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 12-inch prepared pizza shell (see Note)",
+    "4 ounces mixed baby greens",
+    "10 ounces chicken, cooked and sliced",
+    "1/4 cup Caesar dressing"
+  ],
+  "recipeInstructions": "1. Place the pizza shell on a pizza pan or platter.\n2. Top with the greens.\n3. Cover the greens with the chicken.\n4. Drizzle with the dressing.\n5. Slice and serve.\nYields: 6 to 8 slices\nNotes: If using a frozen pizza shell, thaw it and bake in a 450°F oven for 8-10 minutes before adding toppings. A ready-to-top Boboli crust is recommended for extra seasonings and cheese.",
+  "url": null
+}

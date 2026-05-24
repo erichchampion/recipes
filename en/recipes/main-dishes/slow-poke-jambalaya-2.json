@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "slow-poke-jambalaya-2",
+  "name": "Slow-Poke Jambalaya",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "mexican",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "1 bell pepper, chopped",
+    "1 onion, chopped",
+    "2 medium tomatoes, chopped",
+    "1 cup celery, chopped",
+    "1 clove garlic, crushed",
+    "2 tablespoons parsley, minced",
+    "2 teaspoons thyme leaves, chopped",
+    "2 teaspoons oregano leaves, chopped",
+    "1/8 teaspoon cayenne",
+    "1/2 teaspoon salt",
+    "4 ounces smoked sausage, chopped",
+    "8 ounces chicken breast, chopped",
+    "2 cups beef broth or bouillon",
+    "1 cup cooked rice"
+  ],
+  "recipeInstructions": "1. Shell shrimp and halve lengthwise.\n2. In a slow cooker, combine all ingredients except shrimp and rice.\n3. Cover and cook on low for 9-10 hours.\n4. Turn the slow cooker to high and add cooked shrimp and rice.\n5. Cover; cook on high for 20-30 minutes.",
+  "url": null
+}

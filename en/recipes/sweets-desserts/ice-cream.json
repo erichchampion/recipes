@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "ice-cream",
+  "name": "Ice Cream",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "ice cream"
+  ],
+  "recipeIngredient": [
+    "1 quart Half and Half",
+    "3 cups Half and Half",
+    "1½ cups Sugar",
+    "3 tablespoons Vanilla",
+    "2 Eggs",
+    "¼ teaspoon Salt"
+  ],
+  "recipeInstructions": "1. Beat the eggs in a bowl until well combined.\n2. Gradually add sugar, mixing continuously.\n3. Stir in the remaining ingredients: half and half, vanilla, and salt.\n4. Pour the mixture into an ice cream freezer container and freeze according to the manufacturer's instructions.\n5. Yield: Approximately 2.5 quarts of ice cream.",
+  "url": null
+}

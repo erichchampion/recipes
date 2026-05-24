@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tuna-pesto-pasta",
+  "name": "Tuna con Pesto y Pasta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "granos",
+    "plato principal",
+    "pasta",
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de guisantes congelados, descongelados",
+    "2 tazas de pasta en forma de espiral cocida",
+    "6 onzas de atún en agua, escurrido y desmenuzado",
+    "1/4 taza de mayonesa sin grasa",
+    "1/2 taza de pesto",
+    "1/2 taza de queso parmesano sin grasa"
+  ],
+  "recipeInstructions": "1. Preparar las verduras y la pasta en espiral según las instrucciones del paquete.\n2. En una sartén, combinar las verduras, la pasta, el atún, la mayonesa y el pesto. Calentar hasta que se caliente todo.",
+  "url": null
+}

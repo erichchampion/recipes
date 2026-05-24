@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "delicious-nut-cookies",
+  "name": "Galletas de Nueces Deliciosas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de mantequilla",
+    "3 huevos",
+    "1 taza de azúcar",
+    "3 1/4 tazas de harina",
+    "1 cucharadita de canela",
+    "1 cucharadita de bicarbonato de sodio",
+    "1/2 cucharadita de sal",
+    "1/2 taza de nueces picadas",
+    "1/2 taza de pasas cortadas",
+    "1/2 taza de arándanos"
+  ],
+  "recipeInstructions": "1. Batir la mantequilla y el azúcar gradualmente.\n2. Agregar los huevos uno a la vez, mezclando bien después de cada adición.\n3. Disolver el bicarbonato en agua caliente y añadirlo a la mezcla.\n4. Incorporar la mitad de la harina, mezclada con la canela y la sal.\n5. Añadir las nueces, pasas, arándanos y la harina restante.\n6. Colocar por cucharadas sobre bandejas engrasadas.\n7. Hornear a 350°F durante unos 15 minutos.\n8. Sustituir otras nueces si se desea.",
+  "url": null
+}

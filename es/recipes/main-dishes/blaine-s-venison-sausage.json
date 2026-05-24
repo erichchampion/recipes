@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "blaine-s-venison-sausage",
+  "name": "Salchicha de ciervo de Blaine",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "embutidos"
+  ],
+  "recipeIngredient": [
+    "6 libras de carne molida de ciervo",
+    "6 libras de carne de cerdo magra molida",
+    "2 cucharadas de sal",
+    "2 cucharadas de pimienta negra",
+    "1/2 cucharadita de pimienta cayena",
+    "1/2 cucharadita de tomillo",
+    "1/2 taza de miel"
+  ],
+  "recipeInstructions": "1. Mezclar bien el ciervo, el cerdo y agua caliente hasta obtener una masa homogénea.\n2. Incorporar las especias y la miel a la mezcla y mezclar bien.",
+  "url": null
+}

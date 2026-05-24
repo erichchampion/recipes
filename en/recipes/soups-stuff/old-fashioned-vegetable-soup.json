@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "old-fashioned-vegetable-soup",
+  "name": "Old Fashioned Vegetable Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "beef",
+    "soups",
+    "soups/stews",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "1 cup Onion, chopped",
+    "1/4 teaspoon Basil, crushed",
+    "1 cup Potato, raw, diced",
+    "1/4 teaspoon Thyme, crushed",
+    "1 cup Carrots, sliced",
+    "1 bay leaf",
+    "1/4 teaspoon Pepper",
+    "32 ounces Tomatoes, whole, coarsely chopped",
+    "2 tablespoons Beef bouillon, instant",
+    "7 ounces Corn, can, undrained",
+    "8 1/2 ounces Green beans, can, undrained",
+    "8 1/2 ounces Peas, small, can, drained"
+  ],
+  "recipeInstructions": "1. Brown beef and onion.\n2. Drain the tomatoes.\n3. Add all ingredients except canned vegetables to a pot.\n4. Simmer for 30 minutes.\n5. Add the canned vegetables and heat through.",
+  "url": null
+}

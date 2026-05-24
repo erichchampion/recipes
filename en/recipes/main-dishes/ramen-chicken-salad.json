@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "ramen-chicken-salad",
+  "name": "Ramen Chicken Salad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry",
+    "ramen",
+    "salad",
+    "uucp"
+  ],
+  "recipeIngredient": [
+    "3 pounds shredded cabbage",
+    "1 bunch green onions, chopped",
+    "1 pound seasoned diced chicken",
+    "2 ounces sliced almonds",
+    "2 packages of chicken ramen (save seasoning packets for dressing)",
+    "1 ounce toasted sesame seeds"
+  ],
+  "recipeInstructions": "1. Mix together the shredded cabbage, chopped green onions, diced chicken, sliced almonds, and cooked ramen noodles.\n2. Sprinkle toasted sesame seeds over the mixture.\n3. In a small bowl, combine 1/3 cup oil, 1 cup red wine vinegar, 2 seasoning packets from the ramen, 1/4 cup soy sauce, salt, pepper, and sugar to taste.\n4. Pour the dressing over the salad mixture and toss well to combine all ingredients.",
+  "url": null
+}

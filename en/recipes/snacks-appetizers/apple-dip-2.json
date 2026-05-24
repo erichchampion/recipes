@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-dip-2",
+  "name": "Apple Dip",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "dips",
+    "snacks",
+    "spreads"
+  ],
+  "recipeIngredient": [
+    "8 oz Cream Cheese, softened",
+    "2 Med Apples, chopped",
+    "1 T Lemon Juice",
+    "1/2 cup Mayonnaise",
+    "1/2 cup Chopped walnuts"
+  ],
+  "recipeInstructions": "1. Blend together cheese and mayonnaise.\n2. Add apples, nuts, and lemon juice.\n3. Serve with crackers.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cocoa-raisin-bread",
+  "name": "Pan de pasas con cacao",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 taza de agua o agua de patata",
+    "1 cucharadita de sal",
+    "1,5 cucharadas de aceite de girasol",
+    "3 tazas de harina de trigo para pan",
+    "3 cucharadas de leche en polvo sin grasa",
+    "3 cucharadas de azúcar",
+    "3 cucharadas de cacao en polvo",
+    "1 cucharadita de levadura seca",
+    "1/2 taza de pasas"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes, excepto las pasas, en la máquina panificadora en el orden recomendado por el fabricante.\n2. Añade las pasas cuando la máquina emita una señal acústica.\n3. Programa el ciclo para preparar pan blanco con una corteza ligera.",
+  "url": null
+}

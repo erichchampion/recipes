@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-parmigiana",
+  "name": "Parecido al Parmigiana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "italiana",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "4 lb de carne molida",
+    "4 huevos",
+    "Sal al gusto",
+    "Sal de cebolla al gusto",
+    "Pimienta negra al gusto",
+    "1 1/2 tazas de migas de pan sazonadas (usé)",
+    "1/3 taza de queso Parmesano rallado",
+    "Salsa:",
+    "3 latas pequeñas de salsa de tomate",
+    "Condimento para espagueti al gusto",
+    "Sal de cebolla al gusto",
+    "1 cucharadita de salsa Worcestershire",
+    "1 cebolla grande, en rodajas",
+    "8 oz de setas, escurridas",
+    "2 tazas de queso mozzarella rallado"
+  ],
+  "recipeInstructions": "Rinde para 8 personas\nMezclar los siete primeros ingredientes y darles forma a las albóndigas.\nReservar. Para preparar la salsa, saltear las rodajas de cebolla en 3 cucharadas de mantequilla o margarina hasta que estén suaves. Añadir el resto de los ingredientes para la salsa. Colocar las albóndigas en una bandeja para hornear grande en una sola capa y verter la salsa encima. Cubrir la bandeja con papel aluminio y hornear a 375°F durante una hora. Después de hornear, retirar el papel aluminio, espolvorear cada albóndiga generosamente con el queso mozzarella y devolver al horno hasta que se derrita el queso.",
+  "url": null
+}

@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "yellow-rice",
+  "name": "Yellow Rice",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "asian",
+    "ethnic",
+    "indian",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "3 tbsp Ghee",
+    "1 medium Onion, chopped",
+    "1/2 tsp Turmeric",
+    "2 Bay leaves",
+    "4 Cloves",
+    "4 Black peppercorns",
+    "2 2-inch cinnamon sticks",
+    "2 Black cardamom pods",
+    "2 cup Brown rice, presoaked",
+    "3/4 cup Water",
+    "3 tbsp Green peas",
+    "1 t Salt",
+    "1 pinch Saffron"
+  ],
+  "recipeInstructions": "1. Heat ghee in a skillet over medium heat.\n2. Saute onion until golden; set aside some for garnish.\n3. Add turmeric to the skillet and stir briefly.\n4. Add the remaining spices (bay leaves, cloves, peppercorns, cinnamon sticks, cardamom pods) and mix well.\n5. Stir in the rice and add water; mix thoroughly.\n6. Bring to a boil, then reduce heat.\n7. Mix in green peas and salt; cover and cook for 10–15 minutes.\n8. Sprinkle with saffron and reserved sauteed onion.\n9. Serve hot.",
+  "url": null
+}

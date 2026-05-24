@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheeseburger-macaroni",
+  "name": "Cheeseburger Macaroni",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 cup mostaccioli or elbow macaroni, uncooked",
+    "1 pound ground beef",
+    "1 medium onion, chopped",
+    "1 can stewed tomatoes",
+    "1/4 cup ketchup",
+    "1 cup shredded cheddar cheese"
+  ],
+  "recipeInstructions": "1. Cook pasta according to package directions until al dente. Drain and set aside.\n2. In a large skillet over medium heat, brown the ground beef with chopped onion until no longer pink. Season with salt and pepper if desired.\n3. Add stewed tomatoes and ketchup to the skillet. Stir to combine.\n4. Pour in the cooked pasta and mix well to coat evenly.\n5. Top with shredded cheddar cheese. Garnish if desired.",
+  "url": null
+}

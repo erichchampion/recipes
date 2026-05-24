@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "crock-pot-enchiladas",
+  "name": "Crock Pot Enchiladas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "1 pound hamburger",
+    "1 onion, chopped",
+    "1 can (4.5 oz) chopped chilies",
+    "1 can mild enchilada sauce",
+    "10.5 ounces golden mushroom soup",
+    "10.5 ounces Cheddar cheese soup",
+    "10.5 ounces cream of mushroom soup",
+    "10.5 ounces cream of celery soup",
+    "1 package Dorito chips"
+  ],
+  "recipeInstructions": "1. Brown the hamburger and onion, then discard the grease.\n2. Add all ingredients (except Dorito chips) to the crock pot.\n3. Cook on low for 4 to 6 hours.\n4. During the last 15 minutes before serving, add the Dorito chips and stir gently.",
+  "url": null
+}

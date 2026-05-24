@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "fast-foods-lunch",
+  "name": "Fast Foods: Lunch",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetic",
+    "special diets"
+  ],
+  "recipeIngredient": [
+    "KFC Original Recipe Chicken (1 Drumstick): 9g total fat, 2 medium-fat meat exchanges",
+    "McDonald's Hamburger: 1 fat exchange, 1 medium-fat meat exchange, 2 carbohydrate exchanges",
+    "McDonald's French Fries (one small order): 2 fat exchanges, 2 carbohydrate exchanges",
+    "Wendy's Grilled Chicken Sandich: 3 lean meat exchanges, 2 carbohydrate exchanges",
+    "Pizza Hut Hand-Tossed Pepperoni Pizza (1 medium slice): 1 fat exchange, 1 medium-fat meat exchange, 2 carbohydrate exchanges",
+    "Taco Bell Taco Supreme: 1 fat exchange, 1 carbohydrate exchange, 1 medium-fat meat exchange",
+    "Subway 6-Inch Cold Roast Beef Sub: 2 lean meat exchanges, 3 carbohydrate exchanges"
+  ],
+  "recipeInstructions": "1. Review the nutrition information for each fast food option, including total calories, total fat, saturated fat, sodium, carbohydrates, and any specific dietary exchanges.\n2. Consider incorporating these options into a balanced meal plan based on your nutritional needs.\n3. Be mindful of portion sizes and any additional toppings or sides that may increase calorie content.\n4. Use the provided information to make informed choices when selecting fast food items for lunch or other meals.",
+  "url": null
+}

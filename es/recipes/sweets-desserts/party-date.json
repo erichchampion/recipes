@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "party-date",
+  "name": "Fecha de Fiesta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3 tazas de dátiles, cortados",
+    "1 1/2 tazas de manteca (shortening)",
+    "3 tazas de agua hirviendo",
+    "6 huevos",
+    "3 cucharaditas de bicarbonato de sodio",
+    "3 cucharadas de cacao en polvo",
+    "4 tazas de azúcar",
+    "4 1/2 tazas de harina",
+    "1 taza de nueces picadas",
+    "2 tazas de trozos de chocolate"
+  ],
+  "recipeInstructions": "1. Mezclar los dátiles con el agua hirviendo en un bol hasta enfriar.\n2. En otro bol, combinar el azúcar, la manteca, los huevos, el cacao y la harina.\n3. Añadir el bicarbonato de sodio a la mezcla de dátiles y remover hasta que esté bien incorporado.\n4. Verter la masa en dos moldes para pan engrasados.\n5. Espolvorear la parte superior con azúcar, nueces picadas y trozos de chocolate.\n6. Hornear a 175 °C durante 45-50 minutos.\n7. Enfriar, cortar en rebanadas y servir caliente. Se puede decorar con crema batida si se desea.",
+  "url": null
+}

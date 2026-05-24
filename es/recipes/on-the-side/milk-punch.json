@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "milk-punch",
+  "name": "Punch de Leche",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "esencia de Emeril",
+    "batido",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz de brandy",
+    "1/2 oz de jarabe simple",
+    "1 oz de media crema (half and half)",
+    "2 oz de leche"
+  ],
+  "recipeInstructions": "1. Medir todos los ingredientes en un agitador de cócteles.\n2. Añadir el brandy, extracto de vainilla, jarabe simple, media crema y leche al agitador.\n3. Llenar el agitador con cubitos de hielo.\n4. Agitar vigorosamente durante unos 15 segundos hasta enfriar.\n5. Colar la mezcla en un vaso para cóctel.\n6. Espolvorear la parte superior del batido con nuez moscada recién rallada.\n7. Servir inmediatamente.\nRinde: 1 ración",
+  "url": null
+}

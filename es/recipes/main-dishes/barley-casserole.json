@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "barley-casserole",
+  "name": "Cazuela de cebada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "4 cucharadas de mantequilla",
+    "2 cebollas medianas, picadas",
+    "150 g de setas, laminadas",
+    "1 1/2 tazas de cebada perlada",
+    "3 tazas de caldo de pollo o de carne",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "Para decorar: perejil picado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180 °C.\n2. Derrir la mantequilla en un guiso grande.\n3. Saltear las cebollas durante 2 minutos a fuego medio.\n4. Añadir las setas y saltear durante 5-7 minutos más.\n5. Incorporar la cebada y cocinar hasta que esté ligeramente dorada.\n6. Mezclar 2 tazas de caldo, sal y pimienta.\n7. Llevar a ebullición.\n8. Tapar y reducir el fuego; hornear durante 45 minutos.\n9. Añadir la taza restante de caldo.\n10. Devolver al horno y hornear durante 30 minutos más.\n11. Decorar con perejil picado.",
+  "url": null
+}

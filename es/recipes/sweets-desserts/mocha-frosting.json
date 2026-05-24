@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mocha-frosting",
+  "name": "Glaseado de Mocha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "chocolate",
+    "postres",
+    "glaseado",
+    "glasearas"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de mantequilla",
+    "1 1/2 tazas de azúcar glas",
+    "2 cucharadas de cacao en polvo",
+    "1/2 cucharadita de café instantáneo",
+    "1/2 cucharadita de extracto de vainilla",
+    "1 cucharada de leche"
+  ],
+  "recipeInstructions": "1. Mezclar con una cuchara de madera la mantequilla, el azúcar glas, el cacao, el café y la vainilla.\n2. Añadir gradualmente la leche y batir hasta obtener una consistencia suave.",
+  "url": null
+}

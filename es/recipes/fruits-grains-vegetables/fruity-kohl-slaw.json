@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruity-kohl-slaw",
+  "name": "Ensalada de col con frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frutas",
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "6 bulbos medianos de colinabo, pelados y rallados",
+    "1 taza de repollo, cortado en tiras",
+    "1 cebolla roja pequeña, picada",
+    "1 manzana Red Delicious pequeña, sin corazón y picada",
+    "1/2 taza de arándanos",
+    "1/2 taza de uvas sin semillas",
+    "2 cucharaditas de aceite de oliva",
+    "1/4 taza de vinagre de sidra de manzana"
+  ],
+  "recipeInstructions": "1. Mezcla los primeros 6 ingredientes en un bol grande.\n2. Vierte el aceite y el vinagre de sidra sobre la ensalada y mezcla suavemente.\n3. Refrigera durante varias horas para que se mezclen los sabores.\n4. Mezcla antes de servir.",
+  "url": null
+}

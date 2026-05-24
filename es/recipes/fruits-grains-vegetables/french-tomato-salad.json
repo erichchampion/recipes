@@ -1,0 +1,17 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-tomato-salad",
+  "name": "Ensalada de Tomates Francesa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "6 tomates medianas, picadas",
+    "1 manojo de cebolletas, picadas",
+    "1 manojo de perejil fresco, picado"
+  ],
+  "recipeInstructions": "1. Mezcla los tomates picados, las cebolletas y el perejil con tu aderezo francés favorito.\n2. Transfiere la mezcla a copas de lechuga.\n3. Refrigera durante una hora antes de servir.\nSirve para 6 personas",
+  "url": null
+}

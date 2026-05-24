@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-meat",
+  "name": "Carne de taco",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne molida",
+    "1 cebolla picada",
+    "comino",
+    "sal",
+    "salsa de tomate"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida y la cebolla juntos en una sartén grande a fuego medio hasta que la carne esté completamente cocida, aproximadamente 8-10 minutos.\n2. Añadir unos chorritos de comino y sal al gusto.\n3. Incorporar suficiente salsa de tomate para cubrir ligeramente la carne, asegurándose de que quede bien mezclada.\n4. Guardar la mezcla en tres bolsas de plástico con cierre hermético de un litro y medio para facilitar el almacenamiento y su uso en burritos, tacos o ensaladas de taco.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza",
+  "name": "Pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meats",
+    "pasta",
+    "pizza",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Hamburger; brown and drain",
+    "16 oz (or more) Mozzarella; shred",
+    "1 Onion; chop",
+    "1 package Sliced pepperoni",
+    "2/3 Box rigatoni noodles; cook",
+    "1 can Cream of mushroom soup",
+    "1 can Mushrooms",
+    "2 Jars pizza sauce"
+  ],
+  "recipeInstructions": "1. Alternate layers in crockpot as follows: hamburger, noodles, cheese, soup, mushrooms, onions, sauce and pepperoni.\n2. Heat for 4 hours on LOW in the crock pot.",
+  "url": null
+}

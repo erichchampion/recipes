@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-banana-bread",
+  "name": "Apple Banana Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "fruit",
+    "fruits"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Butter, softened",
+    "2 cups Flour",
+    "1/4 cup Brown Sugar",
+    "1 Teaspoon Baking Powder",
+    "1/4 cup Granulated Sugar",
+    "1 Teaspoon Baking Soda",
+    "2 Eggs",
+    "1/2 Teaspoon Cinnamon",
+    "3 Tablespoons Sour Cream",
+    "2 Apples, cored and chopped",
+    "1 Banana, mashed",
+    "1/2 Cup Walnuts, chopped",
+    "1 Teaspoon Vanilla"
+  ],
+  "recipeInstructions": "1. Preheat oven to 350°F.\n2. In a large bowl, cream together the butter and sugars until smooth. Beat in the eggs one at a time, then stir in the sour cream, banana, and vanilla.\n3. In a separate bowl, whisk together the flour, baking powder, baking soda, and cinnamon.\n4. Gradually add the dry ingredients to the butter mixture, stirring until just combined.\n5. Gently fold in the apples and walnuts.\n6. Pour the batter into a greased bread pan and spread evenly.\n7. Bake for 1 hour, or until a toothpick inserted into the center comes out clean.",
+  "url": null
+}

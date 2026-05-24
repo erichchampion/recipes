@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "martini",
+  "name": "Martini",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz de ginebra",
+    "1/2 oz de vermut seco",
+    "1 aceituna verde",
+    "Hielo picado"
+  ],
+  "recipeInstructions": "Llenar un vaso mezclador con hielo picado. Verter la ginebra y el vermut seco. Remover la mezcla hasta que esté bien fría, luego colarla en un vaso martini frío. Decorar con una aceituna.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "espresso-italiana",
+  "name": "Espresso Italiana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "italian",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "6 Cups Coffee (use freshly ground)",
+    "1 Dash Nutmeg (freshly grated)",
+    "1 Twist Lemon Peel",
+    "1/2 Teaspoon Anise Seed",
+    "1/2 Teaspoon Anisette Liqueur"
+  ],
+  "recipeInstructions": "1. Use dark roast Italian espresso coffee.\n2. Into each of 6 demitasse cups, add the coffee.\n3. Pour the mixture into each cup.\n4. Serve immediately.\n5. Serve with paper-wrapped macaroons.\nServes 6.",
+  "url": null
+}

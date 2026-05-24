@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "simply-chicken-crockpot",
+  "name": "Pollo Sencillo/Olla de Cocción Lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento"
+  ],
+  "recipeIngredient": [
+    "3 libras de trozos de pollo o pollo entero",
+    "2 tallos de apio",
+    "1 zanahoria",
+    "1 cebolla"
+  ],
+  "recipeInstructions": "1. Limpiar y cortar el pollo en trozos, si se usa pollo entero.\n2. Cortar el apio, la zanahoria y la cebolla en trozos grandes.\n3. Colocar los vegetales cortados al fondo de la olla de cocción lenta (se descartarán después de cocinar).\n4. Agregar el pollo encima de los vegetales en la olla.\n5. Cocinar a fuego lento durante 6-8 horas.\n6. Retirar el pollo cocido y servir.",
+  "url": null
+}

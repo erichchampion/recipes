@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "oatmeal-crockpot",
+  "name": "Avena - Olla de cocción lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 1/2 tazas de agua",
+    "1 taza de avena",
+    "1/4 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Agregar el agua, la avena y la sal a la olla de cocción lenta.\n2. Establecer la olla de cocción lenta en modo bajo o para toda la noche.\n3. Cocinar durante toda la noche o hasta que la avena esté tierna y haya absorbido la mayor parte del líquido.\n4. Mezclar con un tenedor antes de servir.\nEsta técnica también funciona muy bien no solo para la avena, sino también para la polenta y otros cereales gruesos cocinados.",
+  "url": null
+}

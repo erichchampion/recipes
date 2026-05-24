@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-ada",
+  "name": "Chili-Ada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetic",
+    "family",
+    "main dish",
+    "special diets"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground beef",
+    "1 can Peeled tomatoes (sm can)",
+    "1/2 tbsp Chili powder",
+    "1 Onion, large - diced",
+    "2 Green peppers, diced",
+    "2 Celery stalks, chopped",
+    "1/2 can Red kidney beans (sm can)",
+    "1 Salt and pepper to taste",
+    "1/2 tbsp Soy sauce (optional)"
+  ],
+  "recipeInstructions": "1. Brown the ground beef in a pan.\n2. Drain off excess fat from the beef.\n3. Add remaining ingredients except for the kidney beans to the pan.\n4. Simmer the mixture on low heat until it is well combined.\n5. Optionally, simmer for 30 minutes or less if desired.\n6. Add the kidney beans and cook further until heated through.\n7. Serve in bowls or over rice.",
+  "url": null
+}

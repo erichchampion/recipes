@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-bake-oven-cake",
+  "name": "Easy Bake Oven Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "3 tablespoons Cake mix",
+    "1 tablespoon Milk"
+  ],
+  "recipeInstructions": "1. Grease and flour the pan.\n2. Mix the cake mix and milk until smooth.\n3. Pour the mixture into the pan.\n4. Bake in a preheated Easy Bake oven for about 15 minutes.",
+  "url": null
+}

@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-spaghetti",
+  "name": "Italian Spaghetti",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "burgers",
+    "ethnic",
+    "italian"
+  ],
+  "recipeIngredient": [
+    "2 lb Ground beef",
+    "1 Medium onion, chopped",
+    "2 cans Tomato sauce (15 oz each)",
+    "2 cans Tomato paste (15 oz each)",
+    "1 can Pitted ripe olives (7.5 oz)",
+    "2 packages Spaghetti sauce mix with mushrooms",
+    "1 cup Chopped green pepper",
+    "3 cups Water",
+    "1 tbsp Sugar",
+    "1 tsp Oregano leaves",
+    "2 Cloves Garlic, minced",
+    "1 Bay leaf",
+    "16 oz Uncooked long spaghetti",
+    "Grated Parmesan cheese"
+  ],
+  "recipeInstructions": "1. Cook and stir meat and onion in a large skillet or Dutch oven until the meat is brown.\n2. Drain off excess fat.\n3. Stir in the remaining ingredients except spaghetti and cheese; bring to a boil.\n4. Reduce heat, cover, and simmer for 1.5 hours, stirring occasionally.\n5. Remove the bay leaf.\n6. Cook the spaghetti according to package directions and drain.\n7. Serve the sauce over the cooked spaghetti and sprinkle with Parmesan cheese.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-chimichangas",
+  "name": "Chimichangas de chocolate",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "chocolate",
+    "postres",
+    "mexicanos"
+  ],
+  "recipeIngredient": [
+    "1 trozo de chocolate (como Nutella)",
+    "Tortillas de harina",
+    "Mezcla de canela y azúcar"
+  ],
+  "recipeInstructions": "1. Envolver los trozos de chocolate en tortillas de harina.\n2. Sellar los bordes con agua, al igual que se hace con un wonton.\n3. Freír en profundidad hasta que la tortilla esté crujiente y burbujeante.\n4. Escurrir; luego enrollar en una mezcla de canela y azúcar.\n5. Servir con o sin helado.",
+  "url": null
+}

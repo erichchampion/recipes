@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tofu-yogurt",
+  "name": "Tofu con yogur",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "dietas especiales",
+    "tofu",
+    "verduras",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 lb de tofu",
+    "1 plátano congelado en rodajas",
+    "1 plátano maduro en rodajas",
+    "Fruta picada",
+    "2 cucharadas de azúcar",
+    "1/4 taza de agua",
+    "1 cucharadita de vainilla",
+    "1 cucharada de pasas"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes, excepto la fruta picada y las pasas, en una licuadora.\n2. Licuar a velocidad media durante 45 segundos.\n3. Agregar la fruta picada y las pasas.\n4. Refrigerar en el congelador durante 30 minutos.",
+  "url": null
+}

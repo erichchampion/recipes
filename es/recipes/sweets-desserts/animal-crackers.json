@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "animal-crackers",
+  "name": "Galletas Animal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de avena",
+    "2 cucharaditas de miel",
+    "1/4 cucharadita de sal",
+    "3/4 taza de harina",
+    "1/4 cucharadita de bicarbonato de sodio",
+    "3/4 taza de mantequilla (ablandada)",
+    "4 cucharadas de buttermilk"
+  ],
+  "recipeInstructions": "1. No engrase la bandeja para hornear.\n2. Moler 1/2 taza de avena en una licuadora hasta obtener un polvo fino.\n3. Agregar la miel, sal, harina y bicarbonato de sodio a la avena.\n4. Cortar la mantequilla hasta que la mezcla quede arenosa.\n5. Incorporar el buttermilk hasta formar una masa.\n6. Estirar la masa muy delgada y cortarla con cortadores de galletas en forma de animalitos.\n7. Hornear a 200 °C durante 10-12 minutos, o hasta que estén doradas.\n8. Hornear también las piezas restantes.",
+  "url": null
+}

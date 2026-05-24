@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "stir-fried-chicken-and-apples",
+  "name": "Pollo y manzanas salteadas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "2 pechugas de pollo enteras",
+    "1/3 taza de miel",
+    "2 cucharaditas de polvo de curry",
+    "2 manzanas, peladas y cortadas en cubos",
+    "3 cucharadas de aceite",
+    "Apio, cortado en rodajas",
+    "1/4 taza de pasas",
+    "3 cucharadas de perejil picado"
+  ],
+  "recipeInstructions": "1. Deshuesar y cortar las pechugas de pollo en cubos.\n2. Colocar en un bol y mezclar con miel y polvo de curry hasta que esté bien combinado.\n3. Agregar los cubos de manzana y remover.\n4. Calentar el aceite en una sartén pesada a fuego alto.\n5. Saltear el apio durante 1 minuto.\n6. Añadir la mezcla de manzana y saltear durante 3-4 minutos, hasta que el pollo ya no esté rosado.\n7. Incorporar las pasas y el perejil picado, removiendo bien.\n8. Servir sobre arroz.",
+  "url": null
+}

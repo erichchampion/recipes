@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheesy-chicken-breast",
+  "name": "Pecho de pollo con queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "carnes",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "Pechugas de pollo deshuesadas (cualquier cantidad)",
+    "1 paquete de queso crema",
+    "Pan rallado o copos de maíz Kellogg's",
+    "Mantequilla derretida o margarina"
+  ],
+  "recipeInstructions": "1. Golpear las pechugas de pollo entre dos hojas de papel de cera hasta que sean finas.\n2. Colocar una cucharada de queso crema en el centro de cada pechuga y enrollarlas, asegurándolas con un palillo.\n3. Enrollar las pechugas primero en mantequilla derretida, luego en pan rallado.\n4. Colocar los rollos en un plato apto para microondas.\n5. Cocinar a potencia alta durante 6 a 9 minutos.",
+  "url": null
+}

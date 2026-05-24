@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "greek-salad",
+  "name": "Ensalada Griega",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "etnica",
+    "griega",
+    "pasta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "3 libras de macarrones tipo bow tie",
+    "3 pintas de tomates cherry, sin semillas y cortados por la mitad",
+    "1 1/2 libras de queso feta",
+    "1 1/2 latas de aceitunas negras, en rodajas",
+    "10 onzas de espinacas, arrancadas",
+    "2 tazas de aceite de oliva",
+    "1 cucharadita de ajo picado",
+    "El jugo de 1 limón",
+    "1/2 taza de vinagre de vino tinto",
+    "Orégano al gusto",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar los macarrones tipo bow tie según las instrucciones del paquete, luego escurrir y enfriar.\n2. Batir juntos el aceite de oliva, el ajo picado, el jugo de 1 limón y 1/2 taza de vinagre de vino tinto hasta que espese ligeramente.\n3. Mezclar el aderezo con la pasta fría.\n4. Cortar las aceitunas negras, cortar los tomates cherry por la mitad y arrancar las espinacas en trozos pequeños.\n5. Agregar los vegetales preparados a la mezcla de pasta.\n6. Espolvorear el queso feta desmenuzado sobre la ensalada y mezclar suavemente.\n7. Sazonar con orégano, sal y pimienta al gusto.",
+  "url": null
+}

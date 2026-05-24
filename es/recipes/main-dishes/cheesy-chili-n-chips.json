@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheesy-chili-n-chips",
+  "name": "Chili con queso y patatas fritas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "carne molida",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "16 onzas de tomates, enlatados, escurridos",
+    "6 onzas de puré de tomate",
+    "1 cucharada de polvo de chile",
+    "1 cucharadita de cebolla picada",
+    "1 1/2 tazas de queso cheddar rallado",
+    "2 tazas de chips de maíz"
+  ],
+  "recipeInstructions": "1. Dorar la carne.\n2. Incorporar los tomates, el puré de tomate y las especias (polvo de chile y cebolla).\n3. Reducir a fuego lento durante 10 minutos.\n4. Agregar el queso cheddar rallado y remover hasta que se derrita.\n5. Servir sobre los chips de maíz.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pina-colada",
+  "name": "Pina colada",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "aperitivos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 oz de ron claro",
+    "1 oz de crema de coco",
+    "1 oz de piña triturada",
+    "1/4 taza de hielo triturado",
+    "1 rebanada de naranja",
+    "1 cereza al marasquino"
+  ],
+  "recipeInstructions": "Receta de Joe Robertson\nTiempo de preparación: 0:05\nColoca todos los ingredientes en una licuadora y mezcla a velocidad alta hasta obtener una textura suave, aproximadamente 30 segundos. Cuela en un vaso alto o Collins y decora con la rebanada de naranja y la cereza.",
+  "url": null
+}

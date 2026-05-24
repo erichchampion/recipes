@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-cake-3",
+  "name": "Chocolate Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "cakes",
+    "chocolate",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "4 tablespoons Cocoa",
+    "1/2 cup Boiling Water",
+    "1/4 cup Margarine",
+    "1 1/2 cups Flour",
+    "3/4 cup Sugar",
+    "1 Egg",
+    "1/4 teaspoon Salt",
+    "3 1/2 teaspoons Baking Powder",
+    "1 teaspoon Vanilla Extract",
+    "2/3 cup Milk or Water"
+  ],
+  "recipeInstructions": "1. Cream the margarine and sugar until smooth.\n2. Add the egg to the mixture and mix well.\n3. Alternately add the flour, baking powder, and salt mixture with milk or water.\n4. Mix in the hot cocoa and boiling water separately.\n5. Pour the batter into a greased cake pan.\n6. Bake for 30 minutes at 350°F (175°C).\n7. Turn off the oven when the cake is done.",
+  "url": null
+}

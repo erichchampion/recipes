@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-or-veal-francese",
+  "name": "Pollo o ternera Francesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de aceite de oliva",
+    "1 1/2 kg de pollo, ternera o pescado",
+    "1 taza de agua",
+    "2 huevos grandes batidos",
+    "2 sobre de caldo",
+    "3/4 taza de harina",
+    "1 limón, exprimido",
+    "3 cucharadas de mantequilla",
+    "1/4 taza de perejil fresco picado"
+  ],
+  "recipeInstructions": "1. Cortar las pechugas en lonchas finas y golpear ligeramente para ablandarlas (excepto el pescado, solo cortar en rodajas finas).\n2. Derretir la mantequilla en una sartén a fuego medio. Sumergir las lonchas en harina, luego en los huevos batidos.\n3. Saltear las lonchas por ambos lados hasta que estén doradas. Retirar del fuego y colocar sobre un plato de servir caliente para mantenerlas calientes.\n4. Añadir el caldo, el agua y el zumo de limón a la sartén. Incrementar el calor y cocinar hasta reducir a la mitad.\n5. Agregar el zumo de limón y cocinar durante 2 minutos más. Incorporar el perejil y mezclar bien.\n6. Verter sobre las lonchas cocidas y servir inmediatamente con gajos de limón como guarnición.",
+  "url": null
+}

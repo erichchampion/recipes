@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-barley-salad",
+  "name": "Ensalada de Pollo y Trigo Escarchado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "diabetico",
+    "plato principal",
+    "aves de corral",
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 tazas de agua",
+    "1/2 taza de tomates, picados",
+    "2/3 taza de avena rápida sin cocinar",
+    "1/2 taza de cebolla roja, picada",
+    "2 cucharadas de jugo de limón fresco",
+    "1 cucharada de mostaza dijon",
+    "5 tazas de lechuga, hojas"
+  ],
+  "recipeInstructions": "1. Llevar el agua a ebullición en una sartén mediana a fuego alto.\n2. Añadir la avena y devolver a ebullición. Reducir el calor, cubrir y dejar cocinar 8-10 minutos o hasta que la avena esté tierna, removiendo ocasionalmente.\n3. Escurrir si es necesario; enfriar.\n4. Mezclar la avena con los ingredientes restantes excepto la lechuga.\n5. Servir sobre hojas de lechuga.",
+  "url": null
+}

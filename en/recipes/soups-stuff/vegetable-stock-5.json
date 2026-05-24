@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetable-stock-5",
+  "name": "Vegetable Stock",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "stocks"
+  ],
+  "recipeIngredient": [
+    "3 potatoes, chopped (Note: Not peeling them but can if desired)",
+    "3 carrots, chopped (see above note)",
+    "1 onion, peeled and chopped",
+    "3 celery stalks with leaves, chopped",
+    "1 leek, both green and white parts chopped",
+    "3 stems parsley",
+    "1 bay leaf",
+    "2 sprigs thyme",
+    "8 cups water"
+  ],
+  "recipeInstructions": "1. Saute' onion and leek in a little water until tender.\n2. Add all ingredients to the water.\n3. Bring to a boil, reduce heat to low, cover, and simmer for 2 to 3 hours.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-cake",
+  "name": "White Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 cup Sugar",
+    "1/2 cup Shortening",
+    "4 Egg whites",
+    "1 t Almond flavoring",
+    "2 cups Cake flour",
+    "3 tsp Baking powder",
+    "1/4 tsp Salt",
+    "1/2 cup Milk",
+    "OR",
+    "1/4 cup Evaporated milk diluted",
+    "-with",
+    "1/4 cup Water"
+  ],
+  "recipeInstructions": "1. Cream sugar and shortening.\n2. Sift flour, baking powder, and salt together.\n3. Add the sifted ingredients alternately with milk to the creamed mixture. Beat thoroughly.\n4. Stir in the almond flavoring.\n5. Gently fold in the stiffly beaten egg whites.\n6. Pour batter into well-oiled layer cake pans.\n7. Bake in a moderate oven (375°F) for about 20 minutes.",
+  "url": null
+}

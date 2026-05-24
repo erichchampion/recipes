@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-oatmeal-bread-abm",
+  "name": "Apple Oatmeal Bread ABM",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 1/2 teaspoons Active dry yeast",
+    "1 1/2 cups Bread flour",
+    "1 1/2 cups Oats",
+    "1/3 teaspoon Cinnamon",
+    "1 1/2 tablespoons Honey",
+    "1/2 teaspoon Salt",
+    "1/2 tablespoon Corn oil",
+    "1 cup Unsweetened applesauce",
+    "1/3 cup Dried, diced apples"
+  ],
+  "recipeInstructions": "1. Ensure all ingredients are at room temperature before beginning.\n2. Add the dry ingredients (except diced apples) in the order listed.\n3. Choose white bread or sweet bread settings on your machine.\n4. Press start to begin mixing.\n5. Add the diced apples towards the end of the final kneading phase, when the beep sounds.",
+  "url": null
+}

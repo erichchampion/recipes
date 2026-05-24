@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "gyros-2",
+  "name": "Gyros",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "etnico",
+    "griego",
+    "cordero"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne de cordero molida",
+    "1 diente de ajo grande, prensado",
+    "2 cucharaditas de jugo de limón",
+    "1/2 cucharadita de albahaca",
+    "1/4 cucharadita de orégano",
+    "1/2 cucharadita de tomillo",
+    "1/2 cucharadita de romero",
+    "1/2 cucharadita de pimienta negra",
+    "2 cucharadas de perejil fresco picado",
+    "6 panes pita enteros",
+    "2 tomates enteros, picados",
+    "1 cebolla roja grande, picada",
+    "Salsa:",
+    "2 tazas de crema agria o yogur",
+    "1 pepino mediano, sin semillas y puré (escurrir)",
+    "2 dientes de ajo",
+    "1/2 cucharadita de sal",
+    "2 cucharadas de azúcar o al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto los de la salsa en un bol grande.\n2. Batir hasta que quede bien combinado.\n3. Combinar los ingredientes de la salsa en otro bol.\n4. Batir hasta obtener una textura suave.\n5. Servir la mezcla de carne dentro de los panes pita con tomates y cebolla picados encima.\n6. Verter la salsa preparada sobre la carne dentro de los panecillos.",
+  "url": null
+}

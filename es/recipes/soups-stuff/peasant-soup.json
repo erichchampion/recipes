@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "peasant-soup",
+  "name": "Sopa campesina",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 libra de judías grandes blancas secas",
+    "3 zanahorias, cortadas en rodajas",
+    "3 costillas de apio, cortadas en rodajas",
+    "2 cebollas, picadas",
+    "2 dientes de ajo, picados finamente",
+    "2 hojas de laurel",
+    "1 lata de 400 gramos de tomates triturados con su jugo",
+    "1 cucharadita de orégano seco",
+    "1/2 cucharadita de pimienta negra",
+    "2 cucharadas de aceite de oliva"
+  ],
+  "recipeInstructions": "1. Coloca las judías en una olla holandesa y cúbrelas con agua. Lleva a ebullición.\n2. Hierve durante 2 minutos. Retira del fuego y deja reposar durante 1 hora.\n3. Escurre y enjuaga las judías; devuélvelas a la olla holandesa.\n4. Añade 6 tazas de agua, las zanahorias, el apio, las cebollas, el ajo, las hojas de laurel, los tomates, el orégano y la pimienta. Lleva a ebullición.\n5. Reduce el fuego y cubre. Deja cocinar a fuego lento durante 1 hora y media o hasta que las judías estén tiernas. Desecha las hojas de laurel.\n6. Añade el aceite de oliva y caliéntalo.",
+  "url": null
+}

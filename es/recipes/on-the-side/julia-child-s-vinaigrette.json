@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "julia-child-s-vinaigrette",
+  "name": "Vinaigrette de Julia Child",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/2 cucharadita de cebolletas o cebollino picado",
+    "1/2 cucharadita de mostaza dijon",
+    "Sal al gusto",
+    "1/2 cucharadita de zumo de limón",
+    "1/2 cucharadita de vinagre de vino francés o cualquier vinagre de buena calidad",
+    "3 cucharadas de aceite de oliva virgen ligero o cualquier aceite de buena calidad"
+  ],
+  "recipeInstructions": "1. Mezclar las cebolletas y la mostaza dijon con un batidor.\n2. Añadir el vinagre, batiendo continuamente.\n3. Agregar lentamente el aceite mientras se sigue batiendo para evitar la separación.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "bbq-cheeseburgers",
+  "name": "Hamburguesas de queso a la barbacoa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida magra",
+    "1/4 taza de cebolla, finamente picada",
+    "2 cucharadas de salsa barbacoa",
+    "4 rebanadas de queso americano",
+    "4 panecillos crujientes",
+    "Lechuga romana - partida",
+    "Tomate - en rodajas"
+  ],
+  "recipeInstructions": "1. En un bol mediano, mezclar la carne molida, la cebolla y 2 cucharadas de salsa barbacoa. Amasar bien.\n2. Dar forma a la mezcla en cuatro hamburguesas de 0,5 cm de grosor.\n3. Colocar las hamburguesas sobre la parrilla sobre brasas medianas cubiertas de ceniza.\n4. Asar durante 14-16 minutos o hasta que los centros ya no sean rosadosos, dando la vuelta una vez.\n5. Aproximadamente un minuto antes de terminar el tiempo de cocción, cepillar el lado superior de las hamburguesas con salsa barbacoa adicional. Colocar una rebanada de queso sobre cada hamburguesa.\n6. Cocinar hasta que las rebanadas de queso se derritan.\n7. Forrar la base de cada panecillo con lechuga y tomate. Colocar encima la hamburguesa. Cerrar los sándwiches.",
+  "url": null
+}

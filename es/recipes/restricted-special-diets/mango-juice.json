@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mango-juice",
+  "name": "Jugo de mango",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "asiático",
+    "bebidas",
+    "étnico",
+    "indio",
+    "vegano",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de pulpa de mango enlatada",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. Coloca la pulpa de mango y el agua en un recipiente para jugos.\n2. Tapa y agita bien.",
+  "url": null
+}

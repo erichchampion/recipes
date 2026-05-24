@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cranberry-chicken",
+  "name": "Pollo con arándanos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "3 lb de pollo de corral o de asar cortado en trozos",
+    "1/2 taza de harina sazonada",
+    "1/4 taza de aceite de maíz",
+    "1 cebolla picada",
+    "1/2 taza de jugo de naranja",
+    "1/4 taza de jugo de limón",
+    "2 tazas de salsa de arándanos enteros"
+  ],
+  "recipeInstructions": "1. Sacude los trozos de pollo en una bolsa con la harina sazonada.\n2. Calienta el aceite en una sartén, luego saltea el pollo, dándolo la vuelta una vez para dorarlo.\n3. Combina los ingredientes restantes y viértelos sobre el pollo.\n4. Tapa y cocina a fuego lento durante 40 a 45 minutos, o hasta que el pollo esté tierno.",
+  "url": null
+}

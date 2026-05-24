@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-buttermilk-pancakes",
+  "name": "My Buttermilk Pancakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breads",
+    "breakfast",
+    "main dish",
+    "pancakes"
+  ],
+  "recipeIngredient": [
+    "2 cups Flour",
+    "1 Egg",
+    "1 teaspoon Baking Soda",
+    "1/2 teaspoon Salt",
+    "1 tablespoon Sugar",
+    "2 cups Buttermilk/Sour Milk",
+    "1 1/2 tablespoons Oil"
+  ],
+  "recipeInstructions": "1. Using a processor or blender, put the liquid ingredients in first.\n2. Add the dry ingredients and blend or process until mixed.\n3. If the mixture is too thick, add a little more buttermilk or sour milk.",
+  "url": null
+}

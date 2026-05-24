@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "cafe-mexicano-2",
+  "name": "Café Mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "mexicana",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "8 tazas de agua fría",
+    "1/3 taza de azúcar morena oscura, compactada",
+    "2 onzas de chocolate amargo, picado finamente",
+    "2 clavos enteros",
+    "1 rama de canela, rota por la mitad",
+    "1 taza de café molido regular, seco",
+    "1 cucharadita de vainilla",
+    "1/4 taza de brandy",
+    "8 cucharadas de licor de café"
+  ],
+  "recipeInstructions": "1. Calentar el agua, el azúcar morena, el chocolate amargo, los clavos y la canela hasta que hierva en una olla de 3 cuartos.\n2. Reducir el fuego. Dejar cocinar a fuego lento, destapado, durante 15 minutos.\n3. Incorporar el café. Retirar del fuego; tapar y dejar reposar 5 minutos.\n4. Agregar la vainilla.\n5. Colar el café por cuatro capas de tela de queso.\n6. Café Diablo: Calentar el brandy hasta que esté tibio en una sartén pequeña de mango largo.\n7. Retirar del fuego; encenderlo.\n8. Verter el brandy en llamas sobre el café.\n9. Permitir que la llama se apague; remover.\n10. Verter el café en tazas o tazas de café.\n11. Cubrir cada uno con crema batida y una cucharada de licor.\n12. Decorar con una rama de canela, si lo desea.",
+  "url": null
+}

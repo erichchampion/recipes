@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cranberry-brew",
+  "name": "Cerveza de arándanos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "bajo en calorías",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 litro de jugo de arándanos",
+    "1 taza de agua",
+    "3/4 taza de azúcar",
+    "1 rama de canela",
+    "6 clavos enteros",
+    "Piel de limón - de medio limón, cortada en tiras",
+    "750 ml de vino tinto (1 botella)",
+    "2 cucharadas de jugo de limón",
+    "Nutmeg al gusto"
+  ],
+  "recipeInstructions": "El jarabe se puede preparar con antelación.\nCombinar el jugo de arándanos, agua, azúcar, rama de canela, clavos y piel de limón en una olla grande. Llevar a ebullición. Remover hasta que el azúcar se disuelva. Reducir el fuego y cocinar suavemente durante 15 minutos. Colar el jarabe.\nCombinar el jarabe con el vino y el jugo de limón; calentar hasta que esté tibio, sin llegar a hervir.\nServir en tazas precalentadas espolvoreando nuez moscada. El jarabe se puede preparar con antelación, mantenerlo refrigerado y combinarlo con el vino y el jugo de limón antes de servir.\nRinde para 12 personas.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-salad-with-strawberry-vinaigrette",
+  "name": "Ensalada de Pollo con Vinagreta de Fresa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frutas",
+    "aves de corral",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 taza de fresas cortadas en rodajas",
+    "2 cucharadas de aceite vegetal",
+    "2 cucharadas de vinagre de vino tinto",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "8 tazas de lechuga desmenuzada",
+    "2 1/2 tazas de pollo cocido y desmenuzado",
+    "2 tazas de fresas cortadas por la mitad",
+    "1 taza de pepino cortado en rodajas"
+  ],
+  "recipeInstructions": "1. Para la vinagreta: En un procesador de alimentos, mezcle las rodajas de fresa, el aceite, el vinagre, la sal y la pimienta hasta obtener una textura suave. Si no se va a usar inmediatamente, cubra y refrigere.\n2. Coloque la lechuga en 4 platos para cena. Cubra cada plato con pollo, fresas cortadas por la mitad y pepino. Vierta la vinagreta sobre la ensalada y sirva de inmediato.",
+  "url": null
+}

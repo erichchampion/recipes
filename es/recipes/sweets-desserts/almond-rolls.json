@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "almond-rolls",
+  "name": "Rulos de Almendras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla",
+    "1/3 taza de azúcar",
+    "2/3 taza de almendras molidas",
+    "2 tazas de harina tamizada"
+  ],
+  "recipeInstructions": "1. Batir la mantequilla y el azúcar hasta obtener una mezcla suave.\n2. Incorporar las almendras molidas.\n3. Agregar gradualmente la harina tamizada, mezclando hasta formar una masa.\n4. Enfriar la masa durante 1 hora.\n5. Estirar pequeñas porciones de masa hasta alcanzar un diámetro de aproximadamente 2,5 cm.\n6. Dar forma a los rodillos de masa en pequeños rollos.\n7. Hornear a 180°C durante 20 minutos.",
+  "url": null
+}

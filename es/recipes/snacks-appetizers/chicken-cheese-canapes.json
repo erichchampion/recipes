@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-cheese-canapes",
+  "name": "Canapés de Pollo y Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "pollo",
+    "aves de corral",
+    "tentempié"
+  ],
+  "recipeIngredient": [
+    "2 tazas de pollo cocido picado",
+    "3/4 taza de mayonesa",
+    "2 cebolletas finamente picadas",
+    "1/2 cucharadita de albahaca seca",
+    "1/4 cucharadita de tomillo seco",
+    "1/4 cucharadita de pimienta negra molida",
+    "1/2 taza de queso suizo rallado",
+    "1/2 taza de queso parmesano rallado",
+    "4 muffins ingleses, cortados por la mitad"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F (175°C). En un bol mediano, mezclar el pollo, la mayonesa y las cebolletas. Incorporar la albahaca, el tomillo y la pimienta. Añadir el queso suizo y 2 cucharadas de parmesano; mezclar bien.\n2. Extender la mezcla de pollo sobre las mitades de los muffins ingleses, dividiéndola uniformemente. Espolvorear con el resto del parmesano. Colocar en una bandeja para hornear forrada con papel de aluminio y hornear durante unos 10 minutos hasta que estén dorados por encima.\n3. Cortar los muffins en cuartos y servir calientes.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-n-honey",
+  "name": "Fruit'n' Honey",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 scoop vanilla frozen yogurt",
+    "8 ounces apple juice",
+    "frozen fresh fruit",
+    "squeeze of honey",
+    "ice"
+  ],
+  "recipeInstructions": "1. Add all ingredients to a blender.\n2. Blend until smooth.",
+  "url": null
+}

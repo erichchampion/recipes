@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fast-pizza",
+  "name": "Fast Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "low-calorie",
+    "main dish",
+    "mcdougall",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 pinch Pita bread; cut in half",
+    "1/4 cup Tomato sauce; low sodium",
+    "1/8 cup Yellow onions; chopped",
+    "1/8 cup Scallions; chopped",
+    "1/8 cup Green bell peppers; chopped",
+    "4 Mushrooms; sliced",
+    "1/8 cup Alfalfa sprouts"
+  ],
+  "recipeInstructions": "1. Cut the pita bread in half by separating it into two circles.\n2. Spread each half with tomato sauce.\n3. Sprinkle basil and oregano over the tomato sauce.\n4. Add the desired toppings: chopped yellow onions, scallions, green bell peppers, and mushrooms.\n5. Bake at 300°F for 10 minutes, or heat in a toaster oven set to 250°F for 5 minutes.",
+  "url": null
+}

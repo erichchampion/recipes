@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-sauce",
+  "name": "Pizza Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "15 ounce can tomato puree",
+    "3 cloves garlic, minced",
+    "1/4 cup red wine",
+    "3 tablespoons balsamic vinegar",
+    "2 tablespoons olive oil",
+    "1 tablespoon Italian seasoning",
+    "1 teaspoon dried basil",
+    "1 teaspoon dried oregano",
+    "salt and pepper -- to taste"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a bowl.\n2. Allow the sauce to sit for at least 30 minutes, up to 1 day, stirring occasionally. If it has been more than 1 hour, refrigerate until ready to use.\n3. Makes enough sauce for two 12\"-14\" pizzas.",
+  "url": null
+}

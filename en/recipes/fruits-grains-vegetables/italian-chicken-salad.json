@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-chicken-salad",
+  "name": "Italian Chicken Salad",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "chicken",
+    "italian",
+    "salads"
+  ],
+  "recipeIngredient": [
+    "1 Whole chicken, boiled",
+    "1 cup Onions, coarsely chopped",
+    "2 Tablespoons Wine vinegar",
+    "1 teaspoon Oregano",
+    "1/2 cup Black olives, pitted and crushed",
+    "1 cup Celery, coarsely chopped",
+    "1/2 cup Stuffed olives, sliced",
+    "4 Tablespoons Olive oil",
+    "1 Teaspoon Sugar",
+    "Salt and pepper"
+  ],
+  "recipeInstructions": "1. Strain the chicken and reserve the stock for another use.\n2. Debone and remove skin from the chicken.\n3. Shred the meat.\n4. Sauté onions and celery in olive oil for a short time.\n5. Add the shredded chicken and mix well with all other ingredients until heated.\n6. Serve cold or hot.",
+  "url": null
+}

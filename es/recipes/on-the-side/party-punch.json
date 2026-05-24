@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "party-punch",
+  "name": "Batido de fiesta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "manzanas",
+    "bebidas",
+    "ponche",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de jugo de naranja",
+    "2 litros de refresco de jengibre, helado",
+    "1/4 taza de jugo de limón",
+    "1 litro de jugo de arándanos",
+    "1 taza de jugo de piña",
+    "1 litro de sidra de manzana"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el refresco de jengibre en un bol grande para cócteles.\n2. Revolver bien hasta que se combinen los sabores.\n3. Justo antes de servir, verter la mezcla sobre hielo en el bol.\n4. Añadir el refresco de jengibre helado al bol.\n5. Servir y disfrutar (aproximadamente 30 porciones).",
+  "url": null
+}

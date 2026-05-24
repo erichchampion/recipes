@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-beef",
+  "name": "Tomato Beef",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "1/2 lb Flank Steak, thin slices",
+    "3 Tomatoes",
+    "2 Green Onions",
+    "1 Garlic clove (chopped)",
+    "2 Tbsp Oil",
+    "-------------------------------BEEF MARINADE-------------------------------",
+    "1 tbsp Soy sauce, light",
+    "1 1/2 tbsp Wine",
+    "1 1/2 tbsp Water",
+    "1/2 tbsp Oil",
+    "1/2 tbsp Cornstarch",
+    "-----------------------------------SAUCE-----------------------------------",
+    "3 Tbsp Tomato ketchup",
+    "1 tsp Sugar",
+    "1/2 tsp Vinegar",
+    "1/2 tsp Cornstarch in 1 t water"
+  ],
+  "recipeInstructions": "1. Marinate beef slices for 30 minutes.\n2. Heat wok with 2 Tbsp oil and garlic for 30 seconds, add beef, cook for 1 1/2 to 2 minutes, remove and drain oil. Set aside.\n3. Heat wok, high, add tomato wedges and stir for 2 minutes, then add sauce mixture. Thicken if too watery.\n4. Return beef and stir well and serve hot.\n5. Serve immediately.",
+  "url": null
+}

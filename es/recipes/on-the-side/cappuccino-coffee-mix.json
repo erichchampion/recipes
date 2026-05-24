@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cappuccino-coffee-mix",
+  "name": "Mezcla de café capuchino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de granos de café instantáneo",
+    "1/2 cucharadita de cáscara de naranja seca rallada",
+    "1 taza de crema de café en polvo sin lactosa",
+    "1/4 taza de azúcar granulada",
+    "1/2 cucharadita de canela molida"
+  ],
+  "recipeInstructions": "1. Moler finamente el café y la cáscara de naranja en una licuadora o procesador de alimentos.\n2. Agregar los ingredientes restantes a la licuadora y procesar hasta que quede bien mezclado.\n3. Almacenar la mezcla en un recipiente hermético.\n4. Para servir, remover 2 cucharaditas o más de la mezcla de café en 6 onzas de agua caliente.\n5. Rinde aproximadamente 1 2/3 tazas de café mezclado.",
+  "url": null
+}

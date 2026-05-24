@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "fondue-3",
+  "name": "Fondue# 3",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "appetizers",
+    "cheese",
+    "cheese/eggs",
+    "fondue",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 lb Gouda cheese",
+    "1/4 cup White wine, dry",
+    "2 tbsp Butter",
+    "2 tsp Kirsch",
+    "1/4 cup Flour",
+    "Bread, cubed",
+    "1 1/2 cups Milk",
+    "Pepper to taste",
+    "2 tsp Garlic, finely chopped",
+    "1/8 tsp Nutmeg"
+  ],
+  "recipeInstructions": "1. Grate the Gouda cheese.\n2. Melt the butter in a saucepan and add the flour, stirring with a wire whisk. Add the milk, stirring rapidly with the whisk until smooth. Add the garlic, pepper, nutmeg, and white wine. If desired, add the Kirsch.\n3. Serve hot with bread cubes for dipping. If the sauce is to be used over vegetables, omit the Kirsch.",
+  "url": null
+}

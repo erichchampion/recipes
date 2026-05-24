@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mushroom-soup-concentrate",
+  "name": "Concentrado de sopa de setas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopa",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 libras de setas frescas",
+    "1/4 taza de cebolla fresca picada",
+    "1/2 taza de apio, finamente laminado",
+    "6 cucharadas de mantequilla",
+    "2 1/2 cucharaditas de perejil fresco picado",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimentón dulce",
+    "4 cucharadas de harina",
+    "2 tazas de caldo (de carne, pollo o vegetal)"
+  ],
+  "recipeInstructions": "1. Cortar las tapas de las setas en rodajas y picar los tallos. Reservar.\n2. En una sartén grande o olla holandesa pesada, saltear la cebolla y el apio en mantequilla durante 3 minutos.\n3. Añadir el perejil y seguir saltando durante otros 3 minutos, removiendo con una cuchara de madera.\n4. Incorporar las setas, la sal, el pimentón y la harina. Remover constantemente hasta que esté bien mezclado.\n5. Agregar gradualmente el caldo, permitiendo que se incorpore lentamente en la mezcla.\n6. Llevar a ebullición.\n7. Reducir el fuego y dejar hervir a fuego lento durante 10 minutos.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-ice",
+  "name": "Helado de Naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres"
+  ],
+  "recipeIngredient": [
+    "4 naranjas, jugo",
+    "1 litro de agua",
+    "1 libra de azúcar",
+    "2 naranjas, cáscara - rallada",
+    "1 limón, jugo"
+  ],
+  "recipeInstructions": "1. Mezclar el jugo de naranja, agua, azúcar, cáscara de naranja rallada y jugo de limón en un bol.\n2. Revolver hasta que el azúcar se disuelva por completo.\n3. Verter la mezcla en bandejas para helado y congelar para obtener 2 cuartos de hielo.\nNota: Asegurarse de que todos los ingredientes estén bien combinados antes de congelar.",
+  "url": null
+}

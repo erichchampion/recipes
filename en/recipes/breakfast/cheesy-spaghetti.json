@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheesy-spaghetti",
+  "name": "Cheesy Spaghetti",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "casseroles",
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "4 eggs",
+    "1 package onion soup mix",
+    "milk",
+    "12 ounces spaghetti",
+    "1/4 pound Velveeta"
+  ],
+  "recipeInstructions": "1. Boil the spaghetti until it is cooked al dente.\n2. While the spaghetti is cooking, mix together 4 eggs and 1 package of onion soup mix.\n3. Add enough milk to the egg and soup mixture to achieve the consistency of scrambled eggs.\n4. Once the spaghetti is finished boiling, add it to the egg and soup mixture and stir until combined.\n5. Transfer the mixture into a greased 9X13 pan.\n6. Bake at 350°F until the dish is firm.",
+  "url": null
+}

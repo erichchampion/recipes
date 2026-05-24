@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-spice-muffins",
+  "name": "Muffins de Canela y Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "muffins"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de harina sin blanquear",
+    "3 cucharadas de avena en hojuelas",
+    "1 cucharadita de polvo de hornear",
+    "1 cucharadita de canela",
+    "1/2 cucharadita de nuez moscada",
+    "1/2 cucharadita de clavos molidos",
+    "1/4 cucharadita de sal",
+    "1/2 taza de pasas",
+    "2 manzanas pequeñas, peladas, sin corazón y cortadas en cubos",
+    "3/4 taza de leche desnatada a temperatura ambiente",
+    "1/2 taza de azúcar moreno compacto",
+    "1/4 taza de puré de manzana a temperatura ambiente",
+    "1 clara de huevo batida"
+  ],
+  "recipeInstructions": "Precalentar el horno a 175°C. Engrasar y enharinar 12 moldes para muffins.\nEn un bol, mezclar la harina, las hojuelas de avena, el polvo de hornear, la canela, la nuez moscada, los clavos y la sal.\nEn otro bol, combinar las manzanas, la leche, el azúcar moreno, el puré de manzana y la clara de huevo.\nMezclar los ingredientes húmedos con los secos hasta que estén mojados. Rellenar los moldes para muffins dos tercios con la masa usando una cucharada medidora.\nHornear durante 20 a 30 minutos o hasta que estén ligeramente dorados.",
+  "url": null
+}

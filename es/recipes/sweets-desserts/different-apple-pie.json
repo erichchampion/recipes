@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "different-apple-pie",
+  "name": "Pastel de manzana diferente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de azúcar",
+    "1/2 taza de jugo de naranja",
+    "1/2 barra de margarina",
+    "4 manzanas deliciosas",
+    "1/2 taza de azúcar",
+    "3 cucharadas de harina"
+  ],
+  "recipeInstructions": "1. Mezclar los cuatro primeros ingredientes en una cacerola y cocinar hasta que la mezcla espese.\n2. Añadir el azúcar y la harina, removiendo bien.\n3. Verter en una base de tarta sin hornear.\n4. Hornear durante 30 minutos a 425 grados Fahrenheit.",
+  "url": null
+}

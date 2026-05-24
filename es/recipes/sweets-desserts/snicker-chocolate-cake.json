@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "snicker-chocolate-cake",
+  "name": "Pastel de chocolate con caramelo Snicker",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "4 barras grandes de Snickers",
+    "1/2 libra de mantequilla (Oleo)",
+    "2 tazas de azúcar",
+    "4 huevos",
+    "2 tazas de harina",
+    "1 1/2 tazas de buttermilk",
+    "1/2 cucharadita de bicarbonato de sodio",
+    "1/2 cucharadita de sal",
+    "1 taza de nueces"
+  ],
+  "recipeInstructions": "1. Derrite las Snickers y una barra de mantequilla en un baño maría, luego reserva.\n2. Bate el azúcar con la otra barra de mantequilla.\n3. Agrega los huevos a la mezcla, seguidos por la harina, el bicarbonato de sodio y el buttermilk.\n4. Incorpora las nueces y la mezcla derretida de Snickers y mantequilla.\n5. Hornea a 175 °C durante una hora.",
+  "url": null
+}

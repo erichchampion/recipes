@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-pita-pizzas",
+  "name": "Pitas de pizza rápida",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "comida italiana",
+    "plato principal",
+    "pizza",
+    "cenas rápidas/niños"
+  ],
+  "recipeIngredient": [
+    "6 bolsillos de pan pita para sándwich",
+    "8 onzas de queso mozzarella rallado",
+    "1 cucharadita de orégano seco",
+    "2 cucharadas de aceite de oliva",
+    "1/2 cucharadita de pimienta negra",
+    "2 tazas de tomates en cubos",
+    "1/2 taza de hojas de albahaca fresca, apiladas, enrolladas y cortadas en tiras finas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 450°F (230°C).\n2. Colocar los bolsillos de pita en una bandeja para hornear grande.\n3. Dividir el queso mozzarella rallado y el orégano seco uniformemente entre cada bolso de pita.\n4. Hornear durante unos 10 minutos, o hasta que el queso esté burbujeante.\n5. En un bol aparte, mezclar el aceite de oliva y la pimienta negra con los tomates en cubos.\n6. Servir los tomates junto con las tiras de albahaca en sus propios cuencos.\n7. Verter la mezcla de tomate sobre los bolsillos de pita calientes.\n8. Sirve para 6 personas.",
+  "url": null
+}

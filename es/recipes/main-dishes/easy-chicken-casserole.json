@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-chicken-casserole",
+  "name": "Sencilla Casserola de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo sin hueso",
+    "1/4 taza de pan rallado con mantequilla",
+    "4 quesos (suizos o Monterey Jack)",
+    "1 lata de sopa de setas",
+    "1/4 taza de vino (jerez o blanco)"
+  ],
+  "recipeInstructions": "1. Forrar completamente el interior del recipiente para hornear con mayonesa.\n2. Cubrir el pollo con queso.\n3. Mezclar la sopa y el vino en un bol aparte.\n4. Verter la mezcla de sopa sobre el pollo y el queso.\n5. Espolvorear el pan rallado uniformemente por encima.\n6. Hornear a 175°C durante 30-45 minutos, o hasta que el pollo esté tierno.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "sloppy-bbq-joes",
+  "name": "Joes BBQ Desordenados",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lb (450 g) de carne molida",
+    "1 pimiento verde pequeño, picado",
+    "1/2 taza de ketchup",
+    "Sal y pimienta al gusto",
+    "1 cebolla mediana, picada",
+    "1/2 taza de salsa barbacoa en botella",
+    "2 cucharadas de relish dulce y grueso",
+    "4 panecillos para hamburguesa, cortados por la mitad y tostados"
+  ],
+  "recipeInstructions": "1. Cocinar la carne molida en una sartén hasta que esté bien dorada.\n2. Añadir el pimiento verde picado y cocinar hasta que las verduras estén tiernas.\n3. Escurrir el exceso de grasa de la mezcla de carne.\n4. Incorporar la salsa barbacoa, el ketchup, el relish, la sal y la pimienta a la mezcla de carne.\n5. Dejar que la mezcla hierva a fuego lento durante unos minutos, removiendo con frecuencia.\n6. Servir la mezcla de carne sobre los panecillos para hamburguesa tostados.\nRinde para 4 personas.",
+  "url": null
+}

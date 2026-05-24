@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "one-pan-dinner",
+  "name": "Cena en una sartén",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "juego",
+    "plato principal",
+    "carne",
+    "carnes",
+    "ciervo"
+  ],
+  "recipeIngredient": [
+    "3 lomos de venado",
+    "2 patatas",
+    "3 zanahorias medianas",
+    "1 cebolla pequeña picada",
+    "1 tallo de apio",
+    "1/2 cucharadita de perejil"
+  ],
+  "recipeInstructions": "1. Dorar la carne, la cebolla y el apio en una pequeña cantidad de mantequilla.\n2. Añadir las zanahorias cortadas y las patatas en rodajas.\n3. Espolvorear con perejil.\n4. Verter suficiente agua para cubrir casi todos los ingredientes.\n5. Cubrir y dejar cocinar a fuego lento durante 40 minutos, comprobando ocasionalmente para evitar que se sequen.",
+  "url": null
+}

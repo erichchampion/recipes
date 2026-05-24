@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "harvest-grape-salad",
+  "name": "Ensalada de Uvas de la Cosecha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 taza de quinoa o arroz de grano largo",
+    "1 taza de caldo de verduras",
+    "2 cucharadas de cebolla verde picada",
+    "2 tazas de uvas rojas sin semillas",
+    "1/2 taza de apio en rodajas",
+    "1/4 taza de perejil picado o 1/4 taza de cilantro picado"
+  ],
+  "recipeInstructions": "1. Enjuagar la quinoa.\n2. En una cacerola mediana a fuego alto, combinar la quinoa, el caldo y 1 taza de agua; llevar a ebullición.\n3. Reducir el calor a bajo; tapar y dejar cocinar durante 10 a 15 minutos, o hasta que se absorba todo el agua.\n4. Preparar el aderezo curry.\n5. Añadir 2 cucharadas de aderezo a la quinoa cocida; mezclar bien.\n6. Enfriar a temperatura ambiente.\n7. Mezclar la quinoa fría con los ingredientes restantes, excepto la lechuga romana; refrigerar hasta el momento de servir.\n8. Para servir, adornar las ensaladas con lechuga romana o rellenar hojas individuales de lechuga romana con la mezcla de quinoa y rociar con aderezo.",
+  "url": null
+}

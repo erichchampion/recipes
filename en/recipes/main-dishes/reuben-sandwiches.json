@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "reuben-sandwiches",
+  "name": "Reuben Sandwiches",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "Corn beef, boiled",
+    "Rye bread",
+    "Butter",
+    "Sauerkraut",
+    "Thousand island dressing",
+    "Swiss cheese"
+  ],
+  "recipeInstructions": "1. Slice the rye bread.\n2. Butter one side of each slice.\n3. Place a layer of corn beef on one slice of buttered bread.\n4. Add sauerkraut and thousand island dressing over the corn beef.\n5. Top with slices of Swiss cheese.\n6. Cover with another slice of bread, buttered side down.\n7. Grill or broil until the cheese is melted and bubbly.",
+  "url": null
+}

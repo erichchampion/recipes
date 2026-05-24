@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-cakes",
+  "name": "Tortas de patata",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "tentempiés",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 tazas puré de patatas",
+    "1 clara de huevo, ligeramente batida",
+    "2 cucharadas cebolla picada",
+    "2 cucharaditas harina de uso común",
+    "1/8 cucharadita sal",
+    "1 cucharadita aceite"
+  ],
+  "recipeInstructions": "1. En un bol mediano, mezclar el puré de patatas, la clara de huevo, la cebolla picada, la harina y la sal.\n2. Calentar el aceite en una sartén grande a fuego medio-alto.\n3. Cuando el aceite esté caliente, coger porciones de 2 cucharadas de la mezcla de patata y colocarlas en la sartén.\n4. Cocinar hasta que estén bien doradas por un lado, luego utilizar una espátula para darles la vuelta y cocinarlas por el otro lado hasta que estén doradas.\n5. Continuar preparando las tortitas, manteniendo las primeras calientes.",
+  "url": null
+}

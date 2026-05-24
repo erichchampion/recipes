@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken",
+  "name": "Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "1 Broiler, cut up",
+    "Chicken breasts",
+    "1 can Cream of chicken soup",
+    "1 can Cream of mushroom soup",
+    "1 can Mushroom pieces",
+    "1 Bell pepper, sliced",
+    "1 Onion, sliced",
+    "1 dash Salt",
+    "1 dash Pepper",
+    "1 dash Garlic powder",
+    "1/2 cup White wine"
+  ],
+  "recipeInstructions": "1. Place the chicken in a crockpot.\n2. Mix together the remaining ingredients and pour over the chicken.\n3. Cook on LOW for 6-7 hours or HIGH for 3-4 hours.\n4. Serve with noodles or rice.",
+  "url": null
+}

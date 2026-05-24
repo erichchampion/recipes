@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "herbed-pork-and-potatoes",
+  "name": "Cerdo y patatas con hierbas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo",
+    "rápido"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla, dividida",
+    "3 tazas de patatas rojas en cubos (de 2 cm)",
+    "1 lb (450g) de lomo de cerdo sin hueso cortado en cubos de 2 cm",
+    "1/2 cucharadita de romero seco molido",
+    "1/2 cucharadita de tomillo asado",
+    "1/2 cucharadita de sal",
+    "1 diente de ajo picado",
+    "2 tazas de pan de relleno con hierbas desmenuzado",
+    "1 taza de apio en rodajas",
+    "1 taza de cebolla picada",
+    "1/2 taza de zumo de manzana",
+    "3 tomates medianos picados",
+    "1/4 taza de perejil fresco picado"
+  ],
+  "recipeInstructions": "1. En una sartén grande, derrite 1/4 taza de mantequilla a fuego medio-alto.\n2. Añade las patatas; cocina, removiendo ocasionalmente, hasta que estén ligeramente doradas (aproximadamente 8 minutos).\n3. Agrega el cerdo, el romero, el tomillo, la sal y el ajo. Cocina y revuelve hasta que el cerdo esté dorado por todos lados, unos 12 minutos.\n4. Incorpora el pan de relleno, el apio, la cebolla, el zumo de manzana y el resto de la mantequilla; mezcla bien.\n5. Tapa y cocina durante 7 minutos o hasta que todo esté caliente.\n6. Añade los tomates y el perejil. Apaga el fuego; tapa y deja reposar durante 2 minutos.",
+  "url": null
+}

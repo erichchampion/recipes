@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pineapple-cream-candy",
+  "name": "Dulce de crema de piña",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "caramelos",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar blanca",
+    "1/2 taza de azúcar moreno",
+    "1/2 taza de pulpa y jugo de piña",
+    "1 cucharada de extracto de limón",
+    "1 cucharada de mantequilla",
+    "12 marshmallows",
+    "1 taza de nueces picadas"
+  ],
+  "recipeInstructions": "1. Mezclar los azúcares y la piña en una cacerola pesada.\n2. Cocinar a fuego medio hasta alcanzar el punto de bola blanda (235°F).\n3. Retirar del fuego y agregar la mantequilla, luego incorporar los marshmallows, las nueces y el extracto de limón.\n4. Batir hasta obtener una consistencia cremosa.",
+  "url": null
+}

@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "muffuletta-sandwich-2",
+  "name": "Muffuletta Sandwich",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meats",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "Olive Salad:",
+    "2/3 cup Green olives, pitted and coarsely chopped",
+    "2/3 cup Black olives, pitted and coarsely chopped",
+    "1/4 cup Pimiento, chopped",
+    "3 Cloves garlic, finely minced",
+    "1 Fillet anchovy, mashed",
+    "1 tbsp Capers",
+    "1/3 cup Finely chopped parsley",
+    "1 tsp Oregano",
+    "1/4 tsp Black pepper",
+    "1/2 cup Olive oil",
+    "The Sandwich:",
+    "1 large Loaf Italian Bread",
+    "1/3 lb Hard salami, very thinly sliced",
+    "1/3 lb Ham, very thinly sliced",
+    "1/3 lb Provolone, thinly sliced"
+  ],
+  "recipeInstructions": "1. Olive Salad: Mix together all ingredients and let marinate for at least 12 hours.\n2. The Sandwich:\na. Slice the loaf of Italian bread in half horizontally and slightly scoop out some of the insides.\nb. Layer on the salami, ham, and Provolone slices.\nc. Spread the olive salad mixture on the bread at least 3/4-inch thick.\nd. Replace the top half of the loaf and serve.",
+  "url": null
+}

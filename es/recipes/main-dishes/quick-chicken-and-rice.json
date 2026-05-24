@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-chicken-and-rice",
+  "name": "Pollo y arroz rápido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "diabético",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz marrón sin cocinar",
+    "1/2 taza de cebolla picada",
+    "1/2 taza de pimiento verde picado",
+    "2 tazas de agua",
+    "2 pechugas de pollo deshuesadas y divididas",
+    "1 cucharadita de pimienta negra",
+    "2 cucharaditas de polvo de ajo"
+  ],
+  "recipeInstructions": "1. Mezclar el arroz, la cebolla, el pimiento verde y el agua en una cacerola antiadherente de 1 litro o forrar el molde para hornear con papel aluminio.\n2. Colocar las pechugas de pollo divididas sobre la mezcla de arroz.\n3. Espolvorear con pimienta negra y polvo de ajo.\n4. Hornear cubierto a 175 °C durante 45 minutos a 1 hora, hasta que el arroz absorba todo el agua.",
+  "url": null
+}

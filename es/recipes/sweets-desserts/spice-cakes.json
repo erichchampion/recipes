@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "spice-cakes",
+  "name": "Pasteles Especiados",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pan",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 huevo",
+    "2 tazas de leche agria",
+    "1 cucharadita de bicarbonato de sodio",
+    "3 tazas de harina",
+    "1 cucharada de manteca derretida",
+    "1 cucharada de azúcar",
+    "1/8 cucharadita de nuez moscada",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Bate el huevo y añade la leche agria, el azúcar y la nuez moscada.\n2. Cierna la harina, el bicarbonato de sodio, la sal y mézclalos.\n3. Añade los ingredientes secos a la mezcla húmeda poco a poco.\n4. Incorpora la manteca derretida hasta que esté bien combinada.\n5. Vierte la masa sobre una plancha o sartén caliente, formando pasteles del tamaño de un plato para desayuno.\n6. Coloca varios pasteles en un plato de servir caliente.\n7. Unta cada pastel con mantequilla y espolvorea con canela o nuez moscada.\n8. Sirve cortando los pasteles como si fueran una tarta.",
+  "url": null
+}

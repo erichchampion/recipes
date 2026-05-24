@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-and-rice",
+  "name": "Carne y arroz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "2 libras de asado de cadera, cortado en cubos",
+    "sal y pimienta al gusto",
+    "2 cucharaditas de polvo de ajo",
+    "1 lata de sopa de champiñones cremosos",
+    "1 lata de sopa de cebolla cremosa",
+    "2 latas de agua",
+    "6 porciones de arroz caliente cocido"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en un asador grande o una olla holandesa.\n2. Mezclar bien.\n3. Hornear a 175 °C durante 3 horas, o hasta que la carne esté tierna.\n4. Servir sobre arroz caliente cocido.",
+  "url": null
+}

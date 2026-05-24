@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "fiery-salsa",
+  "name": "Fiery Salsa",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "ethnic",
+    "mexican",
+    "salsas",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 large onion",
+    "8 tomatoes",
+    "1/2 small bunch cilantro (no stems)",
+    "10 jalapeno peppers",
+    "Juice of 1 lime",
+    "Juice of 1 lemon",
+    "2 tbsp vinegar",
+    "1 tsp salt",
+    "1 tsp pepper",
+    "1 tsp garlic salt",
+    "1 tsp oregano"
+  ],
+  "recipeInstructions": "1. Dice the onion, tomatoes, jalapeno peppers, and cilantro as small as possible.\n2. In a large bowl, combine the remaining ingredients.\n3. Chill overnight.",
+  "url": null
+}

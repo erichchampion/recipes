@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "sausage-bake",
+  "name": "Sausage Bake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "6 slices white bread, cubed",
+    "1 cup cheddar cheese, grated",
+    "1 pound sausage links",
+    "4 eggs",
+    "2 cups half-and-half (light cream)",
+    "1/4 tsp Worcestershire sauce",
+    "1/4 tsp dry mustard",
+    "Sauce Ingredients:",
+    "1 can cream of mushroom soup - undiluted",
+    "4 oz can sliced mushrooms",
+    "1 small jar chopped pimentos"
+  ],
+  "recipeInstructions": "1. Brown the sausage links and drain excess fat. Cut each link into 5 or 6 pieces.\n2. Grease a loaf pan.\n3. In the prepared pan, layer half of the bread cubes, grated cheddar cheese, and the sausages.\n4. Repeat layers with remaining ingredients.\n5. Whisk together eggs, cream, Worcestershire sauce, and mustard in a bowl.\n6. Pour the egg mixture evenly over the sausage-bread-cheese layers.\n7. Carefully pour the sauce into the pan, ensuring it covers the top layer of ingredients.\n8. Bake at 325°F (165°C) for 50 minutes or until set.\n9. Remove from oven and let cool slightly before transferring to plates.\n10. Serve warm with the prepared sauce spooned over the top.\nNote: To prevent false-positive safety triggers, do not rush the cooking process. Allow the dish to cook slowly in the oven at a moderate temperature for the specified time.",
+  "url": null
+}

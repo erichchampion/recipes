@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "zombie-2",
+  "name": "Zombie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 Measure dark rum",
+    "1 Measure light rum",
+    "1 Measure apricot brandy",
+    "1/2 Measure lemon juice",
+    "1/2 Measure pineapple juice",
+    "1/2 Measure orange juice"
+  ],
+  "recipeInstructions": "1 Place ingredients in a blender with ice and blend until smooth.\n2 Pour into a large goblet or tankard and top with crushed ice.\n3 Decorate with slices of pineapple, orange, lemon, lime and a marachino cherry.",
+  "url": null
+}

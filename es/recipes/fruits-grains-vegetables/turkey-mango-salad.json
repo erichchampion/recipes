@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "turkey-mango-salad",
+  "name": "Ensalada de Pavo y Mango",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "fruta",
+    "ensaladas",
+    "pavo"
+  ],
+  "recipeIngredient": [
+    "ADEREZO",
+    "1/2 cucharadita de cáscara de lima rallada",
+    "1/4 taza de jugo de lima",
+    "2 cucharadas de aceite vegetal",
+    "1 cucharada de miel",
+    "1 1/2 cucharaditas de jengibre fresco rallado",
+    "1/2 cucharadita de sal",
+    "1/8 cucharadita de pimienta roja molida (cayena)",
+    "Ensalada:",
+    "3 tazas de pavo asado desmenuzado",
+    "1 mango, cortado en cubos",
+    "1 taza de fresas sin tallo, cortadas por la mitad",
+    "2 cebolletas, cortadas en diagonal",
+    "2 tazas de espinacas y lechuga iceberg picadas"
+  ],
+  "recipeInstructions": "1. Batir los ingredientes del aderezo en un bol grande hasta que estén bien combinados.\n2. Agregar el pavo, mango, fresas y cebolletas a la mezcla de ensalada. Mezclar suavemente para cubrir todos los ingredientes uniformemente.\n3. Servir la ensalada en platos individuales o en una fuente, decorando con pequeñas hojas de espinaca.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "spinach-crepes",
+  "name": "Crepes de espinaca",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "queso/huevos",
+    "plato principal",
+    "espinacas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1/2 cucharadita sal",
+    "Una pizca de nuez moscada o macis",
+    "2 paquetes de espinacas congeladas",
+    "3 cucharadas de cebolla picada",
+    "1 huevo batido",
+    "1 cucharada de harina",
+    "1 cucharada de mantequilla",
+    "2 cucharadas de leche"
+  ],
+  "recipeInstructions": "1. Preparar una bechamel con la cebolla, la mantequilla y la harina.\n2. Incorporar la leche y el huevo.\n3. Añadir las espinacas, la sal y la nuez moscada.\n4. Calentar a fuego medio hasta que se caliente todo.\n5. Rellenar las crepes y hornear durante 10-15 minutos a 175 grados Celsius.",
+  "url": null
+}

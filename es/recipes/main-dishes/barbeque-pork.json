@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbeque-pork",
+  "name": "Cerdo a la barbacoa",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecua",
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 lb lomo de cerdo",
+    "2 cucharadas de miel",
+    "3 cucharadas de salsa de soja clara",
+    "2 cucharadas de salsa Hoisin",
+    "2 cucharadas de ketchup",
+    "1 cucharadita de salsa de soja oscura",
+    "1 cucharada de jerez",
+    "1 diente de ajo machacado",
+    "1 cucharada de azúcar"
+  ],
+  "recipeInstructions": "1. Cortar la carne en tiras de unos 5 cm de ancho y 15 cm de largo.\n2. Mezclar todos los ingredientes restantes en un bol; verter sobre el cerdo y marinar al menos 2 horas.\n3. Enhebrar la carne con ganchos metálicos y colgarla en la rejilla superior del horno, sobre una bandeja poco profunda con unos cm de agua.\n4. Precalentar el horno a 200 °C durante 10 minutos.\n5. Asar el cerdo durante 20 minutos.\n6. Rocíar la carne con los jugos cada 5 minutos utilizando un pincel.\n7. Reducir la temperatura a 160 °C y asar durante 5 minutos más.\n8. Cortar cada tira en diagonal contra el grano en trozos de 0,6 cm.\n9. Servir frío. Acompañar con mostaza china caliente y semillas de sésamo.",
+  "url": null
+}

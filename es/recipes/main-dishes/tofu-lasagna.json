@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tofu-lasagna",
+  "name": "Tofu Lasaña",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "10 oz de tofu escurrido",
+    "1/4 taza de parmesano rallado",
+    "2 dientes de ajo picados",
+    "1/2 lb de setas laminadas y salteadas",
+    "1/4 taza de perejil fresco picado",
+    "2 tazas de salsa",
+    "2 tazas de queso mozzarella rallado, o suizo o muenster",
+    "12 placas de lasaña"
+  ],
+  "recipeInstructions": "1. Machaca el tofu y mézclalo con el parmesano y el ajo.\n2. Precalienta el horno a 350°F (175°C).\n3. Engrasa un plato para hornear. Capa las placas de lasaña, salsa, mezcla de queso, setas y tofu.\n4. Cubre con una capa de placas de lasaña, salsa y queso.\n5. Hornea durante 45 minutos a 350°F (175°C), o 35 minutos a 400°F (200°C).",
+  "url": null
+}

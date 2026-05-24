@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-ketchup",
+  "name": "Ketchup rápido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de salsa de tomate",
+    "2 cucharadas de azúcar",
+    "2 cucharadas de vinagre",
+    "1/2 cucharadita de sal",
+    "1/8 cucharadita de clavo molido"
+  ],
+  "recipeInstructions": "1. Mezclar la salsa de tomate, el azúcar, el vinagre, la sal y el clavo en un bol.\n2. Revolver todos los ingredientes hasta que estén bien combinados.\n3. Dejar enfriar la mezcla antes de usarla.",
+  "url": null
+}

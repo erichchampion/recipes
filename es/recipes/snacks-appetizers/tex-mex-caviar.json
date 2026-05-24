@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "tex-mex-caviar",
+  "name": "Caviar Tex-Mex",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "mariscos",
+    "platos secundarios",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "10 onzas de guisantes negros congelados",
+    "1/4 taza de pimiento rojo dulce, picado",
+    "1/4 taza de pimiento verde dulce, picado",
+    "1/4 taza de cebolla roja, picada",
+    "1 cucharada de pimiento jalapeño fresco, picado",
+    "2 cucharadas de perejil picado",
+    "1/4 taza de aderezo italiano bajo en grasas o calórico"
+  ],
+  "recipeInstructions": "1. Enjuagar y escurrir los guisantes negros congelados.\n2. Mezclar los guisantes con los pimientos rojos, verdes, la cebolla, el jalapeño y el perejil picado.\n3. Añadir el aderezo italiano bajo en grasas o calórico al gusto.\n4. Refrigerar hasta servir.",
+  "url": null
+}

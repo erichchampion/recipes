@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fast-pizza",
+  "name": "Pizza rápida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "baja en calorías",
+    "plato principal",
+    "mcdougall",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 cucharadita de pan pita; cortado por la mitad",
+    "2 cucharadas de salsa de tomate; baja en sodio",
+    "1/4 taza de cebolla amarilla; picada",
+    "1/4 taza de cebollino; picado",
+    "1/4 taza de pimientos verdes; picados",
+    "4 setas; laminadas",
+    "2 cucharadas de brotes de alfalfa"
+  ],
+  "recipeInstructions": "1. Cortar el pan pita en dos mitades separándolo en dos círculos.\n2. Extender cada mitad con salsa de tomate.\n3. Espolvorear albahaca y orégano sobre la salsa de tomate.\n4. Añadir los toppings deseados: cebolla amarilla picada, cebollino, pimientos verdes y setas.\n5. Hornear a 175°C durante 10 minutos o calentar en un tostador a 220°C durante 5 minutos.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "bob-s-burger-soup-2",
+  "name": "Sopa de la hamburguesa de Bob",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "2 cebollas pequeñas picadas",
+    "1 lata de jugo de tomate (48 onzas)",
+    "1 taza de agua",
+    "1 lata de sopa cremosa de setas",
+    "1,5 cucharaditas de albahaca",
+    "0,25 cucharaditas de tomillo",
+    "0,25 cucharaditas de mezcla para adobo italiano",
+    "1,5 cucharaditas de orégano",
+    "2 hojas de laurel",
+    "Sal y pimienta al gusto",
+    "1 paquete de guisantes congelados (10 onzas)",
+    "4 onzas de fideos secos"
+  ],
+  "recipeInstructions": "1. Sofreír la carne con las cebollas hasta que esté dorada.\n2. Añadir el jugo de tomate y el agua a la sartén. Remover bien.\n3. Dejar hervir a fuego lento durante unos minutos, luego agregar la sopa cremosa de setas y las especias.\n4. Llevar la mezcla a ebullición.\n5. Incorporar los guisantes congelados y los fideos secos. Dejar hervir a fuego lento durante 30 minutos.",
+  "url": null
+}

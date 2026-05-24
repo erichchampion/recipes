@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "real-chocolate-bread-abm",
+  "name": "Pan de chocolate real ABM",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 sobre de levadura",
+    "3 tazas de harina (para pan)",
+    "1/2 taza de azúcar",
+    "1/4 taza de cacao sin endulzar",
+    "1 huevo (sin batir)",
+    "1/4 taza de mantequilla blanda, o margarina",
+    "1 cucharadita de vainilla",
+    "1 taza de leche tibia"
+  ],
+  "recipeInstructions": "1. Llevar todos los ingredientes a temperatura ambiente.\n2. Verter los ingredientes en un bol de panadería en el siguiente orden: levadura, harina, azúcar, cacao, huevo, mantequilla, vainilla y leche tibia.\n3. Establecer el control de horneado a las 10 en punto.\n4. Seleccionar \"pan blanco\" bajo la configuración.\n5. Presionar \"Iniciar\" para comenzar a hornear.\n6. En climas calurosos y húmedos, usar 1/8 taza menos de agua.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-upside-down-pizza",
+  "name": "Pizza al revés rápida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne molida",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1 frasco grande de salsa Ragu",
+    "8 oz de queso mozzarella rallado",
+    "1/2 taza de cebolla picada",
+    "1 cucharadita de sal de ajo",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1 paquete de Bisquick",
+    "2 huevos",
+    "1 taza de leche"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida en una sartén y reservar.\n2. En un bol pequeño, mezclar el Bisquick, los huevos y la leche hasta obtener una masa suave.\n3. Montar la pizza al revés en un plato para horno:\n- Extender la carne molida\n- Añadir la cebolla picada\n- Espolvorear con sal de ajo, sal y pimienta\n- Cubrir con queso mozzarella rallado\n- Verter la salsa Ragu\n- Verter la mezcla de Bisquick de paso 2\n4. Espolvorear con queso parmesano rallado.\n5. Hornear a 180°C (aproximadamente 200°C) durante 20 minutos, o hasta que esté caliente y el queso se haya derretido y formado burbujas. Sirve de 6 a 8 personas.",
+  "url": null
+}

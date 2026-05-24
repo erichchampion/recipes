@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "moroccan-chicken",
+  "name": "Pollo marroquí",
+  "recipeCuisine": "Africa & Middle East",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "bajo en calorías",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "2 pechugas de pollo enteras sin piel ni hueso, cortadas por la mitad",
+    "1/3 taza de mermelada de albaricoque",
+    "2 cucharaditas de jengibre fresco rallado",
+    "1 cucharadita de canela molida",
+    "1/2 taza de aceitunas negras cortadas por la mitad",
+    "1 cucharada de jugo de limón fresco"
+  ],
+  "recipeInstructions": "1. Coloca el pollo en una cesta para vapor o sobre una rejilla sobre agua hirviendo.\n2. Tapa y lleva el agua a ebullición.\n3. Reduce el fuego a medio-bajo y cocina al vapor el pollo durante 15 a 20 minutos, hasta que esté bien hecho.\n4. Mientras tanto, combina la mermelada de albaricoque, jengibre, canela, aceitunas negras y jugo de limón en una cacerola pequeña.\n5. Calienta la mezcla hasta que hierva.\n6. Transfiere el pollo a un plato para servir.\n7. Vierte la salsa sobre el pollo y sirve con arroz caliente al vapor o cuscús.",
+  "url": null
+}

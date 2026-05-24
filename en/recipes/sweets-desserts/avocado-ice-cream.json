@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "avocado-ice-cream",
+  "name": "Avocado Ice Cream",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "fruits",
+    "ice cream"
+  ],
+  "recipeIngredient": [
+    "1/2 cup orange juice",
+    "1/2 cup lemon juice",
+    "14 1/2 oz can evaporated milk",
+    "-- well chilled",
+    "1 cup mashed ripe avocados",
+    "1 1/2 cups sugar"
+  ],
+  "recipeInstructions": "1. Mix the juices.\n2. Beat the milk in a chilled bowl until almost doubled in volume.\n3. Add all ingredients; blend well.\n4. Freeze.",
+  "url": null
+}

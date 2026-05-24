@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "hearty-beef-supper",
+  "name": "Cena abundante de ternera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "queso/huevos",
+    "carne molida",
+    "plato principal",
+    "carne",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne molida magra",
+    "1 taza de cebolla; picada",
+    "1 tomate grande; fresco; picado",
+    "2 tazas de agua",
+    "2 cucharadas de caldo de carne instantáneo",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de orégano seco",
+    "1/4 cucharadita de ajo en polvo",
+    "1/4 cucharadita de pimienta negra",
+    "1/2 taza de queso parmesano; rallado",
+    "3 cucharadas de perejil; picado"
+  ],
+  "recipeInstructions": "1. Cocinar y revolver la carne y la cebolla en una sartén grande hasta que la carne esté dorada.\n2. Escurrir el exceso de grasa.\n3. Incorporar los demás ingredientes excepto el queso parmesano rallado.\n4. Llevar a ebullición, luego reducir el fuego y cocinar a fuego lento, cubierto, revolviendo ocasionalmente, hasta que la pasta esté tierna, aproximadamente 30 minutos. Se puede añadir un poco de agua si es necesario.\n5. Mezclar el queso y sazonar con perejil picado adicional y/o queso parmesano.",
+  "url": null
+}

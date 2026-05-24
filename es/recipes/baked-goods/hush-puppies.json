@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "hush-puppies",
+  "name": "Perros del Silencio",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "americano",
+    "productos horneados",
+    "pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina de maíz",
+    "2 cucharaditas de polvo de hornear",
+    "1 cucharadita de sal",
+    "1 cebolla entera picada finamente",
+    "2 cucharadas de grasa de tocino",
+    "1 huevo",
+    "2/3 taza de leche",
+    "6 tazas de aceite de maní"
+  ],
+  "recipeInstructions": "1. Mezclar la harina de maíz, el polvo de hornear y la sal.\n2. Saltear la cebolla en la grasa de tocino hasta que se ablande; dejar enfriar ligeramente.\n3. Batir el huevo hasta que esté espumoso, luego agregar la leche y la cebolla enfriada.\n4. Incorporar la mezcla a los ingredientes secos para formar una masa espesa.\n5. Calentar el aceite en una freidora profunda a 175 °C.\n6. Dar forma a la masa en medias lunas de 3 pulgadas de largo.\n7. Freír las medias lunas en lotes de una capa hasta que adquieran un color dorado marrón.",
+  "url": null
+}

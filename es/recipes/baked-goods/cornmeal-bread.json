@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cornmeal-bread",
+  "name": "Pan de masa de maíz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "maíz molido"
+  ],
+  "recipeIngredient": [
+    "1 taza de agua",
+    "1/4 cucharadita de puré de manzana",
+    "1 sustituto de huevo (como claras batidas)",
+    "2 cucharadas de azúcar",
+    "1 cucharadita de sal",
+    "1 taza de maíz molido",
+    "2 tazas de harina de trigo",
+    "1 cucharadita de levadura"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 °F (175 °C).\n2. En un bol grande, mezclar el agua, el puré de manzana, los sustitutos del huevo, el azúcar y la sal.\n3. Incorporar gradualmente el maíz molido, la harina de trigo y la levadura hasta obtener una masa bien combinada.\n4. Dar forma a la masa en un pan largo y colocarlo sobre una bandeja para hornear engrasada.\n5. Hornear durante 30-35 minutos o hasta que esté dorado y crujiente.\n6. Apagar el horno, dejar enfriar sobre una rejilla antes de cortar.",
+  "url": null
+}

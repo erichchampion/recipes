@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "blueberry-pancakes",
+  "name": "Tortas de arándanos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "crepes"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina integral",
+    "1 cucharadita de polvo de hornear",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de bicarbonato de sodio",
+    "1 cucharada (si se usan arándanos sin endulzar)",
+    "2 tazas de leche de soja o leche de arroz",
+    "1/2 taza de arándanos enlatados con jugo"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes secos juntos.\n2. Incorporar la leche de soja y los arándanos.\n3. Si la masa está demasiado espesa, añadir más jugo de arándano hasta alcanzar la consistencia deseada.\n4. Cocinar en una sartén antiadherente hasta que parezcan comestibles. ¡Estarán muy azules!",
+  "url": null
+}

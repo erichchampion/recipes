@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "jacques-pasta",
+  "name": "Pasta de Jacques",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 berenjena (pelada)",
+    "1 cebolla roja",
+    "3-4 dientes de ajo",
+    "2 tomates",
+    "Sal y pimienta al gusto",
+    "1 libra de espagueti"
+  ],
+  "recipeInstructions": "1. Hierve agua para cocinar el espagueti.\n2. Corta la cebolla en rodajas, luego en cuartos.\n3. Corta la berenjena en cubos y cocina con 1/4 taza de agua o vino blanco durante 6-7 minutos hasta que esté tierna.\n4. Añade los tomates cortados en cubos y el ajo picado. Cocina durante 2-3 minutos más.\n5. Sazona con sal y pimienta al gusto (yo añado más en la mesa).\n6. Escurre el espagueti y mézclalo con la salsa, cocinando durante 1-2 minutos adicionales.\nCuando la pasta esté casi lista (aproximadamente 1 minuto más), mézclala con la salsa y cocina hasta que esté terminada. Sirve.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "toasted-ravioli",
+  "name": "Raviolis tostados",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de leche",
+    "1 huevo grande, batido ligeramente",
+    "3/4 taza de migas de pan italianas sazonadas con seco",
+    "1/2 paquete de raviolis rellenos de queso congelados, descongelados",
+    "aceite vegetal",
+    "Queso parmesano rallado",
+    "salsa de pizza caliente"
+  ],
+  "recipeInstructions": "1. Mezclar la leche y el huevo.\n2. Colocar las migas de pan en un bol poco profundo.\n3. Sumergir cada ravioli en la mezcla de leche y cubrir con migas de pan.\n4. Calentar el aceite vegetal a 175 °C en una olla holandesa.\n5. Freír los raviolis, unos pocos a la vez, durante 1 minuto por cada lado o hasta que estén dorados.\n6. Escurrir los raviolis fritos sobre papel absorbente.\n7. Espolvorear con queso parmesano rallado.\n8. Servir inmediatamente con salsa de pizza caliente.",
+  "url": null
+}

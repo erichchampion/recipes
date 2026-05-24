@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "zucchini-stroganoff",
+  "name": "Zucchini Stroganoff",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "1 pound ground beef",
+    "1/2 cup onions, chopped",
+    "1 can cream of mushroom soup",
+    "2 cups uncooked egg noodles",
+    "2 cups zucchini, julienned",
+    "salt and pepper",
+    "1 teaspoon dried chervil or basil",
+    "1 cup sour cream"
+  ],
+  "recipeInstructions": "1. Brown the beef and onions in a skillet.\n2. Add the remaining ingredients, except for the sour cream, to the skillet.\n3. Simmer covered until the noodles are done.\n4. Stir in the sour cream and heat through.",
+  "url": null
+}

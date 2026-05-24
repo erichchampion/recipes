@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "wild-boar",
+  "name": "Cerdo salvaje",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "juego",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 lata de caldo condensado",
+    "2 tazas de vinagre de sidra",
+    "8 tazas de vino tinto",
+    "1 1/2 cucharaditas de pimienta negra molida",
+    "2 cucharadas de sal",
+    "2 hojas de laurel",
+    "1 cucharadita de tomillo desmenuzado",
+    "2 dientes de ajo picados",
+    "8 granos de eneldo",
+    "1 trozo de carne de cerdo salvaje (aproximadamente 5 libras)",
+    "6 zanahorias (limpias y cortadas en cuartos)",
+    "2 cebollas grandes (cortadas en cuartos)",
+    "4 tallos de apio (cortados en trozos de 2 pulgadas)",
+    "1 lata de caldo de carne condensado",
+    "1/3 taza de gelatina de guindas",
+    "1/2 taza de harina mezclada con 3/4 taza de agua"
+  ],
+  "recipeInstructions": "1. Mezclar el caldo condensado, vinagre, vino, pimienta, sal, hojas de laurel, tomillo, ajo y granos de eneldo en un bol de vidrio o de enamel.\n2. Colocar la carne de cerdo salvaje en la marinada. Dejar marinar a temperatura ambiente durante 2 días.\n3. Transferir la carne y la marinada a una olla grande. Cubrir y cocer a fuego lento durante 2 a 2 1/2 horas, o hasta que la carne esté casi tierna.\n4. Añadir las zanahorias, cebollas y apio. Cubrir y cocer a fuego lento hasta que las verduras estén tiernas, aproximadamente 20 minutos.\n5. Retirar la carne y las verduras y mantener calientes.\n6. Agregar el caldo de carne, gelatina de guindas y la mezcla de harina y agua a los líquidos de la sartén. Revolver hasta que la salsa hierva y se espese ligeramente.\n7. Continuar cocinando a ebullición hasta que la salsa alcance la consistencia de una buena salsa marrón.\n8. Verter la salsa caliente sobre porciones de cerdo salvaje y verduras cortadas. Servir con puré de castañas.",
+  "url": null
+}

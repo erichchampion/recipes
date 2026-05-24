@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-and-mushrooms",
+  "name": "Pescado y setas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "pescado",
+    "plato principal",
+    "dietas especiales",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 cebolla grande; finamente laminada",
+    "Sal al gusto",
+    "1 cucharada de aceite",
+    "Pimienta al gusto",
+    "1 1/2 tazas de setas; laminadas finamente",
+    "450 g de filetes de pescado (codillo, halibut o merluza); cortados en rodajas de 1 pulgada"
+  ],
+  "recipeInstructions": "1. Precalentar una sartén antiadherente y saltear la cebolla en el aceite.\n2. Añadir las setas y saltear durante unos 2 minutos, removiendo constantemente, hasta que se marchiten.\n3. Extender la mitad de las rodajas de pescado sobre las setas; espolvorear con sal y pimienta.\n4. Extender el resto de las rodajas de pescado sobre las setas; espolvorear con sal y pimienta.\n5. Agregar apio, salsa de soja y jerez; cocinar a fuego lento, cubierto, durante 10 minutos.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "joe-s-eggnog",
+  "name": "Joe's Eggnog",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "desserts",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "60 Egg yolks",
+    "4 cups Cognac or bourbon",
+    "2 cups Sugar, or to taste",
+    "1 cup Dark rum",
+    "1 teaspoon Salt",
+    "1 teaspoon Vanilla extract",
+    "4 cups Heavy cream, whipped",
+    "Nutmeg"
+  ],
+  "recipeInstructions": "1. Beat the egg yolks until light in color.\n2. Gradually add the cognac or bourbon while continuously beating.\n3. Dissolve the sugar in the rum and stir into the egg yolk mixture.\n4. Add the salt and vanilla extract.\n5. Stir in the whipped cream.\n6. Beat the egg whites until stiff but not dry.\n7. Gently fold the beaten egg whites into the mixture.\n8. Sprinkle with nutmeg before serving.",
+  "url": null
+}

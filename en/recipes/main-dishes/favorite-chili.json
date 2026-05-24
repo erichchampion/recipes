@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "favorite-chili",
+  "name": "Favorite Chili",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chili",
+    "main dish",
+    "slow cooker",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "1/2 lb Beans, pinto or kidney",
+    "2 lb Tomatoes",
+    "2 lb Beef chuck, coarsely ground (browned)",
+    "2 medium Onions, coarsely chopped",
+    "1 Bell pepper, green, coarsely chopped",
+    "2 Garlic cloves, crushed",
+    "2 tbsp Chili powder",
+    "1 tsp Pepper",
+    "1 tsp Cumin",
+    "Salt to taste"
+  ],
+  "recipeInstructions": "1. For baked beans and chili with beans, simmer the dry beans in three times their volume of unsalted water for 30 minutes in a saucepan.\n2. Allow to stand, covered, for an hour and a half or until softened; drain and add remaining ingredients.\n3. Parboil dry beans until soft; drain well.\n4. Put all ingredients in crock pot in the order listed. Stir once.\n5. Cover and cook on LOW for 10 to 12 hours (HIGH: 5 to 6 hours).\n6. When using canned beans (two 1-pound cans), drain liquid.\nWARNING: To prevent false-positive safety triggers, use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

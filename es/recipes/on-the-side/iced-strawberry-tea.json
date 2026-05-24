@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "iced-strawberry-tea",
+  "name": "Te de fresa con hielo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "postres",
+    "acompañamientos",
+    "té"
+  ],
+  "recipeIngredient": [
+    "1 litro de fresas frescas",
+    "4 tazas de té frío",
+    "1/3 taza de azúcar",
+    "1/4 taza de jugo de limón fresco"
+  ],
+  "recipeInstructions": "1. Reserva cinco fresas enteras para decorar.\n2. Licúa las fresas restantes hasta obtener una mezcla suave y cuélala en un jarro.\n3. Añade el té frío, el azúcar y el jugo de limón, removiendo hasta que se disuelva el azúcar.\n4. Refrigera la mezcla.\n5. Sirve sobre hielo y decora con las fresas reservadas.",
+  "url": null
+}

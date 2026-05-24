@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "jack-daniels-baked-beans",
+  "name": "Frijoles horneados con Jack Daniels",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "barbecua",
+    "frijoles",
+    "platos secundarios",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "16 oz. frijoles al horno de cerdo",
+    "Jack Daniels",
+    "Fumo líquido",
+    "Azúcar morena",
+    "Mostaza en polvo",
+    "Ajo (picado)",
+    "Cebolla (picada)",
+    "Vinagre de sidra",
+    "Pimiento verde (picado)",
+    "Salsa Worcestershire",
+    "Jugo de limón"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una sartén grande.\n2. Transferir la mezcla a un recipiente apto para horno.\n3. Hornear a 180°C durante aproximadamente 1,5 horas, removiendo ocasionalmente.",
+  "url": null
+}

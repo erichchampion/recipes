@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemonade-concentrate",
+  "name": "Concentrado de Limonada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "limonada",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de azúcar granulada",
+    "2 1/2 tazas de agua",
+    "9 limones enteros",
+    "Un ramito de menta"
+  ],
+  "recipeInstructions": "1. Mezcla el azúcar y el agua en un cazo pequeño. Lleva a ebullición y continúa cocinando durante 5 minutos.\n2. Retira del fuego y deja enfriar ligeramente.\n3. Reserva un limón para la decoración.\n4. Ralla la cáscara de dos limones y exprime ocho limones.\n5. Añade el zumo y la cáscara al jarabe caliente.\n6. Deja reposar durante una hora.\n7. Cuela la mezcla.\n8. Para servir, mezcla 1 parte de concentrado con 2 partes de agua. Sirve sobre hielo. Decora con rodajas de limón y menta.",
+  "url": null
+}

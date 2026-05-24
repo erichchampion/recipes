@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "pot-au-feu",
+  "name": "Pot Au Feu",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "ethnic",
+    "french"
+  ],
+  "recipeIngredient": [
+    "2 lb Boneless rump roast",
+    "-1 bay leaf",
+    "-6 peppercorns",
+    "-1/2 teaspoon thyme",
+    "-4 garlic cloves",
+    "-1 whole clove each",
+    "-2 peeled onions, halved",
+    "-2 scraped parsnips",
+    "-1 lb pork shoulder (optional)",
+    "-2 stalks celery, cut into 2-inch pieces",
+    "-2 or 3 chicken breasts",
+    "10 oz beef bouillon",
+    "1/2 lb Polish sausage, browned and drained, then cut into cubes"
+  ],
+  "recipeInstructions": "1. Season the meat to taste.\n2. Make an Herb Bouquet by wrapping a bay leaf, peppercorns, thyme, garlic cloves, and whole cloves in cheesecloth or a tea strainer.\n3. Alternate pieces of meat in the Crock-POT with sausage on top. Add vegetables on the sides to fill up the pot.\n4. Place the Herb Bouquet in the approximate center of the pot.\n5. Pour in the beef bouillon.\n6. Cover and cook on Low for 8 to 10 hours.\n7. Serve with cooked carrots, leeks, turnips, onions, and potatoes.",
+  "url": null
+}

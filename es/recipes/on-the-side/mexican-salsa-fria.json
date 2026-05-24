@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-salsa-fria",
+  "name": "Salsa fría mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "mexicana",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 libras de tomates maduros pelados, picados",
+    "3 cucharadas de aceite de oliva",
+    "3 cucharadas de vinagre de vino",
+    "1 taza de cebolla dulce picada",
+    "Sal al gusto",
+    "Pimienta negra molida al gusto",
+    "Cilantro fresco al gusto (o orégano si no está disponible)",
+    "4 o 5 chiles verdes enlatados, picados",
+    "1 lata de tomatillas mexicanas, picadas (o 3 tomates verdes pequeños, picados)"
+  ],
+  "recipeInstructions": "Mezclar todos los ingredientes y servir muy fría. El cilantro, también conocido como \"cilantro\" o perejil chino, debe ser fresco; si no está disponible, sustituir por orégano.\nFuente: El Libro Completo de Cocina al Aire Libre de James A. Beard y Helen Evans Brown Publicado: Charles Walstrom 8/92",
+  "url": null
+}

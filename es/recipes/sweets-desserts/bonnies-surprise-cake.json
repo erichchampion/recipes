@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "bonnies-surprise-cake",
+  "name": "Pastel sorpresa de Bonnies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres",
+    "frutas",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 taza de aceite",
+    "1 taza de azúcar",
+    "4 huevos",
+    "1 cucharadita de extracto de vainilla",
+    "1 cucharadita de polvo de hornear",
+    "2 tazas de harina",
+    "Un frasco de relleno de pastel (cereza, arándano, manzana o melocotón)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el frasco de relleno de pastel en un bol hasta obtener una consistencia pegajosa.\n2. Enmantequillar y enharinar un molde para pastel.\n3. Verter la mitad de la masa en el fondo del molde y extenderla.\n4. Colocar el frasco de relleno de fruta encima de la masa.\n5. Extender el resto de la masa sobre el relleno.\n6. Espolvorear con azúcar y canela.\n7. Hornear a 325°F (165°C) durante aproximadamente 1 hora.\n8. Para un molde rectangular de 13x9 pulgadas, duplicar la receta.",
+  "url": null
+}

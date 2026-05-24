@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pot-roast-3-2",
+  "name": "Estofado de Carne#3",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "3 libras de aguja de ternera para estofar",
+    "4 onzas de setas laminadas (de lata o en paquete)",
+    "1 sobre de mezcla de sopa de cebolla",
+    "1/2 taza de caldo de ternera"
+  ],
+  "recipeInstructions": "1. Coloca la carne en la olla de cocción lenta.\n2. Coloca las setas encima de la carne.\n3. Mezcla el caldo con la mezcla de sopa de cebolla y viértelo sobre todo.\n4. Tapa y cocina a fuego lento durante 10-12 horas o a fuego alto durante 5-6 horas.\n5. Opcional: Añade las verduras deseadas aproximadamente a mitad del tiempo de cocción.",
+  "url": null
+}

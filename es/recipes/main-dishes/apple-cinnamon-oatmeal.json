@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-cinnamon-oatmeal",
+  "name": "Avena de manzana y canela",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 taza de agua",
+    "1/4 taza de jugo de manzana",
+    "1 manzana verde, cortada en cubos",
+    "2/3 taza de avena en hojuelas",
+    "una pizca de canela",
+    "1 taza de leche desnatada"
+  ],
+  "recipeInstructions": "1. Verter el agua y el jugo de manzana en una cacerola mediana.\n2. Llevar a ebullición a fuego alto.\n3. Agregar los cubos de manzana, la avena y la canela a la cacerola.\n4. Devolver a ebullición, luego reducir el calor a bajo.\n5. Cocinar hasta que la avena espese.\n6. Servir caliente con leche.",
+  "url": null
+}

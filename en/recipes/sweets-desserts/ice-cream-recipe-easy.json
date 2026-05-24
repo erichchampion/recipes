@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "ice-cream-recipe-easy",
+  "name": "Ice Cream Recipe (Easy)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "ice cream"
+  ],
+  "recipeIngredient": [
+    "5 eggs",
+    "Pinch of salt",
+    "2 cups sugar",
+    "2 packages instant pudding mix",
+    "1 can evaporated milk",
+    "2 quarts milk"
+  ],
+  "recipeInstructions": "1. Beat the eggs well.\n2. Add the salt.\n3. Blend in the sugar and pudding mix.\n4. Add the milks.\n5. Stir everything until well combined.\n6. Pour the mixture into a container (a plastic one works best).\n7. Store it in the freezer overnight to set.",
+  "url": null
+}

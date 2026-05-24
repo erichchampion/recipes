@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-al-alfredo",
+  "name": "Pasta al 'Alfredo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "3 tazas de crema de montar",
+    "2 oz. queso parmesano rallado",
+    "2 oz. queso pecorino rallado",
+    "Una pizca de nuez moscada",
+    "Sal y pimienta negra recién molida al gusto",
+    "1 libra de pasta, cocida al dente"
+  ],
+  "recipeInstructions": "1. Calentar la crema en una cacerola a fuego medio hasta que comience a hervir.\n2. Retirar del fuego y agregar poco a poco los quesos rallados, removiendo hasta que se derritan y obtengan una textura suave.\n3. Incorporar la nuez moscada, sal y pimienta negra, ajustando al gusto.\n4. Dejar reposar la mezcla para que espese ligeramente, removiendo ocasionalmente.\n5. Mezclar la pasta cocida con la salsa, asegurándose de que quede bien cubierta.\n6. Servir inmediatamente.",
+  "url": null
+}

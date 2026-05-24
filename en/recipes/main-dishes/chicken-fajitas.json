@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-fajitas",
+  "name": "Chicken Fajitas",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "6 boneless skinless chicken breast halves",
+    "1/2 cup lemon juice",
+    "3 tablespoons vegetable oil",
+    "3 tablespoons wine vinegar",
+    "1/2 teaspoon salt",
+    "1/2 teaspoon white pepper, or lemon pepper",
+    "1 teaspoon garlic powder",
+    "2 large sweet onions, sliced",
+    "4 red and green bell peppers, sliced",
+    "guacamole",
+    "salsa",
+    "12 flour tortillas"
+  ],
+  "recipeInstructions": "1. Sprinkle salt, pepper, and garlic powder evenly over chicken.\n2. Mix in lemon juice, vegetable oil, and wine vinegar until the chicken is completely coated.\n3. Marinate for 1 hour.\n4. Grill the chicken breast halves whole or slice them up and stir-fry.\n5. Serve with roasted peppers and onions, salsa, and guacamole on warmed flour tortillas.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-spice-syrup",
+  "name": "Apple Spice Syrup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "brunch",
+    "condiments",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/4 cup Brown sugar",
+    "2 tablespoons Cornstarch",
+    "1/4 teaspoon Allspice",
+    "1/8 teaspoon Nutmeg",
+    "1 3/4 cups Apple juice"
+  ],
+  "recipeInstructions": "1. In a saucepan, combine brown sugar, cornstarch, allspice and nutmeg.\n2. Mix well.\n3. Add apple juice.\n4. Cook and stir over medium heat until syrup is bubbly and slightly thickened.",
+  "url": null
+}

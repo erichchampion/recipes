@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "sicilian-style-sausage",
+  "name": "Salchicha al estilo siciliano",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne molida",
+    "italiana",
+    "plato principal",
+    "carne",
+    "cerdo",
+    "salchichas"
+  ],
+  "recipeIngredient": [
+    "5 pies de embutidos de cerdo o cordero",
+    "4,5 kg de carne de cerdo (con un máximo del 25% de grasa)",
+    "2 kg de carne de pollo",
+    "2 cucharaditas de semillas de anís entero",
+    "2 cucharaditas de anís molido",
+    "2 cucharaditas de pimentón rojo molido",
+    "2 cucharaditas de sal",
+    "2 cucharaditas de pimienta negra",
+    "1 cucharadita de ajo en polvo"
+  ],
+  "recipeInstructions": "1. Preparar los embutidos.\n2. Moler la carne de cerdo y pollo con un disco fino.\n3. Mezclar la carne molida con el resto de ingredientes (semillas de anís, pimentón rojo, sal, pimienta negra y ajo en polvo).\n4. Moler nuevamente hasta que quede bien combinado.\n5. Rellenar la mezcla en los embutidos de cerdo o cordero.\n6. Formar salchichas de 10 cm de largo.\n7. Refrigerar las salchichas durante al menos 2 días antes de servir.",
+  "url": null
+}

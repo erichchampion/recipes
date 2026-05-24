@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "grape-nuts-hot-recipe",
+  "name": "Grape Nuts Hot Recipe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "cereals",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1/4 cup Grape Nuts cereal",
+    "1/4 cup Skim milk",
+    "Fresh fruit (optional)",
+    "Honey (optional)"
+  ],
+  "recipeInstructions": "1. Place the Grape Nuts cereal in a microwaveable bowl.\n2. Add skim milk to the bowl.\n3. Microwave on high until the desired crunch is achieved. For a bigger crunch, microwave for 30 seconds; for a lighter crunch, microwave for 60 seconds.\n4. Once done, add fresh fruit or honey if desired.",
+  "url": null
+}

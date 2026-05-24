@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "bobbie-s-gazpacho",
+  "name": "Gazpacho de Bobbie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "tomates",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 lata grande de cóctel de jugo de verduras",
+    "1 diente de ajo, picado finamente",
+    "2 zanahorias, cortadas en trozos pequeños",
+    "1 pepino, cortado en trozos pequeños",
+    "1 cebolla, picada",
+    "1 cucharada de vinagre de vino",
+    "1 cucharada de aceite de oliva",
+    "2 radices, cortadas en dados",
+    "3 tallos de apio, finamente picados",
+    "1/2 pimiento verde, cortado en dados",
+    "1 tomate, pelado y cortado en trozos"
+  ],
+  "recipeInstructions": "1. En un bol profundo grande, mezcla el jugo, el ajo, las zanahorias, el pepino, la cebolla, el vinagre, el aceite de oliva, los radices, el apio y el pimiento verde.\n2. Refrigera la mezcla hasta que esté fría.\n3. Sirve frío. Opcionalmente, añade tomates picados pelados.",
+  "url": null
+}

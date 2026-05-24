@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pickin-pork",
+  "name": "Cerdo a la parrilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "aperitivos",
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "8 libras de paleta de cerdo, con hueso",
+    "vinagre de manzana",
+    "2 tarros de condimento de limón y pimienta"
+  ],
+  "recipeInstructions": "1. La noche anterior a servir, retira la piel y grasa del cerdo.\n2. Coloca el cerdo en un recipiente grande y cúbrelos con suficiente vinagre de manzana.\n3. Deja marinar durante la noche.\n4. Por la mañana del día de servir, retira el cerdo del vinagre y sécalo bien.\n5. Esparce uniformemente el condimento de limón y pimienta sobre toda la paleta para formar una costra gruesa.\n6. Envuelve el cerdo apretadamente en papel de aluminio y colócalo en un plato para hornear o bandeja para asar.\n7. Cocina a 250°F durante al menos 8 horas.",
+  "url": null
+}

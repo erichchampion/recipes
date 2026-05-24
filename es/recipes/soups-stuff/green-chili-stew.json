@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "green-chili-stew",
+  "name": "Estofado de Chili Verde",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "sopas",
+    "guisos",
+    "texas"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne molida",
+    "1/2 taza de cebolla picada",
+    "2 latas de maíz entero (de 16 onzas cada una)",
+    "1 lata grande de tomates enteros en jugo, picados",
+    "1 taza de chiles verdes frescos, o congelados, picados",
+    "Ajo",
+    "Sal",
+    "2 tazas de agua"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida con la cebolla picada.\n2. Agregar el maíz, los tomates en jugo y los chiles verdes a la olla.\n3. Verter 2 tazas de agua. Sazonar con ajo y sal al gusto.\n4. Tapar y cocinar a fuego lento durante aproximadamente 1 hora, o más tiempo si se desea.",
+  "url": null
+}

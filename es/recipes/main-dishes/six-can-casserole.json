@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "six-can-casserole",
+  "name": "Casserola de Seis Latas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lata de setas pequeñas",
+    "1 lata de leche evaporada pequeña",
+    "1 lata de fideos Chow mein grandes",
+    "1 lata de sopa Crema de pollo",
+    "1 lata de sopa Crema de apio",
+    "2 latas de pollo deshuesado pequeño"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes y añadir un toque de ajo en polvo.\n2. Cubrir con 1 taza de queso Cheddar rallado.\n3. Hornear a 180 °C durante 45 minutos.",
+  "url": null
+}

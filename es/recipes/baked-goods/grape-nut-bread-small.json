@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "grape-nut-bread-small",
+  "name": "Pan de Grape Nut - Pequeño",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "2/3 taza de agua",
+    "1 1/3 cucharadas de puré de manzana",
+    "2 cucharaditas de azúcar",
+    "1 cucharadita de sal",
+    "1/3 taza de cereales de uva"
+  ],
+  "recipeInstructions": "1. Precalentar la máquina de pan a la configuración básica.\n2. Agregar el agua, el puré de manzana, el azúcar y la sal en el molde de la máquina de pan.\n3. Colocar los cereales de uva en el molde de la máquina de pan.\n4. Seleccionar el ciclo de panecillos y iniciar la máquina.\n5. Cuando se complete el ciclo, apagar la máquina de pan y dejar enfriar unos minutos antes de sacar el pan.",
+  "url": null
+}

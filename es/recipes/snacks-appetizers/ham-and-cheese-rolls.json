@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-and-cheese-rolls",
+  "name": "Rulos de Jamón y Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "12 cucharadas de queso (ver nota)",
+    "12 rebanadas de jamón",
+    "aproximadamente 4 x 6 pulgadas cada una",
+    "1 taza de jugo de piña",
+    "1/4 taza de azúcar moreno, compactado"
+  ],
+  "recipeInstructions": "1. Utilice queso suizo o cheddar rallado.\n2. Enrolla 1 cucharada del queso en cada rebanada de jamón, como un rollo de gelatina.\n3. Colócalos en un plato para hornear poco profundo engrasado.\n4. Vierte el jugo sobre ellos y espolvorea con el azúcar moreno.\n5. Hornea a 175 °C durante 15 minutos o hasta que estén calientes y el queso se haya derretido.",
+  "url": null
+}

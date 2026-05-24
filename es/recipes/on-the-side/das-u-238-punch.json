@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "das-u-238-punch",
+  "name": "Das U-238 Punch",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "frutas",
+    "batido",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 litro de ron oscuro",
+    "1 litro de vodka",
+    "1/2 litro de ron claro",
+    "1 litro de jugo de fresa",
+    "1 litro de jugo de naranja",
+    "1 litro de jugo de piña",
+    "1 taza de fresas frescas",
+    "1 taza de gajos de naranja",
+    "1 taza de trozos de piña"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Tapar y enfriar durante 24 horas.\n3. Servir como un punch habitual.",
+  "url": null
+}

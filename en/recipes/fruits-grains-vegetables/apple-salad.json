@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-salad",
+  "name": "Apple Salad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "fruit",
+    "salads"
+  ],
+  "recipeIngredient": [
+    "6 apples, cored and diced",
+    "4 ounces container of strawberry yogurt",
+    "1 navel orange",
+    "1 tangerine",
+    "1 tangelo",
+    "1 Valencia orange"
+  ],
+  "recipeInstructions": "1. Place the diced apples in a large bowl.\n2. In a separate bowl, pour the strawberry yogurt.\n3. Squeeze the juice from the oranges (you can substitute different types) into the yogurt mixture, adding it gradually until reaching the desired consistency.\n4. Pour the yogurt mixture over the apples.\n5. Chill and serve.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-soup-1",
+  "name": "Sopa de pescado #1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "1 lb de pescado fresco (croakers, porgies, etc.)",
+    "2 cucharaditas de jengibre en polvo o raíz de jengibre fresca machacada",
+    "2 tomates medianos, cortados en cuartos",
+    "1 cucharadita de glutamato monosódico (MSG)",
+    "El jugo de 1 limón",
+    "4 tazas de agua",
+    "Sal y pimienta al gusto",
+    "4 tallos de cebolleta, picados"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes excepto el jugo de limón en una olla grande.\n2. Hierve a fuego lento durante 45 minutos.\n3. Sirve la sopa caliente, añade el jugo de limón y la cebolleta picada antes de servir.",
+  "url": null
+}

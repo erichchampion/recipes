@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cool-cucumber-sandwich",
+  "name": "Sándwich de pepino fresco",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aderezo para ensalada ranch preparada",
+    "2 rebanadas de pan",
+    "12 rebanadas finas de pepino",
+    "2 tiras de tocino, cocidas",
+    "1 rodaja de tomate"
+  ],
+  "recipeInstructions": "1. Extienda el aderezo para ensalada ranch preparada en un lado de cada rebanada de pan.\n2. Coloque capas de rebanadas de pepino, tocino y tomate sobre una rebanada de pan.\n3. Coloque la segunda rebanada de pan encima, con el lado del aderezo hacia abajo.",
+  "url": null
+}

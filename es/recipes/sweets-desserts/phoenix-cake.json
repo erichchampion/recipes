@@ -1,0 +1,35 @@
+{
+  "@type": "Recipe",
+  "identifier": "phoenix-cake",
+  "name": "Pastel Fénix",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pastel",
+    "pasteles",
+    "chiles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "Azúcar: 2 tazas",
+    "Harina: 2 tazas",
+    "Huevos: 2 batidos",
+    "Agua: 1/2 taza",
+    "Habaneros: 3 puré (frescos o congelados)",
+    "Piña enlatada: 2 libras",
+    "Coco rallado: 7 onzas",
+    "Pasas: 1 taza",
+    "Nueces picadas: 1 taza",
+    "Extracto de vainilla: 1 cucharadita",
+    "Bicarbonato de sodio: 1 cucharadita",
+    "Canela: 1 cucharadita",
+    "Nutmeg molido: 1/2 cucharadita",
+    "Mantequilla: 1/4 libra",
+    "Crema de queso: 8 onzas",
+    "Azúcar glas: 1/2 taza",
+    "Polvo de chile: 2 cucharaditas"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes para el bizcocho.\n2. Hornear a 350 grados Fahrenheit durante 35-45 minutos, o hasta que un palillo insertado en el centro salga limpio.\nGlaseado:",
+  "url": null
+}

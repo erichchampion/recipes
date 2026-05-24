@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "drunken-pioneers",
+  "name": "Pioneros Borrachos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "alcohol",
+    "plato principal",
+    "pasta",
+    "arroz",
+    "probado: justo",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de pasta tipo Wagon Wheel, cocida",
+    "1 cebolla pequeña",
+    "1 pimiento verde pequeño",
+    "1 taza de caldo de carne",
+    "1/4 taza de vino tinto de cocina",
+    "1 cucharadita de albahaca seca",
+    "1/2 cucharadita de romero seco",
+    "1 cucharada de harina",
+    "2 cucharadas de agua"
+  ],
+  "recipeInstructions": "1. Cortar el pimiento verde y la cebolla en tiras finas.\n2. Saltear a fuego alto en un sartén grande hasta que las verduras empiecen a dorarse ligeramente.\n3. Añadir el caldo, el vino, la albahaca y el romero; llevar a ebullición.\n4. Reducir el fuego a bajo y dejar cocinar destapado durante 10 minutos.\n5. Disolver la harina en el agua y añadirla a la sartén.\n6. Aumentar el fuego y hervir hasta que la salsa espese.\n7. Verter la mezcla del sartén sobre la pasta Wagon Wheel en un bol y servir.",
+  "url": null
+}

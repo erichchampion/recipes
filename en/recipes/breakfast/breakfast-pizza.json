@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-pizza",
+  "name": "Breakfast Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "6 1/2 oz pizza crust mix",
+    "4 low-fat breakfast sausage patties, cooked and crumbled",
+    "4 slices low-fat bacon, cooked and crumbled",
+    "1 cup fat-free cheddar cheese, grated",
+    "1 cup Hash Brown Potatoes, broken up",
+    "6 egg whites",
+    "3 tablespoons skim milk",
+    "1 teaspoon salt",
+    "1/2 teaspoon black pepper"
+  ],
+  "recipeInstructions": "1. Preheat oven to 375°F (190°C).\n2. Prepare the pizza crust according to package directions.\n3. Sprinkle sausage and bacon over the crust.\n4. Sprinkle potatoes and cheddar cheese evenly over the sausage, bacon, and crust.\n5. In a mixing bowl, whisk together egg whites, skim milk, salt, and black pepper.\n6. Pour the egg white mixture over the potatoes and cheddar cheese.\n7. Bake for 20 minutes or until the crust is golden brown.",
+  "url": null
+}

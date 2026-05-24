@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "shrimp-ceviche",
+  "name": "Shrimp Ceviche",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "seafood",
+    "shrimp"
+  ],
+  "recipeIngredient": [
+    "1 lb Shrimp",
+    "1 1/2 cups Orange juice",
+    "1/2 cup Lemon juice",
+    "1/4 cup Catsup",
+    "1 Onion, sliced thin",
+    "Salt to taste",
+    "Hot sauce to taste"
+  ],
+  "recipeInstructions": "1. Cook shrimp in boiling salted water for no more than 3 minutes.\n2. Allow the shrimp to cool completely.\n3. Remove the shells and devein the shrimp.\n4. Cut the shrimp into pieces depending on size (either two or three pieces).\n5. In a bowl, mix the juices (orange juice and lemon juice), salt, pepper, catsup, hot sauce, and sliced onion.\n6. Refrigerate the mixture for several hours before serving to allow the flavors to meld together.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-rice-pudding",
+  "name": "Banana Rice Pudding",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "desserts",
+    "family favorites",
+    "puddings",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "3 cups skim milk",
+    "1 cup short-grain rice",
+    "3 bananas, mashed",
+    "1/2 teaspoon nutmeg",
+    "1 1/2 tablespoons brown sugar",
+    "1 teaspoon vanilla extract"
+  ],
+  "recipeInstructions": "1. Preheat oven to 350 degrees.\n2. Mix all ingredients well and pour into a 1 1/2 quart casserole dish.\n3. Bake for 1 to 1 1/2 hours, stirring occasionally, until rice is tender.",
+  "url": null
+}

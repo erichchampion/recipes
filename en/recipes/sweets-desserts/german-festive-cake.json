@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "german-festive-cake",
+  "name": "German Festive Cake",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "chocolate",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 package Swiss chocolate cake mix",
+    "1 cup Almonds (chopped)",
+    "1 tsp Cinnamon",
+    "3 Eggs",
+    "1/2 cup Cooking oil",
+    "1 tsp Almond extract",
+    "2 cups Bananas (firm, chopped)",
+    "8 oz Crushed pineapple (drained)"
+  ],
+  "recipeInstructions": "Preheat oven to 350°F. Grease a 10-inch tube pan.\nCombine cake mix, almonds and cinnamon in a large bowl.\nBeat eggs slightly; stir in oil, almond extract, bananas and pineapple.\nAdd to dry ingredients and mix with spoon; do not beat.\nPour into pan. Bake for 45-55 minutes or until tested done.\nIf desired, top cake with confectioners' sugar.",
+  "url": null
+}

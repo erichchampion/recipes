@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "bean-vegetable-soup",
+  "name": "Sopa de Verduras con Frijoles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de frijoles rojos cocidos",
+    "10 tazas de agua",
+    "2 cucharadas de aceite vegetal",
+    "1 taza de cebolla picada",
+    "2 tazas de verduras frescas variadas (p. ej., zanahorias, calabacín, pimiento)",
+    "2 tazas de tomates triturados enlatados",
+    "Sal y pimienta al gusto",
+    "2 tazas de pasta cocida"
+  ],
+  "recipeInstructions": "1. En una olla grande, combina los frijoles cocidos, el agua, el aceite vegetal, la cebolla, las verduras frescas, los tomates triturados y las especias.\n2. Lleva la mezcla a ebullición a fuego medio-alto.\n3. Reduce el fuego y deja que hierva a fuego lento durante 55 minutos o hasta que las verduras estén tiernas.\n4. Añade la pasta cocida y caliéntala hasta que esté caliente.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "old-fashioned-spice-cake",
+  "name": "Old Fashioned Spice Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "2 cups Flour",
+    "2 teaspoons Baking powder",
+    "1 teaspoon Cinnamon",
+    "1 teaspoon Salt",
+    "1/4 teaspoon Nutmeg",
+    "1/4 teaspoon Cloves",
+    "1/4 teaspoon Allspice",
+    "1/2 cup Raisins",
+    "1/2 cup Shortening",
+    "1 cup Milk",
+    "1 Egg"
+  ],
+  "recipeInstructions": "1. Sift the flour.\n2. Measure and sift together with other dry ingredients, including cinnamon, salt, nutmeg, cloves, allspice, and raisins.\n3. Cream sugar and shortening with 2 tablespoons milk.\n4. Add egg and mix well.\n5. Gradually add the sifted dry ingredients alternately with the remaining milk.\n6. Bake for 30 to 40 minutes in a loaf pan at 350°F.\n7. Serve with whipped cream.",
+  "url": null
+}

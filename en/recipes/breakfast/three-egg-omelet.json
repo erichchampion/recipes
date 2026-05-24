@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "three-egg-omelet",
+  "name": "Three-Egg Omelet",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "eggs",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 tablespoon Butter or margarine",
+    "3 Eggs, lightly beaten",
+    "Salt to taste",
+    "Freshly ground pepper to taste"
+  ],
+  "recipeInstructions": "1. Melt butter in a 10-inch skillet over medium heat.\n2. Add eggs and gently scramble until set.\n3. Season with salt and pepper.\n4. Lift the cooked edges of the omelet with a spatula, allowing uncooked eggs to flow underneath.\n5. Cook for an additional minute or until the omelet is nearly set.\n6. Place desired fillings on half of the omelet.\n7. Fold the omelet in half and slide onto a plate.",
+  "url": null
+}

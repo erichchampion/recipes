@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-pie-4",
+  "name": "Taco Pie",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "american",
+    "ethnic",
+    "mexican"
+  ],
+  "recipeIngredient": [
+    "1 package Crescent rolls",
+    "1 package Taco mix",
+    "2 cups Corn chips, crushed",
+    "1 cup Cheddar, shredded",
+    "1 lb Hamburger",
+    "1/2 cup Water",
+    "1 cup Sour cream"
+  ],
+  "recipeInstructions": "1. Cook hamburger, taco mix, and water according to package directions.\n2. Place unrolled crescent dough in an ungreased pie plate to form the crust.\n3. Sprinkle half of the corn chips on top of the dough.\n4. Add the cooked hamburger mixture.\n5. Spread sour cream evenly over the top.\n6. Cover with shredded cheddar and remaining crushed corn chips.\n7. Bake at 375 degrees Fahrenheit for 20 minutes, or until heated through.",
+  "url": null
+}

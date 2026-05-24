@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "bean-mexican-soup",
+  "name": "Bean Mexican Soup",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "american",
+    "beans",
+    "ethnic",
+    "mexican"
+  ],
+  "recipeIngredient": [
+    "1/2 lb ground turkey (cooked)",
+    "1/2 cup onions, chopped",
+    "1/2 cup bell peppers, chopped",
+    "1 pkg taco seasoning mix",
+    "1 jar taco sauce, 8 oz",
+    "1 can red beans, 15 1/2 oz (drained and rinsed)",
+    "1 can kidney beans, 16 oz (drained and rinsed)",
+    "1 can tomatoes, crushed, 14 oz (undrined)",
+    "1 cup water"
+  ],
+  "recipeInstructions": "1. In a skillet, cook the ground turkey until no longer pink.\n2. Add onions and bell peppers; cook until vegetables are tender.\n3. Stir in taco seasoning mix, taco sauce, red beans, kidney beans, tomatoes, and water.\n4. Simmer for 30 minutes.",
+  "url": null
+}

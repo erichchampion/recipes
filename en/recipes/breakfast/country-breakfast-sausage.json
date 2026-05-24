@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "country-breakfast-sausage",
+  "name": "Country Breakfast Sausage",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "meat",
+    "pork",
+    "sausages"
+  ],
+  "recipeIngredient": [
+    "1 lb Pork, ground",
+    "1 tsp Cumin, ground",
+    "1/2 tsp Thyme, dried leaf",
+    "1/2 tsp Sage, dried leaf",
+    "1 tsp Salt",
+    "1/2 tsp Pepper, freshly ground",
+    "1/8 tsp Cayenne pepper (optional)"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a medium bowl; mix well. Cover and refrigerate overnight for flavors to blend.\n2. Shape into 6 patties. Cook in lightly greased skillet over medium heat about 15 minutes or until browned on both sides and centers are no longer pink, turning occasionally.",
+  "url": null
+}

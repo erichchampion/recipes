@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburg-pie",
+  "name": "Hamburg Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish",
+    "meats"
+  ],
+  "recipeIngredient": [
+    "1 lb Hamburger",
+    "1 cup Minced onion",
+    "1/2 tsp Salt",
+    "1 cup Cheddar cheese grated",
+    "1 cup Milk",
+    "1/2 cup Biscuit mix",
+    "2 Eggs"
+  ],
+  "recipeInstructions": "1. Cook hamburger and onion together, draining off excess fat.\n2. Add salt and stir well to combine.\n3. Place the mixture in a greased 9-inch pan and sprinkle cheese on top.\n4. In a separate bowl, whisk together eggs, milk, and biscuit mix until well combined.\n5. Pour the egg mixture over the hamburger and onion filling.\n6. Bake in an oven preheated to 400°F for 25 minutes.",
+  "url": null
+}

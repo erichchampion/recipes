@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "fried-rice-with-bacon",
+  "name": "Arroz frito con tocino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "4 tazas de arroz cocido frío",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de azúcar",
+    "3 huevos, batidos suavemente",
+    "1/2 libra de tocino, frito crujiente y desmenuzado",
+    "2 cucharadas de aceite vegetal"
+  ],
+  "recipeInstructions": "1. Saltear el arroz en el aceite caliente durante 1 minuto.\n2. Añadir el azúcar, la sal y la salsa de soja. Revolver hasta que se caliente todo.\n3. Incorporar los huevos, cebolletas y trozos de tocino. Mezclar bien y servir.",
+  "url": null
+}

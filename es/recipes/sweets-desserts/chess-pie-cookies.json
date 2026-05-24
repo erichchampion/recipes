@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chess-pie-cookies",
+  "name": "Galletas de Pastel de Ajedre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "Base:",
+    "1 Mezcla de pastel amarillo",
+    "1 Mantequilla o margarina derretida",
+    "1 Huevo batido",
+    "Relleno:",
+    "250g de queso crema ablandado",
+    "3 Huevos",
+    "1 Cuchara de azúcar glas",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "Receta del libro de cocina Three Rivers III\nBase: Mezclar todos los ingredientes. Presionar en un molde rectangular sin engrasar de 20x30 cm. (La mezcla estará \"masiva\").\nRelleno: Batir el queso crema y los huevos juntos hasta obtener una textura suave. Agregar el azúcar glas y la vainilla gradualmente. Verter sobre la base y hornear a 180°C durante 40 minutos.",
+  "url": null
+}

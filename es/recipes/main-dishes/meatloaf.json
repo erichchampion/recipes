@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "meatloaf",
+  "name": "Embutido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida o picada de chorizo y ternera",
+    "1 huevo",
+    "1/3 taza de pan rallado",
+    "1/3 taza de ketchup",
+    "2 cucharadas de agua",
+    "1 sobre de mezcla de sopa de cebolla"
+  ],
+  "recipeInstructions": "1. Mezclar la carne, el huevo, el pan rallado, el ketchup, el agua y la mezcla de sopa de cebolla hasta que esté bien combinada.\n2. Colocar la mezcla en un plato apto para microondas cubierto con una tapa o una tapa transparente.\n3. Cocinar a potencia media/alta durante 15 minutos, o hasta que la temperatura interna alcance los 71 °C (160 °F).\n4. Dejar reposar la empanada de carne unos minutos antes de servir.",
+  "url": null
+}

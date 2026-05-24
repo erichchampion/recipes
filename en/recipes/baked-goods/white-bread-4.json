@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-bread-4",
+  "name": "White Bread",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread",
+    "bread machine",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "2 1/2 teaspoons yeast",
+    "3 cups bread flour",
+    "2/3 teaspoon salt",
+    "2 tablespoons honey",
+    "2 tablespoons vegetable oil",
+    "1 cup milk, or water"
+  ],
+  "recipeInstructions": "1. Follow the directions in your bread machine cookbook.",
+  "url": null
+}

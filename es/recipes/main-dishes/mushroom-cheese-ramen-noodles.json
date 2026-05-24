@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "mushroom-cheese-ramen-noodles",
+  "name": "Fideos de ramen con setas y queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "2 paquetes de fideos ramen",
+    "1 lata de sopa de setas",
+    "1 taza de queso rallado"
+  ],
+  "recipeInstructions": "1. Cocinar los fideos ramen según las instrucciones del paquete.\n2. En los últimos minutos de cocción, añadir la lata de sopa de setas. Remover hasta que esté bien mezclada durante unos 2 minutos.\n3. Añadir una taza de queso rallado sobre los fideos sin mezclar.\n4. Tapar y dejar reposar hasta que se derrita el queso.\n5. Servir.",
+  "url": null
+}

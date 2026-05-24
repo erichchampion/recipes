@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetable-stir-fry",
+  "name": "Vegetable Stir Fry.",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "1 cup Green beans",
+    "1 cup Sliced mushrooms",
+    "4 Green onions, sliced",
+    "1 tbsp Oil",
+    "1 tbsp Soy sauce",
+    "1/4 tsp Salt",
+    "1/4 tsp Garlic powder",
+    "1/8 tsp Ginger",
+    "1/4 cup Slivered almonds"
+  ],
+  "recipeInstructions": "1. Cut the green beans and parboil for 5 minutes.\n2. Stir fry the vegetables in oil for 4 or 5 minutes.\n3. Add the rest of the ingredients and continue to stir fry until all are well combined.",
+  "url": null
+}

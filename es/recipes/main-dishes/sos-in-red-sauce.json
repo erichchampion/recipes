@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "sos-in-red-sauce",
+  "name": "Salsa en salsa roja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "salsa"
+  ],
+  "recipeIngredient": [
+    "450 g de carne molida de res",
+    "1/4 taza de pimientos verdes picados",
+    "400 g de salsa de tomate",
+    "1 diente de ajo, picado",
+    "1/2 taza de cebolla picada",
+    "3 cucharadas de azúcar",
+    "2 cucharaditas de sal",
+    "1 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida en una sartén, escurrir el exceso de grasa.\n2. Agregar las cebollas y pimientos verdes picados a la sartén. Cocinar hasta que las verduras estén tiernas, aproximadamente 5 minutos.\n3. Incorporar el ajo picado y cocinar por 2 minutos más.\n4. Verter la salsa de tomate y mezclar bien. Añadir el azúcar, sal y pimienta. Remover.\n5. Reducir el fuego y dejar que la mezcla hierva a fuego lento durante 15 minutos, removiendo ocasionalmente.\n6. Servir caliente sobre tostadas, rollos o muffins.",
+  "url": null
+}

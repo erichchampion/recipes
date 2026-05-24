@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "bm-pizza-dough-2",
+  "name": "Masa de pizza BM",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "2 1/4 tazas de harina de trigo para pan",
+    "1 cucharadita de sal",
+    "1 1/2 cucharadas de puré de manzana",
+    "3/4 taza de agua tibia",
+    "1 cucharadita de levadura seca activa"
+  ],
+  "recipeInstructions": "1. Selecciona el programa de pan \"Manual\" en tu máquina de pan.\n2. Vierte los ingredientes en la máquina según las instrucciones de tu modelo específico.\n3. Una vez finalizado el ciclo, divide la masa en 4 porciones.\n4. Cubre cada porción con papel film y deja reposar durante 20 minutos.\n5. Amasa, añade los toppings y hornea durante 12-15 minutos a 500 grados F (260 grados C).",
+  "url": null
+}

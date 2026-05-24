@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fondue",
+  "name": "Fondue",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "quesos/huevos",
+    "fondue",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 sobre de sopa de cebolla Lipton",
+    "2 tazas de jugo de tomate",
+    "4 cucharaditas de jugo de limón",
+    "1 libra de queso americano rallado",
+    "Pan francés cortado en trozos pequeños"
+  ],
+  "recipeInstructions": "1. En una sartén mediana, combina la sopa de cebolla, el jugo de tomate y el jugo de limón.\n2. Calienta a fuego lento.\n3. Cuando la mezcla comience a hervir, añade pequeñas porciones de queso y remueve constantemente hasta que se derrita.\n4. Continúa añadiendo queso gradualmente, removiendo constantemente, asegurándote de que cada adición esté completamente derretida.\n5. Retira la sartén del fuego y transfiere la mezcla a una olla para fondue, un plato calientaplatos o una cacerola caliente.\n6. Inserta trozos de pan en brochetas y sumérgelas en el fondue, removiendo.",
+  "url": null
+}

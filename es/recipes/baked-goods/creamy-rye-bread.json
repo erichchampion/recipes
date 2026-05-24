@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "creamy-rye-bread",
+  "name": "Pan de centeno cremoso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "7/8 taza de agua",
+    "2 1/2 tazas de harina de pan blanco",
+    "2 cucharaditas de semillas de eneldo",
+    "1 1/2 cucharaditas de sal",
+    "2 cucharadas de mantequilla",
+    "2 cucharadas de azúcar moreno",
+    "3/4 taza de harina de centeno",
+    "1 1/2 cucharaditas de polvo de cacao sin endulzar",
+    "1/2 taza de crema agria",
+    "1 1/2 cucharaditas de melaza",
+    "2 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en la máquina de pan según las instrucciones del fabricante.\n2. La masa debe formar un pan de 400 gramos al finalizar.",
+  "url": null
+}

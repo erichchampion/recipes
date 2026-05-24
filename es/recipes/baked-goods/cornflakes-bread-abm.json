@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cornflakes-bread-abm",
+  "name": "Pan de Cornflakes ABM",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "5 oz de agua",
+    "5 oz de leche",
+    "2 tazas de harina de uso general",
+    "1 taza de migas de corn flakes (obtenidas triturando 2 1/4 tazas de corn flakes)",
+    "1/4 taza de germen de trigo",
+    "1 cucharada de azúcar moreno",
+    "1 cucharadita de sal",
+    "2 cucharaditas de levadura",
+    "3 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. Procesar 2 1/4 tazas de corn flakes en una licuadora hasta obtener 1 taza de migas.\n2. Se pueden sustituir cereales tostados como Rice Krispies, corn flakes o avena inflada por parte de la harina.\n3. Mezclar los ingredientes húmedos con las harinas y otros ingredientes secos según las indicaciones del fabricante de la máquina panificadora.\n4. Incorporar 3 cucharadas de mantequilla.\n5. Programar la máquina en el ciclo de pan blanco con corteza media.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "mangoes-and-ice-cream",
+  "name": "Mango y helado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "fruta",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "3 mangos maduros medianos",
+    "1 taza de azúcar moreno",
+    "1 taza de agua",
+    "1/2 cucharadita de canela",
+    "1 cucharadita de extracto de vainilla",
+    "2 tazas de helado de vainilla"
+  ],
+  "recipeInstructions": "1. Llevar el agua y el azúcar moreno a ebullición en una sartén.\n2. Añadir los aromatizantes (canela y extracto de vainilla) y remover hasta combinar.\n3. Reducir el fuego y cocinar a fuego lento durante 5 minutos, removiendo ocasionalmente.\n4. Pelar y cortar los mangos en trozos.\n5. Incorporar los trozos de mango a la mezcla.\n6. Continuar cocinando a fuego lento durante 10 minutos adicionales o hasta que el mango esté tierno.\n7. Dejar enfriar completamente la mezcla antes de servir.\n8. Servir con helado de vainilla y/o crema batida.",
+  "url": null
+}

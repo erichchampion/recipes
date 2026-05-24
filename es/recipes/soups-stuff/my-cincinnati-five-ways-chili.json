@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-cincinnati-five-ways-chili",
+  "name": "Mi Chili Cinco Maneras de Cincinnati",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "carnes",
+    "pasta",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "2 cucharadas de cebolla picada",
+    "3 dientes de ajo picados",
+    "2 tazas de salsa de tomate",
+    "1/2 cucharadita de comino en polvo",
+    "1/2 cucharadita de chile en polvo",
+    "1 hoja de laurel",
+    "1 cucharadita de canela",
+    "2 cucharadas de cacao en polvo sin endulzar",
+    "2 cucharadas de salsa Worcestershire",
+    "1/2 cucharadita de orégano seco",
+    "1 cucharada de vinagre blanco",
+    "19 onzas de frijoles rojos; escurridos",
+    "Espagueti o pasta cocida",
+    "Cebolla amarilla picada",
+    "Mantequilla",
+    "Queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida, la cebolla y el ajo.\n2. Escurrir la grasa.\n3. Añadir las especias, la salsa de tomate, el cacao en polvo y el vinagre a una olla.\n4. Cocinar a fuego lento durante 1-1,5 horas, removiendo ocasionalmente.\n5. Cocinar el espagueti o la pasta según las instrucciones del paquete, luego escurrir.\n6. Mezclar el espagueti con 2 cucharadas de mantequilla.\n7. Freír la cebolla en mantequilla hasta que esté crujiente.\n8. Calentar los frijoles rojos escurridos en agua y escurrirlos nuevamente antes de añadirlos al chili.",
+  "url": null
+}

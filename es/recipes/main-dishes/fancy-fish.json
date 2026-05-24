@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "fancy-fish",
+  "name": "Pescado Elegante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "salsas",
+    "marisco",
+    "seco al sol"
+  ],
+  "recipeIngredient": [
+    "Waldine Van Geffen VGHC42A",
+    "Mayonesa",
+    "Jugo de limón",
+    "Eneldo seco",
+    "Tomates secos rehidratados, cortados por la mitad y picados",
+    "Salsa picante al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta obtener una salsa homogénea. Servir con pescado o filetes de pescado.\n2. Apagar el fuego cuando se haya terminado de mezclar.",
+  "url": null
+}

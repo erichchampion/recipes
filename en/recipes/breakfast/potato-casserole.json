@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-casserole",
+  "name": "Potato Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "casserole",
+    "casseroles",
+    "main dish",
+    "souped up"
+  ],
+  "recipeIngredient": [
+    "Package of frozen hash browns (not patties)",
+    "Half a cup of Parmesan cheese",
+    "One cup of shredded Cheddar cheese",
+    "One cup of diced onions",
+    "One pint of sour cream",
+    "Two cans of potato soup"
+  ],
+  "recipeInstructions": "1. Combine all the ingredients.\n2. Heat for 1 hour at 350 degrees Fahrenheit.",
+  "url": null
+}

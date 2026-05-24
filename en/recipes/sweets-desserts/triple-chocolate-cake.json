@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "triple-chocolate-cake",
+  "name": "Triple Chocolate Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "cakes",
+    "chocolate",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 package devil's food cake mix",
+    "1 package instant chocolate pudding mix (small)",
+    "1 package chocolate chips (12 oz)",
+    "1 1/4 cups water",
+    "1/4 cup oil",
+    "2 eggs"
+  ],
+  "recipeInstructions": "1. Preheat oven to 350°F.\n2. Combine all ingredients in an ungreased 9x13 pan and mix thoroughly.\n3. Bake for 40-45 minutes.\n4. When cool, dust top with powdered sugar.",
+  "url": null
+}

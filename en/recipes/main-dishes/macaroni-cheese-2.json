@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "macaroni-cheese-2",
+  "name": "Macaroni & Cheese",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cheese",
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "8 ounces macaroni",
+    "2 tablespoons butter",
+    "1/2 cup cream",
+    "1 cup cheddar cheese, shredded",
+    "dash Worcestershire sauce"
+  ],
+  "recipeInstructions": "1. Cook the macaroni according to package instructions. Drain and return it to the pot.\n2. Over low heat, add the butter and stir until melted.\n3. Add the cream and shredded cheddar cheese, stirring constantly until the cheese melts.\n4. Season with a dash of Worcestershire sauce. Serve immediately.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "crazy-cake-slp",
+  "name": "Pastel Loco/Slp",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3 tazas de harina de uso general",
+    "2 tazas de azúcar granulada",
+    "6 cucharadas de polvo de cacao sin endulzar",
+    "2 cucharaditas de bicarbonato de sodio",
+    "1 cucharadita de sal",
+    "2/3 taza de aceite vegetal",
+    "2 cucharadas de vinagre",
+    "2 cucharadas de extracto de vainilla"
+  ],
+  "recipeInstructions": "Precalentar el horno a 175 °C. Tamizar juntos la harina, el azúcar, el cacao en polvo, el bicarbonato y la sal. Agregar el aceite vegetal, el vinagre y la vainilla. Verter 2 tazas de agua; mezclar bien. Extender la masa uniformemente en un molde rectangular sin engrasar de 9 x 13 pulgadas. Hornear durante 30 a 35 minutos.",
+  "url": null
+}

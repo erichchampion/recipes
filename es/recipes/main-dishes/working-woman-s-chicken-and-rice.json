@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "working-woman-s-chicken-and-rice",
+  "name": "Pollo y arroz para la mujer trabajadora",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "6 pechugas de pollo deshuesadas y sin piel",
+    "2 latas de sopa de pollo cremoso",
+    "1 lata de sopa de setas cremoso",
+    "1 paquete de Rice-A-Roni (sabor pollo)",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Coloca las pechugas de pollo en una olla de cocción lenta.\n2. Añade las sopas enlatadas, la sal y la pimienta.\n3. Cocina a temperatura baja durante aproximadamente 10 horas o hasta que el pollo esté tierno.\n4. Prepara el Rice-A-Roni según las instrucciones del paquete.\n5. Sirve el arroz en un plato y coloca encima el pollo y la salsa.",
+  "url": null
+}

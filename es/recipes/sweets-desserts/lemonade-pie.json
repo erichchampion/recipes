@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemonade-pie",
+  "name": "Tarta de limonada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "frutas",
+    "fiesta",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 gran cantidad de Cool Whip (crema batida)",
+    "1 pequeña limonada (rosa o regular)",
+    "La cáscara de 1 limón"
+  ],
+  "recipeInstructions": "1. Mezclar la crema batida, la limonada y la cáscara rallada.\n2. Verter la mezcla en un molde para tarta forrado con masa de galletas Graham.\n3. Refrigerar durante al menos 12 horas para que cuaje.\n4. Si no cuaja bien, congelar durante unos 30 minutos.\n5. Servir con una ramita de menta como decoración.",
+  "url": null
+}

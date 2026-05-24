@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "jambalaya-3",
+  "name": "Jambalaya",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "poultry",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "3 Onions, chopped",
+    "1 Carrot, sliced",
+    "1 Garlic clove, minced",
+    "1/2 teaspoon Oregano",
+    "1/2 teaspoon Basil",
+    "1 teaspoon Salt",
+    "1/8 teaspoon Pepper",
+    "14 oz Cut up tomatoes",
+    "1 pound Shrimp, shelled, raw",
+    "2 cups Cooked Rice"
+  ],
+  "recipeInstructions": "1. In a slow cooker, combine the chicken with onions, carrots, garlic, oregano, basil, salt, and pepper.\n2. Add the cut-up tomatoes.\n3. Cook on LOW for 4-5 hours.\n4. Add the shrimp and rice.\n5. Cook on HIGH for 30-40 minutes until the shrimp is done.",
+  "url": null
+}

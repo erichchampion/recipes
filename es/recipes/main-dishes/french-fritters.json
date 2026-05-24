@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-fritters",
+  "name": "Fritas francesas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 yemas de huevo",
+    "1/2 taza de leche",
+    "1 taza de harina (tamizada)",
+    "1/2 cucharadita de sal",
+    "1 cucharada de mantequilla derretida",
+    "2 cucharadas de zumo de limón",
+    "Ralladura de 1 limón",
+    "2 cucharadas de azúcar",
+    "4 manzanas o naranjas, piña, higos o peras"
+  ],
+  "recipeInstructions": "1. Cortar la fruta elegida en rodajas y espolvorear con ralladura de limón y azúcar. Dejar reposar entre 2 y 3 horas.\n2. Escurrir las rodajas de fruta y sumergirlas en la masa.\n3. Preparar la masa: En un bol, batir las yemas de huevo, la leche, la harina, la sal, la mantequilla, el zumo de limón (y 2 cucharadas de azúcar con una pizca de nuez moscada) con una batidora. Incorporar las claras de huevo batidas a punto de nieve hasta obtener una mezcla homogénea.\n4. Freír las rodajas de fruta en aceite profundo a 190°C (375°F). Escurrir el exceso de aceite sobre papel absorbente.\n5. Servir calientes espolvoreadas con azúcar en polvo o con un sirope/salsa dulce.",
+  "url": null
+}

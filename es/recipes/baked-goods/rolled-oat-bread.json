@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "rolled-oat-bread",
+  "name": "Pan de avena enrollado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 taza de avena; enrollada",
+    "2 tazas de agua; hirviendo",
+    "2 cucharadas de mantequilla",
+    "1/2 taza de azúcar moreno",
+    "1/2 cucharadita de sal",
+    "1 sobre de levadura seca",
+    "1 taza de agua tibia",
+    "4 tazas de harina",
+    "1 taza de frutos secos picados (opcional)"
+  ],
+  "recipeInstructions": "1. Cocinar la avena en 2 tazas de agua hirviendo hasta que esté templada.\n2. Disolver la levadura en 1 taza de agua tibia y mezclar con los ingredientes restantes.\n3. Dejar reposar la mezcla hasta que doble su tamaño.\n4. Dar forma a la masa en dos hogazas y dejar reposar nuevamente.\n5. Hornear a temperatura media de 180°C a 200°C durante unos 45-60 minutos, vigilando la cocción.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "old-fashioned-fruit-punch",
+  "name": "Ponche de Frutas al Estilo Clásico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "batido",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "4 tazas de té frío",
+    "4 tazas de zumo de naranja",
+    "El jugo de 4 limones",
+    "2 naranjas, cortadas en rodajas finas",
+    "2 tazas de azúcar (al gusto)",
+    "1 taza de agua con gas de jengibre",
+    "2 tazas de agua con gas",
+    "16 cubos de hielo",
+    "Menta fresca para decorar"
+  ],
+  "recipeInstructions": "1. Mezcla en un bol grande el té frío, el zumo de naranja, el jugo de limón, las rodajas de naranja y el azúcar.\n2. Revuelve hasta que el azúcar se disuelva por completo.\n3. Refrigera la mezcla hasta que esté bien fría.\n4. Añade el agua con gas de jengibre y el agua con gas justo antes de servir.\n5. Decora con hojas de menta fresca.",
+  "url": null
+}

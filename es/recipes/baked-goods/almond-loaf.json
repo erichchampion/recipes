@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "almond-loaf",
+  "name": "Bolo de Almendras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "2 tazas de mezcla para hornear Bisquick",
+    "1/2 taza de harina de uso común",
+    "1 taza de azúcar",
+    "1/2 taza de mantequilla ablandada",
+    "1/2 taza de almendras laminadas",
+    "1 cucharadita de canela en polvo",
+    "2 huevos",
+    "3/4 taza de leche",
+    "1 cucharadita de extracto de vainilla",
+    "1/2 cucharadita de extracto de almendra"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 175 °C (350 °F).\n2. Enmantequillar y enharinar el fondo de un molde para pan.\n3. En un bol grande, mezclar la mezcla para hornear Bisquick, la harina y el azúcar. Cortar la mantequilla hasta que la mezcla tenga textura de miga gruesa.\n4. En un bol pequeño, mezclar las almendras y la canela; reservar la mitad de esta mezcla.\n5. En otro bol, batir los huevos con la leche, el extracto de vainilla y el extracto de almendra. Incorporar esta mezcla a la mantequilla restante y remover hasta que quede una masa irregular.\n6. Verter aproximadamente la mitad de la masa en el molde y espolvorear con la mitad de la mezcla de almendras reservada. Cubrir con el resto de la masa y espolvorear con la mezcla de almendras restante.\n7. Hornear durante 40-45 minutos o hasta que un palillo insertado en el centro salga limpio.\n8. Dejar enfriar durante 5 minutos.\n9. Desmoldar el pan suavemente, dejarlo enfriar por completo antes de cortarlo.",
+  "url": null
+}

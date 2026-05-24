@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "frozen-fruit-salad",
+  "name": "Ensalada de Frutas Congeladas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "postres",
+    "frutas",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "6 onzas de jugo de naranja concentrado congelado descongelado",
+    "6 onzas de limonada congelada descongelada",
+    "9 onzas de fresas congeladas descongeladas",
+    "Un pequeño frasco de cerezas maraschino cortadas y con su jugo",
+    "2 1/2 tazas de piña triturada escurrida",
+    "4 plátanos en rodajas",
+    "2 tazas de agua hirviendo",
+    "1 taza de azúcar"
+  ],
+  "recipeInstructions": "1. Disolver el azúcar en el agua hirviendo.\n2. Mezclar todos los ingredientes.\n3. Congelar la mezcla en un recipiente de plástico o de vidrio, removiendo ocasionalmente hasta que esté congelada.\n4. Cubrir para almacenar en el congelador.\n5. Servir parcialmente descongelado.",
+  "url": null
+}

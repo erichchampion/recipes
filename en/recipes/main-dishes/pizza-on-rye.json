@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-on-rye",
+  "name": "Pizza on Rye",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "kids",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "8 oz Tomato sauce",
+    "1/4 tsp Basil",
+    "1/8 tsp Oregano",
+    "5 Or 6 slices of rye toast",
+    "8 oz Sliced mozzarella cheese",
+    "Parmesan cheese"
+  ],
+  "recipeInstructions": "1. Mix the tomato sauce, basil, and oregano.\n2. Spread the mixture on 5 or 6 slices of rye toast.\n3. Divide the sliced mozzarella evenly among the pizzas.\n4. Sprinkle Parmesan cheese over the pizzas.\n5. Place the pizzas under the broiler until bubbly.\n6. For variety, top your pizza with onions, pepperoni, and sometimes canned shrimp.",
+  "url": null
+}

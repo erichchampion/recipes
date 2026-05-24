@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "dijon-thyme-bread",
+  "name": "Pan con dijon y tomillo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 taza de agua",
+    "3 cucharadas de mostaza de Dijon",
+    "1 cucharada de aceite vegetal",
+    "3 tazas de harina de pan",
+    "2 cucharadas de azúcar",
+    "3/4 cucharadita de sal",
+    "1 cucharadita de tomillo seco, hojas",
+    "2 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Medir cuidadosamente y colocar todos los ingredientes en el pan del panificador en el orden recomendado por el fabricante.\n2. Seleccionar el ciclo Básico/Blanco. Utilizar la configuración de color de masa Media o Ligera.\n3. Retirar el pan horneado del molde y dejarlo enfriar sobre una rejilla.",
+  "url": null
+}

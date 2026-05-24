@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "lakana",
+  "name": "Lakanas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "3 tazas de col, rallada",
+    "1 taza de zanahorias, ralladas",
+    "1/4 taza de cebolla verde, picada finamente",
+    "6 cucharadas de crema agria",
+    "1/4 taza de vinagre de vino",
+    "3 cucharadas de azúcar",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de mostaza",
+    "1/2 cucharadita de tomillo seco"
+  ],
+  "recipeInstructions": "1. Mezclar la col, las zanahorias y la cebolla verde en un bol.\n2. En un bol pequeño, batir la crema agria, el vinagre, el azúcar, la sal y la mostaza hasta que quede bien combinada.\n3. Espolvorear el tomillo seco sobre los vegetales.\n4. Verter el aderezo sobre las verduras y mezclar bien.\n5. Refrigerar antes de servir.",
+  "url": null
+}

@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "salad-supreme",
+  "name": "Ensalada Suprema",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite para ensalada",
+    "1 cucharada de harina",
+    "1 cucharada de azúcar",
+    "1/2 cucharadita de mostaza en polvo",
+    "1/4 taza de agua",
+    "1/4 taza de vinagre",
+    "1 1/2 tazas de jamón cocido, cortado en láminas finas",
+    "1 taza de anillos de cebolla",
+    "1/2 taza de pimiento verde, cortado en tiras finas",
+    "1 taza de rodajas de pepino",
+    "1/2 taza de apio, cortado en rodajas",
+    "2 tazas de tomates, cortados en gajos finos",
+    "4 tazas de lechuga, cortada en trozos para morder",
+    "3 rebanadas de queso americano (1 onza cada una)",
+    "cortadas en tiras finas",
+    "2 huevos duros, cortados en rodajas"
+  ],
+  "recipeInstructions": "1. Para el aderezo, mezcla el aceite, la harina, el azúcar, la mostaza, el agua y el vinagre en un wok grande.\n2. Cocina a fuego medio, removiendo constantemente hasta que la mezcla hierva.\n3. Mezcla el jamón, la cebolla, el pimiento verde, los pepinos y el apio con el aderezo.\n4. Cocina cubierto a fuego medio hasta que se caliente, aproximadamente 4-5 minutos. Revuelve varias veces durante la cocción.\n5. Retira del fuego. Mezcla suavemente con los tomates y la lechuga.\n6. Adorna con tiras de queso y rodajas de huevo.",
+  "url": null
+}

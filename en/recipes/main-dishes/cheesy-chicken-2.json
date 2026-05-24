@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheesy-chicken-2",
+  "name": "Cheesy Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "8 chicken breast, no skin, no bone",
+    "garlic powder",
+    "onion powder",
+    "salt",
+    "pepper",
+    "2 cans cream of chicken soup",
+    "1 can cheddar cheese soup"
+  ],
+  "recipeInstructions": "1. Dust frozen chicken breasts with seasonings (garlic powder, onion powder, salt, and pepper).\n2. Place the seasoned chicken breasts in the crockpot.\n3. Mix together the contents of the two canned soups (cream of chicken soup and cheddar cheese soup).\n4. Pour the mixed soups over the chicken breasts in the crockpot.\n5. Cover the crockpot and cook on low for 8-10 hours, stirring occasionally to ensure even cooking.",
+  "url": null
+}

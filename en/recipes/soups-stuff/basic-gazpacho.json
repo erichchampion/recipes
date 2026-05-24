@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-gazpacho",
+  "name": "Basic Gazpacho",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1/2 cup cucumber, cut into chunks",
+    "4 medium ripe tomatoes (Roma), cut into chunks",
+    "1/2 bell pepper, cored and seeded, cut into chunks",
+    "1/4 yellow onion, cut into chunks",
+    "1 clove garlic, chopped",
+    "3 tablespoons wine vinegar",
+    "1 teaspoon oregano",
+    "Salt and pepper to taste"
+  ],
+  "recipeInstructions": "1. Put all ingredients in a blender.\n2. Puree until smooth.\n3. Refrigerate for 15 minutes or until cold.\n4. Variations: substitute yellow tomatoes, red bell peppers, or balsamic vinegar, or add fresh basil sprigs.",
+  "url": null
+}

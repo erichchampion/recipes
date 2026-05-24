@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-tacos",
+  "name": "Tacos de fruta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frutas",
+    "niños",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1/3 taza de coco horneado",
+    "1 taza de fresas, en rodajas",
+    "1/2 taza de uvas verdes sin semillas, por la mitad",
+    "1 manzana mediana, pelada, sin corazón y picada",
+    "1 plátano pequeño, en rodajas",
+    "2 cucharadas de mermelada de fruta líquida (encontrada en la sección de mermeladas del supermercado)",
+    "6 tortillas para tacos",
+    "1/3 taza de yogur natural"
+  ],
+  "recipeInstructions": "1. Extender el coco en una bandeja para hornear. Hornear en horno a 350°F durante 7 a 12 minutos, removiendo con frecuencia.\n2. Mientras tanto, mezclar las fresas, uvas, manzana, plátano y mermelada en un bol mediano.\n3. Rellenar las tortillas para tacos uniformemente con la mezcla de frutas.\n4. Cubrir los tacos rellenos uniformemente con yogur.\n5. Espolvorear con coco tostado.",
+  "url": null
+}

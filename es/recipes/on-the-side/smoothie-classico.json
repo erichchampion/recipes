@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "smoothie-classico",
+  "name": "Batido Clásico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de zumo de naranja",
+    "1 taza de fresas cortadas en cuartos y congeladas",
+    "2 plátanos"
+  ],
+  "recipeInstructions": "1. Vierta el zumo de naranja en la licuadora.\n2. Añada los trozos de fresa y los plátanos a la licuadora.\n3. Mezcle todos los ingredientes hasta obtener una mezcla suave.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "countdown-casserole",
+  "name": "Casserola de Contar Regresivo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1/2 cucharadita de aceite de oliva",
+    "2 tazas de pechuga de pavo molido, cocida",
+    "1/2 taza de cebolla picada",
+    "1/2 taza de pimientos picados",
+    "3 tazas de maíz congelado, descongelado",
+    "4 tazas de patatas fritas tipo hash brown",
+    "3/4 taza de leche desnatada",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1/2 taza de queso cheddar sin grasa, rallado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 190 °C (375 °F).\n2. Engrasar un recipiente para hornear de 2 litros; reservar.\n3. Calentar el aceite de oliva en una sartén a fuego medio.\n4. Agregar el pavo, la cebolla y los pimientos. Cocinar hasta que el pavo ya no esté rosado y las verduras estén tiernas.\n5. Incorporar el maíz, las patatas fritas, la leche, la sal y la pimienta.\n6. Hornear, cubierto, durante 30 minutos o hasta que se haya calentado todo.\n7. Cubrir con queso cheddar.\n8. Hornear durante 3 minutos más o hasta que el queso se haya derretido.",
+  "url": null
+}

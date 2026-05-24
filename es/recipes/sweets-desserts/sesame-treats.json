@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "sesame-treats",
+  "name": "Bocaditos de sésamo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres",
+    "mantequilla de maní"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de sésamos",
+    "1/2 taza de semillas de girasol",
+    "1/2 taza de nueces picadas",
+    "3/4 taza de coco rallado",
+    "1 taza de miel",
+    "1 cucharadita de sal marina (opcional)",
+    "1/2 taza de mantequilla de maní",
+    "2 cucharadas de polvo de carobo"
+  ],
+  "recipeInstructions": "1. Mezclar los cuatro primeros ingredientes en un bol grande.\n2. En otro bol, mezclar los ingredientes restantes hasta que estén bien combinados.\n3. Incorporar la mezcla húmeda a la seca hasta distribuirla uniformemente.\n4. Extender la masa en un molde cuadrado engrasado.\n5. Dejar enfriar completamente y luego congelar hasta que esté firme.\n6. Una vez firme, cortarlo en barras y servir.",
+  "url": null
+}

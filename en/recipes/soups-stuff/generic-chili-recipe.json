@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "generic-chili-recipe",
+  "name": "Generic Chili Recipe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "meats",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "2 tbsp Oil",
+    "2 lb Chili meat",
+    "1 large Onion, chopped medium",
+    "2 cloves Garlic, minced",
+    "2 tsp Cumin",
+    "2 tbsp Chili powder",
+    "3 cups Canned tomatoes with juice",
+    "12 oz Beer",
+    "Salt and pepper to taste"
+  ],
+  "recipeInstructions": "1. Heat the oil (choose a low-smoke type) in a heavy pot over medium-high heat.\n2. Add meat, onion, and garlic. Cook until browned.\n3. Stir in cumin, chili powder, salt, and pepper.\n4. Coarsely chop tomatoes and add to meat along with juice.\n5. Stir in beer.\n6. Simmer uncovered for 1-2 hours, adding more beer or water as needed.\nIf chili meat is unavailable, use stew or soup meat.\nSome prefer a flat beer instead of fresh beer.\nEnjoy!",
+  "url": null
+}

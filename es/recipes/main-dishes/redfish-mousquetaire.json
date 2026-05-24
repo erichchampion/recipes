@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "redfish-mousquetaire",
+  "name": "Pescado Rojo al Estilo Mousquetaire",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "mp",
+    "mariscos",
+    "vinos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de agua",
+    "1 taza de vino blanco",
+    "2 mitades de limón",
+    "4 granos de pimienta negra",
+    "1 cebolla mediana, picada",
+    "Sal al gusto",
+    "Pimienta al gusto",
+    "4 filetes de redfish"
+  ],
+  "recipeInstructions": "1. Coloca el agua y el vino blanco en una olla grande.\n2. Añade las mitades de limón, los granos de pimienta, la cebolla, la sal y la pimienta a la olla.\n3. Lleva la mezcla a un hervor a fuego medio.\n4. Agrega suavemente los filetes de redfish a la olla.\n5. Cocina hasta que el pescado esté tierno, aproximadamente 10-15 minutos.\n6. Retira del fuego y sirve con limones adicionales si se desea.",
+  "url": null
+}

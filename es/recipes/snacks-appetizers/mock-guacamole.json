@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-guacamole",
+  "name": "Mock Guacamole",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "mexicano",
+    "tentempiés",
+    "especias"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb espinacas",
+    "1/2 taza de salsa picante",
+    "Maicena o almidón de flecha",
+    "Sal de ajo al gusto",
+    "Sal y pimienta al gusto",
+    "2 cucharaditas de jugo de limón",
+    "1/4 taza de cebolla verde finamente picada"
+  ],
+  "recipeInstructions": "1. Coloca las espinacas lavadas en un vaporizador y cocina hasta que estén tiernas.\n2. Combina las espinacas cocidas con la salsa picante en una licuadora y mezcla hasta obtener una consistencia suave.\n3. Disuelve la maicena o el almidón de flecha en agua, luego añádelo a la mezcla para espesarla.\n4. Transfiere la mezcla a un recipiente apto para microondas y cocina a potencia media hasta que espese, removiendo cada minuto.\n5. Añade sal de ajo, sal, pimienta, jugo de limón y cebolla verde picada al gusto.\n6. Refrigera hasta que esté listo para servir.\n7. Sirve con galletas saladas, totopos o chips de maíz.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "irish-coffee",
+  "name": "Irish Coffee",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz Irish whiskey",
+    "8 oz Hot coffee",
+    "1 dash Creme de menthe",
+    "1 Maraschino cherry",
+    "Dessert topping, pressurized",
+    "1 tsp Brown sugar; or to taste"
+  ],
+  "recipeInstructions": "Pour Irish whiskey into a coffee mug. Fill with black coffee and stir until brown sugar is dissolved.\nSpray a generous amount of whipped dessert topping (the canned, pressurized topping is easiest to use) on top of the coffee.\nTrickle creme de menthe over the whipped topping to form green stripes.\nPlace the cherry on top.\nServe immediately.",
+  "url": null
+}

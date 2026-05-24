@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "christmas-boxes",
+  "name": "Cajas de Navidad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina de uso general",
+    "1 taza de mantequilla sin sal, ablandada",
+    "1/2 taza de azúcar granulada",
+    "1 huevo grande, batido",
+    "1 cucharadita de extracto de vainilla",
+    "1/4 cucharadita de sal",
+    "Glaseado en polvo (para pegar)",
+    "Gominolas variadas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 °F (175 °C).\n2. Cortar la masa en cuadrados iguales para cada caja.\n3. Usar glaseado en polvo para pegar cuatro cuadrados juntos y formar los lados de una caja.\n4. Acicalar y unir el quinto cuadrado como base con glaseado.\n5. Acicalar el cuadrado más grande para que encaje en la parte superior, luego extenderlo y cortar gominolas en azúcar hasta que sean delgadas.\n6. Pegar las formas a la caja usando glaseado.\n7. Llenar cada caja con pequeños bocadillos como otros galletas pequeñas.\n8. Pegar la parte superior de las cajas de forma segura.\n9. Servir para que los niños \"coman\" las cajas para recuperar los dulces escondidos.",
+  "url": null
+}

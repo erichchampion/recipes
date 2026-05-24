@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "classic-mushroom-bisque",
+  "name": "Sopa de setas clásica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopa",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla sin sal",
+    "3 tazas de setas laminadas",
+    "4 cucharadas de harina",
+    "1/4 cucharadita de mostaza en polvo",
+    "1 cucharadita de sal",
+    "2 1/2 tazas de caldo de pollo sin grasa",
+    "2 tazas de crema",
+    "1/4 taza de cebollinos picados",
+    "1/4 taza de jerez"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una sartén grande a fuego medio.\n2. Saltea las setas hasta que estén ligeramente tiernas.\n3. Añade la harina, la mostaza y la sal, removiendo constantemente durante un minuto o menos.\n4. Vierte el caldo poco a poco, sin dejar de remover, hasta que la mezcla espese.\n5. Incorpora gradualmente la crema y los cebollinos.\n6. Calienta a fuego lento sin llegar a ebullición.\n7. Agrega el jerez justo antes de servir.\n8. Adorna con crema agria y espolvorea con un ramito de perejil.",
+  "url": null
+}

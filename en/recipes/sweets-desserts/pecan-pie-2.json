@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pecan-pie-2",
+  "name": "Pecan Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1 unbaked pie shell",
+    "1/2 cup butter or oleo",
+    "1/2 cup sugar",
+    "1/4 cup maple flavored syrup",
+    "3/4 cup white corn syrup",
+    "3 eggs, beaten",
+    "1 teaspoon vanilla",
+    "1 cup pecans"
+  ],
+  "recipeInstructions": "1. Preheat the oven to 350°F.\n2. Cream together the butter and sugar until smooth.\n3. Add the maple flavored syrup and corn syrup to the mixture. Beat in the eggs and vanilla.\n4. Pour the batter into the prepared pie shell.\n5. Scatter the pecans on top of the filling (or chop the nuts and mix them with the filling before pouring).\n6. Bake for 1 hour at 350°F, or until set.",
+  "url": null
+}

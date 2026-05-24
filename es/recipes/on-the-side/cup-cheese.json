@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cup-cheese",
+  "name": "Queso en Taza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso",
+    "lácteos",
+    "diversos",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "Leche espesa (leche agria)",
+    "Sal",
+    "Bicarbonato de sodio",
+    "Crema",
+    "Manteca (1/2 libra)",
+    "Huevo"
+  ],
+  "recipeInstructions": "1. La leche espesa es leche agria.\n2. Calentar la leche espesa en el horno a 350°F durante unos minutos hasta que se cuaje; dejar reposar para que los cuajados se asienten. Escurrir el agua, colocar los cuajados en un recipiente de arcilla y mantener a una temperatura moderada (aproximadamente 75°F).\n3. Cada día durante una semana, añadir nuevos cuajados horneados.\n4. Al final de la semana, verter los cuajados en una sartén caliente y dejar que se cocinen muy lentamente; llevar a un hervor lento sin remover.\n5. Añadir una pizca de sal, bicarbonato de sodio disuelto en crema, y manteca (1/2 libra). Mezclar la mezcla y continuar cocinando durante 15 minutos.\n6. Incorporar los huevos batidos y verter la mezcla en tazas pequeñas para queso.",
+  "url": null
+}

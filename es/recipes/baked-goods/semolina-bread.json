@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "semolina-bread",
+  "name": "Pan de sémola",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 taza de buttermilk",
+    "1 huevo batido",
+    "1 cucharada de mantequilla o puré de manzana",
+    "2,5 tazas de harina de sémola",
+    "1 cucharadita de sal",
+    "1,5 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Agregar los ingredientes en el orden indicado por la configuración de su máquina panificadora.\n2. Seleccionar la opción de ciclo regular en la máquina panificadora.\n3. Permitir que la máquina complete el proceso de horneado.\n4. Una vez terminado, retirar el molde de la máquina y dejar enfriar antes de cortar.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "tavern-biscuits",
+  "name": "Tavern Biscuits",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "biscuits",
+    "cookies"
+  ],
+  "recipeIngredient": [
+    "4 cups Flour",
+    "1/2 teaspoon Nutmeg",
+    "1 cup Butter",
+    "1 1/2 cups Milk",
+    "1 cup Sugar",
+    "1/2 teaspoon Mace"
+  ],
+  "recipeInstructions": "1. Sift together the flour and nutmeg.\n2. Add the butter and mix until the mixture is crumbly.\n3. Gradually add the remaining ingredients; mix well.\n4. Knead the dough into a smooth texture.\n5. Roll the dough thin and cut into small round shapes.\n6. Bake at 450°F until light brown.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "beans-and-barley",
+  "name": "Frijoles y cebada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frijoles"
+  ],
+  "recipeIngredient": [
+    "1 cebolla picada",
+    "1/2 taza de setas picadas",
+    "1 zanahoria picada",
+    "1 tallo de brócoli picado (opcional)",
+    "1 taza de judías pintas cocidas",
+    "1 taza de judías blancas pequeñas cocidas",
+    "4 tazas de caldo de verduras (en lugar de caldo de carne)",
+    "1/2 cucharadita de mostaza preparada",
+    "2 cucharadas de perejil picado",
+    "1/4 taza de guisantes secos",
+    "1/4 taza de lentejas secas",
+    "1/4 taza de cebada perlada"
+  ],
+  "recipeInstructions": "1. Saltea las verduras picadas en un poco de caldo hasta que estén muy tiernas.\n2. Combina las judías escurridas con el caldo, la mostaza y el perejil.\n3. Ajusta la consistencia con más caldo o agua si es necesario.\n4. Lleva a ebullición, reduce el fuego, tapa y deja cocinar a fuego lento durante 45 minutos.\n5. Añade los guisantes, lentejas y cebada. Tapa y deja cocinar a fuego lento durante otra hora hasta que las judías estén tiernas.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili",
+  "name": "Chili",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "main dish",
+    "mexican",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "2 teaspoons oil",
+    "1 onion, chopped",
+    "1 pound ground beef (optional for non-vegetarians)",
+    "3 pounds (2 cans) canned crushed tomatoes",
+    "3 pounds (2 cans) canned chili beans",
+    "2 teaspoons chili powder",
+    "1/4 cup grated nacho cheese"
+  ],
+  "recipeInstructions": "1. Sauté onion and/or meat in the bottom of a pot.\n2. Add the rest of the ingredients, except for the cheese.\n3. Mix everything together and cook for at least one hour.\n4. Put the cheese on top as garnish.",
+  "url": null
+}

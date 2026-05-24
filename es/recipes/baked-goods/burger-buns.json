@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "burger-buns",
+  "name": "Panes para hamburguesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "repostería",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de agua tibia",
+    "3/4 taza de leche tibia",
+    "1/4 taza de azúcar",
+    "3 cucharadas de mantequilla o aceite",
+    "2 cucharaditas de sal",
+    "5 tazas de harina de pan",
+    "2 huevos",
+    "4 1/2 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes a una máquina panificadora y activar el programa para amasar la masa, o mezclar en un bol y amasar durante 5 minutos.\n2. Dejar reposar. La masa puede sacarse de la máquina después de 45 minutos o dejarla hasta que termine el ciclo. Si se amasa a mano, engrasar el bol.\n3. Dividir la masa en 8 partes iguales (más o menos...) y formar cada parte en una bola suave (también más o menos...).\n4. Colocar sobre una bandeja para hornear y dejar reposar durante 20-40 minutos, hasta que dupliquen su tamaño.\n5. Batir un huevo y frotarlo sobre los panes.\n6. Cubrir con los toppings favoritos (semillas de sésamo, semillas de amapola, ajo). Lo que sea.\n7. Hornear a 200 °C durante 10-15 minutos.",
+  "url": null
+}

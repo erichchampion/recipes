@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "fondue-italienne",
+  "name": "Fondue Italiana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso",
+    "fondue",
+    "italiano",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 diente de ajo, partido por la mitad",
+    "10 onzas líquidas de leche",
+    "8 oz de mozzarella rallada",
+    "8 oz de queso Dolcelatte rallado",
+    "2 oz de parmesano rallado",
+    "2 cucharaditas de maicena",
+    "3 cucharadas de vino blanco seco",
+    "Salami y palitos de pan, para servir"
+  ],
+  "recipeInstructions": "1. Frota el interior de la olla de fondue con la mitad del diente de ajo partido.\n2. Añade la leche y calienta hasta que empiece a hervir.\n3. Incorpora los quesos y continúa calentando hasta que se derritan. Revuelve con frecuencia.\n4. Mezcla la maicena con el vino blanco y luego añádelo a la mezcla de queso. Cocina durante 2-3 minutos hasta que espese y adquiera una textura cremosa.\n5. Sirve con salami y palitos de pan.",
+  "url": null
+}

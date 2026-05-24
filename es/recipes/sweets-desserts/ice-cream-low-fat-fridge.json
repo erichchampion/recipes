@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "ice-cream-low-fat-fridge",
+  "name": "Helado bajo en grasa, nevera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "diabético",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "8 onzas de leche desnatada",
+    "4 paquetes de edulcorante sustituto del azúcar",
+    "1 cucharadita de extracto de vainilla",
+    "Añadir:",
+    "1 melocotón, pelado y cortado en dados",
+    "1 plátano",
+    "2 rebanadas de piña con jugo",
+    "4 onzas de zumo de naranja",
+    "1 taza de fresas"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Colocar la mezcla en el congelador o frigorífico hasta que se solidifique.\n3. Retirar del congelador y romper cualquier cristal de hielo.\n4. Transferir a una licuadora y batir hasta obtener una textura cremosa.\n5. Servir inmediatamente.",
+  "url": null
+}

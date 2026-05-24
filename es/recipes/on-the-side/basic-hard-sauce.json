@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-hard-sauce",
+  "name": "Salsa dura básica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "postres",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1/4 lb de mantequilla sin sal, ablandada",
+    "1/2 taza de azúcar glas",
+    "1/2 cucharadita de vainilla",
+    "o otro saborizante como ron o licor de naranja"
+  ],
+  "recipeInstructions": "1. Batir la mantequilla hasta que esté muy suave.\n2. Añadir gradualmente el azúcar glas y seguir batiendo hasta obtener una mezcla bien aerada.\n3. Incorporar el saborizante deseado.\n4. Refrigerar antes de servir. Rinde 3/4 taza.",
+  "url": null
+}

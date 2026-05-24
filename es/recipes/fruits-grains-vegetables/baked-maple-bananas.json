@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-maple-bananas",
+  "name": "Bananas al horno con jarabe de arce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "plátanos",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "4 plátanos",
+    "1/2 taza de sirope de arce",
+    "1/4 taza de mantequilla derretida",
+    "1/2 cucharadita de canela en polvo"
+  ],
+  "recipeInstructions": "1. Cortar los plátanos por la longitud y colocarlos en un plato apto para horno.\n2. En un bol, mezclar el sirope de arce con la mantequilla derretida.\n3. Verter la mezcla sobre los plátanos cortados.\n4. Hornear hasta que los plátanos estén calientes.\n5. Espolvorear con canela y servir con helado.",
+  "url": null
+}

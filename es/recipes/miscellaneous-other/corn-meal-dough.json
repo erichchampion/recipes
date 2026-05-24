@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "corn-meal-dough",
+  "name": "Masa de maíz",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "americana",
+    "étnica",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "4 tazas de maicena",
+    "2 cucharadas de sal",
+    "8 tazas de agua",
+    "2 huevos bien batidos",
+    "4 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. Agregar la maicena y la sal al agua en una olla. Llevar a ebullición y cocinar a fuego medio hasta espesar, 5-10 minutos.\n2. Añadir gradualmente los huevos y la mantequilla. Remover continuamente hasta que la mezcla esté combinada y suave.",
+  "url": null
+}

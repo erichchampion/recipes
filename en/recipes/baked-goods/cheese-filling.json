@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-filling",
+  "name": "Cheese Filling",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "pastries"
+  ],
+  "recipeIngredient": [
+    "2 tablespoons Yellow raisins",
+    "1 tablespoon Cognac",
+    "1 cup Cream cheese (or cottage)",
+    "1/4 cup Sugar",
+    "1 tablespoon Flour",
+    "1 Egg yolk",
+    "1 tablespoon Melted butter",
+    "1 tablespoon Sour cream",
+    "1/2 teaspoon Grated lemon rind",
+    "1/2 teaspoon Vanilla"
+  ],
+  "recipeInstructions": "1. Mix raisins with cognac.\n2. Cream together cheese, sugar, and flour.\n3. Stir in egg yolk, then melted butter, sour cream, lemon rind, and vanilla.\n4. Add cognac-soaked raisins.",
+  "url": null
+}

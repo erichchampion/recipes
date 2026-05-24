@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "zucchini-stroganoff",
+  "name": "Zucchini Estofado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "1/2 taza de cebolla picada",
+    "1 lata de sopa de setas con crema",
+    "2 tazas de macarrones crudos",
+    "2 tazas de calabacín, cortado en juliana",
+    "Sal y pimienta al gusto",
+    "1 cucharadita de perejil seco o albahaca",
+    "1 taza de crema agria"
+  ],
+  "recipeInstructions": "1. Dorar la carne y las cebollas en una sartén.\n2. Añadir el resto de los ingredientes, excepto la crema agria, a la sartén.\n3. Cocinar a fuego lento cubierto hasta que los macarrones estén hechos.\n4. Mezclar la crema agria y calentar a fuego suave.",
+  "url": null
+}

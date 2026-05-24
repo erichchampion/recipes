@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "fresh-apple-bread",
+  "name": "Fresh Apple Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread",
+    "breads",
+    "fruit"
+  ],
+  "recipeIngredient": [
+    "3/8 cup shortening",
+    "1 cup sugar",
+    "2 eggs",
+    "2 cups plain flour",
+    "1 teaspoon baking soda",
+    "1 teaspoon cinnamon",
+    "4 cups apples (or more), pared & chopped",
+    "2/3 cup nuts, chopped",
+    "1/2 teaspoon ground cloves",
+    "1/2 teaspoon salt"
+  ],
+  "recipeInstructions": "1. Cream together the shortening and sugar.\n2. Add the eggs; beat well.\n3. Sift together the flour, baking soda, salt, cinnamon, ground cloves, and add to the shortening mixture.\n4. Stir in the apples and nuts.\n5. Pour into a greased 9-inch loaf pan.\n6. Bake for 1 hour at 350ºF.\n7. Let stand until cool.\n8. Remove bread from the pan and sprinkle with confectioner's sugar.",
+  "url": null
+}

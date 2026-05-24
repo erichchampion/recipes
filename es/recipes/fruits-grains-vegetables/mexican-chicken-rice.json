@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-chicken-rice",
+  "name": "Pollo mexicano y arroz",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pollo",
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "Salsa de tomate (8 oz)",
+    "Cúmin en polvo (1 cucharadita)",
+    "Polvo de cebolla (1/4 cucharadita)",
+    "Polvo de ajo (1/8 cucharadita)",
+    "Cacao (1/4 cucharadita)",
+    "Sal (1/8 cucharadita)",
+    "Pimiento chili (1 cucharada)",
+    "Pollo cocido, picado (2 pechugas sin hueso)",
+    "Arroz (1 taza)",
+    "Queso cheddar rallado (1 taza)",
+    "Crema agria",
+    "Salsa picante",
+    "Tomates picados (opcional)"
+  ],
+  "recipeInstructions": "1. En una cacerola pequeña, mezclar 2/3 de la salsa de tomate con las especias.\n2. Añadir el pollo picado a la salsa y remover ocasionalmente.\n3. Cocinar a fuego lento hasta servir.\n4. Preparar el arroz según las instrucciones del paquete.\n5. Una vez hecho el arroz, añadir 1/3 restante de la salsa de tomate y cocinar unos minutos más.\n6. Servir colocando el arroz en platos, encima con la mezcla de pollo-salsa.\n7. Añadir queso rallado y espolvorear con crema agria, salsa picante y tomates picados al gusto.",
+  "url": null
+}

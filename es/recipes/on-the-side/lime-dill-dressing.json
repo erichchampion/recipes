@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "lime-dill-dressing",
+  "name": "Aderezo de lima y eneldo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "frutas",
+    "ensaladas",
+    "especias",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de jugo de limón fresco",
+    "1 cucharada de vinagre",
+    "1/2 cucharadita de azúcar",
+    "1/2 cucharadita de mostaza en polvo",
+    "2 cucharaditas de semillas de eneldo, molidas groseramente",
+    "1 cucharada de mayonesa",
+    "1/3 taza de aceite de oliva",
+    "Sal y pimienta negra recién molida"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes excepto el aceite de oliva en una licuadora.\n2. Licuar hasta obtener una mezcla suave.\n3. Con el motor encendido, agregar el aceite de oliva en un chorro constante mientras se sigue licuando hasta que esté bien incorporado.\n4. Añadir sal y pimienta al gusto.\nRendimiento: 1/2 taza",
+  "url": null
+}

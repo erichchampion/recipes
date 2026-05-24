@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "bacon-omelet",
+  "name": "Omeleta con tocino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de mantequilla",
+    "4 huevos",
+    "4 cucharadas de leche",
+    "3 rebanadas de tocino cocido y desmenuzado"
+  ],
+  "recipeInstructions": "1. Coloca la mantequilla en un molde para pastel de 23 cm.\n2. Microondas a potencia máxima durante 30 segundos hasta que se derrita.\n3. Bate los huevos y la leche juntos y viértelos en el molde.\n4. Espolvorea el tocino desmenuzado uniformemente sobre la superficie.\n5. Cubre con papel de cera.\n6. Microondas a potencia máxima durante 4 minutos, removiendo una vez durante la cocción.\n7. Retira del microondas y cubre con una tapa o un plato para dejar reposar de 1 a 2 minutos.\n8. Dobla la tortilla por la mitad usando una espátula.",
+  "url": null
+}

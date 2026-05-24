@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "aloha-cake",
+  "name": "Aloha Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cake",
+    "cakes",
+    "desserts",
+    "fruits"
+  ],
+  "recipeIngredient": [
+    "1 can cherry pie filling",
+    "20 oz canned pineapple, crushed and drained",
+    "1 box white or yellow cake mix",
+    "1 cup coconut",
+    "1 cup chopped walnuts",
+    "1 cup melted butter"
+  ],
+  "recipeInstructions": "1. In a greased 9x13-inch pan (inches), combine all ingredients in the order given.\n2. Do not stir.\n3. Bake for 1 hour at 350 degrees Fahrenheit.",
+  "url": null
+}

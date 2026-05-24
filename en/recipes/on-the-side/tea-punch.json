@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tea-punch",
+  "name": "Tea Punch",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "punch",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "3 cups Tea, strong",
+    "1 cup Lemon juice",
+    "4 cups Orange juice",
+    "2 cups Raspberry syrup or grenadine",
+    "1 cup Pineapple, crushed",
+    "Sugar to taste",
+    "2 quarts Club soda, chilled"
+  ],
+  "recipeInstructions": "1. Combine all ingredients except club soda in a punch bowl with a large block of clear ice.\n2. Allow the mixture to chill thoroughly. If fresh fruit juices are used, strain them first.\n3. Add the club soda just before serving.",
+  "url": null
+}

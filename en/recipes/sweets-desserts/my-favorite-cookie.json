@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-favorite-cookie",
+  "name": "My Favorite Cookie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 cup brown sugar, light or dark",
+    "1/2 cup sugar",
+    "2 sticks butter",
+    "3 tablespoons shortening",
+    "1 teaspoon salt",
+    "4 eggs",
+    "1 1/2 teaspoons baking soda",
+    "3 1/2 cups all-purpose flour",
+    "1/4 cup milk",
+    "2 cups pecan pieces",
+    "8 ounces white chocolate chunks",
+    "8 ounces milk chocolate chunks",
+    "8 ounces semi-sweet chocolate chunks",
+    "1 cup mini chocolate chips"
+  ],
+  "recipeInstructions": "1. Cream together the sugars, butter, shortening, and salt.\n2. Add eggs one at a time, beating after each addition.\n3. Combine flour and baking soda in a separate bowl.\n4. Alternately add the flour mixture and milk to the creamed mixture; mix just until it starts to come together.\n5. Combine pecan pieces, chocolate chunks, and chocolate chips.\n6. Fold into the creamed mixture.\n7. Using a large spoon, drop dough onto a greased cookie sheet.\n8. Press down the cookies.\n9. Bake at 350 degrees Fahrenheit for 15 minutes, or until golden brown. If using a dark cookie sheet, decrease heat by 15-20 degrees.\n10. Do not overcook. Serve hot. Makes 35 (2 oz.) cookies.",
+  "url": null
+}

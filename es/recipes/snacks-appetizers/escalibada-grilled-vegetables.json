@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "escalibada-grilled-vegetables",
+  "name": "Escalibada (Verduras a la parrilla)",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "étnico",
+    "español",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 Pimiento rojo",
+    "1 Pimiento verde",
+    "1 Berenjena",
+    "1 Tomate"
+  ],
+  "recipeInstructions": "1. Cortar las verduras en trozos del mismo tamaño.\n2. Colocar las verduras en una parrilla o sartén a fuego medio.\n3. Cocinar hasta que estén tiernas y ligeramente carbonizadas, dando la vuelta ocasionalmente.\n4. Retirar del fuego y servir inmediatamente.",
+  "url": null
+}

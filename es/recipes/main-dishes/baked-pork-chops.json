@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-pork-chops",
+  "name": "Lomo de cerdo al horno",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de mantequilla",
+    "1 taza de migas de Ritz",
+    "3 cucharadas de queso parmesano rallado",
+    "1/2 cucharadita de sal",
+    "1/8 cucharadita de pimienta negra",
+    "1 huevo",
+    "2 cucharadas de leche",
+    "6 chuletas de cerdo"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 °F (175 °C).\n2. Derretir la mantequilla en un molde para hornear poco profundo precalentado en el horno.\n3. En un bol, mezclar las migas de pan, el queso parmesano, la sal y la pimienta.\n4. En otro bol, batir la leche y el huevo juntos.\n5. Cubrir cada chuleta de cerdo con la mezcla de migas, sumergirla en la mezcla de huevo y luego volver a cubrir con migas.\n6. Colocar las chuletas cubiertas en el molde con mantequilla.\n7. Hornear durante 30 minutos.\n8. Dar la vuelta cuidadosamente a las chuletas y hornear durante otros 30 minutos.",
+  "url": null
+}

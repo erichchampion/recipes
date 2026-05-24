@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "wheat-quick-mix",
+  "name": "Mezcla Rápida de Trigo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "diversos",
+    "mezclas"
+  ],
+  "recipeIngredient": [
+    "4 tazas de harina de trigo integral",
+    "4 tazas de harina de uso común",
+    "1/3 taza de polvo de hornear",
+    "4 cucharaditas de sal",
+    "1/2 taza de azúcar",
+    "2 tazas de manteca vegetal",
+    "1 1/4 tazas de leche en polvo"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande hasta que estén bien integrados.\n2. Transferir la mezcla a un recipiente de un galón y conservarla en el refrigerador.",
+  "url": null
+}

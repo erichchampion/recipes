@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "florida-cookies",
+  "name": "Galletas de Florida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla",
+    "1 taza de azúcar",
+    "1/2 taza de ralladura de naranja (de 2 naranjas)",
+    "1 huevo",
+    "1/2 taza de jugo de naranja",
+    "3 tazas de harina tamizada",
+    "1 cucharadita de canela",
+    "4 cucharaditas de polvo de hornear"
+  ],
+  "recipeInstructions": "1. Batir la mantequilla y el azúcar hasta que queden suaves.\n2. Agregar la ralladura de naranja, el huevo batido y el jugo de naranja a la mezcla. Mezclar bien.\n3. Incorporar gradualmente la harina tamizada, la canela y el polvo de hornear, mezclando hasta formar una masa.\n4. Colocar porciones de masa del tamaño de una cucharadita sobre una bandeja para galletas sin engrasar.\n5. Hornear en horno precalentado a 180°C durante 10 a 12 minutos, o hasta que estén ligeramente doradas.",
+  "url": null
+}

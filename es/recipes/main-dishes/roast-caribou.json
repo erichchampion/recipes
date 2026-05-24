@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "roast-caribou",
+  "name": "Asado de Caribú",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "juego",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "4 lb de asado de caribú",
+    "MARINADA:",
+    "1/2 taza de vinagre",
+    "2 cucharadas de ajo picado",
+    "2 cucharadas de sal",
+    "2 cucharadas de harina",
+    "2 cucharadas de aceite",
+    "1 cucharada de azúcar moreno",
+    "1 cucharadita de mostaza preparada",
+    "1 cucharada de salsa Worcestershire",
+    "1 cucharada de vinagre o jugo de limón",
+    "1 lata de tomates (400 g)"
+  ],
+  "recipeInstructions": "1. Marina el caribú con el vinagre, el ajo y la sal en una bolsa de plástico.\n- Voltea ocasionalmente, deja marinar toda la noche en el refrigerador.\n2. Retira el caribú de la marinada y desecha esta. Seca bien, espolvoréalo con harina y dóralo en un poco de aceite en una sartén caliente.\n3. Prepara una pasta con los ingredientes restantes y extiéndela sobre el asado.\n4. Coloca en el horno precalentado a 230°C. Reduce la temperatura a 160°C y asa durante 60-80 minutos hasta que alcance el punto deseado de cocción.\n5. Retira la carne del horno y saca la grasa del jugo en la sartén. Prepara una salsa con este jugo.",
+  "url": null
+}

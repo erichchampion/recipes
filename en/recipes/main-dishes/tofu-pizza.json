@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "tofu-pizza",
+  "name": "Tofu Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza",
+    "tofu"
+  ],
+  "recipeIngredient": [
+    "3 Pita Breads, Split into Six Rounds",
+    "1 1/2 cups Tomato & Garlic Sauce, Drained",
+    "1 lb Tofu, Pressed",
+    "1/2 lb Fresh Mushrooms, Sliced",
+    "1/2 cup Chopped Green Pepper",
+    "1 1/2 tbsp Grated Parmesan"
+  ],
+  "recipeInstructions": "1. Preheat oven to 375°F.\n2. Place pita bread rounds on a cookie sheet and spread with tomato and garlic sauce.\n3. Crumble the tofu over each pizza crust.\n4. Top with green pepper and mushrooms.\n5. Sprinkle with grated Parmesan.\n6. Bake for 15 minutes.",
+  "url": null
+}

@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-spaghetti",
+  "name": "Spaghettis italianos",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "burgers",
+    "étnico",
+    "italiano"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne molida",
+    "1 cebolla mediana, picada",
+    "2 latas de salsa de tomate (15 oz cada una)",
+    "2 latas de puré de tomate (15 oz cada una)",
+    "1 lata de aceitunas sin hueso y maduras (7.5 oz)",
+    "2 paquetes de mezcla para espaguetis con champiñones",
+    "1 taza de pimiento verde picado",
+    "3 tazas de agua",
+    "1 cucharadita de azúcar",
+    "1 cucharadita de orégano en hojas",
+    "2 dientes de ajo, picados",
+    "1 hoja de laurel",
+    "16 oz de espagueti largo crudo",
+    "Queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. Cocinar y remover la carne y la cebolla en una sartén grande o olla holandesa hasta que la carne esté marrón.\n2. Escurrir el exceso de grasa.\n3. Incorporar los ingredientes restantes excepto el espagueti y el queso; llevar a ebullición.\n4. Reducir el fuego, tapar y cocinar a fuego lento durante 1,5 horas, removiendo ocasionalmente.\n5. Retirar la hoja de laurel.\n6. Cocinar el espagueti según las instrucciones del paquete y escurrir.\n7. Servir la salsa sobre los espaguetis cocidos y espolvorear con queso parmesano.",
+  "url": null
+}

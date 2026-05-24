@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-cream",
+  "name": "Crema de chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "chocolate"
+  ],
+  "recipeIngredient": [
+    "7 hojas de gelatina, remojadas en agua fría",
+    "6 onzas de chocolate blanco",
+    "10 onzas de crema espesa",
+    "4 claras de huevo",
+    "4 onzas de azúcar",
+    "2 cucharadas de kirsch"
+  ],
+  "recipeInstructions": "1. Disolver la gelatina en una cacerola utilizando un baño maría.\n2. Colocar el chocolate blanco en la mitad superior de una olla doble y fundirlo.\n3. Retirar del fuego y agregar la gelatina disuelta. Dejar enfriar.\n4. Batir la crema hasta que forme picos suaves.\n5. Batir las claras de huevo, añadiendo el azúcar gradualmente, hasta que formen picos firmes.\n6. Incorporar el merengue a la crema batida, y luego mezclar con el chocolate.\n7. Reservar a temperatura ambiente.",
+  "url": null
+}

@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-jelly",
+  "name": "Jalea de frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "comida para bebés",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de agua",
+    "2 cucharaditas de gelatina",
+    "1 1/2 tazas de jugo de manzana"
+  ],
+  "recipeInstructions": "1. Disolver la gelatina en agua caliente.\n2. Incorporar el jugo de manzana.\n3. Refrigerar hasta que cuaje.",
+  "url": null
+}

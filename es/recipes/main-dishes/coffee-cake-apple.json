@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "coffee-cake-apple",
+  "name": "Tarta de café con manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "pastel",
+    "pasteles",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 mezcla básica de pastel de café",
+    "Para el topping:",
+    "1/4 taza de azúcar",
+    "1/4 taza de azúcar moreno",
+    "2 cucharadas de mezcla para hornear",
+    "1/4 cucharadita de canela",
+    "3 cucharadas de mantequilla o margarina",
+    "1 1/2 tazas de manzanas peladas y cortadas en trozos finos",
+    "1/2 taza de pasas (opcional)"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes secos del topping.\n2. Cortar la grasa hasta obtener migas gruesas.\n3. Incorporar las manzanas y las pasas.\n4. Este topping se puede usar sobre el pastel o en el fondo del molde. El resultado será más crujiente si se utiliza sobre el pastel.\n5. Si se usa en el fondo del molde, el pastel quedará bastante húmedo.",
+  "url": null
+}

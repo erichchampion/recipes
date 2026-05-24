@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-tomato-cornbread",
+  "name": "Pan de maíz con queso y tomate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "secos al sol"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina de maíz",
+    "1 taza de mezcla para bizcochos",
+    "1/2 taza de tomates secos al sol en trozos",
+    "1 taza de leche",
+    "1/3 taza de aceite vegetal",
+    "1/2 taza de queso cheddar rallado",
+    "1/4 taza de queso parmesano rallado",
+    "2 huevos batidos ligeramente",
+    "1/4 cucharadita de polvo de ajo"
+  ],
+  "recipeInstructions": "1. En un bol grande, combine todos los ingredientes hasta que estén bien mezclados y sin grumos. Añada más leche si es necesario.\n2. Precalentar el horno a 375 °F (190 °C).\n3. Engrase ligeramente un molde rectangular de 20x20x5 cm.\n4. Vierta la masa en el molde y hornee durante 40-45 minutos, o hasta que la parte superior sea dorada y se sienta firme al tacto.",
+  "url": null
+}

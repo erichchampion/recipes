@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "tradional-pumpkin-pie",
+  "name": "Pastel de calabaza tradicional",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "festividades",
+    "tarta",
+    "tartas",
+    "calabaza"
+  ],
+  "recipeIngredient": [
+    "Masa de pastel/tarta sin hornear de 23 cm",
+    "2 tazas de calabaza (1 lata de 400 g)",
+    "1 lata de leche condensada endulzada (400 g)",
+    "2 huevos",
+    "1 cucharadita de canela en polvo",
+    "1/2 cucharadita de jengibre en polvo",
+    "1/2 cucharadita de nuez moscada molida",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 220 °C.\n2. En un bol grande, mezclar todos los ingredientes excepto la masa; mezclar bien.\n3. Verter la mezcla en la masa preparada.\n4. Hornear durante 15 minutos a 220 °C.\n5. Reducir la temperatura del horno a 180 °C y continuar horneando de 35 a 40 minutos, o hasta que un cuchillo insertado a 1 cm del borde salga limpio.\n6. Dejar enfriar completamente la tarta antes de servir.\n7. Decorar al gusto. Refrigerar las sobras.",
+  "url": null
+}

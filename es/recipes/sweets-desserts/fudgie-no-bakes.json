@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fudgie-no-bakes",
+  "name": "Fudgie sin hornear",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de polvo de cacao",
+    "1/2 taza de margarina (ablandada)",
+    "1/2 taza de leche",
+    "2 tazas de azúcar granulada",
+    "1/2 cucharadita de sal",
+    "2 cucharaditas de mantequilla de maní cremosa",
+    "3 tazas de avena en hojuelas",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar el polvo de cacao, la margarina, la leche, el azúcar y la sal.\n2. Llevar la mezcla a ebullición constante a fuego medio.\n3. Retirar del fuego y agregar el resto de los ingredientes: mantequilla de maní, avena en hojuelas y extracto de vainilla.\n4. Extender cucharadas de la masa sobre papel pergamino o papel de hornear.\n5. Dejar enfriar completamente antes de servir.",
+  "url": null
+}

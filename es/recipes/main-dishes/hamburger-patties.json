@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-patties",
+  "name": "Hamburguesas caseras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgueros",
+    "plato principal",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne de hamburguesa magra",
+    "1 cebolla pequeña picada",
+    "1 rebanada de pan, cortada en cubos",
+    "2 cucharadas de ketchup",
+    "1/2 cucharadita de sal",
+    "1 1/2 cucharaditas de mostaza preparada",
+    "1 cucharadita de salsa Worcestershire",
+    "1 cucharadita de rábano horneado preparado"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande.\n2. Dar forma a la mezcla en 4 hamburguesas, con un diámetro aproximado de 3 1/2 pulgadas cada una.\n3. Colocar las hamburguesas en un molde cuadrado de 8 x 8 x 2 pulgadas.\n4. (Opcional) Untar cada hamburguesa con ketchup adicional.\n5. Cubrir el molde suelto y microondas a potencia máxima (100%) durante 5 minutos.\n6. Darle la vuelta al molde un cuarto de giro.\n7. Continuar microondas hasta que las hamburguesas estén cocidas, aproximadamente 2 a 3 minutos.",
+  "url": null
+}

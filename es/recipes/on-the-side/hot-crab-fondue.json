@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-crab-fondue",
+  "name": "Fondue de Cangrejo Caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "fondue",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 tarro de queso fresco (5 onzas)",
+    "1 crema de queso (paquete de 8 onzas)",
+    "1/4 taza de vino blanco seco",
+    "1 lata de cangrejo, escurrido y desmenuzado (8 1/2 onzas)",
+    "1/2 cucharadita de salsa Worcestershire",
+    "1/4 cucharadita de sal de ajo",
+    "1/2 cucharadita de pimienta cayena",
+    "Pan francés cortado en cubos"
+  ],
+  "recipeInstructions": "1. Derrite el queso en el fondo de un baño maría hasta que esté suave.\n2. Agrega los ingredientes restantes a la mezcla de queso derretido y revuelve bien.\n3. Si la mezcla espesa, añade más vino. Debería obtener una cantidad aproximada de 2 tazas y media.",
+  "url": null
+}

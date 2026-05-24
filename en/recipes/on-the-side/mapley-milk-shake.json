@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "mapley-milk-shake",
+  "name": "Mapley Milk Shake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "dairy",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/4 cup Milk",
+    "1/4 cup Maple Syrup",
+    "1 pint Ice Cream, Vanilla (soft)",
+    "Cinnamon or Nutmeg"
+  ],
+  "recipeInstructions": "1. Pour milk and maple syrup into blender container.\n2. Add ice cream.\n3. Cover the blender.\n4. Blend on medium speed for about 1 minute or until smooth.\n5. Pour mixture into glasses.\n6. Sprinkle with cinnamon if desired.\n7. Serve immediately.",
+  "url": null
+}

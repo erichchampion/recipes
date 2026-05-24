@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "al-s-german-pilsner",
+  "name": "Cerveza alemana Al's Pilsner",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "cervezas",
+    "bebidas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 lata de jarabe de extracto de malta - claro",
+    "3 libras de polvo de extracto de malta - claro",
+    "2,5 oz de lúpulos Hallertauer",
+    "1 oz de lúpulos Saaz",
+    "1 sobre de levadura de cerveza",
+    "0,75 taza de azúcar de maíz, para embotellar",
+    "1 bolsa de lúpulo"
+  ],
+  "recipeInstructions": "1. Hervir las maltas durante 30 minutos.\n2. Añadir 0,25 oz de Hallertau y 0,25 oz de Saaz, y hervir durante 15 minutos adicionales.\n3. Repetir el paso 2 con otros 0,25 oz de Hallertau y 0,25 oz de Saaz, hirviendo otros 15 minutos.\n4. Incorporar los 1 oz restantes de Hallertau en una bolsa de lúpulo y dejar en infusión durante 2 minutos.",
+  "url": null
+}

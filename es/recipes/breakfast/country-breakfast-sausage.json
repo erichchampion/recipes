@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "country-breakfast-sausage",
+  "name": "Salchicha para desayuno campestre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "carne",
+    "cerdo",
+    "salchichas"
+  ],
+  "recipeIngredient": [
+    "1 lb (450g) de carne de cerdo molida",
+    "1 cucharadita de comino en polvo",
+    "1/2 cucharadita de tomillo seco",
+    "1/2 cucharadita de salvia seca",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra recién molida",
+    "1/8 cucharadita de pimienta cayena (opcional)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol mediano; amasar bien. Tapar y refrigerar durante la noche para que se mezclen los sabores.\n2. Formar 6 hamburguesas. Cocinar en una sartén ligeramente engrasada a fuego medio durante unos 15 minutos, o hasta que estén doradas por ambos lados y los centros ya no sean rosadosos, volviéndolas ocasionalmente.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "honey-mustard-baked-chicken",
+  "name": "Pollo horneado con miel y mostaza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "3 lb de piezas de pollo",
+    "1/2 taza de mantequilla",
+    "1/2 taza de miel",
+    "1/4 taza de mostaza (dijon)",
+    "1 cucharadita de sal de ajo",
+    "1 cucharadita de polvo de curry"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F.\n2. Colocar las piezas de pollo en una bandeja para hornear poco profunda, con la piel hacia arriba.\n3. Mezclar la mantequilla, la miel, la mostaza, la sal de ajo y el polvo de curry en un bol; mezclar bien.\n4. Verter la mezcla sobre el pollo.\n5. Hornear durante 1 hora y 15 minutos, pincelando cada 15 minutos, hasta que el pollo esté tierno y dorado.",
+  "url": null
+}

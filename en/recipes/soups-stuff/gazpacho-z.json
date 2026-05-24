@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "gazpacho-z",
+  "name": "Gazpacho Z",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "soups/stews",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "1 Small Zucchini",
+    "1 Small Green Pepper",
+    "1 Small Onion",
+    "1 Cucumber",
+    "1 Large Tomato",
+    "3 Cloves Garlic",
+    "1/2 Teaspoon Cumin",
+    "1/4 Teaspoon Chili powder",
+    "4 Tablespoons Olive oil",
+    "12 Ounces V8 or tomato juice"
+  ],
+  "recipeInstructions": "1. Finely chop the vegetables and garlic (or pulse them in a food processor or blender for 10 seconds).\n2. Add the chopped vegetables and spices to the juice.\n3. Refrigerate until ready to serve.",
+  "url": null
+}

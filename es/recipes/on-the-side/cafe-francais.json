@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "cafe-francais",
+  "name": "Café Francés",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 taza de nata para montar, muy fría",
+    "1/4 taza de azúcar glas",
+    "1 cucharadita de extracto de vainilla",
+    "3 tazas de café caliente, recién preparado (preferiblemente tostado francés)"
+  ],
+  "recipeInstructions": "1. Batir la nata hasta que esté espumosa.\n2. Añadir gradualmente el azúcar glas y seguir batiendo hasta que formen picos firmes.\n3. Dividir la mezcla en partes iguales entre 4 tazas de café.\n4. Incorporar el extracto de vainilla al café caliente.\n5. Llenar las cuatro tazas con la mezcla de café sin remover.\n6. Servir inmediatamente.\nRinde: 4 porciones",
+  "url": null
+}

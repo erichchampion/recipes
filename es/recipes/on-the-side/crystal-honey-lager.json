@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "crystal-honey-lager",
+  "name": "Cerveza de Miel Cristalina",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas alcohólicas",
+    "cervezas",
+    "platos secundarios",
+    "cervezas especializadas"
+  ],
+  "recipeIngredient": [
+    "3 1/2 lbs de extracto de malta en polvo - claro",
+    "2 1/2 lbs de miel",
+    "1 1/2 oz de lúpulo Cascade, en ebullición",
+    "1/2 oz de lúpulo Cascade, en acabado",
+    "1 sobre de levadura Lager",
+    "3/4 taza de azúcar de maíz, para embotellar"
+  ],
+  "recipeInstructions": "1. Mezclar el extracto de malta, miel y lúpulos en ebullición con 1,5 galones de agua.\n2. Hervir la mezcla durante 60 minutos.\n3. Añadir los lúpulos en acabado durante los últimos 2 a 4 minutos de hervido.\n4. Filtrar el líquido restante sobre agua fría.\n5. Enfriar la mezcla antes de añadir la levadura.\n6. Embotellar una vez completada la fermentación.",
+  "url": null
+}

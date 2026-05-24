@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "kfc-biscuits",
+  "name": "Biscuitos de KFC",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "galletas",
+    "panes",
+    "varios"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina para todo uso",
+    "1 cucharada de azúcar",
+    "1 taza de leche",
+    "1/3 taza de mayonesa"
+  ],
+  "recipeInstructions": "1. Mezcla la harina para todo uso, el azúcar, la leche y la mayonesa en un bol hasta obtener una masa suave.\n2. Reparte la masa por igual entre 10 cavidades forradas con papel para muffins.\n3. Hornea a 175 °C durante unos 30 minutos, o hasta que estén doradas.",
+  "url": null
+}

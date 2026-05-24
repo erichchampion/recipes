@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-bread-15",
+  "name": "Banana Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads",
+    "fruits",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cups Bread flour",
+    "1 1/2 cups Wheat flour",
+    "1/2 teaspoon Salt",
+    "2 medium Ripe bananas, mashed",
+    "1/4 cup Honey",
+    "1/4 cup Warm water",
+    "1 Egg",
+    "1/4 cup Oil",
+    "1/2 teaspoon Vanilla extract",
+    "1 teaspoon Poppy seeds (optional)",
+    "1 package Yeast"
+  ],
+  "recipeInstructions": "1. Preheat the machine according to the manufacturer's instructions.\n2. In a large bowl, combine the bread flour, wheat flour, and salt.\n3. In a separate bowl, mash the ripe bananas and mix in the honey, warm water, egg, oil, vanilla extract, and poppy seeds (if using).\n4. Add the yeast mixture to the dry ingredients and stir until just combined.\n5. Pour the batter into the prepared machine and follow the instructions for delayed timer baking if desired.\n6. Ensure that the yeast is not exposed to moisture to prevent the bread from collapsing.\n7. Bake according to the machine's settings.\n8. Allow the bread to cool before serving.",
+  "url": null
+}

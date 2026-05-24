@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-spaghetti",
+  "name": "Espaguetis con chili",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "favoritos",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "3/4 lb de carne picada magra",
+    "1 pequeña cebolla",
+    "1 diente de ajo",
+    "14 onzas de espagueti seco, cocido",
+    "4 tazas de salsa de tomate",
+    "4 oz de queso cheddar bajo en grasa, rallado",
+    "1 pequeña pimiento rojo en conserva",
+    "1 cucharadita de polvo de chile",
+    "un pellizco de sal",
+    "1/8 de cucharadita de pimienta"
+  ],
+  "recipeInstructions": "1. Cocinar la carne en una sartén con la cebolla y el ajo hasta que la carne esté bien hecha.\n2. Escurrir cualquier grasa excesiva de la sartén.\n3. Añadir los ingredientes restantes (salsa de tomate, espagueti, pimientos, polvo de chile, sal y pimienta) a la sartén.\n4. Reducir el fuego y cocinar a fuego lento durante 10 minutos, removiendo ocasionalmente.\n5. Espolvorear el queso cheddar rallado sobre la mezcla y remover hasta que se derrita.",
+  "url": null
+}

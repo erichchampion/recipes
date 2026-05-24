@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-plan",
+  "name": "Plan de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "comidas congeladas",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 taza de salsa marinara",
+    "2 pechugas de pollo sin hueso ni piel",
+    "2 tazas de ralladura de naranja",
+    "2 tazas de arroz cocido",
+    "1/4 taza de verduras picadas (p. ej., pimientos, cebolla)",
+    "1/2 taza de mezcla para aderezo preparada",
+    "2 claras de huevo"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375°F (190°C).\n2. Colocar la salsa marinara en un plato poco profundo.\n3. Sumergir cada pechuga de pollo en la salsa marinara, cubriéndola uniformemente.\n4. Disponer las pechugas de pollo cubiertas en una bandeja para hornear forrada con papel pergamino.\n5. Añadir la ralladura de naranja y el arroz cocido alrededor del pollo.\n6. Espolvorear las verduras picadas sobre el pollo.\n7. Rocíar la mezcla para aderezo sobre todo.\n8. Hornear durante 20-25 minutos, o hasta que el pollo esté bien cocido.\n9. Retirar del horno y dejar enfriar ligeramente antes de servir.",
+  "url": null
+}

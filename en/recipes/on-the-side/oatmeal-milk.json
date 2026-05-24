@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "oatmeal-milk",
+  "name": "Oatmeal Milk",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "dairy",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 banana",
+    "1 cup cooked oatmeal",
+    "2 cups water",
+    "1 tsp vanilla (optional)"
+  ],
+  "recipeInstructions": "1. Place 1 banana, 1 cup of cooked oatmeal, and 2 cups of water in a blender.\n2. Blend until smooth.\n3. Pour the mixture into a pitcher.\n4. Refrigerate. It will keep approximately the same time as milk.",
+  "url": null
+}

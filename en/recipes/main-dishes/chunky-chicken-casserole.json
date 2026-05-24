@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chunky-chicken-casserole",
+  "name": "Chunky Chicken Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "chicken",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "4 chicken breasts, cooked and cut into chunks",
+    "2 cans green beans",
+    "1 can water chestnuts, sliced",
+    "2 cans cream of chicken soup",
+    "1 cup mayonnaise",
+    "2 tablespoons lemon juice",
+    "Cheddar cheese - grated"
+  ],
+  "recipeInstructions": "1. Mix together the soup, mayonnaise, and lemon juice.\n2. In a 9\" x 13\" pan, layer green beans, chicken, water chestnuts, soup mixture, and grated cheese.\n3. Bake at 350 degrees for 45 minutes to 1 hour until the mixture bubbles.\nNote: Ensure all measurements are in consistent units (e.g., cups or tablespoons) throughout the recipe.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "blueberry-pancake",
+  "name": "Tortitas de arándanos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "tortitas"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina integral",
+    "1 cucharadita de polvo de hornear",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de bicarbonato de sodio",
+    "1 cucharada de azúcar (si los arándanos no son endulzados)",
+    "1/2 taza de leche de soja o de arroz",
+    "1/2 taza de arándanos enlatados con su jugo"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes secos: harina integral, polvo de hornear, sal y bicarbonato de sodio.\n2. En un bol aparte, mezclar la leche de soja y los arándanos enlatados con su jugo hasta que estén bien combinados.\n3. Añadir gradualmente la mezcla húmeda a la seca, removiendo continuamente para evitar grumos.\n4. Si la masa está demasiado espesa, añadir jugo de arándano adicional hasta alcanzar la consistencia deseada.\n5. Calentar una sartén antiadherente a fuego medio.\n6. Verter aproximadamente 1/4 taza de masa por pancake en la sartén caliente.\n7. Cocinar los pancakes hasta que aparezcan burbujas en la superficie y los bordes empiecen a solidificarse (aproximadamente 2-3 minutos).\n8. Dar la vuelta suavemente a los pancakes con una espátula y cocinarlos durante 1-2 minutos adicionales en el otro lado, o hasta que estén dorados.\n9. Retirar del fuego y servir inmediatamente.",
+  "url": null
+}

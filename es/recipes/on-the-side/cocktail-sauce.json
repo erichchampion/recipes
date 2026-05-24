@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cocktail-sauce",
+  "name": "Salsa para mariscos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de rábano picante",
+    "1/2 taza de ketchup",
+    "1 1/2 cucharaditas de salsa Worcestershire",
+    "2 cucharadas de jugo de limón",
+    "1/2 taza de salsa picante",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Revolver bien hasta que esté completamente combinado.\n3. Servir con mariscos.",
+  "url": null
+}

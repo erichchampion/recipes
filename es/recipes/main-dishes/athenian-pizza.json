@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "athenian-pizza",
+  "name": "Pizza ateniense",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de aceite",
+    "12 rodajas de berenjena (fina); picada",
+    "1 pimiento rojo grande; picado",
+    "6 panes pita",
+    "1 1/2 tazas de salsa de espagueti preparada",
+    "2 1/2 onzas de pepperoni en rodajas",
+    "1 cebolla pequeña; cortada finamente"
+  ],
+  "recipeInstructions": "1. Calentar 2 cucharadas de aceite en una sartén grande a fuego medio.\n2. Añadir la berenjena picada, poco a poco, y cocinar hasta que esté dorada, añadiendo más aceite si es necesario.\n3. Escurrir la berenjena sobre papel absorbente.\n4. Agregar el pimiento rojo y cocinar hasta que esté tierno-crujiente. Escurrir sobre papel absorbente.\n5. Separar los panes pita y dividirlos por la mitad.\n6. Colocar las mitades en una bandeja para hornear, con el lado cortado hacia arriba.\n7. Extender 2 cucharadas de salsa de espagueti en cada mitad de pan pita.\n8. Cubrir con capas de berenjena, pimiento rojo, pepperoni y cebolla.\n9. Hornear a 400 °F durante 5 minutos.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "diablo-dip",
+  "name": "Dip diabólico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 lata de dip de frijoles",
+    "1 taza de crema agria",
+    "2 cucharadas de aderezo para tacos",
+    "8 oz de queso Monterey Jack rallado",
+    "2 tomates, picados finamente",
+    "4 oz de chiles verdes picados (opcional)",
+    "8 oz de queso cheddar fuerte rallado",
+    "4 cebolletas, picadas",
+    "1 lata de aceitunas maduras, picadas (opcional)"
+  ],
+  "recipeInstructions": "1. Rallar el queso Monterey Jack y el cheddar fuerte.\n2. Si se desea un resultado más picante, añadir chiles jalapeños al queso Monterey Jack.\n3. Mezclar queso suizo o mozzarella como alternativa.\n4. Formar una montaña redonda con los ingredientes, superponiendo las capas en el orden indicado, comenzando con el dip de frijoles y terminando con las aceitunas.\n5. Servir con totopos de maíz. Sacar porciones desde la base hacia la parte superior para probar todas las capas.",
+  "url": null
+}

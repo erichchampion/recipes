@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "homemade-noodles",
+  "name": "Nudillos caseros",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "2 1/2 tazas de harina",
+    "1/4 taza de agua",
+    "12 yemas de huevo",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta que estén bien combinados.\n2. Amasar la masa a fondo sobre una superficie enharinada durante unos 30 minutos.\n3. Dividirla en bolas y pasarla por una máquina para hacer pasta, o extenderla a mano con un rodillo sobre una tabla enharinada.\n4. Estirarla lo más finamente posible. Dejar que las pasta se sequen durante una hora o dos, dándoles la vuelta para que se sequen por ambos lados antes de cortarlas en tiras.",
+  "url": null
+}

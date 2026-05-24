@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-vegetables",
+  "name": "Verduras italianas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "italiano",
+    "arroz",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de arroz",
+    "1/4 cucharadita de sal",
+    "2 tazas de agua",
+    "6 cucharadas de aceite",
+    "2 cucharadas de vinagre de vino blanco",
+    "2 cucharadas de salsa de soja",
+    "1/4 cucharadita de pimienta",
+    "1/4 cucharadita de cúrcuma",
+    "1/4 libra de espinacas",
+    "1/2 taza de cebolla verde en rodajas",
+    "4 trozos de tocino desmenuzado"
+  ],
+  "recipeInstructions": "1. Llevar a ebullición una olla con agua salada. Agregar el arroz y cocinar, tapado, hasta que esté tierno (aproximadamente 18-20 minutos). Escurrir.\n2. En un bol, mezclar el aceite, el vinagre de vino blanco, la salsa de soja, la pimienta y la cúrcuma.\n3. Incorporar la mezcla al arroz caliente.\n4. Desmenuzar las espinacas en trozos pequeños.\n5. Saltear la espinaca, la cebolla verde y el tocino desmenuzado con el arroz.\n6. Servir como ensalada fría o como guarnición caliente.",
+  "url": null
+}

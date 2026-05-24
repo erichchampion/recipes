@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-fruitwich",
+  "name": "Cheese & Fruitwich",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "apple",
+    "cheese",
+    "fruit",
+    "kids",
+    "main dish",
+    "nuts",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Cream cheese, room temp.",
+    "1/8 cup Peanuts, unsalted, chopped",
+    "1/2 Apple, cored and sliced",
+    "2 Drops Lemon juice",
+    "2 Date-nut bread slices"
+  ],
+  "recipeInstructions": "1. Combine the cream cheese and nuts in a bowl.\n2. Sprinkle the apple slices with the lemon juice to prevent them from turning brown.\n3. Take a slice of bread, spread with the cheese and nut mixture, and cover with apple slices.\n4. Use another slice of bread to top the sandwich and wrap well.",
+  "url": null
+}

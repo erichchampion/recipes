@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheesy-egg-supper",
+  "name": "Cena de huevo con queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "8 oz de untar de queso procesado",
+    "1/4 taza de leche",
+    "3 tazas de pasta cocida y escurrida",
+    "2 cucharadas de cebolla verde picada",
+    "6 huevos duros cortados en cuartos",
+    "6 tomates cereza cortados por la mitad"
+  ],
+  "recipeInstructions": "1. Mezclar el untar de queso y la leche en una sartén grande.\n2. Cocinar a fuego lento, removiendo hasta que la salsa esté suave y burbujeante.\n3. Incorporar los fideos, la cebolla verde, los huevos y los tomates.\n4. Tapar y cocinar a fuego lento durante 5 minutos o hasta que se caliente todo.",
+  "url": null
+}

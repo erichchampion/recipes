@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-broiled-beef",
+  "name": "Buey asado con cerveza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "4 libras de carne de res, en cubos",
+    "1 litro de cerveza",
+    "4 cucharadas de mantequilla",
+    "3 cebollas, en rodajas",
+    "1/2 taza de harina",
+    "4 cucharadas de aceite de ensalada",
+    "1 cucharadita de sal",
+    "1 cucharadita de pimienta molida",
+    "2 dientes de ajo, picados"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una sartén grande y sofríe las cebollas hasta que estén tiernas.\n2. Dora los cubos de carne en una sartén separada con aceite y mantequilla.\n3. Añade la carne dorada, la sal, la pimienta y el ajo a las cebollas.\n4. Vierte suficiente cerveza para cubrir los ingredientes.\n5. Tapa bien y deja cocinar a fuego lento hasta que la carne esté tierna.",
+  "url": null
+}

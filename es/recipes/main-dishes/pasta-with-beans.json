@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-with-beans",
+  "name": "Pasta con frijoles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "frijoles",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "2 dientes de ajo, picados",
+    "1 cebolla, picada",
+    "1 zanahoria mediana, finamente picada",
+    "2 cucharadas de perejil fresco, picado",
+    "2 cucharaditas de albahaca seca",
+    "1 cucharadita de orégano seco",
+    "4 cucharadas de aceite de oliva",
+    "4 cucharadas de tomates (reserva el líquido), escurridos y picados",
+    "O 2-3 tomates frescos",
+    "1/4 taza de caldo o líquido de latas de tomate",
+    "2 tazas (1 lata) judías cannellini, enjuagadas y escurridas",
+    "8 onzas de macarrones con forma de codo, cocidos y escurridos",
+    "2 cucharadas de mantequilla",
+    "1/4 taza de queso parmesano rallado",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. En una sartén grande, saltea el ajo, la cebolla, la zanahoria, el perejil, la albahaca y el orégano en aceite de oliva hasta que las cebollas estén tiernas.\n2. Agrega los tomates, el caldo, la sal y la pimienta. Tapa y revuelve con frecuencia, reduciendo a fuego lento durante 10 minutos o hasta que las verduras estén tiernas.\n3. Añade las judías y tapa, reduciendo a fuego lento durante unos 20 minutos para mezclar las especias.\n4. Cocina los macarrones, escúrrelos y mézclalos con la mantequilla y el queso parmesano.\n5. Incorpora los macarrones cocidos a la mezcla de verduras.\n6. Sirve inmediatamente con más queso parmesano rallado si lo deseas.",
+  "url": null
+}

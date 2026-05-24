@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "maple-cream-pie",
+  "name": "Maple Cream Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1 Can sweetened condensed milk",
+    "2/3 cup maple syrup",
+    "Pinch of salt",
+    "1 Cooked pie shell",
+    "Whipped cream"
+  ],
+  "recipeInstructions": "1. Combine the sweetened condensed milk, maple syrup, and salt in a saucepan.\n2. Heat over very low heat, stirring constantly, until bubbles form in the center.\n3. Cool slightly.\n4. Pour into the precooked pie shell.\n5. Top with whipped cream before serving.",
+  "url": null
+}

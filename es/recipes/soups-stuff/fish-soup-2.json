@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-soup-2",
+  "name": "Sopa de pescado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "mariscos",
+    "sopa",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 libras de filete de pescado",
+    "1 taza de cebolla picada",
+    "1 taza de apio picado",
+    "1/2 taza de pimiento rojo picado",
+    "1 diente de ajo picado",
+    "2 cucharadas de aceite",
+    "28 onzas de tomates enlatados, escurridos",
+    "1 taza de caldo de pollo",
+    "1/4 taza de vino blanco",
+    "1/4 taza de perejil picado",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de azúcar",
+    "1/4 cucharadita de albahaca"
+  ],
+  "recipeInstructions": "1. Retirar la piel del filete de pescado y cortarlo en cubos de 1 pulgada.\n2. En una olla de 5 cuartos, calentar el aceite a fuego medio. Agregar la cebolla, el apio, el pimiento rojo y el ajo. Cocinar hasta que estén tiernos pero sin dorarse.\n3. Incorporar los tomates, el caldo de pollo, el vino blanco, el perejil, la sal, el azúcar y la albahaca. Llevar a ebullición y cocinar durante 10 minutos.\n4. Agregar cuidadosamente los cubos de pescado a la olla. Reducir el fuego a bajo y continuar cocinando durante otros 10 minutos o hasta que el pescado se desmenuce fácilmente con un tenedor. Remover ocasionalmente.",
+  "url": null
+}

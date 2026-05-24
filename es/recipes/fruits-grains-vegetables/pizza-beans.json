@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-beans",
+  "name": "Frijoles con pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frijoles",
+    "sin arroz"
+  ],
+  "recipeIngredient": [
+    "1 lb de frijoles pintos",
+    "6 tazas de agua",
+    "4 tomates medianos, pelados y picados",
+    "1 cebolla, picada",
+    "1/4 taza de pimiento verde, picado",
+    "1 diente de ajo, machacado",
+    "2 cucharaditas de sal",
+    "1/2 cucharadita de orégano",
+    "1/4 cucharadita de romero",
+    "1 taza de queso mozzarella rallado",
+    "1/4 taza de queso romano rallado"
+  ],
+  "recipeInstructions": "1. Remojar los frijoles pintos en agua durante la noche.\n2. En una olla a fuego lento, cocinar los frijoles con agua a potencia alta durante 2-3 horas hasta que estén tiernos pero no desmenuzables.\n3. Escurrir los frijoles, reservando el líquido.\n4. Agregar a la olla a fuego lento los tomates, la cebolla, el pimiento verde, el ajo, la sal, el orégano y el romero.\n5. Incorporar 2 tazas del líquido reservado de los frijoles.\n6. Tapar y cocinar a temperatura baja durante 8-10 horas.\n7. Mezclar el queso mozzarella y el queso romano rallados, luego tapar y cocinar a potencia alta durante 15-20 minutos.\n8. Apagar el calor y dejar reposar unos minutos antes de servir para que los frijoles absorban parte del jugo.",
+  "url": null
+}

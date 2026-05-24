@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "russian-dressing",
+  "name": "Salsa rusa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "ensaladas",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de mayonesa",
+    "1/4 taza de ketchup",
+    "1 cucharada de perejil picado",
+    "1 cucharada de leche",
+    "1 cucharada de cebolla rallada (opcional)",
+    "1/4 cucharadita de mostaza en polvo",
+    "1/4 cucharadita de salsa Worcestershire",
+    "3 gotas de salsa picante"
+  ],
+  "recipeInstructions": "1. En un bol pequeño, mezcle todos los ingredientes con un tenedor hasta que estén bien combinados.\n2. Cubra la mezcla y refrigere.\n3. Sirva sobre lechuga en rodajas, huevos duros, pollo frío, verduras cocidas frías, carne de res curada o en sándwiches.",
+  "url": null
+}

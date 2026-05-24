@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "tofu-tacos",
+  "name": "Tofu Tacos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "mexicano",
+    "dietas especiales",
+    "tofu",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "12 oz de tofu escurrido",
+    "1/2 taza de arroz marrón cocido",
+    "1/2 pimiento verde picado",
+    "1/4 taza de ketchup",
+    "1/2 cucharadita de sal",
+    "1/2 sobre de mezcla de especias para tacos",
+    "6 tortillas de maíz",
+    "1/2 taza de tomate picado",
+    "1/2 taza de cebolla picada",
+    "1 1/2 tazas de lechuga rallada"
+  ],
+  "recipeInstructions": "1. Mezclar el tofu, el arroz, el pimiento verde, el ketchup, la sal y la mezcla de especias para tacos en un bol. Mezclar bien.\n2. Calentar una sartén a fuego medio y calentar las tortillas hasta que estén suaves y flexibles.\n3. Rellenar cada tortilla con la mezcla de tofu y adornar con tomate, cebolla y lechuga rallada.\n4. Sazonar con salsa picante al gusto.",
+  "url": null
+}

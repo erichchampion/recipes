@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "deep-fried-catfish",
+  "name": "Deep-Fried Catfish",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "fish",
+    "main dish",
+    "meat",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "2 lb Catfish",
+    "1 teaspoon Salt",
+    "2 Eggs, lightly beaten",
+    "1 cup All-purpose Flour",
+    "1/8 teaspoon Pepper",
+    "1 cup Dry Bread Crumbs"
+  ],
+  "recipeInstructions": "1. Heat oil to 375 degrees in deep fryer.\n2. Stir together flour, salt, and pepper.\n3. Coat fish with the mixture.\n4. Dip into eggs.\n5. Coat with bread crumbs.\n6. Fry each piece for about 4 minutes or until golden brown.",
+  "url": null
+}

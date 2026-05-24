@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-julius-3",
+  "name": "Orange Julius",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "breakfast",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 cups orange juice",
+    "3 tablespoons powdered milk",
+    "1 tablespoon corn syrup",
+    "1 tablespoon sugar",
+    "1/2 teaspoon vanilla",
+    "3/4 cup cracked ice"
+  ],
+  "recipeInstructions": "1. Add all ingredients to a blender and blend until smooth.\n2. Pour the mixture into cold glasses and serve immediately.",
+  "url": null
+}

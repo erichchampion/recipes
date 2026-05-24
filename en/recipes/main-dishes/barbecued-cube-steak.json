@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecued-cube-steak",
+  "name": "Barbecued Cube Steak",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "bar-b-q",
+    "beef",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "4 lb Cubed steak",
+    "1/4 cup Flour seasoned with Salt and pepper",
+    "3 tbsp Fat",
+    "1 medium Onion",
+    "1/8 tsp Pepper",
+    "1 tbsp Vinegar",
+    "2 tbsp Lemon juice",
+    "1/2 cup Catsup",
+    "2 tbsp Worcestershire sauce",
+    "1/2 tsp Salt",
+    "1/2 cup Water",
+    "1 tbsp Brown sugar"
+  ],
+  "recipeInstructions": "1. Season the steak with flour and salt, then brown in fat.\n2. Add chopped onion and cook lightly.\n3. Mix vinegar, lemon juice, catsup, Worcestershire sauce, salt, water, and brown sugar.\n4. Pour the mixture over the steak and cover slightly.\n5. Cook slowly for 35 minutes, or until the steak is tender.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-style-cube-steaks",
+  "name": "Cubos al estilo pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "carne de res",
+    "italiano",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 Cubo de filete",
+    "1/2 cucharadita de ralladura de limón",
+    "1/4 cucharadita de eneldo seco",
+    "1/4 cucharadita de romero",
+    "1 rebanada de tomate, en rodajas",
+    "1 cucharada de aceite para ensalada",
+    "Sal y pimienta al gusto",
+    "1/4 cucharadita de orégano",
+    "1 rebanada de queso provolone"
+  ],
+  "recipeInstructions": "1. Untar el cubo de filete con aceite para ensalada y ralladura de limón.\n2. Broilar por un lado durante 5 minutos hasta dorar.\n3. Dar la vuelta a la carne y espolvorear con las hierbas (eneldo, romero).\n4. Broilar por el otro lado durante 5 minutos más.\n5. Apagar el broil y colocar encima las rodajas de queso y tomate.\n6. Servir sobre tostadas.",
+  "url": null
+}

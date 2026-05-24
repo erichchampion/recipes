@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "plain-old-pound-cake",
+  "name": "Pastel de limón básico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 lb mantequilla (no margarina)",
+    "8 huevos medianos",
+    "2 2/3 tazas de azúcar",
+    "1 cucharadita de extracto de vainilla",
+    "3 1/2 tazas de harina (pasada por colador)",
+    "1 cucharadita de sabor a mantequilla"
+  ],
+  "recipeInstructions": "1. Batir la mantequilla y el azúcar hasta obtener una mezcla suave.\n2. Incorporar dos huevos a la vez, luego bajar la velocidad del batidor.\n3. Añadir una taza de harina a la vez, alternando con el extracto de vainilla y el sabor a mantequilla.\n4. Hornear durante 1 hora y 25 minutos a 300 grados Fahrenheit.",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "curry-paste",
+  "name": "Curry Paste",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "indian",
+    "sauce",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "3 jalapeno pepper",
+    "1/4 cup onion",
+    "3 garlic cloves",
+    "1 tablespoon ginger",
+    "1 teaspoon coriander",
+    "1 teaspoon caraway",
+    "1 teaspoon curry powder",
+    "1 teaspoon mustard",
+    "1 teaspoon salt",
+    "1/2 teaspoon cinnamon",
+    "2 teaspoons sugar",
+    "2 tablespoons peanut oil"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a food processor fitted with a steel blade.\n2. Process until smooth.\n3. Use small amounts in sauteed meats or vegetables.",
+  "url": null
+}

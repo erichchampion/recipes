@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-arrabbiata",
+  "name": "Pasta Arrabbiata",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italian",
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "2 dried red chilies, crumbled",
+    "6 garlic cloves, chopped",
+    "3 tbsp olive oil",
+    "1 cup tomato sauce (passata)",
+    "Salt and pepper",
+    "12 oz pasta of your choice",
+    "3 tbsp parsley, chopped"
+  ],
+  "recipeInstructions": "1. Warm the chilis and garlic in olive oil until the garlic is fragrant.\n2. Add the tomato sauce and passata along with salt and pepper.\n3. Cook for 5 to 10 minutes.\n4. Cook pasta until al dente and drain.\n5. Serve pasta tossed with sauce and sprinkled with parsley.",
+  "url": null
+}

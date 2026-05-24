@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "marinated-pork-2",
+  "name": "Cerdo marinado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "6 cucharadas de cebolla, pelada y picada finamente",
+    "6 cucharadas de cilantro fresco, picado",
+    "3 cucharadas de azúcar moreno, compacta",
+    "1 cucharadita de pimienta negra, molida groseramente",
+    "4 1/2 cucharadas de ajo, pelado y picado",
+    "1/4 de cucharadita de salsa de chile rojo",
+    "9 cucharadas de jugo de limón",
+    "6 onzas (170 g) de salsa de soja baja en sodio",
+    "3 lomos de cerdo tiernos (de 12 onzas cada uno), bien cortados"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el cerdo en un bol hasta combinarlos bien.\n2. Colocar el cerdo en un recipiente de vidrio; verter la marinada sobre el cerdo.\n3. Tapar y refrigerar durante 4 a 5 horas.\n4. Colocar el cerdo sobre una rejilla en una bandeja para hornear.\n5. Asar a baja temperatura a 250 °F (120 °C) durante 1 a 1 hora y media, o hasta que la temperatura interna del cerdo alcance los 150 °F (65 °C).\n6. Alternativamente, el cerdo puede asarse o grillarse.",
+  "url": null
+}

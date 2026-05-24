@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "spanish-flan",
+  "name": "Flan español",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "étnico",
+    "español"
+  ],
+  "recipeIngredient": [
+    "2 tazas de leche",
+    "1 cáscara de limón",
+    "1 rama de canela",
+    "5 huevos",
+    "1 1/2 sobrejes de gelatina sin sabor, disueltos en 1/4 taza de agua tibia",
+    "1 taza de azúcar",
+    "1 molde para crema pastelera"
+  ],
+  "recipeInstructions": "1. En una cacerola, calienta la leche hasta que esté caliente y mézclala con la cáscara de limón hasta que la mezcla esté muy caliente pero no hirviendo.\n2. Disuelve la gelatina en agua tibia y añádela a la mezcla de huevos. Mezcla bien y viértela sobre la leche con el azúcar.\n3. Cocina a fuego lento hasta que la mezcla empiece a hervir, luego retírala del fuego.\n4. En otra cacerola a fuego bajo, carameliza 5 cucharadas de azúcar.\n5. Vierte el azúcar caramelizado en el molde, seguido de la mezcla de flan. Deja enfriar a temperatura ambiente.\n6. Refrigera durante la noche.\n7. Para servir, coloca el molde en agua caliente durante unos segundos y volcalo sobre un plato de servir. Sirve frío.",
+  "url": null
+}

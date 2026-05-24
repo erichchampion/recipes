@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-slurry",
+  "name": "Puré de fresas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas alcohólicas",
+    "aperitivos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "2 tazas de fresas frescas; limpias",
+    "o fresas congeladas, descongeladas",
+    "2 tazas de agua",
+    "1/2 taza de azúcar",
+    "1/4 taza de jugo de lima fresco",
+    "2 tazas de soda de limón-limón",
+    "o 1 taza de tequila blanco, como Sauza-blanco"
+  ],
+  "recipeInstructions": "1. Coloca las fresas, el agua, el azúcar y el jugo de lima en una licuadora.\n2. Licúa hasta obtener una consistencia suave.\n3. Vierte en un jarro de vidrio.\n4. Añade la soda de limón-limón o el tequila.\n5. Sirve sobre hielo en un vaso alto.\n6. Adorna cada vaso con una fresa en el borde, si se desea.",
+  "url": null
+}

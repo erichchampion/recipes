@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "bratwurst",
+  "name": "Bratwurst",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "carne",
+    "embutidos"
+  ],
+  "recipeIngredient": [
+    "3 pies de embutidos de cerdo pequeños (diámetro 1-1/2 pulgadas)",
+    "1 1/2 libras de lomo de cerdo magro, cortado en cubos",
+    "1 libra de ternera, cortada en cubos",
+    "0.5 libras de grasa de cerdo, cortada en cubos",
+    "1/4 cucharadita de canela molida",
+    "1/2 cucharadita de semillas de eneldo machacadas",
+    "1/2 cucharadita de orégano seco",
+    "1 cucharadita de pimienta blanca recién molida",
+    "1 cucharadita de sal, o al gusto"
+  ],
+  "recipeInstructions": "1. Preparar los embutidos.\n2. Triturar la carne de cerdo a través del disco fino de la picadora.\n3. Mezclar la carne de cerdo picada con la ternera y triturar nuevamente.\n4. Agregar el resto de ingredientes (grasa de cerdo, canela, semillas de eneldo, orégano, pimienta y sal) a la mezcla de carne y mezclar bien.\n5. Rellenar la mezcla en los embutidos y apretar para formar longitudes de 4-5 pulgadas.\n6. Refrigerar durante hasta dos días. Las bratwurst se pueden freír en sartén o asar a la parrilla sobre carbón.",
+  "url": null
+}

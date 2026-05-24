@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "polpette-meatballs",
+  "name": "Pollas a la parrilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "2 cucharaditas de perejil picado",
+    "1 rebanada de pan blanco",
+    "Una pizca de nuez moscada rallada",
+    "2 cucharadas de aceite de oliva",
+    "La cáscara de un limón pequeño (solo la parte fina)",
+    "2 dientes de ajo picados finamente",
+    "1 huevo batido"
+  ],
+  "recipeInstructions": "1. Pica finamente la cáscara de un limón pequeño, el perejil y el ajo.\n2. Mezcla la carne molida con la sal, la pimienta y la nuez moscada. Añade la mezcla de hierbas y ajo picados.\n3. Incorpora el pan blanco remojado en leche y escurrido.\n4. Agrega el huevo batido a la mezcla.\n5. Forma pequeñas albóndigas de unos 1/2 cm de grosor y 1,5 cm de ancho sobre una superficie enharinada; evita trabajar demasiado la masa.\n6. Calienta el aceite de oliva en una sartén y dora las albóndigas por ambos lados durante unos 2 minutos.\n7. Escurre el exceso de aceite y sirve inmediatamente.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "teriyaki-marinade",
+  "name": "Marinada Teriyaki",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "asado",
+    "marinadas",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "24 cucharadas de salsa de soja",
+    "24 cucharadas de sake",
+    "2 cucharadas de aceite de flor de girasol",
+    "2 cucharadas de aceite de sésamo oscuro",
+    "3 cucharadas de azúcar moreno claro",
+    "2 cucharadas de vinagre de arroz",
+    "2 dientes de ajo, machacados",
+    "1 cucharadita de jengibre rallado"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un recipiente pequeño.\n2. Remover hasta que el azúcar se disuelva por completo.\n3. Al aplicarlo sobre los alimentos, girar continuamente la mezcla para mantenerla bien combinada.\n4. Utilizar esta marinada para tofu cortado y prensado, marinado durante 1 hora; o para tempeh en cubos o seitan en cubos, marinado durante 1 hora.\n5. Alternativamente, rociar sobre tomates asados a la parrilla.",
+  "url": null
+}

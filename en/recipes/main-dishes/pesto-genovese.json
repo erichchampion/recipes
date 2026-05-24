@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pesto-genovese",
+  "name": "Pesto Genovese",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "ethnic",
+    "italian",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "2 to 3 cups fresh basil leaves",
+    "3 tablespoons pine nuts",
+    "2 cloves garlic",
+    "1/4 teaspoon salt",
+    "1/2 cup olive oil",
+    "1/2 cup grated Parmesan cheese"
+  ],
+  "recipeInstructions": "1. Combine all ingredients except the olive oil in a food processor or blender.\n2. Process quickly until pureed.\n3. With the machine running, gradually add the oil until fully absorbed.\n4. Toss with 1 pound of hot fresh pasta (vermicelli, linguini, etc.).\n5. Serve immediately and garnish with cherry tomatoes.",
+  "url": null
+}

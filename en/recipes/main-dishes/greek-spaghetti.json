@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "greek-spaghetti",
+  "name": "Greek Spaghetti",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "2 cloves garlic, minced",
+    "3 tablespoons olive oil",
+    "3 cans diced tomatoes with basil, garlic, and oregano (14.5 oz each)",
+    "1/2 cup green onions, sliced",
+    "1/4 cup fresh parsley, chopped",
+    "1 tablespoon lemon juice",
+    "12 ounces spaghetti, cooked",
+    "1 cup crumbled feta cheese",
+    "1 can sliced ripe olives (2 1/4 oz)"
+  ],
+  "recipeInstructions": "1. Heat the olive oil in a large nonstick skillet over medium heat. Add the minced garlic and sauté until fragrant.\n2. Stir in the diced tomatoes with basil, garlic, and oregano. Cook for 2 minutes or until heated through.\n3. Mix in the green onions, parsley, lemon juice, cooked spaghetti, feta cheese, and sliced olives.\n4. Garnish with lemon slices, additional green onions, and fresh parsley sprigs if desired.",
+  "url": null
+}

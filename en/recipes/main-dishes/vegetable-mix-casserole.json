@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetable-mix-casserole",
+  "name": "Vegetable Mix Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "2 packages frozen lima beans",
+    "2 packages frozen peas",
+    "2 packages frozen cut green beans",
+    "1 cup mayonnaise",
+    "1 cup sour cream",
+    "1 cup Parmesan cheese",
+    "Salt and pepper to taste",
+    "1 cup diced onion"
+  ],
+  "recipeInstructions": "1. Cook the frozen vegetables according to package directions.\n2. Drain the vegetables.\n3. Sauté the onion until tender.\n4. Stir in the sour cream, margarine (if specified), salt, and pepper.\n5. Fold in the cooked vegetables.\n6. Transfer the mixture to a greased casserole dish.\n7. Top with Parmesan cheese.\n8. Bake for 20 minutes at 350 degrees Fahrenheit.",
+  "url": null
+}

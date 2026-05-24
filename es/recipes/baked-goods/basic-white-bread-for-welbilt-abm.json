@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-white-bread-for-welbilt-abm",
+  "name": "Pan de trigo blanco básico para Welbilt ABM",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de levadura seca activa",
+    "3 tazas de harina de pan",
+    "1 cucharadita de sal",
+    "1 1/2 cucharadas de azúcar granulada",
+    "1 1/2 cucharadas de leche en polvo sin grasa",
+    "1 1/2 cucharadas de mantequilla o margarina",
+    "1 taza y 3 cucharadas, más 1 cucharadita de agua"
+  ],
+  "recipeInstructions": "1. Seleccione la opción \"Pan con levadura\" en la máquina.\n2. Ajuste el control de horneado a \"Medio\".\n3. Presione \"Iniciar\". El pan estará listo en 4 horas y 4 minutos.",
+  "url": null
+}

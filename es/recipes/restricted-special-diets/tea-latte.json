@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "tea-latte",
+  "name": "Té Latte",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "bebidas",
+    "diabético",
+    "dietas especiales"
+  ],
+  "recipeIngredient": [
+    "8 bolsitas de té English Breakfast",
+    "4 tazas de agua",
+    "2 cucharadas de almíbar de almendras (sirope orgeat, ver nota)",
+    "1 leche entera",
+    "Nuez moscada molida o chocolate para decorar opcional"
+  ],
+  "recipeInstructions": "1. Prepara un té fuerte con 8 bolsitas de té English Breakfast en 4 tazas de agua hirviendo. Deja reposar durante 5 minutos.\n2. Presiona suavemente las bolsitas y retíralas del líquido.\n3. Vierte 1/2 taza más 2 cucharadas de té caliente en cada taza de servicio.\n4. Añade 1 cucharadita de almíbar de almendras en cada taza y mezcla bien.\n5. Calienta la leche entera usando el accesorio vaporizador de una máquina expreso.\n6. Vierte 1 cucharada de leche caliente sobre cada taza, luego cúbrela con espuma de leche.\n7. Decora con nuez moscada molida o chocolate si lo deseas.\nNota: El almíbar de almendras (sirope orgeat) se puede encontrar en tiendas de licores o en la sección de suministros de bares de tu supermercado.",
+  "url": null
+}

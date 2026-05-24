@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-vanilla-ice-cream",
+  "name": "Helado de Vainilla Francesa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postre",
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "2 tazas de leche entera",
+    "4 yemas de huevo",
+    "3/4 taza de azúcar granulada",
+    "2 cucharadas de maicena",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. En un bol grande, batir las yemas de huevo con el azúcar hasta que estén bien combinadas.\n2. Agregar gradualmente la leche y la mezcla de maicena, batiendo hasta obtener una textura suave.\n3. Incorporar el extracto de vainilla y dejar enfriar ligeramente.\n4. Colar la mezcla en un bol limpio y enfriar completamente.\n5. Transferir la base al heladero y congelar según las instrucciones del fabricante.\n6. Rinde aproximadamente 1 litro.",
+  "url": null
+}

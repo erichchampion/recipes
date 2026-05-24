@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pear-cordial",
+  "name": "Licor de pera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "licores",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "6 peras, cortadas por la mitad (de una lata de peras Bartlett en almíbar pesado)",
+    "6 onzas de jugo de pera (de la misma lata)",
+    "8 onzas de vodka de 100 grados",
+    "3 onzas de brandy"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un frasco grande.\n2. Dejar reposar durante tres semanas.\n3. Colar el líquido a través de un colador de alambre.\n4. Machacar las peras y exprimirlas a través de un paño de queso húmedo.\n5. Colar nuevamente a través de un paño de queso para eliminar cualquier partícula de fruta.",
+  "url": null
+}

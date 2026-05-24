@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "rancheros",
+  "name": "Rancheros",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 hamburguesas (patties)",
+    "3 cuadrados (de 5 cm) de queso americano",
+    "Chiles Ortega picados",
+    "Harina",
+    "Maíz molido",
+    "Leche de avena (buttermilk)",
+    "1 huevo",
+    "Oleo o mantequilla",
+    "Aceite vegetal"
+  ],
+  "recipeInstructions": "1. Coloca los cuadrados de queso sobre una de las hamburguesas.\n2. Extiende la mezcla de chiles sobre el queso.\n3. Coloca la segunda hamburguesa encima.\n4. Presiona los bordes de las hamburguesas juntas.\n5. Sumerge la hamburguesa doblada y rellena en leche de avena, luego en harina.\n6. Repite el proceso de sumergir en leche de avena y maíz molido.\n7. Fríe hasta que esté dorado en aceite caliente.\n8. Coloca un huevo frito con clara líquida encima.\n9. Usa oleo o mantequilla para freír el huevo.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecue-ground-beef",
+  "name": "Carne molida a la barbacoa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "carne molida",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "1 cucharada de manteca",
+    "1 taza de cebolla finamente picada",
+    "1 taza de pimiento verde picado",
+    "1 cucharadita de azúcar",
+    "2 cucharadas de mostaza preparada",
+    "1 cucharada de vinagre",
+    "1 cucharadita de sal",
+    "1 taza de ketchup",
+    "1/2 cucharadita de clavo molido"
+  ],
+  "recipeInstructions": "1. Dorar la carne lentamente en la manteca hasta que se desmenuze.\n2. Mezclar todos los ingredientes restantes y añadir a la carne.\n3. Tapar y cocinar a fuego lento durante unos 30 minutos.\n4. Servir para 6-8 personas.",
+  "url": null
+}

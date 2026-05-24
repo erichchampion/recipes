@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "bobbie-s-gazpacho",
+  "name": "Bobbie's Gazpacho",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "tomatoes",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "1 large can vegetable juice cocktail",
+    "1 clove garlic, minced",
+    "2 carrots, finely chopped",
+    "1 cucumber, finely chopped",
+    "1 onion, minced",
+    "1 tbsp wine vinegar",
+    "1 tbsp olive oil",
+    "2 radishes, diced",
+    "3 stalks celery, finely chopped",
+    "1/2 green pepper, diced",
+    "1 tomato, peeled and chopped"
+  ],
+  "recipeInstructions": "1. In a large deep bowl, mix together the juice, garlic, carrots, cucumber, onion, vinegar, olive oil, radishes, celery, and green pepper.\n2. Chill the mixture.\n3. Serve cold. Optionally, add chopped, peeled tomatoes.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "red-pepper-vinaigrette",
+  "name": "Vinaigrette de Pimiento Rojo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "enviado con mc",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de aceite de oliva",
+    "1 cebolla pequeña, picada finamente",
+    "1 diente de ajo, picado",
+    "1 pimiento rojo, sin semillas y picado",
+    "2 cucharadas de vinagre de vino tinto",
+    "1 cucharadita de sal gruesa",
+    "1/2 cucharadita de pimienta negra molida"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una sartén pequeña a fuego medio.\n2. Añadir la cebolla a la sartén y saltear hasta que esté tierna, aproximadamente 10 minutos.\n3. Incorporar el ajo y el pimiento rojo a la sartén y seguir salteando durante 2 minutos más.\n4. Mezclar el vinagre de vino tinto, la sal y la pimienta negra.\n5. Calentar la mezcla hasta que esté bien integrada.\n6. Servir sobre repollo rellenado.",
+  "url": null
+}

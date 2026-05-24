@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "zesty-poached-eggs",
+  "name": "Huevos pochados con toque cítrico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "4 huevos",
+    "2 rebanadas de pan integral",
+    "1/4 taza de Cheese Whiz",
+    "1/4 taza de salsa"
+  ],
+  "recipeInstructions": "1. Pochar los huevos.\n2. Tostar las rebanadas de pan.\n3. Colocar dos huevos pochados en cada rebanada de pan tostado.\n4. Cubrir con queso Cheese Whiz derretido y salsa.\n5. Servir inmediatamente.",
+  "url": null
+}

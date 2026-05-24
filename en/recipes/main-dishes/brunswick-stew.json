@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "brunswick-stew",
+  "name": "Brunswick Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meats",
+    "slow cooker",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "2 slices Bacon; dice",
+    "3 tbsp Flour",
+    "1 tsp Salt",
+    "1/2 tsp Pepper",
+    "1 pinch Cayenne",
+    "4 lb Chicken or Rabbit; cut into pieces (with giblets if chicken is used)",
+    "3 Onions; slice thin",
+    "4 Tomatoes; chop",
+    "1 Red Bell Pepper; chop",
+    "1/2 tsp Dried Thyme",
+    "2 cups Fresh Lima Beans",
+    "2 cups Corn Kernels",
+    "1/2 cup Okra; slice",
+    "2 tbsp Parsley; chop",
+    "1 tbsp Worcestershire Sauce"
+  ],
+  "recipeInstructions": "1. Cook bacon in its own fat until rendered. Remove the bacon bits and set aside.\n2. Combine flour, salt, pepper, and cayenne. Dredge the rabbit or chicken pieces in the mixture.\n3. Brown the meat pieces in the rendered fat with the onions.\n4. Add 1½ cups boiling water, tomatoes, red bell pepper, and thyme to the crockpot with the meat. Cover and cook on LOW for 6 to 8 hours.\n5. Add the remaining ingredients, including the reserved bacon, cover, and cook on HIGH for 25 minutes or until vegetables are tender.",
+  "url": null
+}

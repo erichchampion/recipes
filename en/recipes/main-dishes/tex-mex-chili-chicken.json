@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "tex-mex-chili-chicken",
+  "name": "Tex-Mex Chili Chicken",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "chili",
+    "main dish",
+    "meat",
+    "poultry",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "1 lb Chicken breast, cut into pieces",
+    "1 Boil-in bag, instant rice, prepared",
+    "1 tbsp Cooking oil",
+    "1 dash Tabasco sauce (or to taste)",
+    "1 Onion, chopped (med)",
+    "3/4 cup Jack cheese, shredded",
+    "1 Green pepper, chopped (small)",
+    "1 can Chili, no beans (15 oz.)",
+    "1 Red pepper, chopped (small)",
+    "1 can Stewed tomatoes, mex. style",
+    "1 Clove Garlic, chopped"
+  ],
+  "recipeInstructions": "1. In a large skillet, saute chicken in oil until no longer pink; set aside.\n2. In the same skillet, cook onion, peppers, and garlic until tender.\n3. Drain any excess liquid from the chili and stewed tomatoes.\n4. Stir in the chili, stewed tomatoes, and red pepper sauce into the skillet.\n5. Arrange the chicken on top of the mixture.\n6. Simmer for ten minutes.\n7. Top with shredded Jack cheese.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "salad-pizza",
+  "name": "Pizza de ensalada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 base de pizza preparada de 30 cm (ver Nota)",
+    "4 onzas de lechuga baby mixta",
+    "10 onzas de pollo cocido y en rodajas",
+    "1/4 taza de aderezo César"
+  ],
+  "recipeInstructions": "1. Coloca la base de pizza sobre una bandeja para pizza o un plato.\n2. Cubre con la lechuga.\n3. Añade el pollo encima de la lechuga.\n4. Vierte el aderezo sobre la pizza.\n5. Corta en porciones y sirve.\nRinde: 6 a 8 porciones\nNotas: Si utilizas una base de pizza congelada, descongélala y hornea durante 8-10 minutos a 200°C antes de añadir los ingredientes. Se recomienda una masa Boboli lista para cubrir con un sabor extra y queso.",
+  "url": null
+}

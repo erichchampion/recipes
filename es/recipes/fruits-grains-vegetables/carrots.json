@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "carrots",
+  "name": "Zanahorias",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "zanahorias",
+    "italiana",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de aceite de oliva",
+    "Sal y pimienta al gusto",
+    "1 libra de zanahorias, peladas y cortadas en rodajas finas",
+    "2 cucharadas de perejil fresco picado",
+    "3 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. Pelar y cortar las zanahorias en rodajas muy finas.\n2. Derretir la mantequilla en una sartén con el aceite de oliva a fuego alto.\n3. Agregar las rodajas de zanahoria a la sartén y remover bien.\n4. Dejar que las zanahorias se doren ligeramente al fondo de la sartén y saltear hasta que estén cocidas pero aún firmes.\n5. Incorporar el perejil picado, sal y pimienta.\n6. Reducir el fuego y cocinar hasta alcanzar el punto deseado.",
+  "url": null
+}

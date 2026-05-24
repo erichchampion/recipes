@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "mango-sorbet-mixture",
+  "name": "Mezcla de helado de mango",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "frutas",
+    "ensaladas",
+    "sorbete"
+  ],
+  "recipeIngredient": [
+    "4 mangos medianos",
+    "2/3 taza de jarabe de maíz ligero",
+    "1/2 taza de jugo de limón"
+  ],
+  "recipeInstructions": "1. Pelar los mangos.\n2. Quitar el hueso a los mangos.\n3. Cortar los mangos en trozos.\n4. Colocar los trozos de mango en una licuadora o procesador de alimentos.\n5. Añadir el jarabe de maíz ligero y el jugo de limón a la licuadora.\n6. Mezclar hasta obtener una textura suave.",
+  "url": null
+}

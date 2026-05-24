@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "best-iced-tea",
+  "name": "La Mejor Té Helado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "aperitivos",
+    "té"
+  ],
+  "recipeIngredient": [
+    "2 bolsitas de té (regular)",
+    "1 bolsita de té chai",
+    "1/2 cucharadita de semillas de anís",
+    "Azúcar al gusto o sin azúcar",
+    "1 galón de agua caliente o tibia"
+  ],
+  "recipeInstructions": "1. Coloca 2 bolsitas de té regular y 1 bolsita de té chai en un recipiente grande.\n2. Añade las semillas de anís y llena con agua caliente o tibia.\n3. Deja infusionar durante varias horas, luego retira las bolsitas de té.\n4. Mezcla el azúcar al gusto (o omite por completo).\n5. Refrigera hasta que esté frío antes de servir sobre hielo.",
+  "url": null
+}

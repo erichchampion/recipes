@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "porcupine-cookies",
+  "name": "Galletas de Porcupine",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 huevos batidos",
+    "1 taza de azúcar",
+    "2 tazas de dátiles picados",
+    "1 taza de nueces picadas"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Con una cuchara, formar pequeñas bolas y pasarlas por coco rallado.\n3. Colocarlas en una bandeja para hornear engrasada.\n4. Hornear a 275°F (135°C) hasta que el coco esté ligeramente dorado.",
+  "url": null
+}

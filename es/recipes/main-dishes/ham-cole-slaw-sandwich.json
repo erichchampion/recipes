@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-cole-slaw-sandwich",
+  "name": "Sándwich de jamón y coleslaw",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mayonesa BEST FOODS",
+    "2 cucharadas de vinagre de sidra",
+    "2 cucharaditas de azúcar",
+    "1/2 cucharadita de sal",
+    "3 tazas de col rallada",
+    "3/4 libra de jamón en lonchas"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar la mayonesa, el vinagre de sidra, el azúcar y la sal.\n2. Agregar la col rallada a la mezcla.\n3. Colocar las lonchas de jamón sobre la coleslaw y envolver entre rebanadas de pan de centeno.",
+  "url": null
+}

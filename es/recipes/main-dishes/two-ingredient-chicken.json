@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "two-ingredient-chicken",
+  "name": "Pollo de dos ingredientes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pollo",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 pollo entero",
+    "1 taza de salsa Chicken Tonight Dulce y Picante"
+  ],
+  "recipeInstructions": "1. Retira los boyes del interior del pollo.\n2. Vierte 1 taza de salsa en la cavidad del pollo.\n3. Coloca el pollo, con la pechuga hacia abajo, en una olla de cocción lenta.\n4. Vierte el resto de la salsa sobre el pollo.\n5. Añade ½ taza de melaza o miel, si lo deseas.\n6. Cocina hasta que esté listo.",
+  "url": null
+}

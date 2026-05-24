@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "old-time-meatloaf",
+  "name": "Pastel de carne tradicional",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "pastel de carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne de hombro de res",
+    "0,5 lb de ternera para estofar",
+    "0,25 lb de carne de hombro de cerdo",
+    "2 huevos batidos",
+    "1 taza de migas de pan o pan seco",
+    "Sal y pimienta al gusto",
+    "Salsa de tomillo u otra especia"
+  ],
+  "recipeInstructions": "1. Coloca la carne de res, la ternera y el cerdo en un procesador de alimentos y pulsa hasta que estén combinados.\n2. Añade los huevos batidos, las migas de pan o pan seco, sal, pimienta, tomillo u otra especia que prefieras.\n3. Mezcla todos los ingredientes hasta que estén bien integrados.\n4. Forma la mezcla en un molde de pan.\n5. Coloca el molde en una bandeja para hornear.\n6. Hornea durante una hora a 175 °C.\nFuente: Recetas Heritage Chatelaine.ch",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-breasts-w-tomato-garlic",
+  "name": "Pechos de pollo con tomate y ajo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "italiano",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "Aceite de oliva (2 cucharadas)",
+    "Tomates (3 tazas, pelados y sin semillas)",
+    "Pechugas de pollo sin hueso (2 pechugas enteras, cortadas por la mitad)",
+    "Hojas de laurel (1 hoja)",
+    "Ajo (4 dientes, picado)",
+    "Tomillo (1 cucharadita)",
+    "Cebolla picada (1/2 taza)",
+    "Sal",
+    "Pimienta",
+    "Vino blanco seco (1/2 taza)"
+  ],
+  "recipeInstructions": "1. Sazonar el pollo con sal y pimienta.\n2. Calentar el aceite de oliva en una sartén a fuego medio. Dorar las pechugas de pollo por ambos lados durante 3-4 minutos, hasta que estén doradas.\n3. Añadir el ajo picado, la cebolla, el vino blanco, los tomates, la hoja de laurel y el tomillo (o romero/albahaca) a la sartén.\n4. Llevar a ebullición, luego reducir el fuego y dejar cocinar a fuego lento durante 15 minutos, o hasta que el pollo esté bien hecho.\n5. Retirar la hoja de laurel antes de servir.",
+  "url": null
+}

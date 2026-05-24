@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-bonanza-ice-cream",
+  "name": "Banana Bonanza de Helado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "2 tazas de leche",
+    "2 tazas de crema batida",
+    "2 huevos (batidos)",
+    "1 ¼ taza de azúcar",
+    "2 plátanos maduros (pelados y cortados)",
+    "½ cucharadita de extracto de vainilla",
+    "¼ cucharadita de sal",
+    "⅛ cucharadita de nuez moscada molida"
+  ],
+  "recipeInstructions": "1. En una cacerola, mezclar la leche, la crema, los huevos y el azúcar a fuego medio-bajo. Cocinar y remover hasta que la mezcla espese ligeramente y cubra la espalda de una cuchara.\n2. Dejar enfriar a temperatura ambiente.\n3. Licuar los plátanos en una licuadora (1 taza).\n4. Combinar la crema pastelera fría con los plátanos, la vainilla, la sal y la nuez moscada.\n5. Verter en un recipiente apto para congelador.\n6. Congelar según las instrucciones del fabricante.",
+  "url": null
+}

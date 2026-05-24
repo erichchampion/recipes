@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-salad-deluxe",
+  "name": "Ensalada de Pollo Deluxe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pollo",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "3 tazas de pollo cocido y picado",
+    "1/2 taza de nueces tostadas",
+    "1 taza de apio picado",
+    "1/2 taza de coco rallado",
+    "1/2 taza de uvas sin semillas, cortadas por la mitad",
+    "1/4 taza de crema agria",
+    "1 cucharada de mostaza",
+    "1/2 cucharadita de sal",
+    "1/2 taza de mayonesa",
+    "1/2 limón, jugo de medio limón"
+  ],
+  "recipeInstructions": "1. Mezclar el pollo, las nueces, el apio, el coco y las uvas en un bol grande.\n2. En un bol pequeño, combinar la crema agria, la mostaza, la sal, la mayonesa y el jugo de limón para hacer el aderezo.\n3. Servir la ensalada sobre lechuga o aguacate cortado por la mitad.\n4. Rodear la ensalada con piña u otro fruto.\n5. Decorar con aceitunas o cerezas.",
+  "url": null
+}

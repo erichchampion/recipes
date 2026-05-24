@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "blueberry-surprise",
+  "name": "Blueberry Surprise",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "fruits"
+  ],
+  "recipeIngredient": [
+    "2 cups blueberries",
+    "1/3 cup sugar",
+    "1 can crushed pineapple in juice, undrained",
+    "1 package white cake mix, without pudding",
+    "1/2 cup chopped walnuts",
+    "3/4 cup melted butter"
+  ],
+  "recipeInstructions": "1. Layer the first five ingredients in a greased 9x13-inch pan.\n2. Dribble the melted butter over all.\n3. Bake for 1 hour at 350°F.",
+  "url": null
+}

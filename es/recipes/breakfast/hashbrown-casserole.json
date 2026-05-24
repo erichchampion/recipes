@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "hashbrown-casserole",
+  "name": "Casserola de hash browns",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "papas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de queso americano o cheddar rallado",
+    "1 lata de sopa de pollo sin diluir",
+    "1 taza de crema agria",
+    "1/2 taza de cebolla picada (hasta 3/4 taza)",
+    "1/2 taza de pimiento verde picado",
+    "1/4 taza de mantequilla derretida",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "1 paquete de papas hash browns congeladas, descongeladas",
+    "1 cucharada de mantequilla",
+    "2 tazas de copos de maíz triturados"
+  ],
+  "recipeInstructions": "1. Engrasa un molde para hornear de 9x13 cm.\n2. En un bol grande, mezcla el queso, la sopa, la crema agria, la cebolla, el pimiento verde, la mantequilla derretida, la sal y la pimienta.\n3. Mezcla bien hasta que todos los ingredientes estén incorporados.\n4. Dobla las papas hash browns descongeladas.\n5. Vierte la mezcla en el molde para hornear preparado.\n6. Espolvorea los copos de maíz triturados y 1 cucharada de mantequilla derretida sobre la parte superior de manera uniforme.\n7. Hornea a 350 °F durante una hora.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chartreuse-cocktail",
+  "name": "Chartreuse Cocktail",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 Ounces Tequila",
+    "3 Tablespoons Lime Juice",
+    "1 Ounce Green Chartreuse Liqueur",
+    "1 Tablespoon Lime Juice",
+    "1/4 Cup Crushed Ice"
+  ],
+  "recipeInstructions": "1. Pour all ingredients over ice in a tightly covered container.\n2. Shake until very cold.\n3. Pour into a serving glass.\n4. Garnish with lime slice, if desired.",
+  "url": null
+}

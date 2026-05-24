@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "magic-lemon-pie",
+  "name": "Tarta de Limón Mágica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de leche condensada dulce de Eagle",
+    "1/4 taza de zumo de limón",
+    "1 cucharadita de ralladura de limón (o 1/4 cucharadita de extracto de limón)",
+    "2 huevos",
+    "2 cucharadas de azúcar granulada",
+    "Base de tarta horneada de 8 pulgadas de diámetro"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar la leche condensada, el zumo de limón, la ralladura de limón y las yemas de huevo.\n2. Verter la mezcla en la base de tarta horneada preparada.\n3. Preparar la merengue batiendo las claras de huevo hasta que formen picos firmes. Añadir el azúcar gradualmente mientras se sigue batiendo hasta que la merengue mantenga su forma.\n4. Extender la merengue sobre la parte superior de la crema de limón, cubriendo completamente la superficie.\n5. Colocar la tarta en un horno moderado (175 °C) y hornear durante 20-25 minutos, o hasta que la merengue esté ligeramente dorada.\n6. Retirar del horno y dejar enfriar a temperatura ambiente antes de servir.",
+  "url": null
+}

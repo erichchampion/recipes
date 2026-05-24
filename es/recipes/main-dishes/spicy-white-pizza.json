@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-white-pizza",
+  "name": "Pizza blanca picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "10 oz de masa de harina refrigerada Hungry Jack",
+    "2 cucharadas de aceite",
+    "2 dientes de ajo, picados finamente",
+    "3/4 cucharadita de orégano seco en hojas",
+    "1/4 cucharadita de albahaca seca en hojas",
+    "1/4 cucharadita de pimentón rojo molido",
+    "2 cucharadas de queso parmesano rallado",
+    "2 tazas de queso mozzarella rallado"
+  ],
+  "recipeInstructions": "Precalentar el horno a 350 grados. Dividir la masa en 10 porciones iguales. Extender cada porción en dos capas delgadas. Colocar en una bandeja para pizza o un molde rectangular antiadherente de 30 cm x 40 cm; presionar sobre la base y los lados para formar la base de la pizza. En un bol pequeño, mezclar el aceite, el ajo, el orégano, la albahaca y el pimentón rojo hasta obtener una consistencia homogénea. Verter sobre la base de la pizza. Espolvorear con los quesos. Hornear durante 18-22 minutos o hasta que la base esté dorada.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "nacho-cheese-dip",
+  "name": "Dip de Queso Nacho",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "salsas",
+    "mexicano",
+    "tapas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de provolone rallado",
+    "1/2 lb de queso americano rallado",
+    "3/4 taza de crema espesa",
+    "8 oz de queso crema",
+    "1/4 cucharadita de polvo de ajo",
+    "3/4 cucharadita de salsa Worcestershire",
+    "1/8 cucharadita de cayena",
+    "1/8 cucharadita de colorante alimentario amarillo"
+  ],
+  "recipeInstructions": "1. Derretir el provolone en la parte superior de un baño maría sobre agua hirviendo.\n2. Añadir el queso americano y remover hasta incorporar la crema.\n3. Incorporar el queso crema y remover hasta que todo esté derretido.\n4. Retirar del fuego y batir las especias y el colorante alimentario.\n5. Servir caliente con galletas, chips o verduras.",
+  "url": null
+}

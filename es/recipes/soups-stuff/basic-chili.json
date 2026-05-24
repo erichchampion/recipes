@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-chili",
+  "name": "Chili básico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne de chili",
+    "1 cebolla grande, picada",
+    "2 dientes de ajo, picados finamente",
+    "2 cucharadas de aceite",
+    "2 cucharaditas de comino",
+    "1 cucharada de polvo de chili",
+    "sal y pimienta al gusto",
+    "3 tazas de tomates enlatados con jugo",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. En una olla grande, saltea la carne, la cebolla y el ajo en aceite a fuego medio hasta que la carne esté dorada.\n2. Añade el comino, el polvo de chili, la sal y la pimienta. Mezcla bien.\n3. Agrega los tomates, desmenuzándolos con una cuchara mientras los incorporas.\n4. Vierte el agua y mezcla bien.\n5. Deja cocinar a fuego lento sin tapar durante 1-2 horas, removiendo ocasionalmente para evitar que se pegue y añadiendo más agua si es necesario.\n6. Sirve 6-8 porciones.",
+  "url": null
+}

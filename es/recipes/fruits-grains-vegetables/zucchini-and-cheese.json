@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "zucchini-and-cheese",
+  "name": "Zucchini y Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "queso",
+    "verduras",
+    "calabacín"
+  ],
+  "recipeIngredient": [
+    "1 1/4 libras de calabacín",
+    "1/4 taza de harina",
+    "1 cucharada de sal",
+    "1 cucharadita de orégano",
+    "1/4 cucharadita de pimienta molida",
+    "1/4 taza de aceite de oliva",
+    "2 tomates, en rodajas",
+    "1 taza de crema agria",
+    "1/2 taza de queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. Lavar y frotar bien los calabacines y cortarlos en rodajas finas.\n2. Mezclar la harina con la mitad de la sal, la pimienta y el orégano en un bol. Recubrir las rodajas de calabacín con esta mezcla.\n3. Calentar el aceite en una sartén y saltear los calabacines hasta que estén dorados. Colocarlos en un plato para hornear engrasado y cubrir con rodajas de tomate.\n4. Mezclar la crema agria con el resto de la sal, orégano y pimienta, y extender sobre las rodajas de tomate.\n5. Hornear durante 30 minutos a 180 °C.",
+  "url": null
+}

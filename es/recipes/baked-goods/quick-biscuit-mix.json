@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-biscuit-mix",
+  "name": "Mezcla Rápida de Galletas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "panes",
+    "varios",
+    "mezclas"
+  ],
+  "recipeIngredient": [
+    "2 3/4 tazas de harina de trigo",
+    "1/2 taza de leche en polvo instantánea, reducida en 1 cucharada",
+    "1/2 taza de harina de soja",
+    "2 cucharadas de polvo de hornear",
+    "1 1/2 cucharaditas de sal",
+    "1 taza de germen de trigo"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes y almacenar en un recipiente cerrado.\n2. Rinde para 5 tazas.",
+  "url": null
+}

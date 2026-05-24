@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "weight-watchers-soup",
+  "name": "Sopa de Weight Watchers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "1 lata grande de jugo V-8",
+    "1 lata de agua",
+    "1 libra de carne molida de res",
+    "1/2 pequeña cabeza de col",
+    "3 cubos de caldo de carne",
+    "1 paquete de vegetales mixtos congelados"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida.\n2. Rallar o picar finamente la col.\n3. Agregar la col a la carne molida.\n4. Incorporar el jugo V-8 y 1 lata de agua a la mezcla.\n5. Añadir los cubos de caldo y los vegetales mixtos congelados.\n6. Cocinar a fuego lento durante aproximadamente 2 horas, hasta que la col esté tierna.",
+  "url": null
+}

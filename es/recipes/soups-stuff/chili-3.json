@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-3",
+  "name": "Chili",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "frijoles",
+    "chili",
+    "carnes",
+    "olla de cocción lenta",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne molida",
+    "2 cebollas medianas picadas",
+    "1 pimiento verde picado",
+    "4 tallos de apio picados",
+    "1 lata de 28 onzas de tomates triturados",
+    "1 lata de 8 onzas de salsa de tomate",
+    "2 latas de frijoles rojos",
+    "1 cucharadita de pimienta negra",
+    "3 cucharaditas de polvo de chili",
+    "1 cucharadita de sal de ajo"
+  ],
+  "recipeInstructions": "1. Cocinar la carne molida y escurrir la grasa.\n2. Mezclar todos los ingredientes en una olla de cocción lenta.\n3. Cocinar a fuego alto durante 4 a 5 horas hasta que el chili esté listo.",
+  "url": null
+}

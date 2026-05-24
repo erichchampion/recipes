@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "parsnip-salad",
+  "name": "Ensalada de nabo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "aperitivos",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de nabos rallados",
+    "1/2 taza de apio picado",
+    "1/4 taza de pimiento verde picado",
+    "1 cucharadita de copos de perejil",
+    "1/3 taza de mayonesa",
+    "1 cucharada de aceite para ensaladas",
+    "1 cucharada de vinagre",
+    "1 cucharadita de jugo de limón",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Mezclar en un bol los nabos rallados, el apio picado, el pimiento verde y los copos de perejil.\n2. En un bol o taza medidora separada, combinar la mayonesa, el aceite para ensaladas, el vinagre, el jugo de limón y la sal hasta que esté bien mezclado.\n3. Verter el aderezo sobre la mezcla de nabos.\n4. Revolver suavemente para asegurar que todos los ingredientes estén cubiertos uniformemente.\n5. Servir.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "turkey-potato-pancakes",
+  "name": "Tortitas de Patata y Pavo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "pavo"
+  ],
+  "recipeIngredient": [
+    "3 huevos",
+    "3 tazas de patatas ralladas (sin piel)",
+    "1 1/2 tazas de pavo cocido, picado finamente",
+    "1/4 taza de cebolletas con las puntas, cortadas en rodajas",
+    "2 cucharadas de harina de uso múltiple",
+    "1 1/2 cucharaditas de sal",
+    "aceite de cocina",
+    "salsa de arándanos (opcional)"
+  ],
+  "recipeInstructions": "1. Batir los huevos en un bol.\n2. Añadir las patatas, el pavo, las cebolletas, la harina y la sal; mezclar bien.\n3. Calentar aproximadamente 1/4 de pulgada de aceite en una sartén grande.\n4. Verter porciones de la masa (1/3 taza cada una) en el aceite caliente.\n5. Freír durante 5-6 minutos por cada lado o hasta que las patatas estén tiernas y las tortitas doradas.\n6. Servir con salsa de arándanos si se desea.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "yum-yum-gems",
+  "name": "Gemas Yum-Yum",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de manteca corta",
+    "1 taza de azúcar moreno",
+    "1 taza de leche agria",
+    "2 tazas de harina",
+    "1 cucharadita de bicarbonato de sodio",
+    "1/2 taza de nueces picadas",
+    "1/2 cucharadita de sal",
+    "1 cucharadita de canela",
+    "1 cucharadita de jengibre",
+    "1/2 cucharadita de clavo de olor",
+    "1 taza de pasas picadas"
+  ],
+  "recipeInstructions": "1. Mezcla la manteca y el azúcar moreno hasta obtener una textura suave.\n2. Añade la leche agria y mezcla bien.\n3. Incorpora gradualmente los ingredientes secos (harina, bicarbonato, sal, canela, jengibre, clavo) junto con las nueces y pasas, mezclando solo hasta combinarlos.\n4. Vierte la masa en moldes para magdalenas engrasados, llenándolos hasta 2/3 de su capacidad.\n5. Hornea a temperatura media (175°C) durante 15 a 20 minutos o hasta que un palillo insertado en el centro salga limpio.\n6. Deja enfriar los gemas en los moldes unos minutos antes de desmoldarlos y servirlos con glaseado al gusto.",
+  "url": null
+}

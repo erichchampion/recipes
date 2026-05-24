@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "english-muffin-pizzas",
+  "name": "Muffins de pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "4 muffins ingleses, cortados por la mitad",
+    "1/2 libra de carne molida extra magra",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de orégano",
+    "1/8 cucharadita de pimienta negra",
+    "1/8 cucharadita de sal de ajo",
+    "1/2 taza de salsa de tomate",
+    "1/2 taza de queso mozzarella rallado",
+    "1 cucharadita de queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375°F (190°C).\n2. Dorar la carne molida en una sartén y escurrir el exceso de grasa. Añadir la sal.\n3. En un bol pequeño, mezclar la salsa de tomate, orégano, pimienta y sal de ajo.\n4. Colocar las mitades de muffin en una bandeja para hornear. Extender la mezcla de tomate sobre cada mitad de muffin.\n5. Cubrir la mezcla de tomate con la carne molida dorada. Añadir el queso mozzarella y parmesano por encima.\n6. Hornear durante 10 a 15 minutos, o hasta que se derrita el queso.",
+  "url": null
+}

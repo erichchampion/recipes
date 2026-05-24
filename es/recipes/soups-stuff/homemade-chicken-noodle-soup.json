@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "homemade-chicken-noodle-soup",
+  "name": "Sopa casera de pollo y fideos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "pollo",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "4 tazas de caldo de pollo",
+    "2 tazas de pollo desmenuzado",
+    "1/2 taza de apio en rodajas",
+    "1/2 taza de cebolla verde en rodajas",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de condimento para aves",
+    "1/4 cucharadita de pimienta negra",
+    "2 tazas de fideos sin cocinar",
+    "2 cucharadas de harina",
+    "2 tazas de leche"
+  ],
+  "recipeInstructions": "1. Añadir el pollo, apio, cebolla y las especias al caldo.\n2. Llevar a ebullición.\n3. Incorporar los fideos. Tapar y cocinar hasta que los fideos estén casi tiernos (5 a 10 minutos).\n4. Mezclar la harina con una pequeña cantidad de leche hasta obtener una pasta suave. Añadir el resto de la leche. Incorporar a la sopa.\n5. Cocinar hasta alcanzar la consistencia deseada.",
+  "url": null
+}

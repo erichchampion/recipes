@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "kfc-macaroni-potato-salad",
+  "name": "Ensalada de macarrones/patatas al estilo KFC",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "misceláneo",
+    "pasta",
+    "patatas"
+  ],
+  "recipeIngredient": [
+    "Mezcla para aderezo:",
+    "1/2 taza de crema agria",
+    "1/2 taza de mayonesa Miracle Whip",
+    "2 tazas de mayonesa Hellman's",
+    "2 cucharadas de mostaza preparada",
+    "3 cucharadas de azúcar",
+    "1 cucharadita de sal de cebolla",
+    "1/2 cucharadita de pimienta negra",
+    "Ensalada:",
+    "2 cucharadas de cebolla seca picada",
+    "2/3 taza de apio picado",
+    "2/3 taza de pepinillos Sweet Midget picados (no relish)",
+    "2 cucharadas de pimiento rojo picado o",
+    "1/2 pequeña tomate sin semillas y picado",
+    "8 tazas de macarrones con forma de elipse; cocer, escurrir, enfriar bien antes de agregar"
+  ],
+  "recipeInstructions": "Aderezo - Combinar los ingredientes del aderezo y reservar.\nEnsalada de Macarrones - En un bol grande, mezclar los ingredientes restantes de la ensalada. Cubrir todo bien con el aderezo. Refrigerar por al menos una hora antes de servir.\nEnsalada de Papas - Sustituir 8 tazas de papas cocidas, peladas y cortadas en cubos frías por los macarrones. Aumentar la cantidad de apio a 1 taza y usar cebolla verde picada en lugar de cebolla seca. También se pueden agregar aceitunas negras o rellenas verdes a cualquiera de las ensaladas.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "marinated-shrimp",
+  "name": "Camarones marinados",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco",
+    "gambas"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb gambas medianas, limpias y desvenadas,",
+    "o",
+    "6 pechugas de pollo sin hueso",
+    "1 cucharada de aceite de oliva",
+    "5 dientes de ajo machacados",
+    "Zesta de 1 naranja",
+    "1 taza de zumo de naranja",
+    "Un manojo de romero fresco",
+    "Pimienta negra molida al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar el aceite de oliva, el ajo, la zesta y el zumo de naranja, el romero y la pimienta al gusto.\n2. Añadir las gambas y cubrir con la marinada. Refrigerar durante 1 hora.\n3. Asar las gambas a baja temperatura o bajo el grill a 4 pulgadas de la fuente de calor hasta que estén doradas, 4-5 minutos, dando la vuelta una vez.",
+  "url": null
+}

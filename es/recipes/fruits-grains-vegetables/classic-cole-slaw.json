@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "classic-cole-slaw",
+  "name": "Ensalada de col clásica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 taza de mayonesa ligera sin colesterol",
+    "2 cucharadas de azúcar",
+    "6 tazas de col, rallada",
+    "1/2 taza de pimiento verde, cortado finamente (opcional)",
+    "3 cucharadas de jugo de limón",
+    "1 cucharadita de sal",
+    "1 taza de zanahorias, ralladas"
+  ],
+  "recipeInstructions": "1. Mezclar los cuatro primeros ingredientes en un bol grande.\n2. Añadir el resto de ingredientes y remover hasta que todo esté bien integrado.\n3. Tapar el bol y dejar enfriar durante al menos 30 minutos antes de servir.\nRinde 6 tazas.",
+  "url": null
+}

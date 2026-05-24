@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pesto-cocktail-pizza",
+  "name": "Pizza de cóctel con pesto",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de aceite de oliva",
+    "2 tazas de hojas de albahaca frescas, apretadas",
+    "1/4 taza de perejil fresco, apretado",
+    "3/4 taza de queso parmesano rallado",
+    "2 dientes de ajo, cortados por la mitad",
+    "1/2 cucharadita de sal",
+    "Pimienta al gusto",
+    "2 cucharadas de piñones",
+    "2 bases de pizza redondas de 12 pulgadas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 220 °C.\n2. Para la salsa pesto, colocar en un procesador o licuadora el aceite de oliva, la albahaca, el perejil, 3/4 taza de queso parmesano, el ajo, la sal y la pimienta.\n3. Procesar o mezclar en intervalos, durante aproximadamente 2 minutos, raspar los lados del bol una o dos veces.\n4. Extender uniformemente la mitad de la salsa pesto sobre cada base de pizza, dejando un borde de 1/2 pulgada.\n5. Hornear hasta que la parte superior burbujee, de 4 a 5 minutos.\n6. Espolvorear con el queso parmesano restante.\n7. Cortar y servir inmediatamente. Rinde 2 pizzas de 12 pulgadas.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "lima-bean-casserole",
+  "name": "Cazuela de Frijoles de Lima",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 cebollas pequeñas, cortadas finamente",
+    "3 paquetes de frijoles lima congelados (10 oz cada uno)",
+    "2 latas de sopa de apio con crema (4 onzas cada una)",
+    "2 latas de setas con jugo, escurridas (4 oz cada una)",
+    "1 tarro de 2 oz de pimiento picado, escurrido",
+    "2 cucharaditas de sal",
+    "1/8 cucharadita de pimienta",
+    "1/2 cucharadita de tomillo seco",
+    "1/2 taza de crema espesa",
+    "1 taza de queso Parmesano rallado"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes excepto la crema y el queso en una olla de cocción lenta.\n2. Revisar bien y cubrir.\n3. Cocinar a fuego lento durante 10-12 horas.\n4. Justo antes de servir, incorporar la crema y mezclar bien.\n5. Espolvorear con queso.",
+  "url": null
+}

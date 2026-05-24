@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "oriental-shrimp",
+  "name": "Camarones Orientales",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco",
+    "gambas"
+  ],
+  "recipeIngredient": [
+    "1 lb de camarones grandes o langostinos",
+    "2 cucharadas de aceite",
+    "2 cucharadas de ketchup",
+    "2 cucharadas de salsa Worcestershire",
+    "1 cucharada de azúcar",
+    "2 cucharaditas de salsa de soja",
+    "2 cucharaditas de jerez",
+    "1/4 cucharadita de aceite de sésamo",
+    "6 gotas de tabasco"
+  ],
+  "recipeInstructions": "1. Limpiar y pelar los camarones, dejando la cola si se prefiere, y retirar el venenillo.\n2. Lavar y secar bien los camarones con papel de cocina.\n3. Saltear los camarones en aceite caliente hasta que estén cocidos, aproximadamente 3-4 minutos.\n4. Retirar los camarones del wok y escurrir el aceite.\n5. Añadir los ingredientes restantes al wok; calentar hasta hervir.\n6. Devolver los camarones al wok; tapar y cocinar durante 30 segundos.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "five-cup-salad",
+  "name": "Ensalada de Cinco Tazas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 taza de queso crema",
+    "1 taza de coco rallado",
+    "1 taza de naranjas mandarinas",
+    "1 taza de piña triturada y escurrida",
+    "1 taza de mini marshmallows"
+  ],
+  "recipeInstructions": "1. Ablandar el queso crema.\n2. Mezclar todos los ingredientes hasta que queden bien combinados.\n3. Refrigerar hasta el momento de servir.",
+  "url": null
+}

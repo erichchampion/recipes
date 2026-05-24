@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-zanzibar",
+  "name": "Pollo de Zanzíbar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 pollo entero, cortado en trozos",
+    "6 onzas de limonada congelada",
+    "1/3 taza de salsa de soja",
+    "1 cebolla pequeña, picada",
+    "3 dientes de ajo grandes, picados",
+    "1 cucharadita de polvo de curry",
+    "1 cucharadita de cilantro molido",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de jengibre molido",
+    "1/4 cucharadita de pimentón rojo en polvo"
+  ],
+  "recipeInstructions": "1. En un bol, mezcle la limonada, la salsa de soja, la cebolla, el ajo, el polvo de curry, el cilantro, la sal, el jengibre y el pimentón para hacer la salsa.\n2. Coloque el pollo en una parrilla preparada con la piel hacia arriba, a unos 8 pulgadas de la fuente de calor.\n3. Cocine, dando la vuelta al pollo cada 10 minutos, durante aproximadamente 30 minutos.\n4. Barnice el pollo con la salsa y continúe cocinando, dándole la vuelta y barnizándolo con salsa cada 5 minutos durante otros 20 minutos o hasta que el pollo esté tierno al tenedor.",
+  "url": null
+}

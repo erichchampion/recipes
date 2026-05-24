@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pinto-beans-and-rice",
+  "name": "Pinto Beans and Rice",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "beans",
+    "main dish",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "1 cup Cooked long grain brown rice",
+    "15 oz Can pinto beans",
+    "1 cup Shredded iceberg lettuce",
+    "1 cup Coarsely chopped tomato",
+    "1 medium Red bell pepper",
+    "1 small Onion",
+    "1/4 cup Cilantro, chopped",
+    "Salsa",
+    "Unflavored yogurt"
+  ],
+  "recipeInstructions": "1. Stem, seed, and coarsely chop the red bell pepper.\n2. Chop onion and cilantro leaves.\n3. In a 2-3 quart microwave-safe bowl, mix rice, beans, half of the shredded iceberg lettuce, half of the chopped tomato, half of the chopped red bell pepper, half of the chopped onion, and half of the chopped cilantro.\n4. Cover and cook on full power for 3 minutes.\n5. Stir, cover, and cook until hot throughout, an additional 1 to 2 minutes.\n6. Stir in the remaining vegetables.\n7. Spoon into individual bowls and garnish with salsa, yogurt, and salt to taste.\nWARNING: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

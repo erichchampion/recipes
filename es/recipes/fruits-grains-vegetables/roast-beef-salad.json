@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "roast-beef-salad",
+  "name": "Ensalada de roast beef",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "carne",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "Restos de ternera asada",
+    "2 cebollas, picadas",
+    "1 pimiento rojo, sin semillas y picado",
+    "2 tomates, sin semillas y picados",
+    "1/3 - 1/2 taza de vinagre",
+    "1/2 taza de aceite de oliva",
+    "1/2 taza de aceite de girasol",
+    "2 cucharadas de perejil picado",
+    "1 cucharadita de orégano",
+    "Una pizca de pimienta cayena",
+    "Sal y pimienta al gusto",
+    "1 cucharada de mostaza"
+  ],
+  "recipeInstructions": "1. Preparar el aderezo: Mezclar todos los ingredientes, excepto la ternera.\n2. Cortar la ternera en lonchas lo más finas posible.\n3. Colocar una capa de ternera en el fondo de un plato rectangular de Pyrex. Cubrir con parte del aderezo.\n4. Alternar capas de ternera y aderezo, terminando con una capa de aderezo. Cubrir con papel film y refrigerar durante 12 horas.\n5. Se conserva en el frigorífico hasta por una semana.",
+  "url": null
+}

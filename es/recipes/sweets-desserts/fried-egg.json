@@ -1,0 +1,17 @@
+{
+  "@type": "Recipe",
+  "identifier": "fried-egg",
+  "name": "Huevo frito",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de leche",
+    "2 cucharadas de suero de leche",
+    "4 mitades de melocotón"
+  ],
+  "recipeInstructions": "1. Verter la leche en un frasco.\n2. Añadir 2 cucharadas de suero de leche a la leche y mezclar bien.\n3. Dejar reposar durante 24 horas. Espesará.\n4. Para preparar el postre, colocar unas cucharadas en un plato y aplastar ligeramente.\n5. Colocar una mitad de melocotón sobre esta base, de ahí el nombre \"huevo frito\".",
+  "url": null
+}

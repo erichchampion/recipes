@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-dog-provencale",
+  "name": "Perro caliente provenzal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "8 perritos calientes",
+    "8 lonchas de tocino",
+    "1 taza cebolla picada",
+    "1 diente de ajo picado",
+    "1 lata de tomates (200g)",
+    "1/2 cucharadita sal",
+    "Una pizca de pimienta"
+  ],
+  "recipeInstructions": "1. Freír el tocino hasta que esté crujiente. Retirar del fuego y dejar enfriar ligeramente.\n2. En una sartén, cocinar la cebolla y el ajo a fuego medio hasta ablandarse.\n3. Incorporar los tomates picados, la sal y la pimienta. Llevar a ebullición, luego reducir el fuego y dejar cocer durante unos 10 minutos.\n4. Añadir los perritos calientes a la salsa y tapar. Dejar cocer durante 15 minutos adicionales, o hasta que los perritos calientes estén calientes.",
+  "url": null
+}

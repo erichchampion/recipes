@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-frittata",
+  "name": "Pasta Frittata",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "4 large eggs",
+    "3 cups cooked spaghetti (to 4 cups)",
+    "2 cups cooked vegetables",
+    "3/4 cup cheese, shredded",
+    "1/2 teaspoon salt"
+  ],
+  "recipeInstructions": "1. Beat the eggs and stir in the cooked spaghetti, vegetables, cheese, and salt.\n2. Spray a large nonstick skillet with nonstick cooking spray.\n3. Spread the pasta mixture evenly in the skillet over medium heat.\n4. Press down gently with a spatula to ensure even distribution.\n5. Cover and cook for 4 to 5 minutes until the egg is set and the cheese is melted. The bottom will brown slightly.\n6. Cut into wedges. Serve as is or top with a little spaghetti sauce, salsa, or ketchup. If you have any leftover rice or sliced cooked potatoes, use those in place of pasta.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "deb-s-hummus-sandwiches",
+  "name": "Deb's Hummus Sandwiches",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beans",
+    "family favorites",
+    "main dish",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "2 pita bread, whole-wheat",
+    "1/2 cup hummus (home-made)",
+    "1/2 cup pickled red onions",
+    "2 cups mixed salad greens",
+    "1/2 red bell pepper, chopped"
+  ],
+  "recipeInstructions": "1. Cut the pita loaves in half.\n2. Spread hummus evenly on the inside of each piece of pita.\n3. Divide the remaining ingredients equally among the four sandwiches.",
+  "url": null
+}

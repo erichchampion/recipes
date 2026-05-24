@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-tease-omelet",
+  "name": "Omeleta con queso cremoso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "8 huevos",
+    "1/2 taza de queso cottage cremoso",
+    "1/2 taza de queso crema ablandado",
+    "Una pizca de sal",
+    "2 sobre de edulcorante en polvo",
+    "1 cucharadita de vainilla",
+    "1/2 cucharadita de canela",
+    "1/4 taza de nata para cocinar",
+    "3 cucharadas de mantequilla",
+    "2 cucharadas de crema agria, opcional/para servir"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto la mantequilla y la crema agria en un bol.\n2. Batir hasta obtener una consistencia suave.\n3. Derretir la mantequilla en una sartén grande antiadherente o una plancha para omeletas.\n4. Seguir las instrucciones para cocinar una omeleta (ver Receta de Omeleta Básica).\n5. Servir sola o con crema agria por encima.",
+  "url": null
+}

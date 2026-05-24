@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-chicken-noodle-soup",
+  "name": "Sopa Rápida de Pollo y Fideos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "pollo",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "3 litros de agua",
+    "5 cubos de caldo de pollo",
+    "1 taza de zanahoria cortada en láminas finas",
+    "1/2 taza de apio picado",
+    "1/2 taza de cebolla finamente picada",
+    "1 hoja de laurel",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra molida",
+    "1/4 cucharadita de condimento para aves de corral",
+    "3 tazas de pollo cocido cortado en trozos",
+    "6 onzas de fideos de huevo medianos (crudos)"
+  ],
+  "recipeInstructions": "1. En una olla de 6 cuartos, combinar todos los ingredientes excepto el pollo y los fideos; llevar a ebullición.\n2. Agregar el pollo y los fideos; cocinar sin tapar, removiendo ocasionalmente, durante 8 minutos o hasta que los fideos y las verduras estén tiernos.\n3. Retirar la hoja de laurel. Servir para 10 a 12 personas.",
+  "url": null
+}

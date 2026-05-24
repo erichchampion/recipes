@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "twinkies-2",
+  "name": "Twinkies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "varios"
+  ],
+  "recipeIngredient": [
+    "1 Mezcla de bizcocho amarillo, preparada según las instrucciones del paquete",
+    "1 Mezcla de bizcocho limón, preparada según las instrucciones del paquete",
+    "1 Mezcla de bizcocho blanco, preparada según las instrucciones del paquete",
+    "1 Latas de trozos de piña en jugo (sin la piña)",
+    "1/2 taza de mantequilla o margarina",
+    "1/2 taza de Crisco",
+    "1 taza de azúcar granulada",
+    "3/4 taza de leche evaporada",
+    "1 cucharadita de vainilla"
+  ],
+  "recipeInstructions": "1. Mezcla las mezclas de bizcocho juntas siguiendo las recetas de los paquetes.\n- Sustituye el jugo de piña por agua en la mezcla de bizcocho blanco.\n2. Combina todas las mezclas de bizcocho a fondo.\n3. Llena moldes para magdalenas con la masa y hornea a 175°C hasta que estén ligeramente dorados.",
+  "url": null
+}

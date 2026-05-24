@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "oprah-s-mock-caesar-salad",
+  "name": "Ensalada César de Oprah",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "aderezos",
+    "bajo en calorías",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "20 ml ajo picado",
+    "1/4 taza zumo de limón",
+    "1/4 taza salsa de soja baja en sodio",
+    "Pimienta negra recién molida",
+    "3 tazas lechuga romana (arrancada)",
+    "3 tazas endivias (arrancadas)",
+    "1 tomate grande (en cubos)",
+    "1 cucharada queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar el ajo picado, zumo de limón, salsa de soja baja en sodio y pimienta negra recién molida.\n2. Agregar la mezcla al romero arrancado y las endivias.\n3. Incorporar los cubos de tomate a la ensalada.\n4. Espolvorear el queso parmesano por encima.",
+  "url": null
+}

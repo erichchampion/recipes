@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "spam-hawaiian-pizza",
+  "name": "Spam Hawaiian Pizza",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 can Refrigerated all-ready pizza crust (10 oz)",
+    "1 package Sliced Provolone cheese (6 oz)",
+    "1 can SPAM Luncheon Meat, cut in thin squares (12 oz)",
+    "1 can Chunk pineapple, drained (8 oz)",
+    "1/2 cup Thinly sliced red onion",
+    "1/2 cup Chopped green pepper"
+  ],
+  "recipeInstructions": "1. Preheat oven to 425°F.\n2. Grease a 12-inch pizza pan or 13x9-inch baking pan.\n3. Unroll the dough and press it into the prepared pan.\n4. Top with cheese.\n5. Arrange the remaining ingredients over the cheese.\n6. Bake for 25-30 minutes, or until the crust is deep golden brown.",
+  "url": null
+}

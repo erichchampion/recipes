@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "dip-soup",
+  "name": "Sopa de Dip",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "salsas",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 sobre de mezcla de sopa de verduras LIPTON",
+    "2 tazas de crema agria",
+    "1 taza de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. En un bol pequeño, mezcle la mezcla de sopa de verduras y la crema agria hasta obtener una consistencia suave.\n2. Añada el queso cheddar rallado y revuelva hasta que quede bien combinado.\n3. Deje reposar la salsa en el refrigerador durante al menos 2 horas para que los sabores se mezclen (opcional).\n4. Sirva fría en un bol o en medio de un aguacate cortado por la mitad.",
+  "url": null
+}

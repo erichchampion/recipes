@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cucumber-soup",
+  "name": "Cucumber Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 tablespoon Butter",
+    "1/4 cup Onions, green, chopped",
+    "1 Cucumbers",
+    "1 tablespoon Flour",
+    "2 cups Chicken Stock",
+    "1/2 tablespoon Vinegar",
+    "1 tablespoon Dill Weed",
+    "1/4 cup Sour Cream"
+  ],
+  "recipeInstructions": "1. Cucumbers may be peeled or unpeeled.\n2. Melt butter and sauté onions until soft.\n3. Dice cucumbers and add to the pot; add flour and stir well.\n4. Add chicken broth, vinegar, and dill weed. Stir well.\n5. Cook for 30 minutes.\n6. Puree while adding sour cream.\n7. Serve chilled or hot.",
+  "url": null
+}

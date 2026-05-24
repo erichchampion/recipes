@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "colonial-bread-abm",
+  "name": "Colonial Bread ABM",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1/2 tablespoon yeast",
+    "3 1/2 cups flour (bread)",
+    "1/3 cup molasses",
+    "1 teaspoon salt",
+    "3 tablespoons butter"
+  ],
+  "recipeInstructions": "1. Pour cornmeal into a bowl and pour boiling water over it, stirring until smooth. Let cool for 30 minutes.\n2. Combine the remaining ingredients in the bakery and add the cooled cornmeal mixture.\n3. Set the baking control to \"12 o'clock.\" Select \"white bread\" and press Start.",
+  "url": null
+}

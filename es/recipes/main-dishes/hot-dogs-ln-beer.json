@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-dogs-ln-beer",
+  "name": "Perros calientes con cerveza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "12 oz de cerveza o ale",
+    "500g de salchichas tipo Frankfurt",
+    "Panes de perrito caliente, calentados",
+    "Chucrut, calentado"
+  ],
+  "recipeInstructions": "1. En un cacerolón profundo y resistente al calor de 2,5 litros, mezclar la cerveza con las salchichas.\n2. Calentar, cubierto, en el microondas durante 6 a 8 minutos o hasta que se calienten por completo.\n3. Servir sobre panes calientes con chucrut calentado.",
+  "url": null
+}

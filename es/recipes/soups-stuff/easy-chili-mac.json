@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-chili-mac",
+  "name": "Chili Mac Fácil",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "sartén",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 lb de macarrones en forma de elipse",
+    "1 lb de pechuga de pollo molida sin piel",
+    "1/2 taza de cebolla picada",
+    "1/2 taza de pimiento rojo picado",
+    "30 ozs (850 g) de chili con frijoles"
+  ],
+  "recipeInstructions": "1. Cocinar los macarrones según las instrucciones del paquete.\n2. En una sartén, cocinar el pollo hasta que ya no esté rosado.\n3. Añadir la cebolla y el pimiento rojo; remover hasta que todos los ingredientes estén cocidos.\n4. Incorporar el chili con frijoles y mezclar bien.\n5. Calentar hasta que todo esté uniformemente caliente.",
+  "url": null
+}

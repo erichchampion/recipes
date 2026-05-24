@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-parisienne",
+  "name": "Pollo Parisiense",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "favoritos",
+    "plato principal",
+    "carne",
+    "nesco",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo medianas (4-6)",
+    "sal y pimienta al gusto",
+    "pimentón",
+    "1 cucharadita de romero seco",
+    "1 taza de agua",
+    "2 latas de sopa de setas cremosas",
+    "1 lata de setas laminadas, escurridas",
+    "2 tazas de crema agria baja en grasa",
+    "1/2 taza de harina"
+  ],
+  "recipeInstructions": "1. Espolvorear ligeramente los pechugas de pollo con sal, pimienta, pimentón y romero.\n2. Colocar el pollo en una olla lenta de 4 cuartos.\n3. Mezclar el agua, la sopa de setas cremosas, la crema agria y las setas laminadas; agregar la harina y remover hasta que se combine bien.\n4. Verter la mezcla líquida sobre el pollo.\n5. Cocinar a fuego bajo (225°F) durante 6-8 horas. Alternativamente, cocinar a fuego alto durante 2-1/2 a 3 horas, añadiendo la crema agria y la harina durante los últimos 30 minutos de tiempo de cocción.\n6. Servir caliente sobre arroz o fideos.",
+  "url": null
+}

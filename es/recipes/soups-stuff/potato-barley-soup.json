@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-barley-soup",
+  "name": "Sopa de Patatas y Trigo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "granos",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 cebolla grande, picada",
+    "2 tallos de apio, picados",
+    "4 dientes de ajo, picados finamente",
+    "3 litros de caldo de pollo o ternera",
+    "1/2 taza de arroz, enjuagado",
+    "2 zanahorias, picadas",
+    "2 grandes patatas Idaho, peladas y cortadas en dados",
+    "1/4 cucharadita de pimienta negra",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "1. Sofreír la cebolla, el apio y el ajo en un poco del caldo hasta que las verduras se vuelvan transparentes.\n2. Añadir el resto del caldo o caldo de ternera, el arroz y las zanahorias a la olla.\n3. Hervir a fuego lento, removiendo ocasionalmente, durante aproximadamente 2 horas.\n4. Pasada una hora de cocción, agregar los dados de patata.\n5. Si la sopa espesa demasiado, añadir más caldo o agua.\n6. Sazonar con sal y pimienta al gusto.",
+  "url": null
+}

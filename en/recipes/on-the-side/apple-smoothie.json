@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-smoothie",
+  "name": "Apple Smoothie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "fruits",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 cups Apple sauce",
+    "1 cup Apple cider",
+    "1 cup Orange juice",
+    "2 tbsp Vermont maple syrup",
+    "1/2 tsp Nutmeg",
+    "1/2 tsp Cinnamon"
+  ],
+  "recipeInstructions": "1. Add all ingredients to a blender.\n2. Blend until smooth.\n3. Pour into glasses and serve.",
+  "url": null
+}

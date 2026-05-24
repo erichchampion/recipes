@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "skillet-spaghetti",
+  "name": "Spaguetis en sartén",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "sartén"
+  ],
+  "recipeIngredient": [
+    "1/4 lb de espagueti fino",
+    "1/2 cucharadita de aceite de oliva",
+    "1/2 taza de cebolla picada",
+    "1/2 taza de pimiento rojo picado",
+    "1 diente de ajo picado",
+    "1/2 lb de pechuga de pollo molida sin piel, cocida",
+    "400 g de tomates triturados",
+    "1 cucharada de albahaca",
+    "1 cucharadita de orégano",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra",
+    "1/8 cucharadita de pimentón rojo",
+    "2 cucharadas de queso parmesano ligero"
+  ],
+  "recipeInstructions": "1. Cocinar el espagueti según las instrucciones del paquete; escurrir.\n2. En una sartén, calentar el aceite a fuego medio.\n3. Agregar la cebolla, el pimiento rojo, el ajo y el pollo. Cocinar hasta que el pollo ya no esté rosado y las verduras estén tiernas.\n4. Incorporar los tomates triturados, la albahaca, el orégano, la sal, la pimienta negra y el pimentón rojo. Cocinar durante 2 minutos.\n5. Añadir el espagueti y mezclar bien para que se cubra con la salsa. Espolvorear con queso parmesano.",
+  "url": null
+}

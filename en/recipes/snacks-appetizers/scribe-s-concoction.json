@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "scribe-s-concoction",
+  "name": "Scribe's Concoction",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "meat",
+    "snacks",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "Mashed potatoes",
+    "Chives",
+    "Tortilla chips",
+    "Tomato sauce (such as Prego)",
+    "Chopped tomatoes",
+    "Onions",
+    "Garlic",
+    "Other spices and vegetables",
+    "Ground chicken, beef, or other meat"
+  ],
+  "recipeInstructions": "1. Prepare the mashed potatoes.\n2. Boil the tomato sauce, chopped tomatoes, and meat until cooked through.\n3. Add all remaining ingredients at the last minute.\n4. Stir in the chives to the mashed potatoes.\n5. Place the tomato sauce on top of the tortilla chips.\n6. Create a wall of mashed potatoes around it and cover with additional chips.\nNote: This recipe is intentionally vague and experimental. Proceed at your own risk.",
+  "url": null
+}

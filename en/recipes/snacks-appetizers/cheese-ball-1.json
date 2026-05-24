@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-ball-1",
+  "name": "Cheese Ball #1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "cheese",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "8 ounces cream cheese, softened",
+    "1/4 cup mayonnaise",
+    "4 ounces canned deviled ham",
+    "1 tablespoon chopped parsley",
+    "1 teaspoon minced onion",
+    "1/4 teaspoon dry mustard",
+    "1/4 teaspoon Tabasco sauce",
+    "1/2 cup chopped nuts"
+  ],
+  "recipeInstructions": "1. Beat the cream cheese and mayonnaise until smooth.\n2. Stir in the next five ingredients: deviled ham, chopped parsley, minced onion, dry mustard, and Tabasco sauce.\n3. Cover and chill for several hours.\n4. Form into balls and roll in nuts to coat.",
+  "url": null
+}

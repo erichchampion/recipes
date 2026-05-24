@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "cafe-royale",
+  "name": "Café Real",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "café",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de café fuerte caliente",
+    "4 cucharaditas de brandy",
+    "1 cubo de azúcar"
+  ],
+  "recipeInstructions": "1. Verter el café en un vaso calentado.\n2. Flotar 2 cucharaditas de brandy sobre el café.\n3. En una cucharada, mezclar las 2 cucharaditas restantes de brandy con un cubo de azúcar y calentar la mezcla sobre el café caliente.\n4. Encender cuidadosamente el brandy con un encendedor.\n5. Bajar lentamente la cuchara calentada hacia el café para encender el brandy flotante.\n6. Esperar 1 minuto después de que se apague la llama antes de tomar un sorbo.",
+  "url": null
+}

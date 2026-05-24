@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "drepsley-soup",
+  "name": "Sopa de Drepsley",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 litro de caldo de carne o pollo",
+    "Mucha perejil - picado",
+    "Sal al gusto",
+    "1/2 taza de harina",
+    "1 huevo",
+    "1/4 taza de leche"
+  ],
+  "recipeInstructions": "1. Bate el huevo, mezcla con la harina y luego añade la leche. La mezcla debe quedar líquida.\n2. Cuando el caldo esté hirviendo a gran velocidad, vierte la masa a través de un colador en la sopa, removiendo con una cuchara para acelerar el proceso.\n3. Coloca rápidamente la tapa de la olla, reduce el fuego a la mitad y cocina durante cuatro minutos con la olla tapada.\n4. Retira la tapa, apaga el fuego, añade el perejil y sirve la sopa inmediatamente.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-tostada-pizza",
+  "name": "Pizza de Pollo Tostada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "4 tostadas de 6 pulgadas",
+    "6 onzas de queso cheddar rallado",
+    "1 taza de pollo cocido y desmenuzado",
+    "1/2 taza de salsa",
+    "1/4 taza de pimiento verde picado",
+    "1/2 taza de aceitunas negras",
+    "1 cucharada de cilantro picado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 °F (175 °C).\n2. Calentar las tostadas durante 5-7 minutos hasta que estén doradas en una bandeja para hornear. Retirar del horno y colocar 2 cucharadas de queso sobre cada una.\n3. Mezclar el pollo con la salsa y extender sobre el queso. Añadir pimiento verde, aceitunas negras y cilantro.\n4. Cubrir cada tostada con el resto del queso y devolver al horno. Calentar hasta que el queso se derrita.\n5. Opcional: Servir las pizzas con lechuga picada, tomate y crema agria.",
+  "url": null
+}

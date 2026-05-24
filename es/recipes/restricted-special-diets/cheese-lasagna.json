@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-lasagna",
+  "name": "Lasaña de queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "queso/huevos",
+    "diabético",
+    "pasta",
+    "dietas especiales",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "6 onzas de tallos de lasaña de trigo integral",
+    "1 1/2 tazas de queso cottage bajo en grasa o 2 huevos",
+    "6 onzas de tallos de lasaña enriquecidos",
+    "1/2 taza de salsa de tomate",
+    "1 taza de mezcla de cebolla, pimiento y setas (mezcla de 3 vegetales)",
+    "3 onzas de queso mozzarella rallado",
+    "2 cucharadas de queso parmesano"
+  ],
+  "recipeInstructions": "1. Cocinar los tallos de lasaña en agua hirviendo hasta que estén tiernos. Escurrir y reservar.\n2. Mezclar la salsa de tomate con la cebolla, el pimiento y las setas picados en un bol aparte.\n3. En otro bol, mezclar el queso cottage, los huevos y el queso parmesano.\n4. Precalentar el horno a 175 °C (350 °F).\n5. En un recipiente para hornear de 20 cm x 20 cm, colocar una capa de la mitad de los tallos de lasaña, después la mezcla de queso cottage y una capa de queso mozzarella rallado.\n6. Cubrir con la mezcla de salsa de tomate y el resto de los tallos de lasaña.\n7. Espolvorear con queso parmesano.\n8. Hornear durante 25 minutos.",
+  "url": null
+}

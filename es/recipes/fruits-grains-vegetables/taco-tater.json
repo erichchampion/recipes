@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-tater",
+  "name": "Tacos de patatas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "carne de res",
+    "patatas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 gran patata, asada, dividida y desmenuzada",
+    "1 relleno de carne para taco (receta de la etiqueta Que Bueno Taco Sauce)",
+    "1 oz salsa de queso Monterey Jack y Cheddar, calentada",
+    "1/4 oz aceitunas maduras, en rodajas",
+    "1/4 oz tomate, picado",
+    "1 cucharadita de cebolla verde, en rodajas"
+  ],
+  "recipeInstructions": "1. Coloca el relleno de carne en la patata dividida y desmenuzada.\n2. Vierte la salsa de queso sobre la patata.\n3. Adorna con aceitunas, tomate y cebolla verde.\n4. Sirve. Rinde 1 patata.\nFuente: Carnation Company",
+  "url": null
+}

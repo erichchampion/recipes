@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-ratatouille-stew",
+  "name": "Estofado de Pollo Ratatouille",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "cacerola lenta",
+    "sopas",
+    "guisos",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo (sin piel ni hueso)",
+    "1 tarro de salsa para espaguetis (30 onzas)",
+    "1 berenjena mediana (pelada y cortada en trozos gruesos)",
+    "2 tomates (cortados en trozos gruesos)",
+    "2 calabacines pequeños (en rodajas)",
+    "1 pimiento verde (en trozos de 1 pulgada)",
+    "1 cebolla grande (picada)",
+    "3 dientes de ajo (picados)",
+    "1 cucharadita de hojas de albahaca seca",
+    "1 cucharadita de hojas de orégano seco"
+  ],
+  "recipeInstructions": "1. En un bol grande, combina todos los ingredientes y mezcla bien.\n2. Transfiere la mezcla a una olla de cocción lenta de 3,5 a 4 litros.\n3. Tapa; cocina a fuego lento durante 8-10 horas o hasta que el pollo esté tierno y ya no sea rosado.",
+  "url": null
+}

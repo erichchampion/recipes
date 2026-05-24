@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "date-apple-bread",
+  "name": "Pan de Fecha y Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "mezclas",
+    "rápido"
+  ],
+  "recipeIngredient": [
+    "3 tazas de harina de uso general",
+    "1 huevo",
+    "1/4 taza de leche",
+    "1/4 taza de zumo de naranja",
+    "1 cucharadita de ralladura de naranja",
+    "3/4 taza de puré de manzana",
+    "1/2 taza de azúcar",
+    "1/2 taza de nueces picadas",
+    "1 taza de fechas picadas"
+  ],
+  "recipeInstructions": "1. No compactar los ingredientes secos. En un bol grande, mezclar todos los ingredientes excepto el puré de manzana.\n2. Añadir el puré de manzana y batir hasta obtener una mezcla homogénea.\n3. Engrasar el fondo de un molde para pan de 9x5x3 pulgadas con mantequilla.\n4. Verter la masa en el molde preparado.\n5. Hornear en horno precalentado a 175°C (350°F) durante unos 50 minutos.\n6. Dejar reposar el pan durante aproximadamente 10 minutos antes de darle la vuelta y dejarlo enfriar sobre una rejilla.\nAlmacenar durante 12 horas mejorará el sabor y la textura.",
+  "url": null
+}

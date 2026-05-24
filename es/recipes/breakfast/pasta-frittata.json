@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-frittata",
+  "name": "Pasta Frita",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "4 huevos grandes",
+    "3 tazas de espagueti cocido (hasta 4 tazas)",
+    "2 tazas de verduras cocidas",
+    "3/4 taza de queso rallado",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Bate los huevos e incorpora el espagueti cocido, las verduras, el queso y la sal.\n2. Rocía una sartén antiadherente grande con spray antiadherente.\n3. Extiende la mezcla de pasta uniformemente en la sartén a fuego medio.\n4. Presiona suavemente con una espátula para asegurar una distribución uniforme.\n5. Tapa y cocina durante 4 a 5 minutos hasta que el huevo esté cuajado y el queso derretido. El fondo se dorará ligeramente.\n6. Corta en triángulos. Sirve tal cual o añade un poco de salsa de espagueti, salsa picante o ketchup. Si tienes arroz sobrante o patatas cocidas cortadas en rodajas, puedes usarlas en lugar del pasta.",
+  "url": null
+}

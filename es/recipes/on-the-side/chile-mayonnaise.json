@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chile-mayonnaise",
+  "name": "Mayonesa de Chile",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "mexicana",
+    "salsa",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 cucharadita de chiles jalapeños picados",
+    "2 cucharadas de vinagre blanco",
+    "1 huevo",
+    "2 cucharaditas de cebolla finamente picada",
+    "1 cucharadita de azúcar",
+    "3/4 cucharadita de sal kosher",
+    "1 taza de aceite de maíz"
+  ],
+  "recipeInstructions": "1. Mezclar los chiles, el vinagre, el huevo, la cebolla picada, el azúcar y la sal en un procesador de alimentos.\n2. Procesar hasta obtener una textura suave, luego agregar lentamente el aceite de maíz mientras el procesador está en marcha. Continuar procesando hasta que la mezcla espese.\n3. Tapar y refrigerar durante 2-4 días antes de servir ligeramente fría.",
+  "url": null
+}

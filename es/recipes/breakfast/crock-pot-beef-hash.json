@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "crock-pot-beef-hash",
+  "name": "Hash de ternera en olla de cocción lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 tazas de ternera cocida, cortada en trozos (o 3 tazas)",
+    "2 paquetes de puré de patatas congelado, de 10 onzas cada uno, descongelados",
+    "1 cebolla, finamente picada",
+    "1/4 taza de mantequilla o margarina derretida",
+    "1 taza de salsa de carne o caldo de ternera",
+    "sal y pimienta"
+  ],
+  "recipeInstructions": "Servir para 4 personas\nColocar todos los ingredientes en la olla de cocción lenta. Cubrir y cocinar a fuego lento durante 6-8 horas o a fuego alto durante 2-3 horas.",
+  "url": null
+}

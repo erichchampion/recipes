@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "cumin-chicken",
+  "name": "Pollo al comino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "4 trozos de pollo grandes",
+    "Marinada:",
+    "1 cartón de 8 onzas de yogur natural",
+    "1 cucharadita de cúrcuma en polvo",
+    "1/2 cucharadita de comino en polvo",
+    "1/2 cucharadita de cilantro molido",
+    "1/2 cucharadita de chiles verdes frescos picados",
+    "3 dientes de ajo machacados",
+    "1 cebolla mediana picada",
+    "1 trozo de jengibre de 1 pulgada, picado finamente",
+    "1 cucharadita de sal",
+    "Rindas y jugo de 1 limón grande, rallado y exprimido"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes de la marinada.\n2. Colocar los trozos de pollo en un plato apto para horno.\n3. Verter la mezcla de yogur sobre el pollo y marinar de 1 a 2 horas, removiendo ocasionalmente.\n4. Cubrir con papel aluminio y hornear a 375°F durante 45 a 60 minutos, o hasta que el pollo esté tierno.\n5. Servir con arroz.",
+  "url": null
+}

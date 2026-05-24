@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "egg-salad",
+  "name": "Ensalada de huevo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "diabetico",
+    "huevos",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 huevos cocidos duros, pelados",
+    "1/2 cucharadita sal",
+    "Pimienta negra recién molida al gusto",
+    "3 cucharadas cebolla verde finamente picada",
+    "3 cucharadas apio finamente picado con las hojas"
+  ],
+  "recipeInstructions": "1. Cortar los huevos en cubos pequeños.\n2. Mezclar bien con todos los demás ingredientes.\n3. Tapar y refrigerar durante al menos 1 hora o hasta que se mezclen bien los sabores.\n4. Montar sobre lechuga crujiente y espolvorear con un toque de pimentón.\n5. Servir como ensalada, o usar como untable para galletas. También se puede utilizar en un sándwich para un día caluroso.",
+  "url": null
+}

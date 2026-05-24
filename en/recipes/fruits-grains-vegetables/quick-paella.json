@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-paella",
+  "name": "Quick Paella",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "chicken",
+    "ethnic",
+    "rice",
+    "spanish"
+  ],
+  "recipeIngredient": [
+    "1/4 cup Margarine or butter",
+    "1 1/3 cups Instant rice (uncooked)",
+    "1/2 cup Minced onion (or 2 tablespoons instant chopped onion)",
+    "1/3 cup Minced green pepper",
+    "2 cloves Minced garlic (or 1/4 teaspoon garlic powder)",
+    "8 oz Canned tomato sauce",
+    "7 oz Canned minced clams (drained)",
+    "5 oz Canned cooked chicken"
+  ],
+  "recipeInstructions": "1. Heat margarine in a large skillet and lightly brown rice, onion, green pepper, and garlic.\n2. Add the remaining ingredients along with 1-1/2 cups water, and mix well.\n3. Bring to a boil.\n4. Lower heat and simmer for 5 minutes.",
+  "url": null
+}

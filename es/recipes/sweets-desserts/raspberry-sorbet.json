@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "raspberry-sorbet",
+  "name": "Sorbete de Frambuesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "sorbete"
+  ],
+  "recipeIngredient": [
+    "450 gramos de frambuesas frescas (o frambuesas congeladas descongeladas)",
+    "100 gramos de azúcar glas",
+    "150 mililitros de agua",
+    "El jugo de un limón",
+    "1 clara de huevo (opcional)"
+  ],
+  "recipeInstructions": "1. Triturar las frambuesas y colar si se desea.\n2. Mezclar el azúcar y el agua en una cacerola, removiendo a fuego suave hasta que el azúcar se disuelva.\n3. Aumentar el fuego para hervir durante unos 5 minutos hasta formar un jarabe.\n4. Dejar enfriar el jarabe, luego mezclarlo con la puré de fruta y el jugo de limón.\n5. Congelar la mezcla en una máquina de helados durante 20 minutos o colocarla en un bol en el congelador hasta que comience a congelarse alrededor de los bordes.\n6. Batir la clara de huevo (si se usa) y mezclarla con la mezcla parcialmente congelada.\n7. Devolver el sorbete al congelador hasta que esté completamente congelado.",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "johnny-appleseed-bread",
+  "name": "Pan de Semilla de Manzana de Johnny",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "frutas",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de jugo de manzana (para máquinas Welbilt DAK, agregar 3 cucharadas adicionales)",
+    "1/2 taza de puré de manzana sin azúcar",
+    "3 tazas de harina de pan",
+    "1 1/2 cucharaditas de sal",
+    "1 1/2 cucharadas de mantequilla o margarina",
+    "3 cucharadas de azúcar moreno",
+    "1/2 taza de manzana Granny Smith sin corazón, pelada y picada",
+    "1/4 taza de pasas (opcional)",
+    "1/2 cucharadita de canela molida",
+    "1/4 cucharadita de nuez moscada molida",
+    "1 1/2 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "1. Colocar todos los ingredientes en el pan para hornear.\n2. Seleccionar la configuración de costra ligera y presionar el botón de inicio.\n3. Dejar enfriar durante 1 hora antes de cortar.",
+  "url": null
+}

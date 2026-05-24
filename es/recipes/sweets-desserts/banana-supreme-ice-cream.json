@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-supreme-ice-cream",
+  "name": "Helado de Plátano Supremo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "1 taza de pulpa de plátano",
+    "2 huevos",
+    "1 1/2 tazas de leche",
+    "1/8 cucharadita de sal",
+    "1/8 cucharadita de nuez moscada",
+    "2 tazas de crema espesa",
+    "1 cucharada de jugo de limón",
+    "1 1/2 tazas de azúcar glas",
+    "1 cucharadita de gelatina en polvo",
+    "2 cucharadas de agua fría"
+  ],
+  "recipeInstructions": "1. Batir los huevos y el azúcar hasta que la mezcla esté ligera.\n2. Agregar la sal, nuez moscada, leche y gelatina disuelta a la mezcla de huevo.\n3. Machacar los plátanos con un tenedor hasta obtener una pulpa fina. Incorporar el jugo de limón.\n4. Mezclar la pulpa de plátano y jugo de limón con la mezcla de huevo.\n5. Batir por separado la crema y mezclarla suavemente en la mezcla.\n6. Verter la mezcla en un recipiente y congelar hasta que esté firme.\nRinde 2 cuartos.",
+  "url": null
+}

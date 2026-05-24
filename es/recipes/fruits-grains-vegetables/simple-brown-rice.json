@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-brown-rice",
+  "name": "Arroz marrón simple",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz marrón",
+    "2,5 tazas de líquido (agua, caldo o jugo)",
+    "1 cucharada de mantequilla",
+    "1 pizca de sal (opcional)"
+  ],
+  "recipeInstructions": "1. Coloca el arroz, el líquido, la mantequilla y la sal (si se usa) en una olla de 2 a 3 cuartos.\n2. Lleva a ebullición; remueve una o dos veces.\n3. Disminuye el fuego, tapa y deja cocinar a fuego lento durante 45-50 minutos, o hasta que el arroz esté tierno y se haya absorbido el líquido.\n4. Desmenuzar con un tenedor.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "guacamole-mock",
+  "name": "Guacamole (\"Mock\")",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "dips",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "2 cups chopped broccoli, cooked and chilled",
+    "1/4 cup light sour cream",
+    "1 tablespoon minced onion",
+    "1 tablespoon nonfat mayonnaise",
+    "2 tablespoons lemon juice",
+    "1/4 teaspoon chili powder",
+    "1 teaspoon garlic powder"
+  ],
+  "recipeInstructions": "1. In a food processor or blender, combine the broccoli, sour cream, mayo, onion, lemon juice, and chili powder.\n2. Mix until well combined and refrigerate for several hours or overnight.\n6 servings.",
+  "url": null
+}

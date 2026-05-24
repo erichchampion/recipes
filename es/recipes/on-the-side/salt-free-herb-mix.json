@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "salt-free-herb-mix",
+  "name": "Mezcla de hierbas sin sal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "especias",
+    "acompañamientos",
+    "condimentos"
+  ],
+  "recipeIngredient": [
+    "3 cucharaditas de polvo de cebolla",
+    "3 cucharaditas de polvo de ajo",
+    "3 cucharaditas de copos de perejil seco",
+    "1 cucharadita de hojas secas de albahaca",
+    "1 cucharadita de hojas secas de tomillo",
+    "1 cucharadita de hojas secas de orégano",
+    "1 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Revitar hasta que quede bien combinado.\n3. Transferir la mezcla a un recipiente con tapa hermética.\n4. Agitar el recipiente antes de cada uso para asegurar una distribución uniforme de las hierbas.",
+  "url": null
+}

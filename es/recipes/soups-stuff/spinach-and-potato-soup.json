@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "spinach-and-potato-soup",
+  "name": "Sopa de espinacas y patatas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas de verduras",
+    "carnes",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "2 lonchas de tocino",
+    "1 cebolla mediana, picada",
+    "2 tazas de caldo de pollo",
+    "2 tazas de papas cortadas en dados",
+    "1/4 taza de zanahoria finamente picada",
+    "1/4 taza de apio finamente picado",
+    "1/4 taza de vino blanco seco",
+    "1 1/2 cucharaditas de tomillo fresco, picado",
+    "1 1/2 cucharaditas de salvia fresca, picada",
+    "1/2 cucharadita de pimienta negra",
+    "2 tazas de espinacas frescas picadas",
+    "2 tazas de leche",
+    "1/2 taza de perejil picado",
+    "1/4 lb (aprox. 2 enlaces) de salchicha chorizo"
+  ],
+  "recipeInstructions": "1. Cocinar el tocino hasta que quede crujiente; reservar.\n2. En una olla grande, saltear la cebolla a fuego medio hasta que se ablande.\n3. Añadir el caldo de pollo, las papas, la zanahoria, el apio, el vino blanco, el tomillo, la salvia y la pimienta. Llevar a ebullición.\n4. Reducir el fuego y cocinar a fuego lento durante 20-25 minutos o hasta que las papas estén tiernas.\n5. Incorporar las espinacas y cocinar hasta que se marchiten.\n6. Retirar del fuego; añadir la leche. Ajustar la sazón si es necesario.\n7. Servir caliente, adornado con perejil. Si se usa chorizo, cocinar primero los enlaces de salchicha y cortarlos en rodajas antes de añadirlos a la sopa.",
+  "url": null
+}

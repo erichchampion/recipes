@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "tuscan-potato-salad",
+  "name": "Ensalada de Patatas al Estilo Toscano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "patatas",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "3 libras de patatas, cortadas en cubos",
+    "2/3 taza de queso parmesano",
+    "1 taza de queso ricota",
+    "4 dientes de ajo machacados",
+    "1/2 cebolla roja, laminada finamente",
+    "1/2 taza de aceite de oliva",
+    "6 cucharadas de vinagre de manzana",
+    "Sal y pimienta al gusto",
+    "1/2 taza de perejil fresco"
+  ],
+  "recipeInstructions": "1. Cocinar las patatas en agua hirviendo con sal hasta que estén tiernas pero no demasiado.\n2. Escurrir las patatas.\n3. Mientras las patatas aún estén calientes, mezclar los ingredientes restantes: queso parmesano, queso ricota, ajo machacado, cebolla roja laminada, aceite de oliva, vinagre de manzana, sal al gusto y perejil fresco.\n4. Enfriar antes de servir.",
+  "url": null
+}

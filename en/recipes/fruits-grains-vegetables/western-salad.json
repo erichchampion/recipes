@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "western-salad",
+  "name": "Western Salad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "salads"
+  ],
+  "recipeIngredient": [
+    "Egg, cooked",
+    "Lettuce, Boston, head",
+    "Spinach",
+    "Onion, sliced",
+    "Parsley, chopped",
+    "Vinegar",
+    "Salad oil",
+    "Garlic powder",
+    "Paprika",
+    "Dry mustard",
+    "Salt",
+    "Pepper"
+  ],
+  "recipeInstructions": "1. Remove egg yolk and mash with garlic.\n2. Blend in salt, paprika, pepper, and mustard.\n3. Add salad oil and vinegar; beat well.\n4. Chop egg white and parsley and stir in.\n5. Combine lettuce, spinach, and onion in a salad bowl.\n6. Add dressing and toss lightly.",
+  "url": null
+}

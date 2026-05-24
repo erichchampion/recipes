@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "potatoes-o-brien-2",
+  "name": "Patatas O'Brien",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "patatas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de cebolla picada",
+    "1/2 taza de pimiento verde picado",
+    "1/2 taza de pimiento rojo dulce picado",
+    "4 papas rojas medianas, cortadas en cubos",
+    "3 cucharadas de aceite de cocina",
+    "1/4 taza de caldo de carne",
+    "1/2 cucharadita de salsa Worcestershire",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. En una sartén a fuego medio, saltee la cebolla, los pimientos y las papas con aceite durante 4 minutos.\n2. Mezcle el caldo, la salsa Worcestershire y la sal; vierta sobre los vegetales.\n3. Cubra y cocine durante 10 minutos o hasta que las papas estén tiernas, removiendo ocasionalmente.\n4. Retire la tapa y cocine hasta que se absorba el líquido, aproximadamente 3 minutos.",
+  "url": null
+}

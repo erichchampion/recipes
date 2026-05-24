@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "basil-tomato-salad",
+  "name": "Ensalada de Tomate y Albahaca",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "aperitivos",
+    "arroz",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite de oliva",
+    "2 cucharadas de vinagre de sidra",
+    "1 cucharadita de albahaca seca",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "3 tazas de arroz cocido y enfriado",
+    "2 tomates medianos, picados",
+    "1 pepino mediano, sin semillas y picado",
+    "1 cebolla roja pequeña, picada"
+  ],
+  "recipeInstructions": "1. En un bol pequeño, bate juntos el aceite de oliva, el vinagre de sidra, la albahaca seca, la sal y la pimienta.\n2. Añade el arroz cocido y enfriado, los tomates, el pepino y la cebolla al bol; mezcla bien hasta que todos los ingredientes estén cubiertos con el aderezo.\n3. Sirve a temperatura fría.",
+  "url": null
+}

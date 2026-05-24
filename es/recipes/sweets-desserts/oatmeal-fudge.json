@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "oatmeal-fudge",
+  "name": "Fudge de avena",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "caramelo",
+    "chocolate",
+    "postres",
+    "fudge"
+  ],
+  "recipeIngredient": [
+    "1 barra de mantequilla",
+    "2 tazas de azúcar",
+    "1/2 taza de leche",
+    "1/2 taza de cacao en polvo",
+    "2 tazas de avena",
+    "1/2 taza de coco rallado",
+    "1/2 taza de nueces picadas",
+    "1 cucharadita de extracto de vainilla",
+    "Una pizca de sal"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una sartén a fuego medio.\n2. Añade el azúcar y la leche, removiendo hasta que se integren bien.\n3. Lleva la mezcla a ebullición y continúa cocinando durante exactamente 3 minutos.\n4. Retira del fuego y mezcla el cacao, la avena, el coco, las nueces, la vainilla y la sal hasta que todos los ingredientes estén distribuidos uniformemente.\n5. Vierte la mezcla sobre papel de horno y deja enfriar completamente antes de servir.",
+  "url": null
+}

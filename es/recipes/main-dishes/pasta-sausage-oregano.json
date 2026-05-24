@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-sausage-oregano",
+  "name": "Pasta y salchicha con orégano",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "carnes",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 libra de Rigatoni",
+    "2 tazas de crema espesa",
+    "2 cucharadas de orégano seco",
+    "1/4 taza de vino blanco",
+    "1 libra de salchicha picante o dulce, en trozos",
+    "1 diente de ajo, picado finamente",
+    "2 cucharadas de aceite de oliva",
+    "1/4 taza de queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta al dente en una olla con agua hirviendo salada.\n2. En una sartén grande, calentar el aceite y sofreír el ajo durante unos 5 minutos hasta que esté fragante. Añadir los trozos de salchicha y desmenuzarlos con un tenedor mientras se cocinan.\n3. Incorporar el vino blanco y el orégano, y cocinar por 5 minutos más.\n4. Verter la crema espesa y el queso parmesano en la sartén, removiendo constantemente hasta que la salsa hierva.\n5. Sazonar con sal y pimienta al gusto.\n6. Mezclar la salsa con la pasta cocida y servir inmediatamente.",
+  "url": null
+}

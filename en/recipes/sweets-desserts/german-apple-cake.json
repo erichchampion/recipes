@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "german-apple-cake",
+  "name": "German Apple Cake",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cake",
+    "cakes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 package German chocolate cake mix",
+    "2 cups Prepared apple pie filling (1 can)",
+    "3 Eggs"
+  ],
+  "recipeInstructions": "1. Blend all ingredients together as per package directions.\n2. Pour the batter into a greased and floured 13 x 9 pan.\n3. Bake at 350 degrees Fahrenheit for 40 to 50 minutes, or until the top springs back when touched gently.\n4. Cool completely.\n5. Top with whipped cream and sprinkle with cinnamon.",
+  "url": null
+}

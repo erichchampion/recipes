@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-chili-sirloin",
+  "name": "Cazuela de Chili de Sirloín",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chili",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1,5 kg de solomillo (cortado en cubos)",
+    "1 pimiento verde grande, picado",
+    "1 pimiento rojo, picado",
+    "1 pimiento jalapeño (retirar las semillas si no te gusta picante)",
+    "1 lata de 400 g de salsa de tomate o 1 lata de tomates enteros triturados",
+    "1 cucharada de comino",
+    "1 cucharadita de chile en polvo",
+    "1/2 lata de cerveza (opcional)",
+    "4 lonchas de tocino crujiente"
+  ],
+  "recipeInstructions": "Esta receta es ideal para una olla de cocción lenta durante aproximadamente 8 horas. Si no tienes olla de cocción lenta, cocina a fuego lento durante al menos 2 horas.\n1. Dorar ligeramente los cubos de ternera en la grasa del tocino, escurrir.\n2. Añadir el resto de ingredientes y dejar cocinar como se indica anteriormente.\n3. Servir con queso cheddar rallado y cebolla cruda por encima.",
+  "url": null
+}

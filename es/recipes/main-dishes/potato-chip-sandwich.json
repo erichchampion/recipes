@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-chip-sandwich",
+  "name": "Sándwich de patatas fritas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 rebanadas de pan",
+    "Mayonesa",
+    "Patatas fritas"
+  ],
+  "recipeInstructions": "1. Untar mayonesa generosamente en una rebanada de pan.\n2. Apilar patatas fritas sobre la otra rebanada hasta alcanzar la altura deseada.\n3. Colocar la primera rebanada encima, presionando para aplastar las patatas fritas.\n4. Servir con Pepsi para un complemento refrescante.",
+  "url": null
+}

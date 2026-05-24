@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-and-meat-sauce",
+  "name": "Spaghetti and Meat Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta",
+    "sauces"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground Beef",
+    "1/2 cup Chicken Broth",
+    "1/2 lb Bulk Spicy Italian Sausage",
+    "8 oz Chopped Fresh Mushrooms",
+    "1 large Onion, chopped",
+    "1 t Italian Seasoning",
+    "1 clove Garlic, minced",
+    "1 t Seasoned Salt",
+    "28 oz Tomatoes",
+    "1 bay leaf",
+    "6 oz Tomato Paste",
+    "1 lb Uncooked Spaghetti"
+  ],
+  "recipeInstructions": "1. In a Dutch oven, cook the ground beef and sausage until browned.\n2. Add the chopped onions and garlic, and sauté until softened.\n3. Stir in the chicken broth, Italian seasoning, and seasoned salt.\n4. Add the chopped mushrooms, tomatoes, bay leaf, and tomato paste.\n5. Simmer for 30 minutes.\n6. Cook the spaghetti according to package instructions.\n7. Drain the pasta and serve topped with grated Parmesan cheese.",
+  "url": null
+}

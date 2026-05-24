@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-banana-crunch-pie",
+  "name": "Tarta de Manzana y Plátano Crujiente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "manzanas",
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "3 manzanas medianas; cortadas en trozos",
+    "2 plátanos medianos; cortados en trozos",
+    "2 cucharadas de zumo de limón",
+    "1 taza de harina de uso común",
+    "1/2 taza de azúcar",
+    "1/2 taza de azúcar moreno compacto",
+    "1/2 cucharadita de canela",
+    "1/2 cucharadita de nuez moscada",
+    "1/2 taza de mantequilla o margarina ablandada",
+    "1 masa de hojaldre de 23 cm sin hornear"
+  ],
+  "recipeInstructions": "1. Mezclar las frutas con el zumo de limón y dejar reposar durante 10 minutos.\n2. En un bol, combinar la harina, el azúcar, la canela y la nuez moscada. Añadir la mantequilla y cortar hasta obtener migas.\n3. Disponer la fruta en la masa de hojaldre.\n4. Espolvorear la mezcla de migas sobre la fruta.\n5. Hornear a 200°C durante 35-40 minutos. Si la mezcla de migas se dora demasiado rápido, cubrir la parte superior con papel de aluminio suelto.\n6. Cortar en triángulos para servir.",
+  "url": null
+}

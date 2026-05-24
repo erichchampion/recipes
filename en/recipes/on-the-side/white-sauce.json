@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-sauce",
+  "name": "White Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 tbsp Flour",
+    "2 tbsp Butter",
+    "1 cup Milk",
+    "1/2 tsp Salt",
+    "1/4 tsp Pepper"
+  ],
+  "recipeInstructions": "1. In a bowl, whisk together the flour, salt, and pepper with milk until smooth.\n2. Place the mixture in the top of a double boiler over low heat.\n3. Add butter to the mixture while stirring constantly.\n4. Heat slowly, continuing to stir, until the sauce is heated through for about 2 minutes.",
+  "url": null
+}

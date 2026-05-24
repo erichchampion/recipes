@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "triple-chocolate-cake",
+  "name": "Pastel de Tres Chocolates",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 sobre de bizcocho de chocolate negro (devil's food cake mix)",
+    "1 sobre de pudín de chocolate instantáneo pequeño",
+    "1 sobre de chips de chocolate (12 onzas)",
+    "1 1/4 tazas de agua",
+    "1/4 taza de aceite vegetal",
+    "2 huevos"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F (175°C).\n2. Mezclar todos los ingredientes en un molde rectangular sin engrasar de 30x40 cm y remover bien.\n3. Hornear durante 40-45 minutos.\n4. Enfriar y espolvorear con azúcar glas por encima.",
+  "url": null
+}

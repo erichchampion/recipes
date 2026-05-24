@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "eggless-corn-muffins",
+  "name": "Eggless Corn Muffins",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "muffins",
+    "penn dutch"
+  ],
+  "recipeIngredient": [
+    "1 cup cornmeal",
+    "1/4 cup sugar",
+    "2 tablespoons baking powder",
+    "2 tablespoons shortening",
+    "1/2 cup flour",
+    "1 tablespoon salt",
+    "1 cup milk"
+  ],
+  "recipeInstructions": "1. Sift the dry ingredients together (cornmeal, sugar, baking powder, flour, and salt).\n2. Add the milk and shortening to the sifted dry ingredients.\n3. Pour the mixture into greased muffin tins.\n4. Bake at 350°F for 30 minutes.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-magic",
+  "name": "Magia de la Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza",
+    "secado al sol"
+  ],
+  "recipeIngredient": [
+    "Panes de pita integrales",
+    "Aceite de oliva con ajo",
+    "Tomates secos al sol rehidratados - mitades",
+    "Corazones de artichoke enlatados - en rodajas",
+    "Albahaca picada",
+    "Queso mozzarella rallado"
+  ],
+  "recipeInstructions": "1. Calentar una bandeja para hornear en un horno muy caliente.\n2. Untar ligeramente ambos lados de los panes de pita con aceite.\n3. Cubrir cada pan de pita con mitades de tomate, artichokes y espolvorear con albahaca y queso mozzarella rallado.\n4. Hornear sobre la bandeja caliente durante unos 5 minutos hasta que el pan esté crujiente y el queso se haya derretido.",
+  "url": null
+}

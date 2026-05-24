@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-key-lime-pie",
+  "name": "Tarta de limón verde falsa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "pasteles",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 base de masa quebrada horneada (de 23 o 25 cm) o base de migas de graham",
+    "6 yemas de huevo",
+    "2 latas de leche evaporada azucarada (de 397 g cada una)",
+    "1 botella de jugo de limón (de 240 ml)",
+    "Colorante alimentario amarillo o verde (opcional)",
+    "Crema batida"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 160 °C.\n2. En un bol grande, batir las yemas de huevo con la leche evaporada azucarada, el jugo de limón y el colorante alimentario, si se desea.\n3. Verter la mezcla en la base de masa quebrada preparada.\n4. Hornear durante 40 minutos (o 30 minutos si se utiliza una base congelada o migas de graham).\n5. Enfriar y refrigerar completamente.\n6. Cubrir con crema batida y decorar al gusto.\n7. Guardar las sobras en el refrigerador.",
+  "url": null
+}

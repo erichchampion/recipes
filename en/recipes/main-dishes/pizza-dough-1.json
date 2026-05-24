@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-dough-1",
+  "name": "Pizza Dough#1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breads",
+    "dough",
+    "ethnic",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 package Active dry yeast",
+    "3/4 cup Warm water",
+    "1/2 tsp Sugar",
+    "1/2 tsp Salt",
+    "2 tbsp Olive or vegetable oil",
+    "2 cups All-purpose flour"
+  ],
+  "recipeInstructions": "1. Dissolve the yeast in the warm water.\n2. Stir in sugar, salt, olive or vegetable oil, and 1 and 3/4 cups of the all-purpose flour.\n3. Turn the mixture onto a well-floured board and knead until smooth and elastic. This should take about five minutes.\n4. Continue kneading with enough of the remaining flour to prevent sticking.",
+  "url": null
+}

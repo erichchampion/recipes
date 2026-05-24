@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "marbled-eggs",
+  "name": "Huevos marmolados",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "asiático",
+    "chino",
+    "huevos",
+    "étnico"
+  ],
+  "recipeIngredient": [
+    "6 huevos",
+    "2 cucharadas de hojas de té indio"
+  ],
+  "recipeInstructions": "1. Cocina los huevos duros durante 10 minutos, luego haz pequeños huecos en la cáscara por todo el huevo sin quitarla.\n2. Hierve las hojas de té en medio litro de agua durante 5 minutos.\n3. Sumergir los huevos con las cáscaras ligeramente agrietadas en el té durante 45 minutos o hasta que se enfríen. Al retirar la cáscara en las zonas agrietadas, aparecerá una línea oscura que les dará un aspecto similar al mármol.",
+  "url": null
+}

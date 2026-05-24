@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "yogurt-deviled-eggs-2",
+  "name": "Huevos rellenos de yogur",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "huevo",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "6 huevos cocidos",
+    "1/4 taza de yogur natural",
+    "1 cucharadita de cebolla instantánea picada",
+    "1 cucharadita de perejil en hojuelas o cebollino congelado",
+    "1 cucharadita de zumo de limón o vermut seco",
+    "3/4 cucharadita de mostaza preparada",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de salsa Worcestershire",
+    "1/8 cucharadita de pimienta negra",
+    "1/2 cucharadita de pimentón dulce"
+  ],
+  "recipeInstructions": "1. Cortar los huevos por la mitad a lo largo.\n2. Retirar las yemas y reservar las claras.\n3. Machacar las yemas con un tenedor.\n4. Mezclar todos los ingredientes restantes con las yemas.\n5. Rellenar las claras con aproximadamente 1 cucharada de la mezcla de yema para cada mitad de huevo.",
+  "url": null
+}

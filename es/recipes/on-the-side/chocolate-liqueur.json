@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-liqueur",
+  "name": "Licor de chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "2 cucharaditas de extracto puro de chocolate",
+    "1/2 cucharadita de extracto puro de vainilla",
+    "1 1/2 tazas de vodka",
+    "1/2 taza de jarabe de azúcar (ver receta)",
+    "1/2 cucharadita de menta fresca (opcional)",
+    "1/2 cucharadita de extracto de menta (opcional)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un frasco de un litro.\n2. Dejar madurar el licor durante 2 semanas, removiendo ocasionalmente ya que el chocolate puede asentarse en el fondo.\n3. La versión final será líquida pero deliciosa y excelente para mezclar con café o verter sobre postres.\n4. Si se desea, añadir glicerina para espesar la mezcla.\n5. Para una variante de menta con chocolate, añadir 1/2 cucharadita de menta fresca y unas gotas de extracto de menta. Dejar madurar durante 2 semanas adicionales antes de servir.",
+  "url": null
+}

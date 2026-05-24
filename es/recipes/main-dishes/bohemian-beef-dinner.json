@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "bohemian-beef-dinner",
+  "name": "Cena de ternera bohemia",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de harina de uso común",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "2 libras de carne de ternera para estofado, cortada en trozos de 1 pulgada",
+    "2 cucharadas de aceite de cocina",
+    "2 cebollas medianas, picadas",
+    "1 diente de ajo, picado finamente",
+    "1 cucharadita de eneldo seco",
+    "1 cucharadita de semillas de comino",
+    "1 cucharadita de pimentón dulce",
+    "1/2 taza de agua",
+    "1 taza de crema agria",
+    "700 gramos de chucrut fermentado",
+    "Pimentón dulce adicional (para espolvorear)"
+  ],
+  "recipeInstructions": "1. En un bol o una bolsa de plástico, mezclar la harina, la sal y la pimienta. Añadir la carne y remudar para cubrirla con la mezcla.\n2. En una olla holandesa, dorar la ternera en aceite por partes, medio litro a la vez; escurrir el exceso de grasa.\n3. Agregar las cebollas, el ajo, el eneldo, las semillas de comino y el pimentón dulce al aceite restante en la olla. Tapar y cocinar a fuego lento durante 2 horas o hasta que la carne esté tierna, removiendo ocasionalmente.\n4. Incorporar la crema agria y calentar a fuego medio sin llegar a ebullición.\n5. Calentar el chucrut escurrido y servirlo sobre un plato.\n6. Colocar la mezcla de ternera encima del chucrut.\n7. Espolvorear con pimentón dulce adicional al servir.",
+  "url": null
+}

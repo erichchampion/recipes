@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "waffles-with-mocha-mix",
+  "name": "Waffles con mezcla de mocha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "plato principal",
+    "gofres"
+  ],
+  "recipeIngredient": [
+    "1 taza de mezcla mocha",
+    "2 cucharadas de avena en hojuelas finas",
+    "2 cucharadas de mantequilla derretida",
+    "1 cucharadita de gluten de trigo",
+    "3/4 taza de harina",
+    "2 cucharaditas de polvo de hornear",
+    "2 cucharadas de yogur natural",
+    "1 huevo",
+    "1 cucharadita de azúcar",
+    "1/2 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Mezclar la mezcla mocha con las hojuelas de avena.\n2. Agregar la mantequilla derretida, el extracto de vainilla, el azúcar y el yogur a la mezcla.\n3. Incorporar el huevo y los ingredientes secos hasta que estén apenas combinados.\n4. Verter la masa en una gofrera precalentada y cocinar hasta que adquiera un color dorado.\n5. Rinde 3 gofres redondos al estilo belga.",
+  "url": null
+}

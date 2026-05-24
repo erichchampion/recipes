@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "bubble-up-pizza",
+  "name": "Pizza que sube",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "3 onzas de biscuits de buttermilk",
+    "1 1/2 tazas de salsa de espagueti",
+    "3 tazas de queso mozzarella rallado",
+    "1 diente de ajo, prensado",
+    "Toppings opcionales: cebolla, setas, aceitunas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375 °F.\n2. Cortar los biscuits en cuartos.\n3. Mezclar 1 taza de salsa de espagueti y 2 tazas de queso mozzarella rallado.\n4. Presionar un diente de ajo en la mezcla.\n5. Añadir los toppings opcionales deseados.\n6. Verter la salsa de espagueti restante y el queso mozzarella rallado.\n7. Hornear durante 30 minutos, o hasta que los bordes estén dorados.",
+  "url": null
+}

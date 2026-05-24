@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-pea-soup",
+  "name": "Spicy Pea Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "10 cups Water",
+    "1 1/2 cups Split green peas",
+    "2 Carrots, diced fine",
+    "2 Celery stalks, diced fine",
+    "1 Onion, chopped fine",
+    "1 tablespoon Onion powder",
+    "1 tablespoon Garlic powder",
+    "1 teaspoon Paprika",
+    "1/4 teaspoon Cayenne",
+    "2 tablespoons Soy sauce"
+  ],
+  "recipeInstructions": "1. Place the peas and water in a large pot.\n2. Bring to a boil over medium-high heat.\n3. Reduce heat to low and add the remaining ingredients, stirring occasionally.\n4. Cover and cook for 2 hours until smooth like a puree.\n5. Serve with a whisk to help blend the ingredients.\nHelpful hint: Stirring with a whisk helps blend the ingredients.",
+  "url": null
+}

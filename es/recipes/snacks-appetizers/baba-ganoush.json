@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "baba-ganoush",
+  "name": "Baba Ganoush",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempié",
+    "vegano",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 1/2 kg de berenjena",
+    "3 cucharadas de zumo de limón",
+    "1 cucharadita de sal",
+    "2 cucharaditas de ajo fresco picado",
+    "3 cucharadas de tahini de sésamo",
+    "(opcional: sustituir por yogur o crema agria)",
+    "1/4 taza de perejil picado",
+    "1/2 taza de piñones tostados",
+    "2 cucharadas de aceite de oliva"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 200 °C.\n2. Pinchar la berenjena en varios lugares con un tenedor.\n3. Hornear entera hasta que esté tierna, aproximadamente 30 minutos.\n4. Retirar del horno y cortar por la mitad, vaciando la pulpa.\n5. Mezclar en procesador de alimentos con zumo de limón hasta obtener una textura suave.\n6. Machacar juntos la sal y el ajo, y combinar con la berenjena.\n7. Añadir el tahini y mezclar brevemente.\n8. Dejar enfriar la mezcla y agregar perejil y piñones.\n9. Antes de servir, verter el aceite de oliva por encima.\n10. Servir como dip con totas o triángulos de pan plano (pita).",
+  "url": null
+}

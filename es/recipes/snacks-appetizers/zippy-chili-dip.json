@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "zippy-chili-dip",
+  "name": "Dip de chili rápido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempié",
+    "especias"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de carne molida",
+    "16 oz de frijoles pintos escurridos y machacados",
+    "12 oz de salsa",
+    "1 cucharada de polvo de chili",
+    "1/4 taza de pimiento verde picado"
+  ],
+  "recipeInstructions": "1. Cocinar y remover la carne molida en una sartén de 10 pulgadas hasta que esté marrón; escurrir.\n2. Incorporar los frijoles, la salsa y el polvo de chili.\n3. Llevar a ebullición, removiendo constantemente.\n4. Espolvorear con pimiento verde.\n5. Servir caliente y, si se desea, con totopos de tortilla, jicama en rodajas y palitos de apio.",
+  "url": null
+}

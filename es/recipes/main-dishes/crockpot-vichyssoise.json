@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-vichyssoise",
+  "name": "Cazuela de vichyssoise",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "5 papas medianas, cortadas en rodajas",
+    "4 cebollas, cortadas en rodajas (utilice las partes blanca y verde más claras)",
+    "1 cebolla grande picada",
+    "1,5 cucharaditas de sal",
+    "2 tazas de caldo de pollo",
+    "2 tazas de leche",
+    "1 taza de crema espesa",
+    "Cebollinos picados"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto los tres últimos en la olla de cocción lenta.\n2. Cocinar a alta temperatura durante 3 horas.\n3. Purificar la mezcla en una licuadora o molinillo alimentario y devolverla a la olla.\n4. Añadir la leche y la crema, remover bien y calentar hasta que hierva (aproximadamente 1 hora a alta temperatura).\n5. Enfriar.\n6. Servir con cebollinos.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "from-roast-duckling-duck-pilaf",
+  "name": "Arroz con pato asado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 Pavo asado",
+    "1 taza de arroz regular sin cocinar",
+    "3 cucharadas de aceite vegetal",
+    "1 taza de apio picado",
+    "4 tazas de caldo (del caldo de hígado de pavo)",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1/2 taza de pasas secas cortadas en trozos"
+  ],
+  "recipeInstructions": "1. Retirar la piel del pavo asado; desmenuzar la carne y reservar 3 tazas. Guardar para el paso 4.\n2. Saltear el arroz en aceite vegetal en una sartén grande, revolviendo con frecuencia, hasta que se dore ligeramente; añadir el apio y saltear durante 5 minutos más.\n3. Incorporar el caldo, la sal y la pimienta; llevar a ebullición.\n4. Verter en un plato para hornear, mezclar con el pavo y las pasas. Cubrir.\n5. Hornear a temperatura moderada hasta que el arroz esté tierno y se haya absorbido el líquido.",
+  "url": null
+}

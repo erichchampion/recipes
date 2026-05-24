@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-chiles",
+  "name": "Quesos Chiles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "aperitivos tex-mex queso/huevos",
+    "queso",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 taza de queso Cheddar; rallado",
+    "1 taza de queso Colby; rallado",
+    "1 cucharadita de chiles rojos; molidos",
+    "1 manojito de cilantro; picado",
+    "1 pimiento rojo"
+  ],
+  "recipeInstructions": "1. Cortar los tallos de cilantro en trozos de 1/2 pulgada.",
+  "url": null
+}

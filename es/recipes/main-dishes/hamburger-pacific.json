@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-pacific",
+  "name": "Hamburguesa del Pacífico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite de cocina",
+    "2 libras de carne molida",
+    "1 cebolla mediana, picada",
+    "1/4 cucharadita de polvo de ajo o 1 diente de ajo picado",
+    "2 cucharaditas de sal",
+    "2 cucharaditas de pimienta negra",
+    "10 onzas de setas en rodajas, escurridas",
+    "10 onzas de sopa de tomate cremoso",
+    "14 onzas de maíz dulce cremoso",
+    "2 tazas de verduras chop suey frescas",
+    "3 tazas de fideos cocidos"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en una sartén.\n2. Agregar la cebolla picada y saltear hasta que ya no quede rastro de rosado en la carne.\n3. Retirar del fuego y escurrir cualquier grasa excesiva.\n4. Incorporar las setas, la sopa de tomate y el maíz con la mezcla de carne.\n5. Vaciar los fideos cocidos en un plato para horno y extender sobre las verduras.\n6. Espolvorear con pimentón para darle color.\n7. Tapar y hornear a 350°F (175°C) durante 40 minutos hasta que esté caliente.\n8. Servir para 8 personas.",
+  "url": null
+}

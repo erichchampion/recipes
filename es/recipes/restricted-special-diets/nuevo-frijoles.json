@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "nuevo-frijoles",
+  "name": "Nuevos frijoles",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "americano",
+    "frijoles",
+    "étnico",
+    "mexicano",
+    "tex-mex",
+    "verduras",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 lb de frijoles pintos secos",
+    "-remojados durante 8-12 horas",
+    "1 cucharada de aceite de oliva",
+    "1 cucharadita de orégano mexicano seco",
+    "1 onza de aceitunas negras picadas",
+    "1 onza de aceitunas verdes españolas picadas",
+    "1 cucharadita de comino molido",
+    "1 cucharadita de marjoram",
+    "1 cucharada de pimientos rojos picados"
+  ],
+  "recipeInstructions": "1. Llevar los frijoles a ebullición en agua que los cubra apenas.\n2. Agregar el aceite de oliva cuando el agua comience a hervir. Cocinar durante 15 minutos.\n3. Incorporar el resto de ingredientes: aceitunas negras picadas, aceitunas verdes españolas picadas, comino molido, marjoram y pimientos rojos picados.\n4. Cocinar por un adicional de 30 minutos, revolviendo ocasionalmente y asegurándose de que la olla esté cubierta mientras se cocinan.\nOrigen: La cocina de Don Houston, circa 1989",
+  "url": null
+}

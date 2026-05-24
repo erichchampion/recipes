@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "crock-pot-soup",
+  "name": "Crock Pot Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "slow cooker",
+    "soups & stews"
+  ],
+  "recipeIngredient": [
+    "Chuck roast, 2-3 1/2 pounds, cut into small chunks",
+    "5 medium potatoes, diced",
+    "5 carrots, diced",
+    "1 large onion, diced",
+    "Stick of celery, chopped",
+    "1 can Rotel tomatoes",
+    "1 small can corn",
+    "1 small can green beans",
+    "Salt and pepper"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in the crock pot.\n2. Cook on high until the mixture starts to boil.\n3. Reduce heat to low and cook for several hours, or all day.\n4. Serve with hot corn bread.",
+  "url": null
+}

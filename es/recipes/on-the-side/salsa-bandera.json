@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "salsa-bandera",
+  "name": "Salsa Bandera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "condimentos",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 Cebolla grande picada finamente",
+    "1 Pepino picado finamente",
+    "3 Tomates picados finamente",
+    "3 Radices picadas finamente",
+    "1 manojo de cebolletas (todos los tallos y las puntas)",
+    "1/2 manojo de cilantro sin tallos",
+    "1/4 taza de vinagre",
+    "1/4 taza de aceite",
+    "Jugo de 1 limón",
+    "Una pizca de sal",
+    "Una pizca de pimienta"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Opcionalmente, agregar 3 o 4 pimientos jalapeños picados finamente sin semillas.",
+  "url": null
+}

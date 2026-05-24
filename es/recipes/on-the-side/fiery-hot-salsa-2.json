@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "fiery-hot-salsa-2",
+  "name": "Salsa Picante #2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3 tomates medianos",
+    "1 cebolla mediana",
+    "2 cucharadas de cilantro picado",
+    "Una pizca de orégano",
+    "1 pizca de sal",
+    "2 pimientos amarillos",
+    "3 chiles habanero",
+    "1/4 pimiento verde",
+    "El jugo de 1 lima"
+  ],
+  "recipeInstructions": "1. Cortar en cubos los tomates, la cebolla y los pimientos.\n2. Añadir el cilantro picado, el orégano y la sal a los vegetales cortados.\n3. Mezclar todos los ingredientes.\n4. Verter el jugo de lima y servir.",
+  "url": null
+}

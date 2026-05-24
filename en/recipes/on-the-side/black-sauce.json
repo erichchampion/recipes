@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "black-sauce",
+  "name": "Black Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bar-b-q",
+    "barbecue",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup Worcestershire sauce",
+    "1 cup White vinegar",
+    "2 tbsp Brown sugar",
+    "2 tbsp Fresh lemon juice",
+    "1 tsp Ground pepper",
+    "2 cloves Garlic, minced",
+    "1/2 tsp Ground Allspice"
+  ],
+  "recipeInstructions": "1. Combine the ingredients together in a saucepan.\n2. Heat over medium heat.\n3. Simmer the mixture for about 10 minutes.\n4. Serve the sauce hot or at room temperature.",
+  "url": null
+}

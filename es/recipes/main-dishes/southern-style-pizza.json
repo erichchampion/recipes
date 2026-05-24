@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "southern-style-pizza",
+  "name": "Pizza al estilo sureño",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "importar",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "4 tortillas de harina",
+    "1 taza de cerdo desmenuzado a la barbacoa",
+    "1 taza de queso mozzarella rallado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 200 °C (400 °F).\n2. Colocar las tortillas en una bandeja para hornear.\n3. Cubrir cada tortilla con cerdo a la barbacoa y espolvorear con queso mozzarella.\n4. Hornear durante 8-10 minutos, o hasta que esté burbujeante y la tortilla crujiente.\nRinde: 4 porciones",
+  "url": null
+}

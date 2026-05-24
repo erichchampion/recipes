@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "salt-substitute",
+  "name": "Sustituto de sal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "especias",
+    "guarniciones",
+    "condimentos"
+  ],
+  "recipeIngredient": [
+    "5 cucharaditas de polvo de cebolla",
+    "1 cucharada de polvo de ajo",
+    "1 cucharada de pimentón dulce",
+    "1 cucharada de mostaza en polvo seca",
+    "1 cucharadita de tomillo",
+    "1/2 cucharadita de pimienta blanca",
+    "1/2 cucharadita de semillas de apio"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Guardar la mezcla en un tarro para su uso posterior.",
+  "url": null
+}

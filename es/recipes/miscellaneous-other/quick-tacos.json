@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-tacos",
+  "name": "Tacos rápidos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "americana",
+    "étnica",
+    "mexicana",
+    "variada"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite vegetal",
+    "1 cebolla mediana picada",
+    "1 diente de ajo",
+    "2 tazas de pollo cocido y desmenuzado",
+    "2 tazas de puré de tomate",
+    "4 onzas de chiles verdes enlatados",
+    "Sal y pimienta al gusto",
+    "6 tortillas de maíz medianas",
+    "2 tazas de queso Monterey Jack rallado",
+    "1 aguacate grande cortado en rodajas finas",
+    "Salsa picante"
+  ],
+  "recipeInstructions": "1. Calentar el aceite vegetal en una sartén a fuego medio.\n2. Añadir la cebolla y el ajo. Cocinar hasta que la cebolla se vuelva transparente.\n3. Retirar el ajo.\n4. Incorporar el pollo, el puré de tomate y los chiles verdes en la sartén.\n5. Sazonar con sal y pimienta.\n6. Reducir el fuego y dejar cocinar a fuego lento durante 10 minutos.\n7. Colocar una porción de la mezcla de pollo en cada tortilla.\n8. Rellenar cada tortilla con queso, aguacate, lechuga y salsa.\n9. Servir calientes, con salsa picante adicional al lado.",
+  "url": null
+}

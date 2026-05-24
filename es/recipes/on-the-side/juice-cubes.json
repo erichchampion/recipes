@@ -1,0 +1,17 @@
+{
+  "@type": "Recipe",
+  "identifier": "juice-cubes",
+  "name": "Cubos de zumo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 lata de zumo de piña sin azúcar",
+    "Otro zumo de fruta a elección"
+  ],
+  "recipeInstructions": "1. Vierta el zumo de piña sin azúcar o el zumo elegido en moldes para cubitos de hielo.\n2. Congele los cubos como lo haría con cubitos de hielo normales.\n3. Utilice los cubitos de zumo en té helado, agua mineral, limonada, enfriadores de vino y otras bebidas para un sabor singularmente ácido y dulce.",
+  "url": null
+}

@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "many-bean-stew",
+  "name": "Estofado de Muchas Habas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 cebolla, picada",
+    "1 cucharada de aceite",
+    "2 dientes de ajo, picados",
+    "1,5 cucharaditas de pimentón",
+    "1/2 taza de frijoles pintos",
+    "1/2 taza de frijoles del norte",
+    "1/2 taza de frijoles rojos",
+    "1/2 taza de lentejas rojas",
+    "5 tazas de agua",
+    "1 hoja de laurel",
+    "1 cucharadita de semillas de apio",
+    "1 cucharadita de eneldo seco",
+    "2 cucharaditas de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1 cubo Knorr de caldo vegetariano",
+    "2 tazas de cubos de patata (patata, zanahoria, etc.)"
+  ],
+  "recipeInstructions": "1. Sofreír la cebolla y el ajo en el aceite con pimentón.\n2. Añadir todos los ingredientes al cocedor lento.\n3. Cocinar a fuego alto durante unas 4 horas.",
+  "url": null
+}

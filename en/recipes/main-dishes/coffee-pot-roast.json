@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "coffee-pot-roast",
+  "name": "Coffee Pot Roast",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "slow cooker",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "6 carrots; peeled, diced",
+    "2 cups potatoes; peeled, diced",
+    "2 pounds pot roast (beef)",
+    "Salt and pepper to taste",
+    "1 cup canned tomatoes",
+    "1 cup black coffee",
+    "1 cup water"
+  ],
+  "recipeInstructions": "1. Place the vegetables in the cooker.\n2. Add the pot roast, sprinkling with salt and pepper.\n3. Stir in the canned tomatoes and liquids.\n4. Cover and cook on low for 8-10 hours or until tender.\n5. If desired, thicken the sauce by stirring flour into a water base.",
+  "url": null
+}

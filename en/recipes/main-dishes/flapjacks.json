@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "flapjacks",
+  "name": "Flapjacks",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "pancakes"
+  ],
+  "recipeIngredient": [
+    "2 cups Flour",
+    "1 pinch Sea salt",
+    "1 1/2 cups Apple juice or milk",
+    "2 tablespoons Oil",
+    "2 Eggs",
+    "1/2 cup Honey",
+    "2 teaspoons Baking powder",
+    "1 Pippin apple, grated"
+  ],
+  "recipeInstructions": "1. Combine all ingredients, except the grated apple, with an electric mixer.\n2. Add the grated apple and mix by hand.\n3. Spoon into an oiled frying pan at medium heat.\n4. Turn when bubbles appear and they harden. Brown on the other side.\n5. Serve immediately with your choice of topping. We like honey and maple syrup best.",
+  "url": null
+}

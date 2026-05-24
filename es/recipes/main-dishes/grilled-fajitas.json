@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "grilled-fajitas",
+  "name": "Fajitas a la parrilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 lomo de ternera tipo flank (aproximadamente 450 g)",
+    "1 sobre de mezcla para sopa de cebolla",
+    "2 cucharadas de aceite vegetal",
+    "2 cucharadas de zumo de limón",
+    "2 cucharadas de agua",
+    "2 dientes de ajo, picados finamente",
+    "1 cucharadita de ralladura de limón",
+    "1 cucharadita de comino en polvo",
+    "1/2 cucharadita de orégano seco",
+    "1/4 cucharadita de pimienta negra",
+    "1 cebolla mediana, cortada en rodajas finas",
+    "pimientos verdes, rojos y amarillos, cortados en tiras",
+    "1 cucharada de aceite de cocina",
+    "8 tortillas de harina, calentadas"
+  ],
+  "recipeInstructions": "1. Coloca el lomo de ternera en un plato apto para el refrigerador.\n2. Mezcla los siguientes nueve ingredientes; viértelos sobre la carne.\n3. Cubre y refrigera durante 4 horas o toda la noche.\n4. Escurre y desecha la marinada.\n5. Asa la carne a la parrilla sobre brasas calientes hasta que alcance el punto de cocción deseado: aproximadamente 4 minutos por lado para medio, 5 minutos por lado para medio-pico.\n6. Mientras tanto, en una sartén, saltea la cebolla y los pimientos con aceite durante 3-4 minutos o hasta que estén crujientes.\n7. Corta la carne en tiras finas en contra del grano; colócalas sobre las tortillas.\n8. Añade las verduras; enrolla y sirve inmediatamente.",
+  "url": null
+}

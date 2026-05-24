@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "negroni-cocktails",
+  "name": "Cócteles Negroni",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "bebidas",
+    "étnico",
+    "italiano"
+  ],
+  "recipeIngredient": [
+    "1 taza de ginebra",
+    "1 taza de vermut italiano dulce",
+    "1 taza de Campari",
+    "6 giros de cáscara de limón"
+  ],
+  "recipeInstructions": "1. Coloca una docena de cubos de hielo en un jarro alto.\n2. Añade la ginebra, el vermut y el Campari al jarro.\n3. Revuelve hasta que esté bien combinado y frío.\n4. Sirve sobre hielo en vasos Old Fashioned.\n5. Adorna con giros de cáscara de limón.",
+  "url": null
+}

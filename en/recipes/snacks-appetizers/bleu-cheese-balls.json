@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "bleu-cheese-balls",
+  "name": "Bleu Cheese Balls",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "cheese",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "8 ounces cream cheese, softened",
+    "2 ounces bleu cheese",
+    "3 tablespoons chopped celery",
+    "1/4 cup chopped onion",
+    "2 tablespoons dried parsley",
+    "2 tablespoons dried chives (optional)",
+    "Chopped pecans or walnuts - for rolling"
+  ],
+  "recipeInstructions": "1. Mix all ingredients together.\n2. Form the mixture into balls.\n3. Roll each ball in chopped pecans or walnuts.\n4. Chill until ready to serve.",
+  "url": null
+}

@@ -1,0 +1,36 @@
+{
+  "@type": "Recipe",
+  "identifier": "festive-lasagne",
+  "name": "Festive Lasagne",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "cheese",
+    "ethnic",
+    "italian"
+  ],
+  "recipeIngredient": [
+    "9 Lasagna Noodles, cooked",
+    "-----Meat Mixture-----",
+    "2 Pounds Bulk Italian Sausage",
+    "1 Medium Onion, chopped",
+    "2 Cloves Garlic Minced",
+    "28 Ounces Can Whole Tomatoes, cut up (undrained)",
+    "12 Ounces Can Tomato Paste",
+    "1 Teaspoon Sugar",
+    "1 Teaspoon Salt",
+    "1 1/2 Teaspoons Basil Leaves, crushed",
+    "1 Teaspoon Oregano",
+    "1/2 Teaspoon Marjoram",
+    "1/2 Teaspoon Red Pepper",
+    "1/4 Teaspoon Pepper",
+    "-----Cheese Mixture-----",
+    "30 Ounces Ricotta Cheese",
+    "1 Egg, beaten",
+    "1/3 Cup Fresh Parsley",
+    "4 Cups Mozzarella Cheese, shredded",
+    "1 Cup Parmesan Cheese, grated"
+  ],
+  "recipeInstructions": "In a large pan, combine sausage, onion, and garlic. Cook until sausage is no longer pink, stirring occasionally; drain. Stir in the rest of the ingredients up through pepper. Bring to a boil; reduce heat and simmer for 20 minutes.\nIn a medium bowl blend ricotta, egg, and parsley.\nLayer as follows:\nmeat sauce\n3 noodles\n1/3 meat sauce\n1/2 ricotta\n1/2 mozzarella\n1/3 Parmesan\n3 noodles\n1/3 meat sauce\n1/2 ricotta\n1/2 mozzarella\n1/3 Parmesan\n3 noodles\n1/3 meat sauce\n1/3 Parmesan\nBake for one hour in a preheated 375 degree oven.",
+  "url": null
+}

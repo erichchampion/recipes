@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "mystic-pizza-abm",
+  "name": "Mystic Pizza ABM",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italian",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "3/4 cup Water",
+    "3 tbsp Water",
+    "1 t Olive Oil",
+    "1 t Salt",
+    "1 t Sugar",
+    "2 1/2 cups Flour",
+    "2 tsp Yeast",
+    "-----TOPPINGS-----",
+    "2 tbsp Olive Oil",
+    "Salt",
+    "Pepper",
+    "1 1/2 cups Pizza Sauce",
+    "1 1/2 cups Mozzarella Cheese, grated"
+  ],
+  "recipeInstructions": "1. Place all dough ingredients in the machine and program for knead and first rise.\n2. Press start.\n3. When the dough is finished, transfer it to a floured work surface and let it rest for 5 minutes.\n4. Preheat the oven to 400°F.\n5. Roll the dough to an 11-inch circle and transfer it to a baking sheet or pizza peel.\n6. Brush the olive oil over the surface of the dough.\n7. Shake on salt and pepper.\n8. Spread sauce over the surface and top with mozzarella.\n9. Bake the pizza for 20 minutes.",
+  "url": null
+}

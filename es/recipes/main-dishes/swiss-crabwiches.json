@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "swiss-crabwiches",
+  "name": "Sándwiches de Cangrejo Suizo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "quesos/huevos",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "4 cucharadas de almendras laminadas",
+    "4 cucharadas de crema agria",
+    "4 cucharadas de mayonesa",
+    "4 cucharaditas de mostaza en polvo",
+    "4 cucharaditas de jugo de limón",
+    "4 cucharaditas de polvo de ajo",
+    "4 cucharaditas de pimienta",
+    "4 cucharaditas de nuez moscada molida",
+    "1/2 libra de tocino cocido, escurrido y desmenuzado",
+    "3/4 libra de carne de cangrejo",
+    "6 cebolletas con las puntas cortadas en rodajas",
+    "2 tazas de queso suizo rallado",
+    "4 rollos de panecillos o franceses"
+  ],
+  "recipeInstructions": "1. Tostar las almendras hasta que estén ligeramente doradas.\n2. Tostar los panecillos por partes.\n3. En un bol, mezclar la crema agria, la mayonesa, la mostaza en polvo, el jugo de limón, el polvo de ajo, la pimienta y la nuez moscada hasta que quede bien combinada.\n4. Añadir el tocino desmenuzado, las cebolletas cortadas, la carne de cangrejo y el queso suizo rallado a la mezcla. Revolver hasta combinar.\n5. Extender aproximadamente 1/3 taza de la mezcla en cada mitad del panecillo.\n6. Colocar los rollos en una bandeja para hornear y asar a 6 pulgadas de distancia del calor durante 2-3 minutos, o hasta que estén dorados.\n7. Servir como sándwiches abiertos, con 2 por persona.",
+  "url": null
+}

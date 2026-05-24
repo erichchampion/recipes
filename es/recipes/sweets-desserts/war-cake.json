@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "war-cake",
+  "name": "Pastel de Guerra",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de azúcar moreno",
+    "1/2 taza de manteca",
+    "2 tazas de agua",
+    "11 libras de pasas",
+    "3 tazas de harina",
+    "2 cucharaditas de bicarbonato de sodio",
+    "1 cucharadita de sal",
+    "1 cucharadita de nuez moscada",
+    "1 cucharadita de canela",
+    "1/2 cucharadita de clavos de olor"
+  ],
+  "recipeInstructions": "1. Mezclar en un cazo grande el azúcar moreno, la manteca y el agua. Llevar a ebullición a fuego medio-alto.\n2. Hervir durante 5 minutos, luego retirar del fuego y dejar enfriar ligeramente.\n3. Incorporar poco a poco el segundo conjunto de ingredientes (harina, bicarbonato, sal, nuez moscada, canela y clavos) a la mezcla fría.\n4. Remover hasta obtener una masa homogénea.\n5. Verter la masa en un molde para hornear engrasado y apto para horno de baja temperatura.\n6. Hornear a fuego lento durante 1 hora.",
+  "url": null
+}

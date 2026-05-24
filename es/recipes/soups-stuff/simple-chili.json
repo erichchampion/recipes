@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-chili",
+  "name": "Chili sencillo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "carnes",
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "3 lb carne molida picante",
+    "1 cucharadita sal de cebolla",
+    "2 cucharaditas polvo de ajo",
+    "3 cucharaditas polvo de chile",
+    "2 cucharaditas comino molido",
+    "3 cucharaditas salsa Tabasco",
+    "15 onzas de salsa de tomate",
+    "15 onzas agua",
+    "OPCIONAL:",
+    "15 onzas tomates enteros en lata, escurridos",
+    "1/2 cucharadita almidón de maíz"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida en una olla grande. Una vez dorada, escurrir el exceso de grasa o aceite.\n2. Enjuagar la carne con agua caliente para eliminar cualquier grasa restante. Utilizar un colador si es necesario.\n3. Agregar la sal de cebolla, polvo de ajo, polvo de chile, comino molido, salsa Tabasco, salsa de tomate y agua a la olla. Remover para combinar.\n4. Si se usan tomates enteros, añadirlos en este momento y dejar cocer hasta que estén lo suficientemente suaves como para picarlos.\n5. Llevar la mezcla a ebullición, luego reducir el fuego y dejarla cocer a fuego lento durante 1 hora y media, tapada.\n6. Si se desea espesar, mezclar el almidón de maíz con un poco de agua para formar una pasta y añadirlo durante los últimos 30 minutos de cocción.\n7. Ajustar la sazón si es necesario.\n8. Servir caliente con galletas saladas.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-souffle",
+  "name": "Chicken Soufflé",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "chicken",
+    "eggs",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1 can cream of mushroom soup, condensed",
+    "1/2 cup light cream",
+    "4 eggs, separated",
+    "1 egg white",
+    "1 cup shredded chicken"
+  ],
+  "recipeInstructions": "1. Heat the soup in a double boiler until ready to use while separating the eggs.\n2. Beat the egg yolks until thick and lemon-colored.\n3. Remove the soup pot and add the egg yolks, stirring well. Add the shredded chicken and allow to cool slightly.\n4. Beat 5 egg whites until very stiff.\n5. Gently fold the beaten egg whites into the egg yolk mixture.\n6. Carefully turn the batter into a well-buttered souffle dish.\n7. Bake at 375 degrees for 30 minutes.",
+  "url": null
+}

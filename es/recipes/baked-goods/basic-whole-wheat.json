@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-whole-wheat",
+  "name": "Básico de Trigo Integral",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 barra de pan de 400 g",
+    "1/4 taza de agua",
+    "3/8 taza de leche",
+    "1 huevo",
+    "1 taza de harina integral",
+    "1 taza de harina de trigo",
+    "1 cucharadita de sal",
+    "1 cucharada de puré de manzana (aceite)",
+    "1 cucharada de miel",
+    "2 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a la temperatura deseada.\n2. Mezclar en un bol grande el agua, la leche, el huevo, el puré de manzana y la miel hasta que estén bien combinados.\n3. En otro bol, mezclar la harina integral, la harina de trigo, la sal y la levadura.\n4. Añadir gradualmente los ingredientes secos a la mezcla húmeda, removiendo hasta formar una masa.\n5. Amasar la masa sobre una superficie enharinada hasta que quede suave y elástica (aproximadamente 10 minutos).\n6. Colocar la masa en un bol engrasado, cubrir con un paño húmedo y dejar levar en un lugar cálido durante aproximadamente 1 hora o hasta que doble su tamaño.\n7. Desinflar la masa y darla forma de barra.\n8. Colocar la barra sobre una bandeja para hornear engrasada y dejar levar nuevamente durante otros 30 minutos.\n9. Precalentar el horno a la temperatura deseada.\n10. Hornear la barra hasta que esté dorada y crujiente, aproximadamente 30-35 minutos.\n11. Retirar del horno y dejar enfriar antes de cortar.",
+  "url": null
+}

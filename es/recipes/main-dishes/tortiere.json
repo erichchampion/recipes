@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tortiere",
+  "name": "Tortiera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de carne picada magra de res",
+    "1/2 lb de carne molida de cerdo",
+    "1 cebolla picada",
+    "1 diente de ajo picado",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de hierbas aromáticas o tomillo",
+    "1/4 cucharadita de sal de apio",
+    "1/4 cucharadita de clavo molido",
+    "1/2 taza de agua"
+  ],
+  "recipeInstructions": "1. En una olla, mezclar 1/2 lb de carne picada magra de res y 1/2 lb de carne molida de cerdo.\n2. Añadir la cebolla picada, el ajo picado, la sal, las hierbas aromáticas o tomillo, la sal de apio, el clavo molido y el agua.\n3. Mezclar todos los ingredientes con cuidado y llevar a ebullición.\n4. Reducir el fuego y mantener a fuego lento durante 20 minutos.\n5. Añadir gradualmente 1/2 taza de pan rallado, cucharada por cucharada, hasta que se absorba toda la grasa.\n6. Dejar enfriar completamente la mezcla.\n7. Verter en una masa de tarta sin hornear.\n8. Colocar la tapa de la tarta.\n9. Hornear en un horno precalentado a 450°F durante 25 minutos.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "marchand-de-vin",
+  "name": "Marchand de Vin",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones",
+    "vinos"
+  ],
+  "recipeIngredient": [
+    "1 taza de jamón, cortado en cubos finos",
+    "1 taza de setas frescas, cortadas en cubos finos",
+    "1/2 taza de cebolla verde, picada finamente",
+    "2 oz de mantequilla",
+    "3 tazas de demi-glace",
+    "1 1/2 tazas de vino tinto"
+  ],
+  "recipeInstructions": "1. Ver receta para demi-glace.\n2. Saltear el jamón, las setas y la cebolla verde en mantequilla.\n3. Añadir el demi-glace y el vino, reducir a la mitad y colar.",
+  "url": null
+}

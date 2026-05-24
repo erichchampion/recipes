@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "greek-stew-2",
+  "name": "Estofado griego",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "griego",
+    "sopas",
+    "sopas/estofados",
+    "estofados"
+  ],
+  "recipeIngredient": [
+    "3 lb de carne para estofar, picada",
+    "Ajo, 1 diente, picado",
+    "5 cucharadas de mantequilla",
+    "Sal y pimienta al gusto",
+    "2 lb de cebollas blancas pequeñas",
+    "6 oz de puré de tomate en lata",
+    "1/2 lb de setas, laminadas",
+    "3/4 lb de queso Jack rallado",
+    "2 cucharadas de vinagre de vino tinto"
+  ],
+  "recipeInstructions": "1. En una olla pesada, dore la carne en mantequilla. Sazone ligeramente con sal y pimienta.\n2. Añada las cebollas picadas y saltee hasta que estén transparentes.\n3. Incorpore el puré de tomate, el vinagre, el ajo y la mitad del agua. Añada una hoja de laurel.\n4. Cubra y deje cocinar a fuego lento durante 1 hora, añadiendo agua si es necesario.\n5. Agregue las cebollas blancas y las setas. Cubra y deje cocinar a fuego lento por otra hora o hasta que la carne y las cebollas estén tiernas.\n6. Añada el queso, cubra y cocine durante 5 minutos, o hasta que se derrita el queso.",
+  "url": null
+}

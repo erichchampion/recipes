@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "irish-stew-3",
+  "name": "Irish Stew",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "ireland",
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "1 pound lean mutton pieces",
+    "1 pound carrots",
+    "1 pound onions",
+    "1 pound potatoes",
+    "salt & pepper",
+    "1 pinch thyme"
+  ],
+  "recipeInstructions": "1. Place the mutton and thyme in a saucepan.\n2. Add cold water to cover the ingredients.\n3. Bring slowly to a boil.\n4. Reduce heat to low and simmer for one hour, stirring occasionally.\n5. Add onions, potatoes, and carrots that have been peeled and roughly chopped.\n6. Season with salt and pepper.\n7. Continue cooking until the vegetables are tender.\n8. Adjust seasoning as needed.\n9. This stew may be served alone or accompanied by cooked green cabbage or sprouts.",
+  "url": null
+}

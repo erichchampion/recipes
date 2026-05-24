@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "light-alfredo-pasta",
+  "name": "Pasta Alfredo Ligera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "1 pequeña cebolla, picada",
+    "1 diente de ajo, picado finamente",
+    "2 cucharaditas de aceite vegetal",
+    "2 tazas de leche desnatada",
+    "1 taza de caldo de pollo",
+    "3 cucharadas de harina",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra gruesa",
+    "1/2 taza de queso parmesano rallado",
+    "1 libra de penne u otra pasta",
+    "16 onzas de brócoli en floretes"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla y el ajo picados en aceite vegetal a fuego medio hasta que estén dorados.\n2. Mezclar la leche desnatada, el caldo de pollo, la harina, la sal y la pimienta; añadir a la mezcla de cebolla y ajo hasta espesar.\n3. Incorporar el queso parmesano rallado.\n4. Cuando la pasta haya cocido 9 minutos, añadir los floretes de brócoli al agua de cocción.",
+  "url": null
+}

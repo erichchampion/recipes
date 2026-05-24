@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pink-lady",
+  "name": "Rosa Lady",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 oz de ginebra",
+    "1/2 oz de granadina",
+    "2 oz de crema espesa",
+    "Hielo picado"
+  ],
+  "recipeInstructions": "1. Llena un vaso mezclador con hielo picado.\n2. Añade la ginebra, la granadina y la crema espesa al vaso mezclador.\n3. Agita bien hasta que esté combinado.\n4. Cuela en un vaso de cóctel frío.",
+  "url": null
+}

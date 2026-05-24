@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "cajun-pork-roast",
+  "name": "Cerdo asado al estilo cajún",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cajún",
+    "plato principal",
+    "carne",
+    "cerdo",
+    "cerdo/jamón"
+  ],
+  "recipeIngredient": [
+    "10 lb (4,5 kg) de cochinillo Boston sin hueso",
+    "2 cucharadas de salsa para bistec (Lea & Perrins)",
+    "1 taza de cebolla picada",
+    "2 1/2 cucharaditas de mostaza en polvo",
+    "1/4 taza de ajo picado",
+    "1/4 taza de salsa Tigre",
+    "6 oz (170 g) de pasta de tomate",
+    "3 cucharadas de azúcar moreno",
+    "1 cucharadita de perejil picado",
+    "1/2 taza de salsa Worcestershire"
+  ],
+  "recipeInstructions": "MARINADA:\nMezclar la cebolla picada, el ajo picado y el perejil con la salsa Tigre, la salsa Worcestershire y la mostaza en polvo. Mezclar bien. Hacer incisiones en el cochinillo y frotar la salsa adentro y sobre el mismo. Dejar marinar en el refrigerador durante 6 horas (o durante la noche).\nSAZÓN DE TOMATE:\nMezclar muy bien la pasta de tomate con el azúcar moreno y reservar. Cocinar el cochinillo en una parrilla cubierta hasta que la temperatura interna alcance los 170 °F (77 °C). Cepillar con la salsa de tomate al finalizar y servir.",
+  "url": null
+}

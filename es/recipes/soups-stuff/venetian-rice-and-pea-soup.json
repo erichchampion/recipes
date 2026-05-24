@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "venetian-rice-and-pea-soup",
+  "name": "Sopa de arroz y guisantes veneciana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "italiano",
+    "arroz",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de cebolla picada",
+    "400 g de guisantes congelados",
+    "6 tazas de caldo de pollo",
+    "3 cucharadas de perejil picado",
+    "6 cucharadas de mantequilla",
+    "1/2 cucharadita de sal",
+    "1 taza de arroz crudo",
+    "2/3 taza de queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. En una olla grande o un horno holandés, saltea la cebolla en mantequilla hasta que se dore.\n2. Añade los guisantes y la sal; cocina durante 2 minutos, removiendo con frecuencia.\n3. Vierte el caldo.\n4. Lleva a ebullición, luego agrega el arroz, removiendo bien.\n5. Reduce el fuego y deja cocinar durante 25 minutos adicionales, o hasta que el arroz esté tierno.\n6. Incorpora el perejil. Retira del fuego.\n7. Agrega el queso parmesano justo antes de servir.",
+  "url": null
+}

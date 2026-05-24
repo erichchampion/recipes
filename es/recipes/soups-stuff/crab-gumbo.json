@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "crab-gumbo",
+  "name": "Gumbos de Cangrejo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "mariscos",
+    "sopas",
+    "guisos/sopas"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne de cangrejo",
+    "1 cebolla mediana; picada",
+    "1 tallo de apio grande; picado",
+    "1 diente de ajo; finamente picado",
+    "1/4 taza de margarina o mantequilla",
+    "6 tazas de tomates enteros enlatados; tres latas de 1 libra, o equivalente",
+    "1 paquete de okra congelada; (10 oz)",
+    "1 hoja de laurel",
+    "2 cucharaditas de sal",
+    "1 cucharadita de azúcar",
+    "1/2 cucharadita de tomillo entero",
+    "1/4 cucharadita de polvo de chile",
+    "1/4 cucharadita de pimienta negra",
+    "3 tazas de arroz caliente cocido"
+  ],
+  "recipeInstructions": "Retirar todas las cartílagos de la carne de cangrejo. En una olla de 4 o 5 litros, cocinar la cebolla, el apio y el ajo en la mantequilla o margarina hasta que estén tiernos. Añadir los tomates, la okra y las especias. Tapar y dejar cocinar a fuego lento durante 1 hora. Incorporar la carne de cangrejo y calentar hasta que esté caliente. Servir sobre arroz caliente cocido.",
+  "url": null
+}

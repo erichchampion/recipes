@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-hamburgers-2",
+  "name": "Basic Hamburgers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "burgers",
+    "ground beef",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Ground Beef",
+    "1/4 cup Onion; Finely Chopped",
+    "1/4 cup Water or Evaporated Milk",
+    "1 tsp Salt",
+    "1 tsp Worcestershire Sauce",
+    "1/4 tsp Pepper"
+  ],
+  "recipeInstructions": "1. Mix all ingredients together, including any variations you choose.\n2. Shape the mixture into 6 patties, each about 3/4-inch thick.\n3. Broil or grill the patties, 4-inches from the heat. Turn once and cook to your desired doneness (10 to 15 minutes).\n4. Serve on toasted buns with favorite toppings.",
+  "url": null
+}

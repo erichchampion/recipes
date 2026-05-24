@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-casserole",
+  "name": "Taco Ensalada de Horno",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 kg de carne molida",
+    "1 lata de sopa de apio con crema",
+    "1 lata de caldo de carne",
+    "1 sobre de mezcla para aderezo taco seco",
+    "1 lata de Ro-Tel tomates con chiles verdes",
+    "1 paquete grande de chips de tortilla",
+    "1 taza de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida y escurrir el exceso de grasa.\n2. Mezclar en una cacerola la sopa de apio, el caldo de carne, la mezcla para aderezo taco y los tomates Ro-Tel. Llevar a ebullición.\n3. Precalentar el horno a 175 °C (350 °F).\n4. Extender la mitad de las chips de tortilla de manera uniforme en un plato para hornear engrasado.\n5. Verter la mezcla de sopa sobre las chips de tortilla.\n6. Espolvorear con el resto de las chips y cubrir con queso cheddar rallado.\n7. Hornear durante 20-25 minutos, o hasta que el queso se derrita y burbujee.\n8. Apagar el horno y dejar enfriar ligeramente la cassrol antes de servir.",
+  "url": null
+}

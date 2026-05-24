@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "veggie-pizza-quiche",
+  "name": "Tarta de pizza de verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "tartas de cena",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "3 huevos (3 a 4)",
+    "1 taza de queso mozzarella rallado",
+    "1 taza de queso cheddar fuerte rallado",
+    "1 tomate mediano, picado",
+    "1 lata pequeña de setas",
+    "1/4 taza de pimiento verde, picado",
+    "1/4 taza de leche",
+    "Una pizca de sal",
+    "Una pizca de pimienta",
+    "2 cucharadas de cebolla picada"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes juntos.\n2. Verter en una costra de tarta profunda sin hornear de 9 pulgadas.\n3. Cubrir los bordes de la masa con papel de aluminio para evitar que se quemen.\n4. Hornear a 180 grados durante 45 a 60 minutos, hasta que el centro esté firme.",
+  "url": null
+}

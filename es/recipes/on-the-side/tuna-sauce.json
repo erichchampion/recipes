@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "tuna-sauce",
+  "name": "Salsa de atún",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "mariscos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "7 onzas de atún italiano en aceite",
+    "1/4 palita de mantequilla",
+    "20 ml de ajo picado",
+    "2 cucharadas de perejil fresco",
+    "28 onzas de tomates pelados y cortados en lata",
+    "Vino blanco, sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla y el aceite de atún en una sartén.\n2. Sofríe el ajo durante 2 minutos hasta que esté dorado.\n3. Añade el atún y cocina durante 5 minutos.\n4. Incorpora los tomates, el vino blanco, el perejil, la sal y la pimienta al gusto.\n5. Cocina a fuego lento durante 30 minutos.\n6. Sirve sobre pasta cocida y escurrida.",
+  "url": null
+}

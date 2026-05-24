@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "corn-dogs-i",
+  "name": "Perros calientes de maíz I",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carnes",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina",
+    "2 cucharadas de maicena",
+    "1/2 cucharadita de mostaza en polvo",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimentón dulce",
+    "1 huevo",
+    "1/2 taza de leche",
+    "1 libra de salchichas tipo wiener"
+  ],
+  "recipeInstructions": "1. Cernir todos los ingredientes secos juntos.\n2. Batir ligeramente el huevo y mezclar con la leche.\n3. Verter la mezcla líquida sobre los ingredientes secos y remover hasta obtener una masa homogénea.\n4. Verter la masa en un vaso alto para sumergir.\n5. Insertar palillos en las salchichas y sumergirlas una a una en la masa.\n6. Freír en aceite caliente a 175 °C (375 °F) hasta que estén doradas.",
+  "url": null
+}

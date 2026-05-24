@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-guacamole",
+  "name": "Mock Guacamole",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "dips",
+    "mexican",
+    "snacks",
+    "spices"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Asparagus",
+    "1/2 cup Picante Sauce",
+    "Cornstarch or Arrowroot",
+    "Garlic Salt to Taste",
+    "Salt and Pepper to Taste",
+    "2 tsp Lemon Juice",
+    "1/4 cup Finely Chopped Green Onion"
+  ],
+  "recipeInstructions": "1. Place washed asparagus in a steamer and cook until tender.\n2. Combine the cooked asparagus and picante sauce in a blender bowl and puree.\n3. Dissolve cornstarch or arrowroot in water, then add to the mixture to thicken.\n4. Transfer the mixture to a microwave-safe dish and cook on medium power until thickened, stirring every minute.\n5. Add garlic salt, salt, pepper, lemon juice, and chopped green onion to taste.\n6. Chill in the refrigerator until ready to serve.\n7. Serve with crackers, chips, or corn chips.",
+  "url": null
+}

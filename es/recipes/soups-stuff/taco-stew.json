@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-stew",
+  "name": "Estofado de Tacos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "mexicana",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida magra",
+    "1 cebolla mediana picada (1/2 taza)",
+    "1 lata (400 g) de sopa de tomate condensada",
+    "1 lata (398 g) de maíz entero con cáscara, escurrido",
+    "1 lata (425 g) de frijoles pintos en salsa chili, escurridos",
+    "1 sobre (17 g) de mezcla de condimento para tacos",
+    "1 taza de agua",
+    "Tortillas chips trituradas",
+    "Queso Monterey Jack rallado"
+  ],
+  "recipeInstructions": "1. En una olla grande, cocine y revuelva la carne molida y la cebolla a fuego medio hasta que la carne esté dorada; drene el exceso de grasa.\n2. Agregue la sopa, el maíz, los frijoles (escurridos), la mezcla de condimento para tacos y el agua.\n3. Lleve a ebullición; reduzca el fuego.\n4. Cocine sin tapar durante unos 45 minutos o hasta que alcance la consistencia deseada.\n5. Sirva con tortillas chips y queso. Rinde para 6 porciones.",
+  "url": null
+}

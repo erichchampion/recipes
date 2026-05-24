@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-breakfast-apples",
+  "name": "Manzanas al horno para el desayuno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "brunch",
+    "frutas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 manzanas medianas, cortadas en trozos pequeños",
+    "2 cucharadas de dátiles sin hueso, picados",
+    "1/2 cucharadita de canela en polvo",
+    "1/2 taza de jugo de manzana",
+    "2 cucharadas de mermelada de frutos rojos sin azúcar añadido",
+    "1/4 taza de granola con bajo contenido de grasa"
+  ],
+  "recipeInstructions": "1. En dos recipientes para hornear individuales, mezclar las manzanas y los dátiles.\n2. Espolvorear con canela.\n3. Verter el jugo de manzana sobre la mezcla de manzanas.\n4. Hornear, cubierto, en un horno precalentado a 180 °C durante 20 a 25 minutos o hasta que las manzanas estén ligeramente tiernas.\n5. Mientras tanto, calentar la mermelada de frutos rojos en una cacerola pequeña hasta que se derrita.\n6. Verter la mermelada derretida sobre la mezcla de manzanas y espolvorear con granola.\n7. Servir caliente.",
+  "url": null
+}

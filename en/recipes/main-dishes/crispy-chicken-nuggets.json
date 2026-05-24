@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "crispy-chicken-nuggets",
+  "name": "Crispy Chicken Nuggets",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "appetizers",
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "Vegetable oil (for frying)",
+    "1/2 cup Milk",
+    "1/4 cup Flour",
+    "1/4 cup Grated Parmesan cheese",
+    "1 tsp Paprika",
+    "1/2 tsp Oregano",
+    "1/4 tsp Dry mustard",
+    "2 1/2 lbs Chicken breasts (skinless, boneless, cut into 1 inch pieces)"
+  ],
+  "recipeInstructions": "1. Heat 1 inch of oil in a frying pan or deep fryer to 350°F.\n2. In a bowl, mix together milk and the flour, Parmesan cheese, Paprika, Oregano, and mustard in a paper bag.\n3. Dip chicken pieces first in milk, then coat with the mixture by placing about a dozen pieces at a time into the bag and shaking.\n4. Fry chicken in batches without crowding, turning occasionally for about 5 minutes, until crispy and golden brown. Drain on paper towels. Serve hot.",
+  "url": null
+}

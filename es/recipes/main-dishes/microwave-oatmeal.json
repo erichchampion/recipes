@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "microwave-oatmeal",
+  "name": "Avena en microondas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de avena en copos gruesos",
+    "1 taza de agua",
+    "1/4 taza de frutos secos secos (opcional)"
+  ],
+  "recipeInstructions": "1. Coloca la avena en un bol de medición de vidrio con capacidad para al menos 1 litro.\n2. Mezcla la avena con 1 taza de agua y agrega frutos secos si lo deseas.\n3. Revuelve bien para distribuir uniformemente los ingredientes.\n4. Cocina durante 10 minutos a 80% de potencia en un microondas de 600 vatios.",
+  "url": null
+}

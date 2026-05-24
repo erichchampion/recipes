@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tropical-fruit-salsa",
+  "name": "Salsa de frutas tropicales",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "mexicano",
+    "salsas",
+    "salsa",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 mango maduro, pelado, sin hueso y cortado en cubos de 1/4 cm",
+    "1 papaya madura, pelada, sin semillas y cortada en cubos de 1/4 cm",
+    "1 aguacate maduro, pelado, sin hueso y cortado en cubos de 1/4 cm",
+    "3 cucharadas de jugo de limón",
+    "2 cucharadas de cilantro fresco picado",
+    "2 cucharadas de azúcar moreno",
+    "1 cucharadita de pimientos jalapeños escurridos",
+    "1 cucharadita de jengibre rallado"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol mediano.\n2. Tapar el bol y refrigerar durante al menos 1 hora para que se mezclen los sabores.\n3. Servir con pescado o pollo a la parrilla. También es deliciosa con totopos de maíz.",
+  "url": null
+}

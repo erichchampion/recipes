@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "everyone-wants-this-recipe-casserole",
+  "name": "Todos Quieren Esta Receta de Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "4 rebanadas de tocino",
+    "4 tallos de cebolla verde, cortados finamente",
+    "1 libra de setas frescas, laminadas",
+    "sal y pimienta al gusto",
+    "1/4 cucharadita de sal de apio",
+    "2 1/2 tazas de queso Monterey Jack rallado",
+    "8 huevos grandes, batidos bien",
+    "1 taza de leche"
+  ],
+  "recipeInstructions": "1. Cocinar el tocino hasta que esté crujiente; escurrir y desmenuzar.\n2. Reservar las grasas del tocino. Usarlas para saltear las cebollas.\n3. Añadir las setas a la sartén y seguir salteando.\n4. En un bol grande, mezclar el tocino desmenuzado, las cebollas salteadas, las setas, la sal de apio, el queso, los huevos batidos y la leche.\n5. Verter la mezcla en un recipiente para guiso engrasado de 2 cuartos.\n6. Hornear, sin cubrir, a 175 °C durante 45 a 50 minutos.",
+  "url": null
+}

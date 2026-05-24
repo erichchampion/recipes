@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-cake-mix",
+  "name": "Mezcla básica para pastel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "misceláneo",
+    "mezclas"
+  ],
+  "recipeIngredient": [
+    "8 tazas de harina para pastel",
+    "1/4 taza de polvo de hornear",
+    "2 1/2 tazas de manteca vegetal",
+    "6 tazas de azúcar",
+    "1 1/2 cucharaditas de sal"
+  ],
+  "recipeInstructions": "1. En un bol grande, tamiza juntos la harina para pastel, el azúcar, el polvo de hornear y la sal.\n2. Corta la manteca vegetal hasta que la mezcla quede fina como la harina de maíz.\n3. Transfiere la mezcla a un recipiente hermético grande.\n4. Etiqueta el recipiente como \"Mezcla básica para pastel\".\n5. Almacena la mezcla en un lugar fresco y seco.\n6. Utiliza la mezcla dentro de 10-12 semanas.",
+  "url": null
+}

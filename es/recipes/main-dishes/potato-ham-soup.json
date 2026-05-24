@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-ham-soup",
+  "name": "Sopa de patatas y jamón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "cerdo",
+    "patata",
+    "papas"
+  ],
+  "recipeIngredient": [
+    "1 taza de patatas, cortadas en cubos",
+    "1/4 taza de cebolla, picada",
+    "1/2 taza de apio, picado",
+    "1/4 cucharadita de pimienta",
+    "1/2 cucharadita de sal",
+    "2 tazas de agua",
+    "3 cucharadas de mantequilla derretida",
+    "1 1/2 cucharadas de harina",
+    "2 tazas de leche",
+    "1 taza de jamón, cortado en cubos"
+  ],
+  "recipeInstructions": "1. Mezclar las patatas, la cebolla y el apio con la sal y la pimienta.\n2. Llenar una olla con agua y hervir. Agregar la mezcla de patatas, cebolla y apio, y reducir el fuego a fuego lento hasta que las verduras estén tiernas.\n3. En un bol aparte, mezclar la mantequilla derretida con la harina para formar una pasta. Añadir esta pasta gradualmente a la mezcla de verduras, removiendo constantemente.\n4. Incorporar la leche y el jamón, removiendo hasta que se caliente pero sin llegar a hervir.\n5. Dejar enfriar la sopa durante unas horas para que los sabores se mezclen.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "scottish-cheddar-cheese-soup",
+  "name": "Sopa de queso cheddar escocés",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "queso",
+    "étnico",
+    "escocés",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 cebollas, cortadas en rodajas finas",
+    "55 g de mantequilla",
+    "55 g de harina",
+    "2 1/2 tazas de caldo",
+    "2 1/2 tazas de leche",
+    "Una pizca de pimienta",
+    "170 g de queso cheddar escocés - rallado"
+  ],
+  "recipeInstructions": "Derretir la mantequilla en una sartén y cocinar las cebollas durante unos minutos. Añadir la harina y cocinar durante otro minuto. Incorporar la leche y el caldo, llevar a ebullición, sazonar y reducir el fuego para simular a fuego lento durante unos 5 minutos. Agregar lentamente el queso rallado a la sopa y dejar que se derrita. No permitir que hierva.",
+  "url": null
+}

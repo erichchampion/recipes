@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "spice-muffins",
+  "name": "Muffins especiados",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "1 huevo, batido",
+    "1/2 taza de azúcar",
+    "1 taza de leche",
+    "1/4 taza de manteca derretida",
+    "1 cucharadita de jengibre",
+    "1 cucharadita de nuez moscada",
+    "1 cucharadita de canela",
+    "3 cucharadas de polvo para hornear",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Cernir la harina y luego mezclarla con las especias (jengibre, nuez moscada, canela), el polvo para hornear y la sal.\n2. Combinar en un bol aparte el huevo, el azúcar, la manteca derretida y la leche.\n3. Agregar los ingredientes secos a la mezcla húmeda y batir hasta que estén apenas combinados.\n4. Llenar moldes para muffins engrasados hasta 2/3 con la masa.\n5. Hornear en un horno precalentado (425 °F) durante 15-20 minutos.\n6. Rinde: 12 porciones.",
+  "url": null
+}

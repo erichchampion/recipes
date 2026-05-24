@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "super-cookies",
+  "name": "Galletas Super",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de mantequilla; ablandada",
+    "3/4 taza de azúcar granulada",
+    "3/4 taza de azúcar morena clara",
+    "1 cucharadita de extracto de vainilla",
+    "2 huevos",
+    "2 1/4 tazas de harina",
+    "1 cucharadita de bicarbonato de sodio",
+    "1/2 cucharadita de sal",
+    "1 taza de copos de coco",
+    "1/2 taza de chips de chocolate",
+    "1/2 taza de chips de butterscotch",
+    "1/2 taza de avena",
+    "1/2 taza de nueces o pasas (opcional)",
+    "3/4 taza de M&Ms de chocolate sin almidón"
+  ],
+  "recipeInstructions": "1. Batir juntos la mantequilla, el azúcar granulada, el azúcar morena clara y el extracto de vainilla hasta que quede ligero y esponjoso.\n2. En un bol aparte, mezclar la harina, el bicarbonato de sodio y la sal.\n3. Agregar gradualmente los ingredientes secos a la mezcla de mantequilla y batir bien hasta combinarlos.\n4. Incorporar los copos de coco, las chispas de chocolate, las chispas de butterscotch, la avena, las nueces o pasas (si se usan) y los M&Ms hasta que queden distribuidos uniformemente.\n5. Colocar cucharadas de masa en hojas para galletas sin engrasar.\n6. Aplastar ligeramente cada galleta con la parte posterior de una cuchara.\n7. Hornear a 375°F durante 8-10 minutos, o hasta que estén ligeramente dorados.\n8. Enfriar sobre rejillas.",
+  "url": null
+}

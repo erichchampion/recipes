@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-butter-cookie-dough",
+  "name": "Masa de galleta con mantequilla básica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 lb de mantequilla sin sal, ablandada",
+    "1 1/3 tazas de azúcar",
+    "3/4 cucharadita de sal",
+    "3 yemas de huevo grandes",
+    "2 cucharaditas de extracto de vainilla",
+    "4 2/3 tazas de harina de uso común"
+  ],
+  "recipeInstructions": "1. En un bol grande de una batidora eléctrica, bate la mantequilla, el azúcar y la sal hasta que queden ligeros y esponjosos.\n2. Incorpora las yemas de huevo, una a una, y la vainilla hasta obtener una mezcla suave.\n3. Añade gradualmente la harina hasta que se combine bien la masa.",
+  "url": null
+}

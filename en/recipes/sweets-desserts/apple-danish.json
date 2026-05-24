@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-danish",
+  "name": "Apple Danish",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "apple",
+    "baked goods",
+    "cookies",
+    "desserts",
+    "holiday"
+  ],
+  "recipeIngredient": [
+    "Crust:",
+    "3 cups Flour",
+    "1/2 cup Milk",
+    "Filling:",
+    "1 1/2 cups Sugar",
+    "2 tablespoons Flour",
+    "Glaze:",
+    "2 teaspoons Milk",
+    "1 cup Shortening",
+    "1/2 teaspoon Salt",
+    "1 Egg yolk",
+    "6 cups Apples, peeled and sliced",
+    "1/4 cup Margarine",
+    "1 tablespoon Cinnamon",
+    "1/2 cup Powdered sugar",
+    "1/4 teaspoon Almond extract"
+  ],
+  "recipeInstructions": "1. Mix flour and salt for the crust; cut in shortening.\n2. Combine milk and egg yolk, then add to the flour mixture.\n3. Roll out half of the dough on a floured surface to fit an 11x16x1/2 inch jelly roll pan and place it in the pan.\n4. Mix all filling ingredients together and spread over the dough.\n5. Roll out the remaining pastry and place it over the filling.\n6. Brush the pastry with a beaten egg white.\n7. Bake at 375°F for 45 minutes.\n8. Mix the glaze ingredients together, then drizzle over the cooled Danish.\n9. Cut into bars.",
+  "url": null
+}

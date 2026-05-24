@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-bean-dip",
+  "name": "Dip de frijoles con hamburguesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempies"
+  ],
+  "recipeIngredient": [
+    "1 lb carne de hamburguesa",
+    "2 latas grandes de frijoles refritos",
+    "1 cebolla grande, picada",
+    "1/2 taza de salsa picante",
+    "1/2 lb queso Longhorn",
+    "1 taza de crema"
+  ],
+  "recipeInstructions": "1. Dorar ligeramente la carne de hamburguesa en una sartén.\n2. Escurrir y verter la mezcla en una olla de cocción lenta.\n3. Agregar los frijoles refritos, la cebolla picada y la salsa picante; mezclar bien.\n4. Cocinar hasta que la cebolla esté tierna.\n5. Incorporar el queso Longhorn y la crema; mezclar bien.\n6. Reducir el fuego y cocinar a fuego lento durante unos 30 minutos.",
+  "url": null
+}

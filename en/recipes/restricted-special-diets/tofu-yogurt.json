@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tofu-yogurt",
+  "name": "Tofu Yogurt",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "special diets",
+    "tofu",
+    "vegetables",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "1 lb Tofu",
+    "1 Frozen banana, sliced",
+    "1 Ripe banana, sliced",
+    "Chopped fruit",
+    "2 tablespoons Sugar",
+    "1/4 cup Water",
+    "1 teaspoon Vanilla",
+    "1 tablespoon Raisins"
+  ],
+  "recipeInstructions": "1. Combine all ingredients, except chopped fruit and raisins, in a blender.\n2. Blend at medium speed for 45 seconds.\n3. Add the chopped fruit and raisins.\n4. Chill in the freezer for 30 minutes.",
+  "url": null
+}

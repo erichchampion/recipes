@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "peanut-sauce-1",
+  "name": "Salsa de maní #1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "etnico",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "4 cucharadas de mantequilla de maní",
+    "3 cucharadas de té preparado",
+    "2 cucharadas de aceite picante de chili",
+    "3 cucharadas de salsa de soja clara",
+    "3 cucharadas de vinagre de vino tinto",
+    "2 cucharaditas de azúcar",
+    "2 cucharadas de ajo picado",
+    "4 cucharadas de aceite vegetal"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta que queden bien integrados.\n2. Calentar ligeramente el vinagre para disolver el azúcar.",
+  "url": null
+}

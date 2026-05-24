@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "ginger-muffins",
+  "name": "Muffins de jengibre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de manteca corta",
+    "1/2 taza de azúcar",
+    "1 huevo",
+    "1 taza de melaza clara (preferiblemente)",
+    "3 tazas de harina de uso común",
+    "1 1/2 cucharaditas de bicarbonato de sodio",
+    "1/2 cucharadita de sal",
+    "1 cucharadita de canela en polvo",
+    "1 cucharadita de jengibre molido",
+    "1/2 cucharadita de clavo de olor molido",
+    "1 taza de agua caliente"
+  ],
+  "recipeInstructions": "1. Batir la manteca y el azúcar hasta obtener una mezcla suave.\n2. Incorporar el huevo y mezclar, luego añadir la melaza.\n3. Tamizar los ingredientes secos (harina, bicarbonato, sal, canela, jengibre y clavo) y mezclarlos con la mezcla de melaza.\n4. Agregar gradualmente el agua caliente, batiendo hasta obtener una masa suave.\n5. Colocar papel de hornear en un molde para muffins y rellenar cada cupa con la masa, aproximadamente dos tercios de su capacidad.\n6. Hornear a 175 °C durante 20-25 minutos o hasta que un palillo insertado en el centro de un pastel salga limpio.\n7. Comprobar si están listos tocando suavemente la superficie de un pastel; debe rebotar al tacto.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-dill-soup",
+  "name": "Tomato & Dill Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "appetizers",
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "2 Onions, minced",
+    "2 Cloves garlic, chopped",
+    "1 tablespoon Olive oil",
+    "4 cups Chopped plum tomatoes",
+    "1 cup Diced sweet red peppers",
+    "1/4 cup Diced celery",
+    "2 tablespoons Chopped green chilies",
+    "2 cups Stock",
+    "2 teaspoons Fresh dill, chopped",
+    "2 tablespoons Chopped fresh cilantro",
+    "1/2 teaspoon Cayenne",
+    "1/4 teaspoon Cumin"
+  ],
+  "recipeInstructions": "1. In a large pot, heat the olive oil over medium heat.\n2. Add the onions and garlic; sauté until fragrant and translucent.\n3. Stir in the plum tomatoes, sweet red peppers, celery, green chilies, cumin, and cayenne.\n4. Pour in the stock and bring to a boil.\n5. Reduce the heat and let it simmer for 25 minutes.\n6. Remove from heat, let cool slightly.\n7. Puree the soup using an immersion blender or transfer to a blender in batches.\n8. Stir in the fresh dill and cilantro.\n9. Season with salt and pepper to taste.\n10. Serve warm or chilled.",
+  "url": null
+}

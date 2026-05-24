@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-salad-with-dried-cherrries",
+  "name": "Ensalada de Pollo con Cerezas Secas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pollo",
+    "fruta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 pechugas de pollo, cocidas y cortadas en cubos",
+    "1/4 taza de mayonesa baja en grasa",
+    "1/4 taza de yogur natural",
+    "1/4 taza de uvas sin semillas rojas o verdes, cortadas por la mitad",
+    "1/4 taza de nueces picadas (walnut o macadamia)",
+    "1/4 taza de cerezas secas"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar la mayonesa y el yogur hasta obtener una consistencia homogénea.\n2. Incorporar los cubos de pollo a la mezcla y remover suavemente.\n3. Doblar las uvas cortadas por la mitad, las nueces picadas y las cerezas secas en la preparación.\n4. Sazonar con sal y pimienta al gusto.\n5. Servir sobre un lecho de hojas de lechuga.",
+  "url": null
+}

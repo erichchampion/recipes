@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "icebox-cake",
+  "name": "Tarta de la nevera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 lb de galletas Graham",
+    "1 lb de nueces inglesas",
+    "1 lb de malvaviscos",
+    "1 lb de dátiles",
+    "1/2 litro de crema"
+  ],
+  "recipeInstructions": "1. Triturar los malvaviscos y los dátiles juntos.\n2. Añadir 1/2 litro de crema a la mezcla.\n3. Mezclar hasta que quede bien combinado, luego formar un rollo en forma de hogaza.\n4. Enfriar hasta el momento de servir.\n5. Cortar en rodajas y servir con crema batida.",
+  "url": null
+}

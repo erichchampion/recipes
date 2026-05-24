@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pie-spice",
+  "name": "Especias para tarta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "platos secundarios",
+    "especias"
+  ],
+  "recipeIngredient": [
+    "1/2 cucharadita de canela",
+    "1/4 cucharadita de nuez moscada",
+    "1/8 cucharadita de pimienta de Jamaica",
+    "1/8 cucharadita de cardamomo",
+    "1/4 cucharadita de clavo de olor en polvo"
+  ],
+  "recipeInstructions": "1. Mezcla las especias en un bol.\n2. Tuesta y combina hasta que estén bien mezcladas, asegurándote de tener suficiente cantidad para una tarta de 23 cm (9 pulgadas).",
+  "url": null
+}

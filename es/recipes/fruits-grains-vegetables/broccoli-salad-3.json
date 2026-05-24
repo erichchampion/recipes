@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "broccoli-salad-3",
+  "name": "Ensalada de brócoli",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1/2 cabeza de coliflor, cortada en floretes",
+    "1/2 manojo de brócoli, cortado en floretes",
+    "1/2 cebolla mediana, picada",
+    "1 taza de queso cheddar rallado",
+    "1/2 libra de tocino, desmenuzado",
+    "1 taza de mayonesa",
+    "1/2 taza de azúcar",
+    "2 cucharadas de vinagre"
+  ],
+  "recipeInstructions": "1. Mezclar la coliflor, el brócoli y la cebolla picada en un bol grande.\n2. Agregar el queso cheddar rallado y el tocino desmenuzado a la mezcla de verduras.\n3. En otro bol, batir la mayonesa, el azúcar y el vinagre hasta que estén bien combinados.\n4. Verter el aderezo sobre la mezcla de verduras y remover suavemente hasta que todo esté uniformemente cubierto.\n5. Servir inmediatamente.",
+  "url": null
+}

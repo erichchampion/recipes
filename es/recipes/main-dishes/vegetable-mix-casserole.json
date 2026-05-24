@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetable-mix-casserole",
+  "name": "Cazuela de Verduras Mixtas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 paquetes de judías verdes congeladas",
+    "2 paquetes de guisantes congelados",
+    "2 paquetes de zanahorias verdes cortadas congeladas",
+    "1 taza de mayonesa",
+    "1 taza de crema agria",
+    "1 taza de queso Parmesano rallado",
+    "Sal y pimienta al gusto",
+    "1 taza de cebolla picada"
+  ],
+  "recipeInstructions": "1. Cocinar las verduras congeladas según las instrucciones del paquete.\n2. Escurrir las verduras.\n3. Saltear la cebolla hasta que esté tierna.\n4. Incorporar la crema agria, la mantequilla (si se especifica), sal y pimienta.\n5. Mezclar bien con las verduras cocidas.\n6. Transferir la mezcla a un molde para hornear engrasado.\n7. Espolvorear con queso Parmesano.\n8. Hornear durante 20 minutos a 350 °F (175 °C).",
+  "url": null
+}

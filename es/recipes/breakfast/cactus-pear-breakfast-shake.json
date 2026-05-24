@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cactus-pear-breakfast-shake",
+  "name": "Batido de desayuno de nopal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "bebidas",
+    "desayuno",
+    "frutas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 nopalitos, pelados y cortados en trozos",
+    "1 plátano grande, pelado y cortado en trozos",
+    "4 cubos de hielo",
+    "1 cucharada y media de miel",
+    "1 taza de leche"
+  ],
+  "recipeInstructions": "1. Triturar los nopalitos mediante un tamiz de malla media.\n2. Mezclar el puré resultante con el plátano, los cubos de hielo, la miel y la leche en una licuadora o procesador de alimentos.\n3. Batir hasta que no queden trozos de hielo.\n4. Servir inmediatamente para 2 personas.",
+  "url": null
+}

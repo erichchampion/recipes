@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-green-sauce",
+  "name": "Salsa Verde Picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "salsas",
+    "guarniciones",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de caldo de verduras",
+    "1 cucharada de aceite de oliva",
+    "1 taza de cebolla, picada",
+    "1/3 taza de pimiento verde, picado",
+    "1 diente de ajo, picado finamente",
+    "1 1/2 tazas de tomatillos, pelados y picados",
+    "1 cucharadita de comino",
+    "2 cucharadas de jalapeños, picados",
+    "1 cucharada de vinagre blanco",
+    "1/4 taza de cilantro fresco, picado"
+  ],
+  "recipeInstructions": "1. Calentar el caldo de verduras en una sartén grande y pesada a fuego medio-alto.\n2. Añadir el aceite de oliva a la sartén.\n3. Saltear la cebolla, el pimiento verde y el ajo hasta que estén tiernos.\n4. Incorporar los tomatillos y el comino, cocinar durante 10 minutos.\n5. Mezclar los jalapeños, el vinagre blanco y el cilantro fresco.\n6. Cocinar durante 3 minutos adicionales.\n7. Servir caliente.",
+  "url": null
+}

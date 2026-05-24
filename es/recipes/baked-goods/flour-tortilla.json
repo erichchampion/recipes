@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "flour-tortilla",
+  "name": "Tortilla de harina",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "mexicano",
+    "tortillas"
+  ],
+  "recipeIngredient": [
+    "4 tazas de harina de trigo",
+    "2 cucharadas de manteca (sí, manteca. La mantequilla o cualquier otro aceite no funcionan igual)",
+    "1/2 taza de leche tibia",
+    "1 cucharadita de polvo de hornear",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes secos y tamizar.\n2. Agregar la manteca a la mezcla.\n3. Añadir gradualmente la leche tibia, mezclando hasta obtener una masa suave.\n4. Dividir en trozos.\n5. Estirar cada trozo en forma de círculo muy delgado.\n6. Cocinar en una sartén caliente hasta que esté ligeramente dorada y con manchas.",
+  "url": null
+}

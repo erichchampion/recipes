@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "twinkie-cake",
+  "name": "Pastel de Twinkie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 Caja de bizcochos Twinkie",
+    "1 Paquete de mezcla de pudín instantáneo de chocolate",
+    "6 Barras de caramelo Heath, trituradas",
+    "1 Contenedor de Cool Whip (9 onzas)"
+  ],
+  "recipeInstructions": "1. Preparar el pudín de chocolate instantáneo según las instrucciones del paquete.\n2. Romper los Twinkies en trozos pequeños y colocarlos en un plato rectangular.\n3. Extender el pudín preparado sobre los trozos de Twinkie.\n4. Espolvorear 3 barras de caramelo Heath trituradas de manera uniforme por encima.\n5. Cubrir con Cool Whip y espolvorear las 3 barras de caramelo Heath restantes por encima.\n6. Refrigerar hasta el momento de servir. ¡Disfrutar!",
+  "url": null
+}

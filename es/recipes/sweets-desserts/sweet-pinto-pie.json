@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-pinto-pie",
+  "name": "Tarta de Judías Verdes Dulces",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 masa de tarta horneada, crujiente o regular",
+    "2 cebollas grandes, picadas",
+    "2 tazas de frijoles pintos cocidos (sin sazonar), escurridos",
+    "1/2 taza de agua",
+    "2 cucharadas de canela",
+    "1 cucharadita de nuez moscada",
+    "1/4 cucharadita de sal marina (opcional)",
+    "2 cucharadas de miel o melaza (opcional)"
+  ],
+  "recipeInstructions": "1. Saltear las cebollas en aceite a fuego medio hasta que estén muy suaves y transparentes.\n2. Mezclar las cebollas cocidas, los frijoles, el agua y las especias hasta obtener una consistencia suave.\n3. Si se desea más dulzura, añadir la miel y mezclar bien.\n4. Extender la mezcla en la masa de tarta horneada.\n5. Hornear a 175 °C durante 15-20 minutos.",
+  "url": null
+}

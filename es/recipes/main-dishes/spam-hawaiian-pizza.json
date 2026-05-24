@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "spam-hawaiian-pizza",
+  "name": "Pizza Hawaiana con Spam",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 lata de masa de pizza refrigerada lista para usar (400 g)",
+    "1 paquete de lonchas de queso provolone (200 g)",
+    "1 lata de carne de spam en cubos (350 g)",
+    "1 lata de trozos de piña escurridos (200 g)",
+    "1/2 taza de cebolla roja cortada finamente",
+    "1/2 taza de pimiento verde picado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 220 °C.\n2. Engrasar una bandeja para pizza de 30 cm o un molde para hornear rectangular de 23x33 cm.\n3. Estirar la masa y presionarla en la bandeja preparada.\n4. Cubrir con queso.\n5. Disponer el resto de los ingredientes sobre el queso.\n6. Hornear durante 25-30 minutos, o hasta que la masa esté profundamente dorada.",
+  "url": null
+}

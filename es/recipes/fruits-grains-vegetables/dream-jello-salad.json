@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "dream-jello-salad",
+  "name": "Ensalada de Gelatina de Sueño",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "gelatina",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 paquetes de gelatina de frambuesa, O cereza",
+    "2 paquetes de gelatina de fresa",
+    "2 tazas de agua caliente",
+    "1 taza de agua fría",
+    "1 lata de relleno de tarta de fresa (o a su elección)",
+    "8 onzas de queso crema",
+    "1 pequeño contenedor de Cool Whip",
+    "1 lata de piña triturada (escurrida)"
+  ],
+  "recipeInstructions": "1. Disolver la gelatina en agua caliente.\n2. Mezclar todos los ingredientes; verter en un molde de 9x13 pulgadas.\n3. Enfriar hasta que esté firme.\n4. Batir bien y extender sobre la mezcla de gelatina.",
+  "url": null
+}

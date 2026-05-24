@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "gazpacho-1",
+  "name": "Gazpacho 1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "appetizers",
+    "soups",
+    "soups/stews",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "1 zucchini, chopped",
+    "3 garlic cloves, minced",
+    "1 small green pepper, chopped",
+    "1/2 teaspoon cumin",
+    "1/4 teaspoon chili powder",
+    "1/2 cucumber, peeled and chopped",
+    "12 ounces V8 or tomato juice"
+  ],
+  "recipeInstructions": "1. Finely chop the vegetables (zucchini, green pepper, onion) and mince the garlic.\n2. Add the chopped vegetables and spices to a blender or food processor and blend for 10 seconds.\n3. Pour the mixture into a bowl and stir in the juice.\n4. Refrigerate until chilled before serving.",
+  "url": null
+}

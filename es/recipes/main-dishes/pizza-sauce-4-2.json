@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-sauce-4-2",
+  "name": "Salsa para pizza #4",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "1 lata de puré de tomate",
+    "1/4 litro de orégano",
+    "3 tazas de agua",
+    "1/4 litro de albahaca",
+    "3 pintas de aceite de cocina",
+    "1/2 litro de perejil",
+    "3 dientes de ajo (picados)",
+    "1 litro de queso parmesano rallado",
+    "1/4 taza de cebolla cruda (picada)",
+    "1 litro de pimienta negra",
+    "1/2 litro de azúcar moreno"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una olla de 1 litro.\n2. Cocinar durante 30-40 minutos hasta que la mezcla espese y los sabores se combinen.\n3. Dejar enfriar la salsa antes de usarla en 4 pizzas de 30 cm de diámetro.",
+  "url": null
+}

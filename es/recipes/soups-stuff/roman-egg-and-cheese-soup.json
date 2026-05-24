@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "roman-egg-and-cheese-soup",
+  "name": "Sopa de Huevo y Queso Romana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "queso/huevos",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "4 huevos",
+    "1/3 taza de migas de pan blanco fresco",
+    "1/3 taza de queso parmesano rallado",
+    "1 cucharadita de cáscara de limón rallada",
+    "6 tazas de caldo de carne",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar los huevos, las migas de pan, el queso y la cáscara de limón en un bol.\n2. Batir hasta que esté bien combinado.\n3. Llevar el caldo a ebullición.\n4. Verter lentamente el caldo hirviendo sobre la mezcla de huevo mientras se remueve continuamente.\n5. Continuar removiendo hasta que hierva suavemente.\n6. Sazonar con sal y pimienta al gusto.",
+  "url": null
+}

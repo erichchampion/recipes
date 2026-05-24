@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "diablo-dip",
+  "name": "Diablo Dip",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "dips",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1 Can bean dip",
+    "1 cup Sour cream",
+    "2 tbsp Taco seasoning",
+    "8 oz Monterey Jack cheese, grated",
+    "2 Tomatoes, finely diced",
+    "4 oz Chopped green chiles, optional",
+    "8 oz Sharp cheddar cheese, grated",
+    "4 Scallions, diced",
+    "1 Can ripe olives, diced, optional"
+  ],
+  "recipeInstructions": "1. Grate the Monterey Jack and sharp cheddar cheeses.\n2. If a spicier result is desired, add jalapeno peppers to the Monterey Jack cheese.\n3. Mix Swiss or mozzarella cheese as a substitution option.\n4. Make a round mound of ingredients, layering them in the order listed, starting with bean dip and ending with olives.\n5. Serve with tortilla chips. Scoop from the bottom to top for a taste of all layers.",
+  "url": null
+}

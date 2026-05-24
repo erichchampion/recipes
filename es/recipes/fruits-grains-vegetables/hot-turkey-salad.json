@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-turkey-salad",
+  "name": "Ensalada de pavo caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pollo",
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 taza de mayonesa",
+    "2 cucharadas de zumo de limón",
+    "1/2 cucharadita de sal",
+    "2 cucharadas de cebolla rallada",
+    "2 tazas de pavo cocido",
+    "2 tazas de apio picado",
+    "1/2 taza de almendras laminadas",
+    "1/2 taza de queso cheddar fuerte rallado",
+    "Chips de patata triturados"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar todos los ingredientes excepto 1/2 taza de queso rallado y chips de patata.\n2. Colocar la mezcla de pavo en un plato de hornear cuadrado de 8 pulgadas resistente al calor y no metálico. Espolvorear con queso rallado y chips de patata.\n3. Calentar al microondas sin cubrir durante 6 minutos o hasta que se derrita el queso.",
+  "url": null
+}

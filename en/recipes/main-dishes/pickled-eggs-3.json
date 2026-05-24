@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pickled-eggs-3",
+  "name": "Pickled Eggs",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "eggs",
+    "main dish",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 dozen eggs, hard cooked",
+    "2 cans beets",
+    "1 cup sugar",
+    "1 cup vinegar"
+  ],
+  "recipeInstructions": "1. Add vinegar and sugar to beet juice.\n2. Heat mixture until boiling.\n3. Place beets and eggs in a large jar.\n4. Pour beet juice over all ingredients.\n5. Refrigerate overnight.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "gazpacho-2-2",
+  "name": "Gazpacho #2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "verduras",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "Calabacín",
+    "Pimiento verde pequeño",
+    "Cebolla pequeña",
+    "Pepino",
+    "Tomate grande",
+    "3 Dientes de ajo",
+    "1/2 cucharadita de comino",
+    "1/4 cucharadita de polvo de chile",
+    "4 Cucharadas de aceite de oliva",
+    "12 onzas de V8 o jugo de tomate"
+  ],
+  "recipeInstructions": "1. Pica finamente las verduras y el ajo (o tritúralos en una procesadora de alimentos durante 10 segundos).\n2. Añade las verduras picadas y las especias al jugo.\n3. Refrigera hasta que esté frío.",
+  "url": null
+}

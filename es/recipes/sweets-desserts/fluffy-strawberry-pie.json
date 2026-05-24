@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "fluffy-strawberry-pie",
+  "name": "Tarta de fresa esponjosa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "frutas",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 litro de fresas frescas, más unas cuantas para decorar",
+    "2/3 taza de azúcar",
+    "1/8 cucharadita de sal",
+    "1 cucharada de zumo de limón",
+    "1 cucharada de gelatina sin sabor",
+    "1/2 taza de agua fría",
+    "1 lata de leche evaporada fría",
+    "1 cucharadita de extracto de vainilla",
+    "Una base de tarta de galletas Graham",
+    "Nata montada (opcional)"
+  ],
+  "recipeInstructions": "1. Lavar y deshuesar las fresas; cortarlas en trozos pequeños.\n2. Mezclar las fresas con el azúcar, la sal y el zumo de limón. Refrigerar durante una hora o más.\n3. Remojar la gelatina en agua fría durante 5 minutos, luego disolverla sobre fuego lento en un baño maría. Agregar la mezcla de fresas.\n4. Batir la leche evaporada hasta que esté muy espesa y mezclarla con la mezcla de fresas. Incorporar el extracto de vainilla.\n5. Verter la mezcla en la base de la tarta y refrigerar hasta que esté firme.\n6. Decorar con las fresas restantes y añadir nata montada, si se desea.",
+  "url": null
+}

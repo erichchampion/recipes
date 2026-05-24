@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "ordinary-brown-bread",
+  "name": "Pan de trigo marrón común",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina de trigo integral",
+    "1/2 taza de maíz molido (cuyp)",
+    "1/2 taza de harina de centeno",
+    "1/2 cucharadita de sal",
+    "2 1/2 cucharaditas de polvo de hornear",
+    "2 cucharadas de miel",
+    "1 taza de leche",
+    "1/2 taza de pasas"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes secos: harina de trigo integral, maíz molido, harina de centeno, sal y polvo de hornear.\n2. Agregar la miel, la leche y las pasas a los ingredientes secos mezclados. Remover bien hasta combinarlos.\n3. Verter la mezcla en un bol o molde engrasado que quepa suelto en una olla de presión.\n4. Cubrir el bol con papel parafina.\n5. Colocar el bol cubierto dentro de la olla de presión.\n6. Dejar salir el vapor por la válvula durante 20 minutos.\n7. Colocar un peso indicador sobre la válvula y cocinar durante 25 minutos, permitiendo la liberación natural del vapor.\n8. Apagar la olla de presión y dejar que vuelva a la posición inferior naturalmente.",
+  "url": null
+}

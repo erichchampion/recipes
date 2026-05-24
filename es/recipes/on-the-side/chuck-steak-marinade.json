@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chuck-steak-marinade",
+  "name": "Marinada para chuletón de res",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "marinadas",
+    "carnes",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de aceite de oliva",
+    "1 cucharadita de azúcar",
+    "1/2 taza de mostaza",
+    "1/2 cucharadita de comino picante",
+    "1/4 taza de vinagre",
+    "Un chorrito generoso de salsa Tabasco",
+    "2 cucharaditas de relish dulce"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una licuadora y procesar hasta obtener una consistencia homogénea.\n2. Verter la marina sobre un chuletón de 3 libras (1,35 kg) y cubrir con cebolla picada y 3 dientes de ajo machacados.\n3. Marinar durante la noche.\n4. Rocíar con la marina mientras se cocina a la parrilla.",
+  "url": null
+}

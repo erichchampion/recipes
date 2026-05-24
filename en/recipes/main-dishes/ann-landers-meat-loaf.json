@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "ann-landers-meat-loaf",
+  "name": "Ann Landers' Meat Loaf",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "ground beef",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "2 Pounds Ground beef",
+    "2 Eggs",
+    "1 1/2 Cups Breadcrumbs",
+    "3/4 Cup Ketchup",
+    "1/2 Cup Water, warm",
+    "1 Package Dry onion soup mix",
+    "2 slices Bacon (optional)",
+    "8 Ounces Tomato sauce"
+  ],
+  "recipeInstructions": "1. Mix all ingredients together except bacon and tomato sauce.\n2. Place the mixture in a 9x5-inch loaf pan.\n3. Cover with 2 strips of bacon.\n4. Pour the tomato sauce over the meat.\n5. Bake for 1-1/2 hours at 350°F.",
+  "url": null
+}

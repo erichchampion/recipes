@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-yogurt-cooler",
+  "name": "Refrescante de yogur con fresas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "postres",
+    "diabético",
+    "frutas",
+    "tentempiés",
+    "dietas especiales"
+  ],
+  "recipeIngredient": [
+    "1 taza de fresas (cortadas en rodajas)",
+    "1/2 taza de yogur natural sin grasa",
+    "1 taza de agua mineral efervescente (o agua tónica o soda)"
+  ],
+  "recipeInstructions": "1. Mezcla las fresas, el yogur y el agua mineral en una licuadora o procesador de alimentos.\n2. Procesa hasta obtener una consistencia suave.\n3. Vierte en vasos fríos y sirve.",
+  "url": null
+}

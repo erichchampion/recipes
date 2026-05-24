@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "armenian-stew",
+  "name": "Estofado armenio",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "guisos",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de pasas secas (remojadas en 1/2 taza de agua durante 1 hora)",
+    "1/2 taza de garbanzos secos (remojados en agua durante la noche)",
+    "5 tazas de agua",
+    "1 taza de lentejas",
+    "3 cebollas, cortadas en rodajas",
+    "2 cucharadas de jarabe de malta o melaza"
+  ],
+  "recipeInstructions": "1. En una olla grande, llevar a ebullición las pasas remojadas y su agua. Agregar los garbanzos escurridos y 1 taza de agua. Hervir durante 30 minutos.\n2. Añadir las lentejas, cebollas y 4 tazas de agua a la olla. Llevar a ebullición. Reducir el fuego, tapar y cocinar hasta que los garbanzos estén tiernos (aproximadamente 2 horas). Agregar 2 cucharadas de jarabe de malta y mezclar bien. Servir sobre arroz marrón.",
+  "url": null
+}

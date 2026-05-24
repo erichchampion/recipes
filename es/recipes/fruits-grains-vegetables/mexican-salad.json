@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-salad",
+  "name": "Ensalada Mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "americana",
+    "étnica",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de lechuga iceberg juliana",
+    "1/2 taza de zanahorias julianas",
+    "1/2 taza de jicama pelada y juliana",
+    "1/2 taza de cilantro picado groseramente",
+    "Vinaigrette de Lima y Jalapeño:",
+    "2 cebolletas picadas finamente",
+    "2 jalapeños picados",
+    "2 dientes de ajo picados",
+    "3 cucharadas de jugo de lima",
+    "1/4 taza de aceite de oliva",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes de la ensalada en un bol grande.\n2. En un bol pequeño, combinar las cebolletas, jalapeños, ajo y jugo de lima.\n3. Batir el aceite de oliva y sazonar con sal al gusto.\n4. Verter la vinaigrette sobre la ensalada y mezclar bien.",
+  "url": null
+}

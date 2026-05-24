@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetable-pizza",
+  "name": "Pizza de verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "aperitivos",
+    "desayuno",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "2 paquetes de hojaldre en forma de media luna",
+    "1 taza de mayonesa",
+    "2 paquetes de aderezo Hidden Valley Ranch",
+    "1 taza de brócoli finamente picado",
+    "1 taza de coliflor finamente picada",
+    "1 taza de zanahoria rallada",
+    "1 taza de queso cheddar rallado",
+    "1 taza de tomate picado"
+  ],
+  "recipeInstructions": "1. Presione el hojaldre en un molde para pizza.\n2. Hornee durante 7-10 minutos, o hasta que esté dorado.\n3. Mezcle el crema agria blanda con la mayonesa y el aderezo seco.\n4. Extienda la mezcla de crema agria sobre la masa cocida.\n5. Coloque las verduras y el queso encima.\n6. Presione ligeramente.\n7. Refrigere durante al menos 1 hora.\n8. Corte en porciones.",
+  "url": null
+}

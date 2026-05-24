@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "yummy-bruschetta",
+  "name": "Bruschetta Deliciosa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "tentempiés",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "5 tomates Roma, picados finamente (o procesados)",
+    "3 cucharadas Cebolla roja o blanca picada",
+    "1 cucharadita Aceitunas, enjuagadas",
+    "3 dientes de ajo, picados",
+    "2 cucharaditas Vinagre balsámico",
+    "1 cucharada Albahaca fresca picada",
+    "1 cucharada Orégano fresco picado",
+    "1 cucharadita Pimienta negra molida",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un recipiente.\n2. Dejar reposar durante al menos una hora para que se mezclen los sabores.",
+  "url": null
+}

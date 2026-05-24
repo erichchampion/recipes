@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-breakfast-shake",
+  "name": "Batido de desayuno de naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "tentempié"
+  ],
+  "recipeIngredient": [
+    "1 taza de zumo de naranja fresco",
+    "1/2 taza de leche desnatada",
+    "1 cucharada de azúcar",
+    "1/4 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes a un bol de licuadora.\n2. Mezclar hasta obtener una textura suave.\n3. Verter en vasos y servir.\n93 calorías por ración.",
+  "url": null
+}

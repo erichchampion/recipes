@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-tuna-dish",
+  "name": "My Tuna Dish",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "fish",
+    "main dish",
+    "meat",
+    "pasta",
+    "seafood",
+    "tuna"
+  ],
+  "recipeIngredient": [
+    "8 ounces Noodles (16 OZ Package)",
+    "1 can Tuna",
+    "3 tablespoons Mayonaise",
+    "9 drops Hot sauce",
+    "1/2 teaspoon Garlic powder",
+    "1/2 teaspoon Black pepper",
+    "1/2 teaspoon Oregano",
+    "1 pinch Onion powder",
+    "1 Scallion bunch, chopped"
+  ],
+  "recipeInstructions": "1. Prepare noodles as directed on the package.\n2. Drain the water from the noodle pot.\n3. Cool the noodles by washing them with cold water and then draining all the water.\n4. Mix 3 heaping tablespoons of Mayonaise with the noodles.\n5. Combine the noodles and Mayonnaise mixture with 1 can of tuna.\n6. Add 9 drops of hot sauce to the mixture.\n7. Toss in the remaining ingredients.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "macaroni-and-beef-casserole",
+  "name": "Estofado de macarrones con carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "carne molida",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1/2 kg de carne molida",
+    "1/2 kg de salchicha tipo bulbo",
+    "1 cebolla mediana",
+    "60 g de puré de tomate",
+    "1 taza de agua",
+    "1/2 cucharadita de orégano seco",
+    "1/2 cucharadita de sal",
+    "4 tazas de macarrones cocidos",
+    "1 taza de queso cheddar fuerte rallado"
+  ],
+  "recipeInstructions": "1. En una sartén grande, dora la carne, la salchicha y la cebolla; escurre el exceso de grasa.\n2. Añade el puré de tomate, el agua, el orégano y la sal; reduce el fuego y cocina a fuego lento durante 5 minutos.\n3. En un recipiente para hornear de 2,5 litros, crea capas alternas con la mitad de los macarrones, la mitad de la salsa de carne y la mitad del queso.\n4. Repite las capas con el resto de los macarrones, la salsa y el queso.\n5. Hornea a 180 °C durante 20-25 minutos.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-mocha-milk",
+  "name": "Moca caliente con leche",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "chocolate",
+    "lácteos",
+    "microondas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de sirope de chocolate",
+    "1 cucharada de sirope de chocolate",
+    "1/2 cucharadita de café instantáneo",
+    "1/8 cucharadita de canela molida",
+    "3/4 taza de leche",
+    "Crema batida"
+  ],
+  "recipeInstructions": "1. Mezclar el sirope de chocolate, el café instantáneo y la canela en un vaso o taza resistente al calor que no sea metálica.\n2. Añadir la leche y calentar en el microondas durante 1 a 2 minutos sin cubrir hasta que esté caliente. No dejar hervir la leche.\n3. Decorar con una cucharada de crema batida.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "stewed-rabbit-c-p",
+  "name": "Cazuela de Conejo Estofado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "juego",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "2 conejos cortados en trozos",
+    "Sal",
+    "Pimienta",
+    "1 lata de salsa de tomate (400 g)",
+    "1 lata de tomates triturados (800 g)",
+    "1 cebolla mediana picada",
+    "1/4 cucharadita de romero molido",
+    "1 taza de vino blanco seco"
+  ],
+  "recipeInstructions": "1. Sazonar los trozos de conejo con sal y pimienta.\n2. Colocar el conejo sazonado en un recipiente apto para olla de cocción lenta.\n3. Añadir el resto de los ingredientes al recipiente.\n4. Colocar el recipiente en la base de la olla de cocción lenta.\n5. Tapar y cocinar a fuego bajo durante 7-8 horas.\n6. Se pueden sustituir el conejo por mapache, ardilla o musaraña; o incluso un gato viejo, si tienes uno a mano.",
+  "url": null
+}

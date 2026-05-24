@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "salmon-corn-casserole-2",
+  "name": "Salmón con Maíz al Horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "pescado",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 huevos cocidos y picados",
+    "16 onzas de salmón enlatado, escurrido",
+    "16 onzas de maíz cremoso",
+    "1 taza de mezcla de relleno (con hierbas)",
+    "1 cebolla picada",
+    "1/4 taza de pimiento rojo picado",
+    "1/4 taza de mayonesa"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Verter la mezcla en platos aptos para horno individuales o en un recipiente para hornear de 1,5 litros.\n3. Hornear a 180 °C durante 25 minutos si se usan platos pequeños, o 45 minutos si se usa el recipiente para hornear.",
+  "url": null
+}

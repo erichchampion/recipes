@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "oriental-chicken-wings",
+  "name": "Alas de pollo oriental",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "china",
+    "aves de corral",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "24 alas de pollo, cortadas en secciones",
+    "2 dientes de ajo, picados finamente",
+    "1 cucharada de ketchup",
+    "1/2 taza de miel",
+    "1/2 taza de salsa de soja",
+    "1/2 taza de mostaza dijon",
+    "1 cucharada de aceite vegetal"
+  ],
+  "recipeInstructions": "1. Marina las alas de pollo en una mezcla de ajo, ketchup, miel, salsa de soja y mostaza dijon durante al menos 30 minutos.\n2. Coloca las alas de pollo marinadas en una bandeja para hornear.\n3. Hornea durante media hora, luego da la vuelta a las alas y hornea hasta que estén doradas por ambos lados.",
+  "url": null
+}

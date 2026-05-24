@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-potato-pecan-bread",
+  "name": "Pan de batata dulce con nueces pecanas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "panes dulces",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "2 1/4 cucharaditas levadura",
+    "3 tazas harina de pan",
+    "4 cucharadas avena en hojuelas",
+    "1/2 cucharadita canela",
+    "2 pinceladas nuez moscada",
+    "2 cucharaditas sal",
+    "2 cucharadas azúcar moreno",
+    "3 cucharadas leche en polvo",
+    "3 cucharadas mantequilla o margarina",
+    "3/4 taza puré de batata dulce cocida",
+    "3/4 taza agua",
+    "3 cucharadas pasas",
+    "1/3 taza nueces pecán picadas"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en la máquina de pan y seleccionar el ciclo para pan con pasas.\n2. Agregar las frutas secas y las nueces al primer pitido.\n3. Seguir las configuraciones estándar de la máquina de pan.",
+  "url": null
+}

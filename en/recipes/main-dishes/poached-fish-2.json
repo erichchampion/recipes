@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "poached-fish-2",
+  "name": "Poached Fish",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "fish",
+    "main dish",
+    "meat",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Fish fillet",
+    "1 tbsp Parsley, chopped",
+    "1 tsp Salt",
+    "1/4 tsp Pepper",
+    "1 tsp Dill weed, chopped",
+    "1 Onion, chopped",
+    "4 Lemon slices"
+  ],
+  "recipeInstructions": "1. In a large skillet, bring 1 inch of water to a boil.\n2. Add all ingredients except the fish (except for the lemon slices).\n3. Place the fish in a single layer in the skillet and cover.\n4. Simmer until the fish flakes easily, about 5 minutes.\n5. Optionally, add 2 tablespoons of vermouth for serving.",
+  "url": null
+}

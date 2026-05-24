@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chops-milanaise",
+  "name": "Chops milanesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "4 lomo de cerdo",
+    "1/2 taza de harina",
+    "2 huevos, batidos",
+    "1 taza de pan rallado",
+    "1 taza de queso parmesano",
+    "3 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. En un bol poco profundo, mezclar el pan rallado y el queso parmesano.\n2. Sumergir cada lomo de cerdo en la harina, luego en los huevos y finalmente en la mezcla de pan rallado.\n3. Derretir la mantequilla en una sartén grande a fuego medio.\n4. Dorar los lomos de cerdo en la mantequilla derretida, aproximadamente 1-2 minutos por cada lado.\n5. Reducir el fuego a bajo, tapar la sartén y cocinar durante unos 3 minutos.\n6. Retirar la tapa y continuar cocinando hasta que los lomos estén completamente cocidos.\n7. Sazonar con sal y pimienta. Servir con gajos de limón y espagueti con mantequilla.",
+  "url": null
+}

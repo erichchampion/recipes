@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "dashi-basic-soup-stock",
+  "name": "Caldo de dashi básico",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "asiático",
+    "étnico",
+    "japonés",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de Katsubushi (ralados de atún seco)",
+    "3 cuadrados de alga Konbu",
+    "1/4 cucharadita de polvo gourmet",
+    "5 tazas de agua"
+  ],
+  "recipeInstructions": "1. Llevar el agua a ebullición. Añadir la alga Konbu y los ralados de Katsubushi.\n2. Retirar del fuego y dejar reposar durante 10 minutos. Colar.",
+  "url": null
+}

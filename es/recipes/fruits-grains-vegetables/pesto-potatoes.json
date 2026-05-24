@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pesto-potatoes",
+  "name": "Patatas al pesto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "patatas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 dientes de ajo",
+    "3 onzas de queso Parmesano, cortado en cubos",
+    "1 cebolla pequeña",
+    "2 tazas de hojas de albahaca (frescas o 1/2 taza seca)",
+    "1/4 taza de nueces",
+    "1 cucharadita de sal",
+    "2 tazas de aceite",
+    "2 libras de patatas nuevas, cocidas y cortadas en rodajas"
+  ],
+  "recipeInstructions": "1. Procesar el ajo con un cuchillo de acero en un procesador de alimentos hasta picarlo finamente.\n2. Agregar el queso Parmesano y procesar hasta que quede finamente picado.\n3. Añadir la albahaca, las nueces y la sal, y procesar hasta obtener una textura fina.\n4. Con la máquina en marcha, verter el aceite de forma continua.\n5. Mezclar con las rodajas de patata.\n6. Servir caliente o a temperatura ambiente.",
+  "url": null
+}

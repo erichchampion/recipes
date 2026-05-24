@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-spaghetti-sauce",
+  "name": "Salsa de espagueti rápida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "carnes",
+    "salsas",
+    "verduras",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de carne molida magra",
+    "3 tazas de salsa de tomate",
+    "1 taza de agua",
+    "Setas en rodajas (al gusto), escurridas",
+    "2 cucharadas de cebolla molida",
+    "3 cucharaditas de azúcar moreno",
+    "1 cucharadita de orégano",
+    "1 cucharadita de albahaca",
+    "1/2 cucharadita de ajo en polvo",
+    "1/2 cucharadita de tomillo"
+  ],
+  "recipeInstructions": "1. Cocinar la carne molida en una sartén hasta que esté dorada, escurrir el exceso de grasa.\n2. Añadir la salsa de tomate, el agua, las setas, la cebolla molida, el azúcar moreno, el orégano, la albahaca, el ajo en polvo y el tomillo a la sartén.\n3. Llevar la mezcla a ebullición, luego reducir el fuego y dejarlo a fuego lento durante 10 minutos, removiendo ocasionalmente.\n4. Servir sobre espagueti cocido al vapor o cualquier otra pasta.",
+  "url": null
+}

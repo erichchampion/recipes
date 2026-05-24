@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "fry-bread-2",
+  "name": "Pan de freír 2",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "mexicanos"
+  ],
+  "recipeIngredient": [
+    "4 tazas de harina",
+    "4 cucharaditas de polvo de hornear",
+    "1 cucharadita de sal",
+    "2 tazas de leche"
+  ],
+  "recipeInstructions": "1. Mezclar la harina, el polvo de hornear y la sal.\n2. Añadir gradualmente la leche para formar una masa suave.\n3. Estirar la masa sobre una superficie enharinada.\n4. Cortar en las formas deseadas.\n5. Freír en aceite profundo hasta que quede dorado.",
+  "url": null
+}

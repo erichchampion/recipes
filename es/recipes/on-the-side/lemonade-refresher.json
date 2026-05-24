@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemonade-refresher",
+  "name": "Refrescante de Limonada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "diabético",
+    "limonada",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "25 ml de zumo de limón",
+    "4 sobrecitas de Equal (sustituto del azúcar)",
+    "125 ml de agua",
+    "Una rodaja de limón para decorar"
+  ],
+  "recipeInstructions": "1. Mezcla el zumo de limón con el Equal hasta que se disuelva por completo.\n2. Añade el agua y remueve bien.\n3. Llena un vaso con cubitos de hielo.\n4. Decora con una rodaja de limón.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "eggs-a-la-goop",
+  "name": "Huevos a la Goop",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal",
+    "fiesta"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de setas, picadas",
+    "1/2 taza de cebolla fresca, picada",
+    "1 lata de sopa de setas (sin diluir)",
+    "1 lata de sopa de gambas (crema)",
+    "8 huevos",
+    "6 onzas de gambas escurridas",
+    "1/4 libra de queso cheddar rallado",
+    "1/4 libra de queso Monterey Jack rallado"
+  ],
+  "recipeInstructions": "1. Freír varias tiras de tocino hasta que estén bien hechas y reservar.\n2. En una sartén con un poco de aceite, cocinar las setas y cebollas a fuego medio hasta que se ablanden.\n3. Añadir la sopa de setas y remover hasta que la mezcla esté liquida.\n4. En un bol aparte, batir los huevos.\n5. Mezclar los huevos batidos con el guiso de setas.\n6. Cuando los huevos estén casi cuajados, agregar las gambas y continuar removiendo.\n7. Espolvorear el queso por encima y colocar en el horno a 300°F hasta que el queso se derrita.\n8. Retirar del horno y servir sobre platos.\n9. Cubrir con tocino reservado.\n10. Servir con tostadas de pan inglés y mermelada de naranja. ¡Disfrutar!",
+  "url": null
+}

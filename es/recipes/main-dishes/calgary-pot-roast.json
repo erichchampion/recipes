@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "calgary-pot-roast",
+  "name": "Asado de Olla de Calgary",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "3 1/2 lb de roast de ternera magra sin hueso",
+    "1 cucharadita de mostaza seca",
+    "1/2 cucharadita de sal",
+    "1/2 taza de cebolla picada",
+    "7 1/2 oz de salsa de tomate en lata",
+    "2 cucharadas de vinagre",
+    "1/2 cucharadita de tomillo",
+    "1/4 cucharadita de pimienta negra molida"
+  ],
+  "recipeInstructions": "1. Retire toda la grasa del roast.\n2. Frote la mostaza seca y la sal sobre la superficie de la carne.\n3. Coloque el roast en un plato para horno ligeramente engrasado.\n4. Cubra con cebolla picada.\n5. Mezcle la salsa de tomate, vinagre, tomillo y pimienta en un bol.\n6. Vierta la mezcla sobre el roast.\n7. Cubra apretadamente y hornee a 180°C durante 3 horas hasta que la carne esté tierna.",
+  "url": null
+}

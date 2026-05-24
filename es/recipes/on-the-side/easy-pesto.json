@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-pesto",
+  "name": "Pesto fácil",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "italiana",
+    "pesto",
+    "salsas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 taza de hojas de albahaca frescas picadas (limpias y secas)",
+    "3 dientes de ajo",
+    "1/2 taza de piñones o nueces",
+    "1/2 taza de queso parmesano rallado",
+    "1/2 taza de aceite de oliva de buena calidad"
+  ],
+  "recipeInstructions": "1. En una licuadora, combina la albahaca picada, el ajo, los piñones o nueces y el queso parmesano.\n2. Añade lentamente el aceite de oliva mientras la licuadora está en marcha.\n3. El pesto debe rendir aproximadamente 1 taza y media.",
+  "url": null
+}

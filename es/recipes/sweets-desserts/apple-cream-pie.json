@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-cream-pie",
+  "name": "Tarta de crema de manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "4 tazas de manzanas peladas y cortadas en rodajas finas",
+    "1 taza de azúcar blanca",
+    "2 cucharadas de harina de uso general",
+    "1 cucharadita de nuez moscada molida",
+    "2 cucharaditas de canela en polvo",
+    "4 cucharadas de mantequilla o margarina",
+    "2 tazas de crema semiespesa",
+    "1 masa de tarta sin hornear de 23 cm"
+  ],
+  "recipeInstructions": "1. Coloca las manzanas en la masa de la tarta.\n2. Mezcla el azúcar, la harina, la nuez moscada y la canela. Espolvorea esta mezcla sobre las manzanas en la masa.\n3. Derrite la mantequilla o margarina y mézclala con la crema. Vierte los líquidos sobre las manzanas.\n4. Hornea a 190 °C (375 °F) durante 35 minutos. Rinde una tarta de 23 cm.",
+  "url": null
+}

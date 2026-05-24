@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "hash-and-corn-bread",
+  "name": "Hash y pan de maíz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 paquete de mezcla para muffins de maíz",
+    "1 lata de hash de carne de maíz (15 onzas)",
+    "1/2 taza de cebolla picada",
+    "1 huevo",
+    "3 cucharadas de queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. Preparar la mezcla para muffins de maíz según las instrucciones del paquete.\n2. En un bol aparte, mezclar el hash de carne de maíz, la cebolla picada y el huevo.\n3. Incorporar el queso parmesano rallado a la masa de muffins.\n4. Engrasar un molde cuadrado de 9 pulgadas.\n5. Verter la mitad de la mezcla de muffins en el molde.\n6. Extender la mezcla de hash sobre la capa de muffins, formando un sándwich.\n7. Verter el resto de la mezcla de muffins sobre el hash.\n8. Hornear a 400 grados durante 20 a 25 minutos o hasta que esté hecho.",
+  "url": null
+}

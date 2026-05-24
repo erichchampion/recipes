@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "marinated-beef-pot-roast",
+  "name": "Rost de ternera marinado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento"
+  ],
+  "recipeIngredient": [
+    "3 libras de ternera para estofar (corte magro)",
+    "2 cucharadas de aceite",
+    "(Opcional) pasta de harina y agua",
+    "Aderezo:",
+    "1 taza de jugo de tomate",
+    "3 cucharadas de mostaza preparada",
+    "4 cucharadas de salsa Worcestershire",
+    "1 cucharadita de albahaca",
+    "1 cucharadita de orégano",
+    "1 cucharadita de polvo de cebolla",
+    "1 cucharadita de sal de ajo",
+    "1/4 cucharadita de pimienta negra molida fresca"
+  ],
+  "recipeInstructions": "Mezclar los ingredientes del aderezo y verter sobre el corte de ternera en un bol poco profundo. Cubrir y refrigerar durante una noche o 24 horas.\nRetirar la carne del aderezo y secar con papel de cocina.\nCalentar el aceite en una sartén grande y dorar la carne por todos lados.\nColocar la carne en una olla de cocción lenta.\nCubrir y cocinar a fuego lento durante 8-10 horas.\nServir con la salsa (opcional, espesada con pasta de harina y agua).",
+  "url": null
+}

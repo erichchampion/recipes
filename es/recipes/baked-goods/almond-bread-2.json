@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "almond-bread-2",
+  "name": "Pan de almendras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "6 huevos",
+    "3 tazas de harina",
+    "1 taza de aceite",
+    "1 cucharadita de extracto de almendras",
+    "1 cucharadita de sal",
+    "3 tazas de azúcar",
+    "1 taza de leche",
+    "1 cucharadita de polvo de hornear",
+    "1 cucharadita de vainilla"
+  ],
+  "recipeInstructions": "1. Batir los huevos con el azúcar hasta que estén bien combinados.\n2. Añadir gradualmente los ingredientes restantes, mezclando a fondo.\n3. Engrasar dos moldes para panecillos y espolvorear generosamente con azúcar granulada.\n4. Hornear a 350 °F (175 °C) durante 45 a 60 minutos.\nRinde: 2 hogazas",
+  "url": null
+}

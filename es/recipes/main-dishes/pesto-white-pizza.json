@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "pesto-white-pizza",
+  "name": "Pizza blanca de pesto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "lácteos",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 taza de perejil picado",
+    "1 taza de albahaca picada",
+    "2 dientes de ajo picados",
+    "3 cucharadas de aceite de oliva",
+    "2 cucharadas de queso parmesano rallado",
+    "1/2 receta de masa de pizza básica",
+    "1 1/2 tazas de queso ricota desnatado",
+    "4 1/2 onzas de mozzarella desnatada",
+    "2 cucharadas de leche desnatada",
+    "4 tomates plumosos grandes",
+    "1/4 taza de caldo de carne"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 245 °C.\n2. Mezclar perejil, albahaca, ajo, caldo y aceite de oliva hasta combinarlos. Añadir 1 cucharada de queso parmesano.\n3. Extender la masa de pizza con el pesto.\n4. En un bol mediano, mezclar el queso ricota, mozzarella, leche y 1 cucharada de queso parmesano restante. Extender uniformemente sobre el pesto.\n5. Colocar las rodajas de tomate sobre el queso.\n6. Hornear durante 20-25 minutos, hasta que la masa esté dorada.",
+  "url": null
+}

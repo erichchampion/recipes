@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "guacamole-and-chips",
+  "name": "Guacamole y chips",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "frutas",
+    "mexicano",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 aguacate mediano, sin semillas",
+    "1 cebolla verde, picada",
+    "1/4 jugo de limón",
+    "1/2 pimiento rojo, picado finamente",
+    "1/2 cucharadita de comino en polvo",
+    "1/2 cilantro fresco, picado finamente"
+  ],
+  "recipeInstructions": "1. Cortar el aguacate en cubos y retirar las semillas negras.\n2. En un bol, machacar el aguacate con jugo de limón hasta obtener una textura suave.\n3. Incorporar la cebolla verde, el pimiento rojo picado, el comino en polvo y el cilantro; mezclar bien.\n4. Añadir ajo picado y sazonar con sal al gusto.\nChips:\n5. Cortar las tortillas de maíz en triángulos con unas tijeras.\n6. Extender los triángulos sobre una bandeja para hornear.\n7. Colocar bajo el grill durante 1 minuto, dar la vuelta y grillar por otro minuto, o hasta que estén crujientes.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "herb-bread",
+  "name": "Herb Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "3/4 cup Water",
+    "3/4 tsp Salt",
+    "1 tbsp Applesauce",
+    "2 cups Bread Flour",
+    "1 1/2 tbsp Instant Dry Milk Powder",
+    "1 1/2 tbsp Sugar",
+    "1 1/4 tsp Italian Seasoning",
+    "1 1/2 tsp Dry Yeast"
+  ],
+  "recipeInstructions": "1. In a large bowl, combine the water, salt, applesauce, bread flour, instant dry milk powder, sugar, and Italian seasoning.\n2. Follow the manufacturer's instructions for mixing the dough thoroughly.\n3. Place the dough in a greased baking dish and allow it to rise according to the bake cycle (regular, delayed, or rapid).\n4. Bake at the temperature specified by the bake cycle until the bread is cooked through.",
+  "url": null
+}

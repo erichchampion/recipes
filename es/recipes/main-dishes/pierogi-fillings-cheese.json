@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pierogi-fillings-cheese",
+  "name": "Rellenos de pierogi, queso",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "etnica",
+    "pasta",
+    "polaca"
+  ],
+  "recipeIngredient": [
+    "2 tazas de queso cottage o de granero",
+    "2 huevos (batidos ligeramente)",
+    "2 cucharadas de azúcar",
+    "2 cucharadas de mantequilla",
+    "Una pizca de sal"
+  ],
+  "recipeInstructions": "1. Batir los huevos con la mantequilla hasta obtener una mezcla suave.\n2. Incorporar gradualmente el queso cottage a la mezcla de huevo y mantequilla.\n3. Añadir el azúcar, la sal y las pasas (opcional), canela (opcional) y pasas (opcional) al gusto.",
+  "url": null
+}

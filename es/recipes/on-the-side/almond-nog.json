@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "almond-nog",
+  "name": "Nog de almendras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "platos secundarios",
+    "vegano"
+  ],
+  "recipeIngredient": [
+    "2 tazas de leche de almendras (ver receta SOYNOG)",
+    "2 plátanos (no demasiado maduros)",
+    "1/4 cucharadita de nuez moscada molida, más si se desea",
+    "1/2 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Mezclar la leche de almendras, los plátanos, la nuez moscada y el extracto de vainilla en una licuadora.\n2. Licuar hasta obtener una textura suave.\n3. Espolvorear un poco de nuez moscada sobre la mezcla.\n4. Servir inmediatamente, ya que el sabor del plátano cambia si se deja reposar después de licuar. No intente guardar la mezcla en la nevera.",
+  "url": null
+}

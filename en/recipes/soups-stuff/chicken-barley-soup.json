@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-barley-soup",
+  "name": "Chicken Barley Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1-2 lb chicken (cut up)",
+    "2 quarts water",
+    "1 1/2 cups carrots (diced)",
+    "1 cup celery (diced)",
+    "1/2 cup barley",
+    "1/2 cup onion (chopped)",
+    "1 optional chicken bouillon",
+    "1 tsp salt (optional)",
+    "1 bay leaf",
+    "1/2 tsp poultry seasoning",
+    "1/2 tsp pepper",
+    "1/2 tsp dried sage"
+  ],
+  "recipeInstructions": "1. In a large kettle, cook the chicken in water until tender.\n2. Cool the broth and skim off any fat that rises to the surface.\n3. Bone the chicken and cut it into bite-sized pieces. Return these pieces to the kettle along with the remaining ingredients.\n4. Simmer everything together, covered, for at least 1 hour or until the vegetables and barley are tender. Remove the bay leaf before serving.",
+  "url": null
+}

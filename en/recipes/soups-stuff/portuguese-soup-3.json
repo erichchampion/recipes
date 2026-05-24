@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "portuguese-soup-3",
+  "name": "Portuguese Soup",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "6 cups Chicken stock - OR canned broth",
+    "1 lb CHORIZO (smoked, diced)",
+    "1 lb Potatoes (boiling type, peeled, diced)",
+    "1 can Kidney beans (drained)",
+    "1 can Tomatoes (diced)",
+    "1/2 Head cabbage (green, medium, coarsely chopped)",
+    "1 Med. onion (chopped)",
+    "1 large Carrot (diced)",
+    "1/2 Bell pepper (green, diced)",
+    "3 Clove garlic (minced)"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a large pot.\n2. Bring to a boil and stir occasionally.\n3. Reduce heat and simmer until thick, stirring occasionally, about 2 hours.\n4. Season with pepper.\n5. The soup can be prepared up to 2 days ahead; refrigerate. Rewarm before serving.",
+  "url": null
+}

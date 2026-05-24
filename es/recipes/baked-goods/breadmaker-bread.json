@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "breadmaker-bread",
+  "name": "Pan de panificadora",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "280 ml de agua tibia",
+    "2 cucharadas de leche desnatada en polvo",
+    "3 cucharadas de margarina",
+    "1 cucharadita de sal",
+    "2 cucharadas de azúcar",
+    "2 tazas de harina blanca",
+    "1 taza de harina integral",
+    "1 1/2 cucharadas de miel (opcional)",
+    "1 1/2 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "1. Vierta todos los ingredientes en el pan de la máquina panificadora en el orden indicado.\n2. Seleccione un ciclo de 3 horas o para pan blanco en su máquina panificadora.\nNota: Para pan blanco, utilice 3 tazas de harina blanca y 0 tazas de harina integral. La miel no es necesaria en esta receta.",
+  "url": null
+}

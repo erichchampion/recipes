@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-pita-breakfast",
+  "name": "Quick Pita Breakfast",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 small apple, diced",
+    "1/4 cup cottage cheese, lowfat",
+    "1 tablespoon raisins",
+    "1/2 whole wheat pita bread"
+  ],
+  "recipeInstructions": "1. Combine the diced apple, cottage cheese, and raisins in a bowl.\n2. Fill a whole wheat pita pocket with the mixture.",
+  "url": null
+}

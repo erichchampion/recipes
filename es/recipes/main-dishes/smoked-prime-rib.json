@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "smoked-prime-rib",
+  "name": "Costilla de res ahumada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecua",
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "8 lb de costilla de res (prime rib)",
+    "Especias para el adobo seco:",
+    "4 cucharaditas de pimentón dulce",
+    "2 cucharaditas de sal",
+    "2 cucharaditas de polvo de cebolla",
+    "2 cucharaditas de pimienta negra",
+    "1 cucharadita de guindilla en polvo"
+  ],
+  "recipeInstructions": "1. Espolvorear las especias del adobo seco sobre toda la superficie de la costilla.\n2. Asar la costilla en una parrilla ahumadora (calor indirecto) durante 3-4 horas a 200-250 °F (375-120 °C), o hasta que un termómetro de carne indique 63 °C (140 °F) para un punto M-Rare.\n3. Espolvorear hojas de romero machacadas tres cuartos de la manera por el tiempo de cocción.",
+  "url": null
+}

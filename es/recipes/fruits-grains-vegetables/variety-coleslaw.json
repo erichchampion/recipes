@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "variety-coleslaw",
+  "name": "Ensalada de Coles de Variedad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "baja en calorías",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de col rallada",
+    "1 zanahoria mediana, cortada o rallada",
+    "2 cucharadas de pimiento verde, cortado",
+    "1/4 taza de aderezo dietético cocido",
+    "2 cucharadas de yogur natural",
+    "OPCIÓN DE UNO:",
+    "1/2 manzana, cortada",
+    "1/3 taza de trozos de piña enlatada escurrida sin endulzar",
+    "2 cucharadas de pasas"
+  ],
+  "recipeInstructions": "1. Mezclar la col, la zanahoria y el pimiento verde en un bol.\n2. Batir el aderezo con el yogur.\n3. Agregar manzana, piña o pasas a la mezcla de col.\n4. Verter el aderezo sobre la ensalada y mezclar suavemente.",
+  "url": null
+}

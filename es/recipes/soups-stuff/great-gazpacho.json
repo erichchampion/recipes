@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "great-gazpacho",
+  "name": "Gran gazpacho",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 tazas de jugo de verduras o tomate",
+    "1 cebolla mediana, picada",
+    "2 tomates medianos, cortados en dados",
+    "1 pimiento verde, picado",
+    "1 diente de ajo machacado",
+    "1 pepino mediano, cortado en dados",
+    "2 cucharadas de zumo de limón",
+    "2 cucharadas de vinagre de vino tinto",
+    "1 cucharadita de tomillo seco",
+    "1 cucharadita de albahaca fresca picada",
+    "1 pizca de comino molido",
+    "1 cucharadita de salsa picante",
+    "2 cucharadas de aceite de oliva",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande.\n2. Revolver hasta que esté bien combinado.\n3. Cubrir el bol con papel film y refrigerar durante 2 horas, o hasta enfriar.",
+  "url": null
+}

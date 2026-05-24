@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-tease-omelet",
+  "name": "Cheese-Tease Omelet",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "eggs",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "8 eggs",
+    "1/2 cup cottage cheese, creamed",
+    "1/2 cup cream cheese, softened",
+    "pinch salt",
+    "2 packets sugar substitute",
+    "1 teaspoon vanilla",
+    "1/2 teaspoon cinnamon",
+    "1/4 cup cream",
+    "3 tablespoons butter",
+    "2 tablespoons sour cream, optional/topping"
+  ],
+  "recipeInstructions": "1. Combine all ingredients except butter and sour cream in a bowl.\n2. Beat until smooth.\n3. Melt butter in a large nonstick omelet pan or skillet.\n4. Follow the directions for cooking an omelet (see Basic Omelet recipe).\n5. Serve plain or top with sour cream.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-rosa",
+  "name": "Pasta Rosa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guiso",
+    "plato principal",
+    "carne",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "8 tomates secos al sol",
+    "1/4 taza de ajo picado",
+    "1 cucharadita de pimentón cayena",
+    "1 taza de aceite de oliva extra virgen",
+    "24 camarones medianos, pelados",
+    "1/2 taza de rúcula picada",
+    "1 cucharadita de sal",
+    "1 libra de tortellini de queso, cocidos",
+    "1/2 taza de queso romano rallado"
+  ],
+  "recipeInstructions": "1. Rehidratar los tomates secos y cortarlos en tiras.\n2. En una sartén, sofreír el ajo y el pimentón cayena en aceite de oliva hasta que fragante.\n3. Agregar los camarones a la sartén y cocinar hasta que estén casi hechos (ver nota).\n4. Incorporar la rúcula y la sal. Cocinar solo hasta que los camarones estén tiernos.\n5. Mezclar la pasta cocida con el queso, la mezcla de camarones y los ingredientes restantes en un bol para servir.",
+  "url": null
+}

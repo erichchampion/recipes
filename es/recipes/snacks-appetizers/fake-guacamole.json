@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "fake-guacamole",
+  "name": "Falsa guacamole",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "mexicano",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "16 onzas de bolsa de guisantes congelados, descongelados",
+    "1 pequeña lata de chiles verdes medianos picantes",
+    "¼ taza de cebolla picada",
+    "¾ cucharadita de polvo de ajo",
+    "1 cucharadita de polvo de chile rojo",
+    "4 cucharadas de su salsa favorita (o tomates picados)",
+    "1 cucharadita de comino al gusto",
+    "Sal y pimienta al gusto",
+    "Cualquier otra especia que le guste"
+  ],
+  "recipeInstructions": "Mucha menor en grasa que el guacamole real. ¡Intente esta receta, quedará sorprendido! Descongele los guisantes colocando en un colador y corriéndolos bajo agua tibia. Para comprobar si están descongelados, muerda uno ocasionalmente. Una vez descongelados (solo debería tomar 1-2 minutos), escurra bien y vierta los guisantes en una licuadora o procesador de alimentos.\nMezcle los guisantes en la licuadora o procesador hasta obtener una puré. Coloque la puré de guisantes en un bol de cerámica y mezcle con los ingredientes restantes. Refrigere durante varias horas para que se mezclen los sabores. Rinde aproximadamente 1 1/2 tazas.",
+  "url": null
+}

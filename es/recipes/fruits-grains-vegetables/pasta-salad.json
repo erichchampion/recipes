@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-salad",
+  "name": "Ensalada de pasta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "granos",
+    "pasta",
+    "arroz",
+    "ensaladas",
+    "verdura"
+  ],
+  "recipeIngredient": [
+    "8 onzas de pasta tipo lazo",
+    "3/4 taza de guisantes verdes congelados, descongelados",
+    "1/2 taza de pimientos rojos, picados",
+    "1/2 taza de cebolla, picada",
+    "3 tazas de brócoli cortado congelado, descongelado y cocido",
+    "12 onzas de atún en agua, escurrido y desmenuzado",
+    "Salsa:",
+    "1 cucharadita de aceite de oliva",
+    "2 cucharadas de vinagre blanco",
+    "1/2 cucharadita de salsa picante",
+    "2 cucharaditas de miel",
+    "2 cucharaditas de sal",
+    "1/2 cucharadita de polvo de ajo",
+    "1/2 cucharadita de jengibre",
+    "1/2 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta tipo lazo según las instrucciones del paquete; escurrir y enfriar.\n2. Agregar los guisantes, pimientos, cebolla, brócoli y atún a la pasta enfriada.\n3. En un bol para mezclar, combinar el vinagre, salsa picante, miel, sal, polvo de ajo, jengibre y pimienta negra.\n4. Verter la salsa sobre la mezcla de pasta.\n5. Mezclar suavemente.\n6. Tapar y refrigerar hasta servir.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pig-lickin-cake",
+  "name": "Pastel de Pig Lickin",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "CAKE:",
+    "1 caja de mezcla para pastel amarillo",
+    "400 g de mandarinas en jugo",
+    "125 g de mantequilla ablandada",
+    "FROSTING:",
+    "250 g de Cool Whip®, descongelado",
+    "400 g de piña triturada en jugo",
+    "1 caja de mezcla para pudín instantáneo de vainilla"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 175 °C.\n2. Mezclar los ingredientes del pastel y verter en un molde rectangular engrasado y enharinado de 23x33 cm.\n3. Hornear durante 30 minutos o hasta que al insertar un palillo, este salga limpio.\n4. Dejar enfriar completamente.\n5. Cubrir con el frosting y refrigerar.\nNota: No batir en exceso la masa antes de hornear.",
+  "url": null
+}

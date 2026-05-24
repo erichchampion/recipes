@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "dijon-dressing",
+  "name": "Dijon Dressing",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "dressings",
+    "french",
+    "sauce",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 egg",
+    "2 tablespoons olive oil",
+    "2 tablespoons white wine vinegar",
+    "1 tablespoon dijon mustard",
+    "1/4 teaspoon kosher salt",
+    "1/4 teaspoon white pepper",
+    "1/4 teaspoon sugar"
+  ],
+  "recipeInstructions": "1. Break the egg into a cup of hot tap water and let it stand for 2 minutes.\n2. Strain the egg to drain well.\n3. Combine the drained egg with the remaining ingredients in a food processor.\n4. Process until smooth, creating a puree.\n5. Cover and chill for 2-48 hours.\n6. Serve slightly chilled.",
+  "url": null
+}

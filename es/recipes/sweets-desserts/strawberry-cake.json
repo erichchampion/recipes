@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-cake",
+  "name": "Pastel de fresa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 caja de mezcla para pastel Betty Crocker de sabor blanco",
+    "3 cucharadas de harina",
+    "1 taza de aceite",
+    "2 tazas de agua",
+    "4 huevos",
+    "1/2 taza de fresas congeladas, sin escurrir",
+    "1 caja de gelatina de fresa",
+    "Crema:",
+    "1 caja de azúcar glas",
+    "1 barra de margarina o mantequilla ablandada",
+    "1/2 taza de fresas congeladas, sin escurrir"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes del pastel hasta combinarlos bien.\n2. Precalentar el horno a 350 °F (175 °C) y hornear durante 50 minutos.\n3. Combinar los ingredientes de la crema y extender sobre el pastel aún caliente.",
+  "url": null
+}

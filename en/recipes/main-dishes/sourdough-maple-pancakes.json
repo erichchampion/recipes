@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "sourdough-maple-pancakes",
+  "name": "Sourdough Maple Pancakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breads",
+    "breakfast",
+    "brunch",
+    "main dish",
+    "pancakes"
+  ],
+  "recipeIngredient": [
+    "2 cups Starter",
+    "1 Egg, beaten",
+    "2 tablespoons Butter, melted",
+    "1/4 cup Maple syrup",
+    "1/2 teaspoon Salt",
+    "Flour",
+    "1/2 teaspoon Baking soda"
+  ],
+  "recipeInstructions": "1. Add the egg and melted butter to the starter mixture. Stir in the maple syrup and salt until just combined.\n2. Gradually add the flour mixture to achieve the desired consistency. Mix until no lumps remain.\n3. Just before baking, dissolve the baking soda in 1 tablespoon of water and gently fold into the batter.\n4. Form pancakes that are about 2 inches wide. Cook for 2 to 4 minutes on one side, then turn and cook for an additional 2 minutes.",
+  "url": null
+}

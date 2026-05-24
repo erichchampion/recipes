@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-tooth-recipe",
+  "name": "Receta para el gusto dulce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 1/3 tazas de harina integral",
+    "1 taza de azúcar moreno",
+    "2 tazas de avena (puede ser harina de avena o avena molida)",
+    "1 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de polvo de hornear",
+    "Al gusto canela",
+    "Al gusto clavos",
+    "Al gusto nuez moscada",
+    "Al gusto jengibre",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes secos.\n2. Combinar los ingredientes húmedos (excepto el miel) y mezclar con los ingredientes secos. Si la masa está muy seca (debe estar húmeda y maleable), agregar hasta 1/2 taza de miel.\n3. Refrigerar hasta enfriar la masa.\n4. Hornear en un horno precalentado a 300-325 °F.\n5. Rocíe ligeramente los moldes con Pam o utilice papel pergamino.\n6. Hornear hasta que queden crujientes. Tenga en cuenta que esto es importante porque las galletas seguirán humedeciéndose si se guardan por mucho tiempo. Puede agregar sus frutas secas favoritas para un sabor adicional.\n¡Buen provecho y que disfrute la receta! Si tiene alguna pregunta, no dude en contactarme.",
+  "url": null
+}

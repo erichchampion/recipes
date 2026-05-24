@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-vegetables",
+  "name": "Pasta y Verduras",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 taza de ricota descremada",
+    "1/2 taza de mozzarella rallada",
+    "1/2 taza de queso romano rallado",
+    "3 claras de huevo (opcional)",
+    "1/2 cucharadita de tomillo seco",
+    "1/2 cucharadita de orégano seco",
+    "1/8 cucharadita de polvo de ajo",
+    "Sal y pimienta al gusto",
+    "2 tazas de brócoli en floretes",
+    "1 taza de cebolla picada",
+    "3 zanahorias medianas en rodajas",
+    "2 tallos de apio en rodajas",
+    "1/2 libra de espagueti",
+    "1 cucharada de aceite de oliva",
+    "1 taza de tomates frescos picados",
+    "1/2 taza de perejil fresco picado"
+  ],
+  "recipeInstructions": "1. En un bol mediano, combina los quesos, las claras de huevo (si se usan), el tomillo, el orégano, el polvo de ajo, la sal y la pimienta. Reserva.\n2. Separa.\n3. Cocina al vapor el brócoli, las cebollas, las zanahorias y el apio hasta que el brócoli esté crujiente, aproximadamente 5 minutos.\n4. Añade la pasta y el aceite a una olla grande con agua hirviendo y cocina hasta que la pasta esté ligeramente tierna pero firme al morder, unos 5 minutos.\n5. Escurre la pasta y devuélvela a la olla.\n6. Incorpora las verduras cocidas y mezcla bien.\n7. Agrega la mezcla de queso y vuelve a mezclar.\n8. Transfiere a un bol para servir.\n9. Coloca los tomates picados en el centro de la pasta.\n10. Decora los bordes con perejil.",
+  "url": null
+}

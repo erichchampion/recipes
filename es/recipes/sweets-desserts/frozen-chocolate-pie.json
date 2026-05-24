@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "frozen-chocolate-pie",
+  "name": "Tarta de chocolate congelada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 paquete de queso crema (3 onzas), ablandado",
+    "1/2 taza de azúcar",
+    "1 cucharadita de extracto de vainilla",
+    "1/3 taza de cacao en polvo",
+    "1/3 taza de leche",
+    "1 caja de crema batida congelada (8 onzas), descongelada",
+    "1 masa de tarta (9 pulgadas), horneada",
+    "virutas o chips de chocolate (opcional)"
+  ],
+  "recipeInstructions": "1. En un bol para mezclar, bate el queso crema, el azúcar y la vainilla hasta que quede suave.\n2. Agrega el cacao en polvo y la leche alternativamente; mezcla bien.\n3. Incorpora la crema batida.\n4. Vierte la mezcla en la masa de tarta.\n5. Congela durante 8 horas o durante la noche.\n6. Si lo deseas, decora con virutas o chips de chocolate.\n7. Sirve directamente desde el congelador; la tarta no necesita descongelarse para cortarla.",
+  "url": null
+}

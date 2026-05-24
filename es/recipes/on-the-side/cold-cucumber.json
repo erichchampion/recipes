@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cold-cucumber",
+  "name": "Ensalada de Pepino Frío",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "asiático",
+    "chino",
+    "condimentos",
+    "étnico"
+  ],
+  "recipeIngredient": [
+    "1 pepino",
+    "1/2 cucharadita de sal",
+    "1 cucharada (1 1/4 cucharadas) de salsa de soja",
+    "1 cucharada (1 1/4 cucharadas) de vinagre de vino",
+    "1 cucharada (1 1/4 cucharadas) de azúcar granulada",
+    "2 cucharaditas de aceite de sésamo"
+  ],
+  "recipeInstructions": "1. Pelar el pepino y cortarlo en cubos pequeños.\n2. En un bol, mezclar los cubos de pepino con los ingredientes restantes.\n3. Dejar reposar la mezcla durante 5 minutos antes de servir para que se mezclen los sabores.\n4. Asegurarse de que el azúcar se haya disuelto por completo antes de servir.",
+  "url": null
+}

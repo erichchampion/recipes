@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "luscious-fruit-salad",
+  "name": "Ensalada de frutas deliciosa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "fruta",
+    "naranjas",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 lata de naranjas mandarinas",
+    "3 melocotones frescos, cortados en rodajas",
+    "3 manzanas, cortadas en cubos",
+    "3 plátanos, cortados en rodajas",
+    "1/2 taza de nueces picadas",
+    "1 pequeño cartón de crema batida",
+    "Media crema (crema para batir)",
+    "1 cucharadita de extracto de vainilla",
+    "1/2 taza de melocotones o naranjas mandarinas cortados en dados"
+  ],
+  "recipeInstructions": "1. Batir la crema y el extracto de vainilla hasta que esté espumosa.\n2. Incorporar lentamente 1/2 taza de melocotones o naranjas mandarinas cortados en dados.\n3. Mezclar los ingredientes restantes: frutas cortadas y nueces picadas.\n4. Servir para 4 a 6 personas. ¡Delicioso!",
+  "url": null
+}

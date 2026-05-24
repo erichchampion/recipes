@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "never-fail-cake",
+  "name": "Pastel que nunca falla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pastel",
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3 tazas de harina tamizada",
+    "2 tazas de azúcar tamizada",
+    "3/4 taza de aceite",
+    "1 taza de leche agria",
+    "1 taza de agua hirviendo",
+    "2 huevos",
+    "1 cucharadita de bicarbonato de sodio tamizado",
+    "1 cucharadita de polvo de hornear tamizado",
+    "Una pizca de sal tamizada",
+    "1/2 taza de cacao tamizado",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "En un bol grande, mezcla los ingredientes secos. Añade la leche, los huevos y el aceite, removiendo bien. Incorpora el agua hirviendo y la vainilla. Vierte la masa en un molde para pastel o tubo rociado con Pam. Hornea a 175 °C durante una hora. Usa un cuchillo para recorrer la borde del molde, luego deja enfriar durante 15 minutos. Retira del molde y cubre con frosting de chocolate.",
+  "url": null
+}

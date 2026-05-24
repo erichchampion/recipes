@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "diabetic-cookies",
+  "name": "Galletas para diabéticos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres",
+    "diabético"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de manteca/margarina",
+    "1 cucharadita de bicarbonato de sodio",
+    "1 manzana rallada",
+    "1/2 cucharadita de sal",
+    "1 cucharadita de Sweet 'n' Low",
+    "1/2 cucharadita de canela",
+    "1/2 cucharadita de nuez moscada",
+    "1/4 cucharadita de clavo molido",
+    "1 cucharadita de extracto de vainilla",
+    "1/2 taza de buttermilk o crema agria (harina)"
+  ],
+  "recipeInstructions": "1. Batir juntos la manteca, el huevo, el sustituto del azúcar y la mantequilla.\n2. Agregar el buttermilk y mezclar con la harina, el bicarbonato de sodio, la manzana, la sal, la canela, la nuez moscada, el clavo y la vainilla.\n3. Colocar porciones de masa en una bandeja para hornear engrasada.\n4. Hornear durante 7-8 minutos a 175 °C.",
+  "url": null
+}

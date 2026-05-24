@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "millet-casserole",
+  "name": "Cazuela de Mijo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "legumbres",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "3 tazas de mijo",
+    "1 cucharadita de aceite",
+    "2 cebollas medianas, cortadas finamente",
+    "3 costillas de apio, cortadas finamente",
+    "1 taza de garbanzos cocidos",
+    "5 tazas de agua",
+    "1 cucharadita de sal marina",
+    "2 tazas de brócoli cortado"
+  ],
+  "recipeInstructions": "1. Enjuagar y escurrir el mijo.\n2. Tostar el mijo en una sartén pesada durante 6 minutos, removiendo constantemente, hasta que desprenda un aroma a nuez. Retirar del fuego.\n3. Calentar el aceite en una olla grande a fuego medio y saltear las cebollas durante 2 minutos.\n4. Añadir el apio y saltear durante 5 minutos, removiendo con frecuencia.\n5. Incorporar los garbanzos, el agua y la sal. Llevar a ebullición.\n6. Agregar el mijo y devolver a ebullición. Reducir el fuego, tapar y dejar cocer durante 20 minutos.\n7. Añadir el brócoli y seguir cocinando durante 5 minutos.\n8. Presionar la mezcla firmemente en un molde para pastel de 9 pulgadas. Espolvorear con aderezo, cortar en cuadrados y servir.",
+  "url": null
+}

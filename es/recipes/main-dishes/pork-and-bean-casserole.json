@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "pork-and-bean-casserole",
+  "name": "Cazuela de Cerdo y Frijoles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "frijoles",
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lata (400 g) de frijoles de cerdo, escurridos",
+    "1 lata (400 g) de frijoles de cerdo, escurridos y enjuagados",
+    "1/2 taza de cebolla picada",
+    "1 taza de queso Cheddar fuerte rallado",
+    "1 cucharadita de polvo de chile",
+    "1/2 cucharadita de polvo de chile",
+    "4 cucharadas de salsa Worcestershire",
+    "4 cucharadas de azúcar moreno",
+    "2 cucharadas de vinagre blanco",
+    "1 cucharada de mostaza preparada",
+    "8 rebanadas de tocino frito y desmenuzado"
+  ],
+  "recipeInstructions": "1. Engrasar ligeramente una olla de cocción lenta.\n2. Mezclar los frijoles, la cebolla, el queso, el polvo de chile, la salsa Worcestershire, el azúcar moreno, el vinagre blanco y la mostaza en la olla de cocción lenta.\n3. Cubrir con el tocino desmenuzado.\n4. Cocinar a fuego lento durante 6-8 horas o a fuego alto durante 3-4 horas.\n5. Servir.",
+  "url": null
+}

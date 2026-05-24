@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "guacamole-2",
+  "name": "Guacamole #2",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "dips",
+    "mexican",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "4 Avocados",
+    "1/2 cup Green Chilis, chopped",
+    "1/2 Medium Tomato, chopped",
+    "2 tsp Onion, finely chopped",
+    "2 tsp Mayonnaise",
+    "1/2 tsp Salt",
+    "2 tbsp Lemon Juice",
+    "1/4 tsp Garlic Salt",
+    "1/2 tsp White Pepper",
+    "1/2 tsp Worcestershire Sauce"
+  ],
+  "recipeInstructions": "1. Peel and seed the avocados.\n2. Add all ingredients to a bowl.\n3. Mash until smooth.\n4. The lemon juice will keep it from turning dark.",
+  "url": null
+}

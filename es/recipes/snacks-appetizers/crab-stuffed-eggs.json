@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "crab-stuffed-eggs",
+  "name": "Huevos rellenos de cangrejo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "mariscos",
+    "tentempié"
+  ],
+  "recipeIngredient": [
+    "1 docena de huevos duros",
+    "1 taza de carne de cangrejo en hojuelas",
+    "1 taza de apio picado finamente",
+    "2 cucharadas de pimiento verde picado",
+    "1 cucharadita de mezcla para aderezo francés seco",
+    "1/4 taza de mayonesa O 1/3 taza de crema agria ligera"
+  ],
+  "recipeInstructions": "1. Cortar los huevos duros por la mitad a lo largo.\n2. Retirar las yemas y claras de cada mitad.\n3. Agregar la carne de cangrejo, el apio y el pimiento verde a las yemas.\n4. Mezclar el aderezo francés con la mayonesa o crema agria ligera.\n5. Combinar todo bien.\n6. Rellenar las claras con la mezcla.\n7. Refrigerar hasta servir.",
+  "url": null
+}

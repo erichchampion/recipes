@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-chicken-stuffing",
+  "name": "Mock Chicken Stuffing",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "stuffings"
+  ],
+  "recipeIngredient": [
+    "2 cups cooked rice (can be leftover refrigerated, not too old or dry)",
+    "handful of dried currants",
+    "handful of dried (sweetened) cranberries",
+    "2 cups couscous",
+    "2 German celery stalks (they're one of the easiest veggies to grow, very savory)",
+    "3 tbsp nutritional yeast",
+    "salt to taste"
+  ],
+  "recipeInstructions": "1. Boil some water and add couscous, chopped up celery stalks, and dried fruit.\nCook for 4 minutes or until couscous is tender. Drain the water.\n2. Blend the steaming hot couscous with the cold cooked rice, add nutritional yeast,\nand stir to combine. Add salt to taste.\nServe immediately. This mixture tastes savory and has a chicken-like flavor, with\nthe yeast adding extra flavor and nutrients.",
+  "url": null
+}

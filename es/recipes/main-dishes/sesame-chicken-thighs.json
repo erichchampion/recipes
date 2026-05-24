@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "sesame-chicken-thighs",
+  "name": "Pollo de pechuga con sésamo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "10 muslos de pollo",
+    "3 cucharadas de salsa de soja clara",
+    "2 cucharadas de jerez seco",
+    "1/8 cucharadita de jengibre fresco rallado",
+    "3 cucharadas de almidón de maíz",
+    "4 cucharadas de semillas de sésamo crudas",
+    "Aceite de maní para freír"
+  ],
+  "recipeInstructions": "1. Cortar los muslos de pollo por la mitad a lo largo del hueso.\n2. Marinar en salsa de soja, jerez, jengibre y suficiente almidón de maíz para hacer una salsa espesa durante 1 hora. Agregar las semillas de sésamo.\n3. Freír los trozos en aceite de maní a 175°C hasta que estén ligeramente dorados. Se puede intentar sustituir el pollo por carne de res.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "sunny-milk",
+  "name": "Leche Soleada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "lácteos",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 litro de agua fría",
+    "1 taza de semillas de girasol",
+    "1/2 taza de plátano maduro (opcional)",
+    "1 cucharada de sorgo",
+    "3 cucharadas de pasas"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes a una licuadora.\n2. Licuar a velocidad alta durante 2 minutos.\n3. Servir como bebida o sobre granola.\n4. Para una leche más espesa, agregar el plátano maduro.\n5. Disfrutar con cereales para el desayuno.\nVariación: Remojar las semillas de girasol en agua durante la noche antes de licuar.",
+  "url": null
+}

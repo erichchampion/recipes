@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "ghoul-aid",
+  "name": "Ayuda de Muertos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Holiday Foods",
+  "keywords": [
+    "bebidas",
+    "vacaciones"
+  ],
+  "recipeIngredient": [
+    "1 sobre de Kool-Aid, uva",
+    "1 sobre de Kool-Aid, naranja",
+    "2 tazas de azúcar",
+    "3 litros de agua",
+    "1 litro de refresco de jengibre, frío"
+  ],
+  "recipeInstructions": "1. Utilice el Kool-Aid sin endulzar.\n2. En un jarro grande de vidrio o plástico, mezcle los sobres de Kool-Aid con el azúcar y el agua. Revuelva hasta que esté bien mezclado y el Kool-Aid se haya disuelto por completo.\n3. Agregue el refresco de jengibre y sirva inmediatamente. Rinde aproximadamente 8-10 porciones.",
+  "url": null
+}

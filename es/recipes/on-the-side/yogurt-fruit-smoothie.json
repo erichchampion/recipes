@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "yogurt-fruit-smoothie",
+  "name": "Batido de yogur y fruta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de yogur bajo en grasa con sabor a bayas",
+    "1 plátano maduro",
+    "1 taza de jugo con sabor a bayas",
+    "1/2 taza de hielo triturado"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en una licuadora.\n2. Licúa hasta obtener una consistencia suave y cremosa.\n3. Sirve inmediatamente para disfrutar de su sabor y textura óptimos.",
+  "url": null
+}

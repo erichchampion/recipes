@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-spaghetti-with-meat-sauce",
+  "name": "Espaguetis rápidos con salsa de carne",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne picada de pavo cruda",
+    "1/4 cucharadita de polvo de ajo",
+    "3 cucharadas de cebolla picada",
+    "1 lata (6 onzas) de puré de tomate",
+    "1 taza de agua",
+    "2 cucharadas de parmesano rallado",
+    "1 1/2 cucharaditas de hierbas italianas",
+    "2 tazas de espaguetis cocidos con agua hirviendo",
+    "1/8 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Rocía una sartén grande con spray para cocinar y caliéntala a fuego medio hasta que esté caliente.\n2. Añade el pavo y la cebolla; cocina hasta que esté dorado, desmenuzando con una espátula.\n3. Escurre bien y devuélvelo a la sartén. Mezcla el agua, las hierbas italianas, la sal, el polvo de ajo y el puré de tomate.\n4. Lleva a ebullición. Reduce el fuego y deja cocinar a fuego lento sin tapar durante 10 minutos o hasta que espese, removiendo ocasionalmente.\n5. Sirve sobre los espaguetis y espolvorea con queso parmesano.",
+  "url": null
+}

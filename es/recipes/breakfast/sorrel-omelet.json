@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "sorrel-omelet",
+  "name": "Omeleta de sorrel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "queso/huevos",
+    "huevos",
+    "plato principal",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "20 hojas de rúcula (sin tallos)",
+    "3 cucharadas de mantequilla",
+    "3 huevos",
+    "2 cucharadas de agua",
+    "Sal",
+    "Pimienta molida fresca",
+    "2 cucharadas de crema"
+  ],
+  "recipeInstructions": "1. Cortar la rúcula en tiras.\n2. Derritar media cucharada de mantequilla en una sartén para omelet y cocinar las hojas hasta que se marchiten y adquieran un color grisáceo, aproximadamente 1-2 minutos.\n3. Batir ligeramente los huevos con el agua, sazonar con sal y pimienta, y mezclar con la rúcula.\n4. Derritar la mantequilla restante en la sartén y, cuando esté caliente, agregar los huevos.\n5. A medida que los bordes se cocinan, levantarlos con un tenedor hacia el centro de la sartén, inclinando la sartén para que los huevos sin cocinar fluyan.\n6. Cuando los huevos estén hechos, doblar la omelet por tercios y volcarla sobre un plato.\n7. Volver a colocar la sartén sobre el fuego y agregar la crema. Dejar hervir y reducir hasta espesar ligeramente.\n8. Cortar una ranura en el centro de la omelet, verter la crema y servir.",
+  "url": null
+}

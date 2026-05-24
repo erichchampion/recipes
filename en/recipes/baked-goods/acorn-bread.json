@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "acorn-bread",
+  "name": "Acorn Bread",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "american",
+    "breads",
+    "ethnic",
+    "native",
+    "native american"
+  ],
+  "recipeIngredient": [
+    "1 cup Acorn meal",
+    "1 cup Flour",
+    "2 tablespoons Baking powder",
+    "1/2 teaspoon Salt",
+    "3 teaspoons Sugar",
+    "1 Egg, beaten",
+    "1 cup Milk",
+    "3 tablespoons Oil"
+  ],
+  "recipeInstructions": "1. Sift together the acorn meal, flour, baking powder, salt, and sugar.\n2. In a separate bowl, mix together the egg, milk, and oil.\n3. Combine the dry ingredients with the liquid ingredients until just moistened.\n4. Pour the batter into a greased pan.\n5. Bake at 400°F for 30 minutes.",
+  "url": null
+}

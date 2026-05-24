@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-dish-2",
+  "name": "Plato de espaguetis n.º 2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "2 tazas de pasta Angel Hair (cocida)",
+    "1 cucharada de margarina (derretida)",
+    "1/4 taza de clara de huevo",
+    "1/4 taza de queso Parmesano",
+    "1 taza de queso cottage sin grasa",
+    "1 libra de carne molida de pavo (cocida)",
+    "1 taza de cebolla picada",
+    "1 taza de pimientos rojos picados",
+    "8 onzas de salsa de tomate (enlatada)",
+    "3 cucharaditas de orégano",
+    "3 cucharaditas de albahaca",
+    "2 cucharaditas de sal",
+    "1 taza de queso mozzarella rallado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 175°C.\n2. Engrasar una fuente rectangular de 23 x 33 x 2 cm.\n3. Para la base, cocinar la pasta en agua hirviendo con abundante sal durante 10-12 minutos hasta que esté tierna. Escurrir bien y devolver a la olla. Mezclar la margarina, las claras de huevo y el queso Parmesano con la pasta caliente. Presionar la mezcla de espagueti sobre el fondo de la fuente preparada.\n4. Extender el queso cottage sobre la base.\n5. Para el relleno, cocinar la carne de pavo, la cebolla y los pimientos en una sartén hasta que la carne ya no esté rosada. Escurrir el exceso de grasa si es necesario. Añadir la salsa de tomate, orégano, albahaca y sal. Extender la mezcla de carne sobre el queso cottage.\n6. Espolvorear el queso mozzarella sobre la mezcla de carne. Hornear durante 25 minutos.",
+  "url": null
+}

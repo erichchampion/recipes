@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "roberta-s-cucumber-salad",
+  "name": "Ensalada de pepino de Roberta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensalada",
+    "ensaladas",
+    "dupree"
+  ],
+  "recipeIngredient": [
+    "3 pepinos (2 pelados y 1 sin pelar, cortados en dados)",
+    "1 1/2 tazas de yogur natural",
+    "1/2 taza de menta fresca picada",
+    "1 cucharada de zumo de limón",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar los pepinos, el yogur, la menta y el zumo de limón en un bol grande.\n2. Sazonar con sal y pimienta.\n3. Tapar y refrigerar hasta el momento de servir.",
+  "url": null
+}

@@ -1,0 +1,36 @@
+{
+  "@type": "Recipe",
+  "identifier": "festive-lasagne",
+  "name": "Lasaña festiva",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "queso",
+    "étnico",
+    "italiano"
+  ],
+  "recipeIngredient": [
+    "9 placas de lasaña, cocidas",
+    "-----Mezcla de carne-----",
+    "500 g de salchicha italiana en trozos",
+    "1 cebolla mediana, picada",
+    "2 dientes de ajo, picados",
+    "400 g de tomates enteros en lata (escurridos)",
+    "30 g de pasta de tomate",
+    "1 cucharadita de azúcar",
+    "1 cucharadita de sal",
+    "1 1/2 cucharaditas de hojas de albahaca machacadas",
+    "1 cucharadita de orégano",
+    "1/2 cucharadita de marjoram",
+    "1/2 cucharadita de pimentón rojo",
+    "1/4 cucharadita de pimienta negra",
+    "-----Mezcla de queso-----",
+    "300 g de ricota",
+    "1 huevo batido",
+    "1/3 taza de perejil fresco",
+    "400 g de mozzarella rallada",
+    "100 g de parmesano rallado"
+  ],
+  "recipeInstructions": "En una sartén grande, combine la salchicha, la cebolla y el ajo. Cocine hasta que la salchicha ya no sea rosada, removiendo ocasionalmente; escurra. Incorpore el resto de los ingredientes hasta el pimentón. Lleve a ebullición; reduzca el fuego y cocine a fuego lento durante 20 minutos.\nEn un bol mediano, mezcle la ricota, el huevo y el perejil.\nCree capas con los siguientes ingredientes:\nsalsa de carne\n3 placas de lasaña\n1/3 de salsa de carne\n1/2 de ricota\n1/2 de mozzarella\n1/3 de parmesano\n3 placas de lasaña\n1/3 de salsa de carne\n1/2 de ricota\n1/2 de mozzarella\n1/3 de parmesano\n3 placas de lasaña\n1/3 de salsa de carne\n1/3 de parmesano\nHornear durante una hora en un horno precalentado a 180 °C.",
+  "url": null
+}

@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "espresso-granita",
+  "name": "Granita de espresso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 libra de café espresso recién molido finamente",
+    "1 litro de agua hirviendo",
+    "1 taza de azúcar extrafino, hasta 1 1/2 tazas",
+    "1 taza de crema espesa batida con firmeza"
+  ],
+  "recipeInstructions": "1. Coloca la mitad del café en un cafetera tipo Melior con la mitad del agua hirviendo y deja que se filtre durante 10 minutos. Presiona el émbolo para extraer el café.\n2. Repite el proceso con la cantidad restante de café y agua, asegurándote de que el último filtro sea muy fuerte.\n3. Mezcla el azúcar hasta que el café quede ligeramente dulce.\n4. Congela la mezcla en una heladera siguiendo las instrucciones del fabricante hasta que adquiera una textura firme y granulada.\n5. Sirve la granita en copas de champán con un toque de crema batida sin endulzar.",
+  "url": null
+}

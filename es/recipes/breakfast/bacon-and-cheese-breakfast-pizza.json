@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "bacon-and-cheese-breakfast-pizza",
+  "name": "Pizza de desayuno con tocino y queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 masa de pastel de 9 pulgadas",
+    "250 g de tocino; cocinar, desmenuzar",
+    "200 g de queso suizo, rallado",
+    "4 huevos",
+    "300 g de crema agria",
+    "2 cucharadas de perejil fresco, picado"
+  ],
+  "recipeInstructions": "1. Estirar la masa para ajustarla a una bandeja para pizza de 30 cm.\n2. Hornear a 220°C durante 5 minutos.\n3. Espolvorear el tocino y el queso uniformemente sobre la corteza.\n4. En un bol, batir los huevos, la crema agria y el perejil hasta que estén lisos.\n5. Verter la mezcla sobre la pizza.\n6. Hornear durante 20 a 25 minutos o hasta que la pizza esté hinchada y ligeramente dorada.\nRinde: 6 porciones principales o 18 aperitivos",
+  "url": null
+}

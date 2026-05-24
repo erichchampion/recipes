@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-tortilla-bake",
+  "name": "Chicken Tortilla Bake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "3 cups shredded cooked chicken",
+    "2 cans (4 oz each) chopped green chiles",
+    "1 cup chicken broth",
+    "1 can (10 3/4 oz) condensed cream of mushroom soup, undiluted",
+    "1 can (10 3/4 oz) condensed cream of chicken soup, undiluted",
+    "1 small onion, finely chopped",
+    "12 corn tortillas",
+    "2 cups shredded cheddar cheese"
+  ],
+  "recipeInstructions": "1. In a bowl, combine the chicken, chilies, broth, soups, and onion; set aside.\n2. Warm tortillas in the microwave according to package directions.\n3. Layer half of the tortillas on the bottom of a greased 13x9x2 inch baking pan, cutting to fit if desired.\n4. Top with half of the chicken mixture and half of the cheese.\n5. Repeat layers.\n6. Bake, uncovered, at 350°F for 30 minutes.",
+  "url": null
+}

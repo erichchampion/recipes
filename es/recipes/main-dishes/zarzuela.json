@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "zarzuela",
+  "name": "Zarzuela",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1 kg de almejas, bien limpiadas",
+    "1 kg de gambas crudas",
+    "1 kg de filete de pescado cortado en trozos",
+    "1/4 kg de alitas de calamar",
+    "3 cucharadas de aceite de oliva",
+    "1 1/2 tazas de cebolla finamente picada",
+    "2 dientes de ajo picados",
+    "1 taza de arroz sin cocer",
+    "1/2 taza de perejil picado",
+    "16 onzas de tomates italianos en trozos gruesos",
+    "12 onzas de jugo de almeja",
+    "1/2 taza de vino tinto seco",
+    "1 taza de agua",
+    "2 cucharadas de cilantro picado",
+    "Una pizca de salsa Tabasco",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar los mariscos por separado hasta que estén apenas hechos. Retirar las almejas de sus conchas (descartando las que no se abran), pelar y desvenar las gambas. Reservar los mariscos.\n2. Calentar el aceite en una sartén a fuego medio. Saltear la cebolla y el ajo hasta que estén tiernos. Incorporar el arroz y el perejil, cocinando hasta que el arroz adquiera un color dorado.\n3. Agregar los tomates, el jugo de almeja, el vino y el agua a la sartén. Llevar a ebullición, cubrir, reducir el fuego y dejar cocer a fuego lento durante 15 minutos.\n4. Mezclar los mariscos con el arroz. Añadir el cilantro y la salsa Tabasco. Cubrir y cocinar a fuego lento durante 10 minutos adicionales.\n5. Comprobar la sazón y sazonar con sal y pimienta al gusto. Verter en un plato de servir poco profundo, cubrir con rodajas de aguacate, montones de crema agria y ramitas de cilantro. Servir con limas al lado.",
+  "url": null
+}

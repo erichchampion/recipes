@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "coffee-nog",
+  "name": "Café Nog",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "8 onzas de café recién preparado",
+    "1/2 taza de crema",
+    "1 yema de huevo",
+    "1 cucharada de azúcar moreno",
+    "Nutmeg (al gusto)"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar el azúcar y la yema de huevo. Batir hasta obtener una consistencia suave y homogénea.\n2. Calentar la crema en una cacerola pequeña a fuego medio hasta que comience a hervir suavemente.\n3. Añadir lentamente la mezcla de huevo y azúcar a la crema caliente, batiendo constantemente para evitar que hierva.\n4. Retirar del fuego y mezclar suavemente.\n5. Verter el café en tazas individuales.\n6. Cubrir cada taza con la mezcla de crema.\n7. Espolvorear con nuez moscada antes de servir.\n¡Disfruta tu Café Nog!",
+  "url": null
+}

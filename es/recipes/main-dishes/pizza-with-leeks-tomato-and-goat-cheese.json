@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-with-leeks-tomato-and-goat-cheese",
+  "name": "Pizza con cebollas, tomate y queso de cabra",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 base de pizza tipo Boboli",
+    "1 cucharada y media de mantequilla",
+    "2 cebollas medianas, cortadas en rodajas finas",
+    "1 cucharada de perejil fresco picado",
+    "3/4 taza de tomate, cortado en trozos",
+    "3 onzas de Montrachet o queso feta, desmenuzado",
+    "2 cucharadas de aceite de oliva"
+  ],
+  "recipeInstructions": "1. Derretir la mantequilla en una sartén grande a fuego medio-bajo.\n2. Añadir las cebollas y saltear hasta que estén tiernas, aproximadamente 10 minutos.\n3. Sazonar con sal y pimienta. Incorporar el perejil.\n4. Extender el topping de cebolla uniformemente sobre la base de Boboli.\n5. Espolvorear los tomates sobre la pizza.\n6. Cubrir con el queso y desmenuzar el Montrachet o queso feta.\n7. Rocíar con 1 cucharada de aceite de oliva.\n8. Hornear durante unos 10 minutos a 450°F (230°C).\n9. Retirar del horno y cepillar la corteza con aceite de oliva.",
+  "url": null
+}

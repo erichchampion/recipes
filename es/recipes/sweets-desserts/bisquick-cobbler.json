@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "bisquick-cobbler",
+  "name": "Cobler de Bisquick",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "tartas de frutas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de Bisquick",
+    "1 taza de leche",
+    "1 taza de azúcar",
+    "1 barra de margarina",
+    "1 lata grande de duraznos, en jarabe pesado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 grados.\n2. Derretir la margarina en un molde para hornear (13\" x 9\").\n3. Mezclar la leche, el azúcar y el Bisquick en un bol.\n4. Verter la mezcla sobre la margarina derretida.\n5. Escurrir la mitad del jarabe de los duraznos.\n6. Extender los duraznos con el jarabe restante sobre la masa.\n7. Hornear durante 45 minutos.\n8. Servir caliente.",
+  "url": null
+}

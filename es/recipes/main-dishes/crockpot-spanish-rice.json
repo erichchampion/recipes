@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-spanish-rice",
+  "name": "Arroz español en olla de cocción lenta",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "merosho",
+    "cocinador lento",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 cebolla, picada",
+    "1 pimiento verde, picado finamente",
+    "2 tomates, pelados y cortados en cuartos",
+    "400 g de salsa de tomate",
+    "375 ml de agua",
+    "2 cucharaditas de polvo de chile",
+    "2 cucharaditas de salsa Worcestershire",
+    "1 1/2 cucharaditas de ajo en polvo",
+    "180 g de arroz moreno",
+    "2 cucharadas de salsa picante"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una olla de cocción lenta.\n2. Tapar y cocinar a fuego lento durante 7-10 horas.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "veggie-burgers-2-2",
+  "name": "Hamburguesas de Verduras 2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "platos principales",
+    "hamburguesas",
+    "vegetariano",
+    "cereales"
+  ],
+  "recipeIngredient": [
+    "2 tazas de avena",
+    "2 claras de huevo",
+    "1/4 taza de salsa de soja",
+    "1/4 taza de agua",
+    "un poco de polvo de ajo",
+    "un poco de cebolla seca",
+    "1/2 taza de col, picada",
+    "1 1/2 tazas de zanahoria rallada"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes juntos.\n2. Forma la mezcla en hamburguesas.\n3. Coloca las hamburguesas en una bandeja para hornear forrada con papel pergamino o papel de aluminio.\n4. Hornea en un horno precalentado a 400 grados Fahrenheit (200 grados Celsius) durante unos 20 minutos, o hasta que las hamburguesas estén firmes y ligeramente doradas.",
+  "url": null
+}

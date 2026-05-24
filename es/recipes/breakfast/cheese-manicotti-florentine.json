@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-manicotti-florentine",
+  "name": "Manicotti de queso florentino",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "queso",
+    "italiano",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "16 tallos de manicotti",
+    "1 lb de ricota, o queso cottage",
+    "1/2 lb de mozzarella rallada",
+    "1 taza de parmesano rallado",
+    "2 huevos batidos",
+    "1 cucharadita de perejil picado",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1/8 cucharadita de nuez moscada",
+    "2 tazas de salsa de espagueti",
+    "1 cebolla pequeña, picada",
+    "1/2 lb de setas, laminadas",
+    "1/2 lb de espinacas, picadas (o espinacas descongeladas)"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla y las setas hasta que estén tiernas.\n2. Cocinar al vapor las espinacas hasta que se marchiten (o usar espinacas congeladas descongeladas). Mezclar la ricota, mozzarella, 3/4 taza de parmesano, huevos, perejil, especias. Añadir las espinacas salteadas a la mezcla anterior.\n3. Rellenar los tallos de manicotti con la mezcla. Colocar los tallos rellenos en una fuente para hornear engrasada de 13x9. Añadir el resto de la mezcla de verduras a la salsa de espagueti.\n4. Cubrir los manicotti con salsa y espolvorear con parmesano restante. Hornear a 175°C durante 35 minutos.",
+  "url": null
+}

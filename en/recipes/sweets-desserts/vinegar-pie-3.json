@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "vinegar-pie-3",
+  "name": "Vinegar Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1 egg",
+    "3 tbsp cider vinegar",
+    "1 tsp lemon extract",
+    "4 tbsp flour",
+    "1 cup sugar",
+    "1 cup boiling water",
+    "1 baked pie shell"
+  ],
+  "recipeInstructions": "1. Mix the sugar and flour together.\n2. Add the boiling water to the mixture.\n3. Cook for 5 minutes.\n4. Stir in the lemon extract and cider vinegar.\n5. Pour the filling into the pre-baked pie shell and cool.",
+  "url": null
+}

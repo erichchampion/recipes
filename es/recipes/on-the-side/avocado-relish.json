@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "avocado-relish",
+  "name": "Relish de aguacate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "encimadas",
+    "encurtidos",
+    "platos secundarios",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 aguacate Haas maduro, cortado en trozos gruesos",
+    "1 cucharada de cebolla roja, picada finamente",
+    "1 cucharada de pimiento jalapeño, picado",
+    "2 cucharadas de jugo de limón fresco",
+    "1 cucharada de cilantro, picado groseramente"
+  ],
+  "recipeInstructions": "1. Mezclar el aguacate, la cebolla, el jalapeño, el jugo de limón y el cilantro en un bol.\n2. Sazonar al gusto con sal y pimienta.\nYielda: aproximadamente 1 taza",
+  "url": null
+}

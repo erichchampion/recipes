@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chipotle-marinade-hot",
+  "name": "Marinada Chipotle Caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "caliente y picante",
+    "marinadas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de zumo de naranja fresco",
+    "2 cucharaditas de orégano",
+    "1/4 taza de zumo de limón fresco",
+    "1 cucharadita de comino",
+    "6 chiles chipotle enlatados, picados",
+    "2 cucharadas de vinagre de vino",
+    "4 dientes de ajo, picados",
+    "1 cucharadita de sal",
+    "1 cucharada de cáscara de naranja fresca rallada",
+    "1 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Mezclar el zumo de naranja y limón en una pequeña cacerola. Hervir hasta reducir a 1/2 taza.\n2. Agregar todos los ingredientes restantes a una licuadora y mezclar bien.\n3. Si la marinada es demasiado espesa, diluirla con más vinagre de vino.\n4. Marinar mariscos durante 2 horas, aves durante 4-8 horas y carnes durante la noche, dando la vuelta un par de veces.",
+  "url": null
+}

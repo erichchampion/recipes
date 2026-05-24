@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "eggless-cake",
+  "name": "Pastel sin huevos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de azúcar morena",
+    "2 cucharadas de manteca",
+    "2 tazas de agua",
+    "2 tazas de pasas",
+    "1 cucharadita de canela",
+    "1/2 cucharadita de clavos de olor",
+    "1 cucharadita de nuez moscada"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes en un bol grande hasta que estén bien combinados.\n2. Vierte la mezcla en un molde para hornear engrasado, añadiendo nueces o frutas si lo deseas (opcional).\n3. Hornea a 180°C durante 45 minutos o hasta que esté hecho.\n4. Deja enfriar completamente el pastel antes de cubrirlo con fondant blanco (el glaseado es opcional).",
+  "url": null
+}

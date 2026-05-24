@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-christmas-pudding",
+  "name": "My Christmas Pudding",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Holiday Foods",
+  "keywords": [
+    "desserts",
+    "holiday"
+  ],
+  "recipeIngredient": [
+    "2 cups grated carrot",
+    "2 cups grated potato",
+    "2 1/2 cups soft bread crumbs",
+    "2 cups raisins",
+    "2 cups currants",
+    "2 cups brown sugar",
+    "1 1/2 cups suet OR",
+    "1 cup margarine",
+    "4 tablespoons sour milk",
+    "1 teaspoon baking soda",
+    "1 cup flour",
+    "2 teaspoons salt",
+    "2 teaspoons cinnamon",
+    "1/4 teaspoon nutmeg",
+    "1 teaspoon allspice"
+  ],
+  "recipeInstructions": "1. Mix the grated carrot and grated potato together.\n2. Add the bread crumbs, raisins, currants, brown sugar, suet or margarine, sour milk, baking soda, flour, salt, cinnamon, nutmeg, and allspice to the mixture.\n3. Stir until well combined.\n4. Pour the mixture into a well-greased heat-proof bowl.\n5. Cover the bowl with foil or parchment paper.\n6. Steam for about 3 hours in a medium-sized steam pot.\n7. Serve with brown sugar sauce, custard, or your preferred accompaniment.",
+  "url": null
+}

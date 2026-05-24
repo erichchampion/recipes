@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "celery-potato-soup",
+  "name": "Sopa de apio y patata",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 taza de apio, picado (incluidas las hojas)",
+    "1 taza de patatas en rodajas",
+    "1 cebolla, picada",
+    "Sal y pimienta al gusto",
+    "3 tazas de leche",
+    "3 cucharadas de mantequilla",
+    "3 cucharadas de harina"
+  ],
+  "recipeInstructions": "1. Cocinar el apio, las patatas y la cebolla en agua suficiente para cubrirlos hasta que estén tiernos.\n2. Mezclar la leche con la harina, deshaciendo los grumos, y añadir a las verduras. Remover hasta que la mezcla espese.\n3. Sazonar con sal y pimienta al gusto, y luego verter la mantequilla encima.",
+  "url": null
+}

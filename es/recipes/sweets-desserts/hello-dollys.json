@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "hello-dollys",
+  "name": "Hola Dollys",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "Mantequilla",
+    "Galletas de vainilla trituradas, 1 taza",
+    "Chispas de chocolate, 1 taza",
+    "Coco rallado, 1 lata",
+    "Nueces picadas, 1 taza",
+    "Leche condensada, 1 lata"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en un molde cuadrado de 9 pulgadas.\n2. Coloca los ingredientes restantes en capas sobre la mantequilla derretida.\n3. Hornea durante 30 minutos a 350 °F (175 °C).\n4. Deja enfriar antes de cortar.",
+  "url": null
+}

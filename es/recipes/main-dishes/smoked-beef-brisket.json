@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "smoked-beef-brisket",
+  "name": "Bistec de ternera ahumado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "marinadas",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "4 lb costilla de ternera",
+    "Adobo:",
+    "1 taza de vinagre de vino tinto",
+    "1 taza de agua",
+    "1 cebolla, cortada en rodajas",
+    "2 dientes de ajo, picados",
+    "8 clavos enteros",
+    "6 ramitas de perejil",
+    "2 hojas de laurel",
+    "2 tallos de apio, incluyendo las hojas, picados",
+    "1 cucharada de ginebra",
+    "1/2 cucharadita de tomillo seco",
+    "1/2 cucharadita de romero",
+    "1/2 cucharadita de albahaca"
+  ],
+  "recipeInstructions": "1. Preparar el adobo mezclando todos los ingredientes en un recipiente lo suficientemente grande para contener la costilla, asegurándose de que quede completamente cubierta.\n2. Colocar la costilla en el refrigerador y marinar, dándola la vuelta cada 6 horas durante 48 horas.\n3. Retirar la costilla del refrigerador 2 horas antes de ahumarla y dejarla alcanzar la temperatura ambiente.\n4. Ahumar la costilla en un fumador precalentado a 190-225°F (93-107°C) durante 6 a 7 horas.\n5. Verter el adobo en el pan de agua del fumador.",
+  "url": null
+}

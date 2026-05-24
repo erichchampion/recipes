@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "quiche-nicoise",
+  "name": "Tarta Nicois",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "aperitivos",
+    "quesos/huevos",
+    "tartas de cena",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de cebolla",
+    "2 cucharadas de aceite de oliva",
+    "2 libras de tomates - pelados, desvenados y picados",
+    "2 dientes de ajo, picados",
+    "Hierbas provenzales (partes iguales de orégano, tomillo y marjoram)",
+    "3 huevos",
+    "8 filetes de anchoa, picados",
+    "3 cucharadas de aceite de oliva",
+    "3 cucharadas de pasta de tomate",
+    "3 cucharadas de perejil picado",
+    "1 cucharadita de pimentón",
+    "Un pellizco de pimienta cayena",
+    "Masa de tarta precocida",
+    "Aceitunas nicoise, deshuesadas",
+    "Queso parmesano rallado",
+    "Aceite de oliva"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla en aceite de oliva hasta que esté ablandada.\n2. Añadir el ajo y saltear durante 2 minutos más.\n3. Incorporar los tomates picados y 1/2 cucharadita de hierbas provenzales. Cubrir y dejar cocer a fuego lento durante 10 minutos.\n4. Descubrir y dejar cocer a fuego lento durante 10 minutos adicionales.\n5. Retirar del fuego. Batir los huevos con las anchoas, añadir aceite de oliva, pasta de tomate, perejil, pimentón y pimienta cayena.\n6. Verter la mezcla en la masa de tarta precocida.\n7. Cubrir con aceitunas, queso parmesano rallado y un poco de aceite de oliva.",
+  "url": null
+}

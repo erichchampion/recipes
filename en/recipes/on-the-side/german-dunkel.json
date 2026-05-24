@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "german-dunkel",
+  "name": "German Dunkel",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beers",
+    "beverages",
+    "dark beers",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "3.5 lbs Malt Extract Syrup-Amber",
+    "3.5 lbs Malt Extract Powder-Dark",
+    "0.375 lb Crystal Malt",
+    "0.25 lb Chocolate Malt",
+    "0.25 lb Black Patent Malt",
+    "2 oz Hallertauer Hops, boiling",
+    "1 oz Hallertauer Hops, finishing",
+    "1 package lager yeast",
+    "0.75 cup Corn Sugar, bottling"
+  ],
+  "recipeInstructions": "1. Crush the crystal, chocolate, and black patent malts.\n2. Add crushed malts to 1.5 gallons of cold water and bring mixture to a boil.\n3. Remove grains with a strainer when boiling commences.\n4. Add malt extracts and boiling hops (2 oz) to the pot.\n5. Continue boiling for 60 minutes.\n6. Add the remaining boiling hops (0.5 oz) after 30 minutes of boiling.\n7. Sparge the mixture into cold water.\n8. Cool the brew before pitching the yeast.\n9. Bottle when fermentation is complete.",
+  "url": null
+}

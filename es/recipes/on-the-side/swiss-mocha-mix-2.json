@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "swiss-mocha-mix-2",
+  "name": "Mezcla de Mocha Suiza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de café instantáneo",
+    "1/2 taza de azúcar",
+    "1 taza de leche desnatada en polvo",
+    "2 cucharadas de cacao en polvo"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol hasta que queden bien integrados.\n2. Transferir la mezcla a una licuadora y procesar hasta obtener un polvo fino.\n3. Para cada taza (aproximadamente 118 ml) de agua caliente, utilizar 2 cucharadas de la mezcla en polvo.\n4. Esto dará como resultado aproximadamente 2 tazas de mezcla preparada.",
+  "url": null
+}

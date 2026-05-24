@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "wheat-bread-2",
+  "name": "Wheat Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "1 1/2 teaspoons Active dry yeast",
+    "1 1/2 cups Bread flour",
+    "1/2 cup Whole wheat flour",
+    "1 tablespoon Salt",
+    "1 tablespoon Granulated sugar",
+    "1 tablespoon Nonfat dry milk",
+    "1 tablespoon Butter/margarine",
+    "3/4 cup plus 2 tablespoons Water"
+  ],
+  "recipeInstructions": "1. Preheat oven to the temperature specified in your bread machine's manual.\n2. Place ingredients in order as indicated by your bread machine's program.\n3. Select the Automatic Bread Program.\n4. Press START. The bread will be ready in approximately 3 hours.\n5. After baking, press STOP/RESET.\n6. Remove the bread from the machine and allow it to cool completely before slicing.",
+  "url": null
+}

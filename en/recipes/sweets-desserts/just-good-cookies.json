@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "just-good-cookies",
+  "name": "Just Good Cookies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts",
+    "peanut butter"
+  ],
+  "recipeIngredient": [
+    "1 cup Butter",
+    "1 cup Peanut butter (or less, if desired)",
+    "1 cup Brown sugar",
+    "1/2 cup Sugar",
+    "3 Eggs",
+    "1 tbsp Vanilla",
+    "2 cups Flour",
+    "2 tsp Baking powder",
+    "2 cups Rolled oats (uncooked)",
+    "12 oz Chocolate chips",
+    "Coconut (optional)",
+    "Raisins (optional)",
+    "Peanuts (optional)"
+  ],
+  "recipeInstructions": "Combine all ingredients in a large bowl. Mix until well combined. Shape into cookies and place on ungreased baking sheets. Bake at 350°F for about 15 minutes, or until golden brown. Remove from oven and allow to cool slightly before serving. Enjoy!",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pemmican",
+  "name": "Pemmican",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "juegos"
+  ],
+  "recipeIngredient": [
+    "1 lb de jerky de caribú",
+    "2 cucharadas de azúcar moreno",
+    "2 oz de pasas",
+    "2 oz de arándanos",
+    "5 oz de sebo"
+  ],
+  "recipeInstructions": "1. Triturar el jerky seco en un procesador de alimentos varias veces.\n2. En un molde para pan, mezclar los arándanos, las pasas y el azúcar moreno.\n3. Mezclar la mezcla hasta que quede bien combinada.\n4. Derretir el sebo y removerlo en la mezcla de arándanos y pasas.\n5. Dejar enfriar y solidificar el sebo.",
+  "url": null
+}

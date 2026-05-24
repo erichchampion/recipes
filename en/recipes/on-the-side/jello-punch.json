@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "jello-punch",
+  "name": "Jello Punch",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "punch",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "9 cups Sugar",
+    "9 cups Water",
+    "6 Packages Jell-O",
+    "6 cups Boiling Water",
+    "6 cups Cold Water",
+    "3 Cans (48 oz) Pineapple Juice",
+    "3 Bottles Lemon Juice (24 oz)",
+    "1.5 ounces Almond Extract",
+    "3 Bottles Ginger Ale (32 oz)"
+  ],
+  "recipeInstructions": "1. Combine sugar and water in a large bowl, stirring until the sugar is completely dissolved.\n2. In another large bowl, dissolve Jell-O powder in 6 cups of boiling water, then stir in 6 cups of cold water.\n3. Stir the mixture into the sugar-water solution.\n4. Add pineapple juice, lemon juice, and almond extract to the mixture.\n5. When ready to serve, gently pour in the ginger ale and mix well.",
+  "url": null
+}

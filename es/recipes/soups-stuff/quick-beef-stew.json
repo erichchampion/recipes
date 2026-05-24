@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-beef-stew",
+  "name": "Estofado de Ternera Rápido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "plato principal",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "1 lb de ternera cocida",
+    "4 zanahorias medianas",
+    "3 papas medianas",
+    "1 sobre de mezcla para sopa de cebolla",
+    "3 cucharadas de harina sin blanquear",
+    "2 1/4 tazas de agua"
+  ],
+  "recipeInstructions": "1. Cortar la ternera cocida en trozos del tamaño de una mordida (2 a 2 1/2 tazas).\n2. Cortar las zanahorias en tiras de unos 7 cm de largo.\n3. Pelar y cortar las papas en trozos de aproximadamente 3 cm.",
+  "url": null
+}

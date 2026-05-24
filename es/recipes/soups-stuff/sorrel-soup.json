@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "sorrel-soup",
+  "name": "Sopa de sorrel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de hojas jóvenes de rúcula",
+    "2 cucharadas de mantequilla",
+    "2 cucharaditas de almidón de maíz",
+    "1 ramita de perejil, picada finamente",
+    "3 tazas de caldo de pollo",
+    "2 yemas de huevo",
+    "Una pizca de sal",
+    "1 taza de crema ligera"
+  ],
+  "recipeInstructions": "1. Lavar las hojas de rúcula y cocinarlas en mantequilla hasta que se marchiten ligeramente.\n2. Tritar la rúcula cocida y añadir el resto de los ingredientes.\n3. Disolver el almidón de maíz mezclándolo con una pequeña cantidad de caldo, luego integrar todo junto.\n4. Cocinar la sopa a fuego lento hasta que espese ligeramente.\n5. Servir caliente o fría, decorada con crema agria y cebolla picada, o con rodajas finas de limón.",
+  "url": null
+}

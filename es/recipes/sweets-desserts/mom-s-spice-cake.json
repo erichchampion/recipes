@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "mom-s-spice-cake",
+  "name": "Pastel de especias de mamá",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de manteca corta",
+    "1 taza de azúcar",
+    "2 huevos",
+    "2 tazas de harina",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de polvo de hornear",
+    "1 cucharadita de canela",
+    "1/2 cucharadita de clavos molidos",
+    "1 cucharadita de nuez moscada",
+    "1 cucharadita de jengibre molido",
+    "1 taza de leche",
+    "1 taza de nueces picadas",
+    "1 taza de pasas blanqueadas (remojadas en agua tibia durante 30 minutos)"
+  ],
+  "recipeInstructions": "1. Mezclar la manteca, el azúcar y los huevos.\n2. Tamizar juntos la harina, la sal, el bicarbonato de sodio, el polvo de hornear y las especias.\n3. Agregar la leche a la mezcla de huevos, luego incorporar gradualmente la mezcla de harina y las pasas, nueces y nuez moscada.\n4. Hornear durante 1 hora a 180°C.",
+  "url": null
+}

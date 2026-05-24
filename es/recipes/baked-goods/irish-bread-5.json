@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "irish-bread-5",
+  "name": "Pan de Irlanda",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "Irlanda"
+  ],
+  "recipeIngredient": [
+    "1/4 lb de mantequilla",
+    "2 huevos",
+    "2 1/2 cucharadas de polvo de hornear",
+    "1 taza de azúcar",
+    "1/4 cucharadita de sal",
+    "2 tazas de harina",
+    "1 taza de pasas"
+  ],
+  "recipeInstructions": "1. Batir la mantequilla y el azúcar hasta obtener una mezcla cremosa.\n2. Mezclar la harina, la sal y el polvo de hornear. Añadir esta mezcla a la mantequilla alternándola con leche, e incorporando las pasas.\n3. Verter la masa en un molde rectangular de 20 cm x 20 cm.\n4. Hornear a 180 °C durante una hora.",
+  "url": null
+}

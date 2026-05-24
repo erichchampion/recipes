@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "grilled-salmon-marinade",
+  "name": "Grilled Salmon & Marinade",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "fish",
+    "main dish",
+    "meat",
+    "salmon",
+    "sauces",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Salmon fillets",
+    "1/2 cup Oil",
+    "1/4 cup Vinegar (red wine)",
+    "3/4 tsp Garlic salt",
+    "1/4 tsp Salt",
+    "1/4 tsp Sugar",
+    "1/2 tsp Italian seasoning",
+    "1 Garlic clove, large, minced",
+    "1/8 tsp Pepper",
+    "1 t Water"
+  ],
+  "recipeInstructions": "1. Mix all ingredients except salmon.\n2. Marinate for at least 30 minutes.\n3. Grill (15 minutes per side for steak, 6 for fillet), brushing often with leftover marinade.",
+  "url": null
+}

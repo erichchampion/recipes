@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-con-queso",
+  "name": "Chili con queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 libras de queso americano Kraft",
+    "1 taza de agua",
+    "1 pequeña cebolla, picada finamente",
+    "1 pimiento verde pequeño, picado finamente",
+    "1 jalapeño fresco, sin semillas y picado",
+    "1 cucharadita de sal de apio",
+    "1/2 cucharadita de pimienta cayena",
+    "1 tarro pequeño de pimientos",
+    "1/2 cucharadita de polvo de ajo"
+  ],
+  "recipeInstructions": "1. Cortar el queso en cubos y colocarlo en un baño maría con agua.\n2. Calentar a fuego medio hasta que se derrita el queso, removiendo ocasionalmente.\n3. Agregar todos los demás ingredientes al queso derretido.\n4. Cocinar hasta que la mezcla esté bien combinada, aproximadamente 30 minutos.",
+  "url": null
+}

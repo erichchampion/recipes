@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-millicent",
+  "name": "Pollo Millicent",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "olla de cocción lenta",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 pollo, cortado en trozos",
+    "1 sobre de mezcla para salsa de espagueti seca",
+    "1/2 taza de vino blanco seco",
+    "2 tomates, cortados por la mitad",
+    "1/4 libra de setas frescas, laminadas"
+  ],
+  "recipeInstructions": "1. Coloca el pollo en la olla de cocción lenta.\n2. Mezcla la mezcla para salsa de espagueti con el vino y viértela sobre el pollo.\n3. Tapa y cocina a fuego lento durante 4-6 horas.\n4. Cambia la configuración a ALTA, añade los tomates y las setas.\n5. Tapa y cocina durante 30-40 minutos hasta que los tomates estén tiernos.",
+  "url": null
+}

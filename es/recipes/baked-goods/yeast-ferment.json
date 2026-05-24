@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "yeast-ferment",
+  "name": "Fermentación con levadura",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 patata de tamaño medio",
+    "1 sobre de levadura seca",
+    "1 cucharadita de sal",
+    "1 cucharada de azúcar",
+    "4 tazas de agua"
+  ],
+  "recipeInstructions": "La fermentación de la masa con levadura seca se puede acortar si primero se prepara un fermento con levadura:\n1. Desmenuzar la levadura y remojarla en 1/2 taza de agua.\n2. Lavar, pelar y hervir la patata en 3 1/2 tazas de agua.\n3. Escurrir la patata.\n4. Guardar el agua de cocción de la patata.\n5. Machacar la patata y añadir el azúcar y la sal.\n6. Enfriar a temperatura ambiente.\n7. Incorporar la levadura y el agua de cocción de la patata. Añadir más agua si es necesario para obtener una mezcla de un litro.\n8. Cubrir. La porción restante se puede almacenar en el refrigerador y mantener durante varios días.",
+  "url": null
+}

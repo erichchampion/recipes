@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-mint-bread",
+  "name": "Pan de menta y chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 sobre de levadura",
+    "2 1/2 tazas de harina para pan",
+    "1/2 taza de harina de trigo",
+    "1 cucharadita de gluten",
+    "1/4 taza de leche en polvo instantánea sin grasa",
+    "3 cucharadas de azúcar",
+    "1 1/2 cucharaditas de sal",
+    "1 cucharada de aceite vegetal",
+    "2 cucharadas de crema de menta blanca",
+    "1 taza de agua muy caliente (más 1 cucharada)",
+    "1 taza de trozos de menta y chocolate"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes, excepto los trozos de chocolate, en un bol en el orden indicado.\n2. Seleccionar la opción de pan blanco y presionar \"Iniciar\".\n3. A los 88 minutos del ciclo (o 33 minutos con Dak Turbo II), al sonar la alarma, añadir los trozos de chocolate.",
+  "url": null
+}

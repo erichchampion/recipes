@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pousse-cafe",
+  "name": "Café empujado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1/4 oz de granadina",
+    "1/4 oz de Chartreuse amarilla",
+    "1/4 oz de Crème de Yvette",
+    "1/4 oz de Crème de Menthe"
+  ],
+  "recipeInstructions": "Receta de Joe Robertson\nTiempo de preparación: 0:05\nEn un vaso para Pousse Café, vierta con cuidado partes iguales de los ingredientes anteriores en el orden indicado, de modo que cada ingrediente flote sobre el anterior. Los líquidos flotarán con mayor facilidad si los vierte suavemente sobre la parte posterior de una cuchara colocada encima del vaso.",
+  "url": null
+}

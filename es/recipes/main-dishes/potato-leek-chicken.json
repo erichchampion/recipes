@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-leek-chicken",
+  "name": "Pollo con Puré de Patata y Cebolla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pollo",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "5 patatas medianas, cortadas en rodajas",
+    "1 cebolla mediana, cortada en rodajas",
+    "10 muslos de pollo",
+    "1 sobre de mezcla de sopa de cebolla",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. Mezclar las patatas y la cebolla en el cocinador lento.\n2. Colocar los muslos de pollo sobre la mezcla de patatas y cebolla.\n3. En un bol pequeño, batir la mezcla de sopa de cebolla y agua hasta que esté bien combinada.\n4. Verter la mezcla de sopa sobre el pollo.\n5. Tapar y cocinar a fuego lento durante 5 a 6 horas, o hasta que el pollo esté tierno.",
+  "url": null
+}

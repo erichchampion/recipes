@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "blueberry-sauce-3",
+  "name": "Blueberry Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "fruits",
+    "sauces",
+    "side dishes",
+    "sweet"
+  ],
+  "recipeIngredient": [
+    "1 cup sugar",
+    "2 tbsp cornstarch",
+    "1/4 tsp nutmeg",
+    "dash of salt",
+    "2 cups fresh blueberries",
+    "3 tbsp lemon juice"
+  ],
+  "recipeInstructions": "1. In a saucepan, combine the sugar, cornstarch, nutmeg, and salt.\n2. Gradually stir in boiling water until the mixture thickens.\n3. Continue cooking until it boils for 2 more minutes.\n4. Add the fresh blueberries and return to a boil.\n5. Remove from heat and stir in lemon juice.\n6. Cool before using. Makes 3 cups.",
+  "url": null
+}

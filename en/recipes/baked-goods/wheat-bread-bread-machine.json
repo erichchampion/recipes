@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "wheat-bread-bread-machine",
+  "name": "Wheat Bread-Bread Machine",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 1/8 cup Water",
+    "3 tbsp Honey",
+    "1/3 tsp Salt",
+    "1 1/2 cup Whole wheat flour",
+    "1 1/2 cup Bread flour",
+    "1 1/2 tsp Yeast"
+  ],
+  "recipeInstructions": "1. Pour liquid ingredients into the bread machine, placing yeast in the last compartment.\n2. Mix all ingredients according to the bread machine's settings.\n3. Select the light setting if available; bake until a loaf weighing about 1 pound is complete.",
+  "url": null
+}

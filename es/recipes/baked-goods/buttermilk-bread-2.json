@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "buttermilk-bread-2",
+  "name": "Pan de buttermilk",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 1/4 tazas de buttermilk",
+    "3 cucharadas de mantequilla o margarina ablandada",
+    "3 cucharadas de miel",
+    "3 1/4 tazas de harina de pan",
+    "1 1/2 cucharaditas de sal",
+    "1/4 cucharadita de bicarbonato de sodio",
+    "1 1/2 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Medir cuidadosamente, colocando todos los ingredientes en el recipiente de la máquina de pan según las indicaciones del fabricante.\n2. Seleccionar el ciclo Basic/Blanco. Utilizar un color de corteza medio o ligero. No utilizar ciclos con retraso.\n3. Retirar el pan horneado del molde y dejar enfriar sobre una rejilla.",
+  "url": null
+}

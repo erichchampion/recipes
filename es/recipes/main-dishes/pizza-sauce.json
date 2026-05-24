@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-sauce",
+  "name": "Salsa para pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "15 onzas de puré de tomate",
+    "3 dientes de ajo, picados finamente",
+    "1/4 taza de vino tinto",
+    "3 cucharadas de vinagre balsámico",
+    "2 cucharadas de aceite de oliva",
+    "1 cucharada de mezcla de hierbas italianas",
+    "1 cucharadita de albahaca seca",
+    "1 cucharadita de orégano seco",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Dejar reposar la salsa durante al menos 30 minutos, o hasta 1 día, removiendo ocasionalmente. Si ha reposado más de una hora, refrigerar hasta su uso.\n3. Rinde suficiente salsa para dos pizzas de 12\"-14\".",
+  "url": null
+}

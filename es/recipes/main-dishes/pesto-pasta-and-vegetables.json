@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pesto-pasta-and-vegetables",
+  "name": "Pasta con pesto y verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "8 oz de pasta tipo caracoles (3 tazas)",
+    "1 cucharada de aceite de oliva",
+    "2 lechugas, cortadas en rodajas (3 tazas)",
+    "1/2 taza de tomates secos al sol escurridos y marinados (de un frasco de 8 oz)",
+    "1/4 taza de aceitunas maduras en rodajas",
+    "3 huevos duros picados",
+    "1/2 taza de pesto comprado",
+    "2 cucharadas de parmesano rallado"
+  ],
+  "recipeInstructions": "1. Picar los tomates secos. Mientras tanto, cocinar la pasta hasta que esté al dente siguiendo las instrucciones del paquete; escurrir y mantener caliente.\n2. Calentar el aceite de oliva en una sartén antiadherente grande a fuego medio-alto hasta que esté caliente. Agregar las lechugas; cocinar y remover hasta que estén tiernas. Reducir el fuego a medio; incorporar los tomates secos y las aceitunas.\n3. Añadir la pasta a la sartén. Cocinar a fuego medio hasta que se caliente bien, removiendo ocasionalmente. Agregar los huevos y el pesto; cocinar y remover durante 1 a 2 minutos o hasta que se calienten bien. Retirar del fuego; espolvorear con queso.",
+  "url": null
+}

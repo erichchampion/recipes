@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tea-cakes",
+  "name": "Tea Cakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "6 Eggs",
+    "4 cups Sugar",
+    "4 teaspoons Vanilla extract",
+    "1 1/2 cups Buttermilk",
+    "1 teaspoon Baking soda",
+    "8 cups Self-rising flour"
+  ],
+  "recipeInstructions": "1. Cream the shortening and sugar together.\n2. Add the eggs one at a time, mixing well after each addition.\n3. Mix baking soda into buttermilk and self-rising flour separately.\n4. Combine the dry ingredients with the wet ingredients.\n5. Form the mixture into large soft balls.\n6. Roll the balls to be 1/8 inch thick.\n7. Cut out shapes using a floured cutter.\n8. Bake until light brown.",
+  "url": null
+}

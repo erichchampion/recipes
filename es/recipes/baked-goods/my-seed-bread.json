@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-seed-bread",
+  "name": "Mi Pan de Semilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "desayuno brunch"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina de pan",
+    "1/2 taza de nueces picadas",
+    "1 taza de harina de trigo",
+    "1/4 taza de semillas de amapola",
+    "1/4 taza de harina de centeno",
+    "1 1/2 cucharaditas de semillas de eneldo",
+    "1/4 taza de harina de maíz",
+    "1 cucharada de leche seca",
+    "1/4 taza de salvado sin procesar",
+    "1 cucharada de vinagre",
+    "1/2 cucharadita de sal",
+    "1 cucharada de aceite puritan",
+    "1 cucharada de azúcar",
+    "2 cucharadas de miel",
+    "1/4 taza de pasas",
+    "1 taza de agua",
+    "1 1/2 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "1. Combinar los ingredientes secos (harina de pan, nueces, harina de trigo, semillas de amapola, harina de centeno, semillas de eneldo, harina de maíz, leche seca, salvado, vinagre, sal, aceite puritan, azúcar y miel) en la máquina de hacer pan según las instrucciones del fabricante.\n2. Agregar las pasas y el agua a la máquina de hacer pan según las indicaciones del manual.\n3. Colocar la levadura seca activa en el dispensador de levadura de la máquina de hacer pan Panasonic, siguiendo las pautas del fabricante.\n4. Mezclar todos los ingredientes hasta obtener una masa suave.\n5. Asegurarse de que la masa esté bien combinada antes de continuar con la cocción.\n6. Hornear según las configuraciones de la máquina de hacer pan.\n7. Dejar enfriar ligeramente el pan antes de servir.",
+  "url": null
+}

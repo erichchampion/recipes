@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-beef",
+  "name": "Pollo y Carne de Res",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo",
+    "3 cucharadas de tocino, picado",
+    "1/2 taza de crema agria",
+    "1 lata de sopa de champiñones",
+    "1/4 libra de carne desmenuzada",
+    "1 cucharadita de pimentón"
+  ],
+  "recipeInstructions": "1. Deshuesar, descascar y dividir las pechugas de pollo por la mitad.\n2. Extender la carne desmenuzada al fondo de un plato para hornear.\n3. Colocar las pechugas de pollo sobre la carne.\n4. Mezclar la sopa de champiñones y la crema agria en un bol.\n5. Extender la mezcla sobre los filetes de pollo.\n6. Espolvorear con trozos de tocino.\n7. Esparcir el pimentón por encima.\n8. Cubrir con papel aluminio.\n9. Hornear a 275 °F (135 °C) durante 2 horas y media.",
+  "url": null
+}

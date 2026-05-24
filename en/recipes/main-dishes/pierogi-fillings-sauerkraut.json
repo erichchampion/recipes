@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pierogi-fillings-sauerkraut",
+  "name": "Pierogi Fillings, Sauerkraut",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "ethnic",
+    "pasta",
+    "polish"
+  ],
+  "recipeIngredient": [
+    "2 lb Sauerkraut",
+    "1 large Onion (thinly sliced)",
+    "Sugar to taste",
+    "Salt and pepper to taste",
+    "1/2 lb Diced bacon (optional) or 1/2 lb Diced salt pork (optional)",
+    "1/2 lb Butter (optional)",
+    "Fresh shredded cabbage (optional)",
+    "Diced mushrooms (optional)"
+  ],
+  "recipeInstructions": "1. Rinse sauerkraut and drain well.\n2. In a covered pan, cook the sauerkraut with onions over low heat for about 20 minutes, stirring occasionally. Add butter, bacon or salt pork, salt, pepper, sugar (and mushrooms if desired).\n3. Allow the mixture to cool completely.",
+  "url": null
+}

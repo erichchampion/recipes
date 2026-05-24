@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-bread-machine-made",
+  "name": "Beer Bread Machine Made",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "beverages",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 pkg yeast",
+    "1 cup rye flour",
+    "2 1/2 cups bread flour",
+    "2 tbsp wheat germ",
+    "1 tsp salt",
+    "1 cup beer, flat, room temperature",
+    "2 tbsp molasses",
+    "2 tsp grated orange rind",
+    "6 tsp unsweetened applesauce",
+    "1/4 cup water (120°F)"
+  ],
+  "recipeInstructions": "1. Add all ingredients in the order listed to the bread machine pan.\n2. Select \"thin crust\" setting and start the machine.",
+  "url": null
+}

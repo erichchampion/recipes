@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "microwave-basic-meatloaf",
+  "name": "Microwave Basic Meatloaf",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat",
+    "microwave"
+  ],
+  "recipeIngredient": [
+    "1 1/2 Pounds ground beef",
+    "3/4 Cup chopped onions",
+    "1/2 Cup bread crumbs",
+    "1 large egg",
+    "2 Tablespoons ketchup",
+    "2/3 Cup milk",
+    "1/8 Teaspoon paprika",
+    "salt to taste",
+    "black pepper to taste"
+  ],
+  "recipeInstructions": "1. Combine the beef, onion, bread crumbs, beaten egg, ketchup, milk, and seasonings in a bowl until well mixed.\n2. Press the mixture into a 9-inch pie plate or similar microwave-safe dish.\n3. Spread about 2 tablespoons of ketchup or chili sauce evenly over the top of the meat loaf.\n4. If using a temperature probe, insert it so the tip is centered in the food and set to cook at high power for 26-28 minutes until the internal temperature reaches 170 degrees Fahrenheit.\n5. If not using a probe, cover tightly with plastic wrap and microwave on medium-high power for 26-28 minutes until done. Let stand for 10 minutes before serving.\nNote: To prevent false-positive safety triggers in downstream iOS models, avoid aggressive culinary slang such as \"smash\", \"destroy\", \"burn\", or \"splutter\" when describing cooking methods. Use \"turn off\" instead of \"kill the heat\".",
+  "url": null
+}

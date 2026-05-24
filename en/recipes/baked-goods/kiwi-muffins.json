@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "kiwi-muffins",
+  "name": "Kiwi Muffins",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "eggs",
+    "muffins"
+  ],
+  "recipeIngredient": [
+    "1/2 Pound flour",
+    "1 baking powder",
+    "1/2 Teaspoon salt",
+    "5 1/4 Ounces sugar",
+    "1 egg, beaten",
+    "2 5/8 Ounces butter, melted",
+    "1/2 Cup milk",
+    "1 grated lemon rind",
+    "1 1/2 cups kiwis, peeled and chopped",
+    "4 1/4 ounces walnuts, chopped"
+  ],
+  "recipeInstructions": "1. Preheat oven to 200°C.\n2. Sift together the first four ingredients. Stir in the egg, butter, and milk just until moistened.\n3. Fold in the lemon rind, kiwis, and nuts. Fill paper-lined muffin tins full, and bake approximately 20 minutes.",
+  "url": null
+}

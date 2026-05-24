@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "okla-chili",
+  "name": "Chili de Oklahoma",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "frijoles",
+    "chili",
+    "sopas",
+    "sopas y estofados"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne de chili",
+    "2 libras de carne molida (ternera redonda)",
+    "2 latas grandes de tomates",
+    "4 chiles verdes largos (Anaheim)",
+    "2 libras de frijoles rojos o pintos pre-cocidos",
+    "2 cebollas grandes, picadas",
+    "2 pimientos rojos, picados",
+    "2 pimientos verdes, picados",
+    "3 paquetes de condimento para chili Durkees (picante)",
+    "1 paquete de condimento Wicks Fowler Bean 2-alarm",
+    "1 lata de cerveza (el alcohol se evaporará al cocinar)"
+  ],
+  "recipeInstructions": "1. Dorar la carne de chili y la carne molida.\n2. Picar los pimientos y las cebollas.\n3. Mezclar todos los ingredientes en una olla grande.\n4. Cocinar a fuego lento durante 5-6 horas, removiendo ocasionalmente.",
+  "url": null
+}

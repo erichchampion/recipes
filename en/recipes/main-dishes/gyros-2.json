@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "gyros-2",
+  "name": "Gyros",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "ethnic",
+    "greek",
+    "lamb"
+  ],
+  "recipeIngredient": [
+    "1 Pound Ground Lamb",
+    "1 Large Garlic Clove, pressed",
+    "2 Teaspoons Lemon Juice",
+    "1/2 Teaspoon Basil",
+    "1/4 Teaspoon Marjoram",
+    "1/2 Teaspoon Thyme",
+    "1/2 Teaspoon Rosemary",
+    "1/2 Teaspoon Pepper",
+    "2 Tablespoons Fresh Parsley, snipped",
+    "6 Whole Pitas",
+    "2 Whole Tomatoes, chopped",
+    "1 Whole Red Onion, chopped",
+    "Sauce:",
+    "2 Cups Sour Cream, or yogurt",
+    "1 Medium Cucumber, seeded and pureed, strain",
+    "2 Cloves Garlic",
+    "1/2 Teaspoon Salt",
+    "2 Tablespoons Sugar, or to taste"
+  ],
+  "recipeInstructions": "1. Combine all ingredients except sauce ingredients in a large bowl.\n2. Blend until well combined.\n3. Combine the sauce ingredients in another bowl.\n4. Blend until smooth.\n5. Serve the meat mixture inside whole pitas with chopped tomatoes and red onion on top.\n6. Drizzle the prepared sauce over the meat inside the pitas.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-dough",
+  "name": "Pasta Dough",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 cup durum semolina",
+    "1/2 tsp dried oregano",
+    "1/2 tsp coarsely ground black pepper",
+    "1/4 cup plain nonfat yogurt",
+    "1 tbsp lemon juice",
+    "water, as needed"
+  ],
+  "recipeInstructions": "Hand-crank method:\n1. Mix the semolina, oregano, pepper, yogurt, and lemon juice until combined.\n2. Gradually add water to achieve a dough-like consistency.\nExtruder method:\n1. Combine the semolina, oregano, pepper, yogurt, and lemon juice in a bowl.\n2. Slowly incorporate water as needed until you reach the desired texture.\n3. The dough should hold together easily but not be overly wet or crumbly. Adjust with more water if it's too dry or slightly more firmness if it's too sticky.\nNote: The hand-crank dough may require slightly more moisture to prevent sticking, while the extruder dough should have a crumbly consistency that works smoothly through the die.",
+  "url": null
+}

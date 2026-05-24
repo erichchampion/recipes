@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "lamb-stock-great-chefs",
+  "name": "Caldo de cordero - Grandes Cocineros",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cordero",
+    "plato principal",
+    "carne",
+    "sin carne"
+  ],
+  "recipeIngredient": [
+    "Huesos de cordero",
+    "3 cucharadas de aceite de oliva",
+    "1 zanahoria mediana, picada",
+    "2 chalotas medianas, picadas finamente",
+    "1 rama de apio, picada",
+    "1 cucharada de perejil fresco picado",
+    "4 tomates maduros, pelados, sin semillas y cortados en trozos",
+    "1/2 taza de vino blanco",
+    "1/2 taza de caldo de ternera"
+  ],
+  "recipeInstructions": "1. Dorar los huesos de cordero en aceite de oliva.\n2. Añadir el resto de los ingredientes al cacerol.\n3. Llevar a ebullición la mezcla.\n4. Reducir el fuego y dejar cocinar a fuego lento durante 30 minutos.",
+  "url": null
+}

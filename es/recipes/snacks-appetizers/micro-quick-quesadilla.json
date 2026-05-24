@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "micro-quick-quesadilla",
+  "name": "Micro-rápida Quesadilla",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "americana",
+    "aperitivos",
+    "queso",
+    "étnica",
+    "mexicana",
+    "microondas"
+  ],
+  "recipeIngredient": [
+    "Tortilla (de 15 a 20 cm)",
+    "3 cucharadas de queso cheddar rallado",
+    "o",
+    "3 cucharadas de queso Monterey Jack rallado",
+    "3 cucharadas de salsa picante Pace",
+    "o",
+    "3 cucharadas de salsa gruesa y troceada Pace"
+  ],
+  "recipeInstructions": "1. Coloca una tortilla sobre una superficie limpia.\n2. Añade el queso rallado y la salsa picante a la mitad de la tortilla.\n3. Dobla la tortilla por la mitad sobre los ingredientes.\n4. Calienta una sartén a fuego medio.\n5. Cocina la quesadilla durante unos 2-3 minutos por cada lado, hasta que se vuelva dorada y crujiente.\n6. Apaga el fuego.\n7. Corta en triángulos y sirve caliente.",
+  "url": null
+}

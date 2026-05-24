@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mashed-potato-pancakes",
+  "name": "Mashed Potato Pancakes",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "potatoes",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup Mashed potatoes",
+    "2 cups Flour, sifted",
+    "1 teaspoon Salt",
+    "3 teaspoons Baking powder",
+    "2 Eggs, beaten",
+    "1 cup Milk",
+    "4 tablespoons Light corn syrup",
+    "1 teaspoon Nutmeg"
+  ],
+  "recipeInstructions": "1. Combine the mashed potatoes, sifted flour, salt, and baking powder.\n2. Mix together the eggs and milk and stir lightly into the potato-flour mixture. Add corn syrup and nutmeg and beat well.\n3. Grease a griddle or large skillet.\n4. Drop spoonfuls of the batter onto the hot griddle, forming small pancakes.\n5. Cook until brown on both sides, about 2-3 minutes per side.",
+  "url": null
+}

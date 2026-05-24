@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "farmstead-waffles",
+  "name": "Waffles de granja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "gofres"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de mantequilla",
+    "1/2 cucharadita de sal",
+    "2 tazas de harina de uso común",
+    "2 tazas de buttermilk",
+    "2 cucharaditas de polvo de hornear",
+    "3 huevos grandes",
+    "1 cucharadita de bicarbonato de sodio"
+  ],
+  "recipeInstructions": "1. Precalentar la plancha para gofres.\n2. Derretir la mantequilla a fuego lento en una sartén de 1 litro y dejar enfriar.\n3. Mezclar la harina, el polvo de hornear, el bicarbonato de sodio y la sal en un bol grande.\n4. Batir el buttermilk en la mantequilla derretida.\n5. Incorporar los huevos batidos.\n6. Mezclar la mezcla de mantequilla con la harina hasta que esté justo combinada.\n7. Verter suficiente masa en la plancha para gofres para cubrir 2/3 de su superficie.\n8. Extender la masa uniformemente con una espátula.\n9. Cerrar la tapa y cocinar hasta que se detenga el vapor, aproximadamente 5 minutos.\n10. Abrir la tapa y retirar el gofre con un tenedor.\n11. Repetir con el resto de la masa.",
+  "url": null
+}

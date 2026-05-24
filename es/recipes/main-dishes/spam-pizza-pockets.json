@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "spam-pizza-pockets",
+  "name": "Bolsillos de pizza con spam",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 lata de carne para almuerzo SPAM, en cubos (7 oz)",
+    "1 pimiento verde pequeño, picado",
+    "1 cebolla pequeña, picada",
+    "1/2 taza de champiñones picados",
+    "1 lb de masa de pan congelada, descongelada",
+    "1 huevo batido",
+    "1 cucharada de queso parmesano rallado",
+    "3/4 taza de salsa de pizza",
+    "1 cucharadita de condimento italiano"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F (175°C).\n2. En una sartén, saltear la SPAM, el pimiento verde, la cebolla y los champiñones hasta que estén ligeramente dorados.\n3. Dividir la masa de pan en 6 partes iguales. Estirar cada parte en círculos de 6 pulgadas.\n4. Untar los bordes de cada círculo con huevo y espolvorear con queso parmesano.\n5. Distribuir la mezcla de SPAM sobre cada círculo de masa.\n6. Cubrir con 2 cucharadas de salsa de pizza y espolvorear con condimento italiano.\n7. Doblar los círculos por la mitad y sellar los bordes.\n8. Colocar sobre una bandeja para hornear.\n9. Hornear durante 20-25 minutos, o hasta que estén dorados.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-bacon-salad",
+  "name": "Ensalada de Pollo y Tocino",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "americano",
+    "pollo",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de pollo cocido y cortado en cubos",
+    "1/2 taza de bacon crujiente cortado en cubos",
+    "1/2 taza de apio cortado en cubos",
+    "2 huevos duros picados",
+    "3/4 taza de mayonesa",
+    "1/4 taza de salsa chili",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar el pollo, el bacon, el apio y los huevos picados.\n2. En otro bol, batir la mayonesa con la salsa chili.\n3. Incorporar la mezcla de pollo a la mezcla de mayonesa y chili.\n4. Sazonar con sal y pimienta.\n5. Refrigerar antes de servir.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "turkish-coffee",
+  "name": "Turkish Coffee",
+  "recipeCuisine": "Africa & Middle East",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "africa",
+    "beverages",
+    "coffee",
+    "ethnic",
+    "middle eastern",
+    "turkey"
+  ],
+  "recipeIngredient": [
+    "3/4 cup Water",
+    "1 tbsp Sugar",
+    "1 tbsp Pulverized Coffee",
+    "1 Cardamon Pod"
+  ],
+  "recipeInstructions": "1. Combine water and sugar in an ibrik or small saucepan.\n2. Bring to a boil.\n3. Remove from heat and add coffee and cardamon.\n4. Stir well.\n5. Return to heat.\n6. When coffee foams up, remove from heat and let grounds settle.\n7. Repeat steps 5-6 two more times.\n8. Pour into cups; let grounds settle before drinking.",
+  "url": null
+}

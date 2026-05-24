@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "wild-rice-mushroom-soup",
+  "name": "Sopa de arroz salvaje y setas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "aperitivos",
+    "arroz",
+    "sopas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 1/2 litros de caldo de verduras",
+    "1 cebolla pequeña, picada finamente",
+    "1 pimiento verde pequeño, cortado en dados",
+    "1 cucharada de perejil fresco picado",
+    "30 gramos de arroz salvaje, enjuagado y escurrido",
+    "200 gramos de setas tipo champiñón, laminadas",
+    "5 cucharadas de vino tinto",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Verter el caldo de verduras en una olla grande.\n2. Agregar la cebolla picada, el pimiento verde y el perejil a la olla.\n3. Llevar a ebullición, luego tapar y reducir el fuego para cocinar a fuego lento durante 15 minutos.\n4. Incorporar el arroz salvaje escurrido y continuar cocinando a fuego lento durante 40 minutos adicionales.\n5. Añadir las setas laminadas y el vino tinto. Sazonar con sal y pimienta al gusto.\n6. Tapar y dejar cocinar a fuego lento durante 15 minutos más.\n7. Servir caliente.",
+  "url": null
+}

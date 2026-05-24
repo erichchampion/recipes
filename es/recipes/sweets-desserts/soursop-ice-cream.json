@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "soursop-ice-cream",
+  "name": "Helado de Guanabana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "2 tazas de puré de guanabana",
+    "1/4 taza de jugo de jengibre",
+    "2 cucharadas de jugo de limón",
+    "1/2 cucharadita de extracto de vainilla",
+    "1 lata grande (400 ml) de leche condensada"
+  ],
+  "recipeInstructions": "1. Pelar la guanabana y colocarla en un colador para eliminar las semillas y obtener la pulpa.\n2. Mezclar 2 tazas de puré de guanabana con el jugo de jengibre, el jugo de limón, el extracto de vainilla y la leche condensada.\n3. Batir hasta que todos los ingredientes estén completamente integrados.\n4. Verter la mezcla en una heladera convencional o en un molde para cubos de hielo.\n5. Congelar hasta que esté sólido. Rendimiento: 1 litro.",
+  "url": null
+}

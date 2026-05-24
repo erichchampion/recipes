@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-tuna-casserole",
+  "name": "Mi Casserola de Atún",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 latas de atún en agua",
+    "2 latas de sopa de setas con crema",
+    "2 latas de leche (del tamaño de las sopas)",
+    "2 paquetes de fideos planos",
+    "2 latas de setas frescas",
+    "1 lata grande de fideos chow mein",
+    "Mrs. Dash al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar los fideos planos según las instrucciones del paquete.\n2. En un bol aparte, mezclar 2 latas de atún en agua, 2 latas de sopa de setas con crema, 2 latas de leche y 2 latas de setas frescas.\n3. Combinar los fideos cocidos con la mezcla de sopa hasta que esté bien integrado.\n4. Transferir la mezcla a un molde para hornear grande.\n5. Cubrir la casserole con los fideos chow mein.\n6. Hornear en el horno precalentado a 175°C durante 10 minutos, o servir caliente si no se hornea.",
+  "url": null
+}

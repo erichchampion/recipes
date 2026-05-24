@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "jerky-recipe",
+  "name": "Jerky Recipe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "beef",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "3/4 cup Worcestershire Sauce",
+    "1/4 cup Soy Sauce",
+    "1 tbsp Caribbean Jerk Seasoning",
+    "1/2 tsp Garlic Powder",
+    "1/2 tsp Black Pepper, coarse ground",
+    "1/2 tbsp Red Pepper, crushed"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a bowl.\n2. Place beef strips in a large ziploc bag and pour the marinade over them. Seal the bag and refrigerate for 12 to 24 hours.\n3. After marinating, remove the beef from the bag and pat dry.\n4. Dehydrate the meat according to your preferred method (e.g., oven dehydrator).\n5. Adjust the amount of red pepper if your family prefers less heat or spiciness.",
+  "url": null
+}

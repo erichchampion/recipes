@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-potato-salad",
+  "name": "Ensalada de patatas básica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 lb patatas nuevas",
+    "1/2 lb setas",
+    "3 cebolletas verdes",
+    "3 tallos de apio",
+    "3 cucharadas de vinagre",
+    "2 huevos duros",
+    "2 cucharadas de mostaza dijon",
+    "1/4 taza de mayonesa",
+    "Sal, pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cubrir las patatas con agua fría en una olla y llevar a ebullición a fuego alto.\n2. Cocinar las patatas hasta que estén tiernas.\n3. Mientras tanto, laminar finamente las setas, las cebolletas y el apio, y combinarlos en un bol para mezclar.\n4. Cuando las patatas estén tiernas, escurrirlas y cortarlas por la mitad o en cuartos, según su tamaño. Añadirlos al bol con los vegetales laminados.\n5. Espolvorear con vinagre y cubrir. Refrigerar hasta que esté frío.\n6. Picar los huevos duros y añadirlos al bol.\n7. Incorporar la mostaza dijon y la mayonesa, y sazonar con sal y pimienta al gusto, mezclando suavemente todo.",
+  "url": null
+}

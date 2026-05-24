@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "jicama-salad",
+  "name": "Ensalada de Jicama",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "aperitivos",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1/2 pequeño jicama, pelado y cortado en juliana",
+    "1/2 pimiento rojo pequeño, sin semillas y cortado en juliana",
+    "1/2 pimiento amarillo pequeño, sin semillas y cortado en juliana",
+    "1/2 calabacín pequeño (solo la parte verde), cortado en juliana",
+    "1/2 zanahoria pequeña, pelada y cortada en juliana",
+    "4 cucharadas de aceite de maní frío",
+    "2 cucharadas de jugo de lima",
+    "sal al gusto",
+    "pimienta cayena al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar los vegetales, el aceite, el jugo de lima, la sal y la pimienta cayena en un bol.\n2. Revolver bien para combinar.\n3. Puede prepararse con varias horas de antelación y refrigerarse. En ese caso, omitir la sal hasta justo antes de servir.\n4. Servir como guarnición para Tacos de Langosta (o otros platos del suroeste).",
+  "url": null
+}

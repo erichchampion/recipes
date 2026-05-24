@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "corn-flake-cookies",
+  "name": "Galletas de Copos de Maíz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de jarabe de maíz ligero",
+    "1 1/2 tazas de mantequilla de maní",
+    "1 taza de azúcar",
+    "5 tazas de copos de maíz"
+  ],
+  "recipeInstructions": "1. Llevar el jarabe de maíz a ebullición en una sartén.\n2. Retirar del fuego y mezclar la mantequilla de maní hasta obtener una textura suave.\n3. Verter sobre los copos de maíz y mezclar hasta que queden bien cubiertos.\n4. Colocar por cucharadas sobre papel para hornear y dejar enfriar.",
+  "url": null
+}

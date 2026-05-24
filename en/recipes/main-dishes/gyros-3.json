@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "gyros-3",
+  "name": "Gyros",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "ethnic",
+    "greek",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "1 lb Steak, Sirloin"
+  ],
+  "recipeInstructions": "1. Cut the steak into thin slices.\n2. Place the slices on a hot grill or in a pan over high heat.\n3. Cook the meat until it is browned and cooked through, about 4-5 minutes per side.\n4. Remove from heat and let rest for a few minutes before slicing.\n5. Serve with pita bread, vegetables, and tzatziki sauce.",
+  "url": null
+}

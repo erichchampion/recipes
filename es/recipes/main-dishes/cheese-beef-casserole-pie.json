@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-beef-casserole-pie",
+  "name": "Pastel de Casserola de Queso y Carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "guisos",
+    "queso/huevos",
+    "tartas para cena",
+    "carne molida",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1 taza de maíz enlatado con pimiento",
+    "1 paquete de queso crema",
+    "1 paquete de masa de bizcocho refrigerada",
+    "1 lata de sopa de setas"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida en una sartén y escurrir el exceso de grasa.\n2. Mezclar la carne molida, el queso crema, la sopa de setas y el maíz con pimiento.\n3. Verter la mezcla en un recipiente para hornear de 2 cuartos.\n4. Cubrir con los bizcochos.\n5. Hornear a 175°C durante unos 20 minutos.",
+  "url": null
+}

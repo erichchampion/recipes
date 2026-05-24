@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "palilalia-india-pale-ale",
+  "name": "Cerveza India Pale Ale",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "cervezas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "7 lbs de extracto de malta en polvo - claro",
+    "1 lb de malta cristal",
+    "0,5 lb de cebada maltada tostada",
+    "2 cucharadas de yeso",
+    "1,5 oz de lúpulo Northern Brewer, en ebullición",
+    "0,75 oz de lúpulo Cascade, en acabado",
+    "1 sobre de levadura de cerveza",
+    "0,375 tazas de azúcar de maíz, para embotellado"
+  ],
+  "recipeInstructions": "1. Tostar la cebada maltada tostada a 180°C durante 10 minutos.\n2. Añadir la malta cristal y la cebada maltada tostada a 1,5 galones de agua fría y retirar del fuego cuando comience a hervir.\n3. Incorporar el extracto de malta, los lúpulos Northern Brewer y yeso a la mezcla hirviendo y hervir durante 45-60 minutos.\n4. En el último minuto de hervor, añadir los lúpulos Cascade.\n5. Transferir la mezcla al fermentador y añadir la levadura una vez enfriada.\n6. Dejar envejecer la cerveza durante 3 a 4 semanas para obtener los mejores resultados.",
+  "url": null
+}

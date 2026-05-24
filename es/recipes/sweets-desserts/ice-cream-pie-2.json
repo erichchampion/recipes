@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "ice-cream-pie-2",
+  "name": "Pastel de helado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 base de galletas Graham de 23 cm",
+    "1 litro de helado de vainilla",
+    "2 cucharadas de crema de menta",
+    "1 onza de chocolate negro para cocinar en cuadrados",
+    "1/2 taza de azúcar de menta triturada",
+    "Chocolate rallado"
+  ],
+  "recipeInstructions": "1. Preparar la base de galletas y reservar.\n2. Colocar el helado en un bol grande y cortarlo en cuadrados.\n3. Microondas a potencia baja (10%) durante 2,5-3,5 minutos, o hasta que se ablande. Si su horno microondas no tiene una potencia del 10%, utilice el 30%.\n4. Añadir la crema de menta, el chocolate negro y la mitad del azúcar de menta triturado al bol. Batir a velocidad media hasta obtener una mezcla suave.\n5. Verter la mezcla en la base preparada.\n6. Espolvorear con el resto del azúcar de menta triturado.\n7. Congelar durante unas 5 horas, o hasta que esté firme.",
+  "url": null
+}

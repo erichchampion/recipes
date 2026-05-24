@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "irish-sweet-bread",
+  "name": "Irish Sweet Bread",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "ireland"
+  ],
+  "recipeIngredient": [
+    "3 cups sifted flour",
+    "1 1/2 tsp salt",
+    "3/4 tsp baking soda",
+    "1/2 cup shortening",
+    "1/4 cup sugar",
+    "1/4 cup molasses",
+    "1 egg, beaten",
+    "1 1/2 cups sour milk or buttermilk",
+    "1 1/2 cups chopped raisins",
+    "1 1/2 cups currants",
+    "1/4 cup chopped citron or candied lemon rind"
+  ],
+  "recipeInstructions": "1. Preheat oven to 325°F.\n2. Sift together the flour, salt, and baking soda.\n3. Cream together the shortening, sugar, and molasses. Beat in the egg.\n4. Alternately add the dry ingredients and sour milk; stir in the fruit.\n5. Pour the batter into two greased 8 x 4 x 2 1/2-inch loaf pans.\n6. Bake for 75 minutes.",
+  "url": null
+}

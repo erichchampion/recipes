@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-curing",
+  "name": "Curación de jamón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "plato principal",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "8 litros de sal",
+    "16 cucharadas de pimienta negra",
+    "16 cucharadas de azúcar blanco"
+  ],
+  "recipeInstructions": "Esta cantidad es suficiente para 8 jamones.\n1. Mezclar la sal, la pimienta y el azúcar blanco en un bol grande.\n2. Remover bien para asegurar una distribución uniforme de los ingredientes.\n3. Frotar cada jamón con la mezcla, cubriéndolo uniformemente.\n4. Introducir parte de la mezcla en el hueso del muslo de cada jamón.\n5. Envolver cada jamón con papel marrón.\n6. Colocar los jamones envueltos en bolsas de tela.\n7. Colgar los jamones con los huesos colgando hacia abajo.",
+  "url": null
+}

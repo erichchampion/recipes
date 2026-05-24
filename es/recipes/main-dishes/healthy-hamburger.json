@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "healthy-hamburger",
+  "name": "Hamburguesa saludable",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "plato principal",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de yogur natural sin grasa",
+    "30 g de queso feta desmenuzado (1/4 taza)",
+    "1/2 cucharadita de comino en polvo",
+    "450 g de carne picada magra",
+    "1 cebolleta pequeña, finamente picada",
+    "1/4 taza de cilantro fresco picado",
+    "1 diente de ajo grande, machacado",
+    "1 cucharadita de jengibre fresco rallado"
+  ],
+  "recipeInstructions": "1. En un bol pequeño, mezclar el yogur, el queso y el comino; batir con un tenedor hasta que el queso esté desmenuzado finamente. Tapar y refrigerar durante al menos 1 hora.\n2. Combinar la carne picada con los ingredientes restantes, mezclando bien. Dar forma a 4 hamburguesas.\n3. Cocinar en una sartén antiadherente o a la parrilla a 3 cm de distancia del calor durante 6-7 minutos por cada lado, o hasta que la carne y el jugo ya no sean rosados. Escurrir sobre papel absorbente.\n4. Colocar una hoja de lechuga, 5 rodajas de pepino y una hamburguesa en cada mitad del pan. Cubrir con 2 cucharadas de la mezcla de yogur y tapar con la otra mitad del pan.\n5. Servir 4 porciones.",
+  "url": null
+}

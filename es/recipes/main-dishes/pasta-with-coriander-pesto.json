@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-with-coriander-pesto",
+  "name": "Pasta con pesto de cilantro",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "pasta",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "250 g espagueti de espinacas",
+    "1/2 manojo de cilantro",
+    "3/8 taza de aceite de oliva",
+    "1/8 taza de piñones",
+    "1/2 diente de ajo",
+    "1/4 taza de queso parmesano rallado",
+    "1 cucharada de semillas de amapola",
+    "Piñones tostados adicionales para espolvorear"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta en una olla grande con agua hirviendo hasta que esté al dente.\n2. Mientras se cocina la pasta, lavar el cilantro bajo agua fría corriente. Cortar el extremo de la raíz y desecharlo. Picar groseramente los tallos y las hojas.\n3. Mezclar el cilantro, aceite de oliva, piñones y ajo pelado en una licuadora o procesador de alimentos hasta que quede bien combinado.\n4. Transferir la mezcla de cilantro a un bol. Incorporar el queso parmesano rallado y las semillas de amapola.\n5. Escurrir la pasta caliente y mezclarla con la salsa pesto. Colocar en un plato grande para servir, espolvorear con piñones tostados adicionales y servir.",
+  "url": null
+}

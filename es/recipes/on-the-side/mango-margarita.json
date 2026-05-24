@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mango-margarita",
+  "name": "Margarita de mango",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "aperitivos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "3 mangos maduros, pelados, sin hueso",
+    "4 jugos de limón",
+    "1 taza de zumo de naranja recién exprimido",
+    "6 onzas de soda de limón",
+    "4 onzas de tequila"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una licuadora y triturar hasta obtener una mezcla homogénea.\n2. Verter la mezcla de mango en vasos con hielo.\n3. Decorar con rodajas de limón, jicama y un palo de canela.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cold-gaspacho",
+  "name": "Gaspacho frío",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 Pimiento verde, picado",
+    "4 Tomates, picados",
+    "1 Cebolla, picada",
+    "3 Dientes de ajo, picados finamente",
+    "3 Tazas de agua",
+    "1/4 Taza de vino tinto",
+    "3 cucharaditas de zumo de limón",
+    "1 Cebolleta, picada finamente"
+  ],
+  "recipeInstructions": "1. Triturar todos los ingredientes, excepto la cebolleta, en una licuadora.\n2. Añadir un poco más de agua si el resultado es demasiado picante.\n3. Colar la mezcla a través de un colador fino, descartando las partes de verdura que no se hayan triturado completamente.\n4. Refrigerar la mezcla durante la noche.\n5. Servir frío en vasos o cuencos con cebolleta picada flotando encima.",
+  "url": null
+}

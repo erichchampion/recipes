@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-smoothee",
+  "name": "Batido de Naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "6 onzas de jugo de naranja concentrado (congelado)",
+    "1 taza de leche",
+    "1 taza de agua",
+    "1/4 taza de azúcar",
+    "1/2 cucharadita de extracto de vainilla",
+    "10 cubos de hielo"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en una licuadora.\n2. Tapa la licuadora y mezcla hasta obtener una textura suave.\n3. Sirve inmediatamente.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "southwest-pizza",
+  "name": "Southwest Pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italian",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 teaspoon Cornmeal",
+    "1 Can Pillsbury all purpose dough",
+    "1/2 cup Tomato sauce",
+    "1/2 teaspoon Chili powder",
+    "1/2 cup Diced green bell pepper",
+    "1/2 cup Diced red bell pepper",
+    "1 Can Green chilies, drained",
+    "1 Pkg. Shredded Cheddar and Monterey Jack cheese",
+    "1/2 cup Chopped cilantro"
+  ],
+  "recipeInstructions": "1 Preheat oven to 425°F.\n2 Grease a 10 x 15-inch jelly roll pan.\n3 Spread dough evenly onto the prepared pan.\n4 Bake for 5 minutes.\n5 Remove from oven.\n6 Spread with combined tomato sauce and chili powder.\n7 Top with bell peppers, chilies, and cheese mixed with cilantro.\n8 Bake for 15 to 20 minutes or until crust is golden brown.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "layer-cookies",
+  "name": "Galletas en capas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "Capa 1:",
+    "1/2 taza de Crisco",
+    "1 taza de azúcar blanca",
+    "2 yemas de huevo (batidas)",
+    "1/2 cucharadita de sal",
+    "1 1/2 tazas de harina (cernida)",
+    "1 cucharadita de polvo de hornear",
+    "Capa 2:",
+    "1 taza de azúcar morena",
+    "1 cucharadita de extracto de vainilla",
+    "1 clara de huevo",
+    "3/4 taza de nueces (picadas)"
+  ],
+  "recipeInstructions": "Capa 1: Batir el Crisco y el azúcar hasta obtener una mezcla suave. Agregar las yemas de huevo y mezclar bien. Incorporar gradualmente la harina, el polvo de hornear y la sal, mezclando hasta que quede bien integrado. Añadir el extracto de vainilla y mezclar. Verter en un molde engrasado y extender uniformemente sobre la segunda capa.\nCapa 2: Batir la clara de huevo hasta obtener picos firmes. Incorporar suavemente el azúcar morena y el extracto de vainilla. Extender sobre la primera capa y espolvorear con las nueces picadas. Hornear durante 30 minutos a 175 °C (350 °F). Rinde aproximadamente 2 docenas de barras o más.",
+  "url": null
+}

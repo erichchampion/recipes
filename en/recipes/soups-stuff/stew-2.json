@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "stew-2",
+  "name": "Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "2 pounds boneless stew beef",
+    "1 package dry onion soup",
+    "1 can mushroom soup",
+    "1 can mushrooms",
+    "1/2 cup red wine"
+  ],
+  "recipeInstructions": "1. Place the stew beef in a crockpot or a very heavy-bottomed pot set over low heat.\n2. Add the contents of the onion soup package, mushroom soup, and mushrooms to the pot.\n3. Pour in the red wine.\n4. Cook slowly for an extended period until the beef is tender.\n5. Serve over rice.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-pie-no-sugar",
+  "name": "Apple Pie (No Sugar)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "diabetic",
+    "pie",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "4 cups sliced apple",
+    "1/2 cup frozen apple juice, undiluted",
+    "2 tablespoons tapioca or cornstarch",
+    "1/2 to 1 teaspoon cinnamon"
+  ],
+  "recipeInstructions": "1. Mix apples and all ingredients until well coated.\n2. Pour mixture into pastry shell.\n3. Top with pastry.\n4. Bake at 425°F for 40 to 45 minutes.",
+  "url": null
+}

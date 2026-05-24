@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "egg-drop-soup",
+  "name": "Egg Drop Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "chinese",
+    "ethnic",
+    "jewish",
+    "low-calorie",
+    "non-regional"
+  ],
+  "recipeIngredient": [
+    "1 quart chicken broth",
+    "3 tablespoons cornstarch",
+    "1/2 cup cold water",
+    "1 egg",
+    "2 teaspoons cold water"
+  ],
+  "recipeInstructions": "1. Bring the chicken broth to a boil.\n2. Dissolve the cornstarch in the cold water.\n3. Add the cornstarch mixture to the boiling broth and stir constantly until thickened.\n4. Turn off the heat.\n5. Slowly pour in the egg, stirring continuously in one direction only.",
+  "url": null
+}

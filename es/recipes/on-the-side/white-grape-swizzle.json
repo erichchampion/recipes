@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-grape-swizzle",
+  "name": "Swizzle de Uva Blanca",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "frutas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 latas de concentrado de jugo de uvas blancas congeladas",
+    "1 lata de jugo de piña (46 onzas)",
+    "2 latas de refresco de limón-limón, frío"
+  ],
+  "recipeInstructions": "1. Reconstituir el jugo de uva según las indicaciones del paquete.\n2. Mezclar todos los jugos y refrigerar.\n3. Añadir la soda justo antes de servir.",
+  "url": null
+}

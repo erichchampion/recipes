@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "broccoli-frittata",
+  "name": "Frittata de brócoli",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "queso",
+    "huevos",
+    "italiano",
+    "plato principal",
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "2 1/2 cucharadas de cebolla picada",
+    "1 paquete de brócoli congelado cocido y escurrido",
+    "2 1/2 cucharadas de queso parmesano",
+    "1/4 taza de leche",
+    "1/2 taza de mozzarella rallada",
+    "2 cucharadas de mantequilla",
+    "1 diente de ajo machacado",
+    "1 taza de arroz cocido",
+    "2 huevos ligeramente batidos",
+    "1/2 cucharadita de sal",
+    "Pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla en la mantequilla hasta que esté tierna. No dorar.\n2. Añadir el brócoli, el ajo, el arroz y el parmesano; mezclar bien.\n3. Combinar los huevos, la leche y las especias.\n4. Incorporar a la mezcla de arroz.\n5. Verter en un molde para hornear poco profundo engrasado.\n6. Cubrir con mozzarella.\n7. Hornear a 180 °C durante 20-25 minutos hasta que esté cuajado.",
+  "url": null
+}

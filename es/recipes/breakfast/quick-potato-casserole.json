@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-potato-casserole",
+  "name": "Casserola rápida de patatas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "cazuelas",
+    "plato principal",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 lb de patatas fritas congeladas (hash brown)",
+    "1/2 cucharadita de polvo de cebolla",
+    "1 taza de crema agria",
+    "1 taza de sopa de champiñones con crema",
+    "1 taza de queso cheddar rallado",
+    "Queso parmesano"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el queso parmesano.\n2. Verter en un molde para hornear rectangular engrasado de 9x13 cm.\n3. Espolvorear el queso parmesano sobre la parte superior (aproximadamente 1/4 taza).\n4. Hornear durante 1 hora a 400 °F (200 °C).\n5. Esta receta se puede duplicar y hornear justo antes de servir.",
+  "url": null
+}

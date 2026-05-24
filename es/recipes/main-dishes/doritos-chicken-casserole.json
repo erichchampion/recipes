@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "doritos-chicken-casserole",
+  "name": "Cazuela de Pollo con Doritos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 taza de pollo desmenuzado",
+    "1 paquete de Doritos (sabor queso nacho)",
+    "1 lata de maíz (granos enteros)",
+    "Queso rallado (al gusto)",
+    "1 cebolla pequeña (picada)",
+    "1 lata de sopa de pollo",
+    "1 lata de sopa de setas",
+    "1 taza de leche",
+    "1 lata de Ro-tel de tomates"
+  ],
+  "recipeInstructions": "1. Cocinar y desmenuzar el pollo.\n2. En un plato para hornear, crear capas con el pollo, los Doritos, el queso, la cebolla y el maíz.\n3. Mezclar la sopa de pollo, la sopa de setas, la leche y los tomates.\n4. Verter la mezcla sobre la casserol.\n5. Cubrir con queso.\n6. Hornear a 180 °C durante unos 30 minutos.",
+  "url": null
+}

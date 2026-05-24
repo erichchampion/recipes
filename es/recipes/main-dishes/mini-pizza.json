@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "mini-pizza",
+  "name": "Mini Pizzas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "aperitivos",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1 lb de salchicha",
+    "1 lb de queso Velveeta",
+    "1 cucharadita de orégano",
+    "2 cucharadas de ketchup",
+    "4 gotas de salsa Worcestershire"
+  ],
+  "recipeInstructions": "1. Dorar la carne.\n2. Añadir la salchicha a la sartén y cocinar hasta que esté dorada.\n3. Incorporar el queso Velveeta, el orégano, el ketchup y la salsa Worcestershire.\n4. Extender la mezcla sobre rodajas redondas de pan francés.\n5. Congelar las pizzas montadas para su posterior uso.\n6. Precalentar el horno a 175 °C (350 °F).\n7. Hornear cada pizza durante 8-10 minutos o hasta que esté caliente por completo.",
+  "url": null
+}

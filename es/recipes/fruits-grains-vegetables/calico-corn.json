@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "calico-corn",
+  "name": "Maíz Calico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "maíz",
+    "étnico",
+    "almuerzo",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1/2 barra de mantequilla sin sal",
+    "1 pimiento rojo grande, picado finamente",
+    "2 dientes de ajo, pelados y picados",
+    "1 chile jalapeño fresco, desvenado y picado",
+    "3 tazas de granos de maíz, descongelados",
+    "1 lata de 20 onzas de cáñamo blanco, escurrido",
+    "4 cebollas verdes, cortadas",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una sartén grande a fuego medio.\n2. Añade el pimiento rojo, el ajo y el jalapeño. Cocina, removiendo ocasionalmente, durante 5 minutos.\n3. Incorpora el maíz, el cáñamo, las cebollas verdes y la sal. Mezcla bien.\n4. Tapa la sartén y cocina, removiendo ocasionalmente, hasta que esté caliente, unos 4 minutos.\n5. Ajusta la sal al gusto y sirve inmediatamente.",
+  "url": null
+}

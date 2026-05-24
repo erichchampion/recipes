@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "date-squares",
+  "name": "Cuadritos de Fecha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de avena en hojuelas",
+    "2 tazas de harina",
+    "1 taza de manteca",
+    "1 taza de azúcar moreno",
+    "1/2 cucharadita de sal",
+    "1 cucharadita de bicarbonato de sodio",
+    "1/2 taza de leche agria"
+  ],
+  "recipeInstructions": "1. Mezcla los primeros cinco ingredientes juntos hasta que queden bien integrados.\n2. Disuelve el bicarbonato de sodio en la leche agria y añádelo a los demás ingredientes, mezclando bien.\n3. Coloca la mitad de la mezcla en una bandeja para hornear y cubre con un relleno de dátiles.\n4. Extiende el resto de la mezcla sobre la capa inferior y presiona hacia abajo.\n5. Hornea a 175 °C durante 25 minutos.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-chip-sandwich",
+  "name": "Potato Chip Sandwich",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "sandwiches",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "2 slices of bread",
+    "Mayonnaise",
+    "Potato chips"
+  ],
+  "recipeInstructions": "1. Spread mayonnaise generously across one slice of bread.\n2. Pile potato chips on the other slice as high as desired.\n3. Top the pile of potato chips with the first slice, mashing down until all the chips are crushed.\n4. Serve with a Pepsi for a refreshing complement.",
+  "url": null
+}

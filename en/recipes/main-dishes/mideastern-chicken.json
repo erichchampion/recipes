@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "mideastern-chicken",
+  "name": "Mideastern Chicken",
+  "recipeCuisine": "Africa & Middle East",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "middle eastern",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Oil",
+    "1/4 teaspoon Nutmeg",
+    "2 Lemons, juiced",
+    "1 cup (7 oz) Green Olives",
+    "2 tablespoons Garlic powder",
+    "1/4 teaspoon Saffron",
+    "4 cups White wine",
+    "1 onion, diced",
+    "2 1/2 pounds Chicken, cut into pieces"
+  ],
+  "recipeInstructions": "1. Combine oil, lemon juice, garlic powder, and saffron in a blender.\n2. Blend until smooth.\n3. Rub the mixture evenly on chicken pieces.\n4. Place remaining ingredients (olives, white wine, onion) in a pan with the chicken.\n5. Cover and simmer over low heat for 20-30 minutes.\n6. Serve with lemon rice.",
+  "url": null
+}

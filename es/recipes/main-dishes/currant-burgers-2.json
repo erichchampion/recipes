@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "currant-burgers-2",
+  "name": "Hamburguesas de arándanos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "plato principal",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida de pavo",
+    "2/3 taza de arándanos secos",
+    "1/2 taza de migas de pan con especias (de grano entero)",
+    "1/4 taza de cebolla picada",
+    "1/4 taza de apio picado",
+    "1/4 taza de nueces picadas",
+    "1/2 cucharadita de salsa de soja",
+    "1 cucharada de sal vegetal",
+    "Pimienta al gusto",
+    "2 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. Mezclar la carne molida con los arándanos.\n2. Añadir las migas de pan, la cebolla, el apio, las nueces, la salsa de soja, la sal vegetal y la pimienta. Mezclar hasta que todos los ingredientes estén bien combinados.\n3. Derretir la mantequilla en una sartén grande.\n4. Formar hamburguesas de 3 pulgadas con la mezcla.\n5. Freír las hamburguesas a fuego medio.\n6. Darles la vuelta cuando estén doradas por un lado.\n7. Servir cuando estén cocidas por completo.",
+  "url": null
+}

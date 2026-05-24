@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "garden-soup",
+  "name": "Sopa de Jardín",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "diabetico",
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "6 tazas de agua",
+    "2 tazas de jugo de tomate",
+    "1 taza de papa pelada y picada",
+    "1 taza de cebolla picada",
+    "1 taza de frijoles lima",
+    "3/4 taza de pollo cocido, picado",
+    "1/2 taza de zanahoria en rodajas",
+    "1/2 taza de apio picado",
+    "2 cucharadas de granos de caldo de pollo con sabor",
+    "1 cucharadita de polvo de ajo",
+    "1 1/2 cucharaditas de salsa Worcestershire"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una olla holandesa grande.\n2. Tapar y llevar a ebullición.\n3. Reducir el calor y cocinar a fuego lento durante 45 minutos a 1 hora.\n4. Servir caliente.",
+  "url": null
+}

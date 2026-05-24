@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "almond-toffee-popcorn",
+  "name": "Palomitas de caramelo con almendras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "palomitas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "1/2 taza de mantequilla",
+    "1/2 taza de jarabe de maíz blanco",
+    "1/4 taza de agua",
+    "1 taza de almendras, cortadas y tostadas",
+    "1/2 cucharadita de extracto de vainilla",
+    "1/2 taza de palomitas de maíz infladas"
+  ],
+  "recipeInstructions": "1. En una sartén pesada, mezclar el azúcar, la mantequilla, el jarabe de maíz, el agua y las almendras.\n2. Cocinar a fuego medio hasta que la temperatura alcance los 280 °F en un termómetro de caramelo.\n3. Añadir la vainilla y remover bien.\n4. Verter la mezcla uniformemente sobre las palomitas de maíz infladas.",
+  "url": null
+}

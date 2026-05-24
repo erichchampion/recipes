@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "manhattan-2",
+  "name": "Manhattan",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas alcohólicas",
+    "aperitivos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "2 oz de whisky mezclado",
+    "3/4 oz de vermut dulce",
+    "3 gotas de amargo",
+    "1 cereza al marasquino"
+  ],
+  "recipeInstructions": "1. En un vaso mezclador lleno de 6 cubitos de hielo, combina el whisky, el vermut y los amargos.\n2. Revuelve bien hasta que la mezcla esté fría.\n3. Cuela en un vaso de cóctel vacío.\n4. Adorna con la cereza al marasquino.\n5. Sirve y disfruta.\nMANHATTAN SECO: Para una versión seca de esta bebida, sustituye el vermut dulce por vermut seco y adorna con una rodaja de limón en lugar de una cereza.",
+  "url": null
+}

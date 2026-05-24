@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "fresh-fruit-sherbet",
+  "name": "Sorbete de Frutas Frescas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "plátanos",
+    "postres",
+    "fruta",
+    "sorbete"
+  ],
+  "recipeIngredient": [
+    "2 plátanos machacados",
+    "1/2 taza de jugo de naranja",
+    "2 cucharadas de zumo de limón",
+    "1/2 taza de azúcar",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. En una licuadora, mezclar los plátanos machacados, el jugo de naranja, el zumo de limón, el azúcar y el agua.\n2. Licuar hasta obtener una textura suave.\n3. Congelar hasta que se forme una textura granulada.\n4. Retirar del congelador.\n5. Devolver a la licuadora o batir con una batidora manual.\n6. Refrigerar hasta que esté completamente congelado.\n7. Sacar del congelador 10 minutos antes de servir.",
+  "url": null
+}

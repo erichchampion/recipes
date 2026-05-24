@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-hearty-soup",
+  "name": "Mi Sopa Consonante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "3 litros de agua",
+    "3 hojas de laurel",
+    "Condimento para aves (al gusto)",
+    "Hierbas frescas o secas (al gusto)",
+    "2 dientes de ajo picados o 1 cucharadita de ajo en polvo",
+    "2 cebollas grandes, cortadas en trozos gruesos",
+    "2 tallos de apio, cortados en trozos",
+    "3 libras de carne (pollo, pavo, conejo, etc.)",
+    "Granos de pimienta negra",
+    "Sopa:",
+    "Pasta o fideos (al gusto)",
+    "3 zanahorias, picadas",
+    "2 tallos de apio, picados",
+    "1 cebolla española, picada",
+    "1 taza de guisantes verdes congelados",
+    "1 taza de papas cortadas en cubos",
+    "1 taza de setas laminadas",
+    "Sal y pimienta al gusto",
+    "Salsa Tabasco al gusto"
+  ],
+  "recipeInstructions": "1. Verter el agua en una olla grande y agregar la carne.\n2. Añadir los ingredientes restantes.\n3. Llevar a ebullición y, si es posible, colocar un difusor debajo de la olla para mantener el calor a fuego lento.\n4. Cocinar durante 4 a 8 horas, o hasta que la carne esté tierna.\n5. Retirar la carne y dejar enfriar.\n6. Colar el caldo y enfriarlo si es necesario para eliminar la grasa.\n7. Eliminar la grasa y devolver el caldo a la olla.\n8. Desmenuzar la carne y retirarle las huesos y la piel.\n9. Llevar de nuevo a ebullición y agregar los vegetales de la sopa y la pasta al caldo colado.\n10. Reducir el fuego y cocinar hasta que las verduras estén tiernas.\n11. Incorporar la carne y espesar si se desea.\n12. Servir con rodajas de pan fresco o hogazas.",
+  "url": null
+}

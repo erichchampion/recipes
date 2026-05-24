@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "salmon",
+  "name": "Salmón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "salmón",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "6 onzas de salmón enlatado",
+    "1 cebolla verde, picada finamente",
+    "1 cucharada de aceite vegetal",
+    "2 cucharaditas de almidón de maíz",
+    "1 taza de caldo de pollo",
+    "1 cucharada de mostaza estilo Dijon",
+    "1/3 taza de crema espesa",
+    "1/4 taza de eneldo fresco, picado",
+    "1 cucharadita de jugo de limón",
+    "16 onzas de fettuccine, cocido según las instrucciones del paquete"
+  ],
+  "recipeInstructions": "1. Escurrir el salmón y enjuagarlo con agua fría. Eliminar cuidadosamente cualquier hueso.\n2. Desmenuzar el salmón groseramente y reservar.\n3. En una sartén grande, saltear la cebolla verde con aceite, removiendo con frecuencia.\n4. En un bol pequeño, batir el almidón de maíz con 2 cucharadas de caldo de pollo hasta que quede suave.\n5. Añadir la mostaza y el resto del caldo, mezclando bien.\n6. Verter la mezcla en la sartén con la cebolla verde, removiendo constantemente hasta que espese.\n7. Agregar la crema espesa, el eneldo, el jugo de limón y el salmón a la sartén. Calentar solo hasta alcanzar la temperatura de servicio.\n8. En un bol para servir, verter la salsa sobre la fettuccine caliente y mezclar suavemente. Servir inmediatamente.",
+  "url": null
+}

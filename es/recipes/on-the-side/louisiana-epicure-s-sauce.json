@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "louisiana-epicure-s-sauce",
+  "name": "Salsa del Epicurista de Luisiana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pescado",
+    "salsas",
+    "mariscos",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "Crema espesa (2 litros)",
+    "Mayonesa (2 tazas)",
+    "Salsa de tomate (1 taza)",
+    "Mostaza de Dijon (o al gusto) (1/2 taza)",
+    "Horchata preparada (1/2 taza)",
+    "Azúcar (2 cucharadas)",
+    "Pimienta cayena (1/4 cucharadita)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes y guardar en la nevera hasta el momento de usarlo.\n2. Justo antes de servir el pescado, extender 1/4 taza de salsa sobre cada filete; pasar bajo el grill.",
+  "url": null
+}

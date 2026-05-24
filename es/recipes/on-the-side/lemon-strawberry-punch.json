@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-strawberry-punch",
+  "name": "Punch de Limón y Fresa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "batido",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "3 latas de limonada congelada pequeña",
+    "1 paquete de fresas congeladas, descongeladas y trituradas",
+    "1 litro de agua con gas al jengibre, frío",
+    "Agua",
+    "Hielo"
+  ],
+  "recipeInstructions": "1. Diluir la limonada congelada en un bol de ponche según las instrucciones del envase.\n2. Añadir las fresas trituradas.\n3. Justo antes de servir, incorporar el agua con gas al jengibre y el hielo.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "macaroni-cheese-casserole",
+  "name": "Macaroni & Cheese Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "casseroles",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 package Macaroni & cheese, prepared as directed",
+    "1 small onion, chopped",
+    "1 pound ground beef",
+    "1 can Cream of Mushroom soup",
+    "1/2 cup milk"
+  ],
+  "recipeInstructions": "1. Brown the beef and onion together.\n2. Prepare the macaroni according to package instructions.\n3. Add the cream of mushroom soup and milk to the beef mixture.\n4. Mix well and warm through.\n5. Combine both mixtures, stirring or layering alternating portions of soup mixture and macaroni.",
+  "url": null
+}

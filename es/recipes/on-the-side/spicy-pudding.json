@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-pudding",
+  "name": "Pudín Picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "postres",
+    "budines",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de dátiles sin hueso",
+    "1 taza de nueces inglesas",
+    "2 cucharaditas de polvo de hornear",
+    "4 cucharadas de harina",
+    "2 huevos",
+    "1/2 taza de leche",
+    "3/4 taza de azúcar",
+    "1/2 cucharadita de canela",
+    "1/2 cucharadita de jengibre",
+    "1/2 cucharadita de clavo de olor"
+  ],
+  "recipeInstructions": "1. Batir los huevos.\n2. Añadir el azúcar, la harina, las especias y la leche. Mezclar todo junto.\n3. Incorporar los dátiles y las nueces.\n4. Verter la mezcla en un molde engrasado.\n5. Hornear a 180°C durante 25 minutos, luego reducir la temperatura a 150°C y hornear por otros 15 minutos.\n6. Servir con crema batida o helado de vainilla.",
+  "url": null
+}

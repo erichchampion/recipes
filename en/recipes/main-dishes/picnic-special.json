@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "picnic-special",
+  "name": "Picnic Special",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat",
+    "meats"
+  ],
+  "recipeIngredient": [
+    "2 lb Ground beef",
+    "1 cup Quaker Oats, uncooked (quick or old-fashioned)",
+    "1 3/8 oz Onion soup mix",
+    "1 cup Milk",
+    "1 Loaf Vienna bread - cut into 24 slices",
+    "12 Tomato slices",
+    "Leaf lettuce",
+    "6 slice Process American cheese - cut in half"
+  ],
+  "recipeInstructions": "1. Combine ground beef, oats, soup mix and milk thoroughly.\n2. Shape the mixture to form 12 flat patties.\n3. Place patties in broiler or over hot coals for about 5 minutes.\n4. Turn and cook for another 5 minutes.\n5. To serve, place a tomato slice, leaf of lettuce, half a cheese slice, and a hamburger between two slices of Vienna bread.\n6. Reassemble loaf in bread basket.",
+  "url": null
+}

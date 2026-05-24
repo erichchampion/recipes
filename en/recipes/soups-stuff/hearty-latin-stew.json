@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "hearty-latin-stew",
+  "name": "Hearty Latin Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "beans",
+    "family favorites",
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "1 cup brown rice",
+    "1/2 cup bulgur",
+    "16 ounces chickpeas, canned",
+    "4 ounces chili peppers, canned, diced",
+    "8 ounces string beans",
+    "12 ounces corn",
+    "16 ounces stewed tomatoes",
+    "1 teaspoon chili powder or 2 teaspoons tabasco sauce"
+  ],
+  "recipeInstructions": "1. Cook the brown rice and bulgur together.\n2. In a large pot, heat the string beans, chili peppers, chili powder (or tabasco sauce), and hot sauce.\n3. Mix in the remaining ingredients. Simmer for 15-30 minutes.",
+  "url": null
+}

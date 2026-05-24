@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-and-cheese-casserole",
+  "name": "Cazuela de Jamón y Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "queso",
+    "comidas preparadas para congelar",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "3 tazas de macarrones con forma de codo, cocidos",
+    "8 onzas de queso cheddar bajo en grasa",
+    "8 onzas de mozzarella parte descremada",
+    "2 huevos",
+    "1,5 tazas de leche desnatada",
+    "1 libra de cubos de jamón",
+    "1 cucharadita de pimentón"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar los huevos, la leche desnatada y el pimentón.\n2. En un plato para hornear, colocar una capa de la mitad de los macarrones cocidos, los cubos de jamón y el queso. Repetir con el resto de los ingredientes.\n3. Verter la mezcla de leche sobre la casserole.\n4. Congelar hasta que se vaya a servir.\nPara servir:\n1. Descongelar la casserole si está congelada.\n2. Hornear durante 30-45 minutos, o hasta que ya no esté líquida (quedará ligeramente suave).\n3. Dejar reposar durante 5 minutos antes de servir.",
+  "url": null
+}

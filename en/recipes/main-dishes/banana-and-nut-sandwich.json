@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-and-nut-sandwich",
+  "name": "Banana and Nut Sandwich",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "sandwiches",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1 Banana",
+    "1/4 cup Grape Juice",
+    "1/2 cup Chopped Pecans",
+    "1 Orange"
+  ],
+  "recipeInstructions": "1. Crush the banana and mix it with chopped pecans and grape juice.\n2. Moisturize the mixture with orange juice.\n3. Use the mixture on buttered white or dark bread.",
+  "url": null
+}

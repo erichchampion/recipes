@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "peaches-and-cream-pie",
+  "name": "Peaches and Cream Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "fruits",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1 9 inch pie crust",
+    "3 1/2 cups fresh peaches, peeled and sliced",
+    "1/2 cup sugar",
+    "1/2 teaspoon ground cinnamon",
+    "1 dash ground nutmeg",
+    "3 tablespoons tapioca",
+    "half and half"
+  ],
+  "recipeInstructions": "1. Combine the sliced peaches with sugar, spices, and tapioca in a bowl.\n2. Place the mixture into the prepared pie shell.\n3. Pour half and half over the fruit filling until the shell is three-quarters full.\n4. Bake at 400 degrees Fahrenheit for 10 minutes.\n5. Reduce the temperature to 350 degrees Fahrenheit and continue baking for 45-50 more minutes, or until set.\n6. Serve hot or warm.",
+  "url": null
+}

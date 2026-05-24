@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-pot-pie-4",
+  "name": "Pastel de pollo y verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "tartas para cena",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 tazas de pollo cocido, cortado en cubos",
+    "1 taza de caldo de pollo",
+    "1 lata de sopa de crema de pollo",
+    "1 taza de leche",
+    "al gusto pimienta",
+    "1/2 cucharadita de condimento para aves",
+    "1 lata de mezcla de verduras"
+  ],
+  "recipeInstructions": "1. Mezclar los siete primeros ingredientes en un bol.\n2. Verter la mezcla en un recipiente para hornear de 3 cuartos.\n3. Combinar los ingredientes del topping y verter sobre el relleno.\n4. Hornear a 175°C durante 45-60 minutos, o hasta que esté dorado.",
+  "url": null
+}

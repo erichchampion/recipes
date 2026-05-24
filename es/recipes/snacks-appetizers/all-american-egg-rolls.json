@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "all-american-egg-rolls",
+  "name": "Rollos de huevo estadounidenses",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "ajo",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 litro de aceite para freír",
+    "15 dientes de ajo frescos, pelados",
+    "1/2 taza de mayonesa",
+    "1/2 taza de queso crema suave",
+    "2 cucharadas de mostaza preparada",
+    "4 salchichas polacas",
+    "1 huevo",
+    "1/4 cucharadita de leche",
+    "8 envoltorios de rollo de huevo",
+    "Perejil picado"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en una sartén a fuego medio-alto, alcanzando unos 350 grados.\n2. Mezclar el ajo, la mayonesa, el queso crema y la mostaza en una licuadora hasta obtener una textura suave. Retirar del aparato.\n3. Cortar cada salchicha polaca por la mitad y marcarla a lo largo.\n4. Batir el huevo con la leche hasta que quede homogéneo.\n5. Colocar media salchicha al final de cada envoltorio de rollo, añadir una cucharada de salsa de mostaza y enrollar la salchicha en el envoltorio, sellando los extremos con el huevo batido.\n6. Freír en el aceite caliente hasta que estén ligeramente dorados por todos lados.\n7. Decorar con perejil picado y servir con salsa de mostaza adicional.",
+  "url": null
+}

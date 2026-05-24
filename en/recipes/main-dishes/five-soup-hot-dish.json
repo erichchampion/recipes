@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "five-soup-hot-dish",
+  "name": "Five Soup Hot Dish",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "casseroles",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "2 lb Ground Beef",
+    "2 Med Onions, chopped",
+    "1 Can Cream Of Celery Soup, undiluted",
+    "1 Can Cream Of Mushroom Soup, undiluted",
+    "1 Can Cream Of Chicken Soup, undiluted",
+    "1 Can Beef With Barley Soup, undiluted",
+    "1 Can Chicken And Rice Soup, undiluted",
+    "8 oz. Chow Mein Noodles"
+  ],
+  "recipeInstructions": "1. Brown the ground beef and onions.\n2. Add the soups to the pan and mix well.\n3. Fold in two-thirds of the noodles.\n4. Place the mixture in a large casserole dish.\n5. Top with the remaining noodles.\n6. Bake at 350°F for 45 minutes.\nServes 6 to 8",
+  "url": null
+}

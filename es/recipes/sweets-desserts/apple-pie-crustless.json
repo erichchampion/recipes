@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-pie-crustless",
+  "name": "Tarta de Manzana - Sin Masa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "frutas",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de manzanas ácidas, en rodajas",
+    "1 barra de mantequilla, derretida",
+    "1 taza de azúcar",
+    "1 huevo",
+    "1 taza de harina",
+    "1/2 taza de nueces picadas",
+    "Canela al gusto",
+    "Nutmeg al gusto"
+  ],
+  "recipeInstructions": "1. Coloca las rodajas de manzana en un plato para tarta engrasado.\n2. Prepara una masa con los ingredientes restantes y viértela sobre las manzanas.\n3. Hornea durante 45 minutos a 180 °C.",
+  "url": null
+}

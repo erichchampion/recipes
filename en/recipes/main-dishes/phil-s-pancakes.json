@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "phil-s-pancakes",
+  "name": "Phil's Pancakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "none",
+    "pancakes"
+  ],
+  "recipeIngredient": [
+    "2 cups Milk (warmed)",
+    "1 tablespoon Butter",
+    "2 cups Flour",
+    "Salt"
+  ],
+  "recipeInstructions": "1. Mix the ingredients together in a bowl until just combined, without overmixing.\n2. Pour the batter into a non-stick pan.\n3. Cook on medium heat for about 2-3 minutes per side, or until golden brown and cooked through. No additional oil is needed.",
+  "url": null
+}

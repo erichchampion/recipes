@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "veal-francesca",
+  "name": "Cerdo francesa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "carne",
+    "ternera"
+  ],
+  "recipeIngredient": [
+    "2 trozos de ternera (4 onzas cada uno)",
+    "2 onzas de pasta",
+    "1 taza de salsa roja",
+    "3 rodajas de berenjena",
+    "2 onzas de queso parmesano",
+    "2 rodajas de mozzarella"
+  ],
+  "recipeInstructions": "1. En una sartén, saltea la ternera hasta que esté cocida por completo.\n2. Retira del fuego y cocina la pasta hasta que esté lista, escúrrela luego.\n3. Coloca la pasta en un plato para hornear.\n4. Cubre con la ternera.\n5. Vierte la salsa roja sobre la ternera.\n6. Ordena las rodajas de berenjena encima y espolvorea con queso parmesano.\n7. Cubre con las rodajas de mozzarella.\n8. Hornea a 180°C durante aproximadamente 57 minutos, hasta que esté dorado.",
+  "url": null
+}

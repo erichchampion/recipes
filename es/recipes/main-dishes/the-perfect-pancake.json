@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "the-perfect-pancake",
+  "name": "La tortita perfecta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "tortitas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "2 cucharaditas de polvo de hornear",
+    "1 cucharada de azúcar",
+    "1 cucharadita de sal",
+    "1 1/2 tazas de harina",
+    "2 huevos",
+    "1 1/2 tazas de leche",
+    "3 cucharadas de mantequilla vegetal derretida (se puede sustituir por margarina en caso de necesidad)"
+  ],
+  "recipeInstructions": "1. Cernir el polvo de hornear, el azúcar y la sal en un bol.\n2. Añadir los huevos, la leche y la mantequilla derretida a los ingredientes secos. Mezclar hasta que todos los ingredientes estén bien combinados.\n3. Calentar una sartén o plancha a fuego medio-alto. Engrasar ligeramente con Pam o margarina.\n4. Verter 1/4 taza de masa para cada tortita sobre la superficie caliente.\n5. Cocinar hasta que se formen burbujas en la superficie no cocida y los bordes estén secos, luego dar la vuelta para dorar el lado inferior.\n6. Servir inmediatamente.\nOpción: Ajustar la cantidad de leche en la receta para cambiar el espesor de las tortitas. Mientras se cocina, añadir más leche a la masa restante para obtener una textura variada.",
+  "url": null
+}

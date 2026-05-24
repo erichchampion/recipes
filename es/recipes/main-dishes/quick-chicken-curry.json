@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-chicken-curry",
+  "name": "Curry de Pollo Rápido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "750 g de muslos de pollo deshuesados",
+    "3 cucharadas de ghee o aceite",
+    "1 cebolla grande, cortada por la mitad y laminada finamente",
+    "1 cucharadita de ajo machacado",
+    "1 1/2 cucharaditas de jengibre rallado",
+    "1 rama de canela",
+    "2 hojas de laurel",
+    "2 clavos de olor",
+    "2 vainas de cardamomo",
+    "2 chiles secos",
+    "1 cucharada de cilantro en polvo",
+    "2 cucharaditas de garam masala",
+    "1/2 cucharadita de cúrcuma",
+    "Una pizca de pimienta negra",
+    "Jugo de limón"
+  ],
+  "recipeInstructions": "1. Tiempo de preparación: 10 minutos\n2. Tiempo de cocción: 50 minutos\n3. Dorar los trozos de pollo en ghee o aceite, luego retirarlos y reservarlos.\n4. Freír la cebolla hasta que esté dorada. Añadir el ajo, el jengibre, la canela, las hojas de laurel, los clavos, los cardamomos y los chiles secos, cocinar durante 2 minutos, removiendo ocasionalmente.\n5. Incorporar el cilantro en polvo, el garam masala, la cúrcuma y la pimienta negra a la sartén.\n6. Devolver el pollo a la sartén y añadir agua suficiente para cubrir apenas el pollo. Tapar la sartén y cocinar a fuego lento durante unos 40 minutos hasta que el pollo esté muy tierno.\n7. Añadir jugo de limón al gusto. Servir con arroz.",
+  "url": null
+}

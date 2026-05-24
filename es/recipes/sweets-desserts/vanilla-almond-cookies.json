@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "vanilla-almond-cookies",
+  "name": "Galletas de vainilla y almendras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3 tazas de harina",
+    "3 cucharaditas de polvo de hornear",
+    "1/2 taza de mantequilla",
+    "3 huevos",
+    "1 taza de azúcar",
+    "1 taza de almendras finamente picadas",
+    "1/2 taza de leche tibia",
+    "2 cucharaditas de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Cierna la harina con el polvo de hornear.\n2. Bate la mantequilla en un bol hasta que esté muy ligera.\n3. En otro bol, bate los huevos con el azúcar hasta que estén espumosos y ligeros, luego añádelos a la mantequilla.\n4. Agrega las almendras y la harina, mezclando bien.\n5. Incorpora la leche y el extracto de vainilla, y amasa para obtener una masa bastante firme.\n6. Separa pequeñas porciones de masa y dales forma con las palmas de las manos en discos planos.\n7. Colócalos en una bandeja engrasada y hornea en un horno precalentado a 180 °C durante unos 15 minutos.\n8. Deja enfriar y sirve.",
+  "url": null
+}

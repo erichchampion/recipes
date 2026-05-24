@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-devonshire-clotted-cream-tdn",
+  "name": "Mock Devonshire Clotted Cream (Tdn)",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "british",
+    "desserts",
+    "ethnic",
+    "sauces"
+  ],
+  "recipeIngredient": [
+    "3 oz cream cheese",
+    "1 cup heavy cream or whipping cream",
+    "1 tsp powdered sugar",
+    "1/2 tsp vanilla"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a blender or food processor.\n2. Blend until thick and smooth, using the food processor if possible.\n3. Serve with preserves on warm scones.\n4. Keep refrigerated.",
+  "url": null
+}

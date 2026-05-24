@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "refries-t-cheese-bread",
+  "name": "Pan de queso refrito número t",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "lácteos"
+  ],
+  "recipeIngredient": [
+    "2/3 paquete de levadura",
+    "3/16 cucharadita de jengibre",
+    "3/16 cucharadita de azúcar",
+    "2 tazas de harina para pan",
+    "1/3 taza de harina de trigo",
+    "1 1/3 cucharadas de gluten",
+    "2/3 cucharadita de polvo de chile",
+    "2/3 cucharadita de sal",
+    "1/3 cucharadita de sal de ajo",
+    "2/3 taza de frijoles refritos enlatados",
+    "2 2/3 onzas Kraft \"Mild Mexican\" Cheez Whiz",
+    "13/16 taza de agua muy caliente"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcle todos los ingredientes en el orden indicado.\n2. Vierta la mezcla en un molde para pan y seleccione la configuración de pan blanco.\n3. Presione \"Iniciar\" para hornear.\n4. El pan se puede servir como acompañamiento o en lugar de frijoles refritos con queso, envuelto en una tortilla de harina o utilizado para sándwiches con rebanadas sobrante.",
+  "url": null
+}

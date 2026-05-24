@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "black-chocolate-cake",
+  "name": "Pastel de chocolate negro",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 oz de chocolate sin azúcar",
+    "1/2 taza de azúcar",
+    "1/2 taza de leche",
+    "1 taza de azúcar",
+    "1/2 taza de mantequilla",
+    "1 taza de leche",
+    "2 huevos",
+    "2 tazas de harina, tamizada",
+    "1 cucharadita de bicarbonato de sodio"
+  ],
+  "recipeInstructions": "1. Calentar a fuego lento los tres primeros ingredientes hasta que espesen; dejar enfriar y reservar.\n2. Mezclar todos los demás ingredientes.\n3. Incorporar el chocolate frío y batir con una batidora eléctrica a velocidad media durante 2 minutos.\n4. Hornear en un molde de 30x40 cm durante 25 minutos a 180°C.",
+  "url": null
+}

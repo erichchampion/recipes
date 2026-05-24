@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-lime-daiquiri",
+  "name": "Mock Lime Daiquiri",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cups ice",
+    "2 tablespoons frozen limeade concentrate, thawed",
+    "1 cup lemon-lime Gatorade",
+    "1 tablespoon bottled sweetened lime juice",
+    "optional garnish: round lime slices"
+  ],
+  "recipeInstructions": "1. Put ice in blender.\n2. Add limeade concentrate, Gatorade and lime juice to the blender.\n3. Blend on high until mixture is completely smooth.\n4. Pour into two glasses.\n5. Garnish with lime wheels if desired.\n6. Makes 2 8-ounce drinks.",
+  "url": null
+}

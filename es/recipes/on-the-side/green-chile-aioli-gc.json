@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "green-chile-aioli-gc",
+  "name": "Alioli de Chile Verde (GC)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "acompañamientos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 taza de mayonesa",
+    "1 cucharadita de ajo fresco picado",
+    "1 chile poblano asado, pelado y sin semillas",
+    "2 cucharadas de jugo de lima fresco",
+    "sal y pimienta negra molida al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un procesador de alimentos.\n2. Procesar hasta que el chile poblano quede puré.\n3. Sazonar con sal y pimienta al gusto.\nRendimiento: aproximadamente 1 taza",
+  "url": null
+}

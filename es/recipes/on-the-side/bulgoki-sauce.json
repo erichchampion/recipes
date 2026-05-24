@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "bulgoki-sauce",
+  "name": "Salsa Bulgogi",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "asiático",
+    "étnico",
+    "coreano",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de salsa de soja oscura",
+    "1 diente de ajo pequeño, machacado",
+    "1 cucharada de aceite de sésamo oriental",
+    "1 cucharada de pasta de frijoles chinos (Mein Ganjang)",
+    "1 cucharada de semillas de sésamo tostadas",
+    "2 cucharadas de sake o vino de arroz seco",
+    "1 cucharada de cebolla verde picada",
+    "1 cucharada de azúcar",
+    "1 cucharada de aceite",
+    "Sal al gusto",
+    "1/4 cucharadita de pimienta de cayena"
+  ],
+  "recipeInstructions": "1. Machaca el ajo con azúcar y sal hasta obtener una pasta suave.\n2. Mezcla la pasta con los demás ingredientes.\n3. Sumerge rebanadas de carne de res asada o frita en la salsa.",
+  "url": null
+}

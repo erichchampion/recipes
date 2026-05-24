@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "hello-dolly-cookies",
+  "name": "Hello Dolly Cookies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "8 tablespoons Butter",
+    "1 cup Graham cracker crumbs",
+    "1 cup Chocolate chips",
+    "1 cup Chopped Pecans",
+    "1 can Eagle Brand Condensed Milk"
+  ],
+  "recipeInstructions": "1. Melt butter in a 13x9-inch pan.\n2. Spread graham cracker crumbs evenly over the bottom of the pan.\n3. Spread chocolate chips in a layer over the crumbs.\n4. Spread pecans in a layer over the chocolate chips.\n5. Pour condensed milk over everything.\n6. Do not stir at any time.\n7. Bake at 350°F for 30 minutes.\n8. Cool, then cut into squares.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-rolls",
+  "name": "Rollos rápidos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "4 tazas de harina para todo uso",
+    "2 tazas de buttermilk",
+    "3/4 taza de aceite",
+    "2 cucharadas de azúcar",
+    "1 sobre de levadura",
+    "4 cucharadas de agua tibia"
+  ],
+  "recipeInstructions": "1. Mezclar el agua tibia, el azúcar y la levadura en un bol.\n2. Incorporar esta mezcla a los tres primeros ingredientes (harina para todo uso y buttermilk).\n3. Batir la mezcla con una cuchara hasta que se combine.\n4. Verter la masa en moldes para muffins engrasados.\n5. Hornear a 400 grados Fahrenheit durante 15 minutos.",
+  "url": null
+}

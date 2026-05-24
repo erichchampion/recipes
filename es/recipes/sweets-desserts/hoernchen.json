@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "hoernchen",
+  "name": "Hoornchen",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres",
+    "alemán",
+    "festivo"
+  ],
+  "recipeIngredient": [
+    "Harju (ntbc64b)",
+    "1/2 taza de mantequilla",
+    "3/4 taza de azúcar",
+    "1 huevo",
+    "1 cucharadita de vainilla",
+    "2 1/4 tazas de harina",
+    "1/2 taza de almendras sin pelar, molidas",
+    "Azúcar de colores rojo y verde, pequeños caramelos multicolores"
+  ],
+  "recipeInstructions": "1. Batir la mantequilla con el azúcar hasta que quede cremosa.\n2. Incorporar el huevo y la vainilla, mezclar bien.\n3. Añadir la harina y las almendras molidas, remover.\n4. Sacar porciones de masa del tamaño de una nuez y enrollarlas en tiras de aproximadamente el grosor de un dedo meño.\n5. Darles forma de media luna.\n6. Sumergir un lado de la media luna en azúcar coloreado o caramelos multicolores.\n7. Colocarlos con el lado no recubierto sobre una bandeja para hornear sin engrasar.\n8. Hornear en horno precalentado a 175°C durante 15 minutos, o hasta que estén ligeramente dorados.",
+  "url": null
+}

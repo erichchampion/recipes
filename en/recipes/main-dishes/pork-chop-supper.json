@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "pork-chop-supper",
+  "name": "Pork Chop Supper",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "holiday",
+    "main dish",
+    "meat",
+    "pork"
+  ],
+  "recipeIngredient": [
+    "6 pork loin chops, 3/4 inches thick",
+    "1/2 cup all-purpose flour",
+    "2 tablespoons olive oil",
+    "2 tablespoons vegetable oil",
+    "2 teaspoons dried thyme",
+    "2 teaspoons salt",
+    "1/4 teaspoon pepper",
+    "4 large potatoes",
+    "5 medium carrots, sliced 1/4 inches thick",
+    "1 medium onion, cut into wedges",
+    "3 cups beef broth"
+  ],
+  "recipeInstructions": "1. Dredge pork in flour.\n2. Heat oil in a large skillet; brown chops on both sides.\n3. Sprinkle with thyme, salt and pepper.\n4. Peel potatoes and cut into 3/4 inches cubes; add to skillet along with the carrots and onion.\n5. Pour broth over all; bring to a boil.\n6. Reduce heat; cover and simmer for 40-50 minutes or until pork and vegetables are tender.",
+  "url": null
+}

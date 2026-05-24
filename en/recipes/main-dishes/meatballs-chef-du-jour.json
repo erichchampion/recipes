@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "meatballs-chef-du-jour",
+  "name": "Meatballs (Chef Du Jour)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "1 lb lean ground beef",
+    "1 egg",
+    "1/3 cup Italian bread crumbs",
+    "1/2 large Vidalia onion",
+    "1/2 head garlic, chopped"
+  ],
+  "recipeInstructions": "1. In a large bowl, combine the ingredients.\n2. Roll into balls.\n3. Cook in sauce during the last two hours of simmering.\n4. Serve.",
+  "url": null
+}

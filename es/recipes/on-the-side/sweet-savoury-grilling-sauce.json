@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-savoury-grilling-sauce",
+  "name": "Salsa agridulce para asar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "asado",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de salsa de tomate espesa",
+    "3 cucharadas de edulcorante",
+    "1 cucharada de melaza",
+    "1 cucharada de aceite de oliva",
+    "2 cucharadas de salsa de soja",
+    "1 cucharadita de pimentón dulce",
+    "1 cucharadita de polvo de chile",
+    "1 cucharadita de mostaza en polvo",
+    "1 cucharadita de polvo de ajo",
+    "1 cucharadita de orégano seco"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol y combinar bien.\n2. Tapar y dejar reposar durante al menos 1 hora.\n3. Utilizar como marinada para seitan o tempeh a la parrilla.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "miso-soup",
+  "name": "Miso Soup",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "asian",
+    "ethnic",
+    "japanese",
+    "soups",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "1 Onion, diced",
+    "1/3 cup Carrot, minced",
+    "1 Cabbage leaf, minced",
+    "2 tsp Oil",
+    "4 tsp (heaping) miso paste",
+    "4 cups Water",
+    "2 tsp Tahini"
+  ],
+  "recipeInstructions": "1. Heat oil in a large pot over medium heat. Add onion and carrot; sauté for 5 minutes until softened.\n2. Stir in cabbage, miso paste, water, and tahini. Bring the mixture to a boil.\n3. Reduce heat and let simmer for 20 to 30 minutes, stirring occasionally.\n4. Turn off heat and serve hot with tofu or green onions if desired.",
+  "url": null
+}

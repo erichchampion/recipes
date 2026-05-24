@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pheasant-casserole-2",
+  "name": "Cazuela de Faisán",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 faón cocido y deshuesado",
+    "2 cebollas picadas",
+    "4 caldos de faón o pollo",
+    "1/4 de salsa de soja",
+    "Pimienta al gusto",
+    "1 cucharadita de perejil seco (opcional)",
+    "2 apios picados",
+    "2 tazas de arroz marrón crudo",
+    "1 sobre de sopa cremosa de setas",
+    "Setas frescas (opcional)"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 300-350 °F (150-175 °C).\n2. En un bol grande, mezclar todos los ingredientes.\n3. Verter la mezcla en un refractario y cubrir con papel de aluminio.\n4. Hornear durante 2 horas o hasta que el faón esté tierno y el arroz cocido.\n5. Retirar del horno y dejar enfriar ligeramente antes de servir.",
+  "url": null
+}

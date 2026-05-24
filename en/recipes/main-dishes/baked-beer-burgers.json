@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-beer-burgers",
+  "name": "Baked Beer Burgers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "2 lb Ground beef",
+    "1 teaspoon Dijon Pepper",
+    "1 tablespoon Tabasco sauce",
+    "1 clove Garlic, crushed",
+    "1/3 cup Chili sauce",
+    "1/2 package Dry onion soup mix",
+    "1/2 cup Beer"
+  ],
+  "recipeInstructions": "1. Preheat oven to 400°F.\n2. Combine meat, pepper, Tabasco sauce, garlic, chili sauce, dry onion soup mix, and 1/4 cup beer in a bowl. Shape into 6 patties.\n3. Bake at 400°F until browned, about 10 minutes. Baste with remaining 1/4 cup of the beer.\n4. Continue baking for an additional 10-15 minutes, or until well done.",
+  "url": null
+}

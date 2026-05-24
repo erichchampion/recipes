@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "jerk-chicken",
+  "name": "Pollo Jerk",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "6 muslos de pollo, sin piel",
+    "2 cucharaditas de jengibre",
+    "1 cucharadita de pimentón dulce",
+    "1/2 cucharadita de chile en polvo",
+    "1/2 cucharadita de canela",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra molida",
+    "2 cucharadas de aceite vegetal",
+    "3 1/2 tazas de cebolla, picada",
+    "1 cucharada de ajo, picado finamente",
+    "3/4 taza de caldo de pollo",
+    "1 lata de salsa de tomate"
+  ],
+  "recipeInstructions": "1. Retira la piel del pollo.\n2. Combina las especias, la sal y la pimienta en un bol grande. Agrega el pollo y mézclalo bien para que quede cubierto. Cubre y refrigera durante 1 hora.\n3. Calienta el aceite en una sartén grande a fuego medio-alto.\n4. Añade el pollo y cocina hasta dorarlo, aproximadamente 4 minutos por cada lado. Retira el pollo de la sartén y colócalo en un plato.\n5. Desecha los jugos restantes en la sartén, dejando solo 1 cucharada.\n6. Agrega las cebollas a la sartén y cocina, tapada, hasta que se ablanden, unos 4 minutos.\n7. Incorpora el ajo y cocina durante 30 segundos más.\n8. Vierte el caldo de pollo y la salsa de tomate en la sartén. Devuelve el pollo a la sartén.\n9. Lleva a ebullición, luego reduce el fuego y cocina a fuego lento, tapado, durante 30 minutos.\n10. Retira el pollo de la sartén y colócalo en una fuente para servir. Ajusta la salsas al gusto y viértela sobre el pollo.",
+  "url": null
+}

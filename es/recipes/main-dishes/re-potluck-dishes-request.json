@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "re-potluck-dishes-request",
+  "name": "Platos para potluck",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "tartas de cena",
+    "plato principal",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne molida",
+    "2 pimientos rojos picados",
+    "2 pimientos verdes picados",
+    "1 cebolla picada",
+    "1 lata de sopa de queso nacho",
+    "1 taza de aceitunas negras en rodajas",
+    "8 onzas de salsa de maíz suave con trozos",
+    "2 tazas de mezcla para tortitas de maíz",
+    "1/4 taza de agua",
+    "3/4 taza de queso Cojack rallado"
+  ],
+  "recipeInstructions": "1. En una sartén de 30 cm, cocina la carne molida a fuego medio hasta que esté dorada.\n2. Añade los pimientos picados y la cebolla; cocina hasta que las verduras se ablanden.\n3. Incorpora la sopa, las aceitunas negras, la salsa y el agua. Lleva a ebullición.\n4. Reduce el fuego y deja que hierva a fuego lento durante 5 minutos.\n5. Retira del fuego y prepara la mezcla para tortitas según las instrucciones del paquete.\n6. Extiende la mitad de la masa de tortitas en un molde para hornear engrasado.\n7. Vierte la mezcla de carne sobre la capa de tortitas.\n8. Extiende cuidadosamente el resto de la masa de tortitas sobre la parte superior.\n9. Hornea a 180 °C durante 30-35 minutos o hasta que la capa de tortitas esté dorada.\n10. Espolvorea con queso Cojack rallado y adorna con aceitunas y tomates picados.",
+  "url": null
+}

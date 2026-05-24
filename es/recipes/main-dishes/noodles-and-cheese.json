@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "noodles-and-cheese",
+  "name": "Pasta y Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "500 g de pasta ancha",
+    "1 kg de queso cottage fresco de mozzarella con bajo contenido graso",
+    "Ingredientes opcionales: miel, canela, pasas"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta según las instrucciones del paquete hasta que quede al dente.\n2. Escurrir la pasta cocida y transferirla a un plato o bol de servicio.\n3. Añadir el queso cottage a la pasta y mezclar suavemente hasta combinarlo.\n4. Probar la mezcla y agregar miel, canela y/o pasas según el gusto por sabor.\n5. Servir inmediatamente y disfrutar de su cremosa pasta con queso.",
+  "url": null
+}

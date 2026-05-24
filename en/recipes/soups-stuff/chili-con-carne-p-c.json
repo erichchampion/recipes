@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-con-carne-p-c",
+  "name": "Chili Con Carne (P/c)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "meats",
+    "pressure cooker",
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "Ground beef, 1 1/2 lb",
+    "Onion, diced, 1 cup",
+    "Green pepper, diced, 1/2 cup",
+    "Fat or drippings, 1/4 cup",
+    "Canned kidney beans, 2 cups",
+    "Celery, diced, 1 cup",
+    "Tomatoes, canned, 2 cups",
+    "Salt, 2 tsp",
+    "Pepper, 1/2 tsp",
+    "Sugar, 1 tsp",
+    "Chili powder, 2 tsp",
+    "Garlic, minced, 1/2 cup"
+  ],
+  "recipeInstructions": "1. Brown the ground beef well in melted drippings in a cooker.\n2. Add green pepper and onion to the cooker and sauté.\n3. Mash 1 cup of kidney beans and add it to the cooker along with the remaining ingredients.\n4. Pressure cook at 15 lbs pressure for 15 minutes.\n5. Reduce pressure immediately.\n6. Allow the chili to simmer without pressure until the desired consistency is reached.\n7. Serves 4 to 6 people.",
+  "url": null
+}

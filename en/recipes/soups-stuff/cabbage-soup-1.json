@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cabbage-soup-1",
+  "name": "Cabbage Soup#1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "microwave",
+    "soups",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "1 can (48 oz) tomato juice",
+    "1 diced onion",
+    "3 cups water",
+    "6 beef bouillon cubes",
+    "1 head cabbage shredded",
+    "1 bay leaf",
+    "4 sliced carrots"
+  ],
+  "recipeInstructions": "1. In a large pot, combine the tomato juice, water, cabbage, carrots, onion, bouillon cubes, and bay leaf.\n2. Bring to a simmer over medium heat.\n3. Simmer for 1 hour.\n4. Remove the bay leaf before serving.",
+  "url": null
+}

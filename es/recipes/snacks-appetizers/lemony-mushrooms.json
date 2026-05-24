@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemony-mushrooms",
+  "name": "Setas con limón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "bajo en calorías",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "5 cucharadas de jugo de limón",
+    "5 cucharadas de agua",
+    "1 hoja de laurel",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de tomillo, o cualquier otra hierba",
+    "500 g de setas, limpias y cortadas por la mitad",
+    "2 cucharadas de perejil fresco picado"
+  ],
+  "recipeInstructions": "1. Mezclar el jugo de limón, agua, hoja de laurel, sal y tomillo en una pequeña olla.\n2. Llevar a ebullición.\n3. Añadir las setas y tapar la olla.\n4. Cocinar a fuego lento durante 3 minutos, o hasta que las setas estén ligeramente cocidas.\n5. Retirar del fuego y dejar enfriar en el líquido.\n6. Escurrir las setas y mezclar con perejil.",
+  "url": null
+}

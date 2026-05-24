@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-chocolate",
+  "name": "Chocolate mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "Cuadrados de chocolate (rallado): 2 onzas",
+    "Agua hirviendo: 1/2 taza",
+    "Leche: 2 tazas",
+    "Azúcar: 3 cucharadas",
+    "Crema espesa: 1 taza",
+    "Canela: 1 cucharadita",
+    "Huevo (batido ligeramente): 1",
+    "Sal: 1/8 de cucharadita",
+    "Nuez moscada: 1/8 de cucharadita",
+    "Extracto de vainilla: 1 cucharadita"
+  ],
+  "recipeInstructions": "1. Hervir el chocolate rallado con agua hirviendo durante 5 minutos.\n2. Agregar los demás ingredientes a un baño maría.\n3. Cocinar, revolviendo ocasionalmente, durante 1 hora.",
+  "url": null
+}

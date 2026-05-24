@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "yogurt-muffins-2",
+  "name": "Muffins de yogur",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "desayuno",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de harina",
+    "1/4 taza de azúcar moreno",
+    "2 cucharaditas de polvo de hornear",
+    "1 cucharadita de bicarbonato de sodio",
+    "1/2 cucharadita de sal",
+    "2/3 taza de yogur natural sin grasa",
+    "2/3 taza de leche desnatada",
+    "1 pequeña banana (ver nota)"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar la harina, el azúcar, el polvo de hornear, el bicarbonato y la sal.\n2. Incorporar suavemente el yogur y la leche hasta que los ingredientes secos estén húmedos.\n3. Rellenar moldes para magdalenas engrasados ligeramente hasta 3/4 de su capacidad.\n4. Hornear a 200°C durante 18 minutos o hasta que estén dorados.\n5. Servir calientes.",
+  "url": null
+}

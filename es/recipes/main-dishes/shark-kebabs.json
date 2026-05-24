@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "shark-kebabs",
+  "name": "Brochetas de tiburón",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "2 lb carne de tiburón (en trozos de 1,5 cm x 1,5 cm)",
+    "1/2 taza vino de arroz",
+    "1 cucharada zumo de limón",
+    "1/4 cucharadita jengibre molido",
+    "3 cucharadas aceite de maní",
+    "1/2 taza jerez seco",
+    "1/4 taza salsa de soja",
+    "1 diente ajo, picado",
+    "3 cucharadas aceite vegetal"
+  ],
+  "recipeInstructions": "1. Coloca el pescado en un bol de vidrio.\n2. Mezcla los ingredientes restantes (excepto el aceite) y viértelos sobre el pescado.\n3. Tapa y refrigera durante 2 horas, dando la vuelta ocasionalmente.\n4. Reserva la marinada. Ensarta los trozos de pescado en brochetas.\n5. Cocina a fuego lento o bajo una parrilla durante 10-15 minutos, rociando con la marinada de vez en cuando, hasta que el pescado se desmenuce fácilmente.",
+  "url": null
+}

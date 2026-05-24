@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-corned-beef-hash",
+  "name": "My Corned Beef Hash",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "1 can Corned beef",
+    "4 cups Potato, cubed",
+    "1/2 medium Onion, chopped",
+    "1/4 cup Milk",
+    "1 tbsp Fat"
+  ],
+  "recipeInstructions": "1. Dice potatoes and cook until slightly underdone.\n2. Brown onion in fat in a large, deep fry pan or Dutch oven.\n3. Add drained potatoes and corned beef, chopped into small cubes (chilling helps).\n4. Add milk and stir gently.\n5. Simmer for 30 minutes and serve with vegetables of choice.",
+  "url": null
+}

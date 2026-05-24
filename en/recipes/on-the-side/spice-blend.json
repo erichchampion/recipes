@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "spice-blend",
+  "name": "Spice Blend",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "side dishes",
+    "spices",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "2 teaspoons Thyme, whole",
+    "2 teaspoons Curry powder",
+    "2 teaspoons Onion powder",
+    "2 tablespoons Vogue Vegy Base",
+    "4 teaspoons Parsley, dried",
+    "2 teaspoons Savory, whole",
+    "2 teaspoons Salt",
+    "2 teaspoons Garlic powder",
+    "2 teaspoons Basil, dried"
+  ],
+  "recipeInstructions": "1. Mix the spices and herbs together.",
+  "url": null
+}

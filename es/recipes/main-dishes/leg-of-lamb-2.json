@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "leg-of-lamb-2",
+  "name": "Pierna de cordero",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cerdo",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 pierna de cordero",
+    "3 dientes de ajo, laminados y picados",
+    "2 tazas de caldo de pollo",
+    "2 ramitas de romero fresco (o seco)",
+    "2 cucharadas de vinagre",
+    "Jugo de 1 limón",
+    "Pimienta negra",
+    "Paprika",
+    "Polvo de chile"
+  ],
+  "recipeInstructions": "1. Hacer cortes superficiales en la pierna para insertar las especias. También se pueden hacer cortes más profundos para facilitar el corte posterior.\n2. Untar la pierna con las especias, incluyendo ajo, romero, vinagre, jugo de limón, paprika, pimienta negra y polvo de chile.\n3. Colocar la pierna en una bandeja para hornear.\n4. Hornear durante 10 minutos a 210°C (410°F), luego darla la vuelta.\n5. Reducir la temperatura a 150°C (300°F) y continuar horneando aproximadamente 25 minutos por kilogramo de carne.\n6. Cada 10 minutos, barnizar con los líquidos restantes y agregar parte del caldo y jugo de limón.\n7. Darle vuelta a la pierna unas cuantas veces durante el proceso de cocción.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "ford-motor-company-dip",
+  "name": "Sopa de la Compañía Ford Motor",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1,5 kg de queso crema",
+    "2 tazas de mayonesa",
+    "6 cucharadas de cebolla picada",
+    "4 cucharadas de rábano picante",
+    "Un chorrito generoso de salsa Tabasco",
+    "Una pizca generosa de sal",
+    "Perejil picado"
+  ],
+  "recipeInstructions": "1. Asegúrese de que el queso crema esté a temperatura ambiente.\n2. Mezcle todos los ingredientes en un bol hasta obtener una consistencia suave con un batidor.",
+  "url": null
+}

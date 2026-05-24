@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-adobo-3",
+  "name": "Pollo Adobo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 pollo mediano cortado en trozos",
+    "Yemas de pollo",
+    "6 dientes de ajo machacados",
+    "1/2 cucharadita de granos de pimienta entera",
+    "1/4 cucharadita de pimienta negra",
+    "1 hoja de laurel pequeña",
+    "1/4 taza de vinagre de sidra",
+    "3 cucharadas de salsa de soja",
+    "1/4 cucharadita de MSG (opcional)",
+    "1/2 taza de agua"
+  ],
+  "recipeInstructions": "1. Combinar el pollo, las yemas, el ajo, los granos de pimienta, la hoja de laurel, el vinagre, la salsa de soja y el MSG (si se usa) en una cacerola.\n2. Marinar durante al menos 10 minutos.\n3. Agregar el agua, tapar y cocinar a fuego medio durante unos 40 minutos, o hasta que el pollo esté tierno.\n4. Retirar el hígado y una pequeña cantidad de líquido, luego licuar en un recipiente de procesador de alimentos.\n5. Devolver la puré a la cacerola.\n6. Calentar hasta alcanzar la temperatura de servicio, ajustando la sal al gusto.\n7. Si se desea, dorar los trozos de pollo en aproximadamente 3 cucharadas de aceite, luego devolverlos a la cacerola y simmer, tapado, durante unos 10 minutos.\n8. Servir con arroz caliente.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-corn-scramble",
+  "name": "Desayuno mexicano de maíz revuelto",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "huevos",
+    "cereales",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 pequeña cebolla, picada",
+    "3 cucharadas de mantequilla o margarina",
+    "1 lata (400 g) de granos de maíz enteros con pimientos, escurridos",
+    "1 lata (60 ml) de aceitunas verdes en rodajas, escurridas",
+    "8 huevos batidos ligeramente",
+    "1 taza de jamón ahumado o salchicha cocida y desmenuzada",
+    "3/4 taza de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. En una sartén mediana, saltear la cebolla en mantequilla hasta que esté tierna.\n2. Incorporar el maíz y las aceitunas.\n3. Agregar los huevos; cocinar y revolver a fuego medio hasta que los huevos empiecen a cuajar.\n4. Añadir el jamón o la salchicha y el queso.\n5. Cocinar hasta que los huevos estén completamente cocidos y el queso se haya derretido.\n6. Servir con totopos y salsa picante.",
+  "url": null
+}

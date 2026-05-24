@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-brunch-inn",
+  "name": "Chili para el desayuno (en la posada)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "12 huevos",
+    "1/3 taza de harina de uso múltiple",
+    "1 cucharadita de polvo de ajo",
+    "1 cucharadita de sal, o al gusto",
+    "1 cucharadita de pimienta, o al gusto",
+    "4 tazas de queso cheddar rallado",
+    "2 tazas de queso cottage",
+    "1 lata de 4 onzas de chiles suaves, picados",
+    "1/2 taza de mantequilla derretida"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar todos los ingredientes.\n2. Verter la mezcla en un molde para hornear engrasado de 9 x 13 pulgadas.\n3. Refrigerar durante la noche si se desea.\n4. Hornear a 350°F (175°C) durante 45 minutos.\n5. Servir con una cucharada de salsa suave y crema agria encima.",
+  "url": null
+}

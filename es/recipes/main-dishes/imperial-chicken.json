@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "imperial-chicken",
+  "name": "Pollo Imperial",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1/2 cucharadita de mantequilla",
+    "1 diente de ajo, picado",
+    "2 tazas de migas de pan",
+    "3/4 taza de queso parmesano rallado",
+    "1/4 taza de perejil picado",
+    "1 pollo, cortado en trozos"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180 °C.\n2. Forrar una bandeja para hornear con papel de aluminio.\n3. Derretir la mantequilla con el ajo; dejar enfriar la mezcla.\n4. Mezclar las migas de pan, el queso parmesano rallado, el perejil, la sal y la pimienta en un bol.\n5. Sumergir cada trozo de pollo en la mantequilla derretida y luego cubrirlo con la mezcla de migas.\n6. Disponer los trozos de pollo recubiertos en la bandeja para hornear sin que se toquen.\n7. Si queda alguna mantequilla, verterla sobre el pollo.\n8. Hornear durante una hora a temperatura previa.",
+  "url": null
+}

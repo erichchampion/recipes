@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "kasha",
+  "name": "Kasha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "plato principal",
+    "dietas especiales",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "2 tazas de kasha",
+    "4 tazas de agua",
+    "2 cucharadas de aceite",
+    "5 cebollas grandes, picadas",
+    "2 zanahorias, picadas",
+    "2 tallos de apio, picados",
+    "3 dientes de ajo, picados",
+    "1/2 taza de tamari",
+    "1/2 cucharadita de perejil seco",
+    "1/2 cucharadita de polvo de ajo",
+    "1/2 cucharadita de albahaca seca",
+    "1/4 cucharadita de sal",
+    "1/8 cucharadita de pimienta cayena",
+    "3 cucharadas de tahini"
+  ],
+  "recipeInstructions": "1. En una olla grande, llevar el agua a ebullición y agregar el kasha.\n2. Cocinar durante 15-20 minutos hasta que esté suave.\n3. Calentar el aceite en una sartén y añadir las verduras picadas.\n4. Saltear durante 7 minutos hasta que estén tiernas. Mezclar con el kasha cocido.\n5. Añadir las especias al gusto (sal, pimienta).\n6. Incorporar el tahini y cocinar durante 8-10 minutos más.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "scotch-eggs-i",
+  "name": "Huevos Escoceses I",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "huevos",
+    "étnico",
+    "aves de corral",
+    "escocés"
+  ],
+  "recipeIngredient": [
+    "8 huevos, cocidos y pelados",
+    "2 libras de carne de salchicha"
+  ],
+  "recipeInstructions": "1. Descascar los huevos.\n2. Envolver cada huevo con 1/4 libra de carne de salchicha de manera uniforme.\n3. Freír a fuego medio hasta que esté dorado por todos lados.\n4. Escurrir sobre papel absorbente.\n5. Refrigerar.\n6. Antes de servir, colocar una base de lechuga en una bandeja y disponer los huevos escoceses cortados por la mitad entre la lechuga.",
+  "url": null
+}

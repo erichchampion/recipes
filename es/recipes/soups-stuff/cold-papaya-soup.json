@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cold-papaya-soup",
+  "name": "Sopa de papaya fría",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "americana",
+    "aperitivos",
+    "caribeña",
+    "étnica",
+    "frutas",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 papaya madura, de aproximadamente 20 cm de largo",
+    "Azúcar al gusto",
+    "Jugo de limón fresco al gusto"
+  ],
+  "recipeInstructions": "1. Pelar la papaya y cortarla por la mitad.\n2. Retirar las semillas y reservarlas en un recipiente pequeño en el refrigerador.\n3. Cortar la papaya en trozos y procesarla hasta obtener una puré en una licuadora.\n4. Añadir azúcar y jugo de limón a la puré. Si es necesario, agregar un poco de agua para lograr la consistencia deseada.\n5. Servir en copas de fruta con un toque de las semillas reservadas en el centro de cada porción.",
+  "url": null
+}

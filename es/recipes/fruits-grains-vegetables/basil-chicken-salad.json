@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "basil-chicken-salad",
+  "name": "Ensalada de Pollo con Albahaca",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pollo",
+    "sándwiches",
+    "ensaladas",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "3 tazas de pollo cocido, cortado en cubos",
+    "1 1/2 tazas de apio, picado",
+    "1/4 taza de cebolletas o cebollino, picado",
+    "1 taza de crema agria baja en grasa",
+    "1 1/2 tazas de albahaca fresca, picada",
+    "Pimienta negra molida al gusto",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcle el pollo, el apio, las cebolletas, la crema agria y la albahaca con una cuchara suavemente.\n2. Justo antes de servir, agregue sal y pimienta al gusto.\n3. Sirva sobre lechuga o en croissants o panecillos tipo kaiser.",
+  "url": null
+}

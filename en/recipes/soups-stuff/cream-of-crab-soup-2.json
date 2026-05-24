@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "cream-of-crab-soup-2",
+  "name": "Cream of Crab Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "appetizers",
+    "fish",
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "1 lb Crabmeat",
+    "1/4 cup Chopped onion",
+    "1/4 teaspoon Celery salt",
+    "1 quart Milk",
+    "1 Chicken bouillon cube",
+    "1 cup Butter",
+    "1 cup Boiling water",
+    "1 tablespoon Chopped parsley",
+    "3 tablespoons Flour"
+  ],
+  "recipeInstructions": "1. Dissolve the bouillon cube in boiling water.\n2. Cook the chopped onion in butter until tender.\n3. Blend in the flour and celery salt.\n4. Gradually add seasonings, then milk to the mixture.\n5. Cook until thick, stirring constantly.\n6. Add crabmeat and cook briefly.\n7. Garnish with parsley before serving.",
+  "url": null
+}

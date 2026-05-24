@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pumpernickel-bread-abm",
+  "name": "Pan de pumpernickel ABM",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "6,5 oz de agua tibia",
+    "4 cucharadas de melaza",
+    "1 cucharada de mantequilla",
+    "1 cucharadita de semillas de eneldo",
+    "1,5 cucharaditas de sal",
+    "1,5 tazas de harina de centeno",
+    "1,5 tazas de harina de trigo",
+    "2,5 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "Rinde 1,5 libras de pan.\nPara máquinas Panasonic, utiliza 4 cucharaditas de levadura.\nPara máquinas DAK/Welbilt, utiliza 7,5 onzas de agua tibia.\nProbado el 30/04/94 - ¿Demasiada melaza? Prueba con 2-3 cucharadas la próxima vez.",
+  "url": null
+}

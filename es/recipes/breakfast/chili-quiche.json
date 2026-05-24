@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-quiche",
+  "name": "Chili Quiche",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "lácteos",
+    "tartas de cena",
+    "plato principal",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla",
+    "10 huevos",
+    "1/2 taza de harina",
+    "1 cucharadita de polvo de hornear",
+    "Sal al gusto",
+    "8 oz de chiles verdes, pelados y picados",
+    "Orégano (opcional)",
+    "1 litro de queso cottage (pequeños granos)",
+    "1 lb de queso Monterey Jack rallado",
+    "o 1/2 cheddar y 1/2 jack"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en un molde para hornear de 9 x 13 cm precalentado en el horno.\n2. Bate los huevos suavemente.\n3. Añade la harina, el polvo de hornear y la sal; mezcla bien.\n4. Incorpora la mantequilla derretida, el queso cottage, los quesos y los chiles.\n5. Hornea a 400°F (200°C) durante 15 minutos.\n6. Reduce la temperatura a 350°F (175°C) y hornea entre 35 y 40 minutos, o hasta que esté firme.\n7. Se puede congelar y recalentar.",
+  "url": null
+}

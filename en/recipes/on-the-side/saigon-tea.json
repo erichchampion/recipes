@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "saigon-tea",
+  "name": "Saigon Tea",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "side dishes",
+    "tea"
+  ],
+  "recipeIngredient": [
+    "3 tablespoons tea",
+    "4 cups freshly boiling water",
+    "lemon wedges",
+    "12 whole cloves",
+    "12 all-spice berries",
+    "1 2-inch stick cinnamon"
+  ],
+  "recipeInstructions": "1. Put tea into heated pot.\n2. Add water.\n3. Add cloves, allspice and cinnamon.\n4. Let stand for 5 minutes.\n5. Pour through strainer over ice in tall glasses.\n6. Garnish with lemon.\nServes 4.",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-muffins-2-2",
+  "name": "Muffins de Manzana 2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "magdalenas",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de aceite",
+    "1 taza de miel",
+    "2 huevos o sustituto de huevo",
+    "1/2 taza de agua",
+    "2 1/2 tazas de harina integral multiuso",
+    "2 cucharaditas de polvo de hornear sin alumbre (baking powder)",
+    "1/2 cucharadita de sal del mar (opcional)",
+    "1 cucharadita de canela",
+    "1 cucharadita de jengibre",
+    "1 cucharadita de nuez moscada",
+    "2 manzanas grandes ralladas con cáscara",
+    "1 cucharadita de extracto de vainilla",
+    "1 taza de semillas de girasol (o nueces picadas)"
+  ],
+  "recipeInstructions": "1. Batir la miel, el aceite, los huevos y el agua.\n2. Mezclar los ingredientes secos y agregarlos a la mezcla de miel.\n3. Incorporar las manzanas, la vainilla y las nueces.\n4. Llenar moldes engrasados hasta 2/3 de su capacidad.\n5. Hornear a 400°F (200°C) durante 12 a 15 minutos.",
+  "url": null
+}

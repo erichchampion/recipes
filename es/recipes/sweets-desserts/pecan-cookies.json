@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pecan-cookies",
+  "name": "Galletas de nuez pecana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de mantequilla",
+    "2 cucharadas de agua",
+    "5 cucharadas de azúcar glas",
+    "2 tazas de harina",
+    "2 tazas de trozos de nueces pecán"
+  ],
+  "recipeInstructions": "1. Ablandar la mantequilla y mezclarla con un batidor eléctrico con todos los ingredientes excepto las nueces pecán.\n2. Agregar las nueces pecán y extender la masa sobre una bandeja para hornear sin engrasar.\n3. Hornear a 350 °F (175 °C) durante 20 minutos.\n4. Glaseado: Mezclar el azúcar glas, leche y unas gotas de extracto de vainilla hasta obtener una consistencia para chorro. Verter sobre las galletas.",
+  "url": null
+}

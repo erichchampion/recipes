@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-sausage-sweet",
+  "name": "Italian Sausage Sweet",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italian",
+    "main dish",
+    "meat",
+    "pork/ham",
+    "sausages"
+  ],
+  "recipeIngredient": [
+    "5 lb Coarse Ground Pork Butt",
+    "5 Cloves Pressed Garlic",
+    "3 tsp Fennel Seed",
+    "3 tsp Salt",
+    "3 tsp White Pepper",
+    "1 cup White Wine",
+    "1 1/2 tsp Sage Leaves"
+  ],
+  "recipeInstructions": "1. Combine all ingredients, mix well.\n2. Stuff the mixture into hog casings or form into patties.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "harvey-wallbanger",
+  "name": "Harvey Wallbanger",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "refrescos",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 oz de vodka",
+    "4 oz de zumo de naranja",
+    "1/2 oz de Galliano"
+  ],
+  "recipeInstructions": "Verter el vodka y el zumo de naranja en un vaso Collins lleno de cubitos de hielo. Remover la mezcla hasta que esté bien combinada. Verter lentamente el Galliano sobre una cucharadita volcada al revés para flotar en la parte superior de la bebida.",
+  "url": null
+}

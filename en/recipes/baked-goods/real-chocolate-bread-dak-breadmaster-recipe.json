@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "real-chocolate-bread-dak-breadmaster-recipe",
+  "name": "Real Chocolate Bread (Dak Breadmaster Recipe)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "chocolate",
+    "desserts",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 package Yeast",
+    "3 cups Flour, bread",
+    "1/2 cup Sugar",
+    "1/4 cup Unsweetened cocoa",
+    "1 Egg, beaten",
+    "1/4 cup Soft butter or margarine",
+    "1/2 tsp Vanilla extract",
+    "1 cup Warm Milk"
+  ],
+  "recipeInstructions": "1. Add all the ingredients in the order given: white bread setting and press start.\n2. Follow the DAK/Breadmaker Recipes section for additional instructions.",
+  "url": null
+}

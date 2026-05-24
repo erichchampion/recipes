@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "three-fruit-punch-2",
+  "name": "Tres en uno: Batido de Tres Frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "batido",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 latas de concentrado de jugo de naranja (6 oz cada una)",
+    "2 latas de concentrado de jugo de limón (6 oz cada una)",
+    "6 tazas de agua fría",
+    "46 oz de jugo de piña",
+    "1 taza de azúcar",
+    "2 latas de ginger ale (12 oz cada una)"
+  ],
+  "recipeInstructions": "1. Mezclar en un bol para punzada los concentrados de jugo de frutas, el agua, el jugo de piña y el azúcar.\n2. Remover bien.\n3. Añadir el ginger ale y cubos de hielo.",
+  "url": null
+}

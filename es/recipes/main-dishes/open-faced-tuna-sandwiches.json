@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "open-faced-tuna-sandwiches",
+  "name": "Sándwiches abiertos de atún",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "ensaladas",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 lata de atún en aceite; escurrido, desmenuzado",
+    "1 taza de manzana sin pelar, picada",
+    "3 cucharadas de cebolla, finamente picada",
+    "1/4 taza de nueces, finamente picadas",
+    "1/4 taza de mayonesa",
+    "2 cucharaditas de zumo de limón",
+    "1/4 cucharadita de sal",
+    "1/8 cucharadita de pimienta",
+    "4 rebanadas de pan tostado",
+    "4 rebanadas de queso Monterey Jack"
+  ],
+  "recipeInstructions": "En un bol, mezclar el atún, la manzana, la cebolla, las nueces, la mayonesa, el zumo de limón, la sal y la pimienta. Extender la mezcla sobre cada rebanada de pan; cubrir con una rebanada de queso. Gril 4 pulgadas alejado del calor durante 5 minutos o hasta que el queso se derrita.",
+  "url": null
+}

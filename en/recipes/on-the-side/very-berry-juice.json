@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "very-berry-juice",
+  "name": "Very Berry Juice",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "breakfast",
+    "fruit",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "225 grams strawberries",
+    "225 grams raspberries",
+    "225 grams blackberries",
+    "1 teaspoon lemon juice, fresh or bottled",
+    "2 teaspoons sugar"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a blender.\n2. Blend until smooth.\n3. Strain the mixture through a sieve into chilled glasses.\n4. Serve immediately.",
+  "url": null
+}

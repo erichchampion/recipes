@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "standard-course-bread-for-bread-makers",
+  "name": "Pan de curso estándar para panificadoras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "7 oz AGUA (210 mL)",
+    "2 tazas HARINA DE TRIGO",
+    "1 cucharada LECHE DESNATADA EN POLVO",
+    "1 1/2 cucharadas AZÚCAR",
+    "1 cucharadita SAL",
+    "1 cucharada MANTECA",
+    "1 1/2 cucharaditas HUEVOS SECOS"
+  ],
+  "recipeInstructions": "1. INTRODUCIR TODOS LOS INGREDIENTES EN LA PANIFICADORA EN EL ORDEN INDICADO.\n2. NOTA: SI LA TEMPERATURA AMBIENTE ES SUPERIOR A 82 °C, UTILIZA AGUA FRÍA (ALREDEDER 41 °C). SI LA TEMPERATURA AMBIENTE ES INFERIOR A 50 °C, UTILIZA AGUA TIEMPLO (ALREDEDER 100 °C).",
+  "url": null
+}

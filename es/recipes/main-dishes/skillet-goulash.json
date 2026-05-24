@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "skillet-goulash",
+  "name": "Goulash en sartén",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida magra",
+    "1/2 taza de cebolla picada (mediana)",
+    "16 onzas de tomates (enlatados) con líquido",
+    "1/2 taza de apio picado",
+    "1/2 taza de agua",
+    "1 1/2 cucharaditas de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1/8 cucharadita de hojas de albahaca",
+    "1/8 cucharadita de orégano en hojas",
+    "3 oz de fideos finos sin cocinar"
+  ],
+  "recipeInstructions": "1. Cocinar y remover la carne y la cebolla en una sartén grande a fuego medio hasta que la carne esté dorada.\n2. Escurrir el exceso de grasa de la sartén.\n3. Incorporar los tomates (con su líquido) y el resto de ingredientes, removiendo para desmenuzar los tomates.\n4. Llevar la mezcla a ebullición, luego reducir el fuego y dejarla cocinar a fuego lento, tapada, con remoción ocasional.\n5. Cocinar hasta que los fideos estén tiernos, aproximadamente 20 minutos. Añadir agua si es necesario para ajustar la consistencia.\n6. Servir caliente.",
+  "url": null
+}

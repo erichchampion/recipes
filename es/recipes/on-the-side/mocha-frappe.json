@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "mocha-frappe",
+  "name": "Moca Frappé",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "4 bolas de yogur helado de chocolate congelado",
+    "1/4 taza de café",
+    "Sirupo de chocolate al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar el yogur helado de chocolate congelado, el café y el sirupo de chocolate en una licuadora.\n2. Licuar hasta obtener una textura suave.\n3. Verter en vasos y servir.",
+  "url": null
+}

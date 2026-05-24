@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "khichhari",
+  "name": "Khichhari",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "plato principal",
+    "dietas especiales",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "4 oz de guisantes amarillos divididos",
+    "1 cucharada de mantequilla clarificada (ghee)",
+    "1 cebolla picada",
+    "1/2 cucharadita de semillas de cilantro entero",
+    "1/2 cucharadita de semillas de comino entero",
+    "1 pedazo de jengibre de 1/2 pulgada, cortado en rodajas",
+    "1 pizca de cúrcuma",
+    "1/4 cucharadita de pimentón picante",
+    "4 oz de arroz castaño",
+    "1 chile verde picado",
+    "3/4 litro de agua",
+    "1/2 limón, exprimido",
+    "2 tomates, pelados y picados",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "1. Remojar los guisantes en agua hirviendo durante 1 hora. Escurrir y enjuagar bien.\n2. En una olla grande, calentar el aceite y freír las cebollas y las especias a fuego medio durante 4 minutos.\n3. Añadir los guisantes divididos, el arroz y el chile verde. Mezclar bien. Verter el agua y el jugo de limón. Agregar los tomates y remover. Tapar y dejar cocinar a fuego lento hasta que el arroz esté tierno, aproximadamente 40 minutos. Sazonar al gusto y servir.",
+  "url": null
+}

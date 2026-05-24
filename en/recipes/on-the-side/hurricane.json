@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hurricane",
+  "name": "Hurricane",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 oz Dark rum",
+    "1 oz Light rum",
+    "1/2 oz Galliano",
+    "2 oz Passion fruit syrup",
+    "1/2 oz Orange juice",
+    "1 Rose's lime juice",
+    "1 Pineapple juice"
+  ],
+  "recipeInstructions": "Fill a mixing glass with cracked ice. Add rum, galliano, passion fruit syrup, and orange juice. Shake and strain into highball or collins glass filled with ice cubes. Top with a splash of Rose's lime juice and a splash of pineapple juice.",
+  "url": null
+}

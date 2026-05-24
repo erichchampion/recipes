@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cool-papaya-salsa",
+  "name": "Salsa de papaya fría",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "frutas",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de papaya pelada y picada",
+    "1/4 taza de cebolla roja picada",
+    "1/4 taza de pimiento verde picado",
+    "2 cucharadas de cilantro fresco picado",
+    "2 cucharadas de jugo de limón",
+    "Una pizca de sal y pimienta"
+  ],
+  "recipeInstructions": "1. En un bol pequeño, mezcla la papaya, la cebolla roja, el pimiento verde, el cilantro, el jugo de limón, la sal y la pimienta.\n2. Revuelve hasta que todos los ingredientes estén bien combinados.\n3. Tapa y refrigera durante 30 minutos antes de servir.\n4. Sirve fría. Rinde 1 1/2 tazas.",
+  "url": null
+}

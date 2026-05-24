@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mesclun-salad-dressing",
+  "name": "Aderezo para ensalada de mesclun",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "ensaladas",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3 tazas de mezcla de ensaladas mesclun",
+    "1 diente de ajo",
+    "1 cebolla pequeña, picada",
+    "2 cucharadas de vinagre de vino tinto",
+    "1 cucharada de vinagre balsámico",
+    "1 cucharadita de mostaza dijon",
+    "0,5 tazas de aceite de oliva"
+  ],
+  "recipeInstructions": "1. Frota el bol de la ensalada con un diente de ajo.\n2. Mezcla la cebolla picada, la mostaza y los vinagres en el bol.\n3. Vierte el aceite de oliva en el bol y bate hasta que esté integrado. Añade las hojas de mesclun y mezcla bien.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "noodles-in-broth",
+  "name": "Pasta en caldo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 lb de fideos Udon (gruesos)",
+    "2 litros de caldo de pollo",
+    "2 tazas de pollo o pavo, cerdo o jamón cocido y cortado en cubos",
+    "1 zanahoria; rallada",
+    "2 cebolletas; cortadas en rodajas de 1 pulgada",
+    "1/4 taza de apio; cortado en láminas diagonales",
+    "1/2 taza de bok choy; cortado en láminas finas",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar los fideos Udon según las instrucciones del paquete. Escurrir y enjuagar bajo agua fría.\n2. Calentar el caldo de pollo en una olla grande a fuego medio hasta que empiece a hervir.\n3. Añadir al caldo los cubos de pollo, la zanahoria rallada, las cebolletas, el apio y el bok choy.\n4. Sazonar con sal y pimienta.\n5. Dejar cocinar a fuego lento durante 5-10 minutos o hasta que las verduras estén apenas tiernas.\n6. Dividir los fideos entre seis bolos.\n7. Verter el caldo sobre cada bol con los fideos.",
+  "url": null
+}

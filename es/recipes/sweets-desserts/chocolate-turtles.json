@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-turtles",
+  "name": "Tartas de chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "caramelo",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 libra de caramelos",
+    "2 cucharadas de agua",
+    "1/2 libra de nueces saladas (o pecanas)",
+    "1 paquete de chips de chocolate"
+  ],
+  "recipeInstructions": "1. Derretir los caramelos en un baño maría a fuego bajo hasta que estén lisos.\n2. Disponer racimos de nueces sobre una bandeja para hornear engrasada.\n3. Colocar 1 cucharadita de caramelo sobre cada racimo de nueces.\n4. Derretir el chocolate y extenderlo uniformemente sobre los caramelos derretidos.",
+  "url": null
+}

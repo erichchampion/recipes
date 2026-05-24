@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-noodles",
+  "name": "Pollo y fideos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "pasta",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 paquete de pechugas o muslos de pollo sin hueso",
+    "1/4 taza de vino blanco",
+    "1 lata de sopa de setas con crema",
+    "1 taza de crema agria",
+    "1/4 taza de harina",
+    "Fideos cocidos"
+  ],
+  "recipeInstructions": "1. Coloca el pollo en una olla de cocción lenta.\n2. Mezcla el vino blanco y la sopa de setas con crema y viértelo sobre el pollo.\n3. Tapa y cocina a fuego lento durante 7-9 horas o a fuego alto durante 3-4 horas.\n4. Antes de servir, mezcla la crema agria con la harina hasta obtener una consistencia suave.\n5. Incorpora esta mezcla al pollo y la salsa.\n6. Calienta a fuego bajo durante 30 minutos.\n7. Sirve el pollo con la salsa sobre fideos calientes.",
+  "url": null
+}

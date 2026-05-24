@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "raspberry-chicken",
+  "name": "Pollo con Frambuesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "frutas",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "6 pechugas de pollo",
+    "18 onzas de puré de frambuesa",
+    "6 onzas de brandy",
+    "6 jugos de limón frescos",
+    "6 gotas de nuez moscada",
+    "6 onzas de vinagre blanco",
+    "3 cucharaditas de chalotas picadas finamente",
+    "6 onzas de crema agria (opcional)"
+  ],
+  "recipeInstructions": "1. Dorar el pollo por ambos lados hasta que esté hecho tres cuartas partes del camino.\n2. Retirar el pollo de la sartén y desglasar con brandy.\n3. Añadir los ingredientes restantes y reducir a la mitad.\n4. Devolver el pollo a la sartén y continuar cocinando rápidamente hasta que esté terminado.",
+  "url": null
+}

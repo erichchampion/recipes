@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef",
+  "name": "Carne de res",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "estofados"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne de res (en cubos)",
+    "5 zanahorias grandes (peladas y cortadas en trozos)",
+    "4 papas medianas (peladas y cortadas en dados)",
+    "1 cebolla mediana (pelada)",
+    "1 lata de sopa de tomate",
+    "4 hojas de laurel",
+    "4 cubos de caldo de carne",
+    "sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en una olla de cocción lenta.\n2. Si lo prefieres, pica la cebolla antes de agregarla; mi novio no le gusta el sabor de las cebollas, así que las dejo enteras para mantener el sabor, pero se pueden retirar más tarde.\n3. Llena el espacio restante en la olla con agua y mezcla.\n4. Enciende la configuración de calor alto y deja cocinar durante 6 a 8 horas.",
+  "url": null
+}

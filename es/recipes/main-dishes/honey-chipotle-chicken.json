@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "honey-chipotle-chicken",
+  "name": "Pollo con miel y chipotle",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "chipotle",
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "salsa"
+  ],
+  "recipeIngredient": [
+    "4 chiles chipotle (en adobo), picados",
+    "2 dientes de ajo, picados finamente",
+    "2 cucharadas de cilantro fresco, picado",
+    "1/4 taza de miel",
+    "2 cucharadas de mostaza de grano entero",
+    "2 cucharaditas de comino molido",
+    "Jugo de 3 limas",
+    "1 cucharada de vinagre balsámico",
+    "2 cucharadas de aceite vegetal"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes de la salsa (excepto el aceite) en una licuadora o procesador de alimentos.\n2. Agregar el aceite mientras se enciende la licuadora para picar e incorporar la mezcla.\n3. Untar la salsa en ambos lados de 5 onzas de pechugas de pollo sin piel y sin hueso.\n4. Asar el pollo durante 6-7 minutos por cada lado, o hasta que esté cocido completamente.\n5. Servir la salsa adicional sobre cada trozo de pollo.\n6. Este plato también queda excelente con camarones a la parrilla.",
+  "url": null
+}

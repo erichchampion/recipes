@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "slow-cook-sweet-and-sour-pork",
+  "name": "Slow Cook Sweet and Sour Pork",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "onion",
+    "pork",
+    "slow cooker",
+    "vegetable"
+  ],
+  "recipeIngredient": [
+    "2 lb Cubed pork",
+    "3 tbsp Soy sauce",
+    "1/4 cup Vinegar",
+    "1 small Onion, sliced",
+    "2 Tomatoes, cut into slices",
+    "2 tbsp Cornstarch",
+    "1/4 tsp Ginger",
+    "1/4 cup Brown sugar packed",
+    "2 Green peppers, cut into strips"
+  ],
+  "recipeInstructions": "1. In a slow cooker, mix the cubed pork with cornstarch.\n2. Mix in the remaining ingredients except green pepper and tomatoes.\n3. Cook on low for 8 hours.\n4. Stir in the green pepper and tomatoes.\n5. Cook on high for 10 minutes.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "veggie-turnovers",
+  "name": "Pastelitos de Verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "plato principal",
+    "dietas especiales",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 paquete de masa de hojaldre suave",
+    "1 paquete de verduras congeladas de su elección",
+    "o una combinación de frescas y congeladas",
+    "1 receta de salsa blanca media",
+    "(la receta está en la caja de almidón de maíz; hacerla vegana",
+    "con sustituciones según lo indicado)"
+  ],
+  "recipeInstructions": "Sustituir la mantequilla por margarina y la leche por leche de soja;\ndisminuir la margarina en al menos la mitad para una versión baja en grasa.\nCocinar al vapor las verduras y preparar la salsa blanca. Mezclar la salsa\ny las verduras. Colocar la mezcla de salsa y verduras dentro de la masa de hojaldre\n(al estilo de los pastelitos) y hornear según las instrucciones del paquete.",
+  "url": null
+}

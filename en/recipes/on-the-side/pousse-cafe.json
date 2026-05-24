@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pousse-cafe",
+  "name": "Pousse Cafe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/4 oz Grenadine",
+    "1/4 oz Yellow Chartreuse",
+    "1/4 oz Creme de Yvette",
+    "1/4 oz Creme de Menthe"
+  ],
+  "recipeInstructions": "Recipe by Joe Robertson\nPreparation Time: 0:05\nInto a Pousse Café glass, carefully pour equal parts of the above ingredients in order shown so that each ingredient floats on top of preceding one. The liquids will float more readily if you gently pour each liquid over the back of a spoon resting on top of the glass.",
+  "url": null
+}

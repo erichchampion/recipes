@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "spice-muffins",
+  "name": "Spice Muffins",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "muffins"
+  ],
+  "recipeIngredient": [
+    "2 cups Flour",
+    "1 Egg, well beaten",
+    "1/2 cup Sugar",
+    "1 cup Milk",
+    "1/4 cup Melted Shortening",
+    "1 Teaspoon Ginger",
+    "1 Teaspoon Nutmeg",
+    "1 Teaspoon Cinnamon",
+    "3 Tablespoons Baking Powder",
+    "1 Teaspoon Salt"
+  ],
+  "recipeInstructions": "1. Sift flour, and then sift with spices (ginger, nutmeg, cinnamon), baking powder, and salt.\n2. Combine egg, sugar, melted shortening, and milk in a separate bowl.\n3. Add the dry ingredients to the wet mixture and beat until just combined.\n4. Fill muffin tins that have been well-oiled about 2/3 full with the batter.\n5. Bake in a hot oven (425°F) for 15-20 minutes.\n6. Yield: 12 servings.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "eggs-pickled",
+  "name": "Huevos encurtidos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "huevos",
+    "encurtidos"
+  ],
+  "recipeIngredient": [
+    "12 huevos duros",
+    "2 cucharadas de mostaza dijon",
+    "2 tazas de vinagre de sidra de manzana",
+    "1/2 taza de agua fresca",
+    "1 cucharada de sal",
+    "1 cucharada de semillas de apio",
+    "1 cucharadita de mostaza en polvo",
+    "6 clavos",
+    "2 cebollas medianas, cortadas en rodajas"
+  ],
+  "recipeInstructions": "1. En un cazo, mezcle la mostaza dijon y la mostaza en polvo con una pequeña cantidad de vinagre si es necesario.\n2. Añada el resto del vinagre y todos los demás ingredientes al cazo, excepto los huevos y las rodajas de cebolla.\n3. Cubra y déjelo hervir a fuego lento durante 10 minutos.\n4. Deje que la mezcla se enfríe antes de verterla sobre las cebollas y los huevos.\n5. Refrigere durante la noche.",
+  "url": null
+}

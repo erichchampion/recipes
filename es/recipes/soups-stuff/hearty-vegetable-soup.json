@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "hearty-vegetable-soup",
+  "name": "Sopa de Verduras Generosa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas/estofados",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "400 g de frijoles rojos enlatados",
+    "900 g de tomates enlatados, cortados",
+    "400 g de frijoles grandes al norte enlatados",
+    "400 g de garbanzos enlatados",
+    "1/2 taza de agua",
+    "3 cebollas medianas, picadas",
+    "2 pimientos verdes medianos, picados",
+    "2 tallos de apio, cortados en rodajas",
+    "2 calabacines, cortados por la mitad a lo largo y en rodajas",
+    "2 dientes de ajo, picados",
+    "2 cucharaditas de albahaca seca molida",
+    "1/4 cucharadita de pimienta negra",
+    "1 hoja de laurel"
+  ],
+  "recipeInstructions": "1. Combinar los tomates enlatados escurridos, los frijoles, el agua y las verduras restantes con las especias en una olla holandesa de 3,8 l.\n2. Llevar a ebullición.\n3. Reducir el calor, tapar y dejar cocinar a fuego lento durante unos 60 minutos o hasta que las verduras estén tiernas.\n4. Servir.",
+  "url": null
+}

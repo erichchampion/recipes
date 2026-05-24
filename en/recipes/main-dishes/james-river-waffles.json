@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "james-river-waffles",
+  "name": "James River Waffles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "waffles"
+  ],
+  "recipeIngredient": [
+    "3 Egg yolks",
+    "2 cups Buttermilk",
+    "2 cups Flour",
+    "1/2 tsp Salt",
+    "2 tsp Baking Powder",
+    "2 tsp Baking Soda",
+    "6 tbsp Melted Butter"
+  ],
+  "recipeInstructions": "1. Beat the egg yolks until light.\n2. Stir in 1 cup buttermilk.\n3. Sift together the dry ingredients and beat into the yolk mixture.\n4. Stir in the remaining buttermilk and melted butter.\n5. Beat the egg whites until stiff and fold in.\n6. Bake in a hot waffle iron.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "green-chili-stew-2",
+  "name": "Green Chili Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "beef",
+    "numex",
+    "peppers",
+    "soups",
+    "stews",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "2 lb Ground beef",
+    "1/2 tsp Salt",
+    "2 cups Water",
+    "4 medium Potatoes",
+    "1 pinch Salt",
+    "1/4 cup Onions",
+    "1 cup Green chili",
+    "1 can Tomatoes"
+  ],
+  "recipeInstructions": "1. Fry the ground beef and drain any excess fat.\n2. Add salt, pepper, water, onions, tomatoes, and potatoes to a pot.\n3. Cover and bring the mixture to a boil on low heat until the potatoes are tender.",
+  "url": null
+}

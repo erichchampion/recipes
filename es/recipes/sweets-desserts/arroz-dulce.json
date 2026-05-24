@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "arroz-dulce",
+  "name": "Arroz dulce",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "deserts chinos"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz",
+    "2 tazas de agua",
+    "1/2 taza de azúcar",
+    "1 cucharadita de sal",
+    "2 tazas de leche evaporada",
+    "1 taza de pasas",
+    "3 yemas de huevo",
+    "3/4 cucharadita de vainilla",
+    "1/4 cucharadita de canela",
+    "1/4 cucharadita de nuez moscada"
+  ],
+  "recipeInstructions": "1. Combinar el arroz, el agua, el azúcar y la sal en una olla grande. Llevar a ebullición.\n2. Reducir el fuego a bajo y cubrir la olla. Cocinar durante 12-15 minutos o hasta que se absorba el agua.\n3. En un bol aparte, combinar la leche evaporada con las yemas de huevo. Incorporar las pasas, la vainilla y la canela.\n4. Agregar la mezcla de leche al arroz. Cocinar a fuego lento durante 5 minutos.\n5. Retirar del fuego. Batir las claras de huevo hasta que estén firmes.\n6. Mezclar suavemente las claras batidas en la preparación de arroz.\n7. Enfriar el pudín y espolvorear con nuez moscada antes de servir.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-salmon",
+  "name": "Baked Salmon",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "fish",
+    "main dish",
+    "meat",
+    "salmon",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "1 lb Salmon fillets",
+    "1 t Oregano, dried",
+    "2 cl Garlic, minced",
+    "Pepper to taste",
+    "1 Tomatoes, thinly sliced",
+    "1 small Onions, thinly sliced",
+    "2 tbsp Parsley, chopped",
+    "1/4 cup Dry bread crumbs",
+    "1 tbsp Vegetable oil"
+  ],
+  "recipeInstructions": "1. Spray a shallow baking pan with non-stick coating.\n2. Place the fish in the baking pan and sprinkle with oregano, garlic, and pepper.\n3. Layer with tomato, onion, and parsley.\n4. Mix the bread crumbs with oil and sprinkle on top of the fillets.\n5. Bake at 450°F for 8 to 10 minutes or until the fish flakes easily.",
+  "url": null
+}

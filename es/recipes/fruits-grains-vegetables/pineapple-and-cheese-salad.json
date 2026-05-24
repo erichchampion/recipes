@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "pineapple-and-cheese-salad",
+  "name": "Ensalada de piña y queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frutas",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de queso Cheddar",
+    "1 lata de 20 oz de trozos de piña",
+    "6 hojas grandes de lechuga",
+    "3/4 taza de mayonesa"
+  ],
+  "recipeInstructions": "1. Escurrir los trozos de piña.\n2. Cortar el queso Cheddar en cubos de 1/2 pulgada.\n3. Disponer los cubos de queso sobre las hojas de lechuga.\n4. Cubrir con los trozos de piña y mayonesa.",
+  "url": null
+}

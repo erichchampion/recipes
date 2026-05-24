@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-arrabbiata",
+  "name": "Pasta Arrabbiata",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiana",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "2 chiles rojos secos, desmenuzados",
+    "6 dientes de ajo, picados",
+    "3 cucharadas de aceite de oliva",
+    "1 taza de salsa de tomate (passata)",
+    "Sal y pimienta al gusto",
+    "12 onzas de pasta de tu elección",
+    "3 cucharadas de perejil fresco picado"
+  ],
+  "recipeInstructions": "1. Calentar los chiles y el ajo en aceite de oliva hasta que el ajo desprenda su aroma.\n2. Añadir la salsa de tomate, passata, sal y pimienta. Cocinar durante 5 a 10 minutos.\n3. Cocinar la pasta hasta que esté al dente, escurrir y mezclar con la salsa.\n4. Servir la pasta espolvoreada con perejil fresco.",
+  "url": null
+}

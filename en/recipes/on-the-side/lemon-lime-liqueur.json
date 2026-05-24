@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-lime-liqueur",
+  "name": "Lemon-Lime Liqueur",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "alcoholic",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "4 lemon peels, sliced",
+    "4 lime peels, sliced",
+    "3 cups vodka",
+    "1 cup sugar syrup"
+  ],
+  "recipeInstructions": "1. Steep the lemon and lime peels in vodka for 2 weeks.\n2. Filter the mixture to remove the peels.\n3. Divide the liquid into two separate bottles.\n4. Add sweetener to one of the bottles, if desired.",
+  "url": null
+}

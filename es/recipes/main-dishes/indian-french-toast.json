@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "indian-french-toast",
+  "name": "Tostada francesa india",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "francés",
+    "plato principal",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1/3 taza de harina de garbanzo (Besan)",
+    "1/4 taza de tofu machacado",
+    "3/4 taza de agua",
+    "3 cucharadas de margarina",
+    "4 chiles verdes picantes calientes",
+    "1/4 taza de cilantro picado",
+    "2 rebanadas finas de jengibre",
+    "2 cucharadas de cebolla picada",
+    "1/2 cucharadita de sal, al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el pan y la margarina en una licuadora o procesador de alimentos hasta que las hierbas estén finamente picadas.\n2. Verter la mezcla resultante en un recipiente ancho y poco profundo. Se puede guardar cubierta en el refrigerador por hasta tres días si se planean comidas con anticipación.\n3. Derritar la margarina en una sartén grande o antiadherente.\n4. Sumergir una rebanada de pan a la vez en la mezcla, cubriéndola bien, y colocarla en la sartén. Freír hasta que el fondo esté marrón medio.\n5. Dar la vuelta al pan y cocinar por un minuto más.\n6. Servir inmediatamente después del fuego.",
+  "url": null
+}

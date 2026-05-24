@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-vinaigrette",
+  "name": "Tomato Vinaigrette",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "dressings",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/2 cup chopped, peeled tomato",
+    "2 tbsp white wine vinegar",
+    "1/2 tsp dried basil (or 1 1/2 tsp fresh)",
+    "1/2 tsp dried thyme (or 1 1/2 tsp fresh)",
+    "1/2 tsp Dijon mustard"
+  ],
+  "recipeInstructions": "1. Combine the chopped tomato, white wine vinegar, dried basil, dried thyme, and Dijon mustard in a blender.\n2. Whirl-chop until smooth.\n3. Store refrigerated for up to 2 days.\n4. Serve over green salads or pasta salad.",
+  "url": null
+}

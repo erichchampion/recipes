@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetable-rice",
+  "name": "Vegetable Rice",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "rice"
+  ],
+  "recipeIngredient": [
+    "1/4 cup Onion, chopped",
+    "3 tablespoons Butter",
+    "1 1/2 cups Mushroom, sliced",
+    "2 cups Broccoli, chopped",
+    "1 cup Tomato, diced",
+    "1 cup Rice, uncooked",
+    "2 cups Water",
+    "2 each Chicken Bouillon Cubes",
+    "1/2 teaspoon Salt",
+    "1/2 teaspoon Oregano",
+    "1/4 cup Cheese, grated"
+  ],
+  "recipeInstructions": "1. Cook onions in butter until golden.\n2. Add mushrooms, broccoli, and tomatoes; cook about 4 minutes.\n3. Add water and bouillon cubes; bring to a boil.\n4. Stir in rice, salt, and oregano.\n5. Cover and cook over low heat for 20 minutes or until water is absorbed.\n6. Stir in grated cheese; serve hot or cold.",
+  "url": null
+}

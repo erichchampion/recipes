@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "braunburgers",
+  "name": "Hamburguesas de Braunburg",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de vacuno",
+    "hamburguesas",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1/4 lb de salchicha Braunschweiger",
+    "2 cucharadas de crema agria",
+    "1 cebolla pequeña; picada finamente"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta que estén bien incorporados.\n2. Formar la mezcla en 5 hamburguesas, cada una de aproximadamente 1 cm de grosor.\n3. Calentar una parrilla o sartén a fuego medio (a unos 4 pulgadas de distancia del calor).\n4. Cocinar las hamburguesas, dándoles la vuelta una vez a mitad de cocción para asegurar un cocinado uniforme.\n5. Seguir cocinando hasta alcanzar el punto deseado, lo que llevará unos 10 a 15 minutos en total.",
+  "url": null
+}

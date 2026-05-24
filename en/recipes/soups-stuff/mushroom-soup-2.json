@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "mushroom-soup-2",
+  "name": "Mushroom Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "appetizers",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "2 Carrots",
+    "1 Parsley root",
+    "2 Celery stalks",
+    "2 Onions, sliced",
+    "4 cups Salted water",
+    "1 lb Mushrooms, sliced",
+    "1 cup Water",
+    "Salt and pepper to taste",
+    "2 Tbsp Instant flour",
+    "1/4 cup Cold water",
+    "1/2 cup Sour cream",
+    "1 tsp Dill leaves",
+    "1 lb Rhubarb, finely chopped",
+    "1 lb Noodles (fine macaroni)"
+  ],
+  "recipeInstructions": "1. Cook the carrots, parsley, celery, and 1 onion in 4 cups of salted water for 20 minutes.\n2. Strain the vegetables and discard the liquid.\n3. Cook the mushrooms and remaining onion in 1 cup of water for 10 minutes.\n4. Add salt and pepper to taste.\n5. Combine the cooked vegetables with vegetable broth, stir in the flour mixed with cold water.\n6. Bring to a boil.\n7. Remove from heat.\n8. Stir in sour cream, dill, parsley, rhubarb, and noodles (fine macaroni).",
+  "url": null
+}

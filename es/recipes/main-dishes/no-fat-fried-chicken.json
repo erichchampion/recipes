@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "no-fat-fried-chicken",
+  "name": "Pollo frito sin grasa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "sin carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo, sin piel, deshuesadas y secadas con papel de cocina",
+    "3/4 taza de suero de leche",
+    "3 cucharadas de queso parmesano rallado",
+    "1/2 taza de pan rallado seco",
+    "1/2 cucharadita de romero seco",
+    "1/2 cucharadita de tomillo seco",
+    "1/4 cucharadita de polvo de ajo",
+    "1/4 cucharadita de polvo de cebolla",
+    "1/4 cucharadita de pimienta negra molida"
+  ],
+  "recipeInstructions": "1. Forrar una bandeja para hornear con papel de aluminio y rociar ligeramente con spray antiadherente.\n2. En un bol poco profundo, mezclar todos los ingredientes excepto el pollo y el suero de leche.\n3. Sumergir cada pechuga de pollo en el suero de leche y luego pasarla por la mezcla de pan rallado.\n4. Colocar el pollo cubierto sobre la bandeja para hornear preparada.\n5. Hornear a 200 °C durante 35-40 minutos hasta que esté dorado.",
+  "url": null
+}

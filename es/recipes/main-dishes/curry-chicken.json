@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "curry-chicken",
+  "name": "Pollo al curry",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "bajo en calorías",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo (sin hueso ni piel)",
+    "2 tazas de pimiento rojo o verde, cortado en trozos",
+    "2 cebollas verdes, cortadas",
+    "2 cucharaditas de polvo de curry (ajustar al gusto)",
+    "1/4 cucharadita de cúrcuma",
+    "4 manzanas rojas, sin corazón y cortadas en rodajas",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en un recipiente para hornear con tapa.\n2. Cubre bien con papel aluminio o plástico.\n3. Hornea a 180 °C durante 35-45 minutos.",
+  "url": null
+}

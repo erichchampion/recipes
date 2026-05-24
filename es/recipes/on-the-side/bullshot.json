@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "bullshot",
+  "name": "Bullshot",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "aperitivos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de vodka",
+    "1 cucharadita de salsa Worcestershire",
+    "Una pizca de sal",
+    "4 cucharadas de caldo de ternera",
+    "2 gotas de salsa Tabasco",
+    "Una pizca de pimienta negra"
+  ],
+  "recipeInstructions": "1. Mezclar el vodka, la salsa Worcestershire, la sal y la salsa Tabasco en un vaso batidor con hielo.\n2. Agitar bien hasta enfriar.\n3. Colar en un vaso old-fashioned con hielo fresco.\n4. Añadir el caldo de ternera al vaso y remover suavemente hasta que esté caliente.\n5. Incorporar las gotas restantes de salsa Tabasco y servir inmediatamente.",
+  "url": null
+}

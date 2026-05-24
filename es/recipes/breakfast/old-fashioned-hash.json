@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "old-fashioned-hash",
+  "name": "Hash tradicional",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "carne de res",
+    "sobrasas",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite",
+    "1 cebolla mediana, picada",
+    "3 tazas de patatas cocidas y cortadas en cubos",
+    "3 tazas de carne de res cocida y cortada en cubos",
+    "1 cucharadita de sal",
+    "1/8 cucharadita de pimienta negra",
+    "1/2 taza de salsa de carne",
+    "2 cucharadas de ketchup",
+    "1 cucharadita de mostaza"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en una sartén a fuego medio.\n2. Añadir la cebolla picada y cocinar hasta que esté dorada y tierna.\n3. Incorporar las patatas, la carne, la sal, la pimienta, la salsa de carne, el ketchup y la mostaza a la sartén.\n4. Remover para combinar todos los ingredientes.\n5. Cocinar a fuego medio hasta que todo esté bien mezclado y caliente al punto adecuado.",
+  "url": null
+}

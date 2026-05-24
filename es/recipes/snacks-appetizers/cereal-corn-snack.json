@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cereal-corn-snack",
+  "name": "Snack de maíz de cereales",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "dulces",
+    "niños",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "3 tazas de cereales de maíz crujientes",
+    "6 tazas de palomitas de maíz infladas",
+    "1/4 taza de margarina o mantequilla; derretida",
+    "1/4 cucharadita de sal de cebolla",
+    "1/4 cucharadita de ajo en polvo",
+    "2 tazas de papas cortadas en tiras finas",
+    "1 taza de cebollas fritas francesas",
+    "1/8 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 325°F (160°C).\n2. Mezclar los cereales, palomitas de maíz, margarina y sales en un molde para hornear de 9x13 pulgadas sin engrasar.\n3. Hornear durante 5 minutos.\n4. Agregar las papas y cebollas fritas, mezclar bien.\n5. Hornear por 5 minutos adicionales.\n6. Espolvorear con sal antes de servir.",
+  "url": null
+}

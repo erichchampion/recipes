@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheap-chili",
+  "name": "Chili económico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "plato principal",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 lata de jugo de tomate",
+    "2 latas de frijoles rojos (kidney beans)",
+    "2 latas de judías verdes cortadas en trozos",
+    "1 lata de maíz",
+    "500 g de carne molida de res o pavo",
+    "Especias para chili al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una olla grande.\n2. Llevar la mezcla a ebullición a fuego medio.\n3. Reducir el calor a bajo y dejar cocinar a fuego lento hasta que se caliente completamente, aproximadamente 30 minutos.\n4. Servir con pan de maíz, galletas saladas o bollos.\n5. Esta receta sirve para unas 9 personas.",
+  "url": null
+}

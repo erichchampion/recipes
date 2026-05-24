@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-a-roni",
+  "name": "Carne con Ron",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1,5 kg de carne molida magra",
+    "3 cuartos de salsa para espagueti",
+    "8 onzas de salsa de tomate",
+    "0,5 kg de setas",
+    "17 onzas de maíz entero en granos",
+    "1 lb (aprox. 450 g) de conchas de pasta",
+    "1/4 taza de cebolla picada",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida en una sartén grande.\n2. Agregar la salsa para espagueti, la salsa de tomate, el maíz, las setas rebanadas y la cebolla picada. Cocinar a fuego lento hasta que las setas estén cocidas.\n3. Añadir sal y pimienta y continuar cocinando a fuego lento.\n4. En una olla grande, cocer las conchas de pasta y escurrir.\n5. Mezclar la salsa con las conchas y servir.\n6. Las sobras mejoran con el tiempo; siempre hago una porción extra.",
+  "url": null
+}

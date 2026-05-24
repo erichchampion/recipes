@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "a-pie-crust-to-remember",
+  "name": "Una masa de tarta para recordar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "1 cucharadita de sal",
+    "3/4 taza de manteca corta",
+    "1/2 taza de agua helada"
+  ],
+  "recipeInstructions": "1. Mezclar la harina y la sal.\n2. Cortar la manteca en la mezcla de harina con un cortapastas.\n3. Agregar el agua helada y mezclar hasta que la masa limpie el bol y ya no sea pegajosa.\n4. Dividirla en dos bolas.\n5. Estirar sobre una superficie enharinada, espolvoreando un poco de harina sobre la masa para facilitar el estirado.\n6. Estirar desde el centro hacia afuera.\nEsta cantidad es suficiente para una masa doble para un molde de 23 cm.",
+  "url": null
+}

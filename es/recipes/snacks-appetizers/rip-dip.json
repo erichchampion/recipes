@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "rip-dip",
+  "name": "Rip y Sumergir",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "salsas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 pan de molde redondo y hueco",
+    "1 paquete de espinacas congeladas y picadas",
+    "1 taza de crema agria",
+    "1/2 taza de queso cheddar rallado",
+    "1/4 sobre de mezcla de sopa Knorr Vegetales Suizos",
+    "1 taza de mayonesa",
+    "1 cebolla pequeña, picada"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el pan y refrigerar hasta el momento de servir.\n2. Cuando esté listo para servir, verter la mezcla en el molde hueco del pan.\n3. Servir con las migas del interior del pan y galletas saladas.",
+  "url": null
+}

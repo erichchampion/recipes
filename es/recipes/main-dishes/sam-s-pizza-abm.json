@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "sam-s-pizza-abm",
+  "name": "Pizza de Sam ABM",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiana",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 taza de agua",
+    "1/3 taza de agua (solo si es necesario)",
+    "3 cucharadas de aceite de oliva",
+    "1 1/2 cucharaditas de sal",
+    "3 cucharadas de harina de maíz",
+    "1 taza de harina integral",
+    "2 tazas de harina de uso común",
+    "1 cucharada de levadura",
+    "1 taza de salsa de pizza",
+    "1 taza de queso mozzarella rallado"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes de la masa en la máquina de pan y programa para masa y primera fermentación.\n2. Al finalizar el ciclo final, retira la masa a una superficie de trabajo ligeramente engrasada. Cubre con un paño limpio y déjala reposar 10 minutos.\n3. Precalienta el horno a 475 °F.\n4. Estira la masa hasta formar un círculo de 14 pulgadas en una bandeja para hornear o sobre una pala para pizza.\n5. Extiende la salsa de manera uniforme sobre la masa.\n6. Espolvorea el queso uniformemente sobre la superficie.\n7. Introduce la pizza en el horno y hornea durante 15 a 17 minutos.",
+  "url": null
+}

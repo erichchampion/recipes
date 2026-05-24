@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "carribean-casserole",
+  "name": "Casserola del Caribe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "frijoles",
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 cebolla mediana, picada",
+    "1 cucharada de aceite",
+    "400 g de tomates enlatados (en jugo)",
+    "425 g de frijoles negros enlatados",
+    "1 cucharadita de orégano seco",
+    "1 cucharadita de cúrcuma",
+    "1/2 cucharadita de ajo en polvo",
+    "180 g de arroz marrón instantáneo"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla en aceite caliente hasta que esté tierna (sin dorar).\n2. Añadir los tomates, los frijoles (con su jugo), el orégano, la cúrcuma y el ajo en polvo. Llevar a ebullición.\n3. Incorporar el arroz y cubrir la olla.\n4. Reducir el fuego a medio-bajo y cocinar a fuego lento durante 5 minutos.\n5. Retirar del fuego y dejar reposar durante 5 minutos.",
+  "url": null
+}

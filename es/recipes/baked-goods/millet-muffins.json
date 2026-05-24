@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "millet-muffins",
+  "name": "Muffins de mijo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de harina de mijo",
+    "1/2 taza de harina de soja",
+    "1 cucharadita de polvo de hornear",
+    "1/2 cucharadita de sal (opcional)",
+    "1/4 cucharadita de esencia de naranja",
+    "1 taza de agua o jugo de naranja",
+    "1/4 taza de aceite vegetal",
+    "1/4 taza de sirope de arroz o miel"
+  ],
+  "recipeInstructions": "1. En un bol mediano, mezclar la harina de mijo, la harina de soja, el polvo de hornear y la sal (si se usa).\n2. En otro bol, combinar los ingredientes líquidos: jugo de naranja (o agua), aceite vegetal y sirope de arroz o miel.\n3. Verter la mezcla líquida sobre los ingredientes secos y remover hasta que estén integrados.\n4. Distribuir la masa uniformemente en 12 moldes para muffins engrasados.\n5. Hornear a 375°F durante 15-20 minutos (35-40 minutos para un pan) o hasta que un palillo insertado en el centro de un muffin salga limpio.\n6. Dejar enfriar en el molde unos minutos antes de sacar los muffins.",
+  "url": null
+}

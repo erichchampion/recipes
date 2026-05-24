@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "millet-stew-2",
+  "name": "Millet Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "grains",
+    "slow cooker",
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "1 Cup millet",
+    "4 Cups water",
+    "2 onions - cut in wedges",
+    "2 potatoes - cut in large chunks",
+    "2 carrots - cut in large slices",
+    "1 Cup celery - cut in large slices",
+    "1/2 Pound mushrooms - chopped",
+    "2 bay leaves",
+    "1/2 Teaspoon basil",
+    "1/2 Teaspoon thyme"
+  ],
+  "recipeInstructions": "1. Toast millet in a dry skillet for about 5 minutes, stirring constantly to prevent burning.\n2. Add all ingredients to the crockpot and cook for 4 hours at high or 8 hours at low.",
+  "url": null
+}

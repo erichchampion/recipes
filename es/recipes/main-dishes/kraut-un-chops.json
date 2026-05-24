@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "kraut-un-chops",
+  "name": "Chopos de chucrut",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 litro de coles fermentadas (kraut)",
+    "8 chuletas de cerdo"
+  ],
+  "recipeInstructions": "1. Cubrir las coles fermentadas con agua y dejar que se cocinen a fuego lento durante 45 minutos.\n2. Freír las chuletas de cerdo hasta que estén tiernas y doradas.\n3. Añadir las coles fermentadas y continuar cocinando hasta que el kraut haya absorbido los jugos de la carne y esté marrón.\n4. Servir con puré de patatas.",
+  "url": null
+}

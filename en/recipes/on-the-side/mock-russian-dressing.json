@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-russian-dressing",
+  "name": "Mock Russian Dressing",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "dressings",
+    "salads",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup Mayonnaise Salad Dressing",
+    "8 oz Plain Yogurt, 1 Container",
+    "8 oz Tomato Sauce, 1 Can",
+    "1/4 cup Onion, Finely Chopped",
+    "1/4 cup Celery, Finely Chopped",
+    "1/4 cup Green Pepper, Finely Chopped"
+  ],
+  "recipeInstructions": "1. Combine all of the ingredients in a medium bowl.\n2. Blend well until fully incorporated.\n3. Cover and refrigerate for at least 2 hours before serving.\nMakes 3 Cups",
+  "url": null
+}

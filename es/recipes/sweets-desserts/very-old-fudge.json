@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "very-old-fudge",
+  "name": "Fudre muy antiguo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "caramelo",
+    "chocolate",
+    "postres",
+    "fudge"
+  ],
+  "recipeIngredient": [
+    "2 tazas de azúcar blanco",
+    "1/2 taza de jarabe de maíz",
+    "1/2 taza de leche o crema",
+    "1 cucharada de mantequilla",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Mezclar los cuatro ingredientes iniciales, removiendo ocasionalmente.\n2. Llevar a ebullición hasta alcanzar el punto de bola suave a media hasta dura.\n3. Cocinar, añadir la vainilla y batir con una cuchara de madera hasta que quede firme.\n4. Añadir nueces y cerezas si se desea.\n5. Para hacer fudge de chocolate, agregar 2 cucharadas de cacao en polvo.",
+  "url": null
+}

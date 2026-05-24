@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-marinated-chicken",
+  "name": "Basic Marinated Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "marinades",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb boneless skinless chicken breast",
+    "3 tbsp soy sauce",
+    "1 tbsp honey",
+    "1 tbsp olive oil",
+    "1 tsp lime juice",
+    "1 tsp garlic powder"
+  ],
+  "recipeInstructions": "1. Combine all the ingredients except for the chicken in a bowl.\n2. Mix well and pour over the chicken.\n3. Cover and marinate in the refrigerator for 1 hour or more, turning occasionally.",
+  "url": null
+}

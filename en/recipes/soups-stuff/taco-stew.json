@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-stew",
+  "name": "Taco Stew",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "beef",
+    "mexican",
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "1 pound lean ground beef",
+    "1 medium onion, chopped (1/2 cup)",
+    "1 can (10 3/4-oz.) condensed tomato soup",
+    "1 can (14-oz) whole kernel corn, undrained",
+    "1 can (15-oz.) pinto beans in chili sauce, undrained",
+    "1 envelope (1 1/4-oz.) taco seasoning mix",
+    "1 cup water",
+    "coarsely crushed tortilla chips",
+    "shredded Monterey jack cheese"
+  ],
+  "recipeInstructions": "1. In a large saucepan, cook and stir ground beef and onion over medium heat until meat is browned; drain off fat.\n2. Stir in soup, corn, beans (undrained), undrained tomatoes, seasoning mix, and water.\n3. Bring to a boil; reduce heat.\n4. Simmer uncovered about 45 minutes or to desired consistency.\n5. Serve with tortilla chips and cheese. Makes 6 servings.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "mechado",
+  "name": "Mechado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 solomillo de res, entero",
+    "14 cucharadas de aceite de cocina",
+    "4 dientes de ajo, rebanados finamente",
+    "1 cebolla, rebanada",
+    "2 papas, cortadas en cuartos y fritas",
+    "1 zanahoria, cortada en trozos de 2 pulgadas",
+    "1 limón, cortado con su cáscara",
+    "2 cucharadas de salsa de soja",
+    "1/2 taza de granos de pimienta molidos",
+    "1 tomate enlatado",
+    "1 hoja de laurel",
+    "Sal al gusto",
+    "1 1/2 tazas de agua caliente"
+  ],
+  "recipeInstructions": "1. Dorar la carne en el aceite de cocina y reservar.\n2. En el mismo aceite, saltear el ajo y la cebolla hasta que estén fragantes. Añadir el limón, salsa de soja, pimienta, tomate, hoja de laurel y sal. Reducir el fuego y cocinar durante 3-5 minutos.\n3. Incorporar la carne y el agua. Tapar y cocinar a fuego lento hasta que la carne esté tierna.\n4. Agregar las papas y la zanahoria. Cuando las verduras estén cocidas, cortar la carne en rebanadas. Disponerla sobre un plato junto con las verduras. Colar la salsa y verterla sobre la carne.",
+  "url": null
+}

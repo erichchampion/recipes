@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "ice-cream-sandwiches",
+  "name": "Ice Cream Sandwiches",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "kids",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "2 scoops vanilla ice cream",
+    "4 graham cracker squares or cookies"
+  ],
+  "recipeInstructions": "1. Soften the ice cream slightly, if needed.\n2. Place one scoop of softened ice cream between two graham crackers or cookies.\n3. Press down gently to ensure all ingredients are well-sealed together.\n4. Wrap the sandwich in plastic wrap and place it in the freezer.\n5. Allow the sandwiches to firm up completely before serving.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "naked-apple-pie",
+  "name": "Naked Apple Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "fruits",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "Egg",
+    "Brown sugar, 1/2 cup",
+    "Granulated Sugar, 1/2 cup",
+    "Vanilla, 1 teaspoon",
+    "Salt, pinch",
+    "Flour, 1/2 cup",
+    "Baking powder, 1 teaspoon",
+    "Apples, 2 medium (peeled and sliced)",
+    "Pecans, chopped, 1/2 cup"
+  ],
+  "recipeInstructions": "1. In a medium bowl, beat the egg. Add the brown sugar, granulated sugar, vanilla, salt, flour, and baking powder. Mix well until all ingredients are evenly incorporated.\n2. Stir in the apples and pecans until combined.\n3. Pour the mixture into a greased 9-inch pie plate.\n4. Bake at 350°F for 30 minutes.\n5. Serve with whipped cream or ice cream.",
+  "url": null
+}

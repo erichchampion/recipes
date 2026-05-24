@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "sherbet-dessert",
+  "name": "Postre de sorbete",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "1/2 galón de helado de piña",
+    "10 oz de fresas congeladas, descongeladas",
+    "4 plátanos, cortados en trozos",
+    "Pecanas picadas al gusto (opcional)"
+  ],
+  "recipeInstructions": "1. Ablandar el helado de piña.\n2. Añadir las fresas descongeladas y los plátanos cortados al helado.\n3. Mezclar bien hasta que se combinen todos los ingredientes.\n4. Incorporar las pecanas picadas, si se desea.\n5. Servir.",
+  "url": null
+}

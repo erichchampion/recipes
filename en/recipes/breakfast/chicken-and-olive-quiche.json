@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-olive-quiche",
+  "name": "Chicken and Olive Quiche",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "dinner pies",
+    "main dish",
+    "quiche"
+  ],
+  "recipeIngredient": [
+    "quiche pastry",
+    "1 cup cream",
+    "1 egg",
+    "2 egg yolks",
+    "pinch salt",
+    "pinch nutmeg",
+    "pinch cayenne",
+    "2 cups Oregon grown chicken, cooked and cut into cubes",
+    "salt and pepper to taste",
+    "1/2 cup chopped olives"
+  ],
+  "recipeInstructions": "1. In a bowl, blend together the cream, egg, egg yolks, salt, nutmeg, and cayenne.\n2. Cube the cooked, seasoned chicken.\n3. Place the quiche shell in a preheated oven.\n4. Scatter the chopped olives over the chicken.\n5. Pour the custard filling over the chicken and olives.\n6. Bake at 375 degrees Fahrenheit for 40 to 45 minutes.\nServes 4 to 6.",
+  "url": null
+}

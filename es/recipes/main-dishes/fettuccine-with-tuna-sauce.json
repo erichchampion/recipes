@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fettuccine-with-tuna-sauce",
+  "name": "Fettuccine con salsa de atún",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "pasta",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "1 cebolla roja mediana; en rodajas",
+    "1 diente de ajo; picado",
+    "1/2 taza de margarina",
+    "6 1/2 onzas de atún en agua; escurrido y desmenuzado",
+    "1/4 cucharadita de pimienta negra",
+    "8 onzas de fettuccine; cocido y escurrido",
+    "3 tazas de lechuga roja; arrancada"
+  ],
+  "recipeInstructions": "1. En una sartén mediana a fuego medio, saltee la cebolla y el ajo en la margarina durante 2 minutos.\n2. Agregue el atún y la pimienta; cocine y revuelva por 2 minutos adicionales.\n3. En un bol grande, mezcle el fettuccine caliente con la salsa de atún y la lechuga hasta que esté bien combinado.",
+  "url": null
+}

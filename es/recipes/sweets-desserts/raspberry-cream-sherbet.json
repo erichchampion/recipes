@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "raspberry-cream-sherbet",
+  "name": "Crema de fresa y limón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helado",
+    "sorbete"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "3 paquetes de fresas congeladas",
+    "3 tazas de nata para montar (nata líquida)",
+    "4 claras de huevo batidas hasta formar picos firmes",
+    "1/4 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Mezcla el azúcar con las fresas congeladas y machácalas.\n2. Cuela la mezcla.\n3. Congela la crema, la sal y las claras batidas hasta que adquieran una consistencia espesa.\n4. Añade las fresas machacadas y termina de congelar.",
+  "url": null
+}

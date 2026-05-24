@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "howard-johnson-pancakes",
+  "name": "Tortitas de Howard Johnson",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "tortitas"
+  ],
+  "recipeIngredient": [
+    "2 huevos",
+    "1/2 taza de azúcar",
+    "1 litro de leche",
+    "4 cucharaditas de polvo de hornear",
+    "1/2 taza de mantequilla o margarina derretida",
+    "Harina (según sea necesario)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande hasta que queden bien integrados.\n2. Añadir harina hasta obtener una consistencia espesa.",
+  "url": null
+}

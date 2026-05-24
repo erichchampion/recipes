@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "homemade-yogurt",
+  "name": "Yogur casero",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "lácteos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 litro de leche",
+    "4 cucharadas de yogur natural sin sabor comercial",
+    "Azúcar o miel (para endulzar)",
+    "1 taza de frambuesas (para servir)"
+  ],
+  "recipeInstructions": "1. Esterilizar todo el equipo en agua hirviendo antes de usarlo.\n2. Calentar la leche hasta que hierva, luego enfriar a 37°C.\n3. En un bol pequeño, mezclar el yogur con 60 ml de leche tibia.\n4. Batir la mezcla y verterla de nuevo en la leche tibia.\n5. Verter en una botella térmica precalentada y cerrar bien.\n6. Dejar reposar en un lugar cálido durante 7 horas.\n7. Vertir el yogur en un bol colocado sobre un baño maría con hielo, removiendo para enfriarlo más rápido.\n8. Tapar y refrigerar durante 4 horas, o hasta que se espese.\n9. Endulzar al gusto, si se desea, y servir con frambuesas.\n10. El yogur se conservará cubierto y refrigerado durante 4 a 5 días.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-tortilla-roll-ups",
+  "name": "Rollos de pollo tortilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave",
+    "tortillas"
+  ],
+  "recipeIngredient": [
+    "1 taza de pollo cocido y picado",
+    "1/4 taza de salsa",
+    "1/4 taza de queso cheddar rallado",
+    "2 cucharadas de crema agria ligera",
+    "4 tortillas de harina (de 6 pulgadas)"
+  ],
+  "recipeInstructions": "1. Mezclar el pollo, la salsa, el queso y la crema agria en un bol.\n2. Extender aproximadamente 1/4 taza de la mezcla de pollo a lo largo del centro de cada tortilla.\n3. Enrollar cada tortilla apretadamente para encerrar el relleno.\n4. Envolver cada tortilla en papel film.",
+  "url": null
+}

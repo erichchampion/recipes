@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-salad-dressing",
+  "name": "Aderezo para ensalada italiana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "diabetico",
+    "aderezos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de aceite vegetal",
+    "1/4 taza de vinagre de vino tinto",
+    "1 diente de ajo, picado finamente",
+    "1 cucharadita de cebolla, picada finamente",
+    "1/2 cucharadita de mostaza en polvo",
+    "1/2 cucharadita de semillas de apio",
+    "1/2 cucharadita de pimentón dulce",
+    "1/4 cucharadita de hierbas italianas",
+    "Edulcorante artificial equivalente a 2-4 cucharaditas de azúcar"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un frasco con tapa hermética.\n2. Agitar bien hasta que todos los ingredientes estén completamente integrados.\n3. Refrigerar durante la noche para obtener el mejor desarrollo del sabor.\nRendimiento: 2/3 taza",
+  "url": null
+}

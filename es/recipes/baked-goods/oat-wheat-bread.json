@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "oat-wheat-bread",
+  "name": "Pan de avena y trigo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cucharaditas de levadura",
+    "1 1/2 tazas de harina de trigo integral",
+    "1 1/2 tazas de harina de pan blanco",
+    "1 1/2 cucharaditas de sal",
+    "2 cucharadas de azúcar",
+    "2 cucharadas de mantequilla o margarina",
+    "1 1/4 tazas de agua tibia",
+    "1 cucharada de leche desnatada en polvo o buttermilk"
+  ],
+  "recipeInstructions": "1. Mezclar la levadura, la harina integral, la harina blanca, la sal, el azúcar, la mantequilla o margarina y el agua tibia en un bol grande.\n2. Amasar hasta formar una masa.\n3. Añadir la leche desnatada en polvo o buttermilk a la mezcla y remover hasta integrar bien.\n4. Colocar la masa en la máquina panificadora y iniciar el proceso de amasado.\n5. Dejar levar la masa hasta que doble su tamaño.\n6. Dar forma a la masa en un pan y colocarlo sobre una bandeja para hornear.\n7. Permitir que el pan leve nuevamente antes de hornearlo.",
+  "url": null
+}

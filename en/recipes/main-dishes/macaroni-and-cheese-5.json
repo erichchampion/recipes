@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "macaroni-and-cheese-5",
+  "name": "Macaroni and Cheese",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cheese",
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "2 cups elbow macaroni",
+    "1 can cream of mushroom soup",
+    "1 can cream of celery soup",
+    "1/2 cup milk",
+    "1/4 cup mayonnaise",
+    "2 cups shredded white cheddar cheese",
+    "pepper"
+  ],
+  "recipeInstructions": "1. Cook the macaroni according to package instructions, then drain and place in a casserole dish.\n2. In a separate bowl, heat together the soups, milk, and mayonnaise until just mixed.\n3. Sprinkle in some pepper.\n4. Add 3/4 of the shredded white cheddar cheese to the soup mixture.\n5. Mix with the cooked macaroni.\n6. Add the remaining shredded white cheddar cheese on top.\n7. Bake at 350°F for 25 minutes, uncovered.",
+  "url": null
+}

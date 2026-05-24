@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-dip",
+  "name": "Dip de frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "postres",
+    "salsas",
+    "frutas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 sobre de mezcla instantánea de pudín de vainilla",
+    "1 tarrina (2 tazas) de crema agria"
+  ],
+  "recipeInstructions": "1. Mezclar la mezcla instantánea de pudín de vainilla y la crema agria en un bol.\n2. Batir hasta obtener una textura suave.\n3. Servir como dip para rebanadas de manzana, pera, melón y otras frutas.\nFuente: Massachusetts Dairy Sampler por Massachusetts Dairy Industry Promotion, Inc.",
+  "url": null
+}

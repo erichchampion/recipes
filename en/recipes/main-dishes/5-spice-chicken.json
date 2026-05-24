@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "5-spice-chicken",
+  "name": "5-spice Chicken",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "chinese",
+    "grilling",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1 cup white wine",
+    "1 cup teriyaki sauce",
+    "1 tsp Chinese 5 spice seasoning",
+    "1 tsp garlic powder",
+    "2 lb chicken pieces"
+  ],
+  "recipeInstructions": "1. Mix the first four ingredients in a bowl until well combined.\n2. Pour the mixture over the chicken pieces and place them in a large pan.\n3. Marinade, rotating the pieces hourly for three hours.\n4. Place on grill until done, basting with marinade as needed.",
+  "url": null
+}

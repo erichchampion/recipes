@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemonade-refresher",
+  "name": "Lemonade Refresher",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "diabetic",
+    "lemonade",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/4 cup lemon juice",
+    "4 packets Equal",
+    "3/4 cup water",
+    "Lemon slice"
+  ],
+  "recipeInstructions": "1. Combine lemon juice and Equal.\n2. Stir in water.\n3. Add ice cubes.\n4. Garnish with lemon slice.",
+  "url": null
+}

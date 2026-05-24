@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexical-dinner",
+  "name": "Cena Mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "carne molida",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 tarro de salsa para espagueti (1 3/4 tazas)",
+    "700 gramos de carne molida",
+    "1/2 taza de migas de pan secas",
+    "1 pequeña cebolla picada",
+    "1/2 taza de queso Monterey Jack rallado",
+    "1 huevo ligeramente batido",
+    "1/2 cucharadita de pimienta",
+    "1 cucharadita de pimiento rojo (opcional)",
+    "1 paquete de mezcla para muffins de maíz",
+    "1 lata de chiles verdes picados"
+  ],
+  "recipeInstructions": "1. Mezclar 1/2 taza de salsa, la carne molida, las migas de pan, la cebolla, el huevo y la pimienta; mezclar bien.\n2. En un molde para hornear rectangular de 13 x 9 cm, presionar firmemente la mezcla de carne en el fondo del molde.\n3. Hornear a 400 grados durante 10 minutos; escurrir la grasa.\n4. Preparar la mezcla para muffins de maíz según las instrucciones del paquete; añadir los chiles verdes picados.\n5. Extender la salsa restante sobre la mezcla de carne y espolvorear con queso.\n6. Extender la mezcla de muffins de maíz sobre todo y hornear durante 15 minutos adicionales hasta que esté dorado.",
+  "url": null
+}

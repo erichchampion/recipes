@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-cacciatore-4",
+  "name": "Chicken Cacciatore",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "1 large onion, sliced thin",
+    "3 lbs chicken, cut into pieces",
+    "2 cans tomato paste (6 oz each)",
+    "4 oz mushrooms, sliced",
+    "1 tsp salt",
+    "2 cloves garlic, minced",
+    "1 to 2 tsp oregano",
+    "1/2 tsp celery seed",
+    "1 bay leaf",
+    "1/2 cup water"
+  ],
+  "recipeInstructions": "1. Place onions in the bottom of a crockpot.\n2. Add chicken pieces on top of the onions.\n3. In a bowl, stir together remaining ingredients: tomato paste, mushrooms, salt, garlic, oregano, celery seed, and bay leaf. Pour the mixture over the chicken.\n4. Cook on LOW for 7 to 9 hours or HIGH for 3 to 4 hours.\n5. Serve over spaghetti.",
+  "url": null
+}

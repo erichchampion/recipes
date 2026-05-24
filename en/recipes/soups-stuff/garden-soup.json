@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "garden-soup",
+  "name": "Garden Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "diabetic",
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "6 cups Water",
+    "2 cups Tomato juice",
+    "1 cup Chopped, peeled Potato",
+    "1 cup Onion, chopped",
+    "1 cup Lima beans",
+    "3/4 cup Cooked Chicken, chopped",
+    "1/2 cup Sliced Carrots",
+    "1/2 cup Celery, chopped",
+    "2 tablespoons Chicken bouillon granules",
+    "-flavored",
+    "1 teaspoon Garlic powder",
+    "1 1/2 teaspoons Worcestershire sauce"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a large Dutch oven.\n2. Cover and bring to a boil.\n3. Reduce heat and simmer for 45 minutes to 1 hour.\n4. Serve hot.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "gyro",
+  "name": "Gyro",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "ethnic",
+    "greek"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground pork",
+    "1 lb Ground lamb",
+    "1 t Salt",
+    "Some freshly ground black pepper",
+    "About 6 cloves of crushed garlic",
+    "Squeeze out the juice from 1 lemon",
+    "1 t Oregano",
+    "2 tbsp Ouzo"
+  ],
+  "recipeInstructions": "1. Mix and mold the meat on a metal skewer.\n2. Grill until cooked through.\n3. Serve on pita bread, garnish with tzatziki, chopped tomatoes, sliced onions, some parsley, a sprinkling of oregano.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cafe-cocoa-l-orange",
+  "name": "Café Coco Naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "3 tazas de café recién preparado caliente",
+    "1/4 taza de azúcar glas",
+    "1 cucharada de cacao en polvo sin endulzar",
+    "1 taza de crema espesa fría",
+    "Ralladura de naranja para servir"
+  ],
+  "recipeInstructions": "1. Cierna el azúcar glas y el cacao juntos.\n2. Bate la crema hasta que esté esponjosa.\n3. Añade gradualmente la mezcla cernida al crema, continuando batiendo hasta que esté espesa.\n4. Reparte la crema de chocolate uniformemente entre 4 tazas o vasos de café.\n5. Vierte el café caliente sobre la crema en cada taza.\n6. No revuelvas la mezcla.\n7. Adorna cada taza o vaso con ralladura fresca de naranja.\nRinde: 4 porciones",
+  "url": null
+}

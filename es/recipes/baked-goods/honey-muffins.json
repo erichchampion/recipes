@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "honey-muffins",
+  "name": "Muffins de miel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "1/4 taza de azúcar",
+    "2 cucharaditas de polvo de hornear",
+    "1 cucharadita de bicarbonato de sodio",
+    "1/2 cucharadita de sal",
+    "2 huevos",
+    "1/2 taza de miel",
+    "1/2 taza de jugo de naranja",
+    "1/3 taza de mantequilla derretida",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcle la harina, el azúcar, el polvo de hornear, el bicarbonato y la sal; reserve.\n2. Bata los huevos en otro bol.\n3. Agregue la miel, el jugo de naranja, la mantequilla derretida y el extracto de vainilla; mezcle bien.\n4. Incorpore lentamente los ingredientes secos a la mezcla húmeda hasta que estén mojados.\n5. Llene 12 moldes para muffins engrasados aproximadamente 2/3 con la masa.\n6. Hornee a 175 °C durante 15-20 minutos o hasta que estén doradas.\nRinde: 12 tostadas",
+  "url": null
+}

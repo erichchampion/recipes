@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "quinoa",
+  "name": "Quinoa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frijoles",
+    "diabético",
+    "nueces"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite de oliva virgen",
+    "1 taza de quinoa",
+    "2 dientes de ajo grandes, machacados",
+    "2 tazas de caldo de pollo"
+  ],
+  "recipeInstructions": "1. Enjuagar bien la quinoa antes de cocinar para eliminar su sabor ligeramente amargo.\n2. En una sartén grande antiadherente, calentar el aceite y cocinar el ajo durante 2 minutos.\n3. Enjuagar la quinoa en un colador y retirar cualquier residuo. Agregar a la sartén y dorar durante 2 minutos.\n4. Añadir el caldo y llevar a ebullición.\n5. Reducir el fuego, tapar y dejar cocinar a fuego lento unos 20 minutos.",
+  "url": null
+}

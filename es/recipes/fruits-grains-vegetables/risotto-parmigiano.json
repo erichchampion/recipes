@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "risotto-parmigiano",
+  "name": "Risotto Parmesano",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "aperitivos",
+    "italiano",
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "5 a 6 tazas de caldo de pollo",
+    "1 cucharada de aceite de oliva",
+    "1 pequeña cebolla, picada finamente",
+    "1 1/2 taza de arroz Arborio",
+    "3 cucharadas de mantequilla sin sal a temperatura ambiente",
+    "Sal y pimienta al gusto",
+    "2/3 taza de queso Parmesano rallado"
+  ],
+  "recipeInstructions": "1. Llevar el caldo a un hervor suave en una olla pequeña.\n2. Calentar el aceite de oliva en una sartén de 3 cuartos y cocinar la cebolla a fuego medio, revolviendo hasta que adquiera un color dorado pero sin quemarse, aproximadamente entre 3 y 5 minutos.\n3. Agregar el arroz y remover para cubrir los granos con aceite. Aumentar el fuego a medio-alto, añadir unas 1/2 taza de caldo y mantener la mezcla hirviendo, revolviendo constantemente.\n4. Tan pronto como se absorba el caldo, agregar otra 1/2 taza y seguir removiendo. El risotto debe hervir continuamente, pero sin pegarse al fondo de la sartén. Todo el proceso de cocción puede tomar entre 25 y 30 minutos.\n5. Una vez que se haya absorbido todo el caldo y el risotto esté tierno, apagar el fuego y mezclar rápidamente la mantequilla y el queso Parmesano.",
+  "url": null
+}

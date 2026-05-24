@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "macaroni-cheese-casserole",
+  "name": "Macarrones con Queso al Horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 paquete de macarrones con queso, preparado según las instrucciones del paquete",
+    "1 pequeña cebolla, picada",
+    "1 libra de carne molida",
+    "1 lata de sopa de champiñones cremosos",
+    "1/2 taza de leche"
+  ],
+  "recipeInstructions": "1. Dorar la carne y la cebolla juntos.\n2. Preparar los macarrones según las instrucciones del paquete.\n3. Añadir la sopa de champiñones cremosos y la leche a la mezcla de carne.\n4. Mezclar bien y calentar hasta que esté caliente.\n5. Combinar ambas mezclas, removiendo o capas alternas de la mezcla de sopa y los macarrones.",
+  "url": null
+}

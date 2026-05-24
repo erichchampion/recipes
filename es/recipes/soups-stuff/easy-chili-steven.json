@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-chili-steven",
+  "name": "Chili fácil, Steven",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "plato principal",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 lata de frijoles rojos",
+    "1/2 libra de carne molida",
+    "1 lata de sopa de tomate",
+    "1 cucharada de polvo de chili",
+    "1 pequeña cebolla picada"
+  ],
+  "recipeInstructions": "1. Echar todos los ingredientes en una olla.\n2. Llevar a ebullición.\n3. Reducir el fuego y dejar cocinar a fuego lento durante unos 30 minutos.",
+  "url": null
+}

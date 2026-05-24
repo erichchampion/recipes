@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "salts-used-in-pickling",
+  "name": "Salts utilizados en encurtido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "misceláneo",
+    "encurtidos",
+    "conservas",
+    "conservación"
+  ],
+  "recipeIngredient": [
+    "Sal de enlatado o de encurtido",
+    "Sal de mesa yodada",
+    "Sal de mesa sin yodo"
+  ],
+  "recipeInstructions": "1. Para encurtidos rápidos, se puede utilizar sal con bajo contenido de sodio, como la \"Sal Ligera\", según lo indicado en la receta.\n2. Al preparar encurtidos fermentados, evite usar sales con bajo contenido de sodio para prevenir un sabor alterado.\n3. Tenga en cuenta que agregar agentes antiaglutinantes a la sal de mesa puede opacar el brin; la sal en escamas no es recomendable debido a su densidad variable.",
+  "url": null
+}

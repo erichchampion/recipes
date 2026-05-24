@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-chili-mac",
+  "name": "Easy Chili Mac",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "skillet",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 lb elbow macaroni",
+    "1 lb ground chicken breast (skinless)",
+    "1/2 cup onions, chopped",
+    "1/2 cup bell peppers, chopped",
+    "30 ozs chili with beans"
+  ],
+  "recipeInstructions": "1. Cook the macaroni according to package directions.\n2. In a skillet, cook the chicken until no longer pink.\n3. Add onions and bell peppers; stir until all ingredients are cooked through.\n4. Stir in the chili with beans and mix well.\n5. Heat until everything is evenly warmed.",
+  "url": null
+}

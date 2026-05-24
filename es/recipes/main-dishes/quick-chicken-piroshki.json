@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-chicken-piroshki",
+  "name": "Piroshki de Pollo Rápido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de margarina",
+    "1/4 taza de cebolla picada",
+    "1 diente de ajo mediano, picado",
+    "2 pechugas de pollo cocidas, cortadas",
+    "1 taza de arroz cocido",
+    "2 cucharadas de perejil picado",
+    "1/8 cucharadita de tomillo seco",
+    "Sal y pimienta al gusto",
+    "5 masas para empanadas en forma de media luna",
+    "1 huevo batido"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 175 °C. En una sartén grande, derretir la margarina a fuego medio. Agregar las cebollas y el ajo y cocinar hasta que estén tiernos pero no dorados, aproximadamente 2 minutos. Incorporar el pollo, el arroz, el perejil, el tomillo, la sal y la pimienta al gusto.\n2. Separar las masas de empanada en 8 cuadrados; sellar los bordes de cada cuadrado. Dividir la mezcla de pollo uniformemente entre los cuadrados, doblar para formar triángulos y sellar los bordes. Pinchar la superficie de las empanadas con un tenedor y barnizarlas con huevo. Hornear en una bandeja para hornear sin engrasar durante 15 minutos hasta que estén doradas. Retirar a un plato de servir y mantener calientes hasta el momento de servir.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "cherry-cranberry-cinnamon-bread",
+  "name": "Pan de cereza/arándano/canela",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina de pan",
+    "1 1/4 cucharadas de azúcar",
+    "3/4 cucharadita de sal",
+    "1 cucharadita de canela molida",
+    "1 cucharada de aceite",
+    "1 taza de leche (1%)",
+    "1 cucharada de ralladura de limón",
+    "1 1/4 cucharaditas de levadura",
+    "1/8 taza de arándanos secos",
+    "1/8 taza de cerezas secas"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en la máquina de pan y iniciar el proceso.\n2. Si se desea, añadir las bayas después del primer levado para que queden más grandes.\n3. Servir ligeramente tostado con crema de queso esparcida encima.",
+  "url": null
+}

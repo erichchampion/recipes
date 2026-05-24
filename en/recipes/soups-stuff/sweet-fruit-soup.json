@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-fruit-soup",
+  "name": "Sweet Fruit Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "fruits",
+    "soup",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "3 cups water",
+    "1/2 cup pitted prunes",
+    "1/2 cup raisins",
+    "2 medium apples, peeled and sliced",
+    "1 can pitted dark cherries",
+    "1 medium orange, peeled and sliced",
+    "1 medium lemon, sliced",
+    "3/4 cup sugar",
+    "1/4 cup quick tapioca",
+    "2-inch cinnamon stick",
+    "2 cups grape juice"
+  ],
+  "recipeInstructions": "1. In a saucepan, combine water, prunes, and raisins. Bring to boiling; reduce heat.\n2. Simmer covered for 10 minutes.\n3. Add the fruits (apples), sugar, tapioca, cinnamon stick, and a dash of salt.\n4. Simmer, covered, for an additional 15 minutes or until apples are tender and the mixture is slightly thickened.\n5. Stir in grape juice.\n6. Chill.",
+  "url": null
+}

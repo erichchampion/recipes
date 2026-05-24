@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "turkey-barley-soup",
+  "name": "Sopa de pavo y cebada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "dietas especiales",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "6 tazas de caldo de pavo o pollo",
+    "1 hoja de laurel",
+    "1 taza de pavo cocido, picado",
+    "1 cucharadita de tomillo seco",
+    "1 taza de cebada perlada",
+    "1/4 cucharadita de orégano seco",
+    "1 cebolla, picada",
+    "1/4 cucharadita de pimienta negra molida",
+    "2 tallos de apio, picados",
+    "2 cucharadas de perejil fresco (o 2 cucharaditas de perejil seco)",
+    "3 zanahorias, cortadas en rodajas"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en una olla para sopa o en una olla de cocción lenta.\n2. Cocinar a fuego lento en la olla de cocción lenta durante 6 horas o a fuego medio-bajo en la estufa durante 1 hora, hasta que las zanahorias estén tiernas y la cebada suave.",
+  "url": null
+}

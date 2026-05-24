@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "hawaiian-punch",
+  "name": "Punch Hawaiano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "batido",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "3 latas de Punch Hawaiano congelado grande",
+    "2 latas de Jugo de Naranja congelado grande",
+    "2 litros de Ginger Ale",
+    "3 latas de Limonada congelada grande",
+    "1 litro de Sherbet de Frambuesa"
+  ],
+  "recipeInstructions": "1. En un bol de punch grande, sigue las instrucciones del paquete para cada jugo congelado.\n2. Añade el sherbet de frambuesa y mezcla hasta que esté combinado.\n3. Vierte lentamente el Ginger Ale por el borde del bol de punch (2 botellas).",
+  "url": null
+}

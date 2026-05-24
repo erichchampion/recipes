@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "birds-nests",
+  "name": "Nidos de pájaros",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de mantequilla",
+    "3/4 taza de manteca",
+    "3/4 taza de azúcar moreno",
+    "2 tazas de harina",
+    "1/2 cucharadita de sal",
+    "1 cucharadita de extracto de vainilla",
+    "2 claras de huevo, batidas ligeramente",
+    "1/4 taza de nueces picadas",
+    "1/4 taza de mermelada"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar la mantequilla, la manteca, el azúcar moreno, la harina y la sal.\n2. Incorporar el extracto de vainilla hasta obtener una mezcla homogénea.\n3. Agregar las claras de huevo batidas y mezclar suavemente hasta combinarlas.\n4. Formar bolas con la masa del tamaño de una pelota de golf.\n5. Rodar cada bola en las nueces picadas, presionando ligeramente.\n6. Hacer una pequeña hendidura en el centro de cada bola.\n7. Rellenar las hendiduras con mermelada.\n8. Colocar los nidos en una bandeja para hornear sin engrasar.\n9. Hornear a 180°C durante 8-10 minutos o hasta que estén ligeramente dorados.",
+  "url": null
+}

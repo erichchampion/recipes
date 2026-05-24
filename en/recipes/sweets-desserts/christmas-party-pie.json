@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "christmas-party-pie",
+  "name": "Christmas Party Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "--Shell:",
+    "1 cup flour",
+    "1 stick butter",
+    "1 cup chopped pecans",
+    "--Bottom Layer:",
+    "1 cup whipped topping",
+    "8 oz cream cheese",
+    "1 cup powdered sugar",
+    "--Middle Layer:",
+    "1 small package vanilla instant pudding",
+    "1 small package chocolate instant pudding",
+    "3 cups milk",
+    "--Top Layer:",
+    "Whipped topping",
+    "Chopped pecans (optional)",
+    "Shredded chocolate bar (optional)"
+  ],
+  "recipeInstructions": "1. Melt butter and mix with flour and pecans. Pat into a 9x13 pan.\n2. Bake at 350 degrees for 20 minutes, then remove from oven and let cool.\n3. Mix whipped topping, cream cheese, and powdered sugar until combined.\n4. Spread mixture over the cooled pie shell.\n5. Mix pudding and milk in separate bowls, then spread over the filling.\n6. Cover with a layer of whipped topping.\n7. Sprinkle with chopped pecans or shredded chocolate bar (if using).\n8. Keep refrigerated until ready to serve.",
+  "url": null
+}

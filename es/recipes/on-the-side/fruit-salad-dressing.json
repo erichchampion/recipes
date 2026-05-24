@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-salad-dressing",
+  "name": "Aderezo para ensalada de frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "ensaladas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de jugo de piña",
+    "1/2 taza de azúcar",
+    "1/2 taza de harina mezclada con azúcar",
+    "1 cucharada de mantequilla",
+    "El jugo de 1 limón",
+    "2 huevos batidos",
+    "1 taza de crema batida"
+  ],
+  "recipeInstructions": "1. Cocinar todos los ingredientes excepto la crema en un baño maría durante 10 minutos.\n2. No cocinar a fuego directo.\n3. Cuando esté frío, incorporar la crema batida.\n4. Servir con frutas frescas cortadas como ensalada o postre.",
+  "url": null
+}

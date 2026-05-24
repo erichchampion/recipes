@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-pie-that-s-good-for-you",
+  "name": "Tarta de manzana saludable",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "panadería",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "Base de masa lista para hornear, 23 cm",
+    "4 tazas de manzanas finas en rodajas (muy verdes y ácidas), peladas, sin corazón",
+    "2 cucharadas de zumo de limón",
+    "1/2 taza de azúcar",
+    "1/2 cucharadita de canela",
+    "1/4 cucharadita de clavo molido",
+    "1 cucharadita de vainilla",
+    "1 taza de granola",
+    "1/4 taza de pasas",
+    "1 cucharada de mantequilla sin sal"
+  ],
+  "recipeInstructions": "Precalentar el horno a 200 °C. En un bol de vidrio, mezclar las manzanas con el zumo de limón, el azúcar, la canela, el clavo, la vainilla, la granola y las pasas. Rellenar la masa sin hornear con la mezcla de manzana. Pinchar la superficie con la mantequilla. Hornear durante 15 minutos. Reducir la temperatura a 180 °C y hornear durante otros 20-25 minutos. Retirar del horno y dejar enfriar. Opcionalmente, preparar un topping en malla para la tarta.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "crab-louis",
+  "name": "Crab Louis",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "Crema espesa",
+    "Cebolletas (picadas)",
+    "Salsa picante",
+    "Jugo de limón",
+    "Sal Worcestershire",
+    "Pimienta negra al gusto"
+  ],
+  "recipeInstructions": "1. Forrar un bol con hojas de lechuga.\n2. Colocar una capa de lechuga desmenuzada en el fondo del bol.\n3. Apilar el cangrejo desmenuzado sobre la lechuga.\n4. Verter la salsa Louis, obtenida mezclando todos los ingredientes excepto la sal y la pimienta en una licuadora hasta que quede homogénea.\n5. Rodear la mezcla con rodajas de huevo duro.\n6. Espolvorear con cebolletas o cebollino picado.\n7. Sazonar con sal y pimienta al gusto.",
+  "url": null
+}

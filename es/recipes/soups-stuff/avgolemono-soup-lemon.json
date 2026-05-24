@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "avgolemono-soup-lemon",
+  "name": "Sopa Avgolemono (Limón)",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "etnía",
+    "griega",
+    "sopas y estofados"
+  ],
+  "recipeIngredient": [
+    "2 tazas de leche",
+    "2 cucharadas de almidón de maíz",
+    "6 yemas de huevo batidas",
+    "2 litros de caldo de pollo",
+    "1/2 taza de arroz de grano largo",
+    "1/2 barra de mantequilla",
+    "Perejil picado",
+    "1 taza de zumo de limón fresco",
+    "Ralladura de limón",
+    "Sal",
+    "Pimienta"
+  ],
+  "recipeInstructions": "1. Mezcla la leche y el almidón de maíz en un bol, luego bate las yemas de huevo y mézclalas. Reserva.\n2. En una olla de sopa de 4 litros, hierve el caldo de pollo. Añade el arroz y cocina, tapado, hasta que el arroz esté hinchado y tierno, aproximadamente 25 minutos.\n3. Retira del fuego, agrega la mezcla de leche y huevo, removiendo con cuidado. Continúa cocinando unos momentos hasta espesar.\n4. Apaga el fuego y añade la mantequilla, perejil picado y zumo de limón. Puedes agregar también ralladura de limón si lo deseas.",
+  "url": null
+}

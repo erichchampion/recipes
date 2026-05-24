@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "russian-marinade",
+  "name": "Marinada Rusa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "marinadas",
+    "mariscos",
+    "especias",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 Zanahorias - cortadas en trozos",
+    "1 Pimiento verde - en rodajas",
+    "1/2 lb de pescado sin hueso",
+    "1 Tomate (o salsa de tomate)"
+  ],
+  "recipeInstructions": "1. Sazonar el pescado con sal y dejarlo reposar.\n2. Calentar un poco de aceite en una sartén, añadir cebolla picada, pimiento verde y zanahorias. Cocinar hasta que las verduras estén tiernas.\n3. Agregar la salsa de tomate a la sartén y cocinar durante unos minutos.\n4. Cortar el pescado en trozos y freírlo en más aceite hasta que esté dorado.\n5. Mezclar los trozos de pescado frito con las verduras cocidas y dejar cocinar juntos durante 5 minutos.\n6. Servir frío con patatas.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "springtime-punch",
+  "name": "Punch de la primavera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "batido",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "2 tazas de azúcar",
+    "2 1/2 tazas de agua",
+    "1 taza de zumo de limón fresco",
+    "1 taza de zumo de naranja fresco",
+    "6 onzas de concentrado de jugo de piña congelado, descongelado",
+    "2 litros de gaseosa de jengibre fría"
+  ],
+  "recipeInstructions": "1. En una cacerola, mezclar el azúcar y el agua. Llevar a ebullición.\n2. Continuar hirviendo durante 10 minutos.\n3. Retirar del fuego y agregar el zumo de limón, el zumo de naranja y el concentrado de piña descongelado.\n4. Incorporar la gaseosa de jengibre poco a poco hasta que esté bien mezclada.",
+  "url": null
+}

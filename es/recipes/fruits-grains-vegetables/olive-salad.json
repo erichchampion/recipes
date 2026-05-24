@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "olive-salad",
+  "name": "Ensalada de aceitunas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "aperitivos",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 taza de aceitunas negras",
+    "1 taza de aceitunas verdes",
+    "El jugo de 1 limón",
+    "2 cucharadas de perejil picado",
+    "1 cucharadita de pimentón dulce",
+    "1/4 cucharadita de polvo de chile",
+    "1 diente de ajo machacado",
+    "1/2 cucharadita de comino molido",
+    "2 cucharadas de aceite de oliva"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar el aceite de oliva con el comino, pimentón, polvo de chile, ajo y jugo de limón.\n2. Verter el aderezo sobre las aceitunas en el bol y remover para que queden bien cubiertas.\n3. Colocar la ensalada en el refrigerador para enfriar antes de servir.\nRinde: 2-4 porciones",
+  "url": null
+}

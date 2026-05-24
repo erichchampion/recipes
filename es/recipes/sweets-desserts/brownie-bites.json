@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "brownie-bites",
+  "name": "Bocaditos de brownie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "brownie",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de mantequilla (ablandada)",
+    "200g de queso crema (ablandado)",
+    "1 taza de harina",
+    "Relleno:",
+    "2 huevos",
+    "1/4 cucharadita de sal",
+    "1/2 taza de azúcar",
+    "3/4 taza de chispas de chocolate semiamargo (finamente picadas)",
+    "1/2 taza de nueces tostadas picadas",
+    "1 cucharadita de licor de café"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180°C.\n2. Mezclar la mantequilla y el queso crema hasta obtener una consistencia suave.\n3. Agregar gradualmente la harina, formando una masa compacta.\n4. Enfriar durante 1 hora.\n5. Presionar la masa en 36 moldes para magdalenas mini engrasados y reservar.\n6. Batir los huevos hasta espumosos. Incorporar la sal y el azúcar, mezclando bien.\n7. Agregar las chispas de chocolate, nueces y licor de café a la mezcla de huevos.\n8. Rellenar cada molde con la masa.\n9. Hornear durante 20 minutos.",
+  "url": null
+}

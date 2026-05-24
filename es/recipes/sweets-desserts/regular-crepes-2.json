@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "regular-crepes-2",
+  "name": "Crepes regulares",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "crepes",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 huevos, batidos",
+    "1 taza de leche",
+    "1 taza de harina",
+    "1 cucharada de mantequilla derretida",
+    "1/8 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Añadir la leche a los huevos batidos y batir hasta que estén bien combinados.\n2. Agregar gradualmente la harina, batiendo constantemente hasta obtener una mezcla suave.\n3. Incorporar la mantequilla y la sal. La mezcla debe tener la consistencia de una crema espesa.\n4. Colocar un colador sobre un bol y verter la masa a través del colador para asegurar una masa de crepe suave.",
+  "url": null
+}

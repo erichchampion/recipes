@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "bulgogi-2",
+  "name": "Bulgogi #2",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "asiático",
+    "étnico",
+    "coreano",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne de res sin hueso - costillas cortas, o similar, cortadas finamente",
+    "1 taza de salsa de soja",
+    "1/2 taza de azúcar",
+    "1 cucharada de aceite de sésamo",
+    "1 1/2 cucharaditas de pimienta negra",
+    "1 1/2 cucharaditas de glutamato monosódico",
+    "3 dientes de ajo, picados finamente",
+    "1 cebolla blanca mediana, picada"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto la carne en un wok.\n2. Revolver y calentar hasta que esté bien combinado.\n3. Añadir la carne a la mezcla.\n4. Cocinar, revolviendo constantemente, hasta que ya no sea roja.\n5. Tener cuidado de no sobrecocinar, ya que esto puede endurecer la carne.\nNota: Cualquier buena pieza o corte de res magra serviría igualmente bien.",
+  "url": null
+}

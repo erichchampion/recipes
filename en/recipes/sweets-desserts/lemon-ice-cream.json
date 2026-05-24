@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-ice-cream",
+  "name": "Lemon Ice Cream",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "ice cream"
+  ],
+  "recipeIngredient": [
+    "3 eggs",
+    "1 tablespoon vanilla extract",
+    "1 1/4 cups sugar",
+    "1 1/2 quarts milk",
+    "1 cup heavy cream",
+    "1 tablespoon lemon flavoring"
+  ],
+  "recipeInstructions": "1. Beat the eggs until light and frothy.\n2. Gradually add the sugar, continuing to beat until smooth.\n3. Stir in the cream and lemon flavoring until thoroughly combined.\n4. Add the vanilla extract and pour into a container.\n5. Freeze until firm, stirring occasionally to prevent ice crystals from forming.\n6. Once set, remove the paddle or whisk and transfer the ice cream to a sealed container.\n7. Pack the ice cream in a mixture of salt and ice for additional freezing.\n8. Optionally, add 1 quart of sweetened crushed strawberries for flavor.\n9. Serve with chocolate sauce if desired.\nMakes 2 quarts.",
+  "url": null
+}

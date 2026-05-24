@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "beans-ziti",
+  "name": "Frijoles Ziti",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de caldo de verduras",
+    "1/2 cebolla, picada",
+    "2 dientes de ajo, picados",
+    "20 onzas de tomates enlatados de bajo sodio",
+    "10 onzas de pasta ziti",
+    "1/2 taza de perejil fresco",
+    "1/4 cucharadita de pimienta negra",
+    "1/2 cucharadita de tomillo seco",
+    "1/2 cucharadita de albahaca seca"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta ziti hasta que esté al dente y escurrir.\n2. Calentar el caldo de verduras en una olla, luego agregar la cebolla y el ajo. Sofreír hasta que estén transparentes.\n3. Añadir los tomates y dejar cocer a fuego lento durante 10 minutos.\n4. Incorporar las judías y las especias, y dejar cocer a fuego lento durante otros 10 minutos.\n5. Servir sobre la pasta cocida y espolvorear con perejil.",
+  "url": null
+}

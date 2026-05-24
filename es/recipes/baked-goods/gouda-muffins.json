@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "gouda-muffins",
+  "name": "Muffins de Gouda",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "queso",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina de uso general (500 mL)",
+    "1/2 taza de azúcar (125 mL)",
+    "7,5 ml de polvo de hornear",
+    "2,5 ml de sal",
+    "2 ml de bicarbonato de sodio",
+    "375 ml de queso Gouda rallado",
+    "250 ml de yogur natural",
+    "50 ml de mantequilla",
+    "2 huevos batidos"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcle juntos la harina, el azúcar, el polvo de hornear, la sal y el bicarbonato de sodio. Incorpore el queso Gouda rallado.\n2. En un bol pequeño, combine bien el yogur, la mantequilla y los huevos.\n3. Agregue todo a la vez a los ingredientes secos; mezcle solo hasta que esté humedecido.\n4. Divida la masa en partes iguales entre 12 moldes para muffins grandes engrasados.\n5. Hornee en un horno precalentado (400 °F/200 °C) durante 18-20 minutos.",
+  "url": null
+}

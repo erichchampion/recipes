@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-chicken-and-rice",
+  "name": "Pollo y arroz al horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "3 tazas de agua",
+    "6 cubos de caldo de pollo",
+    "1/2 taza de mantequilla o margarina",
+    "1 taza de arroz crudo",
+    "1 pequeña cebolla picada",
+    "1/2 pimiento verde picado",
+    "1/2 taza de apio picado",
+    "8 trozos de pollo"
+  ],
+  "recipeInstructions": "1. Llevar el agua a ebullición en una olla holandesa.\n2. Añadir los cubos de caldo y remover hasta que se disuelvan.\n3. Mezclar la mantequilla o margarina con el arroz, la cebolla, el pimiento verde y el apio.\n4. Sazonar los trozos de pollo con sal de adobo.\n5. Colocar los trozos de pollo sazonados sobre la mezcla de arroz en la olla holandesa.\n6. Hornear durante 1 hora y media a 400 grados Fahrenheit.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "scrambled-tofu",
+  "name": "Tofu batido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "entrantes",
+    "dietas especiales",
+    "tofu",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 lb de tofu firme mediano con calcio, escurrido (ver notas)",
+    "2 cucharadas de aceite vegetal",
+    "1 diente de ajo, o más",
+    "2 cucharadas de cebolla verde picada, opcional",
+    "1/4 taza de champiñones laminados, opcional",
+    "2 cucharadas de salsa de soja tamari, o caldo vegetal",
+    "1 cucharada de levadura nutricional, opcional",
+    "2 cucharadas de perejil fresco picado"
+  ],
+  "recipeInstructions": "1. Escurrir bien el tofu.\n2. En una sartén, calentar el aceite vegetal a fuego medio.\n3. Saltear el ajo (y la cebolla verde y los champiñones si se usan) hasta que las verduras estén tiernas.\n4. Añadir el tofu escurrido a la sartén y remover para integrar la salsa de soja tamari (o caldo vegetal).\n5. Si se usa levadura nutricional, espolvorear sobre el tofu.\n6. Desmenuzar el tofu con un tenedor y cocinarlo a fuego medio durante 2-3 minutos hasta que esté hecho.\n7. Espolvorear con perejil fresco y servir de inmediato.",
+  "url": null
+}

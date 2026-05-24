@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-ricotta-cheese",
+  "name": "Mock Ricotta Cheese",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "cheese",
+    "cheese/eggs",
+    "side dishes",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "1 lb Firm tofu",
+    "2 tbsp Sugar",
+    "1/2 tsp Salt",
+    "2 tbsp Lemon juice"
+  ],
+  "recipeInstructions": "1. Drain the firm tofu and press between two plates with a weight on top for about 15 minutes to remove excess moisture.\n2. Cut the drained tofu into chunks and place in a food processor or blender.\n3. Add sugar, salt, and lemon juice to the tofu in the food processor.\n4. Process until smooth and creamy, scraping down sides as needed.\n5. Taste and adjust sweetness or acidity if desired.\nThis recipe is great for anyone watching their cholesterol or for people who don't eat animal products. Use as you would ricotta cheese; in lasagna, stuffed shells, manicotti. Also great on pizza or in layered casseroles. If blended until creamy, it makes a great sour cream replacement.",
+  "url": null
+}

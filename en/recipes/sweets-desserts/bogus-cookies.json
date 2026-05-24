@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "bogus-cookies",
+  "name": "Bogus Cookies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "2 cups Butter",
+    "2 cups Brown sugar",
+    "2 tsp Vanilla extract",
+    "5 cups Ground oatmeal",
+    "2 tsp Baking powder",
+    "24 oz Chocolate chips",
+    "3 cups Chopped nuts (any kind)",
+    "2 cups Sugar",
+    "4 Eggs",
+    "4 cups Flour",
+    "1 tsp Salt",
+    "2 tsp Baking soda",
+    "8 oz Hershey bar, grated"
+  ],
+  "recipeInstructions": "1. Finely grind the oatmeal in a blender until it becomes a fine powder.\n2. Cream together the butter and brown sugar until light and fluffy.\n3. Add eggs and vanilla extract to the mixture, stirring well.\n4. In a separate bowl, mix flour, ground oatmeal, salt, baking powder, and baking soda.\n5. Gradually add the dry ingredients to the wet mixture, mixing thoroughly after each addition.\n6. Stir in chocolate chips and chopped nuts.\n7. Form golf ball-sized balls of dough and place them 2 inches apart on an ungreased cookie sheet.\n8. Bake at 375°F (190°C) for 16 minutes.",
+  "url": null
+}

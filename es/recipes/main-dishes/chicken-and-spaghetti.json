@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-spaghetti",
+  "name": "Pollo y espagueti",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "8 pechugas de pollo",
+    "1 cebolla grande, picada",
+    "1 tallo de apio, picado",
+    "1/2 taza de setas, picadas",
+    "10 onzas de espagueti cocido",
+    "1 barra de margarina",
+    "1 lata de sopa de champiñones cremosos",
+    "10 onzas de queso Velveeta",
+    "1/2 taza de leche"
+  ],
+  "recipeInstructions": "1. Hierve el pollo hasta que esté hecho. Retira del fuego y deja enfriar.\n2. Deshuesa el pollo.\n3. Corta el queso Velveeta y la margarina en cuadrados.\n4. Deja que el queso y la margarina reposen a temperatura ambiente durante unos 15 minutos.\n5. Mezcla el pollo cocido con los espaguetis.\n6. En un bol aparte, combina los ingredientes restantes: sopa de champiñones cremosos, leche, cebolla picada, apio, setas y queso Velveeta.\n7. Vierte la mezcla sobre el pollo y los espaguetis.\n8. Transfiere el plato a un molde para hornear y colócalo en el horno precalentado a 350°F (175°C).\n9. Hornea durante unos 20 minutos o hasta que la parte superior esté dorada.",
+  "url": null
+}

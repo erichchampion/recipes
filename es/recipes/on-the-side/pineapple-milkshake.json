@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "pineapple-milkshake",
+  "name": "Batido de piña",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "20 onzas de piña triturada (escurrida)",
+    "2 tazas de helado de vainilla sin grasa",
+    "1 taza de leche desnatada",
+    "1/8 cucharadita de canela"
+  ],
+  "recipeInstructions": "1. Mezclar la piña, el helado, la leche y la canela en un procesador de alimentos.\n2. Procesar hasta obtener una consistencia suave.",
+  "url": null
+}

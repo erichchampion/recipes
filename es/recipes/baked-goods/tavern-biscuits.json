@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "tavern-biscuits",
+  "name": "Biscuitos de Taberna",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "bizcochos"
+  ],
+  "recipeIngredient": [
+    "4 tazas de harina",
+    "1/2 cucharadita de nuez moscada",
+    "1 taza de mantequilla",
+    "1 1/2 tazas de leche",
+    "1 taza de azúcar",
+    "1/2 cucharadita de macis"
+  ],
+  "recipeInstructions": "1. Cernir juntos la harina y la nuez moscada.\n2. Agregar la mantequilla y mezclar hasta obtener una mezcla arenosa.\n3. Incorporar gradualmente los ingredientes restantes; mezclar bien.\n4. Amasar la masa hasta obtener una textura suave.\n5. Estirar la masa y cortarla en formas redondas pequeñas.\n6. Hornear a 450°F (230°C) hasta que estén ligeramente doradas.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-soup-2",
+  "name": "Hamburger Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 lb hamburger",
+    "1 cup onion",
+    "1 cup celery",
+    "1 cup potatoes",
+    "1 quart tomatoes",
+    "2 cups grated carrots",
+    "1 tbsp salt",
+    "2 tbsp beef bouillion",
+    "6 cups water",
+    "2 small cans corn (in its kernel)",
+    "1 small can yellow beans",
+    "1 cup frozen peas"
+  ],
+  "recipeInstructions": "1. Fry the hamburger and onion until browned.\n2. Add the celery, potatoes, tomatoes, grated carrots, salt, beef bouillon, and water to the pot.\n3. Simmer for 30 minutes.\n4. Stir in the corn, yellow beans, and frozen peas. Continue simmering for an additional 5 minutes.",
+  "url": null
+}

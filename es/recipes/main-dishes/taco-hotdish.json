@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-hotdish",
+  "name": "Taco Hotdish",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de vacuno",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "8 oz de chips de taco; triturados",
+    "1 lb de carne molida; dorada",
+    "1 cebolla mediana; picada",
+    "1 lata de sopa de tomate",
+    "1 sobre de mezcla para tacos",
+    "8 oz de queso cottage",
+    "3/4 lb de queso cheddar; rallado",
+    "Lechuga; picada",
+    "Tomates; cortados en cubos"
+  ],
+  "recipeInstructions": "1. Triturar los chips de taco y colocarlos en una fuente engrasada de 9x13 pulgadas.\n2. Dorar la carne molida y la cebolla, escurriendo el exceso de grasa.\n3. Agregar la sopa de tomate y la mezcla para tacos a la mezcla de carne.\n4. Mezclar todo y verter sobre los chips triturados.\n5. Extender uniformemente el queso cottage sobre la mezcla.\n6. Espolvorear el queso cheddar sobre el plato.\n7. Cubrir con papel aluminio y hornear a 350°F durante 40 minutos.\n8. Servir con lechuga picada y tomates cortados en cubos encima.",
+  "url": null
+}

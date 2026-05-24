@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "guacamole-7",
+  "name": "Guacamole",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "aderezos",
+    "magos",
+    "tapas",
+    "bocadillos"
+  ],
+  "recipeIngredient": [
+    "12 onzas de dip de aguacate congelado, descongelado",
+    "1/4 taza de cebolla picada",
+    "1/4 taza de salsa Texas",
+    "2 cucharadas de cilantro fresco picado",
+    "1 1/2 cucharadas de jugo de lima fresco",
+    "1/4 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande.\n2. Revitar bien hasta que todos los ingredientes estén distribuidos uniformemente.\n3. Probar y ajustar la sazón si es necesario.\n4. Servir inmediatamente o tapar bien y refrigerar durante un máximo de 2 horas antes de servir.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-di-pina",
+  "name": "Pasta de piña",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "aperitivos",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de aceite de oliva",
+    "4 dientes de ajo medianos, picados finamente",
+    "2 cucharadas de migas de pan frescas",
+    "1/8 cucharadita de pimienta negra",
+    "1 sobre de mezcla de sopa de cebolla dorada",
+    "3 1/2 tazas de agua",
+    "6 onzas de macarrones finos crudos",
+    "2 cucharadas de perejil fresco picado",
+    "Queso parmesano rallado al gusto"
+  ],
+  "recipeInstructions": "1. Pica el ajo muy finamente.\n2. Mezcla todos los ingredientes en una olla grande.\n3. Lleva a ebullición, luego reduce el fuego y deja cocinar a fuego lento hasta que la pasta esté tierna.\n4. Revuelve ocasionalmente para evitar que se pegue.\n5. Escurre si es necesario.\n6. Sirve caliente con perejil y parmesano.",
+  "url": null
+}

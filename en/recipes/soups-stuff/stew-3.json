@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "stew-3",
+  "name": "Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "beef",
+    "pork",
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb meat (beef, pork, or lamb)",
+    "cut into 2-inch cubes",
+    "6 potatoes",
+    "peeled and cut up",
+    "6 carrots",
+    "peeled and cut up",
+    "6 onions",
+    "peeled and cut up",
+    "1 bay leaf",
+    "1 1/2 tsp salt",
+    "1/4 tsp pepper",
+    "2 cups water"
+  ],
+  "recipeInstructions": "1. Brown the meat in oil in a pressure cooker.\n2. Add the rest of the ingredients (potatoes, carrots, onions, bay leaf, salt, and pepper).\n3. Cook for 15 minutes at high pressure (10 lbs) after jiggling begins.\n4. Reduce pressure by using natural release or placing the pot under running water.\n5. If needed, thicken the juices with a mixture of 3 tablespoons flour blended with water until thick.\n6. Remove the bay leaf before serving.\n7. Serves 6.",
+  "url": null
+}

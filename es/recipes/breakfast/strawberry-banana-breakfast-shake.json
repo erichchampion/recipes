@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-banana-breakfast-shake",
+  "name": "Batido de desayuno de fresa y plátano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "tentempié"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de fresas",
+    "1/2 plátano mediano, cortado en trozos",
+    "1/2 taza de jugo de naranja",
+    "3 cucharadas de yogur bajo en grasa"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en un bol de licuadora y mezcla hasta obtener una consistencia suave.\n2. Vierte en vasos y sirve.",
+  "url": null
+}

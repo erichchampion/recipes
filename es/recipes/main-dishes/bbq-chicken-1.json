@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "bbq-chicken-1",
+  "name": "Pollo a la barbacoa #1",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "chino",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "3 lb de pollo para freír; cortado en trozos",
+    "1/2 taza de salsa barbacoa estilo chino",
+    "1 cucharada de salsa de soja",
+    "1 cucharada de aceite de sésamo"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una bolsa de plástico.\n2. Sacar el aire de la bolsa y cerrarla herméticamente.\n3. Girar suavemente para cubrir el pollo uniformemente.\n4. Refrigerar durante 4 a 6 horas.\n5. Asar o grilar a 12-16 pulgadas de la fuente de calor, durante 12-16 minutos por cada lado, hasta que esté completamente cocido.",
+  "url": null
+}

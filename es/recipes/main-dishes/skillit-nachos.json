@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "skillit-nachos",
+  "name": "Nachos Skillit",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americana",
+    "étnica",
+    "carne",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1 cebolla mediana, picada",
+    "2 tazas de salsa picante (salsa para los que no están familiarizados con la terminología culinaria)",
+    "1 lata de 15 onzas de frijoles pintos o negros, enjuagados y escurridos (los omitimos debido a mis alergias)",
+    "1 cucharadita de polvo de chile",
+    "1 tomate grande, picado",
+    "1 aguacate grande o 2 pequeños maduros, sin semillas y cortado en cubos",
+    "1/2 taza de aceitunas verdes cortadas",
+    "1 taza de queso cheddar rallado (4 onzas)",
+    "1/2 a 1 taza de crema agria, al gusto",
+    "Totras chips",
+    "Tortillas de harina calentadas"
+  ],
+  "recipeInstructions": "1. En una sartén de 12 pulgadas, dora la carne con la cebolla hasta que esté cocida; escurre el exceso de grasa.\n2. Agrega la salsa picante, los frijoles y el polvo de chile; lleva a ebullición.\n3. Reduce el fuego y deja cocinar a fuego lento sin tapar durante 5 minutos.\n4. Incorpora el tomate picado, el aguacate y las aceitunas.\n5. Retira del fuego y espolvorea con queso.\n6. Coloca una cucharada de crema agria en el centro de la mezcla de carne.\n7. Ordena un borde de chips totra alrededor del borde de la sartén.\n8. Sirve inmediatamente con tortillas chips adicionales, tortillas de harina y salsa picante extra.",
+  "url": null
+}

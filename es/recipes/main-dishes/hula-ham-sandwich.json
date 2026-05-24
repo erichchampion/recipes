@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hula-ham-sandwich",
+  "name": "Sándwich de Jamón Hula",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cerdo",
+    "sándwich",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 lata (20 oz) de rodajas de piña Dole",
+    "5 panecillos Kaiser, cortados por la mitad",
+    "4 cucharaditas de mostaza Dijon",
+    "1 hoja de lechuga",
+    "2 rebanadas de queso suizo",
+    "4 onzas de jamón ahumado en lonchas",
+    "2 rodajas de piña"
+  ],
+  "recipeInstructions": "1. Escurrir las rodajas de piña.\n2. Cortar los panecillos Kaiser por la mitad.\n3. Untar mostaza Dijon en el interior de cada mitad de panecillo.\n4. Colocar lechuga, queso, jamón y piña en capas sobre la mostaza.\n5. Servir 5 sándwiches.",
+  "url": null
+}

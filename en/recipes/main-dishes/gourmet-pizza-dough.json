@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "gourmet-pizza-dough",
+  "name": "Gourmet Pizza Dough",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breads",
+    "dough",
+    "main dish",
+    "pasta",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 package Yeast",
+    "1/2 teaspoon Sugar",
+    "2 tablespoons Olive oil",
+    "2 1/4 cups Flour",
+    "1/2 teaspoon Salt",
+    "1/3 cup Warm water"
+  ],
+  "recipeInstructions": "1. Soften yeast in 1/3 cup warm water for 5 minutes.\n2. Add the remaining flour and ingredients to the yeast mixture.\n3. Knead until smooth, adding more flour as needed.\n4. Place dough in a greased bowl and cover with a towel.\n5. Let dough double in size.\n6. Punch down dough and roll out to fit a pizza pan.\n(Note: This recipe is from Gourmet Magazine. I typically increase the salt and sugar slightly.)",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "hearty-vegetable-soup",
+  "name": "Hearty Vegetable Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "soups/stews",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "15 oz Can red kidney beans",
+    "32 oz Canned tomatoes, cut up",
+    "15 oz Canned great northern beans",
+    "15 oz Garbanzo beans",
+    "1/2 cup Water",
+    "3 medium Onions, chopped",
+    "2 medium Green peppers, chopped",
+    "2 celery stalks, sliced",
+    "2 zucchini, halved lengthwise and sliced",
+    "2 cloves Garlic, minced",
+    "2 tsp Dried basil, crushed",
+    "1/4 tsp Pepper",
+    "1 Bay leaf"
+  ],
+  "recipeInstructions": "1. Combine the undrained tomatoes, undrained beans, water, and remaining vegetables and seasonings in a 4-quart Dutch oven.\n2. Bring to boil.\n3. Reduce heat; cover and simmer for about 1 hour or until veggies are tender.\n4. Serve.",
+  "url": null
+}

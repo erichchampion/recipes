@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "teriyaki-fish",
+  "name": "Pescado Teriyaki",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecua",
+    "pescado",
+    "plato principal",
+    "marinadas",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de bacalao, merluza o halibut (filetes)",
+    "1 steak o atún",
+    "1/4 taza de zumo de limón",
+    "2 cucharadas de salsa de soja",
+    "1 cucharada de aceite vegetal",
+    "2 dientes de ajo; machacados"
+  ],
+  "recipeInstructions": "1. Si los filetes son grandes, cortarlos en 6 trozos para servir.\n2. Mezclar todos los ingredientes excepto el pescado; verter sobre el pescado en un recipiente de vidrio. Tapar y refrigerar al menos 1 hora.\n3. Retirar el pescado, reservar la marinada. Cubrir y asar el pescado a unos 4 pulgadas de las brasas medianas, darle la vuelta una vez y untarlo ocasionalmente con la marinada reservada, hasta que el pescado se desmenuce fácilmente con un tenedor, entre 12 y 20 minutos.\n4. Cortar en trozos para servir si es necesario. Servir con gajos de limón si se desea.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-and-delicious-lemonade",
+  "name": "Simple and Delicious Lemonade",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "lemonade",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "3 1/4 cups cold water",
+    "1/2 cup lemon juice, fresh",
+    "Sugar - to taste"
+  ],
+  "recipeInstructions": "1. Mix all ingredients.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "tacos",
+  "name": "Tacos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "americano",
+    "hamburguesas",
+    "étnico",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1/3 taza de cebolla picada",
+    "2 cucharadas de aceitunas negras finamente picadas",
+    "1 cucharadita de comino en polvo",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de polvo de ajo",
+    "1/8 cucharadita de pimienta negra",
+    "12 capas para tacos",
+    "1/2 taza de tomate picado sin semillas"
+  ],
+  "recipeInstructions": "1. Precalentar la parrilla durante 10 minutos.\n2. En una sartén grande de hierro fundido o un recipiente apto para horno seguro, combinar la carne molida y la cebolla. Cocinar y remover a fuego alto hasta que la carne ya no sea rosada, aproximadamente 10-12 minutos.\n3. Escurrir el exceso de grasa de la mezcla de carne. Incorporar las aceitunas, el comino, la sal, el polvo de ajo y la pimienta.\n4. Colocar las capas para tacos en la rejilla superior de la parrilla.\n5. Continuar cocinando la mezcla de carne con la tapa cerrada durante unos 5 minutos adicionales.\n6. Incorporar el tomate picado. Reducir el fuego a bajo y servir los tacos en la parrilla con los toppings deseados.\n7. Rinde para 12 tacos.",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple",
+  "name": "Apple",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "apple",
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 1/2 Cups Apples, grated",
+    "1 Cup Shortening",
+    "1 Cup Brown Sugar",
+    "1/2 Cup Sugar",
+    "2 Eggs",
+    "1/2 Cup Sour Milk",
+    "3 Cups Flour",
+    "1 Teaspoon Baking Soda",
+    "1 1/2 Teaspoons Salt",
+    "1 Teaspoon Cinnamon",
+    "1 Teaspoon Nutmeg",
+    "Walnuts"
+  ],
+  "recipeInstructions": "1. Mix all ingredients well.\n2. Preheat oven to 350°F (325°F if preferred).\n3. Pour mixture into prepared baking dish.\n4. Bake for 12-15 minutes, or until set.",
+  "url": null
+}

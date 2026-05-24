@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "one-two-three",
+  "name": "Uno, Dos, Tres",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1 pequeña col",
+    "1 lata de sopa de tomate (sin diluir)",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Coloca la carne molida en una olla holandesa grande.\n2. Cubre con capas de col sobre la carne molida.\n3. Repite las capas de carne molida y col hasta utilizar todos los ingredientes, terminando con col encima.\n4. Vierte la sopa de tomate sin diluir uniformemente sobre las capas de verduras.\n5. Espolvorea sal y pimienta al gusto sobre el todo.\n6. Cubre la olla holandesa herméticamente.\n7. Hornea en un horno precalentado durante 1 hora o hasta que el plato esté bien caliente.",
+  "url": null
+}

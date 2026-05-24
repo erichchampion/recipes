@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-peanuts",
+  "name": "Manzanas de cacahuete caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "chiles",
+    "tentempié"
+  ],
+  "recipeIngredient": [
+    "4 tazas de cacahuetes",
+    "1/2 taza de mantequilla",
+    "2 cucharadas de pimentón rojo",
+    "1 cucharada de chiles chipotle"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla.\n2. Revuelve los cacahuetes en la mantequilla derretida hasta que queden cubiertos.\n3. Hornea a 350 grados Fahrenheit durante 15 minutos.\n4. Espolvorea con pimentón rojo.",
+  "url": null
+}

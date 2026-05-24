@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-cake",
+  "name": "Pastel para el desayuno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "3 tazas de harina",
+    "1/2 cucharadita de sal",
+    "4 cucharadas de azúcar",
+    "3 cucharaditas de polvo de hornear",
+    "3 cucharadas de manteca (derretida)",
+    "1 taza de leche",
+    "1 huevo (batido ligeramente)"
+  ],
+  "recipeInstructions": "1. Cernir juntos los ingredientes secos.\n2. Agregar la manteca, la leche y el huevo a la mezcla seca.\n3. Extender la masa en un molde engrasado con una capa de 0,5 cm de espesor.\n4. Para el topping, mezclar 2 cucharadas de harina, 1 cucharada de canela, 5 cucharadas de azúcar y 3 cucharadas de mantequilla frita.\n5. Colocar el topping sobre la masa.\n6. Hornear durante unos 30 minutos en un horno moderado (350°F a 400°F).",
+  "url": null
+}

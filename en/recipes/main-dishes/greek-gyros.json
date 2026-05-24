@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "greek-gyros",
+  "name": "Greek Gyros",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "greek",
+    "main dish",
+    "sandwiches",
+    "veal",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "2 lb Lean, boneless lamb",
+    "1/3 cup Olive oil",
+    "1/2 cup Fresh lemon juice",
+    "2 Garlic cloves",
+    "peeled, cut into quarters",
+    "1 tsp Chopped fresh thyme",
+    "1 tsp Chopped fresh oregano or 1 tsp Chopped fresh marjoram",
+    "Fresh ground pepper to taste",
+    "2 Spanish onions; thinly sliced into rings",
+    "24 small Romaine lettuce leaves; washed and dried",
+    "6 large Pita bread rounds",
+    "3 medium Ripe tomatoes"
+  ],
+  "recipeInstructions": "1. Cut the lamb into 1-inch cubes.\n2. Heat olive oil in a pan over medium heat.\n3. Add lemon juice, garlic, thyme, oregano/marjoram, pepper, onions, lettuce, and tomatoes to the pan.\n4. Cook until the vegetables are tender and the spices have melded together.\n5. Serve on warm pita bread with additional toppings as desired.",
+  "url": null
+}

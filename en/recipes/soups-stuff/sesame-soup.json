@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "sesame-soup",
+  "name": "Sesame Soup",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "ethnic",
+    "greek",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "3 pints Stock",
+    "1 cup Sesame paste",
+    "1/2 cup Water",
+    "1 Lemon, juiced",
+    "1 tbsp Chopped parsley"
+  ],
+  "recipeInstructions": "1. Bring the stock to a low boil.\n2. Beat sesame paste with water and lemon juice in a bowl.\n3. Add a cup of hot stock to the mixture and stir together.\n4. Remove from heat and pour into the prepared serving dish.\n5. Garnish with herb and serve with bread.\nJack Santa Maria, \"Greek Vegetarian Cookery\"",
+  "url": null
+}

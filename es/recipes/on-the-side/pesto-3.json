@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pesto-3",
+  "name": "Pesto",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pasta",
+    "pesto",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "6 onzas de queso parmesano",
+    "2 dientes de ajo",
+    "1/2 taza de aceite de oliva",
+    "2 tazas de hojas de albahaca fresca",
+    "1/2 taza de perejil fresco",
+    "2 cucharadas de piñones secos"
+  ],
+  "recipeInstructions": "1. Rallar el queso parmesano y reservar.\n2. Con la cuchilla de picar en posición, triturar los dientes de ajo con aceite de oliva. Dejar reposar 15 minutos.\n3. Lavar y secar bien las hojas de albahaca y perejil.\n4. Añadir las hierbas a la mezcla de aceite de oliva en un procesador de alimentos o batidora y triturar.\n5. Incorporar los piñones, el queso parmesano rallado y aceite de oliva adicional si es necesario.\n6. Mezclar con pasta caliente según su gusto.",
+  "url": null
+}

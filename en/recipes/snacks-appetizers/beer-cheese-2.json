@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-cheese-2",
+  "name": "Beer Cheese",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "cheese",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "3 lb sharp cheddar cheese grated",
+    "1 onion minced",
+    "stale beer",
+    "tabasco sauce",
+    "1/2 jar creamed horseradish",
+    "red pepper",
+    "garlic"
+  ],
+  "recipeInstructions": "1. Combine the minced onion, grated cheddar cheese, 5-6 dashes of tabasco sauce, creamed horseradish, a shake of red pepper, and garlic to taste.\n2. Gradually add stale beer until you achieve the desired consistency for a cheese dip.\n3. Serve with crackers, nacho chips, or celery.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "whiskey-eggnog",
+  "name": "Whisky Eggnog",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "festivo",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 oz a 3 oz de bourbon o rye",
+    "1 cucharadita de azúcar",
+    "1 huevo",
+    "Leche",
+    "Nuez moscada"
+  ],
+  "recipeInstructions": "1. Agitar todos los ingredientes, excepto la leche, con hielo en un vaso Old Fashioned.\n2. Colar en una taza alta.\n3. Cubrir con leche y espolvorear con nuez moscada.",
+  "url": null
+}

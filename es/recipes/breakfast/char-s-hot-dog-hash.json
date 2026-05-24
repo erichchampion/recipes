@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "char-s-hot-dog-hash",
+  "name": "Hash de perritos calientes de Char",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "patatas"
+  ],
+  "recipeIngredient": [
+    "6 salchichas con piel roja",
+    "6 patatas: peladas y cortadas en cubos",
+    "1 cebolla mediana, picada",
+    "1 pizca de sal y pimienta al gusto",
+    "1 pizca de polvo de ajo al gusto"
+  ],
+  "recipeInstructions": "1. Hierve los cubos de patata en agua hasta que estén ligeramente tiernos al pinchar con un tenedor.\n2. Corta las salchichas en monedas (trozos).\n3. Calienta aceite en una sartén a fuego medio.\n4. Añade la cebolla picada, las salchichas y los cubos de patata a la sartén.\n5. Cocina hasta que las patatas adquieran un color dorado.\n6. Sazona con sal, pimienta y polvo de ajo al gusto.\n7. Sirve.",
+  "url": null
+}

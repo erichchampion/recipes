@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "savory-roast-chicken",
+  "name": "Pollo asado sabroso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "2 1/2 libras de pollo para asar (pecho o corral)",
+    "2 cucharadas de mantequilla",
+    "3 cucharadas de jugo de limón",
+    "1 cucharada de hierbas frescas de savia",
+    "1 cucharadita de savia seca"
+  ],
+  "recipeInstructions": "Coloca el pollo sobre una rejilla en una bandeja para hornear poco profunda, con el pecho hacia arriba. Mezcla la mantequilla derretida con el jugo de limón y las hierbas frescas de savia; unta esta mezcla sobre el pollo. Hornea al descubierto a 180 °C durante 1 hora y media o hasta que los jugos salgan claros, basteando ocasionalmente con las grasas de la bandeja.",
+  "url": null
+}

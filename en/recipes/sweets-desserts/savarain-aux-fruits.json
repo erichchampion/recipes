@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "savarain-aux-fruits",
+  "name": "Savarain Aux Fruits",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "desserts",
+    "none"
+  ],
+  "recipeIngredient": [
+    "50 g Butter",
+    "2 Eggs",
+    "Pinch of Salt",
+    "15 g Sugar",
+    "150 g Yeast",
+    "70 g Water",
+    "10 g Yeast",
+    "300 g Water",
+    "150 g Sugar",
+    "Flavoring (e.g., Rum, anise)",
+    "Whipped cream and sugar",
+    "Mixed fruits (strawberries, raspberries, kiwi, mango)"
+  ],
+  "recipeInstructions": "1. Dissolve yeast in warm water with a pinch of sugar. Let eggs come to room temperature.\n2. Sift flour and salt on a clean surface. Make a well in the center and add eggs and butter. Mix egg and butter together, then gradually add water and sugar. Incorporate yeast and mix everything until combined.\n3. Place dough on a lightly floured surface and knead until very smooth and elastic, but not sticky (shouldn't stick to your finger when pressed).\n4. Shape the dough into an angel food cake mold and let rise until doubled in size. Bake at 375-390°F (190-200°C) until done (toothpick inserted comes out clean).\n5. In a saucepan, combine sugar and water. Boil over medium heat until syrup thickens. Remove from heat and add flavorings such as Rum, anise, or citrus peel.\n6. When the cake has cooled completely, place it on a serving plate. Pour syrup over the cake, allowing it to absorb as much as possible.\n7. Decoratively pipe whipped cream onto the cake and arrange fresh fruits around it.\nWARNING: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat,\" \"press\" instead of \"smash,\" and avoid words like \"destroy,\" \"burn,\" \"splutter,\" or \"execute.\"",
+  "url": null
+}

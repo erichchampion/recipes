@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-souffle",
+  "name": "Súflé de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "pollo",
+    "huevos",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 lata de sopa de setas condensada",
+    "1/2 taza de crema ligera",
+    "4 huevos, separados en yemas y claras",
+    "1 clara de huevo adicional",
+    "1 taza de pollo desmenuzado"
+  ],
+  "recipeInstructions": "1. Calentar la sopa en un baño maría hasta que esté lista para usar, mientras se separan los huevos.\n2. Batir las yemas de huevo hasta que estén espesas y de color limón.\n3. Retirar el recipiente de la sopa y añadir las yemas, mezclando bien. Incorporar el pollo desmenuzado y dejar enfriar ligeramente.\n4. Batir las claras de huevo hasta que estén muy firmes.\n5. Mezclar suavemente las claras batidas con la mezcla de yemas.\n6. Verter la masa en un molde para suflé engrasado.\n7. Hornear a 180 °C durante 30 minutos.",
+  "url": null
+}

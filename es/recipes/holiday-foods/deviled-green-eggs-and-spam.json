@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "deviled-green-eggs-and-spam",
+  "name": "Huevos verdes rellenos de spam",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Holiday Foods",
+  "keywords": [
+    "aperitivo",
+    "huevos",
+    "vacaciones"
+  ],
+  "recipeIngredient": [
+    "Agua teñida con colorante alimentario verde hasta alcanzar el tono deseado. Escurrir y dejar secar sobre una bandeja.",
+    "Yemas de huevo.",
+    "Spam.",
+    "Polvo de curry al gusto."
+  ],
+  "recipeInstructions": "1. Mezclar las yemas con el spam en un procesador de alimentos hasta obtener una consistencia pasta.\n2. Rellenar las mitades de huevo con la mezcla de spam y yema.\n3. Tapar y refrigerar hasta el momento de servir.",
+  "url": null
+}

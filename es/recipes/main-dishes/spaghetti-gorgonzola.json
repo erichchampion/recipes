@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-gorgonzola",
+  "name": "Spaguetis con gorgonzola",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "6 oz de queso Gorgonzola o azul desmenuzado",
+    "1 taza de crema de batir",
+    "12 oz de espagueti cocido y escurrido",
+    "Sal",
+    "Pimienta negra molida al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar el queso desmenuzado con la crema de batir en una sartén.\n2. Cocinar a fuego lento hasta que el queso se derrita, removiendo constantemente.\n3. Combinar los espaguetis con la mezcla de queso caliente.\n4. Sazonar al gusto con sal y pimienta negra molida.",
+  "url": null
+}

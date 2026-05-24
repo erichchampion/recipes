@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "bacon-pie",
+  "name": "Tarta de tocino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "fácil",
+    "huevos",
+    "plato principal",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 lb de tocino",
+    "1 lata de chiles verdes (picados)",
+    "1 taza de queso Jack rallado",
+    "1 1/2 tazas de leche",
+    "1 taza de Bisquick",
+    "6 onzas de crema agria",
+    "3 huevos",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Dorar, escurrir y desmenuzar el tocino.\n2. Colocar el tocino en un molde engrasado de 23x33 cm.\n3. Cubrir con cebolla picada y queso Jack rallado.\n4. En una licuadora, mezclar Bisquick, crema agria, huevos, sal y pimienta durante 1 minuto.\n5. Verter la mezcla sobre el tocino y el queso.\n6. Hornear a 350°F hasta que un cuchillo insertado en el centro salga limpio (35-45 minutos).",
+  "url": null
+}

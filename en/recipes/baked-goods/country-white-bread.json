@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "country-white-bread",
+  "name": "Country White Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 1/2 pounds flour",
+    "1 cup water",
+    "1 egg",
+    "3 1/4 cups bread flour",
+    "1/4 cup sugar",
+    "1 1/2 teaspoons salt",
+    "2 1/4 teaspoons active dry yeast"
+  ],
+  "recipeInstructions": "1. In a large bowl, combine the water, egg, and yeast.\n2. Add the sugar to the wet ingredients.\n3. Gradually add the flour and oil, mixing until a dough forms.\n4. Transfer the dough to a lightly oiled bread pan.\n5. Follow the manufacturer's instructions for crust color and loaf size on your bread machine.\n6. Bake according to the bread machine directions.",
+  "url": null
+}

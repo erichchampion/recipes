@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pecan-pie-1",
+  "name": "Pecan Pie 1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1/2 Stick Butter",
+    "3 Eggs",
+    "1 Cup Sugar",
+    "1 Cup Karo Syrup",
+    "3 Tablespoons Cornmeal",
+    "1 Teaspoon Vanilla Extract",
+    "1 Pinch Salt",
+    "1 Cup Chopped Pecans",
+    "1 Pie Shell"
+  ],
+  "recipeInstructions": "1. In a large bowl, combine all ingredients and mix well.\n2. Pour the mixture into the prepared pie shell.\n3. Bake at 300 degrees Fahrenheit for approximately 1 hour.\n4. Allow to cool before serving.",
+  "url": null
+}

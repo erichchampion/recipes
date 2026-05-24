@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-picante-stew",
+  "name": "Estofado de Pollo Picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "pollo",
+    "sopas",
+    "estofados"
+  ],
+  "recipeIngredient": [
+    "1 libra de kielbasa magra, picada",
+    "1 libra de pechuga de pollo sin piel ni hueso, cortada en trozos de 1 pulgada",
+    "32 onzas de caldo de pollo",
+    "24 onzas de salsa picante",
+    "1 pimiento rojo, picado",
+    "1 taza de apio, picado",
+    "4 papas, cortadas en cubos",
+    "1 3/4 tazas de arroz"
+  ],
+  "recipeInstructions": "1. Cortar el pollo y la kielbasa en trozos pequeños.\n2. Agregar cebollas, pimientos, apio, papas, salsa picante y caldo a una olla grande.\n3. Cocinar durante 1 a 1 hora y media, o presionar la carne durante 10 minutos primero, luego agregar todos los ingredientes y cocinar por 30 minutos adicionales.",
+  "url": null
+}

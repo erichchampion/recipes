@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "pea-soup-2",
+  "name": "Sopa de guisantes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "frijoles",
+    "bajo en calorías",
+    "McDougall",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 taza de guisantes verdes (partidos)",
+    "1/4 taza de cebada",
+    "1/2 taza de frijoles lima (secos)",
+    "8 tazas de agua",
+    "2 cebollas (picadas)",
+    "2 hojas de laurel",
+    "1 cucharadita de semillas de apio (opcional)",
+    "1 cucharadita de albahaca",
+    "1 cucharadita de tomillo",
+    "2 zanahorias (picadas)",
+    "1 papa (picada)",
+    "2 tallos de apio (picados)",
+    "1/2 taza de perejil fresco (picado)"
+  ],
+  "recipeInstructions": "1. Coloca los guisantes, la cebada, los frijoles lima y el agua en una olla grande para sopa con las cebollas, las hojas de laurel y las semillas de apio (si se usan).\n2. Cocina a fuego lento, cubierto, durante aproximadamente 1 hora y media.\n3. Añade las verduras restantes y las especias.\n4. Cocina por otros 45 minutos, añadiendo más agua si es necesario.",
+  "url": null
+}

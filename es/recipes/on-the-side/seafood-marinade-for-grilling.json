@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "seafood-marinade-for-grilling",
+  "name": "Marinada de mariscos para asar a la parrilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "marinadas",
+    "mariscos",
+    "especias",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "Pescado, puede ser salmón o atún",
+    "Brochetas de camarones o almejas",
+    "2 cucharadas de mostaza dijon",
+    "1/4 taza de eneldo fresco picado",
+    "1/4 cucharadita de sal",
+    "Pimienta negra molida al gusto",
+    "Jugo de 3 limones",
+    "1 diente de ajo, picado (opcional)",
+    "1/4 taza de aceite de oliva"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta combinarlos bien.\n2. Marinar el pescado durante 2 horas en el refrigerador.\n3. Colocar el pescado en una parrilla caliente y cocinar durante 8 a 14 minutos por lado, dependiendo del grosor.\n4. Barnizar con la marinada durante la cocción.",
+  "url": null
+}

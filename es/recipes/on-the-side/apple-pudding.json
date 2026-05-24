@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-pudding",
+  "name": "Pudín de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "panes",
+    "postres",
+    "magdalenas",
+    "budines",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "1/4 taza de manteca",
+    "2 huevos medianos",
+    "1 taza de harina",
+    "1 cucharadita de nuez moscada",
+    "1/2 cucharadita de canela",
+    "2 tazas de manzanas peladas y cortadas en cubos",
+    "1 taza de nueces picadas",
+    "1 cucharadita de bicarbonato de sodio",
+    "1/8 taza de agua caliente"
+  ],
+  "recipeInstructions": "1. Mezclar el azúcar y la manteca hasta obtener una textura arenosa.\n2. Agregar los huevos y mezclar a velocidad baja hasta combinarlos.\n3. En un bol aparte, mezclar la harina, la nuez moscada y la canela; incorporar esta mezcla al azúcar y batir bien.\n4. Incorporar las manzanas y las nueces hasta que estén completamente cubiertas con la masa.\n5. Disolver el bicarbonato de sodio en el agua caliente y añadirlo a la masa.\n6. Verter la masa en un molde cuadrado engrasado y enharinado, y hornear a 375 °F durante 35 a 45 minutos, o hasta que un cuchillo insertado en el centro salga limpio.",
+  "url": null
+}

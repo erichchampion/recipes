@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chinese-eggs",
+  "name": "Chinese Eggs",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chinese",
+    "eggs",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "6 hard-boiled eggs, shelled",
+    "2 tablespoons butter",
+    "3 tablespoons soy sauce",
+    "2 teaspoons green onions, chopped",
+    "1 teaspoon sesame oil"
+  ],
+  "recipeInstructions": "1. Melt the butter in a skillet over medium heat.\n2. Add the soy sauce and swirl to combine with the melted butter.\n3. Gently crack each egg into the pan, making sure it distributes evenly among the liquid.\n4. Cook for 5 minutes, continuously stirring and gently basting the eggs until they are dark brown and set.\n5. Transfer the cooked eggs to a serving plate using tongs or a spatula.\n6. Drizzle with sesame oil and sprinkle with chopped green onions before serving.",
+  "url": null
+}

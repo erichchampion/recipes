@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-meatballs",
+  "name": "Albóndigas de Taco",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "estadounidense",
+    "étnico",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida de res",
+    "1 taza de pimiento verde",
+    "1 taza de arroz cocido",
+    "2 cucharaditas de sal de ajo",
+    "11 oz de sopa de queso cheddar",
+    "1 taza de cebolla",
+    "1 taza de apio",
+    "2 huevos batidos",
+    "8 oz de salsa taco"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto la salsa taco y la sopa.\n2. Licuar las verduras en lugar de cortarlas.\n3. Formar albóndigas y colocarlas en dos platos de 2,5 litros.\n4. Hornear a 175°C durante 30 minutos.\n5. Calentar la salsa taco y la sopa a fuego medio.\n6. Verter la salsa caliente sobre las albóndigas.\n7. Devolver al horno y hornear por 30 minutos adicionales.",
+  "url": null
+}

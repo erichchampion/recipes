@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "a-traditional-side-dish",
+  "name": "Un plato tradicional como acompañamiento",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "asiática",
+    "étnica",
+    "india",
+    "salsa"
+  ],
+  "recipeIngredient": [
+    "1 tomate, cortado en cubos",
+    "1 cebolla roja, cortada en rodajas finas",
+    "1 pimiento fresco picante o ligeramente picante, cortado en rodajas",
+    "1 jengibre, cortado en tiras delgadas",
+    "Jugo de 1 limón",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "1. En un bol, combina los tomates cortados en cubos, la cebolla roja, el jengibre y los pimientos picantes.\n2. Agrega sal al gusto y exprime el jugo de limón sobre la mezcla.\n3. Tapa y deja marinar en el refrigerador durante al menos 30 minutos antes de servir.\n4. Este plato combina bien con channa masala y roti, o como chutney principal con aloo parathas.",
+  "url": null
+}

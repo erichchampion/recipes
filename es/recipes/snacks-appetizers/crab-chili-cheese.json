@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "crab-chili-cheese",
+  "name": "Cangrejo, Chili y Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "chili",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "8 oz de queso crema",
+    "1 lata de carne de cangrejo",
+    "1/2 taza de salsa chili",
+    "1 cucharadita de rábano picante",
+    "1 cucharadita de salsa Worcestershire",
+    "1/4 de cucharadita de salsa Tabasco",
+    "1 cucharadita de cebollino picado",
+    "1/4 de cucharadita de perejil",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Cortar el queso crema por la mitad.\n2. Mezclar la carne de cangrejo con el queso crema cortado.\n3. Antes de servir, añadir una combinación de salsa chili y rábano picante, salsa Worcestershire, salsa Tabasco, cebollino picado, perejil y sal sobre la mezcla.\n4. Servir con galletas saladas.",
+  "url": null
+}

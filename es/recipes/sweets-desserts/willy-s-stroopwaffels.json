@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "willy-s-stroopwaffels",
+  "name": "Willy's Stroopwafels",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "holandés",
+    "étnico"
+  ],
+  "recipeIngredient": [
+    "4 tazas de harina",
+    "1/2 taza de azúcar",
+    "1 taza de mantequilla",
+    "2 huevos",
+    "1 sobre de levadura",
+    "1/2 taza de agua tibia",
+    "Syrup (sirope):",
+    "1 1/2 tazas de azúcar moreno",
+    "1 taza de mantequilla",
+    "1 cucharadita de canela",
+    "6 cucharadas de jarabe de maíz oscuro"
+  ],
+  "recipeInstructions": "1. Disolver la levadura en agua tibia.\n2. Cortar 1 taza de mantequilla en trozos y mezclarla con la harina.\n3. Incorporar el azúcar, los huevos y la mezcla de levadura.\n4. Amasar bien. Dejar reposar para que leve entre 30-60 minutos.\n5. Formar bolas con la masa y hornearlas en una sartén tipo pizelle.\n6. Preparar el sirope hirviendo todos los ingredientes hasta alcanzar la consistencia de bola suave.\n7. Cortar los waffles por la mitad y untar las mitades cortadas con el sirope caliente.\n8. Montar los waffles nuevamente con las mitades unidas.",
+  "url": null
+}

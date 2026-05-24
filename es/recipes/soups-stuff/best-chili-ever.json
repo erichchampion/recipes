@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "best-chili-ever",
+  "name": "El mejor chili jamás probado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "carne molida",
+    "plato principal",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aceite",
+    "2 cebollas",
+    "4 dientes de ajo grandes",
+    "2 1/2 libras de carne molida",
+    "5 cucharadas de polvo de chili",
+    "1 cucharadita de pimentón dulce",
+    "1 cucharadita de orégano seco",
+    "1 lata de jugo de tomate (46 onzas)",
+    "2 latas de frijoles rojos",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en una sartén grande a fuego medio.\n2. Dorar las cebollas y la carne molida durante unos 5 minutos, removiendo ocasionalmente.\n3. Añadir el ajo y cocinar por un minuto más.\n4. Incorporar el polvo de chili, pimentón, orégano, jugo de tomate, frijoles rojos y sal.\n5. Reducir el fuego a bajo y dejar cocer a fuego lento durante una hora, removiendo ocasionalmente.",
+  "url": null
+}

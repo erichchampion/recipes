@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-kugel",
+  "name": "Kugel de Manzana",
+  "recipeCuisine": "Africa & Middle East",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "étnico",
+    "judío",
+    "no regional"
+  ],
+  "recipeIngredient": [
+    "Masa:",
+    "1 1/4 tazas de harina",
+    "1/2 cucharadita de polvo de hornear",
+    "1/4 cucharadita de sal",
+    "1 cucharada de azúcar",
+    "2 cucharadas de aceite",
+    "1 huevo",
+    "4 cucharadas de agua tibia",
+    "Relleno:",
+    "3 libras de manzanas, peladas y cortadas en rodajas",
+    "1/2 taza de pasas",
+    "1 cucharada de jugo de limón",
+    "1/4 taza de azúcar",
+    "1 cucharadita de canela",
+    "1/4 cucharadita de nuez moscada",
+    "1 cucharadita de vainilla"
+  ],
+  "recipeInstructions": "Masa: Mezcla los ingredientes secos. Añade el aceite y el huevo, luego incorpora el agua para formar una masa.\nExtiende la masa sobre una superficie enharinada hasta que quede suave y elástica. Colócala en un bol, cúbrela con papel film y refrigérala durante 30 minutos.\nRelleno: Combina los ingredientes secos en un bol, espolvorea jugo de limón sobre las manzanas para evitar que se oxiden. Extiende la masa muy fina. Bríñela con aceite. Extiende la mezcla de manzana a lo largo del borde largo y enrolla como un rollo de jelly. Coloca el rollo en un molde para hornear engrasado. Bríñalo con huevo batido. Hornea a 350°F (180°C) hasta que esté dorado. Si las manzanas no están lo suficientemente jugosas, báznlo con jugo de naranja.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "classic-german-burgers",
+  "name": "Classic German Burgers",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "Lean ground beef, 2 pounds",
+    "Minced onion, medium, 1",
+    "Fresh parsley, minced, 3 tablespoons",
+    "Beaten eggs, 2",
+    "Salt, 1/2 teaspoon",
+    "Ground pepper, 1/8 teaspoon",
+    "Ground nutmeg, 1/8 teaspoon",
+    "Flour, 2 tablespoons"
+  ],
+  "recipeInstructions": "1. Combine the ground beef, onion, parsley, beaten eggs, salt, pepper, and nutmeg in a bowl until well mixed.\n2. Form the mixture into six patties.\n3. Heat butter in a frying pan and cook the patties to your desired doneness. Remove them from the pan and keep warm.\n4. In the same pan, fry the sliced onions until they are golden brown.",
+  "url": null
+}

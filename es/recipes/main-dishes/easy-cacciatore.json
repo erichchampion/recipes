@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-cacciatore",
+  "name": "Cazador fácil",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 lata de tomates",
+    "2 cucharadas de perejil picado",
+    "1 cucharadita de albahaca",
+    "1 cucharadita de sal",
+    "5 ml de ajo picado",
+    "1/4 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Dorar el pollo en aceite hasta que esté completamente cocido.\n2. Retirar el pollo de la sartén y reservar.\n3. Cortar una cebolla en rodajas finas y saltearla en los jugos de la sartén hasta que se ablande.\n4. Agregar el perejil, albahaca, sal, ajo y pimienta a la sartén con las cebollas.\n5. Devolver el pollo a la sartén y dejarlo cocinar a fuego lento sin tapar durante unos 40 minutos, removiendo ocasionalmente.",
+  "url": null
+}

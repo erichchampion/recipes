@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-cacciatore-2-2",
+  "name": "Pollo Cacciatore#2",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "platos principales",
+    "carne",
+    "aves de corral",
+    "pollo",
+    "italiano"
+  ],
+  "recipeIngredient": [
+    "3 lb de pollo, cortado en cuartos",
+    "1/2 taza de harina",
+    "1 cucharadita de sal",
+    "1/8 cucharadita de pimienta negra",
+    "1/4 taza de mantequilla o aceite de oliva (se puede mezclar)",
+    "1 cebolla mediana, en rodajas",
+    "1/2 lb de setas frescas, en rodajas",
+    "1 diente de ajo, picado",
+    "12 aceitunas maduras enteras",
+    "4 oz de puré de tomate o 1 taza de lata",
+    "1/2 taza de vino claret o jerez"
+  ],
+  "recipeInstructions": "1. Espolvorea las piezas de pollo con la mezcla de harina, sal y pimienta.\n2. Saltea el pollo en mantequilla (o aceite de oliva) hasta que esté dorado.\n3. Añade los ingredientes restantes a la sartén.\n4. Tapa y reduce el fuego para cocinar a fuego lento durante 20-30 minutos.",
+  "url": null
+}

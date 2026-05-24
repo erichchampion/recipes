@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "whole-grain-cereal",
+  "name": "Cereal integral de grano entero",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 taza de trigo sarraceno",
+    "1 taza de centeno",
+    "1 taza de triticale",
+    "1 taza de avena",
+    "1 taza de arroz integral",
+    "1 taza de groats de amaranto",
+    "1 taza de mijo",
+    "1 taza de semillas de girasol",
+    "1 taza de semillas de lino",
+    "1 taza de lentejas",
+    "10 tazas de avena en copos"
+  ],
+  "recipeInstructions": "1. Mezclar todos los granos y legumbres en un bol grande.\n2. Para cocinar, medir 2 tazas de la mezcla de cereales a 5 tazas de agua.\n3. Llevar la mezcla a ebullición a fuego medio.\n4. Reducir el fuego y dejarlo cocer hasta que esté completamente cocido (por lo general, unos 30-40 minutos).\n5. Dejar enfriar completamente el cereal cocido durante la noche.\n6. Por la mañana, recalentar las raciones individuales en el microondas hasta que estén calientes.\n7. Disfrutar de un desayuno sabroso y crujiente de grano entero.",
+  "url": null
+}

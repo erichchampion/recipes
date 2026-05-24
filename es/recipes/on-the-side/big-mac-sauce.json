@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "big-mac-sauce",
+  "name": "Salsa Big Mac",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de Mayonesa Miracle Whip",
+    "1/3 taza de Relish de pepinillos",
+    "1/3 taza de Aderezo francés Kraft (del tipo naranja, no rojo)",
+    "1 cucharada de Azúcar",
+    "1/4 cucharadita de Pimienta negra"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Batir hasta obtener una consistencia homogénea.",
+  "url": null
+}

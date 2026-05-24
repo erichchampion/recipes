@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "eggs-bene-lox",
+  "name": "Huevos Bene-Lox",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "queso/huevos",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 huevo",
+    "1 rebanada de pan tostado",
+    "1/2 muffin inglés tostado",
+    "Crema agria",
+    "1 cucharada de salsa holandesa",
+    "1 rebanada de lox",
+    "Caviar kosher"
+  ],
+  "recipeInstructions": "1. Remojar la tostada en crema agria y colocarla en un ramekin o plato pequeño para hornear.\n2. Cubrir la tostada con lox.\n3. Romper un huevo sobre el lox.\n4. Hornear a 175°C durante unos 12 a 15 minutos, o hasta que el huevo esté cuajado.\n5. Retirar del plato para hornear.\n6. Añadir salsa holandesa y espolvorear con caviar.\n7. Servir inmediatamente.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-spiced-tea",
+  "name": "Hot Spiced Tea",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "diabetic",
+    "side dishes",
+    "tea"
+  ],
+  "recipeIngredient": [
+    "3/4 cup brewed hot tea",
+    "1 packet Equal",
+    "2 tablespoons orange juice",
+    "1 cinnamon stick",
+    "Orange slice"
+  ],
+  "recipeInstructions": "1. Pour the brewed hot tea into a cup.\n2. Add the contents of 1 packet Equal and stir until dissolved.\n3. Stir in the orange juice.\n4. Gently stir with the cinnamon stick to combine.\n5. Garnish with an orange slice.",
+  "url": null
+}

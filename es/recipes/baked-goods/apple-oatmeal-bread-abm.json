@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-oatmeal-bread-abm",
+  "name": "Pan de avena con manzana ABM",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cucharaditas levadura seca activa",
+    "1 1/2 tazas harina de pan",
+    "1 1/2 tazas avena",
+    "1/3 cucharadita canela",
+    "1 1/2 cucharadas miel",
+    "1/2 cucharadita sal",
+    "1/2 cucharadita aceite de maíz",
+    "1 taza puré de manzana sin azúcar",
+    "1/3 taza manzanas secas picadas"
+  ],
+  "recipeInstructions": "1. Asegúrese de que todos los ingredientes estén a temperatura ambiente antes de comenzar.\n2. Agregue los ingredientes secos (excepto las manzanas picadas) en el orden indicado.\n3. Seleccione la opción de pan blanco o dulce en su máquina.\n4. Presione \"Iniciar\" para comenzar la mezcla.\n5. Añada las manzanas picadas hacia el final de la fase de amasado final, cuando suene la señal.",
+  "url": null
+}

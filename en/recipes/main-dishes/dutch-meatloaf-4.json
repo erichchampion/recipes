@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "dutch-meatloaf-4",
+  "name": "Dutch Meatloaf",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat",
+    "meatloaf",
+    "meats"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Ground beef",
+    "2 tbsp Brown sugar",
+    "1 1/2 tsp Salt",
+    "2 tbsp Mustard",
+    "1 cup Breadcrumbs",
+    "1 egg",
+    "1/4 tsp Pepper",
+    "8 oz Tomato sauce with onions"
+  ],
+  "recipeInstructions": "1. Mix meat, breadcrumbs, half of the tomato sauce, egg, salt, and pepper.\n2. Shape into a loaf.\n3. Combine remaining ingredients with the other half of the tomato sauce.\n4. Pour over the meat.\n5. Bake at 350 degrees for 75 minutes.",
+  "url": null
+}

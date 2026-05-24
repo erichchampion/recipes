@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-bread",
+  "name": "Tostadas de pan",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "calientes y picantes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libra de pan (1300 g)",
+    "9 onzas de agua (260 ml)",
+    "1 1/2 cucharadas de puré de manzana (o aceite)",
+    "2 cucharadas de azúcar",
+    "1 cucharadita de sal",
+    "3/4 taza de maicena",
+    "1/4 taza de harina integral",
+    "3 cucharadas de aderezo para tacos",
+    "2 tazas de harina de trigo",
+    "1 1/2 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Mezclar en la máquina de pan la agua, el puré de manzana, el azúcar, la sal, la maicena, la harina integral, el aderezo para tacos, la harina de trigo y la levadura.\n2. Seleccionar un ciclo de masa regular o medio.\n3. Dejar levar hasta que doble su tamaño.\n4. Darle forma de hogaza y colocarla en una bandeja para hornear engrasada.\n5. Hornear a 190 °C (375 °F) durante 30-35 minutos, o hasta que esté dorado y crujiente.\n6. Apagar el horno.\n7. Retirar del molde y dejar enfriar por completo antes de cortar.\nEsta receta se adapta del libro Great Bread Machine Recipes de PNewton (vkbb14a). Tiene un sabor a taco y combina muy bien con chili.",
+  "url": null
+}

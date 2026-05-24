@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-chicken-mole",
+  "name": "Pollo Rápido con Mole",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "mexicano",
+    "microondas",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "2 cucharaditas de polvo de cacao sin endulzar",
+    "1 ½ cucharaditas de comino en polvo",
+    "1/2 cucharadita de cúrcuma molida",
+    "1/2 cucharadita de orégano seco",
+    "1/4 cucharadita de sal",
+    "1 lata (200 g) de salsa de tomate",
+    "1/4 taza de cebolla finamente picada",
+    "3 dientes de ajo picados",
+    "1 pechuga de pollo sin hueso y sin piel, cortada en tiras",
+    "1 lata (100 g) de pimientos verdes en dados, escurridos",
+    "Opcional: almendras tostadas; tortillas de harina calientes o arroz cocido; tomates picados; lechuga picada; aguacate cortado."
+  ],
+  "recipeInstructions": "1. En un recipiente para microondas apto para 1,5 litros, combina el polvo de cacao, comino, cúrcuma, orégano y sal.\n2. Agrega la salsa de tomate, la cebolla y el ajo. Mezcla bien.\n3. Cocina en potencia alta durante 2-3 minutos o hasta que hierva en los bordes, removiendo una vez.\n4. Añade el pollo y los pimientos verdes; mezcla con cuidado.\n5. Tapa y cocina durante 8-10 minutos adicionales (10-12 minutos si usas un horno de baja potencia), removiendo cada 3 minutos hasta que el pollo esté tierno y ya no sea rosado por dentro.\n6. Espolvorea con almendras tostadas, si lo deseas.\n7. Sirve caliente con tortillas calientes o arroz y los toppings opcionales de tomates picados, lechuga y aguacate.",
+  "url": null
+}

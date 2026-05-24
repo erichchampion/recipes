@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "grilled-picante-chicken",
+  "name": "Pollo a la parrilla picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "diabético",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo (deshuesadas y sin piel, cortadas por la mitad)",
+    "1 taza de salsa picante",
+    "2 paquetes de edulcorante alternativo",
+    "4 cucharaditas de mostaza estilo Dijon"
+  ],
+  "recipeInstructions": "(se encuentra en la sección de alimentos mexicanos del supermercado)\nMezclar la salsa picante, el edulcorante y la mostaza.\nMarinar los pechugas de pollo en esta mezcla durante 4 a 8 horas en el refrigerador.\nCuando las brasas se hayan vuelto blancas, colocar las pechugas de pollo en la parrilla. Darles la vuelta después de unos 5 minutos. Deben estar listas en 10-15 minutos.\nUtilizar un pincel de largo mango y guantes para pincelar la marinada sobre el pollo mientras se cocina a la parrilla.",
+  "url": null
+}

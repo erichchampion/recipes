@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "marinated-rabbit",
+  "name": "Conejo marinado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "juego",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 conejo fresco o congelado de 3 libras (1,3 kg)",
+    "1 cucharada de sal",
+    "1/4 cucharadita de pimienta negra molida",
+    "3 cucharadas de aceite de girasol",
+    "Marinada:",
+    "2 tazas de vino tinto",
+    "2 tazas de caldo de pollo",
+    "1 cucharadita de guindilla en polvo",
+    "2 hojas de laurel",
+    "1 cucharadita de tomillo seco",
+    "Salsa:",
+    "12 cebolletas cocidas",
+    "12 aceitunas rellenas, cortadas en rodajas",
+    "250 g de setas frescas, laminadas",
+    "2 cucharadas de mantequilla o margarina",
+    "Cebollas blancas sin cortar."
+  ],
+  "recipeInstructions": "1. Cortar el conejo en trozos para servir y frotarlo con sal y pimienta. Colocarlo en un bol grande; añadir la marinada. Refrigerar durante la noche.\n2. Escurrir el conejo; no secarlo con papel de cocina. Filtrar la marinada.\n3. En una sartén de hierro fundido grande a fuego alto, sellar rápidamente todos los lados de los trozos de conejo en aceite de girasol caliente.\n4. Cuando estén dorados, verter la marinada reservada y cocinar a fuego lento durante 1 hora o hasta que esté tierno.\n5. Justo antes de que el conejo esté listo, saltear las cebolletas, aceitunas y setas en mantequilla.\n6. Añadir al conejo.\n7. Servir con patatas hervidas.",
+  "url": null
+}

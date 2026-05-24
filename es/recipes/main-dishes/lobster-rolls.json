@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "lobster-rolls",
+  "name": "Rolos de langosta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "langostino",
+    "almuerzo",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "6 cucharadas de mayonesa",
+    "1 1/2 cucharadas de jugo de limón",
+    "1/4 taza de apio, finamente picado",
+    "2 cucharadas de cebolla roja, finamente picada",
+    "1 cucharada de perejil fresco, finamente picado",
+    "1 cucharadita de sal",
+    "Unas gotas de salsa picante",
+    "Pimienta blanca molida al gusto",
+    "1 libra de carne de langosta fresca, cortada en cubos de 1/2 pulgada",
+    "Panecillos Frankfurter, ligeramente tostados",
+    "Mantequilla sin sal, derretida"
+  ],
+  "recipeInstructions": "1. En un bol mediano, mezclar la mayonesa, el jugo de limón, el apio, la cebolla, el perejil, la sal, la salsa picante y la pimienta al gusto.\n2. Incorporar la carne de langosta hasta que quede bien cubierta con la mezcla.\n3. Untar el interior de los panecillos con mantequilla derretida.\n4. Rellenar cada panecillo con la ensalada de langosta, dividiéndola uniformemente.\n5. Servir inmediatamente.",
+  "url": null
+}

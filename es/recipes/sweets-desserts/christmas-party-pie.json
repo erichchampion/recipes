@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "christmas-party-pie",
+  "name": "Tarta de Fiesta de Navidad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "Base:",
+    "1 taza de harina",
+    "1 barra de mantequilla",
+    "1 taza de nueces picadas",
+    "Capas:",
+    "1 taza de crema batida",
+    "250 g de queso crema",
+    "1 taza de azúcar glas",
+    "2 paquetes de pudín instantáneo vainilla",
+    "2 paquetes de pudín instantáneo chocolate",
+    "3 tazas de leche",
+    "Crema batida adicional",
+    "Nueces picadas (opcional)",
+    "Tableta de chocolate rallado (opcional)"
+  ],
+  "recipeInstructions": "1. Derretir la mantequilla y mezclarla con la harina y las nueces. Presionar la mezcla en un molde para hornear de 23x33 cm.\n2. Hornear a 180 °C durante 20 minutos, luego enfriar.\n3. Mezclar la crema batida, el queso crema y el azúcar glas hasta que queden bien combinados. Extender la mezcla sobre la base enfriada.\n4. En dos bol aparte, mezclar el pudín con la leche. Extender las capas de pudín sobre la capa de relleno.\n5. Cubrir con una capa de crema batida.\n6. Espolvorear con nueces picadas o chocolate rallado (opcional).\n7. Refrigerar hasta servir.",
+  "url": null
+}

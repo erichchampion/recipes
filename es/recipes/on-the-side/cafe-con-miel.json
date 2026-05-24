@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cafe-con-miel",
+  "name": "Café con miel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 tazas de café preparado,",
+    "1 (fresco, instantáneo o descafeinado)",
+    "1/2 taza de leche",
+    "4 cucharadas de miel, más o menos al gusto",
+    "1/8 cucharadita de canela",
+    "Un pellizco de nuez moscada o jengibre",
+    "Un pellizco de vainilla"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una cacerola.\n2. Calentar a fuego suave hasta que esté bien mezclado y ligeramente caliente.\n3. Servir como un postre ligero.",
+  "url": null
+}

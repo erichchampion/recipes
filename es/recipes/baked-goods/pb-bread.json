@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pb-bread",
+  "name": "Pan de mantequilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "2/3 taza de mantequilla de maní",
+    "1/2 taza de azúcar",
+    "1 taza de leche",
+    "3 cucharaditas de polvo de hornear",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Cernir juntos la harina, el polvo de hornear, la sal y el azúcar.\n2. Agregar la mantequilla de maní a la leche y mezclar bien.\n3. Combinar esta mezcla húmeda con los ingredientes secos y batir a fondo.\n4. Hornear en un molde para pan engrasado en un horno lento (300-350 °F) durante 45-50 minutos.\n5. El pan está mejor al día siguiente.",
+  "url": null
+}

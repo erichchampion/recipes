@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-n-honey",
+  "name": "Fruta y miel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de yogur helado de vainilla",
+    "8 onzas de jugo de manzana",
+    "Frutas frescas congeladas",
+    "Un chorro de miel",
+    "Hielo"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes a una licuadora.\n2. Mezclar hasta obtener una consistencia suave.",
+  "url": null
+}

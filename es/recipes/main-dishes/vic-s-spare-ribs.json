@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "vic-s-spare-ribs",
+  "name": "Costillas de Vic",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "agregación",
+    "barbacoa",
+    "plato principal",
+    "carne",
+    "cerdo",
+    "costillas"
+  ],
+  "recipeIngredient": [
+    "2 libras de costillas",
+    "2 latas de salsa dulce y agria Choy",
+    "2 cucharaditas de polvo de chile",
+    "2 cucharaditas de polvo de curry",
+    "2 cucharadas de vinagre",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar lentamente las costillas hasta que estén tiernas.\n2. Una vez cocidas las costillas, agregar el resto de los ingredientes.\n3. Reducir a fuego lento durante 45 minutos.",
+  "url": null
+}

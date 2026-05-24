@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-waffles",
+  "name": "Waffles de chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "brunch",
+    "chocolate",
+    "bajo en calorías",
+    "plato principal",
+    "gofres"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de harina de bizcocho (tamizada)",
+    "1 1/2 cucharaditas de polvo de hornear",
+    "1 cucharada de azúcar moreno",
+    "2 cucharaditas de cacao en polvo",
+    "Una pizca de sal",
+    "1 huevo",
+    "1 1/2 cucharaditas de extracto de vainilla",
+    "1/2 cucharadita de ron",
+    "1 taza de leche desnatada",
+    "1 cucharada de mantequilla derretida"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes secos tamizados: harina de bizcocho, polvo de hornear, azúcar moreno, cacao en polvo y sal.\n2. En un bol aparte, batir juntos el huevo, el extracto de vainilla y el ron.\n3. Combinar la mantequilla derretida con la leche desnatada en otro bol.\n4. Añadir gradualmente los ingredientes húmedos a los secos, removiendo hasta que estén justo combinados.\n5. Verter la masa en una gofrera precalentada y cocinar según el método preferido.\n6. Servir caliente y disfrutar.",
+  "url": null
+}

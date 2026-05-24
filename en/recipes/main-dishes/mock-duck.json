@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-duck",
+  "name": "Mock Duck",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat",
+    "meats"
+  ],
+  "recipeIngredient": [
+    "1 Onion, chopped",
+    "1/2 cup Celery, chopped",
+    "1/2 cup Mushroom, chopped",
+    "1 T Butter",
+    "3/4 cup Dry bread crumbs",
+    "1/2 tsp Savory, dried",
+    "1/4 tsp Thyme, dried",
+    "-salt and pepper to taste",
+    "1 lb Round steak",
+    "1 T Vegetable oil",
+    "3/4 cup Beef stock"
+  ],
+  "recipeInstructions": "1. In a skillet, cook onion, celery, and mushrooms in butter until softened.\n2. Remove from heat; stir in bread crumbs, savory, thyme, salt, and pepper to taste, adding enough water or beef stock to moisten the mixture.\n3. Pound the steak into 1/4 inch thickness. Cut into 4 or 5 serving pieces.\n4. Spread stuffing almost to the edges of each piece. Roll up from the widest side; secure with string.\n5. In a skillet, brown the rolls in oil.\n6. Add beef stock and cover. Simmer for 1 hour, turning and basting occasionally, or bake at 325°F for 1 hour.\nMAKES: 4 or 5 servings",
+  "url": null
+}

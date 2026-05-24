@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "popeye-s-pick-me-up",
+  "name": "Refresco de Popeye",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "plato principal",
+    "dietas especiales",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "3 oz espinacas picadas",
+    "3 oz quimbombó en rodajas",
+    "3 oz pimiento rojo picado",
+    "3 oz guisantes verdes cocidos",
+    "1 1/2 cucharadas de aceite de girasol",
+    "1/2 cucharadita de salsa de soja",
+    "1/2 cucharadita de tomillo",
+    "1/2 cucharadita de sal",
+    "3 oz arroz marrón cocido"
+  ],
+  "recipeInstructions": "1. Cocinar a vapor las espinacas, el quimbombó y el pimiento rojo durante 7 minutos o hasta que estén tiernos.\n2. Tritar los guisantes verdes en una licuadora con el aceite de girasol, la salsa de soja, el tomillo, la sal y 2 onzas de agua hasta obtener una consistencia de salsa.\n3. Verter la salsa de guisantes sobre las verduras y el arroz marrón.\n4. Servir caliente.",
+  "url": null
+}

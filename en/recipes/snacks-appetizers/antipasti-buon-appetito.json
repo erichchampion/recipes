@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "antipasti-buon-appetito",
+  "name": "Antipasti - Buon'appetito",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "ethnic",
+    "italian"
+  ],
+  "recipeIngredient": [
+    "Red peppers",
+    "Olives",
+    "Marinated mushrooms",
+    "Artichokes",
+    "Parmesan cheese",
+    "Garlic toast",
+    "Fresh Italian Bread"
+  ],
+  "recipeInstructions": "1. Roast red peppers, prepare olives, marinated mushrooms, and artichokes.\n2. Cut a piece of Parmesan cheese.\n3. Serve the prepared ingredients on a tray with garlic toast or fresh Italian bread.",
+  "url": null
+}

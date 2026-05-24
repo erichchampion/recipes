@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-dough-recipe-i",
+  "name": "Receta de masa para pizza I",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "postres",
+    "masa",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 1/3 tazas de agua tibia a 45°C (110°F)",
+    "1 cucharada de azúcar",
+    "1 cucharadita de levadura",
+    "2 cucharadas de aceite vegetal (de oliva preferido)",
+    "1 cucharadita de sal",
+    "1 huevo",
+    "4 tazas de harina"
+  ],
+  "recipeInstructions": "1. Activar la levadura en agua tibia y azúcar.\n2. Agregar el resto de los ingredientes y amasar hasta obtener una masa elástica.\n3. Dejar levar la masa hasta que doble su tamaño.\n4. Desinflar la masa, estirarla sobre bandejas y dejar reposar 15 minutos antes de agregar los toppings.\n5. Si apura, se puede omitir el primer levado con resultados aceptables.",
+  "url": null
+}

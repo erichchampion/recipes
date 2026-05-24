@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "bread-pizza",
+  "name": "Bread Pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italian",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 each White Bread Slice",
+    "1 Ketchup",
+    "1 each Hot Dog",
+    "1 pinch Oregano",
+    "1 each American Cheese Slice"
+  ],
+  "recipeInstructions": "1 Spread ketchup evenly on one side of a white bread slice.\n2 Add a small amount (about 1/4 teaspoon) of oregano over the ketchup.\n3 Place an american cheese slice on top of the oregano, covering the entire surface.\n4 Cut the hot dog into small round pieces measuring approximately 1/8 to 1/4 inch in size. Aim for about 5-6 pieces per bread slice.\n5 Arrange the hot dog pieces evenly over the cheese.\n6 Place the assembled pizza in a toaster oven and bake until the cheese is melted and bubbly, usually around 2-3 minutes.\n7 Remove from the toaster oven when done and let cool slightly before serving.",
+  "url": null
+}

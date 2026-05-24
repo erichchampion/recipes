@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-lickin-recipe",
+  "name": "Receta de Pollo Picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "comidas congeladas",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "8 muslos o cuartos traseros de pollo y/o pechugas",
+    "1/2 cucharadita jengibre molido",
+    "1/2 cucharadita polvo de chile",
+    "3 cucharadas mantequilla",
+    "16 onzas tomates enteros",
+    "1 cebolla grande picada",
+    "4 onzas setas laminadas y escurridas",
+    "1 diente ajo picado",
+    "1 1/2 cucharaditas sal",
+    "1/2 taza crema espesa",
+    "2 cucharaditas pimentón"
+  ],
+  "recipeInstructions": "1. Enjuagar las piezas de pollo y secar con papel de cocina.\n2. Derretir la mantequilla en una sartén a fuego medio.\n3. Dorar el pollo por todos lados en la mantequilla, dando vueltas ocasionalmente hasta que esté cocido.\n4. Transferir el pollo a una olla de cocción lenta.\n5. En un bol, mezclar los tomates, cebolla, setas, ajo, sal, crema espesa, pimentón y los ingredientes restantes excepto la crema.\n6. Reventar bien y verter sobre el pollo.\n7. Cocinar a temperatura baja durante 8 a 10 horas.\n8. Incorporar la crema espesa justo antes de servir.\n9. Servir caliente sobre espagueti.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-muffins",
+  "name": "Chocolate Muffins",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "muffins"
+  ],
+  "recipeIngredient": [
+    "2 cups Flour",
+    "1/4 teaspoon Salt",
+    "1 tablespoon Baking powder",
+    "1/2 cup Brown sugar",
+    "1/2 cup Pecans, chopped",
+    "2 Eggs",
+    "2/3 cup Milk",
+    "1 teaspoon Vanilla extract",
+    "1/3 cup Butter, melted",
+    "3 1/2 ounces Semi-sweet baking chocolate, melted",
+    "1/2 cup Vanilla chips"
+  ],
+  "recipeInstructions": "1. Preheat oven to 400°F (200°C). Grease a muffin pan or line with paper liners.\n2. In a large bowl, sift together flour, salt, and baking powder. Add brown sugar and pecans.\n3. In another bowl, whisk eggs, milk, vanilla extract, butter, and melted chocolate until combined.\n4. Pour the dry ingredients into the wet mixture and stir gently until just combined. Do not overmix.\n5. Fold in vanilla chips.",
+  "url": null
+}

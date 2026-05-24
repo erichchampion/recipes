@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pork-chops-and-gravy",
+  "name": "Lomos de cerdo y salsa gravy",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "6 chuletas de cerdo gruesas",
+    "Harina para empanar",
+    "2 dientes de ajo, picados finamente",
+    "1 lata de puré de tomate",
+    "1 lata de setas, escurridas",
+    "1 lata de sopa de setas sin diluir",
+    "Sal de ajo"
+  ],
+  "recipeInstructions": "1. Empanar cada chuleta de cerdo con harina sazonada con sal y pimienta.\n2. Colocar las chuletas empanadas en la olla de cocción lenta.\n3. Añadir el resto de los ingredientes a la olla de cocción lenta.\n4. Cocinar a fuego lento durante 5-6 horas, o hasta que las chuletas estén tiernas.\n5. Servir sobre ñoquis con mantequilla o puré de papas.",
+  "url": null
+}

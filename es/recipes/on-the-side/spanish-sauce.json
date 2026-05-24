@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "spanish-sauce",
+  "name": "Salsa Española",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "étnica",
+    "salsas",
+    "española"
+  ],
+  "recipeIngredient": [
+    "2 cebollas grandes",
+    "1 cucharada de azúcar",
+    "1/2 taza de aceite de cocina",
+    "2 clavos enteros",
+    "1 pimiento verde grande",
+    "1 hoja de laurel",
+    "3 cucharadas de harina",
+    "2 1/2 tazas de tomates",
+    "6 cucharadas de agua",
+    "2 cucharaditas de sal"
+  ],
+  "recipeInstructions": "1. Pica las cebollas y el pimiento verde, y sofríelos en aceite hasta que estén tiernos.\n2. Añade los tomates y las especias (clavos, pimiento, sal). Cocina durante unos 30 minutos.\n3. En un bol aparte, disuelve la harina con el agua.\n4. Incorpora la mezcla de harina al salsa de tomate.\n5. Cocina hasta que espese.\n6. Esta salsa se puede utilizar en tortillas, hamburguesas, etc. Los champiñones cortados son un excelente complemento.",
+  "url": null
+}

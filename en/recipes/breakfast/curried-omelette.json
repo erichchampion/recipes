@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "curried-omelette",
+  "name": "Curried Omelette",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "cheese/eggs",
+    "curries",
+    "eggs",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "Gravy:",
+    "Onion (50 g)",
+    "Oil (50 ml)",
+    "Coconut milk (375 ml)",
+    "Chilli powder (0.5 tsp)",
+    "Paprika (1 tsp)",
+    "Turmeric (1 tsp)",
+    "Curry powder (1 tsp)",
+    "Lime juice (1 tbsp)"
+  ],
+  "recipeInstructions": "1. Prepare the omelettes as above, fold each into three and set on one side.\n2. Make the gravy by chopping the onion.\n3. Heat the oil in a pan and stir fry the chopped onion and curry leaves for 2 minutes.\n4. Add the coconut milk, chilli powder, paprika, salt, turmeric, and curry powder to the pan.\n5. Cook gently, stirring occasionally until the gravy thickens.\n6. Remove from heat, add the omelettes, and slice them.\n7. Sprinkle with lime juice.",
+  "url": null
+}

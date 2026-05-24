@@ -1,0 +1,36 @@
+{
+  "@type": "Recipe",
+  "identifier": "arroz-con-pollo-2-2",
+  "name": "Arroz con pollo #2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite",
+    "2 lb de muslos y piernas de pollo",
+    "1/2 cucharadita de pimentón",
+    "1 cucharada de cilantro picado",
+    "1/2 taza de cebolla picada",
+    "1 diente de ajo machacado",
+    "1 1/2 tazas de agua",
+    "1/2 taza de vino blanco",
+    "3 tomates picados",
+    "1 cubo de caldo",
+    "1 hoja de laurel",
+    "1/2 cucharadita de orégano",
+    "1 cucharadita de mezcla de especias para verduras",
+    "1/2 cucharadita de albahaca",
+    "1 taza de apio",
+    "1/2 taza de almendras",
+    "3/4 taza de arroz arborio",
+    "3/4 taza de arroz salvaje",
+    "2 tazas de guisantes"
+  ],
+  "recipeInstructions": "1. Calentar el aceite y dorar el pollo durante 10 minutos.\n2. Añadir el pimentón, el cilantro, la cebolla y el ajo. Rehogar hasta que la cebolla se transparente.\n3. Incorporar el agua, el vino, los tomates, el cubo de caldo y las especias. Mezclar bien.\n4. Agregar el apio, las almendras y los arroz. Tapar y dejar cocinar a fuego lento durante 20 minutos.\n5. Añadir los guisantes y cocinar a fuego lento otros 10-20 minutos o hasta que el arroz esté listo.",
+  "url": null
+}

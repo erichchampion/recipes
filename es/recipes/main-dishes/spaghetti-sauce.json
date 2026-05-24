@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-sauce",
+  "name": "Salsa para espagueti",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de aceite de oliva",
+    "3 dientes de ajo, picados",
+    "1 cebolla grande, picada",
+    "1 lata (12 onzas) de pasta de tomate",
+    "1 lata (46 onzas) de jugo de tomate",
+    "1 lata (28 onzas) de tomates enteros",
+    "1/4 taza de perejil",
+    "1 1/2 cucharaditas de albahaca",
+    "Una pizca de orégano"
+  ],
+  "recipeInstructions": "1. En una sartén a fuego medio, saltear el ajo y la cebolla en aceite de oliva hasta que las cebollas estén translúcidas.\n2. Añadir la pasta de tomate a la sartén y mezclar bien con los demás ingredientes.\n3. Incorporar el jugo de tomate y las especias (albahaca y orégano).\n4. Verter la mezcla en una olla de cocción lenta.\n5. Agregar los tomates enteros, removiendo para combinar todos los ingredientes uniformemente.\n6. Cocinar a fuego lento durante 6 a 8 horas. Opcionalmente, se puede añadir media pimiento y/o dos tercios de taza de champiñones salteados para un sabor y textura adicionales.",
+  "url": null
+}

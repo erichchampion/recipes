@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "whole-salmon",
+  "name": "Salmón entero",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "salmón",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1 salmón entero",
+    "2 cucharadas de aceite de oliva",
+    "Patatas, cebollas, rodajas de limón"
+  ],
+  "recipeInstructions": "1. Retire las branquias y limpie el interior y el exterior del pescado.\n2. Seque el pescado con papel de cocina.\n3. Coloque el pescado sobre un trozo de papel de aluminio.\n4. Rellene el interior del pescado con rodajas de patata, cebolla y limón (estos absorberán el aceite del pescado y se pueden desechar).\n5. Vierta 1 taza (o la cantidad necesaria para el tamaño del pescado) de Chablis sobre el pescado.\n6. Cierre el papel de aluminio alrededor del pescado de forma hermética.\n7. Hornee a 350 °F o ase hasta que el pescado comience a desmenuzarse.",
+  "url": null
+}

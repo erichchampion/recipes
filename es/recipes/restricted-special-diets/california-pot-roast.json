@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "california-pot-roast",
+  "name": "Rost de carne al estilo California",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "carnes",
+    "cocina lenta",
+    "dietas especiales"
+  ],
+  "recipeIngredient": [
+    "4 lb de carne de falda de res",
+    "2 cucharadas de harina",
+    "1 cucharadita de sal",
+    "1/16 cucharadita de pimienta negra",
+    "1 cucharada de aceite vegetal",
+    "1 cebolla, finamente picada",
+    "2 zanahorias, cortadas en rodajas",
+    "1 cucharada de salsa Worcestershire",
+    "1 taza de agua",
+    "Sustituto de azúcar (equivalente a 1/2 taza)"
+  ],
+  "recipeInstructions": "1. Rebozar la carne bien en harina, sal y pimienta.\n2. Dorar en aceite en una sartén.\n3. Añadir el resto de los ingredientes.\n4. Tapar y cocinar a fuego lento durante aproximadamente 4 horas.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "eastern-burger",
+  "name": "Hamburguesa Oriental",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgueros",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne de cerdo molida, aproximadamente un 80% de grasa",
+    "1 cucharadita de pimienta negra molida",
+    "1/4 cucharadita de sal",
+    "2 cucharadas de salsa de soja",
+    "2 cucharadas de jerez seco",
+    "1 cucharada de jengibre rallado"
+  ],
+  "recipeInstructions": "1. Mezcla la carne de cerdo molida con las especias.\n2. Forma 4 hamburguesas, cada una de aproximadamente 1,5 cm de grosor.\n3. Coloca las hamburguesas sobre brasas moderadamente calientes en una parrilla de estilo olla.\n4. Asa durante 5 minutos por un lado, luego da la vuelta a las hamburguesas y continúa asándolas durante otros 4-5 minutos por el otro lado.\n5. Sirve inmediatamente en panecillos si lo deseas.\nOrigen: Consejo Nacional de Productores de Cerdo",
+  "url": null
+}

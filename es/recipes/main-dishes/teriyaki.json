@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "teriyaki",
+  "name": "Teriyaki",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de solomillo sin hueso, de 1 pulgada de grosor",
+    "250 g de caldo de carne",
+    "2 cucharadas de salsa de soja",
+    "1/4 taza de cebolletas cortadas en diagonal",
+    "1 diente grande de ajo, picado",
+    "1 cucharada de azúcar moreno",
+    "1/4 cucharadita de jengibre molido",
+    "arroz cocido"
+  ],
+  "recipeInstructions": "1 Congelar la carne durante 1 hora para que se endurezca (lo que facilita el corte); cortarla en tiras muy finas.\n2 Mezclar los ingredientes restantes excepto el arroz; verter sobre la carne.\n3 Marinar durante 2 horas.\n4 Enhebrar la carne en 4 brochetas.\n5 Broilar a unos 4 pulgadas de distancia del calor hasta el punto de cocción deseado (5-10 minutos), pincelando con la marinada y dando la vuelta una vez.\n6 Calentar el resto de la marinada; espesar si es necesario.\n7 Servir con carne y arroz. Rinde para 4 personas.",
+  "url": null
+}

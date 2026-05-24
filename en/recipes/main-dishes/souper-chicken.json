@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "souper-chicken",
+  "name": "Souper Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "2 pounds chicken parts",
+    "1 can cream of celery soup (10.75 oz)",
+    "1/4 cup flour",
+    "2 medium zucchini, cut into 1/2 inch pieces",
+    "1 teaspoon paprika",
+    "1/2 teaspoon dried basil",
+    "1 clove garlic, minced",
+    "1 cup canned tomato wedges, drained"
+  ],
+  "recipeInstructions": "1. Rinse the chicken parts and pat dry.\n2. Mix the celery soup with flour.\n3. Combine all ingredients in a Crock-Pot; stir thoroughly to coat the chicken.\n4. Cover and cook on Low for 8 to 10 hours or on High for 4 to 5 hours.\nServes 4",
+  "url": null
+}

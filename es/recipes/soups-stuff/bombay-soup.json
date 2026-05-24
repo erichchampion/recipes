@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "bombay-soup",
+  "name": "Sopa de Bombay",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas de bajo calorías"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de mantequilla o margarina",
+    "1 diente de ajo, machacado",
+    "1/2 cucharadita de polvo de curry",
+    "1/4 taza de yuca al vapor o batata dulce machacada",
+    "1 taza de caldo de pollo desgrasado",
+    "1/2 taza de leche evaporada sin grasa",
+    "Sal y pimienta al gusto",
+    "2 tallos de espárragos al vapor, cortados en trozos"
+  ],
+  "recipeInstructions": "1. En una cacerola pequeña, derrita la mantequilla a fuego medio.\n2. Añada el ajo y el polvo de curry; saltee hasta que el ajo esté blando.\n3. Incorpore la yuca y el caldo.\n4. Lleve la mezcla a ebullición, removiendo constantemente.\n5. Reduzca el fuego y añada la leche. Cocine durante unos minutos sin dejar hervir. Sazone con sal y pimienta al gusto.\n6. Adorne con espárragos si se desea.",
+  "url": null
+}

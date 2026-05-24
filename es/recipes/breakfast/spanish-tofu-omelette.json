@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "spanish-tofu-omelette",
+  "name": "Omeleta de tofu española",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aceite de oliva",
+    "1 diente de ajo, picado",
+    "1 pequeña cebolla, picada",
+    "1 patata mediana, en rodajas",
+    "1/4 pimiento verde, cortado en dados",
+    "1 tomate pequeño, picado",
+    "1/4 cucharadita de orégano",
+    "1 lb (aprox. 450 g) de tofu suave, escurrido y prensado",
+    "1/4 taza de harina",
+    "1/4 cucharadita de cúrcuma",
+    "1 cucharadita de levadura nutricional",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. En una sartén a fuego medio, calentar el aceite.\n2. Saltear el ajo, la cebolla, la patata y el pimiento verde hasta que la patata esté cocida, aproximadamente 10 minutos.\n3. Mezclar todos los ingredientes restantes en una licuadora hasta obtener una textura suave. Añadir la mezcla de tomate y tofu a la sartén.\n4. Cocinar, tapado, a fuego muy bajo hasta que la omeleta esté cuajada, unos 10 minutos.\n5. Servir con salsa.",
+  "url": null
+}

@@ -1,0 +1,37 @@
+{
+  "@type": "Recipe",
+  "identifier": "yet-another-chili-recipe",
+  "name": "Otra receta de chili",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "plato principal",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "1 libra de cerdo molido",
+    "1 libra de filete",
+    "1 pimiento rojo",
+    "3 cebollas medianas",
+    "1 manojo de cebolletas",
+    "3 tallos de apio",
+    "2 latas de frijoles rojos",
+    "Jalapeños al gusto",
+    "1 cucharadita de salsa Tabasco",
+    "2 onzas de polvo de chili",
+    "1/4 cucharadita de pimienta cayena",
+    "1 cucharadita de comino",
+    "Ajo al gusto",
+    "Una pizca de pimentón dulce",
+    "1 cucharada de tomillo",
+    "1 cucharada de orégano",
+    "1 lata de cerveza canadiense",
+    "1 chupito de tequila",
+    "1 lata de 400 g de tomates triturados",
+    "1 latita de pasta de tomate"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una sartén grande y sofríe las cebollas hasta que estén tiernas. Añade el pimiento rojo, el apio y las cebolletas picados. Cocina los vegetales.\n2. Incorpora los jalapeños, las especias (salsa Tabasco, polvo de chili, pimienta cayena, comino), la cerveza y el tequila. Mezcla bien.\n3. Dora por separado la carne molida y el cerdo en aceite de oliva. Agrega la mezcla a la olla. No uses la grasa que suelte la carne.\n4. Añade los trozos de filete una vez dorados. Reduce el fuego y deja que la mezcla se cocine a fuego lento sin tapa durante al menos 2 horas.\n5. Cerca de finalizar, ajusta las especias si es necesario. Agrega los frijoles aproximadamente una hora antes de terminar de cocinar.",
+  "url": null
+}

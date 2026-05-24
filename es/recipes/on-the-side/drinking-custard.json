@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "drinking-custard",
+  "name": "Crema de bebida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "postres",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 litro de leche",
+    "1 litro de nata para montar",
+    "1 taza de azúcar",
+    "12 yemas de huevo",
+    "1 cucharada de harina"
+  ],
+  "recipeInstructions": "El eggnog es esencialmente una salsa para postres llamada crema inglesa. La adición de harina a esta receta es poco convencional, pero permite hervir la salsa sin que se cuaje.\nCalentar la leche, la nata y el azúcar en una cacerola hasta que casi hierva. No remover —dejar el azúcar en el fondo de la olla evitará que la leche se queme—. Batir las yemas de huevo y la harina juntas con un batidor de alambre. Añadir aproximadamente un vaso del mezcla de leche caliente a las yemas y batir para mezclar. Luego, verter la mezcla de yemas en la cacerola, removiendo constantemente. Hervir suavemente durante 10 segundos, luego retirar del fuego y colar en un bol, descartando los grumos de harina. Enfriar y servir con ron si se desea.",
+  "url": null
+}

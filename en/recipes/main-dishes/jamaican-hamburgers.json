@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "jamaican-hamburgers",
+  "name": "Jamaican Hamburgers",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "burgers",
+    "jamaican",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "2 tablespoons Butter",
+    "1 small Onion, chopped",
+    "1/4 teaspoon Cayenne pepper",
+    "1/4 teaspoon Allspice",
+    "1/2 pound Lean ground beef",
+    "1/2 teaspoon Salt",
+    "1/2 teaspoon Black pepper",
+    "1/2 teaspoon Curry powder",
+    "1/2 teaspoon Dried thyme",
+    "1/4 cup Bread crumbs",
+    "1 Beaten egg"
+  ],
+  "recipeInstructions": "1. Mix all ingredients together and form into 2 large patties.\n2. Grill or broil for 5-7 minutes per side.",
+  "url": null
+}

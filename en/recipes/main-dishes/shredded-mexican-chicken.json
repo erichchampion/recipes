@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "shredded-mexican-chicken",
+  "name": "Shredded Mexican Chicken",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "american",
+    "ethnic",
+    "four star",
+    "mexican",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "boneless skinless chicken breasts",
+    "4 chicken bouillon cubes",
+    "1 Medium onion, chopped fine",
+    "1 tablespoon cumin",
+    "1 teaspoon dried red chilies, crushed",
+    "1 teaspoon oregano",
+    "water"
+  ],
+  "recipeInstructions": "1. Place the chicken breasts in a large skillet and cover with water.\n2. Add all the ingredients: chicken bouillon cubes, chopped onion, cumin, crushed red chilies, and oregano.\n3. Cover the skillet and simmer over low heat.\n4. If needed, add more liquid to keep the chicken covered.\n5. Cook until the chicken is tender.\n6. Using forks, shred the cooked chicken.\n7. Use in tacos, tostadas, burritos, etc.",
+  "url": null
+}

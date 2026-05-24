@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "texas-barbecue",
+  "name": "Barbacoa de Texas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento"
+  ],
+  "recipeIngredient": [
+    "1 cebolla mediana, picada finamente",
+    "4 libras de carne de res asada o bistec redondo",
+    "1/2 taza de pimiento verde, picado",
+    "1 taza de ketchup",
+    "1 cucharadita de mostaza preparada",
+    "1/4 taza de vinagre",
+    "1/2 taza de azúcar moreno",
+    "2 cucharadas de salsa Worcestershire",
+    "Sal y pimienta al gusto",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes (excepto la carne) en un bol hasta que estén bien integrados.\n2. Cortar la carne en cubos pequeños.\n3. Agregar los cubos de carne a la mezcla de salsa.\n4. Colocar la combinación de carne y salsa en una olla de cocción lenta a fuego bajo.\n5. Cocinar durante 6-8 horas con el tapa cerrada.\n6. Para una consistencia más espesa, mantener la tapa cerrada por otras 4 horas, luego retirar la tapa durante 2 horas antes de servir.",
+  "url": null
+}

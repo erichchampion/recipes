@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "scrumptious-strawberry-soup",
+  "name": "Sopa deliciosa de fresa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "postres",
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "2 tazas de fresas",
+    "1/4 taza de miel",
+    "1/2 taza de yogur natural",
+    "1/2 taza de vino tinto seco",
+    "1/2 taza de azúcar",
+    "1 taza de fresas cortadas por la mitad"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes (excepto las fresas cortadas) en una licuadora.\n2. Licúa hasta obtener una mezcla suave.\n3. Refrigera durante la noche.\n4. Adorna con las fresas cortadas.\n5. Sirve fría.",
+  "url": null
+}

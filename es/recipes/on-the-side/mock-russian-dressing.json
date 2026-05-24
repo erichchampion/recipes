@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-russian-dressing",
+  "name": "Salsa rusa falsa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "ensaladas",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de aderezo para ensalada de mayonesa",
+    "8 onzas de yogur natural sin sabor, 1 envase",
+    "8 onzas de salsa de tomate, 1 lata",
+    "1/4 taza de cebolla, picada finamente",
+    "1/4 taza de apio, picado finamente",
+    "1/4 taza de pimiento verde, picado finamente"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol mediano.\n2. Batir bien hasta que esté completamente incorporado.\n3. Tapar y refrigerar durante al menos 2 horas antes de servir.\nRinde 3 tazas",
+  "url": null
+}

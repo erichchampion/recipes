@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "egg-fu-yung",
+  "name": "Huevo Fu Yung",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "asiático",
+    "chino",
+    "étnico",
+    "oriental"
+  ],
+  "recipeIngredient": [
+    "1 taza de carne a la barbacoa (de su elección)",
+    "1 taza de brotes de soja frescos",
+    "1/2 taza de apio, cortado finamente",
+    "1/4 taza de cebolla, cortada finamente",
+    "1/4 taza de cebolleta picada finamente",
+    "1/4 taza de setas cortadas en tiras",
+    "6 huevos",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. En un bol, bate los huevos con sal y pimienta.\n2. Calienta aceite en una sartén a fuego medio. Añade las verduras (excepto los brotes de soja) y saltea hasta que estén tiernas.\n3. Aparta las verduras y haz un hueco en la mezcla de huevo, vertiéndola en el centro de la sartén.\n4. Con una espátula, dobla suavemente el huevo alrededor de las verduras hasta que esté completamente cocido.\n5. Retira del fuego y mezcla los brotes de soja frescos.\n6. Sirve caliente con arroz o fideos.",
+  "url": null
+}

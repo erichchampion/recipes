@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "steamed-cod",
+  "name": "Bacalao al vapor",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "3 onzas de bacalao (o su pescado favorito)",
+    "jugo de limón",
+    "hoja de lechuga - ablandada en agua hirviendo",
+    "sal y pimienta"
+  ],
+  "recipeInstructions": "1. Cortar el bacalao en porciones para servir; espolvorear con sal y pimienta.\n- Opcionalmente, agregar hojas de laurel o orégano para un sabor extra.\n2. Exprimir jugo de limón sobre el pescado.\n3. Envolver cada porción de bacalao en una hoja de lechuga ablandada en agua hirviendo.\n4. Colocar las porciones envueltas en una canasta para vaporizar forrada con 1 taza de agua.\n5. Vaporizar hasta que esté cocido, aproximadamente 10 minutos.\n6. Servir con ensalada fresca aliñada o rodajas de tomate.\nUna opción ideal para dietistas.",
+  "url": null
+}

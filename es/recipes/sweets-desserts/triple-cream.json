@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "triple-cream",
+  "name": "Crema triple",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de helado, suavizado",
+    "1/2 taza de crema agria",
+    "1/4 taza de azúcar",
+    "1 cucharadita de extracto de vainilla",
+    "1 taza de crema espesa, batida"
+  ],
+  "recipeInstructions": "1. Batir la crema espesa hasta que esté firme.\n2. Devolverla a la nevera mientras se mezclan los demás ingredientes.\n3. Combinar el helado suavizado, la crema agria, el azúcar y la vainilla.\n4. Incorporar cuidadosamente la crema batida en la mezcla de helado.\n5. Refrigerar. Rinde 3 tazas.",
+  "url": null
+}

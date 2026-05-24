@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-with-walnuts",
+  "name": "Pasta con Nueces",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "microondas",
+    "pasta",
+    "rápido"
+  ],
+  "recipeIngredient": [
+    "1 lb de fettuccine (preferiblemente verde)",
+    "Pimienta",
+    "2 cebollas, cortadas en rodajas finas",
+    "2/3 taza de crema agria",
+    "1/4 taza de aceite",
+    "2 dientes de ajo, picados",
+    "1 taza de queso parmesano rallado",
+    "2 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. Cocinar los fettuccine en la estufa según las instrucciones del paquete y escurrir.\n2. En un bol apto para microondas, calentar el aceite a potencia alta (100%) durante 2 minutos.\n3. Añadir las cebollas y el ajo al aceite caliente y cocinar a potencia alta (100%) durante 2 minutos adicionales.\n4. Incorporar las nueces y cocinar durante otros 2 minutos a potencia alta (100%).\n5. Mezclar el queso parmesano rallado y la crema agria, y cocinar a potencia alta (100%) durante 1,5 a 2 minutos, removiendo cada 30 segundos.\n6. Sazonar la mezcla con pimienta al gusto.\n7. Saltear los fettuccine cocidos en la mantequilla y servir con la salsa de nueces por encima.",
+  "url": null
+}

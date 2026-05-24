@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "date-loaf",
+  "name": "Pan de dátiles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "pasteles",
+    "galletas"
+  ],
+  "recipeIngredient": [
+    "3 tazas de azúcar",
+    "1 1/2 tazas de leche entera",
+    "1/2 barra de margarina",
+    "4 tazas de nueces pecanas, picadas",
+    "1 libra de dátiles, picados",
+    "1 1/2 cucharaditas de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Calentar el azúcar, la leche y la margarina hasta que hierva lentamente para alcanzar el punto de bola suave.\n2. Retirar del fuego y agregar las nueces pecanas, los dátiles y la vainilla.\n3. Formar dos rollos con la mezcla, de aproximadamente 2 pulgadas de diámetro cada uno.\n4. Envolver en un paño de algodón o lino y refrigerar hasta que esté frío.",
+  "url": null
+}

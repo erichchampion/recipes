@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-fudge",
+  "name": "Fudge mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "caramelo",
+    "postres",
+    "fudge",
+    "festividades"
+  ],
+  "recipeIngredient": [
+    "4 tazas de queso cheddar rallado",
+    "4 huevos batidos",
+    "4 onzas de chiles verdes enlatados picados",
+    "2 cucharaditas de pimiento rojo picado",
+    "2 tiras de tocino, cocidas y desmenuzadas"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande hasta combinarlos bien.\n2. Extender la mezcla en una fuente rectangular antiadherente de 20 cm x 20 cm.\n3. Hornear a 180°C durante 30 minutos.\n4. Dejar enfriar completamente antes de cortar en 64 cuadrados de 2,5 cm.",
+  "url": null
+}

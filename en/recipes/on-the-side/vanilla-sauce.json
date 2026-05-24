@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "vanilla-sauce",
+  "name": "Vanilla Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "desserts",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/2 cup sugar",
+    "pinch salt",
+    "1 tbsp cornstarch",
+    "1 cup water or apple juice",
+    "2 tbsp butter",
+    "1 tbsp vanilla",
+    "pinch nutmeg"
+  ],
+  "recipeInstructions": "1. Mix the sugar, salt, and cornstarch in a bowl.\n2. Gradually add the water (or apple juice) to the dry ingredients, stirring constantly until all lumps are gone.\n3. Pour the mixture into a saucepan over medium heat.\n4. Cook, stirring continuously, until thickened and clear.\n5. Add the butter, vanilla, and nutmeg. Stir until combined.\n6. Serve warm.",
+  "url": null
+}

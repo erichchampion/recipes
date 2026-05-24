@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-bread",
+  "name": "Apple Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "desserts",
+    "fruit"
+  ],
+  "recipeIngredient": [
+    "4 cups Flour",
+    "1 cup Vegetable Oil",
+    "2 teaspoons Baking Soda",
+    "1/4 cup Sour Cream",
+    "1 teaspoon Salt",
+    "2 teaspoons Vanilla",
+    "2 teaspoons Cinnamon",
+    "2 cups Chopped Apples",
+    "2 cups Sugar",
+    "1 cup Chopped Nuts",
+    "Eggs -- Beaten"
+  ],
+  "recipeInstructions": "1. Preheat oven to 350°F.\n2. Sift together flour, baking soda, cinnamon, and salt. Set aside.\n3. Combine sugar, beaten eggs, oil, sour cream, and vanilla in a bowl; beat well.\n4. Blend the wet ingredients into the dry ingredient mixture.\n5. Fold in chopped apples and nuts.\n6. Pour the batter into two greased and floured loaf pans.\n7. Bake for 1 hour or until the loaves are done.",
+  "url": null
+}

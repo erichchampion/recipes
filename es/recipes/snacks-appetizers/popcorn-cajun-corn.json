@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "popcorn-cajun-corn",
+  "name": "Palomitas de maíz cajún",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "tentempié",
+    "acción de gracias"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de palomitas de maíz sin estallar (8 tazas de palomitas estalladas)",
+    "4 cucharadas de mantequilla",
+    "1 cucharadita de pimentón",
+    "1 cucharadita de pimienta limón",
+    "1/2 cucharadita de polvo de cebolla",
+    "1/2 cucharadita de polvo de ajo",
+    "1/2 cucharadita de pimienta cayena molida"
+  ],
+  "recipeInstructions": "1. Estallar las palomitas de maíz.\n2. Derrir la mantequilla en una sartén a fuego bajo.\n3. Agregar las especias a la mantequilla derretida y remover hasta combinar.\n4. Verter la mezcla de mantequilla y especias sobre las palomitas de maíz sin sazonar.\n5. Revolver las palomitas hasta que estén bien cubiertas con el aderezo.",
+  "url": null
+}

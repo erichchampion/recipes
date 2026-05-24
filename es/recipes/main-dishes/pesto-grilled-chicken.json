@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pesto-grilled-chicken",
+  "name": "Pollo a la parrilla con pesto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "guiso",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 taza de aceite de oliva",
+    "1 taza de hojas de albahaca fresca",
+    "2 dientes de ajo",
+    "1/2 taza de queso parmesano",
+    "1/4 taza de piñones",
+    "1/4 cucharadita de sal",
+    "6 muslos de pollo"
+  ],
+  "recipeInstructions": "1. Mezclar en un procesador de alimentos el aceite de oliva, las hojas de albahaca, los dientes de ajo, los piñones, el queso parmesano y la sal hasta obtener una consistencia suave.\n2. Verter la mezcla de pesto sobre las piezas de pollo.\n3. Cubrir y marinar a temperatura ambiente durante 30 minutos o refrigerar durante la noche.\n4. Retirar del adobo y escurrir bien.\n5. Asar a la parrilla entre 30 y 60 minutos, girando y untando con frecuencia.\n6. Servir caliente, tibio o frío.",
+  "url": null
+}

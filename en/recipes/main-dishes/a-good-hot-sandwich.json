@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "a-good-hot-sandwich",
+  "name": "A Good Hot Sandwich",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "1 cup cubed American cheese",
+    "3 hard-cooked eggs, chopped",
+    "1 can Spam, cubed",
+    "2 tablespoons chopped green bell pepper",
+    "2 tablespoons chopped onion",
+    "2 tablespoons chopped green olives",
+    "2 tablespoons chopped sweet pickle",
+    "1/2 cup mayonnaise"
+  ],
+  "recipeInstructions": "1. In a large bowl, combine the cubed American cheese, chopped hard-cooked eggs, cubed Spam, chopped green bell peppers, onions, green olives, and sweet pickle.\n2. Add the mayonnaise to the mixture and stir until all ingredients are well combined.\n3. Split hamburger buns and place the mixture inside each half.\n4. Wrap each sandwich securely in aluminum foil.\n5. Preheat your oven to 325°F (163°C).\n6. Place the wrapped sandwiches on a baking sheet and bake for 30 minutes, or until heated through.",
+  "url": null
+}

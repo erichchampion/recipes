@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "german-dunkel",
+  "name": "Cerveza alemana oscura",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "cervezas",
+    "bebidas",
+    "cervezas oscuras",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "3,5 lbs de jarabe de extracto de malta - ámbar",
+    "3,5 lbs de polvo de extracto de malta - oscuro",
+    "0,375 lb de malta cristalina",
+    "0,25 lb de malta de chocolate",
+    "0,25 lb de malta negra patentada",
+    "2 oz de lúpulo Hallertauer, en ebullición",
+    "1 oz de lúpulo Hallertauer, en acabado",
+    "1 sobre de levadura lager",
+    "0,75 taza de azúcar de maíz, para la botella"
+  ],
+  "recipeInstructions": "1. Machaca la malta cristalina, la malta de chocolate y la malta negra patentada.\n2. Añade los maltas machacados a 1,5 galones de agua fría y lleva la mezcla a ebullición.\n3. Retira los granos con un colador cuando comience a hervir.\n4. Agrega los extractos de malta y los lúpulos en ebullición (2 oz) a la olla.\n5. Continúa hirviendo durante 60 minutos.\n6. Añade el resto de los lúpulos en ebullición (0,5 oz) después de 30 minutos de hervido.\n7. Transfiere la mezcla a agua fría.\n8. Enfría la cerveza antes de añadir la levadura.\n9. Botella cuando la fermentación haya terminado.",
+  "url": null
+}

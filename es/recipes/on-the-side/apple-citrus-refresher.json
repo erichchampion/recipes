@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-citrus-refresher",
+  "name": "Refresco de Manzana y Cítrico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 tazas de jugo de manzana",
+    "2 tazas de jugo de naranja",
+    "2 tazas de jugo de toronja",
+    "1/2 taza de jugo de limón fresco",
+    "2 latas de ginger ale (de 12 onzas cada una)"
+  ],
+  "recipeInstructions": "1. Prepara todos los jugos y el ginger ale con antelación y mantenlos fríos.\n2. En un jarro grande o bol de cóctel, mezcla los jugos de manzana, naranja, toronja y limón.\n3. Justo antes de servir, vierte el ginger ale.\n4. Sirve sobre cubitos de hielo en vasos altos.\nRinde para 8-10 porciones",
+  "url": null
+}

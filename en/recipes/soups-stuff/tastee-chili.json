@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tastee-chili",
+  "name": "Tastee Chili",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "leftovers",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Tastees (leftovers)",
+    "2 1/2 cups tomato juice",
+    "1 can stewed tomatoes",
+    "1 medium onion",
+    "1 can pinto beans, drained",
+    "1 can kidney beans, drained",
+    "1 can navy beans, drained",
+    "2 tablespoons chili powder (heaping)",
+    "1 teaspoon garlic, chopped"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a large pot.\n2. Bring mixture to a boil.\n3. Reduce heat and simmer for 1-2 hours until desired consistency is reached.",
+  "url": null
+}

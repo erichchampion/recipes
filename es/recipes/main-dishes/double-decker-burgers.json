@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "double-decker-burgers",
+  "name": "Hamburguesas de doble capa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne molida",
+    "1/4 taza de cebolla, finamente picada",
+    "2 huevos, batidos",
+    "2 cucharaditas de salsa Worcestershire",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "1 1/2 tazas de queso cheddar rallado",
+    "3 cucharadas de mayonesa",
+    "4 cucharaditas de encurtido de pepinillo con eneldo",
+    "4 cucharaditas de mostaza preparada",
+    "lechuga picada",
+    "6 rodajas de cebolla",
+    "6 panes para hamburguesa, partidos por la mitad",
+    "6 rodajas de tomate"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcle los primeros seis ingredientes; amase bien.\n2. Forme 12 discos delgados.\n3. Asar a la parrilla a 4 pulgadas de distancia del calor durante 7-8 minutos por cada lado o hasta que ya no sea rosado.\n4. En un bol pequeño, mezcle el queso, la mayonesa, la mostaza y el encurtido; amase bien.\n5. Cuele 3 cucharadas sobre cada hamburguesa.\n6. Devuélvalas a la parrilla solo hasta que el queso se ablande.\n7. Coloque la lechuga y la cebolla en la base de los panes; cubra cada una con dos hamburguesas, tomate y la tapa del pan.",
+  "url": null
+}

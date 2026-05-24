@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "adobo-2",
+  "name": "Adobo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "4 ancho chiles",
+    "2 teaspoons garlic, chopped",
+    "1/4 teaspoon ground cumin",
+    "1/2 teaspoon dried oregano",
+    "1/4 teaspoon dried marjoram",
+    "1/4 teaspoon ground cinnamon",
+    "3 tablespoons vinegar",
+    "1/2 cup orange juice",
+    "1/2 teaspoon salt"
+  ],
+  "recipeInstructions": "1. Soak the ancho chiles for 1 hour in hot water. Drain and save the water.\n2. Remove the seeds from the chiles.\n3. Add the seeded chiles to a blender along with garlic, ground cumin, dried oregano, marjoram, cinnamon, vinegar, orange juice, and salt.\n4. Blend until smooth, adding some of the saved chile water if necessary.\n5. Transfer the mixture to a bowl.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "guacamole-2",
+  "name": "Guacamole número 2",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "mexicano",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "4 aguacates",
+    "1/2 taza de chiles verdes picados",
+    "1/2 tomate medio picado",
+    "2 cucharaditas de cebolla finamente picada",
+    "2 cucharaditas de mayonesa",
+    "1/2 cucharadita de sal",
+    "2 cucharadas de jugo de limón",
+    "1/4 cucharadita de sal de ajo",
+    "1/2 cucharadita de pimienta blanca",
+    "1/2 cucharadita de salsa Worcestershire"
+  ],
+  "recipeInstructions": "1. Pelar y quitar el hueso a los aguacates.\n2. Mezclar todos los ingredientes en un bol.\n3. Machacar hasta obtener una consistencia suave.\n4. El jugo de limón evitará que se oscurezca.",
+  "url": null
+}

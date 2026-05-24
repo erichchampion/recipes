@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mess",
+  "name": "Desastre culinario",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1,5 kg de carne molida",
+    "16 onzas de judías verdes al estilo francés",
+    "1 lata de sopa de tomate",
+    "1 pequeña cebolla picada",
+    "1 lata de setas"
+  ],
+  "recipeInstructions": "1. En una olla holandesa o sartén grande, dora la carne molida y la cebolla hasta que la cebolla esté clara.\n2. Escurre el exceso de grasa, luego agrega los ingredientes restantes a la olla.\n3. Calienta todo junto y sazona al gusto. Sirve solo o sobre macarrones o espaguetis.",
+  "url": null
+}

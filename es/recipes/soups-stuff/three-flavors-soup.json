@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "three-flavors-soup",
+  "name": "Sopa de Tres Sabores",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "asiático",
+    "chino",
+    "étnico",
+    "sopa",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "5 tazas de caldo de pollo claro y ligero",
+    "10 camarones frescos medianos (o 1/4 lb de camarones bebés cocidos)",
+    "8 chicharrones de agua",
+    "2 cebolletas",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Lavar y pelar los camarones. Retirar las venas.\n2. Cortar los chicharrones de agua en rodajas finas.\n3. Picar finamente las cebolletas.\n4. Llevar el caldo de pollo a ebullición en una olla con las cebolletas picadas.\n5. Agregar los chicharrones y cocinar durante unos minutos.\n6. Incorporar los camarones (crudos o cocidos) y la sal.\n7. Probar la sopa y ajustar la sazón si es necesario.\n8. Devolver a ebullición brevemente.\n9. Servir caliente.",
+  "url": null
+}

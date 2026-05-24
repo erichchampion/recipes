@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-orange-salad-2",
+  "name": "Ensalada de Pollo y Naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "ensalada de pollo mexicana",
+    "plato principal de verduras"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de cebolletas o cebollino picado",
+    "2 cucharadas de jugo de limón",
+    "1/4 cucharadita de sal",
+    "2 tazas de pollo cocido desmenuzado",
+    "1 taza de guisantes verdes cocidos",
+    "1 taza de mayonesa o aderezo para ensalada",
+    "1/4 taza de zanahoria finamente picada",
+    "1/4 taza de apio picado",
+    "1/4 taza de cilantro fresco picado",
+    "3 cucharadas de jugo de naranja",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de canela en polvo",
+    "1/2 cucharadita de pimienta negra molida fresca",
+    "Hojas de lechuga",
+    "3 naranjas",
+    "2 aguacates"
+  ],
+  "recipeInstructions": "1. Picar finamente las cebolletas o cebollino, incluyendo algunos tallos verdes.\n2. Preparar las naranjas pelándolas y separando las secciones o cortándolas sin pelar en wedges.\n3. Pelar y cortar los aguacates en wedges.",
+  "url": null
+}

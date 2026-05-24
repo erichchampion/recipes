@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pesto-with-jalapeno",
+  "name": "Pesto con Jalapeño",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de piñones",
+    "5 dientes de ajo",
+    "1 pimiento jalapeño pequeño, cortado por la mitad y sin semillas",
+    "1 taza de perejil",
+    "2 tazas de hojas de albahaca",
+    "1/2 taza de aceite de oliva"
+  ],
+  "recipeInstructions": "1. Coloca los piñones, el ajo y el jalapeño en un procesador de alimentos; procesa durante 30 segundos.\n2. Añade el perejil, la albahaca y el aceite de oliva; pulsa brevemente para mezclar las hierbas con el aceite.\n3. Procesa hasta obtener una pasta fina.\nRendimiento:\nAlrededor de 1 taza.",
+  "url": null
+}

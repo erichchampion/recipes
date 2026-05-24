@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "watermelon-refresco",
+  "name": "Refresco de Sandía",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas alcohólicas",
+    "aperitivos",
+    "platos secundarios",
+    "verano"
+  ],
+  "recipeIngredient": [
+    "1 pequeña sandía Icebox; cortada en trozos y sin semillas",
+    "1/4 taza de jarabe simple",
+    "2 cucharadas de jugo de limón fresco",
+    "1 taza de vodka (opcional)"
+  ],
+  "recipeInstructions": "1. Preparar el jarabe simple disolvendo 1 taza de azúcar en 1/2 taza de agua. Llevar a ebullición, luego reducir el fuego y cocinar a fuego lento durante 1-2 minutos antes de enfriar.\n2. Procesar los trozos de sandía en lotes utilizando un procesador de alimentos hasta que se licúe. Pulsar ayuda a obtener una textura más suave sin separar la pulpa.\n3. Mezclar el jarabe simple y el jugo de limón.\n4. Añadir el vodka si se desea.\n5. Servir sobre hielo.",
+  "url": null
+}

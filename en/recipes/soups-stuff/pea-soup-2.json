@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "pea-soup-2",
+  "name": "Pea Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "beans",
+    "low-calorie",
+    "mcdougall",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 cup Split peas (green)",
+    "1/4 cup Barley",
+    "1/2 cup Lima beans (dried)",
+    "8 cups Water",
+    "2 Onion (chopped)",
+    "2 Bay leaves",
+    "1 tsp Celery seed (optional)",
+    "1 tsp Basil",
+    "1 tsp Thyme",
+    "2 Carrots (chopped)",
+    "1 Potato (chopped)",
+    "2 Celery stalks (chopped)",
+    "1/2 cup Parsley sprigs (chopped)"
+  ],
+  "recipeInstructions": "1. Place peas, barley, and lima beans in a large soup pot with 8 cups of water, onion, bay leaves, and celery seed.\n2. Cook over low heat, covered, for about 1 1/2 hours.\n3. Add the remaining vegetables and seasonings.\n4. Cook for an additional 45 minutes, adding more water if necessary.",
+  "url": null
+}

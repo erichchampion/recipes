@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-slush-mix",
+  "name": "Mezcla de Batido de Frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "misceláneo",
+    "mezclas"
+  ],
+  "recipeIngredient": [
+    "4 tazas de azúcar",
+    "4 tazas de agua",
+    "1 lata de jugo de naranja congelado (6 onzas)",
+    "1/2 taza de jugo de limón",
+    "1 lata de jugo de piña (46 onzas)"
+  ],
+  "recipeInstructions": "1. Mezclar el azúcar y el agua en una olla grande.\n2. Calentar a fuego medio hasta que el azúcar se disuelva.\n3. Incorporar el concentrado de jugo de naranja congelado, el jugo de limón y el jugo de piña.\n4. Enfriar la mezcla antes de servir.",
+  "url": null
+}

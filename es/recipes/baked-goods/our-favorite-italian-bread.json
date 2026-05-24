@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "our-favorite-italian-bread",
+  "name": "Nuestro pan italiano favorito",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de agua",
+    "2/3 cucharadita de sal",
+    "1/2 cucharadita de azúcar",
+    "1 1/2 tazas de harina de pan (para pan pequeño)",
+    "1 cucharada de levadura (para pan pequeño)",
+    "2/3 taza de agua",
+    "3/4 cucharadita de sal",
+    "2/3 cucharadita de azúcar",
+    "2 tazas de harina de pan (para pan mediano)",
+    "1 1/2 cucharaditas de levadura (para pan mediano)",
+    "1 taza de agua",
+    "1 1/4 cucharaditas de sal",
+    "1 cucharada de azúcar (para pan grande)",
+    "3 tazas de harina de pan (para pan grande)",
+    "2 1/2 cucharaditas de levadura (para pan grande)"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcla el agua, la sal, el azúcar y la levadura correspondiente al tamaño de pan deseado.\n2. Añade poco a poco la harina hasta formar una masa irregular.\n3. Transfiere la masa a una superficie ligeramente enharinada y amasa hasta que sea suave y elástica (aproximadamente 5-7 minutos).\n4. Forma la masa en una bola compacta y colócala en un bol engrasado, volviéndola a cubrir con aceite o mantequilla si se desea.\n5. Tapa el bol y deja levar la masa en un lugar cálido durante aproximadamente una hora, hasta que doble su tamaño.\n6. Desgasifica la masa y dale la forma deseada.\n7. Coloca la masa sobre una bandeja para hornear forrada con papel pergamino.\n8. Deja levar nuevamente durante 15-20 minutos.\n9. Precalienta el horno a 375°F (190°C) y hornea el pan hasta que esté dorado y suene hueco al golpearlo, aproximadamente 30-35 minutos.\n10. Apaga el horno y deja enfriar el pan sobre una rejilla.",
+  "url": null
+}

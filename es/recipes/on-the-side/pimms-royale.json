@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pimms-royale",
+  "name": "Pim's Royale",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "Hielo",
+    "50 ml de Pimms N° 1",
+    "Champán Laurent-Perrier",
+    "1 rodaja de naranja",
+    "1 rodaja de limón",
+    "1 rodaja de lima",
+    "1 rodaja de manzana",
+    "3 hojas de menta fresca"
+  ],
+  "recipeInstructions": "1. Coloca hielo en un vaso de vino grande.\n2. Añade Pimms, las rodajas de fruta (naranja, limón, lima, manzana) y las hojas de menta al vaso.\n3. Vierte cuidadosamente el champán por encima.",
+  "url": null
+}

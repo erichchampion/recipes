@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomatoes-corn-and-cheese-on-toast",
+  "name": "Tomates, Maíz y Queso sobre Tostada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "tentempiés",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de harina",
+    "3 cucharadas de mantequilla derretida (u otra grasa)",
+    "2 latas de tomates triturados",
+    "1 cebolla, en rodajas",
+    "2 tazas de maíz enlatado",
+    "2 cucharaditas de sal",
+    "1/4 libra de queso cheddar fuerte, rallado finamente"
+  ],
+  "recipeInstructions": "1. Dorar la harina en una sartén pesada y retirar, mezclando con 2 cucharadas de grasa.\n2. Saltear la cebolla en la grasa restante.\n3. Agregar los demás ingredientes (excepto el queso) a la sartén y cocinar durante unos 10 minutos.\n4. Incorporar el queso derretido y servir sobre tostadas finas y crujientes.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "irish-omelet",
+  "name": "Omeleta irlandesa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "queso/huevos",
+    "huevos",
+    "Irlanda",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "6 Huevos pequeños",
+    "1 Papa grande cocida, machacada",
+    "1 Cucharadita de jugo de limón",
+    "1 Cuchara de cebolla o cebollino picados",
+    "Sal y pimienta al gusto",
+    "1 Cucharada de mantequilla"
+  ],
+  "recipeInstructions": "1. Separa las yemas de las claras. Bate las yemas y mézclalas con la papa machacada.\n2. Añade el jugo de limón, la cebolla, la sal y la pimienta a la mezcla de papa.\n3. Derrite la mantequilla en una sartén para tortillas precalentada.\n4. Bate las claras hasta que estén firmes y mézclalas con la mezcla de papa.\n5. Cocina la mezcla hasta que adquiera un tono dorado.\n6. Colócala bajo el grill para darle un toque final y que se infle.\n7. Sirve inmediatamente.",
+  "url": null
+}

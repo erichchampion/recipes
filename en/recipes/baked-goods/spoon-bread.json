@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "spoon-bread",
+  "name": "Spoon Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cups Scalded milk",
+    "1/2 cup Corn meal",
+    "1/2 teaspoon Salt",
+    "1 tablespoon Butter",
+    "2 tablespoons Flour",
+    "1 teaspoon Baking powder",
+    "1 egg"
+  ],
+  "recipeInstructions": "1. Stir the dry ingredients in the milk.\n2. Add the beaten egg and melted butter.\n3. Bake for 30 minutes in a moderate oven (350 - 400 F).",
+  "url": null
+}

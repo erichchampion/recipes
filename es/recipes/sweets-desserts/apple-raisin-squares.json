@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-raisin-squares",
+  "name": "Cuadrados de Manzana y Pasas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de harina (sin tamizar)",
+    "2 cucharaditas de polvo de hornear",
+    "1/4 cucharadita de sal",
+    "2 cucharaditas de canela",
+    "2 huevos (batidos)",
+    "1 taza de azúcar",
+    "1 cucharadita de extracto de vainilla",
+    "3 manzanas medianas (cortadas en cubos)",
+    "1 taza de pasas sin semillas"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar la harina, el polvo de hornear, la sal y la canela. Reservar.\n2. En otro bol, batir los huevos, el azúcar y el extracto de vainilla durante 2-3 minutos hasta obtener una mezcla suave.\n3. Agregar gradualmente la mezcla de huevos a los ingredientes secos, mezclando bien.\n4. Verter la masa en un molde para hornear de 13x9x2 pulgadas engrasado y enharinado.\n5. Hornear a 175 °C (350 °F) durante 35 minutos o hasta que un palillo insertado en el centro salga limpio.\n6. Sacar del horno y dejar enfriar ligeramente.\n7. Cortar en cuadrados y servir calientes o fríos.",
+  "url": null
+}

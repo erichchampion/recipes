@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "harvest-corn",
+  "name": "Cosecha de Maíz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "maíz",
+    "deshidratador",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "20 oz de maíz congelado",
+    "1 pequeña cebolla dulce, cortada en octavas",
+    "1 taza de pimiento rojo dulce picado",
+    "1 cucharada de almidón de maíz",
+    "0,5 cucharadita de sal",
+    "0,125 cucharadita de pimienta cayena",
+    "0,125 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Calentar el maíz congelado en el microondas durante 7 minutos a potencia máxima.\n2. Mezclar el maíz, las verduras y las especias hasta obtener una mezcla homogénea en un bol pequeño.\n3. Extender la mezcla en una capa uniforme sobre bandejas para deshidratador.\n4. Secar hasta que esté crujiente, durante 10-12 horas.\n5. Almacenar en un recipiente hermético.\nPara cocinar:\n1. Cubrir el maíz con agua hirviendo y remojar durante 0,5 hora.\n2. Cocinar a fuego lento durante 20-30 minutos o hasta que el maíz esté lo suficientemente tierno para comer.",
+  "url": null
+}

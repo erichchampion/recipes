@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "fix-it-and-forget-it",
+  "name": "Olvídalo y déjalo cocinar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "pavo"
+  ],
+  "recipeIngredient": [
+    "patatas medianas - peladas y cortadas en rodajas",
+    "1 libra de carne molida de pavo",
+    "1 lata de sopa de champiñones cremosos",
+    "1 lata de sopa de carne y verduras",
+    "1 cebolla mediana - cortada en rodajas"
+  ],
+  "recipeInstructions": "1. Coloca las patatas en un guiso o olla holandesa.\n2. Espolvorea la carne cruda sobre las patatas.\n3. Añade las sopas y la cebolla.\n4. Tapa y hornea durante 1 hora y 30 minutos a 175°C hasta que las patatas estén tiernas.",
+  "url": null
+}

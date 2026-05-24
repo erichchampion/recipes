@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-boat",
+  "name": "Banana Boat",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "camping",
+    "desserts",
+    "miscellaneous"
+  ],
+  "recipeIngredient": [
+    "1.00 Banana",
+    "Mini marshmallows",
+    "Chocolate chips",
+    "Raisins (optional)"
+  ],
+  "recipeInstructions": "1. Partially peel the banana.\n2. Cut a wedge-shaped section from the top of the banana.\n3. Remove the wedge.\n4. Place the hollow portion of the banana filled with marshmallows, chocolate, and raisins.\n5. Cover the mixture with the banana peel.\n6. Wrap in foil.\n7. Place in coals for about 5 minutes, until the chocolate and marshmallows are melted.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cocktail-sauce",
+  "name": "Cocktail Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 tablespoons horse radish",
+    "1/2 cup ketchup",
+    "1 1.5 teaspoons Worcestershire sauce",
+    "2 tablespoons lemon juice",
+    "1/2 cup chili sauce",
+    "salt and pepper to taste"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a bowl.\n2. Mix well until thoroughly combined.\n3. Serve with seafood.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "camp-chilli",
+  "name": "Chili de campamento",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "plato principal",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 taza de lentejas",
+    "3 cucharadas de sopa de tomate en polvo",
+    "2 cucharadas de masa o harina de maíz",
+    "1 cucharada de polvo de chile",
+    "1 cucharada de picadillo de cebolla",
+    "1 cucharada de comino",
+    "1 cucharadita de orégano",
+    "1 cucharadita de sal",
+    "1 diente de ajo",
+    "4 tazas de agua"
+  ],
+  "recipeInstructions": "1. En una olla grande, combina todos los ingredientes.\n2. Revuelve hasta que esté bien mezclado.\n3. Añade el agua gradualmente, revolviendo constantemente hasta que la mezcla esté suave e incorporada por completo.\n4. Lleva la mezcla a un hervor a fuego medio.\n5. Reduce el calor a bajo y déjalo cocinar suavemente durante 30-45 minutos, removiendo ocasionalmente, hasta alcanzar la consistencia deseada.\n6. Apaga el calor y sirve caliente.",
+  "url": null
+}

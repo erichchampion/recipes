@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tea-punch",
+  "name": "Teatuno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "batido",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "3 tazas de té fuerte",
+    "1 taza de zumo de limón",
+    "4 tazas de zumo de naranja",
+    "2 tazas de jarabe de frambuesa o granadina",
+    "1 taza de piña triturada",
+    "Azúcar al gusto",
+    "2 litros de agua mineral fría"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el agua mineral en un bol de punch con un gran cubo de hielo transparente.\n2. Dejar enfriar bien la mezcla. Si se usan zumos de frutas frescos, colarlos primero.\n3. Añadir el agua mineral justo antes de servir.",
+  "url": null
+}

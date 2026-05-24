@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "crock-pot-potato-soup",
+  "name": "Sopa de patatas en olla de cocción lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "cacerola lenta",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "6 patatas (cortadas en trozos)",
+    "2 cebollas picadas",
+    "3 zanahorias picadas",
+    "2 tallos de apio picados",
+    "4 cubos de caldo de pollo",
+    "1 cucharada de perejil seco",
+    "1 cucharada de sal",
+    "Pimienta al gusto",
+    "1/3 taza de mantequilla",
+    "240 ml de leche evaporada"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en la olla slow cooker.\n2. Cocinar a fuego bajo durante 10-12 horas o a fuego alto durante 3-4 horas.\n3. Durante la última hora de cocción, añadir la leche evaporada y las cebolletas picadas.\n4. Servir caliente, espolvoreado con queso parmesano rallado fresco.",
+  "url": null
+}

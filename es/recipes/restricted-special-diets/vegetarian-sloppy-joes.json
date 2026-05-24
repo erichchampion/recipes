@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetarian-sloppy-joes",
+  "name": "Joes Slopies Vegetarianos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "plato principal",
+    "dietas especiales",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aceite vegetal",
+    "1 cebolla mediana, picada",
+    "1 pimiento verde mediano, picado",
+    "3 tazas de arroz marrón cocido",
+    "32 onzas de frijoles pintos mexicanos (enlatados)",
+    "3/4 taza de salsa barbacoa ahumada de hickory",
+    "4 bollos integrales"
+  ],
+  "recipeInstructions": "1. Calentar el aceite vegetal en una sartén grande a fuego medio-alto.\n2. Agregar las cebollas y los pimientos verdes; cocinar de 2 a 3 minutos.\n3. Incorporar el arroz marrón cocido, los frijoles y la salsa barbacoa.\n4. Reducir el fuego y dejar cocer de 10 a 15 minutos hasta que se caliente todo.\n5. Servir sobre bollos integrales.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "alfredo-s-noodles",
+  "name": "Alfredo's Noodles",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italian",
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 lb Fettuccine",
+    "1 1/2 cups Sliced mushrooms",
+    "1/2 cup Butter",
+    "1/4 teaspoon Salt",
+    "1/4 teaspoon Pepper",
+    "1/4 teaspoon Oregano",
+    "1/2 teaspoon Garlic powder",
+    "1/2 cup Light cream",
+    "1/4 cup Grated mozzarella",
+    "1/4 cup Fresh grated Romano"
+  ],
+  "recipeInstructions": "1. Melt butter in a small saucepan.\n2. Add mushrooms, salt, pepper, oregano, and garlic to the pan.\n3. Saute for five minutes until the mushrooms are golden brown.\n4. Stir in cream and cook for two minutes, stirring occasionally.\n5. Drain fettuccine and place it in a warm bowl.\n6. Add hot sauce and both cheeses to the pasta and toss gently to combine.\n7. Serve 4 servings.",
+  "url": null
+}

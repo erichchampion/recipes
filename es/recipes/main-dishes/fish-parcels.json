@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-parcels",
+  "name": "Paquetes de pescado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "a la parrilla",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "4 filetes de pescado",
+    "2 onzas de mantequilla",
+    "4 cebolletas picadas",
+    "2 cucharaditas de eneldo fresco",
+    "2 cucharadas de zumo de limón",
+    "4 cucharadas de crema doble",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cortar dos cuadrados de papel de aluminio doblado lo suficientemente grandes como para envolver el pescado.\n2. Untar un lado de cada pieza de papel de aluminio, luego colocar 2 filetes de pescado en el centro y cubrir con cantidades iguales de los ingredientes restantes, sazonando con sal y pimienta al gusto.\n3. Doblar los bordes del papel de aluminio hacia el centro y unir para sellar herméticamente.\n4. Colocar los paquetes de pescado debajo de una parrilla (broil) caliente durante unos 10 minutos.\n5. Apagar el calor y dejar reposar durante 5 minutos antes de servir.",
+  "url": null
+}

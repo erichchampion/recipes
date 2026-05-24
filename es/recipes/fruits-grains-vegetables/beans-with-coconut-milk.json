@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "beans-with-coconut-milk",
+  "name": "Frijoles con leche de coco",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frijoles",
+    "plato principal",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "2 tazas de garbanzos, remojados",
+    "1 1/2 taza de leche de coco",
+    "1 tomate mediano, picado",
+    "3 dientes de ajo, machacados",
+    "1 diente de ajo, picado finamente",
+    "1 1/2 cucharadita de cúrcuma"
+  ],
+  "recipeInstructions": "1. Cocinar los garbanzos en agua suficiente para cubrirlos hasta que estén aproximadamente a mitad de cocción.\n2. Escurrir los garbanzos cocidos.\n3. Añadir la leche de coco, el tomate y las especias a la olla.\n4. Continuar hirviendo hasta que los garbanzos estén tiernos.\n5. Servir caliente con arroz.",
+  "url": null
+}

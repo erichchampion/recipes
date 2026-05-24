@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "curry-stock",
+  "name": "Caldo de Curry",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "currys",
+    "étnicos",
+    "indios",
+    "salsas",
+    "sopas",
+    "caldos"
+  ],
+  "recipeIngredient": [
+    "Agua (3 pintas)",
+    "Cebollas (2), peladas y picadas",
+    "Puré de ajo (1 cucharadita)",
+    "Puré de jengibre (1 cucharadita)",
+    "Ghee (1 cucharada)",
+    "Sal (2 cucharaditas)",
+    "Clavos (10)",
+    "Cardamomo verde (6 piezas)",
+    "Corteza de canela (6 piezas)"
+  ],
+  "recipeInstructions": "1. Llevar el agua a ebullición.\n2. Añadir las cebollas, el puré de ajo, el puré de jengibre, el ghee y la sal. Continuar hirviendo hasta que todos los ingredientes estén bien combinados.\n3. Incorporar los clavos, el cardamomo verde y la corteza de canela. Remover suavemente.\n4. Reducir el fuego a bajo y dejar cocer a fuego lento durante 1 hora con la tapa puesta. El caldo debe reducir a la mitad en este tiempo.\n5. Colar el caldo por un colador fino y desechar los sólidos.\n6. Opcionalmente, añadir trozos de carne y huesos en el paso 3 para un sabor más intenso.",
+  "url": null
+}

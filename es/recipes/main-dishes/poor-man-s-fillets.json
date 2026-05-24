@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "poor-man-s-fillets",
+  "name": "Filetes del pobre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecua",
+    "carne de res",
+    "hamburguesas",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1/2 libra de carne molida",
+    "1 1/3 cucharadas de cebolla picada",
+    "1 cucharada de pimiento verde picado",
+    "3/16 taza de migas de galleta",
+    "1/16 cucharadita de pimienta negra",
+    "1/16 cucharadita de polvo de ajo",
+    "1/16 taza de leche",
+    "2 rebanadas de tocino"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el tocino.\n2. Formar la mezcla en 6 pasteles.\n3. Envolver cada pastel con una rebanada de tocino y pinchar con un palillo de dientes o brochetas de carne.\n4. Cocinar sobre fuego de carbón hasta el grado de cocción deseado.",
+  "url": null
+}

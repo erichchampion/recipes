@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tuna-swiss-pie-4",
+  "name": "Tarta de atún y queso suizo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "tartas de cena",
+    "plato principal",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 masa para pastel",
+    "200 g de atún enlatado, escurrido y desmenuzado",
+    "1 taza de queso suizo rallado",
+    "1/2 taza de cebolla verde picada",
+    "3 huevos",
+    "1 taza de mayonesa",
+    "1/2 taza de leche"
+  ],
+  "recipeInstructions": "1. Hornear la masa del pastel.\n2. En un bol, mezclar el atún, el queso suizo rallado y la cebolla verde picada.\n3. Verter la mezcla en la masa del pastel preparada.\n4. En otro bol, batir juntos los huevos, la mayonesa y la leche.\n5. Verter lentamente la mezcla de huevo sobre la capa de atún.\n6. Hornear durante 50 minutos o hasta que un cuchillo insertado en el centro salga limpio.",
+  "url": null
+}

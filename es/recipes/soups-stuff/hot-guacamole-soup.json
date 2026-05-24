@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-guacamole-soup",
+  "name": "Sopa de guacamole caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 aguacate maduro",
+    "2 hojas grandes de lechuga romana (o otra)",
+    "1/4 taza de cebolla verde picada, con los tallos",
+    "1 clavo de ajo machacado",
+    "2 cucharadas de jugo de lima o limón",
+    "1-2 cucharadas de chile molido puro",
+    "4 ramitas de cilantro fresco",
+    "4 tazas de caldo de pollo"
+  ],
+  "recipeInstructions": "Servir 4 porciones\n1. Cortar el aguacate en cuartos, retirar el hueso y pelar. Poner la pulpa en una licuadora o procesador de alimentos.\n2. Desmenuzar las hojas de lechuga romana en trozos y añadir a la licuadora.\n3. Añadir los ingredientes restantes, junto con la mitad del caldo, y licuar hasta obtener una textura suave.\n4. Mezclar con el resto del caldo en una olla y hervir a fuego lento, cubierto, durante 10 minutos.",
+  "url": null
+}

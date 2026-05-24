@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "spanish-omelet",
+  "name": "Spanish Omelet",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "cheese",
+    "eggs",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 Onion, chopped",
+    "2 tablespoons Butter or margarine",
+    "1 can Tomatoes (8 ounces)",
+    "1 teaspoon Salt",
+    "3 Eggs, well beaten",
+    "2 tablespoons Hot pepper sauce",
+    "Crackers",
+    "Grated cheese"
+  ],
+  "recipeInstructions": "1. In a medium skillet, brown the onion in butter until softened.\n2. Stir in tomatoes, salt, hot pepper sauce, and beaten eggs.\n3. Cook the mixture until it is set.\n4. Pour over crackers and sprinkle with grated cheese.",
+  "url": null
+}

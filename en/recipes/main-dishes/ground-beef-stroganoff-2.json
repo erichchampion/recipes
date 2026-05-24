@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "ground-beef-stroganoff-2",
+  "name": "Ground Beef Stroganoff",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "1 pound ground beef",
+    "1/2 cup onion, chopped",
+    "1 dash garlic powder",
+    "1 dash pepper",
+    "1/4 teaspoon paprika",
+    "1 can cream of mushroom soup",
+    "1 cup sour cream",
+    "Hot buttered noodles"
+  ],
+  "recipeInstructions": "1. Brown the ground beef and onions in a skillet.\n2. Drain off excess fat.\n3. Add seasonings to the meat mixture.\n4. Stir in the soup and simmer on low heat, uncovered for 20 minutes, stirring frequently.\n5. Do not boil the mixture.\n6. Just before serving, add sour cream and pour over the hot buttered noodles.\nServes 4",
+  "url": null
+}

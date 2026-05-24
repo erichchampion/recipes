@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "bulgar-cereal",
+  "name": "Bulgar Cereal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "cereals",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 cup bulgar",
+    "2 cups water",
+    "1 tsp cinnamon",
+    "1/4 cup raisins"
+  ],
+  "recipeInstructions": "1. Pour the bulgar into a saucepan.\n2. Add water and cinnamon.\n3. Stir to combine.\n4. Bring mixture to a boil over high heat.\n5. Reduce heat to low and simmer for 10 minutes, stirring occasionally.\n6. Remove from heat and stir in raisins.\n7. Serve hot as cereal or let cool completely before storing.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "four-cheese-pizza",
+  "name": "Pizza de cuatro quesos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "queso",
+    "plato principal",
+    "tartas",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 base de pizza de 30 cm",
+    "4 cucharaditas de aceite de oliva",
+    "1/2 taza de mozzarella rallada",
+    "1/2 taza de queso fontina rallado",
+    "1/2 taza de provolone rallado",
+    "1 tomate grande, sin semillas y en rodajas",
+    "2 cucharadas de parmesano recién rallado",
+    "2 cucharadas de albahaca fresca picada"
+  ],
+  "recipeInstructions": "1. Coloca la base de pizza precocida sobre una bandeja para pizza con perforaciones.\n2. Unta con aceite de oliva.\n3. Mezcla la mozzarella, fontina y provolone; espolvorea la mitad sobre la base.\n4. Dispón las rodajas de tomate en una sola capa sobre el queso, superponiéndolas ligeramente si es necesario.\n5. Espolvorea el resto del queso mezclado sobre los tomates, luego espolvorea con parmesano.\n6. Coloca en una parrilla precalentada a fuego medio-alto. Tapa y cocina durante unos 12 minutos o hasta que la base esté crujiente y el queso se haya derretido. Gira la bandeja una vez durante la cocción.\n7. Espolvorea con albahaca fresca antes de servir.",
+  "url": null
+}

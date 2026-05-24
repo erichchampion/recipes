@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mango-smoothie",
+  "name": "Mango Smoothie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "low-calorie",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 ripe mango, peeled, pitted, chopped (approximately 1-1/4 cups)",
+    "3/4 cup milk, skim, chilled",
+    "1/4 cup nonfat vanilla yogurt",
+    "3/4 teaspoon vanilla extract",
+    "3 ice cubes",
+    "pinch of salt",
+    "fresh mint sprigs"
+  ],
+  "recipeInstructions": "1. Combine all ingredients except mint in blender.\n2. Blend until smooth and creamy.\n3. Garnish with mint.",
+  "url": null
+}

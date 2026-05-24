@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cherry-balls",
+  "name": "Bolas de cereza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de mantequilla blanda",
+    "3/4 taza de azúcar glas",
+    "3/4 taza de coco rallado fino",
+    "3/4 taza de crema",
+    "1 cucharadita de extracto de vainilla",
+    "1 cucharadita de saborizante de almendras"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta formar una masa espesa.\n2. Escurrir bien las cerezas y envolver cada una con la masa.\n3. Rodar las cerezas envueltas en migas de galletas Graham hasta que queden uniformemente cubiertas.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-and-shrimp-sauce",
+  "name": "Spaghetti and Shrimp Sauce",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italian",
+    "main dish",
+    "pasta",
+    "sauces",
+    "shellfish"
+  ],
+  "recipeIngredient": [
+    "1 lb Fresh shrimp",
+    "2 small Onions, chopped",
+    "1/4 tsp Salt",
+    "1/4 tsp Pepper",
+    "1/4 cup Oil",
+    "1/4 cup Romano cheese",
+    "2 cloves Garlic, minced",
+    "1 Green pepper, chopped",
+    "1/8 tsp Oregano",
+    "1 lb Spaghetti"
+  ],
+  "recipeInstructions": "1. Boil the shrimp until barely tender. Remove and discard the shells.\n2. Heat oil in a large skillet over medium heat. Add garlic, onions, green pepper, salt, pepper, and oregano. Sauté until onions are soft.\n3. Add the cooked shrimp to the skillet. Stir gently and cook for 10 minutes over low heat.\n4. Cook spaghetti according to package instructions until al dente. Drain and toss with the shrimp sauce.\n5. Serve with Romano cheese sprinkled on top.",
+  "url": null
+}

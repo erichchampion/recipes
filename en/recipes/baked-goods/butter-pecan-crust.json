@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "butter-pecan-crust",
+  "name": "Butter Pecan Crust",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "pastries",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Butter",
+    "1 cup Flour",
+    "1/4 cup Sugar",
+    "1/2 cup Pecans, chopped with a knife"
+  ],
+  "recipeInstructions": "1. Blend together butter, flour and sugar until the mixture is crumbly.\n2. Stir in pecans.\n3. Press the mixture into a 9 inch pie plate.\n4. Bake at 375°F for 12 to 15 minutes.",
+  "url": null
+}

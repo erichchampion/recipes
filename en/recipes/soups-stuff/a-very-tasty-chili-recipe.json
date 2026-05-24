@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "a-very-tasty-chili-recipe",
+  "name": "A Very Tasty Chili Recipe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "beef",
+    "chili",
+    "meats",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "3 Dried Red New Mex Chiles",
+    "2 Chipotles",
+    "1 Habanero",
+    "4 Cloves Garlic",
+    "1 Tablespoon Ground Cumin",
+    "1 Tablespoon Dried Oregano",
+    "1 tablespoon Vegetable Oil",
+    "1 large Onion, chopped",
+    "1/2 lb Minced Beef",
+    "15 ounces Diced Tomatoes (in their juice)",
+    "15 ounces Kidney Beans"
+  ],
+  "recipeInstructions": "1. Cut the tops off the dried chiles and remove any stems.\n2. Toast the chiles in a hot frying pan for a few minutes until fragrant.\n3. Soak the chiles in hot water for 20 minutes, then drain and blend with some of the soaking water.\n4. Roughly chop the habanero pepper and garlic, then add them to the blender along with the cumin and oregano. Blend again.\n5. Heat the vegetable oil in a saucepan and fry the chopped onion until softened.\n6. Add the minced beef to the pan and cook until browned.\n7. Stir in the blended chile mixture, diced tomatoes, and kidney beans. Cover and simmer for at least 30 minutes.\n8. Uncover the pot and increase the heat slightly. Allow excess liquid to evaporate for about 10 more minutes.\n9. Serve as desired.",
+  "url": null
+}

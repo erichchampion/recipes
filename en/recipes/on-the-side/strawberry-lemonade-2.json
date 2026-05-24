@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-lemonade-2",
+  "name": "Strawberry Lemonade",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "fruits",
+    "lemonade",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 quart Fresh Strawberries, Hulled",
+    "3 cups Cold Water",
+    "3/4 cup Lemon Juice",
+    "3/4 cup Sugar",
+    "2 cups Club Soda, Chilled",
+    "1 Ice",
+    "Garnishes (optional)"
+  ],
+  "recipeInstructions": "1. In a blender container, puree the strawberries.\n2. In a pitcher, combine the purée, water, lemon juice, and sugar. Stir until the sugar dissolves.\n3. Add the club soda to the mixture.\n4. Serve over ice and garnish with strawberries and/or mint leaves (optional).",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-pizza-dip",
+  "name": "Dip de pizza caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "salsas",
+    "aperitivos",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "8 onzas de queso crema bajo en grasa, ablandado",
+    "1 cucharadita de condimento italiano",
+    "4 onzas de queso mozzarella rallado",
+    "3 onzas de queso parmesano rallado",
+    "8 onzas de salsa de pizza",
+    "2 cucharadas de pimiento verde picado",
+    "2 cucharadas de cebolla verde en rodajas",
+    "cilantro - opcional",
+    "tortitas de maíz"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F (175°C).\n2. Mezclar el queso crema con el condimento italiano en un bol; mezclar bien.\n3. Extender la mezcla en el fondo de un plato para hornear.\n4. Combinar los quesos, esparcir la mitad sobre la capa de queso crema.\n5. Extender la salsa de pizza sobre la capa de queso.\n6. Cubrir con el resto del queso, pimiento, cebolla y cilantro (si se usa).\n7. Hornear durante 15-18 minutos o hasta que el queso esté derretido y la mezcla burbujee alrededor de los bordes.",
+  "url": null
+}

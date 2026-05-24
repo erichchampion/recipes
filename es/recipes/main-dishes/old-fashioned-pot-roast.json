@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "old-fashioned-pot-roast",
+  "name": "Rost de ternera al estilo clásico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "olla de cocción lenta",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 patatas medianas, peladas y en cuartos",
+    "3 zanahorias, picadas",
+    "3 cebollas, picadas",
+    "4 libras (1,8 kg) de solomillo o carne de falda de res",
+    "1/2 cucharadita de sal",
+    "1/8 cucharadita de pimienta negra",
+    "1 lata de caldo de carne concentrado"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en la olla lenta en el orden indicado.\n2. Tapa y ajusta el control a temperatura baja.\n3. Cocina durante 8-10 horas, o hasta que la carne esté tierna.",
+  "url": null
+}

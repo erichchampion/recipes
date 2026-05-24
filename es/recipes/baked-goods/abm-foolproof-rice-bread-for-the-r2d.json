@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "abm-foolproof-rice-bread-for-the-r2d",
+  "name": "Pan de arroz infalible de ABM para R2d",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1/2 cucharadita de levadura",
+    "2 tazas y 1/4 de harina de pan",
+    "1 cucharada de azúcar",
+    "1/2 cucharadita de sal",
+    "1 cucharada de aceite",
+    "1 taza de arroz cocido",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. Llevar todos los ingredientes a temperatura ambiente.\n2. Verter la mezcla en una máquina panificadora en el siguiente orden: levadura, harina, azúcar, sal, aceite, arroz cocido y agua.\n3. Establecer el control de horneado para las 10 en punto.\n4. Seleccionar el modo \"pan blanco\" y presionar Start.\n5. Para un pan más rico, sustituir 1 huevo y 3/4 taza de agua por 1 taza de agua.\n6. En climas calurosos y húmedos, usar 1/8 taza menos de agua. La masa puede parecer ligeramente húmeda; no agregar harina extra.",
+  "url": null
+}

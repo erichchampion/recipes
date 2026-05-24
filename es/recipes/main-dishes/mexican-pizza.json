@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-pizza",
+  "name": "Pizza mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de masa de maíz enriquecida (Aunt Jemima o Quaker)",
+    "1/2 taza de masa de maíz enriquecida (Aunt Jemima o Quaker)",
+    "1 y 3/4 tazas de harina de uso general",
+    "1 cucharadita de polvo de hornear",
+    "1/2 cucharadita de sal (opcional)",
+    "3/4 taza de leche",
+    "1/4 taza de aceite vegetal",
+    "12 onzas de salsa para tacos",
+    "15 onzas de frijoles chili mexicanos (Van Camp's), escurridos",
+    "1 pimiento verde o rojo, cortado en anillos finos",
+    "8 onzas de queso Monterey Jack, rallado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 450°F.\n2. Engrasar un molde redondo para pizza de 14 pulgadas o una bandeja para hornear tipo jelly roll de 15x10 pulgadas.\n3. Espolvorear una cucharada de masa de maíz en la bandeja preparada.\n4. En un bol, mezclar la mitad de taza de masa de maíz restante con la harina, el polvo de hornear y la sal. Agregar la leche y el aceite; remover con un tenedor hasta formar una masa.\n5. Presionar la masa en la bandeja preparada y dar forma al borde para crear un borde.\n6. Hornear durante 15 minutos.\n7. Extender la salsa para tacos de manera uniforme sobre la corteza parcialmente horneada.\n8. Cubrir con frijoles, anillos de pimiento y queso. Continuar horneando durante 10 minutos más o hasta que el queso se derrita.",
+  "url": null
+}

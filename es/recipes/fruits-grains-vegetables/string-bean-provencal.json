@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "string-bean-provencal",
+  "name": "Frijoles de cuerda al estilo Provenza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aceite de oliva",
+    "2 cucharaditas de azúcar",
+    "4 cebollas medianas, picadas",
+    "1/4 cucharadita de sal",
+    "4 dientes de ajo, picados",
+    "400 gramos de tomates en puré de pera (plum tomatoes)",
+    "2 cucharaditas de tomillo fresco, picado",
+    "500 gramos de judías verdes, cortadas por la mitad"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una olla holandesa a fuego medio.\n2. Añadir las cebollas y el ajo; cocinar, cubierto, removiendo ocasionalmente, durante 8 minutos o hasta que estén suaves.\n3. Incorporar los tomates, el tomillo, el azúcar, la sal y la pimienta. Desmenuzar los tomates con el dorso de una cuchara.\n4. Agregar las judías verdes.\n5. Cocinar a fuego lento, cubierto, removiendo ocasionalmente, durante 25 a 35 minutos o hasta que las judías estén tiernas.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-punch",
+  "name": "Fruit Punch",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "punch",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 dozen oranges",
+    "1 dozen lemons",
+    "4 packages Strawberry Kool-Aid",
+    "4 packages Orange Kool-Aid",
+    "1 large can of pineapple juice",
+    "4 gallons of water",
+    "12 cups of sugar"
+  ],
+  "recipeInstructions": "1. Freeze part of the mixture to make ice cubes for serving.\n2. Mix 4 cups of water and 12 cups of sugar in a large container. Heat until the sugar is dissolved, then let it cool to room temperature.\n3. Add the cooked Kool-Aid packets (both Strawberry and Orange) to the cooled syrup mixture.\n4. Pour in the pineapple juice.\n5. Chill the mixture thoroughly.\n6. Serve over ice by pouring into glasses and adding ice cubes as desired.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "consomme-de-mer",
+  "name": "Consome de mar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "10 1/2 oz de caldo",
+    "1 lata de agua",
+    "8 oz de jugo de almejas",
+    "2 cucharaditas de zumo de limón",
+    "1/2 taza de crema batida",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Llevar a ebullición el caldo, el agua, el jugo de almejas y el zumo de limón.\n2. Batir la crema con la sal.\n3. Servir caliente con un generoso chorro de crema en cada porción.",
+  "url": null
+}

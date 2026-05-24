@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-taco-salad",
+  "name": "Ensalada de Tacos Fácil",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "carne molida",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1 sobre (1 1/4 oz) de mezcla para tacos",
+    "1 lechuga mediana, picada",
+    "2 tomates medianos, sin semillas y picados",
+    "1 taza de aderezo Catalina en botella",
+    "4 a 5 tazas de chips de maíz triturados",
+    "2 tazas (8 oz) de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida en una sartén a fuego medio hasta que esté cocida completamente. Retirar del fuego y dejar enfriar ligeramente.\n2. Incorporar la mezcla para tacos según las instrucciones del paquete.\n3. En un bol grande de servicio, mezclar la mezcla de carne fría con la lechuga picada, los tomates picados, el aderezo Catalina, los chips de maíz triturados y el queso cheddar rallado.\n4. Revolver suavemente hasta que todos los ingredientes estén bien combinados.\n5. Servir inmediatamente.",
+  "url": null
+}

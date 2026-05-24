@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "le-trou-s-mouclade",
+  "name": "Le Trou's Mouclade",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "ethnic",
+    "french",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "3 quart Mussels, cleaned",
+    "6 tablespoons Unsalted butter (75g)",
+    "6 Shallots, chopped fine",
+    "Bouquet garni (celery, bay leaf, thyme, parsley stems)",
+    "1 cup White wine (240ml)",
+    "1/2 teaspoon Saffron threads",
+    "1 cup Heavy cream (240ml)",
+    "1 tablespoon Fresh parsley, chopped",
+    "1 Clove garlic, mashed"
+  ],
+  "recipeInstructions": "1. Steep saffron threads in white wine for 30 minutes.\n2. Saute shallots in butter until limp.\n3. Add bouquet garni and wine to the pan; simmer for 1 minute.\n4. Add cleaned mussels to the pan, cover with a tight-fitting lid, and steam until all but six of the mussels open. Shake the pan occasionally. Remove opened mussels after about 3 minutes and set them aside in a colander over a bowl to catch juices. Discard any unopened mussels after 6 minutes.\n5. Saute remaining shallots in butter until limp.\n6. Add mussel juice, heavy cream, parsley, and garlic to the pan; reduce to desired consistency.\n7. Toss the cooked mussels in the sauce until well coated.\n8. Serve in soup bowls.",
+  "url": null
+}

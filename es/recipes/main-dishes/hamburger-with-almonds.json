@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-with-almonds",
+  "name": "Hamburguesa con Almendras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "fácil",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida magra",
+    "1/4 taza de almendras laminadas, tostadas",
+    "1/4 cucharadita de hierbas finas",
+    "1 cucharada de sal",
+    "1/8 cucharadita de pimienta"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes y formar 3 a 4 hamburguesas redondas.\n2. Broilar o asar a la parrilla hasta el punto deseado de cocción.\nRinde para 3 a 4 porciones.\nSugerencia: Servir en un panecillo de hamburguesa o sobre pan francés tostado con mantequilla, o servir las hamburguesas sin pan con papas hervidas, verduras y ensalada.",
+  "url": null
+}

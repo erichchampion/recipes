@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "honey-wheat-bread-abm",
+  "name": "Honey Wheat Bread/ABM",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "machine",
+    "whole grain wheat breads"
+  ],
+  "recipeIngredient": [
+    "1 1/8 cups water/milk",
+    "1/3 cup honey",
+    "2 teaspoons vital gluten (optional)",
+    "3 cups whole wheat flour",
+    "2 teaspoons yeast",
+    "1/3 teaspoon salt"
+  ],
+  "recipeInstructions": "1. Put ingredients in order as instructed by the bread machine manufacturer.\n2. Select the \"bread\" setting on the bread machine.\n3. Bake until done.",
+  "url": null
+}

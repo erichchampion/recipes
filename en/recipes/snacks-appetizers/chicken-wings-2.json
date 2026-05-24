@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-wings-2",
+  "name": "Chicken Wings",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "poultry",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1 package Chicken Wings",
+    "1 cup Coca-Cola",
+    "1 cup Catsup",
+    "1/4 cup Butter"
+  ],
+  "recipeInstructions": "1. Place the chicken wings in a baking dish.\n2. In a separate bowl, mix together the Coca-Cola, catsup, and butter.\n3. Pour the mixture over the chicken wings, ensuring they are evenly coated.\n4. Bake in an oven set to 325°F until the chicken is cooked through, which should take about 1 hour.",
+  "url": null
+}

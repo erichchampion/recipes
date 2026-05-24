@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple",
+  "name": "Manzanas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "manzanas",
+    "repostería",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de manzanas ralladas",
+    "1 taza de manteca",
+    "1 taza de azúcar moreno",
+    "1/2 taza de azúcar",
+    "2 huevos",
+    "1/2 taza de leche agria",
+    "3 tazas de harina",
+    "1 cucharadita de bicarbonato de sodio",
+    "1 1/2 cucharaditas de sal",
+    "1 cucharadita de canela",
+    "1 cucharadita de nuez moscada",
+    "Nueces picadas (opcional)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta combinarlos bien.\n2. Precalentar el horno a 350 °F (o 325 °F si se prefiere).\n3. Verter la mezcla en un molde para hornear engrasado y enharinado.\n4. Hornear durante 12-15 minutos, o hasta que esté firme.",
+  "url": null
+}

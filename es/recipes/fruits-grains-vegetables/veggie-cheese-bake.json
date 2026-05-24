@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "veggie-cheese-bake",
+  "name": "Horno de queso de verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "platos secundarios",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 racimo grande de brócoli o coliflor, cocido y escurrido",
+    "200 g de crema de setas, apio o pollo",
+    "125 ml de leche",
+    "50 g de queso cheddar rallado",
+    "25 g de migas de pan con mantequilla"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180°C.\n2. Colocar las verduras en un plato para hornear poco profundo.\n3. Mezclar la crema, la leche y el queso, verter sobre las verduras.\n4. Espolvorear con las migas de pan.\n5. Hornear durante 30 minutos o hasta que burbujee.",
+  "url": null
+}

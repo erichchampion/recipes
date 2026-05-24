@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "miniature-pizza",
+  "name": "Mini pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "queso/huevos",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "Muffins ingleses",
+    "Salsa de tomate",
+    "Queso mozzarella, picado",
+    "Orégano seco",
+    "Queso Romano o Parmesano rallado"
+  ],
+  "recipeInstructions": "1. Divida y toste los muffins ingleses de forma convencional.\n2. Extienda una cucharadita generosa de salsa de tomate en cada mitad de muffin tostado. Coloque trozos de queso mozzarella sobre las mitades.\n3. Coloque 6 mitades de muffin a la vez en un plato resistente al calor forrado con un paño o servilleta de papel.\n4. Calente en el microondas sin cubrir durante 2 minutos o hasta que el queso empiece a derretirse y burbujee.\n5. Extienda un poco más de salsa de tomate sobre cada mitad de muffin. Espolvoree con orégano y queso rallado.\n6. Decore las pizzas al gusto y vuelva a calentar sin cubrir en el microondas durante 30 a 45 segundos, o hasta que el queso esté completamente derretido y las decoraciones estén calientes.\n7. Corte cada pizza en bocados individuales si lo desea.\n8. Sirva caliente.",
+  "url": null
+}

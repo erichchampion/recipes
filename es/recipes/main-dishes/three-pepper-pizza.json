@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "three-pepper-pizza",
+  "name": "Pizza de Tres Pimientos",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "diabetico",
+    "italiano",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 masa de pizza lista para hornear de 30 cm, parcialmente cocida",
+    "1 1/2 tazas de queso mozzarella rallado",
+    "1/2 cucharadita de condimento italiano seco",
+    "1 pimiento verde mediano, picado",
+    "1 pimiento rojo mediano, picado",
+    "1 pimiento amarillo mediano, picado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 200 °C.\n2. Engrasar ligeramente una bandeja redonda para pizza de 30 cm.\n3. Extender la mitad del queso sobre la masa.\n4. Espolvorear con el condimento italiano.\n5. Distribuir los pimientos de manera uniforme sobre la superficie.\n6. Espolvorear con el resto del queso.\n7. Hornear a 200 °C durante 8-10 minutos, o hasta que la masa sea de un color dorado intenso y el queso esté derretido.",
+  "url": null
+}

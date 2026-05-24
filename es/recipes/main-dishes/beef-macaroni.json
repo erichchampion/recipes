@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-macaroni",
+  "name": "Carne y macarrones",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "1/2 taza de mayonesa Miracle Whip",
+    "1 lata de salsa de espagueti (30 onzas)",
+    "1 paquete de macarrones cocidos (7 onzas)"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida.\n2. Agregar la mayonesa, la salsa de espagueti y los macarrones cocidos a la sartén.\n3. Calentar la mezcla a fuego medio hasta que esté bien caliente.\n4. Revolver ocasionalmente para asegurar una cocción uniforme.\n5. Espolvorear con queso antes de servir.",
+  "url": null
+}

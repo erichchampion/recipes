@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "alfredo",
+  "name": "Alfredo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta",
+    "sauces"
+  ],
+  "recipeIngredient": [
+    "1/4 cup Butter",
+    "2 cups Heavy Cream",
+    "1/8 tsp Nutmeg",
+    "1/2 tsp Salt",
+    "1/2 tsp Pepper",
+    "3/4 cup Grated Parmesan Cheese",
+    "1 lb Cooked Fettuccine"
+  ],
+  "recipeInstructions": "1. Combine butter, cream, nutmeg, salt, and pepper in a skillet.\n2. Heat over medium heat until the mixture comes to a boil.\n3. Reduce heat to low and simmer for 4 minutes.\n4. Remove from heat and stir in grated Parmesan cheese.\n5. Toss with cooked fettuccine.",
+  "url": null
+}

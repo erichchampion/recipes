@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cabbage-hamburger-casserole",
+  "name": "Casserola de hamburguesa de col",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne molida",
+    "1/2 cebolla grande, picada",
+    "1/2 pimiento mango, picado",
+    "400 g de salsa de tomate",
+    "1/2 cucharadita de comino",
+    "1/2 cucharadita de orégano",
+    "1 cucharadita de sal",
+    "3 dientes de ajo, picados finamente",
+    "1 pequeño repollo, cortado en cubos"
+  ],
+  "recipeInstructions": "1. En una sartén grande, dore la carne molida y escurra el exceso de grasa.\n2. Añada la cebolla, el pimiento mango y la salsa de tomate. Incorpore el comino, el orégano, la sal y el ajo.\n3. Corte el repollo en cubos y mézclelo para separar ligeramente los trozos.\n4. Agregue el repollo a la sartén.\n5. Cubra y reduzca el fuego. Deje cocinar a fuego lento durante 10-20 minutos.",
+  "url": null
+}

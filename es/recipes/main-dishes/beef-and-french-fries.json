@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-and-french-fries",
+  "name": "Carne y patatas fritas francesas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "8 cucharadas de aceite",
+    "2 patatas grandes, cortadas en bastones",
+    "(pueden ser congeladas)",
+    "1 cebolla mediana, laminada finamente",
+    "2 dientes de ajo, picados",
+    "10 onzas de solomillo de res, cortado en lonchas finas",
+    "2 cucharaditas de almidón de maíz",
+    "3 cucharadas de agua",
+    "1 cucharadita de azúcar",
+    "2 cucharaditas de salsa de pescado (Nuoc Mam)",
+    "Pimienta negra al gusto"
+  ],
+  "recipeInstructions": "1. Calentar 6 cucharadas de aceite en una sartén plana, añadir las patatas y freír hasta que estén doradas. Escurrir el aceite y reservar las patatas sobre papel absorbente.\n2. Freír la cebolla y el ajo en el aceite restante, luego agregar la carne de res y freír durante aproximadamente 1 minuto o hasta que esté dorada pero no dura.\n3. Mezclar el almidón de maíz, agua, azúcar y salsa de pescado en un bol pequeño, removiendo bien. Verter esta mezcla sobre la carne y remover. Añadir más agua si es necesario para obtener una salsa ligera que no sea demasiado espesa.\n4. Incorporar las patatas fritas o servirlas en un plato aparte y verter la carne y la salsa sobre las patatas.\n5. Espolvorear con pimienta negra al gusto, si lo deseas.",
+  "url": null
+}

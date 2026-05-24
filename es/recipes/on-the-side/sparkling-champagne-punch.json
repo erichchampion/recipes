@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "sparkling-champagne-punch",
+  "name": "Ponche de Champán Burbujeante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cóctel",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "24 onzas de concentrado de limonada congelada (deshelando y sin diluir)",
+    "24 onzas de concentrado de jugo de piña (deshelando y sin diluir)",
+    "6 tazas de agua",
+    "Cubos de hielo o un anillo de hielo",
+    "2 botellas de 33.8 onzas de ale de jengibre (refrescada)",
+    "28 onzas de agua tónica (refrescada)",
+    "1 botella de 25.4 onzas de champán (refrescada)"
+  ],
+  "recipeInstructions": "1. Mezcla los tres primeros ingredientes y enfría bien.\n2. Para servir el ponche, vierte la mezcla de jugo sobre hielo en un bol grande para ponche.\n3. Remueve suavemente el ale de jengibre, agua tónica y champán.",
+  "url": null
+}

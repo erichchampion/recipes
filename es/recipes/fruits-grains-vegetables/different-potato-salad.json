@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "different-potato-salad",
+  "name": "Ensalada de Patatas Diferente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "6 patatas",
+    "1 taza de cebolla picada",
+    "1/4 taza de vinagre",
+    "1/2 taza de mostaza preparada",
+    "Sal y pimienta al gusto",
+    "2 huevos, cocidos y cortados en cubos",
+    "1 taza de corazones de celeri picados",
+    "1/2 taza de mayonesa"
+  ],
+  "recipeInstructions": "1. Hierve y pica las patatas.\n2. Añade a las patatas hervidas la cebolla picada, el celeri, la sal y la pimienta.\n3. Separa las yemas de las claras de los huevos.\n4. Pica las claras y mézclalas con la mezcla de patatas.\n5. En un bol aparte, combina las yemas con el vinagre, la mostaza y la mayonesa hasta obtener una mezcla homogénea.\n6. Incorpora la mezcla de yemas al resto de la ensalada y remueve bien.\n7. Si la ensalada está muy espesa, añade vinagre poco a poco hasta alcanzar la consistencia deseada.\n8. Vierte el aderezo sobre la mezcla de patatas.",
+  "url": null
+}

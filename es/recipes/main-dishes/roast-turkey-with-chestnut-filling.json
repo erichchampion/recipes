@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "roast-turkey-with-chestnut-filling",
+  "name": "Pavo asado con relleno de castañas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "ave de corral",
+    "pavo"
+  ],
+  "recipeIngredient": [
+    "1 pavo",
+    "1 receta de relleno de castañas",
+    "1/2 taza de mantequilla",
+    "1/4 taza de harina",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "1. Deshuesar y limpiar el pavo.\n2. Rellenar con la mezcla de castañas.\n3. Batir la mantequilla con la harina hasta obtener una crema.\n4. Untar la mezcla sobre las piernas, alas y pechuga del pavo.\n5. Hornear a 200°C durante 15 minutos.\n6. Sazonar con sal.\n7. Reducir la temperatura a 180°C.\n8. Continuar asando durante 3 horas y media o hasta que esté tierno.",
+  "url": null
+}

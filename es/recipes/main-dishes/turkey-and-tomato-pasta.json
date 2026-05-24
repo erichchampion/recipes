@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "turkey-and-tomato-pasta",
+  "name": "Pasta con pavo y tomate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 lata de 400 g de tomates enteros triturados",
+    "1 lata de 800 g de tomates enteros triturados",
+    "2 cucharaditas de polvo de chile",
+    "1/2 cucharadita de polvo de ajo",
+    "200 g de pasta espiral sin cocinar",
+    "1 taza de pollo cocido en cubos"
+  ],
+  "recipeInstructions": "1. Mezclar los tomates triturados, el polvo de chile, el polvo de ajo y el pollo cocido en un olla de cocción lenta.\n2. Encender a intensidad alta y dejar que la mezcla se caliente durante aproximadamente 1 a 1,5 horas.\n3. Una vez caliente, incorporar la pasta espiral sin cocinar.\n4. Cocinar durante 30 minutos adicionales a 1 hora hasta que la pasta esté tierna.",
+  "url": null
+}

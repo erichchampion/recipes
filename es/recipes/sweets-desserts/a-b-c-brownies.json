@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "a-b-c-brownies",
+  "name": "Brownies de A.B.C.",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "brownie",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla",
+    "1 1/2 cucharaditas de polvo de hornear",
+    "1 taza de azúcar moreno, compactado",
+    "1/2 taza de almendras, cortadas groseramente",
+    "2 huevos, batidos",
+    "1 cucharadita de extracto de vainilla",
+    "1/2 taza de chips de chocolate",
+    "1 1/2 tazas de harina"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una sartén a fuego bajo.\n2. Añade el azúcar moreno y lleva la mezcla a ebullición. Apaga el fuego.\n3. Deja que la mezcla se enfríe durante unos 5-10 minutos, luego bate rápidamente los huevos sin sobrecalentarlos.\n4. Agrega el extracto de vainilla.\n5. En un bol aparte, combina la harina y el polvo de hornear.\n6. Incorpora gradualmente la mezcla de harina a la mezcla de azúcar y huevo.\n7. Vierte la masa en una sartén engrasada.",
+  "url": null
+}

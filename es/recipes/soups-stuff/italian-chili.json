@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-chili",
+  "name": "Chili italiano",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "italiano",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1/2 libra de carne molida",
+    "1 cebolla mediana, picada",
+    "1/2 taza de pimiento verde, picado",
+    "1/2 taza de apio, picado",
+    "10 ml ajo, picado",
+    "400 g de tomates triturados (28 onzas)",
+    "400 g de frijoles rojos, escurridos (15 onzas)",
+    "370 ml de jugo de tomate (1.5 tazas)",
+    "200 g de champiñones en rodajas y tallos, escurridos (8 onzas)",
+    "60 g de pasta de tomate (1/2 taza)",
+    "1 oz de pepperoni, cortado en mitades",
+    "1.5 cucharaditas de condimento italiano",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de azúcar",
+    "1/4 a 1/2 cucharadita de pimiento rojo seco, molido"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida en una sartén grande y escurrir el exceso de grasa.\n2. Agregar la cebolla, el pimiento verde, el apio y el ajo a la sartén. Cocinar hasta que los pimientos y el apio estén tiernos, aproximadamente 5 minutos.\n3. Transferir el contenido de la sartén a una olla de 4 litros o a un cocinero lento.\n4. Mezclar todos los ingredientes restantes en la olla.\n5. Remover bien.\n6. Hervir a fuego lento durante al menos 30 minutos, o hasta 2 horas para un sabor óptimo.",
+  "url": null
+}

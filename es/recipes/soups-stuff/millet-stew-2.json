@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "millet-stew-2",
+  "name": "Estofado de mijo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "granos",
+    "olla de cocción lenta",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "1 taza de mijo",
+    "4 tazas de agua",
+    "2 cebollas - cortadas en cuartos",
+    "2 papas - cortadas en trozos grandes",
+    "2 zanahorias - cortadas en rodajas gruesas",
+    "1 taza de apio - cortado en rodajas gruesas",
+    "1/2 libra de setas - picadas",
+    "2 hojas de laurel",
+    "1/2 cucharadita de orégano",
+    "1/2 cucharadita de tomillo"
+  ],
+  "recipeInstructions": "1. Tostar el mijo en una sartén seca durante unos 5 minutos, removiendo constantemente para evitar que se queme.\n2. Agregar todos los ingredientes a la olla de cocción lenta y cocinar durante 4 horas a fuego alto o 8 horas a fuego bajo.",
+  "url": null
+}

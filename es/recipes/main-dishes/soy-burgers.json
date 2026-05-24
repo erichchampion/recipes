@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "soy-burgers",
+  "name": "Hamburguesas de Soja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "agosto",
+    "hamburguesas",
+    "plato principal",
+    "verduras",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de cebolla verde picada",
+    "1 taza de arroz integral cocido",
+    "1 taza de guisantes de soja cocidos",
+    "1 taza de semillas de sésamo o girasol molidas",
+    "1/3 taza de harina de trigo integral",
+    "1 cucharadita de sal",
+    "2 cucharadas de salsa de soja",
+    "1/2 cucharadita de albahaca",
+    "2 huevos (o sustituto)"
+  ],
+  "recipeInstructions": "1. Remojar los guisantes de soja durante la noche. Escurrir y secar.\n2. PICAR groseramente los guisantes de soja.\n3. Saltear la cebolla y mezclar con el resto de ingredientes.\n4. Dar forma a las tostadas y cocinarlas en una sartén o parrilla.\nO hornear las tostadas a 180°C durante 20 minutos.\n5. Para evitar que se peguen, espolvorear la sartén o el molde para hornear con semillas de sésamo.\n6. O congelar sobre una bandeja para galletas y luego almacenar en el congelador. Sacar del congelador cuando se vaya a usar.",
+  "url": null
+}

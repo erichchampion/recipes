@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "smoked-carnitas",
+  "name": "Carnitas ahumadas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "plato de carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "6 libras de paleta de cerdo",
+    "1 cebolla grande, picada",
+    "4 cucharadas de chile en polvo de Nuevo México",
+    "1 cucharadita de semillas de comino tostadas y molidas",
+    "2 cucharaditas de ajo en polvo",
+    "1 cucharadita de orégano seco",
+    "1 cucharadita de sal",
+    "1 cucharadita de pimienta negra",
+    "agua para cubrir"
+  ],
+  "recipeInstructions": "1. Ahuma la paleta de cerdo con tu leña favorita a temperatura baja durante unas 3 horas. Incluso podrías considerar deshuesarla y cortarla en dos trozos. El objetivo es conseguir el sabor ahumado sin cocinarla hasta que esté tierna.\n2. Una vez que creas que la carne tiene suficiente sabor ahumado, transfiérela a una olla grande.\n3. Agrega los ingredientes restantes a la olla y lleva a ebullición a fuego alto.\n4. Reduce el fuego a un hervor suave y cocina, removiendo ocasionalmente, durante unas 2 horas. Al remover, desmenuza la carne.\n5. La carne de cerdo estará lista cuando haya aún mucha humedad pero ya no quede agua.",
+  "url": null
+}

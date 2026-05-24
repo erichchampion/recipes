@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "spinach-rice-salad",
+  "name": "Ensalada de arroz con espinacas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 paquete de arroz Uncle Ben's Original",
+    "2 2/3 tazas de aderezo para ensalada italiano",
+    "1/3 taza de salsa de soja",
+    "1 cucharadita de azúcar",
+    "1 lb de espinacas frescas, cortadas en tiras finas",
+    "1 1/2 tazas de cebolla verde, picada",
+    "1 taza de tocino crujiente/desmenuzado"
+  ],
+  "recipeInstructions": "1. Cocinar el arroz según las instrucciones del paquete, omitiendo la margarina.\n2. Transferir el arroz y el líquido restante a una sartén poco profunda. Dejar reposar hasta que se absorba todo el líquido.\n3. Mezclar el aderezo para ensalada, la salsa de soja y el azúcar.\n4. Incorporar la mezcla al arroz cocido.\n5. Cubrir y refrigerar.\n6. Doblar las espinacas, la cebolla y el tocino justo antes de servir.",
+  "url": null
+}

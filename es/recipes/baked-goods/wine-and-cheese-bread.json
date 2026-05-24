@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "wine-and-cheese-bread",
+  "name": "Pan de vino y queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "favoritos",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 taza de vino blanco",
+    "2/3 taza de queso cheddar fuerte rallado",
+    "2 cucharadas de mantequilla",
+    "2/3 cucharadita de sal",
+    "1 cucharadita de azúcar",
+    "3 tazas de harina de pan",
+    "2 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Mezclar el vino blanco, el queso cheddar rallado, la mantequilla, la sal y el azúcar en un bol grande.\n2. Amasar hasta que todos los ingredientes estén bien incorporados.\n3. En otro bol, mezclar la harina de pan con la levadura.\n4. Añadir gradualmente la mezcla seca a la húmeda, removiendo hasta que se combine ligeramente.\n5. Verter la masa en una máquina de pan o en un molde para pan engrasado.\n6. Seguir las instrucciones de la máquina de pan para hornear, o hornear en el horno precalentado a 190 °C (375 °F) durante unos 35-40 minutos, o hasta que esté dorado y suene hueco al golpear la base.\n7. Sacar del horno y dejar enfriar antes de servir.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "kids-pizza-muffins",
+  "name": "Muffins de Pizza para Niños",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "niños",
+    "magdalenas",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "Muffins ingleses",
+    "Salsa de tomate",
+    "Setas - laminadas",
+    "Pepperoni - laminado",
+    "Queso mozzarella - rallado",
+    "Aceitunas negras - laminadas"
+  ],
+  "recipeInstructions": "1. Cortar los muffins por la mitad.\n2. Extender salsa de tomate sobre cada mitad del muffin.\n3. Cubrir con setas, pepperoni, aceitunas negras o cualquier otra combinación de sus ingredientes favoritos.\n4. Espolvorear queso mozzarella rallado sobre los toppings.\n5. Colocar el muffin pizza en el microondas.\n6. Cocinar durante 1-2 minutos, o hasta que el queso se derrita.",
+  "url": null
+}

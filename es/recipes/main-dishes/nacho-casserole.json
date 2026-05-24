@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "nacho-casserole",
+  "name": "Nacho Sencillo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "plato principal",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida magra",
+    "1 cebolla grande, picada",
+    "16 onzas de frijoles refritos",
+    "4 onzas de chiles verdes enlatados, escurridos",
+    "1 taza de queso cheddar rallado",
+    "1 ½ tazas de queso Monterey Jack rallado",
+    "1 taza de salsa para tacos",
+    "¼ taza de cebolla verde picada, incluyendo los tallos",
+    "4 onzas de aceitunas verdes enlatadas, escurridas",
+    "1 aguacate maduro, machacado",
+    "1 taza de crema agria",
+    "Tortillas de maíz"
+  ],
+  "recipeInstructions": "1. Dorar la carne y desmenuzarla en un sartén grande. Agregar las cebollas y cocinar hasta que se vuelvan transparentes.\n2. Sazonar al gusto con sal y pimienta.\n3. Extender los frijoles refritos en un molde para hornear de 23 x 33 cm.\n4. Cubrir con la mezcla de carne.\n5. Espolvorear con chiles, luego con quesos, luego con salsa de tacos por encima.\n6. Hornear a 200 °C durante 20 minutos.\n7. Retirar del horno y espolvorear con cebolla verde y aceitunas.\n8. Apilar el aguacate machacado en el centro; cubrir con crema agria.\n9. Servir con tortillas de maíz.",
+  "url": null
+}

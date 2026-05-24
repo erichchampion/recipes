@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-best-raisin-bread",
+  "name": "My Best Raisin Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "breakfast",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 1/8 cup Water",
+    "3 cups Bread flour",
+    "1 1/2 tsp Salt",
+    "3 tbsp Brown sugar",
+    "1 1/2 tbsp Butter",
+    "1 1/2 tbsp Dry milk",
+    "1 tbsp Cinnamon",
+    "1 1/2 tsp Active dry yeast",
+    "3/4 cup Raisins"
+  ],
+  "recipeInstructions": "1. Place all ingredients in the order listed (for Hitachi machine).\n2. Set on regular or rapid bread settings.\n3. Adjust as needed for your machine.\n4. This recipe was adapted from a recipe that came with my machine.\n5. The result is an equal-quality raisin bread compared to what we used to get fresh from the bakery.\n6. It is a heavy, rich, and sweet loaf.\n7. Excellent for snacking or breakfast.",
+  "url": null
+}

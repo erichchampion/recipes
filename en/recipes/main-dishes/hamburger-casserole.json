@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-casserole",
+  "name": "Hamburger Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 can vegetable soup, condensed (large can)",
+    "1 pound venison or ground beef, ground",
+    "1 package onion soup",
+    "1 tablespoon Worcestershire sauce",
+    "1 pint sour cream (light)",
+    "1 package refrigerated biscuits"
+  ],
+  "recipeInstructions": "1. Brown the ground beef or ground venison.\n2. Add the onion soup and Worcestershire sauce to the meat mixture.\n3. Mix in the vegetable soup and sour cream.\n4. Pour the mixture into a baking dish.\n5. Cover with refrigerated biscuits.\n6. Bake at 350°F for about 15 minutes, or until the biscuits are browned.\nNote: You may use a Bisquick biscuit recipe instead of refrigerated biscuits.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "teriyaki-steak",
+  "name": "Steak al estilo teriyaki",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "parrilla",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de aceite de oliva",
+    "2/3 taza de salsa de soja baja en sodio",
+    "2 cucharadas de jengibre fresco rallado",
+    "2 dientes de ajo, laminados",
+    "3 cucharaditas de cáscara de naranja rallada",
+    "1/4 taza de vino burdeos",
+    "2 filetes T-bone"
+  ],
+  "recipeInstructions": "1. En una bolsa de cierre hermético de un galón, mezclar todos los ingredientes excepto el steak.\n- No utilizar salsa de soja regular; de lo contrario, el marinado será demasiado salado.\n2. Agregar los filetes a la bolsa y sellar.\n3. Refrigerar durante 24 horas, volteando ocasionalmente.\n4. Asar a la parrilla o al grill hasta alcanzar el punto de cocción deseado.\n5. Servir con el vino burdeos restante.",
+  "url": null
+}

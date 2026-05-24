@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "camp-stew-2",
+  "name": "Camp Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "camping",
+    "main dish",
+    "miscellaneous",
+    "outdoors",
+    "teri"
+  ],
+  "recipeIngredient": [
+    "2 lb Hamburger",
+    "1 Can stewed tomatoes",
+    "1 Can corn",
+    "8 oz Elbow macaroni",
+    "1/2 cup Chopped onions",
+    "1 cup Water",
+    "1/4 lb Longhorn cheddar cheese"
+  ],
+  "recipeInstructions": "1. Brown the beef in a Dutch oven, kettle, or skillet.\n2. Drain the beef.\n3. Stir in the stewed tomatoes, corn, macaroni, and water.\n4. Cook until done.\n5. Just before serving, add the shredded Longhorn cheddar cheese.",
+  "url": null
+}

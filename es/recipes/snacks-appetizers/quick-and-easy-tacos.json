@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-and-easy-tacos",
+  "name": "Tacos rápidos y fáciles",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "mexicanos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 taza de salsa para untar Velvetta",
+    "1/2 libra de carne molida, cocida y escurrida",
+    "10 capas de taco",
+    "1 taza de lechuga",
+    "3/4 taza de tomate"
+  ],
+  "recipeInstructions": "1. Mezcla el queso cremoso Velvetta con la carne cocida.\n2. Rellena las capas de taco con la mezcla de carne.\n3. Adorna cada capa con lechuga y tomate.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-blender-drink",
+  "name": "Bebida batida para desayuno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "diabético",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de leche desnatada",
+    "3 cucharadas de germen de trigo",
+    "1/2 cucharadita de extracto de vainilla",
+    "1/2 plátano congelado en rodajas"
+  ],
+  "recipeInstructions": "1. Pelar y cortar un plátano. Colocar las rodajas en una bolsa con cierre hermético.\n2. Congelar la bolsa durante al menos 8 horas hasta que el plátano esté completamente congelado.\n3. Agregar todos los ingredientes a una licuadora.\n4. Licuar a velocidad baja hasta obtener una textura suave y cremosa.",
+  "url": null
+}

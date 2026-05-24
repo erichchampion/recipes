@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "curry-dip-2",
+  "name": "Curry Dip",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempies"
+  ],
+  "recipeIngredient": [
+    "2 tazas de mayonesa",
+    "2 cucharaditas de polvo de curry",
+    "2 cucharaditas de cebolla blanca picada",
+    "2 cucharaditas de sal de ajo",
+    "2 cucharaditas de rábano horneado",
+    "2 cucharaditas de vinagre de tarragona"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta que queden bien integrados.\n2. Refrigerar antes de servir con verduras crudas.",
+  "url": null
+}

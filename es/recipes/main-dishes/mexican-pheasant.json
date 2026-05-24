@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-pheasant",
+  "name": "Pavo mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americana",
+    "étnica",
+    "carnes",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "2 tazas de pavo cocido, cortado en trozos de 1 pulgada",
+    "1 lata de sopa de champiñones cremosos",
+    "1 lata de sopa de pollo cremosos",
+    "1/2 tarro de salsa mediana picante",
+    "1 taza de crema agria",
+    "1 taza de queso cheddar rallado",
+    "1 taza de queso Monterey Jack rallado",
+    "1 cebolla picada",
+    "1 paquete de tortillas de maíz, cortadas en tiras"
+  ],
+  "recipeInstructions": "1. Mezclar el pavo cocido, las sopas, la cebolla, la salsa, la crema agria y 3/4 de queso en un bol grande.\n2. Capar la mezcla con tiras de tortilla.\n3. Cubrir con el queso restante.\n4. Hornear a 175°C durante 30 minutos, apagando el horno una vez hecho.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "shisky-doughnuts-ii",
+  "name": "Donas II",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pastel",
+    "étnico",
+    "pastelería"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de azúcar",
+    "2 tazas de leche tibia",
+    "1/4 taza de Crisco",
+    "2 cucharadas de ron o whisky",
+    "1 cucharadita de sal",
+    "6 tazas de harina",
+    "2 huevos",
+    "1 sobre de levadura en 1/4 taza de agua tibia"
+  ],
+  "recipeInstructions": "1. Batir el azúcar y el Crisco juntos.\n2. Agregar los huevos uno a uno y mezclar bien.\n3. Cernir la harina y la sal sobre la mezcla con Crisco.",
+  "url": null
+}

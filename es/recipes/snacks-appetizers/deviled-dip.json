@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "deviled-dip",
+  "name": "Dip devilado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "5 oz de crema de pimiento y queso",
+    "2,25 oz de jamón encurtido",
+    "1/2 taza de mayonesa",
+    "2 cucharadas de perejil finamente picado",
+    "1 cucharada de cebolla finamente picada",
+    "Una pizca de glutamato monosódico (MSG)",
+    "4 gotas de salsa Tabasco"
+  ],
+  "recipeInstructions": "1. Mezclar en una licuadora la crema de pimiento, el jamón encurtido, la mayonesa, el perejil, la cebolla y las especias.\n2. Licuar hasta obtener una consistencia suave.\n3. Refrigerar antes de servir.\nRinde aproximadamente 1-1/3 tazas.\nReceta original de Better Homes & Gardens BBQ (1959). Adaptación por Rick Weissgerber [GEnie D.WEISSGERBE]",
+  "url": null
+}

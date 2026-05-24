@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-hash",
+  "name": "Hash de hamburguesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "carne de res",
+    "guisos",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 kg de carne molida",
+    "6 patatas medianas, cortadas en cubos",
+    "1 cebolla mediana",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida en una sartén.\n2. Escurrir el exceso de grasa.\n3. Añadir los cubos de patata a la sartén.\n4. Verter suficiente agua para cubrir las patatas y la carne.\n5. Agregar la cebolla entera para poderla retirar cuando estén cocidas las patatas.\n6. Sazonar con sal y pimienta al gusto.",
+  "url": null
+}

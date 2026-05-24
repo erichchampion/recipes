@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-bread-machine-recipe",
+  "name": "Receta básica de panificadora",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "bajo en calorías",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "2 3/4 cucharaditas de levadura",
+    "1 cucharada de malta",
+    "11 onzas de agua (110-120°F)",
+    "3 tazas de harina de trigo integral",
+    "1/2 taza de harina blanca sin blanquear",
+    "2 cucharadas de azúcar, miel, melaza...",
+    "1 cucharadita de sal",
+    "2 cucharadas de gluten"
+  ],
+  "recipeInstructions": "1. En el pan de la panificadora, combine la levadura y la malta con varias onzas de agua. Utilice un termómetro para asegurarse de que el agua esté entre 110°F y 120°F; demasiado caliente matará la levadura.\n2. La levadura debe comenzar a burbujear y multiplicarse (fermentar) después de unos cinco minutos.\n3. En un bol separado, mezcle todos los ingredientes secos: harina de trigo integral, harina blanca sin blanquear, sal, gluten, azúcar (miel, melaza o polvo de malta para panes dulces), y semillas opcionales como eneldo o sésamo.\n4. Si la masa está demasiado seca, añada agua gradualmente hasta que forme una masa grande; evite tener varios trozos distintos.\n5. Vierta la masa mezclada en el pan de la panificadora y encienda la máquina. Observe cómo queda la masa al terminar de hornearse. Ajuste la consistencia si es necesario, añadiendo más harina o líquido según sea requerido.\n6. Para panes dulces, añada más azúcar (miel, melaza o polvo de malta) e ingredientes opcionales como pasas. Si se usa plátano machacado, reduzca ligeramente el agua para compensar.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "macaroni-hot-dish",
+  "name": "Macarrones con salsa picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "fácil",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "3 tazas de macarrones cocidos",
+    "1 libra de carne molida magra",
+    "1 cebolla mediana, picada",
+    "1 lata de sopa de pollo cremoso",
+    "1 lata de sopa de setas cremoso"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida magra y la cebolla juntas hasta que ya no sea rosada.\n2. Escurrir cualquier grasa excesiva de la mezcla de carne.\n3. En un recipiente para hornear de 1,5 litros, combinar la carne dorada, los macarrones, la sopa de pollo y la sopa de setas.\n4. Tapar el recipiente para hornear.\n5. Hornear a 180 grados Celsius durante 30 minutos o hasta que esté caliente por completo.\n6. Rinde de 4 a 6 porciones.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "zucchini-salsa",
+  "name": "Salsa de calabacín",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "guarniciones",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 calabacín, pelado y cortado en cubos",
+    "1 cebolla, cortada en cubos",
+    "1 lata de tomates triturados (procesados en licuadora)",
+    "1 lata de tomates cortados en trozos",
+    "3 latas de chiles verdes",
+    "Sal de ajo al gusto"
+  ],
+  "recipeInstructions": "1. Saltear el calabacín y la cebolla hasta que estén tiernos.\n2. Agregar los ingredientes restantes y reducir a fuego lento durante 30 minutos.",
+  "url": null
+}

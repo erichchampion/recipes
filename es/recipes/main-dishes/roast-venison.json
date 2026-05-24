@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "roast-venison",
+  "name": "Asado de venado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "ciervo"
+  ],
+  "recipeIngredient": [
+    "4 lb de solomillo de venado (alce, ciervo, jabalí)",
+    "2 cucharadas de harina",
+    "2 dientes de ajo (picados)",
+    "2 cucharadas de azúcar moreno",
+    "1 cucharadita de mostaza preparada",
+    "2 cucharadas de salsa Worcestershire",
+    "1/4 taza de vinagre o zumo de limón",
+    "1 cebolla grande (en rodajas)",
+    "1 lata de 400 g de tomates",
+    "MARINADA:",
+    "1/2 taza de vinagre",
+    "2 dientes de ajo (picados)",
+    "1 cucharada de sal",
+    "1/2 taza de vino tinto",
+    "Agua fría para cubrir la carne"
+  ],
+  "recipeInstructions": "1. Deje que la carne se mantenga a temperatura ambiente durante 8 horas.\n2. Marina el venado en la nevera durante la noche utilizando la mezcla de MARINADA. Esto abre los poros de la carne cuando está a temperatura ambiente y atrae la marinada al enfriarse.\n3. Condimente con sal, enrolle en harina y dore en una sartén caliente.\n4. Coloque el venado condimentado en un cocinero lento.\n5. Añada los ingredientes restantes (tomates, vinagre o zumo de limón, ajo, mostaza preparada, vino tinto).\n6. Cubra y cocine a fuego lento durante 10-12 horas.",
+  "url": null
+}

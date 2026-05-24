@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-soup",
+  "name": "Chicken Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "1 Chicken (including giblets), cut up",
+    "1 tablespoon Salt",
+    "4 Carrots, chopped",
+    "6 Celery stalks with leaves, chopped",
+    "1 Onion, medium-sized, chopped",
+    "1 Garlic clove, minced",
+    "1 cup Rice or noodles"
+  ],
+  "recipeInstructions": "1. Place chicken pieces in a large pot with enough water to cover.\n2. Add salt and bring mixture to a boil.\n3. Reduce heat to allow the mixture to simmer gently. Skim off any fat that rises to the surface.\n4. Add chopped carrots, celery, onion, and garlic. Cover and continue cooking until vegetables are tender.\n5. Remove chicken pieces from the pot. You can serve them separately or dice them and return them to the soup.\n6. Season with salt to taste.\n7. Add rice or noodles and cook until they are tender.",
+  "url": null
+}

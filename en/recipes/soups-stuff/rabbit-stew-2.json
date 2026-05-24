@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "rabbit-stew-2",
+  "name": "Rabbit Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "main dish",
+    "meats",
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "3 Rabbits cut into pieces",
+    "1 cup Flour",
+    "1/4 cup Olive oil",
+    "1/2 cup Onions, chopped",
+    "2 Garlic cloves, minced",
+    "1/4 cup Wine (sherry or dry)",
+    "1 cup Chicken broth",
+    "1 cup Game marinade, strained",
+    "1 tablespoon Thyme",
+    "1 tablespoon Sage",
+    "1 teaspoon Cayenne pepper",
+    "1/4 cup Parsley, minced",
+    "Salt and pepper to taste"
+  ],
+  "recipeInstructions": "1. Dust rabbit pieces in flour and shake off excess. Brown in olive oil on all sides in a large black iron pot. Remove and keep warm.\n2. Add onions and garlic to the same oil; cook until clear, not brown.\n3. Drain off excess oil and return the rabbit to the pot.\n4. Pour on sherry.\n5. Add broth and strained marinade. Bring to a boil.\n6. Reduce heat and simmer, covered, for 1 to 1-1/2 hours.",
+  "url": null
+}

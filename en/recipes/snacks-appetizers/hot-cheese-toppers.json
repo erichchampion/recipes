@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-cheese-toppers",
+  "name": "Hot Cheese Toppers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "cheese",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "your favorite kind of cheese",
+    "whole wheat crackers",
+    "lunch meat",
+    "apples",
+    "bacon bits",
+    "olives",
+    "salsa",
+    "or other toppings"
+  ],
+  "recipeInstructions": "1. Top each cracker with a slice of cheese that fits the cracker.\n2. Place the crackers on a microwaveable plate.\n3. Add desired toppings to each cracker.\n4. Microwave on high for 15 to 30 seconds, or until the cheese is melted.",
+  "url": null
+}

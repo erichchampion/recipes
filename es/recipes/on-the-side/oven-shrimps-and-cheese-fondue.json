@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "oven-shrimps-and-cheese-fondue",
+  "name": "Camarones al horno con fondue de queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "fondue",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "10 rebanadas de pan blanco",
+    "5 huevos",
+    "2 1/2 tazas de leche",
+    "2 cucharadas de perejil picado",
+    "1 cucharadita de mostaza en polvo",
+    "1 cucharadita de sal",
+    "2 tazas de queso cheddar rallado",
+    "3 cucharadas de cebolla picada",
+    "2 tazas de langostinos"
+  ],
+  "recipeInstructions": "1. Retire las corteza del pan y córtelo en cubos.\n2. Bate los huevos, la leche y las especias juntas.\n3. Añade los cubos de pan, la cebolla, el queso y los langostinos a la mezcla de huevo.\n4. Vierte la mezcla en un molde para hornear sin engrasar.\n5. Hornea a 180°C durante 50 minutos, sin cubrir.\n6. Sirve inmediatamente.",
+  "url": null
+}

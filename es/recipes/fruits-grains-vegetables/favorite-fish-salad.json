@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "favorite-fish-salad",
+  "name": "Ensalada de Pescado Favorita",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pescado",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de pescado cocido y desmenuzado",
+    "1 taza de uvas rojas sin semillas, cortadas por la mitad",
+    "1 taza de apio picado",
+    "1/2 taza de mayonesa sin grasa o yogur bajo en grasa",
+    "1/4 taza de almendras laminadas, tostadas",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de polvo de curry",
+    "Lechuga de hoja"
+  ],
+  "recipeInstructions": "1. En un bol grande, combina suavemente el pescado cocido, las uvas, el apio, la mayonesa o el yogur, las almendras, la sal y el polvo de curry.\n2. Mezcla hasta que todos los ingredientes estén bien incorporados.\n3. Sirve sobre una cama de lechuga de hoja.",
+  "url": null
+}

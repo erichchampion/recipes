@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "dungeon-bars",
+  "name": "Barras del Calabozo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de mantequilla sin sal (2 barras)",
+    "1/2 taza de azúcar moreno",
+    "1/2 taza de azúcar blanco",
+    "2 huevos",
+    "2 cucharaditas de extracto de vainilla",
+    "1 taza de harina",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de bicarbonato de sodio",
+    "1 taza de avena",
+    "1 taza de pasas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 175°C.\n2. Batir juntos 1 taza (2 barras) de mantequilla sin sal, 1/2 taza de azúcar moreno y 1/2 taza de azúcar blanco hasta que quede suave.\n3. Incorporar 2 huevos y 2 cucharaditas de extracto de vainilla.\n4. Mezclar 1 taza de harina, 1/2 cucharadita de sal y 1/4 cucharadita de bicarbonato de sodio.\n5. Doblar 1 taza de avena y 1 taza de pasas a la mezcla.\n6. Verter la mezcla en un molde engrasado de 9x13 pulgadas.\n7. Hornear durante media hora.\n8. Dejar enfriar ligeramente antes de cortar en barras (32 piezas).",
+  "url": null
+}

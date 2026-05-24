@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "salad-dressing-2",
+  "name": "Aderezo para ensalada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "aderezo para ensalada",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de harina",
+    "2 cucharadas de azúcar",
+    "2 cucharaditas de mostaza en polvo",
+    "1/2 cucharadita de sal",
+    "2/3 taza de vinagre",
+    "1/3 taza de agua",
+    "2 huevos, batidos bien",
+    "1 cucharadita de mantequilla"
+  ],
+  "recipeInstructions": "1. En una sartén, mezcle la harina, el azúcar, la mostaza y la sal.\n2. Agregue el vinagre y el agua; incorpore los huevos.\n3. Cocine, revolviendo constantemente hasta que espese.\n4. Añada la mantequilla; refrigere.\n5. Puede diluirlo con un poco de crema cuando esté listo para usar, ya que se vuelve bastante espeso.",
+  "url": null
+}

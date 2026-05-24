@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "smoked-lobsters",
+  "name": "Smoked Lobsters",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "lobster",
+    "main dish",
+    "meat",
+    "menu",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "6 whole lobsters",
+    "1 bag charcoal, hardwood",
+    "1 bag hickory chunks"
+  ],
+  "recipeInstructions": "1. Wrap the lobsters in corn husks.\n2. Place them on the top rack of the smoker.\n3. Smoke for 30 minutes.",
+  "url": null
+}

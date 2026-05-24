@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-bundt-cake",
+  "name": "Pastel de Bundt de Chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 sobre de mezcla para pastel de chocolate profundo",
+    "4 oz sobre de pudín instantáneo de chocolate",
+    "1/2 taza de crema agria",
+    "1/2 taza de aceite",
+    "1/2 taza de agua tibia",
+    "4 huevos",
+    "1 sobre (12 onzas) de chispas de chocolate",
+    "Azúcar en polvo para espolvorear"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes, excepto el azúcar en polvo, hasta que queden bien combinados.\n2. Verter la masa en un molde Bundt engrasado.\n3. Hornear a 350 grados durante 50-60 minutos.\n4. Dejar enfriar el pastel en el molde durante 10 minutos.\n5. Volcar el pastel sobre un plato de servir.\n6. Espolvorear con azúcar en polvo una vez que esté completamente frío.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-sour-cream-frosting",
+  "name": "Glaseado de chocolate con crema agria",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "chocolate",
+    "postres",
+    "glaseado"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de crema ácida",
+    "3 1/2 tazas de azúcar glas",
+    "1 cucharadita de extracto de vainilla",
+    "2 onzas de chocolate sin endulzar Ghirardelli, derretido"
+  ],
+  "recipeInstructions": "Rinde para un pastel de 9 x 13 pulgadas.\n1. Bate la crema ácida con el azúcar y la vainilla hasta obtener una mezcla suave.\n2. Incorpora el chocolate derretido.\n3. Extiéndelo sobre el pastel.",
+  "url": null
+}

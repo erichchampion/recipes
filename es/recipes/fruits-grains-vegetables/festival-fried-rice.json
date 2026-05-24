@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "festival-fried-rice",
+  "name": "Arroz Frito Festivo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "plato principal",
+    "arroz",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "2 lonchas de tocino, picadas",
+    "1/3 taza de cebolletas cortadas, incluyendo los tallos",
+    "1/3 taza de setas cortadas",
+    "1/4 taza de pimiento rojo o verde picado",
+    "1/4 taza de guisantes verdes congelados (descongelados)",
+    "1 huevo batido",
+    "2 tazas de arroz cocido, enfriado",
+    "1 cucharada de salsa de soja"
+  ],
+  "recipeInstructions": "1. Cocinar el tocino en una sartén grande a fuego medio-bajo hasta que esté crujiente.\n2. Aumentar el fuego a medio. Agregar las cebolletas, setas, pimiento y guisantes; saltear durante 1 minuto.\n3. Apartar los vegetales y verter el huevo en la sartén. Escamar.\n4. Incorporar el arroz y la salsa de soja; remover hasta que se caliente y los granos estén ligeramente separados.",
+  "url": null
+}

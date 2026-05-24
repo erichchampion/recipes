@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "pork-barbecue-noodles",
+  "name": "Barbacoa de cerdo y fideos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "pasta",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aceite de maíz",
+    "1/4 taza de cebolla finamente picada",
+    "1/4 taza de pimiento verde finamente picado",
+    "2 libras (2 tazas) de solomillo de cerdo sin hueso cocido y desmenuzado",
+    "2 tazas de caldo de carne o pollo",
+    "1 1/2 tazas de ketchup",
+    "1 cucharada de azúcar",
+    "1 cucharada de vinagre de sidra",
+    "1 cucharada de salsa Worcestershire",
+    "1/2 cucharadita de mostaza en polvo",
+    "1/4 cucharadita de canela molida",
+    "1/4 cucharadita de chile en polvo",
+    "1/4 cucharadita de pimienta negra",
+    "6 onzas de fideos tipo huevo, cocidos y escurridos"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de maíz en una sartén grande a fuego medio.\n2. Añadir la cebolla y el pimiento verde. Cocinar, removiendo, durante 1 minuto.\n3. Incorporar los ingredientes restantes.\n4. Llevar a ebullición.\n5. Reducir el fuego y dejar cocer a fuego lento durante 30 minutos o hasta que espese.\n6. Mezclar con los fideos.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizzaburgers",
+  "name": "Pizzaburgers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "hamburger meats main dish",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "2 lb Hamburger",
+    "12 oz (2 cups) Tomato Sauce",
+    "6 oz Stuffed Green Olives, Chopped",
+    "1 lb Cubed Mozzerella Cheese",
+    "1 Salt, Pepper, and Oregano"
+  ],
+  "recipeInstructions": "1. Use a small jar of stuffed green olives in this recipe.\n2. Salt, pepper, and oregano to taste.",
+  "url": null
+}

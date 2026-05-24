@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-rice",
+  "name": "Breakfast Rice",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "mcdougall"
+  ],
+  "recipeIngredient": [
+    "1 cup Long-grain brown rice",
+    "1 cup Unsweetened apple juice",
+    "1 cup Water",
+    "1/2 cup Raisins",
+    "1/2 tsp Ground cinnamon"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a saucepan.\n2. Bring mixture to a boil, then cover and reduce heat.\n3. Cook for 40 minutes, stirring occasionally.\n4. Remove from heat and let rest for 10 minutes before serving.\nThis recipe can also be made in a slow cooker. Place all ingredients in the slow cooker and cook on low for 8 to 10 hours.",
+  "url": null
+}

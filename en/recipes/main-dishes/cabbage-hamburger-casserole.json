@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cabbage-hamburger-casserole",
+  "name": "Cabbage Hamburger Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "2 lb Ground beef",
+    "1/2 large Onion, chopped",
+    "1/2 Mango pepper, chopped",
+    "16 oz Tomato sauce",
+    "1/2 tsp Cumin",
+    "1/2 tsp Oregano",
+    "1 tsp Salt",
+    "3 Garlic cloves, minced",
+    "1 small Cabbage, cubed"
+  ],
+  "recipeInstructions": "1. In a large skillet, brown the ground beef and drain.\n2. Add onion, mango pepper, and tomato sauce. Stir in cumin, oregano, salt, and garlic.\n3. Cut cabbage into cubes and mix to separate pieces slightly.\n4. Add the cabbage to the skillet.\n5. Cover and simmer for 10-20 minutes.",
+  "url": null
+}

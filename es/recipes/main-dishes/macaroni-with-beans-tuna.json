@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "macaroni-with-beans-tuna",
+  "name": "Macarrones con frijoles y atún",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "atún"
+  ],
+  "recipeIngredient": [
+    "1 lb de macarrones en forma de elipse, cocidos",
+    "12 onzas de atún en agua, escurrido y desmenuzado",
+    "16 onzas de judías rojas oscuras enlatadas, escurridas",
+    "1/2 taza de cebolla picada",
+    "1/4 taza de perejil",
+    "2 cucharadas de vinagre blanco",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1 taza de queso suizo rallado"
+  ],
+  "recipeInstructions": "1. Preparar la pasta según las instrucciones del paquete.\n2. Mientras se cocina la pasta, mezclar el atún, las judías, la cebolla y el perejil en un bol.\n3. En un bol pequeño, batir juntos el vinagre, la sal y la pimienta.\n4. Escurrir bien la pasta una vez cocida y mezclarla con la mezcla de judías.\n5. Verter el aderezo sobre la pasta y mezclar bien.\n6. Espolvorear el queso sobre la pasta y mezclar suavemente.\n7. Refrigerar hasta servir.",
+  "url": null
+}

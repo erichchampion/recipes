@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "ice-cream-topping",
+  "name": "Ice Cream Topping",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "3 Eggs",
+    "1 cup Sugar",
+    "2 cups Graham Crackers",
+    "2 tsp Vanilla Extract",
+    "2 tsp Almond Extract",
+    "1 cup Chopped Nuts"
+  ],
+  "recipeInstructions": "1. Preheat oven to 350°F.\n2. Separate egg yolks from whites.\n3. Beat the egg yolks with sugar until smooth.\n4. Gradually add melted butter, vanilla extract, almond extract, and chopped nuts to the yolk mixture.\n5. Fold in graham cracker crumbs.\n6. Pour the batter into a greased pie dish.\n7. Bake for 30-35 minutes or until set.\n8. Serve with whipped cream on top of your favorite ice cream.",
+  "url": null
+}

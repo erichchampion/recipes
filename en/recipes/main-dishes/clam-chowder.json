@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "clam-chowder",
+  "name": "Clam Chowder",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "slow cooker",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "3 cans Potato soup",
+    "2 cans New England clam chowder soup",
+    "1/2 cup Butter",
+    "1 small Onion, diced",
+    "1 pint Half & half",
+    "2 cans Clams, chopped"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a large bowl.\n2. Transfer mixture to a crock pot and simmer for 2-4 hours.\n3. Alternatively, mix all ingredients together and cook on the stove top over low heat until heated through.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "dang-good-pie",
+  "name": "Pastel de lo más rico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "3/4 de taza de mantequilla",
+    "3 huevos",
+    "3 cucharadas de harina",
+    "1 1/2 tazas de azúcar",
+    "1 taza de piña triturada escurrida",
+    "1 taza de copos de coco",
+    "Una masa de tarta sin hornear de 9 pulgadas"
+  ],
+  "recipeInstructions": "1. Derretir la mantequilla y mezclarla con los demás ingredientes hasta que estén bien combinados.\n2. Verter el relleno en la masa de tarta sin hornear.\n3. Hornear durante 1 hora a 175 °C o hasta que esté cuajado y dorado.",
+  "url": null
+}

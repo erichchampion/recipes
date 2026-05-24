@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-swiss-appetizer-pizza",
+  "name": "Pizza de aperitivo con jamón y queso suizo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "aperitivos",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de mostaza de Dijon",
+    "1 base de pan italiano precocido (de 10 onzas)",
+    "1 taza de jamón cocido en cubos",
+    "1/4 taza de cebolla verde finamente picada",
+    "1 1/2 tazas de queso suizo rallado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 200 °C.\n2. Extender la mostaza de Dijon uniformemente sobre la base del pan.\n3. Colocar la base del pan, sin engrasar, sobre una bandeja para hornear.\n4. Disponer el jamón, las cebollas verdes y el queso suizo sobre la mostaza.\n5. Hornear durante 6-8 minutos o hasta que se derrita el queso.\n6. Cortar en cuadrados pequeños para servir. Da para 64 aperitivos.",
+  "url": null
+}

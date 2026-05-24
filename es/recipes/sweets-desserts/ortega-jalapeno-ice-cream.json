@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "ortega-jalapeno-ice-cream",
+  "name": "Helado de Jalapeño de Ortega",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "1 litro de helado de vainilla",
+    "3 cucharadas de pimientos jalapeno, picados finamente",
+    "1 cucharada de cáscara de lima rallada"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcla el helado, los jalapenos y la cáscara de lima.\n2. Vuelve a colocar la mezcla en el recipiente del helado.\n3. Congela hasta que esté firme.",
+  "url": null
+}

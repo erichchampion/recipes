@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-dijon",
+  "name": "Pollo Dijon",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "6 pechugas de pollo enteras, sin piel ni hueso y cortadas por la mitad",
+    "1/2 taza de migas de pan finas",
+    "1 cucharadita de tomillo seco en hojuelas",
+    "1/2 cucharadita de sal",
+    "1/3 taza de yogur natural",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1/4 taza de mostaza Dijon"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180°C. Engrasar ligeramente una o dos bandejas para hornear grandes.\n2. Espolvorear ligeramente el pollo con sal y pimienta. Mezclar el yogur y la mostaza en un bol pequeño. Extender la mezcla sobre los lados inferiores del pollo. Colocarlo sobre las bandejas, con la parte inferior hacia arriba, dejando espacio entre cada pieza. Extender la mezcla por encima. Combinar las migas de pan, el tomillo, 1/2 cucharadita de sal y 1/4 cucharadita de pimienta. Espolvorear sobre el pollo.\n3. Hornear durante 30 a 35 minutos hasta que esté dorado y ya no sea rosado en el centro.",
+  "url": null
+}

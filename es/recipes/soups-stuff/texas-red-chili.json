@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "texas-red-chili",
+  "name": "Chili Rojo de Texas",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "americana",
+    "chili",
+    "étnica",
+    "plato principal",
+    "mexicana",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 lb de solomillo de res sin hueso",
+    "1 taza de cebolla finamente picada",
+    "4 dientes de ajo finamente picados",
+    "1/4 taza de aceite vegetal",
+    "2 tazas de puré de tomate",
+    "2 cucharadas de chile rojo en polvo, al gusto",
+    "1 cucharadita de semillas de comino molidas",
+    "1 cucharadita de cilantro molido",
+    "4 chiles Anaheim,",
+    "4 chiles jalapeño,"
+  ],
+  "recipeInstructions": "1. Dorar el solomillo en lotes hasta que esté bien hecho.\n2. Reservar y retirar la grasa excesiva.\n3. Saltear las cebollas y el ajo hasta que estén tiernos.\n4. Añadir aceite a la olla con la mezcla de cebolla y tomate.\n5. Mezclar todos los ingredientes juntos.\n6. Reducir a fuego lento durante al menos 30 minutos, removiendo ocasionalmente.\n7. Ajustar la sazón antes de servir si es necesario.",
+  "url": null
+}

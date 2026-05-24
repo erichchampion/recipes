@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetable-paella",
+  "name": "Paella de Verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "plato principal",
+    "dietas especiales",
+    "tempeh",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "3 tazas de arroz de grano corto blanco (crudo)",
+    "6 tazas de caldo de verduras o agua",
+    "3 cucharadas de aceite de oliva",
+    "2 tazas de guisantes",
+    "1 cebolla roja grande, picada",
+    "3 costillas de apio, cortadas en trozos de ½ pulgada",
+    "1 taza de aceitunas verdes escurridas",
+    "3 ½ onzas de alcaparras con su líquido",
+    "½ taza de pimientos rojos picados",
+    "1 libra de tempeh, cortado en cubos de 1 pulgada",
+    "1 cucharadita de azafrán en polvo",
+    "¼ taza de tomillo seco",
+    "1 cucharadita de pimienta negra",
+    "¾ taza de perejil picado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 250°F (120°C).\n2. Colocar el arroz en el fondo de una bandeja para hornear grande o un plato para hornear, y verter el caldo encima.\n3. Tapar, colocar en el horno y cocinar durante una hora.\n4. Retirar la tapa y remover.\n5. Cocinar, tapado, durante 30 minutos más, y comprobar que el arroz esté listo. Añadir más caldo si es necesario.\n6. Cocinar otros 30 minutos, si es necesario, hasta que el arroz esté hecho y se haya absorbido el líquido.\n7. Espolvorear con perejil y servir caliente.",
+  "url": null
+}

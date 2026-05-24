@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "eggs-portugal",
+  "name": "Huevos a la Portuguesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "huevos",
+    "plato principal",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 lb de salchicha de cerdo (en trozos)",
+    "8 rebanadas de pan (en cubos)",
+    "3/4 lb de queso cheddar (rallado)",
+    "4 huevos batidos",
+    "2 1/2 tazas de leche",
+    "3/4 cucharadita de mostaza",
+    "1 lata de sopa de setas",
+    "1/4 taza de vermut"
+  ],
+  "recipeInstructions": "1. En un refractario engrasado de 9x13 cm, dispone los cubos de pan.\n2. Dora la salchicha hasta que esté finamente picada y escurre el exceso de grasa. Cubre el pan con queso.\n3. Coloca la salchicha sobre el queso y el pan.\n4. Mezcla los huevos y la leche, y viértelos sobre la salchicha, el pan y el queso. Tapa y refrigera durante la noche.\n5. Al día siguiente, combina el vermut con la sopa (sin agua adicional) y extiéndelo sobre la superficie del refractario.\n6. Hornea a 300°F durante 1 hora.",
+  "url": null
+}

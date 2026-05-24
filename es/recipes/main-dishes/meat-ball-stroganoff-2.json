@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "meat-ball-stroganoff-2",
+  "name": "Stroganoff de carne picada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1/4 taza de migas de pan secas y finas",
+    "1/4 taza de cebolla picada finamente",
+    "1 huevo ligeramente batido",
+    "1/4 cucharadita de sal",
+    "Una pizca de pimienta",
+    "1 lata de sopa de champiñones cremosos",
+    "1/2 taza de crema agria",
+    "1/4 taza de agua",
+    "Pasta cocida"
+  ],
+  "recipeInstructions": "1. Mezclar bien la carne, las migas de pan, la cebolla, el huevo y las especias.\n2. Formar 16 bolas de carne.\n3. En una sartén, dorar las bolas de carne; escurrir el exceso de grasa.\n4. Agregar la sopa, la crema agria y el agua.\n5. Tapar y cocinar a fuego lento durante 20 minutos, removiendo ocasionalmente.\n6. Servir con pasta.",
+  "url": null
+}

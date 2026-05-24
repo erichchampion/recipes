@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "country-pork-stew",
+  "name": "Estofado de Cerdo Campesino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "olla de cocción lenta",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de cerdo, cortado en cubos de 1 pulgada",
+    "3 papas medianas con piel, peladas y cortadas en cubos",
+    "4 zanahorias, cortadas en trozos de 1/2 pulgada",
+    "1 cebolla mediana, picada",
+    "1 calabacín mediano, cortado en rodajas de 1/2 pulgada",
+    "1 lata de tomates enteros, cortados en trozos",
+    "2 tazas de agua",
+    "1 cucharadita de caldo instantáneo de carne",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimienta",
+    "1/2 cucharadita de pimentón dulce",
+    "3 cucharadas de almidón de maíz",
+    "2 cucharadas de agua"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes, excepto el almidón de maíz y 2 tazas de agua, en una olla de cocción lenta.\n2. Revolver para mezclar bien los ingredientes.\n3. Tapar y cocinar a fuego lento (nivel #3) durante 7-9 horas o a fuego alto (nivel #5) durante 4-5 horas.\n4. Aumentar el calor a alto.\n5. En un bol pequeño, mezclar el almidón de maíz con 2 tazas de agua. Verter lentamente en el estofado hasta que espese.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-ricotta-cheese",
+  "name": "Queso de ricota falso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso",
+    "huevos/queso",
+    "guarniciones",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 lb de tofu firme",
+    "2 cucharadas de azúcar",
+    "1/2 cucharadita de sal",
+    "2 cucharadas de jugo de limón"
+  ],
+  "recipeInstructions": "1. Escurrir el tofu firme y presionarlo entre dos platos con un peso encima durante unos 15 minutos para eliminar el exceso de humedad.\n2. Cortar el tofu escurrido en trozos y colocarlo en un procesador de alimentos o licuadora.\n3. Añadir el azúcar, la sal y el jugo de limón al tofu en el procesador.\n4. Procesar hasta obtener una textura suave y cremosa, raspar los lados según sea necesario.\n5. Probar y ajustar la dulzura o acidez si se desea.\nEsta receta es ideal para quienes controlan su colesterol o para quienes no consumen productos animales. Se puede utilizar como lo harías con queso ricota; en lasaña, ravioles rellenos, manicotti. También es excelente en pizzas o en capas de guisos. Si se mezcla hasta obtener una textura cremosa, sirve como un sustituto del yogur natural.",
+  "url": null
+}

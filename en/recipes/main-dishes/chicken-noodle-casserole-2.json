@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-noodle-casserole-2",
+  "name": "Chicken Noodle Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1 small chicken, cooked and boned",
+    "1 head of broccoli, cooked until tender",
+    "1 package Noodles Romanoff, follow the directions on the package",
+    "1 can cream of mushroom soup"
+  ],
+  "recipeInstructions": "1. Preheat oven to 350 degrees.\n2. Add all ingredients to a large baking dish, mixing well.\n3. Bake for approximately 30 minutes or until browned.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-roast-brisket",
+  "name": "Bistec de res asado con naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "3 cebollas",
+    "4 lb (1,8 kg) de brisket de ternera, cortado en primer lugar",
+    "1/2 taza de vino tinto",
+    "1 taza de jugo de naranja",
+    "3 cucharadas de salsa de tomate",
+    "1 cucharadita de azúcar",
+    "Sal",
+    "Pimienta",
+    "Ajo"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 325 °F (160 °C).\n2. Utilizar una bandeja para asar con tapa. Colocar las cebollas en la base y el brisket encima, con la grasa hacia arriba.\n3. Mezclar el vino tinto, el jugo de naranja, la salsa de tomate y el azúcar en un bol.\n4. Verter la mezcla sobre la carne.\n5. Añadir sal, pimienta y ajo al gusto.\n6. Hornear el brisket cubierto durante 2 horas y 30 minutos.\n7. Aumentar la temperatura del horno a 350 °F (180 °C) y hornear destapado durante media hora adicional.\n8. Cortar el brisket en contra del grano una vez enfriado.",
+  "url": null
+}

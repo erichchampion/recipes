@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "breadmaker-rich-dough",
+  "name": "Masa de panadero rica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "postres",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "280 ml de agua tibia",
+    "2 cucharadas de leche en polvo",
+    "3 cucharadas de azúcar",
+    "3 cucharadas de margarina",
+    "1 huevo grande",
+    "1 cucharadita de sal",
+    "3 1/2 tazas de harina blanca",
+    "2 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "1. Agregar los ingredientes en la panificadora o bol según el orden indicado o como lo recomiende el fabricante.\n2. Seleccionar el ciclo \"masa\". Si el ciclo dura más de 1 hora y media, detenerlo y retirar la masa.\n3. Amasar para formar trenzas o rollos simples y dejar levar antes de hornear de forma convencional.",
+  "url": null
+}

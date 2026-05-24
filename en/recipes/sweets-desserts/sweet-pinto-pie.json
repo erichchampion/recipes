@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-pinto-pie",
+  "name": "Sweet Pinto Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1 Baked pie crust - crumb or regular",
+    "2 large Onions - chopped",
+    "2 cups Cooked Pinto Beans (unseasoned), drained",
+    "1/2 cup Water",
+    "2 tbsp Cinnamon",
+    "1 tsp Nutmeg",
+    "1/4 tsp Sea salt (optional)",
+    "2 tbsp Honey or molasses (optional)"
+  ],
+  "recipeInstructions": "1. Saute the onions in oil over medium heat until very soft and clear.\n2. Blend the cooked onions, beans, water, and seasonings until smooth.\n3. If more sweetness is desired, add the honey and blend.\n4. Spread the mixture in the baked pie crust.\n5. Bake at 350°F for 15 to 20 minutes.",
+  "url": null
+}

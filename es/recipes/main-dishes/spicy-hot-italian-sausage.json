@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-hot-italian-sausage",
+  "name": "Salsicha Italiana Picante y Caliente",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiana",
+    "plato principal",
+    "carne",
+    "cerdo",
+    "salchichas"
+  ],
+  "recipeIngredient": [
+    "3 lb de carne de cerdo, hombro",
+    "3/4 lb de grasa de cerdo",
+    "1 cucharada de ajo, picado finamente",
+    "4 cucharaditas de sal kosher",
+    "2 cucharadas de semillas de eneldo",
+    "1 cucharadita de pimienta cayena",
+    "1 cucharadita de pimentón rojo seco en copos",
+    "2 cucharaditas de pimienta negra recién molida",
+    "1/4 taza de agua fría",
+    "Casings de cerdo mediano"
+  ],
+  "recipeInstructions": "1. Combinar la carne, la grasa y todos los demás ingredientes excepto el agua y las casings en un bol grande.\n2. Moler a través de una placa de 3/8 de pulgada.\n3. Mezclar bien con agua húmeda hasta que esté bien combinado.\n4. Rellenar las casings de cerdo mediano, atando cada 5 pulgadas.",
+  "url": null
+}

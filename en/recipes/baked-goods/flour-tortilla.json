@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "flour-tortilla",
+  "name": "Flour Tortilla",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "mexican",
+    "tortillas"
+  ],
+  "recipeIngredient": [
+    "4 cups All-purpose flour",
+    "2 tablespoons Lard (yes, lard. Shortening doesn't work as well)",
+    "1/2 cup Warm Milk",
+    "1 tablespoon Baking powder",
+    "1 teaspoon Salt"
+  ],
+  "recipeInstructions": "1. Mix all the dry ingredients and sift.\n2. Add the lard to the mixture.\n3. Gradually add warm milk, mixing until smooth.\n4. Cut into pieces.\n5. Roll out each piece into a very thin round shape.\n6. Cook on a hot griddle until lightly browned and spotted.",
+  "url": null
+}

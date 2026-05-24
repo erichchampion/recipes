@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "favorite-bean-recipe",
+  "name": "Favorite Bean Recipe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "salads"
+  ],
+  "recipeIngredient": [
+    "2 cans dark red kidney beans, drained",
+    "3/4 cup diced onions",
+    "3/4 cup sliced celery OR 1/2 cup sliced tender stalks of Lovage",
+    "3/4 cup green pimiento-stuffed olives, chopped",
+    "1/2 cup Vlasic's Hot Piccalili relish",
+    "ground white pepper to taste",
+    "Lowfat mayonnaise to moisten"
+  ],
+  "recipeInstructions": "1. Combine all vegetables and piccalili in a large bowl.\n2. Season with ground white pepper to taste.\n3. Add mayonnaise to moisten.\n4. Mix well until everything is evenly coated.\n5. Chill the mixture for at least 30 minutes before serving.",
+  "url": null
+}

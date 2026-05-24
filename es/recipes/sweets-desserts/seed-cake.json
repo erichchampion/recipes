@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "seed-cake",
+  "name": "Pastel de semillas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "1 huevo",
+    "1/2 taza de mantequilla o margarina (1 barra)",
+    "1 taza de leche",
+    "2 tazas de harina",
+    "2 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "1 cucharadita de extracto de vainilla o limón",
+    "1/2 taza de coco rallado",
+    "1/2 cucharadita de semillas de eneldo",
+    "1 cucharadita de semillas de sésamo"
+  ],
+  "recipeInstructions": "1. Batir el huevo, la mantequilla y el azúcar hasta que quede una mezcla esponjosa.\n2. Agregar alternativamente la leche y los ingredientes secos a la mezcla.\n3. Hornear en un horno moderado a 175 °C. Si se utiliza un molde poco profundo, tardará aproximadamente media hora; si se usa un molde para pan, hornear más tiempo.\n4. Comprobar el estado de cocción con un palillo.\n5. Rinde aproximadamente para 8 personas.",
+  "url": null
+}

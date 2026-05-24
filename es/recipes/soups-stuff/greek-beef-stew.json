@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "greek-beef-stew",
+  "name": "Estofado de carne al estilo griego",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "étnico",
+    "griego",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de agua",
+    "2 cucharadas de tapioca rápida",
+    "1 1/2 libras de carne de ternera para estofar, cortada en cubos de 1 pulgada",
+    "3 cucharadas de aceite de cocina",
+    "2 cebollas medianas, cortadas en cuartos",
+    "8 onzas de salsa de tomate",
+    "1/3 taza de vino tinto seco",
+    "1 cucharada de azúcar moreno",
+    "1 1/2 cucharaditas de sal de ajo",
+    "1/4 cucharadita de canela molida",
+    "1 hoja de laurel",
+    "1 taza de queso feta desmenuzado",
+    "1/2 taza de nueces picadas"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar el agua y la tapioca; dejar reposar al menos 5 minutos.\n2. Mientras tanto, en una olla holandesa de 4 cuartos, dorar los cubos de carne en aceite caliente; escurrir el exceso de grasa.\n3. Agregar la mezcla de tapioca, las cebollas, la salsa de tomate, el vino, el azúcar moreno, la sal de ajo, la canela y la hoja de laurel.\n4. Llevar a ebullición.\n5. Reducir el fuego; tapar y cocinar a fuego lento durante 1 1/2 a 2 horas o hasta que la carne esté tierna.\n6. Retirar la hoja de laurel antes de servir.\n7. Servir el estofado en cuencos. Cubrir cada ración con queso feta y nueces picadas.",
+  "url": null
+}

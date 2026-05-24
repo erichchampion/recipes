@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-chicken-legs",
+  "name": "Piernas de pollo falsas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "2 lb. de cerdo magro, cortado en cubos",
+    "2 lb. de ternera, cortada en cubos",
+    "4 huevos, ligeramente batidos",
+    "1 paquete de galletas Saltine, trituradas",
+    "2 latas de sopa de champiñones, diluida con un poco de leche",
+    "8-12 pinchos de carne"
+  ],
+  "recipeInstructions": "1. Alternar los cubos de ternera y cerdo en cada pincho de carne.\n2. Rodar cada pincho en huevo y migas de galleta.\n3. Dorar la carne en brocheta en una sartén con aceite.\n4. Colocar la carne dorada en un plato para hornear.\n5. Cubrir con sopa de champiñones.\n6. Hornear a 175 °C durante 1 hora.",
+  "url": null
+}

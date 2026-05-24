@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "spinach-soup",
+  "name": "Sopa de espinacas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 paquetes de espinacas congeladas",
+    "1/4 taza de cebolla picada",
+    "1/3 taza de harina tamizada",
+    "1 cucharadita de sal",
+    "1/4 taza de aceite de maní",
+    "1/4 cucharadita de pimienta negra",
+    "Una pizca de nuez moscada",
+    "6 tazas de leche",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. Cocinar las espinacas congeladas en agua sin sal según las instrucciones del paquete y escurrir.\n2. Calentar el aceite de maní en una cacerola grande. Añadir la cebolla y saltear hasta que esté transparente (5 minutos).\n3. Retirar del fuego. Mezclar la harina, la sal, la pimienta y la nuez moscada.\n4. Agregar la leche gradualmente, batiendo constantemente.\n5. Incorporar las espinacas cocidas. Cocinar a fuego medio-alto durante unos 15 minutos, removiendo con frecuencia para evitar que se queme.",
+  "url": null
+}

@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "gyro-sandwiches",
+  "name": "Gyro Sandwiches",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "greek",
+    "main dish",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "1 1/4 lb Lean ground beef",
+    "1 1/4 lb Lean ground lamb",
+    "1/4 cup Oregano",
+    "1 1/2 tbsp Onion powder",
+    "1 tbsp Garlic powder",
+    "3/4 tbsp Ground pepper (or more)",
+    "1 tsp Thyme",
+    "3/4 tsp Salt",
+    "Yogurt Sauce:",
+    "1 cup Plain yogurt",
+    "1/4 cup Finely chopped cucumber",
+    "1/4 cup Finely chopped onion",
+    "2 tsp Olive oil",
+    "Garlic powder",
+    "Salt and white pepper",
+    "8 large Pita breads, cut in half",
+    "Thinly sliced onion rings"
+  ],
+  "recipeInstructions": "For patties: Preheat broiler or prepare barbecue. Combine ingredients lightly but thoroughly in a large bowl. Shape into 16 thin patties and broil, turning once, until cooked through as desired.\nFor sauce: Combine first 4 ingredients in a small bowl. Add garlic powder, salt, and pepper to taste.\nTo assemble sandwich, place 1 meat patty in each pita half and top with yogurt sauce and onion slices.",
+  "url": null
+}

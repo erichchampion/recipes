@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "pirate-steak",
+  "name": "Steak del Pirata",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecua",
+    "carne de vacuno",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 lata de cerveza (355 ml)",
+    "1/2 taza de salsa chili",
+    "1/4 taza de aceite de ensalada",
+    "2 cucharadas de salsa de soja",
+    "1 cucharada de mostaza dijon",
+    "1/2 cucharadita de salsa picante roja",
+    "0,13 cucharaditas de humo líquido",
+    "1/2 taza de cebolla picada groseramente",
+    "2 dientes de ajo machacados",
+    "3 kg de solomillo de res, de 1,5 a 2 pulgadas de grosor",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el steak, la sal y la pimienta en un bol.\n2. Reducir a fuego lento la mezcla durante 30 minutos.\n3. Barnizar la carne cocida con la salsa antes de servir.",
+  "url": null
+}

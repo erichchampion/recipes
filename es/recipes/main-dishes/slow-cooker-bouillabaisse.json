@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "slow-cooker-bouillabaisse",
+  "name": "Bouillabaisse lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "olla de cocción lenta",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 libras de filetes de pescado sin hueso (cortados en cubos de 1 pulgada)",
+    "1 libra de gambas peladas",
+    "1 1/2 libras de almejas",
+    "2 tazas de almejas despojadas",
+    "2 latas de tomates (cada una de 450 g)",
+    "1 taza de vino blanco",
+    "1 taza de cebolla picada",
+    "1 taza de apio picado",
+    "1/2 taza de aceite de oliva"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en el cocinador lento.\n2. Revuelve para mezclar y tapa la olla.\n3. Cocina a fuego bajo durante 3 horas.\n4. Vierte en cuencos para servir.\n5. Rinde de 6 a 8 porciones.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "swiss-cheese-fondue-3",
+  "name": "Fondue suiza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "desayuno",
+    "queso",
+    "fondue",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 libra de queso suizo rallado",
+    "1 diente de ajo opcional",
+    "2 tazas de vino blanco seco",
+    "2 cucharadas de kirsch, ron o brandy opcional",
+    "1/4 taza de queso parmesano rallado (opcional)",
+    "Nutmeg o pimienta al gusto",
+    "2 cucharadas de harina",
+    "Pan, carne cocida y verduras para mojar."
+  ],
+  "recipeInstructions": "1. Recubrir el queso suizo con harina.\n2. Frotar el interior de la olla de fondue con ajo.\n3. Verter el vino y calentar hasta que esté tibio pero no hirviendo.\n4. Añadir el queso suizo por puñados, removiendo continuamente con una cuchara de madera hasta que se derrita (apariencia de salsa cremosa clara).\n5. Incorporar el kirsch, parmesano y especias.\n6. Dejar hervir una vez, removiendo continuamente.\n7. Servir con los acompañamientos para mojar.",
+  "url": null
+}

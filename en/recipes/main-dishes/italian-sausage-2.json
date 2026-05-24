@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-sausage-2",
+  "name": "Italian Sausage",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "meat",
+    "sausages"
+  ],
+  "recipeIngredient": [
+    "2 tsp Salt",
+    "1 tsp Black pepper",
+    "4 tsp Fennel seeds",
+    "4 tsp Oregano",
+    "1 tsp Garlic powder",
+    "8 lb Pork shoulder"
+  ],
+  "recipeInstructions": "1. Cut the pork into 1 1/2-inch cubes.\n2. Sprinkle the combined seasoning on the pork and toss to distribute evenly.\n3. Grind the seasoned pork.\n4. Shape the sausage into patties.",
+  "url": null
+}

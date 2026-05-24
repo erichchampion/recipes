@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-gratin",
+  "name": "Gratín de patatas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "patatas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "5 patatas medianas, peladas y cortadas en rodajas",
+    "4 cebollas medianas, cortadas en rodajas",
+    "2 cucharadas de margarina",
+    "1 cucharadita de sal",
+    "Una pizca de pimienta",
+    "Una pizca de nuez moscada",
+    "1 cucharadita de tomillo seco en hojas",
+    "1/2 taza de crema de batir"
+  ],
+  "recipeInstructions": "1. Derretir la margarina en una sartén.\n2. Saltear las cebollas hasta que se vuelvan translúcidas.\n3. En un plato para hornear poco profundo, colocar capas alternas de patatas y cebollas.\n4. Espolvorear sal, pimienta, nuez moscada y tomillo seco entre cada capa.\n5. Verter la crema de batir sobre el gratin.\n6. Hornear a 180°C durante 40 minutos.\n7. Aumentar la temperatura a 200°C y hornear durante 10-20 minutos más, o hasta que esté dorado y burbujeante.",
+  "url": null
+}

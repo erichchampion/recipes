@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "anglers-remoulade-sauce",
+  "name": "Salsa Remolada de Pescadores",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pescado",
+    "caza",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 litro de mayonesa",
+    "1 litro de mostaza",
+    "28 gramos de pasta de anchoa",
+    "15 ml de zumo de limón",
+    "28 gramos de cebolla rallada",
+    "28 gramos de vino jerez",
+    "7 ml de salsa Tabasco",
+    "15 ml de salsa Worcestershire"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Batir o batir con un batidor hasta obtener una textura suave y bien combinada.\n3. Ajustar la sazón si es necesario.\n4. Servir como salsa agria y cítrica para pescado a la parrilla, ostras, camarones, carne de cangrejo, almejas o langosta.",
+  "url": null
+}

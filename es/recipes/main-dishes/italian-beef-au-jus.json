@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-beef-au-jus",
+  "name": "Carne italiana al jugo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "6 libras de solomillo, desmenuzado",
+    "2 sobrecitos de salsa gravy au jugo",
+    "2 sobres de mezcla para aderezo italiano seco",
+    "2 latas de caldo de carne"
+  ],
+  "recipeInstructions": "1. Coloca la carne en una olla de cocción lenta.\n2. Mezcla los ingredientes restantes (salsa gravy, mezcla de aderezo italiano y caldo de carne) y viértelos sobre la carne.\n3. Cocina a fuego lento durante 8 horas.",
+  "url": null
+}

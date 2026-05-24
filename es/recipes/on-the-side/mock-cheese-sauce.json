@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-cheese-sauce",
+  "name": "Salsa de queso falsa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 lb de tofu",
+    "1/2 taza de levadura nutricional en copos",
+    "1/2 taza de anacardos crudos",
+    "1 taza de leche de arroz, nueces o soja",
+    "2 cucharadas de margarina o mantequilla",
+    "1 cucharada de jugo de limón",
+    "1 cucharada de miel o azúcar",
+    "1 cucharada de mostaza",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en una licuadora y mezclar a velocidad alta hasta obtener una textura suave.\n2. Transferir la mezcla a una cacerola y calentar a fuego bajo-medio, removiendo ocasionalmente, hasta que se caliente por completo.\n3. Servir la salsa sobre tus verduras favoritas o utilizarla como desees (por ejemplo, como topping para pizza, untable en pan, relleno para quiches, capa en lasaña o ingrediente para fondue).",
+  "url": null
+}

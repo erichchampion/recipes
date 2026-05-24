@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-rice-2",
+  "name": "Spicy Rice",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "main dish",
+    "rice",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "225 g, 8 oz long grain brown rice",
+    "5 ml (1 tsp) ground turmeric",
+    "1 stick cinnamon",
+    "1 bay leaf",
+    "4 green cardamum pods",
+    "6 black pepper corns"
+  ],
+  "recipeInstructions": "1. Put all the ingredients in a saucepan with enough water and bring to a boil.\n2. Reduce heat to low, cover, and simmer for 35 minutes or until the rice is tender.",
+  "url": null
+}

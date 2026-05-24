@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "club-burrito",
+  "name": "Burrito de Club",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carnes",
+    "bocadillos"
+  ],
+  "recipeIngredient": [
+    "1 rebanada de pavo del estilo del deli",
+    "1 rebanada de jamón del estilo del deli",
+    "1 rebanada de queso suizo",
+    "1 tortilla de harina suave",
+    "Lechuga picada",
+    "Sprouts"
+  ],
+  "recipeInstructions": "1. Coloca la tortilla sobre un plato exterior.\n2. Superpone el queso, el jamón y el pavo sobre la tortilla.\n3. Añade la lechuga picada y los sprouts en el centro.\n4. Fija cualquier verdura adicional si lo deseas.\n5. Enrolla cuidadosamente el burrito.\n6. Usa un palillo para asegurar el enrollado.",
+  "url": null
+}

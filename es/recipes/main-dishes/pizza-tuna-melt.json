@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-tuna-melt",
+  "name": "Pizza de atún derretido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "4 panes de pita",
+    "4 cucharaditas aceite de oliva",
+    "1 lata de atún blanco en aceite",
+    "4 rebanadas de mozzarella",
+    "4 rebanadas de tomate",
+    "4 cucharaditas de albahaca fresca",
+    "Pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 230 °C.\n2. Colocar cuatro pitas en una bandeja para hornear grande.\n3. Rocíar media cucharadita de aceite de oliva sobre cada pita.\n4. Cubrir con un cuarto del atún en aceite.\n5. Espolvorear queso mozzarella sobre cada pan.\n6. Poner una rodaja de tomate sobre cada pita.\n7. Rocíar media cucharadita de aceite de oliva y una cucharadita de albahaca sobre cada pita.\n8. Sazonar con pimienta al gusto.\n9. Hornear durante unos 10 minutos, hasta que el queso esté burbujeante.\n10. Dejar enfriar unos minutos antes de servir.",
+  "url": null
+}

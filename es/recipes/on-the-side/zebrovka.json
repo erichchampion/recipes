@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "zebrovka",
+  "name": "Zebrovka",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "licores",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 hojas de zebrovka (hierba de búfalo europea)",
+    "1 1/5 tazas de vodka",
+    "Una pizca de pimienta"
+  ],
+  "recipeInstructions": "1. Coloca las hojas de zebrovka en un frasco de vidrio.\n2. Vierte el vodka sobre la hierba hasta que quede completamente sumergida, dejando aproximadamente un centímetro de espacio libre en la parte superior.\n3. Cierra bien el frasco y déjalo macerar durante al menos 24 horas.\n4. Después de la infusión, cuela la hierba y sirve el vodka frío con hielo.",
+  "url": null
+}

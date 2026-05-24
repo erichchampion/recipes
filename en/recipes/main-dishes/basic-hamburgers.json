@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-hamburgers",
+  "name": "Basic Hamburgers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "main dish",
+    "meats"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Ground Beef",
+    "1/4 cup Onion, finely chopped",
+    "1 t Salt",
+    "1 t Worcestershire Sauce",
+    "1/4 tsp Pepper",
+    "Variations:",
+    "1 tbsp Horseradish",
+    "1 tbsp Mustard, prepared",
+    "1 tbsp Chives, snipped",
+    "2 tbsp Blue Cheese, crumbled",
+    "2 tbsp Sesame Seed",
+    "1/4 cup Ripe Olives, chopped",
+    "1/4 cup Dill Pickle, chopped or 1/4 cup Pickle Relish",
+    "1/4 cup Nuts, chopped"
+  ],
+  "recipeInstructions": "Mix all ingredients together. Shape mixture into 6 patties, each about 3/4-inch thick. Broil or grill patties 4-inches from the heat, turning once, to desired doneness, 10 to 15 minutes. Serve on toasted buns with favorite toppings.",
+  "url": null
+}

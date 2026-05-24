@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-sauce",
+  "name": "Lemon Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "puddings",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "3 tbsp Sugar",
+    "1 tbsp Cornstarch",
+    "1 tbsp Lemon Juice",
+    "1/2 Lemon, Grated Rind",
+    "1/4 tsp Salt",
+    "1 tsp Butter",
+    "1 cup Water, Boiling"
+  ],
+  "recipeInstructions": "1. Combine the sugar, salt, and cornstarch in a bowl and mix thoroughly.\n2. Gradually add the boiling water to the mixture while stirring continuously.\n3. Cook over a double boiler until the mixture thickens.\n4. Add the butter and stir until fully melted.\n5. Stir in the grated lemon rind and lemon juice.\nSource: Pennsylvania Dutch Cook Book - Fine Old Recipes, Culinary Arts Press, 1936.",
+  "url": null
+}

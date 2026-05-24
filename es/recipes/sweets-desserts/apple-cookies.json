@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-cookies",
+  "name": "Galletas de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "manzanas",
+    "repostería",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de manzanas; sin pelar, ralladas",
+    "1/4 taza de jugo de manzana; sin endulzar",
+    "1/2 taza de azúcar granulada",
+    "3/4 taza de arándanos secos o pasas",
+    "1 huevo grande",
+    "1/2 taza de azúcar morena, compacta",
+    "1 cucharadita de extracto de vainilla",
+    "1/4 taza de aceite vegetal",
+    "1 taza de harina todo uso sin blanquear",
+    "1/2 taza de harina de centeno",
+    "1 1-1/2 tazas de cereal multigrano rápido (p. ej., Quaker)",
+    "1 cucharadita de polvo de hornear",
+    "1 cucharadita de bicarbonato de sodio",
+    "2 cucharaditas de especias para pastel de calabaza"
+  ],
+  "recipeInstructions": "Precalentar el horno a 375 °F. Engrasar dos hojas para galletas con spray antiadherente.\nCombinar las manzanas ralladas, jugo de manzana, azúcar granulada y arándanos en un bol; reservar.\nEn otro bol, batir el huevo, azúcar morena, extracto de vainilla y aceite con un mezclador eléctrico hasta que esté suave.\nAgregar la mezcla de manzanas y mezclarla a mano en la masa.\nAñadir las harinas, cereal, polvo de hornear, bicarbonato de sodio y especias; mezclar a mano en la masa.\nDejar reposar la masa durante unos 5 minutos para que absorba todo el líquido.\nColocar cucharaditas de masa con una cuchara sobre las hojas para galletas, dejando espacio de 2 pulgadas entre ellas.\nHornear durante 10-12 minutos o hasta que las galletas estén ligeramente doradas. Enfriar en rejillas. Repetir con la masa restante.",
+  "url": null
+}

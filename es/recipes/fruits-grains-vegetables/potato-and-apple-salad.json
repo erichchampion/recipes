@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-and-apple-salad",
+  "name": "Ensalada de Patata y Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "guarniciones",
+    "almidones"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de crema espesa",
+    "2 cucharadas de vinagre de vino blanco",
+    "1 cucharadita de cebolla rallada",
+    "1 cucharadita de sal",
+    "Pimienta molida al gusto",
+    "1/2 taza de aceite de oliva"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcla la crema espesa, el vinagre de vino blanco, la cebolla rallada, la sal y la pimienta.\n2. Añade el aceite de oliva poco a poco mientras revuelves hasta que esté bien incorporado.\n3. Agrega los cubos de patata y las rodajas de manzana al aderezo.\n4. Mezcla suavemente para cubrir todos los ingredientes uniformemente.\n5. Ajusta la sazón si es necesario y sirve a temperatura ambiente o frío.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "chipped-beef-gravy",
+  "name": "Salsa de carne picada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "4 oz de carne picada",
+    "1/4 taza de mantequilla",
+    "1/4 taza de harina",
+    "3 tazas de leche",
+    "Sal",
+    "Pimienta"
+  ],
+  "recipeInstructions": "1. Remojar la carne picada en agua caliente hasta que se ablande, luego escurrir.\n2. Derretir la mantequilla en una sartén.\n3. Añadir la harina a la mantequilla derretida y remover hasta que esté bien mezclada.\n4. Incorporar lentamente la leche, batiendo constantemente hasta que espese, aproximadamente 2 minutos.\n5. Agregar la carne picada escurrida.\n6. Sazonar con sal y pimienta al gusto.",
+  "url": null
+}

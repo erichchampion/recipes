@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "margarita",
+  "name": "Margarita",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz de tequila",
+    "1 oz de jugo de limón",
+    "1/2 oz de Triple Sec"
+  ],
+  "recipeInstructions": "1. Humedecer el borde de un vaso de cóctel con la cáscara de un limón o lima, y luego sumergirlo en sal.\n2. Agitar juntos la tequila, el jugo de limón y el Triple Sec con hielo.\n3. Colar la mezcla en el vaso preparado.",
+  "url": null
+}

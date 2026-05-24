@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "mystic-pizza-abm",
+  "name": "Pizza Mística ABM",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiana",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de agua",
+    "3 cucharadas de agua",
+    "1 cucharadita de aceite de oliva",
+    "1 cucharadita de sal",
+    "1 cucharadita de azúcar",
+    "2 1/2 tazas de harina",
+    "2 cucharaditas de levadura",
+    "Toppings:",
+    "2 cucharadas de aceite de oliva",
+    "sal",
+    "pimienta",
+    "1 1/2 tazas de salsa de pizza",
+    "1 1/2 tazas de queso mozzarella rallado"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes de la masa en la máquina y programa para amasar y primera fermentación.\n2. Presiona el botón de inicio.\n3. Una vez que la masa haya terminado, transfiérela a una superficie de trabajo enharinada y déjala reposar durante 5 minutos.\n4. Precalienta el horno a 400 °F (200 °C).\n5. Estira la masa hasta formar un círculo de 11 pulgadas (28 cm) y colócala en una bandeja para hornear o una piedra para pizza.\n6. Unta el aceite de oliva sobre la superficie de la masa.\n7. Espolvorea sal y pimienta al gusto.\n8. Extiende la salsa de pizza sobre la masa y añade el queso mozzarella.\n9. Hornea la pizza durante 20 minutos o hasta que esté dorada.",
+  "url": null
+}

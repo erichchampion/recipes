@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-silk-pie",
+  "name": "Tarta de seda de chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla",
+    "3/4 taza de azúcar",
+    "1 onza de chocolate sin endulzar para hornear",
+    "1 cucharadita de vainilla",
+    "2 huevos",
+    "1 masa de tarta (9 pulgadas)",
+    "1/2 litro de crema batida"
+  ],
+  "recipeInstructions": "1. Batir la mantequilla y el azúcar hasta que estén cremosos.\n2. Incorporar el chocolate derretido y la vainilla.\n3. Añadir los huevos, uno a la vez, batiendo durante 5 minutos después de cada adición a velocidad media.\n4. Verter la mezcla en una masa de tarta fría.\n5. Refrigerar durante 2 horas.\n6. Decorar con crema batida.",
+  "url": null
+}

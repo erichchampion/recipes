@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-chess-pie",
+  "name": "Tarta de manzana con ajedrez",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "frutas",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 masa de tarta sin hornear",
+    "1 taza de azúcar",
+    "1 barra de margarina",
+    "1 cucharada de harina",
+    "2 huevos",
+    "1 1/2 tazas de manzanas picadas",
+    "1/4 cucharadita de canela"
+  ],
+  "recipeInstructions": "1. Batir juntos el azúcar, la margarina, la harina y los huevos hasta que quede suave.\n2. Incorporar las manzanas picadas y la canela.\n3. Verter la mezcla en una masa de tarta sin hornear de 20 cm.\n4. Hornear durante 10 minutos a 400 °F (200 °C).\n5. Reducir la temperatura a 325 °F (160 °C) y hornear durante 40 minutos adicionales.",
+  "url": null
+}

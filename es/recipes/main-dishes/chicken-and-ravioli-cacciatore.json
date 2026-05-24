@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-ravioli-cacciatore",
+  "name": "Pollo y ravioli cazador",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "pasta",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aceite de oliva",
+    "500g de pechuga de pollo sin hueso ni piel, cortada en trozos de 1 pulgada",
+    "1 cebolla mediana, rebanada",
+    "1 pimiento verde mediano, rebanado",
+    "1 taza de agua",
+    "1 lata (400g) de tomates triturados con ajo, escurridos",
+    "8 onzas (225g) de salsa de tomate",
+    "9 onzas (255g) de raviolis rellenos de queso refrigerados"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una sartén grande a fuego medio-alto hasta que esté caliente. Agregar el pollo, la cebolla y el pimiento verde; cocinar y revolver hasta que el pollo esté dorado.\n2. Incorporar el agua, los tomates triturados con ajo y la salsa de tomate. Llevar a ebullición. Añadir los raviolis, cubriéndolos con la mezcla de tomate. Si es necesario, separar cuidadosamente los raviolis. Cocinar durante 12 a 15 minutos o hasta que la salsa haya alcanzado la consistencia deseada y el pollo ya no esté rosado, revolviendo con frecuencia para evitar que se pegue.",
+  "url": null
+}

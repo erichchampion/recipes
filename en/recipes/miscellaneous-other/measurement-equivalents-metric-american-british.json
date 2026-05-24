@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "measurement-equivalents-metric-american-british",
+  "name": "Measurement Equivalents- Metric~ American~ British",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "hints",
+    "miscellaneous"
+  ],
+  "recipeIngredient": [
+    "American Liquid Measurements (Metric):",
+    "1 teaspoon = 5 mL",
+    "1 tablespoon = 15 mL",
+    "1 cup = 227 mL",
+    "1 pint = 454 mL",
+    "1 quart = 907 mL",
+    "1 gallon = 3,628 mL",
+    "British Liquid Measurements:",
+    "1 British liquid ounce = 1.04 American ounces",
+    "1 British pint = 20 British ounces",
+    "1 British quart = 40 British ounces",
+    "1 British gill = 5 ounces (about 2/3 of an American cup)",
+    "1 British pint weighs a pound everywhere except in England where it weighs a pound and a quarter.",
+    "British Dry Measurements:",
+    "Dry measures for ounces and pounds, and linear measures for inches and feet are the same as American measures."
+  ],
+  "recipeInstructions": "From: Sallie Austin, INTERCOOK echo\nAMERICAN LIQUID MEASUREMENTS CONVERTED TO METRIC:\n1. Multiply ounces by 28.35 to convert to grams.\n2. Multiply grams by 0.035 to convert to ounces.\n3. Multiply liters by 0.95 to convert to American quarts.\n4. Multiply liters by 0.88 to convert to British quarts.\n5. Convert American quarts to liters by multiplying by 1.057.\n6. Convert British quarts to liters by multiplying by 1.14.\nCUP-DECILITER EQUIVALENTS:\n1 deciliter = 6 2/3 tablespoons\nConvert cups to deciliters by multiplying the cup amount by the corresponding factor in the table below:\nCups: Deciliters:\n1/4 cup = 0.56 dl\n1/3 cup = 0.75 dl\n1/2 cup = 1.13 dl\n2/3 cup = 1.5 dl\n3/4 cup = 1.68 dl\n1 cup = 2.27 dl",
+  "url": null
+}

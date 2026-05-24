@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "fondue-italienne",
+  "name": "Fondue Italienne",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "cheese",
+    "fondue",
+    "italian",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 Garlic clove, halved",
+    "10 Fluid ounces milk",
+    "8 oz Mozzarella cheese, grated",
+    "8 oz Dolcelatte cheese, grated",
+    "2 oz Parmesan cheese, grated",
+    "2 tsp Cornflour",
+    "3 tbsp Dry white wine",
+    "Salami, bread sticks -- to serve"
+  ],
+  "recipeInstructions": "1. Rub the inside of the fondue pot with halved garlic clove.\n2. Add milk and heat until bubbling.\n3. Stir in cheeses, continuing to heat until melted. Stir frequently.\n4. Blend cornflour with wine, then stir into cheese mixture. Cook for 2-3 minutes until thick and creamy.\n5. Serve with salami and bread sticks.",
+  "url": null
+}

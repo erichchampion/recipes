@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "noumbles",
+  "name": "Noumes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "guisos",
+    "carnes de caza",
+    "venado"
+  ],
+  "recipeIngredient": [
+    "2 lb de riñones de ternera",
+    "3/4 taza de caldo de carne",
+    "1/4 taza de pan rallado",
+    "2 cucharadas de vinagre",
+    "1/4 taza de vino tinto o ale",
+    "2 cebollas peladas",
+    "1/4 cucharadita de jengibre",
+    "1/4 cucharadita de nuez moscada",
+    "1/4 cucharadita de pimienta negra",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Tome trozos de noumbles de ciervo o ternera; escaldarlos.\n2. Cortar los riñones en rodajas finas.\n3. Mezclar los pan rallado con el caldo (comenzando con una cucharada), luego añadir el vino y el vinagre.\n4. Escaldar las cebollas en agua salada durante unos 5 minutos, escurrir y picar.\n5. Incorporar las cebollas picadas, las especias y los trozos de riñón a la salsa.\n6. Llevar a ebullición suave, tapar y cocinar a fuego lento durante 25-30 minutos.\n7. Servir caliente.",
+  "url": null
+}

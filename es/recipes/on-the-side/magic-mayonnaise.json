@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "magic-mayonnaise",
+  "name": "Mayonesa mágica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "aderezos",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 lata de leche condensada azucarada",
+    "1/2 taza de vinagre",
+    "1/2 taza de aceite vegetal",
+    "1 cucharadita de mostaza en polvo",
+    "1 cucharadita de sal",
+    "Pimienta cayena al gusto",
+    "1 huevo"
+  ],
+  "recipeInstructions": "1. En un bol pequeño, mezclar todos los ingredientes.\n2. Batir la mezcla hasta que espese, aproximadamente 2 minutos.\n3. Refrigerar para permitir que se mezclen los sabores.\n4. Guardar las sobras en un frasco limpio.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "krumkaker",
+  "name": "Krumkaker",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "4 huevos",
+    "1/2 cucharadita de vainilla",
+    "1/2 taza de mantequilla",
+    "1 1/2 cucharaditas de cardamomo molido",
+    "1 1/4 tazas de harina para todo uso",
+    "2 1/2 cucharaditas de almidón de maíz",
+    "3 cucharadas de agua fría"
+  ],
+  "recipeInstructions": "1. Con un batidor estático o manual, bate el azúcar, los huevos y la vainilla hasta que la mezcla esté ligera y esponjosa.\n2. Derrite la mantequilla y déjala enfriar. Cierna el cardamomo con la harina.\n3. Mezcla el almidón de maíz con el agua hasta obtener una pasta suave.\n4. A baja velocidad, añade alternativamente la mantequilla y la harina a la mezcla de azúcar y huevos. Incorpora la mezcla de almidón de maíz.\n5. Coge una cucharada de masa y viértela en una plancha para krumkaker caliente. Presiona y cocina la galleta hasta que esté dorada por ambos lados.\n6. Colócala sobre un cono o en un vaso hasta que se endurezca.\n7. Sirve con crema batida con arándanos (multibaer) o frambuesas batidas.",
+  "url": null
+}

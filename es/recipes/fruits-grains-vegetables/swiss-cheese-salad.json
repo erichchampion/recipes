@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "swiss-cheese-salad",
+  "name": "Ensalada de queso suizo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "queso",
+    "huevos",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1/2 lb queso suizo, cortado en cubos",
+    "6 huevos",
+    "1 1/2 cucharadas mostaza en polvo",
+    "1 cucharadita rábano picante",
+    "1/2 cucharadita sal",
+    "1/8 cucharadita pimienta negra molida",
+    "1/8 cucharadita comino molido",
+    "1/2 taza crema agria"
+  ],
+  "recipeInstructions": "1. Cocinar los huevos al duro y picarlos finamente.\n2. Mezclar el queso suizo y los huevos cocidos en un bol grande.\n3. En otro bol, combinar la crema agria, mostaza, rábano picante, sal, pimienta y comino.\n4. Incorporar lentamente la mezcla de queso y huevo a la salsa.\n5. Refrigerar durante 1 hora aproximadamente.\n6. Servir sobre una cama de lechuga.",
+  "url": null
+}

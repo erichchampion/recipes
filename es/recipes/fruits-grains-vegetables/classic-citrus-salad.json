@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "classic-citrus-salad",
+  "name": "Ensalada Clásica de Cítricos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 cucharadita de vinagre de arroz natural",
+    "1/4 cucharadita de mostaza estilo Dijon",
+    "Una pizca de sal y pimienta",
+    "1/2 cucharadita de aceite de oliva",
+    "2 tazas de espinacas frescas, lavadas y escurridas",
+    "1 naranja pequeña, pelada y segmentada",
+    "2 cucharadas de cebolla roja finamente picada",
+    "3 mitades de nuez, gruesamente picadas"
+  ],
+  "recipeInstructions": "1. Para preparar el aderezo: En un bol pequeño, bate juntos el vinagre, la mostaza, la sal, la pimienta y el aceite de oliva.\n2. Para preparar la ensalada: Coloca las hojas de espinaca en un bol de servir.\n3. Añade los segmentos de naranja, la cebolla roja picada y las nueces picadas a la espinaca.\n4. Vierte el aderezo sobre la ensalada y mezcla suavemente hasta combinarlo.",
+  "url": null
+}

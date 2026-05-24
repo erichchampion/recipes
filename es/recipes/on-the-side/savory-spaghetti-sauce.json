@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "savory-spaghetti-sauce",
+  "name": "Salsa de espagueti sabrosa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "carne de res",
+    "pasta",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 kilo de carne molida",
+    "1 cebolla grande, picada",
+    "2 latas de 400 g de salsa de tomate",
+    "1 diente de ajo, picado finamente",
+    "1 hoja de laurel",
+    "1 cucharada de albahaca fresca",
+    "2 cucharaditas de orégano fresco",
+    "2 cucharaditas de azúcar",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra",
+    "Espagueti cocido al dente"
+  ],
+  "recipeInstructions": "En una olla holandesa, cocina la carne molida y la cebolla hasta que la carne esté dorada y la cebolla esté tierna. Escurre el exceso de grasa. Añade los ingredientes restantes; lleva a ebullición. Reduce el fuego y tapa. Deja cocinar a fuego lento durante 1 hora, removiendo ocasionalmente. Retira la hoja de laurel antes de servir sobre espagueti cocido al dente.",
+  "url": null
+}

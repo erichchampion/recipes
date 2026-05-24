@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "creamy-cheese-fondue",
+  "name": "Fondue de queso cremoso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "quesos/huevos",
+    "fondue",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "4 tazas de QUESO AMERICANO rallado",
+    "16 onzas (450 g) de MANTECA",
+    "1 cucharada de HARINA DE USO COMÚN",
+    "2 cucharadas de PIMIENTO VERDE picado finamente",
+    "1 1/4 taza de VINO BLANCO SECO",
+    "6 onzas (170 g) de QUESO CREMA con cebollino",
+    "1 cucharadita de mostaza preparada"
+  ],
+  "recipeInstructions": "1. Mezclar el queso rallado con la harina; reservar.\n2. En una sartén, cocinar el pimiento verde en la manteca hasta que esté tierno pero no dorado.\n3. Incorporar el vino y calentar a fuego lento hasta que empiece a hervir suavemente.\n4. Agregar gradualmente el queso rallado, removiendo constantemente, hasta obtener una textura suave y burbujeante.\n5. Añadir el queso crema y la mostaza; cocinar y remover a fuego bajo hasta que esté suave.\n6. Transferir la mezcla de queso a un cacerolito para fondue.",
+  "url": null
+}

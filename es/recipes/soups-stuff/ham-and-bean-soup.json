@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-and-bean-soup",
+  "name": "Sopa de Jamón y Frijol",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "frijoles",
+    "cocción en olla de barro",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de frijoles secos (el tipo que prefieras)",
+    "1 taza de jamón cortado en cubos",
+    "1 hueso de jamón",
+    "1 sobre de mezcla para sopa de cebolla seca",
+    "2 cucharaditas de hierbas italianas (o tus especias favoritas)",
+    "Agua para cubrir",
+    "1 zanahoria mediana, picada",
+    "1 cebolla mediana, cortada en dados (en lugar del sobre de sopa de cebolla)",
+    "1 tallo de apio, picado",
+    "1 pimiento verde mediano, picado"
+  ],
+  "recipeInstructions": "1. Si los frijoles secos no han sido remojados durante la noche o enjuagados bien, cocínalos a fuego alto durante 2 horas, luego reduce el fuego a bajo y deja que se cocinen a fuego lento hasta que estén tiernos.\n2. Añade los frijoles cocidos, el jamón cortado en cubos, la mezcla de sopa de cebolla y las hierbas al caldo en una olla grande.\n3. Agrega las verduras picadas (zanahoria, cebolla, apio, pimiento verde) y suficiente agua para cubrir todos los ingredientes por aproximadamente 1 pulgada.\n4. Lleva la mezcla a ebullición, luego reduce el fuego a bajo y deja que se cocine a fuego lento durante 7-8 horas, removiendo ocasionalmente.",
+  "url": null
+}

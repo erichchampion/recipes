@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "eggs-florentine",
+  "name": "Huevos Florentinos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "4 huevos grandes",
+    "4 cucharadas de queso Pecorino Romano",
+    "3 cucharadas de aceite de oliva",
+    "Sal y pimienta al gusto",
+    "1 libra de espinacas frescas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 grados Fahrenheit.\n2. Limpiar y escurrir las espinacas. Calentar el aceite de oliva en una sartén hasta que esté caliente, luego agregar las espinacas. Tapar y cocinar hasta que estén tiernas. Sazonar con sal y pimienta al gusto.\n3. Distribuir las espinacas cocidas en 4 platos para horno individuales. Romper un huevo en cada plato y espolvorear 1 cucharada de queso encima.\n4. Hornear durante unos 3 minutos, o hasta que las claras estén firmes pero aún suaves.",
+  "url": null
+}

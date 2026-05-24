@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-chicken-legs",
+  "name": "Mock Chicken Legs",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "2 lb. lean pork, cut into cubes",
+    "2 lb. veal, cut into cubes",
+    "4 eggs, slightly beaten",
+    "1 pkg. Saltine crackers, crushed",
+    "2 cans cream of mushroom soup, thinned with a little milk",
+    "8-12 meat skewers"
+  ],
+  "recipeInstructions": "1. Alternate veal and pork cubes on each meat skewer.\n2. Roll each skewer in egg and cracker crumbs.\n3. Brown the skewered meat in a skillet with oil.\n4. Layer the browned meat in a baking dish.\n5. Cover with mushroom soup.\n6. Bake at 325°F for 1 hour.",
+  "url": null
+}

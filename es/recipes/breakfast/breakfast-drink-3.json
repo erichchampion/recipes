@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-drink-3",
+  "name": "Bebida de desayuno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "bebidas",
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 taza de leche desnatada",
+    "1 plátano maduro",
+    "1/2 taza de yogur sin grasa (fresco o congelado)",
+    "Edulcorantes (sirope de vainilla - chocolate; opcional)",
+    "Polvo de proteína o levadura nutricional para un impulso extra (opcional)"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes a una licuadora.\n2. Licuar a máxima potencia durante 10 segundos hasta obtener una textura suave y espumosa.\n3. Servir la mezcla licuada mientras se viste para el desayuno. ¡Disfrutar!",
+  "url": null
+}

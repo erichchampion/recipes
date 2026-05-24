@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "waffles-with-mocha-mix",
+  "name": "Waffles with Mocha Mix",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breads",
+    "breakfast",
+    "main dish",
+    "waffles"
+  ],
+  "recipeIngredient": [
+    "1 cup mocha mix",
+    "2 tablespoons cream of wheat",
+    "2 tablespoons butter, melted",
+    "1 teaspoon wheat gluten",
+    "3/4 cup flour",
+    "2 teaspoons baking powder",
+    "2 tablespoons plain yogurt",
+    "1 egg",
+    "1 teaspoon sugar",
+    "1/2 teaspoon vanilla"
+  ],
+  "recipeInstructions": "1. Combine the mocha mix with softened cream of wheat.\n2. Add melted butter, vanilla, sugar, and yogurt to the mixture.\n3. Stir in the egg and dry ingredients until just combined.\n4. Pour batter into a preheated waffle iron and cook until golden brown.\n5. Makes 3 round Belgium-style waffles.",
+  "url": null
+}

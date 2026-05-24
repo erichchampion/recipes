@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "tofu-ricotta-cheese",
+  "name": "Queso de tofu ricota",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso",
+    "platos secundarios",
+    "verduras",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "2 lb tofu firme",
+    "1/3 taza de zumo de limón",
+    "4 cucharaditas de azúcar",
+    "1 cucharadita de sal",
+    "4 cucharadas de aceite",
+    "2 cucharaditas de albahaca",
+    "1 cucharadita de ajo"
+  ],
+  "recipeInstructions": "1. Triturar el tofu mediante un molinillo para alimentos o machacarlo con un tenedor.\n2. Mezclar el zumo de limón, azúcar, sal, aceite, albahaca y ajo con el tofu triturado.\n3. Utilizar esta mezcla en recetas que requieran un relleno al estilo ricota.",
+  "url": null
+}

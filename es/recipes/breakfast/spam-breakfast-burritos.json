@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "spam-breakfast-burritos",
+  "name": "Tortillas de desayuno con spam",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 lata de carne para almuerzo Spam, en cubos (12 onzas)",
+    "4 huevos",
+    "2 cucharadas de leche",
+    "1 cucharada de mantequilla o margarina",
+    "6 tortillas de harina (de 6 pulgadas)",
+    "1 taza de queso cheddar rallado, dividido",
+    "1 taza de queso Monterey Jack rallado, dividido",
+    "Salsa CHI-CHI's para tacos"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 400°F.\n2. En un bol, batir juntos el Spam, los huevos y la leche.\n3. Derretir la mantequilla en una sartén grande; agregar la mezcla de huevos.\n4. Cocinar hasta alcanzar el nivel de cocción deseado.\n5. Rellenar cada tortilla con la mezcla de Spam y la mitad del queso.\n6. Enrollar cada burrito, con el lado cosido hacia abajo, en un plato para hornear de 12x8 pulgadas.\n7. Espolvorear el resto del queso sobre los burritos.\n8. Hornear durante 5-10 minutos, o hasta que el queso se haya derretido.\n9. Servir con salsa.",
+  "url": null
+}

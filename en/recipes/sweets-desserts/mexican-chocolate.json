@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-chocolate",
+  "name": "Mexican Chocolate",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "candies",
+    "chocolate",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "Squares chocolate (grated): 2 oz",
+    "Boiling water: 1/2 cup",
+    "Milk: 2 cups",
+    "Sugar: 3 tbsp",
+    "Heavy cream: 1 cup",
+    "Cinnamon: 1 tsp",
+    "Egg (beaten slightly): 1",
+    "Salt: 1/8 tsp",
+    "Nutmeg: 1/8 tsp",
+    "Vanilla: 1 tsp"
+  ],
+  "recipeInstructions": "1. Boil the grated chocolate and boiling water together for 5 minutes.\n2. Add the remaining ingredients to a double boiler.\n3. Cook, stirring at intervals, for 1 hour.",
+  "url": null
+}

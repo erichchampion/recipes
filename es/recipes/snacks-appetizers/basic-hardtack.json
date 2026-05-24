@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-hardtack",
+  "name": "Básico Hardtack",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "tentempié"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "1/2 cucharadita de sal (opcional)",
+    "1/2 cucharadita de azúcar (opcional)",
+    "1/2 taza de agua"
+  ],
+  "recipeInstructions": "1. Mezclar la harina, la sal (si se usa), el azúcar (si se usa) y el agua hasta formar una masa.\n2. Aplanar la masa con las manos o un rodillo sobre una superficie enharinada.\n3. Estirar la masa hasta alcanzar un grosor de 1/4 de pulgada.\n4. Cortar la masa con un cuchillo si se desea.\n5. Hornear en una bandeja para galletas precalentada a 180 °C durante 30 minutos.\n6. Romper en trozos según sea necesario.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-beef-barbecue",
+  "name": "My Beef Barbecue",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "slow cooker",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "4 pounds beef stew meat, small cubes",
+    "30 ounces tomatoes, chopped",
+    "2 onions, chopped",
+    "1 quart water",
+    "1/2 teaspoon chili powder",
+    "1 teaspoon salt (to taste)",
+    "1 teaspoon black pepper, fresh ground",
+    "1 cup catsup",
+    "1/2 cup cider vinegar",
+    "1/3 cup Worcestershire sauce",
+    "4 garlic cloves, minced",
+    "1/8 teaspoon hot pepper sauce"
+  ],
+  "recipeInstructions": "1. Do not attempt this recipe in a crockpot, as evaporation does not occur there.\n2. Combine all ingredients in a very large heavy pot.\n3. Simmer uncovered over low heat until the beef falls apart and is tender to the touch.\n4. Stir occasionally during cooking to ensure even distribution of flavors.\n5. This process will take approximately 5 to 6 hours.\n6. During the last hour, check closely to prevent the mixture from sticking to the bottom of the pot.\n7. The final mixture should be thick and creamy.\n8. While the dish is cooking, feel free to add chopped green peppers, celery, bay leaf, or carrots for additional flavor and texture.\n9. Serve on hamburger buns with mustard.",
+  "url": null
+}

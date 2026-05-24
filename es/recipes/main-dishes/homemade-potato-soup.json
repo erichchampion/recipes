@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "homemade-potato-soup",
+  "name": "Sopa casera de patatas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "olla de cocción lenta",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "6 patatas; peladas, cortadas en trozos pequeños",
+    "2 cebollas; lavadas, peladas, cortadas en trozos pequeños",
+    "1 puerro; cortado en rodajas",
+    "1 zanahoria; pelada, cortada en láminas",
+    "1 tallo de apio; cortado en rodajas",
+    "4 cubos de caldo de pollo",
+    "1 cucharadita de perejil seco",
+    "4 tazas de agua",
+    "1 1/2 cucharaditas de sal",
+    "Pimienta al gusto",
+    "2 cucharadas de mantequilla",
+    "340g de leche evaporada (1 lata)",
+    "Cebolla picada"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes excepto la leche evaporada y la cebolla picada en la olla de cocción lenta.\n2. Cocina a fuego lento durante 10-12 horas o a fuego alto durante 3-4 horas.\n3. Añade la leche evaporada durante la última hora de cocción.\n4. Sirve con cebolla picada por encima.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fondue-sauterne",
+  "name": "Fondue de Sauternas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso",
+    "fondue",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 libra de queso suizo rallado",
+    "3 cucharadas de harina",
+    "1 1/2 tazas de vino seco Sauterne",
+    "3 cucharadas de brandy",
+    "Pimienta y nuez moscada al gusto"
+  ],
+  "recipeInstructions": "1. Pasar el queso por la harina.\n2. Calentar el vino (Sauterne) en un recipiente para fondue hasta que aparezcan pequeñas burbujas.\n3. Incorporar gradualmente el queso, asegurándose de que quede bien mezclado.\n4. Continuar removiendo hasta obtener una mezcla suave y homogénea.\n5. Añadir pimienta y nuez moscada al gusto. Si es necesario, agregar sal para equilibrar los sabores.\n6. Servir con cubos de pan.",
+  "url": null
+}

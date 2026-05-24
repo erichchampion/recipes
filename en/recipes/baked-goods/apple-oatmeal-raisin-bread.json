@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-oatmeal-raisin-bread",
+  "name": "Apple Oatmeal Raisin Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "2 teaspoons Yeast",
+    "2 cups Bread flour",
+    "2 cups Oats",
+    "1/4 cup Oat bran",
+    "2 tablespoons Brown sugar",
+    "1/2 teaspoon Cinnamon",
+    "1 teaspoon Salt",
+    "2 tablespoons Butter",
+    "1 1/4 cups Apple juice",
+    "2/3 cups Raisins",
+    "2/3 cups Apples - diced",
+    "1/2 cup Nuts - chopped"
+  ],
+  "recipeInstructions": "1. Add all ingredients except the last three (raisins, apples, and nuts) to the bread machine.\n2. Turn on the machine when the cycle is complete.\n3. At the beep, add raisins, apples, and nuts.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "kitty-s-pumpkin-pie",
+  "name": "Pastel de calabaza de Kitty",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 bases de tarta sin hornear",
+    "4 huevos",
+    "2 latas de puré de calabaza (16 oz cada una)",
+    "1 1/4 tazas de azúcar",
+    "1 cucharadita de sal",
+    "2 cucharaditas de canela",
+    "1 cucharadita de jengibre",
+    "1/2 cucharadita de clavo molido",
+    "2 latas de leche evaporada sin grasa",
+    "1/2 taza de Jack Daniel whiskey o George Dickel whiskey"
+  ],
+  "recipeInstructions": "1. Batir los huevos.\n2. Incorporar los ingredientes restantes en el siguiente orden: calabaza, azúcar, sal, canela, jengibre, clavo molido, leche evaporada y whiskey.\n3. Verter la mezcla en las bases de tarta.\n4. Hornear a 425°F durante 15 minutos.\n5. Reducir la temperatura a 350°F y hornear durante 40-50 minutos adicionales.\n6. Enfriar sobre una rejilla.",
+  "url": null
+}

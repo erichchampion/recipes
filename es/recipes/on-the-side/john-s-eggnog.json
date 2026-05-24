@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "john-s-eggnog",
+  "name": "Eggnog de John",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "huevos",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de azúcar",
+    "12 huevos, separando las yemas de las claras",
+    "1 litro de bourbon",
+    "2 tazas de crema espesa"
+  ],
+  "recipeInstructions": "1. Agregar lentamente el azúcar a las yemas de huevo y batir hasta que queden muy firmes y blancas.\n2. Batir las claras hasta obtener picos firmes.\n3. Mezclar el bourbon con la mezcla de yemas.\n4. Incorporar las claras y la crema con un batidor de alambre.\n5. Enfriar antes de servir. Se recomienda dejarlo reposar un día para que los sabores se integren mejor.\n6. Espolvorear nuez moscada sobre cada ración.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "bacon-lettuce-and-salsa-sandwich",
+  "name": "Sándwich de tocino, lechuga y salsa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "Mayonesa",
+    "Salsa",
+    "Hojas de rúcula lavadas",
+    "Rebanadas anchas de pan italiano tostado",
+    "Queso cheddar blanco rallado o en rodajas finas",
+    "Tocino de pavo crujiente",
+    "Rodajas de aguacate",
+    "Cilantro picado"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar la mayonesa con la salsa.\n2. Extender la mezcla sobre el pan tostado.\n3. Agregar capas de tocino crujiente, rúcula, queso cheddar blanco, rodajas de aguacate y cilantro picado.\n4. Retirar del calor al añadir los ingredientes para evitar sobrecocción o quemadura.",
+  "url": null
+}

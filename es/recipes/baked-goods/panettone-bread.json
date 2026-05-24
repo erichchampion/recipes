@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "panettone-bread",
+  "name": "Pan de panettone",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "1 1/2 kg de hogaza",
+    "3/4 taza de leche",
+    "1 huevo",
+    "3 cucharadas de puré de manzana",
+    "3 tazas de harina de pan",
+    "2 cucharadas de miel",
+    "1 1/2 cucharaditas de semillas de anís molidas",
+    "3/4 cucharadita de sal",
+    "1 cucharadita de levadura",
+    "1/3 taza de pasas claras",
+    "1/3 taza de orejones",
+    "1/3 taza de cítron confitado picado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a temperatura baja.\n2. Mezclar todos los ingredientes hasta que queden bien combinados.\n3. Verter la mezcla en un molde para hogaza engrasado y cubrir con papel de aluminio.\n4. Hornear durante 30-40 minutos, o hasta que esté dorado y cocido por completo.\n5. Sacar del horno y dejar enfriar sobre una rejilla antes de cortar.",
+  "url": null
+}

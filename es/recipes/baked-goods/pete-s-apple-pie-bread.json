@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "pete-s-apple-pie-bread",
+  "name": "Pan de tarta de manzana de Pete",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de azúcar moreno",
+    "1 cucharadita de sal marina",
+    "3/4 taza de buttermilk",
+    "2 cucharadas de jugo concentrado de manzana",
+    "1 1/2 barras de mantequilla o margarina",
+    "3/4 taza de manzanas rebanadas enlatadas, cortadas en trozos",
+    "1 1/2 cucharaditas de canela",
+    "1/2 cucharadita de mejorador de masa",
+    "3 1/2 tazas de harina de pan",
+    "2 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "1. Mezclar la masa en un bol con el mejorador de masa y la canela.\n2. Verter esta mezcla en un molde para pan.\n3. Amasar la masa primero, luego dejar reposar por un momento antes de volver a amasar si es necesario.",
+  "url": null
+}

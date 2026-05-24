@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "birria",
+  "name": "Birria",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "american",
+    "ethnic",
+    "meats",
+    "mexican"
+  ],
+  "recipeIngredient": [
+    "1 Kilo (2.2 lbs.) of beef rib in pieces.",
+    "6 cloves garlic",
+    "1 onion",
+    "3 laurel leaves",
+    "1 pinch cumin",
+    "chili guajillo as desired",
+    "salt",
+    "pepper"
+  ],
+  "recipeInstructions": "1. Cook the meat with the garlic and onion in enough water to immerse them.\n2. Toast, hollow out and soak the chilies (approximately 5 minutes). Strain the chili liquid into the pot with the meat.\n3. Add 3 small laurel leaves, cumin, salt, and pepper. Continue cooking until the meat is well done.",
+  "url": null
+}

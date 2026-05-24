@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-chowder",
+  "name": "Chowder de Hamburguesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carnes",
+    "sopas",
+    "untos"
+  ],
+  "recipeIngredient": [
+    "3/4 lb de hamburguesa",
+    "1 lata (400 g) de tomates troceados",
+    "1/2 cebolla grande, picada",
+    "3 papas medianas, cortadas en rodajas",
+    "3 cucharadas (cuchara sopera) de harina (aprox. con la cuchara llena)",
+    "2 cucharadas de comino molido",
+    "Sal y pimienta al gusto",
+    "Pimiento verde, picado",
+    "(Opcional: 3 dientes de ajo, picados)"
+  ],
+  "recipeInstructions": "1. En una olla de presión, saltea la hamburguesa hasta que esté dorada.\n2. Añade los tomates troceados, la cebolla y el ajo (y el pimiento verde si deseas), junto con sal y pimienta. Mezcla bien.\n3. Cubre la olla herméticamente y cocina a presión alta hasta que se libere el vapor.\n4. Coloca el peso de nuevo sobre la tapa y reduce el fuego a medio. Deja que la mezcla hierva suavemente durante unos 10 minutos, o hasta que esté completamente cocida.\n5. Retira cuidadosamente la tapa una vez que se haya disipado todo el vapor.\n6. Prepara un puré con comino en polvo y harina, y mézclalo en la sopa antes de servir.",
+  "url": null
+}

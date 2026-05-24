@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "oatmeal-milk",
+  "name": "Leche de avena",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "lácteos",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 plátano",
+    "1 taza de avena cocida",
+    "2 tazas de agua",
+    "1 cucharadita de vainilla (opcional)"
+  ],
+  "recipeInstructions": "1. Coloca el plátano, la avena cocida y el agua en una licuadora.\n2. Licúa hasta obtener una mezcla suave.\n3. Vierte la mezcla en un jarro.\n4. Refrigera. Se conservará aproximadamente tanto como la leche.",
+  "url": null
+}

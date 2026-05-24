@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "three-flavors-soup",
+  "name": "Three Flavors Soup",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "asian",
+    "chinese",
+    "ethnic",
+    "soup",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "5 cups Light, clear chicken stock",
+    "10 Fresh medium shrimp (OR 1/4 lb Cooked baby shrimp)",
+    "8 Water chestnuts",
+    "2 Green onions",
+    "1 tsp Salt"
+  ],
+  "recipeInstructions": "1. Wash and shell the shrimp. Remove any veins.\n2. Slice the water chestnuts into thin circles.\n3. Mince the green onions completely.\n4. Bring the chicken stock to a boil in a pot with the minced green onions.\n5. Add the sliced water chestnuts and cook for a few minutes.\n6. Add the shrimp (either raw or cooked) and salt.\n7. Taste the soup and adjust the seasoning if necessary.\n8. Return the soup to a boil briefly.\n9. Serve hot.",
+  "url": null
+}

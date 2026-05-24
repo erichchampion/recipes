@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "double-melon-soup",
+  "name": "Sopa de Melón Doble",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "aperitivos",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 pequeño melón Cantaloup, pelado, sin semillas y cortado en trozos",
+    "2 cucharadas de jugo de naranja",
+    "1 cucharada de cáscara de naranja rallada",
+    "2 cucharadas de jerez dulce",
+    "1/2 melón Honeydew, pelado, sin semillas y cortado en trozos",
+    "2 cucharadas de jugo de limón",
+    "3 cucharadas de menta fresca picada",
+    "Ramitas de menta para decorar"
+  ],
+  "recipeInstructions": "1. Licúa el melón Cantaloup con el jugo de naranja, la cáscara de naranja rallada y el jerez.\n2. Tapa y refrigera durante al menos 3 horas.\n3. Licúa el melón Honeydew con el jugo de limón y la menta.\n4. Tapa y refrigera durante al menos 3 horas.\n5. Vierte cantidades iguales de cada mezcla de melón en cuencos fríos para un efecto medio naranja, medio verde.\n6. Decora con ramitas de menta y sirve fría.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-chili-recipe",
+  "name": "Receta de Chili Fácil",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "chili",
+    "sopas",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "4 dientes de ajo picados",
+    "1 cucharadita de comino",
+    "1 cebolla amarilla picada",
+    "1 paquete de frijoles pintos",
+    "3 tazas de caldo de carne",
+    "1/4 cucharadita de pimienta cayena"
+  ],
+  "recipeInstructions": "1. Enjuagar y remojar los frijoles pintos durante la noche (escurrir).\n2. Saltear las puntas de solomillo en un poco de aceite hasta que estén doradas.\n3. Agregar el polvo de chili a la sartén con la carne, cebolla y ajo.\n4. Verter el caldo de carne e hirvelo.\n5. Incorporar comino, sal, pimienta y más pimienta cayena si se desea.\n6. Añadir los frijoles remojados y cocinar a fuego lento durante unos 2,5 horas, revolviendo ocasionalmente hasta que los frijoles estén tiernos.\n7. Ajustar la sazón si es necesario, luego servir caliente.\nIngredientes opcionales: tomates frescos o salsa de tomate, frijoles negros, masa y agua para espesar (opcional).",
+  "url": null
+}

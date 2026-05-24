@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-rye-bread",
+  "name": "Pan de centeno con cerveza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 sobre de levadura seca",
+    "2 tazas y 1/4 de harina de trigo integral",
+    "1 taza y 1/4 de cerveza sin usar",
+    "1 cucharadita y media de sal",
+    "1 cucharada y media de aceite vegetal",
+    "1 cucharada y media de harina de avena",
+    "1 taza y 1/2 de harina de centeno"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en la panificadora.\n2. Procesa en el ciclo de pan blanco.",
+  "url": null
+}

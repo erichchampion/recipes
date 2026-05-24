@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "southern-citrus-salad",
+  "name": "Ensalada de cítricos del sur",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frutas",
+    "ensalada",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "3 tazas de lechuga de hojas desgarradas",
+    "3 tazas de lechuga iceberg desgarrada",
+    "2 naranjas rojas, peladas y en rodajas",
+    "3 naranjas, peladas y en rodajas",
+    "1 aguacate, pelado, sin hueso y en rodajas",
+    "1/4 taza de almendras laminadas tostadas",
+    "1 taza de aderezo de semillas de girasol"
+  ],
+  "recipeInstructions": "1. En un bol grande para servir, mezclar la lechuga de hojas y la lechuga iceberg.\n2. Disponer las rodajas de naranja roja, naranja, aguacate y almendras sobre la mezcla de lechugas.\n3. Servir con el aderezo.",
+  "url": null
+}

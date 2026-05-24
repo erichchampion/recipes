@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "honey-lemonade",
+  "name": "Limonada de miel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "limonada",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de miel",
+    "1 taza de agua caliente",
+    "3/4 taza de zumo de limón",
+    "8 tazas de agua fría"
+  ],
+  "recipeInstructions": "1. Mezclar la miel y el agua caliente hasta que quede bien combinada a fuego lento.\n2. Dejar enfriar la mezcla, luego añadir el zumo de limón y el agua fría.\n3. Verter en vasos con hielo.\nEl sirope de miel y agua se puede refrigerar y usar para hacer limonada por raciones individuales. Para servir, mezclar 4 cucharadas de sirope con 1,5 cucharaditas de zumo de limón y 1 taza de agua por persona. Verter en vasos con hielo.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pumpernickel",
+  "name": "Pumpernickel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de agua",
+    "1/2 cucharadita de azúcar",
+    "1 cucharada de mantequilla",
+    "1 cucharada de melaza",
+    "1/2 cucharadita de polvo de cacao sin endulzar",
+    "3/4 cucharadita de sal",
+    "1/2 cucharadita de semillas de eneldo",
+    "1 taza de harina de trigo integral",
+    "1/2 taza de harina de pan",
+    "2 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Mezclar el agua, el azúcar, la mantequilla, la melaza, el polvo de cacao, la sal y las semillas de eneldo en un bol.\n2. Añadir las harinas y la levadura a la mezcla y remover hasta que se combine.\n3. Dejar reposar la masa durante 30 minutos.\n4. Dar forma a la masa en un panecillo y dejarlo subir nuevamente durante 1 hora.\n5. Precalentar el horno a 175 °C (350 °F).\n6. Hornear el pan durante 45-50 minutos, o hasta que esté dorado.\n7. Apagar el calor y dejar enfriar completamente el pan antes de cortarlo.",
+  "url": null
+}

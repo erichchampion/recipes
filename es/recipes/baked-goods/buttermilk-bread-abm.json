@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "buttermilk-bread-abm",
+  "name": "Pan de buttermilk ABM",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1/2 cucharadita de levadura",
+    "2 tazas de harina de pan",
+    "1/2 cucharadita de buttermilk en polvo",
+    "1/2 cucharadita de azúcar",
+    "1/4 cucharadita de sal",
+    "2 cucharadas de mantequilla",
+    "2/3 taza de agua tibia"
+  ],
+  "recipeInstructions": "1. Sacar todos los ingredientes a temperatura ambiente.\n2. Verter los ingredientes en la máquina de pan en el siguiente orden: levadura, harina, buttermilk en polvo, azúcar, sal, mantequilla y agua.\n3. Establecer el control de horneado a las 11 en punto.\n4. Seleccionar la opción \"pan blanco\".\n5. Presionar el botón de inicio.",
+  "url": null
+}

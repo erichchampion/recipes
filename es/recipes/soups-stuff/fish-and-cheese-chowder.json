@@ -1,0 +1,17 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-and-cheese-chowder",
+  "name": "Cazuela de Pescado y Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "pescado",
+    "mariscos",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 lb de filetes de pescado frescos o congelados"
+  ],
+  "recipeInstructions": "1. Cortar el pescado en cubos y reservar.\n2. Mezclar todos los ingredientes en una olla grande.\n3. Llevar a ebullición a fuego lento, removiendo ocasionalmente.\n4. Cocinar hasta que la sopa espese y el pescado esté cocido.\n5. Servir caliente y apagar el fuego.",
+  "url": null
+}

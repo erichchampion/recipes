@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizelles",
+  "name": "Pizelles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "5 eggs",
+    "2 cups sugar",
+    "1 teaspoon baking powder",
+    "1/2 cup Crisco",
+    "1 tablespoon vanilla",
+    "1/2 cup butter, melted and cooled",
+    "6 cups flour"
+  ],
+  "recipeInstructions": "1. Combine all ingredients until well mixed.\n2. Roll into golf ball-sized balls.\n3. Bake in a pizelle iron for 45 seconds.",
+  "url": null
+}

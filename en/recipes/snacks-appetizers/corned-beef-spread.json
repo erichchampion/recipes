@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "corned-beef-spread",
+  "name": "Corned Beef Spread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "dips",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "2 cups cooked corned beef",
+    "1 teaspoon mustard",
+    "2 teaspoons horseradish",
+    "2 teaspoons chopped fresh dill",
+    "1/2 cup mayonnaise",
+    "salt and freshly ground pepper"
+  ],
+  "recipeInstructions": "1. Combine corned beef, mustard, horseradish, dill, mayonnaise, salt, and pepper in a food processor.\n2. Pulse the ingredients to blend well without reducing them to a purée.\n3. Cover the mixture and chill for at least 2 hours, preferably overnight.",
+  "url": null
+}

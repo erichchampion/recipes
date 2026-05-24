@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "international-turkey-sandwich",
+  "name": "Sándwich de pavo internacional",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "diabetico",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 taza de lechuga finamente picada",
+    "1 taza de tomate finamente cortado en cubos",
+    "3 cebolletas finamente picadas",
+    "1/2 taza de pimiento verde finamente picado",
+    "2 cucharadas de aderezo italiano",
+    "2 mitades de panecillos ingleses",
+    "8 onzas de pavo cocido en lonchas",
+    "4 onzas de queso Monterey Jack en lonchas"
+  ],
+  "recipeInstructions": "1. Mezclar la lechuga, el tomate, las cebolletas y el pimiento verde en un bol grande.\n2. Verter el aderezo italiano y mezclar bien para combinar todos los ingredientes.\n3. Colocar 2 onzas de pavo y 1 onza de queso sobre cada mitad de panecillo.\n4. Grillar durante 2-3 minutos hasta que se caliente.\n5. Extender 1/4 de la ensalada sobre cada sándwich abierto.",
+  "url": null
+}

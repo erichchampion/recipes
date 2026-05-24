@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "stewed-bananas",
+  "name": "Bananas estofadas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "plátanos",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "4 plátanos",
+    "1 1/2 oz mantequilla",
+    "azúcar",
+    "canela"
+  ],
+  "recipeInstructions": "1. Pelar los plátanos y cortarlos por la longitud en mitades.\n2. Calentar una sartén a fuego medio y añadir la mantequilla.\n3. Incorporar las piezas de plátano a la sartén y cocinar hasta que estén doradas.\n4. Espolvorear con azúcar y canela, y servir caliente.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "oreo-ice-cream-pie",
+  "name": "Tarta de helado de Oreo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "masa/base/cobertura de pastel",
+    "pasteles"
+  ],
+  "recipeIngredient": [
+    "Base de galleta:",
+    "1 taza de migas de galletas Oreo® bajas en grasa",
+    "3 cucharadas de azúcar granulada",
+    "1 cucharada de aceite",
+    "Relleno:",
+    "1/2 taza de salsa de caramelo sin grasa",
+    "4 tazas de helado de vainilla sin grasa, ligeramente ablandado",
+    "1/2 taza de migas de galletas Oreo® bajas en grasa"
+  ],
+  "recipeInstructions": "1. Para preparar la base, mezcla las migas de galleta, el azúcar y el aceite en un bol.\n2. Presiona la mezcla firmemente en un molde para pastel de 9 pulgadas.\n3. Para preparar el relleno, extiende la salsa de caramelo sobre los crujientes de galletas.\n4. Cubre uniformemente con el helado ablandado.\n5. Espolvorea los crujientes de galletas restantes sobre la superficie.\n6. Congela durante 4 horas o hasta que esté firme.",
+  "url": null
+}

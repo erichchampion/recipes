@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "venison-jerky-4",
+  "name": "Jamón de venado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "carne de res",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne de ciervo",
+    "1 taza de salsa de soja",
+    "1 cucharadita de jugo de limón",
+    "1/2 cucharadita de pimienta negra",
+    "1/4 cucharadita de ajo en polvo"
+  ],
+  "recipeInstructions": "1. Cortar la carne de ciervo en tiras de aproximadamente 0,6 cm x 1 cm x 20 cm.\n2. Mezclar todos los ingredientes y marinar la carne de ciervo durante unas 10 horas, dando la vuelta cada hora.\n3. Ahumar la carne de ciervo a la parrilla hasta que esté completamente seca, o usar el horno a temperatura baja con la carne extendida sobre una bandeja para hornear.",
+  "url": null
+}

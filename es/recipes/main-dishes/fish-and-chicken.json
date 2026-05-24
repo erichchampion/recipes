@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-and-chicken",
+  "name": "Pescado y Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "12 dientes de ajo",
+    "1/2 cucharadita de sal gruesa",
+    "1 tallo de cilantro",
+    "1 cucharada de pimentón dulce",
+    "1 cucharada de comino en polvo",
+    "Una pizca de pimienta cayena",
+    "El jugo de 2 limones grandes",
+    "1 cucharada de aceite de oliva",
+    "6 onzas de filetes de halibut, monto, bream o snapper,",
+    "o 1 pescado entero de 2 libras, limpio, con las escamas, marcado varias veces en los lados."
+  ],
+  "recipeInstructions": "Pescado a la parrilla al estilo marroquí\nEsta marinada picante y aromática se puede usar para cualquier tipo de pescado adecuado para asar o a la parrilla, e incluso para marinar antes de hornear. Es ideal con pescados de carne blanca y firme.\n1. Machaca juntos el ajo, la sal, el cilantro, el pimentón, el comino y la pimienta cayena.\n2. Mezcla el jugo de limón y el aceite de oliva.\n3. Marina los filetes de pescado o el pescado entero en esta mezcla durante varias horas, dándoles la vuelta ocasionalmente.\n4. Asa el pescado durante 4 minutos por pulgada de grosor, dándole la vuelta a mitad de la cocción.\n5. Bastea con la marinada y sirve inmediatamente, adornado con cilantro fresco.\n6. Refrigera las sobras y sirve frío al día siguiente.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-slaw",
+  "name": "Apple Slaw",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "fruit",
+    "salads",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 Apples, thinly sliced",
+    "3 cups Shredded Cabbage",
+    "1 Carrot, grated",
+    "1/2 cup Sour Cream",
+    "3/4 teaspoon Celery Salt",
+    "2 tablespoons Lemon Juice",
+    "1 Stalk Celery, chopped",
+    "1 Medium Onion, thinly sliced",
+    "1/4 cup Mayonnaise"
+  ],
+  "recipeInstructions": "1. Sprinkle the thinly sliced apples with lemon juice.\n2. Mix the cabbage, celery, carrot, and onion in a large bowl.\n3. In a separate small bowl, combine the sour cream, mayonnaise, and celery salt.\n4. Toss the apple mixture with the dressing until well combined.\n5. Serve immediately. The lemon juice will prevent the apples from discoloring.",
+  "url": null
+}

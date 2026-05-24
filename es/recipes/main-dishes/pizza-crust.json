@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-crust",
+  "name": "Masa de pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pan",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "3 tazas de harina",
+    "1/2 taza de maíz amarillo",
+    "1 sobre de levadura seca activa",
+    "1 cucharadita de azúcar",
+    "1/2 cucharadita de sal",
+    "1 taza de agua fría",
+    "2 cucharadas de aceite de oliva"
+  ],
+  "recipeInstructions": "1. En un procesador de alimentos con cuchilla de acero, mezcla la harina, el maíz, la levadura, el azúcar y la sal hasta combinarlos.\n2. Vierte el agua poco a poco mientras el motor está en marcha. Procesa hasta que la masa se desprenda de los lados del bol. Continúa procesando durante 30 segundos para amasar la masa. Si la masa está pegajosa, añade más harina y procesa durante 30 a 60 segundos adicionales. La masa debe sentirse pegajosa, suave, elástica y cálida pero no caliente.\n3. Retira la masa del procesador y forma una bola. Colócala en un bol engrasado, dale la vuelta para cubrirla con aceite y cubre con papel film o un paño húmedo. Deja que la masa suba hasta que haya duplicado su tamaño, aproximadamente entre 30 y 60 minutos.\n4. Desinfla la masa y divídela en dos partes iguales. Coloca cada porción en una sartén para pizza de 12 pulgadas. Extiende sobre cada una los toppings de tu elección.\nRinde: Dos pizzas de 12 pulgadas.\nNotas: Añade verduras frescas, trozos de jamón y queso rallado -lo que más te guste- para hacer una pizza gourmet.",
+  "url": null
+}

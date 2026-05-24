@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "whiskey-sour-2",
+  "name": "Whisky Sour",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "aperitivos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 Limón; exprimido",
+    "1/2 Cucharadita de azúcar en polvo",
+    "2 Onzas de whisky mezclado"
+  ],
+  "recipeInstructions": "1. Llena un agitador con hielo.\n2. Añade el zumo de limón y el azúcar en polvo al agitador.\n3. Vierte el whisky mezclado en el agitador.\n4. Agita bien hasta que esté frío.\n5. Cuela la mezcla en un vaso para sour frío.\n6. Decora con una rodaja de limón y una cereza.",
+  "url": null
+}

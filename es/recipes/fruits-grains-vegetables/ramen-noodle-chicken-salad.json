@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "ramen-noodle-chicken-salad",
+  "name": "Ensalada de fideos ramen y pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pollo",
+    "carne",
+    "pasta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 paquete de fideos ramen",
+    "3 tazas de pollo cocido - cortado en cubos",
+    "1/2 repollo - finamente picado",
+    "1 cebolla - picada",
+    "1/2 taza de almendras laminadas - picadas",
+    "2 cucharadas de semillas de sésamo",
+    "1/4 taza de aceite de girasol",
+    "1/4 taza de aceite de sésamo",
+    "1 cucharada de azúcar",
+    "3 cucharadas de vinagre de vino arroz",
+    "1/2 cucharadita de pimienta negra",
+    "Condimento del paquete de fideos ramen"
+  ],
+  "recipeInstructions": "1. Picar el repollo y las cebollas.\n2. Añadir el pollo cortado a la mezcla.\n3. Incorporar las almendras picadas y los fideos ramen triturados.\n4. Mezclar los ingredientes restantes: aceite de girasol, aceite de sésamo, azúcar, vinagre de vino arroz y pimienta negra.\n5. Verter el aderezo sobre la ensalada y mezclar bien.\n6. Servir frío.",
+  "url": null
+}

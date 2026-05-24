@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "nachos",
+  "name": "Nachos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "american",
+    "dips",
+    "ethnic",
+    "mexican",
+    "restaurants"
+  ],
+  "recipeIngredient": [
+    "8 oz Bag tortilla chips",
+    "1/2 cup Refried beans",
+    "1/2 cup Cheese sauce",
+    "1/4 cup Jalapeno peppers, sliced",
+    "1/2 cup Sliced black olives",
+    "1/2 cup Onion, diced",
+    "1/2 cup Tomatoes, diced",
+    "2 cups Cheddar cheese, shredded",
+    "2 cups Jack cheese, shredded",
+    "1/2 cup Scallions, chopped",
+    "1/2 cup Sour cream",
+    "1/2 cup Guacamole (your choice)",
+    "1/2 cup Salsa (your choice)"
+  ],
+  "recipeInstructions": "Preheat oven to 400°F.\nIn a 9-inch baking dish, spread an even layer of chips. Pour the cheese sauce and beans evenly over the chips. Sprinkle with jalapenos, olives, onions, and tomatoes. Top with cheese.\nBake for 5 minutes or until the cheese melts. Garnish with scallions. Serve with sour cream, guacamole, and salsa.",
+  "url": null
+}

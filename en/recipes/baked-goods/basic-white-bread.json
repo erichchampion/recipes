@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-white-bread",
+  "name": "Basic White Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "1 cup water",
+    "1/4 cup butter",
+    "1 whole egg",
+    "2 tablespoons sugar",
+    "1 teaspoon salt",
+    "3 cups bread flour",
+    "1/4 cup nonfat dry milk",
+    "2 1/4 teaspoons yeast"
+  ],
+  "recipeInstructions": "1. Place the liquids (water, butter, and egg) in the bread machine.\n2. Add the sweetener (sugar) to the bread machine.\n3. Incorporate the salt into the bread machine.\n4. Pour in the dry ingredients (bread flour, nonfat dry milk).\n5. Finally, add the yeast to the bread machine.\n6. Mix and knead according to the bread machine's settings.\n7. Turn off the bread machine once baking is complete.",
+  "url": null
+}

@@ -1,0 +1,17 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish",
+  "name": "Pescado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "variado",
+    "conservación"
+  ],
+  "recipeIngredient": [
+    "Pescado azul (macarel, salmón, acero de mar, trucha, etc.), excluyendo el atún."
+  ],
+  "recipeInstructions": "1. Eviscerar el pescado en un plazo de 2 horas después de su captura.\n2. Mantener el pescado limpio sobre hielo hasta que esté listo para enlatar.\n3. Es posible que se formen cristales similares al vidrio de fosfato de magnesio amonio en el salmón enlatado. Estos son seguros para consumir y generalmente se disuelven al calentarse.\n4. Retirar la cabeza, la cola, las aletas y las escamas del pescado.\n5. Lavar cuidadosamente el pescado y eliminar toda la sangre.\n6. Dividir el pescado por la longitud si se desea.\n7. Cortar el pescado limpio en trozos de 3-1/2 pulgadas de largo.\n8. Llenar frascos de un litro con el pescado, con la piel hacia el vidrio, dejando un espacio de 1 pulgada en la parte superior.\n9. Añadir 1 cucharadita de sal por litro, si se desea (no añadir líquidos).\n10. Ajustar las tapas y procesar los frascos según las recomendaciones de las tablas 1 o 2, según el método de enlatado utilizado.\nTabla 1: Tiempo de procesamiento recomendado para pescado crudo en una olla de presión con indicador de presión.\nTamaño del frasco: Litros\nTiempo de procesamiento: 100 minutos\nPresión del cáncer (PSI) a diferentes altitudes:\n0 - 2,000 pies: 11 lb\n2,001 - 4,000 pies: 12 lb\n4,001 - 6,000 pies: 13 lb\n6,001 - 8,000 pies: 14 lb\nTabla 2: Tiempo de procesamiento recomendado para pescado crudo en una olla de presión con peso.\nTamaño del frasco: Litros\nTiempo de procesamiento: 100 minutos\nPresión del cáncer (PSI) a diferentes altitudes:\n0 - 1,000 pies: 10 lb\nMás de 1,000 pies: 15 lb",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "classic-chicken-stock",
+  "name": "Classic Chicken Stock",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "poultry",
+    "soups",
+    "stocks"
+  ],
+  "recipeIngredient": [
+    "2 pounds chicken bones and parts",
+    "3 quarts cold water",
+    "1 carrot, sliced",
+    "1 onion, peeled and quartered",
+    "1 stalk celery, sliced",
+    "1 bay leaf",
+    "2 sprigs thyme",
+    "1/2 teaspoon black peppercorns"
+  ],
+  "recipeInstructions": "1. In a soup pot, bring the chicken bones to a boil in 3 quarts of cold water.\n2. Add all remaining ingredients. Return to a boil, then reduce heat to a gentle simmer.\n3. Simmer for two hours, skimming fat and foam from the surface as needed.\n4. Strain the liquid through cheesecloth if available. Season with salt to taste.\nYou can store in refrigerator for up to two weeks or freeze for months. For freezing, portion into ice cube trays.\nTo create a reduced demi-glace suitable for sauces, simmer the stock an additional two hours.",
+  "url": null
+}

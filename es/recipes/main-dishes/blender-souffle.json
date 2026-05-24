@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "blender-souffle",
+  "name": "Soufflé de licuadora",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "queso/huevos",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "8 onzas de queso cheddar fuerte",
+    "1 cucharada de sal",
+    "10 rebanadas de pan, untadas o en cubos",
+    "4 huevos",
+    "2 tazas de leche",
+    "1 cucharada de mostaza francesa (se puede sustituir con 1/2 cucharadita de mostaza en polvo)"
+  ],
+  "recipeInstructions": "1. Cortar el queso en trozos.\n2. Mezclar todos los ingredientes en una licuadora hasta que estén bien integrados.\n3. Verter la mezcla en un molde para al horno de 1,5 litros engrasado y sin tapar.\n4. Hornear durante 1 hora a 350 grados Fahrenheit.",
+  "url": null
+}

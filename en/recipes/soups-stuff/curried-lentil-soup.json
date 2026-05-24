@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "curried-lentil-soup",
+  "name": "Curried Lentil Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "quick",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "4 cups hot water",
+    "1 can (28 oz) crushed tomatoes",
+    "3 medium potatoes, peeled and diced",
+    "3 medium carrots, thinly sliced",
+    "1 large onion, chopped",
+    "1 celery stalk, chopped",
+    "1 cup dry lentils",
+    "2 cloves garlic, minced",
+    "2 bay leaves",
+    "4 teaspoons curry powder",
+    "1 1/2 teaspoons salt, optional"
+  ],
+  "recipeInstructions": "1. Add all ingredients to a slow cooker.\n2. Stir well to combine.\n3. Cover and cook on LOW for 8 hours or until vegetables are tender.\n4. Discard the bay leaves before serving.",
+  "url": null
+}

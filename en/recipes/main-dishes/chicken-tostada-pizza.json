@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-tostada-pizza",
+  "name": "Chicken Tostada Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "4 6-inch Tostadas",
+    "6 oz Shredded Cheddar Cheese",
+    "1 cup Chopped cooked chicken",
+    "1/2 cup Salsa",
+    "1/4 cup Chopped green pepper",
+    "1/2 cup Black olives",
+    "1 tbsp Chopped cilantro"
+  ],
+  "recipeInstructions": "1. Preheat oven to 350°F.\n2. Heat tostadas for 5-7 minutes until browned on a cookie sheet. Remove from oven and top each with 2 tablespoons of cheese.\n3. Mix chicken and salsa and spoon over the cheese. Top with green pepper, black olives, and cilantro.\n4. Top each with remaining cheese and return to oven. Heat until cheese is melted.\n5. Optional: Serve pizzas with chopped lettuce, tomatoes, and sour cream.",
+  "url": null
+}

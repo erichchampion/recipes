@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-pudding-2",
+  "name": "Fruit Pudding",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "desserts",
+    "puddings",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup Raisins",
+    "1 cup Suet, chopped",
+    "1 cup Molasses",
+    "1 cup Milk",
+    "1 teaspoon Salt",
+    "1 teaspoon Soda",
+    "Dissolved in:",
+    "1/4 cup Water, boiling",
+    "1/2 teaspoon Cinnamon",
+    "1/2 teaspoon Nutmeg",
+    "1/2 teaspoon Allspice",
+    "1/4 teaspoon Cloves",
+    "1 Flour"
+  ],
+  "recipeInstructions": "1. In a large bowl, combine the raisins, suet, molasses, milk, salt, and soda.\n2. In a separate container, dissolve the soda in boiling water with cinnamon, nutmeg, allspice, and cloves.\n3. Pour the dissolved mixture into the dry ingredients and stir until well combined.\n4. Grease a mold thoroughly and pour the batter into it.\n5. Cover tightly and steam for 3 hours.\n6. Serve with Brown Sugar Pudding Sauce.",
+  "url": null
+}

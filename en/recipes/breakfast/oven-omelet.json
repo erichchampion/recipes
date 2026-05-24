@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "oven-omelet",
+  "name": "Oven Omelet",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "eggs",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1/8 cup Butter",
+    "8 Eggs",
+    "1/2 cup Sour Cream",
+    "1/2 cup Milk",
+    "3/4 tsp Salt",
+    "Dash of Pepper",
+    "1/8 cup Onion, Chopped",
+    "1/8 cup Green Pepper, Chopped",
+    "1/8 cup Mushrooms, Chopped"
+  ],
+  "recipeInstructions": "1. Melt the butter in an 8x8 inch pan.\n2. Beat the eggs, adding sour cream, milk, salt, and pepper. Mix well.\n3. Pour the mixture into the pan.\n4. Sprinkle onion, green pepper, and mushrooms over the omelet.\n5. Bake at 325°F for 35 to 45 minutes.\n6. During the last few minutes of baking, sprinkle grated cheese and crushed fried bacon on top.\n7. Cut into squares and serve.",
+  "url": null
+}

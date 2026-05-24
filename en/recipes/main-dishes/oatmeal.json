@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "oatmeal",
+  "name": "Oatmeal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "cereals",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1/2 cup oatmeal",
+    "Scant cup soymilk, regular milk, water or combination",
+    "Dash of salt",
+    "1 ripe banana, mashed",
+    "Handful of raisins",
+    "A tablespoon of maple syrup (optional, but the maple-banana combo is great)",
+    "A little more milk if you like it smoother"
+  ],
+  "recipeInstructions": "1. Combine first three ingredients and microwave on HIGH for 4 minutes.\n2. Stir in remaining ingredients.\nThat's it - the creamiest, smoothest, most satisfying oatmeal ever.",
+  "url": null
+}

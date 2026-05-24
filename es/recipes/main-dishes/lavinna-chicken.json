@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "lavinna-chicken",
+  "name": "Pollo Lavinna",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "2 lb de pechugas de pollo sin hueso y sin piel",
+    "1 lata de sopa de champiñones cremosos",
+    "3/4 taza de caldo",
+    "1 taza de crema agria",
+    "1 pizca de ajo",
+    "1 pizca de cebolla",
+    "1 pizca de curry",
+    "1 tarro de champiñones enteros",
+    "1 cucharadita de pimentón dulce"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar la sopa de champiñones cremosos, el caldo, la crema agria, el ajo, la cebolla y el curry.\n2. Añadir los champiñones escurridos del tarro a la mezcla y remover bien.\n3. Colocar las pechugas de pollo en un plato para hornear poco profundo, asegurándose de que no se superpongan.\n4. Verter la salsa de champiñones sobre el pollo.\n5. Espolvorear el pimentón dulce uniformemente sobre el pollo.\n6. Hornear a 175 °C durante 1 hora, o hasta que el pollo esté cocido y ya no sea rosado por dentro.",
+  "url": null
+}

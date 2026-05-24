@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "kahlua-custard-filling",
+  "name": "Crema de custard con Kahlua",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "rellenos",
+    "glaseado"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de leche",
+    "1/3 taza de azúcar",
+    "2 huevos batidos",
+    "1/2 cucharadita de extracto de vainilla",
+    "1/4 taza de Kahlua"
+  ],
+  "recipeInstructions": "1. En una cacerola pesada, calentar la leche hasta que esté a punto de hervir.\n2. Incorporar el azúcar y remover.\n3. Retirar del fuego y agregar los huevos poco a poco, removiendo constantemente.\n4. Devolver la mezcla al fuego bajo y remover continuamente hasta que la crema espese.\n5. Retirar del fuego y mezclar la vainilla y el Kahlua.\n6. Tapar y dejar enfriar.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "vodka-martini",
+  "name": "Vodka Martini",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz Vodka",
+    "1/2 oz Dry vermouth",
+    "1 Green olive",
+    "Cracked ice"
+  ],
+  "recipeInstructions": "Fill a mixing glass with cracked ice. Pour in vodka and dry vermouth. Stir until combined, then strain into a chilled martini glass. Garnish with one green olive.",
+  "url": null
+}

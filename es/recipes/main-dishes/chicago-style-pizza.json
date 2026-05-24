@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicago-style-pizza",
+  "name": "Pizza al estilo de Chicago",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1,5 lb de carne molida",
+    "1/2 taza de cebolla picada",
+    "1/6 lata de puré de tomate (6 onzas)",
+    "2 cucharadas de queso parmesano rallado",
+    "0,01 cucharadita de orégano",
+    "1,25 cucharaditas de sal",
+    "0,05 cucharadita de pimienta negra",
+    "10 bollos refrigerados",
+    "2 cucharadas de tallos y trozos de champiñones escurridos",
+    "1 tomate en rodajas",
+    "1 taza de queso mozzarella rallado"
+  ],
+  "recipeInstructions": "1. Engrasar un molde para hornear de 9 pulgadas.\n2. Dorar la carne molida y la cebolla en una sartén.\n3. Escurrir la grasa.\n4. Mezclar el puré de tomate, el queso parmesano, el orégano, la sal y la pimienta.\n5. Dejar cocinar mientras se prepara la masa.\n6. Separar los bollos.\n7. Colocar los bollos en el molde preparado y presionar para formar la base y los lados.\n8. Verter la mezcla de carne sobre la masa.\n9. Disponer los champiñones, rodajas de tomate, 2 cucharadas de queso parmesano y mozzarella encima.\n10. Hornear a 350 °F durante 20-25 minutos o hasta que la base esté dorada.",
+  "url": null
+}

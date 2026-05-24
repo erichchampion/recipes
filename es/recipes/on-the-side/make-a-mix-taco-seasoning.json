@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "make-a-mix-taco-seasoning",
+  "name": "Preparar Mezcla de Condimento para Tacos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "especias y condimentos",
+    "acompañamientos",
+    "especias"
+  ],
+  "recipeIngredient": [
+    "2 cucharaditas de cebolla seca picada",
+    "1 cucharadita de sal",
+    "1 cucharadita de polvo de chile",
+    "1/2 cucharadita de almidón de maíz",
+    "1/2 cucharadita de pimentón rojo seco molido",
+    "1/2 cucharadita de ajo seco picado",
+    "1/4 cucharadita de orégano seco",
+    "1/2 cucharadita de comino en polvo."
+  ],
+  "recipeInstructions": "1. Para una sobre (aproximadamente 2 cucharadas), mezclar todos los ingredientes y almacenar en un recipiente hermético o en una hoja cuadrada de aluminio doblada apretadamente. Utilizar en un plazo de 6 meses.\n2. Para usar: Dorar 500 gramos de carne molida y escurrir el exceso de grasa.\n3. Añadir 1/2 taza de agua y la Mezcla de Especias para Tacos a la carne.\n4. Reducir el fuego y cocinar a fuego lento durante 10 minutos, removiendo ocasionalmente.\n5. Prepara suficiente relleno para 8 a 10 tacos.",
+  "url": null
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-chicken-german-style",
+  "name": "Pollo al horno estilo alemán",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "alemán",
+    "plato principal",
+    "carne",
+    "pasta",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla",
+    "1/2 taza de harina",
+    "2 tazas de caldo de pollo",
+    "2 tazas de leche",
+    "2 cucharaditas de zumo de limón",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra",
+    "1/4 cucharadita de nuez moscada",
+    "8 onzas de macarrones cocidos y escurridos",
+    "3 tazas de pollo cocido, picado",
+    "2 tazas de queso parmesano rallado",
+    "2 cucharaditas de pimentón dulce"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 175 °C.\n2. Derretir la mantequilla en una sartén grande a fuego medio-bajo.\n3. Incorporar la harina y remover durante 3 minutos.\n4. Añadir gradualmente el caldo y la leche, batiendo sin cesar hasta espesar, unos 10 minutos.\n5. Mezclar el zumo de limón y las especias.\n6. Combinar los macarrones cocidos con la mitad de la salsa y remover suavemente.\n7. Colocar en un molde para hornear engrasado de 2 litros.\n8. Cubrir con el pollo y el resto de la salsa.\n9. Mezclar el queso parmesano con el pimentón dulce y espolvorear sobre el casserole.\n10. Hornear hasta que burbujee y esté dorado, unos 30 minutos. Servir caliente.",
+  "url": null
+}

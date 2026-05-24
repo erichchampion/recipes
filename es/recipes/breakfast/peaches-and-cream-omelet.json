@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "peaches-and-cream-omelet",
+  "name": "Omeleta de duraznos y crema",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "8 onzas de queso crema ablandado",
+    "8 huevos",
+    "Una pizca de sal",
+    "1/4 taza de crema espesa",
+    "1 sobre de edulcorante",
+    "Relleno:",
+    "2 cucharadas de mantequilla",
+    "1/3 taza de duraznos (cocidos y picados)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto la mantequilla y los duraznos en un bol.\n2. Batir hasta obtener una consistencia suave.\n3. Seguir las instrucciones de la receta básica de omelet.\n4. Cuando la omeleta esté lista para darla vuelta hacia el centro, añadir los duraznos picados en el centro como relleno.\n5. Servir.",
+  "url": null
+}

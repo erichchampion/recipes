@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "curried-ham-salad",
+  "name": "Ensalada de jamón curri",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "cerdo",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "3/4 libra de jamón sin hueso en tiras finas (2 tazas)",
+    "1 taza de apio picado",
+    "1/2 taza de pasas",
+    "1 lata de 340 g de segmentos de naranja mandarina, escurridos",
+    "1/4 taza de cacahuetes tostados sin sal",
+    "1/2 taza de mayonesa de bajo contenido calórico",
+    "2 cucharaditas de jugo de lima",
+    "1/2 cucharadita de polvo de curry"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar el jamón, el apio, las pasas, las naranjas mandarinas y los cacahuetes.\n2. Distribuir la mezcla sobre lechuga en platos individuales para ensalada.\n3. En un bol pequeño, combinar la mayonesa, el jugo de lima y el polvo de curry.\n4. Verter el aderezo sobre la ensalada.",
+  "url": null
+}

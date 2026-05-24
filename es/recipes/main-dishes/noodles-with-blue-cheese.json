@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "noodles-with-blue-cheese",
+  "name": "Pasta con Queso Azul",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "10 oz de pasta (noodles o fettuccine)",
+    "1/2 lb de queso azul (cualquier tipo)",
+    "1/4 taza de crema para batir o 1/2 y 1/2",
+    "1/4 taza de parmesano o romano rallado",
+    "Pimienta negra fresca molida al gusto"
+  ],
+  "recipeInstructions": "1. Mientras se cocina la pasta en agua con sal hirviendo, desmenuza el queso.\n2. Mezcla el queso desmenuzado con la crema y la pimienta.\n3. Escurre la pasta cocida.\n4. Añade la mezcla de queso a una sartén que contenga la pasta escurrida.\n5. Cocina durante 2-3 minutos.\n6. Sirve caliente espolvoreado con queso rallado.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "best-jell-o",
+  "name": "El mejor gelatina",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "bebidas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3 oz de gelatina (1 sobre) en cualquier sabor",
+    "1 taza de agua hirviendo",
+    "8 oz de cola fría",
+    "8 oz de queso crema cortado en cubos",
+    "1 taza de cerezas oscuras sin hueso y escurridas",
+    "1/2 taza de nueces picadas (opcional)"
+  ],
+  "recipeInstructions": "1. Disuelve la gelatina en el agua hirviendo.\n2. Cuando esté a temperatura ambiente, añade la cola, el queso crema, las cerezas y las nueces (si se desea).\n3. Vierte la mezcla en un molde para 6 tazas.\n4. Refrigera hasta que cuaje.\n5. Desmolda y sirve.",
+  "url": null
+}

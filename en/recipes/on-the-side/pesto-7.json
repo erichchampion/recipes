@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pesto-7",
+  "name": "Pesto",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pesto",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 cups of basil leaves",
+    "5 cloves garlic",
+    "1/4 cup walnuts",
+    "1/2 cup Parmesan cheese",
+    "1/2 teaspoon salt",
+    "1/2 teaspoon pepper",
+    "1/4 cup olive oil"
+  ],
+  "recipeInstructions": "1. Place the basil, garlic, walnuts, Parmesan cheese, salt, and pepper in a food processor.\n2. Process until smooth.\n3. With the processor running, slowly add the olive oil.\n4. Continue processing until smooth.\n5. Transfer the pesto to a bowl and serve.",
+  "url": null
+}

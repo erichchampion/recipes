@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cabbage-noodles",
+  "name": "Nudillos de col",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "8 oz de pasta fina o nudos de ángel cortados en longitudes de 2 pulgadas",
+    "4 tazas de repollo verde finamente rallado",
+    "1/2 taza de caldo de verduras para saltear",
+    "sal",
+    "pimienta",
+    "pimienta de ajo",
+    "1/2 taza de crema agria o yogur natural"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta según las instrucciones del paquete y escurrir.\n2. En una sartén separada, saltear el repollo en caldo de verduras hasta que esté tierno (aproximadamente 10 minutos).\n3. Añadir la pasta cocida a la mezcla de repollo y mezclar bien.\n4. Sazonar con sal, pimienta y pimienta de ajo al gusto.\n5. Retirar la sartén del fuego y remover la crema agria o yogur.",
+  "url": null
+}

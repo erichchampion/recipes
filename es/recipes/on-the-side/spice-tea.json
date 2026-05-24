@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "spice-tea",
+  "name": "Té Especiado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "mezclas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 tazas de azúcar granulada",
+    "2 tazas de Tang",
+    "1 1/2 cucharaditas de canela en polvo",
+    "1 taza de té instantáneo",
+    "6 onzas de mezcla de limonada en polvo (polvo)",
+    "3/4 cucharadita de clavos de olor en polvo"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un tarro y agitar bien.\n2. Coger entre 1 1/2 y 2 cucharadas de la mezcla y verterlas en una taza.\n3. Añadir agua caliente y remover hasta que se disuelva.\n4. ¡Disfrutar!",
+  "url": null
+}

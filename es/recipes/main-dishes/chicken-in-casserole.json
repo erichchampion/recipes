@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-in-casserole",
+  "name": "Pollo en Casserola",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 pollo (de corral), de 2 1/2 a 3 libras",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "2 tazas de relleno sabroso (receta separada)",
+    "1/4 taza de margarina",
+    "1/2 taza de caldo",
+    "4 papas medianas, peladas y cortadas en cuartos",
+    "1/2 libra de guisantes, frescos o congelados",
+    "6 zanahorias, cortadas en rodajas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375 °F.\n2. Lavar y secar el pollo. Espolvorear la cavidad con media cucharadita de sal y pimienta.\n3. Rellenar el pollo con el relleno sabroso.\n4. Atar las patas juntas.\n5. Dorar todos los lados en margarina en una sartén profunda para hornear.\n6. Añadir el caldo y las papas, luego hornear cubierto durante 30 minutos.\n7. Agregar los guisantes y las zanahorias, y espolvorear con la otra media cucharadita de sal. Cubrir nuevamente.\n8. Hornear durante 30 minutos adicionales.",
+  "url": null
+}

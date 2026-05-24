@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "forgotten-minestrone",
+  "name": "Minestrone Olvidado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "diabético",
+    "plato principal",
+    "olla de cocción lenta",
+    "sopa"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne de guiso magra",
+    "6 tazas de agua",
+    "1 lata (400g) de tomates con líquido, picados",
+    "1 cubo de caldo de carne",
+    "1 cebolla mediana, picada",
+    "2 cucharadas de perejil seco",
+    "2 1/2 cucharaditas de sal, opcional",
+    "1 1/2 cucharaditas de tomillo molido",
+    "1/2 cucharadita de pimienta",
+    "1 calabacín mediano, cortado en rodajas finas",
+    "1 lata (400g) de garbanzos, escurridos",
+    "1 taza de macarrones pequeños o con forma de concha crudos",
+    "1/4 taza de queso parmesano rallado (opcional)"
+  ],
+  "recipeInstructions": "1. En una olla de cocción lenta, combina la carne, el agua, los tomates, el caldo, la cebolla, el perejil, la sal (si se desea), el tomillo y la pimienta.\n2. Tapa y cocina a fuego lento durante 7-9 horas o hasta que la carne esté tierna.\n3. Añade el calabacín, los garbanzos y los macarrones; cocina a fuego alto, cubierto, durante 30-45 minutos más, o hasta que las verduras estén tiernas.\n4. Espolvorea queso parmesano sobre cada ración si se desea.",
+  "url": null
+}

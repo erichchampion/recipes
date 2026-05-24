@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "berries-and-cream",
+  "name": "Frutas y crema",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 tarro de Crema Mexicana Cacique",
+    "1 tarro de Crema Mexicana Agria Cacique",
+    "1 taza de azúcar glas",
+    "Frutas mixtas",
+    "Frutas variadas"
+  ],
+  "recipeInstructions": "1. Batir la crema hasta que esté suave, añadiendo el azúcar glas gradualmente.\n2. Verter sobre la fruta.\n3. Para un cambio delicioso, pruebe a añadir licores con sabor como Kahlúa o Grand Marnier y una pizca de azúcar. Las cremas se pueden usar directamente del tarro o endulzarlas al gusto con azúcar o un sustituto.",
+  "url": null
+}

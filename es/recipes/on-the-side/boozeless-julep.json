@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "boozeless-julep",
+  "name": "Julep sin alcohol",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 libra de azúcar granulada",
+    "6 tazas de agua",
+    "1 ¼ onzas de concentrado de jugo de lima puro",
+    "8 ½ onzas de concentrado de limonada",
+    "¾ taza de crema de menta como topping"
+  ],
+  "recipeInstructions": "1. En una olla, combinar el azúcar y el agua, removiendo hasta que el azúcar se disuelva por completo.\n2. Agregar el jugo de lima, los concentrados de limonada y la crema de menta a la mezcla en la olla.\n3. Llevar la mezcla a punto de ebullición, luego retirar del fuego.\n4. Dejar enfriar la mezcla antes de refrigerarla.\n5. Para servir, mezclar 5 partes de agua con 1 parte de sirope.",
+  "url": null
+}

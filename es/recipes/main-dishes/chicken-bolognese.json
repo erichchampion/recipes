@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-bolognese",
+  "name": "Pollo Bolognesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo sin piel y sin hueso, cortadas por la mitad",
+    "sal y pimienta",
+    "1/4 taza de harina de uso común",
+    "1 cucharada de mantequilla",
+    "1 cucharada de aceite de oliva",
+    "4 lonchas finas de prosciutto",
+    "1 cucharada de queso parmesano rallado",
+    "1 cucharada de caldo de pollo o vino blanco seco"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 °F (175 °C).\n2. Golpear las pechugas de pollo entre dos hojas de papel de cera o plástico hasta que queden planas. Retirar el papel.\n3. Sazonar los filetes de pollo con sal y pimienta. Cubrirlos con harina; sacudir para eliminar el exceso.\n4. En una sartén grande pesada, derretir la mantequilla junto al aceite a fuego medio-alto. Dorar el pollo aproximadamente 2 minutos por cada lado o hasta que adquiera un tono dorado claro. Transferirlo a un plato para hornear engrasado.\n5. Colocar una loncha de prosciutto y una rebanada de queso fontina sobre cada filete de pollo. Espolvorear con parmesano y verter el caldo.\n6. Hornear, sin cubrir, durante 10 a 20 minutos o hasta que el queso esté derretido y ligeramente dorado y el pollo ya no sea rosado. Servir inmediatamente.",
+  "url": null
+}

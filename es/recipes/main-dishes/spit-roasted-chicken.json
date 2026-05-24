@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "spit-roasted-chicken",
+  "name": "Pollo asado en brocha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "5 libras de pollo, trenzado",
+    "4 lonchas de tocino, blanqueadas",
+    "Sal y pimienta al gusto",
+    "3 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. Espolvorea el interior del pollo con sal y pimienta.\n2. Trenza el pollo. Inserta la broca por debajo, comenzando en la parte superior del pecho.\n3. Seca bien el pollo, frótalo con mantequilla y espolvoréalo con sal.\n4. Asegura tiras de tocino blanqueado sobre el pecho y las piernas con hilo.\n5. Asa a fuego moderado durante aproximadamente 1 hora y 30 minutos a 1 hora y 45 minutos.\n6. Retira el tocino 15 minutos antes de finalizar la cocción.\n7. Bastea con los jugos de la sartén hasta que el pollo esté dorado y cocido.",
+  "url": null
+}

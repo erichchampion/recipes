@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "plate-cake",
+  "name": "Pastel Plato",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "étnico",
+    "galés"
+  ],
+  "recipeIngredient": [
+    "1 lb de harina",
+    "3 huevos",
+    "4 oz de manteca",
+    "una pizca de nuez moscada",
+    "4 oz de mantequilla",
+    "leche",
+    "2 cucharaditas de polvo de hornear",
+    "7 oz de azúcar",
+    "8 oz de pasas"
+  ],
+  "recipeInstructions": "1. Mezclar la manteca con la harina y añadir los demás ingredientes secos.\n2. Batir bien los huevos y incorporarlos a la mezcla.\n3. Añadir leche suficiente para mantener la masa suave.\n4. Verter en un molde poco profundo engrasado y enharinado.\n5. Hornear en horno moderado (180°C o Mark 4) durante 20 minutos.\n6. Bajar la temperatura a 150°C o Mark 3 y continuar horneando durante 40 minutos.",
+  "url": null
+}

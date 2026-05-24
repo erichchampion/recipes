@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cappucino-cake",
+  "name": "Cappucino Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "desserts",
+    "none"
+  ],
+  "recipeIngredient": [
+    "1 Sponge cake",
+    "1 cup Coffee (boiling)",
+    "2 tsp Gelatin",
+    "1 cup Condensed milk"
+  ],
+  "recipeInstructions": "1. Line a cake tin with foil and place the sponge cake inside, either using the original tin or ensuring a close fit.\n2. Slowly dissolve the gelatin in the boiling coffee.\n3. Mix the coffee mixture into the condensed milk.\n4. Pour the mixture over the sponge cake, making sure it is evenly absorbed.\n5. Refrigerate until set for several hours.\n6. Cut into small servings and decorate with cream and powdered chocolate.",
+  "url": null
+}

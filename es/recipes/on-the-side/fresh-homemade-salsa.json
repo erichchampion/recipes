@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "fresh-homemade-salsa",
+  "name": "Salsa casera fresca",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "marinadas",
+    "mops",
+    "salsas",
+    "salsas para acompañar",
+    "salsas para carnes"
+  ],
+  "recipeIngredient": [
+    "3 tomates, sin semillas y picados",
+    "1 pepino pequeño, sin semillas y cortado en cubos",
+    "1 cebolla pequeña, picada",
+    "1 diente de ajo, machacado",
+    "1 cucharada de cilantro fresco, picado",
+    "1 pimiento tailandés picante, machacado o 1 pimiento jalapeño finamente cortado",
+    "1/2 cucharadita de sal",
+    "Jugo de 1 limón pequeño"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Dejar reposar la salsa durante 1 hora para que se mezclen los sabores.",
+  "url": null
+}

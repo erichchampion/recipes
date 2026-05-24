@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "peach-soup-2",
+  "name": "Sopa de melocotón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "postres",
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "5 melocotones grandes, cortados en rodajas",
+    "1 taza de vino blanco",
+    "4 tazas de agua",
+    "1/4 taza de licor de naranja o melocotón",
+    "1 taza de crema batida",
+    "1/4 cucharadita de nuez moscada (opcional)",
+    "1 cucharada de almidón de maíz"
+  ],
+  "recipeInstructions": "1. Combinar los melocotones, el agua y el zumo de limón en una cacerola; cocinar a fuego lento durante 15 minutos.\n2. Triturarlo todo con sirope de arce y almidón de maíz en una licuadora.\n3. Añadir el vino y el licor a la mezcla.\n4. Verter la mitad de la crema, mezclar bien.\n5. Enfriar durante 1 hora.\n6. Montar la crema restante y colocar una cucharada sobre cada ración.\n7. Espolvorear con nuez moscada si se desea.",
+  "url": null
+}

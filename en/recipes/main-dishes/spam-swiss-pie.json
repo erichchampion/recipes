@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "spam-swiss-pie",
+  "name": "Spam Swiss Pie",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "pies",
+    "pork"
+  ],
+  "recipeIngredient": [
+    "1 Deep dish pie shell (9\")",
+    "6 Eggs",
+    "1 cup Whipping cream",
+    "1/8 teaspoon Pepper",
+    "1 can SPAM Luncheon Meat, cubed (12 oz)",
+    "1/4 cup Chopped onion",
+    "2 cups Shredded Swiss cheese, divided"
+  ],
+  "recipeInstructions": "1. Preheat oven to 425°F.\n2. Bake pie shell for 6-8 minutes. Reduce oven temperature to 350°F.\n3. In a bowl, beat together eggs, whipping cream, and pepper. Stir in SPAM and onion.\n4. Sprinkle one cup of cheese into the pie shell.\n5. Pour egg mixture over the cheese.\n6. Sprinkle the remaining cheese over the egg layer.\n7. Bake for 45-55 minutes or until eggs are set.",
+  "url": null
+}

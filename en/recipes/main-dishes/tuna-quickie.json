@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tuna-quickie",
+  "name": "Tuna Quickie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "fish",
+    "main dish",
+    "meat",
+    "seafood",
+    "tuna"
+  ],
+  "recipeIngredient": [
+    "1 can tuna in oil",
+    "4 mushrooms, chopped fine",
+    "1 egg",
+    "4 tablespoons onion, chopped",
+    "1/2 cup cheese, grated"
+  ],
+  "recipeInstructions": "1. Don't drain oil off the tuna.\n2. Mix all ingredients together.\n3. Put mixture in a pan.\n4. Cook over low heat until the egg and cheese is cooked.",
+  "url": null
+}

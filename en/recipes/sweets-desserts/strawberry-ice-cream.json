@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-ice-cream",
+  "name": "Strawberry \"Ice Cream",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "fruits",
+    "ice cream"
+  ],
+  "recipeIngredient": [
+    "Env. Unflavored gelatin",
+    "1 cup Non-fat milk",
+    "1 cup Fresh Strawberries",
+    "1 cup Instant nonfat dry milk",
+    "1 cup Ice water",
+    "1 tbsp Lemon juice",
+    "1 cup Crushed Pineapple (drain)"
+  ],
+  "recipeInstructions": "1. Soften the gelatin in milk.\n2. Heat, stirring until the gelatin is dissolved.\n3. Puree strawberries and add to warm milk.\n4. Pour into a bowl and refrigerate until chilled.\n5. Combine nonfat dry milk, ice water, and lemon juice. Beat until the consistency of whipped cream (this may take up to 10 minutes).\n6. Fold the \"cream\" into the strawberry mixture.\n7. Freeze until firm. Add pineapple and beat until thick and smooth. Pour into ice cube trays or serving dishes and freeze until firm.",
+  "url": null
+}

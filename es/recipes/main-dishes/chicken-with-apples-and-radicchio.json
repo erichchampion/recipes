@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-with-apples-and-radicchio",
+  "name": "Pollo con manzanas y radicchio",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite de oliva",
+    "4 muslos de pollo sin piel",
+    "2 cebollas grandes, picadas",
+    "1 taza de rúcula, picada",
+    "2 tazas de sidra de manzana",
+    "1/2 cucharadita de tomillo seco",
+    "Sal y pimienta al gusto",
+    "4 manzanas ácidas",
+    "1 cucharada de almidón de maíz"
+  ],
+  "recipeInstructions": "Calentar el aceite de oliva en una sartén o cacerola eléctrica a fuego medio-alto. Dorar los trozos de pollo, luego retirarlos de la sartén y reservar. Añadir las cebollas picadas y cocinar durante unos 20 minutos hasta que se ablanden. Devolver el pollo a la sartén y agregar la rúcula y la sidra de manzana. Reducir hasta que las manzanas estén tiernas y queden aproximadamente 1/2 taza de líquido en la sartén. Mezclar el almidón de maíz con la sidra restante hasta obtener una pasta suave, y luego incorporarlo a la sartén.",
+  "url": null
+}

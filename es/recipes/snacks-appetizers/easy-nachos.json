@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-nachos",
+  "name": "Nachos fáceis",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "mexicanos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 paquete de totas de maíz (8 oz)",
+    "1 paquete de queso Velveeta rallado (8 oz)",
+    "8 oz de salsa Pace Gruesa y Picante",
+    "-----GAARNIZACIONES OPCIONALES-----",
+    "Aceitunas cortadas",
+    "Guacamole",
+    "Pimientos jalapeños en rodajas",
+    "Crema agria"
+  ],
+  "recipeInstructions": "1. Coloca las totas de maíz en una bandeja para hornear; espolvorea con queso.\n2. Hornea a 350°F hasta que el queso se derrita, unos 3-4 minutos.\n3. Vierte la salsa Gruesa y Picante sobre las totas.\n4. Adorna al gusto.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "zesty-hamburgers",
+  "name": "Zesty Hamburgers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "burgers",
+    "main dish",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "1 lb extra lean ground beef",
+    "4 tablespoons prepared horseradish",
+    "2 teaspoons Dijon mustard",
+    "3 tablespoons fat-free sour cream, see note",
+    "1 teaspoon paprika",
+    "1/4 teaspoon pepper",
+    "1/8 teaspoon salt, optional",
+    "4 hamburger buns, split"
+  ],
+  "recipeInstructions": "1. In a bowl, combine the first seven ingredients; mix well.\n2. Shape into four patties.\n3. Pan-fry, grill or boil until no longer pink.\n4. Serve on buns.",
+  "url": null
+}

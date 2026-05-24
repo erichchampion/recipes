@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "honey-mint-lemonade",
+  "name": "Limonada de miel y menta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "limonada",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de agua",
+    "1/2 taza de miel",
+    "4 ramitas de menta fresca",
+    "1 taza de jugo de limón fresco",
+    "Azúcar (al gusto)",
+    "Hielo"
+  ],
+  "recipeInstructions": "1. Mezcla el agua y la miel en una cacerola y lleva a ebullición a fuego alto.\n2. Retira del fuego. Añade la menta y deja enfriar.\n3. Cuela el líquido en un jarro utilizando un colador y desecha las hojas de menta.\n4. Agrega el jugo de limón. Prueba y endulza con azúcar al gusto.\n5. Refrigera. Sirve en vasos con hielo.",
+  "url": null
+}

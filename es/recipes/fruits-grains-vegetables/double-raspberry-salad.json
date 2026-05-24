@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "double-raspberry-salad",
+  "name": "Ensalada Doble de Fresas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "gelatina",
+    "ensaladas",
+    "ensaladas de londontown"
+  ],
+  "recipeIngredient": [
+    "1 sobre de gelatina de fresa",
+    "1 taza de agua hirviendo",
+    "1 paquete de fresas congeladas",
+    "1 taza de arándanos enteros"
+  ],
+  "recipeInstructions": "1. Disolver la gelatina en el agua hirviendo.\n2. Mezclar las fresas y los arándanos.\n3. Enfriar hasta que esté firme.",
+  "url": null
+}

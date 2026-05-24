@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "jello-sugar-cookies",
+  "name": "Galletas de gelatina con azúcar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de mantequilla",
+    "1 sobre de mezcla para gelatina (2 cajas pequeñas)",
+    "1 cucharadita de extracto de vainilla",
+    "1 huevo",
+    "1/2 taza de leche",
+    "1 1/2 tazas de harina de uso común",
+    "1 1/2 cucharaditas de polvo de hornear",
+    "1/4 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar la mantequilla con la mezcla de gelatina y el extracto de vainilla.\n2. Añadir el huevo y la leche a la mezcla; batir hasta que quede ligera y esponjosa.\n3. Incorporar gradualmente la harina, el polvo de hornear y la sal; mezclar bien.\n4. Extender cucharadas de masa sobre una bandeja para hornear engrasada.\n5. Hornear a 175 °C durante 8-10 minutos, o hasta que los bordes estén ligeramente dorados.\n6. Retirar del horno con cuidado y dejar enfriar sobre un paño o rejilla. No dejar reposar las galletas, ya que pueden pegarse.",
+  "url": null
+}

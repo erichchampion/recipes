@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-loaves",
+  "name": "Rollos de jamón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "jamón",
+    "plato principal",
+    "carne",
+    "carnes",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne de cerdo molida",
+    "2 libras de jamón molido, cocido completamente",
+    "4 tazas de migas de pan secas",
+    "4 huevos, ligeramente batidos",
+    "1 taza de leche",
+    "1 1/2 tazas de azúcar morena, compactada",
+    "3/4 taza de agua",
+    "1/2 taza de vinagre",
+    "1 cucharadita de mostaza en polvo"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar la carne de cerdo, el jamón, las migas de pan, los huevos y la leche.\n2. Dar forma a 12 ovales, usando 1 taza de mezcla para cada pan.\n3. Colocar los panes en una bandeja de hornear sin engrasar.\n4. Mezclar el azúcar morena, el agua, el vinagre y la mostaza; verter sobre los panes.\n5. Hornear, destapado, a 175 °C durante 1 hora y 15 minutos, barnizando cada 15-20 minutos.\n6. Colocar los panes en un plato y verter sobre ellos algo de la salsa.",
+  "url": null
+}

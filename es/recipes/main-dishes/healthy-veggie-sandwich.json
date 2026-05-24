@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "healthy-veggie-sandwich",
+  "name": "Sándwich de verduras saludable",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de mayonesa light",
+    "4 rebanadas de pan multigrano",
+    "1/2 aguacate; pelado",
+    "1/2 cucharadita de jugo de limón",
+    "2 cucharaditas de perejil; picado",
+    "2 rebanadas de queso Monterey Jack o Cheddar",
+    "1 pimiento rojo; asado",
+    "4 rodajas de pepino; pelado y cortado en longitud",
+    "2 rodajas de tomate",
+    "1/4 taza de brotes de alfalfa",
+    "Sal al gusto",
+    "Pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Untar mayonesa en un lado de cada rebanada de pan. Reservar las dos rebanadas superiores.\n2. Machacar el aguacate con jugo de limón y extender sobre dos rebanadas de pan. Espolvorear con perejil.\n3. Cubrir con rebanadas de queso. Colocar la mitad del pimiento asado sobre el queso.\n4. Añadir rodajas de pepino y tomate. Sazonar con sal y pimienta al gusto.\n5. Terminar con brotes de alfalfa, cubrir con las rebanadas superiores de pan y cortar por la mitad. Envolver.",
+  "url": null
+}

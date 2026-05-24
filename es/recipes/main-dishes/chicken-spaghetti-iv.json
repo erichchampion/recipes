@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-spaghetti-iv",
+  "name": "Pollo y espagueti, IV",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 pollo",
+    "3/4 taza de pimiento rojo picado",
+    "2 litros de caldo de pollo",
+    "1 paquete de espagueti",
+    "3/4 taza de apio picado",
+    "2 cubos de caldo de pollo",
+    "1 lb de queso Velveeta con pimientos"
+  ],
+  "recipeInstructions": "1. Hierve el pollo en agua hasta que esté completamente cocido.\n2. Retira y deshuesa el pollo, luego añádelo a una olla separada con suficiente caldo para hacer 2 litros de líquido.\n3. Cocina la espagueti en el caldo hasta que se absorba la mayor parte del líquido.\n4. Añade los ingredientes restantes: apio picado y cubos de caldo de pollo.\n5. Revuelve hasta que esté bien combinado y sirve.",
+  "url": null
+}

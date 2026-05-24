@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "hungarian-omelette",
+  "name": "Omeleta húngara",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 cucharadita de aceite de oliva",
+    "1 pequeña cebolla, en rodajas",
+    "Un cuarto de pimiento rojo pequeño, sin semillas y en rodajas",
+    "2 tomates medianos, pelados y en rodajas",
+    "1 cucharadita de pimentón dulce",
+    "Sal al gusto",
+    "2 huevos batidos",
+    "Perejil o cebollino fresco picado para decorar"
+  ],
+  "recipeInstructions": "1. Calentar 1 cucharadita de aceite de oliva en una sartén y saltear la cebolla y el pimiento suavemente hasta que estén tiernos.\n2. Añadir los tomates y el pimentón a la sartén. Cocinar suavemente durante otros cinco minutos, o hasta que la mezcla esté suave y con textura de puré. Sazonar con sal al gusto.\n3. Calentar el resto del aceite en una sartén para tortillas. Batir 2 cucharadas de agua en los huevos para aflojar la mezcla, luego usarla para hacer una tortilla.\n4. Rellenar la tortilla con la mezcla de tomate y servir espolvoreada con perejil o cebollino picado.\nTiempo de preparación: 5 minutos\nTiempo de cocción: 15 minutos",
+  "url": null
+}

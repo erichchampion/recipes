@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "stale-bread-casserole",
+  "name": "Cazuela de Pan Duro",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 hogaza de pan duro, sin costra",
+    "200 g de queso americano en lonchas",
+    "1 1/4 tazas de leche evaporada",
+    "1 1/4 tazas de agua",
+    "4 huevos batidos",
+    "1/2 cucharadita de mostaza en polvo",
+    "2 cucharadas de cebolla picada",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cortar el pan en 12 rebanadas.\n2. Disponer 6 rebanadas en un molde para hornear engrasado.\n3. Cubrir con todo el queso y las rebanadas restantes de pan.\n4. En un bol, mezclar la leche evaporada, el agua, los huevos, la mostaza, la cebolla y las especias hasta que quede bien combinado.\n5. Verter la mezcla sobre el pan y dejar reposar al menos 1 hora.\n6. Hornear a 325 °F (160 °C) durante 45-50 minutos o hasta que esté hinchado y dorado.",
+  "url": null
+}

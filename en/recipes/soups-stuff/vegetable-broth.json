@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetable-broth",
+  "name": "Vegetable Broth",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "stocks"
+  ],
+  "recipeIngredient": [
+    "2 yellow onions",
+    "1 red onion",
+    "2 cloves garlic",
+    "5 carrots",
+    "4 green onions",
+    "4 stalks celery (I used tops of the entire bunch, including leaves)",
+    "about 2 tsp dried parsley",
+    "about 2 tsp dried thyme",
+    "1 tsp salt",
+    "bay leaf"
+  ],
+  "recipeInstructions": "1. Roughly chop onions and smash garlic (do not need to remove peels).\n2. Chop everything else roughly.\n3. Put all ingredients in a pot with 2 quarts water.\n4. Bring to a low boil.\n5. Cook for 1 1/2 hours.\n6. Strain the broth.\n7. Discard carrots, as they are too mushy for personal taste.",
+  "url": null
+}

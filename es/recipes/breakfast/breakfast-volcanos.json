@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-volcanos",
+  "name": "Volcanes de Desayuno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 taza de salsa holandesa simulada",
+    "2 cucharadas de cebolla picada (opcional)",
+    "2 cucharadas de pimiento verde picado (opcional)",
+    "1 taza de sustituto de huevos",
+    "4 muffins ingleses",
+    "4 rebanadas gruesas de tomate"
+  ],
+  "recipeInstructions": "1. Preparar 1 taza de salsa holandesa simulada y reservar.\n2. Cocinar a vapor la cebolla y el pimiento verde en un poco de agua hasta que estén tiernos.\n3. Añadir el sustituto de huevos para hacer \"huevos revueltos\".\n4. Cortar los muffins ingleses por la mitad y tostarlos.\n5. Colocar una rebanada de tomate sobre cada muffin.\n6. Cubrir con la mezcla de huevos revueltos y 2 cucharadas de salsa holandesa simulada.\n7. Repetir los pasos 1-6 para un total de 4 raciones.",
+  "url": null
+}

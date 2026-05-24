@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "cafe-cappuccino-mix",
+  "name": "Mezcla de Cappuccino Café",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "bebidas",
+    "varios",
+    "mezclas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de café instantáneo",
+    "3/4 taza de azúcar",
+    "1 taza de leche desnatada en polvo",
+    "1/2 cucharadita de cáscara de naranja seca (de una botella)"
+  ],
+  "recipeInstructions": "1. Machaca la cáscara de naranja seca en un mortero hasta obtener un polvo fino.\n2. En un bol grande, mezcla el café instantáneo, el azúcar, la leche desnatada y el polvo de cáscara de naranja.\n3. Revuelve todos los ingredientes hasta que queden bien combinados.\n4. Almacena en un recipiente hermético.\n5. Para preparar una taza de mix cappuccino, utiliza aproximadamente 2 cucharadas de la mezcla para cada taza de agua caliente. Esto dará como resultado unas 2 1/4 tazas de mix.",
+  "url": null
+}

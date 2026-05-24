@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pressure-cooker-pot-roast",
+  "name": "Asado en olla de presión",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes",
+    "olla de presión"
+  ],
+  "recipeIngredient": [
+    "4 lb de asado de res sin hueso",
+    "2 cucharadas de aceite",
+    "1 cebolla pequeña; picada",
+    "2 cucharaditas de sal",
+    "1/2 cucharadita de pimienta negra",
+    "1 taza de vino tinto",
+    "2 1/2 tazas de caldo de carne",
+    "6 cucharadas de harina"
+  ],
+  "recipeInstructions": "1. Dorar el asado y la cebolla en aceite en la olla de cocción a presión abierta.\n2. Agregar sal, pimienta y 1/2 taza de vino tinto.\n3. Cerrar la olla y cocinar a 10 libras de presión durante 15 minutos por libra.\n4. Reducir la presión, abrir la olla y retirar la carne.\n5. Para preparar la salsa, eliminar todo el grasa excepto 2 cucharadas del fondo de la olla.\n6. Añadir la harina y remover durante 1 minuto.\n7. Agregar lentamente el vino tinto y el caldo, y dejar cocinar hasta que espese.\n8. Sazonar la salsa con sal y pimienta al gusto.",
+  "url": null
+}

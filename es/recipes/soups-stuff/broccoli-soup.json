@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "broccoli-soup",
+  "name": "Sopa de brócoli",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 tazas de brócoli picado",
+    "1 cebolla mediana, picada",
+    "1 zanahoria, rallada",
+    "1/4 taza de margarina derretida",
+    "2 tazas de leche desnatada",
+    "1 lata de sopa de pollo con crema",
+    "Pimienta blanca y pimentón"
+  ],
+  "recipeInstructions": "1. Calentar la margarina en una olla grande a fuego medio.\n2. Añadir el brócoli, la cebolla y la zanahoria; saltear hasta que las verduras estén tiernas.\n3. Incorporar la leche desnatada y la sopa de pollo con crema.\n4. Llevar a ebullición, luego reducir el fuego a bajo y cocinar hasta que esté caliente.\n5. Si se desea, añadir más leche para obtener una consistencia más ligera.\n6. Espolvorear con pimienta blanca y pimentón antes de servir.",
+  "url": null
+}

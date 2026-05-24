@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "carolina-casserole",
+  "name": "Casserola de Carolina",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1 lata de maíz dulce",
+    "1 taza de cebolla picada",
+    "1 lata de puré de tomate",
+    "1 lata de salsa de tomate",
+    "1 lata de frijoles rojos",
+    "1 cucharadita de chile en polvo"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida y las cebollas juntas en una sartén grande.\n2. Añadir el resto de los ingredientes a la sartén.\n3. Revolver bien y cubrir la sartén.\n4. Reducir el fuego y cocinar a fuego lento durante 35-45 minutos, revolviendo ocasionalmente.\n5. Sazonar al gusto con sal y pimienta si se desea.",
+  "url": null
+}

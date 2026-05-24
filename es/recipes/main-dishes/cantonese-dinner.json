@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "cantonese-dinner",
+  "name": "Cena cantonesa",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "asiático",
+    "chino",
+    "étnico",
+    "plato principal",
+    "oriental",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de lomo de cerdo (cortado en tiras)",
+    "2 cucharadas de aceite",
+    "1 cebolla grande, en rodajas",
+    "1 pimiento verde, en rodajas",
+    "200 g de setas enlatadas (escurridas)",
+    "8 onzas de salsa de tomate",
+    "1 1/2 cucharaditas de vinagre",
+    "3 cucharadas de azúcar moreno",
+    "1 1/2 cucharaditas de sal",
+    "2 cucharaditas de salsa Worcestershire"
+  ],
+  "recipeInstructions": "1. Dorar el cerdo en aceite.\n2. Colocar el cerdo en una olla de cocción lenta.\n3. Añadir los ingredientes restantes a la olla.\n4. Cocinar a fuego lento durante 6-8 horas.\n5. Servir sobre arroz.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "western-omelet",
+  "name": "Western Omelet",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "cheese",
+    "eggs",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "3 Eggs",
+    "1 tablespoon Butter",
+    "1/4 cup Ham (minced)",
+    "2 tablespoons Onion (chopped)",
+    "2 tablespoons Green Pepper (chopped)"
+  ],
+  "recipeInstructions": "1. Beat the eggs slightly.\n2. Combine the beaten eggs with ham, onion, and green pepper.\n3. Cook the omelet as directed for a French Omelet.",
+  "url": null
+}

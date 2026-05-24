@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "your-basic-burger",
+  "name": "Your Basic Burger",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "2 lb Ground beef",
+    "Salt to taste",
+    "1 1/2 tbsp Onion powder",
+    "1/4 tsp Pepper"
+  ],
+  "recipeInstructions": "1. Using a fork, gently mix the ground beef, salt, onion powder, and pepper until combined.\n2. Shape into 6 patties, handling the meat as little as possible.\n3. Take care not to press the meat together tightly.\n4. Broil, grill, or pan-fry the patties. The cooking time will depend on whether you and your guests prefer them rare, medium, or well done.",
+  "url": null
+}

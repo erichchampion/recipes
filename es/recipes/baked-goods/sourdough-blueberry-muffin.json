@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "sourdough-blueberry-muffin",
+  "name": "Muffins de Arándanos con Masa Madre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "frutas",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de harina integral",
+    "1 1/2 tazas de harina blanca",
+    "1/2 taza de aceite para cocinar",
+    "1/2 taza de azúcar",
+    "1/4 taza de leche desnatada en polvo",
+    "3/4 cucharadita de bicarbonato de sodio",
+    "3/4 cucharadita de sal",
+    "1/2 taza de agua",
+    "1 huevo",
+    "3/4 taza de masa madre de sourdough",
+    "1 taza de arándanos"
+  ],
+  "recipeInstructions": "1. Mezclar en un bol los primeros cinco ingredientes.\n2. Disolver el bicarbonato de sodio y la sal en el agua, y añadir al bol junto con el huevo y la masa madre. Mezclar hasta que todos los ingredientes estén integrados.\n3. Incorporar los arándanos con cuidado para no romper su piel.\n4. Verter la masa en un molde para muffins engrasado, llenando cada cupo aproximadamente a la mitad.\n5. Hornear a 175°C durante 30-35 minutos.",
+  "url": null
+}

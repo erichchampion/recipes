@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "molded-vegetable-salad",
+  "name": "Ensalada de Verduras Moldeadas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "diabetico",
+    "ensaladas",
+    "guarniciones",
+    "verduras",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 sobre de gelatina de naranja",
+    "2 tazas de agua hirviendo",
+    "1/2 taza de zanahorias ralladas",
+    "1/2 taza de repollo blanco picado",
+    "1/4 cucharadita de semillas de apio",
+    "1/2 taza de apio finamente picado"
+  ],
+  "recipeInstructions": "1. Disolver la gelatina en el agua hirviendo.\n2. Enfriar hasta que adquiera la consistencia de claras de huevo.\n3. Incorporar las verduras y las semillas de apio.\n4. Verter en un molde de 1 litro y refrigerar hasta que esté firme.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pecan-pie-1",
+  "name": "Tarta de nueces pecanas 1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1/2 barra de mantequilla",
+    "3 huevos",
+    "1 taza de azúcar",
+    "1 taza de jarabe de maíz Karo",
+    "3 cucharadas de maicena",
+    "1 cucharadita de extracto de vainilla",
+    "Una pizca de sal",
+    "1 taza de nueces pecanas picadas",
+    "1 masa de tarta precocida"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcle todos los ingredientes hasta obtener una mezcla homogénea.\n2. Vierta la mezcla en la masa de tarta preparada.\n3. Hornee a 300 grados Fahrenheit (aproximadamente 150 °C) durante unos 45 minutos o hasta que esté cuajada.\n4. Deje enfriar antes de servir.",
+  "url": null
+}

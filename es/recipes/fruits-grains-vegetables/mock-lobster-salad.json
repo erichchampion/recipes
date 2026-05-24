@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-lobster-salad",
+  "name": "Ensalada de langosta falsa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "Tomates frescos (2)",
+    "Pimiento verde (picado finamente)",
+    "Apio (cortado en rodajas)",
+    "Cebolla mediana (picada finamente)",
+    "Migas de pan (1 ½ tazas)",
+    "Mayonesa (1 ½ cucharadas)"
+  ],
+  "recipeInstructions": "1. Enjuagar los tomates frescos y cortarlos en trozos pequeños. Si se usan tomates enlatados, escurrirlos primero y machacarlos o cortarlos.\n2. Añadir el pimiento verde picado, el apio y la cebolla a los tomates cortados.\n3. Incorporar migas de pan suficientes para absorber el jugo de tomate (es posible que se necesiten más de 1 ½ tazas si los tomates están muy jugosos).\n4. Mezclar 1 ½ cucharadas de mayonesa en la mezcla de tomate.\n5. Agregar una cucharadita adicional de mayonesa, si es necesario, para lograr la consistencia deseada.\n6. Incorporar huevos duros cortados y mezclar suavemente hasta que estén bien combinados.\n7. Enfriar la ensalada antes de servir sobre hojas de lechuga.",
+  "url": null
+}

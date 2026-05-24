@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-curry-sauce",
+  "name": "Simple Curry Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 Tablespoons minced onion",
+    "1 Tablespoon curry powder",
+    "2 Tablespoons butter",
+    "1-1/2 cups bechamel sauce",
+    "1/2 cup cream",
+    "Salt to taste"
+  ],
+  "recipeInstructions": "1. Saute the minced onion and curry powder in butter for 5 minutes, or until the onion is transparent.\n2. Stir in the bechamel sauce and cream.\n3. Cook over low heat for 10 minutes, stirring occasionally.\n4. Season to taste with salt.",
+  "url": null
+}

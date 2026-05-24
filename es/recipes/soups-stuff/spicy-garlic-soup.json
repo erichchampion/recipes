@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-garlic-soup",
+  "name": "Sopa de Ajo Picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "ajo",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de mantequilla (1/2 palo)",
+    "1 cabeza grande de ajo, separada en clavo, pelada y picada",
+    "3 cucharadas de harina de uso común",
+    "3 tazas de caldo de pollo o caldo enlatado bajo en sal",
+    "1 cucharadita de pimiento cayena, o al gusto"
+  ],
+  "recipeInstructions": "- Picar perejil o cebolla para decorar.\n- A fuego medio, añadir el ajo a la mantequilla y saltear hasta que esté dorado, aproximadamente 3 minutos (no quemar). Incorporar la harina y remover hasta que la mezcla adquiera un tono dorado, unos 2 minutos. Añadir el caldo y llevar la mezcla a ebullición, removiendo constantemente. Reducir el fuego y dejar hervir durante 15 minutos. Incorporar el pimiento cayena. Decorar con perejil o cebolla y servir.",
+  "url": null
+}

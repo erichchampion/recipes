@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mozzarella-dip",
+  "name": "Dip de mozzarella",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "2 tazas de mayonesa",
+    "1 taza de crema agria",
+    "1 taza de queso mozzarella rallado",
+    "2 cucharadas de queso parmesano rallado",
+    "1 cucharadita de cebolla seca picada finamente",
+    "1 cucharadita de azúcar",
+    "Una pizca de sal ajo y una pizca de sal sazonada"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Revisar bien.\n3. Tapar y refrigerar durante al menos 1 hora.\n4. Servir con verduras crudas o totopos de tortilla.",
+  "url": null
+}

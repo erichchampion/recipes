@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "spam-carbonera",
+  "name": "Spam Carbonera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "variado"
+  ],
+  "recipeIngredient": [
+    "1 cebolla finamente picada",
+    "1/2 cucharadita de semillas de anís",
+    "3/4 taza de caldo de pollo",
+    "12 onzas de SPAM en lonchas",
+    "1 taza de perejil finamente picado",
+    "3 claras de huevo",
+    "1 huevo grande",
+    "16 onzas de vermicelli",
+    "1 1/2 tazas de queso parmesano rallado, dividido"
+  ],
+  "recipeInstructions": "1. En una sartén antiadherente, combina la cebolla, las semillas de anís y 3/4 taza de caldo de pollo. Lleva a ebullición; continúa hirviendo, removiendo ocasionalmente, hasta que el líquido se evapore.\n2. Añade las lonchas de SPAM y el resto de 3/4 taza de caldo. Vuelve a llevar a ebullición.\n3. Incorpora el perejil.\n4. En un bol, bate las claras de huevo con el huevo grande.\n5. Cocina el vermicelli según las instrucciones del paquete; escurre bien.\n6. Mezcla el pasta caliente con la mezcla de SPAM.\n7. Vierte la mezcla de huevo sobre la pasta y mézclala con 2 tenedores hasta que esté bien combinada.\n8. Espolvorea con 1 taza de queso parmesano. Mezcla hasta que se absorba todo el caldo.\n9. Espolvorea el resto del queso encima.",
+  "url": null
+}

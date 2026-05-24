@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-easy-waffles",
+  "name": "Waffles Rápidos y Fáciles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "4 huevos",
+    "1 taza de leche",
+    "1 cucharadita de polvo de hornear",
+    "1/2 cucharadita de sal (opcional)",
+    "2 tazas de harina",
+    "1/2 taza de mantequilla derretida",
+    "1 cucharada de azúcar",
+    "1 cucharadita de extracto de vainilla (opcional)"
+  ],
+  "recipeInstructions": "1. Bate los huevos y el azúcar hasta que estén ligeros y espumosos.\n2. Agrega la mantequilla derretida, la leche y el extracto de vainilla a la mezcla de huevo.\n3. Cuela juntos la harina y el polvo de hornear, luego añádelos a la mezcla de huevo.\n4. Incorpora la sal y mezcla bien.\n5. Vierte la masa en una plancha para waffles precalentada y hornea hasta que esté dorada.\n6. Sirve caliente y disfruta.",
+  "url": null
+}

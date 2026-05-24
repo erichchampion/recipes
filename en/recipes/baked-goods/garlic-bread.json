@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "garlic-bread",
+  "name": "Garlic Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "1/2 cup fat-free Italian salad dressing",
+    "1/2 teaspoon paprika",
+    "4 cloves garlic, peeled",
+    "4 slices french bread",
+    "1/4 cup parsley, chopped"
+  ],
+  "recipeInstructions": "1. Preheat the broiler.\n2. Add the dressing, paprika, and garlic cloves to a blender.\n3. Blend until well combined.\n4. Spread the mixture evenly on one side of each bread slice.\n5. Sprinkle parsley over the mixture.\n6. Broil the slices until they are lightly golden, being careful not to burn the bread.",
+  "url": null
+}

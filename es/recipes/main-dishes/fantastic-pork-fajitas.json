@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "fantastic-pork-fajitas",
+  "name": "Fajitas de Cerdo Fantásticas",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "mexicano",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 lb de lomo de cerdo magro sin hueso",
+    "2 dientes de ajo, picados",
+    "1 cucharadita de orégano seco",
+    "1/2 cucharadita de comino molido",
+    "1 cucharada de sal con hierbas",
+    "2 cucharadas de jugo de naranja",
+    "2 cucharadas de vinagre blanco",
+    "1 cucharada de salsa picante",
+    "1 cucharada de aceite vegetal",
+    "1 cebolla mediana, pelada y cortada en rodajas",
+    "1 pimiento verde, sin semillas y cortado en tiras",
+    "4 tortillas de trigo",
+    "Cilantro fresco picado",
+    "Lechuga rallada",
+    "Salsa"
+  ],
+  "recipeInstructions": "1. Cortar el cerdo en tiras finas, cortando en contra del grano.\n2. Marinar las tiras de cerdo con ajo, orégano, comino, sal, jugo de naranja, vinagre y salsa picante durante 10 minutos.\n3. Calentar una sartén pesada o plancha hasta que esté caliente. Agregar el aceite vegetal, la cebolla, el pimiento verde y las tiras de cerdo; saltear hasta que el cerdo ya no sea rosado, aproximadamente 3-5 minutos.\n4. Servir con tortillas de trigo y acompañar con cilantro picado, lechuga rallada y salsa.",
+  "url": null
+}

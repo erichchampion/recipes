@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "turkey-taco-salad",
+  "name": "Ensalada de Tacos de Pavo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pollo",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 libra de pollo picado magro",
+    "4,5 oz. chiles verdes suaves escurridos",
+    "4,5 oz. mezcla de condimento taco",
+    "0,25 taza de agua",
+    "2 tazas de lechuga picada",
+    "2 tomates picados",
+    "0,5 taza de queso cheddar rallado",
+    "8 oz. chips de tortilla horneados"
+  ],
+  "recipeInstructions": "1. Cocinar el pollo en una sartén antiadherente grande a fuego alto hasta que esté dorado, aproximadamente 5 minutos. Remover con frecuencia para deshacer los grumos.\n2. Escurrir cualquier grasa excesiva de la sartén.\n3. Agregar los chiles escurridos, la mezcla de condimento taco y el agua. Continuar cocinando a fuego alto hasta que el líquido se evapore por completo.\n4. Para servir, dividir la mezcla de carne entre platos. Cubrir con lechuga, tomates y queso. Servir con chips.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "sausage-spaghetti",
+  "name": "Spaghettis con salchicha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "2 salchichas italianas",
+    "1 paquete de espaguetis",
+    "2 huevos batidos",
+    "3 cucharadas de queso parmesano rallado",
+    "3 rebanadas de tocino"
+  ],
+  "recipeInstructions": "1. Cortar el tocino en trozos pequeños y retirar las pieles de las salchichas.\n2. Dorar el tocino en una sartén a fuego medio hasta que esté crujiente.\n3. Agregar las salchichas a la sartén y dorarlas uniformemente.\n4. Mientras se cocina el tocino y las salchichas, hervir una olla grande de agua con sal.\n5. Cocinar los espaguetis según las instrucciones del paquete hasta que estén al dente.\n6. Escurrir los espaguetis y devolverlos a la olla.\n7. Añadir el tocino picado, los huevos batidos y el queso parmesano a la pasta.\n8. Mezclar bien para combinar todos los ingredientes.\n9. Servir con ensalada y pan de ajo como acompañamiento.\nTiempo de preparación: 30 minutos.",
+  "url": null
+}

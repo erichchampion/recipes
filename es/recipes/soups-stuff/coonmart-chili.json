@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "coonmart-chili",
+  "name": "Chili de Conejo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "chili mexicano",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "5 lb de carne molida magra",
+    "6 cebollas picadas",
+    "6 clavos de ajo, picados finamente",
+    "3 latas (8 onzas cada una) de salsa de tomate",
+    "3 latas (6 onzas cada una) de puré de tomate",
+    "3 cuartos de jugo de tomate",
+    "9 cucharadas de polvo de chile",
+    "4 cucharadas de vinagre",
+    "4 cucharadas de azúcar moreno",
+    "4 cucharadas de comino molido",
+    "2 cucharaditas cada uno de: majaró, cilantro en polvo",
+    "Pimienta negra molida",
+    "4 hojas de laurel",
+    "Una pizca de canela, cayena",
+    "Pimienta roja, salsa picante (al gusto)"
+  ],
+  "recipeInstructions": "1. En un cazo muy grande, dora la carne, las cebollas y el ajo; escurre el exceso de grasa.\n2. Añade los ingredientes restantes y lleva a ebullición.\n3. Reduce el fuego, tapa y deja cocinar a fuego lento durante varias horas, removiendo ocasionalmente.\n4. Sirve con queso cheddar rallado y cebolla picada como topping.",
+  "url": null
+}

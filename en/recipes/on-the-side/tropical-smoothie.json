@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tropical-smoothie",
+  "name": "Tropical Smoothie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "non-alcoholic drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 1/2 cups pineapple juice, unsweetened",
+    "1 cup strawberries, sliced",
+    "1 banana, sliced",
+    "or",
+    "mango, diced",
+    "or",
+    "papaya, diced"
+  ],
+  "recipeInstructions": "1. If using mangos or papaya, ensure they are ripe.\n2. Peel and dice the fruit.\n3. Chill the pineapple juice thoroughly.\n4. Combine all ingredients in a blender. Puree until thick and very smooth.\n5. Serve in a glass garnished with a whole strawberry and perhaps a mint sprig.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-omelette",
+  "name": "Omelette de manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "fruta",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 manzanas",
+    "1 cucharada de ron o jugo de limón",
+    "6 cucharaditas de azúcar granulada fina",
+    "4 cucharadas de azúcar granulada fina",
+    "6 huevos",
+    "3 cucharadas de agua fría"
+  ],
+  "recipeInstructions": "1. Pelar y quitar el corazón a las manzanas, luego cortarlas en láminas muy finas. La finura es importante ya que apenas se cocinan.\n2. Agregar el ron o jugo de limón y 6 cucharaditas de azúcar a un bol, mezclar bien.\n3. Reservar hasta su uso.\n4. En otro bol, batir los huevos con 3 cucharadas de agua fría y las 6 cucharaditas restantes de azúcar.\n5. Agregar la mezcla de manzana al batido de huevo.\n6. Cocinar la omeleta según el método preferido, luego doblarla y servirla.\n7. Para flambear la omeleta, espolvorear 2 cucharadas de azúcar en la parte superior. Verter 3-4 cucharadas de ron caliente sobre ella.\n8. Encender el ron y seguir vertiéndolo sobre la omeleta en llamas hasta que se apague el fuego.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-soup-with-pasta",
+  "name": "Sopa de tomate con pasta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "étnica",
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de aceite de oliva",
+    "1 pequeña cebolla, picada",
+    "1 lb tomates, picados",
+    "1 zanahoria, en rodajas",
+    "1 rama de apio, en rodajas",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra",
+    "1 cucharadita de albahaca",
+    "3 pintas de caldo",
+    "1 taza de pasta pequeña/vermicelli rotos",
+    "1 cucharada de perejil picado"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en una olla de sopa y freír suavemente la cebolla durante 2 minutos.\n2. Añadir los tomates, la zanahoria y el apio a la olla. Mezclar bien con el aceite.\n3. Espolvorear las especias (sal, pimienta y albahaca) y remover.\n4. Freír durante 3 minutos más.\n5. Añadir gradualmente el caldo, llevando la mezcla a ebullición.\n6. Reducir el fuego y dejar hervir a fuego lento durante 10 minutos.\n7. Incorporar la pasta pequeña o vermicelli rotos y cocinar hasta que la pasta esté tierna.\n8. Servir espolvoreada con perejil picado.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "best-pizza-dough",
+  "name": "La mejor masa de pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "masa",
+    "italiano",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de harina",
+    "1/2 taza de agua tibia",
+    "1 cucharadita de levadura",
+    "1 1/2 tazas de agua tibia",
+    "1 cucharadita de levadura (para el arranque)",
+    "Sal"
+  ],
+  "recipeInstructions": "1. Para el arranque: Mezclar el agua tibia, la harina y la levadura a temperatura ambiente. Dejar reposar a temperatura ambiente durante la noche.\n2. Para la masa: Añadir el agua tibia y la levadura al arranque. Mezclar, luego agregar la sal y suficiente harina para formar una masa suave. Dejar levar de 1 1/2 a 2 horas.\n3. Retirar una porción de masa del tamaño de una pelota de tenis y colocarla en un frasco en el refrigerador como nuevo arranque.\n4. Extender la masa restante en una sartén y agregar los toppings. Hornear sobre piedras precalentadas a 500 °F (260 °C) durante unos 10 minutos.",
+  "url": null
+}

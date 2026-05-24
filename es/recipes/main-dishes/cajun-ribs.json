@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "cajun-ribs",
+  "name": "Costillas Cajun",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo",
+    "costillas"
+  ],
+  "recipeIngredient": [
+    "4 libras de costillas de cerdo",
+    "2 cucharadas de pimentón",
+    "2 cucharaditas de sal",
+    "2 cucharaditas de polvo de cebolla",
+    "2 cucharaditas de ajo en polvo",
+    "2 cucharaditas de pimiento rojo",
+    "1 1/2 cucharaditas de pimienta blanca",
+    "1/2 cucharadita de pimienta negra",
+    "1 cucharadita de tomillo seco",
+    "1 cucharadita de orégano"
+  ],
+  "recipeInstructions": "1. Cortar las costillas en trozos de tamaño para servir.\n2. Mezclar bien las especias y frotarlas sobre todas las superficies de las costillas.\n3. Colocar las costillas en una parrilla cubierta con calor indirecto.\n4. Cocinar, dándoles la vuelta cada 15 minutos, durante 1 hora y media.",
+  "url": null
+}

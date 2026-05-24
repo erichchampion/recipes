@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "string-beans-stir-fried-with-tofu",
+  "name": "Frijoles de cuerda salteados con tofu",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "plato principal",
+    "dietas especiales",
+    "tailandés",
+    "tofu",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "4 cucharadas de aceite vegetal",
+    "3 dientes de ajo, machacados",
+    "2 tomates, cortados en gajos",
+    "120 g de tofu frito, cortado en cubos",
+    "500 g de brotes de judías verdes",
+    "2 pimientos rojos, cortados en rodajas",
+    "1/4 taza de cebolla verde, picada",
+    "1 cucharadita de sal",
+    "1 cucharadita de pimienta negra",
+    "2 cucharadas de salsa de ostras vegetariana",
+    "4 cucharadas de cilantro fresco, picado"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en un wok o sartén grande.\n2. Saltear el ajo hasta que esté dorado.\n3. Añadir los tomates, el tofu, los brotes de judías verdes, los pimientos rojos, la cebolla verde, la sal, la pimienta y la salsa de ostras.\n4. Saltear durante 2 minutos.\n5. Servir caliente, espolvoreado con cilantro fresco.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "blt-burritos",
+  "name": "BLT Burritos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "3 tazas de lechuga picada",
+    "1 1/2 tazas de tomates frescos cortados en dados",
+    "12 tiras de tocino, cocidas y desmenuzadas",
+    "1/4 taza de mayonesa",
+    "1/8 cucharadita de pimienta",
+    "4 tortillas de harina, calentadas"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar la lechuga picada, los tomates cortados en dados, el tocino desmenuzado, la mayonesa y la pimienta.\n2. Colocar una tortilla caliente sobre una superficie limpia.\n3. Extender la mezcla a lo largo del centro de la tortilla.\n4. Doblar los lados hacia adentro sobre el relleno.\n5. Enrollar la tortilla desde ambos extremos para encerrar completamente el relleno.\n6. Servir inmediatamente.",
+  "url": null
+}

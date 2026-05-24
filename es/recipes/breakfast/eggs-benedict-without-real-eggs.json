@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "eggs-benedict-without-real-eggs",
+  "name": "Huevos Benedict sin huevos reales",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "queso/huevos",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de producto de huevo libre de colesterol",
+    "3 cucharadas de leche evaporada",
+    "Una pizca de pimienta cayena",
+    "4 rebanadas de tocino canadiense, calentado",
+    "1 1/2 cucharaditas de jugo de limón",
+    "1/2 taza de mantequilla",
+    "4 gofres congelados, tostados",
+    "4 huevos, escalfados"
+  ],
+  "recipeInstructions": "Tiempo de cocción aproximado: 15 minutos\nPara la salsa holandesa: En una cacerola pesada, combine el producto de huevo y el jugo de limón; revuelva a fuego lento (teniendo cuidado de no cocinar los huevos) hasta que espese. Vierta lentamente la leche evaporada caliente y retire del fuego. Incorpore la mantequilla y la pimienta cayena hasta obtener una mezcla suave.\nArme cada porción en el siguiente orden: gofre, tocino canadiense y huevo escalfado. Coloque la salsa holandesa encima de cada uno y sirva inmediatamente.",
+  "url": null
+}

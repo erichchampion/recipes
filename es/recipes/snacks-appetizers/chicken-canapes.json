@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-canapes",
+  "name": "Canapés de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "pollo",
+    "aves de corral",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "8 oz (225 g) de crema de queso Philadelphia",
+    "4 oz (115 g) de crema agria",
+    "2 latas de ensalada de pollo picado Underwood",
+    "1 lata de nueces picadas"
+  ],
+  "recipeInstructions": "1. Mezclar la crema de queso y la crema agria en un bol hasta que quede bien combinada.\n2. Añadir el contenido de las dos latas de ensalada de pollo a la mezcla y remover hasta integrarla uniformemente.\n3. Incorporar suavemente las nueces picadas.\n4. Servir sobre galletas con mantequilla justo antes de servir.\nMantener refrigerado hasta el momento de servir.",
+  "url": null
+}

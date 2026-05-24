@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fresh-apple-cake",
+  "name": "Pastel de Manzana Fresca",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de azúcar",
+    "1 taza de aceite vegetal",
+    "1 cucharadita de extracto de vainilla",
+    "2 tazas de harina para todo uso, sin tamizar",
+    "2 manzanas medianas, cortadas en cubos",
+    "3 huevos enteros",
+    "1 taza de nueces picadas"
+  ],
+  "recipeInstructions": "1. Batir los huevos en un bol grande.\n2. Agregar el azúcar, el aceite vegetal y la vainilla a los huevos gradualmente, mezclando bien.\n3. Incorporar la harina hasta que esté justo combinada.\n4. Doblar los manzanas y las nueces picadas en la masa.\n5. Verter la masa en un molde para hornear de 9x13 pulgadas engrasado.\n6. Hornear a 175 °C durante 1 hora en el horno precalentado.\n7. Apagar el calor y dejar enfriar antes de servir.",
+  "url": null
+}

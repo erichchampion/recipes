@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "tempeh-mock-chicken-salad",
+  "name": "Ensalada de Pollo Falso con Tempeh",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "aperitivos",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "6 oz tempeh",
+    "1/4 taza de mayonesa",
+    "1 tallo de apio, picado finamente",
+    "2 cucharadas de pepinillos en vinagre, picados",
+    "2 cucharadas de cebolla, picada",
+    "2 cucharadas de perejil fresco, picado",
+    "1 cucharadita de mostaza preparada",
+    "1 cucharadita de salsa de soja",
+    "1 cucharadita de polvo de ajo"
+  ],
+  "recipeInstructions": "1. Cocinar el tempeh al vapor durante 20 minutos. Dejar enfriar hasta poder manipularlo.\n2. Cortar en cubos un poco más pequeños que 1/2 pulgada.\n3. Mezclar con los demás ingredientes y combinar suavemente.\n4. Servir sobre una cama de lechuga o como relleno para sándwiches.\nSe recomienda usar mayonesa a base de tofu. Mezclar el tofu bien con un toque de sal y pimienta, jugo de limón y un diente de ajo machacado.",
+  "url": null
+}

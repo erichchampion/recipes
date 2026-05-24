@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-madras",
+  "name": "Pollo Madras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 cucharadita de sal",
+    "3 cebollas, cortadas en rodajas finas",
+    "4 manzanas, peladas, deshuesadas y cortadas en rodajas finas"
+  ],
+  "recipeInstructions": "1. En una olla de 3 cuartos, mezcla las cebollas y las manzanas con la sal y el polvo de curry. Mezcla bien.\n2. Coloca el pollo con la piel hacia abajo sobre la mezcla.\n3. Espolvorea generosamente con pimentón dulce.\n4. Hornea al descubierto a 400 °F durante unos 45 minutos o hasta que el pollo esté cocido por completo.",
+  "url": null
+}

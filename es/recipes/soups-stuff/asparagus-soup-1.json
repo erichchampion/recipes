@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "asparagus-soup-1",
+  "name": "Sopa de espárragos #1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "microwave",
+    "sopas",
+    "sopas/estofados",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 libras de espárragos, cortados en trozos diagonales (de 1 pulgada)",
+    "1 diente de ajo, prensado",
+    "3 lechugas, cortadas en rodajas",
+    "4 cebolletas, picadas",
+    "3 cucharadas de mantequilla",
+    "3 pequeñas papas rojas, cortadas",
+    "4 tazas de agua",
+    "1 cubo de caldo vegetal/cerdo/pollo",
+    "1 cucharada de salsa de soja",
+    "1 taza de crema",
+    "2 cucharadas de tomillo",
+    "2 cucharadas de albahaca"
+  ],
+  "recipeInstructions": "1. Saltear las verduras en mantequilla durante 5 minutos.\n2. Agregar el agua y el cubo de caldo; reducir a fuego lento durante 5 minutos.\n3. Incorporar los ingredientes restantes y dejar cocinar a fuego lento por 10 minutos adicionales.\n4. Servir.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-style-noodle-soup",
+  "name": "Sopa de fideos al estilo pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de fideos",
+    "1 cebolla, picada",
+    "1 taza de apio, picado",
+    "2 cucharadas de condimento al estilo pollo",
+    "1 cucharadita de sal",
+    "6 tazas de agua",
+    "2 papas grandes, peladas y cortadas en cubos",
+    "2 tazas de garbanzos con su jugo",
+    "1 cucharada de perejil picado",
+    "2 tazas de tofu revuelto (opcional)"
+  ],
+  "recipeInstructions": "1. Cocinar los fideos según las instrucciones del paquete.\n2. Escurrir los fideos cocidos.\n3. En una olla separada, saltear la cebolla, el apio, el condimento al estilo pollo y la sal en 1/4 taza de agua hasta que estén tiernos.\n4. Añadir 6 tazas de agua con las papas cortadas y continuar cocinando hasta que las papas estén tiernas.\n5. Procesar los garbanzos con su jugo, añadiendo un poco de agua si es necesario.\n6. Combinar todos los ingredientes en una olla grande.\n7. Hervir a fuego lento durante unos 10 minutos para permitir que se mezclen los sabores.\n8. Ajustar la sazón con sal y pimienta al gusto.",
+  "url": null
+}

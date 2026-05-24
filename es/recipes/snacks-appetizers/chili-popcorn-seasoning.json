@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-popcorn-seasoning",
+  "name": "Condimento para palomitas de maíz picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "palomitas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 cucharadita Sal",
+    "1 cucharadita Polvo de chile",
+    "1/2 cucharadita Polvo de ajo",
+    "1 cucharadita Comino molido",
+    "1 cucharada Copos de cebolla seca",
+    "Pimienta cayena al gusto",
+    "1/2 taza Palomitas de maíz infladas",
+    "Mantequilla al gusto"
+  ],
+  "recipeInstructions": "1. En un bol, mezcle juntos la sal, el polvo de chile, el polvo de ajo, el comino molido, los copos de cebolla y la pimienta cayena hasta que estén bien combinados.\n2. Para cada media taza de palomitas de maíz infladas, utilice una o dos cucharaditas de la mezcla de especias.\n3. Espolvoree las palomitas de maíz sazonadas con mantequilla al gusto antes de servir.",
+  "url": null
+}

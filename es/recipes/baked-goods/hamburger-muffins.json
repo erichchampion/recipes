@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-muffins",
+  "name": "Muffins de hamburguesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "carnes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "1 1/4 lb de carne picada (hamburguesa)",
+    "10 oz de sopa de champiñones en lata",
+    "1 huevo",
+    "Cebolla picada al gusto",
+    "1 cucharadita de salsa Worcestershire",
+    "3/4 taza de queso amarillo rallado",
+    "Sal y pimienta al gusto",
+    "1 hogaza de pan blanco o integral"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el pan.\n2. Cortar las costras de rebanadas muy frescas de pan.\n3. Untar mantequilla en un lado de cada rebanada de pan.\n4. Forrar los moldes para muffins con las rebanadas de pan, con la parte untada hacia abajo, asegurándose de que no se rompan en el fondo.\n5. Llenar cada cavidad del muffin con una cucharada generosa de la mezcla de carne de hamburguesa.\n6. Hornear a 175°C durante 30 minutos.\n7. Se pueden congelar y recalentar o servir fríos. Para mejores resultados, usar carne picada magra.",
+  "url": null
+}

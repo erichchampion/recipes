@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-rice",
+  "name": "Pollo y arroz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 Pollo (de 2 a 3 libras)",
+    "Cortado en trozos para servir",
+    "1/4 taza de grasa",
+    "1/2 taza de cebolla picada",
+    "1 diente de ajo, picado",
+    "1 tomate grande, picado",
+    "3 tazas de agua caliente",
+    "1 taza de arroz crudo",
+    "1 cucharadita de perejil picado",
+    "2 cucharaditas de sal",
+    "1/2 cucharadita de pimentón",
+    "1/4 cucharadita de pimienta negra",
+    "1/4 cucharadita de azafrán",
+    "1 hoja de laurel"
+  ],
+  "recipeInstructions": "1. Enjuagar el pollo y secarlo con papel absorbente.\n2. Calentar la grasa en una sartén a fuego medio. Añadir la cebolla y el ajo; cocinar hasta que la cebolla esté tierna. Retirar con una cuchara perforada y reservar.\n3. Colocar los trozos de pollo, con la piel hacia abajo, en la sartén. Darles vuelta para dorarlos por todos lados.\n4. Cuando el pollo esté dorado, agregar el tomate, la cebolla, el agua, el arroz, el perejil y las especias secas. Tapar y cocinar a fuego lento durante unos 45 minutos, o hasta que los trozos más gruesos de pollo sean tiernos al pincharlos con un tenedor.",
+  "url": null
+}

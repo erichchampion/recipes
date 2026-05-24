@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "claret-cup-2",
+  "name": "Copa de Clarete",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "batido",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 lata de 6 onzas de concentrado de limonada congelada",
+    "1 lata de 355 ml de soda de toronja, fría",
+    "1/2 taza de brandy",
+    "1/4 taza de Cointreau o Curacao",
+    "Botella de 750 ml de vino claret",
+    "Cubos de hielo o molde para hielo"
+  ],
+  "recipeInstructions": "1. En un jarro grande o bol de cóctel, mezcle el concentrado de limonada congelada, la soda de toronja fría, el brandy, el Cointreau o Curacao y el vino claret.\n2. Refrigere con cubos de hielo o en un molde.\n3. Sirva inmediatamente.\n4. Adorne con una rodaja de toronja rosada o una rebanada de naranja.",
+  "url": null
+}

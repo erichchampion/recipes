@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-noodles",
+  "name": "Chicken and Noodles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "pasta",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "1 package Chicken breasts or thighs, bone",
+    "1/4 cup White wine",
+    "1 can Cream of mushroom soup",
+    "1 cup Sour cream",
+    "1/4 cup Flour",
+    "Cooked noodles"
+  ],
+  "recipeInstructions": "1. Place chicken in crockpot.\n2. Mix white wine and cream of mushroom soup and pour over chicken.\n3. Cover and cook on LOW for 7-9 hours or HIGH for 3-4 hours.\n4. Before serving, mix sour cream and flour until smooth.\n5. Stir the mixture into the chicken and gravy.\n6. Heat for 30 minutes on LOW.\n7. Serve chicken and gravy over hot cooked noodles.",
+  "url": null
+}

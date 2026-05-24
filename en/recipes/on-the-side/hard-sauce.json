@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "hard-sauce",
+  "name": "Hard Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup Confectioners' sugar",
+    "1 teaspoon Vanilla",
+    "1/2 cup Butter",
+    "2 tablespoons Brandy or rum",
+    "1/8 teaspoon Salt"
+  ],
+  "recipeInstructions": "1. In a bowl, cream together the confectioners' sugar, butter, salt, and vanilla until well combined.\n2. Gradually add the brandy or rum to the mixture, stirring gently until you achieve a creamy consistency.",
+  "url": null
+}

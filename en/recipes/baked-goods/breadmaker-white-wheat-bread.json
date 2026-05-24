@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "breadmaker-white-wheat-bread",
+  "name": "Breadmaker White/Wheat Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "290 ml Warm water",
+    "1 1/2 tbsp Milk powder",
+    "3 tbsp Margarine",
+    "2 tbsp Sugar",
+    "1 tsp Salt",
+    "1 1/4 cup White flour",
+    "1 3/4 cup Whole wheat flour",
+    "1 1/2 tsp Active dry yeast"
+  ],
+  "recipeInstructions": "1. Add ingredients to bread bin/pan in order of list.\n2. Select \"white/powdered milk\" or standard bread cycle.",
+  "url": null
+}

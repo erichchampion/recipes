@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-chicken-stuffing",
+  "name": "Relleno de Pollo Falso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "rellenos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de arroz cocido (puede ser sobras refrigeradas, no demasiado antiguas o secas)",
+    "manojada de pasas secas",
+    "manojada de arándanos secos (endulzados)",
+    "2 tazas de cuscús",
+    "2 tallos de apio alemán (son una de las verduras más fáciles de cultivar, muy sabrosas)",
+    "3 cucharadas de levadura nutricional",
+    "al gusto de sal"
+  ],
+  "recipeInstructions": "1. Hierve agua y añade el cuscús, los tallos de apio cortados y las frutas secas. Cocina durante 4 minutos o hasta que el cuscús esté tierno. Escurre el agua.\n2. Mezcla el cuscús caliente a vapor con el arroz cocido frío, agrega la levadura nutricional y remueve para combinar. Añade sal al gusto.\nSirve inmediatamente. Esta mezcla tiene un sabor sabroso y similar al pollo, con el yeast aportando un sabor y nutrientes adicionales.",
+  "url": null
+}

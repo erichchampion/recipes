@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-crawfish-salad",
+  "name": "Ensalada de Cangrejo Falso",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "americana",
+    "cajún",
+    "étnica",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "3 lb filetes de corvina roja",
+    "4 rebanadas de limón",
+    "1 cebolla pequeña, en rodajas",
+    "1 taza de apio, picado finamente",
+    "1 zanahoria grande, rallada",
+    "2 litros de agua",
+    "1 cebolla pequeña, picada finamente",
+    "3/4 taza de salsa picante",
+    "2 cucharaditas de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1 taza de mayonesa"
+  ],
+  "recipeInstructions": "1. Llevar el agua a ebullición en una olla grande.\n2. Añadir los filetes de corvina, rebanadas de limón, cebolla en rodajas, sal, pimienta, salsa picante y mayonesa.\n3. Seguir hirviendo durante 20 minutos.\n4. Escurrir el pescado y dejarlo enfriar.\n5. Desmenuzar el pescado frío en trozos pequeños.\n6. Mezclar el pescado desmenuzado con la cebolla picada, apio, zanahoria rallada, salsa picante y mayonesa.\n7. Ajustar la sal y la pimienta al gusto.\n8. Refrigerar durante la noche.",
+  "url": null
+}

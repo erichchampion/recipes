@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-marinade-3",
+  "name": "Marinada de pescado",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "cajún",
+    "pescado",
+    "marinadas",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de vino Chablis",
+    "2 cucharadas de mostaza criolla",
+    "2 cucharadas de jugo de limón",
+    "1/2 cucharadita de pimienta cayena molida",
+    "2 cucharaditas de sal"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes y remover bien.\n2. Utilizar como marinada para el pescado, y luego usar la misma mezcla como salsa de asado cuando cocine el pescado.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-apple-pie-2",
+  "name": "Mock Apple Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "2 cups water",
+    "2 teaspoons cream of tartar",
+    "25 crackers, Ritz preferred"
+  ],
+  "recipeInstructions": "1. Bring the mixture to a boil.\n2. Drop in crackers one at a time until all are incorporated.\n3. Place the mixture in an uncooked pie shell.\n4. Sprinkle with cinnamon.\n5. Put dabs of butter on top.\n6. Bake at 350°F for about 30 minutes.\nTastes like real apple pie.",
+  "url": null
+}

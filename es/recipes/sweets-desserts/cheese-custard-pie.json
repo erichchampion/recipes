@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-custard-pie",
+  "name": "Tarta de crema de queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "3/4 lb de cuajada",
+    "3 huevos",
+    "3/4 taza de azúcar",
+    "1 cucharada generosa de harina",
+    "1 1/4 tazas de leche",
+    "1 cucharadita de extracto puro de vainilla"
+  ],
+  "recipeInstructions": "1. Pasar la cuajada por un colador.\n2. Añadir el azúcar, la harina, las yemas de huevo, la leche y el extracto de vainilla a la cuajada. Mezclar bien.\n3. Batir las claras hasta que estén firmes.\n4. Incorporar las claras batidas a la mezcla con movimientos suaves.\n5. Verter la masa en una base de pastel y hornear durante 45 minutos en un horno medio (350 grados).",
+  "url": null
+}

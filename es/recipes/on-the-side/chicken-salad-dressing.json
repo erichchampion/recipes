@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-salad-dressing",
+  "name": "Aderezo para Ensalada de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de caldo de pollo reservado",
+    "1/2 taza de vinagre blanco",
+    "1/2 taza de azúcar",
+    "4 yemas de huevo batidas",
+    "1 cucharada de mostaza Dijon",
+    "Sal al gusto",
+    "Pimienta negra recién molida al gusto",
+    "1/2 taza de leche entera",
+    "4 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes excepto la mantequilla en una cacerola.\n2. Batir bien y cocinar a fuego medio, removiendo constantemente hasta que la mezcla espese.\n3. Retirar del fuego y batir la mantequilla en la salsa.\n4. Dejar enfriar la salsa a temperatura ambiente o refrigerarla hasta su uso.\nRinde 2 tazas",
+  "url": null
+}

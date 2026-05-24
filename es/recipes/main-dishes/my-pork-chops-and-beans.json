@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-pork-chops-and-beans",
+  "name": "Mis chuletas de cerdo y frijoles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "4 lomos de cerdo, lomo o hombro",
+    "30 onzas de frijoles en salsa de tomate",
+    "1 cebolla mediana, picada",
+    "1/2 cucharadita de sal",
+    "6 cucharadas de ketchup"
+  ],
+  "recipeInstructions": "1. Dorar ligeramente los lomos de cerdo.\n2. Mezclar los frijoles y los ingredientes restantes (cebolla, sal, ketchup).\n3. Colocar la mezcla en un molde cuadrado de 9 pulgadas o una fuente para hornear.\n4. Cubrir con los lomos de cerdo dorados.\n5. Hornear durante 1 a 1 hora y media a 175 °C.",
+  "url": null
+}

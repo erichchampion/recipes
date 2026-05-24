@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "vienna-coffee-2",
+  "name": "Café Vienés",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de café instantáneo",
+    "2 tazas de cacao en polvo (Nestle's)",
+    "2 tazas de Creamora",
+    "1/2 taza de azúcar o 1 taza de azúcar en polvo",
+    "1 cucharadita de canela"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta que queden bien integrados.\n2. Conservar la mezcla en un frasco cerrado herméticamente para mantener su frescura.\n3. Para servir, añadir aproximadamente 2 cucharadas de la mezcla a una taza con agua hirviendo.\n4. Cubrir con una cucharada de crema batida antes de servir.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-vinaigrette",
+  "name": "Vinaigrette básica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "bajo en calorías",
+    "ensaladas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de vinagre de vino tinto",
+    "o vinagre de arroz",
+    "1/2 taza de agua",
+    "1 1/2 cucharadas de concentrado de jugo de manzana",
+    "1/4 cucharadita de polvo de ajo",
+    "1/4 cucharadita de polvo de cebolla",
+    "1 cucharada de jugo de limón fresco",
+    "1 cucharada de salsa de soja de bajo sodio",
+    "1/2 cucharadita de mostaza dijon sin sal",
+    "1 cucharadita de pimiento rojo (cayena)"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en un frasco con tapa ajustada.\n2. Agita bien hasta que la mezcla esté bien combinada.\n3. Guarda en el refrigerador hasta el momento de servir.",
+  "url": null
+}

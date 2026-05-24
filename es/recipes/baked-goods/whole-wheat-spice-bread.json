@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "whole-wheat-spice-bread",
+  "name": "Pan de especias de trigo integral",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 1/4 tazas de agua tibia",
+    "1 1/2 tazas de harina de pan blanca",
+    "1 1/2 tazas de harina de trigo integral",
+    "1 1/2 cucharadas de leche en polvo sin humedecer",
+    "2 cucharadas de azúcar moreno",
+    "3/4 cucharadita de sal",
+    "2 cucharadas de mantequilla",
+    "1/2 taza de pasas",
+    "1 1/2 cucharaditas de extracto de vainilla",
+    "1 cucharadita de canela en polvo",
+    "1/2 cucharadita de nuez moscada molida",
+    "1/2 cucharadita de jengibre en polvo",
+    "2 1/2 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "1. Precalentar la máquina de pan y seguir las instrucciones del fabricante para agregar los ingredientes.\n2. Mezclar todos los ingredientes en el orden indicado por el programa de la máquina de pan.\n3. La masa formará un pan de 450 gramos después de hornearse.",
+  "url": null
+}

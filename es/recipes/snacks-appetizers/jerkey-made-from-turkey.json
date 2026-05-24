@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "jerkey-made-from-turkey",
+  "name": "Jerky hecho con pavo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "carne de res",
+    "deshidratadora",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1,5 kg de pavo crudo, preferiblemente pechuga",
+    "2 cucharadas de salsa de soja",
+    "1 cucharada de jugo de limón fresco",
+    "1/4 cucharadita de ajo en polvo seco",
+    "1/4 cucharadita de pimienta negra",
+    "1/8 cucharadita de jengibre en polvo"
+  ],
+  "recipeInstructions": "1. Cortar el pavo en tiras contra el grano, lo más delgadas posible, entre 3 mm y 6 mm de grosor. Para facilitar el corte, congelar la carne y descongelar solo la cantidad necesaria antes de cortar.\n2. Mezclar todos los ingredientes restantes en un bol.\n3. Verter la marinada sobre las tiras de pavo, asegurándose de que queden bien cubiertas.\n4. Colocar las tiras de pavo marinadas en bandejas del deshidratador en una sola capa.\n5. Deshidratar durante aproximadamente 5 horas o hasta el día siguiente para obtener la textura deseada del jerky.",
+  "url": null
+}

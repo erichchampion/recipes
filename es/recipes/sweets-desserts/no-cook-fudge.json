@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "no-cook-fudge",
+  "name": "Fudge sin cocinar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "caramelo",
+    "postres",
+    "fudge"
+  ],
+  "recipeIngredient": [
+    "2 libras de azúcar glas",
+    "1 taza de cacao en polvo",
+    "2 huevos",
+    "2 cucharaditas de leche",
+    "2 cucharaditas de extracto de vainilla",
+    "1/2 taza de mantequilla derretida",
+    "3 cucharadas de mantequilla de maní"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcle el azúcar glas, el cacao en polvo, los huevos, la leche y el extracto de vainilla hasta que quede bien combinado.\n2. Incorpore la mantequilla derretida y la mantequilla de maní hasta que estén uniformemente integrados.\n3. Vierta la mezcla en un molde engrasado y extiéndala uniformemente.\n4. Refrigere el fudge hasta que esté bien firme.",
+  "url": null
+}

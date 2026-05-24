@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "just-good-cookies",
+  "name": "Simplemente buenas galletas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres",
+    "mantequilla de maní"
+  ],
+  "recipeIngredient": [
+    "1 taza de mantequilla",
+    "1 taza de mantequilla de maní (o menos, si se prefiere)",
+    "1 taza de azúcar morena",
+    "1/2 taza de azúcar",
+    "3 huevos",
+    "1 cucharadita de extracto de vainilla",
+    "2 tazas de harina",
+    "2 cucharaditas de polvo de hornear",
+    "2 tazas de avena sin cocinar",
+    "12 onzas de chips de chocolate",
+    "Coco rallado (opcional)",
+    "Uvas pasas (opcional)",
+    "Nueces picadas (opcional)"
+  ],
+  "recipeInstructions": "Combinar todos los ingredientes en un bol grande. Mezclar hasta que estén bien integrados. Dar forma a las galletas y colocarlas en bandejas para hornear sin engrasar. Hornear a 175 °C durante unos 15 minutos, o hasta que estén doradas. Retirar del horno y dejar enfriar ligeramente antes de servir. ¡Disfrutar!",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "awesome-cheesecake",
+  "name": "Awesome Cheesecake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cake",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "16 oz Cream cheese",
+    "1 pint (500 ml) Sour cream",
+    "5 Eggs",
+    "1 cup Sugar",
+    "3 tbsp Lemon juice",
+    "1 tsp Vanilla (or almond)"
+  ],
+  "recipeInstructions": "1. Beat the cream cheese until smooth.\n2. Gradually add sour cream, then eggs, one at a time, mixing well after each addition.\n3. Stir in sugar, lemon juice, and vanilla extract until combined.\n4. Pour batter into a prepared spring form pan with a graham cracker crust base.\n5. Bake at 325°F (165°C) for 1 hour.\n6. Turn off the oven; do not open the door for another hour.\n7. If using a self-cleaning oven, slightly open the door and prop it open for the remaining hour.\n8. Remove from oven and let cool completely in the refrigerator for about 8 hours before serving.\n9. Top with fresh fruit like cherry pie filling or strawberries, then add whipped cream.",
+  "url": null
+}

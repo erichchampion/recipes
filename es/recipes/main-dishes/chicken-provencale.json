@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-provencale",
+  "name": "Pollo Provenzal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "6 muslos de pollo deshuesados y sin piel",
+    "4 cucharadas de aceite de oliva",
+    "2 cucharadas de mantequilla",
+    "1 cebolla mediana picada",
+    "1 tallo de apio picado",
+    "1 taza de agua hirviendo",
+    "2 tazas de caldo de pollo",
+    "1 lata de tomate (8 onzas)",
+    "4 cucharadas de harina",
+    "1/4 taza de jerez",
+    "2 cucharadas de perejil fresco picado"
+  ],
+  "recipeInstructions": "1. Deshuesar el pollo y quitarle la piel.\n2. Calentar la mantequilla y el aceite en una sartén grande a fuego medio. Dorar el pollo por ambos lados. Retirar del fuego.\n3. En la misma sartén, saltear la cebolla y el apio durante unos 5 minutos.\n4. Incorporar la harina y añadir lentamente el agua mezclada con el caldo de pollo.\n5. Agregar los tomates enlatados y remover hasta que la mezcla hierva.\n6. Sazonar con sal y pimienta.\n7. Devolver el pollo a la sartén, agregar el jerez y el perejil.\n8. Tapar y dejar cocinar a fuego lento durante unos 30 minutos hasta que esté tierno.",
+  "url": null
+}

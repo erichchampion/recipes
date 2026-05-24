@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-broiled-beef",
+  "name": "Beer Broiled Beef",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "4 lb Beef, cubed",
+    "1 pint Beer",
+    "4 tbsp Butter",
+    "3 Onions, sliced",
+    "1/2 cup Flour",
+    "4 tbsp Salad Oil",
+    "1 tsp Salt",
+    "1 tsp Ground Pepper",
+    "2 Garlic Cloves, chopped"
+  ],
+  "recipeInstructions": "1. Melt butter in a large skillet and sauté onions until tender.\n2. Dredge beef cubes in flour and brown them in a separate skillet with oil and butter.\n3. Add the browned meat, salt, pepper, and garlic to the onions.\n4. Pour enough beer into the skillet to cover the ingredients.\n5. Cover tightly and simmer until the meat is tender.",
+  "url": null
+}

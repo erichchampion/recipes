@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "bruschetta",
+  "name": "Bruschetta",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "ethnic",
+    "italian"
+  ],
+  "recipeIngredient": [
+    "2 large Tomatoes",
+    "1/4 teaspoon Salt",
+    "2 large Basil leaves (fresh)",
+    "1 French bread baguette",
+    "1 clove Garlic",
+    "1 Jalapeno pepper",
+    "1 tablespoon Olive oil",
+    "2 tablespoons Parmesan cheese (grated)",
+    "1 Cutting board"
+  ],
+  "recipeInstructions": "1. Cut the tomatoes into small chunks, being careful not to lose juice.\n2. Mince the garlic, basil, and jalapeno fairly finely. Do not discard the jalapeno lining or seeds.\n3. Mix the minced ingredients with olive oil in a bowl, excluding the bread and cheese.\n4. Refrigerate for 1-2 hours before serving.\n5. Spoon the mixture onto slices of French bread and top with grated Parmesan cheese.",
+  "url": null
+}

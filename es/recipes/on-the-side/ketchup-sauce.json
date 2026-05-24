@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "ketchup-sauce",
+  "name": "Salsa de ketchup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "aderezos",
+    "mcdougall",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de salsa de tomate",
+    "6 onzas de pasta de tomate",
+    "1 1/2 cucharadas de vinagre de sidra",
+    "2 cucharaditas de salsa de soja tamari (de bajo sodio)",
+    "1/4 cucharadita de polvo de cebolla",
+    "1/8 cucharadita de orégano molido"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un tarro.\n2. Conservar la mezcla cubierta en el refrigerador.\n3. La salsa de tomate casera se conserva durante varias semanas.",
+  "url": null
+}

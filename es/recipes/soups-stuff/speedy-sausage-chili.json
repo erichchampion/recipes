@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "speedy-sausage-chili",
+  "name": "Chili de salchicha rápida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "carnes",
+    "sopas",
+    "pavo"
+  ],
+  "recipeIngredient": [
+    "1/2 lb salchichas turcas picantes",
+    "1 lata de sopa de tomate",
+    "2 cucharadas de polvo de chile",
+    "1/4 cucharadita de orégano seco",
+    "Una pizca de salsa Worcestershire",
+    "1 lata de frijoles, escurridos"
+  ],
+  "recipeInstructions": "1. Asar las salchichas bajo el grill hasta que estén doradas.\n2. Escurrir y desechar la grasa derretida.\n3. Mezclar con los ingredientes restantes en una cacerola.\n4. Hervir a fuego lento durante 5 minutos, hasta que esté caliente.",
+  "url": null
+}

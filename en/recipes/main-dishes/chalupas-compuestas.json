@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chalupas-compuestas",
+  "name": "Chalupas Compuestas",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "american",
+    "ethnic",
+    "main dish",
+    "mexican"
+  ],
+  "recipeIngredient": [
+    "12 Tostadas (fried tortillas)",
+    "4 - 6 cups Refried beans",
+    "1 cup Shredded Cheddar cheese",
+    "2 cups Chili con carne (no beans)",
+    "2 cups Shredded Lettuce",
+    "Guacamole"
+  ],
+  "recipeInstructions": "1. Place tostadas on a baking sheet.\n2. Spread refried beans evenly over the tostadas.\n3. Sprinkle shredded cheese over the beans.\n4. Place under the broiler until the cheese melts, turning occasionally.\n5. Remove from oven and spread chili con carne and shredded lettuce over the tostadas.\n6. Serve immediately with guacamole.",
+  "url": null
+}

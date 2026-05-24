@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "shrimp-chippewa",
+  "name": "Camarones Chippewa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco",
+    "gambas"
+  ],
+  "recipeIngredient": [
+    "56 camarones medianos, crudos, pelados",
+    "1 1/2 tazas de setas frescas, laminadas",
+    "1 1/4 tazas de cebolla verde, picada",
+    "1 1/2 tazas de mantequilla",
+    "4 dientes de ajo, picados",
+    "7 tazas de caldo de pollo",
+    "1/4 taza de perejil fresco, picado"
+  ],
+  "recipeInstructions": "1. Añadir el perejil y la cebolla verde al caldo de pollo y reservar. Esto permite que los sabores se mezclen antes de utilizarlos.\n2. Saltear los camarones, el ajo y las setas en 1/2 taza de mantequilla hasta que estén cocidos.\n3. Combinar la mezcla de caldo con los camarones y las setas, y llevar a ebullición.\n4. Retirar del fuego y añadir gradualmente la mantequilla restante mientras se remueve. Continuar añadiendo y removiendo hasta que la mantequilla se haya derretido por completo y la salsa espese.\n5. Servir en platos de sopa con pan francés para mojar.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "gin-rickey",
+  "name": "Gin Rickey",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz Gin",
+    "1 tbsp Fresh lime juice (juice of 1/2 lime)",
+    "6 oz Club soda (or to fill)"
+  ],
+  "recipeInstructions": "1. Fill a highball glass with ice.\n2. Add gin and lime juice.\n3. Fill with club soda and stir gently.\n4. Garnish with a wedge of lime.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "danish-apple-cake-2",
+  "name": "Tarta de Manzana Danesa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de harina",
+    "1 cucharadita de polvo de hornear",
+    "1/8 cucharadita de sal",
+    "1/4 taza de azúcar",
+    "1/2 cucharadita de canela",
+    "1 taza de manzanas; cortadas en cubos",
+    "1 huevo; ligeramente batido",
+    "1/2 taza de nueces; picadas",
+    "Crema batida; opcional"
+  ],
+  "recipeInstructions": "1. Cernir juntos la harina, el polvo de hornear, la sal, el azúcar y la canela.\n2. Agregar el huevo, las manzanas y las nueces a los ingredientes secos.\n3. Verter la masa en un molde para hornear cuadrado engrasado de 8 pulgadas.\n4. Hornear a 175°C durante 30 a 40 minutos.\n5. Servir con una cucharada de crema batida si se desea.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-cherry-pie",
+  "name": "Mock Cherry Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pie",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "2 9 inch pie crust",
+    "1 cup cranberries, halved",
+    "1/2 cup raisins",
+    "1 cup sugar",
+    "1 teaspoon butter",
+    "2 tablespoons flour",
+    "1 teaspoon vanilla",
+    "3/4 cup boiling water"
+  ],
+  "recipeInstructions": "1. Place one crust in a 9-inch pie plate.\n2. Mix the remaining ingredients and pour into the shell.\n3. Cover with the remaining pie crust.\n4. Bake at 350 degrees for 30 to 40 minutes, or until the crust is golden.",
+  "url": null
+}

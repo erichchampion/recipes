@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "monsters",
+  "name": "Monsters",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "donuts"
+  ],
+  "recipeIngredient": [
+    "Sugar (1/4 cup)",
+    "Warm water (1/4 cup)",
+    "Yeast (1 package)",
+    "Eggs (2 large)",
+    "Scalded milk, cooled to lukewarm (1 cup)",
+    "Salt (1 tsp)",
+    "Cooking oil (1/4 cup)",
+    "Flour (enough for a stiff sticky batter)",
+    "Optional:",
+    "Raisins (1 cup)",
+    "Cinnamon (1/2 tsp)"
+  ],
+  "recipeInstructions": "1. Mix together sugar, yeast, and 1/4 cup warm water in a bowl.\n2. Let the mixture sit until bubbly, about 5 minutes.\n3. Add eggs, scalded milk cooled to lukewarm, salt, oil, and enough flour to make a stiff sticky dough.\n4. Let the batter rest for approximately 10 minutes.\n5. Drop spoonfuls of the batter into hot oil and fry as you would for donuts.\n6. If desired, roll the fried donuts in powdered sugar or granulated sugar.\n7. Optionally, add raisins (1 cup) and cinnamon (1/2 tsp) to the dough before frying.",
+  "url": null
+}

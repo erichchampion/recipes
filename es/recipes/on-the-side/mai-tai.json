@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mai-tai",
+  "name": "Mai Tai",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 onzas de ron",
+    "1 onza de curaçao",
+    "El jugo de medio limón (1/2)",
+    "1/2 onza de granadina",
+    "1/2 onza de jarabe de almendras",
+    "1/2 cucharadita de azúcar en polvo",
+    "Hielo triturado"
+  ],
+  "recipeInstructions": "1. Agitar todos los ingredientes excepto el hielo triturado.\n2. Verter en un vaso lleno de hielo triturado.\n3. Decorar con un pequeño paraguas de papel.",
+  "url": null
+}

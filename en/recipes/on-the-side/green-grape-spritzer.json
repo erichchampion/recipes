@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "green-grape-spritzer",
+  "name": "Green Grape Spritzer",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "diabetic",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 cups Grapes, green",
+    "1 cup Pineapple juice, chilled",
+    "1 cup Mineral water, chilled"
+  ],
+  "recipeInstructions": "1. Combine the grapes and pineapple juice in a blender container.\n2. Cover; blend until smooth.\n3. Strain to remove grape skins.\n4. Return the liquid to the blender container.\n5. Add mineral water.\n6. Blend for 10 seconds to combine.\n7. Serve immediately.",
+  "url": null
+}

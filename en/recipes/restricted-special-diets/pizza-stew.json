@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-stew",
+  "name": "Pizza Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetic",
+    "main dish",
+    "special diets"
+  ],
+  "recipeIngredient": [
+    "6 oz Canadian Bacon",
+    "9 cups Tomato sauce",
+    "1 1/2 cups Water",
+    "12 tbsp Onion, chopped",
+    "6 tbsp Mushrooms, pieces",
+    "6 tbsp Black olives, pitted and chopped",
+    "6 tbsp Celery, chopped",
+    "6 tbsp Green pepper, chopped",
+    "6 dash Each oregano, garlic powder",
+    "Salt to taste",
+    "3 cups Elbow macaroni, cooked"
+  ],
+  "recipeInstructions": "1. Fry Canadian bacon; drain and cut away any fat.\n2. Heat tomato sauce and water to a boil.\n3. Add bacon, vegetables, and seasonings.\n4. Cook until vegetables are tender.\n5. Add macaroni and reheat the soup to serve.\nMakes 2 1/2 cups of soup.",
+  "url": null
+}

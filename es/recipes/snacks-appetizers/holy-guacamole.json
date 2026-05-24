@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "holy-guacamole",
+  "name": "¡Guacamole sagrado!",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "ensaladas",
+    "tentempiés",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "2 aguacates medianos",
+    "1 cebolla mediana, picada",
+    "1 sobre de adobo para tacos",
+    "2 dientes de ajo, picados",
+    "2 tallos de apio, picados",
+    "2 cucharadas de zumo de limón",
+    "1 tomate mediano, picado",
+    "2 pimientos jalapeños, sin semillas y picados",
+    "1/2 cucharadita de pimienta cayena",
+    "1/2 cucharadita de salsa Worcestershire",
+    "1/2 cucharadita de salsa Tabasco",
+    "1 cucharadita de rábano picante"
+  ],
+  "recipeInstructions": "1. Pelar y cortar los aguacates por la mitad a lo largo.\n2. Cortar una de las mitades en cuartos y colocarla en un procesador de alimentos.\n3. Procesar el aguacate con el resto de ingredientes hasta obtener una textura gruesa.\n4. Cortar o machacar en cuartos el resto del aguacate.\n5. Mezclar el aguacate machacado con la mezcla procesada, removiendo solo para combinar.\n6. Espolvorear con zumo de limón, tapar y refrigerar.",
+  "url": null
+}

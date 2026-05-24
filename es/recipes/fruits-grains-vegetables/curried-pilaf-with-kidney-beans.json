@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "curried-pilaf-with-kidney-beans",
+  "name": "Arroz con curry y frijoles rojos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz con especias",
+    "pilaf"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz blanco",
+    "16 onzas de frijoles rojos enlatados (escurridos)",
+    "1 manzana, picada (sin semillas)",
+    "2 cucharadas de caldo vegetal (2 cubos)",
+    "(si es caldo sin sal, añadir 3/4 cucharadita de sal)",
+    "1 cucharada de polvo de curry",
+    "(1 cucharada de coco rallado, opcional)",
+    "2 tazas y media de agua"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes a una olla de 3 cuartos y remover.\n2. Llevar la mezcla a ebullición; remover.\n3. Tapar y cocinar a fuego lento durante 20 minutos o hasta que se absorba el líquido y el arroz esté tierno.",
+  "url": null
+}

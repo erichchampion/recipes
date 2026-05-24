@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-soup-2",
+  "name": "Pizza Soup",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "italian",
+    "rice",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "3/4 cup Risotto, uncooked",
+    "3/4 cup Onion, chopped",
+    "1 cup Mushrooms, sliced",
+    "1/4 cup Green Pepper, chopped",
+    "2 Cloves Garlic, minced",
+    "2 tbsp Olive Oil",
+    "2 cups Beef Broth",
+    "2 cups Tomato Sauce",
+    "2 tsp Dried Basil",
+    "1 tsp Oregano",
+    "2 oz Mozzarella Cheese, shredded"
+  ],
+  "recipeInstructions": "1. In a large pot, cook macaroni for about 10 minutes, or until tender. Drain the macaroni.\n2. Heat olive oil in a separate pan over medium heat. Add onion, mushrooms, green pepper, and garlic. Cook, stirring occasionally, until onion is transparent.\n3. Pour in beef broth and tomato sauce. Stir to combine. Add dried basil, oregano, and cooked macaroni. Bring the mixture to a simmer and cook for 10 minutes.\n4. Serve hot, topped with shredded mozzarella cheese.\nMakes 4 servings.",
+  "url": null
+}

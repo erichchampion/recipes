@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-stew",
+  "name": "Chicken Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "2 lb Chicken breasts/skinless",
+    "Boneless/ cut in 1 inch cubes",
+    "2 cans Fat-free chicken broth",
+    "3 cups Potatoes; peel and cube",
+    "1 cup Onion; chop",
+    "1 cup Celery; slice",
+    "1 cup Carrots; slice thin",
+    "1 tsp Paprika",
+    "1/2 tsp Pepper",
+    "1/2 tsp Rubbed sage",
+    "1/2 tsp Dried thyme",
+    "6 oz No-salt-added tomato paste",
+    "1/4 cup Cold water",
+    "3 tbsp Cornstarch"
+  ],
+  "recipeInstructions": "1. In a slow cooker, combine the first 11 ingredients; cover and cook on HIGH for 4 hours.\n2. Mix water and cornstarch until smooth; stir into stew.\n3. Cook, covered, an additional 30 minutes or until the vegetables are tender.",
+  "url": null
+}

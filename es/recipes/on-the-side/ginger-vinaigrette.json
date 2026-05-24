@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "ginger-vinaigrette",
+  "name": "Vinaigrette de jengibre",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "marinadas",
+    "oriental",
+    "ensaladas",
+    "salsas",
+    "guarniciones",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de jengibre cristalizado, picado",
+    "4 cucharadas de vinagre de vino de arroz",
+    "2 cucharadas de salsa de soja",
+    "1 cucharadita de aceite de sésamo",
+    "2 cucharadas de miel o jarabe de arce",
+    "1 cucharada de mostaza dijon",
+    "1/2 taza de aceite de oliva",
+    "1/2 limón, zumo",
+    "Pimientos rojos picados al gusto"
+  ],
+  "recipeInstructions": "1. En una pequeña sartén, mezclar todos los ingredientes.\n2. Calentar y dejar a fuego lento durante 3 minutos.\n3. Verter sobre las verduras mientras aún estén calientes.",
+  "url": null
+}

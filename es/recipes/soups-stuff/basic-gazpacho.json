@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-gazpacho",
+  "name": "Gazpacho básico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de pepino cortado en trozos",
+    "4 tomates maduros medianos (Roma), cortados en trozos",
+    "1/2 pimiento rojo, sin semillas y cortado en trozos",
+    "1/4 cebolla amarilla, cortada en trozos",
+    "1 diente de ajo picado",
+    "3 cucharadas de vinagre de vino",
+    "1 cucharadita de orégano seco",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en una licuadora.\n2. Licúa hasta obtener una consistencia suave.\n3. Refrigera durante 15 minutos o hasta que esté frío.\n4. Variaciones: Puedes sustituir tomates amarillos, pimientos rojos o vinagre balsámico, o agregar hojas de albahaca fresca.",
+  "url": null
+}

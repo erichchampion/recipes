@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "gumbo",
+  "name": "Gumbo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "slow cooker",
+    "vegan"
+  ],
+  "recipeIngredient": [
+    "1 whole onion, chopped",
+    "3 cloves garlic",
+    "1 green bell pepper, diced",
+    "2 cups tomatoes, diced",
+    "4 cups vegetable stock",
+    "1 cup cooked lima beans",
+    "1 cup fresh corn kernels, or frozen",
+    "1 1/2 cups sliced okra",
+    "1 teaspoon salt",
+    "1/4 teaspoon allspice"
+  ],
+  "recipeInstructions": "1. In a large skillet, sauté the chopped onion and diced green bell pepper with minced garlic in water until soft.\n2. Remove the garlic cloves from the mixture.\n3. Add all ingredients to a slow cooker and cook on high for 6 hours or low for 8-10 hours.\n4. Serve the gumbo hot. It's ready to enjoy after work, knowing everything is prepared ahead of time. The lima beans can be pre-cooked in the slow cooker overnight, requiring only the addition of remaining ingredients before serving.",
+  "url": null
+}

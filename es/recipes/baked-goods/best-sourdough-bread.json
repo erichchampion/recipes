@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "best-sourdough-bread",
+  "name": "El mejor pan de masa madre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 taza de masa madre",
+    "2/3 taza de leche",
+    "2 cucharadas de mantequilla",
+    "2 cucharadas de azúcar (natural)",
+    "1 cucharadita de sal",
+    "3 tazas de harina de pan",
+    "1 1/2 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en la máquina del pan en el orden indicado.\n2. Programa la máquina para preparar pan blanco con costra ligera y ciclo regular o diferido.\n3. Disfruta de tu hogaza de 400 gramos.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-garlic-soup",
+  "name": "Sopa de Ajo Mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "estadounidense",
+    "étnico",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "10 dientes de ajo",
+    "1/2 cucharadita de harina",
+    "2 cucharadas de mantequilla",
+    "1 litro de caldo de carne o pollo",
+    "Sal y pimienta al gusto",
+    "4 huevos",
+    "2 cucharadas de queso Asadero desmenuzado",
+    "1 cucharada de perejil picado"
+  ],
+  "recipeInstructions": "1. Machaca el ajo lo más fino posible.\n2. Añade la harina y sofríe en la mantequilla (se prefiere una olla de barro para esto).\n3. Vierte gradualmente el caldo de sopa y deja hervir durante 15 minutos.\n4. Cuela la mezcla y devuélvela al fuego.\n5. Agrega las especias, sal y pimienta.\n6. Introduce los huevos en la sopa caliente con cuidado para que no se rompan las yemas.\n7. Cuando los huevos estén pochados, sirve en cuencos con un huevo por cuenco y adorna con perejil y queso.",
+  "url": null
+}

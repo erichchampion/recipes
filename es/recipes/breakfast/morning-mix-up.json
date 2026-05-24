@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "morning-mix-up",
+  "name": "Desayuno Revuelto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "brunch",
+    "lácteos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 tazas de hash browns congelados",
+    "1 taza de jamón cocido, cortado en trozos pequeños",
+    "1/2 taza de cebolla, picada",
+    "2 cucharadas de aceite",
+    "6 huevos, sal y pimienta al gusto",
+    "1 taza de queso cheddar rallado (8 oz)",
+    "Cebolletas frescas, picadas finamente"
+  ],
+  "recipeInstructions": "1. En una sartén grande, saltea las patatas, el jamón y la cebolla en aceite durante 10 minutos o hasta que las patatas estén tiernas.\n2. En un bol pequeño, bate los huevos con sal y pimienta.\n3. Vierte la mezcla de huevos en la sartén; cocina, removiendo ocasionalmente, hasta que los huevos estén cuajados.\n4. Retira del fuego y añade el queso cheddar rallado, mezclando suavemente.\n5. Sirve sobre un plato de servir y espolvorea con cebolletas picadas.",
+  "url": null
+}

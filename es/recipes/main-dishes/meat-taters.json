@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "meat-taters",
+  "name": "Carne y patatas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "carne molida",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "500g de carne molida de res",
+    "1 cebolla mediana, picada",
+    "1 pimiento verde mediano, picado",
+    "1 cucharadita de sal",
+    "200g de setas enlatadas",
+    "1 lata de sopa de setas doradas",
+    "Patatas fritas congeladas (Tater Tots)"
+  ],
+  "recipeInstructions": "1. Dorar la carne y escurrir el exceso de grasa.\n2. Retirar el líquido de las setas y reservar.\n3. Mezclar todos los ingredientes con la carne en un plato para hornear.\n4. Combinar la sopa de setas doradas con el líquido de setas reservado.\n5. Verter esta mezcla sobre la carne.\n6. Asegurarse de que la mezcla esté distribuida uniformemente sobre la carne.\n7. Cubrir con patatas fritas congeladas (Tater Tots).\n8. Hornear a 175°C durante 15-20 minutos, cubierto con papel aluminio.\n9. Retirar el papel aluminio y seguir cocinando hasta que las patatas fritas estén doradas.\n10. El cebolla, pimiento y setas son opcionales.",
+  "url": null
+}

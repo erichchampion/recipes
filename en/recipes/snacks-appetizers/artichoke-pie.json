@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "artichoke-pie",
+  "name": "Artichoke Pie",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "cheese",
+    "eggs",
+    "italian",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1 package Artichoke hearts, frozen",
+    "4 Eggs",
+    "1/2 cup Pepperoni, diced",
+    "1 cup Mozzarella, shredded",
+    "1/2 cup Grated cheese",
+    "1 9-inch pie shell"
+  ],
+  "recipeInstructions": "1. Cook artichokes, drain and cut.\n2. Beat eggs thoroughly and add all ingredients.\n3. Mix well and pour into 9-inch pie shell.\n4. Bake at 375 degrees for 45-60 minutes.\n5. May be frozen after baked.\n6. Serve as part of antipasto or as a first course.",
+  "url": null
+}

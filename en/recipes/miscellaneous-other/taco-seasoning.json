@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-seasoning",
+  "name": "Taco Seasoning",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "american",
+    "ethnic",
+    "mexican"
+  ],
+  "recipeIngredient": [
+    "2 tablespoons minced onion (dehydrated)",
+    "1 tablespoon chili powder",
+    "1 teaspoon cumin",
+    "1 teaspoon garlic salt",
+    "1/2 teaspoon oregano",
+    "1/2 teaspoon cornstarch"
+  ],
+  "recipeInstructions": "1. Mix the spices together.\n2. Combine the spices with 1 lb. cooked meat and stir in 1/2 cup water.\n3. Cook on low, covered for about 10 minutes.",
+  "url": null
+}

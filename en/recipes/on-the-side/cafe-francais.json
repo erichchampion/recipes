@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "cafe-francais",
+  "name": "Cafe Francais",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "coffee",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup heavy cream, well chilled",
+    "1/4 cup confectioners sugar",
+    "1 teaspoon vanilla extract",
+    "3 cups hot coffee, freshly brewed (French roast preferred)"
+  ],
+  "recipeInstructions": "1. Beat the cream until fluffy.\n2. Gradually add the confectioners sugar and continue beating until stiff peaks form.\n3. Divide the mixture evenly among 4 coffee cups.\n4. Stir the vanilla extract into the hot coffee.\n5. Fill all four coffee cups with the coffee mixture. Do not stir.\n6. Serve immediately.\nYIELD: 4 servings",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-paella-1",
+  "name": "Paella de Pollo #1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 lb de salchicha italiana, en rodajas",
+    "1 pollo para asar o freír, cortado en trozos",
+    "1 cebolla mediana, picada",
+    "1 pimiento verde, cortado en trozos",
+    "1 diente de ajo, picado",
+    "3/4 taza de arroz de grano largo",
+    "1 1/2 cucharaditas de granos de caldo de pollo",
+    "1/4 cucharadita de cúrcuma molida",
+    "3 tazas de agua caliente",
+    "4 zanahorias, cortadas en trozos de 3 pulgadas"
+  ],
+  "recipeInstructions": "1. Dorar las rodajas de salchicha en una olla holandesa a fuego medio.\n2. Cortar el pollo en trozos y dorarlo en las grasas de la salchicha; sazonar con sal y pimienta. Retirar el pollo y reservar en un plato.\n3. Agregar la cebolla, el pimiento verde y el ajo al pan. Cocinar hasta que la cebolla esté tierna.\n4. Incorporar el arroz crudo, los granos de caldo, la cúrcuma y el agua. Llevar a ebullición.\n5. Devolver el pollo a la olla junto con las zanahorias.\n6. Tapar y hornear a 175°C durante 40 minutos o hasta que el pollo y el arroz estén tiernos.\n7. Servir mezclando suavemente la mezcla.",
+  "url": null
+}

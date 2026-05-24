@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-chicken-and-rice",
+  "name": "Pollo con limón y arroz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 lb de pechugas de pollo sin hueso",
+    "Sal",
+    "Pimienta negra molida",
+    "Pimentón dulce",
+    "1 cucharada de aceite vegetal",
+    "1 taza de arroz crudo",
+    "1/2 cucharadita de orégano seco en hojas",
+    "1/2 cucharadita de ralladura de limón",
+    "1 3/4 tazas de caldo de pollo",
+    "Jugo de 1 limón",
+    "Perejil fresco picado"
+  ],
+  "recipeInstructions": "1. Condimentar el pollo con sal, pimienta y pimentón.\n2. Dorar el pollo en aceite en una sartén antiadherente grande a fuego alto.\n3. Añadir los ingredientes restantes excepto el perejil; llevar a ebullición.\n4. Reducir el fuego, tapar y cocinar a fuego lento durante 20 a 25 minutos, o hasta que el arroz esté tierno y el líquido se haya absorbido.\n5. Mezclar con un tenedor.\n6. Decorar con perejil.",
+  "url": null
+}

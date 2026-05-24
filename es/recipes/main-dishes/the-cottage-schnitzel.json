@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "the-cottage-schnitzel",
+  "name": "El Schnitzel de la Casita",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "alemán",
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "2 huevos enteros",
+    "2 cucharadas de harina",
+    "2 cucharadas de queso parmesano rallado fresco",
+    "1/2 taza de leche",
+    "Sal, pimienta blanca, nuez moscada y perejil fresco picado al gusto",
+    "2 libras (900 g) de lomo de cerdo, desgrasado y espolvoreado con harina",
+    "Mantequilla para freír",
+    "Jugo de limón fresco al gusto"
+  ],
+  "recipeInstructions": "1. Preparar la masa: En un recipiente de procesador de alimentos, combinar los huevos, la harina, el queso parmesano, la leche, la sal, la pimienta blanca, la nuez moscada y el perejil. Mezclar a alta velocidad durante 2 minutos.\n2. Cortar el lomo de cerdo en medallones finos (aproximadamente 3 pulgadas/8 cm).\n3. Sumergir cada medallón primero en harina y luego recubrir con la masa preparada.\n4. Derretir suficiente mantequilla para cubrir el fondo de una sartén pesada a fuego medio-alto.\n5. Saltear rápidamente los medallones en la mantequilla hasta que estén dorados por ambos lados, dando vuelta ocasionalmente.\n6. Retirar los medallones a un plato usando pinzas o espátula.\n7. Desglasar la sartén con jugo de limón y verter los jugos sobre los medallones de cerdo.\n8. Servir inmediatamente.",
+  "url": null
+}

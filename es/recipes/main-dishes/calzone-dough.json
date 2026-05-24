@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "calzone-dough",
+  "name": "Masa de calzone",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "masa",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 1/2 sobre de levadura",
+    "4 tazas de harina blanca",
+    "1/8 cucharadita de sal",
+    "2 cucharadas de aceite de oliva",
+    "1 1/2 tazas de agua"
+  ],
+  "recipeInstructions": "1. Ajustar la cuchilla metálica en un procesador de alimentos.\n2. Agregar todos los ingredientes secos y el aceite de oliva al procesador de alimentos.\n3. Incorporar lentamente el agua mientras se procesa en posición de amasado hasta que la masa forme una bola.\n4. Colocar la masa en un bol engrasado y dejarla levar durante 1-1 1/2 horas, cubierta.\n5. Rellenar con el relleno de calzone y hornear a 400°F durante 30 minutos.",
+  "url": null
+}

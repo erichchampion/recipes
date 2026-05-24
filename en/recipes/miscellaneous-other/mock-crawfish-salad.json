@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-crawfish-salad",
+  "name": "Mock Crawfish Salad",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "american",
+    "cajun",
+    "ethnic",
+    "salads"
+  ],
+  "recipeIngredient": [
+    "3 lb Red snapper fillets",
+    "4 Slices lemon",
+    "1 small Onion sliced",
+    "1 cup Celery, chopped fine",
+    "1 Large carrot, grated",
+    "2 quarts Water",
+    "1 small Onion minced",
+    "3/4 cup Chili sauce",
+    "2 tsp Salt",
+    "1/4 tsp Pepper",
+    "1 cup Mayonnaise"
+  ],
+  "recipeInstructions": "1. Bring water to a boil in a large kettle.\n2. Add the red snapper fillets, lemon slices, sliced onion, salt, pepper, chili sauce, and mayonnaise.\n3. Continue boiling for 20 minutes.\n4. Drain the fish and let it cool.\n5. Flake the cooled fish into bite-sized pieces.\n6. Toss the flaked fish with minced onion, chopped celery, grated carrot, chili sauce, and mayonnaise.\n7. Adjust the salt and pepper to taste.\n8. Chill overnight.",
+  "url": null
+}

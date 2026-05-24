@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaetzle",
+  "name": "Spaetzle",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cups flour",
+    "3/4 cup water",
+    "2 eggs, beaten",
+    "1/2 teaspoon salt",
+    "1 chicken bouillon cube",
+    "3 tablespoons butter",
+    "1 tablespoon chopped parsley",
+    "1/4 cup parmesan cheese"
+  ],
+  "recipeInstructions": "1. Combine flour, water, eggs, and salt in a large bowl. Beat until smooth.\n2. Gradually add the bouillon to 6 cups boiling water, stirring constantly.\n3. Using a spatula, press half of the batter through a large-holed colander into the boiling water.\n4. Cook the spaetzle until they float to the top of the water. Remove with a slotted spoon and repeat with the remaining batter.\n5. Toss the cooked spaetzle in butter and chopped parsley. Add parmesan cheese and toss again.",
+  "url": null
+}

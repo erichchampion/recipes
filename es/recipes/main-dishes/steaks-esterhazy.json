@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "steaks-esterhazy",
+  "name": "Steaks Esterházys",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "alemana",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1/4 lb de setas; picadas",
+    "1/2 cucharadita de sal",
+    "1 pequeña zanahoria; picada",
+    "1 cebolla verde o cebolleta; picada finamente",
+    "2 cucharadas de mantequilla",
+    "1 cucharadita de pimentón dulce",
+    "4 porciones de solomillo, T-bone o filete."
+  ],
+  "recipeInstructions": "1. Saltear las setas, zanahorias y cebolla verde o cebolleta en la mantequilla hasta que estén tiernas.\n2. Agregar el pimentón, sal, crema agria y salsa Worcestershire a la sartén.\n3. Reducir el fuego y cocinar durante 2 minutos, revolviendo ocasionalmente, sin llegar a ebullición.\n4. Broilar los filetes hasta alcanzar el punto de cocción deseado.\n5. Colocar la salsa sobre cada steak.",
+  "url": null
+}

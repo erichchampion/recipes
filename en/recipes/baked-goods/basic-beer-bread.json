@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-beer-bread",
+  "name": "Basic Beer Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "3 cups Flour",
+    "3 3/4 teaspoons Baking Powder",
+    "2 1/4 teaspoons Salt",
+    "1 can Beer",
+    "1 tablespoon Honey"
+  ],
+  "recipeInstructions": "1. Grease a loaf pan.\n2. Combine flour, baking powder, salt, beer, and honey in a large bowl. Stir together until well mixed.\n3. Bake in a preheated oven at 350°F for 45 minutes.\n4. Turn off the oven and let it cool on a rack.",
+  "url": null
+}

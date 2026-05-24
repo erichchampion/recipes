@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-fudge",
+  "name": "Fudre Rápido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "caramelo",
+    "chocolate",
+    "postres",
+    "fudge"
+  ],
+  "recipeIngredient": [
+    "4 oz (3/4 taza) de chocolate para fundir",
+    "2 cucharadas de mantequilla",
+    "1/4 taza de leche evaporada",
+    "1 cucharadita de extracto de vainilla",
+    "Huevo ligeramente batido",
+    "1/8 cucharadita de sal",
+    "1 libra de azúcar glas",
+    "1/2 taza de nueces picadas"
+  ],
+  "recipeInstructions": "1. Derrite el chocolate y la mantequilla sobre agua caliente, revolviendo constantemente.\n2. Agrega la leche evaporada, el huevo y la sal a la mezcla derretida. Mezcla bien.\n3. Incorpora el azúcar glas hasta obtener una textura suave.\n4. Transfiere la mezcla a un molde engrasado ligeramente.\n5. Deja enfriar completamente el fudge.\n6. Corta en cuadrados.\nRinde: 2 libras",
+  "url": null
+}

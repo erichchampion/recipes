@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "bar-b-que-beef-nb",
+  "name": "Carne de barbacoa (NB)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "3 lb de ternera, asada o de aguja",
+    "2 tazas de cebolla picada",
+    "3 pimientos verdes picados",
+    "1 lata de puré de tomate (6 onzas)",
+    "2 cucharaditas de sal",
+    "1/2 taza de azúcar moreno compacto",
+    "1/4 taza de vinagre de sidra",
+    "3 cucharaditas de salsa Worcestershire",
+    "1 cucharadita de mostaza en polvo"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes y colocarlos en una olla de cocción lenta o crockpot en el orden indicado.\n2. Utilizar una olla de 3 1/2 - 5 litros.\n3. Tapar y cocinar a alta temperatura durante 8 horas.\n4. Con un batidor de alambre, mezclar la mezcla hasta que la carne se desmenuce.\n5. Servir en panes largos o hamburguesas.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "picnic-coleslaw",
+  "name": "Ensalada de col para picnic",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "6 tazas de repollo, rallado",
+    "2 tazas de zanahorias, ralladas",
+    "12 lonchas de tocino, cocidas y desmenuzadas",
+    "12 cebolletas con las puntas, cortadas finamente",
+    "1/2 taza de vinagre de manzana",
+    "1/3 taza de aceite vegetal",
+    "1/3 taza de azúcar",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar el repollo rallado, las zanahorias ralladas, el tocino desmenuzado y las cebolletas cortadas.\n2. En un tarro con tapa hermética, batir juntos el vinagre de manzana, el aceite vegetal, el azúcar y la sal hasta que esté bien combinado.\n3. Justo antes de servir, verter el aderezo sobre la mezcla de repollo y mezclar suavemente hasta que todo esté uniformemente cubierto.",
+  "url": null
+}

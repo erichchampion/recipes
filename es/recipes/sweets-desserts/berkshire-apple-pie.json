@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "berkshire-apple-pie",
+  "name": "Tarta de Manzana de Berkshire",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "2 cucharadas de manteca corta",
+    "1 taza de harina",
+    "2 huevos",
+    "1/2 cucharadita de sal",
+    "1 cucharadita de vainilla",
+    "Manzanas, cortadas en rodajas",
+    "En cantidad suficiente para llenar el molde para tarta",
+    "Canela y azúcar morena al gusto"
+  ],
+  "recipeInstructions": "Nota: Si se utilizan manzanas enlatadas en lugar de frescas, utilice la variedad enlatada (no mezcla para pastel de manzana) y añada un poco más de azúcar, ya que pueden ser ácidas. Mezcle los ingredientes de la masa con una batidora eléctrica. Coloque las manzanas en el molde para tarta con canela y azúcar morena. Vierta la masa sobre las manzanas. No se preocupe por extender la masa; se extenderá durante el horneado. Hornee a 200 °C durante 45 minutos (180 °C si utiliza un molde de vidrio).",
+  "url": null
+}

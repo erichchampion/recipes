@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "greek-eggplant-appetizer",
+  "name": "Entrante griego de berenjena",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "étnico",
+    "griego",
+    "medio oriental",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 berenjenas medianas",
+    "3 tomates medianos, pelados y picados groseramente",
+    "3 dientes de ajo",
+    "3 cucharadas de perejil picado",
+    "1/2 cucharadita de orégano",
+    "1 cucharadita de menta fresca picada",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "3 cucharadas de aceite de oliva",
+    "5 cucharadas de zumo de limón"
+  ],
+  "recipeInstructions": "1. Cortar las berenjenas por la mitad a lo largo y retirar el pulpa, conservando las cáscaras.\n2. Mezclar la pulpa extraída con los tomates, el ajo, el perejil, el orégano, la menta, la sal y la pimienta.\n3. Añadir el aceite de oliva gradualmente a la mezcla mientras se bate hasta obtener una consistencia suave.\n4. Incorporar el zumo de limón y mezclar a velocidad alta hasta que esté completamente combinado.\n5. Servir la mezcla en las cáscaras de berenjena con pan pita.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "no-peek-chicken",
+  "name": "Pollo sin mirar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 pollo, asado (cortado en trozos)",
+    "1 1/2 tazas de arroz Minute, crudo",
+    "1 lata de sopa Crema de Pollo condensada (400 g)",
+    "1 lata de sopa Crema de Apio condensada (400 g)",
+    "1 sobre de mezcla para sopa y dip de cebolla seca (1,5 oz o 42 g)"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 300 °F (150 °C).\n2. Mezclar el arroz Minute con ambas latas de sopa en un molde para hornear rectangular de 30 cm x 20 cm.\n3. Distribuir la mezcla uniformemente en el fondo del molde.\n4. Colocar los trozos de pollo en una sola capa sobre la mezcla de arroz y sopa.\n5. Espolvorear la mezcla de sopa de cebolla seca sobre el pollo.\n6. Tapar apretadamente y hornear a 300 °F durante 2 horas y media.",
+  "url": null
+}

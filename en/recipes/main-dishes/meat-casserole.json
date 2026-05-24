@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "meat-casserole",
+  "name": "Meat Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "diabetic",
+    "main dish",
+    "meats",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "1/2 cup uncooked noodles",
+    "5 cups tomato juice",
+    "4 cups chopped celery",
+    "4 cups chopped green pepper",
+    "4 cups cubed cooked meat",
+    "1/4 teaspoon ground fresh pepper",
+    "3 teaspoons salt (1/2 teaspoon would be sufficient)",
+    "1 tablespoon diet margarine"
+  ],
+  "recipeInstructions": "1. Preheat the oven to 350°F.\n2. In a large, well-greased casserole dish, combine all ingredients.\n3. Bake for 2 hours and 15 minutes. This recipe serves 8.\n4. The food exchange values are: 1 starch/bread exchange + 3 meat exchanges + 1 vegetable exchange per serving.\n5. Note: This is a very old cookbook (1972) with only calories listed, which total 280 per serving.",
+  "url": null
+}

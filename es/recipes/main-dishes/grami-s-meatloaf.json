@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "grami-s-meatloaf",
+  "name": "Pastel de carne de Grami",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "comidas preparadas para congelar",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida magra",
+    "1 libra de queso cottage bajo en grasa",
+    "1/4 taza de avena en hojuelas (cruda)",
+    "1 cucharada de mostaza",
+    "3 cucharadas de ketchup",
+    "1 cucharadita de orégano",
+    "1 cucharadita de albahaca",
+    "2 cucharadas de perejil",
+    "1/4 taza de queso parmesano"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el queso parmesano en un bol grande.\n2. Transferir la mezcla a un molde para pan de carne.\n3. Hornear durante 30-45 minutos, o hasta que esté cocido por completo.\n4. Espolvorear queso parmesano sobre la parte superior durante los últimos 5 minutos de cocción.",
+  "url": null
+}

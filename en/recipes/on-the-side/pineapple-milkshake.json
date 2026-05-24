@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "pineapple-milkshake",
+  "name": "Pineapple Milkshake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "20 ounces crushed pineapple (undrained)",
+    "2 cups fat-free vanilla ice cream",
+    "1 cup skim milk",
+    "1/8 teaspoon cinnamon"
+  ],
+  "recipeInstructions": "1. Combine pineapple, ice cream, milk, and cinnamon in a food processor.\n2. Process until smooth.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "stir-fry-vegetables-with-noodles",
+  "name": "Verduras salteadas con fideos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 zanahorias medianas",
+    "4 tallos de apio",
+    "3 cebollas medianas",
+    "2 tazas de brócoli",
+    "1 paquete de fideos de ramen",
+    "2 cucharadas de aceite vegetal",
+    "1 cucharada de agua"
+  ],
+  "recipeInstructions": "1. Cortar las verduras en diagonal.\n2. Calentar el aceite a fuego alto.\n3. Añadir las verduras y saltear durante unos 30 segundos.\n4. Agregar el agua, luego tapar y cocinar durante 60 segundos.\n5. Cocinar los fideos de ramen según las instrucciones del paquete; escurrirlos y añadirlos a las verduras.\n6. Servir.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "jam-jams",
+  "name": "Jams de Jam",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar moreno",
+    "1 taza de manteca",
+    "6 cucharadas de sirope de maíz",
+    "1 cucharadita de extracto de vainilla",
+    "2 huevos",
+    "1 3/4 cucharaditas de bicarbonato de sodio",
+    "Harina para formar una masa firme"
+  ],
+  "recipeInstructions": "1. Mezclar el azúcar moreno, la manteca, el sirope de maíz y la vainilla.\n2. Agregar los huevos y el bicarbonato de sodio hasta que esté bien combinado.\n3. Amasar e incorporar suficiente harina para formar una masa firme.\n4. Estirar la masa y cortarla con un cortapastas.\n5. Hornear según las indicaciones.\n6. Montar con mantequilla de manzana o mermelada de frambuesa.",
+  "url": null
+}

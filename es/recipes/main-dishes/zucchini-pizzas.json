@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "zucchini-pizzas",
+  "name": "Pizzas de calabacín",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "Calabacines grandes",
+    "Sal",
+    "Por cada rebanada de calabacín:",
+    "1 cucharada de salsa de pizza",
+    "1 cucharadita de aceitunas negras, picadas",
+    "1 cucharadita de cebolla verde, picada finamente",
+    "2 cucharadas de queso mozzarella rallado"
+  ],
+  "recipeInstructions": "Precalentar el grill, colocando la rejilla a unos 5 pulgadas de distancia de la fuente de calor. Cortar los calabacines en rebanadas de 1/4 de pulgada de grosor. Salpimentar ligeramente las rebanadas. Colocarlas sobre una bandeja para hornear y añadir en el orden indicado: salsa de pizza, aceitunas, cebolla verde y queso. Grilar hasta que el queso se derrita y burbujee, aproximadamente 4-5 minutos. Los calabacines deben quedar tiernos y crujientes. El rendimiento dependerá del tamaño de los calabacines.",
+  "url": null
+}

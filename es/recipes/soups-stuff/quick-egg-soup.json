@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-egg-soup",
+  "name": "Sopa de Huevos Rápida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "diabetico",
+    "huevos",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de agua hirviendo",
+    "1 cubo de caldo",
+    "1 huevo"
+  ],
+  "recipeInstructions": "1. Disolver el cubo de caldo en el agua hirviendo.\n2. Retirar del fuego.\n3. Batir el huevo.\n4. Mezclar el huevo con el caldo vegetal.\n5. Calentar lentamente; ¡no hervir!",
+  "url": null
+}

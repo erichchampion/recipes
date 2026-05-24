@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "cajun-back-ribs",
+  "name": "Cajun Back Ribs",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "american",
+    "barbecue",
+    "cajun",
+    "ethnic",
+    "pork"
+  ],
+  "recipeIngredient": [
+    "4 pounds pork ribs",
+    "3 tablespoons paprika",
+    "1/2 teaspoon red pepper flakes",
+    "1 tablespoon garlic powder",
+    "2 teaspoons oregano",
+    "2 teaspoons thyme",
+    "1/2 teaspoon salt",
+    "1/2 teaspoon white pepper",
+    "1/2 teaspoon cumin",
+    "1/4 teaspoon nutmeg"
+  ],
+  "recipeInstructions": "1. Combine all seasonings in a bowl.\n2. Dust all surfaces of the ribs with the seasoning mixture.\n3. Prepare medium-hot coals in the covered grill, banking them as needed.\n4. Grill the ribs over indirect heat for 1 to 1 1/2 hours, turning every 15 minutes.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "gingersnaps",
+  "name": "Gingersnaps",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de manteca vegetal",
+    "1 taza de azúcar",
+    "1/4 taza de melaza",
+    "1 huevo",
+    "2 tazas de harina",
+    "1/4 cucharadita de sal",
+    "2 cucharaditas de bicarbonato de sodio",
+    "1 cucharadita de canela",
+    "1 cucharadita de jengibre en polvo",
+    "1 cucharadita de clavos molidos"
+  ],
+  "recipeInstructions": "1. Batir la manteca vegetal, el azúcar y el huevo hasta obtener una mezcla suave.\n2. Agregar gradualmente la melaza y mezclar bien.\n3. Tamizar los ingredientes secos (harina, sal, bicarbonato de sodio, canela, jengibre, clavos) y mezclar hasta formar una masa.\n4. Formar bolitas con la masa.\n5. Rodar las bolitas en azúcar blanca.\n6. Colocar las bolitas de masa, separadas por unos 2 cm, sobre una bandeja para hornear.\n7. Hornear a 175 °C durante 10 a 12 minutos.",
+  "url": null
+}

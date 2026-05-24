@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "reuben-dip",
+  "name": "Dip Reuben",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "3 onzas de queso crema",
+    "1/4 taza de crema agria",
+    "4 onzas de carne curada en rodajas (picada finamente)",
+    "1/2 taza de queso suizo rallado",
+    "1/4 taza de chucrut picado y escurrido",
+    "2 cucharadas de leche, al gusto",
+    "Galletas de centeno - para mojar"
+  ],
+  "recipeInstructions": "1. En una pequeña sartén a fuego bajo, mezclar el queso crema, la crema agria, la carne curada, el queso suizo y el chucrut.\n2. Incorporar 2 cucharadas de leche hasta que la mezcla esté caliente y suave. Si es necesario, diluir con más leche para alcanzar la consistencia deseada.\n3. Servir el dip caliente con galletas de centeno para mojar.",
+  "url": null
+}

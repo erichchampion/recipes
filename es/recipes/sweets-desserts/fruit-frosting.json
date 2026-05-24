@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-frosting",
+  "name": "Glaseado de Fruta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "glaseado",
+    "importar"
+  ],
+  "recipeIngredient": [
+    "1/2 cucharadita de gelatina sin sabor",
+    "1/2 taza de zumo fresco",
+    "2 tazas de crema batida ligera",
+    "1 taza de yogur natural sin grasa con sabor a vainilla"
+  ],
+  "recipeInstructions": "1. Calentar el zumo y la gelatina juntos en una sartén hasta que la gelatina se disuelva.\n2. Retirar del fuego y dejar enfriar.\n3. Mezclar suavemente la crema batida en la mezcla de zumo y gelatina con un batidor de alambre.\n4. Enfriar hasta que sea espesable para untar.\n5. Extender sobre un pastel bajo en grasas, como un pastel de ángel, y servir en rodajas.",
+  "url": null
+}

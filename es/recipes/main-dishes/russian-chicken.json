@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "russian-chicken",
+  "name": "Pollo ruso",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "Pecho de pollo o otras partes",
+    "1 sobre de mezcla para sopa de cebolla seca",
+    "8 oz (aprox. 225 g) de aderezo ruso",
+    "8 oz (aprox. 225 g) de mermelada de albaricoque"
+  ],
+  "recipeInstructions": "1. Coloca las partes de pollo en un plato para hornear de vidrio según sea necesario.\n2. Mezcla el aderezo, la mermelada y la mezcla seca de sopa de cebolla en un bol.\n3. Vierte la mezcla sobre el pollo.\n4. Hornea a 175 °C durante 1 hora y media.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "special-party-dip",
+  "name": "Dip especial para fiestas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "salsas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "6 cucharadas de queso crema, marca Philadelphia",
+    "-Nota: 6 cucharadas equivalen a 6 onzas-",
+    "2 cucharaditas de leche o nata",
+    "2 cucharaditas de aderezo francés, tipo Miracle Whip",
+    "2 cucharadas de ketchup",
+    "1 cucharadita de cebolla rallada finamente",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Mezcla el queso crema con la leche (o nata) hasta obtener una textura suave.\n2. Añade el resto de los ingredientes y combina bien.\n3. Sirve con galletas saladas o patatas fritas.",
+  "url": null
+}

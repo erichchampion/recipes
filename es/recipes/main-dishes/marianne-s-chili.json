@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "marianne-s-chili",
+  "name": "Chili de Marianne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chili",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne de hamburguesa cocida y escurrida, picada en trozos pequeños",
+    "1 lb de lingua (salchicha portuguesa), cortada en láminas finas, cocida y escurrida",
+    "1 cebolla, picada",
+    "1 pimiento verde, picado",
+    "1 taza de zanahoria, en rodajas; sin cocinar",
+    "2 tazas de papas, en rodajas; sin cocinar",
+    "1 lata de frijoles negros oscuros",
+    "16 oz de salsa de tomate"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes a la olla de cocción lenta.\n2. Cubrir con salsa de tomate.\n3. Cocinar durante 3-5 horas a fuego alto o 5-7 horas a fuego bajo.",
+  "url": null
+}

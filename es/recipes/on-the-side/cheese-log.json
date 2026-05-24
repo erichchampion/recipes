@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-log",
+  "name": "Rulo de queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de queso New York Sharp",
+    "1/2 lb de queso Pimento",
+    "1/2 lb de crema de queso",
+    "2 dientes de ajo",
+    "2 cucharadas de salsa Worcestershire",
+    "1/4 cucharadita de pimentón rojo en hojuelas",
+    "2 cucharadas de mayonesa",
+    "1/4 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Rallar el queso.\n2. Mezclar todos los ingredientes en un bol grande hasta combinarlos bien.\n3. Refrigerar la mezcla durante unos 30 minutos.\n4. Dividir la mezcla en tres partes iguales.\n5. Envolver cada tercera parte en pimentón.\n6. Los rodillos se pueden congelar hasta el momento de servir.",
+  "url": null
+}

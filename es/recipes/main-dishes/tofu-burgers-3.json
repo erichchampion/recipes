@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "tofu-burgers-3",
+  "name": "Tofu Burgers 3",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "plato principal",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 lb de tofu",
+    "1/2 taza de harina de trigo integral",
+    "3 cucharadas de levadura nutricional",
+    "2 cucharadas de polvo de caldo vegetal",
+    "Pimienta al gusto",
+    "2 cucharadas de salsa de soja",
+    "1/4 taza (o más) de semillas de sésamo",
+    "1 pequeña papa pelada",
+    "1/4 cucharadita (o más) de polvo de ajo",
+    "Cebolla pequeña o polvo de cebolla al gusto"
+  ],
+  "recipeInstructions": "1. Triturar el tofu, la papa y la cebolla (si se usa) en un procesador de alimentos. No mezclar en exceso.\n2. Incorporar los ingredientes restantes.\n3. Dar forma a los hamburguesas.\n4. Hornear a 180 °C aproximadamente durante 15-20 minutos, dando la vuelta una vez.\n5. Alternativamente, freír las hamburguesas.",
+  "url": null
+}

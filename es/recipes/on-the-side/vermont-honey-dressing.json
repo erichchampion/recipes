@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "vermont-honey-dressing",
+  "name": "Aderezo de Miel de Vermont",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso",
+    "aderezos",
+    "frutas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2/3 taza de azúcar",
+    "1 cucharadita de mostaza en polvo",
+    "1 cucharadita de pimentón dulce",
+    "1/4 cucharadita de sal",
+    "1 cucharadita de semillas de apio",
+    "1/3 taza de miel",
+    "5 cucharadas de vinagre",
+    "1 cucharada de jugo de limón",
+    "1 taza de aceite para ensalada"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una licuadora.\n2. Añadir el aceite para ensalada al final, vertiéndolo lentamente mientras se mezclan los demás ingredientes.\n3. Licuar hasta obtener una consistencia suave.\n4. Servir sobre queso cottage y frutas.",
+  "url": null
+}

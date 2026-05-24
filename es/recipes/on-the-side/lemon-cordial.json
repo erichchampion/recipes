@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-cordial",
+  "name": "Refresco de limón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "licores",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "4 limones",
+    "1 1/2 cucharaditas de extracto de limón",
+    "1 quinta parte de vodka o brandy",
+    "1 taza de jarabe de azúcar o miel"
+  ],
+  "recipeInstructions": "1. Pelar los limones, evitando la parte blanca.\n2. Dejar macerar la cáscara de limón en la base alcohólica durante dos semanas.\n3. Colar a través de un paño de queso y añadir el jarabe de azúcar o miel.\n4. Si se utiliza extracto de limón, dejarlo macerar en el alcohol.\n5. Si se usa miel y no se desea que quede turbia, dejarla reposar durante dos semanas antes de transferir el líquido claro.",
+  "url": null
+}

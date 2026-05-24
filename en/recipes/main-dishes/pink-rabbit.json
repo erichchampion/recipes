@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pink-rabbit",
+  "name": "Pink Rabbit",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "fish",
+    "main dish",
+    "meat",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "1 can tomato soup",
+    "1/2 cup cheese, grated",
+    "1/2 cup chunk tuna"
+  ],
+  "recipeInstructions": "1. Heat the tomato soup in a saucepan over medium heat until the cheese is melted and all ingredients are well blended.\n2. Serve the mixture over hot buttered toast wedges.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "wheat-and-barley-bread",
+  "name": "Wheat and Barley Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 1/8 cup Water",
+    "1 1/2 cup Bread Flour",
+    "1 1/2 cup Whole Wheat Flour",
+    "1/2 cup Barley Flour",
+    "1 1/2 tsp Salt",
+    "1 1/2 tbsp Butter or Margarine",
+    "1 1/2 tbsp Nonfat Dry Milk Powder",
+    "2 tsp Active Dry Yeast"
+  ],
+  "recipeInstructions": "1. Place all ingredients in the bread machine according to the manufacturer's instructions.\n2. Start the machine.",
+  "url": null
+}

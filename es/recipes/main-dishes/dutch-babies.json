@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "dutch-babies",
+  "name": "Babies Holandeses",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 huevos",
+    "1/2 taza de harina",
+    "1/2 taza de leche",
+    "1/4 cucharadita de sal",
+    "2 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. Batir los huevos.\n2. En un molde para pastel de Pyrex, agregar la mantequilla y colocarlo en el horno a 400°F durante 3-5 minutos para derretirla.\n3. A los huevos batidos, añadir la harina, la sal y la leche.\n4. Retirar el molde del horno y verter la mezcla de huevo sobre la superficie caliente.\n5. Devolver el molde al horno y hornear durante 25 minutos o hasta que se haya inflado.\n6. Retirar del horno y espolvorear con azúcar en polvo o cualquier otro topping de elección.",
+  "url": null
+}

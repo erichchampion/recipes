@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "smoked-barbequed-turkey",
+  "name": "Pavo a la barbacoa ahumado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "marinadas",
+    "carne",
+    "aves de corral",
+    "pavo"
+  ],
+  "recipeIngredient": [
+    "8-10 kg de pavo",
+    "1/2 taza de sal",
+    "1/2 taza de azúcar moreno",
+    "1 litro de jugo de manzana",
+    "1 cucharada de romero fresco picado",
+    "1 cucharada de albahaca fresca picada",
+    "1 pavo real, para untar"
+  ],
+  "recipeInstructions": "1. Coloca el pavo en una salmuera durante 8-12 horas.\n2. Retira del marinado y enjuaga bien.\n3. Seca completamente el pavo con papel de cocina.\n4. Coloca el pavo en el fumador con las cavidades superior e inferior abiertas para exponer el interior al humo.\n5. Fuma durante 3-3,5 horas o más, teniendo cuidado de no resecarlo.\n6. Retira el pavo del fumador y cocínalo según tu método preferido.\n7. Para un sabor ahumado adicional, aumenta el tiempo de fumar y la cantidad de combustible.\n8. Reduce el tiempo de cocción en un 10% por cada hora pasada en el fumador (hasta un máximo del 40%).\n9. Si utilizas una parrilla/fumadora/horno tipo barbacoa, cambia a modo asar y unta con miel durante el proceso de asado.",
+  "url": null
+}

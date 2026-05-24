@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "brocoli-casserole",
+  "name": "Brocoli Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish",
+    "pasta",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "2 1/2 cups Cooked Rice",
+    "1 Small jar Cheeze Whiz (Cheese Whiz)",
+    "2 Cans Undiluted Campbell's Mushroom Soup",
+    "1 Cup Onions, chopped",
+    "1 Cup Celery, chopped",
+    "2 Packages Broccoli, chopped"
+  ],
+  "recipeInstructions": "1. Saute onions and celery in a large skillet until tender.\n2. Mix Cheese Whiz with hot rice.\n3. In a separate bowl, mix the soup, cooked broccoli, onion, and celery together.\n4. Combine all ingredients in a greased 9x13 inch baking dish.\n5. Let set for one half hour.\n6. Bake uncovered at 350 degrees F (175 degrees C) for one hour.",
+  "url": null
+}

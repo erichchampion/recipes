@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "power-breakfast",
+  "name": "Desayuno energético",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 taza de zumo de naranja",
+    "3/4 taza de pera, pelada y cortada en cubos",
+    "1 plátano congelado",
+    "3/4 taza de yogur natural bajo en grasa",
+    "1 cucharadita de extracto de vainilla",
+    "3 cucharadas de mantequilla de maní suave",
+    "2 cucharadas de germen de trigo"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en una licuadora.\n2. Mezcla hasta obtener una textura suave.",
+  "url": null
+}

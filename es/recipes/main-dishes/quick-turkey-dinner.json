@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-turkey-dinner",
+  "name": "Cena rápida de pavo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "pavo"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne picada de pavo cruda",
+    "1 lata de salsa de arándanos enteros",
+    "1 taza de galletas para puré",
+    "1/2 taza de agua",
+    "1/2 taza de Batidos de huevo (sustituto de los huevos)",
+    "2 cucharaditas de caldo de pollo instantáneo",
+    "2 cucharadas de margarina"
+  ],
+  "recipeInstructions": "1. Mezclar la carne picada de pavo, las galletas para puré y los Batidos de huevo en un bol pequeño hasta que esté bien combinado.\n2. Formar en 8 hamburguesas ovaladas.\n3. Derritar la margarina en una sartén grande a fuego medio-alto.\n4. Dorar las hamburguesas por ambos lados.\n5. Mezclar la salsa de arándanos, el agua y el caldo de pollo; verter sobre las hamburguesas.\n6. Llevar a ebullición.\n7. Reducir el fuego, tapar y dejar cocinar hasta que esté hecho, aproximadamente 20 minutos.\n8. Disponer las hamburguesas en un plato de servir.\n9. Verter la salsa sobre ellas y decorar con perejil.",
+  "url": null
+}

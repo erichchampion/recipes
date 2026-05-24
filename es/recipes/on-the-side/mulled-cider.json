@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "mulled-cider",
+  "name": "Cider calientado",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "estadounidense",
+    "bebidas",
+    "festivo",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/2 litro de sidra de manzana",
+    "2 cucharadas de azúcar moreno",
+    "3 palos de canela",
+    "1/2 cucharadita de clavos enteros",
+    "2 cucharadas de jarabe de arce"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una olla grande.\n2. Llevar a ebullición.\n3. Reducir el fuego y dejarlo hervir a fuego lento durante 5 minutos.\n4. Colar el líquido para eliminar las varas de canela y cualquier rama o residuo.\n5. Servir caliente. Opcionalmente, añadir media vara de canela fresca en cada taza.",
+  "url": null
+}

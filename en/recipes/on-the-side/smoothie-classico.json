@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "smoothie-classico",
+  "name": "Smoothie Classico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup orange juice",
+    "1 cup strawberries, quartered and frozen",
+    "2 bananas"
+  ],
+  "recipeInstructions": "1. Pour orange juice into the blender.\n2. Add the strawberry pieces and bananas to the blender.\n3. Blend all ingredients together until the mixture is smooth.",
+  "url": null
+}

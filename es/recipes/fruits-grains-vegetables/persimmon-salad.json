@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "persimmon-salad",
+  "name": "Ensalada de Persimón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "4 persimones grandes maduros",
+    "Lechuga",
+    "1 taza de peras frescas, cortadas en cubos",
+    "3/4 taza de uvas sin semillas",
+    "1 taza de piña fresca, cortada en cubos",
+    "4 cucharaditas de piñones picados",
+    "4 cucharaditas de nueces finamente picadas",
+    "1 taza de mayonesa diluida con jugo de piña y limón"
+  ],
+  "recipeInstructions": "1. Cortar los persimmones en cuartos, dejando una pequeña parte del tallo, y separarlos.\n2. Colocarlos sobre una cama de lechuga.\n3. Mezclar las peras, uvas y piña y amontonarlas dentro de los persimmones.\n4. Espolvorear cada pieza con 1 cucharadita de piñones y 1 cucharadita de nueces.\n5. Servir con mayonesa.",
+  "url": null
+}

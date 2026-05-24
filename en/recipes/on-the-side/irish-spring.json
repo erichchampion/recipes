@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "irish-spring",
+  "name": "Irish Spring",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "ethnic",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 fluid ounce Irish whiskey",
+    "1 fluid ounce Orange juice",
+    "1/2 fluid ounce Peach brandy",
+    "1 fluid ounce Sweet and sour mix"
+  ],
+  "recipeInstructions": "1. Fill a collins glass with crushed ice.\n2. Add the ingredients to the glass.\n3. Stir gently until well combined.\n4. Garnish with a cherry and an orange slice.",
+  "url": null
+}

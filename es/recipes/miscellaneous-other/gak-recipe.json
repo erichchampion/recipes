@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "gak-recipe",
+  "name": "Receta de Gak",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "niños",
+    "variado",
+    "plastilina"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de agua tibia",
+    "2 tazas de pegamento blanco Elmer's (DNDG63B)",
+    "Colorante alimentario",
+    "4 cucharaditas de bórax",
+    "1 1/3 tazas de agua tibia"
+  ],
+  "recipeInstructions": "1. Verter la Solución A en la Solución B.\n2. No mezclar las soluciones una vez combinadas.\n3. Retirar el gak y amasar hasta formar una masa.\nConsejos:\n- El bórax se encuentra en la sección de detergentes de los supermercados, como \"20 Mule Team\".\n- Si es necesario reducir la receta a la mitad, utilizar solo la mitad de la Solución A y mezclar toda la cantidad de Solución B.\n- No duplique la receta ni reutilice la Solución B (bórax y agua). Utilice únicamente pegamento Elmer's para la mezcla final.",
+  "url": null
+}

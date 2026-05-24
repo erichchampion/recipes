@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "decorator-icing",
+  "name": "Glase de decorador",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "glaseado"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de mantequilla ablandada",
+    "2 tazas de azúcar glas, tamizadas",
+    "2 cucharadas de leche",
+    "1/2 cucharadita de extracto de vainilla",
+    "Colorante alimentario (opcional)"
+  ],
+  "recipeInstructions": "1. Batir la mantequilla hasta que esté ligera y esponjosa.\n2. Agregar el azúcar glas poco a poco, batiendo bien después de cada adición.\n3. Incorporar la leche y la vainilla hasta obtener una mezcla suave.\n4. Añadir colorante alimentario si se desea, mezclando hasta una distribución uniforme.",
+  "url": null
+}

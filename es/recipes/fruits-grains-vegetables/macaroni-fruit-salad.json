@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "macaroni-fruit-salad",
+  "name": "Ensalada de macarrones con frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frutas",
+    "pasta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de azúcar",
+    "2 huevos",
+    "2 cucharadas de harina",
+    "1/2 cucharadita de sal",
+    "2 latas de piña triturada (aprox. 2 tazas)",
+    "2 naranjas mandarinas, peladas y cortadas en gajos",
+    "1 taza de orzo cocido, escurrido",
+    "350 g de crema batida fría (cool whip)"
+  ],
+  "recipeInstructions": "1. En una cacerola, mezclar el jugo de piña y naranja con el azúcar, huevos, harina y sal.\n2. Cocinar a fuego medio hasta que espese.\n3. Incorporar el orzo cocido y mezclar bien.\n4. Refrigerar durante la noche.\n5. Antes de servir, agregar los trozos de fruta y la crema batida.",
+  "url": null
+}

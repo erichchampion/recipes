@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "kidney-bean-salad",
+  "name": "Ensalada de Frijoles Rojos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frijoles",
+    "diabético",
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "400 g (1 lata) de frijoles rojos, enjuagados bien",
+    "O",
+    "400 g (1 lata) de frijoles pintos, enjuagados bien",
+    "1 apio, picado",
+    "1 cucharadita de encurtido de dil, rallado",
+    "2 cucharaditas de cebolla, rallada",
+    "1 clara de huevo cocida y picada finamente",
+    "Hojas de lechuga romana",
+    "2 cucharadas de aderezo de yogur con anchoas"
+  ],
+  "recipeInstructions": "1. Mezclar los frijoles rojos (o pintos), apio, encurtido de dil, cebolla y clara de huevo con cuidado.\n2. Disponer la mezcla sobre hojas de lechuga.\n3. Añadir una cucharada de aderezo sobre cada porción.",
+  "url": null
+}

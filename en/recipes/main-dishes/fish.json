@@ -1,0 +1,17 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish",
+  "name": "Fish",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "fish",
+    "miscellaneous",
+    "preserving"
+  ],
+  "recipeIngredient": [
+    "Blue fish (mackerel, salmon, steelhead, trout, etc.), excluding tuna."
+  ],
+  "recipeInstructions": "1. Eviscerate the fish within 2 hours after catching.\n2. Keep cleaned fish on ice until ready to can.\n3. Glass-like crystals of magnesium ammonium phosphate may form in canned salmon. These are safe to eat and usually dissolve when heated.\n4. Remove head, tail, fins, and scales from the fish.\n5. Wash the fish thoroughly and remove all blood.\n6. Split the fish lengthwise if desired.\n7. Cut cleaned fish into 3-1/2 inch lengths.\n8. Fill pint jars with fish, skin side next to glass, leaving 1-inch headspace.\n9. Add 1 teaspoon of salt per pint, if desired (do not add liquids).\n10. Adjust lids and process the jars following the recommendations in Table 1 or Table 2 according to the canning method used.\nTable 1: Recommended processing time for raw fish in a dial-gauge pressure canner.\nJar Size: Pints\nProcess Time: 100 minutes\nCanner Pressure (PSI) at Altitudes:\n0 - 2,000 ft: 11 lb\n2,001 - 4,000 ft: 12 lb\n4,001 - 6,000 ft: 13 lb\n6,001 - 8,000 ft: 14 lb\nTable 2: Recommended processing time for raw fish in a weighted-gauge pressure canner.\nJar Size: Pints\nProcess Time: 100 minutes\nCanner Pressure (PSI) at Altitudes:\n0 - 1,000 ft: 10 lb\nAbove 1,000 ft: 15 lb",
+  "url": null
+}

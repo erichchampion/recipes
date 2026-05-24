@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "double-mango-and-habanero-salad",
+  "name": "Ensalada de mango doble y habanero",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frutas",
+    "caliente",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 mango maduro",
+    "1 mango verde",
+    "2 chiles habanero, sin semillas y picados",
+    "2 cebolletas finas, picadas",
+    "1/2 taza de cilantro fresco, picado",
+    "1 cucharada de salsa de pescado tailandesa",
+    "1 lima, jugo (fresco)",
+    "1 cucharadita de azúcar",
+    "Un pellizco de sal"
+  ],
+  "recipeInstructions": "1. Pelar los mangos.\n2. Cortar la carne del mango sin semillas en tiras finas y añadirla a un bol.\n3. Incorporar el resto de ingredientes y mezclar bien.\n4. Servir.",
+  "url": null
+}

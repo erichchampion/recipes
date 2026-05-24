@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "daily-bread-2",
+  "name": "Daily Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 pound loaf",
+    "3 tablespoons Millers bran",
+    "1/4 cup Milk",
+    "3/8 cup Water",
+    "1 Egg",
+    "2 cups Whole wheat flour",
+    "1 teaspoon Salt",
+    "1 tablespoon Applesauce",
+    "3 tablespoons Honey",
+    "1/4 cup Sunflower seeds",
+    "2 teaspoons Yeast"
+  ],
+  "recipeInstructions": "1. Preheat the oven to the desired temperature.\n2. Mix all dry ingredients (flour, salt, bran, yeast) in a large bowl.\n3. In another bowl, whisk together wet ingredients (milk, water, applesauce, honey, egg).\n4. Combine the wet and dry mixtures until a dough forms.\n5. Knead the dough on a floured surface for about 10 minutes until smooth.\n6. Place the dough in a greased loaf pan and cover with a damp cloth.\n7. Let the dough rise in a warm place until doubled in size, about 1 hour.\n8. Preheat an oven to the desired temperature (e.g., 350°F or 175°C).\n9. Bake the bread for about 30-35 minutes or until golden brown and crust is light.\n10. Remove from the oven and let cool on a wire rack before slicing.",
+  "url": null
+}

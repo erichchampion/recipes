@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "garlic-chicken-pizza",
+  "name": "Pizza de Pollo con Ajo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "4 onzas de queso crema ligero, ablandado",
+    "1/4 taza de crema agria sin grasa",
+    "2 dientes de ajo machacados",
+    "1 taza de pechugas de pollo deshuesadas y sin piel, cocidas y picadas",
+    "1/2 cebolla roja, cortada en anillos",
+    "1/2 tomate, picado",
+    "1/2 taza de setas laminadas",
+    "1 taza de queso mozzarella rallado",
+    "1 masa de pizza,  ver nota"
+  ],
+  "recipeInstructions": "Utiliza masa comprada o casera (ver receta).\nMezcla el queso crema, la crema agria y el ajo machacado hasta obtener una consistencia suave. Extiende la mezcla sobre la masa de pizza, cubre con pollo, cebolla, tomate, setas y queso. Hornea en un horno precalentado a 175°C (350°F) durante 15 minutos o hasta que la masa esté hecha y el queso se haya derretido. Espolvorea con queso parmesano.\nNota: La temperatura del horno debe especificarse como 350°F (175°C) para mayor claridad.",
+  "url": null
+}

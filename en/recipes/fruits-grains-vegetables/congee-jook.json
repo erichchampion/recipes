@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "congee-jook",
+  "name": "Congee (Jook)",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "asian",
+    "chinese",
+    "ethnic",
+    "rice"
+  ],
+  "recipeIngredient": [
+    "1 cup long-grain rice",
+    "3 quarts stock",
+    "2 tablespoons minced Chinese preserved turnip",
+    "1 slice ginger root, minced",
+    "1 piece tangerine peel, soaked to soften and minced",
+    "Salt"
+  ],
+  "recipeInstructions": "1. In a large pot, bring the stock to a boil.\n2. Add the rice and reduce heat to low.\n3. Cook until the rice is tender and the liquid has been absorbed, stirring occasionally.\n4. Stir in the preserved turnip, ginger, and tangerine peel.\n5. Season with salt to taste.\n6. Serve hot.",
+  "url": null
+}

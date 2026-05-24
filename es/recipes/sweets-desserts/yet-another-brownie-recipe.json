@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "yet-another-brownie-recipe",
+  "name": "Otra receta de brownie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "brownie",
+    "tartas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de nueces (opcional)",
+    "2 onzas de chocolate sin endulzar",
+    "2 cucharadas de mantequilla sin sal",
+    "1 taza de azúcar",
+    "1/2 taza de harina de uso común",
+    "2 huevos grandes"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180 °C.\n2. Enmantequillar un molde cuadrado de 20 cm y reservar.\n3. Triturar las nueces en un procesador de alimentos con una cuchilla de acero y reservar.\n4. Trocear el chocolate en pedazos pequeños y derretirlo con la mantequilla a baño María, sin llegar a hervir. Remover hasta obtener una mezcla suave.\n5. Retirar del fuego y añadir el azúcar, luego la harina, los huevos y finalmente las nueces.\n6. Verter la masa en el molde preparado y alisarla.\n7. Hornear durante 20 a 25 minutos. Los brownies se desprenderán de los lados del molde.\n8. Dejar enfriar los brownies en el molde sobre una rejilla. Cortarlos en cuadrados.\nPara congelar los brownies, colocarlos en una sola capa y protegerlos primero con papel film y luego con papel aluminio.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "indian-muffins",
+  "name": "Muffins indios",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "muffins"
+  ],
+  "recipeIngredient": [
+    "1 huevo, batido",
+    "1 taza de leche",
+    "1 cucharada de mantequilla derretida",
+    "2 cucharadas de maíz molido",
+    "1 1/2 tazas de harina",
+    "2 cucharaditas de polvo de hornear"
+  ],
+  "recipeInstructions": "1. Mezclar el huevo, la leche y la mantequilla derretida.\n2. Incorporar los ingredientes secos tamizados y mezclar bien.\n3. Hornear en moldes para muffins engrasados a 450 °F durante unos 20 minutos.",
+  "url": null
+}

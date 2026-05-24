@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "double-apple-salad",
+  "name": "Double Apple Salad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "fruit",
+    "salads"
+  ],
+  "recipeIngredient": [
+    "1 large Golden Delicious apple, diced",
+    "1 large Red Delicious apple, diced",
+    "1 teaspoon lemon juice",
+    "1 can (20 oz) pineapple chunks, drained",
+    "1 cup miniature marshmallows",
+    "2/3 cup flaked coconut",
+    "1/2 cup chopped walnuts",
+    "1/4 cup raisins",
+    "1/4 cup mayonnaise",
+    "2 tablespoons thinly sliced celery"
+  ],
+  "recipeInstructions": "1. In a bowl, toss apples with lemon juice.\n2. Add the remaining ingredients and mix well.\n3. Cover and chill for at least 1 hour.",
+  "url": null
+}

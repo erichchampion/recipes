@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "garbanzo-guacamole",
+  "name": "Guacamole de garbanzos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "mcdougall",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 lata de garbanzos, enjuagados y escurridos",
+    "1 cucharada de zumo de limón fresco",
+    "1 diente de ajo, machacado",
+    "1 cebolla mediana, picada",
+    "1/2 aguacate pequeño, pelado y cortado en cubos",
+    "1 tomate mediano, picado",
+    "4 cebolletas, cortadas en rodajas finas",
+    "1 cucharada de pimientos verdes enlatados, picados"
+  ],
+  "recipeInstructions": "1. Coloca los garbanzos en un procesador de alimentos o licuadora.\n2. Añade el zumo de limón y el ajo.\n3. Procesa brevemente hasta que los garbanzos estén ligeramente picados.\n4. Agrega la cebolla y el aguacate (opcional).\n5. Procesa nuevamente hasta obtener una mezcla con trozos.\n6. Transfiere la mezcla a un bol.\n7. Añade los ingredientes restantes.\n8. Mezcla bien.\n9. Tapa y refrigera antes de servir.",
+  "url": null
+}

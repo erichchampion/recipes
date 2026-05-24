@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-bread-4-2",
+  "name": "Pan italiano #4",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pan",
+    "máquina de pan",
+    "panes",
+    "internacional",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 1/3 tazas de agua",
+    "2 cucharadas de aceite de oliva (o otro)",
+    "3 1/2 tazas de harina",
+    "2 cucharaditas de sal",
+    "2 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Mantener la sal y la levadura separadas; pueden interactuar si se combinan antes de mezclar.\n2. Seguir las instrucciones de su máquina panificadora (ABM).\n3. Suele hacer este pan en modo horneado programado para tener pan fresco para el desayuno.",
+  "url": null
+}

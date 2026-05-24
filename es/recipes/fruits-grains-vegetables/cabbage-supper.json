@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "cabbage-supper",
+  "name": "Cena de col",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "col y verdura",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lb de salchicha ahumada en rodajas",
+    "1 cebolla grande, picada",
+    "3 costillas de apio, cortadas en trozos de 1 pulgada",
+    "1 repollo mediano, cortado groseramente",
+    "3 tomates grandes, pelados y cortados por la mitad",
+    "1 cucharadita de salsa Worcestershire",
+    "1/4 cucharadita de mezcla de especias",
+    "1/4 cucharadita de sal",
+    "1/8 cucharadita de pimienta",
+    "1/4 cucharadita de salsa picante",
+    "4 rebanadas de tocino, cocidas y desmenuzadas"
+  ],
+  "recipeInstructions": "1. Cocinar la salchicha, la cebolla y el apio en una olla holandesa grande hasta que la salchicha esté dorada.\n2. Escurrir el exceso de grasa de la olla.\n3. Añadir el repollo a la mezcla y tapar.\n4. Cocinar a fuego lento durante 20 minutos.\n5. Agregar los tomates y los ingredientes restantes (salsa Worcestershire, mezcla de especias, sal, pimienta, salsa picante). Mezclar suavemente para combinar.\n6. Cocinar por 3 minutos adicionales.\n7. Espolvorear el tocino desmenuzado sobre la cena antes de servir.",
+  "url": null
+}

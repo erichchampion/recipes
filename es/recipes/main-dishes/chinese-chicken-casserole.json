@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chinese-chicken-casserole",
+  "name": "Cazuela de Pollo Chino",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "china",
+    "plato principal",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "10 1/2 onzas de sopa de champiñones cremosos",
+    "1/2 taza de agua",
+    "1 taza de apio escaldado y escurrido",
+    "1 1/2 tazas de pollo cocido desmenuzado",
+    "5 onzas de fideos chinos",
+    "8 onzas de chicharrones de agua",
+    "2 cucharadas de cebolla picada"
+  ],
+  "recipeInstructions": "1. Reserva algunos fideos chinos para colocar en la parte superior.\n2. Mezcla todos los ingredientes y cubre con los fideos reservados.\n3. Hornea a 350 °F durante 45 minutos, o hasta que esté dorado.",
+  "url": null
+}

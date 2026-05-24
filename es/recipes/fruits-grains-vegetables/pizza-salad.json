@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-salad",
+  "name": "Ensalada de Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "plato principal",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 libra de macarrones integrales en espiral",
+    "1 lata de aceitunas negras, escurridas",
+    "1 pimiento verde grande, picado",
+    "1 tomate grande, picado",
+    "1 cebolla grande, picada",
+    "1 rebanada pequeña de pepperoni",
+    "1 paquete de queso Cheddar, Cracker Barrel",
+    "16 onzas de aderezo para ensalada italiana bajo en calorías, Good Seasons"
+  ],
+  "recipeInstructions": "1. Cocinar los macarrones según las instrucciones del paquete.\n2. Escurrir y enjuagar las aceitunas negras.\n3. Picar el pimiento verde, el tomate, la cebolla y el pepperoni.\n4. Rallar el queso Cheddar.\n5. En un bol grande, mezclar los macarrones cocidos, los vegetales picados, el pepperoni y el queso rallado.\n6. Verter el aderezo para ensalada italiana sobre la mezcla y remover hasta que esté bien combinada.\n7. Cubrir y refrigerar durante al menos 30 minutos para permitir que se mezclen los sabores.\n8. Servir fría o a temperatura ambiente.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-omelet",
+  "name": "French Omelet",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "cheese",
+    "eggs",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "3 Eggs",
+    "1 tbsp Butter"
+  ],
+  "recipeInstructions": "1. Mix the eggs slightly.\n2. Heat the butter in a small skillet until it turns brown.\n3. Quickly pour the eggs into the skillet.\n4. Stir gently until the eggs set on the bottom.\n5. Let the omelet stand over the heat for a few seconds to lightly brown the bottom.\n6. Fold the omelet in half.\n7. Season with salt and pepper.",
+  "url": null
+}

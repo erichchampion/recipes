@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "oriental-grilled-chicken",
+  "name": "Pollo a la parrilla oriental",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "étnico",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "2 pechugas de pollo sin hueso y sin piel",
+    "1/2 taza de salsa de soja",
+    "2 cucharaditas de azúcar moreno",
+    "1/2 taza de vino de arroz",
+    "1 cucharada de aceite de sésamo",
+    "1 cucharada de cebolletas picadas",
+    "1 rodaja de jengibre de 1,5 cm, picado"
+  ],
+  "recipeInstructions": "1. Cortar las pechugas de pollo por la mitad.\n2. Mezclar todos los ingredientes restantes en una sartén poco profunda lo suficientemente grande como para contener las pechugas en una sola capa.\n3. Colocar las pechugas en la marinada, darle la vuelta y frotar la marinada en el pollo.\n4. Marinar durante al menos una hora, o hasta una noche entera.\n5. Asar el pollo a la parrilla sobre brasas calientes o bajo el grill.\n6. Escurrir la marinada, llevarla a ebullición y servir con el pollo.",
+  "url": null
+}

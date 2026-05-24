@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-dip",
+  "name": "Chicken Dip",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "2 cups flour",
+    "1 dash pepper",
+    "1 teaspoon seasoned salt",
+    "1 teaspoon salt",
+    "1/2 teaspoon baking powder",
+    "2 cups water (or to dipping consistency)"
+  ],
+  "recipeInstructions": "1. Combine the above ingredients in a bowl until well mixed.\n2. Dry chicken thoroughly before dipping into the mixture.\n3. For each quarter of a whole chicken, cook for 20 minutes starting at 350 degrees Fahrenheit. Reduce the temperature to 325 degrees after about 5 minutes.",
+  "url": null
+}

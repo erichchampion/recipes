@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-please-casserole",
+  "name": "Casserola de Queso por Favor",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "1 taza de queso cheddar rallado",
+    "1 lata (400 g) de sopa de setas",
+    "1/4 taza de leche",
+    "2 tazas de arroz cocido",
+    "1/2 taza de pimiento verde picado",
+    "2 latas (200 g cada una) de salmón del Pacífico",
+    "1/2 taza de migas de galleta",
+    "2 cucharadas de mantequilla derretida"
+  ],
+  "recipeInstructions": "1. En una sartén, calienta suavemente 3/4 taza de queso con la sopa y la leche, removiendo constantemente hasta que el queso se derrita.\n2. Mezcla el arroz y el pimiento verde picado en un recipiente para hornear engrasado de 2 cuartos.\n3. Alterna capas de arroz y salmón enlatado, comenzando con el arroz.\n4. Vierte la mezcla de queso, leche y sopa sobre todas las capas.\n5. Recubre el borde del recipiente con migas de galleta mezcladas con mantequilla derretida.\n6. Esparce el resto del queso encima de las migas.\n7. Hornea a 180°C durante 30-35 minutos.",
+  "url": null
+}

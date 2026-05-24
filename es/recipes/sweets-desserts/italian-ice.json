@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-ice",
+  "name": "Helado italiano",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "tarta",
+    "étnico",
+    "ajo",
+    "italiano"
+  ],
+  "recipeIngredient": [
+    "4 limones, exprimidos hasta el fondo",
+    "1 taza de azúcar",
+    "1 cucharada de cáscara de limón rallada (opcional)",
+    "Hielo"
+  ],
+  "recipeInstructions": "1. Coloca el zumo de limón y el azúcar en el recipiente de la licuadora.\n2. Mezcla hasta que se disuelva el azúcar. No esperes a añadir el hielo para que se disuelva por completo.\n3. Añade cubos de hielo uno a uno mientras mezclas hasta que la mezcla se convierta en un granizado y ya no pueda licuarse más. Es posible que necesites parar, remover o añadir más hielo varias veces.\n4. Ajusta el sabor con más azúcar o zumo de limón al gusto. Evita usar concentrado de limón ya que no dará el mismo sabor.\n5. Vierte la mezcla en recipientes individuales para congelar y guarda en el congelador durante al menos cuatro horas antes de servir.",
+  "url": null
+}

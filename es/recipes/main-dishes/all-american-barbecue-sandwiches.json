@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "all-american-barbecue-sandwiches",
+  "name": "Sándwiches de barbacoa estilo americano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "ensaladas",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "4 1/2 libras de carne picada",
+    "1 1/2 tazas de cebolla picada",
+    "2 1/4 tazas de ketchup",
+    "3 cucharadas de mostaza preparada",
+    "3 cucharadas de salsa Worcestershire",
+    "2 cucharadas de vinagre",
+    "2 cucharadas de azúcar",
+    "1 cucharadita de sal",
+    "1 cucharadita de pimienta negra",
+    "18 bollos para hamburguesa, cortados por la mitad"
+  ],
+  "recipeInstructions": "1. En una olla holandesa, cocina la carne picada y la cebolla hasta que la carne esté dorada y la cebolla esté tierna.\n2. Escurre el exceso de grasa.\n3. Mezcla el ketchup, la mostaza, la salsa Worcestershire, el vinagre, el azúcar, la sal y la pimienta en un bol.\n4. Incorpora la mezcla al carne.\n5. Calienta hasta que esté bien mezclado.\n6. Sirve sobre los bollos.",
+  "url": null
+}

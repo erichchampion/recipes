@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "little-italy-spaghetti",
+  "name": "Little Italy Spaghetti",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "3 oz Onion, chopped",
+    "1 1/2 tbsp Olive oil",
+    "1/2 tsp Garlic, minced",
+    "1/4 tsp Basil",
+    "1/4 tsp Oregano",
+    "1/2 tsp Salt",
+    "6 oz Tomato, finely chopped",
+    "3 oz Mushrooms, finely chopped",
+    "3 oz Green pepper, finely chopped",
+    "2 oz Tomato paste",
+    "6 oz Spaghetti, cooked"
+  ],
+  "recipeInstructions": "1. Heat olive oil in a saucepan over medium heat.\n2. Add onion and cook until translucent.\n3. Stir in garlic, basil, oregano, and salt.\n4. Add vegetables (tomatoes, mushrooms, green pepper) and tomato paste.\n5. Cook covered for 15 minutes, stirring occasionally.\n6. Add cooked spaghetti to the pan and toss until combined.\n7. Serve hot.",
+  "url": null
+}

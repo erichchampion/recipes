@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "natilla-spanish-custard",
+  "name": "Natilla (Crema española)",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "carne de res",
+    "postres",
+    "carne molida"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de leche evaporada",
+    "1 1/4 tazas de leche fresca",
+    "Una pizca de sal",
+    "Un trozo de 2 cm de cáscara de limón",
+    "3 yemas de huevo",
+    "2 cucharadas de maicena",
+    "1/2 taza de azúcar",
+    "1/2 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Mezclar la leche evaporada, la leche fresca, la sal y la cáscara de limón en una cacerola pesada. Llevar a ebullición a fuego medio y dejar enfriar.\n2. Batir las yemas de huevo hasta que adquieran un color amarillento.\n3. En un bol aparte, mezclar la maicena con suficiente leche fría para hacer una pasta ligera. Añadir lentamente el resto de la leche y las yemas, batiendo continuamente.\n4. Colar esta mezcla en otra cacerola. Incorporar el azúcar y cocinar a fuego lento, removiendo constantemente hasta que espese. Añadir la vainilla y dejar enfriar.\n5. Servir la crema en un bol y refrigerar hasta que esté fría.",
+  "url": null
+}

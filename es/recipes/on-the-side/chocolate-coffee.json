@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-coffee",
+  "name": "Chocolate y Café",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "chocolate",
+    "café",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de café instantáneo",
+    "1/4 taza de azúcar",
+    "Una pizca de sal",
+    "1 onza de chocolate amargo sin endulzar",
+    "1 taza de agua",
+    "3 tazas de leche"
+  ],
+  "recipeInstructions": "1. En una cacerola, mezcle el café instantáneo, el azúcar, la sal y el chocolate amargo.\n2. Añada gradualmente el agua a la mezcla en la cacerola, removiendo a fuego lento hasta que el chocolate se haya derretido.\n3. Deje hervir durante 4 minutos, revolviendo constantemente.\n4. Vierta la leche poco a poco en la cacerola mientras continúa revolviendo hasta que esté caliente.\n5. Retire del fuego y bata la mezcla con un batidor giratorio hasta que esté espumosa.\n6. Vierta en tazas y coloque una cucharada de crema batida sobre cada porción.\nRinde 6 porciones.",
+  "url": null
+}

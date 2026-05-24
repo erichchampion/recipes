@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "anise-pork-roast",
+  "name": "Cerdo asado con anís",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guiso principal",
+    "plato fuerte",
+    "carne de cerdo"
+  ],
+  "recipeIngredient": [
+    "1 cochinillo asado, de 3 a 5 libras",
+    "Sal",
+    "Pimienta",
+    "3 cucharadas de perejil picado",
+    "2 dientes de ajo, picados",
+    "Harina",
+    "1 taza de caldo de pollo",
+    "1 cucharadita de semillas de anís",
+    "1/2 taza de vino blanco"
+  ],
+  "recipeInstructions": "1. Sazonar el cochinillo con sal y pimienta. Hacer 5 o más cortes profundos en la carne.\n2. Rellenar los cortes con una mezcla de perejil y ajo. Untar bien el cochinillo con harina.\n3. Colocar el cochinillo en el horno precalentado a 175 °C (350 °F) durante 30 minutos.\n4. Mientras se cocina, preparar el líquido de adobado mezclando el caldo de pollo, vino blanco y semillas de anís en una sartén. Calentar a fuego lento durante 15 minutos.\n5. Reducir la temperatura del horno a 160 °C (325 °F). Continuar cocinando el cochinillo hasta que alcance el punto deseado, bañándolo con el líquido de adobado cada 15-20 minutos.\n6. Si durante la última hora de cocción el cochinillo se seca demasiado, cubrirlo con papel de aluminio suelto.",
+  "url": null
+}

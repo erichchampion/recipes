@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "bacon-pancakes",
+  "name": "Tortitas de tocino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "panes y pasteles",
+    "desayuno",
+    "plato principal",
+    "crepes"
+  ],
+  "recipeIngredient": [
+    "2 tazas de masa madre",
+    "1 huevo, batido",
+    "1/2 taza de tocino frito y desmenuzado",
+    "2 cucharadas de aceite, grasa de tocino",
+    "2 cucharadas de azúcar",
+    "Harina - según sea necesario",
+    "1/2 cucharadita de bicarbonato de sodio"
+  ],
+  "recipeInstructions": "1. Agregar el huevo, el tocino, el aceite y el azúcar a la masa madre y mezclar brevemente.\n2. Añadir harina gradualmente hasta alcanzar la consistencia deseada y mezclar hasta eliminar grumos.\n3. Disolver el bicarbonato de sodio en 1 cucharada de agua y mezclar suavemente con la masa.\n4. Cocinar en una sartén caliente (400 °F) para formar discos de 2 pulgadas.\n5. Cocinar durante 2-4 minutos, luego dar la vuelta y cocinar por 2 minutos adicionales.",
+  "url": null
+}

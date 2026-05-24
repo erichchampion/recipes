@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "gooey-cake",
+  "name": "Pastel pegajoso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 sobre de masa de bizcocho con mantequilla",
+    "1 barra de margarina (100g)",
+    "2 huevos",
+    "1 tarrina de azúcar glas (150g)",
+    "1 paquete de queso crema (225g), a temperatura ambiente",
+    "2 huevos"
+  ],
+  "recipeInstructions": "1. Mezcla la masa de bizcocho, la margarina y los huevos en un bol hasta obtener picos firmes.\n2. Vierte la masa en un molde rectangular engrasado de 30x40 cm.\n3. Cubre con una mezcla de azúcar glas, queso crema y los 2 huevos restantes.\n4. Vierte la mezcla de bizcocho sobre el relleno.\n5. Hornea a 150°C durante 40-60 minutos.",
+  "url": null
+}

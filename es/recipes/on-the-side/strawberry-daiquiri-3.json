@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-daiquiri-3",
+  "name": "Batido de Fresa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 onza de ron",
+    "1/2 onza de licor de fresa",
+    "1 onza de jugo de lima fresco",
+    "2 onzas de fresas congeladas en almíbar",
+    "1 cucharadita de azúcar",
+    "Hielo picado",
+    "2 fresas",
+    "Una rodaja de naranja"
+  ],
+  "recipeInstructions": "1. Llenar un vaso mezclador con hielo picado.\n2. Añadir ron, licor de fresa, jugo de lima, fresas congeladas y azúcar al vaso mezclador.\n3. Agitar bien hasta enfriar.\n4. Colar en un vaso cóctel frío.\n5. Decorar con una fresa y una rodaja de naranja.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "oatmeal-drops",
+  "name": "Olas de avena",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de azúcar moreno",
+    "1 cucharadita de polvo de hornear",
+    "1/4 taza de azúcar blanco",
+    "1/2 cucharadita de sal",
+    "3/4 taza de puré de manzana sin azúcar",
+    "1 taza de avena en hojuelas",
+    "1 taza de harina de uso común tamizada",
+    "1/2 taza de pasas sin semillas"
+  ],
+  "recipeInstructions": "1. Mezclar los azúcares y agregar el puré de manzana.\n2. Tamizar juntos los ingredientes secos y removerlos.\n3. Incorporar la avena y las pasas.\n4. Colocar cucharadas de masa en una bandeja para hornear ligeramente engrasada.\n5. Hornear a 180 °C durante unos 10 minutos.",
+  "url": null
+}

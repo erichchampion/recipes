@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-pudding",
+  "name": "Spicy Pudding",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "desserts",
+    "puddings",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/2 lb pitted dates",
+    "1 cup english walnuts",
+    "2 teaspoons baking powder",
+    "4 tablespoons flour",
+    "2 eggs",
+    "1/2 cup milk",
+    "3/4 cup sugar",
+    "1/2 teaspoon cinnamon",
+    "1/2 teaspoon allspice",
+    "1/2 teaspoon cloves"
+  ],
+  "recipeInstructions": "1. Beat the eggs.\n2. Add sugar, flour, spices, and milk. Mix together.\n3. Add dates and nuts.\n4. Place in a greased pan.\n5. Bake at 375°F for 25 minutes, then reduce temperature to 275°F and bake for an additional 15 minutes.\n6. Serve with whipped cream or vanilla ice cream.",
+  "url": null
+}

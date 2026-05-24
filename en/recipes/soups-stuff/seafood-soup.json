@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "seafood-soup",
+  "name": "Seafood Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "seafood",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 large Thin sliced onion",
+    "1 cup Chopped green onion & tops",
+    "3 cloves Garlic fine chopped",
+    "1/2 cup Fine chopped parsley",
+    "1 Bell pepper seeded and diced",
+    "3 cups Tomato sauce",
+    "1 cup Dry white wine",
+    "1 cup Water",
+    "1/4 tsp Thyme crushed",
+    "1/4 tsp Rosemary crushed",
+    "1 Tbsp Salt",
+    "1/4 tsp Fresh ground black pepper",
+    "1 Bay leaf",
+    "1 lb Crab/firm white fish cubed",
+    "1 lb Shrimp",
+    "6 Scallops/clams in the shell"
+  ],
+  "recipeInstructions": "1. Combine onions and garlic, cook covered over low heat until soft, stirring frequently.\n2. Stir in parsley, bell pepper, tomato sauce, wine, water, thyme, rosemary, salt, pepper, and bay leaf.\n3. Simmer, covered, for 1 hour.\n4. Add crab or white fish, shrimp, scallops, or clams.\n5. Cook covered for 8-10 minutes until scallops or clam shells open.\n6. Discard any shells that do not open.",
+  "url": null
+}

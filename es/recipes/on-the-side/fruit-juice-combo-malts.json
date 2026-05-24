@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-juice-combo-malts",
+  "name": "Jugo de frutas combinado con maltes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "frutas",
+    "niños",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de jugo de fruta (como piña-naranja-plátano)",
+    "1 litro de helado de vainilla",
+    "1/3 taza de polvo de leche maltada de vainilla"
+  ],
+  "recipeInstructions": "1. Combinar el jugo de fruta y el polvo de leche maltada de vainilla en una licuadora o procesador de alimentos.\n2. Mezclar a velocidad media, deteniéndose frecuentemente para raspar los lados hasta que el polvo de leche maltada se disuelva por completo.\n3. Añadir el helado de vainilla y continuar mezclando, deteniéndose para raspar los lados con frecuencia hasta obtener una textura suave.\n4. Servir inmediatamente. Rinde: 5 porciones.",
+  "url": null
+}

@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-escabeche",
+  "name": "Escabeche de pescado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "2 libras de filetes o lomos de pescado",
+    "Harina con sal para empanizar el pescado",
+    "1 pimiento rojo, en juliana",
+    "1 pimiento verde, en juliana",
+    "2 cebollas medianas, laminadas finamente",
+    "5 dientes de ajo, enteros",
+    "1 tomate, pelado y sin semillas",
+    "1 cucharadita de granos de pimienta",
+    "2 hojas de laurel",
+    "1 puerro, en juliana",
+    "1/3 taza de vinagre",
+    "1/3 taza de agua",
+    "2 zanahorias, en rodajas finas",
+    "1 cucharadita de azúcar",
+    "1/2 taza de aceite de oliva",
+    "Sal y pimienta molida al gusto",
+    "Jugo de limón"
+  ],
+  "recipeInstructions": "1. Enjuagar el pescado con jugo de limón, escurrir.\n2. Condimentar los filetes con sal y pimienta.\n3. Empanizar en harina mezclada con sal y freír en aceite caliente hasta dorar.\n4. Añadir los ingredientes restantes (incluido el aceite de oliva) a una sartén. Calentar y agregar las verduras, cocinar hasta que las cebollas estén tiernas.\n5. Verter el vinagre, agua y los ingredientes restantes (probar), llevar a ebullición y verter el líquido hirviendo sobre el pescado.\n6. Dejar enfriar al menos 24 horas antes de servir.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "alamo-chili",
+  "name": "Chili de Alamo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "plato principal",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne para estofar",
+    "1 cebolla mediana",
+    "1 lata de salsa de tomate",
+    "2 dientes de ajo",
+    "2 cucharadas de polvo de chile",
+    "2 chiles jalapeños",
+    "2 tazas de frijoles pintos",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Retire la grasa de la carne para estofar, córtela en trozos pequeños y dórela.\n2. Pica la cebolla y los chiles jalapeños.\n3. Machaca el ajo.\n4. Combina todos los ingredientes (excepto los frijoles) en una olla con agua y deja cocinar a fuego lento hasta que la carne esté tierna.\n5. Coloca los frijoles en otra olla con agua, hiérvelos y apaga el fuego. Deja reposar hasta que estén cocidos.\n6. Mezcla la carne cocida con los frijoles. Sazona con sal y pimienta al gusto.",
+  "url": null
+}

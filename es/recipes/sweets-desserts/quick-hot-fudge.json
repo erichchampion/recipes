@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-hot-fudge",
+  "name": "Fudge caliente rápido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulce de caramelo",
+    "chocolate",
+    "postres",
+    "fudge"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de cacao sin azúcar",
+    "1/2 taza de azúcar",
+    "1/3 taza de sirope de maíz ligero",
+    "1/2 taza de leche evaporada",
+    "1 cucharada de crema agria",
+    "4 cucharadas de mantequilla sin sal",
+    "1 pizca de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Combinar el cacao, azúcar, sirope de maíz, leche evaporada y crema agria en una cacerola pesada.\n2. Calentar a fuego medio, revolviendo constantemente, hasta que la mezcla comience a hervir.\n3. Retirar del fuego; agregar la mantequilla y el extracto de vainilla y revolver hasta integrar.\n4. Servir caliente. Rinde para 4 helados con caramelo grandes.",
+  "url": null
+}

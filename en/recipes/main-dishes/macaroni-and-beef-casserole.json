@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "macaroni-and-beef-casserole",
+  "name": "Macaroni and Beef Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "ground beef",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1/2 pound ground beef",
+    "1/2 pound bulk pork sausage",
+    "1 medium onion",
+    "6 oz tomato paste",
+    "1 cup water",
+    "1/2 teaspoon oregano",
+    "1/2 teaspoon salt",
+    "4 cups elbow macaroni, cooked",
+    "1 cup sharp cheddar cheese, shredded"
+  ],
+  "recipeInstructions": "1. In a 10-inch skillet, brown the beef, sausage and onion; drain fat.\n2. Add tomato paste, water, oregano and salt; simmer for 5 minutes.\n3. In a 2 1/2 quart casserole dish, layer half the macaroni, half the meat sauce and half the cheese.\n4. Repeat layers using remaining macaroni, meat sauce and cheese.\n5. Bake at 375 degrees F for 20 to 25 minutes.",
+  "url": null
+}

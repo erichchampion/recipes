@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-puffs",
+  "name": "Puffos de patata",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "patatas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 tazas de puré de patatas caliente",
+    "2 cucharadas de mantequilla",
+    "1/2 cucharadita de sal",
+    "1/8 cucharadita de pimienta negra molida",
+    "1/2 taza de nata para montar batida",
+    "1/3 taza de queso cheddar fuerte rallado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180°C.\n2. Batir las patatas con la mantequilla, la sal y la pimienta. Rellenar tres cuartos de moldes para flan engrasados con la mezcla de patatas.\n3. Mezclar la nata y el queso y extender sobre las patatas. Hornear hasta que estén doradas, unos 15 minutos.",
+  "url": null
+}

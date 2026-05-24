@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "caribbean-dipping-sauce",
+  "name": "Salsa de inmersión caribeña",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "caribeño",
+    "salsa",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "6 tazas de tomate concassado",
+    "2 tazas de cebolla picada",
+    "1/2 taza de azúcar moreno claro",
+    "1 cucharadita de sal kosher",
+    "1 taza de vinagre de malta",
+    "1 cucharadita de chile picante rojo"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una cacerola.\n2. Calentar a fuego medio hasta que la mezcla hierva.\n3. Reducir el calor y dejar cocinar a fuego lento, removiendo ocasionalmente, hasta que la mezcla se reduzca a la mitad.\n4. Apagar el fuego y dejar enfriar la salsa.\n5. Tapar bien y refrigerar.\n6. Servir a temperatura ambiente.",
+  "url": null
+}

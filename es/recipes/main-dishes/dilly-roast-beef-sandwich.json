@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "dilly-roast-beef-sandwich",
+  "name": "Sándwich de roast de ternera con eneldo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "comida para niños",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de queso crema ablandado",
+    "Una pizca de eneldo seco",
+    "Una pizca de polvo de ajo",
+    "Una pizca de pimienta negra",
+    "2 rebanadas de pan",
+    "2 rebanadas de roast beef cocido",
+    "3 rebanadas de tomate",
+    "Espinacas germinadas"
+  ],
+  "recipeInstructions": "1. Mezcla el queso crema, eneldo, polvo de ajo y pimienta en un bol pequeño.\n2. Extiende la mezcla sobre una rebanada de pan.\n3. Coloca las rebanadas restantes de pan, roast beef, tomate y espinacas germinadas encima de la capa de queso crema.\n4. Tapa con la otra rebanada de pan para completar el sándwich.",
+  "url": null
+}

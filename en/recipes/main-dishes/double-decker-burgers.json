@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "double-decker-burgers",
+  "name": "Double Decker Burgers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "2 lb ground beef",
+    "1/4 cup onion, finely chopped",
+    "2 eggs, beaten",
+    "2 tsp Worcestershire sauce",
+    "1 tsp salt",
+    "1/4 tsp pepper",
+    "1 1/2 cups cheddar cheese, shredded",
+    "3 tbsp mayonnaise",
+    "4 tsp dill pickle relish",
+    "4 tsp prepared mustard",
+    "shredded lettuce",
+    "6 onion slices",
+    "6 hamburger buns, split",
+    "6 tomato slices"
+  ],
+  "recipeInstructions": "1. In a large bowl, combine the first six ingredients; mix well.\n2. Shape into 12 thin patties.\n3. Broil 4 inches from the heat for 7-8 minutes on each side or until no longer pink.\n4. In a small bowl, combine cheese, mayonnaise, mustard and relish; mix well.\n5. Spoon 3 tablespoons on each burger.\n6. Return to the broiler just until cheese softens.\n7. Place lettuce and onion on bottom of buns; top each with two burgers, tomato and top of bun.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "sourdough-oatmeal-bread-abm",
+  "name": "Sourdough Oatmeal Bread ABM",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1/2 tbsp Yeast",
+    "3/4 cup Oats",
+    "2 1/4 cups Flour (bread)",
+    "1 tbsp Sugar",
+    "1/2 tbsp Salt",
+    "2 tbsp Oil",
+    "1 3/4 cups Sourdough Starter",
+    "2 tbsp Water"
+  ],
+  "recipeInstructions": "1. Bring all ingredients to room temperature.\n2. Pour the ingredients into the bread machine in the order specified by the manufacturer's instructions.\n3. Set the baking control to \"white bread\" and start the machine.\nNotes:\n- Tested successfully in DAK R2D2.\n- Sylvia's comments: The top cracked; try using less flour and more sourdough starter next time.\n- This is a very moist sourdough bread, according to Cathy.",
+  "url": null
+}

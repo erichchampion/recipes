@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cappuccino-2",
+  "name": "Cappuccino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "nueces",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "Café",
+    "Nata (crema de leche)",
+    "Canela en polvo",
+    "Nuez moscada molida",
+    "Azúcar."
+  ],
+  "recipeInstructions": "1. Prepara café y mézclalo con nata al gusto.\n2. Añade canela, nuez moscada y azúcar al gusto. Disfruta con tus invitados que pueden personalizar su bebida añadiendo azúcar, cáscaras de naranja, palos de canela, nuez moscada entera o rallada, cacao en polvo, e ideas creativas que se les ocurran.",
+  "url": null
+}

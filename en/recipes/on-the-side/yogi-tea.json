@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "yogi-tea",
+  "name": "Yogi Tea",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "side dishes",
+    "tea"
+  ],
+  "recipeIngredient": [
+    "2 liters water",
+    "1 large piece of cinnamon bark",
+    "2 cm piece of fresh ginger, chopped",
+    "2 cloves",
+    "5 black peppercorns",
+    "1/4 liter milk",
+    "1 dessertspoon black tea"
+  ],
+  "recipeInstructions": "1. Boil the water and add the cinnamon bark.\n2. Add the ginger, cloves, and peppercorns to the boiling water.\n3. Allow the mixture to cool slightly.\n4. Stir in 1/4 liter of milk.\n5. Reboil the mixture.\n6. Add the black tea and boil for an additional minute.\n7. Remove from heat and strain.\n8. Serve with honey if desired. The tea can be reheated using a microwave or another method.",
+  "url": null
+}

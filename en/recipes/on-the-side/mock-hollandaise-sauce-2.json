@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-hollandaise-sauce-2",
+  "name": "Mock Hollandaise Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "Juice of 1 lemon",
+    "2 tablespoons Butter",
+    "1 cup Mayonnaise"
+  ],
+  "recipeInstructions": "1. Melt butter in a saucepan over low heat.\n2. Add lemon juice, salt, and white pepper to the melted butter.\n3. Stir in mayonnaise until well combined.\n4. Heat the mixture gently until warmed through.\n5. Serve immediately on vegetables.\n6. Garnish with paprika.",
+  "url": null
+}

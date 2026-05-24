@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-pudding",
+  "name": "Apple Pudding",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "breads",
+    "desserts",
+    "muffins",
+    "puddings",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup sugar",
+    "1/4 cup shortening",
+    "2 medium eggs",
+    "1 cup flour",
+    "1 teaspoon nutmeg",
+    "1/2 teaspoon cinnamon",
+    "2 cups apples, peeled and diced",
+    "1 cup walnuts, chopped",
+    "1 teaspoon baking soda",
+    "1/8 cup hot water"
+  ],
+  "recipeInstructions": "1. Mix together the sugar and shortening until crumbly.\n2. Add eggs and mix at low speed until blended.\n3. Stir together flour, nutmeg, and cinnamon; add to sugar mixture, blending well.\n4. Stir in apples and walnuts until all coated completely.\n5. Dissolve baking soda in hot water and stir into batter.\n6. Pour into a greased and floured square baking dish and bake at 375°F until a knife inserted near the center comes out clean - approximately 35 to 45 minutes.",
+  "url": null
+}

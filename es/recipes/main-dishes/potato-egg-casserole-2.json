@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-egg-casserole-2",
+  "name": "Casserola de Patatas y Huevos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "4 patatas medianas",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1/4 cucharadita de nuez moscada",
+    "3 cucharadas de grasa de panceta",
+    "1/2 taza de queso americano rallado",
+    "4 huevos",
+    "3/4 taza de leche evaporada sin diluir"
+  ],
+  "recipeInstructions": "1. Pelar y cortar las patatas en rodajas finas.\n2. Espolvorear las rodajas de patata con sal, pimienta y nuez moscada.\n3. Calentar la grasa de panceta en una sartén a fuego medio. Añadir las patatas y cocinar, removiendo con frecuencia, hasta que estén doradas y tiernas.\n4. Transferir las patatas cocidas a un molde para hornear de 1 litro engrasado. Espolvorear uniformemente con el queso rallado.\n5. Romper cuidadosamente los huevos sobre el queso. Cubrir con leche evaporada.\n6. Hornear en horno precalentado a 350°F durante 15-20 minutos, o hasta que los huevos estén cuajados.\n7. Servir inmediatamente.",
+  "url": null
+}

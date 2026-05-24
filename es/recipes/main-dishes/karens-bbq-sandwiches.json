@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "karens-bbq-sandwiches",
+  "name": "Sándwiches BBQ de Karen",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "3 libras de hamburguesa, cocida y escurrida",
+    "1/2 cebolla, picada",
+    "1 cucharadita de polvo de ajo",
+    "1 taza de salsa de tomate",
+    "1/4 taza de azúcar moreno",
+    "1 cucharadita de mostaza",
+    "3 cucharadas de especias BBQ"
+  ],
+  "recipeInstructions": "1. Cocinar y desmenuzar la carne.\n2. Agregar la carne desmenuzada a una olla de cocción lenta con los ingredientes restantes: cebolla picada, polvo de ajo, salsa de tomate, azúcar moreno, mostaza y especias BBQ.\n3. Encender la olla de cocción lenta a temperatura alta y dejar hervir hasta que la mezcla comience a calentarse.\n4. Reducir la temperatura a baja y dejar la mezcla en la olla de cocción lenta durante todo el día.\n5. Servir la carne cocida con la mezcla sobre pan o bollos, con queso. También se puede usar salsa BBQ embotellada si se desea.",
+  "url": null
+}

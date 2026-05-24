@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "traditional-scotch-broth",
+  "name": "Caldo Escocés Tradicional",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "etnica",
+    "escocesa",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "1 lb de cuello de cordero o carne de res",
+    "2 litros de agua fría",
+    "1 cucharadita de sal",
+    "2 cucharadas de cebada perlada",
+    "2 cucharadas de guisantes amarillos partidos",
+    "2 cucharadas de guisantes secos verdes",
+    "2 zanahorias medianas, picadas",
+    "2 ajos tiernos",
+    "3 cucharadas de rutabaga picada",
+    "1 cebolla mediana",
+    "1/2 repollo pequeño",
+    "1 cucharada de perejil picado"
+  ],
+  "recipeInstructions": "Sazonar con sal y pimienta al gusto.\nColocar la carne, el agua, la sal y la cebada perlada lavada en una olla grande. Llevar a ebullición muy lentamente y escurrir. Picar los vegetales y lavar y rallar el repollo. Agregarlos a la olla. Llevar de nuevo a ebullición y cocinar a fuego muy bajo hasta que la carne esté tierna y los guisantes estén suaves - aproximadamente dos horas. Añadir el perejil y sazonar con sal y pimienta al gusto.",
+  "url": null
+}

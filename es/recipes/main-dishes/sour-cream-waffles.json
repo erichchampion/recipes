@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "sour-cream-waffles",
+  "name": "Waffles de crema agria",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "plato principal",
+    "gofres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina de uso común",
+    "2 1/2 cucharaditas de polvo de hornear",
+    "3/4 cucharadita de bicarbonato de sodio",
+    "1/2 cucharadita de sal",
+    "1 cucharada de azúcar",
+    "1 1/2 cucharadas de azúcar",
+    "4 huevos, separados en yemas y claras",
+    "1 taza de crema agria",
+    "1 1/2 tazas de leche",
+    "3/4 taza de mantequilla dulce derretida",
+    "2 cucharadas de mantequilla derretida (o aceite)"
+  ],
+  "recipeInstructions": "1. Cernir juntos todos los ingredientes secos.\n2. En un bol aparte, batir las yemas de huevo, la crema agria, la leche y la mantequilla derretida (o aceite).\n3. Incorporar la mezcla húmeda a la seca y mezclar hasta combinarlos bien.\n4. Batir las claras de huevo hasta que estén firmes y plegarlas suavemente en la masa.\n5. Cocinar en una gofrera precalentada.",
+  "url": null
+}

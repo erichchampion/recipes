@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegi-spagetti",
+  "name": "Vegi Spagetti",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "1 medium Green pepper, chopped",
+    "1 medium Zucchini, cubed",
+    "1 small Onion, diced",
+    "8 oz Fresh mushrooms, sliced",
+    "2/3 cup Grated parmesan cheese",
+    "1 large Jar spaghetti sauce",
+    "1/4 cup Sliced olives",
+    "1 t Oregano",
+    "1 t Garlic salt",
+    "16 oz Pack of spinach noodles"
+  ],
+  "recipeInstructions": "1. Place all ingredients except the spinach noodles in a slow cooker.\n2. Cook on medium for 6-8 hours.\n3. Pour the contents over the cooked spinach noodles.",
+  "url": null
+}

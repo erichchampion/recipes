@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-salad",
+  "name": "Fruit Salad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "fruit",
+    "salads"
+  ],
+  "recipeIngredient": [
+    "2 cut up apples",
+    "3 cut up pears",
+    "1 cut up orange",
+    "seedless grapes cut in half",
+    "1 can crushed/tidbit pineapple",
+    "2 cut up peaches",
+    "1/2 cup sugar, optional",
+    "non-dairy whipped topping",
+    "thawed sliced bananas"
+  ],
+  "recipeInstructions": "1. Mix the chopped apples, pears, orange, halved grapes, crushed pineapple, and peaches together.\n2. If using, add the sugar to the fruit mixture.\n3. Spoon the non-dairy whipped topping over the fruit salad.\n4. Top with sliced bananas.",
+  "url": null
+}

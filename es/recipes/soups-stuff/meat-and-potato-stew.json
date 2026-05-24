@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "meat-and-potato-stew",
+  "name": "Estofado de Carne y Patatas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "italiana",
+    "plato principal",
+    "papas",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "2 1/2 lb de solomillo o carne de res redonda superior, cortada en cubos de 1 pulgada",
+    "6 oz de pasta de tomate en lata",
+    "8 grandes patatas blancas, cortadas en cuartos",
+    "1/4 taza de aceite de oliva",
+    "1/2 taza de orégano",
+    "1/2 taza de vino rojo o blanco",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una olla de 6 litros.\n2. Agregar la carne, sal, pimienta y orégano. Dorar la carne bien.\n3. Incorporar pasta de tomate, vino y agua hasta que la carne esté casi cubierta.\n4. Mezclar todo hasta que la salsa espese ligeramente.\n5. Reducir el fuego y cocinar a fuego lento durante 45 minutos.\n6. Añadir las patatas y cocinar a fuego lento hasta que estén tiernas, removiendo ocasionalmente, unos 15-20 minutos.\n7. Servir caliente con pan italiano fresco.",
+  "url": null
+}

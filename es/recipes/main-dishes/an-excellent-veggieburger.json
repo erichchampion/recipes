@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "an-excellent-veggieburger",
+  "name": "Un Excelente Vegiburguer",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "agosto",
+    "hamburguesas",
+    "plato principal",
+    "verduras",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 taza de nueces",
+    "1 1/2 tazas de arroz cocido",
+    "1 cebolla",
+    "2 cucharadas de trozos de tocino",
+    "2 cucharadas de salsa barbacoa",
+    "Sal al gusto",
+    "Pimienta negra al gusto",
+    "Polvo de ajo al gusto",
+    "Harina según sea necesario"
+  ],
+  "recipeInstructions": "1. Mezcla las nueces, arroz cocido, trozos de tocino, salsa barbacoa, sal, pimienta negra y polvo de ajo hasta obtener una pasta.\n2. Sofríe la cebolla hasta que esté tierna.\n3. Añade la cebolla sofrita a la mezcla junto con suficiente harina para formar una masa manejable.\n4. Forma la mezcla en hamburguesas y espolvoréalas con harina por fuera de cada una.\n5. Refrigera al menos durante una hora.\n6. Fríe, asa o hornea las hamburguesas (se mantienen juntas bien a la parrilla, un poco crujientes como un hamburguesa real).\n7. Sirve con salsa barbacoa extra en un panecillo, con cebolla, lechuga, tomate u otros ingredientes que prefieras. Rinde 6 porciones.",
+  "url": null
+}

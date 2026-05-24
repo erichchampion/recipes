@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "enchiladas",
+  "name": "Enchiladas",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "american",
+    "ethnic",
+    "mexican"
+  ],
+  "recipeIngredient": [
+    "2 cups Ricotta",
+    "1 cup Green onion",
+    "1 teaspoon Cumin",
+    "8 Tortillas",
+    "2 cups Cheddar",
+    "1 Egg",
+    "2 tablespoons Chilies, chopped",
+    "1 cup Jack Cheese",
+    "10 ounces Enchilada sauce"
+  ],
+  "recipeInstructions": "1. Stir together the first six ingredients in a bowl.\n2. Fill each tortilla with the mixture.\n3. Place the filled tortillas in a greased 8 x 12 glass baking dish.\n4. Pour the enchilada sauce over the top of the tortillas.\n5. Microwave on high for 11 to 13 minutes, rotating the dish halfway through cooking.\n6. Sprinkle the cheddar cheese evenly over the top and cook for an additional 1 to 2 minutes.",
+  "url": null
+}

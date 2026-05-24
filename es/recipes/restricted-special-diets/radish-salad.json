@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "radish-salad",
+  "name": "Ensalada de Remolacha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "ensaladas",
+    "dietas especiales"
+  ],
+  "recipeIngredient": [
+    "1 cucharadita Sal",
+    "1 cucharadita Ajo en polvo",
+    "1 cucharada Mostaza dijon",
+    "1 cucharada Vinagre de vino",
+    "2 cucharadas Manteca líquida",
+    "2 cucharaditas Jugo de limón",
+    "1/2 cabeza Lechuga iceberg",
+    "1 manojo Remolachas rojas"
+  ],
+  "recipeInstructions": "1. Combinar sal, ajo en polvo, mostaza dijon, vinagre, manteca líquida y jugo de limón en un frasco con tapa roscada. Agitar para mezclar el aderezo.\n2. Picar groseramente la acedera, la lechuga y las remolachas.\n3. Colocar los vegetales picados en una ensaladera.\n4. Añadir el aderezo y mezclar hasta que esté bien integrado.",
+  "url": null
+}

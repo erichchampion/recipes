@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "lettuce-soup",
+  "name": "Sopa de Lechuga",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas Cebolla; picada finamente",
+    "1 cucharada Mantequilla",
+    "1 cucharada Harina",
+    "1/2 cucharadita Sal",
+    "1/4 cucharadita Nuez moscada",
+    "Una pizca Pimienta negra",
+    "4 Cubos de caldo de pollo",
+    "3 tazas y media Agua hirviendo",
+    "1 Lechuga mediana; picada",
+    "1 Yema de huevo; ligeramente batida",
+    "1/2 taza Crema batida"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla en mantequilla hasta que esté dorada suavemente.\n2. Añadir harina, sal, nuez moscada y pimienta. Mezclar bien.\n3. Disolver los cubos de caldo en el agua hirviendo y agregar lentamente a la mezcla de cebolla.\n4. Cocinar a fuego medio durante unos minutos hasta que espese.\n5. Incorporar la lechuga, tapar y dejar cocer durante 3 minutos.\n6. Mezclar la yema de huevo con la crema batida.\n7. Verter 1/4 taza de sopa en la mezcla de huevo y crema.\n8. Añadir esta mezcla a la sopa, removiendo constantemente.\n9. Cocinar a fuego bajo hasta que hierva suavemente.\n10. Retirar del fuego y servir inmediatamente.",
+  "url": null
+}

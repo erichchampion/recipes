@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fillings-for-savory-strudel",
+  "name": "Rellenos para Strudel Salado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "5 patatas medianas",
+    "3 cebollas medianas, picadas",
+    "3 cucharadas de aceite",
+    "Sal y pimienta al gusto",
+    "Nuez moscada al gusto",
+    "1 taza de ricota o queso de granja o casero",
+    "2 cucharadas de cebolla verde picada",
+    "1 huevo"
+  ],
+  "recipeInstructions": "Relleno de patata:\n1. Saltear las cebollas en aceite hasta que estén doradas y crujientes.\n2. Cocinar las patatas con su piel. Pelarlas una vez que estén lo suficientemente frías como para manipularlas.\n3. Machacar las patatas y mezclar con las cebollas y las especias.\nRelleno de queso:\n1. Desmenuzar el queso con un tenedor.\n2. Mezclar con el resto de ingredientes.",
+  "url": null
+}

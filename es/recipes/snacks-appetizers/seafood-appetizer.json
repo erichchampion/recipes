@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "seafood-appetizer",
+  "name": "Aperitivo de mariscos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "mariscos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "6 oz de filete de bacalao",
+    "12 grandes escamas de mar",
+    "8 camarones jumbo enteros",
+    "1/2 taza de vino blanco",
+    "2 cucharadas de migas de pan sazonadas",
+    "2 cucharadas de perejil fresco picado",
+    "2 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. Cortar el bacalao en cuatro rebanadas y colocar una rebanada en cada uno de cuatro caparrones con mantequilla.\n2. Arreglar los camarones y las escamas de mar alrededor del bacalao.\n3. Verter vino blanco sobre el pescado.\n4. Espolvorear con migas de pan y perejil picado.\n5. Untar con mantequilla.\n6. Hornear a 200 °C durante 15 minutos, o hasta que el pescado se desmenuce.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "meat-loaf",
+  "name": "Meat Loaf",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "meatloaf"
+  ],
+  "recipeIngredient": [
+    "1 lb ground beef",
+    "1 egg, beaten",
+    "1 cup corn flakes",
+    "1 cup tomato juice",
+    "1/2 lb ground pork",
+    "1 cup bread crumbs, softened in milk",
+    "1 cup milk",
+    "1 medium onion, chopped",
+    "2 slices bacon"
+  ],
+  "recipeInstructions": "1. In a large bowl, combine the ground beef and ground pork.\n2. Add the beaten egg, softened bread crumbs mixed with milk, corn flakes, chopped onion, and tomato juice to the bowl.\n3. Mix until all ingredients are well incorporated.\n4. Shape the mixture into a loaf and place it in a greased baking pan.\n5. Top the loaf with the bacon slices and pour any remaining tomato juice over the top.\n6. Bake at 350°F for 1 to 1 1/2 hours, or until the internal temperature reaches 160°F.\n7. Turn off the oven when the meat is cooked through and allow it to rest for 10 minutes before slicing and serving.",
+  "url": null
+}

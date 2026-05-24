@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "richest-pound-cake",
+  "name": "El pastel más rico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de azúcar",
+    "1 taza de Crisco con sabor a mantequilla",
+    "7 huevos",
+    "3 tazas de harina",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Batir el azúcar y el Crisco hasta obtener una mezcla suave.\n2. Agregar los huevos uno a uno, batiendo bien después de cada adición.\n3. Incorporar gradualmente la harina, mezclando continuamente.\n4. Añadir el extracto de vainilla.\n5. Verter la masa en un molde para pastel engrasado y enharinado.\n6. Hornear durante aproximadamente una hora a 250-300 grados Fahrenheit.",
+  "url": null
+}

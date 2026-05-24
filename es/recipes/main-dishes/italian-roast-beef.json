@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-roast-beef",
+  "name": "Roast de ternera italiano",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "4 libras de solomillo de res",
+    "2 cebollas",
+    "2 dientes de ajo",
+    "1 tallo de apio",
+    "2 onzas de panceta o tocino"
+  ],
+  "recipeInstructions": "1. Retirar toda la grasa excesiva del corte.\n2. Picar finamente 1 cebolla, el ajo, el apio y la panceta.\n3. Espolvorear el solomillo con harina; masajear con la mezcla picada.\n4. Cortar en rodajas la cebolla restante y colocarla en una olla de cocción lenta.\n5. Colocar el solomillo sobre las cebollas.\n6. Tapar y cocinar a fuego lento durante 10-12 horas.",
+  "url": null
+}

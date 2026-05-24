@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheddar-tomato-soup",
+  "name": "Sopa de Tomate y Queso Cheddar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "queso",
+    "sopas",
+    "sopas y estofados"
+  ],
+  "recipeIngredient": [
+    "12 tomates frescos enteros",
+    "2 cebollas pequeñas picadas",
+    "1/2 taza de apio picado",
+    "1 taza de caldo de pollo",
+    "1 taza de crema",
+    "1 cucharadita de orégano seco",
+    "sal",
+    "pimienta negra",
+    "8 onzas de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Mezcla los tomates, las cebollas y el apio en una licuadora hasta obtener un picado grosero.\n2. Vierte la mezcla en una olla grande, agrega el caldo de pollo y lleva a ebullición a fuego medio.\n3. Cocina sin cubrir durante 20 minutos.\n4. Añade la crema. Sazona con orégano, sal y pimienta.\n5. Cocina a fuego muy bajo durante 5 minutos.\n6. Incorpora el queso y cocina, revolviendo constantemente, hasta que se derrita.\n7. Sirve inmediatamente.",
+  "url": null
+}

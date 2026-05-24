@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fiesta-appetizers",
+  "name": "Aperitivos de fiesta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "carne picada",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "500 g de carne molida",
+    "500 g de salchicha en granel",
+    "1 cebolla mediana, picada",
+    "400 g de queso Velveeta estilo mexicano, cortado en cubos",
+    "1 cucharada de salsa Worcestershire",
+    "1 cucharadita de orégano seco",
+    "Sal y pimienta al gusto",
+    "Pan de centeno para fiesta"
+  ],
+  "recipeInstructions": "1. Dorar la carne, la salchicha y la cebolla hasta que la cebolla esté tierna. Escurrir el exceso de grasa.\n2. Incorporar los ingredientes restantes (salsa Worcestershire, orégano, sal y pimienta) excepto el pan.\n3. Untar cada rebanada de pan con aproximadamente 1 cucharada de la mezcla.\n4. Grillar hasta que estén calientes y burbujeantes. Los aperitivos se pueden congelar y grillar sin descongelar primero.",
+  "url": null
+}

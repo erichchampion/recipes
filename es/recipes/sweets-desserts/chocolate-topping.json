@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-topping",
+  "name": "Cobertura de chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "postres",
+    "diabético",
+    "glaseado"
+  ],
+  "recipeIngredient": [
+    "3 tazas de leche desnatada",
+    "2 onzas de chocolate para hornear",
+    "3 cucharadas de maicena",
+    "1/2 taza de edulcorante en polvo",
+    "1 cucharadita de sal",
+    "2 cucharadas de mantequilla",
+    "2 cucharaditas de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Mezcla la leche, el chocolate para hornear, la maicena, el edulcorante y la sal en una cacerola.\n2. Lleva a ebullición a fuego medio, removiendo ocasionalmente.\n3. Hierve durante 2 a 3 minutos hasta que espese.\n4. Retira del fuego y añade la mantequilla y el extracto de vainilla, mezclando bien.",
+  "url": null
+}

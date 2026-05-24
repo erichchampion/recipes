@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "hortosoupa-1",
+  "name": "Sopa de verduras 1",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "griego",
+    "sopas/estofados",
+    "dietas especiales",
+    "vegano",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "340 g de tomates frescos picados",
+    "1 patata mediana, cortada en dados",
+    "1 zanahoria, cortada en dados",
+    "55 g de repollo rojo o blanco picado",
+    "1 cebolla mediana, picada",
+    "100 ml de aceite de oliva",
+    "Sal marina",
+    "Pimienta negra"
+  ],
+  "recipeInstructions": "1. Coloca los tomates frescos picados en una sartén con 500 ml de agua fría.\n2. Lleva a ebullición y cocina durante 30 minutos.\n3. Añade la patata, la zanahoria, el repollo y la cebolla picada.\n4. Vierte el aceite de oliva y sazona con sal marina y pimienta negra.\n5. Cocina durante 45-60 minutos adicionales o hasta que las verduras estén tiernas.\n6. Sirve caliente.",
+  "url": null
+}

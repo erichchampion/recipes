@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "exchanges-for-special-foods-vegetarian",
+  "name": "Intercambios para Alimentos Especiales (Vegetariano)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "diabetico",
+    "sugerencias",
+    "variado"
+  ],
+  "recipeIngredient": [
+    "Levadura de cervecero - 3 cucharadas = 1 intercambio de pan",
+    "Harina de carob - 1/8 taza = 1 intercambio de pan",
+    "Kefir - 1 taza = 1 intercambio de leche + 1 intercambio de grasa",
+    "Miso - 3 cucharadas = 1 intercambio de pan + 1/2 intercambio de carne magra",
+    "Algas marinas cocidas - 1/2 taza = 1 intercambio de verdura",
+    "Harina de soja - 1/4 taza = 1 intercambio de carne magra + 1/2 intercambio de pan",
+    "Granos de soja crudos - 1/8 taza = 1 intercambio de carne magra",
+    "Leche de soja - 1 taza = 1 intercambio de leche + 1 intercambio de grasa",
+    "Tahini - 1 cucharadita = 1 intercambio de grasa",
+    "Tempeh - 4 onzas = 1 intercambio de pan + 2 intercambios de proteína",
+    "Germen de trigo - 3 cucharadas = 1/2 intercambio de pan"
+  ],
+  "recipeInstructions": "Para vegetarianos, trata las legumbres como 1/2 intercambio de proteína y 1 intercambio de pan en lugar de solo un intercambio de pan. Considera usar recetas de bajo contenido graso y alto fibra para asegurar una nutrición equilibrada.",
+  "url": null
+}

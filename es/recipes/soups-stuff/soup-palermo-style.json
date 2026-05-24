@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "soup-palermo-style",
+  "name": "Sopa al estilo de Palermo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "frijoles",
+    "italiana",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de frijoles secos (renuecos o lentejas)",
+    "1 tallo de apio, picado",
+    "1 taza de arroz crudo, enjuagado",
+    "1/2 lb de castañas secas, peladas",
+    "1 cebolla pequeña, picada",
+    "4 cucharadas de aceite de oliva",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Remojar los frijoles y las castañas durante la noche y escurrir.\n2. Colocar los frijoles y las castañas en una olla grande con 3 cuartos de agua fría.\n3. Añadir el apio y la cebolla picados.\n4. Cocinar a fuego lento hasta que los frijoles y las castañas estén tiernos (aproximadamente 1 hora y 30 minutos).\n5. Incorporar el arroz enjuagado, el aceite de oliva y las especias.\n6. Revolver constantemente con una cuchara de madera hasta que el arroz esté tierno (aproximadamente 20 minutos). Añadir agua si es necesario mientras se absorbe.\n7. Servir inmediatamente.",
+  "url": null
+}

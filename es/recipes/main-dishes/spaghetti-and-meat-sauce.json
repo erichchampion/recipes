@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-and-meat-sauce",
+  "name": "Spagueti con salsa de carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1/2 taza de caldo de pollo",
+    "1/2 lb de salchicha italiana picante en trozos",
+    "8 oz de setas frescas cortadas",
+    "1 cebolla grande, picada",
+    "1 c.c. de especias italianas",
+    "1 diente de ajo, picado",
+    "1 c.c. de sal sazonada",
+    "28 oz de tomates",
+    "1 hoja de laurel",
+    "6 oz de pasta de tomate",
+    "1 lb de espaguetis crudos"
+  ],
+  "recipeInstructions": "1. En una olla holandesa, cocina la carne molida y la salchicha hasta que esté dorada.\n2. Añade las cebollas picadas y el ajo, y sofríe hasta que estén tiernas.\n3. Incorpora el caldo de pollo, las especias italianas y la sal sazonada.\n4. Agrega las setas cortadas, los tomates, la hoja de laurel y la pasta de tomate.\n5. Reduce el fuego y deja cocinar a fuego lento durante 30 minutos.\n6. Cocina los espaguetis según las instrucciones del paquete.\n7. Escurre la pasta y sirve con queso parmesano rallado por encima.",
+  "url": null
+}

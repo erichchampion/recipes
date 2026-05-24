@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-super-baked-beans",
+  "name": "My Super Baked Beans",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "beans",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "1 lb White pea beans",
+    "1 Onion, chopped finely",
+    "1 1/2 tsp Salt",
+    "2 tsp Cider vinegar",
+    "1/2 tsp Mustard powder",
+    "1/4 cup Molasses",
+    "1 tbsp Brown sugar",
+    "1/2 cup Ketchup",
+    "1 Pepper",
+    "1 Stock"
+  ],
+  "recipeInstructions": "1. Soak the beans overnight.\n2. Bring to a boil and simmer for 30 minutes. Drain and keep the stock.\n3. Put the beans and everything except the stock in a casserole or bean crock.\n4. Add hot stock to cover and mix well.\n5. Bake at 450°F for 4 hours.\n6. Remove 1 cup of beans and mash well.\n7. Return the mashed beans to the crock and continue cooking for 3 more hours.",
+  "url": null
+}

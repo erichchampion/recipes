@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "sazerac",
+  "name": "Sazerac",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "essence of emeril",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 ounces whiskey or rye",
+    "1/3 ounce simple syrup",
+    "4 ounces Peychaud bitters",
+    "2 ounces Angostura bitters",
+    "Lemon twist"
+  ],
+  "recipeInstructions": "1. In a 9-ounce glass, swirl a few drops of Herbsaint until the glass is coated; discard any excess.\n2. In a cocktail shaker, combine whiskey (or rye), simple syrup, and both bitters. Fill with ice cubes.\n3. Shake vigorously until chilled.\n4. Strain into the prepared glass.\n5. Serve garnished with lemon twist.",
+  "url": null
+}

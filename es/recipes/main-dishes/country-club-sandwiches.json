@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "country-club-sandwiches",
+  "name": "Sándwiches del Club Campesino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "4 huevos cocidos duros, picados",
+    "1/2 taza de apio, finamente picado",
+    "1 cucharada de perejil picado",
+    "1/2 cucharadita de pimiento verde picado",
+    "1/4 cucharadita de sal",
+    "1/8 cucharadita de pimienta",
+    "1/3 taza de mayonesa",
+    "12 rebanadas de pan tostado",
+    "8 rebanadas de tocino crujiente",
+    "2 tomates, en rodajas",
+    "4 hojas de lechuga"
+  ],
+  "recipeInstructions": "1. Mezclar en un bol los huevos picados, apio, perejil, pimiento verde, sal y pimienta.\n2. Incorporar suavemente la mayonesa hasta obtener una mezcla homogénea.\n3. Untar 1/3 de la mezcla de ensalada de huevo sobre 4 rebanadas de pan tostado.\n4. Cubrir cada rebanada con otra rebanada de pan tostado, y luego añadir dos rodajas de tomate, dos tiras de tocino y una hoja de lechuga.\n5. Cortar en cuatro triángulos.",
+  "url": null
+}

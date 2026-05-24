@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegi-spagetti",
+  "name": "Espaguetis Veganos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento"
+  ],
+  "recipeIngredient": [
+    "1 pimiento verde, picado",
+    "1 calabacín, cortado en cubos",
+    "1 cebolla pequeña, picada",
+    "8 onzas de setas frescas, laminadas",
+    "2/3 taza de queso parmesano rallado",
+    "1 frasco grande de salsa de espagueti",
+    "1/4 taza de aceitunas cortadas",
+    "1 cucharadita de orégano",
+    "1 cucharadita de sal de ajo",
+    "16 onzas de espinacas en forma de pasta"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes excepto las espinacas en forma de pasta en una olla de cocción lenta.\n2. Cocina a fuego medio durante 6-8 horas.\n3. Vierte el contenido sobre los espaguetis de espinaca cocidos.",
+  "url": null
+}

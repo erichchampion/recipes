@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "sharon-s-lasagne",
+  "name": "Lasaña de Sharon",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiana",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "MEZCLA DE CARNE:",
+    "2 libras de carne molida de res",
+    "1 1/2 cucharaditas de orégano",
+    "1 cucharadita de albahaca",
+    "2 latas de puré de tomate",
+    "1 cebolla mediana picada",
+    "Sal y pimienta al gusto",
+    "1 lata de tomates picados",
+    "MEZCLA DE QUESO:",
+    "1 litro de queso cottage",
+    "1 1/2 litros de ricota",
+    "4 onzas de mozzarella rallada",
+    "2 huevos",
+    "1/2 taza de parmesano rallado",
+    "3 cucharadas de perejil"
+  ],
+  "recipeInstructions": "- COMO PREPARARLO:\n- Cocinar y escurrir las láminas de lasaña. Dorar la mezcla de carne hasta que esté bien cocida. Agregar las especias (orégano, albahaca, sal y pimienta) y los tomates con el puré de tomate. Dejar cocinar a fuego lento durante 30 minutos.\n- En un bol aparte, mezclar la mezcla de queso. Alternar capas de láminas de lasaña, mitad de la mezcla de carne, todo el queso, otra capa de láminas y el resto de la mezcla de carne. Cubrir con mozzarella rallada y espolvorear parmesano por encima.\n- Hornear a 175 °C durante 30 minutos. Dejar reposar 15 minutos antes de servir.",
+  "url": null
+}

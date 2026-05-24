@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-parmigiana",
+  "name": "Mock Parmigiana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "burgers",
+    "italian",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "4 lb Ground beef",
+    "4 Eggs",
+    "Seasoning Salt to taste",
+    "Onion Salt to taste",
+    "Black pepper to taste",
+    "1 1/2 cups Seasoned Bread Crumbs (I use)",
+    "1/3 cup Grated Parmesan cheese",
+    "Sauce:",
+    "3 small Cans Tomato sauce",
+    "Spaghetti seasoning to taste",
+    "Onion salt to taste",
+    "1 d Worcestershire sauce",
+    "1 Large Onion, sliced",
+    "8 oz Mushrooms, drained",
+    "2 cups Mozzarella cheese, shredded"
+  ],
+  "recipeInstructions": "Serves: 8\nCombine the first seven ingredients and shape into patties.\nSet aside. To make sauce, sauté onion slices in 3 tablespoons butter or margarine until soft. Add remaining ingredients for sauce. Place patties in a large baking pan in a single layer and pour sauce over. Cover pan with aluminum foil and bake at 375°F for one hour. After baking, remove the foil, sprinkle each patty generously with the Mozzarella cheese, and return to oven until cheese is melted.",
+  "url": null
+}

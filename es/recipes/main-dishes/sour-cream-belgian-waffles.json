@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "sour-cream-belgian-waffles",
+  "name": "Waffles belgas con crema agria",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "gofres"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de mantequilla derretida",
+    "1 taza de leche",
+    "1 1/2 cucharaditas de extracto de vainilla",
+    "1 taza de crema agria",
+    "2 huevos",
+    "1 cucharada de polvo de hornear",
+    "2 cucharadas de azúcar",
+    "1 1/2 tazas de harina"
+  ],
+  "recipeInstructions": "1. Mezcla la mantequilla, la leche, el extracto de vainilla, el azúcar, los huevos batidos y la crema agria. Si deseas tortas más ligeras, bate las claras hasta que estén firmes y mézclalas por separado con las yemas.\n2. Agrega gradualmente los ingredientes secos a la mezcla húmeda.\n3. Calienta la plancha para tortas belgas y cocina hasta que estén doradas, aproximadamente 3/4 a 1 taza por torta.",
+  "url": null
+}

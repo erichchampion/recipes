@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "grilled-vegetable-soup-from-my-garden",
+  "name": "Grilled Vegetable Soup (from My Garden)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "8 tomatoes",
+    "2 red onions, sliced",
+    "2 zucchini, sliced",
+    "2 yellow squash, sliced",
+    "3 red peppers, roasted and peeled",
+    "2 cloves garlic, chopped",
+    "Salt",
+    "Pepper",
+    "Juice of one lemon",
+    "2 tablespoons rosemary, chopped"
+  ],
+  "recipeInstructions": "1. Grill all vegetables except garlic.\n2. In a food processor, place the remaining ingredients (except 1/2 cup of vegetables) and process until smooth.\n3. Season with salt, pepper, lemon juice, and chopped rosemary.\n4. Dice the remaining 1/2 cup of vegetables.\n5. Serve hot or cold, sprinkling the diced vegetables on top.",
+  "url": null
+}

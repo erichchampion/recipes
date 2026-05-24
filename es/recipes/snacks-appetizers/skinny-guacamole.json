@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "skinny-guacamole",
+  "name": "Guacamole ligero",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempies"
+  ],
+  "recipeIngredient": [
+    "2 tomatillos pequeños, pelados, enjuagados y cortados en cuartos",
+    "1 diente de ajo",
+    "1/4 taza de pimientos verdes enlatados (usé Ortega)",
+    "3 ramitas de cilantro",
+    "1 aguacate, pelado, deshuesado y cortado en varios trozos",
+    "3 cucharadas de crema agria sin grasa",
+    "sal y pimienta al gusto",
+    "jugo de lima al gusto",
+    "1/4 taza de cebolla, picada",
+    "1/3 taza de tomate fresco, picado",
+    "salsa picante al gusto"
+  ],
+  "recipeInstructions": "1. En un licuadora o procesador de alimentos, mezcle los tomatillos con el ajo, los chiles y el cilantro hasta obtener una pasta.\n2. Agregue el aguacate y la crema agria, mezclando solo lo suficiente para combinar.\n3. Sazone al gusto con sal, pimienta, salsa picante y jugo de lima.\n4. Incorpore a mano la cebolla y el tomate.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-lemonade",
+  "name": "Basic Lemonade",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "lemonade",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2-1/2 Quarts",
+    "6 Lemons",
+    "1 cup Sugar",
+    "8 cups Ice Water",
+    "1 cup Boiling Water"
+  ],
+  "recipeInstructions": "1. Squeeze juice from the lemons into a bowl. Set aside the lemon rinds.\n2. Strain the lemon juice into a large pitcher.\n3. Add sugar and ice water to the pitcher; stir until the sugar is dissolved.\n4. Set aside the mixture.\n5. Place the lemon rinds in a bowl and add boiling water. Let stand until the water is cold.\n6. Discard the lemon rinds.\n7. Add the remaining water to the pitcher and stir well.\n8. Refrigerate until well chilled.",
+  "url": null
+}

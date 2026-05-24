@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mushroom-and-onion-spaghetti",
+  "name": "Espaguetis con setas y cebolla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "fácil",
+    "plato principal",
+    "pasta",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "3 oz de setas, laminadas",
+    "3 oz de cebollas, laminadas",
+    "3 oz de tomate, picado",
+    "1/2 cucharadita de albahaca",
+    "1/4 cucharadita de orégano",
+    "1/2 cucharadita de sal",
+    "2 cucharadas de aceite de oliva",
+    "6 oz de espaguetis, cocidos"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una sartén a fuego medio.\n2. Añadir las setas, cebollas y tomate; remover ocasionalmente.\n3. Espolvorear la albahaca, orégano y sal sobre los vegetales.\n4. Cocinar durante 5 minutos o hasta que los vegetales estén tiernos.\n5. Mezclar con los espaguetis y remover suavemente para cubrir de manera uniforme.\n6. Servir calientes.",
+  "url": null
+}

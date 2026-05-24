@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "wheatie-pancakes",
+  "name": "Wheatie Pancakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "pancakes"
+  ],
+  "recipeIngredient": [
+    "1 cup Wheaties",
+    "1 cup Milk (sweet)",
+    "2 Eggs",
+    "2 tsp Baking powder",
+    "Pinch of Salt",
+    "1 tbsp Butter",
+    "Flour"
+  ],
+  "recipeInstructions": "1. Combine the Wheaties, milk, eggs, baking powder, and salt in a large bowl until well mixed.\n2. Gradually add flour to the mixture, stirring continuously until the batter is smooth and thin.\n3. Heat a griddle or frying pan over medium-high heat.\n4. Pour about 1/4 cup of batter onto the hot griddle for each pancake.\n5. Cook until bubbles form on the surface of the pancakes, then flip carefully.\n6. Continue cooking until golden brown on the other side.\n7. Remove the pancakes from the griddle and serve immediately.",
+  "url": null
+}

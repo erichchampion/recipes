@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "james-beard-s-brownies",
+  "name": "Brownies de James Beard",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "brownies",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "4 oz de chocolate con leche",
+    "2 huevos",
+    "1 taza de jarabe de arce -O-",
+    "2 tazas de azúcar moreno",
+    "1 taza de harina (cernida)",
+    "1 cucharadita de vainilla",
+    "1/2 cucharadita de sal",
+    "1/2 taza de nueces (picadas)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes, excepto las nueces, hasta obtener una consistencia suave.\n2. Agregar las nueces y verter la masa en un molde de 9x11\" engrasado y enharinado.\n3. Hornear a 180°C durante 30 minutos. No sobrehornear.",
+  "url": null
+}

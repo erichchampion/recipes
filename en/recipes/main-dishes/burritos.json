@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "burritos",
+  "name": "Burritos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat",
+    "pork"
+  ],
+  "recipeIngredient": [
+    "3 slices pork steak, cut up",
+    "1 medium onion, chopped",
+    "1 large can diced tomatoes",
+    "1 large can diced green chilies (optional)",
+    "Water - enough to keep moist",
+    "Garlic powder - to taste",
+    "Chili powder - to taste",
+    "1 pound hamburger",
+    "1 jar taco sauce",
+    "1 can refried beans",
+    "1 package flour tortillas",
+    "Shredded cheddar cheese"
+  ],
+  "recipeInstructions": "1. Brown the steak and onions together.\n2. Add tomatoes, green chilies, water, garlic powder, and chili powder to the pork and onions. Simmer for 1 hour.\n3. Brown and drain the hamburger.\n4. Add taco sauce and refried beans to the hamburger in separate dish.\n5. Place the hamburger mixture into flour tortillas; fold over and transfer to a baking dish.\n6. Pour the pork mixture over the top of each burrito.\n7. Sprinkle with shredded cheese.\n8. Bake at 400°F for 15 minutes.\n9. Top with shredded lettuce and tomatoes.",
+  "url": null
+}

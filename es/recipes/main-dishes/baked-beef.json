@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-beef",
+  "name": "Carne asada al horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de vacuno",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de cebolla picada",
+    "2 libras de carne de res para asar, cortada en cubos",
+    "1 taza de harina",
+    "3/4 taza de ajo en polvo",
+    "1 taza de agua con base de sopa"
+  ],
+  "recipeInstructions": "1. Cortar la carne en cubos de 1/2 pulgada.\n2. Mezclar todos los ingredientes en una bandeja para hornear y cocinar, sin cubrir, durante 1 1/2 horas o hasta que esté tierna.",
+  "url": null
+}

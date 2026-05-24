@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "bacon-cheese-quiche",
+  "name": "Tarta de tocino y queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "aperitivos",
+    "tartas de cena",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "4 huevos",
+    "3/4 taza de crema",
+    "3/4 taza de leche",
+    "1/2 taza de queso rallado",
+    "3/4 taza de tocino picado",
+    "1 sobre (1 taza) de masa de pastel seco",
+    "1 cucharada de mantequilla derretida",
+    "1 cebolla picada",
+    "1 cucharadita de perejil picado"
+  ],
+  "recipeInstructions": "1. Batir ligeramente los huevos.\n2. Agregar todos los demás ingredientes y mezclar bien.\n3. Verter en un molde para pastel grande engrasado.\n4. Hornear durante 35-40 minutos a 320 °F (160 °C).",
+  "url": null
+}

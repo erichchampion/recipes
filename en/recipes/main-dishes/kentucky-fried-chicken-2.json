@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "kentucky-fried-chicken-2",
+  "name": "Kentucky Fried Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "2 tablespoons Salt",
+    "2 cups Flour",
+    "2 tablespoons Pepper",
+    "4 tablespoons Paprika",
+    "1 teaspoon Garlic salt",
+    "1 tablespoon Ground mustard",
+    "1 tablespoon Ground French thyme",
+    "1 tablespoon Sweet basil leaves",
+    "1 teaspoon Ground oregano",
+    "1 tablespoon Ground Jamaica ginger"
+  ],
+  "recipeInstructions": "1. Mix all spices and flour together.\n2. Take pieces of cut-up chicken and dip in slightly beaten raw egg.\n3. Roll the chicken pieces in the spice mixture.\n4. Fry the chicken in oil until golden brown.\n5. Bake the chicken for 45 minutes in a preheated oven at 350°F, covered with foil.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-salad-2",
+  "name": "Ensalada de arroz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de arroz blanco cocido",
+    "3/4 taza de arroz salvaje cocido",
+    "1 cucharada de aceitunas verdes picadas",
+    "1 huevo duro picado",
+    "1/4 taza de cebolla picada",
+    "2 cucharadas de perejil picado",
+    "2 cucharadas de tomates picados",
+    "1 cucharada de vinagre de vino tinto",
+    "2 cucharadas de aceite de oliva",
+    "2 tomates grandes, desmotados y cortados por la mitad",
+    "1 1/2 cucharaditas de mostaza criolla",
+    "Sal y pimienta al gusto",
+    "2 tazas de lechuga romana picada"
+  ],
+  "recipeInstructions": "1. Desmotar y cortar por la mitad los tomates.\n2. En un bol, mezclar el arroz blanco, el arroz salvaje, las aceitunas, el huevo, la cebolla, el perejil, los tomates, el vinagre, el aceite de oliva y la mostaza criolla.\n3. Sazonar con mostaza criolla, sal y pimienta.\n4. Colocar la lechuga romana en cada plato como base.\n5. Rellenar los tomates con la mezcla de ensalada y colocarlos sobre las hojas de lechuga.\n6. Espolvorear con queso parmesano rallado.\n7. Servir a temperatura ambiente.",
+  "url": null
+}

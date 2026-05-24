@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "mocha-coffee",
+  "name": "Café Mocha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 taza de cristales de café instantáneo",
+    "1 taza de chocolate caliente o mezcla de cacao",
+    "1 taza de cremor sin lácteos",
+    "1/2 taza de azúcar"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en un bol grande para mezclar.\n2. Mezclar bien hasta que queden combinados.\n3. Transferir la mezcla a un frasco con tapa apretada y almacenar a temperatura ambiente.\nPara servir:\n4. Medir 1-1/2 a 2 cucharadas de la mezcla de café en una taza o tazón.\n5. Añadir agua hirviendo hasta llenar la taza.\n6. Prepara aproximadamente 3-1/2 tazas de mezcla de café, para unas 25 porciones.",
+  "url": null
+}

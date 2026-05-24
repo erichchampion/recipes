@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-batter-fish-fry",
+  "name": "Fritura de pescado con masa de cerveza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1 taza de Bisquick",
+    "1/3 taza de maicena",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "4-6 onzas de cerveza",
+    "2 libras de filetes de pescado"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes secos en un bol grande.\n2. Agregar gradualmente la cerveza hasta obtener una consistencia pegajosa para sumergir.\n3. Sazonar el pescado con sal y sumergir cada filete en la masa.\n4. Freír en aceite a 375°F (190 °C) hasta que el pescado adquiera un color dorado.",
+  "url": null
+}

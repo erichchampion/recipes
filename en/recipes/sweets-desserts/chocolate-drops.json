@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-drops",
+  "name": "Chocolate Drops",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "2 cups sugar",
+    "1/2 cup milk",
+    "1/2 cup cocoa powder",
+    "1 cup coconut",
+    "2 cups rolled oats"
+  ],
+  "recipeInstructions": "1. Combine the sugar, milk, and cocoa powder in a saucepan.\n2. Heat over medium until the mixture comes to a boil.\n3. Continue boiling for 5 minutes, stirring occasionally.\n4. Remove from heat and stir in the coconut and oats until well combined.\n5. Drop spoonfuls of the mixture onto wax paper.\n6. Allow to cool completely before transferring to an airtight container and refrigerating.",
+  "url": null
+}

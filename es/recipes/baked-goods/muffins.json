@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "muffins",
+  "name": "Muffins",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "2 1/2 tazas de harina de uso general",
+    "3 1/2 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "2 cucharadas de azúcar",
+    "1 taza de leche",
+    "1 huevo",
+    "1 taza de pasas o bayas picadas",
+    "Otras frutas (opcional)"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F (175°C).\n2. Mezclar la harina, el polvo de hornear, la sal y el azúcar en un bol grande.\n3. En otro bol, batir la leche y el huevo hasta que estén suaves.\n4. Incorporar la mezcla de leche y huevo a los ingredientes secos, removiendo hasta combinar.\n5. Añadir las pasas o bayas picadas (y otras frutas si se desea).\n6. Enmantequillar y enharinar cada cupa de un molde para muffins.\n7. Verter la masa en las copas preparadas.\n8. Hornear durante 25 minutos, o hasta que un palillo insertado en el centro salga limpio.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "fajitas",
+  "name": "Fajitas",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "ethnic",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "1/4 teaspoon rosemary",
+    "1/2 teaspoon thyme",
+    "1 1/2 cups corn oil",
+    "1 cup lemon juice or 1/2 lemon and 1/2 apple vinegar",
+    "1 tablespoon green onion, chopped",
+    "2 teaspoons salt",
+    "1 clove garlic, pressed",
+    "1 tablespoon oregano",
+    "pepper to taste",
+    "6 pounds fajita meat (skirt, sirloin, flank steak)",
+    "20 flour tortillas"
+  ],
+  "recipeInstructions": "1. Combine all ingredients except meat in a bowl and mix well.\n2. Add the meat to the marinade and refrigerate for at least 24 hours, turning the mixture at least 4 or 6 times for best results.\n3. When ready to cook, barbecue over mesquite coals until cooked through for 5 to 8 minutes on each side. For best results, aim for a medium-rare doneness.\n4. Remove the meat to a cutting board and slice into half-inch strips across the grain.\n5. Use any remaining marinade to baste while cooking.",
+  "url": null
+}

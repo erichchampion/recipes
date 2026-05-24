@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tasty-vegetable-stew",
+  "name": "Sopa Sabrosa de Verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carnes",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "4 a 6 lonchas de panceta salada o extremos de tocino",
+    "1 cebolla mediana, picada",
+    "1/4 cucharadita de pimienta negra",
+    "4 tazas de col picada",
+    "1 taza de zanahoria picada",
+    "1 taza de nabo picado",
+    "1/2 taza de parrilla picada (opcional)",
+    "2 grandes papas, cortadas en cubos",
+    "1/4 taza de agua"
+  ],
+  "recipeInstructions": "1. Dorar las lonchas de panceta en una cacerola pesada.\n2. Cortar las lonchas en varios trozos y devolverlas a la cacerola con la cebolla y la pimienta. Saltear durante 5 minutos a fuego lento.\n3. Añadir la col, las zanahorias, los nabos y la parrilla (si se usa). Cocinar durante 30 minutos, removiendo ocasionalmente con una cuchara de madera.\n4. Incorporar las papas y el agua. Tapar bien y dejar cocer al vapor durante aproximadamente 1 hora.\n5. Servir con hogazas de pan recién horneadas. Rinde 4 porciones generosas.",
+  "url": null
+}

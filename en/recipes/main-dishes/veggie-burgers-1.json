@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "veggie-burgers-1",
+  "name": "Veggie Burgers 1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "main dish",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "2 cups rolled oats",
+    "1 1/2 cups carrots, grated",
+    "1/2 cup string beans, diced (or other vegetables)",
+    "1/2 cup cabbage, diced",
+    "1/2 cup mushrooms, diced",
+    "1/2 cup broccoli, diced",
+    "1/2 cup onions, diced",
+    "1 clove garlic, pressed",
+    "3 tbsp flour (give or take)",
+    "1/4 cup water",
+    "1/4 cup soy sauce",
+    "salt and pepper to taste"
+  ],
+  "recipeInstructions": "1. Mix all the ingredients together.\n2. Shape into patties.\n3. Brown patties on both sides.\n4. Place in a baking pan.\n5. Bake for 25 to 30 minutes.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "speciality-casserole",
+  "name": "Casserola Especialidad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "queso/huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida magra",
+    "1/2 taza de cebolla picada",
+    "8 oz de queso crema, cortado en cubos",
+    "10 1/2 oz de sopa de champiñones cremosa, lata condensada",
+    "12 oz de maíz entero, escurrido de la lata",
+    "2 oz de pimiento verde, escurrido y picado",
+    "1 cucharadita de sal",
+    "1 pizca de pimienta negra"
+  ],
+  "recipeInstructions": "1. En un bol grande y resistente al calor, sin metal, dora la carne sin cubrir en el horno microondas durante 4 minutos. Revuelve ocasionalmente para desmenuzar los trozos de carne.\n2. Escurre cualquier grasa excesiva.\n3. Añade las cebollas y caliéntalas sin cubrir en el horno microondas durante 3 minutos o hasta que la cebolla esté tierna.\n4. Incorpora los ingredientes restantes a la mezcla de carne. Vierte la mezcla en un plato para hornear resistente al calor de 2 cuartos.\n5. Calienta sin cubrir en el horno microondas durante 9 minutos o hasta que la salsa esté burbujeante.",
+  "url": null
+}

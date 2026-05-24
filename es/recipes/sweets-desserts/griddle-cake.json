@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "griddle-cake",
+  "name": "Pastelera a la sartén",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desayuno",
+    "pasteles",
+    "étnico",
+    "galés"
+  ],
+  "recipeIngredient": [
+    "8 oz de harina",
+    "3 oz de mantequilla",
+    "2 oz de azúcar moreno",
+    "1 huevo",
+    "2 oz de pasas",
+    "1/2 cucharadita de bicarbonato sódico",
+    "2 cucharadas de leche"
+  ],
+  "recipeInstructions": "1. Tamizar la harina, el bicarbonato y una pizca de sal juntos.\n2. Añadir la mantequilla a la harina y frotar hasta obtener migas. Incorporar el azúcar y las pasas.\n3. Batir el huevo y añadirlo, junto con suficiente leche, para formar una masa suave.\n4. Extender la masa sobre una superficie enharinada hasta alcanzar un grosor de 1/2 pulgada.\n5. Cocinar en una plancha caliente engrasada.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "classic-martini",
+  "name": "Classic Martini",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "alcoholic",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 1/2 oz Gin",
+    "1 tsp Dry vermouth",
+    "1 Olive"
+  ],
+  "recipeInstructions": "1. Shake or mix gin and vermouth with ice.\n2. Strain into a martini glass.\n3. Garnish with olive.\nServes 1.\nVARIATION: Dirty Martini - Pour some olive juice and particles into the martini.\nPer serving: 188 calories, 1 gram fat (5 percent of calories), 0 milligrams cholesterol, 0 grams protein, 95 grams carbohydrate, 2 milligrams sodium.",
+  "url": null
+}

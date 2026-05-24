@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-italian",
+  "name": "Chicken Italian",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1 Whole frying chicken, skinned (or use 3 lb skinless chicken breasts)",
+    "2 tbsp Olive oil",
+    "2 tbsp Lemon juice",
+    "2 Cloves garlic, crushed",
+    "1/4 tsp Oregano",
+    "2 tbsp Dry white wine"
+  ],
+  "recipeInstructions": "1. If using whole chicken, cut it in half.\n2. Mix all the remaining ingredients to make the marinade.\n3. Soak the chicken in the marinade for 10 minutes.\n4. Preheat the oven to 375 degrees Fahrenheit.\n5. Place the chicken in a greased baking pan and bake for 45 minutes to 1 hour, or until tender.\n6. Serve 4 portions.",
+  "url": null
+}

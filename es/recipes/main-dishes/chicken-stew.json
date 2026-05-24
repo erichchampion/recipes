@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-stew",
+  "name": "Guiso de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 lb pechugas de pollo sin piel y deshuesadas, cortadas en cubos de 1 pulgada",
+    "2 latas de caldo de pollo sin grasa",
+    "3 tazas de papas peladas y cortadas en cubos",
+    "1 taza de cebolla picada",
+    "1 taza de apio en rodajas",
+    "1 taza de zanahorias en rodajas finas",
+    "1 cucharadita de pimentón dulce",
+    "1/2 cucharadita de pimienta negra molida",
+    "1/2 cucharadita de tomillo seco",
+    "1/2 cucharadita de salvia molida",
+    "6 oz (170 g) de pasta de tomate sin sal añadida",
+    "1/4 taza de agua fría",
+    "3 cucharadas de almidón de maíz"
+  ],
+  "recipeInstructions": "1. En una olla de cocción lenta, combina los primeros 11 ingredientes; tapa y cocina a alta temperatura durante 4 horas.\n2. Mezcla el agua y el almidón de maíz hasta que quede suave; agrégalo al estofado.\n3. Cocina, con la tapa puesta, por adicionales 30 minutos o hasta que las verduras estén tiernas.",
+  "url": null
+}

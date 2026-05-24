@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "sengalese-soup",
+  "name": "Sopa senegalesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 taza de sopa de pollo",
+    "1 taza de crema agria",
+    "1 taza de caldo de pollo",
+    "1/4 cucharadita de polvo de curry",
+    "1/4 cucharadita de salsa Tabasco",
+    "1 pepino, rallado",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Servir fría.",
+  "url": null
+}

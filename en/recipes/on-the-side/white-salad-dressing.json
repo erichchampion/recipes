@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-salad-dressing",
+  "name": "White Salad Dressing",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "dressings",
+    "salads",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "Egg yolk, well beaten (3)",
+    "Cream (1 cup)",
+    "Flour (1 tbsp)",
+    "Vinegar (1/2 cup)",
+    "Sugar (1 tbsp)",
+    "Mustard, dry (1 tsp)",
+    "Salt (1 tsp)",
+    "Olive oil (2 tbsp)"
+  ],
+  "recipeInstructions": "1. Mix the dry ingredients together.\n2. Slowly add the vinegar and olive oil to the dry mixture.\n3. Stir in the cream and beaten egg yolks.\n4. Cook over a double boiler until thickened.",
+  "url": null
+}

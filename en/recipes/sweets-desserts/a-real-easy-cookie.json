@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "a-real-easy-cookie",
+  "name": "A Real Easy Cookie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Sugar",
+    "Graham Crackers",
+    "Pecan Halves",
+    "2 Sticks Butter"
+  ],
+  "recipeInstructions": "1. Melt the butter and sugar together in a saucepan over medium heat until it comes to a boil.\n2. Continue boiling for two minutes only, then remove from heat.\n3. Place graham crackers on a foil-lined baking sheet.\n4. Arrange pecan halves on top of each cracker.\n5. Pour the melted butter and sugar mixture evenly over the graham crackers.\n6. Bake at 325 degrees Fahrenheit for 15 minutes on the top rack of the oven.\n7. Allow to cool completely before serving.",
+  "url": null
+}

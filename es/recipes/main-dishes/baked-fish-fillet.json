@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-fish-fillet",
+  "name": "Filete de pescado horneado",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "italiano",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "2 libras de filete de pescado",
+    "Sal",
+    "Pimienta",
+    "1/4 libra de mantequilla",
+    "Jugo de limón",
+    "Vino blanco seco",
+    "Queso parmesano",
+    "Pimentón"
+  ],
+  "recipeInstructions": "1. Sazonar los filetes con sal y pimienta.\n2. Colocar una bandeja para hornear en el horno precalentado a 400-500 °F (200-250 °C).\n3. Derretir la mantequilla en la sartén caliente hasta que comience a dorarse ligeramente.\n4. Añadir jugo de limón y vino blanco a la mantequilla derretida.\n5. Colocar los filetes en la mezcla de mantequilla y devolver la sartén al horno.\n6. Hornear durante 10-15 minutos, luego retirar del horno.\n7. Dar la vuelta a los filetes y barnizarlos con jugo de limón y vino.\n8. Espolvorear con queso parmesano y pimentón.\n9. Devolver la sartén al horno durante 5 minutos adicionales hasta que el queso se derrita y dore ligeramente.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "cuban-chicken",
+  "name": "Pollo Cubano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de aceite vegetal",
+    "1 diente de ajo, picado y pelado",
+    "1 cebolla pequeña morada, pelada",
+    "1/2 paquete de guisantes congelados, descongelados (10 onzas)",
+    "1 lata de tomates pelados, escurridos y picados (1 libra)",
+    "3 tazas de arroz cocido y frío",
+    "1 taza de jamón en cubos (opcional)",
+    "2 tazas de pollo en cubos cocido",
+    "1/2 taza de aceitunas verdes rellenas de pimiento, en rodajas",
+    "1 aguacate, pelado y cortado en rodajas"
+  ],
+  "recipeInstructions": "1. Calentar el wok a fuego alto.\n2. Agregar el aceite al wok caliente.\n3. Incorporar el ajo y la cebolla picados al wok. Saltear durante 2-3 minutos hasta que la cebolla esté tierna.\n4. Añadir los guisantes, tomates, arroz, jamón (si se usa), cubos de pollo y aceitunas al wok. Revolver y mezclar todo hasta que se caliente uniformemente.\n5. Transferir la mezcla a un plato grande.\n6. Decorar con rodajas de aguacate.\n7. Servir para 4-6 personas.",
+  "url": null
+}

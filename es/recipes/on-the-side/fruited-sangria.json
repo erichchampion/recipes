@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruited-sangria",
+  "name": "Sangría de frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de zumo de naranja",
+    "2 tazas de zumo de piña",
+    "1 taza de refresco dulce y ácido",
+    "1/2 taza de jugo de cereza",
+    "1/2 taza de brandy",
+    "1/2 taza de Triple Sec",
+    "1/2 galón de vino burdeos o blanco",
+    "Rodajas de naranja",
+    "Rodajas de limón"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande para servir.\n2. Revolver hasta que esté bien combinado.\n3. Llenar vasos altos con hielo.\n4. Verter la mezcla de sangría sobre el hielo.\n5. Decorar cada vaso con rodajas de naranja y una rodaja de limón.",
+  "url": null
+}

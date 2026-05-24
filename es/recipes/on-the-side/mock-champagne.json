@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-champagne",
+  "name": "Champán falso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "2/3 taza de azúcar",
+    "2/3 taza de agua",
+    "1 taza de jugo de toronja",
+    "1/2 taza de jugo de naranja",
+    "3 cucharadas de jarabe de granadina",
+    "750 ml de gaseosa de jengibre, fría"
+  ],
+  "recipeInstructions": "1. Mezclar el azúcar y el agua en una cacerola a fuego bajo.\n2. Remover hasta que el azúcar se disuelva.\n3. Llevar a ebullición y continuar cocinando durante 10 minutos.\n4. Dejar enfriar completamente la mezcla.\n5. Incorporar el jarabe de azúcar frío al jugo de toronja y naranja.\n6. Enfriar bien.\n7. Justo antes de servir, añadir la granadina y la gaseosa de jengibre.",
+  "url": null
+}

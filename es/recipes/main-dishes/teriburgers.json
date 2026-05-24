@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "teriburgers",
+  "name": "Terburgueros",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgueros",
+    "plato principal",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida de res",
+    "2 cucharadas de mostaza preparada",
+    "2 cucharadas de salsa Teriyaki Kikkoman",
+    "4 panecillos para hamburguesa",
+    "Hojas de lechuga",
+    "Rodajas de tomate",
+    "Rodajas de cebolla"
+  ],
+  "recipeInstructions": "1. Mezclar en un bol la carne molida, la mostaza y la salsa Teriyaki Kikkoman. Amasar bien.\n2. Dar forma a la mezcla en 4 hamburguesas.\n3. A la parrilla o asar las hamburguesas hasta el punto de cocción deseado. Si se desea, pincelar con más salsa Teriyaki.\n4. Servir sobre panecillos para hamburguesa con lechuga, rodajas de tomate y cebolla.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-volkornbrot",
+  "name": "Mi pan integral volkor",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "3 tazas de cereales de 5 o 7 granos",
+    "1 taza de harina de trigo integral",
+    "2 cucharaditas de bicarbonato de sodio",
+    "1 cucharadita de sal",
+    "1/2 taza de melaza",
+    "3 tazas de agua caliente"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes secos en un bol grande.\n2. Incorporar la melaza y el agua caliente a los ingredientes secos hasta obtener una mezcla homogénea.\n3. Dejar reposar la mezcla durante la noche.\n4. Verter la mezcla en un molde para pan pequeño, distribuyéndola uniformemente.\n5. Cubrir el molde con papel de aluminio.\n6. Hornear a 180°C durante 3 horas.\n7. Dejar enfriar el pan en el molde antes de sacarlo.\n8. Envolver el pan frío y conservarlo en la nevera hasta por 2 semanas; no se recomienda congelar.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-barley",
+  "name": "Desayuno de cebada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "frutos secos"
+  ],
+  "recipeIngredient": [
+    "1/2 litro de zumo de naranja",
+    "1/2 litro de agua",
+    "2 oz de pasas secas",
+    "Una pizca de clavos",
+    "4 oz de cebada perlada",
+    "1/2 oz de margarina",
+    "1 oz de nueces mixtas picadas (opcional)"
+  ],
+  "recipeInstructions": "1. Verter el zumo de naranja y el agua en una cacerola.\n2. Añadir las pasas secas cortadas en trozos pequeños y los clavos.\n3. Llevar a ebullición.\n4. Incorporar la cebada perlada. Cubrir y dejar cocinar a fuego lento durante unos 45 minutos, hasta que la cebada esté tierna. Añadir más zumo de naranja si es necesario para absorber el líquido cuando la cebada esté lista.\n5. Mezclar la margarina y las nueces mixtas (si se usan).\n6. Servir caliente, tal cual o con un chorro de leche de soja.",
+  "url": null
+}

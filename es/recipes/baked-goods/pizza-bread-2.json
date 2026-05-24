@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-bread-2",
+  "name": "Pan de pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de pan rústico",
+    "2 cucharaditas de levadura seca activa",
+    "1 1/2 cucharadas de azúcar",
+    "3 tazas de harina de trigo",
+    "1/2 taza de pepperoni picado",
+    "1 cucharadita de cebolla deshidratada",
+    "1 cucharadita de ajo en polvo",
+    "2 cucharadas de leche en polvo",
+    "1 1/2 cucharaditas de especias para pizza",
+    "2 cucharadas de queso parmesano rallado",
+    "1 cucharadita de sal de ajo",
+    "3 cucharadas de aceite de oliva",
+    "1/4 taza de agua tibia",
+    "1/4 taza más 2 cucharadas de salsa de tomate"
+  ],
+  "recipeInstructions": "1. Introducir todos los ingredientes en la máquina panificadora en el orden indicado.\n2. Seleccionar el ciclo de masa de pizza y encender la máquina.\n3. La máquina mezclará, amasará y elevará la masa automáticamente.\n4. Luego, dará forma a la masa y la horneará hasta que esté lista.\n5. Dejar enfriar el pan antes de cortarlo y servirlo. Se puede disfrutar con la salsa Hot and Sweet Pizza y Pasta Magic de Paul Prudhomme si se desea.",
+  "url": null
+}

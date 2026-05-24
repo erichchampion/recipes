@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "indian-gazpacho",
+  "name": "Gazpacho indio",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas/estofados",
+    "asiáticos",
+    "étnicos",
+    "indios"
+  ],
+  "recipeIngredient": [
+    "6 tomates grandes, blanqueados y pelados",
+    "1 cebolla grande",
+    "1 pimiento rojo o verde grande",
+    "2 radices grandes, cortadas",
+    "3 zanahorias grandes",
+    "3 costillas de apio grandes",
+    "2 pepinos medianos, sin pelar",
+    "2 chiles verdes picantes, sin semillas",
+    "6 dientes de ajo grandes, pelados",
+    "2 cucharadas de aceite de oliva",
+    "1/2 taza de pasta de tomate",
+    "6 1/4 tazas de caldo de verduras",
+    "1 3/4 tazas de vino tinto seco",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "1. Cortar todos los vegetales y agregarlos a un bol grande con los ingredientes restantes.\n2. Mezclar bien para combinar.\n3. Licuar en etapas hasta que no queden trozos de verdura, pero sin diluir demasiado la sopa.\n4. Añadir sal al gusto.\n5. Enfriar antes de servir.",
+  "url": null
+}

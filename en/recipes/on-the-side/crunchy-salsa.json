@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "crunchy-salsa",
+  "name": "Crunchy Salsa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 tomatoes, red and ripe",
+    "1/2 cucumber",
+    "1/4 red onion",
+    "2 tablespoons cilantro",
+    "1 jalapeño",
+    "salt"
+  ],
+  "recipeInstructions": "1. Dice the tomatoes, cucumber, and red onion.\n2. Finely chop the cilantro.\n3. Remove the seeds from the jalapeño if you prefer less heat.\n4. Mix all ingredients together in a bowl.\n5. Season with salt to taste.\n6. Serve immediately or chill for later use.",
+  "url": null
+}

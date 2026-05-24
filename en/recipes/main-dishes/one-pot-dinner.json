@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "one-pot-dinner",
+  "name": "One Pot Dinner",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "slow cooker",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "1 pound Ground meat",
+    "3/4 pound Bacon, cut in small pieces",
+    "1 cup Onion, chopped",
+    "2 cans Pork 'n beans (31 oz)",
+    "1 can Kidney beans (1 lb), drained",
+    "1/4 cup Brown sugar",
+    "1 tablespoon Liquid smoke",
+    "3 tablespoons White vinegar",
+    "1 teaspoon Salt",
+    "Pepper"
+  ],
+  "recipeInstructions": "1. Brown the meat in a skillet and drain off any excess fat.\n2. Add the browned meat to the crock pot.\n3. Brown the bacon and onions separately, then drain off any excess fat.\n4. Add the browned bacon and onions to the crock pot with the ground meat.\n5. Add the remaining ingredients (Pork 'n beans, Kidney beans, Brown sugar, Liquid smoke, White vinegar, Salt, Pepper) to the crock pot.\n6. Stir everything well to combine.\n7. Cover the crock pot and cook on low for 4 to 9 hours.",
+  "url": null
+}

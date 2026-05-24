@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "mushrooms-sausage",
+  "name": "Setas y salchicha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pasta",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "Salchicha italiana, 8 onzas (sin cáscara)",
+    "Ajo, 2 dientes, picado",
+    "Setas laminadas, 16 onzas",
+    "Tomates enlatados, 1 lata (400 g)",
+    "Azúcar, 1 cucharadita",
+    "Sal, 1/4 cucharadita"
+  ],
+  "recipeInstructions": "1. Dorar la salchicha con el ajo a fuego medio-alto.\n2. Aumentar el fuego a alto y agregar las setas laminadas.\n3. Cocinar hasta que las setas estén doradas.\n4. Incorporar los tomates, el azúcar y la sal.\n5. Reducir el fuego a bajo, sin cubrir, y cocinar durante 5 a 8 minutos.",
+  "url": null
+}

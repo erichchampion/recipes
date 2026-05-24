@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "rudolph-sandwiches",
+  "name": "Sándwiches de Rudolfo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "niños",
+    "variado",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "Pan integral cortado en rebanadas oscuras",
+    "Manteca de maní",
+    "Cerezas",
+    "Palitos de pretzel finos",
+    "M&Ms"
+  ],
+  "recipeInstructions": "1. Retira la corteza de una rebanada de pan.\n2. Corta la rebanada sin corteza en dos triángulos.\n3. Unta manteca de maní en un triángulo.\n4. Coloca el otro triángulo encima, con la parte de la manteca de maní hacia abajo.\n5. Decora con M&Ms para los ojos, una cereza para la nariz y palitos de pretzel para las astas.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "wilma-s-sugar-cookies",
+  "name": "Galletas de azúcar de Wilma",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de mantequilla",
+    "1 taza de aceite vegetal",
+    "1 taza de azúcar glas",
+    "1 taza de azúcar",
+    "1 cucharadita de vainilla",
+    "2 huevos",
+    "1 cucharadita de sal",
+    "1 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de crema de tártaro",
+    "4 tazas de harina de uso común"
+  ],
+  "recipeInstructions": "Mezclar los primeros seis ingredientes, luego agregar la sal, el bicarbonato de sodio, la crema de tártaro y la harina. Formar una bola con una cucharada de masa y rodarla en azúcar. Colocar sobre una bandeja para hornear ligeramente engrasada. Presionar con un vaso. Hornear a 175 °C durante 10 a 12 minutos.",
+  "url": null
+}

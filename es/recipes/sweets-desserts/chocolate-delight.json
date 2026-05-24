@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-delight",
+  "name": "Delicia de Chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "chocolate"
+  ],
+  "recipeIngredient": [
+    "1 barra de mantequilla, ablandada",
+    "1 taza de harina",
+    "1/4 taza de nueces pecanas, picadas",
+    "8 onzas de queso crema, ablandado",
+    "1 taza de azúcar glas",
+    "1 taza de crema batida (Cool Whip)",
+    "3 onzas de pudín de chocolate instantáneo",
+    "3 onzas de pudín de vainilla instantáneo",
+    "3 tazas de leche"
+  ],
+  "recipeInstructions": "1. Cortar la mantequilla en la harina usando un cortapastas.\n2. Mezclar las nueces pecanas picadas.\n3. Presionar la mezcla en un molde rectangular de 9x11 cm.\n4. Hornear a 175 °C durante unos 20 minutos, hasta que esté dorado. Dejar enfriar.\n5. En un bol, mezclar el queso crema y el azúcar glas hasta obtener una textura suave.\n6. Incorporar la crema batida.\n7. Extender sobre la base enfriada.\n8. Batir juntos los ingredientes restantes (pudín de chocolate, pudín de vainilla y leche) hasta que estén lisos.\n9. Extender sobre la mezcla de queso crema.\n10. Cubrir con más crema batida.\n11. Decorar con nueces pecanas picadas.\n12. Refrigerar.",
+  "url": null
+}

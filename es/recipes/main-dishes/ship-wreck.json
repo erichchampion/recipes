@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "ship-wreck",
+  "name": "Escombro naufragado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "3 grandes papas, cortadas en rodajas",
+    "1 cebolla grande, cortada en rodajas",
+    "1 libra de hamburguesa",
+    "3 cucharadas de arroz crudo",
+    "1 taza de tomates"
+  ],
+  "recipeInstructions": "1. Capa los ingredientes en el orden indicado. Espolvorea con sal, pimienta y 1 cucharadita de azúcar.\n2. Cubre y hornea durante 1 hora y media a 350 °F.",
+  "url": null
+}

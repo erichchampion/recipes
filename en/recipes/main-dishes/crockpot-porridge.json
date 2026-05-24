@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-porridge",
+  "name": "Crockpot Porridge",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfasts",
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "1/4 cup cracked wheat",
+    "3/4 cup rolled oats (not instant or quick)",
+    "3 cups water",
+    "1/2 cup raisins",
+    "1/4 cup wheat germ",
+    "1/2 cup grated apple",
+    "1/4 teaspoon cinnamon",
+    "milk",
+    "honey"
+  ],
+  "recipeInstructions": "1. In a slow cooker, combine the cracked wheat, oats, water, raisins, wheat germ, grated apple, and cinnamon.\n2. Turn the slow cooker to the lowest setting and cook the porridge overnight.\n3. Spoon the cooked porridge into serving bowls and serve with milk and honey.",
+  "url": null
+}

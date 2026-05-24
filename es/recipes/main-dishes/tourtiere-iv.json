@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tourtiere-iv",
+  "name": "Tourtiere IV",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "tartas de cena",
+    "plato principal",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 gran patata - Hervir y machacar, reservando el agua en que se cocinó",
+    "1 libra de carne picada de cerdo",
+    "1 cebolla - Picada",
+    "1 diente de ajo - Machacado",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita cada uno de tomillo y salvia",
+    "1/4 cucharadita cada uno de clavos y mostaza en polvo"
+  ],
+  "recipeInstructions": "1. Hervir y machacar la patata, reservando el agua en que se cocinó.\n2. En una sartén grande, mezclar la carne, la cebolla, el ajo y las especias con el agua reservada.\n3. Reducir a fuego lento durante 25 minutos.\n4. Incorporar la patata machacada.\n5. Dejar enfriar la mezcla y colocarla en un molde para pastel relleno forrado con masa.\n6. Cubrir con la masa superior.\n7. Hornear a 450°F (230°C) durante 10 minutos.\n8. Apagar el horno y bajar la temperatura a 350°F (180°C) durante 20 minutos adicionales.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "greek-stew-2",
+  "name": "Greek Stew",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "greek",
+    "soups",
+    "soups/stews",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "3 lb Stew meat, chopped",
+    "1 clove garlic, diced",
+    "5 tbsp Butter",
+    "1 Salt",
+    "1 pepper",
+    "2 lb White onions, small",
+    "6 oz can tomato paste",
+    "1/2 lb Mushrooms, sliced",
+    "3/4 lb Jack cheese, grated",
+    "2 tbsp Red wine vinegar"
+  ],
+  "recipeInstructions": "1. In a heavy kettle, brown the meat in butter. Season lightly with salt and pepper.\n2. Add chopped onion and sauté until clear.\n3. Mix in tomato paste, vinegar, garlic, and half of the water. Add bay leaf.\n4. Cover and simmer for 1 hour, adding additional water as needed.\n5. Add white onions and mushrooms. Cover and simmer for another hour or until meat and onions are tender.\n6. Add cheese, cover, and cook for 5 minutes, or until cheese melts.",
+  "url": null
+}

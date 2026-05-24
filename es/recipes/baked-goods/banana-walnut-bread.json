@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-walnut-bread",
+  "name": "Pan de plátano y nuez",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "1 huevo",
+    "3 tazas de harina de pan",
+    "3/4 cucharadita de sal",
+    "1 cucharada de levadura seca activa",
+    "1 taza de nueces o pecanas tostadas picadas",
+    "2 cucharadas de margarina o mantequilla",
+    "3 cucharadas de azúcar",
+    "1/4 cucharadita de canela molida (opcional)"
+  ],
+  "recipeInstructions": "1. Agregar los ingredientes en la máquina panificadora según las instrucciones del fabricante, mezclando el plátano con la leche.\n2. Utilizar la configuración ligera si está disponible.\n3. No he probado esta receta aún, así que por favor hágamelo saber si resulta bien.",
+  "url": null
+}

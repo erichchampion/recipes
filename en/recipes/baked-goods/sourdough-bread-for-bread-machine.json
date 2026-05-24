@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "sourdough-bread-for-bread-machine",
+  "name": "Sourdough Bread for Bread Machine",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cup Sourdough Starter",
+    "3/4 cup Milk",
+    "2 1/2 tbsp Margarine/Butter",
+    "2 2/3 tbsp Sugar",
+    "1 1/3 tbsp Salt",
+    "4 cups Bread Flour",
+    "2 1/2 tsp Yeast"
+  ],
+  "recipeInstructions": "1. Preheat the bread machine to the regular cycle setting.\n2. Add all ingredients in the order specified by your machine's manufacturer instructions.\n3. For a large loaf (1.5 lb), set the number of servings to 6. For a medium loaf, set it to 4; for a small loaf, set it to 3.\n4. Close the lid and start the bread-making process on the regular cycle.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "scrambled-eggs",
+  "name": "Huevos revueltos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 taza de reemplazos de huevos",
+    "1 cebolla mediana, picada",
+    "2 puñados de setas, picadas",
+    "2 cucharadas de vinagre balsámico + 1/4 taza de agua",
+    "1/4 cucharadita de tomillo seco",
+    "3 onzas de queso bajo en grasa, rallado o cortado en cubos",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla y las setas en vinagre y agua hasta que estén suaves y la mayor parte del líquido se haya evaporado.\n2. Combinar sal, pimienta y tomillo seco con los reemplazos de huevos. Mezclar bien.\n3. Añadir la mezcla de reemplazos de huevos a la cebolla y las setas salteadas.\n4. Agregar el queso rallado o en cubos a los huevos y remover hasta que esté combinado.\n5. Revolver los huevos hasta que estén cuajados.\nObviamente, una sartén antiadherente es esencial aquí. El tomillo complementa los huevos de manera excelente y añade un sabor agradable. Son posibles muchas variaciones de esta receta, pero el tomillo funciona particularmente bien.",
+  "url": null
+}

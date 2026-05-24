@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "ranch-dip",
+  "name": "Ranch Dip",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizer",
+    "dips",
+    "snacks",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "2 cups sour cream",
+    "1/4 cup mayonnaise",
+    "1 tablespoon milk",
+    "1 tablespoon dry ranch dressing mix"
+  ],
+  "recipeInstructions": "1. Combine the ingredients in a bowl and mix well.\n2. Cover the bowl and chill for 4 hours or up to 4 days.\n3. If desired, thin with additional milk until reaching the preferred consistency.\n4. Serve chilled.",
+  "url": null
+}

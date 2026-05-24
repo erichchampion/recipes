@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "flake-cookies",
+  "name": "Flake Cookies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 cup Flour",
+    "1/2 tsp Baking powder",
+    "1/2 tsp Salt",
+    "1/2 tsp Baking soda",
+    "1/3 cup Butter",
+    "1/2 cup White sugar",
+    "1/2 cup Brown sugar (packed)",
+    "1 Egg (beaten)",
+    "1 tsp Vanilla",
+    "3/4 cup Oat flakes; bran flakes; or Grape nut flakes"
+  ],
+  "recipeInstructions": "1. In a bowl, mix together all ingredients except the flake of your choice.\n2. Add the chosen flakes and mix until well combined.\n3. Shape the dough into 1-inch balls using floured hands.\n4. Place the balls on an ungreased baking sheet.\n5. Bake at 375°F for 10-15 minutes.\n6. Cool and store in a tightly covered container.",
+  "url": null
+}

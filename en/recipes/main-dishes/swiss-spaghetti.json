@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "swiss-spaghetti",
+  "name": "Swiss Spaghetti",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground beef",
+    "2 cups Tomatoes, canned",
+    "4 tbsp Butter",
+    "1 onion, medium chopped",
+    "1 green pepper, chopped",
+    "1 1/2 tsp Salt",
+    "1/2 tsp Pepper",
+    "3/4 lb Swiss cheese, cubed",
+    "1 lb Spaghetti, cooked",
+    "1/2 cup Swiss cheese, grated"
+  ],
+  "recipeInstructions": "1. In a saucepan, melt butter and saute onion and green pepper for about 5 minutes.\n2. Add beef and cook over high heat until brown.\n3. Add tomatoes, salt, and pepper to the pan.\n4. Cover and simmer on low heat for 1 hour.\n5. Stir in cubed Swiss cheese and continue cooking for an additional 5 minutes.\n6. Mix in cooked spaghetti and toss until combined.\n7. Serve with grated Swiss cheese sprinkled on top.",
+  "url": null
+}

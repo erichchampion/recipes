@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-tomato-noodle-soup",
+  "name": "Sopa Rápida de Tomate y Fideos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite vegetal",
+    "1 cebolla, picada",
+    "1 pimiento verde, picado",
+    "3 dientes de ajo, picados",
+    "2 apios, picados",
+    "46 onzas de jugo de tomate enlatado",
+    "Sal y pimienta al gusto",
+    "2 tazas de pasta pequeña (orzo o acini di pepe)"
+  ],
+  "recipeInstructions": "1. Calentar el aceite vegetal en una olla grande a fuego medio.\n2. Añadir la cebolla, pimiento verde, ajo y apio. Saltear durante 10 minutos o hasta que las verduras estén tiernas.\n3. Incorporar el jugo de tomate y sazonar con sal y pimienta al gusto.\n4. Agregar la pasta y dejar cocer a fuego lento durante 20 minutos o hasta que la pasta esté tierna.",
+  "url": null
+}

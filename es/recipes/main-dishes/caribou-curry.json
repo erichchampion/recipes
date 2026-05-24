@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "caribou-curry",
+  "name": "Curry de Caribú",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "juego",
+    "indio",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 lb carne de caribú",
+    "1 cebolla grande, picada",
+    "1 raíz de jengibre de 2 cm, finamente picada",
+    "2 dientes de ajo, picados",
+    "1 cucharadita de pimienta negra molida al gusto",
+    "1 cucharadita de cúrcuma en polvo",
+    "1 cucharadita de cúrcuma en polvo",
+    "1/2 cucharadita de sal o al gusto",
+    "2 cucharadas de aceite de mostaza",
+    "1/2 taza de agua o caldo"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de mostaza en una sartén a fuego medio.\n2. Añadir la cúrcuma y mezclar bien con las especias restantes, excepto el ajo.\n3. Cortar la carne de caribú en trozos pequeños y dorarla en la sartén por todos lados.\n4. Incorporar el ajo picado y el agua o caldo.\n5. Reducir el fuego y dejar cocinar a fuego lento hasta que la carne esté tierna y la salsa haya espesado ligeramente, unos 30 minutos.",
+  "url": null
+}

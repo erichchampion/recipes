@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "angel-food-cake-i",
+  "name": "Angel Food Cake I",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 Cup Cake flour",
+    "1 1/4 Cups Sugar",
+    "1/4 Teaspoon Salt",
+    "1 Cup Egg white",
+    "1 Teaspoon Cream of tartar",
+    "1 Teaspoon Vanilla",
+    "1/4 Teaspoon Almond extract",
+    "1 1/2 Cups Sugar (for boiled icing)",
+    "1/4 Teaspoon Cream of tartar (for boiled icing)",
+    "3/4 Cup Water (for boiled icing)",
+    "1/4 Teaspoon Salt (for boiled icing)",
+    "3 Egg whites (for boiled icing)"
+  ],
+  "recipeInstructions": "1. Sift the cake flour once, then measure and sift it four more times.\n2. Measure and sift the sugar for the icing.\n3. Add salt to the egg whites and beat until foamy.\n4. Add cream of tartar to the egg whites and continue beating until stiff but not dry.\n5. Gradually fold in the sugar, one tablespoon at a time, until incorporated.\n6. For the boiled icing: Mix sugar, cream of tartar, water, and salt. Cook over low heat until the syrup spins a thread (240°F).\n7. Meanwhile, beat egg whites with a flat beater until stiff.\n8. Pour the hot syrup over the egg whites in a thin stream, adding flavorings.\nWARNING: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

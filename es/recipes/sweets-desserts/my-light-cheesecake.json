@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-light-cheesecake",
+  "name": "Mi Tarta de Queso Ligera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pastel",
+    "postres",
+    "granada"
+  ],
+  "recipeIngredient": [
+    "1 taza de migas de galleta Graham",
+    "1/2 cucharadita de canela",
+    "2 cucharadas de mantequilla derretida",
+    "1/3 taza de azúcar moreno"
+  ],
+  "recipeInstructions": "Base:\nMezclar las migas, la mantequilla, la canela y el azúcar. Presionar en el fondo de un molde para pastel desmontable de 25 cm.\nRelleno:\nBatir el queso crema hasta que quede suave. Agregar azúcar o edulcorante artificial equivalente y batir hasta que esté liso. Incorporar los huevos, luego la vainilla y el Cointreau. Verter sobre la base.\nHornear a 180°C durante 30 minutos. El pastel parecerá ligeramente hinchado pero no debe dorarse. Retirar del horno y dejar reposar durante 5 minutos.\nCobertura:\nMezclar el yogur natural, azúcar o edulcorante artificial equivalente y vainilla. Extender sobre el pastel enfriado. Hornear por 5 minutos adicionales.\nEnfriar a temperatura ambiente y refrigerar durante al menos 8 horas antes de servir con la fruta que prefiera.",
+  "url": null
+}

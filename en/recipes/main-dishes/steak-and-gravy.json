@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "steak-and-gravy",
+  "name": "Steak and Gravy",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meats",
+    "sauces",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "2 to 2 1/2 lb steak",
+    "Salt",
+    "Pepper",
+    "Flour",
+    "1 package Onion gravy mix",
+    "1 can Cream of mushroom soup",
+    "2 cups Water"
+  ],
+  "recipeInstructions": "1. Season the steak with salt and pepper.\n2. Dip the steak in flour, shaking off any excess.\n3. Fry the steak until browned on all sides.\n4. Transfer the steak to a crock pot.\n5. Add water, cream of mushroom soup, and onion gravy mix to the crock pot.\n6. Cover and cook on low for 6 to 8 hours.\n7. Serve with mashed potatoes or rice.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "split-pea-ham-soup",
+  "name": "Sopa de Guisantes y Jamón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "cazuelas",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 hueso de jamón con carne, partido",
+    "2 tazas de judías verdes",
+    "1/2 taza de cebolla picada",
+    "2 hojas de laurel",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de semillas de apio",
+    "1/4 cucharadita de orégano seco",
+    "1/8 cucharadita de tomillo",
+    "2 litros de agua caliente"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en la olla de cocción lenta.\n2. Añade el agua caliente.\n3. Tapa y cocina a fuego lento durante 10-12 horas.\n4. Retira los huesos, corta la carne y agrégala a la sopa.",
+  "url": null
+}

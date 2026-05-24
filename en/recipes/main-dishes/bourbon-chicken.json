@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "bourbon-chicken",
+  "name": "Bourbon Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "marinades",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "2 Chicken breast halves",
+    "4 oz Soy sauce",
+    "1/2 cup Brown sugar",
+    "1/2 tsp Garlic powder",
+    "1 tsp Powdered ginger",
+    "2 tbsp Dried minced onion",
+    "1/2 cup Bourbon",
+    "2 tbsp White wine"
+  ],
+  "recipeInstructions": "1. Mix all the marinade ingredients and pour over chicken pieces in a zip lock bag, removing as much air as possible before zipping.\n2. Let stand for several hours (best overnight).\n3. Bake chicken at 350°F for one hour in a single layer, basting every 10 minutes.\n4. Remove chicken pieces to a platter and keep warm.\n5. Scrape pan juices with all the brown bits into a small saucepan, heat, and add 2 tablespoons white wine.\n6. Serve over chicken.",
+  "url": null
+}

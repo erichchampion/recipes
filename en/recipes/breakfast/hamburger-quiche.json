@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-quiche",
+  "name": "Hamburger Quiche",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "beef",
+    "casseroles",
+    "ham",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground beef",
+    "1 medium Onion; chopped",
+    "1/2 lb Mushrooms; sliced",
+    "1/4 tsp Salt",
+    "1/4 tsp Pepper",
+    "1 tsp Worcestershire sauce",
+    "2 tbsp Biscuit mix",
+    "9-inch pastry shell",
+    "3 Eggs",
+    "1 cup Creamed cottage cheese"
+  ],
+  "recipeInstructions": "1. Saute ground beef, onion, and 2/3 of the mushrooms in a skillet until the beef is well browned; drain off excess fat.\n2. Add salt, pepper, Worcestershire sauce, and biscuit mix to the meat mixture. Spread evenly in a pastry-lined pan.\n3. Beat eggs lightly and add cottage cheese, mixing well.\n4. Pour the egg mixture over the meat filling.\n5. Garnish with remaining mushrooms.\n6. Bake in an oven set to 375°F for 30 minutes. Serve the quiche hot.",
+  "url": null
+}

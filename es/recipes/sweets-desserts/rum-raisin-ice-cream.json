@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "rum-raisin-ice-cream",
+  "name": "Helado de pasas y ron",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postre",
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de pasas",
+    "3 onzas de ron oscuro",
+    "1 receta de base de helado de vainilla francesa"
+  ],
+  "recipeInstructions": "1. Remojar las pasas en ron durante 1 hora.\n2. Preparar la base de helado de vainilla francesa, colarla en un bol limpio y enfriar la mezcla.\n3. Transferir la mezcla al máquina de helados y congelar hasta que esté firme.\nRinde 1 litro.",
+  "url": null
+}

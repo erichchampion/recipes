@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-bbq-chicken",
+  "name": "Crockpot BBQ Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "poultry",
+    "sauces",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "Chicken pieces -- however many you need",
+    "Onion, cut up",
+    "1 Bottle BBQ sauce"
+  ],
+  "recipeInstructions": "1. Put chicken in the bottom of the Crockpot (I always skin mine first).\n2. Add onions and BBQ sauce.\n3. Cook on LOW for about 8 to 10 hours.",
+  "url": null
+}

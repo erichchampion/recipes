@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "sourdough-wheat-bread",
+  "name": "Sourdough Wheat Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "2 cups Sponge",
+    "1 1/2 teaspoons Salt",
+    "2 tablespoons Sugar",
+    "1 cup Whole wheat flour",
+    "1 1/2 cups White flour"
+  ],
+  "recipeInstructions": "1. Add salt, sugar, and the whole wheat flour to the sponge.\n2. Gradually add the white flour until a soft dough forms.\n3. Knead the dough for 10 minutes.\n4. Place the dough in a greased bowl and cover with a clean towel.",
+  "url": null
+}

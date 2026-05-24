@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "tangy-coleslaw",
+  "name": "Ensalada de col con aderezo agrio",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1/2 repollo grande, cortado en tiras finas",
+    "2 zanahorias grandes, cortadas en tiras finas",
+    "1/2 taza de pimiento verde, picado finamente",
+    "2 cucharadas de cebolla, picada finamente",
+    "Aderezo:",
+    "1/4 taza de azúcar",
+    "3 cucharadas de vinagre",
+    "2 cucharadas de aceite vegetal",
+    "1 cucharadita de semillas de apio",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar el repollo, las zanahorias, el pimiento verde y la cebolla.\n2. En un frasco con tapa ajustada, combinar los ingredientes del aderezo; agitar bien.\n3. Verter el aderezo sobre la mezcla de col y mezclar hasta que quede bien cubierta.\n4. Tapar el bol y refrigerar durante 4 horas antes de servir.",
+  "url": null
+}

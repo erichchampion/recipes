@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-dip",
+  "name": "Apple Dip",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "dips",
+    "fruit",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cups Brown sugar, packed",
+    "1/4 cup Sugar",
+    "1 teaspoon Vanilla extract",
+    "2 8 oz. Cream cheese",
+    "1 Cup Nuts, chopped"
+  ],
+  "recipeInstructions": "1. Blend together the sugars, vanilla extract, and cream cheese until smooth.\n2. Stir in the chopped nuts.\n3. Cut apples into slices and soak for a few minutes in lightly salted water to prevent browning.\n4. Dip the apples in the mixture away from you.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-streusel",
+  "name": "Manzanas con streusel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "frutas",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "6 manzanas, ácidas, peladas; sin corazón",
+    "1/3 taza de azúcar",
+    "1/2 cucharadita de canela",
+    "1/4 taza de jugo de naranja",
+    "3/4 taza de harina (de uso común)",
+    "1 cucharadita de polvo de hornear",
+    "4 cucharadas de mantequilla",
+    "2/3 taza de azúcar moreno",
+    "1 huevo",
+    "1/4 taza de nueces (picadas, opcional)"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180°C.\n2. Mezclar el azúcar, la canela y el jugo de naranja con las manzanas. Ligereza en la mezcla y colocar en un plato para hornear engrasado de 1 1/2 litros.\n3. Tamizar juntos la harina y el polvo de hornear.\n4. Cortar la mantequilla en la harina hasta obtener migas.\n5. Mezclar el azúcar moreno y el huevo. Añadir la mezcla, junto con las nueces, a la mezcla de harina.\n6. Espolvorear el streusel sobre la mezcla de manzana. Hornear durante 45 minutos o hasta que las manzanas estén tiernas y la corteza sea dorada.",
+  "url": null
+}

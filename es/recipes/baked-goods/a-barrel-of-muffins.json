@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "a-barrel-of-muffins",
+  "name": "Un Barril de Pasteles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "5 cucharaditas de bicarbonato de sodio",
+    "2 tazas de agua hirviendo",
+    "1 taza de aceite de canola",
+    "1 taza de azúcar o menos",
+    "6 claras de huevo",
+    "4 tazas de cereal All-Bran",
+    "2 tazas de copos de avena",
+    "5 tazas de harina blanca sin blanquear",
+    "4 tazas de buttermilk sin grasa"
+  ],
+  "recipeInstructions": "1. Mezclar el bicarbonato de sodio con el agua y dejar enfriar.\n2. Batir el aceite y el azúcar. Añadir las claras de huevo y mezclar bien.\n3. Combinar los cereales de avena y la harina. Incorporarlos a la mezcla con el buttermilk.\n4. Agregar el agua y el bicarbonato, y mezclar.\n5. Guardar la masa en un recipiente cubierto en el refrigerador. Antes de hornear, precalentar el horno a 375 °F (190 °C).\n6. Verter la masa en moldes para muffins engrasados o forrados con papel. Devolver el resto de masa al refrigerador.\n7. Hornear los muffins durante 20-25 minutos. Rinde 60 muffins.",
+  "url": null
+}

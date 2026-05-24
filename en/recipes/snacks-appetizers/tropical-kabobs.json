@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "tropical-kabobs",
+  "name": "Tropical Kabobs",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "dips",
+    "poultry",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1 lb Boneless chicken breasts",
+    "1 can Pineapple chunks (can size depends on personal taste)",
+    "Soy sauce",
+    "-----DIP-----",
+    "2 Tbsp Juice from canned pineapple",
+    "1/2 cup Orange marmalade",
+    "1/4 cup Plain yogurt",
+    "1 Tbsp Dijon mustard",
+    "1/2 tsp Curry powder"
+  ],
+  "recipeInstructions": "1. Cube the chicken and thread it onto skewers, alternating with canned pineapple chunks.\n2. Brush the chicken pieces with soy sauce.\n3. Grill or broil until the chicken is cooked through.\n4. In a separate bowl, combine the pineapple juice, marmalade, yogurt, mustard, and curry powder to make a dip.\n5. Serve the dip alongside the grilled kabobs.",
+  "url": null
+}

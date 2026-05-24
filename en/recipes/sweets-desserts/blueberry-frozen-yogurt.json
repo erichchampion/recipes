@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "blueberry-frozen-yogurt",
+  "name": "Blueberry Frozen Yogurt",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "frozen yogurt"
+  ],
+  "recipeIngredient": [
+    "2 cups blueberries, washed and picked over",
+    "1 banana, mashed",
+    "3/4 cup sugar",
+    "1/2 cup frozen orange juice concentrate (thawed)",
+    "2 cups nonfat yogurt",
+    "1 teaspoon vanilla extract"
+  ],
+  "recipeInstructions": "1. In an electric blender or food processor, combine all ingredients.\n2. Blend well until smooth.\n3. Pour the mixture into an ice cream maker and freeze according to manufacturer's instructions.\n4. Defrost slightly before serving.",
+  "url": null
+}

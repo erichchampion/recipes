@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "smoked-lobsters",
+  "name": "Langostinos ahumados",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "langostino",
+    "plato principal",
+    "carne",
+    "menú",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "6 langostinos enteros",
+    "1 bolsa de carbón de leña",
+    "1 bolsa de trozos de hickory"
+  ],
+  "recipeInstructions": "1. Envolver los langostinos en hojas de maíz.\n2. Colocarlos en la barra superior del fumador.\n3. Fumarlos durante 30 minutos.",
+  "url": null
+}

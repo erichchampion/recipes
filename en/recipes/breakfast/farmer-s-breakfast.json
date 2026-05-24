@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "farmer-s-breakfast",
+  "name": "Farmer's Breakfast",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "eggs",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1/2 pound bacon, chopped",
+    "2 boiled potatoes, peeled and cubed",
+    "1 onion, sliced thinly",
+    "8 eggs, beaten slightly",
+    "salt",
+    "black pepper"
+  ],
+  "recipeInstructions": "1. Cook the bacon until it is crisp. Remove from the pan and drain on paper towel.\n2. Pour off all but 3 tablespoons of bacon fat.\n3. Saute the onions in the remaining bacon fat until they are soft.\n4. Add the potatoes to the pan and cook, stirring often, until they start to brown.\n5. If the potatoes stick to the pan, add more bacon fat as needed.\n6. When the potatoes begin to brown, return the bacon and eggs to the pan.\n7. Cook, stirring constantly, until the eggs are set.\n8. Season with salt and pepper to taste.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "broccoli-casserole-2",
+  "name": "Broccoli Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "4 cups Broccoli, cooked",
+    "3 eggs",
+    "1 cup Mayonnaise",
+    "1 onion, chopped",
+    "1 cup Parmesan cheese",
+    "Salt and Pepper -- to taste",
+    "Bread crumbs"
+  ],
+  "recipeInstructions": "1. Beat the eggs in a bowl.\n2. Stir in mayonnaise, chopped onion, salt, pepper, and parmesan cheese.\n3. Add the cooked broccoli and sprinkle with bread crumbs.\n4. Place the mixture in a baking dish and bake at 350°F for 30 minutes.",
+  "url": null
+}

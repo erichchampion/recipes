@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-icing",
+  "name": "Glaseado de chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "chocolate",
+    "postres",
+    "glaseado"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "4 cucharadas de chocolate",
+    "3 cucharadas de leche",
+    "1 cucharada de agua"
+  ],
+  "recipeInstructions": "1. Mezclar el chocolate o cacao con la leche y el agua combinados.\n2. Calentar la mezcla hasta que hierva.\n3. Añadir el azúcar y continuar calentando durante cinco minutos, removiendo ocasionalmente.\n4. Extender el glaseado sobre un pastel frío.",
+  "url": null
+}

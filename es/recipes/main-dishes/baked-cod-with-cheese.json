@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-cod-with-cheese",
+  "name": "Bacalao al horno con queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de filetes de bacalao",
+    "sal",
+    "pimienta",
+    "1 cucharadita de tomillo",
+    "1/2 taza de queso suizo rallado",
+    "1 taza de crema agria"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 °F (175 °C).\n2. Lavar y secar los filetes de bacalao.\n3. Espolvorear con sal, pimienta y tomillo por ambos lados.\n4. Colocarlos en un molde para hornear engrasado.\n5. Espolvorear queso encima y cubrir con crema agria.\n6. Hornear durante 25 minutos.",
+  "url": null
+}

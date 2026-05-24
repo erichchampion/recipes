@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-dip",
+  "name": "Sándwich francés",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carnes",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "3 libras de lomo de res, desmenuzado",
+    "2 tazas de agua",
+    "1/2 taza de salsa de soja",
+    "1 cucharadita de romero seco",
+    "1 cucharadita de tomillo seco",
+    "1 cucharadita de polvo de ajo",
+    "1 hoja de laurel",
+    "3-4 granos de pimienta negra",
+    "8 bollos franceses, cortados por la mitad"
+  ],
+  "recipeInstructions": "1. Coloca el lomo en una olla de cocción lenta.\n2. Añade el agua, la salsa de soja y las especias.\n3. Tapa y cocina a potencia alta durante 5-6 horas o hasta que la carne esté tierna.\n4. Retira la carne del caldo; desmenúzala con tenedores y mantenla caliente.\n5. Cuela el caldo; retira la grasa.\n6. Vierte el caldo en tazas pequeñas para mojar.\n7. Sirve la carne sobre los bollos.",
+  "url": null
+}

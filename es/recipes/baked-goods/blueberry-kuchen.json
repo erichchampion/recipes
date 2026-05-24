@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "blueberry-kuchen",
+  "name": "Kuchen de arándanos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "fruta",
+    "pasteles",
+    "masa pastelera"
+  ],
+  "recipeIngredient": [
+    "Harina (1 taza)",
+    "Azúcar (2 cucharadas)",
+    "Sal (1/8 cucharadita)",
+    "Mantequilla fría (1/2 taza)",
+    "Vinagre blanco (1 cucharada)",
+    "Para el relleno:",
+    "Arándanos (3 tazas)",
+    "Azúcar (2/3 taza)",
+    "Canela (1 cucharadita)",
+    "Harina (1 cucharada)",
+    "Para la cobertura:",
+    "Arándanos (2 tazas)",
+    "Azúcar glas (2 cucharaditas)"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F.\n2. Para la masa: En un bol mediano, mezclar la harina, el azúcar y la sal. Cortar la mantequilla fría hasta obtener migas. Espolvorear con vinagre y formar una masa. Presionar la masa en un molde redondo de 9 pulgadas sin engrasar, a un grosor de aproximadamente 1/4 de pulgada, trabajando los lados del molde.\n3. Colocar los arándanos sobre la masa. Mezclar el azúcar, la canela y la harina para el relleno, luego espolvorear uniformemente sobre las bayas.\n4. Hornear en la rejilla inferior durante 50 minutos o hasta que la masa esté dorada y el relleno burbujee.\n5. Retirar del horno y espolvorear inmediatamente con los arándanos restantes. Dejar reposar a temperatura ambiente durante aproximadamente una hora antes de espolvorear con azúcar glas y servir.",
+  "url": null
+}

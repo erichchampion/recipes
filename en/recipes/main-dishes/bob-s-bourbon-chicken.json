@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "bob-s-bourbon-chicken",
+  "name": "Bob's Bourbon Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1 Chicken, cut up,",
+    "or",
+    "1 1/2 pounds Boneless chicken breast",
+    "GLAZE:",
+    "1 cup Bourbon whiskey",
+    "1/2 cup Dark brown sugar",
+    "1 cup Ketchup",
+    "2 teaspoons Worcestershire sauce",
+    "1/4 cup White vinegar",
+    "1 tablespoon Fresh lemon juice",
+    "3 Cloves garlic, minced",
+    "1/2 teaspoon Dry mustard, to taste",
+    "Salt and pepper"
+  ],
+  "recipeInstructions": "1. In a bowl, whisk together the bourbon, dark brown sugar, ketchup, Worcestershire sauce, white vinegar, lemon juice, minced garlic, dry mustard, salt, and pepper.\n2. Brush the chicken (either cut-up pieces or boneless breast) with a thin coating of the glaze.\n3. Place the chicken on the grill.\n4. Continue to baste the chicken while turning it occasionally until cooked through.",
+  "url": null
+}

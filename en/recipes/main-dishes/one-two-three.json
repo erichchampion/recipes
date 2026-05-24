@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "one-two-three",
+  "name": "One, Two, Three",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "casseroles",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground beef",
+    "1 small Cabbage",
+    "1 can Tomato soup (undiluted)",
+    "1 Salt & pepper to taste"
+  ],
+  "recipeInstructions": "1. Place the ground beef in a large Dutch oven.\n2. Layer the cabbage over the ground beef.\n3. Repeat the layers of ground beef and cabbage until all ingredients are used, finishing with cabbage on top.\n4. Pour undiluted tomato soup evenly over the layered vegetables.\n5. Sprinkle salt and pepper to taste over the top.\n6. Cover the Dutch oven tightly.\n7. Bake in a preheated oven for 1 hour or until the dish is thoroughly heated through.",
+  "url": null
+}

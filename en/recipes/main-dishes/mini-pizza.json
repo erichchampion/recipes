@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "mini-pizza",
+  "name": "Mini Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "appetizers",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground beef",
+    "1 lb Sausage",
+    "1 lb Velveeta cheese",
+    "1 d Oregano",
+    "2 tbsp Catsup",
+    "4 drops Worcestershire sauce"
+  ],
+  "recipeInstructions": "1. Brown the meat.\n2. Add the sausage to the pan and cook until browned.\n3. Stir in the Velveeta cheese, oregano, catsup, and Worcestershire sauce.\n4. Spoon the mixture onto mini French bread rounds.\n5. Freeze the assembled pizzas for later use.\n6. Preheat the oven to 350 degrees Fahrenheit (175 degrees Celsius).\n7. Bake each pizza for 8 to 10 minutes or until heated through.",
+  "url": null
+}

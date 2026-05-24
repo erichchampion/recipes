@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-boiled-shrimp",
+  "name": "Camarones hervidos en cerveza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "alcohol",
+    "aperitivos",
+    "bajo en calorías",
+    "plato principal",
+    "carne",
+    "marisco",
+    "gambas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de cerveza Budweiser",
+    "2 cebollas pequeñas, cortadas en rodajas",
+    "1 diente de ajo",
+    "1 hoja de laurel",
+    "3 granos de pimienta entera",
+    "2 tallos de apio",
+    "2 cucharaditas de sal",
+    "1/2 limón, cortado en cuartos",
+    "2 libras de langostinos, limpios y desvenados"
+  ],
+  "recipeInstructions": "1. Verter la cerveza Budweiser en una olla grande.\n2. Añadir la cebolla, el ajo, la hoja de laurel, los granos de pimienta, el apio y la sal a la cerveza en la olla.\n3. Llevar la mezcla a ebullición a fuego medio.\n4. Reducir el fuego y dejar que hierva a fuego lento durante 10 minutos.\n5. Añadir los cuartos de limón y los langostinos a la olla.\n6. Dejar que hierva a fuego lento durante 12 minutos adicionales.\n7. Retirar la olla del fuego y dejarla enfriar ligeramente.\n8. Escurrir el exceso de líquido, si es necesario.\n9. Desmenuzar las cáscaras de los langostinos.\n10. Enfriar bien los langostinos antes de servir.",
+  "url": null
+}

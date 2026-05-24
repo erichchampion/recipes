@@ -1,0 +1,36 @@
+{
+  "@type": "Recipe",
+  "identifier": "dagwood-bumstead-sandwich",
+  "name": "Sándwich de Dagwood Bumstead",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "3 cebollas grandes",
+    "1 lechuga (cabeza)",
+    "4 tomates (en rodajas)",
+    "1 cola de langosta",
+    "1 garra de águila",
+    "1 pescado (preferiblemente de dos días de antigüedad)",
+    "1 olla de espaguetis (fríos y pegajosos)",
+    "1 libra de tocino (cocido)",
+    "1 carne molida",
+    "1 jamón",
+    "1 huevo frito (poco hecho)",
+    "1 salchicha (en hilo)",
+    "1 tarro de relish de pepinillos",
+    "1 lata de sardinas en aceite",
+    "1 botella de ketchup",
+    "1 botella de mostaza dulce",
+    "1 botella de mostaza caliente",
+    "1 hogaza de pan",
+    "Queso variado",
+    "Verduras variadas",
+    "Aceitunas variadas"
+  ],
+  "recipeInstructions": "Coloca los ingredientes entre dos rebanadas de pan. Sirve para uno.",
+  "url": null
+}

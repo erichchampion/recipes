@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "miso-soup-with-shrimp",
+  "name": "Sopa de Miso con Gamberos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "mariscos",
+    "sopas",
+    "guisos/sopas"
+  ],
+  "recipeIngredient": [
+    "10 gamberos grandes cocidos y pelados",
+    "3 tazas de caldo Dashi",
+    "1/2 taza de miso claro",
+    "2 pasteles pequeños Kamaboko, cortados en rodajas finas",
+    "1 cucharadita de azúcar",
+    "2 cebollas verdes picadas",
+    "1/2 tofu fresco cortado en cubos pequeños"
+  ],
+  "recipeInstructions": "1. Preparar el caldo según las instrucciones del paquete y llevarlo a ebullición suave.\n2. Incorporar el miso con un batidor de alambre.\n3. Añadir el azúcar, los pasteles Kamaboko y el tofu.\n4. Dividir la sopa en cinco cuencos.\n5. Colocar las cebollas verdes y los gamberos en cada cuenco.",
+  "url": null
+}

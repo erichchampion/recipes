@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "apples-and-oat-cereal",
+  "name": "Manzanas y cereal de avena",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "frutas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "4 tazas de agua",
+    "1 1/3 tazas de avena gruesa",
+    "1/2 taza de pasas",
+    "1 manzana, rallada",
+    "1 cucharada de sirope de arce",
+    "1/2 cucharadita de semillas de eneldo molidas",
+    "1/2 cucharadita de canela molida",
+    "1 taza (1-2) de leche desnatada"
+  ],
+  "recipeInstructions": "1. En una olla de 2 cuartos, llevar a ebullición el agua y la avena, removiendo constantemente.\n2. Reducir el calor a bajo y cocinar durante 2 minutos, revolviendo con frecuencia hasta que espese.\n3. Retirar del fuego y mezclar en las pasas, la manzana, el sirope de arce, las semillas de eneldo y la canela.\n4. Dejar reposar durante 5 minutos.\n5. Servir en cuencos con la leche.",
+  "url": null
+}

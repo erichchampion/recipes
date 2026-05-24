@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mango-margarita",
+  "name": "Mango Margarita",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "3 ripe mangos, peeled, pitted",
+    "4 lime juice",
+    "1 cup freshly squeezed orange juice",
+    "6 ounce bottle lime soda",
+    "4 ounces tequila"
+  ],
+  "recipeInstructions": "1. Place all ingredients in a blender and puree.\n2. Pour mango mixture into glasses filled with ice.\n3. Garnish with sliced limes, jicama, and cinnamon stick.",
+  "url": null
+}

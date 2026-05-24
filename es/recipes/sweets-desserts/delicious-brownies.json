@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "delicious-brownies",
+  "name": "Deliciosos brownies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "brownie",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 Caja de mezcla para brownies de doble chocolate con nueces",
+    "6 onzas de chispas de chocolate Nestlé",
+    "4 onzas de almendras laminadas"
+  ],
+  "recipeInstructions": "1. En un molde rectangular de 30x40 cm, espolvorea las chispas de chocolate y las almendras sobre la mezcla de brownies preparada.\n2. Hornea según las instrucciones del paquete.\n3. Ten cuidado de no sobrecocinar; si es necesario, hornea menos tiempo y deja que se enfríen durante al menos una hora antes de cortarlos en cuadrados o rectángulos de 5x5 cm (o 7x7 cm).\n4. Si alguien pregunta por la receta, simplemente sonríe y di que es un secreto.",
+  "url": null
+}

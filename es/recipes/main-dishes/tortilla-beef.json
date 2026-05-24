@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tortilla-beef",
+  "name": "Tortilla de carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento"
+  ],
+  "recipeIngredient": [
+    "2 dientes de ajo, picados",
+    "2 libras de solomillo",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "2 cucharadas de jugo de limón o lima",
+    "1 cebolla mediana, picada",
+    "1 taza de zanahorias, picadas",
+    "1 cucharadita de orégano",
+    "1/2 taza de caldo de carne",
+    "1 lata de tomates (400 g), pelados"
+  ],
+  "recipeInstructions": "1. Extender el ajo picado uniformemente sobre el solomillo y espolvorear con sal, pimienta y jugo de limón.\n2. Colocar el solomillo sazonado en la olla de cocción lenta.\n3. Añadir la cebolla, las zanahorias, el orégano, el caldo de carne y los tomates a la olla de cocción lenta.\n4. Configurar la olla a fuego bajo y cocinar durante 8 horas hasta que la carne esté tierna y se desmenuce fácilmente con un tenedor.\n5. Rellenar las tortillas con los ingredientes deseados y la carne cocida.",
+  "url": null
+}

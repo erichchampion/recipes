@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "uncle-john-s-ice-cream",
+  "name": "Helado de Tío Juan",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de azúcar",
+    "1 cucharada de almidón de maíz",
+    "1 cucharadita de sal",
+    "10 huevos batidos, uno a la vez (hasta alcanzar la riqueza deseada)",
+    "1 lata de leche condensada endulzada",
+    "1 lata de 400 ml de leche evaporada",
+    "1 taza de leche"
+  ],
+  "recipeInstructions": "Para una heladera de 4-5 litros.\nMezclar en un cazo grande:\nEn un baño maría, llevar a ebullición, removiendo constantemente.\nCuando empiece a espesarse, retirar del fuego.\nAgregar inmediatamente 2 tazas de leche fría, 1/2 cucharadita de extracto de almendras y 2-4 cucharadas de vainilla.\nVerter en el recipiente de la heladera y llenar hasta la línea de llenado con leche (o media crema).\nCongelar según las instrucciones de la máquina...",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "garlic-broth",
+  "name": "Garlic Broth",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "appetizers",
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "2 unpeeled garlic heads, separated",
+    "1 crumbled Bay leaf",
+    "6 tbsp Water",
+    "1/2 cup chopped fresh parsley",
+    "1/2 tsp Sage",
+    "1/2 tsp Curry powder",
+    "1 pinch Saffron",
+    "1 peeled onion, quartered",
+    "2 celery stalks, cut into thirds"
+  ],
+  "recipeInstructions": "1. Wrap the garlic and bay leaf in cheesecloth.\n2. Place all ingredients in a soup pot.\n3. Cover and bring to a boil.\n4. Lower heat and simmer for 25 minutes.\n5. Remove from heat and let cool slightly.\n6. Remove garlic and bay leaf.\n7. Puree the broth and vegetables in a blender.\n8. Season to taste and serve.",
+  "url": null
+}

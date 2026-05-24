@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "enchilada-sauce",
+  "name": "Enchilada Sauce",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "american",
+    "enchilada",
+    "ethnic",
+    "four star",
+    "mexican"
+  ],
+  "recipeIngredient": [
+    "2 Cups tomato sauce or 1 large can + 4 cups water",
+    "3 Tablespoons garlic powder",
+    "3 Tablespoons onion powder",
+    "3 tablespoons chili powder",
+    "3 tablespoons cornstarch"
+  ],
+  "recipeInstructions": "1. In a saucepan, combine the tomato sauce (or canned tomatoes and water), garlic powder, onion powder, chili powder, and cornstarch.\n2. Stir constantly until the mixture boils and thickens, about 7 minutes.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "herb-tomato-grilled-chicken",
+  "name": "Herb-Tomato Grilled Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecue",
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "3 lbs Chicken, cut into pieces",
+    "1 dash Salt",
+    "1 dash Black pepper"
+  ],
+  "recipeInstructions": "1. Preheat grill to medium heat.\n2. Combine salt and black pepper with chopped herbs in a small bowl.\n3. Rub mixture onto chicken pieces, ensuring even coating.\n4. Place chicken on the hot part of the grill.\n5. Cook for 6-8 minutes per side or until internal temperature reaches 165°F (74°C).\n6. Remove from heat and let rest for 5 minutes before serving.",
+  "url": null
+}

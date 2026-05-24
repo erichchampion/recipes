@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "mazetti",
+  "name": "Mazetti",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida (o carne cocida sobrante)",
+    "8 oz de macarrones anchos sin cocer (1 paquete)",
+    "1 cebolla grande picada (1 taza)",
+    "4 costillas de apio picadas (1 1/2 tazas)",
+    "1 diente de ajo machacado",
+    "12 oz de maíz escurrido (1 lata)",
+    "10 oz de sopa de tomate condensada (1 lata)",
+    "4 oz de setas, tallos y trozos escurridos (1 lata)",
+    "1/2 taza de leche",
+    "1/4 cucharadita de sal",
+    "1/2 cucharadita de pimienta",
+    "1/4 taza de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Coloca la carne en una sartén y drena bien.\n2. Añade la carne, los macarrones sin cocer y el resto de ingredientes (excepto el queso) a una olla lenta.\n3. Tapa y cocina a temperatura baja durante 8 horas, o hasta que los macarrones estén tiernos.\n4. Cubre con queso, tapa y cocina hasta que se derrita el queso.",
+  "url": null
+}

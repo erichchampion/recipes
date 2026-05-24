@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "uncooked-cookies",
+  "name": "Uncooked Cookies",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts",
+    "ethnic",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "2 cups Sugar",
+    "1/2 cup Milk",
+    "4 oz Margarine",
+    "3 cups Quick Cooking Oats",
+    "1 tbsp Cocoa",
+    "1/2 cup Chopped Nuts",
+    "OR",
+    "1/2 cup Coconut",
+    "1 tsp Vanilla"
+  ],
+  "recipeInstructions": "1. Combine sugar, milk, and margarine in a saucepan.\n2. Bring to a rolling boil and continue boiling for one minute.\n3. Mix together oats, cocoa, nuts or coconut, and vanilla (if using).\n4. Pour the liquid mixture over the dry ingredients.\n5. Mix well until combined.\n6. Drop spoonfuls onto waxed paper.\n7. Let set until firm before removing from the oven.",
+  "url": null
+}

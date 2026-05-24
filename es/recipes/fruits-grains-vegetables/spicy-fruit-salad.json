@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-fruit-salad",
+  "name": "Ensalada de frutas picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frutas",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 naranja grande, pelada y dividida en secciones",
+    "1 pera mediana, cortada en cubos",
+    "2 plátanos, pelados y rebanados",
+    "1/2 taza de ciruelas pasas, cortadas en dados",
+    "1 taza de uvas rojas o moradas sin semillas",
+    "1/3 taza de nueces tostadas"
+  ],
+  "recipeInstructions": "1. Pelar las naranjas y cortarlas en secciones.\n2. Cubar la pera.\n3. Rebanar los plátanos.\n4. Cortar las ciruelas pasas en dados.\n5. Cortar las uvas por la mitad (si son grandes).\n6. Tostar las nueces hasta que estén ligeramente doradas.\n7. Mezclar todas las frutas y nueces en un bol.",
+  "url": null
+}

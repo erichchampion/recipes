@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "wacky-cake",
+  "name": "Wacky Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cake",
+    "cakes",
+    "chocolate",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "3/4 cup Unbleached all-purpose flour",
+    "1 cup Sugar",
+    "3 tablespoons Cocoa",
+    "1 teaspoon Baking soda",
+    "1/2 teaspoon Salt",
+    "1 teaspoon Vanilla extract",
+    "1 teaspoon Vinegar",
+    "5 tablespoons Vegetable oil",
+    "1 cup Cold water"
+  ],
+  "recipeInstructions": "1. In a large bowl, combine the flour, sugar, cocoa, baking soda, and salt.\n2. Make three wells in the dry ingredients. Place vanilla extract in one well, vinegar in another, and vegetable oil in the third.\n3. Pour 1 cup cold water over all of the ingredients and stir until just combined. Do not beat.\n4. Pour the batter into an 8 x 8-inch pan.\n5. Bake at 350 degrees F (175 degrees C) for a cake that springs back when lightly touched.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-ball-1",
+  "name": "Pelota de queso #1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "8 onzas de queso crema ablandado",
+    "1/4 taza de mayonesa",
+    "4 onzas de jamón devilado enlatado",
+    "1 cucharada de perejil picado",
+    "1 cucharadita de cebolla picada",
+    "1/4 cucharadita de mostaza seca",
+    "1/4 cucharadita de salsa Tabasco",
+    "1/2 taza de nueces picadas"
+  ],
+  "recipeInstructions": "1. Batir el queso crema y la mayonesa hasta obtener una textura suave.\n2. Incorporar los siguientes cinco ingredientes: jamón devilado, perejil, cebolla, mostaza seca y salsa Tabasco.\n3. Tapar y refrigerar durante varias horas.\n4. Formar bolas y rodarlas en las nueces para cubrirlos.",
+  "url": null
+}

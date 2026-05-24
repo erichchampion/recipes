@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-hot-pot",
+  "name": "Olla de hamburguesa caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de carne molida de chuck o carne picada magra",
+    "1/4 cucharadita de polvo de ajo",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "6 papas medianas, peladas y cortadas en rodajas",
+    "3 cebollas medianas, cortadas en rodajas",
+    "1 lata de sopa de setas doradas",
+    "1/2 taza de agua"
+  ],
+  "recipeInstructions": "Sirve para 4 a 6 personas\nEn una sartén, dora ligeramente la carne molida; escurre bien. Agrega el polvo de ajo, la sal y la pimienta; reserva.\nColoca la mitad de las papas y la mitad de las cebollas en un Crock-Pot engrasado.\nAñade la carne dorada.\nCubre con las papas y cebollas restantes.\nCombina la sopa de setas y el agua; extiende sobre la parte superior, asegurándote de humedecer y cubrir uniformemente.\nTapa y cocina a fuego lento durante 8 a 10 horas o a alto durante 3 a 4 horas.",
+  "url": null
+}

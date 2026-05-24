@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-sauce",
+  "name": "Pasta Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "sauces",
+    "side dishes",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "15 oz Low-sodium tomato puree",
+    "15 oz Low-sodium tomato sauce",
+    "6 oz Tomato paste, no salt added",
+    "Ground red pepper to taste",
+    "1/8 tsp Nutmeg",
+    "1/2 tsp Basil",
+    "1 tbsp Parsley flakes",
+    "3 Minced garlic cloves",
+    "1/2 tsp Black pepper",
+    "2 Minced shallots",
+    "1/2 cup White wine"
+  ],
+  "recipeInstructions": "1. In a saucepan, combine all ingredients.\n2. Simmer for 15-20 minutes.\n3. Add ground red pepper last to taste.\n4. Serve over pasta.",
+  "url": null
+}

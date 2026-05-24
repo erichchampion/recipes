@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "java-fudge",
+  "name": "Fudge de Java",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "caramelo",
+    "postres",
+    "fudge"
+  ],
+  "recipeIngredient": [
+    "3 tazas de azúcar",
+    "1 1/2 tazas de crema ligera",
+    "3 cucharadas de jarabe de maíz ligero",
+    "2 cucharadas de cristales de café instantáneo",
+    "Una pizca de sal disuelta",
+    "2 cucharadas de mantequilla o margarina",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. En una cacerola de 3 litros engrasada, mezcle los primeros cinco ingredientes y lleve a ebullición, removiendo constantemente.\n2. Hierva sin remover hasta que alcance el punto de hilo o hasta que un termómetro de caramelo registre 234 °F (112 °C). Retire del fuego.\n3. Añada la mantequilla y la vainilla. No mezcle.\n4. Deje enfriar hasta los 110 °F (43 °C). Bata durante unos 10 minutos hasta que el caramelo pierda su brillo.\n5. Vierta en un molde cuadrado de 20 cm engrasado.\n6. Deje enfriar y corte en cuadrados. Rinde aproximadamente 1,75 libras (790 g).",
+  "url": null
+}

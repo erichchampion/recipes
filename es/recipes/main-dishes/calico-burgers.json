@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "calico-burgers",
+  "name": "Hamburguesas Calico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de carne molida",
+    "1/2 taza de arroz cocido",
+    "1/4 taza de cebolla picada",
+    "1/4 taza de pimiento verde picado",
+    "1 cucharadita de perejil seco",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de polvo de ajo"
+  ],
+  "recipeInstructions": "1. En un bol, mezcle los ocho ingredientes y combine bien.\n2. Forme cuatro a seis hamburguesas ovaladas.\n3. Asar sobre brasas calientes hasta que la carne alcance el punto deseado de cocción, aproximadamente 15-20 minutos.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "creamy-mocha-frozen-dessert",
+  "name": "Postre helado de mocha cremoso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "Base:",
+    "1 1/2 tazas de migas de galleta de chocolate",
+    "1/2 taza de nueces picadas finamente",
+    "1/4 taza de mantequilla derretida",
+    "2 cucharadas de mantequilla derretida",
+    "Relleno:",
+    "16 onzas de queso crema, ablandado",
+    "14 onzas de leche evaporada azucarada",
+    "1/2 taza de jarabe de chocolate",
+    "1 cucharadita de café instantáneo disuelto en 1 cucharada de agua caliente",
+    "8 onzas de crema batida congelada",
+    "1/4 taza de nueces picadas"
+  ],
+  "recipeInstructions": "1. Batir el queso crema hasta que esté esponjoso.\n2. Incorporar la leche evaporada azucarada, el jarabe de chocolate y la mezcla de café disuelta en agua caliente hasta obtener una textura suave.\n3. Mezclar la crema batida congelada.\n4. Verter la mezcla sobre la base preparada.\n5. Decorar con nueces picadas.\n6. Congelar durante la noche o hasta que esté firme.",
+  "url": null
+}

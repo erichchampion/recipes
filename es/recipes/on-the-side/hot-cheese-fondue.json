@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-cheese-fondue",
+  "name": "Fondue de Queso Caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "fondue",
+    "guarniciones",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de harina",
+    "2 cucharaditas de polvo de chile, al gusto",
+    "1 libra de queso Monterey Jack rallado",
+    "1/2 libra de queso cheddar fuerte rallado",
+    "1 lata (350 g) de cerveza",
+    "1 diente de ajo, picado finamente",
+    "1 lata (100 g) de chiles verdes, picados",
+    "Pimientos jalapeños picados (opcional)"
+  ],
+  "recipeInstructions": "1. Mezclar la harina con el polvo de chile y mezclarlo con los quesos rallados.\n2. Verter la cerveza en el cacerolón lento y cubrir con la mezcla de queso.\n3. Colocar el ajo, los chiles verdes y los pimientos jalapeños (si se desea) sobre el queso. No remover hasta que el queso empiece a derretirse.\n4. Calentar a fuego lento hasta que el queso esté completamente derretido y suave. Remover ocasionalmente. Servir caliente con pan o verduras.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "alfredo",
+  "name": "Alfredo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de mantequilla",
+    "2 tazas de crema espesa",
+    "1/8 cucharadita de nuez moscada",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra",
+    "3/4 taza de queso parmesano rallado",
+    "1 libra de fetuccine cocido"
+  ],
+  "recipeInstructions": "1. Combinar la mantequilla, la crema, la nuez moscada, la sal y la pimienta en una sartén a fuego medio.\n2. Calentar hasta que la mezcla hierva.\n3. Reducir el calor a bajo y dejar hervir a fuego lento durante 4 minutos.\n4. Retirar del fuego y mezclar el queso parmesano rallado.\n5. Servir con el fetuccine cocido.",
+  "url": null
+}

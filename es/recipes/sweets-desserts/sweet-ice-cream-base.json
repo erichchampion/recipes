@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-ice-cream-base",
+  "name": "Base de helado dulce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "2 huevos grandes",
+    "3/4 taza de azúcar",
+    "2 tazas de crema espesa o nata para montar",
+    "1 taza de leche"
+  ],
+  "recipeInstructions": "1. Batir los huevos en un bol hasta que estén ligeros y esponjosos, aproximadamente 1-2 minutos.\n2. Añadir el azúcar poco a poco mientras se bate hasta que esté completamente integrado.\n3. Verter la crema espesa (o nata para montar) y la leche, y batir hasta mezclar.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-pie",
+  "name": "Tarta de plátano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "plátanos",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 1/2 tazas de leche",
+    "2/3 taza de azúcar",
+    "1/4 taza de maicena",
+    "Una pizca de sal",
+    "2 huevos",
+    "1 cucharada de mantequilla",
+    "1 cucharadita de vainilla",
+    "3 plátanos",
+    "Masa de tarta de 23 cm, horneada",
+    "Crema batida al gusto"
+  ],
+  "recipeInstructions": "1. Calentar la leche.\n2. Mezclar el azúcar, la maicena y la sal, añadir a la leche caliente, remover rápidamente y cocinar hasta espesarse.\n3. Batir los huevos. Añadir un poco del líquido caliente a los huevos, luego incorporarlos a la mezcla espesa. Cocinar de 3 a 5 minutos.\n4. Incorporar la mantequilla y la vainilla.\n5. Enfriar, removiendo solo una vez después de 5 minutos.\n6. Cortar los plátanos en rodajas y colocarlos en la base de la masa de tarta horneada.\n7. Extender la mitad del relleno sobre los plátanos.\n8. Añadir otra capa de rodajas de plátano y cubrir con el resto del relleno.\n9. Decorar con plátanos y crema batida.",
+  "url": null
+}

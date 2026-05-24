@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "waffles-8",
+  "name": "Waffles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breads",
+    "breakfast",
+    "main dish",
+    "waffles"
+  ],
+  "recipeIngredient": [
+    "1 cup Milk",
+    "2 tablespoons Cream of Wheat",
+    "2 tablespoons Butter, melted",
+    "1 teaspoon Wheat Gluten",
+    "3/4 cup Whole Wheat Flour",
+    "2 teaspoons Baking Powder",
+    "2 tablespoons Plain Yogurt",
+    "1 Egg",
+    "1 teaspoon Sugar",
+    "1/2 teaspoon Vanilla"
+  ],
+  "recipeInstructions": "1. Combine the milk and cream of wheat in a bowl until softened.\n2. Stir in the melted butter, vanilla, sugar, and yogurt.\n3. Beat the egg separately.\n4. Mix the egg with the dry ingredients (wheat gluten, flour, baking powder).\n5. Gradually combine the wet and dry mixtures until just blended.\n6. Pour batter into a preheated waffle iron to make 3 round Belgium-style waffles.",
+  "url": null
+}

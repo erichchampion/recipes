@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "planter-s-punch-admiral-s-inn",
+  "name": "Planter's Punch (Admiral's Inn)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/4 cup Sugar",
+    "1/4 cup Lime Juice",
+    "2 cups Dark Rum",
+    "2 cups Light Rum",
+    "1/4 cup Cointreau",
+    "1/4 cup Sweet Vermouth",
+    "1/4 cup Creme de Cacao",
+    "1/4 cup Dubonnet",
+    "2 1/4 cups Orange Juice",
+    "2 1/4 cups Pineapple Juice",
+    "1 1/4 cups Water",
+    "Angostura Bitters; a few dashes",
+    "Orange Slices; garnish",
+    "Marashino Cherries; garnish"
+  ],
+  "recipeInstructions": "1. Mix the sugar and lime juice.\n2. Add the rums to the mixture.\n3. Incorporate the remaining liquors, fruit juices, water, and bitters.\n4. Blend until thoroughly combined.\n5. Just before serving, add ice cubes and garnish with orange slices and marashino cherries.",
+  "url": null
+}

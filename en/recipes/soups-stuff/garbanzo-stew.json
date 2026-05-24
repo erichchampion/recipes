@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "garbanzo-stew",
+  "name": "Garbanzo Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "entree",
+    "freezable",
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "4 cups vegetable stock",
+    "1 cup garbanzo beans, soaked overnight",
+    "1 cup onion, diced",
+    "1 cup tomatoes, diced",
+    "1 tablespoon fresh ginger, minced",
+    "2 teaspoons ground coriander",
+    "1 teaspoon garlic, minced",
+    "1/4 teaspoon ground cumin",
+    "freshly ground pepper to taste",
+    "salt to taste",
+    "1 teaspoon lime juice",
+    "1 tablespoon parsley, chopped"
+  ],
+  "recipeInstructions": "1. Combine the vegetable stock and garbanzo beans in a large pot. Bring to a boil and simmer covered for about an hour, until tender. Reserve 1 cup of liquid when drained.\n2. In the same pot, combine the garbanzos, reserved liquid, onion, tomatoes, ginger, coriander, garlic, and cumin. Bring to a boil and simmer covered for 20 minutes.\n3. Season to taste with salt and pepper. Garnish with lime juice and chopped parsley.",
+  "url": null
+}

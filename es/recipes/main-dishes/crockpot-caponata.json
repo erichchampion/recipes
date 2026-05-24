@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-caponata",
+  "name": "Cazuela de Caponata",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 lb de tomates pera, picados",
+    "1 berenjena, cortada en trozos de 1 pulgada",
+    "2 calabacines medianos, cortados en trozos de 1 pulgada",
+    "1 cebolla, finamente picada",
+    "3 tallos de apio, rebanados",
+    "1/2 taza de perejil picado",
+    "2 cucharadas de vinagre de vino tinto",
+    "1 cucharada de azúcar moreno",
+    "1/4 taza de pasas",
+    "1/4 taza de pasta de tomate",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra recién molida",
+    "3 cucharadas de aceite (opcional)",
+    "2 cucharadas de alcaparras (opcional)"
+  ],
+  "recipeInstructions": "1. Mezclar en la olla lenta los tomates picados, berenjena, calabacines, apio, cebolla, perejil, vinagre, azúcar, pasas, pasta de tomate, sal y pimienta.\n2. Cocinar a fuego lento, cubierto, durante 5,5 horas. No quitar la tapa durante la cocción.\n3. Incorporar las alcaparras y el aceite, si se usan. Servir caliente o frío.",
+  "url": null
+}

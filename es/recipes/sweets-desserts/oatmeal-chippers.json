@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "oatmeal-chippers",
+  "name": "Chipas de avena",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 huevos, batidos",
+    "1/2 taza de leche",
+    "2 cucharaditas de vainilla",
+    "6 onzas de chips de chocolate",
+    "1/2 taza de nueces, picadas",
+    "6 tazas de mezcla para galletas de avena"
+  ],
+  "recipeInstructions": "1. Mezcla los huevos, la leche y la vainilla con la mezcla de galletas de avena.\n2. Agrega los chips de chocolate y las nueces picadas.\n3. Vierte cucharadas de la masa a unos 5 cm de distancia en bandejas para hornear.\n4. Hornea a 180 °C durante 12 a 15 minutos.",
+  "url": null
+}

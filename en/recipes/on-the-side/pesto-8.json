@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pesto-8",
+  "name": "Pesto",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "italian",
+    "pesto",
+    "sauce",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/2 cup fresh basil leaves",
+    "1 tablespoon pine nuts",
+    "1 tablespoon grated Parmesan cheese",
+    "1/2 clove garlic",
+    "1/4 cup olive oil"
+  ],
+  "recipeInstructions": "1. Combine the basil, pine nuts, Parmesan cheese, and garlic in a food processor.\n2. Whir until minced.\n3. Slowly add olive oil, up to 1/4 cup, while the machine is running to form a paste.\nPesto can be made several days ahead.\nYields: 1/2 cup",
+  "url": null
+}

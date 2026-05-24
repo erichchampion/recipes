@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "alphabet-soup",
+  "name": "Sopa de Alfabeto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "pasta",
+    "restaurantes",
+    "sopas",
+    "sopa vegetal"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de zanahorias, picadas",
+    "1/4 taza de rutabaga, picada",
+    "1/4 taza de apio, picado",
+    "1/4 taza de cebolla, picada",
+    "1 taza de tomates triturados",
+    "1/4 taza de guisantes",
+    "1/4 taza de judías verdes congeladas",
+    "2 cucharadas de cebada perlada cocida y enfriada",
+    "1/4 taza de pasta en forma de letras cocida y enfriada",
+    "2 tazas de agua",
+    "2 cubos de caldo de pollo",
+    "2 cubos de caldo de carne",
+    "2 cucharadas de almidón de maíz disueltas en 1/4 taza de agua"
+  ],
+  "recipeInstructions": "1. En una olla para sopa, combina el agua y el caldo. Lleva a ebullición.\n2. Reduce el fuego y deja que hierva a fuego lento, cubierto, durante 15 minutos.\n3. Añade las zanahorias, la rutabaga, el apio y la cebolla. Hierve a fuego lento durante otros 15 minutos o hasta que estén tiernas pero no deshechas.\n4. Cocina la cebada y la pasta de letras por separado, enjuágalas, escúrrelas y enfríalas.\n5. Después de que las verduras estén tiernas, añade los tomates, los guisantes y las judías verdes. Hierve a fuego lento durante 5 minutos adicionales.\n6. Mezcla la mezcla de almidón de maíz y agua para espesar ligeramente.\n7. Añade la cebada y la pasta enfriadas.\n8. Calienta solo lo suficiente para calentar todos los ingredientes.",
+  "url": null
+}

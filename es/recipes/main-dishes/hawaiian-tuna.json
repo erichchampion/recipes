@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "hawaiian-tuna",
+  "name": "Tuna Hawaiano",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "asiático",
+    "étnico",
+    "pescado",
+    "hawaiano"
+  ],
+  "recipeIngredient": [
+    "1 paquete de sopa seca de fideos de pollo",
+    "1 lata de atún (7 onzas)",
+    "1 cucharada de mantequilla o margarina",
+    "1/2 cucharadita de salsa de soja",
+    "1 lata de piña en trozos o triturada",
+    "2 cucharadas de almidón de maíz"
+  ],
+  "recipeInstructions": "1. Escurrir la piña y reservar el líquido.\n2. Freír la piña en mantequilla durante 5 minutos.\n3. Añadir suficiente agua al líquido reservado de la piña para obtener 1 taza.\n4. Mezclar el almidón de maíz con el líquido y añadir la sopa de fideos de pollo. Remover suavemente hasta que se disuelva.\n5. Verter las sopas y líquidos de piña en una sartén.\n6. Incorporar el atún y calentar a fuego lento durante unos 5 minutos, removiendo ocasionalmente para evitar que se pegue.\n7. Antes de servir, mezclar la salsa de soja.",
+  "url": null
+}

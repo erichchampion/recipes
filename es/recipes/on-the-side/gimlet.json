@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "gimlet",
+  "name": "Gimlet",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 oz de ginebra",
+    "1/2 oz de jugo de lima Rose's",
+    "Hielo picado"
+  ],
+  "recipeInstructions": "1. Llena un vaso mezclador con hielo picado.\n2. Añade la ginebra y el jugo de lima Rose's al vaso mezclador.\n3. Agita bien hasta enfriar.\n4. Cuela en un vaso cóctel frío.",
+  "url": null
+}

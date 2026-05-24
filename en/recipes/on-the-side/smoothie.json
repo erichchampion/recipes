@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "smoothie",
+  "name": "Smoothie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 frozen banana",
+    "1/4 cup frozen mixed blackberries and raspberries",
+    "2 tbsp applesauce",
+    "2 tbsp frozen orange-pineapple juice concentrate",
+    "scant 1/4 cup lite vanilla soy milk"
+  ],
+  "recipeInstructions": "1. Add the frozen banana to the blender.\n2. Add the frozen mixed blackberries and raspberries.\n3. Add the applesauce.\n4. Add the frozen orange-pineapple juice concentrate.\n5. Add the lite vanilla soy milk.\n6. Blend until smooth.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "luncheon-omelet",
+  "name": "Omeleta para el almuerzo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite de oliva",
+    "6 setas shiitake",
+    "4 cebolletas, picadas",
+    "12 guisantes (o vainas de azúcar)",
+    "2 rodajas de tomate seco, picado",
+    "6 huevos",
+    "2 cucharadas de crema espesa",
+    "1 cucharadita de eneldo fresco (1/2 cucharadita seco), picado",
+    "2 cucharadas de mantequilla dulce",
+    "2 onzas de queso de cabra con hierbas",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en una sartén.\n2. Añadir las setas y las cebolletas, saltear durante 2 minutos.\n3. Incorporar los guisantes y los tomates secos. Cocinar durante 3 minutos más.\n4. Batir los huevos con la crema y el eneldo.\n5. Derretir la mantequilla en una sartén antiadherente o omletera.\n6. Verter la mezcla de huevos y esparcir el queso sobre ellos.\n7. Seguir las indicaciones para preparar un omlet básico.",
+  "url": null
+}

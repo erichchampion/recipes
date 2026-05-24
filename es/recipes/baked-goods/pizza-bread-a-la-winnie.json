@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-bread-a-la-winnie",
+  "name": "Pan de pizza a la Winnie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 paquete de masa de pan congelada; 2 hogazas",
+    "1 paquete de pepperoni; cortado en trozos pequeños",
+    "1 paquete de queso cheddar; rallado (2 tazas)",
+    "1 huevo; batido"
+  ],
+  "recipeInstructions": "1. Descongelar completamente la masa de pan.\n2. Presionar la masa descongelada sobre una bandeja para hornear engrasada en forma de rectángulo.\n3. Untar parte del huevo batido sobre la masa.\n4. Añadir el queso cheddar rallado y los trozos de pepperoni a lo largo de la masa.\n5. Doblar ambos lados de la masa hacia adentro para encerrar los toppings, apretando bien los bordes (la forma final debe parecerse al pan francés).\n6. Untar el resto del huevo batido sobre la pizza de pan.\n7. Hornear a 175 °C hasta que esté dorado.\nRinde 2 hogazas.",
+  "url": null
+}

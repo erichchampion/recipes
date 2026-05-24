@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "wheatable-snack-mix",
+  "name": "Mezcla de aperitivos comestibles con trigo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "palomitas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "6 tazas de palomitas de maíz",
+    "2 tazas de palitos de pretzel",
+    "1 taza de cacahuetes",
+    "1/4 taza de margarina o mantequilla derretida",
+    "3 tazas de galletas saladas de trigo",
+    "1/4 cucharadita de sal de cebolla",
+    "1/4 cucharadita de ajo en polvo"
+  ],
+  "recipeInstructions": "1. Mezclar las palomitas de maíz, palitos de pretzel y cacahuetes en un bol grande.\n2. Verter la margarina derretida sobre la mezcla.\n3. Incorporar las galletas saladas de trigo.\n4. Espolvorear con sal de cebolla y ajo en polvo.\n5. Remover hasta que todo esté bien cubierto.\n6. Conservar en un recipiente hermético.\n7. Rinde 10 tazas.",
+  "url": null
+}

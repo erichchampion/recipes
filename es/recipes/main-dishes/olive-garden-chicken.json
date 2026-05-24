@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "olive-garden-chicken",
+  "name": "Pollo de Olive Garden",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "variado"
+  ],
+  "recipeIngredient": [
+    "Pecho de pollo",
+    "Salsa de soja",
+    "Jugo de piña",
+    "Cebolla",
+    "Ajo"
+  ],
+  "recipeInstructions": "1. Marina el pollo en una mezcla de salsa de soja, jugo de piña, cebolla picada y ajo picado durante 24 horas.\n2. Precalienta la parrilla a fuego medio.\n3. Asa el pollo marinado hasta que esté cocido completamente y ya no sea rosado por dentro, dándole la vuelta ocasionalmente.",
+  "url": null
+}

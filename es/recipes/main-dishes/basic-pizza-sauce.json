@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-pizza-sauce",
+  "name": "Salsa de pizza básica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "1 lata de tomates enteros (400 g)",
+    "1 cucharadita de albahaca, orégano o marjoram",
+    "1 diente de ajo pelado, machacado y picado",
+    "2 cucharadas de pasta de tomate (opcional)",
+    "Pimienta negra molida al gusto",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "1. Vierta el contenido de la lata de tomates en una olla pesada de 2 cuartos (2 l) que no sea de aluminio. Triture los tomates con un tenedor.\n2. Añada las hierbas, el ajo, la pasta de tomate, la sal y la pimienta.\n3. Lleve a ebullición a fuego medio, removiendo para mezclar las especias.\n4. Tan pronto como la salsa comience a burbujear, reduzca el calor a bajo.\n5. Cocine sin cubrir, removiendo ocasionalmente, durante un mínimo de 15 minutos y hasta 1 hora.",
+  "url": null
+}

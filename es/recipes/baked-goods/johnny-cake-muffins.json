@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "johnny-cake-muffins",
+  "name": "Muffins de pastel de Johnny",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina",
+    "1 taza de maíz molido",
+    "3/4 cucharadita de sal",
+    "1/2 taza de azúcar",
+    "4 cucharaditas de polvo de hornear",
+    "1 huevo",
+    "1 taza de leche + 2 cucharadas",
+    "4 cucharadas de aceite para cocinar"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes secos en un bol.\n2. Batir ligeramente el huevo y añadir la leche.\n3. Incorporar gradualmente los ingredientes húmedos a la mezcla seca.\n4. Añadir el aceite y remover hasta que esté bien combinado.\n5. Verter la masa en un molde engrasado.\n6. Hornear a 400°F durante 20-25 minutos.",
+  "url": null
+}

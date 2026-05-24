@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "coffee-cake-3",
+  "name": "Pastel de café",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "pastel",
+    "pasteles",
+    "plato principal",
+    "mezclas maestras"
+  ],
+  "recipeIngredient": [
+    "3 tazas de mezcla para pan rápido",
+    "1/2 taza de azúcar granulada",
+    "1 huevo mediano",
+    "2/3 taza de agua",
+    "1/2 taza de azúcar morena",
+    "3 cucharadas de mantequilla",
+    "1/2 cucharadita de canela en polvo",
+    "nueces (opcional)",
+    "pasas (opcional)"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcle la mezcla para pan rápido y 1/2 taza de azúcar granulada.\n2. Agregue el huevo y 2/3 taza de agua a los ingredientes secos. Mezcle hasta que esté bien combinado.\n3. Incorpore el azúcar morena, la mantequilla y la canela.\n4. Vierta la masa en un molde para hornear engrasado, llenándolo hasta el borde.\n5. Espolvoree nueces y pasas sobre la masa (si se usa).\n6. Hornee a 400°F durante 25 minutos, o hasta que esté dorado y cocido por completo.",
+  "url": null
+}

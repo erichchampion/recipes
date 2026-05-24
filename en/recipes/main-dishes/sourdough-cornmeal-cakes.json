@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "sourdough-cornmeal-cakes",
+  "name": "Sourdough Cornmeal Cakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breads",
+    "breakfast",
+    "main dish",
+    "pancakes"
+  ],
+  "recipeIngredient": [
+    "4 cups Flour",
+    "2 cups Cornmeal",
+    "1/2 cup Milk",
+    "1/2 cup Sourdough Starter",
+    "3 Eggs",
+    "2 tsp Salt"
+  ],
+  "recipeInstructions": "1. Mix all ingredients together the night before.\n2. Let rise in a warm place overnight.\n3. The next morning, bake on a griddle.",
+  "url": null
+}

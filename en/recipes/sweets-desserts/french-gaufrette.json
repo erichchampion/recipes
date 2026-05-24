@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-gaufrette",
+  "name": "French Gaufrette",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 cup Whipping cream",
+    "1 cup Flour",
+    "3/4 cup Powdered sugar",
+    "2 tsp Vanilla",
+    "1/4 tsp Salt"
+  ],
+  "recipeInstructions": "1. Beat cream just until it begins to thicken.\n2. Blend in the remaining ingredients.\n3. Bake as directed for pizzelles.",
+  "url": null
+}

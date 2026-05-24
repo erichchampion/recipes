@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "corned-beef-and-cabbage",
+  "name": "Corned Beef and Cabbage",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "slow cooker",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "3 Carrots, cut into 3-inch pieces",
+    "4 pounds Corned beef brisket",
+    "3 medium Onions, quartered",
+    "1 cup Water",
+    "1/2 small Head of cabbage, cut into wedges"
+  ],
+  "recipeInstructions": "1. Put all ingredients (except cabbage) in the crockpot in the order listed.\n2. Cover and cook on low for 8 to 10 hours.\n3. Add cabbage wedges to the liquid, pushing them down to moisten.\n4. Turn the heat to high and cook for an additional 2 to 3 hours.",
+  "url": null
+}

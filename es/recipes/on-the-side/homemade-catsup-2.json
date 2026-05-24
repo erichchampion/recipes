@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "homemade-catsup-2",
+  "name": "Ketchup casero",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "guarniciones",
+    "rellenos"
+  ],
+  "recipeIngredient": [
+    "3 libras de tomates",
+    "6 onzas de cebollas",
+    "7/16 taza de vinagre de vino",
+    "2 onzas de azúcar",
+    "1 cucharadita de sal",
+    "1 cucharadita de pimentón dulce",
+    "1 cucharadita de pimienta molida",
+    "1 cucharadita de salsa picante"
+  ],
+  "recipeInstructions": "1. Pelar los tomates y cortarlos en trozos pequeños.\n2. Pelar y cortar las cebollas en cubos finos.\n3. Mezclar ambos ingredientes con el resto de los ingredientes y verter en una olla grande. Llevar a ebullición, luego reducir el fuego y cocinar a fuego lento durante 20 minutos.",
+  "url": null
+}

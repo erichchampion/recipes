@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-jack-cake",
+  "name": "Pastel de Manzana Jack",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "1 barra de manteca (1 stick)",
+    "1 taza de azúcar blanco",
+    "1 taza de azúcar moreno",
+    "2 huevos",
+    "1 cucharadita de vainilla",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de nuez moscada",
+    "2 cucharaditas de canela",
+    "2 cucharaditas de bicarbonato de sodio",
+    "2 tazas de harina",
+    "4 manzanas; cortadas en trozos",
+    "1 taza de pasas, coco o nueces (opcional)"
+  ],
+  "recipeInstructions": "1. Mezclar la manteca, los azúcares, los huevos, la vainilla, la sal, la nuez moscada, la canela y el bicarbonato en un bol grande hasta que quede bien combinado.\n2. Añadir la harina y mezclar hasta integrar.\n3. Incorporar suavemente las manzanas y los ingredientes opcionales (pasas, coco o nueces).\n4. Engrasar y espolvorear con azúcar una bandeja para pastel de 9 x 13 cm.\n5. Verter la mezcla del pastel en la bandeja preparada.\n6. Hornear a 180°C durante 45-50 minutos, o hasta que las manzanas estén tiernas.",
+  "url": null
+}

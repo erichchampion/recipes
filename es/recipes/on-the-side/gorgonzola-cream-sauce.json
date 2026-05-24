@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "gorgonzola-cream-sauce",
+  "name": "Salsa cremosa de gorgonzola",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso",
+    "pasta",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 tazas de leche",
+    "1 cucharada de harina",
+    "1 cucharada de mantequilla derretida",
+    "3 cucharadas de queso Gorgonzola"
+  ],
+  "recipeInstructions": "1. Derretir la mantequilla en una sartén a fuego medio.\n2. Añadir la harina a la mantequilla derretida y batir hasta que quede suave.\n3. Agregar la leche poco a poco a la mezcla, batiendo continuamente para espesarla.\n4. Retirar del fuego cuando la salsa haya espesado.\n5. Incorporar el queso Gorgonzola hasta que se derrita por completo y se mezcle bien con la salsa.",
+  "url": null
+}

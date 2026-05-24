@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "cafe-con-cioccolato-italian-coffee-with-chocolate",
+  "name": "Café con chocolate (Italia)",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 tazas de café fuerte caliente",
+    "2 tazas de cacao tradicional caliente",
+    "Nata montada",
+    "1/2 taza de cáscara de naranja"
+  ],
+  "recipeInstructions": "1. Verter 1/2 taza de café y 1/2 taza de cacao en cada una de cuatro tazas.\n2. Cubrir con nata montada.\n3. Espolvorear con cáscara de naranja.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "maitre-d-hotel",
+  "name": "Maestro/Hotel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de mantequilla",
+    "1 cucharada de jugo de limón",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimentón ahumado (cayena)",
+    "Perejil picado"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes y utilizar sobre verduras, bistec, pollo o pescado.",
+  "url": null
+}

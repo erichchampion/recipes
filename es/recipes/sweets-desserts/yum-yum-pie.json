@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "yum-yum-pie",
+  "name": "Pastel Yum-Yum",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "galletas",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "Base:",
+    "1 taza de harina",
+    "1 barra de margarina ablandada",
+    "1 taza de nueces",
+    "Capas:",
+    "8 onzas de queso crema ablandado",
+    "1 taza de azúcar",
+    "1 taza de Cool Whip",
+    "Capa 2:",
+    "1 paquete de pudín instantáneo de chocolate (3 1/2 onzas)",
+    "1 paquete de pudín instantáneo de vainilla (3 1/2 onzas)",
+    "Leche"
+  ],
+  "recipeInstructions": "Base:\n1. Mezclar la harina, la margarina y las nueces.\n2. Presionar la mezcla uniformemente y firmemente en un molde para hornear rectangular de 9 x 12 x 2 pulgadas.\n3. Hornear a 175 °C durante 20 minutos.\n4. Dejar enfriar a temperatura ambiente.\nCapa 1:\n1. Mezclar el queso crema y el azúcar hasta que estén bien combinados.\n2. Incorporar el Cool Whip.\n3. Extender sobre la base enfriada.\nCapa 2:\n1. Preparar los pudines de chocolate y vainilla según las instrucciones del paquete, utilizando la cantidad de leche indicada.\n2. Verter la mezcla sobre la capa de queso crema.\n3. Refrigerar hasta que esté frío antes de servir.\nAntes de servir, adornar con Cool Whip, chocolate rallado y nueces para un acabado Yum-Yum. También se puede sustituir el pudín de coco y adornar con coco tostado y nueces.",
+  "url": null
+}

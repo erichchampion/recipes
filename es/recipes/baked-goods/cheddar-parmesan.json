@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheddar-parmesan",
+  "name": "Queso Cheddar y Parmesano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "7 oz de agua tibia",
+    "2 1/2 cucharadas de mantequilla blanda",
+    "3 1/2 cucharadas de azúcar",
+    "1/2 cucharadita de sal",
+    "1 cucharadita de mostaza en polvo",
+    "2 1/2 cucharadas de queso parmesano",
+    "1 1/4 tazas de cheddar bajo en grasa rallado",
+    "2 1/2 cucharadas de cebolla picada",
+    "2 1/2 tazas de harina de pan integral",
+    "2 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Precalentar la máquina según las instrucciones del fabricante.\n2. Mezclar todos los ingredientes en el orden indicado por la guía de recetas de la máquina.\n3. Seguir las indicaciones restantes de la máquina para completar el proceso de horneado.",
+  "url": null
+}

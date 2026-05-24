@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "hard-tack",
+  "name": "Hard Tack",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "2 Eggs",
+    "1 cup Sugar",
+    "1 cup Flour",
+    "1 cup Dates",
+    "1 cup Nuts",
+    "1/4 tsp Baking soda",
+    "1/4 tsp Salt"
+  ],
+  "recipeInstructions": "1. Beat the eggs until light.\n2. Add sugar.\n3. Sift flour, salt, and baking soda.\n4. Beat everything into the first mixture.\n5. Add dates and chopped nuts; mix well.\n6. Spread the dough thinly on a well-oiled pan.\n7. Bake for 12 minutes in a hot oven (425-450°F).\n8. Cut into long, narrow bars.\n9. Roll in powdered sugar.",
+  "url": null
+}

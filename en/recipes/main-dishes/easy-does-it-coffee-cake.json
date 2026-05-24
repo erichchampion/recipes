@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-does-it-coffee-cake",
+  "name": "Easy-Does-it Coffee Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "cake",
+    "cakes",
+    "desserts",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "2 cans Refrigerated biscuits",
+    "1 cup Brown sugar",
+    "1/2 cup Butter, melted",
+    "1/2 cup Pecans"
+  ],
+  "recipeInstructions": "1. Combine pecans and brown sugar.\n2. Dip each biscuit individually in melted butter.\n3. Roll each biscuit in the brown sugar mixture.\n4. Place biscuits in a 9-cup Mini-Bundt pan, laying them flat.\n5. Arrange five biscuits in the bottom layer.\n6. Add another layer of biscuits in a \"brick-like fashion.\"\n7. Bake at 400°F for 20-25 minutes.\nWARNING: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

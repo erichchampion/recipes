@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "butterscotch",
+  "name": "Butterscotch",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "candy",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 cup Brown sugar",
+    "1/4 cup Corn syrup, light",
+    "1 cup Water",
+    "1/4 teaspoon Salt",
+    "1/3 cup Butter",
+    "1/4 teaspoon Vanilla"
+  ],
+  "recipeInstructions": "1. Combine sugar, corn syrup, water, and salt in a saucepan.\n2. Stir over low heat until the sugar is dissolved.\n3. Increase the heat and cook until a thermometer registers 250°F (firm ball stage).\n4. Add butter and cook with occasional stirring until a thermometer registers 300°F (brittle stage).\n5. Remove from the stove, add vanilla, and pour into a buttered shallow pan to form a layer about 1/4 inch deep.\n6. While warm, use a blunt knife to create squares.\n7. Allow to cool completely, then break into pieces.",
+  "url": null
+}

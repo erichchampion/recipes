@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "supreme-style-pizza",
+  "name": "Supreme Style Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meats",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 large 12\" Boboli shell or",
+    "4 small 6\" Boboli shells",
+    "5 oz Package Boboli pizza sauce for",
+    "-large --",
+    "1 1/4 oz Package pizza sauce for each small 6\"",
+    "2 oz Provolone cheese, shredded",
+    "2 oz Pepperoni",
+    "1 oz Canadian bacon",
+    "1 oz Hard salami, diced",
+    "2 oz Mozzarella, shredded",
+    "2 oz Black olives, sliced"
+  ],
+  "recipeInstructions": "1. Preheat oven to 450°F (232°C).\n2. Spread pizza sauce evenly on the bottom of each shell.\n3. Sprinkle provolone cheese over the sauce.\n4. Add pepperoni slices.\n5. Layer Canadian bacon strips.\n6. Dot with diced hard salami pieces.\n7. Top with mozzarella shreds and black olive slices.\n8. Bake for 12-15 minutes (5-8 minutes if using small shells).",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "oatmeal-apple-cake",
+  "name": "Tarta de Avena y Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de manteca",
+    "1 taza de azúcar blanca",
+    "1 taza de azúcar morena",
+    "2 huevos",
+    "1/4 taza de harina",
+    "1 cucharadita de bicarbonato de sodio",
+    "2 tazas de manzanas cortadas en trozos",
+    "1 cucharadita de sal",
+    "3 tazas de avena",
+    "1/2 taza de nueces picadas finamente",
+    "3/4 taza de agua",
+    "1 cucharadita de extracto de vainilla",
+    "1/2 cucharadita de canela"
+  ],
+  "recipeInstructions": "1. Batir la manteca y el azúcar blanca hasta obtener una mezcla suave.\n2. Agregar el azúcar morena, los huevos, la vainilla, la sal, el bicarbonato, la canela y el agua a la mezcla anterior.\n3. Incorporar la avena y las manzanas cortadas hasta que estén bien combinadas.\n4. Verter la masa en un molde cuadrado engrasado o para pan de molde.\n5. Hornear a 175 °C durante una hora.",
+  "url": null
+}

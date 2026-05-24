@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "bamboo-potato-salad",
+  "name": "Ensalada de Patatas al Bambú",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de patatas cocidas y cortadas en cubos",
+    "1 1/2 cucharaditas de sal",
+    "1/2 taza de aderezo francés",
+    "1 taza de apio, finamente picado",
+    "1 taza de bambú, escaldado y cortado finamente",
+    "2 cucharaditas de cebolla fresca picada",
+    "1 taza de aliño para ensalada",
+    "1/2 taza de pepino, cortado en cubos"
+  ],
+  "recipeInstructions": "1. Agregar la sal y el aderezo francés a las patatas y enfriar.\n2. Mezclar el apio, el bambú, la cebolla y el aliño para ensalada.\n3. Combinar con cuidado para evitar romper los trozos de patata.\n4. Añadir el pepino y servir sobre lechuga crujiente.",
+  "url": null
+}

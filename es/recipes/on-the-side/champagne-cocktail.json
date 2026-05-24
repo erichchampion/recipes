@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "champagne-cocktail",
+  "name": "Cóctel de Champán",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "6 oz de concentrado de jugo de naranja congelado, descongelado y sin diluir",
+    "6 oz de concentrado de limada congelada, descongelado y sin diluir",
+    "25.4 oz de champagne frío",
+    "33.8 oz de agua con gas de limón-limonada fría",
+    "Hielo triturado (opcional)"
+  ],
+  "recipeInstructions": "1. Mezclar los concentrados de jugo de naranja y limada en un bol grande para cócteles.\n2. Revolver hasta que esté bien mezclado.\n3. Añadir el champagne y el agua con gas, revolviendo bien.\n4. Servir el ponche sobre hielo triturado.",
+  "url": null
+}

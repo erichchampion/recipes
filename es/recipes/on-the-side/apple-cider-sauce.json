@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-cider-sauce",
+  "name": "Salsa de sidra de manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pasteles",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 manzanas Roma medianas, cortadas en rodajas",
+    "1 taza de azúcar",
+    "2 cucharadas de almidón de maíz",
+    "1/2 cucharadita de especia de pastel de calabaza",
+    "2 tazas de sidra de manzana",
+    "1 cucharada de jugo de limón",
+    "1 cucharada de mantequilla o margarina"
+  ],
+  "recipeInstructions": "1. Cortar las rodajas de manzana en mitades a lo largo.\n2. Mezclar el azúcar, el almidón de maíz y la especia de pastel de calabaza en una cacerola de 2 cuartos; remover hasta que esté bien combinado.\n3. Incorporar la sidra de manzana y el jugo de limón. Calentar a ebullición.\n4. Hervir durante 5 minutos, remover con frecuencia (la mezcla estará ligeramente espesada).\n5. Añadir las manzanas y continuar calentando hasta que hierva.\n6. Hervir durante 1-2 minutos adicionales o hasta que las manzanas estén crujientes; retirar del fuego.\n7. Incorporar la mantequilla o margarina.\n8. Enfriar ligeramente y servir caliente.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "abm-rice-bread-2",
+  "name": "ABM Rice Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "machine",
+    "rice"
+  ],
+  "recipeIngredient": [
+    "9 oz Water",
+    "1 tbsp Veg oil",
+    "1 3/4 c All purpose flour",
+    "1 cup Ground Rice Crispies",
+    "1 tsp Sugar",
+    "1 tsp Salt",
+    "1 1/2 ts Yeast"
+  ],
+  "recipeInstructions": "1. Mix the ground rice crispies, flour, sugar, salt, and yeast in a large bowl.\n2. Gradually add water and vegetable oil to the dry ingredients.\n3. Stir until a dough forms that holds together without being too sticky.\n4. If needed, add more flour to achieve a consistency that lifts from the surface of the bowl.\n5. Transfer the dough to a lightly greased mixing bowl and cover with plastic wrap.\n6. Allow the dough to rise in a warm place for about 1 hour or until doubled in size.\nWARNING: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

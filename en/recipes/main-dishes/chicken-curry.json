@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-curry",
+  "name": "Chicken Curry",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "2 tablespoons butter or margarine",
+    "1 pound boneless chicken breasts",
+    "1 large tomato, coarsely chopped",
+    "1 envelope onion soup mix",
+    "2 teaspoons curry powder",
+    "1 cup water",
+    "2 cups plain yogurt",
+    "2 cups hot cooked rice",
+    "2 cups cooked peas"
+  ],
+  "recipeInstructions": "1. Cut the chicken breasts into thin strips.\n2. In a pan, sauté the onions until golden brown.\n3. Add the tomato and onion soup mix, stir well.\n4. Stir in the curry powder and water, bring to a boil.\n5. Reduce heat, add yogurt, cook for 10 minutes more.\n6. Stir in rice and peas, serve over hot cooked rice.",
+  "url": null
+}

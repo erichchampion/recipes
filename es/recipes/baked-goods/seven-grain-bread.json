@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "seven-grain-bread",
+  "name": "Pan de siete cereales",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 1/4 tazas de agua",
+    "3/4 taza de mezcla de siete granos (tostada en piedra)",
+    "2 tazas de harina de pan",
+    "1/2 taza de harina de trigo integral",
+    "1/4 taza de harina de trigo entero",
+    "2 cucharadas de azúcar",
+    "2 cucharadas de melaza",
+    "1 cucharadita de sal",
+    "1 1/2 cucharaditas de polvo de buttermilk",
+    "1 1/2 cucharaditas de levadura",
+    "1 1/2 cucharadas de margarina"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande.\n2. Verter la masa en un molde para pan engrasado.\n3. Hornear a temperatura media hasta que esté completamente cocido.\n4. Dejar enfriar el pan antes de cortarlo, ya que estará suave y será difícil cortarlo si se está caliente. ¡Disfrutar!",
+  "url": null
+}

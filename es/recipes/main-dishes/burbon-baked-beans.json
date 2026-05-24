@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "burbon-baked-beans",
+  "name": "Frijoles al horno con burbon",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "4 latas de frijoles Boston horneados (450 g cada una)",
+    "1 lata de piña triturada escurrida (450 g)",
+    "1 tarro de salsa chili (360 ml)",
+    "1/2 taza de café fuerte preparado",
+    "1/2 taza de bourbon",
+    "1/4 taza de azúcar moreno compacto",
+    "1 cucharada de melaza",
+    "3/4 cucharadita de mostaza en polvo"
+  ],
+  "recipeInstructions": "1. Mezclar los frijoles y el resto de ingredientes en una olla lenta u otro cocinador lento.\n2. Tapar y cocinar a potencia alta durante 2 horas.\n3. Descubrir y continuar cocinando hasta alcanzar la consistencia deseada.\n4. Servir con una cuchara con agujero.",
+  "url": null
+}

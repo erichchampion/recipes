@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-medley-punch",
+  "name": "Punche de Mezcla de Frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "batido",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 Anillo de Hielo Della Robbia",
+    "20 oz (2 paquetes) Fresas Congeladas en Sirupo",
+    "3 tazas Nectar de Albaricoque Refrigerado",
+    "3 tazas Agua Fría",
+    "1 taza Jugo de Limón",
+    "6 oz Concentrado de Jugo de Naranja Descongelado",
+    "1 taza Azúcar"
+  ],
+  "recipeInstructions": "1. Prepara el Anillo de Hielo Della Robbia si lo vas a usar, triturando las fresas.\n2. En un bol para punch, combina la puré de fresas, el nectar de albaricoque, el agua, el jugo de limón y el concentrado de jugo de naranja.\n3. Revuelve hasta que se disuelva el azúcar.\n4. Vierte lentamente el ginger ale.\n5. Añade el Anillo de Hielo Della Robbia si lo deseas.",
+  "url": null
+}

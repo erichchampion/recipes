@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "dessert-pizza",
+  "name": "Dessert Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 pkg (20 oz) chocolate chip cookie dough, refrigerated",
+    "2 cups Cool Whip, thawed",
+    "2 cups assorted fruits",
+    "Strawberry desert topping"
+  ],
+  "recipeInstructions": "1. Preheat oven to 350°F.\n2. Line a 12-inch pizza pan with foil and grease the foil.\n3. Press the cookie dough into the prepared pan.\n4. Bake for 20 minutes or until golden brown.\n5. Remove from the oven and let cool on a wire rack.\n6. Carefully remove the foil, leaving the cookie crust on the serving plate.\n7. Spread the Cool Whip evenly over the cookie crust.\n8. Garnish with assorted fruits.\n9. Drizzle with strawberry desert topping.\n10. Serve immediately or refrigerate until ready to serve.",
+  "url": null
+}

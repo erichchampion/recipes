@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-patties",
+  "name": "Empanadas mexicanas",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1 taza de migas de pretzel",
+    "1/2 taza de cebolla picada",
+    "4 oz de chiles verdes enlatados, sin semillas y picados",
+    "2 cucharadas de chorizo picado",
+    "1 cucharadita de especias chili",
+    "2 dientes de ajo machacados",
+    "8 oz de queso Monterey Jack",
+    "2 pimientos verdes"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375°F (190°C).\n2. Mezclar todos los ingredientes, excepto el queso y los 2 pimientos verdes, en un bol mediano hasta que estén bien integrados.\n3. Formar bolas de carne con un cubo de 1 pulgada de queso Jack en el centro.\n4. Cortar los pimientos verdes en cuartos y retirar las semillas.\n5. Colocar cada bola de carne en el centro de un pimiento verde.\n6. Hornear durante 20-30 minutos.\nSirve 4-6 personas.",
+  "url": null
+}

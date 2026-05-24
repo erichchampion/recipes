@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "tavern-dip",
+  "name": "Dip de taberna",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "diabético",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "8 oz de queso crema",
+    "10 oz de Old English Cheese Spread",
+    "1/3 taza de cerveza oscura",
+    "1 1/2 cucharaditas de salsa Worcestershire",
+    "2 cucharadas de trozos de tocino falsos"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol de 1,5 litros.\n2. Colocar la mezcla en el microondas y cocinar a potencia media durante 6 a 8 minutos, girando un cuarto de vuelta cada minuto hasta que se caliente por completo.\n3. Servir según lo deseado.",
+  "url": null
+}

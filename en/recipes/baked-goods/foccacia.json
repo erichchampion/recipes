@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "foccacia",
+  "name": "Foccacia",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "1 Pizza dough",
+    "2 ounces Olive oil",
+    "1 pinch Salt",
+    "1 ounce Garlic, minced",
+    "1 and 1/2 ounces Kalamata olives, pitted and chopped",
+    "1 pinch Rosemary, chopped"
+  ],
+  "recipeInstructions": "1. Roll out pizza dough flat without a rim to form an approximately 10-inch circle.\n2. Cover the entire surface of the dough with olive oil.\n3. Evenly spread garlic and olives across the dough.\n4. Sprinkle rosemary and salt over the top.\n5. Bake on a pizza stone in the oven until golden brown.\n6. Allow to cool before serving.",
+  "url": null
+}

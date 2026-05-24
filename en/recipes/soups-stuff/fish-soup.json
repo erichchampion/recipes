@@ -1,0 +1,35 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-soup",
+  "name": "Fish Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "beef",
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "4 tablespoons Olive oil",
+    "1 medium Chopped onion",
+    "3 cloves Garlic, minced",
+    "4 cans Minced clams",
+    "4 cups Peeled and chopped Tomatoes",
+    "1 cup Finely chopped Carrots",
+    "2 cups Finely chopped Celery",
+    "1 teaspoon Salt",
+    "1/2 teaspoon Dry mustard",
+    "1/2 teaspoon Oregano",
+    "1/2 teaspoon Paprika",
+    "4 Bay leaves",
+    "1 1/2 pounds Shrimp",
+    "1 pound Scallops",
+    "2 cans Beef broth",
+    "2 cans Chicken broth",
+    "4 cans Water",
+    "1 pound Cut into bite-size Haddock",
+    "1 pound Cut into bite-size Cod"
+  ],
+  "recipeInstructions": "1. Heat olive oil in a heavy pan over medium heat. Add onion and garlic, sautéing until golden brown.\n2. Add clams, chopped tomatoes, carrots, celery, beef broth, chicken broth, water, salt, dry mustard, oregano, paprika, and bay leaves to the pan.\n3. Stir and bring the mixture to a simmer. Cook for about 1 hour, stirring occasionally.\n4. Add shrimp, haddock, and cod to the pot. Continue simmering until the fish flakes easily with a fork.",
+  "url": null
+}

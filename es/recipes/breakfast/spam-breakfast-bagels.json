@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "spam-breakfast-bagels",
+  "name": "Bagel de desayuno con spam",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 lata de carne de almuerzo Spam (12 oz)",
+    "2 cucharadas de mantequilla o margarina",
+    "6 huevos batidos",
+    "6 rebanadas de queso americano (1 onza cada una)",
+    "6 bagels, cortados por la mitad"
+  ],
+  "recipeInstructions": "1. Cortar el Spam en 6 rebanadas iguales (3 piezas de 1/4\" de grosor).\n2. En una sartén, saltear el Spam a fuego medio hasta que esté ligeramente dorado.\n3. Retirar el Spam de la sartén y mantenerlo caliente.\n4. En la misma sartén, derretir la mantequilla.\n5. Verter la mantequilla derretida en los huevos batidos.\n6. Cocinar los huevos hasta que estén a su gusto.\n7. Montar cada bagel colocando una capa de huevos revueltos, rebanadas de Spam y queso sobre la mitad inferior.\n8. Cubrir con la otra mitad del bagel.",
+  "url": null
+}

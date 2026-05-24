@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "the-mr-turkey-300-calorie-sandwich",
+  "name": "El Sándwich de Sr. Pavo de 300 Calorías",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "aves de corral",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "2 rebanadas de pan integral ligero",
+    "1 rebanada de Mr. Turkey (85% libre de grasa)",
+    "1 rebanada de Mr. Turkey (96% libre de grasa)",
+    "1 rebanada de Mr. Turkey (98% libre de grasa)",
+    "1 rebanada de queso suizo bajo en calorías",
+    "Lechuga",
+    "Tomates",
+    "Espárragos de alfalfa"
+  ],
+  "recipeInstructions": "1. Coloca las rebanadas de carne y queso entre las rebanadas de pan.\n2. Añade lechuga, tomates y espárragos de alfalfa encima del sándwich.\n3. Corta el sándwich por la mitad si lo deseas.",
+  "url": null
+}

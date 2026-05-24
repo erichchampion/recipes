@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "savory-spaghetti-sauce",
+  "name": "Savory Spaghetti Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beef",
+    "pasta",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 pound Ground beef",
+    "1 large Onion, chopped",
+    "2 15 oz. cans Tomato sauce",
+    "1 Clove Garlic, minced",
+    "1 Bay leaf",
+    "1 tablespoon Fresh basil",
+    "2 teaspoons Fresh oregano",
+    "2 teaspoons Sugar",
+    "1/2 teaspoon Salt",
+    "1/2 teaspoon Pepper",
+    "Hot cooked spaghetti"
+  ],
+  "recipeInstructions": "In a Dutch oven, cook the ground beef and onion until the meat is browned and the onion is tender. Drain any excess fat. Add the remaining ingredients; bring to a boil. Reduce heat and cover. Simmer for 1 hour, stirring occasionally. Remove the bay leaf before serving over hot cooked spaghetti.",
+  "url": null
+}

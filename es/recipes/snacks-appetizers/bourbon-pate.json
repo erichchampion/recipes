@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "bourbon-pate",
+  "name": "Pate de bourbon",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempies"
+  ],
+  "recipeIngredient": [
+    "10 1/2 oz de caldo de carne",
+    "4 oz de paté Sell's o de buena calidad",
+    "3 oz de queso crema",
+    "2 cucharaditas de gelatina sin sabor",
+    "1/2 taza de agua fría",
+    "1/2 taza de bourbon"
+  ],
+  "recipeInstructions": "1. Mezclar el queso crema y el paté en el fondo de un molde de 3 tazas. Enfriar.\n2. Disolver la gelatina en agua fría.\n3. Calentar el caldo de carne y combinarlo con la gelatina.\n4. Verter la mezcla de paté encima cuando esté firme. Enfriar.\n5. Desmoldar y servir con galletas saladas.",
+  "url": null
+}

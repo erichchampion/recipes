@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "streams-stout-marinade-for-steaks",
+  "name": "Marinada de Stout para Filetes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "plato principal",
+    "marinadas",
+    "carnes",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 botella de 500 ml de cerveza stout",
+    "1 taza de salsa de soja",
+    "2 cucharadas de azúcar moreno",
+    "1 cucharadita de ajo en polvo",
+    "2 cucharaditas de pimienta negra molida",
+    "2 cucharadas de salsa Worcestershire",
+    "2 cucharadas de miel"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol hasta que queden bien integrados y la salmuera esté uniformemente distribuida.\n2. Cubrir los filetes con la marinada y asarlos a la parrilla o al horno hasta alcanzar el punto de cocción deseado.",
+  "url": null
+}

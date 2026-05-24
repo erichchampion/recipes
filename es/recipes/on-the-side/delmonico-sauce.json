@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "delmonico-sauce",
+  "name": "Salsa Delmonico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de aderezo francés (sin especias)",
+    "1 cucharadita de catup de tomate",
+    "1 cucharadita de salsa Worcestershire",
+    "1/4 cucharadita de pimiento verde picado finamente",
+    "1 huevo grande duro, picado o pasado por un colador fino"
+  ],
+  "recipeInstructions": "1. Picar finamente el huevo duro o pasarlo por un colador fino.\n2. Mezclar todos los ingredientes y servir sobre brócoli o guisantes recién cocidos. También se puede utilizar como aderezo para ensaladas con lechugas muy frescas y crujientes.",
+  "url": null
+}

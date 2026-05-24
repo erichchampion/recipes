@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "greek-gyros",
+  "name": "Gyros griego",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "griego",
+    "plato principal",
+    "sándwiches",
+    "ternera",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 lb de cordero magro sin hueso",
+    "1/3 taza de aceite de oliva",
+    "1/2 taza de jugo de limón fresco",
+    "2 dientes de ajo pelados, cortados en cuartos",
+    "1 cucharadita de tomillo fresco picado",
+    "1 cucharadita de orégano fresco picado o 1 cucharadita de marjoram fresco picado",
+    "Pimienta fresca molida al gusto",
+    "2 cebollas españolas; cortadas en rodajas finas",
+    "24 hojas pequeñas de lechuga romana; lavadas y secadas",
+    "6 porciones redondas de pan pita grande",
+    "3 tomates maduros medianos"
+  ],
+  "recipeInstructions": "1. Cortar el cordero en cubos de 1 pulgada.\n2. Calentar el aceite de oliva en una sartén a fuego medio.\n3. Añadir el jugo de limón, el ajo, el tomillo, el orégano/marjoram, la pimienta, las cebollas, la lechuga y los tomates a la sartén.\n4. Cocinar hasta que las verduras estén tiernas y las especias se hayan mezclado.\n5. Servir sobre pan pita caliente con los toppings adicionales deseados.",
+  "url": null
+}

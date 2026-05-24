@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "freezer-alfredo-sauce",
+  "name": "Salsa Alfredo para congelar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pasta",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 paquete de queso crema, 8 onzas",
+    "3/4 taza de queso parmesano",
+    "1/2 taza de margarina",
+    "1/2 taza de leche"
+  ],
+  "recipeInstructions": "1. Mezclar el queso crema, el queso parmesano y la margarina en un bol.\n2. Calentar lentamente, revolviendo con frecuencia hasta que quede suave.\n3. Añadir gradualmente la leche para obtener la consistencia deseada para los fideos.",
+  "url": null
+}

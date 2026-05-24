@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-zucchini-apple-pie",
+  "name": "Mock (Zucchini) Apple Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "------------------------------------PIE------------------------------------",
+    "4 cups Zucchini; peeled, seeded, and sliced 1/8 inch thick",
+    "3/4 cup Sugar",
+    "2 tablespoons Tapioca",
+    "5 tablespoons Lemon juice",
+    "1/2 teaspoon Salt",
+    "2 teaspoons Cinnamon",
+    "1 teaspoon Nutmeg",
+    "2 tablespoons Cornstarch",
+    "1/2 cup Raisins"
+  ],
+  "recipeInstructions": "----------------------------------TOPPING----------------------------------\n1/2 cup Margarine; softened\n1/2 cup Sugar\n1/2 cup Flour\nMix all Pie ingredients together and place in a deep dish unbaked pie shell.\nCombine the Topping ingredients and pour on top of pie.\nBake at 375°F for one hour. Dot top of pie with margarine.",
+  "url": null
+}

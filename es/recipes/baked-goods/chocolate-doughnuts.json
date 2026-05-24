@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-doughnuts",
+  "name": "Donas de chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "donas",
+    "pasteles"
+  ],
+  "recipeIngredient": [
+    "2 huevos",
+    "1 1/2 tazas de azúcar",
+    "1 taza de buttermilk",
+    "3 onzas de chocolate",
+    "1 cucharadita de bicarbonato de sodio (redondeada)",
+    "un pellizco de jengibre",
+    "un pellizco de sal",
+    "un pellizco de vainilla",
+    "3 tazas de harina"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcle juntos los huevos, el azúcar, el buttermilk, el chocolate, el bicarbonato de sodio, el jengibre, la sal y la vainilla hasta que quede bien combinado.\n2. Agregue gradualmente la harina y revuelva hasta formar una masa suave.\n3. Caliente el aceite en una freidora profunda o en una olla pesada a 190 °C (375 °F).\n4. Usando una cuchara para donas o una cucharadita pequeña, vierta la masa en el aceite caliente.\n5. Fría las donas en tandas hasta que estén doradas por ambos lados.\n6. Retire las donas del aceite y colóquelas sobre papel absorbente para escurrir el exceso de grasa.\n7. Deje enfriar las donas antes de servir.",
+  "url": null
+}

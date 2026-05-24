@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegan-cheesecake",
+  "name": "Tarta de queso vegana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pastel",
+    "postres",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "Base de galletas Graham sin hornear de 23 cm",
+    "1 kg de tofu suave",
+    "1/2 taza de azúcar moreno",
+    "1/3 taza de miel o sirope",
+    "1/4 taza de aceite de oliva",
+    "2 cucharadas de zumo de limón",
+    "1 cucharada de harina blanca sin blanquear",
+    "1 c.c. de extracto de vainilla",
+    "Una pizca de sal"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180 °C.\n2. Mezclar todos los ingredientes excepto la base de la tarta en un procesador de alimentos hasta obtener una textura suave y cremosa.\n3. Verter la mezcla en la base sin hornear.\n4. Hornear durante unos 45 minutos o hasta que se formen grietas alrededor de la parte superior del relleno.",
+  "url": null
+}

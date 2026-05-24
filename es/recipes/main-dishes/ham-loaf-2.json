@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-loaf-2",
+  "name": "Pastel de jamón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "jamón",
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne picada de jamón",
+    "1 lb de carne picada de cerdo",
+    "1 taza de pan rallado",
+    "1 taza de leche",
+    "2 huevos, ligeramente batidos",
+    "Topping:",
+    "1/4 taza de vinagre",
+    "1/4 taza de agua",
+    "1 taza de azúcar moreno",
+    "1 cucharadita de mostaza",
+    "1/2 taza de ketchup"
+  ],
+  "recipeInstructions": "1. Mezclar la carne picada de jamón y la carne picada de cerdo en un bol grande.\n2. Añadir los pan rallados, la leche y los huevos batidos a la mezcla de carne. Mezclar bien.\n3. En otro bol pequeño, mezclar los ingredientes del topping (vinagre, agua, azúcar moreno, mostaza y ketchup).\n4. Verter la mezcla de topping sobre el pastel de jamón.\n5. Colocar el pastel en un molde para hornear engrasado y cubrir con papel de aluminio.\n6. Hornear a 175 °C durante 1 hora.\n7. Apagar el horno y dejar enfriar el pastel de jamón dentro durante 10-15 minutos antes de sacarlo del molde.",
+  "url": null
+}

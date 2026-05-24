@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-sausage-balls",
+  "name": "Bolas de salchicha picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "variado",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 lb de salchicha picante en granel",
+    "2 tazas de queso fuerte rallado",
+    "3 tazas de mezcla para bizcochos"
+  ],
+  "recipeInstructions": "1. Mezclar la salchicha, el queso y la mezcla para bizcochos hasta que se combinen.\n2. Formar bolas del tamaño de una bola de marfil.\n3. Hornear a 175°C durante 20 minutos.",
+  "url": null
+}

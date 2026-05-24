@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "sherbet-dessert",
+  "name": "Sherbet Dessert",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "fruits"
+  ],
+  "recipeIngredient": [
+    "1/2 gallon Pineapple sherbet",
+    "10 oz Frozen strawberries, thawed",
+    "4 Bananas, chopped",
+    "Chopped pecans, as desired (optional)"
+  ],
+  "recipeInstructions": "1. Soften the pineapple sherbet.\n2. Add the thawed frozen strawberries and chopped bananas to the sherbet.\n3. Mix well until all ingredients are combined.\n4. Stir in the chopped pecans, if using.\n5. Serve.",
+  "url": null
+}

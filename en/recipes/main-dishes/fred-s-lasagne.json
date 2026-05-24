@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "fred-s-lasagne",
+  "name": "Fred's Lasagne",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italian",
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground beef, lean",
+    "2 tbsp Olive oil",
+    "3 1/2 cups Tomatoes",
+    "16 oz Tomato sauce",
+    "1 large Onion, diced",
+    "1 Garlic clove, minced",
+    "1 1/2 tsp Oregano",
+    "1/4 tsp Rosemary leaves",
+    "1 tbsp Basil leaves, fresh, crushed (or 1/4 tsp dried)",
+    "1/2 tsp MSG",
+    "2 tsp Salt",
+    "1 tsp Sugar",
+    "1 cup Mushrooms, sliced",
+    "1/2 lb Lasagne noodles",
+    "1 lb Ricotta cheese",
+    "1/2 lb Mozzarella cheese",
+    "1/2 cup Parmesan cheese, grated"
+  ],
+  "recipeInstructions": "1. Heat olive oil in a large skillet over medium heat. Add ground beef and cook until no longer pink.\n2. Add tomatoes, tomato sauce, oregano, rosemary, basil, MSG, salt, sugar, and mushrooms to the skillet. Stir well.\n3. Simmer the mixture on low heat for about 2 hours or until it thickens.\n4. Cook lasagne noodles according to package instructions, then drain and rinse with cold water. Separate them if necessary.\n5. Preheat oven to 350°F (175°C).\n6. In a baking dish, layer half of the cooked noodles, meat sauce, ricotta cheese, mozzarella slices, and Parmesan cheese. Repeat with remaining ingredients.\n7. Bake for 30 minutes or until bubbly.\n8. Serve and enjoy!",
+  "url": null
+}

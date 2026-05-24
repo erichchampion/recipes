@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "sunny-milk",
+  "name": "Sunny Milk",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "dairy",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 quart Water, ice cold",
+    "1 cup Sunflower seeds",
+    "1/2 cup Ripe banana (optional)",
+    "1 tbsp Sorghum",
+    "3 tbsp Raisins"
+  ],
+  "recipeInstructions": "1. Add all ingredients to a blender.\n2. Blend at high speed for 2 minutes.\n3. Serve as a drink or over granola.\n4. For a thicker milk, add the ripe banana.\n5. Enjoy it with breakfast cereal.\nVariation: Soak the sunflower seeds overnight before blending.",
+  "url": null
+}

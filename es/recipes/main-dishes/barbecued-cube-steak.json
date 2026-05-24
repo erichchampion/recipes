@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecued-cube-steak",
+  "name": "Steak de cubo a la barbacoa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecua",
+    "carne de vacuno",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "4 lb de costillas de ternera",
+    "1/4 taza de harina con sal y pimienta",
+    "3 cucharadas de grasa",
+    "1 cebolla mediana",
+    "1/8 cucharadita de pimienta",
+    "1 cucharada de vinagre",
+    "2 cucharadas de jugo de limón",
+    "1/2 taza de ketchup",
+    "2 cucharadas de salsa Worcestershire",
+    "1/2 cucharadita de sal",
+    "1/2 taza de agua",
+    "1 cucharada de azúcar moreno"
+  ],
+  "recipeInstructions": "1. Condimentar las costillas con la harina y la sal, luego dorarlas en la grasa.\n2. Añadir la cebolla picada y cocinar ligeramente.\n3. Mezclar el vinagre, el jugo de limón, el ketchup, la salsa Worcestershire, la sal, el agua y el azúcar moreno.\n4. Verter la mezcla sobre las costillas y cubrir ligeramente.\n5. Cocinar a fuego lento durante 35 minutos o hasta que las costillas estén tiernas.",
+  "url": null
+}

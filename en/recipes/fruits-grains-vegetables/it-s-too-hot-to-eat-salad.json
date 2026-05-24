@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "it-s-too-hot-to-eat-salad",
+  "name": "It's Too Hot to Eat Salad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "salads"
+  ],
+  "recipeIngredient": [
+    "1 cup chopped tomatoes",
+    "1/2 medium pepper, chopped coarsely",
+    "1/4 onion, chopped finely",
+    "1 mango, chopped coarsely",
+    "A few grinds black pepper",
+    "Salt to taste (optional)"
+  ],
+  "recipeInstructions": "1. Chop the tomatoes, peppers, and onions as described.\n2. Coarsely chop the mango.\n3. Mix all ingredients together with salt and pepper if desired.\n4. Chill for at least one hour, or overnight for best results.",
+  "url": null
+}

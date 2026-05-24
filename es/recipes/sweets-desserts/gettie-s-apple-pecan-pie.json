@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "gettie-s-apple-pecan-pie",
+  "name": "Pastel de manzana y nuez de Getti",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "frutas",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 masa de tarta sin hornear de 23 cm",
+    "4 tazas de manzanas para cocinar; cortadas en trozos",
+    "1 taza de azúcar",
+    "2 cucharadas de harina",
+    "4 cucharadas de mantequilla; cortada en trozos pequeños",
+    "1 taza de nueces picadas",
+    "1 cucharadita de canela"
+  ],
+  "recipeInstructions": "1. Mezclar el azúcar y la harina.\n2. Agregar ligeramente con las manzanas.\n3. Incorporar la mantequilla, las nueces picadas y la canela.\n4. Rellenar la masa de la tarta.\n5. Hornear a 200°C durante 30 minutos.\n6. Servir caliente. Acompañar con helado o crema batida.",
+  "url": null
+}

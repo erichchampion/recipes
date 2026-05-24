@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-stew-3",
+  "name": "Beef Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "meats",
+    "soups",
+    "soups and stews",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "2 lbs round steak, or chuck roast",
+    "2 onions",
+    "3 large potatoes",
+    "6 carrots",
+    "salt",
+    "pepper",
+    "2 cans cream of mushroom soup (condensed)",
+    "water"
+  ],
+  "recipeInstructions": "1. Brown the meat with onions, salt, pepper, and a little oil.\n2. Add diced potatoes and carrots to the pot.\n3. Add 1 or 2 cans of cream of mushroom soup and about half as much water.\n4. Cook until done - either in the oven, on the stove top, or using a slow cooker.\n5. The stew will make its own gravy.",
+  "url": null
+}

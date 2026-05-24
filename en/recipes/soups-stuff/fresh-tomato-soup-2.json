@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fresh-tomato-soup-2",
+  "name": "Fresh Tomato Soup",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "german",
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "6 tomatoes, medium size or 2 lb Italian plum tomatoes",
+    "1 onion, chopped",
+    "1 celery stalk, chopped",
+    "2 cups chicken broth",
+    "2 tbsp tomato paste",
+    "1/2 tsp dried basil",
+    "1/4 tsp freshly ground pepper",
+    "1/2 cup yogurt"
+  ],
+  "recipeInstructions": "1. Cut the tomatoes into wedges and place them in a 1 1/2-quart saucepan.\n2. Add all ingredients except yogurt, stirring to combine.\n3. Simmer uncovered for 30 minutes.\n4. Strain through a fine-mesh sieve to remove tomato skins and seeds.\n5. Adjust seasonings with salt and pepper as needed.\n6. Garnish bowls of soup with spoonfuls of yogurt before serving.",
+  "url": null
+}

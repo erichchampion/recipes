@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-salad-w-dried-cherry-vinaigrette",
+  "name": "Ensalada de frutas con vinagreta de cerezas secas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frutas",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de vinagre de cereza seco",
+    "4 cucharadas de aceite vegetal",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra molida",
+    "1 taza de cerezas secas",
+    "1 manzana Granny Smith pequeña, cortada en rodajas finas",
+    "1 naranja pequeña, pelada y dividida en secciones",
+    "1/4 taza de anacardos salados enteros",
+    "1 1/2 tazas de endivo belga",
+    "1 1/2 tazas de espinacas",
+    "1 1/2 tazas de lechuga Boston"
+  ],
+  "recipeInstructions": "1. Para la vinagreta: Mezclar el vinagre, el aceite, la sal y la pimienta.\n2. Disponer las verduras en un plato de servir.\n3. Añadir las cerezas, frutas y anacardos.\n4. Servir con la vinagreta.",
+  "url": null
+}

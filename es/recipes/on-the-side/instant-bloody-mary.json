@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "instant-bloody-mary",
+  "name": "Mary Sangrienta Instantánea",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz de vodka",
+    "3 1/2 oz de V8 picante (cocktail)",
+    "Un chorrito de jugo de limón (opcional)"
+  ],
+  "recipeInstructions": "1. Llena un vaso antiguo con hielo.\n2. Añade el vodka, el V8 y (si lo deseas) un chorrito de jugo de limón fresco.\n3. Remueve suavemente.\n4. Adorna con una rodaja de lima y un tallo de apio.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cottage-eggs",
+  "name": "Huevos de Cottage",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "4 huevos grandes",
+    "Sal y pimienta al gusto",
+    "1 cucharada y media de mantequilla",
+    "1/2 taza de crema agria tipo curd pequeño",
+    "Queso cottage",
+    "2 cucharadas de queso cheddar finamente picado"
+  ],
+  "recipeInstructions": "1. Bate los huevos con sal y pimienta hasta que las yemas y las claras se mezclen.\n2. En una sartén de 8 pulgadas, derrite la mantequilla y gira para cubrir el fondo.\n3. Añade los huevos a la mantequilla caliente y cocina a fuego moderadamente bajo, levantando los huevos del fondo a medida que se cuajen.\n4. Cuando estén casi cuajados, apaga el fuego, incorpora el queso cottage y el queso cheddar picado.\n5. Sirve inmediatamente. Rinde 2 porciones.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "plain-muffins",
+  "name": "Plain Muffins",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "muffins"
+  ],
+  "recipeIngredient": [
+    "2 cups Flour",
+    "4 tablespoons Sugar",
+    "3 tablespoons Melted Shortening",
+    "1 cup Milk",
+    "3 teaspoons Baking Powder",
+    "1/2 teaspoon Salt",
+    "1 Egg, well beaten"
+  ],
+  "recipeInstructions": "1. Sift together the flour, baking powder, and salt.\n2. In a separate bowl, beat the egg and combine it with the melted shortening, milk, and sugar until smooth.\n3. Gradually add the dry ingredients to the wet mixture, stirring only until combined.\n4. Fill muffin tins 2/3 full with the batter.\n5. Bake in a hot oven (425°F) for 15-20 minutes.",
+  "url": null
+}

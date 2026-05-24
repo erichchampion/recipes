@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "savory-rice",
+  "name": "Arroz Sabroso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "carne de res",
+    "arroz",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz (crudo)",
+    "1/2 taza de cebolla picada",
+    "1 lata de sopa de pollo",
+    "1/2 taza de apio picado",
+    "1/4 libra de mantequilla o margarina",
+    "1 cucharadita de sal",
+    "1 lata de consome de carne",
+    "1/2 taza de setas picadas"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una sartén y cocina las cebollas y el apio hasta que estén translúcidos.\n2. En un plato para hornear, alterna capas de arroz, mezcla de cebolla y apio, y setas.\n3. Añade sal y un poco de pimienta a las capas.\n4. Vierte los dos tarros de caldo sobre la mezcla.\n5. Tapa y hornea a 180 °C durante 45 minutos o hasta que se absorba el líquido.\n6. Si el arroz parece seco, añade un poco de agua.",
+  "url": null
+}

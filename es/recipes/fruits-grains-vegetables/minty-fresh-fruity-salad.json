@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "minty-fresh-fruity-salad",
+  "name": "Ensalada Fresca y Frutal con Menta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "fruta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 melón cantalup (mediano), pelado y sin semillas, cortado en trozos",
+    "1 taza de arándanos frescos o descongelados",
+    "1/2 taza de fresas lavadas, sin verde y cortadas en rodajas",
+    "1/4 taza de hojas de menta frescas, picadas finamente",
+    "1/4 taza de jugo de naranja",
+    "2 cucharadas de miel"
+  ],
+  "recipeInstructions": "1. En un bol grande para servir, mezcla el melón cantalup cortado, los arándanos, la menta, el jugo de naranja y la miel.\n2. Revuelve suavemente los ingredientes.\n3. Tapa el bol y refrigera hasta el momento de servir.",
+  "url": null
+}

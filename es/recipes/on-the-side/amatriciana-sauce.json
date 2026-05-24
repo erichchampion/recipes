@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "amatriciana-sauce",
+  "name": "Salsa Amatriciana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "italiano",
+    "pasta",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/3 taza de aceite de oliva",
+    "4 cebollas, picadas groseramente",
+    "8 onzas de tocino canadiense, en rodajas",
+    "o jamón ahumado en rodajas",
+    "4 dientes de ajo, aplastados",
+    "2 latas de tomates plum (total de 35 onzas)",
+    "(4 tazas de tomates)",
+    "2 cucharaditas de azúcar",
+    "3/4 taza de vino tinto seco",
+    "Sal y pimienta negra recién molida"
+  ],
+  "recipeInstructions": "Calentar el aceite en una sartén pesada de tamaño medio a fuego medio-alto. Agregar las cebollas y saltear durante 10 minutos. Incorporar el tocino y el ajo, y saltear por 5 minutos adicionales. Mezclar los tomates, el azúcar y el vino. Sazonar al gusto con sal y pimienta. Reducir el fuego y dejar cocinar destapada durante 45 minutos, removiendo ocasionalmente.",
+  "url": null
+}

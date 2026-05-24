@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-soup-2",
+  "name": "Taco Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "beef",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground Beef",
+    "1/2 tsp Garlic Powder",
+    "1 Large Onion",
+    "16 oz Tomatoes (canned)",
+    "16 oz Tomato Sauce (canned)",
+    "4 oz Green Chiles (canned)",
+    "1 Thick and Chunky Salsa (jar, 16 oz)",
+    "16 oz Pinto Beans (canned)",
+    "16 oz Kidney Beans (canned)",
+    "1 pkg Taco Seasoning Mix",
+    "3 cups Water",
+    "Cheddar Cheese - grated for garnish",
+    "Tortilla Chips - taco-flavored for garnish",
+    "Sour Cream - for garnish"
+  ],
+  "recipeInstructions": "1. Brown the ground beef with onion and garlic powder in a large pot.\n2. Add remaining ingredients (tomatoes, tomato sauce, green chiles, salsa, pinto beans, kidney beans, taco seasoning mix) to the pot.\n3. Stir well to combine all ingredients.\n4. Gradually add water until the mixture reaches desired consistency.\n5. Simmer the soup over low heat for about 20-30 minutes, stirring occasionally.\n6. Serve hot with grated Cheddar Cheese, taco-flavored tortilla chips, and a dollop of Sour Cream on top, if desired.",
+  "url": null
+}

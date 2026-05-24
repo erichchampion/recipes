@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pet-basket",
+  "name": "Pet Basket",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Holiday Foods",
+  "keywords": [
+    "holiday",
+    "miscellaneous"
+  ],
+  "recipeIngredient": [
+    "Catnip toys",
+    "Animal cookies",
+    "Flea collar",
+    "Treats",
+    "Bone"
+  ],
+  "recipeInstructions": "1. Gather all the items listed above.\n2. Place the catnip toys, animal cookies, flea collar, treats, and bone into the basket.\n3. Arrange the items neatly inside the basket.",
+  "url": null
+}

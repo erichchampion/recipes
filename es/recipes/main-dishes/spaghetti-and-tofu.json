@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-and-tofu",
+  "name": "Espaguetis con tofu",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 taza de tofu machacado",
+    "2 cucharadas de levadura nutricional",
+    "1 cucharada de aceite",
+    "2 cucharadas de tamari",
+    "2 tazas de espagueti cocido",
+    "3 tazas de salsa de tomate"
+  ],
+  "recipeInstructions": "1. En un bol mediano, mezclar el tofu machacado, la levadura nutricional, el aceite y el tamari.\n2. Incorporar el espagueti cocido y la salsa de tomate hasta obtener una mezcla homogénea.\n3. Transferir la mezcla a un plato para hornear y hornear en horno medio (175 °C) durante 20-25 minutos, o hasta que se caliente bien.\n4. Servir caliente.",
+  "url": null
+}

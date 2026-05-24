@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "tropical-soup",
+  "name": "Sopa Tropical",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 mangos en rodajas",
+    "2 papayas sin semillas, cortadas en trozos",
+    "2 plátanos",
+    "1/4 taza de jugo de limón",
+    "Coco tostado",
+    "Menta picada"
+  ],
+  "recipeInstructions": "1. Coloca los mangos, papayas y plátanos en una licuadora.\n2. Añade el jugo de limón.\n3. Licúa hasta obtener una textura suave.\n4. Agrega lentamente yogur natural mientras sigues licuando.\n5. Vierte la mezcla en cuencos.\n6. Refrigera durante al menos 1 hora antes de servir.\n7. Adorna con coco tostado y menta fresca.",
+  "url": null
+}

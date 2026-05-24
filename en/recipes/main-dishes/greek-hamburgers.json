@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "greek-hamburgers",
+  "name": "Greek Hamburgers",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "burgers",
+    "greek",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Ground beef (lean)",
+    "2 tablespoons Olive oil",
+    "3 Garlic cloves (minced)",
+    "3 tbsp Red wine (dry Burgundy)",
+    "2 tsp Oregano",
+    "2 tbsp Dijon mustard"
+  ],
+  "recipeInstructions": "1. Mix the hamburger with the first six ingredients, combining them thoroughly.\n2. Season to taste with salt and pepper.\n3. Prepare your preferred cooking method for the patties.\n4. Top each patty with fried onions, lettuce, and tomatoes before serving.\n5. Serve on buns; if desired, use Dijon mustard as a topping instead of mayo or other condiments.\nServes 6",
+  "url": null
+}

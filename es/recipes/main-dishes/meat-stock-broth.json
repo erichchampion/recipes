@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "meat-stock-broth",
+  "name": "Caldo de carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne",
+    "diversos",
+    "conservación"
+  ],
+  "recipeIngredient": [
+    "Huesos de res: Limpiar huesos de res frescos y colocarlos en una olla grande o caldero, cubrir con agua, agregar tapa y cocinar a fuego lento durante 3 a 4 horas. Retirar los huesos, enfriar el caldo y colarlo para eliminar la carne. Escurrir la grasa y devolver la carne al caldo.",
+    "Huesos de pollo o pavo: Colocar los huesos enteros en una olla grande, cubrir con agua fría, llevar a ebullición y luego reducir el fuego para mantener un hervor suave durante 30 a 45 minutos. Retirar los huesos, enfriar el caldo y colarlo para eliminar la carne. Descartar la grasa excesiva y devolver la carne al caldo."
+  ],
+  "recipeInstructions": "1. Enjuagar los huesos de res bajo agua fría.\n2. Colocar los huesos de res en una olla grande o caldero con suficiente agua fría para cubrirlos por lo menos 1 pulgada.\n3. Agregar tapa a la olla y llevar a ebullición a fuego alto.\n4. Reducir el fuego para mantener un hervor suave durante 3 a 4 horas, retirando la espuma o grasa que flote en la superficie.\n5. Retirar los huesos del caldo usando pinzas o una cuchara con ranuras, enfriarlos ligeramente y desecharlos.\n6. Colar el caldo enfriado a través de un colador fino en un recipiente limpio, presionando las carnes para extraer todo el líquido posible.\n7. Retirar la grasa que flote en la superficie del caldo colado.\n8. Devolver la carne y la grasa filtrada al caldo en la olla o caldero.\n9. Calentar la mezcla a fuego medio hasta que hierva, luego transferirla a frascos limpios dejando 1 pulgada de espacio libre.\n10. Limpiar los bordes de los frascos, ajustar las tapas y procesar según la Tabla 1 o Tabla 2 según el método de envasado elegido.\nTabla 1: Tiempo de procesamiento recomendado para caldo de carne en un esterilizador de presión con graduación (dial)\nEstilo de empaque: Caliente\nTamaño del frasco: Pints, Quartos\nTiempo de procesamiento: 20 minutos para Pints, 25 minutos para Quartos\nPresión del esterilizador (PSI): 11 lb a altitudes de 0 a 2.000 pies; 12 lb a 2.001 - 4.000 pies; 13 lb a 4.001 - 6.000 pies; 14 lb a 6.001 - 8.000 pies\nTabla 2: Tiempo de procesamiento recomendado para caldo de carne en un esterilizador de presión con peso (peso)\nEstilo de empaque: Caliente\nTamaño del frasco: Pints, Quartos\nTiempo de procesamiento: 20 minutos para Pints, 25 minutos para Quartos\nPresión del esterilizador (PSI): 10 lb a altitudes inferiores a 1.000 pies; 15 lb a altitudes superiores a 1.000 pies",
+  "url": null
+}

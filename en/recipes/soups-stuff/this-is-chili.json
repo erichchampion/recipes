@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "this-is-chili",
+  "name": "This...is Chili",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "entree",
+    "mexican",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "2 tablespoons shortening (lard or vegetable shortening)",
+    "5 cups onion, minced",
+    "2 tablespoons garlic, minced",
+    "2 pounds ground beef (round or chuck)",
+    "2 pounds lean ground pork",
+    "70 ounces canned tomatoes (undrained)",
+    "24 ounces tomato paste",
+    "1 teaspoon dried oregano",
+    "1 teaspoon ground cumin",
+    "1 bay leaf",
+    "3 cups cooked pinto beans, rinsed and drained",
+    "2 cups cheddar cheese, grated (jack or other sharp cheeses work as well)",
+    "4 cups scallions, thinly sliced"
+  ],
+  "recipeInstructions": "1. Heat the shortening in a large skillet over medium flame.\n2. Add the onions and garlic; cook, stirring occasionally, for 4-5 minutes until softened but not browned.\n3. Stir in the ground beef and pork; continue cooking until all pinkness is gone.\n4. Stir in the canned tomatoes (with juices), tomato paste, oregano, cumin, bay leaf, and cooked pinto beans.\n5. Bring to a boil, then reduce heat and simmer, covered, for 2 hours.\n6. Uncover and simmer another 1-2 hours until thickened to your desired consistency.\n7. Turn off the heat. Serve hot, garnished with grated cheese and sliced scallions.",
+  "url": null
+}

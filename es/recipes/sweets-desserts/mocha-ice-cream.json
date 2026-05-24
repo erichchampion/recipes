@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mocha-ice-cream",
+  "name": "Helado de Moca",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "4 huevos (separados)",
+    "150 g de chocolate negro sin leche",
+    "60 ml de café fuerte",
+    "300 ml de nata para montar",
+    "100 g de azúcar",
+    "1 cucharada de licor de café"
+  ],
+  "recipeInstructions": "1. Derretir el chocolate en un baño maría.\n2. Mezclar el chocolate derretido, el café y las yemas de huevo.\n3. Batir la crema hasta que forme picos firmes y luego incorporar el licor de café.\n4. Batir las claras de huevo hasta que formen picos firmes y añadir el azúcar gradualmente.\n5. Incorporar la mezcla de mocha a la crema batida y mezclar suavemente con las claras montadas.\n6. Congelar durante al menos 5 horas. La textura debe mantenerse firme sin necesidad de batir durante el congelado, pero es recomendable comprobarlo a mitad del proceso.",
+  "url": null
+}

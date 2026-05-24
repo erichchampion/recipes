@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "american-dressing",
+  "name": "Aderezo americano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "marinadas",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "125 g mayonesa",
+    "125 g queso crema (20% grasa)",
+    "5 cucharadas de vinagre",
+    "3 cucharadas de ketchup de tomate",
+    "1 diente de ajo",
+    "1 manojo de cebolletas",
+    "1 manojo de perejil plano",
+    "1 pizca de tomillo",
+    "Sal",
+    "Pimienta blanca",
+    "1-2 gotas de Tabasco",
+    "1-2 cucharadas de coñac"
+  ],
+  "recipeInstructions": "1. Mezclar la mayonesa, el queso crema, el vinagre y el ketchup de tomate en un bol. Batir bien con un batidor de huevos.\n2. Machacar el diente de ajo o pasarle un prensador de ajo. Incorporarlo al aderezo y mezclar bien.\n3. Lavar y secar las hierbas con papel de cocina. Picar finamente las cebolletas. Cortar el perejil y el tomillo en hojas finas.\n4. Mezclar las hierbas en el aderezo y sazonar generosamente con sal, pimienta, Tabasco, coñac o brandy. Ajustar la sazón según el gusto.",
+  "url": null
+}

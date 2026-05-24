@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-sauce",
+  "name": "Tomato Sauce",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "ethnic",
+    "italian",
+    "sauces"
+  ],
+  "recipeIngredient": [
+    "1 can Tomatoes (28 oz)",
+    "1 slice Onion",
+    "2 Cloves",
+    "ds Black pepper",
+    "ds Salt",
+    "2 T Butter",
+    "1 T Flour"
+  ],
+  "recipeInstructions": "1. In a saucepan, cook tomatoes with onion, cloves, pepper and salt for 20 minutes.\n2. Remove the onion and cloves from the mixture.\n3. Push the tomato through a strainer or puree it in a food processor to create the tomato pulp.\n4. Melt butter in a saucepan.\n5. Stir in flour and continue stirring until golden and frothy.\n6. Stir in the tomato pulp and bring to a boil.\n7. Keep warm until ready to serve.",
+  "url": null
+}

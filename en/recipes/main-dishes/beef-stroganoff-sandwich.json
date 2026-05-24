@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-stroganoff-sandwich",
+  "name": "Beef Stroganoff Sandwich",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "2 lb Ground beef",
+    "1/2 cup Chopped onion",
+    "1 tbsp Salt",
+    "1/2 tsp Garlic powder",
+    "1/2 tsp Ground pepper",
+    "2 Loaves French bread",
+    "2 cups Sour cream",
+    "2 Tomatoes, seeded and diced",
+    "1 Green pepper, diced",
+    "3 cups Shredded cheddar cheese",
+    "Butter"
+  ],
+  "recipeInstructions": "1. In a skillet, brown the ground beef and onion. Drain excess fat.\n2. Add salt, garlic powder, and pepper to the skillet. Cook until fragrant.\n3. Cut each loaf of French bread in half lengthwise. Butter both halves.\n4. Place the buttered halves on a baking sheet.\n5. Remove meat mixture from heat; stir in sour cream.\n6. Spoon the meat mixture onto one slice of bread.\n7. Sprinkle with diced tomatoes, green pepper, and shredded cheddar cheese.\n8. Place the top slice of bread on the filling.\n9. Bake at 350 degrees F for 20 minutes, or until the cheese is melted. For crispier bread, bake longer.",
+  "url": null
+}

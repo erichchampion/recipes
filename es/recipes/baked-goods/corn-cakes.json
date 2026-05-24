@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "corn-cakes",
+  "name": "Tortas de Maíz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 huevo batido ligeramente",
+    "1 taza de harina de maíz",
+    "1/2 taza de harina común",
+    "1 cucharadita de sal",
+    "1 taza de agua caliente o leche",
+    "1 cucharada de grasa o manteca",
+    "1 cucharadita de azúcar"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes secos juntos.\n2. Incorporar los ingredientes húmedos restantes (agua caliente/leche, grasa y azúcar).\n3. Colocar cucharadas de la masa sobre una superficie de cocción caliente engrasada.\n4. Freír hasta que estén doradas por ambos lados.",
+  "url": null
+}

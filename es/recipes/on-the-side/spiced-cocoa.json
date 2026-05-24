@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "spiced-cocoa",
+  "name": "Cacao especiado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "chocolate",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de cacao en polvo",
+    "1/4 taza de azúcar granulada",
+    "Una pizca de sal",
+    "1/8 cucharadita de canela molida",
+    "2 tazas de agua",
+    "1 lata (400 ml) de leche evaporada",
+    "1/2 cucharadita de extracto de vainilla",
+    "Crema batida"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar el cacao en polvo, el azúcar, la sal y la canela.\n2. Añadir el agua gradualmente a los ingredientes secos, removiendo hasta que se combinen bien.\n3. Llevar la mezcla a ebullición a fuego medio.\n4. Continuar hirviendo durante 3 minutos a fuego lento.\n5. Incorporar la leche evaporada y el extracto de vainilla.\n6. Batir la mezcla con un batidor giratorio hasta que quede espumosa.\n7. Decorar cada porción con crema batida.\n8. Servir caliente, idealmente en 4 porciones.",
+  "url": null
+}

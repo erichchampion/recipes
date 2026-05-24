@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "heavenly-brownies",
+  "name": "Brownies celestiales",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "brownie",
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "2 huevos",
+    "2 cucharadas de cacao (aproximado)",
+    "1/2 taza de harina",
+    "8 cucharadas de margarina; derretida",
+    "1 taza de nueces pecanas; picadas",
+    "1 cucharadita de vainilla",
+    "Un toque de sal"
+  ],
+  "recipeInstructions": "1. Batir el azúcar y los huevos juntos a velocidad alta durante 5 minutos.\n2. Mezclar el cacao y la harina, luego incorporarlos a la mezcla de huevo y azúcar.\n3. Agregar la margarina derretida con una cuchara.\n4. Incorporar las nueces pecanas, la vainilla y la sal.\n5. Verter la masa en un molde de 8x10 engrasado y enharinado.\n6. Hornear a 350°F durante unos 30 minutos.",
+  "url": null
+}

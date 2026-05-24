@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "caesar-bread",
+  "name": "Pan de César",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "panes",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de mantequilla, ablandada",
+    "1/4 taza de aderezo para ensalada César",
+    "1 diente de ajo, picado finamente",
+    "4 cucharaditas de mostaza dijon",
+    "1 cucharada de albahaca seca en hojuelas",
+    "1 cucharadita de salsa Worcestershire",
+    "1/3 taza de queso parmesano rallado",
+    "1 hogaza de pan italiano suave y grueso, cortado en rebanadas gruesas"
+  ],
+  "recipeInstructions": "1. Batir la mantequilla con el aderezo para ensalada César, el ajo, la mostaza dijon, la albahaca y la salsa Worcestershire hasta que quede ligera y esponjosa.\n2. Extender la mezcla uniformemente sobre cada rebanada de pan.\n3. Unir las rebanadas con la mantequilla hacia adentro para formar sándwiches.\n4. Apilarlos y envolverlos en papel de aluminio.\n5. Hornear a 180°C durante 20 minutos.\n6. Retirar el papel de aluminio y hornear por 10 minutos adicionales, o hasta que los bordes estén crujientes.\n7. Servir para 6-8 personas",
+  "url": null
+}

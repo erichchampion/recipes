@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "veggie-burgers-1",
+  "name": "Hamburguesas de Verduras 1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgueras",
+    "plato principal",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "2 tazas de avena en hojuelas",
+    "1 1/2 tazas de zanahorias ralladas",
+    "1/2 taza de guisantes cortados (o cualquier otro vegetal)",
+    "1/2 taza de col picada",
+    "1/2 taza de setas picadas",
+    "1/2 taza de brócoli picado",
+    "1/2 taza de cebolla picada",
+    "1 diente de ajo machacado",
+    "3 cucharadas de harina (aproximadamente)",
+    "1/4 taza de agua",
+    "1/4 taza de salsa de soja",
+    "sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Dar forma a las hamburguesas.\n3. Dorar las hamburguesas por ambos lados.\n4. Colocarlas en una bandeja para hornear.\n5. Hornear durante 25 a 30 minutos.",
+  "url": null
+}

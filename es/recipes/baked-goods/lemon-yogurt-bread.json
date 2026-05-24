@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-yogurt-bread",
+  "name": "Pan de yogur con limón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3 tazas de harina",
+    "1 cucharadita de bicarbonato de sodio",
+    "1/2 cucharadita de polvo de hornear",
+    "1 cucharadita de sal",
+    "3 huevos",
+    "3/4 taza de aceite vegetal",
+    "1 1/2 tazas de azúcar",
+    "2 tazas de yogur natural con limón",
+    "2 cucharadas de jugo de limón (de limón fresco)"
+  ],
+  "recipeInstructions": "1. Cernir los ingredientes secos en un bol aparte.\n2. Batir ligeramente los huevos en un bol grande.\n3. Agregar el aceite y el azúcar; mezclar bien.\n4. Incorporar el yogur y el jugo de limón, luego añadir los ingredientes secos y mezclar bien.\n5. Verter la mezcla en dos moldes para pan engrasados.\n6. Hornear a 175 °C durante una hora.",
+  "url": null
+}

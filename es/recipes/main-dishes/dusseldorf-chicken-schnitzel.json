@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "dusseldorf-chicken-schnitzel",
+  "name": "Pollo Schnitzel de Düsseldorf",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "2 lb de pechuga de pollo, dividida, deshuesada y sin piel",
+    "1/3 taza de harina",
+    "1/4 cucharadita de sal",
+    "1/8 cucharadita de pimienta negra",
+    "2 huevos batidos",
+    "2 cucharadas de agua",
+    "1/2 taza de migas de pan secas",
+    "1/3 taza de queso parmesano rallado",
+    "1/3 taza de margarina"
+  ],
+  "recipeInstructions": "1. Aplane el pollo hasta que quede de 0,6 cm de grosor.\n2. En un bol, mezcle la harina con las especias (sal y pimienta).\n3. Cubra cada trozo de pollo con la mezcla de harina.\n4. Sumerja el pollo en los huevos batidos y agua.\n5. Vierta nuevamente las migas de pan y el queso parmesano sobre el pollo.\n6. Refrigere durante al menos 30 minutos.\n7. Fría el pollo en la margarina durante 6 minutos o hasta que esté cocido por completo, dando la vuelta una vez.\n8. Sirva con limón.",
+  "url": null
+}

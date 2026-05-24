@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "tempeh-sandwich",
+  "name": "Sándwich de tempeh",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "aperitivos",
+    "plato principal",
+    "sándwiches",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 trozo de tempeh del tamaño aproximado de un puño",
+    "1 cucharadita de aceite",
+    "1 cucharadita de salsa de soja",
+    "cebolla y setas picadas (opcional)",
+    "2 rebanadas de pan",
+    "mayonesa o equivalente",
+    "rebanadas de tomate u otras verduras crudas al gusto"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en una sartén (o en dos si lo prefieres). Saltear la cebolla y las setas hasta que estén hechas, luego apartar.\n2. Freír el tempeh por ambos lados. Cuando esté casi cocido, añadir una cucharadita de salsa de soja a cada lado y dar la vuelta para terminar la cocción (puede salpicar).\n3. Tostar el pan y untar mayonesa generosamente en ambas rebanadas.\n4. Montar el sándwich con las rebanadas de pan, tempeh, tomate, mezcla de cebolla y setas, y otras verduras al gusto. Servir caliente.\nDificultad: fácil\nPrecisión: medidas aproximadas",
+  "url": null
+}

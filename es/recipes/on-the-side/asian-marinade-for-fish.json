@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "asian-marinade-for-fish",
+  "name": "Marinada Asiática (para Pescado)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "marinadas",
+    "mariscos",
+    "platos secundarios",
+    "especias"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de salsa de soja o tamari",
+    "2 cucharadas de aceite de sésamo oscuro",
+    "2 cucharadas de vinagre de arroz",
+    "1 cucharada de ajo picado",
+    "1 cucharada de jengibre picado",
+    "1 cebolleta, cortada finamente (aproximadamente 2 tb)",
+    "Pimienta negra molida al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes de la marinada en un bol.\n2. Colocar el pescado en la marinada y dar la vuelta después de 15 minutos.\n3. Asar a la parrilla durante unos 8 minutos.",
+  "url": null
+}

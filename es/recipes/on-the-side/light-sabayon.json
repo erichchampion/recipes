@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "light-sabayon",
+  "name": "Sabayón Ligero",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "desayuno",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de crema de jerez (opcional)",
+    "200 g de tofu firme extra",
+    "1/2 taza de Fruitsource líquido (R)",
+    "2 cucharadas de aceite de canola",
+    "1 pizca de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Calentar la crema de jerez a fuego medio hasta que se reduzca a la mitad.\n2. Retirar del fuego y mezclar con los ingredientes restantes.\n3. Servir caliente.\nRinde 3 tazas",
+  "url": null
+}

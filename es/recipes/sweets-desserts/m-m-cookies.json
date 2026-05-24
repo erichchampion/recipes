@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "m-m-cookies",
+  "name": "Galletas con M&M",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 paquete de mezcla para pastel amarillo",
+    "2 huevos",
+    "1/2 taza de aceite",
+    "3/4 taza de agua",
+    "3/4 lb de M&M's",
+    "1/2 taza de nueces, opcional",
+    "1/2 taza de coco rallado, opcional"
+  ],
+  "recipeInstructions": "1. Mezclar juntos la mezcla para pastel, huevos, aceite y agua en un bol grande.\n2. Añadir los M&Ms y cualquier ingrediente adicional (nueces o coco) a la masa.\n3. Extender la masa sobre una bandeja para galletas sin engrasar.\n4. Hornear a 175 grados Celsius durante 6 a 8 minutos, teniendo cuidado de no sobrehornear.\n5. Retirar del horno y dejar enfriar sobre la bandeja antes de transferir a una rejilla para que se enfríe completamente.",
+  "url": null
+}

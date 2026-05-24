@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "scones-3",
+  "name": "Scones",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "biscuits",
+    "breads",
+    "breakfast"
+  ],
+  "recipeIngredient": [
+    "2 cups Flour",
+    "1/2 cup Sugar",
+    "1 tbsp Baking Powder",
+    "2 tsp Vanilla Powder",
+    "1/2 tsp Salt",
+    "1/2 tsp Cream of Tartar",
+    "1/2 cup Shortening",
+    "2/3 cup Milk",
+    "1 cup Chopped Nuts (optional)",
+    "1 cup Dried Fruit (optional)"
+  ],
+  "recipeInstructions": "Mix all ingredients together until a dough forms. Form the dough into scones and bake at 350°F until lightly browned on top. Separate the mixture into smaller portions, shape them into scones, and place them in a cast iron pan to bake in the oven. Nuts and fruit are optional but highly recommended when paired with dried cranberries or apricots for an enhanced flavor experience.",
+  "url": null
+}

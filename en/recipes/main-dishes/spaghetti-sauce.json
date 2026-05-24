@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-sauce",
+  "name": "Spaghetti Sauce",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "1/4 cup olive oil",
+    "3 cloves garlic, minced",
+    "1 large onion, diced",
+    "1 can (12 oz.) tomato paste",
+    "1 can (46 oz.) tomato juice",
+    "1 can (28 oz.) whole tomatoes",
+    "1/4 cup parsley",
+    "1 1/2 tsp. basil",
+    "1 pinch oregano"
+  ],
+  "recipeInstructions": "1. In a pan over medium heat, sauté the garlic and onion in olive oil until the onions are translucent.\n2. Add the tomato paste to the pan and blend well with the existing ingredients.\n3. Stir in the tomato juice and spices (basil and oregano).\n4. Pour the mixture into the crockpot.\n5. Add the whole tomatoes, stirring to combine everything evenly.\n6. Cook on low for 6 to 8 hours. Optionally, add half a bell pepper and/or two-thirds of a cup of sautéed mushrooms for extra flavor and texture.",
+  "url": null
+}

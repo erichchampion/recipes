@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "greens-with-avocado-and-pear",
+  "name": "Verduras con Aguacate y Pera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "rápido",
+    "ensaladas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 pera de maduración media, sin corazón y cortada en cubos",
+    "1 aguacate de maduración media, pelado, deshuesado y cortado en cubos",
+    "1/2 pepino mediano, pelado y cortado en rodajas",
+    "4 tazas de lechuga romana picada o lechuga roja, o una mezcla de ambas",
+    "Topping opcional:",
+    "Un chorrito de jugo de limón",
+    "Un chorrito de vinagre balsámico",
+    "Una pizca de tu aderezo vinaigrette favorito."
+  ],
+  "recipeInstructions": "1. Mezcla la pera, el aguacate y el pepino en un bol para ensalada.\n2. Añade la lechuga y mezcla bien.\n3. Sirve para 6 personas.",
+  "url": null
+}

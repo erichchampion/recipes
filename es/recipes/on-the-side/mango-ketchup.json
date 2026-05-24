@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mango-ketchup",
+  "name": "Ketchup de mango",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "4 mangos medianos",
+    "2 onzas de vinagre",
+    "1 cucharada de jengibre molido",
+    "1/8 cucharadita de canela en polvo",
+    "1 cucharadita de sal",
+    "1/2 taza de azúcar crudo",
+    "1/2 taza de vino blanco",
+    "1/2 cucharadita de allspice molido",
+    "1/2 cucharadita de pimienta cayena",
+    "1 clavo entero"
+  ],
+  "recipeInstructions": "1. Pelar los mangos y descartar el hueso central.\n2. Retirar la pulpa y mezclar en un procesador de alimentos o licuadora.\n3. Añadir los ingredientes restantes y mezclar hasta que quede bien combinado.\n4. Colocar la mezcla en una cacerola pesada a fuego bajo.\n5. Cocinar, removiendo ocasionalmente, hasta que se reduzca y espese.\n6. Apagar el fuego y dejar enfriar.\n7. Colar la mezcla a través de un colador fino.\n8. Refrigerar durante la noche para permitir que los sabores se mezclen.",
+  "url": null
+}

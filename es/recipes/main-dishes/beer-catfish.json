@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-catfish",
+  "name": "Pescado con Cerveza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina para todo uso",
+    "1 taza de cerveza (de tu marca favorita)",
+    "Pimienta de ajo al gusto",
+    "Sal y pimienta al gusto",
+    "4-5 filetes de pescado gato, cortados en tiras",
+    "Aceite vegetal para freír"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar 1 taza de harina con la cerveza, la pimienta de ajo, la sal y la pimienta. Batir bien.\n2. Sumergir las tiras de pescado gato en la harina restante, luego en la mezcla de cerveza.\n3. Freír en aceite caliente en una freidora profunda o sartén hasta que estén doradas. Escurrir sobre toallas absorbentes.\n4. Servir caliente con tu salsa favorita.\nRinde: 4 porciones.",
+  "url": null
+}

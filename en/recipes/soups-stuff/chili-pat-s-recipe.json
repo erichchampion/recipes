@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-pat-s-recipe",
+  "name": "Chili Pat's Recipe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 lb Hamburger",
+    "1 Onion, chopped",
+    "1 tbsp Fat (e.g., oil or butter)",
+    "1 can Kidney Beans, drained",
+    "1 can Tomato Soup",
+    "2/3 cup Water",
+    "1 tsp Salt",
+    "2 tsp Vinegar",
+    "1/2 tsp Chiles (or 1 tsp to taste)"
+  ],
+  "recipeInstructions": "1. Heat the fat in a frying pan over medium heat.\n2. Add the chopped onion and hamburger; brown the meat.\n3. Add the remaining ingredients; stir together.\n4. Simmer on low heat for about 20-30 minutes, or until thickened.\n5. Adjust seasoning to taste.\n6. Serve hot and enjoy.",
+  "url": null
+}

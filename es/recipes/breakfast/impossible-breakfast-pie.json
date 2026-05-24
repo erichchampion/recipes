@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "impossible-breakfast-pie",
+  "name": "Pastel de desayuno imposible",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "6 huevos",
+    "2 tazas de leche",
+    "1 cucharada de mostaza en polvo",
+    "1 taza de Bisquick",
+    "1/2 cucharadita de orégano seco",
+    "1 libra de salchicha",
+    "1 taza de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Dorar y escurrir la salchicha.\n2. Mezclar todos los ingredientes y cubrir.\n3. Refrigerar durante la noche.\n4. Precalentar el horno a 175 °C.\n5. Verter en un recipiente para hornear engrasado de 2 cuartos y hornear hasta que un cuchillo insertado en el centro salga limpio, aproximadamente 1 hora.",
+  "url": null
+}

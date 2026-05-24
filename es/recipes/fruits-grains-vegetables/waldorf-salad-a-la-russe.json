@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "waldorf-salad-a-la-russe",
+  "name": "Ensalada Waldorf al Estilo Ruso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "aperitivos",
+    "fácil",
+    "fruta",
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de aderezo ruso Wish-Bone",
+    "1/4 taza de crema agria láctea",
+    "1 taza de manzanas en cubos",
+    "1 taza de apio en cubos",
+    "1/2 taza de nueces picadas"
+  ],
+  "recipeInstructions": "1. En un bol mediano, mezclar el aderezo ruso Wish-Bone con la crema agria.\n2. Añadir las manzanas en cubos, el apio en cubos y las nueces picadas a la mezcla.\n3. Revolver todo hasta que esté bien combinado.\n4. Opcionalmente, servir en copas de lechuga.\n5. Rinde 4 porciones.",
+  "url": null
+}

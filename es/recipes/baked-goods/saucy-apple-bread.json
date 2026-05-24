@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "saucy-apple-bread",
+  "name": "Pan de Manzana Picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina",
+    "varios"
+  ],
+  "recipeIngredient": [
+    "1 hogaza de pan de 1 libra (450 g)",
+    "1/2 taza de sidra de manzana",
+    "1 1/3 tazas de harina de pan",
+    "3/4 taza de harina de trigo",
+    "1 cucharadita de sal",
+    "2 1/2 cucharadas de yogur natural",
+    "2 1/2 cucharadas de miel",
+    "1/3 cucharadita de extracto de vainilla",
+    "2 1/2 cucharadas de nueces sin picar",
+    "2 1/2 cucharadas de huevo batido",
+    "1/3 taza de puré de manzana",
+    "1/3 taza de manzanas sin pelar, cortadas en cubos pequeños",
+    "1 1/4 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en la máquina de pan.\n2. Presiona el botón \"Iniciar\".",
+  "url": null
+}

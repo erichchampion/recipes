@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheesy-chicken-3",
+  "name": "Cheesy Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "6 Chicken breast halves, boneless, skinless",
+    "Garlic powder",
+    "2 cans Cream of chicken soup",
+    "1 can Cheddar cheese soup"
+  ],
+  "recipeInstructions": "1. Rinse the chicken and sprinkle with salt, pepper, and garlic powder.\n2. Mix undiluted soups together.\n3. Pour the mixture over the chicken in a crockpot.\n4. Cook on LOW for all day.\n5. Serve over rice or noodles.",
+  "url": null
+}

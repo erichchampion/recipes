@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-date-torte",
+  "name": "Tarta de Manzana y Fecha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "manzanas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "4 tazas de manzanas sin pelar/cortadas en cubos",
+    "1 taza de azúcar",
+    "1/2 taza de harina",
+    "2 cucharaditas de polvo de hornear",
+    "1 huevo",
+    "1 cucharada de mantequilla derretida",
+    "1 cucharadita de vainilla",
+    "1/2 taza de nueces",
+    "1/2 taza de dátiles cortados en trozos",
+    "crema batida o helado"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto la crema batida (o helado) en el orden indicado.\n2. Remover suavemente sin batir la mezcla.\n3. Verter en un molde cuadrado engrasado de 8 pulgadas.\n4. Hornear a 400°F durante 40 minutos.\n5. Servir con crema batida, nueces o helado.",
+  "url": null
+}

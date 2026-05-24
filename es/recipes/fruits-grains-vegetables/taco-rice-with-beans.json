@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-rice-with-beans",
+  "name": "Arroz con Tacos (con Frijoles)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frijoles",
+    "plato principal",
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "2 tazas de agua",
+    "8 onzas de salsa de tomate",
+    "1 sobre de mezcla de especias para tacos",
+    "1 taza de maíz",
+    "1/2 taza de pimiento verde, picado",
+    "1/2 cucharadita de orégano",
+    "1/8 cucharadita de polvo de ajo",
+    "1 taza de arroz moreno",
+    "16 onzas de frijoles pintos enlatados"
+  ],
+  "recipeInstructions": "1. En una cacerola mediana, combina todos los ingredientes excepto el arroz y los frijoles.\n2. Lleva la mezcla a ebullición a fuego medio.\n3. Agrega el arroz y los frijoles.\n4. Cuando vuelva a hervir, revuelve y reduce el calor a medio-bajo.\n5. Tapa y deja cocinar hasta que se haya absorbido la mayor parte del líquido, aproximadamente 45 minutos a 1 hora.\n6. Retira del fuego y deja reposar cubierto durante 5 minutos.\n7. Revuelve bien antes de servir.",
+  "url": null
+}

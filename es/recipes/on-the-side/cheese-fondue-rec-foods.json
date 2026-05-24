@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-fondue-rec-foods",
+  "name": "Fondue de Queso - rec.comida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "fondue",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3 tazas de queso cheddar suave rallado",
+    "1 taza de queso suizo rallado",
+    "1/2 taza de cerveza",
+    "1 cucharadita de ajo picado",
+    "1 cucharadita de mostaza en polvo",
+    "1 cucharadita de salsa Worcestershire",
+    "Sal y pimienta al gusto",
+    "Un puñado de harina"
+  ],
+  "recipeInstructions": "1. Mezclar el queso cheddar y el queso suizo rallados en un bol plástico con tapa. Agregar la harina y remover para cubrir los quesos uniformemente.\n2. Calentar la cerveza en una olla o cacerola para fondue hasta que esté caliente pero no hirviendo.\n3. Incorporar lentamente la mezcla de quesos a la cerveza caliente, removiendo constantemente para evitar grumos. Si la salsa se espesa demasiado, agregar más cerveza para alcanzar la consistencia deseada.\n4. Añadir el ajo, la salsa Worcestershire, la mostaza y la sal y pimienta. Mezclar bien.\n5. Reducir el fuego para mantener una suave ebullición.\n6. Servir con trozos de pan, manzanas, zanahorias, brócoli u otras verduras crudas para sumergir en la salsa de queso.",
+  "url": null
+}

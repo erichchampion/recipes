@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-olivia",
+  "name": "Pollo Olivia",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "pollo",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 tazas de pollo cocido y picado",
+    "2 tazas de arroz cocido",
+    "1 lata de sopa de pollo condensada",
+    "3/4 taza de mayonesa ligera",
+    "1 lata de chicharrones de agua",
+    "1/2 taza de cebolla picada",
+    "1 cucharadita de jugo de limón",
+    "1/2 taza de almendras laminadas",
+    "2 tazas de crujientes de maíz (corn flakes)",
+    "1 barra de margarina"
+  ],
+  "recipeInstructions": "Precalentar el horno a 375 °F.\nMezclar el pollo, arroz, sopa, mayonesa, chicharrones, cebolla y jugo de limón en un molde para hornear de 9x13 pulgadas. (Opcional: Agregar 3 huevos duros picados).\nHornear durante 30 minutos. Mientras tanto, derretir la margarina en una sartén. Mezclar los crujientes de maíz y las almendras.\nEsparcir la cobertura sobre el guiso. Hornear por otros 15 minutos.",
+  "url": null
+}

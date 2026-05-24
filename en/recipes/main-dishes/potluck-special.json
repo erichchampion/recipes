@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "potluck-special",
+  "name": "Potluck Special",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "casseroles",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 pound Ground beef",
+    "1 medium Onion, chopped",
+    "28 ounce Canned tomatoes with liquid",
+    "16 ounces Sauerkraut, rinsed and drained",
+    "1 1/2 cups Cooked rice",
+    "1 medium Green pepper, chopped"
+  ],
+  "recipeInstructions": "1. In a skillet, brown the ground beef and onion; drain.\n2. Add the remaining ingredients; transfer to a 2-quart baking dish.\n3. Cover and bake at 350 degrees for 1 hour.",
+  "url": null
+}

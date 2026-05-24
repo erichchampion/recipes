@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetarian-pizza",
+  "name": "Vegetarian Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "1 12 inch Boboli crust",
+    "1 Tomato, cut into thin wedges",
+    "1/2 cup Broccoli flowerets",
+    "1/2 cup Red onion rings",
+    "Dried basil leaves",
+    "8 oz shredded low-moisture mozzarella cheese (part-skim)"
+  ],
+  "recipeInstructions": "1. Preheat the oven to 350°F.\n2. Place the crust on a cookie sheet.\n3. Arrange the vegetables on top of the crust.\n4. Sprinkle the dried basil leaves over the vegetables.\n5. Add the shredded mozzarella cheese evenly over the vegetables.\n6. Bake for 10-15 minutes, or until the cheese is melted and the toppings are heated through.",
+  "url": null
+}

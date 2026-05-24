@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "rich-custard-mango-ice-cream",
+  "name": "Helado de mango con crema rica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "3 tazas de nata para montar",
+    "1 taza de leche",
+    "2 yemas de huevo",
+    "1 cucharadita de extracto de almendra",
+    "16 onzas de leche evaporada",
+    "2 tazas de mango cortado",
+    "1/2 taza de jengibre cristalizado picado",
+    "3/4 taza de azúcar"
+  ],
+  "recipeInstructions": "1. Disolver el azúcar en la mezcla de nata y leche.\n2. Batir las yemas de huevo e incorporar 1 taza de la mezcla de nata mientras se bate continuamente.\n3. Verter el resto de la mezcla de nata en la mezcla de yemas.\n4. Añadir el extracto de almendra.\n5. Cocinar a fuego medio, removiendo constantemente, durante 8 minutos.\n6. Dejar enfriar la mezcla.\n7. Batir la leche evaporada y mezclarla con los mangos.\n8. Incorporar el jengibre picado a la mezcla de mango.\n9. Mezclar la mezcla de mango en la custa enfriada.\n10. Congelar según las instrucciones de la máquina heladera. Rinde 1 litro.",
+  "url": null
+}

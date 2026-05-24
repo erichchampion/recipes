@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "hearty-irish-stew",
+  "name": "Estofado irlandés abundante",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "1 lb de cubos de carne para estofar",
+    "1 cucharada de aceite vegetal",
+    "2 tazas de agua",
+    "1 cucharadita de caldo de carne en polvo (3 cubitos de caldo de carne)",
+    "1/4 cucharadita de pimienta negra",
+    "2 zanahorias medianas, cortadas en trozos",
+    "2 papas medianas, cortadas en trozos",
+    "2 tallos de apio, cortados en trozos de 1 pulgada",
+    "1 cebolla mediana, cortada en gajos",
+    "6 wedges de col pequeña"
+  ],
+  "recipeInstructions": "1. En una olla grande o horno holandés, dora la carne en el aceite.\n2. Añade el agua, el caldo de carne y la pimienta. Lleva a ebullición.\n3. Reduce el fuego y cubre; deja cocinar a fuego lento durante 1 hora.\n4. Agrega los ingredientes restantes excepto la col. Cubre y cocina a fuego lento durante 30 minutos.\n5. Incorpora la col y cubre. Cocina a fuego lento durante 15 minutos adicionales o hasta que las verduras estén tiernas.\n6. Refrigera las sobras.",
+  "url": null
+}

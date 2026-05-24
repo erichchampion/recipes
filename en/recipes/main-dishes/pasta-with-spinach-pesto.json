@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-with-spinach-pesto",
+  "name": "Pasta with Spinach Pesto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta",
+    "sauces"
+  ],
+  "recipeIngredient": [
+    "12 oz Pasta",
+    "1 1/2 cup Fresh spinach, packed",
+    "1/4 cup Water or chicken stock",
+    "3 tbsp Olive oil",
+    "2 tbsp Pine nuts",
+    "3 tbsp Parmensan cheese",
+    "1 1/2 tsp Crushed garlic",
+    "Pepper"
+  ],
+  "recipeInstructions": "1. Cook pasta in boiling water according to package instructions until firm to the bite. Drain and place in serving bowl.\n2. Meanwhile, puree spinach, water, olive oil, pine nuts, parmesan cheese, crushed garlic, and pepper in a food processor until smooth. Pour over pasta.",
+  "url": null
+}

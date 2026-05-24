@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "highball",
+  "name": "Highball",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz de whisky",
+    "6 oz de agua con gas de jengibre; o hasta llenar"
+  ],
+  "recipeInstructions": "Llenar un vaso highball con cubitos de hielo. Añadir el whisky y rellenar con agua con gas de jengibre. Remover suavemente. Si se desea, agregar una rodaja de cáscara de limón como adorno.",
+  "url": null
+}

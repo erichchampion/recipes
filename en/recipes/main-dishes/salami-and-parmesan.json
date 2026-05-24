@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "salami-and-parmesan",
+  "name": "Salami and Parmesan",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "cheese",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "1/2 pound salami, cut into 8 cubes",
+    "2 eggs, beaten",
+    "4 tablespoons Parmesan cheese, grated",
+    "walnut oil -- for frying"
+  ],
+  "recipeInstructions": "1. Dip the salami cubes into the beaten egg.\n2. Roll each cube in Parmesan to coat evenly.\n3. Heat a deep pan with walnut oil until hot.\n4. Fry the coated salami cubes for 30 seconds.\n5. Drain on paper towels and serve warm.",
+  "url": null
+}

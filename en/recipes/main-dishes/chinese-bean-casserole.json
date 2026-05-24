@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chinese-bean-casserole",
+  "name": "Chinese Bean Casserole",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 can French style green beans",
+    "1 can Cream of celery soup",
+    "1 can Chow mein vegetables",
+    "1 can French fried onions",
+    "1/4 teaspoon Salt",
+    "1/2 cup Chopped almonds"
+  ],
+  "recipeInstructions": "1. Drain the green beans and chow mein vegetables.\n2. Mix all ingredients into a casserole dish, reserving some French fried onions.\n3. Cover and bake at 350 degrees for 20 minutes.\n4. Remove cover, add reserved onions, and bake an additional 10 minutes.",
+  "url": null
+}

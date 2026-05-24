@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "nut-bread-4",
+  "name": "Nut Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread",
+    "breads",
+    "dessert"
+  ],
+  "recipeIngredient": [
+    "3 cups sifted flour",
+    "1 cup milk",
+    "3/4 cup sugar",
+    "1 cup nuts",
+    "5 teaspoons baking powder",
+    "1 egg",
+    "1 teaspoon salt",
+    "2 tablespoons shortening"
+  ],
+  "recipeInstructions": "1. Let rise for 20 minutes.\n2. Bake in greased baking tins at 350°F for one hour.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-favorite-chili",
+  "name": "My Favorite Chili",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "beef",
+    "chili",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 Pound ground beef",
+    "3 Tablespoons chili powder",
+    "6 Ounces V-8 vegetable juice",
+    "1/2 Cup chopped onions",
+    "32 Ounces kidney beans (drain and rinse)",
+    "16 Ounces Italian tomatoes (crushed)",
+    "16 Ounces Mexican tomatoes (stewed)",
+    "1 Dash Worcestershire sauce"
+  ],
+  "recipeInstructions": "1. Brown the ground beef until fully cooked.\n2. Drain the excess fat from the beef completely.\n3. Stir in chili powder and chopped onions, cooking for 2-3 minutes.\n4. Mix tomatoes and V-8 vegetable juice together in a large heavy skillet with a cover.\n5. Combine the browned beef with the tomato mixture in the skillet.\n6. Simmer, stirring occasionally, for approximately 40 minutes.\n7. Add drained and rinsed kidney beans to the chili and continue simmering for an additional 15-20 minutes.\n8. Remove from heat and let the chili set covered for up to 1 hour to allow flavors to blend.\n9. Serve with a choice of sour cream, cheddar cheese, chopped green onions or white onions, and homemade cheese biscuits.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "mint-julep",
+  "name": "Mint Julep",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "bebidas complementarias",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 1/2 onzas de bourbon",
+    "7 ramitas de menta",
+    "1/2 onza de jarabe simple"
+  ],
+  "recipeInstructions": "1. Coloca seis ramitas de menta en un vaso Collins.\n2. Añade el jarabe simple y machaca las ramitas y el jarabe hasta que queden bien mezclados.\n3. Incorpora 1 1/2 onzas de bourbon.\n4. Revuelve la mezcla.\n5. Llena el vaso con cubitos de hielo.\n6. Añade el resto del bourbon.\n7. Mezcla bien y adorna con una rodaja de naranja, una rodaja de limón y la última ramita de menta.",
+  "url": null
+}

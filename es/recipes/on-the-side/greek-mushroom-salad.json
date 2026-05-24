@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "greek-mushroom-salad",
+  "name": "Ensalada de setas griegas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "etnico",
+    "griego",
+    "ensaladas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "8 oz de setas champiñón pequeñas",
+    "5 cucharadas de vino blanco seco",
+    "5 cucharadas de agua",
+    "5 cucharadas de aceite de oliva",
+    "El jugo de medio limón",
+    "1 hoja de laurel",
+    "1 cucharada de cebolla picada",
+    "Un pellizco de tomillo",
+    "Un pellizco de eneldo",
+    "Un pellizco de semillas de anís",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Limpia las setas, pero no las peles.\n2. En una cacerola, combina todos los ingredientes restantes y deja que hierva a fuego lento durante 5 minutos.\n3. Si las setas son muy pequeñas, déjalas enteras; de lo contrario, córtalas por la mitad o en cuartos.\n4. Añade las setas a la cacerola y deja que sigan cocinando a fuego lento durante 5 minutos más.\n5. Deja que las setas se enfríen en el líquido antes de transferirlas a un bol para servir.",
+  "url": null
+}

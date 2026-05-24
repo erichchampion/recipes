@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "firehouse-special",
+  "name": "Especial de la estación de bomberos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americana",
+    "estofados",
+    "étnica",
+    "carne molida",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de carne molida",
+    "1 cebolla pequeña; picada",
+    "1 cucharada de aceite",
+    "2 latas de sopa de pollo cremoso",
+    "1 lata de leche",
+    "4 oz de chiles verdes; picados",
+    "24 tortillas de maíz",
+    "1 lb de queso cheddar; rallado"
+  ],
+  "recipeInstructions": "1. Dorar la carne y la cebolla en el aceite, desmenuzando la carne con una cuchara.\n2. Mezclar la sopa y la leche en una olla a fuego medio hasta que esté suave.\n3. Añadir los chiles.\n4. Cortar las tortillas en cuadrados de 1 pulgada y colocar la mitad de ellas en un plato para hornear.\n5. Extender la mitad de la carne cocida sobre la capa de tortillas.\n6. Cubrir con la mitad de la mezcla de sopa y la mitad del queso.\n7. Repetir las capas.\n8. Hornear a 175°C durante 20-30 minutos.",
+  "url": null
+}

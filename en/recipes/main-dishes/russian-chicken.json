@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "russian-chicken",
+  "name": "Russian Chicken",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "Chicken breasts or other parts",
+    "1 package Dry onion soup mix",
+    "8 oz Russian salad dressing",
+    "8 oz Apricot preserves"
+  ],
+  "recipeInstructions": "1. Place chicken parts as needed in a glass baking dish.\n2. Combine the dressing, preserves, and dry onion soup mix in a bowl.\n3. Spoon the mixture over the chicken.\n4. Bake at 350 degrees Fahrenheit for 1-1/2 hours.",
+  "url": null
+}

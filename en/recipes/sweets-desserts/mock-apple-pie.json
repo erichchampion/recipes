@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-apple-pie",
+  "name": "Mock Apple Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "2 unbaked pie crusts",
+    "4 cups water",
+    "1 1/2 cups sugar",
+    "4 teaspoons cream of tartar",
+    "40 Ritz crackers, whole",
+    "2 tablespoons butter",
+    "1 teaspoon cinnamon",
+    "1/4 teaspoon nutmeg",
+    "1 tablespoon juice and grated rind of 1 lemon"
+  ],
+  "recipeInstructions": "1. Make your favorite pie crust (top and bottom).\n2. Boil water, sugar, and cream of tartar.\n3. Add the Ritz crackers one at a time to the boiling mixture.\n4. Continue boiling for 2 minutes.\n5. Add the remaining ingredients: butter, cinnamon, nutmeg, lemon juice, and grated rind.\n6. Allow the filling to cool.\n7. Pour the cooled filling into the prepared pie shell.\n8. Cover with the top crust.\n9. Make slits in the top crust for steam vents.\n10. Bake at 425 degrees Fahrenheit for 10 minutes.\n11. Reduce the temperature to 350 degrees Fahrenheit.\n12. Continue baking for 20 to 25 minutes, or until golden brown.\n13. Remove from the oven and allow to cool.\nThis recipe makes one pie.",
+  "url": null
+}

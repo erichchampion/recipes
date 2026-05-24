@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "aloha-bread",
+  "name": "Pan de Aloha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de buttermilk",
+    "2 tazas de harina de trigo integral",
+    "1 taza de harina de pan",
+    "1 cucharadita de sal",
+    "1,5 cucharadas de mantequilla o margarina",
+    "3 cucharadas de azúcar",
+    "1/4 cucharadita de bicarbonato de sodio",
+    "8 onzas de piña enlatada, escurrida",
+    "1/3 taza de coco rallado",
+    "1,5 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en el pan para hornear.\n2. Seleccionar la configuración de costra ligera y presionar \"start\".\n3. Hornear durante 1 hora y 15 minutos para un pan de 450 gramos.\n4. Después del ciclo de horneado, sacar el pan del molde y colocarlo en una rejilla.\n5. Dejar enfriar durante 1 hora antes de cortar.",
+  "url": null
+}

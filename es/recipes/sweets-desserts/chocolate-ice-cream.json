@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-ice-cream",
+  "name": "Helado de chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postre",
+    "postres",
+    "helado",
+    "sureño"
+  ],
+  "recipeIngredient": [
+    "3 Huevos",
+    "1 taza de Azúcar",
+    "1 litro de Leche evaporada",
+    "1/2 litro de Crema (para batir)",
+    "1 taza de Jarabe de chocolate",
+    "1 cucharadita de Extracto de vainilla",
+    "3 tazas de Leche, aproximadamente"
+  ],
+  "recipeInstructions": "1. Batir los huevos con una batidora eléctrica a velocidad media hasta que estén espumosos.\n2. Añadir el azúcar gradualmente, batiendo hasta que la mezcla esté espesa.\n3. Incorporar el resto de ingredientes: leche evaporada, crema, jarabe de chocolate y extracto de vainilla. Mezclar bien.\n4. Verter la mezcla en un recipiente para congelador de 1 galón, manual o eléctrico.\n5. Añadir suficiente leche para llenar el recipiente aproximadamente hasta las 3/4 partes.\n6. Congelar según las instrucciones del fabricante.\n7. Dejar reposar durante al menos 1 hora antes de servir.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-rolls",
+  "name": "Quick Rolls",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "4 cups self-rising flour",
+    "2 cups buttermilk",
+    "3/4 cup oil",
+    "2 tbsp sugar",
+    "1 package yeast",
+    "4 tbsp warm water"
+  ],
+  "recipeInstructions": "1. Mix the warm water, sugar, and yeast in a bowl.\n2. Add this mixture to the first three ingredients (self-rising flour and buttermilk).\n3. Beat the mixture with a spoon until combined.\n4. Drop the batter into greased muffin pans.\n5. Bake at 400 degrees Fahrenheit for 15 minutes.",
+  "url": null
+}

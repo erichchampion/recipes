@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-popcorn",
+  "name": "Cheese Popcorn",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "popcorn",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1/4 cup Butter",
+    "1 ounce Bleu cheese",
+    "1/2 cup Popcorn, popped",
+    "1/4 cup Grated Parmesan Cheese"
+  ],
+  "recipeInstructions": "1. In a heavy saucepan, combine the butter and bleu cheese.\n2. Cook over moderate heat, stirring until melted.\n3. Pour mixture over the popped corn.\n4. Sprinkle with grated Parmesan.",
+  "url": null
+}

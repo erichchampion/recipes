@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-sweet-and-sour-chicken",
+  "name": "Pollo dulce y ácido rápido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1/2 paquete de trozos de pollo empanizado (congelado), de 5 a 6 onzas",
+    "200 g de duraznos en almíbar, escurridos",
+    "160 g de guisantes congelados",
+    "2 cucharadas de salsa dulce y ácida en botella",
+    "1 cucharadita de salsa de soja",
+    "1 taza de arroz caliente cocido"
+  ],
+  "recipeInstructions": "1. Hornee los trozos de pollo según las indicaciones del paquete. Mantenga caliente.\n2. Caliente los duraznos, guisantes, salsa dulce y ácida y la salsa de soja en una cacerola mediana a fuego medio hasta que los guisantes estén tiernos.\n3. Mezcle el pollo con la mezcla de duraznos.\n4. Sirva la mezcla de pollo sobre el arroz.",
+  "url": null
+}

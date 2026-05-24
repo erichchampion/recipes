@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "fred-s-lasagne",
+  "name": "Lasaña de Fred",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne picada magra",
+    "2 cucharadas de aceite de oliva",
+    "3 1/2 tazas de tomates",
+    "16 onzas de salsa de tomate",
+    "1 cebolla grande, picada",
+    "1 diente de ajo, picado",
+    "1 1/2 cucharaditas de orégano",
+    "1/4 cucharadita de romero en hojas",
+    "1 cucharadita de hojas de albahaca fresca, machacadas (o 1/4 cucharadita de seca)",
+    "1/2 cucharadita de MSG",
+    "2 cucharaditas de sal",
+    "1 cucharadita de azúcar",
+    "1 taza de setas laminadas",
+    "1 lb de láminas de lasaña",
+    "1 lb de queso ricota",
+    "1/2 lb de mozzarella rallada",
+    "1/2 taza de parmesano rallado"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una sartén grande a fuego medio. Agregar la carne picada y cocinar hasta que ya no esté rosada.\n2. Añadir los tomates, la salsa de tomate, el orégano, el romero, la albahaca, el MSG, la sal, el azúcar y las setas a la sartén. Mezclar bien.\n3. Reducir el fuego a bajo y dejar que la mezcla se cocine durante aproximadamente 2 horas o hasta que espese.\n4. Cocinar las láminas de lasaña según las instrucciones del paquete, luego escurrir y enjuagar con agua fría. Separarlas si es necesario.\n5. Precalentar el horno a 350°F (175°C).\n6. En un plato para hornear, colocar una capa de la mitad de las láminas de lasaña, seguido del relleno de carne, queso ricota, rodajas de mozzarella y parmesano rallado. Repetir con el resto de los ingredientes.\n7. Hornear durante 30 minutos o hasta que burbujee.\n8. Servir y disfrutar.",
+  "url": null
+}

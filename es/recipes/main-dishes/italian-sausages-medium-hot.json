@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-sausages-medium-hot",
+  "name": "Salchichas italianas (Medio Picantes)",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "pescado",
+    "salchichas"
+  ],
+  "recipeIngredient": [
+    "2 1/2 cucharadas de sal",
+    "1 taza de agua fría",
+    "1/2 cucharadita de semillas de eneldo",
+    "1 cucharadita de pimienta negra",
+    "1/2 cucharadita de azúcar",
+    "1 1/2 cucharaditas de pimientos secos picantes molidos",
+    "1/2 cucharadita de semillas de hinojo",
+    "1/2 cucharadita de semillas de cilantro",
+    "5 libras (2,27 kg) de carne de cerdo (no demasiado magra)"
+  ],
+  "recipeInstructions": "1. Moler la carne de cerdo.\n2. Mezclar todas las especias, utilizando un molinillo de café para triturar las semillas.\n3. Combinar todos los ingredientes.\n4. Introducir en pequeños cascos de chorizo.\n5. Cocinar a la parrilla a fuego alto.",
+  "url": null
+}

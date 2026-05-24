@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "dave-s-meatloaf",
+  "name": "Dave's Meatloaf",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "1 pound extra lean ground beef",
+    "1/4 pound sausage meat",
+    "1/4 cup dark beer",
+    "1 egg",
+    "2 slices bread, torn into soft crumbs",
+    "1 onion, chopped",
+    "3 tablespoons chopped parsley",
+    "1/2 teaspoon ground black pepper",
+    "a few drops Worcestershire sauce",
+    "a few drops Tabasco sauce"
+  ],
+  "recipeInstructions": "1. Combine all ingredients and gently shape into a round loaf.\n2. Place the loaf on a trivet in a crockpot.\n3. Cover and cook on low for about 7 to 8 hours.\n4. Serve with tomato sauce or chili sauce.\n5. Chill leftovers and slice for sandwiches the next day.",
+  "url": null
+}

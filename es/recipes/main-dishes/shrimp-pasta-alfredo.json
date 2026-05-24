@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "shrimp-pasta-alfredo",
+  "name": "Pasta con Gambas Alfredo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "1 paquete de 450g de pasta alfredo congelada con verduras",
+    "6 oz (170g) de gambas, peladas, desvenadas y cocidas",
+    "4.5 oz (125g) de setas enteras en almíbar, escurridas",
+    "Queso Parmesano rallado"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta alfredo y las verduras según las instrucciones del paquete, hasta que estén tiernas pero crujientes.\n2. Incorporar las gambas y los champiñones cocidos a la pasta; cocinar y remover durante 2-3 minutos o hasta que todo esté bien caliente. Servir con queso Parmesano rallado al gusto.",
+  "url": null
+}

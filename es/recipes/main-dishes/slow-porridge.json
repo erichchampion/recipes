@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "slow-porridge",
+  "name": "Porridge lento",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "cocinero lento"
+  ],
+  "recipeIngredient": [
+    "5 tazas de agua",
+    "1 taza de avena sin endulzar",
+    "1/2 taza de fruta seca",
+    "Una pizca de nuez moscada molida",
+    "Una pizca de macis molido",
+    "Una pizca de canela en polvo"
+  ],
+  "recipeInstructions": "1. Coloca el agua, la avena y la fruta seca en una olla de cocción lenta.\n2. Mezcla bien.\n3. Cocina a fuego lento durante 8-10 horas hasta que la mezcla espese y adquiera la consistencia de una sopa.\n4. No añadas leche al servir.",
+  "url": null
+}

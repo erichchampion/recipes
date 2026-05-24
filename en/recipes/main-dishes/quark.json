@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "quark",
+  "name": "Quark",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "toppings"
+  ],
+  "recipeIngredient": [
+    "2 cups Plain yogurt",
+    "1/2 cup Sour cream",
+    "1/4 cup Sugar",
+    "1 1/2 teaspoons Vanilla",
+    "1 1/2 teaspoons Cinnamon",
+    "1/2 teaspoon Nutmeg"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a bowl until smooth.\n2. Refrigerate the mixture only.\n(Note: Do not freeze!)",
+  "url": null
+}

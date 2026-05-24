@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken",
+  "name": "Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 Pollo para asar, cortado en trozos",
+    "Pecho de pollo",
+    "1 Lata de sopa de pollo con crema",
+    "1 Lata de sopa de setas con crema",
+    "1 Lata de trozos de setas",
+    "1 Pimiento rojo, en rodajas",
+    "1 Cebolla, en rodajas",
+    "Una pizca de sal",
+    "Una pizca de pimienta",
+    "Una pizca de ajo en polvo",
+    "1/2 Taza de vino blanco"
+  ],
+  "recipeInstructions": "1. Coloca el pollo en una olla de cocción lenta.\n2. Mezcla los ingredientes restantes y viértelos sobre el pollo.\n3. Cocina a fuego lento durante 6-7 horas o a fuego alto durante 3-4 horas.\n4. Sirve con fideos o arroz.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-with-pesto",
+  "name": "Spaghettis con Pesto",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "étnica",
+    "italiana"
+  ],
+  "recipeIngredient": [
+    "3 tazas de albahaca fresca",
+    "1 diente de ajo",
+    "1/4 taza de aceite de oliva italiano",
+    "3/4 taza de piñones",
+    "3 cucharadas de mantequilla",
+    "1/2 taza de queso parmesano",
+    "2 libras de espaguetis"
+  ],
+  "recipeInstructions": "1. Lavar y secar las hojas de albahaca, eliminando los tallos.\n2. Colocar la albahaca en una licuadora con el ajo, aceite de oliva, piñones, mantequilla y queso parmesano. Mezclar hasta obtener una consistencia suave.\n3. Cocinar los espaguetis al dente en agua hirviendo con sal.\n4. Escurrir bien la pasta.\n5. Saltear inmediatamente los espaguetis cocidos con la salsa pesto.\n6. Servir con queso parmesano rallado adicional por encima.",
+  "url": null
+}

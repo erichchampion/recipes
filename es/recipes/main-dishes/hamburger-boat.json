@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-boat",
+  "name": "Barco hamburguesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "queso",
+    "carne molida",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 hogaza de pan francés",
+    "1 lata de setas en rodajas",
+    "1 libra de carne molida",
+    "1 cebolla picada",
+    "400 gramos de salsa de tomate",
+    "1 paquete de rebanadas de queso mozzarella"
+  ],
+  "recipeInstructions": "1. Retire el centro del pan para crear una forma de barco.\n2. Dorar la carne molida en una sartén.\n3. Añadir la salsa de tomate, las setas y la cebolla a la sartén. Reducir a fuego lento durante 2-3 minutos.\n4. Verter la mezcla de carne en el pan hueco.\n5. Cubrir con rebanadas de queso mozzarella.\n6. Colocar sobre una bandeja para hornear y calentar a 180°C durante 10-15 minutos, o hasta que el queso se derrita.\n7. Cortar en porciones y servir. Para 5-6 personas.",
+  "url": null
+}

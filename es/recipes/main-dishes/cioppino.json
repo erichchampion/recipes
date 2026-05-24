@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "cioppino",
+  "name": "Cioppino",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pesca y mariscos",
+    "plato principal",
+    "carne",
+    "mariscos",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 kilo de bacalao, cortado en trozos",
+    "4 oz de champiñones en rodajas (escurridos)",
+    "2 zanahorias, peladas y cortadas en rodajas",
+    "1 cebolla mediana, picada",
+    "1 pimiento verde, sin semillas y picado",
+    "1 diente de ajo, picado",
+    "15 onzas de salsa de tomate",
+    "14 onzas de caldo de carne",
+    "sal",
+    "1/8 de cucharadita de pimienta sazonada",
+    "1/2 cucharadita de orégano fresco",
+    "7 oz de almejas (escurridas)",
+    "1/2 libra de camarones, pelados y limpios",
+    "cola de langosta pequeña, opcional",
+    "6 onzas de carne de cangrejo congelada, descongelada y escurrida",
+    "perejil picado"
+  ],
+  "recipeInstructions": "1. Combinar la mitad del bacalao en una olla de cocción lenta con las verduras, el ajo, la salsa de tomate, el caldo de carne y las especias. Remover bien.\n2. Tapar y cocinar a fuego lento durante 10-12 horas o a fuego alto durante 2-4 horas.\n3. Una hora antes de servir, aumentar el fuego a alto e incorporar el resto del bacalao y los mariscos. Tapar y cocinar a fuego alto durante 1 hora o hasta que estén hechos.\n4. Decorar con perejil picado y servir en platos de sopa. Acompañar con pan italiano caliente.\n5. Rinde para 6 personas.",
+  "url": null
+}

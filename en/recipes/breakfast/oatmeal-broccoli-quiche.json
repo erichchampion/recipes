@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "oatmeal-broccoli-quiche",
+  "name": "Oatmeal Broccoli Quiche",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "dinner pies",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "--CRUST:--",
+    "1 cup oatmeal",
+    "1 cup flour",
+    "1/2 teaspoon salt",
+    "1/2 cup margarine",
+    "--FILLING:--",
+    "3 eggs",
+    "1/2 cup milk",
+    "2/3 cup chopped broccoli",
+    "2/3 cup shredded cheese",
+    "1/2 cup cooked, diced ham",
+    "1 tablespoon chopped onion"
+  ],
+  "recipeInstructions": "1. Press the crust into a dish.\n2. Fill with the mixed filling.\n3. Bake at 350 degrees for 35 to 40 minutes.",
+  "url": null
+}

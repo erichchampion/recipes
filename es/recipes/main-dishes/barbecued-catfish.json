@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecued-catfish",
+  "name": "Pescado a la parrilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecua",
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "6 filetes de bacalao",
+    "1/8 cucharadita de pimentón dulce",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "2 cucharadas de azúcar moreno",
+    "1 cucharadita de salsa Worcestershire",
+    "1/4 taza de vinagre blanco",
+    "1/4 taza de ketchup",
+    "1/2 taza de aceite vegetal"
+  ],
+  "recipeInstructions": "1. Limpiar, descascarar y filetear el bacalao.\n2. En un bol, mezclar el pimentón, la sal, la pimienta, el azúcar, la salsa Worcestershire, el vinagre, el ketchup y el aceite.\n3. Colocar los filetes de pescado en una canasta para pescar con tapa engrasada o sobre una bandeja cubierta con papel aluminio.\n4. Poner la canasta o la bandeja a la parrilla a unos 3-4 cm sobre las brasas.\n5. Cocinar durante 7-8 minutos por cada lado, hasta que el pescado se desmenuce fácilmente con un tenedor. Barnizar con la salsa durante la cocción.",
+  "url": null
+}

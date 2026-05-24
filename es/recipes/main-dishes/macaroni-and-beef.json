@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "macaroni-and-beef",
+  "name": "Macarrones con carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1,5 kg de carne molida magra",
+    "2 tazas de macarrones crudos",
+    "1/2 cebolla mediana picada",
+    "4 oz (115 g) de setas en rodajas",
+    "2 latas de sopa de tomate condensada (de 350 ml cada una)",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. En una sartén, dora la carne molida a fuego alto; escurre bien el exceso de grasa.\n2. Transfiere la carne cocida al slow cooker.\n3. Cocina los macarrones según las instrucciones del paquete hasta que estén ligeramente tiernos; escúrrelos bien.\n4. Añade los macarrones cocidos y los demás ingredientes (setas, latas de sopa de tomate) al slow cooker.\n5. Revuelve suavemente para mezclar todos los ingredientes.\n6. Tapa y cocina a fuego lento durante 7-9 horas o a temperatura alta durante 3-4 horas.\n7. Sirve para 4-6 personas.",
+  "url": null
+}

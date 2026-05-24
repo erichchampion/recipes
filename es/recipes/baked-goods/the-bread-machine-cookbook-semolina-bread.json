@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "the-bread-machine-cookbook-semolina-bread",
+  "name": "Libro de recetas de la máquina de pan: Pan de semolina",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 libra de masa para pan",
+    "1 taza de agua",
+    "1 cucharada de aceite de oliva",
+    "1 cucharadita de azúcar",
+    "1 cucharadita de sal",
+    "1 1/2 tazas de harina de semolina",
+    "1 1/2 tazas de harina de pan",
+    "1 1/2 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes a la máquina de pan en el orden indicado por las instrucciones del fabricante.\n2. Mezclar y amasar según la configuración de la máquina.\n3. Hornear según las indicaciones del fabricante.",
+  "url": null
+}

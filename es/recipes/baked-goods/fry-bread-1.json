@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fry-bread-1",
+  "name": "Pan de freír 1",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "mexicanos"
+  ],
+  "recipeIngredient": [
+    "2 1/2 tazas de harina",
+    "2 1/2 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "3/4 taza de agua tibia y leche mezcladas",
+    "Aceite para freír"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el aceite y dejar reposar durante media hora.\n2. Amasar cada porción de masa con las manos hasta formar discos delgados, similares a una tortilla.\n3. Freír en aceite caliente hasta que el panqueque se infle y adquiera un color dorado.",
+  "url": null
+}

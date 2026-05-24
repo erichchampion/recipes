@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "salsa-dip",
+  "name": "Salsa Dip",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "dips",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "4 tomatoes (chopped/drained)",
+    "2 green onions (chopped)",
+    "1 can black olives (chopped)",
+    "1 can green chilies (chopped)",
+    "1 tablespoon olive oil",
+    "1 tablespoon vinegar",
+    "1 tablespoon garlic salt"
+  ],
+  "recipeInstructions": "1. Mix all ingredients together.\n2. Refrigerate for at least 1 hour, or overnight for best results.\n3. Serve with tortilla chips.",
+  "url": null
+}

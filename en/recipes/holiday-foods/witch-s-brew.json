@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "witch-s-brew",
+  "name": "Witch's Brew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Holiday Foods",
+  "keywords": [
+    "holiday"
+  ],
+  "recipeIngredient": [
+    "3 pints purple grape juice",
+    "1 1/2 pints club soda",
+    "grapes",
+    "apples"
+  ],
+  "recipeInstructions": "1. Mix the grape juice and club soda in a pitcher.\n2. Halve the grapes and remove the seeds.\n3. Cut the apples into small chunks.\n4. Just before serving, float the fruit pieces in the brew; by magic, the grapes will appear as eyes and the apple chunks as teeth.\n5. Create a swizzle broomstick using a straw and black paper fringe.",
+  "url": null
+}

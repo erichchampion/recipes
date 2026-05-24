@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "veggie-sandwich-spread",
+  "name": "Sándwich de Crema de Verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "salsas",
+    "bocadillos",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 paquete de tofu firme",
+    "1/2 taza de mayonesa de soja",
+    "1 cebolla verde, picada",
+    "1 pimiento verde, picado",
+    "1 tallo de apio, picado",
+    "1/4 taza de semillas de girasol",
+    "1 cucharada de salsa de soja",
+    "1 cucharadita de polvo de curry",
+    "1 cucharadita de cúrcuma",
+    "1 cucharadita de polvo de ajo"
+  ],
+  "recipeInstructions": "1. Desmenuzar el tofu con un tenedor.\n2. Añadir los ingredientes restantes al tofu desmenuzado y mezclar bien.\n3. Servir sobre galletas saladas o pan.",
+  "url": null
+}

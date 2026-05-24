@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "quinoa-breakfast",
+  "name": "Desayuno de quinoa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de agua",
+    "1/4 taza de quinoa",
+    "1/4 taza de avena en copos gruesos",
+    "1/4 taza de piña triturada o jugo de piña",
+    "1 cucharada de melaza negra",
+    "Pasas o uvas pasas al gusto"
+  ],
+  "recipeInstructions": "1. Enjuagar los granos.\n2. Hervir y dejar cocinar la quinoa con agua y melaza durante 10 minutos.\n3. Añadir las avenas y la fruta, y dejar cocinar a fuego lento durante otros 15 minutos.\nRinde una ración grande (o dos pequeñas).\nVariaciones: Prueba a agregar vainilla, canela, nuez moscada, levadura, etc.\nTodas las medidas son aproximadas.",
+  "url": null
+}

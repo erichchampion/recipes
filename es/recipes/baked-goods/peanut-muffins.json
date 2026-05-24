@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "peanut-muffins",
+  "name": "Muffins de maní",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "muffins"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de harina de uso común",
+    "1/4 taza de azúcar",
+    "1 cucharadita de polvo de hornear",
+    "1/4 cucharadita de sal",
+    "2 huevos, ligeramente batidos",
+    "1/2 taza de mantequilla o margarina derretida",
+    "1/2 taza de leche",
+    "3/4 taza de maníes tostados sin sal, picados"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar la harina, el azúcar, el polvo de hornear y la sal.\n2. En otro bol, batir juntos los huevos, la mantequilla derretida y la leche.\n3. Incorporar la mezcla de huevos al seco y remover solo hasta que se humedezca.\n4. Agregar suavemente los maníes picados.\n5. Llenar moldes para muffins engrasados o forrados con papel por dos tercios.\n6. Hornear a 200 °C durante 15 minutos, o hasta que un palillo insertado en el centro de un muffin salga limpio.",
+  "url": null
+}

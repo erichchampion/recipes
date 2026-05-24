@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "one-pot-dinner-recipe",
+  "name": "Receta de Cena en una Olla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "guisos",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de aceite vegetal",
+    "1 cebolla pequeña picada",
+    "1 huevo grande batido",
+    "500 g de carne molida",
+    "60 ml de agua",
+    "60 g de pan rallado (o más si es necesario)",
+    "1,5 cucharaditas de polvo de cebolla",
+    "1,5 cucharaditas de sal de ajo",
+    "4 papas medianas peladas y cortadas en rodajas",
+    "1 bolsa de zanahorias en forma de espirales congeladas de 20 onzas"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en una sartén a fuego medio-alto hasta que esté caliente.\n2. Reducir el fuego a medio una vez que el aceite esté caliente.\n3. Colocar la cebolla al fondo de la sartén.\n4. En un bol grande, mezclar el huevo, la carne molida, el agua, el pan rallado, el polvo de cebolla y la sal de ajo. Formar la mezcla en un loa redondo.\n5. Voltear cuidadosamente el bol sobre la sartén para colocar el pastel de carne encima de la cebolla.\n6. Disponer las rodajas de papa alrededor del pastel de carne y las zanahorias encima de las papas.\n7. Espolvorear condimentos adicionales si se desea.\n8. Tapar y cocinar durante unos 60 minutos.\n9. Después de 30 minutos, dar la vuelta al pastel de carne y remover las verduras. Añadir más agua si es necesario.",
+  "url": null
+}

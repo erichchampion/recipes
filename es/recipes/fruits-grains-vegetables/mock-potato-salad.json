@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-potato-salad",
+  "name": "Ensalada de Patatas Falsa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 nabo mediano",
+    "1 olla con agua hirviendo",
+    "1/2 sobre de edulcorante sustituto del azúcar",
+    "1 cucharada de jugo de limón",
+    "1/2 taza de cebolletas finamente picadas",
+    "1 pepinillo de dil encurtido, picado",
+    "1 taza de apio con tallos y hojas, picados",
+    "1 1/2 cucharaditas de sal",
+    "Una pizca de pimentón",
+    "3/4 taza de mayonesa",
+    "4 huevos duros, picados"
+  ],
+  "recipeInstructions": "1. Pelar el nabo y cortarlo en 4 trozos.\n2. Cocinar en agua hirviendo durante 30 minutos hasta que esté tierno.\n3. Escurrir bien y enfriar.\n4. Cubrir el nabo frío (aproximadamente 2 1/2 tazas).\n5. Colocar los vegetales picados en un bol para ensalada.\n6. Espolvorear con edulcorante sustituto del azúcar y jugo de limón.\n7. Añadir cebolletas, pepinillo, apio, pimentón y mayonesa.\n8. Mezclar todo bien.\n9. Incorporar los huevos picados.\n10. Refrigerar antes de servir.",
+  "url": null
+}

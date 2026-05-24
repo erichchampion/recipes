@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-jack-cake",
+  "name": "Apple Jack Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "desserts",
+    "fruits"
+  ],
+  "recipeIngredient": [
+    "1 Stick oleo",
+    "1 cup White sugar",
+    "1 cup Brown sugar",
+    "2 Eggs",
+    "1 tsp Vanilla",
+    "1/2 tsp Salt",
+    "1/2 tsp Nutmeg",
+    "2 tsp Cinnamon",
+    "2 tsp Baking soda",
+    "2 cups Flour",
+    "4 cups Apples; chopped",
+    "1 cup Raisins; coconut or nuts, optional"
+  ],
+  "recipeInstructions": "1. Mix the oleo, sugars, eggs, vanilla, salt, nutmeg, cinnamon, and baking soda in a large bowl until well combined.\n2. Add the flour and mix thoroughly.\n3. Gently stir in the apples and any optional ingredients (raisins, coconut, or nuts).\n4. Oil a 9 x 13 cake pan and dust with sugar.\n5. Pour the cake mixture into the prepared pan.\n6. Bake at 350°F for 45-50 minutes, or until the apples are tender.",
+  "url": null
+}

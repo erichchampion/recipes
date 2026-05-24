@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-sauce-1",
+  "name": "Salsa de pizza #1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "1 lata de puré de tomate",
+    "1 diente de ajo (picado)",
+    "3 tazas de agua",
+    "1/2 taza de orégano",
+    "1 taza de aceite de cocina",
+    "1/4 taza de marjoram",
+    "1 taza de pimienta negra",
+    "1/4 taza de albahaca",
+    "1 taza de cebolla molida instantánea",
+    "1 taza de azúcar moreno",
+    "1 taza de queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. Mezcla el puré de tomate, el ajo picado, el agua, el orégano, el aceite de cocina, el marjoram, la pimienta negra, la albahaca, la cebolla molida instantánea, el azúcar moreno y el queso parmesano rallado en una cacerola de 1 litro.\n2. Cocina la mezcla a fuego medio-bajo durante 30-40 minutos hasta que espese ligeramente.\n3. La salsa dará para cubrir cuatro pizzas de aproximadamente 30 cm de diámetro cada una.",
+  "url": null
+}

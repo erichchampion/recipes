@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "food-processor-carob-brownies",
+  "name": "Brownies de caramelo con procesador de alimentos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "brownie",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "6 cucharadas de polvo de carob",
+    "1 taza de harina",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de polvo de hornear",
+    "2 huevos",
+    "3/4 taza de miel",
+    "1 cucharadita de extracto de vainilla",
+    "1/2 taza de mantequilla, cortada en trozos",
+    "1/2 taza de nueces"
+  ],
+  "recipeInstructions": "1. Cierna juntos el carob, la harina, la sal y el polvo de hornear.\n2. En el procesador de alimentos, bate los huevos, la miel y la vainilla.\n3. Agrega los ingredientes secos al procesador de alimentos, junto con la mantequilla y las nueces.\n4. Vierte la mezcla en un molde cuadrado engrasado de 9x9 cm.\n5. Hornea a 180°C durante 30 minutos.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "texas-snake-cakes",
+  "name": "Pasteles de Serpiente de Texas",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "juego",
+    "plato principal",
+    "carne",
+    "serpiente",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "1 serpiente de ratón por persona",
+    "1 cocido de cangrejo",
+    "1 huevo",
+    "Sal y pimienta",
+    "Cebolla verde",
+    "2 cucharadas de aceite"
+  ],
+  "recipeInstructions": "1. Vacía la serpiente de ratón y retira la piel.\n2. Cocina en un cocido de cangrejo  (agua, limón y paquete de semillas para cangrejos o camarones).\n3. Deja enfriar y desmenuza las tiras de carne.\n4. Pica y mezcla con el huevo para unir, sal, pimienta y cebolla verde.\n5. Saltea en aceite hasta que esté dorada por ambos lados.\n6. Servir con salsa tártara.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "monterey-chili-con-carne",
+  "name": "Chili con carne de Monterey",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "frijoles",
+    "chili",
+    "carne",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1/2 cucharadita de aceite de oliva",
+    "500 g de pechuga de pollo picada sin piel",
+    "1/2 taza de cebolla picada",
+    "1/2 taza de pimiento picado",
+    "1 diente de ajo picado",
+    "400 g de tomates triturados",
+    "370 g de frijoles rojos oscuros enjuagados y escurridos",
+    "2 cucharaditas de polvo de chile",
+    "1 cucharadita de comino",
+    "1/4 taza de queso Monterey Jack bajo en grasa rallado"
+  ],
+  "recipeInstructions": "1. En una sartén, calienta el aceite de oliva a fuego medio.\n2. Añade el pollo, la cebolla, el pimiento y el ajo a la sartén.\n3. Cocina hasta que el pollo ya no sea rosado y las verduras estén tiernas.\n4. Agrega los tomates triturados, los frijoles, el polvo de chile y el comino.\n5. Reduce el fuego y deja cocinar tapado durante 35 minutos.\n6. Espolvorea con queso y sirve.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "porridge-meat-loaf",
+  "name": "Pastel de carne con puré",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1/2 libra de carne molida de res",
+    "1/2 libra de carne de cerdo o ternera molida",
+    "1 cebolla finamente picada",
+    "1 puerro cortado en láminas finas (opcional)",
+    "2 tazas de puré de avena frío",
+    "2 cucharaditas de sal",
+    "1/2 cucharadita de pimienta negra",
+    "1/2 cucharadita de tomillo",
+    "1/8 cucharadita de laurel",
+    "1/2 taza de caldo o vino tinto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol hasta combinarlos bien.\n2. Engrasar un molde para panecillos, espolvorear con harina y sacudir el exceso.\n3. Presionar la mezcla en el molde forrado con papel aluminio.\n4. Colocar el molde dentro de una olla grande con agua caliente, asegurándose de que el nivel de agua cubra 1 pulgada por encima del molde.\n5. Hornear a 180°C durante aproximadamente una hora, o hasta que la parte superior adquiera un color dorado.\n6. Servir caliente o frío.",
+  "url": null
+}

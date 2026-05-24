@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "dill-dip",
+  "name": "Dip con eneldo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "salsas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2/3 taza de mayonesa",
+    "2/3 taza de crema agria",
+    "1 cucharada de cebolla verde picada",
+    "1 cucharada de perejil picado",
+    "1 cucharadita de eneldo seco",
+    "1 cucharadita de sal Beau Monde"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar la mayonesa y la crema agria.\n2. Añadir las cebollas verdes, el perejil, el eneldo y la sal, y remover bien hasta integrar todos los ingredientes.\n3. Servir en una rebanada de pan pumpernickel hueco, desmenuzando el centro para sumergir.",
+  "url": null
+}

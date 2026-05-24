@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "greek-bread",
+  "name": "Pan de Grecia",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "8 onzas (225 g) de queso crema, ablandado",
+    "2 cucharadas de mayonesa",
+    "2 cucharaditas de condimento griego Cavender's",
+    "1 hogaza grande de pan francés de 8 onzas, sin cortar",
+    "4 onzas (113 g) de queso feta, desmenuzado",
+    "1 lata de 225 g de aceitunas maduras en rodajas",
+    "1/2 taza de pimientos pepperoncini escurridos y picados"
+  ],
+  "recipeInstructions": "1. Mezclar los tres primeros ingredientes en un bol hasta obtener una consistencia suave.\n2. Cortar la hogaza de pan por la mitad a lo largo.\n3. Extender la mezcla de queso sobre los lados cortados del pan.\n4. Espolvorear el queso feta, las aceitunas y los pimientos sobre la mezcla de queso crema.\n5. Colocar el pan en una bandeja para hornear sin engrasar.\n6. Hornear a 175 °C durante 15-20 minutos o hasta que esté bien caliente.",
+  "url": null
+}

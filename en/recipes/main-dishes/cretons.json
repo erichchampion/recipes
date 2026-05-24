@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cretons",
+  "name": "Cretons",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "meats",
+    "pork"
+  ],
+  "recipeIngredient": [
+    "1 lb Minced Pork",
+    "1 cup Dry bread crumbs",
+    "1 cup Milk",
+    "1 tsp Salt",
+    "1/2 tsp Pepper",
+    "1/2 tsp Cloves",
+    "1/2 tsp Cinnamon",
+    "1/2 cup Grated onion"
+  ],
+  "recipeInstructions": "1. Place the minced pork, dry bread crumbs, milk, salt, pepper, cloves, cinnamon, and grated onion in a saucepan.\n2. Mix well and cover.\n3. Cook over low heat for 1 hour, stirring once or twice during cooking time.\n4. Empty the mixture into a bowl and refrigerate.",
+  "url": null
+}

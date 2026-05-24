@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "butterscotch-delights",
+  "name": "Delicias de butterscotch",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar moreno",
+    "1 taza de manteca",
+    "2 cucharaditas de extracto de vainilla",
+    "1 taza de azúcar granulada",
+    "2 huevos",
+    "2 cucharadas de leche",
+    "2 tazas de harina tamizada",
+    "1 cucharadita de polvo de hornear",
+    "1 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de sal",
+    "2 tazas de avena rápida sin cocinar"
+  ],
+  "recipeInstructions": "1. Batir juntos los azúcares y la manteca hasta obtener una consistencia suave.\n2. Incorporar los huevos, la vainilla y la leche.\n3. Tamizar la harina, el polvo de hornear, el bicarbonato y la sal.\n4. Agregar los ingredientes secos a la mezcla de huevos en un solo movimiento, mezclando hasta que quede suave.\n5. Doblar la avena.\n6. Colocar por cucharaditas sobre una bandeja para hornear engrasada.\n7. Hornear a 175 °C durante 8 a 10 minutos, o hasta que estén firmes.",
+  "url": null
+}

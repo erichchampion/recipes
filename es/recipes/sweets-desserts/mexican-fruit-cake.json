@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-fruit-cake",
+  "name": "Pastel de frutas mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 huevos",
+    "2 tazas de azúcar",
+    "1 taza de piña triturada",
+    "1/2 taza de cubos de mantequilla (oleo)",
+    "1 caja de azúcar glas",
+    "2 tazas de harina",
+    "2 cucharaditas de bicarbonato de sodio",
+    "200 g de queso crema Philadelphia",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 175 °C.\n2. Enmantequillar y enharinar un molde.\n3. Mezclar todos los ingredientes en un bol grande hasta que estén bien combinados.\n4. Verter la masa en el molde preparado.\n5. Hornear durante 30-35 minutos o hasta que al insertar un palillo en el centro salga limpio.\n6. Dejar enfriar antes de desmoldar.\n7. Cubrir con glaseado de queso crema mezclado con extracto de vainilla.",
+  "url": null
+}

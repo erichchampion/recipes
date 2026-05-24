@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-wine-sangria",
+  "name": "Sangría de Vino Blanco",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 botella de vino blanco seco",
+    "1/4 taza de brandy",
+    "1/4 taza de azúcar fina",
+    "1/3 taza de cubitos de hielo",
+    "4 rodajas de limón, cortadas en cuartos",
+    "4 rodajas de limón, cortadas en cuartos",
+    "4 rodajas de naranja, cortadas en cuartos",
+    "1 taza de agua con gas"
+  ],
+  "recipeInstructions": "1. En un jarro de vidrio grande, combina el vino, el brandy y el azúcar.\n2. Añade el hielo y remueve hasta que se disuelva el azúcar.\n3. Agrega la fruta y el agua con gas; sirve inmediatamente.",
+  "url": null
+}

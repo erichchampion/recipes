@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "garden-pizza",
+  "name": "Pizza de Jardín",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "16\" o 4 bases de masa de pizza de 6\"",
+    "2 cucharadas de mantequilla o margarina",
+    "1 calabacín, cortado en rodajas finas",
+    "1 pequeña cebolla roja, picada",
+    "1 tallo de brócoli, cortado en trozos pequeños",
+    "4 onzas de guisantes chinos",
+    "1 pimiento rojo dulce, cortado en dados",
+    "1 pimiento amarillo, cortado en dados",
+    "1,5 cucharaditas de tomillo",
+    "Pimienta negra al gusto",
+    "1 onza de parmesano rallado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 450°F (230°C).\n2. Saltear el calabacín, la cebolla y el brócoli en mantequilla o margarina hasta que estén ligeramente tiernos.\n3. Añadir los guisantes chinos y remover durante 2 minutos.\n4. Incorporar los pimientos rojo y amarillo, el tomillo y la pimienta negra. Remover la mezcla durante otro minuto.\n5. Verter la mezcla sobre la base de la pizza.\n6. Espolvorear con parmesano y hornear durante 5-7 minutos.",
+  "url": null
+}

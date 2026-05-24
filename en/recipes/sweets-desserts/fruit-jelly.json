@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-jelly",
+  "name": "Fruit Jelly",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "babyfood",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1/2 cup water",
+    "2 teaspoons gelatin",
+    "1 1/2 cups apple juice"
+  ],
+  "recipeInstructions": "1. Dissolve the gelatin in hot water.\n2. Mix in the apple juice.\n3. Refrigerate until set.",
+  "url": null
+}

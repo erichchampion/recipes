@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-sauce-ii",
+  "name": "Salsa de Queso II",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso/huevos",
+    "salsas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 taza de salsa blanca mediana (receta)",
+    "3/4 taza de queso cheddar fuerte rallado",
+    "pizca de pimienta cayena"
+  ],
+  "recipeInstructions": "1. Prepara la salsa blanca mediana según la receta.\n2. Añade el queso y la pimienta cayena durante los últimos 1 1/2 minutos de calentamiento.\nRinde para 1 1/2 tazas",
+  "url": null
+}

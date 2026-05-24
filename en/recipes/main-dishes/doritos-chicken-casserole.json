@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "doritos-chicken-casserole",
+  "name": "Doritos Chicken Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1 cup Chicken",
+    "1 package Doritos (nacho cheese flavor)",
+    "1 can Corn (whole kernel)",
+    "Cheese (grated; to taste)",
+    "1 small Onion (diced)",
+    "1 can Cream of chicken soup",
+    "1 can Cream of mushroom soup",
+    "1 cup Milk",
+    "1 can Ro-tel tomatoes"
+  ],
+  "recipeInstructions": "1. Boil and debone the chicken.\n2. Layer the chicken, Doritos, cheese, onion, and corn in a casserole dish.\n3. Mix together the chicken soup, mushroom soup, milk, and tomatoes.\n4. Pour the mixture over the casserole.\n5. Top with cheese.\n6. Bake at 375 degrees for about 30 minutes.",
+  "url": null
+}

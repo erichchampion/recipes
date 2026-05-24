@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "a-good-relish",
+  "name": "Un buen encurtido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "encimados",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 galón de tomates verdes",
+    "1 docena de cebollas",
+    "1/2 taza de sal",
+    "1 pimiento grande (verde o rojo)",
+    "1 docena de pepinillos",
+    "2 pimientos picantes",
+    "1 cucharadita de semillas de apio",
+    "3,5 libras de azúcar",
+    "1 litro de vinagre"
+  ],
+  "recipeInstructions": "1. Triturar los tomates verdes y las cebollas juntos.\n2. Añadir la sal, cubrir con agua y dejar reposar durante 10 minutos.\n3. Escurrir bien.\n4. Incorporar el pimiento (verde o rojo), los pepinillos, los pimientos picantes, las semillas de apio, el azúcar y el vinagre en una olla grande.\n5. Cocinar a fuego lento durante 15 minutos con la tapa puesta.",
+  "url": null
+}

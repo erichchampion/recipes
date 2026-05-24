@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "steak-picante",
+  "name": "Steak picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de setas frescas, laminadas",
+    "1/2 taza de cebolla picada",
+    "1/4 taza de pimiento verde picado",
+    "1/4 taza de aceite vegetal",
+    "2 cucharaditas de polvo de chile",
+    "1 taza de salsa de tomate",
+    "1 cucharadita de sal",
+    "1/4 taza de aceitunas verdes en rodajas",
+    "1 1/2 libras de solomillo redondo grueso"
+  ],
+  "recipeInstructions": "1. Saltear las setas, la cebolla y el pimiento verde en el aceite durante 5 minutos.\n2. Añadir el polvo de chile, la salsa de tomate, la sal y las aceitunas.\n3. Colocar el solomillo en un plato para hornear poco profundo y verter la salsa sobre él.\n4. Cubrir y hornear a 175°C durante 1 1/2 horas o hasta que esté tierno.",
+  "url": null
+}

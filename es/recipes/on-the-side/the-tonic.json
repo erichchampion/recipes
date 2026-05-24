@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "the-tonic",
+  "name": "El Tónico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "6 huevos",
+    "4 limones (su jugo)",
+    "1 litro de crema",
+    "1 libra de azúcar demerara",
+    "1 taza de brandy o ron"
+  ],
+  "recipeInstructions": "1. Rompa los huevos, con cáscaras incluidas, y mézclelos con el azúcar y el jugo de limón durante tres días, removiendo con frecuencia.\n2. Cuela la mezcla a través de un colador fino.\n3. Incorpora el brandy o ron con la crema a la mezcla de huevo y luego viértelo en el recipiente.\n4. Bate bien y embotella.\n5. Toma una copa llena de este tónico dos veces al día.\nSra. MacDonald\nPlockton",
+  "url": null
+}

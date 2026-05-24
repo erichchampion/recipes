@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "generic-impossible-pie",
+  "name": "Pastel Imposible Genérico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "pasteles de cena",
+    "tartas saladas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina de uso común",
+    "1 cucharadita de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "1 taza de mantequilla sin sal, fría y cortada en trozos pequeños",
+    "4 huevos grandes",
+    "1 taza de azúcar granulada",
+    "1 taza de crema espesa",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375°F (190°C).\n2. En un bol mediano, mezclar la harina, el polvo de hornear y la sal.\n3. Agregar los trozos de mantequilla a los ingredientes secos; trabajar con los dedos hasta obtener migas gruesas.\n4. Batir los huevos en un bol separado.\n5. Añadir el azúcar gradualmente a la mezcla de huevo, batiendo continuamente.\n6. Incorporar la crema espesa y el extracto de vainilla.\n7. Verter la mezcla húmeda sobre la seca y mezclar solo hasta combinarse.\n8. Verter la masa en un molde para tarta engrasado de 23 cm.\n9. Hornear durante 35-40 minutos o hasta que esté cuajada y ligeramente dorada en la parte superior.\n10. Dejar enfriar completamente antes de servir.",
+  "url": null
+}

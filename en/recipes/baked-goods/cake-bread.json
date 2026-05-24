@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cake-bread",
+  "name": "Cake Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "1 tbsp Yeast",
+    "2/3 cup Cake Mix",
+    "1 2/3 cups Flour",
+    "1/3 tsp Salt",
+    "1 1/3 tbsp Butter",
+    "3/4 cup Water"
+  ],
+  "recipeInstructions": "1. Measure out all of the ingredients as specified.\n2. Combine the yeast, cake mix, flour, salt, butter, and water in a large bowl.\n3. Mix until well combined.\n4. Pour the mixture into a greased loaf pan.\n5. Place the pan in an oven preheated to the temperature specified in your cookbook.\n6. Bake for the time indicated in your cookbook.\n7. Remove from the oven and let cool before serving.",
+  "url": null
+}

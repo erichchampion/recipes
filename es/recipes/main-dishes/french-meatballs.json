@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-meatballs",
+  "name": "Albóndigas francesas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne de hamburguesa magra",
+    "1/4 lb de carne de salchicha",
+    "1 cebolla",
+    "1 cucharadita de perejil",
+    "1 taza de pan seco remojado en leche",
+    "1 huevo",
+    "1/4 taza de leche"
+  ],
+  "recipeInstructions": "1. Mezclar las carnes, la cebolla y el perejil.\n2. Añadir el pan, el huevo, sal y pimienta. Enfriar.\n3. Formar bolitas pequeñas y pasarlas por harina.\n4. Dorar por todos lados en una sartén.\n~----Salsa: 2 cucharadas de mantequilla, 2 cucharadas de harina, 2 tazas de caldo, perejil, tomillo y hoja de laurel. Derrir la mantequilla, incorporar la harina y luego añadir el caldo y las especias. Remover hasta espesar y agregar las albóndigas, cocinar a fuego lento durante 20 min.",
+  "url": null
+}

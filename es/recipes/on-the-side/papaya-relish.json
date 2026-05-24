@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "papaya-relish",
+  "name": "Relish de papaya",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "frutas",
+    "mexicana",
+    "encurtidos",
+    "guarniciones",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de cebolla roja; picada",
+    "1 pimiento rojo pequeño; sin semillas y cortado finamente",
+    "1 papaya; pelada y cortada en cubos de 1/2 pulgada",
+    "1/4 taza de menta fresca; picada",
+    "1/2 taza de pimiento rojo; picado",
+    "1 cucharada de aceite vegetal",
+    "2 cucharadas de jugo de limón"
+  ],
+  "recipeInstructions": "1. Cocinar la cebolla, el pimiento y el chile en el aceite a fuego medio, removiendo con frecuencia hasta que estén tiernos.\n2. Añadir los ingredientes restantes y mezclar bien.\n3. Tapar y refrigerar hasta que esté fría, aproximadamente 2 horas. Rinde 3 tazas de ensalada.",
+  "url": null
+}

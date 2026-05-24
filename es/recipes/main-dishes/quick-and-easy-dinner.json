@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-and-easy-dinner",
+  "name": "Cena rápida y fácil",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "2 lb de asado de paleta",
+    "2 bolsas de verduras para estofar congeladas (las grandes)",
+    "2 latas de sopa de champiñones cremosos",
+    "1 sobre de sopa de cebolla Lipton"
+  ],
+  "recipeInstructions": "1. Coloca el asado de paleta en la olla de cocción lenta.\n2. Añade 2 1/2 tazas de agua a la olla.\n3. Vierte las sopas sobre la carne.\n4. Cubre con las verduras para estofar.\n5. Si cocina durante 8 horas o más, pon la olla en velocidad baja; si cocina durante 6 horas o menos, ponla en velocidad alta.\n6. ¡Disfruta de tu cena lista al llegar a casa!",
+  "url": null
+}

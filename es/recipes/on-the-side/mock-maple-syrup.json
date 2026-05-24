@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-maple-syrup",
+  "name": "Sirope de arce falso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar moreno",
+    "1 cucharadita de mantequilla",
+    "1 taza de agua hirviendo",
+    "1/2 cucharadita de extracto de vainilla",
+    "1/2 taza de azúcar blanco (es decir, azúcar)"
+  ],
+  "recipeInstructions": "1. Mezclar el azúcar moreno y el agua en una cacerola, y llevar a ebullición.\n2. En una sartén, calentar el azúcar blanco hasta que se derrita y se vuelva marrón.\n3. Añadir el jarabe de azúcar moreno de la etapa 1 a la sartén con el azúcar caramelizado. Reducir a fuego lento hasta que esté suave y espeso.\n4. Verter la mezcla en un recipiente que contenga la mantequilla y el extracto de vainilla.",
+  "url": null
+}

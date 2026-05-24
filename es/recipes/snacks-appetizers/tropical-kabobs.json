@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "tropical-kabobs",
+  "name": "Brochetas tropicales",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "aves de corral",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 lb de pechugas de pollo sin hueso",
+    "1 lata de trozos de piña (tamaño de la lata al gusto)",
+    "Salsa de soja",
+    "Para la salsa de aderezo:",
+    "2 cucharadas de jugo de la lata de piña",
+    "1/2 taza de mermelada de naranja",
+    "1/4 taza de yogur natural",
+    "1 cucharada de mostaza dijon",
+    "1/2 cucharadita de polvo de curry"
+  ],
+  "recipeInstructions": "1. Cortar el pollo en cubos y ensartarlo en brochetas alternando con los trozos de piña.\n2. Untar las piezas de pollo con salsa de soja.\n3. Asar a la parrilla o al horno hasta que el pollo esté cocido.\n4. En un bol aparte, mezclar el jugo de piña, la mermelada, el yogur, la mostaza y el polvo de curry para preparar la salsa.\n5. Servir la salsa junto con las brochetas asadas.",
+  "url": null
+}

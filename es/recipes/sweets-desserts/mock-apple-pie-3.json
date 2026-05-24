@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-apple-pie-3",
+  "name": "Tarta de manzana falsa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tarta",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "4 tazas de calabacín pelado y cortado en rodajas",
+    "3/4 taza de azúcar",
+    "2 cucharadas de almidón de tapioca",
+    "2 cucharadas de maicena",
+    "5 cucharadas de jugo de limón",
+    "1/2 cucharadita de sal",
+    "2 cucharaditas de canela",
+    "1 cucharadita de nuez moscada",
+    "Para la cobertura crujiente:",
+    "1/2 taza de margarina",
+    "1/2 taza de azúcar",
+    "1/2 taza de harina"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar el calabacín, el azúcar, el almidón de tapioca, la maicena, el jugo de limón, la sal, la canela y la nuez moscada.\n2. Verter la mezcla en una masa de tarta sin hornear.\n3. En otro bol, combinar la margarina, el azúcar y la harina para hacer la cobertura crujiente. Mezclar bien.\n4. Espolvorear la cobertura sobre la mezcla de calabacín de manera uniforme.\n5. Colocar la tarta dentro de una bolsa de papel grande, doblar los lados para cubrirla y sujetar la parte superior con un alfiler.\n6. Hornear a 180 °C durante 1 hora.",
+  "url": null
+}

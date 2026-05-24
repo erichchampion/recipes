@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-parmesan-prego",
+  "name": "Pollo Parmesano... ¡Listo!",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "italiano",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de migas de pan estilo italiano",
+    "1/4 taza de queso parmesano rallado",
+    "2 pechugas de pollo sin hueso",
+    "1 huevo ligeramente batido",
+    "1/4 taza de aceite de ensalada",
+    "350 g de salsa Prego para pasta",
+    "1 taza de queso mozzarella rallado"
+  ],
+  "recipeInstructions": "1. UNIR las migas de pan y el queso parmesano.\n2. APLANAR las pechugas de pollo con el lado plano de un cuchillo hasta que tengan aproximadamente 0,5 cm de grosor. Sumergir en el huevo batido y luego en la mezcla de migas de pan.\n3. EN una sartén, freír el pollo en el aceite hasta que esté dorado. Escurrir sobre toallas absorbentes.\n4. COLOCAR el pollo en un plato de hornear poco profundo de 2 litros (12x8x2); cubrir con salsa, espolvorear con queso y tapar.\n5. HORNEAR a 200 °C durante 20 minutos o hasta que esté hecho.",
+  "url": null
+}

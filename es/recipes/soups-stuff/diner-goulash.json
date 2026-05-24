@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "diner-goulash",
+  "name": "Goulash de restaurante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne de res picada (cuello o costilla)",
+    "1/4 taza de manteca",
+    "1 taza de cebolla",
+    "1 diente de ajo, picado",
+    "3/4 taza de ketchup",
+    "1 cucharada de azúcar moreno",
+    "2 cucharaditas de sal",
+    "2 cucharaditas de pimentón dulce",
+    "Pimienta al gusto",
+    "1/2 cucharadita de mostaza en polvo",
+    "2 cucharadas de salsa Worcestershire",
+    "1 1/2 tazas de agua",
+    "2 cucharadas de harina",
+    "1/4 taza de agua fría",
+    "1 paquete (8 onzas) de fideos"
+  ],
+  "recipeInstructions": "1. Dorar la carne, la manteca, la cebolla y el ajo.\n2. En un bol aparte, mezclar el ketchup, el azúcar moreno, la sal, el pimentón, la pimienta, la mostaza en polvo y la salsa Worcestershire.\n3. Incorporar la mezcla de especias a la carne dorada y añadir 1 1/2 tazas de agua.\n4. Cocinar a fuego lento durante 2 a 2 1/2 horas, o hasta que la carne esté tierna.\n5. En un bol pequeño, mezclar la harina con el agua fría para hacer una pasta.\n6. Agregar la pasta al guiso y remover.\n7. Llevar a ebullición y revolver constantemente.\n8. Cocinar a fuego alto durante 1 minuto.\n9. Servir la salsa sobre los fideos cocidos.",
+  "url": null
+}

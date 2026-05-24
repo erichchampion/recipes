@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "shrimp-stroganoff",
+  "name": "Shrimp Stroganoff",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "fish",
+    "main dish",
+    "meat",
+    "seafood",
+    "shrimp"
+  ],
+  "recipeIngredient": [
+    "1 Onion, medium, minced",
+    "1 Garlic clove, minced",
+    "1/4 cup Green pepper, minced",
+    "1 Cup Mushrooms, thinly sliced",
+    "2 Tablespoons Parsley, minced",
+    "1/4 Cup Butter, melted",
+    "1/4 Cup Flour",
+    "1 Cup Beef Bouillon",
+    "1 Teaspoon Salt",
+    "1/2 Teaspoon Pepper",
+    "5 Drops Hot Sauce",
+    "2 Cups Shrimp, peeled & deveined",
+    "1/2 Cup Sour Cream",
+    "Hot Cooked Noodles"
+  ],
+  "recipeInstructions": "1. Saute onion, garlic, green pepper, mushrooms, and parsley until tender.\n2. Blend in flour and cook for 1 minute.\n3. Gradually add beef bouillon; cook over medium heat, stirring constantly, until thickened.\n4. Stir in salt, pepper, and hot sauce, mixing well.\n5. Add shrimp and simmer for 10 minutes, stirring occasionally.\n6. Stir in sour cream until thoroughly heated.\n7. Serve over hot noodles.",
+  "url": null
+}

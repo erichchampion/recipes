@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-rice-3",
+  "name": "Arroz horneado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "diabetico",
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "8 cubos de caldo",
+    "1 taza de migas de pan secas",
+    "8 tazas de agua caliente",
+    "2 tazas de arroz",
+    "8 cebolletas verdes, picadas",
+    "3/4 taza de apio"
+  ],
+  "recipeInstructions": "1. Disuelve los cubos de caldo en agua caliente.\n2. Añade el arroz, las cebolletas verdes y el apio; tapa.\n3. Cocina durante 5 minutos.\n4. Incorpora las migas de pan.\n5. Vierte la mezcla en un molde para hornear pequeño.\n6. Hornea a 180°C durante 25 a 30 minutos o hasta que la superficie esté ligeramente dorada.",
+  "url": null
+}

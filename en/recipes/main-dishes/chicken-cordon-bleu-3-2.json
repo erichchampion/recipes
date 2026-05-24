@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-cordon-bleu-3-2",
+  "name": "Chicken Cordon Bleu#3",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "favorites",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "2 boneless chicken breasts",
+    "2 slices ham",
+    "2 slices Swiss cheese",
+    "garlic powder to taste",
+    "salt to taste",
+    "freshly ground black pepper to taste",
+    "minced parsley to taste",
+    "1/4 cup bread crumbs",
+    "1 tablespoon peanut oil"
+  ],
+  "recipeInstructions": "1. Place 1 slice of ham and 1 slice of cheese into each chicken breast.\n2. Sprinkle parsley, garlic powder, salt, and pepper on the chicken.\n3. Roll up each chicken breast and secure with toothpicks.\n4. Brush with oil and roll in bread crumbs.\n5. Bake in a shallow, greased pan at 350°F for 35 minutes.",
+  "url": null
+}

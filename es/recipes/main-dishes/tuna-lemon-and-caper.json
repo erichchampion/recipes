@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "tuna-lemon-and-caper",
+  "name": "Atún, Limón y Alcaparras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "pasta",
+    "salsas",
+    "mariscos",
+    "atún"
+  ],
+  "recipeIngredient": [
+    "1 lata de atún en aceite italiano, escurrido",
+    "3 cucharadas de aceite de oliva virgen extra",
+    "2 cucharadas de aceitunas verdes picadas",
+    "2 cucharadas de perejil picado",
+    "1 cucharadita de ajo picado",
+    "1/4 cucharadita de cáscara de limón rallada",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1/4 taza de agua de cocción de pasta caliente",
+    "1 libra de pasta tipo espagueti de forma espiral (corkscrew) cocida"
+  ],
+  "recipeInstructions": "1. Mezclar el atún, el aceite de oliva, las aceitunas, el perejil, el ajo, la cáscara de limón, la sal y la pimienta en un bol.\n2. Dejar reposar durante 30 minutos para que los sabores se mezclen.\n3. Añadir gradualmente el agua de cocción de pasta mientras se mezcla con la pasta cocida hasta que esté bien combinada.",
+  "url": null
+}

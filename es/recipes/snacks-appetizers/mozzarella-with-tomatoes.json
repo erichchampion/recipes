@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mozzarella-with-tomatoes",
+  "name": "Mozzarella con Tomates",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 kg de queso mozzarella, en rodajas",
+    "3 tomates rojos maduros, en rodajas",
+    "2 cucharaditas de orégano",
+    "4 cucharadas de aceite de oliva",
+    "Sal al gusto",
+    "Pimienta negra molida fresca al gusto",
+    "2 onzas de anchoas enlatadas, escurridas",
+    "Hojas de albahaca al gusto",
+    "Aceitunas negras neapolitanas"
+  ],
+  "recipeInstructions": "1. Disponer las rodajas de mozzarella y tomate en capas alternas y superpuestas sobre una bandeja para servir.\n2. Espolvorear con orégano, aceite de oliva, sal y pimienta.\n3. Decorar con anchoas y hojas de albahaca.\n4. Servir a temperatura ambiente con aceitunas negras neapolitanas.\nRinde para 6 personas.",
+  "url": null
+}

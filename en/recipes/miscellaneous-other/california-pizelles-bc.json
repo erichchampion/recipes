@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "california-pizelles-bc",
+  "name": "California Pizelles/bc",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "american",
+    "cheese",
+    "ethnic",
+    "mexican"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Sour cream",
+    "1/2 cup Cream cheese, softened",
+    "1/4 cup Green onions, chopped",
+    "4 Flour tortillas",
+    "1/2 cup Artichokes, drained and chopped",
+    "1/2 cup Mushrooms, chopped",
+    "1/2 cup Tomatoes, chopped",
+    "1/2 cup Avocado, chopped",
+    "1/2 cup Chicken, cooked and chopped",
+    "1/2 cup Jack cheese, shredded",
+    "1/2 cup Swiss cheese, shredded"
+  ],
+  "recipeInstructions": "1. Beat the sour cream and cream cheese in a bowl until smooth.\n2. Fold in the green onions.\n3. Spread the mixture evenly over the tortillas.\n4. Top each tortilla with an equal portion of artichokes, mushrooms, tomatoes, avocado, chicken, and cheeses.\n5. Place the tortillas on a baking sheet.\n6. Bake at 325 degrees Fahrenheit for 10 to 15 minutes, or until the cheese melts.\n7. Cut each tortilla into 4 wedges; serve hot.\n8. You may substitute chopped cooked shrimp for the chicken.\nWARNING: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

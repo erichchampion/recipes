@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-drop-biscuits",
+  "name": "Biscuitos de Queso con Caída",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "galletas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "4 cucharadas de mantequilla",
+    "3 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "6 cucharadas de queso rallado"
+  ],
+  "recipeInstructions": "1. Cernir juntos la harina, la sal y el polvo de hornear.\n2. Cortar la mantequilla en trozos pequeños e incorporarla a la mezcla hasta obtener migas gruesas.\n3. Agregar poco a poco suficiente leche para formar una masa suave.\n4. Incorporar el queso rallado a la masa.\n5. Colocar cucharadas de masa sobre una bandeja para hornear engrasada.\n6. Hornear a temperatura media (200 °C) durante 10-20 minutos, o hasta que estén doradas.",
+  "url": null
+}

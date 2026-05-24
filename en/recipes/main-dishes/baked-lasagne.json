@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-lasagne",
+  "name": "Baked Lasagne",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "2 pounds Ground beef",
+    "1 Onion, chopped",
+    "2 cups Tomato paste",
+    "1 cup Tomato sauce",
+    "12 Lasagne noodles",
+    "2 cups Whole tomatoes, chopped",
+    "1 ½ tablespoons Oregano",
+    "1 ½ tablespoons Italian seasoning",
+    "2 tablespoons Sugar",
+    "1 Garlic clove, minced (1/8 teaspoon)",
+    "1/3 cup Parnesan cheese, grated",
+    "3/4 pound Ricotta cheese",
+    "1 pound Mozzarella cheese",
+    "1 cup Tomato juice"
+  ],
+  "recipeInstructions": "1. Brown meat with onion and drain.\n2. Add tomato sauce, tomato paste, whole tomatoes, oregano, Italian seasoning, minced garlic, sugar (to taste), Parmesan cheese. Simmer for 1 hour.\n3. Place 3 cooked lasagne noodles at the bottom of a low baking dish.\n4. Spread sauce over the noodles.\n5. Sprinkle ricotta cheese, Parmesan cheese, and mozzarella cheese on top.\n6. Layer more noodles, sauce, and cheeses.\n7. Add tomato juice to liquify.\n8. Bake at 350°F for 45 minutes.",
+  "url": null
+}

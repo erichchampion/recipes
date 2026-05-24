@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "sour-milk-cakes",
+  "name": "Pasteles de Leche Ácida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "1/2 taza de leche ácida",
+    "1 cucharadita de sal",
+    "1/2 taza de crema agria",
+    "1 1/4 cucharaditas de polvo de hornear",
+    "1 huevo, batido bien",
+    "1 1/4 cucharaditas de bicarbonato de sodio"
+  ],
+  "recipeInstructions": "1. Cernir la harina y combinarla con el polvo de hornear, el bicarbonato de sodio y la sal.\n2. Agregar la crema agria, el huevo y la leche ácida a los ingredientes cernidos.\n3. Batir hasta obtener una mezcla suave.\n4. Hornear en una plancha caliente.\n5. Servir 16 porciones.",
+  "url": null
+}

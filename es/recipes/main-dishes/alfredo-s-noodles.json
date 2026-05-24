@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "alfredo-s-noodles",
+  "name": "Pasta de Alfredo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 libra de fettuccine",
+    "1 1/2 tazas de setas en rodajas",
+    "1/2 taza de mantequilla",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "1/4 cucharadita de orégano seco",
+    "1/2 cucharadita de polvo de ajo",
+    "1/2 taza de crema ligera",
+    "1/4 taza de mozzarella rallada",
+    "1/4 taza de queso romano fresco rallado"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una sartén pequeña a fuego medio.\n2. Añade las setas, sal, pimienta, orégano y polvo de ajo a la sartén. Saltea durante 5 minutos hasta que las setas adquieran un color dorado.\n3. Vierte la crema y cocina durante 2 minutos más, removiendo ocasionalmente.\n4. Escurre el fettuccine y colócalo en un bol grande.\n5. Agrega la salsa caliente y ambos quesos a los fideos y mezcla suavemente hasta que se combinen.\n6. Sirve en porciones individuales para 4 personas.",
+  "url": null
+}

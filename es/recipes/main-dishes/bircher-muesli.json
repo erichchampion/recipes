@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "bircher-muesli",
+  "name": "Bircher Muesli",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 manzana mediana, cortada en cubos aserrados (roja o dorada)",
+    "1/2 taza de pasas",
+    "1 plátano, cortado en rodajas de 1/4 cm",
+    "1 naranja, cortada en trozos",
+    "1 taza de avena",
+    "1 yogur natural sin grasa (se puede usar leche desnatada o leche de soja)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Remover bien y dejar reposar unos minutos para que se mezclen los sabores.\n3. Ajustar la consistencia añadiendo más líquido si se prefiere más suave.\n4. Servir y disfrutar de tu müsli casero.",
+  "url": null
+}

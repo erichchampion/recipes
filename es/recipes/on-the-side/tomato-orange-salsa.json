@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-orange-salsa",
+  "name": "Salsa de tomate y naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3 tomates maduros, picados",
+    "4 cebolletas, picadas",
+    "1 chile verde, sin semillas y picado (o 1/4 cucharadita de cayena)",
+    "2 cucharaditas de cáscara de naranja recién rallada",
+    "1 naranja, en rodajas y mitad",
+    "2 cucharadas de zumo de limón fresco",
+    "1/2 cucharadita de comino en polvo",
+    "1/2 cucharadita de cilantro en polvo",
+    "sal al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Dejar reposar durante 10 a 15 minutos para que se mezclen los sabores.\n3. Cubrir y refrigerar; esta salsa se conservará durante 2 a 3 días.",
+  "url": null
+}

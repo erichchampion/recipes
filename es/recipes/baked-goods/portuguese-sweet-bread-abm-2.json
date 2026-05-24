@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "portuguese-sweet-bread-abm-2",
+  "name": "Pan de dulce portugués ABM",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "postres",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 taza de leche evaporada",
+    "3 cucharadas de mantequilla sin sal, cortadas en trozos",
+    "2 huevos",
+    "1 1/2 cucharaditas de ralladura de limón, finamente picada",
+    "1 cucharada de extracto de vainilla",
+    "6 cucharadas de azúcar",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de ácido ascórbico",
+    "3 tazas de harina de pan",
+    "2 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en la máquina de pan.\n2. Programa para pan blanco o dulce.\n3. Presiona el botón de inicio.",
+  "url": null
+}

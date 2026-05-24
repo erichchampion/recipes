@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "ugly-cake",
+  "name": "Pastel Feo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 caja de mezcla para pastel amarillo",
+    "1 paquete de queso crema (225 g)",
+    "1 barra de mantequilla",
+    "1 libra de azúcar glas"
+  ],
+  "recipeInstructions": "1. Mezclar la mezcla de pastel según las indicaciones del paquete.\n2. Verter la mezcla en un molde rectangular antiadherente engrasado y enharinado de 30x40 cm.\n3. En un bol aparte, mezclar el queso crema, la mantequilla y el azúcar glas hasta que quede una textura homogénea.\n4. Extender la mezcla de queso crema sobre la base del pastel.\n5. Hornear a 180°C durante 35-40 minutos.\n6. Sacar el pastel del horno mientras aún esté caliente y cubrirlo uniformemente con la cobertura, raspando cualquier resto sobre la superficie.",
+  "url": null
+}

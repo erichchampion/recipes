@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "pork-sausage",
+  "name": "Salchicha de cerdo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "carne",
+    "embutidos"
+  ],
+  "recipeIngredient": [
+    "3 lb de hombro de cerdo",
+    "4 cucharadas de cebolla picada",
+    "4 cucharaditas de salvia",
+    "2 cucharaditas de tomillo",
+    "3 cucharaditas de sal",
+    "1 taza de perejil picado",
+    "2 cucharaditas de cerfeo",
+    "0,5 cucharadita de orégano",
+    "Una pizca de canela",
+    "6 cucharadas de agua",
+    "1 huevo",
+    "3 cucharadas de manteca"
+  ],
+  "recipeInstructions": "1. Enfríe el cerdo durante unos 20 minutos (esto facilita la molienda).\n2. Mezcle todos los ingredientes excepto el agua y el huevo.\n3. Espolvoree la mezcla sobre el cerdo.\n4. Moler el cerdo.\n5. Añada el agua y el huevo.\n6. Batir en una batidora con gancho plano durante 1 minuto a velocidad de remolque.\n7. Refrigerar hasta su uso.",
+  "url": null
+}

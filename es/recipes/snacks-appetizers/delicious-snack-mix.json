@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "delicious-snack-mix",
+  "name": "Mezcla de bocadillos deliciosa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "fiestas",
+    "aperitivos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "4 tazas de cacahuetes salados",
+    "1 taza de trozos de chocolate con cobertura de caramelo",
+    "1/2 taza de chips de chocolate dulce",
+    "1 taza de almendras enteras",
+    "1 taza de pasas",
+    "1 taza de dátiles picados",
+    "1 taza de pretzels mini (opcional)",
+    "1/4 taza de semillas de girasol"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar todos los ingredientes.\n2. Conservar la mezcla en recipientes cerrados de su elección para regalar.\n3. Esta receta rinde 16 o más porciones, aproximadamente 1/2 taza cada una.\n4. Si se usan pretzels mini, los tamaños de las porciones pueden variar; omitir las pasas cuando se usen pretzels.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "mud-hens",
+  "name": "Gallinas de lodo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de mezcla Bisquick",
+    "4 huevos, batidos bien",
+    "1 caja de azúcar moreno claro",
+    "2 tazas de nueces pecanas, picadas"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes juntos.\n2. Engrasar y enharinar un molde de vidrio.\n3. Hornear a 175 °C durante 30 minutos.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "split-pea-chowder",
+  "name": "Split-Pea Chowder",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "mcdougall",
+    "sauces",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "4 cups Water",
+    "1 teaspoon Salt",
+    "1 Onion",
+    "1 Potato (diced)",
+    "1 cup Dry split peas",
+    "1 Carrot (grated)",
+    "1 Celery stalk (chopped)"
+  ],
+  "recipeInstructions": "1. Chop onion and celery.\n2. Dice potato.\n3. Grate carrot.\n4. Bring water to a boil and add salt.\n5. Add onion, celery, diced potato, and split peas.\n6. Cook until vegetables are tender.\n7. Add grated carrot and basil.\n8. Serve over whole grain toast, cooked whole wheat, or brown rice.",
+  "url": null
+}

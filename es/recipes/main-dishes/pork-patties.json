@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pork-patties",
+  "name": "Albóndigas de cerdo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne de cerdo molida (magra)",
+    "1 1/2 cucharaditas de sal",
+    "1/2 cucharadita de tomillo seco",
+    "1/4 cucharadita de nuez moscada molida",
+    "1/4 cucharadita de pimienta negra",
+    "1 pizca de jengibre molido",
+    "2 cucharadas de agua"
+  ],
+  "recipeInstructions": "1. En un bol, mezcle todos los ingredientes hasta combinarlos bien.\n2. Forme la mezcla en seis albóndigas.\n3. Fría las albóndigas en una sartén hasta que estén doradas y cocidas por completo.\n4. Rinde: 6 porciones.",
+  "url": null
+}

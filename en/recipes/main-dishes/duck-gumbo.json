@@ -1,0 +1,35 @@
+{
+  "@type": "Recipe",
+  "identifier": "duck-gumbo",
+  "name": "Duck Gumbo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "poultry",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "2 Ducks",
+    "1 1/2 cups Butter or Margarine",
+    "1 cup Flour",
+    "1 bunch Celery [chopped]",
+    "3 cloves Garlic [chopped]",
+    "4 medium Onions [chopped]",
+    "1 bunch Green Onions [chopped]",
+    "1 large Green Bell Pepper [chopped]",
+    "4 cups Okra [sliced]",
+    "2 cans (20 oz each) Tomatoes",
+    "1 can (15 oz) Tomato Paste",
+    "2 tsp MSG",
+    "2 tbsp Oregano",
+    "2 tbsp Salt",
+    "2 tbsp Parsley Flakes",
+    "1 tsp Thyme",
+    "1 tbsp Black Pepper",
+    "1/4 tsp Red Pepper"
+  ],
+  "recipeInstructions": "1. Rinse the ducks and pat dry inside and out. Cook in water to cover in a large saucepan until tender, then drain reserving 2 quarts of the broth. Bone the ducks.\n2. Melt the butter or margarine in a skillet and add the flour, cooking until dark brown; stirring constantly.\n3. Add the duck meat and the remaining ingredients and seasonings, and cook over low heat for 2 hours or until desired consistency, stirring frequently.\n4. Serve over cooked rice or noodles.",
+  "url": null
+}

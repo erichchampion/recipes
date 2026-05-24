@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "eggless-corn-muffins",
+  "name": "Muffins de maíz sin huevos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas",
+    "holandés de Pensilvania"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina de maíz",
+    "1/4 taza de azúcar",
+    "2 cucharadas de polvo de hornear",
+    "2 cucharadas de manteca vegetal",
+    "1/2 taza de harina común",
+    "1 cucharadita de sal",
+    "1 taza de leche"
+  ],
+  "recipeInstructions": "1. Cernir juntos los ingredientes secos (harina de maíz, azúcar, polvo de hornear, harina y sal).\n2. Agregar la leche y la manteca a los ingredientes secos cernidos.\n3. Verter la mezcla en moldes para muffins engrasados.\n4. Hornear a 175°C durante 30 minutos.",
+  "url": null
+}

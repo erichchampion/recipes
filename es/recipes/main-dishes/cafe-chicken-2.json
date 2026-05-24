@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cafe-chicken-2",
+  "name": "Pollo Café",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 pollos, de aproximadamente 2-1/2 libras, cortados en octavos",
+    "1 cebolla picada",
+    "2 dientes de ajo picados",
+    "Sal y pimienta blanca al gusto",
+    "1 pimiento verde, picado",
+    "1 tomate mediano maduro, pelado, sin semillas y picado",
+    "1 taza de vino blanco seco",
+    "Una pizca de pimienta cayena"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una olla de cocción lenta.\n2. Cubrir la olla y ajustar a fuego bajo.\n3. Cocinar durante 6 a 8 horas, o hasta que el pollo esté tierno.\nRinde: Sirve para 6 a 8 personas",
+  "url": null
+}

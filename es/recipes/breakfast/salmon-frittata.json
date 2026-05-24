@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "salmon-frittata",
+  "name": "Fritata de salmón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "queso/huevos",
+    "pescado",
+    "plato principal",
+    "carne",
+    "salmón",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "450 g de salmón Alaska",
+    "1 cucharada de spray antiadherente vegetal",
+    "12 huevos batidos",
+    "250 g de cuajada sin grasa",
+    "2 tazas de queso suizo rallado",
+    "10 oz (280 g) de espinacas congeladas, escurridas y escaldadas",
+    "1 cucharadita de albahaca seca",
+    "Una pizca de pimienta cayena"
+  ],
+  "recipeInstructions": "1. Escurrir y desmenuzar el salmón.\n2. Engrasar un molde para hornear rectangular de 30x40 cm con spray antiadherente vegetal.\n3. Mezclar el salmón desmenuzado con los ingredientes restantes en el molde preparado.\n4. Hornear a 180°C durante 30 minutos, o hasta que la frittata esté cuajada.",
+  "url": null
+}

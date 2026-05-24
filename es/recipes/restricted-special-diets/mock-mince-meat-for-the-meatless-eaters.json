@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-mince-meat-for-the-meatless-eaters",
+  "name": "Carne de soja falsa (para los vegetarianos)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "dieta especial",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 taza de agua fría",
+    "1/2 taza de melaza",
+    "1/2 taza de azúcar moreno",
+    "1/2 taza de vinagre de sidra",
+    "2/3 taza de mantequilla derretida",
+    "1 taza de pasas, sin semillas y picadas",
+    "1 huevo, batido ligeramente",
+    "1/2 taza de migas de galleta",
+    "1 cucharadita de canela",
+    "1/2 cucharadita de clavos molidos",
+    "1/2 cucharadita de jengibre molido",
+    "1/2 cucharadita de nuez moscada",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1/4 taza de brandy"
+  ],
+  "recipeInstructions": "1. Verter el agua y las pasas en una olla.\n2. Cocinar durante unos minutos.\n3. Añadir el azúcar, la melaza, el vinagre, la mantequilla, el huevo, las migas de galleta, la canela, los clavos, el jengibre, la nuez moscada, la sal y la pimienta. Mezclar bien hasta combinar todos los ingredientes.\n4. Incorporar el brandy.",
+  "url": null
+}

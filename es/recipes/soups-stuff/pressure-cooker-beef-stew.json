@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "pressure-cooker-beef-stew",
+  "name": "Estofado de ternera a presión",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "1 lb (aprox. 450 g) de carne para guiso",
+    "1/4 taza de harina",
+    "1/2 taza de cebolla picada",
+    "3 cucharadas de aceite",
+    "1 cucharadita de sal",
+    "1 taza de jugo de tomate",
+    "1/4 cucharadita de ajo en polvo",
+    "1/8 cucharadita de pimienta negra",
+    "1 taza de zanahorias",
+    "1 taza de papas",
+    "1/2 cucharadita de sal (opcional)",
+    "1 taza de apio",
+    "1 taza de agua",
+    "1/2 cucharadita de salsa Worcestershire"
+  ],
+  "recipeInstructions": "1. Pasear la carne para guiso por harina y dorarla en aceite caliente.\n2. Incorporar la cebolla, el jugo de tomate, la sal, la pimienta y el ajo en polvo al recipiente. Mezclar bien.\n3. Presionar la tecla de cocción a presión durante 15 minutos.\n4. Agregar las papas, zanahorias, apio, la sal restante (si se usa), salsa Worcestershire y agua.\n5. Cocinar a presión durante 15 minutos adicionales.\n6. Espesar la salsa si se desea y servir.",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "creole-fish-soup",
+  "name": "Creole Fish Soup",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "american",
+    "cajun",
+    "creole",
+    "ethnic",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "None specified (1 lb Red snapper, boned/shredded)",
+    "None specified (1 lb Shelled shrimp, diced)",
+    "1 cup Minced onion",
+    "1 cup Diced potatoes",
+    "1 cup Cooked strained tomatoes",
+    "1 tablespoon Butter or margarine",
+    "1 Bay leaf",
+    "Salt",
+    "Cayenne pepper",
+    "6 cups Water",
+    "2 tablespoons Lemon juice"
+  ],
+  "recipeInstructions": "1. Combine all ingredients except lemon juice in a large saucepan.\n2. Simmer for 40 minutes, or until vegetables are tender.\n3. Add lemon juice; stir and serve.",
+  "url": null
+}

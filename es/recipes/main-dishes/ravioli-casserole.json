@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "ravioli-casserole",
+  "name": "Casserola de Ravioli",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "pasta",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 1/2 kg de carne picada",
+    "1 cebolla mediana, picada",
+    "1 diente de ajo, picado o 1/8 cucharadita de polvo de ajo",
+    "2 latas de 400 g de salsa de tomate",
+    "1 lata de 400 g de tomates enlatados",
+    "1 cucharadita de orégano seco molido",
+    "1 cucharadita de mezcla de hierbas italianas",
+    "Sal y pimienta al gusto",
+    "1 paquete congelado de espinacas picadas de 340 g, descongelado",
+    "1 paquete de pasta tipo ravioli de 450 g, cocida y escurrida",
+    "1/2 taza de queso parmesano rallado",
+    "1 1/2 tazas de queso mozzarella rallado"
+  ],
+  "recipeInstructions": "Rinde para 6 personas.\nEn una sartén grande a fuego medio-alto, dora la carne picada, la cebolla y el ajo. Cocina hasta que la cebolla se vuelva transparente y suave, aproximadamente 20 minutos. Escurre el exceso de grasa y transfiere la mezcla de carne al slow cooker. Agrega los tomates, la salsa de tomate, el orégano, la mezcla de hierbas italianas y la sal y pimienta, removiendo para desmenuzar los tomates enlatados. Tapa y cocina a fuego lento durante 7 a 8 horas o a temperatura alta durante 3 1/2 a 4 horas. En los últimos 30 minutos si estás cocinando a fuego bajo, aumenta la temperatura a alto. Incorpora la pasta cocida, las espinacas y el queso. Sirve inmediatamente cuando esté derretido.",
+  "url": null
+}

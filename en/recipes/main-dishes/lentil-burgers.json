@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "lentil-burgers",
+  "name": "Lentil Burgers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beans",
+    "burgers",
+    "main dish",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "1 cup lentils",
+    "2/3 cup rice",
+    "2 1/2 cups water",
+    "1 slice wheat bread",
+    "1/2 cup onion, chopped",
+    "1/4 teaspoon celery salt"
+  ],
+  "recipeInstructions": "1. Cook the lentils and rice together in water until the water is absorbed.\n2. Mash the cooked lentils and rice. Tear the bread into pieces and add it to the lentil mixture along with the remaining ingredients.\n3. Mix thoroughly and form into patties.\n4. Broil until browned, turning once.",
+  "url": null
+}

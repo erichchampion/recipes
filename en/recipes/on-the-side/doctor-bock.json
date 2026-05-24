@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "doctor-bock",
+  "name": "Doctor Bock",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "amber beers",
+    "beers",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "8 lbs Malt Extract Syrup-Light, German",
+    "1/2 lb Chocolate Malt",
+    "2 ozs Hallertauer Hops (boiling)",
+    "1/2 oz Hallertauer Hops (flavor)",
+    "1 package lager yeast",
+    "3/4 cup corn sugar (bottling)"
+  ],
+  "recipeInstructions": "1. In a 1.5-gallon container, combine the crushed chocolate malt with cold water.\n2. Bring the mixture to a boil and remove from heat.\n3. Strain out the grains when boiling begins.\n4. Add the malt extract and boiling hops to the strained liquid.\n5. Continue boiling for 60 minutes.\n6. During the final 15-20 minutes, add the flavor hops.\n7. Sparge with cold water and transfer the mixture to a fermentation vessel.\n8. Pitch the yeast when the mixture is cool.\n9. Bottle the beer once fermentation is complete.",
+  "url": null
+}

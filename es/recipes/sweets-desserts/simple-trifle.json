@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-trifle",
+  "name": "Trifle sencillo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres"
+  ],
+  "recipeIngredient": [
+    "350 g (12 oz) de bizcocho sin grasa",
+    "225 g (8 oz) de fresas congeladas, descongeladas",
+    "1 plátano grande",
+    "45 ml (3 cucharadas) de zumo de naranja",
+    "250 g (9 oz) de yogur griego",
+    "15 g (mitad de una onza) de almendras fileteadas"
+  ],
+  "recipeInstructions": "1. Cortar el bizcocho en cuadrados de 5 cm (2 pulgadas) y colocarlos en un bol mediano para servir.\n2. Disponer las fresas descongeladas sobre los cuadrados de bizcocho.\n3. Pelar y cortar el plátano en rodajas, y colocarlas sobre las fresas.\n4. Verter el zumo de naranja sobre la fruta.\n5. Cubrir con yogur griego.\n6. Espolvorear las almendras fileteadas por encima.\n7. Refrigerar el trifle durante al menos 30 minutos antes de servir.",
+  "url": null
+}

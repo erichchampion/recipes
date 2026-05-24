@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "bohna-soup",
+  "name": "Sopa de Bohna",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 lb. de judías secas",
+    "2 litros de agua",
+    "2 tazas de leche",
+    "Sal y pimienta al gusto",
+    "2 cucharadas de mantequilla",
+    "3 rebanadas de pan, cortadas en cubos"
+  ],
+  "recipeInstructions": "1. Remojar las judías durante la noche en suficiente agua para cubrirlas por completo.\n2. Escurrir las judías, luego cubrirlas con agua fresca salada o caldo de jamón y hervir hasta que estén tiernas. Dejar un poco de líquido en las judías.\n3. Añadir la leche y calentar a fuego lento.\n4. En una sartén separada, dorar la mantequilla suavemente, agregar los cubos de pan y remover hasta que estén recubiertos y ligeramente dorados.\n5. Doblar el pan en la sopa, servir en un bol y disfrutar caliente.",
+  "url": null
+}

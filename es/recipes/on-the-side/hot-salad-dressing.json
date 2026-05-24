@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-salad-dressing",
+  "name": "Aderezo para Ensalada Caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "ensaladas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de grasa (puede ser de pavo, pollo o tocino)",
+    "1 cucharada de mantequilla",
+    "1 cucharadita de harina",
+    "2 cucharaditas de azúcar",
+    "1/2 cucharadita de mostaza en polvo",
+    "1/8 cucharadita de pimienta negra",
+    "1/2 cucharadita de sal",
+    "1/2 taza de vinagre",
+    "1 yema de huevo"
+  ],
+  "recipeInstructions": "1. Utilice grasa de pavo, pollo o tocino si lo prefiere.\n2. Derrita la grasa o mantequilla y añada la harina, removiendo constantemente.\n3. Incorpore el vinagre y continúe removiendo hasta que la mezcla espese.\n4. Mezcle el azúcar, la mostaza, la sal y la pimienta.\n5. Combine esta mezcla con la parte líquida.\n6. Cocine durante 4 minutos.\n7. Vierta la yema de huevo batida y mezcle bien.\n8. Devuelva a fuego lento y cocine por un minuto más.",
+  "url": null
+}

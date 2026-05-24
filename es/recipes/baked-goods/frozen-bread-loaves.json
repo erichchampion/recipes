@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "frozen-bread-loaves",
+  "name": "Panes de pan congelados",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "Olla de cocción lenta (modelo recomendado: 11/79)",
+    "Máquina de hacer pan eléctrica (BCXV75A)",
+    "Pan de pan congelado",
+    "Mantequilla o aceite vegetal"
+  ],
+  "recipeInstructions": "1. Coloca el pan de pan congelado en un molde para hornear engrasado.\n2. Cubre el molde con papel de aluminio y colócalo dentro de la olla de cocción lenta.\n3. Configura la olla a temperatura baja y cocina durante 2-3 horas, o hasta que el pan esté descongelado y empezando a subir.\n4. Aumenta la temperatura a alta y continúa cocinando durante 2-3 horas más, o hasta que la corteza esté dorada y un palillo insertado en el centro del pan salga limpio.",
+  "url": null
+}

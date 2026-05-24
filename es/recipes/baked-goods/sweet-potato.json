@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-potato",
+  "name": "Papas dulces",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina sin blanquear",
+    "1/2 taza de azúcar moreno, compactado",
+    "2-1/2 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de canela",
+    "1/4 cucharadita de nuez moscada",
+    "1/4 cucharadita de jengibre",
+    "1/4 cucharadita de guindilla",
+    "1/4 cucharadita de clavos de olor",
+    "1 clara de huevo batida",
+    "1/2 taza de puré de manzana",
+    "1 taza de zumo de naranja a temperatura ambiente",
+    "1 cucharadita de extracto de vainilla",
+    "1 batata (12 onzas), asada y machacada"
+  ],
+  "recipeInstructions": "Precalentar el horno a 350°F. Engrasar y enharinar los moldes. En un bol, mezclar la harina, el azúcar, el polvo de hornear, el bicarbonato, la canela, la nuez moscada, el jengibre, la guindilla y los clavos. En otro bol, combinar la clara batida, el puré de manzana, el zumo de naranja, el extracto de vainilla y la batata machacada. Mezclar los ingredientes secos con los húmedos hasta que estén integrados. Verter la masa en los moldes preparados. Hornear durante 15 a 20 minutos, dependiendo del tamaño del molde.",
+  "url": null
+}

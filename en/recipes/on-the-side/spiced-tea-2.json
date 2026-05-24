@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "spiced-tea-2",
+  "name": "Spiced Tea",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "side dishes",
+    "tea"
+  ],
+  "recipeIngredient": [
+    "3 cups pineapple juice",
+    "1/2 cup fresh lemon juice",
+    "3 cups cold water",
+    "3/4 cup brown sugar",
+    "3 whole cinnamon sticks",
+    "1 teaspoon ground cloves",
+    "2 teaspoons ground allspice",
+    "4 whole tea bags"
+  ],
+  "recipeInstructions": "1. Combine the pineapple juice, lemon juice, and water in a large pot.\n2. Bring to a boil over high heat.\n3. Add the brown sugar and spices, stirring gently.\n4. Reduce heat to medium-low and simmer for 20 minutes.\n5. Remove from heat and add the tea bags.\n6. Cover and steep for an additional 10 minutes.\n7. Remove the tea bags and strain the mixture through a fine-mesh sieve.\n8. Serve hot or chilled.",
+  "url": null
+}

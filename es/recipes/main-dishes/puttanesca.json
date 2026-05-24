@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "puttanesca",
+  "name": "Puttanesca",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "2 cucharaditas de aceite de oliva",
+    "2 dientes de ajo, picados",
+    "1 costilla de apio, picada",
+    "1 pimiento rojo dulce, picado",
+    "(opcional)",
+    "1 lata de tomates pera italianos, 3 onzas",
+    "8 anchas enlatadas, picadas",
+    "8 aceitunas verdes rellenas, rebanadas",
+    "8 aceitunas negras sin hueso, rebanadas",
+    "1 cucharadita de alcaparras",
+    "1/4 cucharadita de pimentón rojo seco"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una sartén grande.\n2. Saltear el ajo, el apio y el pimiento rojo hasta que estén suaves.\n3. Triturar los tomates y añadirlos a la sartén junto con las anchas.\n4. Cocinar a fuego lento durante 10 minutos.\n5. Incorporar las aceitunas, las alcaparras, el basilico y el pimentón rojo.\n6. Cocinar a fuego lento sin cubrir durante 20 minutos adicionales.\n7. Servir con pasta caliente salteada con mantequilla.",
+  "url": null
+}

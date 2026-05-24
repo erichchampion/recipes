@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "the-best-egg-salad",
+  "name": "La mejor ensalada de huevos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de mayonesa",
+    "1/4 taza de crema agria",
+    "3 cucharadas de mostaza de Dijon",
+    "1/4 cucharadita de pimentón húngaro, dulce o picante",
+    "12 huevos grandes, cocidos y pelados",
+    "8 onzas de tocino grueso, cocido crujiente y desmenuzado",
+    "6 cebolletas, picadas finamente",
+    "2 cucharadas de rábano blanco preparado, o al gusto",
+    "Sal, al gusto",
+    "Pimienta negra recién molida, al gusto"
+  ],
+  "recipeInstructions": "1. En un bol pequeño, bate la mayonesa, la crema agria, la mostaza y el pimentón con un batidor.\n2. En un bol mediano, combina los huevos, el tocino y las cebolletas.\n3. Agrega la mezcla de mayonesa al gusto.\n4. Incorpora el rábano blanco y sazónalo con sal y pimienta.",
+  "url": null
+}

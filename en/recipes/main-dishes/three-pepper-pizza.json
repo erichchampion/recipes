@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "three-pepper-pizza",
+  "name": "Three-Pepper Pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "diabetic",
+    "italian",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 pizza crust 10-inch ready made, partially cooked",
+    "1 1/2 cups mozzarella cheese, shredded",
+    "1/2 teaspoon Italian seasoning, dried",
+    "1 medium green pepper, chopped",
+    "1 medium red pepper, chopped",
+    "1 medium yellow pepper, chopped"
+  ],
+  "recipeInstructions": "1 Preheat oven to 425°F.\n2 Lightly grease a 12-inch round pizza pan.\n3 Spread half of the cheese on the crust.\n4 Sprinkle with Italian seasoning.\n5 Arrange peppers evenly over the top.\n6 Sprinkle with remaining cheese.\n7 Bake at 425°F for 8-10 minutes, or until crust is deep golden brown and cheese is melted.",
+  "url": null
+}

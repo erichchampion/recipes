@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "mickey-s-lasagna",
+  "name": "Lasaña de Mickey",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "favoritos",
+    "plato principal",
+    "pasta",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "8 oz de pasta para lasaña",
+    "1 lb de queso mozzarella"
+  ],
+  "recipeInstructions": "1. Cocina la pasta para lasaña según las instrucciones del paquete hasta que quede al dente.\n2. Precalienta el horno a 375°F (190°C).\n3. Coloca capas de pasta cocida, queso mozzarella y otros ingredientes en un plato para hornear.\n4. Hornea durante 25-30 minutos o hasta que esté caliente y el queso se haya derretido y formado burbujas.\n5. Apaga el horno cuando esté listo.",
+  "url": null
+}

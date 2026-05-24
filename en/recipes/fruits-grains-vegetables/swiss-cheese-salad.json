@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "swiss-cheese-salad",
+  "name": "Swiss-Cheese Salad",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "cheese",
+    "eggs",
+    "salads"
+  ],
+  "recipeIngredient": [
+    "1/2 lb Swiss cheese, cubed",
+    "6 Eggs",
+    "1 1/2 tbsp Mustard, dry",
+    "1 tsp Horseradish",
+    "1/2 tsp Salt",
+    "1/8 tsp Pepper",
+    "1/8 tsp Cumin, ground",
+    "1/2 cup Sour cream"
+  ],
+  "recipeInstructions": "1. Hard boil the eggs and chop them.\n2. Mix the cheese and boiled eggs in a bowl.\n3. Combine the sour cream, mustard, horseradish, salt, pepper, and cumin in another bowl.\n4. Fold in the cheese and egg mixture.\n5. Refrigerate for about 1 hour.\n6. Serve on a bed of lettuce.",
+  "url": null
+}

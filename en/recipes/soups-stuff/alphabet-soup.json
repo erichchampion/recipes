@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "alphabet-soup",
+  "name": "Alphabet Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "pasta",
+    "restaurants",
+    "soups",
+    "veget soup"
+  ],
+  "recipeIngredient": [
+    "1/4 cup Carrots, diced",
+    "1/4 cup Rutabaga, diced",
+    "1/4 cup Celery, diced",
+    "1/4 cup Onion, diced",
+    "1 cup Crushed tomatoes",
+    "1/4 cup Peas",
+    "1/4 cup Frozen green beans",
+    "2 tablespoons Cooked pearl barley, cooled",
+    "1/4 cup Cooked alphabet pasta, cooled",
+    "2 cups Water",
+    "2 Chicken bouillon cubes",
+    "2 Beef bouillon cubes",
+    "2 tablespoons Cornstarch dissolved in 1/4 cup Water"
+  ],
+  "recipeInstructions": "1. In a soup pot, combine water and bouillon. Bring to boil.\n2. Simmer, covered, for 15 minutes.\n3. Add carrots, rutabaga, celery, and onions. Simmer for an additional 15 minutes or until tender but not mushy.\n4. Cook barley and alphabet pasta separately, rinse, drain, and cool them.\n5. After the vegetables are tender, add tomatoes, peas, and green beans. Simmer for an additional 5 minutes.\n6. Stir in cornstarch and water mixture to thicken slightly.\n7. Add cooled barley and pasta.\n8. Heat only long enough to warm all ingredients.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "southwest-guacamole",
+  "name": "Guacamole del suroeste",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "mexicano",
+    "tentempié"
+  ],
+  "recipeIngredient": [
+    "5 aguacates maduros, pelados y sin hueso",
+    "4 dientes de ajo, finamente picados",
+    "1 taza de tomates picados (de un tomate mediano)",
+    "1/4 taza de jugo de limón",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Machaca los aguacates en un bol mediano hasta obtener una textura ligeramente granulosa.\n2. Mezcla los ingredientes restantes con el aguacate.\n3. Tapa y refrigera durante 1 hora antes de servir. Rinde 3 tazas de dip.",
+  "url": null
+}

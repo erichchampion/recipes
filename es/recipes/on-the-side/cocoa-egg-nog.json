@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cocoa-egg-nog",
+  "name": "Chocolate con leche de huevo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "chocolate",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 clara de huevo",
+    "1 cucharadita de azúcar o miel",
+    "1 cucharadita de cacao en polvo",
+    "1/4 taza de leche entera fría",
+    "1/2 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Bate la clara de huevo hasta obtener picos firmes.\n2. Añade lentamente el azúcar, el cacao y una pizca de sal a la clara batida. Mezcla bien hasta que esté combinado.\n3. Incorpora lentamente la leche fría y el extracto de vainilla a la mezcla.\n4. Bate con un batidor giratorio hasta que todos los ingredientes estén completamente integrados.",
+  "url": null
+}

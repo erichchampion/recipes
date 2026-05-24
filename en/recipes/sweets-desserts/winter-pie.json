@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "winter-pie",
+  "name": "Winter Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Sugar",
+    "1 tbsp Cornstarch",
+    "1/2 tsp Cinnamon",
+    "1/4 tsp Cloves",
+    "1/4 tsp Nutmeg",
+    "1/4 tsp Salt",
+    "1 cup Seedless raisins",
+    "1/2 cup Finely ground carrot",
+    "1/2 cup Hot water",
+    "1 cup Coarsely chopped apple"
+  ],
+  "recipeInstructions": "1. In a bowl, mix the sugar, cornstarch, cinnamon, cloves, nutmeg, salt, finely ground carrot, and seedless raisins.\n2. Gradually add hot water to the mixture until it reaches the desired consistency.\n3. Place the cooked mixture between two crusts in a pie dish.\n4. Bake at 375°F for 25 minutes.",
+  "url": null
+}

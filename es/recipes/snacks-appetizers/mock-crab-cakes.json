@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-crab-cakes",
+  "name": "Tortillas de cangrejo falso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "postres",
+    "mariscos",
+    "tentempiés",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 tazas de calabacín rallado",
+    "1 taza de pan rallado italiano",
+    "2 huevos batidos",
+    "1 cucharada de mayonesa",
+    "1 cucharadita de especia para cangrejo o al gusto",
+    "Cebolla rallada (opcional)",
+    "Apio rallado (opcional)"
+  ],
+  "recipeInstructions": "1. Ralla el calabacín.\n2. Mezcla todos los ingredientes en un bol.\n3. Forma la mezcla en hamburguesas.\n4. Calienta aceite en una sartén a fuego medio.\n5. Fríe las hamburguesas hasta que estén doradas por ambos lados.",
+  "url": null
+}

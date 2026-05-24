@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-with-sausage-and-peppers",
+  "name": "Spaguetis con salchicha y pimientos",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "pasta",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 libra de salchicha de pavo ahumada, cortada en trozos de 1 pulgada",
+    "2 pimientos verdes, rebanados finamente",
+    "2 pimientos rojos dulces, rebanados finamente",
+    "1 cebolla mediana, cortada por la mitad y rebanada finamente",
+    "2 latas de 400 g de tomates troceados con jugos",
+    "3 dientes de ajo, picados",
+    "6 gotas de salsa picante",
+    "1 cucharadita de pimentón dulce",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta cayena",
+    "1/2 taza de caldo de pollo",
+    "2 cucharadas de maicena",
+    "12 onzas de espaguetis, cocidos y escurridos"
+  ],
+  "recipeInstructions": "En una olla holandesa, dora la salchicha a fuego medio. Añade los pimientos y la cebolla; sofríe durante 2 minutos. Agrega los tomates troceados con jugos, el ajo, la salsa picante, el pimentón dulce, la sal y la pimienta cayena al caldero. Cocina y revuelve hasta que las verduras estén tiernas.\nCombina el caldo de pollo y la maicena en un bol aparte. Incorpora esta mezcla a la olla con la salchicha, revolviendo continuamente. Lleva la salsa a ebullición.\nUna vez que hierva, reduce el fuego a bajo y cocina hasta que espese. Añade los espaguetis cocidos a la salsa y continúa cocinando durante 5 minutos, revolviendo ocasionalmente.",
+  "url": null
+}

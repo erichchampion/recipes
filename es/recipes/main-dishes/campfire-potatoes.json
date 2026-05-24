@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "campfire-potatoes",
+  "name": "Papas a la fogata",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecue",
+    "desayuno",
+    "plato principal",
+    "patatas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "5 patatas medianas, peladas y cortadas en rodajas finas",
+    "1 cebolla mediana, cortada en rodajas",
+    "6 cucharadas de mantequilla o margarina",
+    "1/3 taza de queso cheddar rallado",
+    "2 cucharadas de perejil fresco picado",
+    "1 cucharada de salsa Worcestershire",
+    "Sal y pimienta al gusto",
+    "1/3 taza de caldo de pollo"
+  ],
+  "recipeInstructions": "Coloca las patatas y la cebolla sobre una hoja grande de papel de aluminio con mantequilla. Mezcla el queso, el perejil, la salsa Worcestershire, la sal y la pimienta; espolvorea sobre las patatas. Dobla el papel de aluminio alrededor de las patatas y añade el caldo. Sella bien los bordes del papel de aluminio. Asa a la parrilla, cubierto, sobre brasas medianas durante 35 a 40 minutos o hasta que las patatas estén tiernas.",
+  "url": null
+}

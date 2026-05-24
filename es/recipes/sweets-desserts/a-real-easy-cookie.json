@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "a-real-easy-cookie",
+  "name": "Una Galleta Realmente Fácil",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de azúcar",
+    "Galletas Graham",
+    "Mitades de nuez",
+    "2 palitos de mantequilla"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla y el azúcar juntos en una cacerola a fuego medio hasta que hierva.\n2. Continúa hirviendo durante dos minutos, luego retíralo del fuego.\n3. Coloca las galletas Graham sobre una bandeja para hornear forrada con papel aluminio.\n4. Dispone las mitades de nuez sobre cada galleta.\n5. Vierte la mezcla de mantequilla y azúcar derretida uniformemente sobre las galletas Graham.\n6. Hornea a 180 °C durante 15 minutos en la rejilla superior del horno.\n7. Deja enfriar completamente antes de servir.",
+  "url": null
+}

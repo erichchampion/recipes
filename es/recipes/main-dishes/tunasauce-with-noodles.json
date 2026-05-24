@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "tunasauce-with-noodles",
+  "name": "Salsa de atún con fideos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "etnica",
+    "pescado",
+    "plato principal",
+    "pasta",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "5 oz de queso mozzarella",
+    "2 latas de atún en agua, escurrido",
+    "1 cucharada de pasta de tomate",
+    "6 oz de queso cottage, puré",
+    "1/2 taza de crema de leche",
+    "1 manojo de perejil, picado finamente",
+    "Sal",
+    "Pimienta",
+    "Fideos cocidos (4 raciones)"
+  ],
+  "recipeInstructions": "1. Coloca el queso, el atún, la pasta de tomate, el queso cottage, la crema de leche y el perejil en una sartén y mezcla bien.\n2. Sazona con sal y pimienta al gusto.\n3. Lleva a ebullición y sirve inmediatamente sobre los fideos.",
+  "url": null
+}

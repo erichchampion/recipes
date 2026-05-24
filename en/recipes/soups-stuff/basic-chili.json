@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-chili",
+  "name": "Basic Chili",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "2 pounds chili meat",
+    "1 large onion, chopped",
+    "2 cloves garlic, minced",
+    "2 tablespoons oil",
+    "2 teaspoons cumin",
+    "1 tablespoon chili powder",
+    "salt and pepper",
+    "3 cups canned tomatoes with juice",
+    "1 cup water"
+  ],
+  "recipeInstructions": "1. In a large pot, sauté the meat, onion, and garlic in oil over medium heat until browned.\n2. Stir in cumin, chili powder, salt, and pepper.\n3. Add the tomatoes, breaking them up into small pieces as you add them.\n4. Add water and mix well.\n5. Simmer over low heat, uncovered, for 1-2 hours, stirring occasionally to prevent sticking and adding more water if necessary.\n6. Makes 6-8 servings.",
+  "url": null
+}

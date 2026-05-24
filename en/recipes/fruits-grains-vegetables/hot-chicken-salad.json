@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-chicken-salad",
+  "name": "Hot Chicken Salad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "main dish",
+    "poultry",
+    "salads"
+  ],
+  "recipeIngredient": [
+    "4 cups Cold chopped chicken",
+    "2/3 cup Finely cut chopped almonds",
+    "1 teaspoon Salt",
+    "1 cup Grated cheddar cheese",
+    "3/4 cup Cream of chicken soup",
+    "1 1/2 cups Crushed potato chips",
+    "2 tablespoons Lemon juice",
+    "3/4 cup Mayonnaise",
+    "1/2 teaspoon MSG",
+    "2 cups Chopped celery",
+    "2 pimentos, cut fine"
+  ],
+  "recipeInstructions": "1. Combine all ingredients except cheese, chips, and almonds.\n2. Place the mixture in a large rectangular dish.\n3. Top with cheese, chips, and chopped pimentos.\n4. Let stand overnight in the refrigerator.\n5. Bake at 400°F oven for 20-25 minutes.",
+  "url": null
+}

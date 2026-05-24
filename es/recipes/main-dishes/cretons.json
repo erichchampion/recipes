@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cretons",
+  "name": "Cretones",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne picada de cerdo",
+    "1 taza de migas de pan secas",
+    "1 taza de leche",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra",
+    "1/2 cucharadita de clavos de olor",
+    "1/2 cucharadita de canela en polvo",
+    "1/2 taza de cebolla rallada"
+  ],
+  "recipeInstructions": "1. Coloca la carne picada, las migas de pan, la leche, la sal, la pimienta, los clavos y la canela en una cacerola.\n2. Mezcla bien y cubre.\n3. Cocina a fuego lento durante 1 hora, removiendo ocasionalmente.\n4. Vierte la mezcla en un bol y refrigera.",
+  "url": null
+}

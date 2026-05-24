@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "crock-pot-italian-beef-2",
+  "name": "Cazuela de ternera italiana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "italiana",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "3-5 kg de solomillo",
+    "1 sobre de mezcla para aderezo Good Seasons Italian Dressing Mix",
+    "1 taza de agua",
+    "1 sobre de mezcla para salsa Au Jus",
+    "2 cucharaditas de condimento italiano",
+    "6 pimientos Pepperoncini (opcional)"
+  ],
+  "recipeInstructions": "1. Mezclar el agua, la mezcla de salsa, el aderezo y el condimento italiano.\n2. Verter la mezcla sobre el solomillo en la olla de cocción lenta.\n3. Añadir los pimientos si se desea.\n4. Cocinar a fuego lento durante aproximadamente 2 horas.\n5. Desmenuzar el solomillo y cocinar por una hora adicional.\n6. Servir en panecillos para hamburguesa.",
+  "url": null
+}

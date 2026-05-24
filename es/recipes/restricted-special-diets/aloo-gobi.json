@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "aloo-gobi",
+  "name": "Aloo Gobi",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "asiático",
+    "étnico",
+    "indio",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 coliflor",
+    "3/4 cucharadita de cúrcuma",
+    "4 patatas",
+    "1 cucharadita de polvo de chile rojo",
+    "1/4 taza de aceite",
+    "1 cucharadita de semillas de comino",
+    "1 trozo de jengibre fresco de 1 pulgada",
+    "3 dientes de ajo"
+  ],
+  "recipeInstructions": "1. Cortar la coliflor en floretes.\n2. Cuber las patatas.\n3. Calentar el aceite en una sartén y saltear las semillas de comino durante aproximadamente un minuto.\n4. Añadir el ajo y el jengibre, removiendo constantemente.\n5. Incorporar las patatas y cocinar hasta que empiecen a ablandarse.\n6. Agregar el polvo de chile rojo y la cúrcuma, y remover bien.\n7. Añadir los tomates y reducir a fuego lento durante unos 5 minutos.\n8. Incorporar los floretes de coliflor y cocinar a fuego alto durante aproximadamente un minuto.\n9. Bajar el fuego, tapar la sartén y dejar cocer a fuego lento durante unos 15 minutos hasta que el curry esté húmedo-seco.",
+  "url": null
+}

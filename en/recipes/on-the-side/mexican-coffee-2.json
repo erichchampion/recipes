@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-coffee-2",
+  "name": "Mexican Coffee",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "coffee",
+    "mexican",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup Water",
+    "3 tbsp Coarsely Ground Coffee",
+    "1 Small Cinnamon Stick",
+    "Dark Brown Sugar"
+  ],
+  "recipeInstructions": "1. Place water in a heavy saucepan and bring to a boil.\n2. Add coffee and stir well.\n3. Add cinnamon stick.\n4. Return to a boil; then remove from heat until bubbling stops.\n5. Remove from heat, strain into mug.\n6. Sweeten with dark brown sugar.",
+  "url": null
+}

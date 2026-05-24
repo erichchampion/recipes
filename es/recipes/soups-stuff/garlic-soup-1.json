@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "garlic-soup-1",
+  "name": "Sopa de Ajo #1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 dientes de ajo, machacados",
+    "2 cucharadas de aceite vegetal",
+    "2 rebanadas de pan blanco",
+    "4 tazas de caldo de pollo",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "1 huevo grande, ligeramente batido"
+  ],
+  "recipeInstructions": "1. Cortar el pan en trozos pequeños.\n2. Calentar el aceite vegetal en una olla grande a fuego medio.\n3. Añadir el ajo machacado y saltear hasta que fragante, unos 30 segundos.\n4. Incorporar el caldo de pollo, la sal y la pimienta.\n5. Reducir el fuego a bajo y añadir el pan.\n6. Dejar cocinar durante 10 minutos, removiendo ocasionalmente.\n7. Batir el huevo en un bol aparte.\n8. Verter la mezcla de huevo en la olla y remover suavemente hasta que se caliente.",
+  "url": null
+}

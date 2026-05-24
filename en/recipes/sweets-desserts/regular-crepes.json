@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "regular-crepes",
+  "name": "Regular Crepes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "crepes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "Susan Aaronson",
+    "1 cup Flour",
+    "2 Eggs, beaten",
+    "1 tablespoon Melted butter",
+    "1/8 teaspoon Salt"
+  ],
+  "recipeInstructions": "1. Add milk to the beaten eggs and whisk together.\n2. Gradually add the flour, whisking constantly until the mixture is smooth.\n3. Add butter and salt. The mixture should be the consistency of heavy cream.\n4. Set a strainer over a bowl and pour the batter into the strainer to ensure a smooth crepe batter.",
+  "url": null
+}

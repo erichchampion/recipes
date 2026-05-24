@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "shrimp-jumbalaya",
+  "name": "Arroz con camarones jumbo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco",
+    "camarones"
+  ],
+  "recipeIngredient": [
+    "1 lata de caldo de ternera",
+    "1 lata de tomates Rotel con chiles verdes",
+    "1 lata de setas",
+    "1/2 taza de apio, picado",
+    "1/2 taza de pimiento rojo, picado",
+    "1/2 taza de cebolla, picada",
+    "1/2 taza de cebolletas, picadas",
+    "1/2 paleta de margarina",
+    "1 1/2 tazas de arroz crudo",
+    "1 libra de gamberos, pelados y desvenados"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes en la olla arriera.\n2. Mezclar para combinar todo.\n3. Enchufar la olla arriera durante 20 minutos.\n4. Revolver ocasionalmente durante la cocción.",
+  "url": null
+}

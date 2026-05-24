@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-with-fresh-tomato-fresh-herbs",
+  "name": "Pasta con Tomate Fresco y Hierbas Frescas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite de oliva",
+    "2 dientes de ajo medianos, picados finamente",
+    "1,5 kg de tomates Roma o cualquier tomate firme y maduro, sin semillas, pelados y cortados en trozos gruesos",
+    "2 cucharadas de hojas de albahaca, picadas finamente",
+    "2 cucharadas de perejil italiano picado",
+    "2 cucharaditas de orégano fresco picado",
+    "2 cucharaditas de tomillo fresco picado",
+    "1 cucharadita de romero fresco picado",
+    "Pasta fina o media"
+  ],
+  "recipeInstructions": "1. En una sartén grande, calentar el aceite de oliva a fuego medio.\n2. Añadir el ajo y, tan pronto como empiece a chisporrotear, incorporar los tomates y las hierbas.\n3. Saltear hasta que se espese el jugo de los tomates, 7 a 10 minutos.\n4. Servir sobre pasta cocida.",
+  "url": null
+}

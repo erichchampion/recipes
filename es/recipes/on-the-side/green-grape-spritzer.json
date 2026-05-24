@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "green-grape-spritzer",
+  "name": "Spritz de uva verde",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "diabético",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 tazas de uvas verdes",
+    "1 taza de jugo de piña frío",
+    "1 taza de agua mineral fría"
+  ],
+  "recipeInstructions": "1. Combinar las uvas y el jugo de piña en un recipiente para licuadora.\n2. Tapar; mezclar hasta obtener una consistencia suave.\n3. Colar para eliminar las pieles de uva.\n4. Devolver el líquido al recipiente de la licuadora.\n5. Agregar el agua mineral.\n6. Mezclar durante 10 segundos para combinar.\n7. Servir inmediatamente.",
+  "url": null
+}

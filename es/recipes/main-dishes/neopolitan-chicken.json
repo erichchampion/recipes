@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "neopolitan-chicken",
+  "name": "Pollo Napolitano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "cocción lenta"
+  ],
+  "recipeIngredient": [
+    "3 libras de pollo, cortado en trozos",
+    "1 cebolla mediana, picada",
+    "4 papas medianas, cortadas en dados",
+    "1 pimiento verde grande, en rodajas",
+    "1/4 taza de perejil picado",
+    "1 diente de ajo, picado finamente",
+    "1 cucharadita de sal",
+    "1 pizca de pimienta",
+    "1/2 cucharadita de orégano seco",
+    "1 frasco de 500 g de salsa de espagueti"
+  ],
+  "recipeInstructions": "1. Mezclar el pollo, la cebolla, las papas, el pimiento verde, el perejil, el ajo, la sal, la pimienta y el orégano en una olla de cocción lenta.\n2. Añadir la salsa de espagueti a la olla.\n3. Cocinar a fuego lento durante 6-8 horas o a fuego alto durante 3-4 horas.\n4. Retirar la espuma que se forme en la superficie del líquido.\n5. Servir el pollo y las verduras en cuencos. Opcionalmente, se puede omitir las papas y servir la mezcla sobre espagueti.",
+  "url": null
+}

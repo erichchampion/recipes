@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "egg-in-a-hole",
+  "name": "Egg in a Hole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breads",
+    "breakfast",
+    "brunch",
+    "dairy",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 slice of bread",
+    "1 large egg",
+    "butter"
+  ],
+  "recipeInstructions": "1. Tear a piece of bread about the size of a half-dollar coin.\n2. Melt some butter in a hot pan over medium heat.\n3. Crack an egg into the hole made in the center of the bread slice and pour it onto the pan.\n4. Cook the egg until the yolk is firm, about 1-2 minutes.\n5. Flip the bread slice for a second to finish cooking the top side.\n6. Carefully turn the bread slice upright on a plate.",
+  "url": null
+}

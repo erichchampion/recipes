@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "bloody-mary",
+  "name": "Mary sangrienta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "bebidas secundarias",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz de vodka",
+    "3 oz de jugo de tomate",
+    "1/2 oz de jugo de limón",
+    "1/2 cucharadita de salsa Worcestershire",
+    "1 pizca de salsa Tabasco, o al gusto",
+    "1 pizca de sal de apio, o al gusto",
+    "1 pizca de sal",
+    "1 pizca de pimienta",
+    "1 tallo de apio",
+    "1 gajo de limón"
+  ],
+  "recipeInstructions": "1. Mezclar el vodka, jugo de tomate, jugo de limón, salsa Worcestershire, salsa Tabasco, sal de apio, sal y pimienta en un vaso mezclador.\n2. Llenar el vaso mezclador con hielo picado.\n3. Agitar bien hasta enfriar.\n4. Colar en un vaso alto o collins lleno de cubitos de hielo.\n5. Decorar con un tallo de apio y un gajo de limón.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "drop-molasses-cookies",
+  "name": "Drop Molasses Cookies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 cup molasses (light)",
+    "1 cup brown sugar",
+    "3/4 cup shortening",
+    "1 egg",
+    "1 tsp ginger",
+    "1 tsp cinnamon",
+    "2 tsp baking soda",
+    "2 cups buttermilk",
+    "4 1/4 cups flour"
+  ],
+  "recipeInstructions": "1. Mix all ingredients together, adding just enough flour to make a stiff dough.\n2. Let the dough stand overnight.\n3. Bake at 375°F for about 15 minutes.",
+  "url": null
+}

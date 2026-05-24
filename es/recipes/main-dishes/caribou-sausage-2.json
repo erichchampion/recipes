@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "caribou-sausage-2",
+  "name": "Salchicha de Caribú #2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "juego",
+    "plato principal",
+    "carne",
+    "salchichas"
+  ],
+  "recipeIngredient": [
+    "4 lb de carne de caribú picada gruesa",
+    "1 lb de tocino finamente picado",
+    "1 cucharadita de sal",
+    "1 cucharadita de tomillo",
+    "1 pizca de pimienta de todos los santos",
+    "2 cucharadas de azúcar",
+    "1 cucharadita de cilantro",
+    "1 1/2 cucharaditas de semillas de mostaza",
+    "6 dientes de ajo picados finamente",
+    "2 cucharadas de pimienta negra",
+    "1 taza de agua fría"
+  ],
+  "recipeInstructions": "N.B.: Si la salchicha va a ser congelada, no utilice tomillo, ya que se vuelve tóxico al congelarse. Sustitúyalo por hierbabuena o tomillo.\nMezclar todos los ingredientes y amasar bien antes de rellenar las tripas de cerdo.\nFinalizar según la receta de Salchicha de Caribú #1.",
+  "url": null
+}

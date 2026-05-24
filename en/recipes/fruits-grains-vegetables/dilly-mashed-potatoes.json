@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "dilly-mashed-potatoes",
+  "name": "Dilly Mashed Potatoes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "potatoes",
+    "side dishes",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "2 lbs potatoes, peeled and cubed",
+    "2 tablespoons butter or margarine, softened",
+    "1/4 cup milk",
+    "1/4 cup sour cream",
+    "1/2 teaspoon salt",
+    "1/4 teaspoon pepper",
+    "1/2 teaspoon dried dill"
+  ],
+  "recipeInstructions": "1. Cook potatoes in boiling water until tender.\n2. Drain the potatoes.\n3. Mash the potatoes with remaining ingredients.",
+  "url": null
+}

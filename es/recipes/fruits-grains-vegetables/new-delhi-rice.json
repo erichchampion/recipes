@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "new-delhi-rice",
+  "name": "Arroz de Nueva Delhi",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de margarina",
+    "1 cebolla picada",
+    "1/2 cucharadita de polvo de curry",
+    "1 cucharadita de sal",
+    "Pimienta molida al gusto",
+    "1 lata de caldo de pollo",
+    "1 taza de jugo de naranja",
+    "1 taza de arroz",
+    "1/2 taza de pasas",
+    "1/4 taza de almendras laminadas",
+    "Perejil picado"
+  ],
+  "recipeInstructions": "1. En una sartén grande, derretir la margarina y cocinar las cebollas (estacionadas con curry, sal y pimienta) hasta que estén suaves.\n2. Agregar el caldo, el jugo de naranja, el arroz y las pasas; llevar a ebullición.\n3. Reducir el fuego, tapar y dejar cocinar 20 minutos, o hasta que el arroz esté tierno y el líquido se haya absorbido.\n4. Incorporar las almendras.\n5. Decorar con perejil picado.",
+  "url": null
+}

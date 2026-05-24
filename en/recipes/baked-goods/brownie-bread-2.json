@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "brownie-bread-2",
+  "name": "Brownie Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "dessert",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 cup Water",
+    "2 tbsp Water",
+    "1/2 cup Unsweetened cocoa powder",
+    "2 1/2 tsp Active dry yeast",
+    "3 cups Bread flour",
+    "3/4 cup Sugar",
+    "1 1/2 tsp Salt",
+    "2 tbsp Oil",
+    "1 Egg",
+    "1 Egg yolk",
+    "1/2 cup Walnut pieces"
+  ],
+  "recipeInstructions": "1. Bring the water to a boil.\n2. Add the cocoa and stir until completely dissolved.\n3. Let cool to room temperature.\n4. In a bowl, combine all remaining ingredients except the nuts according to your bread machine's instructions.\n5. Select the raisin bread setting.\n6. Start the machine.\n7. Add the walnut pieces at the beeper.",
+  "url": null
+}

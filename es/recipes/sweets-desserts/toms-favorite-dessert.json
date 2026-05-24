@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "toms-favorite-dessert",
+  "name": "El postre favorito de Tom",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres fríos",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "Base:",
+    "1 barra de mantequilla, derretida",
+    "3/4 taza de nueces molidas",
+    "1 taza de harina",
+    "1/2 taza de azúcar moreno",
+    "Relleno:",
+    "1 paquete de fresas o frambuesas congeladas",
+    "2 tazas de agua hirviendo",
+    "1 sobre de gelatina de frambuesa",
+    "Cobertura:",
+    "26 malvaviscos grandes",
+    "1/2 litro de nata para montar",
+    "1/2 taza de leche"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes de la base y presionar en un molde rectangular de vidrio de 23x33 cm. Hornear a 175 °C durante 15-20 minutos. Enfriar completamente.\n2. Preparar la gelatina según las instrucciones del paquete. Añadir las fresas o frambuesas congeladas y remover hasta combinar. Verter sobre la base enfriada y colocar en el refrigerador hasta que cuaje.\n3. Derretir los malvaviscos con la leche, removiendo constantemente. Dejar enfriar un poco.\n4. Montar la nata hasta obtener picos firmes. Incorporar la mezcla de malvaviscos. Verter sobre el relleno de gelatina. Refrigerar al menos 2 horas antes de servir. Conservar en el refrigerador.",
+  "url": null
+}

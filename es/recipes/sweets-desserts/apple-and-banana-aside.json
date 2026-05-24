@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-and-banana-aside",
+  "name": "Manzanas y Plátanos Apartados",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "cazuelas",
+    "postres",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "2 plátanos pelados y en rodajas",
+    "2 manzanas peladas, sin corazón y cortadas en rodajas",
+    "1/4 taza de jugo de limón"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar las rodajas de plátano y manzana.\n2. Añadir el jugo de limón a la mezcla.\n3. Remover bien hasta que todos los ingredientes estén cubiertos uniformemente con el jugo de limón.",
+  "url": null
+}

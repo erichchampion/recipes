@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "black-bread-2",
+  "name": "Pan negro",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "2 1/4 cucharaditas de levadura",
+    "2 tazas de harina de trigo para pan",
+    "1 taza de harina de centeno",
+    "1 cucharadita de semillas de eneldo",
+    "1 1/2 cucharadas de maíz molido, gruesamente molido",
+    "1 1/2 cucharaditas de granos instantáneos de café",
+    "1 1/2 cucharaditas de polvo de cacao sin azúcar",
+    "1 1/2 cucharaditas de polvo de cebolla",
+    "1 1/2 cucharaditas de sal",
+    "1 1/2 cucharadas de azúcar moreno oscuro",
+    "2 cucharadas de mantequilla o margarina",
+    "3/4 taza de agua",
+    "1/2 taza de buttermilk",
+    "1 1/2 cucharadas de melaza",
+    "1 cucharadita de jugo de limón"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en la máquina del pan y selecciona el ciclo adecuado.\n2. Cierra la tapa de manera segura antes de iniciar la máquina.\n3. Deja que la máquina complete el proceso de horneado.\n4. Retira el pan terminado de la máquina y déjalo enfriar sobre una rejilla.",
+  "url": null
+}

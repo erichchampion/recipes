@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "lamb-persillade",
+  "name": "Cordero al persilado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cerdo",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de perejil fresco picado finamente",
+    "1 cucharada de ajo picado",
+    "1/2 taza de migas de pan",
+    "1 cucharada de mostaza de Dijon",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "2 cucharadas de mantequilla derretida",
+    "2 costillas de cordero (de 6 huesos cada una)"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375 °F (190 °C).\n2. Mezclar el perejil, el ajo, las migas de pan, la mostaza de Dijon, la sal y la pimienta hasta obtener una pasta crujiente.\n3. Hornear las costillas de cordero hasta que estén muy poco hechas, aproximadamente 10 minutos.\n4. Extender la mezcla de migas sobre el cordero y presionar firmemente.\n5. Devolver al horno y cocinar hasta alcanzar el punto deseado de cocción.\nRinde para 1 costilla.",
+  "url": null
+}

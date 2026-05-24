@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "spanish-beef-roast",
+  "name": "Spanish Beef Roast",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat",
+    "meats"
+  ],
+  "recipeIngredient": [
+    "4 lb Rolled beef roast",
+    "1 large can whole tomatoes",
+    "1 jar Spanish olives with juice",
+    "1/2 cup water"
+  ],
+  "recipeInstructions": "1. Brown the roast in a large pot.\n2. Add all ingredients to the pot.\n3. Bring the mixture to a boil, then cover and simmer until the meat falls apart.",
+  "url": null
+}

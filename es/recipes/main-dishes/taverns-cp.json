@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "taverns-cp",
+  "name": "Receta: Tabernas/cp",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento"
+  ],
+  "recipeIngredient": [
+    "2 1/2 libras de carne molida magra",
+    "1 cebolla grande, cortada en cuartos",
+    "1 taza de ketchup",
+    "1 cucharadita de polvo de chile",
+    "1 cucharadita de mostaza en polvo",
+    "1 cucharadita de sal",
+    "2 tazas de caldo de carne, o agua",
+    "8 panecillos para hamburguesa, tostados"
+  ],
+  "recipeInstructions": "1. En una sartén, dora la carne molida a fuego medio hasta que ya no sea rosada. Escurre el exceso de grasa.\n2. Transfiere la carne molida dorada y los demás ingredientes (excepto los panecillos para hamburguesa) a una olla de cocción lenta.\n3. Tapa la olla de cocción lenta y cocina a temperatura baja durante 6 a 12 horas, o hasta que esté tierna.\n4. Prueba la salsa de carne y ajusta la sazón si es necesario antes de servir.\n5. Sirve cucharadas de la salsa de carne sobre los panecillos para hamburguesa tostados.",
+  "url": null
+}

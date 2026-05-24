@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "hearty-beef-stew-cp",
+  "name": "Estofado de Carne de Res Generoso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne de res para estofar, cortada en cubos de 1 pulgada",
+    "5 zanahorias, cortadas en trozos de 1 pulgada",
+    "1 cebolla grande, picada",
+    "3 tallos de apio, rebanados",
+    "1 lata de tomates picados",
+    "1/2 taza de tapioca rápida de cocción",
+    "1 clavo (entero), o",
+    "O 1/2 cucharadita de clavo molido",
+    "Sal",
+    "Pimienta"
+  ],
+  "recipeInstructions": "1. Retirar toda la grasa de la carne.\n2. Colocar todos los ingredientes en una olla de cocción lenta.\n3. Mezclar bien.\n4. Tapar y cocinar a fuego lento durante 12 horas.",
+  "url": null
+}

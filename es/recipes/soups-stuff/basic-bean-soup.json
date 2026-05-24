@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-bean-soup",
+  "name": "Sopa de frijoles básica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 cebolla pequeña, picada",
+    "1 zanahoria pequeña, picada",
+    "1 tallo de apio, picado",
+    "1 hoja de laurel",
+    "Sal y pimienta",
+    "Tomillo",
+    "Restos de verduras (apio, perejil, brócoli, etc.)",
+    "2 tazas de frijoles cocidos",
+    "3 tazas de caldo de verduras (ver receta)",
+    "1/2 cucharadita de anís molido",
+    "1/2 cucharadita de albahaca",
+    "1/2 cucharadita de orégano",
+    "1 hoja de laurel",
+    "1 cucharada de mostaza preparada",
+    "1 cucharada de pasta de tomate",
+    "1/2 cucharadita de ajo en polvo"
+  ],
+  "recipeInstructions": "1. Para preparar el caldo de verduras: Combinar todos los ingredientes en una olla grande y llevar a ebullición.\n2. Reducir el fuego y cocinar a fuego lento, cubierto, durante 30 minutos.\n3. Colar el líquido y reservar.\n4. Calentar aceite de oliva en una olla grande a fuego medio.\n5. Añadir cebolla, zanahoria y apio; saltear hasta que estén dorados.\n6. Incorporar los frijoles y el caldo de verduras. Cocinar, removiendo ocasionalmente, hasta que se calienten.\n7. Triturar los frijoles restantes y el caldo en lotes con un licuador inmersible o una batidora normal.\n8. Devolver la puré a la olla y agregar anís, albahaca, orégano, hoja de laurel, mostaza preparada, pasta de tomate y ajo en polvo.\n9. Añadir el caldo reservado y llevar a ebullición.\n10. Reducir el fuego y cocinar a fuego lento durante 15 minutos.",
+  "url": null
+}

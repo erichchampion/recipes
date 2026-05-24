@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "belgian-waffles-2",
+  "name": "Belgian Waffles",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "waffles"
+  ],
+  "recipeIngredient": [
+    "1 package Yeast, dry",
+    "2 cups Milk, lukewarm",
+    "4 Eggs, separated",
+    "1 tablespoon Vanilla",
+    "2 and 1/2 cups Flour, sifted",
+    "1/2 teaspoon Salt",
+    "1/2 cup Butter",
+    "1 tablespoon Sugar"
+  ],
+  "recipeInstructions": "1. Sprinkle yeast over warm milk; stir until dissolved.\n2. Beat egg yolks and add to yeast mixture with vanilla.\n3. Sift together flour, sugar, and salt; add to liquid ingredients.\n4. Stir in melted butter and combine thoroughly.\n5. Beat egg whites until stiff; carefully fold into the mixture.\n6. Let stand in a warm place for about 45 minutes until mixture doubles in bulk.\n7. Use 7/8 cup of the batter for each waffle.",
+  "url": null
+}

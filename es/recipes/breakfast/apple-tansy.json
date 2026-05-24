@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-tansy",
+  "name": "Manzanas de Tanacito",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "fruta",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 manzanas dulces (Golden Delicious)",
+    "2 huevos, separados",
+    "1/2 taza de azúcar",
+    "1/4 taza de harina",
+    "1/4 cucharadita de nuez moscada rallada",
+    "2 cucharadas de mantequilla",
+    "2 cucharadas de Calvados o ron",
+    "Azúcar glas y cáscara de limón"
+  ],
+  "recipeInstructions": "1. Descorar, cortar en cuartos, pelar y rallar las manzanas.\n2. Batir las yemas de huevo con el azúcar, la harina, la nuez moscada y el Calvados hasta que estén bien mezcladas con las manzanas.\n3. Montar las claras a punto de nieve y mezclarlas suavemente con la mezcla de manzanas.\n4. Calentar la mantequilla en una sartén antiadherente; añadir la mezcla de manzanas y saltear a fuego medio hasta que el fondo del omelet esté dorado (2-3 minutos).\n5. Dar la vuelta al omelet y dorar el otro lado.\n6. Colocar el omelet sobre un plato caliente y espolvorear con azúcar glas.",
+  "url": null
+}

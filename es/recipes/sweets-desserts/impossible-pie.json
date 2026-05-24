@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "impossible-pie",
+  "name": "Pastel Imposible",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tarta",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "4 huevos",
+    "1/4 taza de mantequilla o margarina",
+    "1 taza de azúcar (o 3/4 taza)",
+    "1/2 taza de harina",
+    "1/4 cucharadita de sal",
+    "1/2 cucharadita de polvo de hornear",
+    "2 tazas de leche",
+    "1 taza de coco rallado",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F (175°C).\n2. Mezclar todos los ingredientes en una licuadora hasta que estén completamente integrados.\n3. Verter la mezcla en un molde para pastel de 10 pulgadas.\n4. Hornear a 350°F (175°C) durante 1 hora.\n5. Enfriar antes de servir.",
+  "url": null
+}

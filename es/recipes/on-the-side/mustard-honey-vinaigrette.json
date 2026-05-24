@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mustard-honey-vinaigrette",
+  "name": "Vinaigreta de mostaza y miel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "postres",
+    "aderezos",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de vinagre balsámico",
+    "2 cucharaditas de miel",
+    "2 cucharaditas de mostaza dijon",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra molida",
+    "1/4 cucharadita de salsa Tabasco",
+    "2 dientes de ajo, pelados y picados finamente",
+    "3/4 taza de aceite vegetal"
+  ],
+  "recipeInstructions": "1. En un bol, batir con un batidor de globo el vinagre, la miel, la mostaza, la sal, la pimienta, la salsa Tabasco y el ajo picado.\n2. Añadir el aceite vegetal poco a poco mientras se bate continuamente hasta que la mezcla esté bien combinada.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "frozen-punch",
+  "name": "Punch congelado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "batido",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "4 latas grandes de jugo de naranja",
+    "4 latas grandes de jugo de piña",
+    "1 lata grande de piña triturada",
+    "1/2 botella de ReaLemon",
+    "2 tazas de agua",
+    "1 1/4 libras de azúcar",
+    "1 galón de sorbete de naranja",
+    "4 botellas de 7 Up"
+  ],
+  "recipeInstructions": "1. Mezclar los jugos en un contenedor muy grande.\n2. Añadir la piña a la mezcla.\n3. Calentar el agua y el azúcar hasta que el azúcar se disuelva por completo, luego agregar al jugo.\n4. Revolver todo bien y congelar.\n5. Para servir, descongelar la mezcla hasta alcanzar una consistencia de slush.\n6. Añadir el sorbete de naranja y el 7 Up, y batir hasta que esté combinado.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "eggplant-with-tomatoes",
+  "name": "Berenjenas con tomates",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "diabético",
+    "guarniciones",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 rebanadas finas de berenjena (50 g)",
+    "2 cucharadas de mantequilla (10 g)",
+    "1/4 taza de tomates enlatados (50 g)",
+    "1/2 cucharadita de cebolla picada (2 g)",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Dorar la berenjena en la mantequilla.\n2. Añadir sal y pimienta.\n3. Calentar los tomates en una sartén separada.\n4. Verter los tomates calientes sobre la berenjena.\n5. Espolvorear con cebolla picada.",
+  "url": null
+}

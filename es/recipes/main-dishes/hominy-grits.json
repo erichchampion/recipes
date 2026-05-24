@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "hominy-grits",
+  "name": "Gritas de Hominy",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 taza de hominy grits",
+    "1 cucharadita de sal",
+    "5 tazas de agua hirviendo"
+  ],
+  "recipeInstructions": "1. Agregar la sal a los hominy grits.\n2. Verter lentamente 5 tazas de agua hirviendo, removiendo constantemente.\n3. Reducir el fuego y dejar cocer a fuego lento durante 25 a 30 minutos, removiendo con frecuencia.\n4. Servir con salsa gravy o con mantequilla. Opcionalmente, agregar crema y azúcar.\n5. Enfriar las sobras, cortarlas en rebanadas y freírlas en mantequilla hasta que estén doradas.",
+  "url": null
+}

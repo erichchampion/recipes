@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "macaroni-and-tomato-casserole",
+  "name": "Macaroni and Tomato Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish",
+    "pasta",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "2 pounds Ground beef",
+    "1 cup Onion, chopped",
+    "1 1/2 cups Water",
+    "10 milliliters Garlic, minced",
+    "1/4 cup Green pepper, chopped",
+    "2 cans Tomatoes; chopped, 1 lb each",
+    "1 cup Tomato juice",
+    "Salt and pepper to taste",
+    "1/2 teaspoon Oregano",
+    "2 cups Macaroni, uncooked"
+  ],
+  "recipeInstructions": "1. Brown the ground beef, onion, green pepper, and garlic in a skillet until cooked through.\n2. Drain excess fat from the skillet.\n3. Combine the chopped tomatoes, tomato juice, drained meat mixture, salt, pepper, and oregano in a bowl.\n4. Place the combined ingredients in a crockpot.\n5. Cook on low heat for 6 to 8 hours.\n6. Stir in the uncooked macaroni and cook an additional 2 to 3 hours until the macaroni is tender.",
+  "url": null
+}

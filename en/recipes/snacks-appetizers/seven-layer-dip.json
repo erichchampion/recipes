@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "seven-layer-dip",
+  "name": "Seven Layer Dip",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "dips",
+    "mexican",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1 can Refried beans (for bottom)",
+    "2 tomatoes, diced",
+    "1 bunch sliced green onions",
+    "1 small can chopped black olives",
+    "1 cup Guacamole",
+    "1 package Taco seasoning",
+    "1 cup Sour cream",
+    "2 cups Shredded cheddar (top)"
+  ],
+  "recipeInstructions": "squeeze seeds and juice from tomato\n- Mix taco seasoning with sour cream.\n- Starting with beans and ending with cheese, layer ingredients in an 8x8-inch square pan.",
+  "url": null
+}

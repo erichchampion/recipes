@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "angel-delight",
+  "name": "Delicia Ángelica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 pequeño pastel de ángel (angel food cake)",
+    "1 caja grande de crema agria",
+    "1 sobre de pudín instantáneo de vainilla",
+    "2 tazas de leche",
+    "1 lata de relleno de tartas de cerezas"
+  ],
+  "recipeInstructions": "1. Desmenuzar el pastel de ángel en un bol.\n2. Mezclar el pudín de vainilla instantáneo con la leche y agregar la crema agria.\n3. Combinar la mezcla de pudín y crema agria con los migas de pastel en el bol.\n4. Dejar reposar en la nevera hasta que esté firme.\n5. Cubrir con relleno de tartas de cerezas y refrigerar hasta que esté frío.",
+  "url": null
+}

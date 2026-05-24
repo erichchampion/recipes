@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-chess-pie",
+  "name": "Apple Chess Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "fruits",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1 Unbaked pie shell",
+    "1 cup Sugar",
+    "1 Stick of Margarine",
+    "1 tbsp Flour",
+    "2 Eggs",
+    "1 1/2 cups Chopped Apples",
+    "1/4 tsp Cinnamon"
+  ],
+  "recipeInstructions": "1. Cream together the sugar, margarine, flour, and eggs until smooth.\n2. Fold in the chopped apples and cinnamon.\n3. Pour the mixture into an 8 inch unbaked pie shell.\n4. Bake for 10 minutes at 400 degrees Fahrenheit.\n5. Reduce the temperature to 325 degrees Fahrenheit and bake for an additional 40 minutes.",
+  "url": null
+}

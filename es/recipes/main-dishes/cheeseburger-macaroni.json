@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheeseburger-macaroni",
+  "name": "Macarrones con queso y hamburguesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 taza de mostaccioli o macarrones en forma de rodilla, sin cocinar",
+    "1 libra de carne molida",
+    "1 cebolla mediana, picada",
+    "1 lata de tomates estofados",
+    "1/4 taza de ketchup",
+    "1 taza de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Cocine la pasta según las instrucciones del paquete hasta que esté al dente. Escurra y reserve.\n2. En una sartén grande a fuego medio, dore la carne molida con la cebolla picada hasta que ya no sea rosada. Sazone con sal y pimienta si lo desea.\n3. Añada los tomates estofados y el ketchup a la sartén. Revuelva para combinar.\n4. Vierta la pasta cocida en la sartén y mezcle bien para cubrirla uniformemente.\n5. Cubra con queso cheddar rallado. Adorne si lo desea.",
+  "url": null
+}

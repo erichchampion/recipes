@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-ole-2",
+  "name": "Pollo Ole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "aves de corral",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "12 tortillas de harina, cortadas en 8 pedazos",
+    "4 tazas de pollo cocido",
+    "1 lata de sopa de pollo cremoso",
+    "1 lata de sopa de setas cremosas",
+    "1 taza de crema agria",
+    "1 cucharada de cebolla rallada",
+    "1 lata de salsa verde de chile",
+    "1 1/2 tazas de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Engrasa una olla de cocción lenta.\n2. Capa el pollo, las tortillas y la salsa en la olla de cocción lenta.\n3. Tapa y cocina a fuego lento durante 4 horas.\n4. Espolvorea el queso encima de la mezcla.\n5. Tapa nuevamente y cocina por 15 minutos adicionales.",
+  "url": null
+}

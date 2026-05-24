@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "hawaiian-punch",
+  "name": "Hawaiian Punch",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "punch",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "3 cans Large frozen Hawaiian Punch",
+    "2 cans Large frozen Orange Juice",
+    "2 quarts Ginger Ale",
+    "3 cans Large frozen Lemonade",
+    "1 quart Raspberry Sherbet"
+  ],
+  "recipeInstructions": "1. In a large punch bowl, follow can directions for each frozen juice.\n2. Spoon in raspberry sherbet and stir until combined.\n3. Slowly pour in the ginger ale around the edge of the punch bowl (2 bottles).",
+  "url": null
+}

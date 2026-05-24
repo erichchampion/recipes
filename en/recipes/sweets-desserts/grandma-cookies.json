@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "grandma-cookies",
+  "name": "Grandma Cookies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "candies",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 cup Chocolate chips",
+    "1 cup Butterscotch chips",
+    "1 cup Peanut butter",
+    "3 cups Rice Krispies"
+  ],
+  "recipeInstructions": "1. Melt the chocolate chips and butterscotch chips in a pan or double boiler.\n2. Stir in the peanut butter until smooth.\n3. Gradually add the Rice Krispies, stirring until evenly coated.\n4. Spoon the mixture onto wax paper to form cookies.\n5. Allow the cookies to cool completely in the refrigerator.\n6. Store the cooled cookies in the refrigerator.",
+  "url": null
+}

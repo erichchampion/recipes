@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "vineyard-spam-salad",
+  "name": "Ensalada de Spam del Viñedo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 lata de carne de almuerzo SPAM (12 onzas), en cubos",
+    "2/3 taza de mayonesa o aderezo para ensaladas",
+    "1 cucharada de jugo de limón",
+    "1 pizca de mostaza seca",
+    "2 tazas de uvas sin semillas",
+    "1 taza de guisantes cortados por la mitad",
+    "1/2 taza de cebolla roja finamente rebanada"
+  ],
+  "recipeInstructions": "1. En una sartén, saltee el SPAM a fuego alto durante 2 minutos, revolviendo constantemente. Retire y reserve.\n2. En un bol pequeño, mezcle la mayonesa, el jugo de limón y la mostaza seca.\n3. En un bol grande, combine las uvas, el SPAM, los guisantes y la cebolla.\n4. Aliñe con la mezcla de mayonesa.\n5. Cubra y refrigere durante 1 hora.",
+  "url": null
+}

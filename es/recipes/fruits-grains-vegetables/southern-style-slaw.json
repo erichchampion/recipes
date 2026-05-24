@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "southern-style-slaw",
+  "name": "Ensalada al estilo sureño",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 taza de aderezo ranch con yogur natural Marie",
+    "3 cucharadas de vinagre de manzana",
+    "2 cucharadas de azúcar",
+    "1 cucharadita de mostaza en polvo",
+    "1/4 cucharadita de semillas de apio",
+    "1/4 cucharadita de pimienta negra",
+    "6 tazas de col rallada",
+    "1 taza de zanahorias ralladas"
+  ],
+  "recipeInstructions": "1. En un bol mediano, mezclar el aderezo, el vinagre, el azúcar, la mostaza, las semillas de apio y la pimienta.\n2. Incorporar la col y las zanahorias; remover suavemente para revestir.\n3. Tapar el bol y refrigerar durante al menos 2 horas antes de servir.",
+  "url": null
+}

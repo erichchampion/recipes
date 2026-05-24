@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "carmel-sauce",
+  "name": "Carmel Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "a.b.c.",
+    "cakes",
+    "candies",
+    "desserts",
+    "dips",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 lb brown sugar",
+    "1 lb granulated sugar",
+    "2 oz flour",
+    "1 quart water",
+    "8 oz butter",
+    "1 tbsp vanilla extract"
+  ],
+  "recipeInstructions": "1. Combine sugars, flour, and water in a large saucepan.\n2. Heat the mixture over medium heat until it thickens, stirring occasionally (this could take as long as 30-40 minutes).\n3. Add butter to the saucepan and stir until fully incorporated.\n4. Stir in vanilla extract until well combined.",
+  "url": null
+}

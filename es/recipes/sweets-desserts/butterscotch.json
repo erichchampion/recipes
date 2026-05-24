@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "butterscotch",
+  "name": "Butterscotch",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar moreno",
+    "1/4 taza de jarabe de maíz ligero",
+    "1 taza de agua",
+    "1/4 cucharadita de sal",
+    "1/3 taza de mantequilla",
+    "1/4 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Mezclar el azúcar, el jarabe de maíz, el agua y la sal en una cacerola.\n2. Calentar a fuego lento hasta que el azúcar se disuelva.\n3. Aumentar el calor y cocinar hasta que un termómetro registre 250°F (estado de bola firme).\n4. Agregar la mantequilla y cocinar, revolviendo ocasionalmente, hasta que un termómetro registre 300°F (estado de fragilidad).\n5. Retirar del fuego, agregar el extracto de vainilla y verter en una bandeja engrasada para formar una capa de aproximadamente 1/4 de pulgada de grosor.\n6. Mientras aún esté caliente, usar un cuchillo afilado para cortar en cuadrados.\n7. Dejar enfriar por completo antes de romperlo en pedazos.",
+  "url": null
+}

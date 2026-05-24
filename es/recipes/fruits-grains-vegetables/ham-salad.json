@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-salad",
+  "name": "Ensalada de Jamón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "cerdo",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de mayonesa (marca Hellmann's)",
+    "1 taza de relish de pepinillos dulces",
+    "2 cucharaditas de sal",
+    "1/2 cucharadita de pimienta negra (molida fresca)",
+    "2 libras de jamón ahumado sin hueso, aproximadamente 6 tazas de cubos",
+    "1 cebolla mediana, picada finamente",
+    "aproximadamente 1/2 taza",
+    "1 pimiento verde, sin corazón y semillas, picado",
+    "aproximadamente 1 taza - picado finamente",
+    "2 tallos de apio, picados finamente",
+    "aproximadamente 1 taza - picado"
+  ],
+  "recipeInstructions": "1. En un bol grande de mezcla, revuelva la mayonesa, el relish, la sal y la pimienta hasta que estén combinados.\n2. Agregue los cubos de jamón, la cebolla, el pimiento verde y el apio al bol.\n3. Revuelva suavemente hasta que todos los ingredientes estén uniformemente cubiertos.\n4. Cubra y refrigere la ensalada hasta que esté lista para servir.",
+  "url": null
+}

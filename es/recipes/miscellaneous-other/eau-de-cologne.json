@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "eau-de-cologne",
+  "name": "Agua de Colonia",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "belleza",
+    "varios"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de lavanda",
+    "1/4 taza de romero",
+    "1 limón, pelado",
+    "1 naranja, pelada",
+    "1/2 taza de hojas de menta de naranja",
+    "1/2 taza de albahaca limonera",
+    "2 tazas de agua de rosa",
+    "2 tazas de alcohol de frotar (o vodka)"
+  ],
+  "recipeInstructions": "1. Colocar todos los ingredientes en un frasco de vidrio grande con tapa.\n2. Macerar durante 8-10 días.\n3. Cuajar la mezcla y verter en una botella esterilizada.",
+  "url": null
+}

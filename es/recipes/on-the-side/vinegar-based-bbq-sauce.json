@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "vinegar-based-bbq-sauce",
+  "name": "Salsa barbacoa basada en vinagre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "barbecua",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de vinagre blanco",
+    "1 taza de vinagre de sidra",
+    "1 cucharadita de azúcar",
+    "1 cucharadita de pimentón rojo",
+    "1 cucharadita de Tabasco"
+  ],
+  "recipeInstructions": "1. Mezclar bien. Esta es la versión sureña de las salsas barbacoa a base de vinagre.\n2. Simplemente aplícala mientras asas.",
+  "url": null
+}

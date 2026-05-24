@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "tourtiere-2",
+  "name": "Tourtiere",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "meats",
+    "pork"
+  ],
+  "recipeIngredient": [
+    "2 lb Pork",
+    "1 1/2 cups Onion",
+    "1 tsp Ginger",
+    "1/4 tsp Cloves",
+    "1/4 tsp Allspice",
+    "1/2 cup Water",
+    "1 tsp Salt"
+  ],
+  "recipeInstructions": "1. Mix all ingredients together.\n2. Cook for 1/2 hour.\n3. Add 1 cup bread crumbs.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-whole-fish",
+  "name": "Pescado entero al horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "salmón",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "3/4 lb de salmón, entero o cortado en trozos",
+    "2 cucharadas de mantequilla (o margarina)",
+    "2 tazas de verduras variadas, cortadas en rodajas",
+    "4 rebanadas de tocino"
+  ],
+  "recipeInstructions": "1. Cubrir la rejilla del horno con papel aluminio.\n2. Colocar una cama de verduras cortadas en rodajas sobre el papel aluminio.\n3. Colocar el pescado encima de las verduras y colocar las rebanadas de tocino sobre el pescado.\n4. Hornear a 425°F durante 20-30 minutos, o hasta que la carne se desmenuce fácilmente con un tenedor.\n5. Transferir el pescado cocido y las verduras a una fuente para servir.",
+  "url": null
+}

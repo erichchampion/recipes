@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-nacho-casserole",
+  "name": "Nachos de carne guisada",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "plato principal",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "12 oz de salsa picante (1 frasco)",
+    "1 taza de maíz dulce",
+    "3/4 taza de Mayonesa Miracle Whip (R)",
+    "2 cucharadas de polvo de chile",
+    "2 tazas de chips de tortilla (triturados)",
+    "2 tazas de queso Colby/Monterey Jack"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 175 °C. Dorar la carne y escurrirla. Mezclar con salsa, maíz dulce, Mayonesa Miracle Whip (R) y polvo de chile.\n2. En un recipiente para hornear de 2 cuartos, colocar en capas la mitad de la mezcla de carne, las chips de tortilla y el queso. Repetir con los ingredientes restantes.\n3. Hornear durante 20 minutos o hasta que esté bien caliente. Adornar con lechuga picada y tomate cortado en cubos si se desea.",
+  "url": null
+}

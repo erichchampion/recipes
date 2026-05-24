@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "savory-crockpot-stew",
+  "name": "Estofado sabroso en olla de cocción lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne de res para estofar, cortada en trozos",
+    "1/4 taza de harina",
+    "1 cucharadita de pimentón dulce",
+    "1/2 cucharadita de pimienta negra",
+    "1 hoja de laurel",
+    "1 diente de ajo",
+    "3 papas, cortadas en dados",
+    "1 apio, cortado en rodajas",
+    "2 cebollas, picadas",
+    "1 cucharadita de salsa de soja",
+    "12 onzas de caldo de res"
+  ],
+  "recipeInstructions": "1. En una olla de cocción lenta, mezcla la harina con el pimentón y la pimienta para recubrir la carne.\n2. Añade los ingredientes restantes y combina bien.\n3. Tapa y cocina a fuego alto durante 4-6 horas, a fuego medio durante 6-8 horas o a fuego bajo durante 10-12 horas.\n4. Retira el diente de ajo y la hoja de laurel antes de servir.",
+  "url": null
+}

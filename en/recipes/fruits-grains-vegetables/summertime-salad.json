@@ -1,0 +1,37 @@
+{
+  "@type": "Recipe",
+  "identifier": "summertime-salad",
+  "name": "Summertime Salad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "salads"
+  ],
+  "recipeIngredient": [
+    "Lettuce of choice",
+    "Sliced fresh mushrooms",
+    "Sliced small carrots",
+    "Diced green onions",
+    "Sliced radishes",
+    "Diced bell pepper",
+    "Fresh avocado",
+    "Marinated artichoke hearts",
+    "Marinated artichoke crowns",
+    "Marinated mushrooms",
+    "Marinated Brussels sprouts",
+    "Marinated asparagus",
+    "Bean sprouts",
+    "Alfalfa sprouts",
+    "Bacon bits",
+    "Croutons",
+    "Sliced cucumber",
+    "Sliced zucchini",
+    "Grated cheddar cheese",
+    "Grated Parmesan cheese",
+    "Grated Monterey Jack cheese",
+    "Fresh or canned shrimp",
+    "Fresh or canned crab"
+  ],
+  "recipeInstructions": "1. Choose your preferred ingredients from the list above.\n2. Toss all selected ingredients together in a large bowl.\n3. Mix with your favorite dressing, if desired.\n4. Experiment by leaving out lettuce for an interesting salad variation.",
+  "url": null
+}

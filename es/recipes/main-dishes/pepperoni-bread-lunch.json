@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pepperoni-bread-lunch",
+  "name": "Pan de pepperoni para el almuerzo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 sobre de masa de pizza",
+    "1/2 taza de agua caliente",
+    "12 rebanadas de pepperoni fino",
+    "6 rebanadas de queso Provolone",
+    "1/2 tomate, cortado en rodajas finas",
+    "2 pimientos verdes pequeños, cortados en tiras"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375 grados.\n2. En un bol pequeño, mezclar la masa de pizza con el agua. Amasar y dejar reposar durante 10 minutos.\n3. Colocar la masa sobre una superficie enharinada y aplastarla.\n4. Distribuir uniformemente el pepperoni y el queso sobre la masa.\n5. Añadir las rodajas de tomate y pimiento.\n6. Hornear hasta que esté completamente cocido, luego apagar el horno.",
+  "url": null
+}

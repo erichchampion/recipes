@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-magic",
+  "name": "Pizza Magic",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza",
+    "sun-dried"
+  ],
+  "recipeIngredient": [
+    "Whole pita breads",
+    "Garlic flavored olive oil",
+    "Rehydrated sun-dried tomatoes - halves",
+    "Canned artichoke hearts - sliced",
+    "Chopped basil",
+    "Shredded mozzarella cheese"
+  ],
+  "recipeInstructions": "1. Heat a baking sheet in a very hot oven.\n2. Lightly brush pita breads on both sides with oil.\n3. Top each pita bread with tomato halves, artichokes, and sprinkle with basil and shredded mozzarella cheese.\n4. Bake on the hot sheet for about 5 minutes until the bread is crisp and the cheese is melted.",
+  "url": null
+}

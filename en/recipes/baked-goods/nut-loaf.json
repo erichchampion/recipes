@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "nut-loaf",
+  "name": "Nut Loaf",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "2 cups Flour",
+    "1/2 cup Sugar",
+    "1/2 cup Nuts",
+    "2 teaspoons Salt",
+    "2 teaspoons Baking Powder",
+    "1 Egg"
+  ],
+  "recipeInstructions": "1. Beat the egg in a separate bowl.\n2. Mix in milk until well combined with the egg mixture.\n3. Add the milk mixture to the flour, sugar, nuts, salt, and baking powder.\n4. Bake for 35 to 40 minutes at a moderate temperature of 350°F (175°C).\n5. Turn off the oven when the loaf is cooked through.",
+  "url": null
+}

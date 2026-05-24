@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "vodka-collins",
+  "name": "Vodka Collins",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz de vodka",
+    "2 cucharadas de zumo de limón fresco",
+    "1 cucharadita de azúcar en polvo",
+    "6 oz de soda de club; o hasta llenar",
+    "Hielo picado",
+    "Hielo troceado",
+    "Una rodaja de naranja",
+    "Una cereza al marrasquino"
+  ],
+  "recipeInstructions": "Llenar un vaso mezclador con hielo. Añadir el vodka, el zumo de limón y el azúcar en polvo, y agitar bien. Colar en un vaso Collins lleno de hielo troceado. Llenar con soda de club y remover. Decorar con una rodaja de naranja y una cereza. Servir con un pajita.",
+  "url": null
+}

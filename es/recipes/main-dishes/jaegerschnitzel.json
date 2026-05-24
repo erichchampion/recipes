@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "jaegerschnitzel",
+  "name": "Jaegerschnitzel",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "etnica",
+    "alemana",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "Filetes de cerdo o ternera (Schnitzels)",
+    "Setas frescas (aproximadamente 1 libra por dos Schnitzels; se prefieren los champiñones de supermercado blancos o una mezcla de setas silvestres)",
+    "Mantequilla",
+    "Pimienta",
+    "Sal",
+    "Azúcar morena",
+    "Crema sin batir",
+    "Patatas fritas francesas o croquetas (para acompañar)"
+  ],
+  "recipeInstructions": "1. Obtén filetes de cerdo o ternera (Schnitzels).\n2. Lava y seca la carne, luego espolvoréala con pimienta, sal y una pequeña cantidad de azúcar morena.\n3. Cocina en mantequilla en una sartén abierta por ambos lados hasta que la carne esté bien cocida y tenga un color marrón agradable. Retira y reserva, manteniéndola caliente.\n4. En los jugos de carne restantes en la sartén, cocina las setas frescas hasta que se evapore la mayor parte del líquido. Sazona con pimienta, sal y azúcar morena al gusto.\n5. Añade crema sin batir y remueve hasta que la salsa espese.\n6. Vierte la salsa sobre los Schnitzels y sirve con patatas fritas francesas o croquetas.\n7. Variaciones: Agrega un chorrito de jerez cocinero, cebollas salteadas y ajo a la salsa de setas (las cebollas y el ajo se cocinan con las setas; el jerez se añade con la crema).",
+  "url": null
+}

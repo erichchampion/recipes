@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "smoothies",
+  "name": "Batidos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "plátano congelado (pelar un plátano muy maduro o a punto de podrido y congelarlo)",
+    "1 taza (aprox.) de vuestra fruta favorita - ¡yo me inclino por las fresas!",
+    "1/2 taza a 1 taza de jugo de manzana o leche de soja sin grasa (o cualquier líquido que prefieras, ajusta la cantidad para obtener la consistencia deseada)"
+  ],
+  "recipeInstructions": "1. Pelar un plátano muy maduro o a punto de podrido y congelarlo.\n2. Añadir el plátano congelado al licuadora.\n3. Agregar 1 taza de vuestra fruta favorita (por ejemplo, fresas).\n4. Incorporar 1/2 taza a 1 taza de jugo de manzana, leche de soja sin grasa o cualquier líquido que prefieras.\n5. Mezclar hasta obtener una textura suave.",
+  "url": null
+}

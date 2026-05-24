@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-nacho-casserole-2",
+  "name": "Nachos de carne con salsa de queso",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "guisos",
+    "carne molida",
+    "plato principal",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1 cucharada de polvo de chile",
+    "350 g de salsa picada (1 frasco)",
+    "2 tazas de chips de tortilla (triturados)",
+    "1 taza de maíz dulce",
+    "2 tazas de queso Colby/Monterey Jack rallado",
+    "3/4 taza de mayonesa Miracle Whip"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F (175°C). Dorar la carne y escurrir el exceso de grasa.\n2. Mezclar la salsa, el maíz, la mayonesa y el polvo de chile con la carne.\n3. En un molde para hornear de 2 cuartos, colocar en capas alternas la mitad de la mezcla de carne, los chips de tortilla y el queso, repitiendo con el resto de ingredientes.\n4. Hornear durante 20 minutos o hasta que se caliente bien.\n5. Opcionalmente, adornar con lechuga picada y tomate cortado.",
+  "url": null
+}

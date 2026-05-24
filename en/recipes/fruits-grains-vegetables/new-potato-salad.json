@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "new-potato-salad",
+  "name": "New Potato Salad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "salads",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "12 Potatoes, new red",
+    "3/4 cup Mayonnaise",
+    "Whipping cream",
+    "1/2 tsp Salt",
+    "White pepper to taste",
+    "2 tsp Fresh Dill, snipped",
+    "2 Garlic cloves, minced"
+  ],
+  "recipeInstructions": "1. Boil potatoes in their skins until just tender; cool and quarter.\n2. Thin mayonnaise slightly with cream. Add salt, white pepper, dill, and garlic. Taste and correct seasoning. Chill.",
+  "url": null
+}

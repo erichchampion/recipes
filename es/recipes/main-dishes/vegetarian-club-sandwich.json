@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetarian-club-sandwich",
+  "name": "Sándwich club vegetariano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sin carne",
+    "sándwiches",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "3 rebanadas de pan",
+    "1 caldo de verduras",
+    "1 champiñón en rodajas",
+    "1 mayonesa ligera o aderezo para ensalada",
+    "1 mostaza picante",
+    "1 tomate en rodajas finas",
+    "1 pepino",
+    "1 queso bajo en grasa",
+    "1 brotes de alfalfa",
+    "1 lechuga"
+  ],
+  "recipeInstructions": "1. Tostar 3 rebanadas de pan.\n2. En una sartén, calentar aproximadamente 1/4 taza de caldo de carne o vegetal y cocinar los champiñones y cebollas a fuego alto hasta que estén hechos. Escurrir sobre papel absorbente.\n3. Extender mayonesa ligera o aderezo (o Kraft Ranch Free) y mostaza picante en cada rebanada de pan.\n4. Superponer rodajas finas de tomate, pepino, queso bajo en grasa, brotes de alfalfa, champiñones y cebollas en los sándwiches.\n5. Si la lechuga es asequible, añadir un poco.\n6. Cortar en cuartos y disfrutar lentamente frente a una hamburguesa y papas fritas.",
+  "url": null
+}

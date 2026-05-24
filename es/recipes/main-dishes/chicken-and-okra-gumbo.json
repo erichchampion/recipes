@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-okra-gumbo",
+  "name": "Gumbo de Pollo y Okra",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 taza de aceite",
+    "1 taza de harina",
+    "4 libras de pollo, cortado en trozos",
+    "2 libras de okra, cortada en trozos",
+    "2 tomates medianos, picados",
+    "2 cebollas grandes, picadas",
+    "1 pimiento rojo, picado",
+    "2 cucharaditas de perejil fresco picado",
+    "2 cucharaditas de cebolla verde picada",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Dorar el pollo en el aceite caliente.\n2. Retirar el pollo y reservar.\n3. Agregar la harina al aceite y cocinar, removiendo constantemente, hasta obtener un roux de color marrón medio.\n4. Incorporar las cebollas, el pimiento, los tomates y la okra. Cocinar a fuego lento hasta que la okra deje de encogerse, aproximadamente 1 hora.\n5. Añadir gradualmente 3 cuartos de agua caliente y remover suavemente.\n6. Devolver el pollo a la olla y cocinar a fuego lento hasta que la carne esté casi deshebrada, aproximadamente 1 hora y media.\n7. Agregar más agua si es necesario. Sazonar con sal y pimienta al gusto.\n8. Incorporar el perejil y la cebolla verde y servir sobre arroz.",
+  "url": null
+}

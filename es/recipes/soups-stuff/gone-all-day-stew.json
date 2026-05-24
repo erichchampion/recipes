@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "gone-all-day-stew",
+  "name": "Estofado para todo el día",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "plato principal",
+    "carnes",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "1 lata de sopa de tomate (10 oz)",
+    "1 taza de agua (o vino tinto)",
+    "1/4 taza de harina",
+    "2 lb de carne de res (cortada en trozos de 1 pulgada)",
+    "3 zanahorias medianas (cortadas en trozos de 1 pulgada)",
+    "6 cebollas (en cuartos)",
+    "4 papas medianas (cortadas en trozos de 1 pulgada)",
+    "1/2 taza de apio (en trozos de 1 pulgada)",
+    "12 setas grandes frescas",
+    "2 cubos de caldo",
+    "1 cucharada de condimento de hierbas italianas",
+    "1 hoja de laurel",
+    "3 gotas de pimienta fresca"
+  ],
+  "recipeInstructions": "1. Mezclar la sopa de tomate, el agua/vino y la harina hasta obtener una mezcla suave.\n2. Combinar los ingredientes restantes con la mezcla en un recipiente para asar cubierto.\n3. Hornear a 275 grados durante 4-5 horas.\n4. Ajustar la sazón al servir si es necesario.\n5. Un acompañamiento de coleslaw es ideal para el invierno, o sirve tomates frescos sobre una cama de lechuga en verano.",
+  "url": null
+}

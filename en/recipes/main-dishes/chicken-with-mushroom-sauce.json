@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-with-mushroom-sauce",
+  "name": "Chicken with Mushroom Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "low-calorie",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "Chicken, cut up, skinned",
+    "1 can Mushroom soup",
+    "1/2 can Milk",
+    "1/2 lb Mushrooms",
+    "1/2 cup Sherry"
+  ],
+  "recipeInstructions": "1. Place chicken in a casserole dish.\n2. Mix together the remaining ingredients and pour over the chicken.\n3. Cover.\n4. Bake at 350°F for 45 minutes.",
+  "url": null
+}

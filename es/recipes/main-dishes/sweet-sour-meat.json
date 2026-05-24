@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-sour-meat",
+  "name": "Carne dulce y ácida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 pimiento verde pequeño",
+    "1 cucharada de grasa o aceite",
+    "2 cucharadas de azúcar",
+    "1 cucharada de almidón de maíz",
+    "2/3 taza de caldo de pollo, pavo o carne",
+    "2 cucharadas de vinagre",
+    "1 cucharada de salsa de soja",
+    "3 cucharadas de pasas",
+    "2/3 taza de carne cortada en trozos (pollo, pavo, ternera o cerdo cocida)"
+  ],
+  "recipeInstructions": "1. Cortar el pimiento verde en trozos de 2,5 cm.\n2. Saltear lentamente en grasa o aceite en una sartén caliente durante unos 10 minutos hasta que esté tierno.\n3. Mezclar el azúcar y el almidón de maíz.\n4. Incorporar el caldo, el vinagre y la salsa de soja a la mezcla; añadir al pimiento verde.\n5. Cocinar a fuego medio, removiendo hasta que la salsa se aclare y espese.\n6. Añadir la carne y las pasas.\n7. Calentar hasta que esté bien hecho. Sirve para 2 personas.",
+  "url": null
+}

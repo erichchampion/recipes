@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hearty-beef-and-rice",
+  "name": "Arroz con carne guisado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "plato principal",
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "1 cebolla pequeña, picada",
+    "3 tazas de arroz cocido",
+    "370 gramos (10 3/4 onzas) de sopa de champiñones condensada",
+    "250 gramos (8 onzas) de tomates enlatados picados sin escurrir",
+    "140 gramos (7 onzas) de maíz entero",
+    "1/2 cucharadita de polvo de ajo",
+    "1/2 cucharadita de comino molido",
+    "4 onzas de queso Cheddar o americano rallado"
+  ],
+  "recipeInstructions": "1. Cocinar la carne y la cebolla en una sartén grande a fuego medio-alto hasta que la carne esté dorada; escurrir el exceso de grasa.\n2. Incorporar el arroz, la sopa, los tomates, el maíz, el polvo de ajo y el comino. Transferir la mezcla a un molde para hornear engrasado de 2 cuartos.\n3. Hornear a 175 °C (350 °F) durante 20 minutos.\n4. Cubrir con queso y hornear durante 5 a 10 minutos adicionales.",
+  "url": null
+}

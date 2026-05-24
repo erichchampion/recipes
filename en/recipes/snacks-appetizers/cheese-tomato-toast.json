@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-tomato-toast",
+  "name": "Cheese Tomato Toast",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "cheese",
+    "sandwich",
+    "snacks",
+    "vegetables",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "4 slice French Bread",
+    "3 tablespoons Garlic Olive Oil",
+    "2 large ripe Tomatoes, sliced",
+    "1 cup Shredded Mozzarella or Feta",
+    "3 tablespoons Mayo",
+    "1 tablespoon Lemon Juice",
+    "1 teaspoon Fresh Dill"
+  ],
+  "recipeInstructions": "1. In a small bowl, combine the mayo, dill, and lemon juice. Set aside.\n2. Toast the bread slices in a skillet with garlic olive oil until lightly golden.\n3. Spread the mayo mixture on one side of each toasted bread slice.\n4. Add the sliced tomatoes to the bread.\n5. Sprinkle shredded cheese over the tomatoes.\n6. Place the toast under the broiler until the cheese is melted and bubbly.",
+  "url": null
+}

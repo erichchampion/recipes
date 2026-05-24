@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "wild-roasted-chicken-wraps",
+  "name": "Envoltorios de Pollo Asado Silvestre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "Arroz largo y silvestre de Uncle Ben - cocido",
+    "Pecho de pollo asado (Tyson Ready to Eat) - picado",
+    "1/2 taza de aderezo para ensalada Ranch",
+    "1 taza de lechuga rallada",
+    "12 tortillas de harina"
+  ],
+  "recipeInstructions": "1. Mezclar el pollo picado con el arroz silvestre cocido y el aderezo ranch.\n2. Extender aproximadamente un tercio de la mezcla sobre una tortilla de harina plana.\n3. Añadir la lechuga rallada encima del relleno.\n4. Doblar los lados hacia adentro sobre el relleno y enrollar apretadamente para formar un wrap.",
+  "url": null
+}

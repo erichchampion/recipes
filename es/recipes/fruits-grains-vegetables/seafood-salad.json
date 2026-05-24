@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "seafood-salad",
+  "name": "Ensalada de mariscos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1/2 libra de almejas picadas",
+    "1/4 libra de gambas cocidas",
+    "1/4 libra de bacalao cocido",
+    "1/4 libra de apio, picado finamente",
+    "2 cebolletas, picadas finamente (incluidos los tallos)",
+    "1/4 libra de mayonesa",
+    "Una pizca de pimienta negra"
+  ],
+  "recipeInstructions": "1. Coloca las almejas picadas y las gambas cocidas en un bol.\n2. Hierve el bacalao durante unos 5 minutos, córtalo en trozos y añádelo al bol.\n3. Añade el apio y las cebolletas picados (incluidos los tallos) al bol.\n4. Mezcla bien la mayonesa con el contenido del bol.\n5. Agrega una pizca de pimienta negra y mezcla nuevamente.",
+  "url": null
+}

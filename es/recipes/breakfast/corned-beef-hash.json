@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "corned-beef-hash",
+  "name": "Hash de carne curada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 cucharadita de carne de res curada",
+    "1 cebolla, picada finamente",
+    "2 papas medianas, cocidas",
+    "2 huevos",
+    "Pimienta al gusto",
+    "1 1/2 cucharadas de mostaza en polvo"
+  ],
+  "recipeInstructions": "1. Cortar la carne de res curada y las papas cocidas en cubos (o usar papas crudas ralladas groseramente).\n2. Picar finamente la cebolla.\n3. Mezclar todos los ingredientes en un bol, añadiendo sal y pimienta, luego incorporar los huevos y mezclar bien.\n4. Colocar la mezcla en una sartén engrasada y formar hamburguesas de 1/2\" a 3/4\" de grosor.\n5. Espolvorear con mostaza en polvo.\n6. Cocinar hasta que estén crujientes (aproximadamente 10 minutos).\n7. Cubrir con un plato grande y dar la vuelta.\n8. Espolvorear con más mostaza en polvo y cocinar hasta que estén crujientes.\n9. Servir con un huevo frito encima.",
+  "url": null
+}

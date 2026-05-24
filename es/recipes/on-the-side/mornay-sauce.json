@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mornay-sauce",
+  "name": "Salsa Mornay",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla",
+    "2 tazas de crema",
+    "4 onzas de queso suizo rallado",
+    "4 onzas de queso parmesano rallado",
+    "2 cucharadas de harina de uso múltiple",
+    "1 cucharada de vermut",
+    "sal",
+    "pimienta cayena",
+    "1/2 taza de perejil fresco picado finamente",
+    "1/2 taza de cebolla verde picada finamente"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una sartén pesada.\n2. Saltea el perejil y la cebolla verde durante un minuto.\n3. Incorpora la harina y cocina, removiendo constantemente, por un minuto.\n4. Vierte la crema y lleva a ebullición.\n5. Agrega los quesos y revuelve hasta que se derritan.\n6. Añade el vermut y sazona con sal y pimienta cayena al gusto.",
+  "url": null
+}

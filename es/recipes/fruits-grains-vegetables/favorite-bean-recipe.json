@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "favorite-bean-recipe",
+  "name": "Receta favorita de frijoles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 latas de frijoles rojos oscuros, escurridos",
+    "3/4 taza de cebolla picada",
+    "3/4 taza de apio en rodajas (o 1/2 taza de tallos tiernos de lovage)",
+    "3/4 taza de aceitunas verdes rellenas de pimiento, picadas",
+    "1/2 taza de relish Piccalili Hot de Vlasic",
+    "pimienta blanca al gusto",
+    "mayonesa baja en grasa para humedecer"
+  ],
+  "recipeInstructions": "1. Mezclar todos los vegetales y el piccalili en un bol grande.\n2. Sazonar con pimienta blanca al gusto.\n3. Agregar mayonnaise para humedecer.\n4. Revolver bien hasta que todo esté uniformemente cubierto.\n5. Refrigerar la mezcla durante al menos 30 minutos antes de servir.",
+  "url": null
+}

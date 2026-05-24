@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "curry-plus",
+  "name": "Curry más",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "fruta",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de margarina",
+    "1 cebolla mediana, picada",
+    "1 cucharadita de polvo de curry",
+    "1/4 taza de harina",
+    "1/2 cucharadita de sal (omitable si se usa jamón)",
+    "3 tazas de carne cocida en cubos (pavo, jamón, cordero o pollo)",
+    "1 taza de yogur natural sin grasa",
+    "1 taza de caldo de pollo",
+    "1 taza de frutos secos mixtos picados",
+    "1/3 taza de nueces, almendras o anacardos picados",
+    "arroz cocido caliente"
+  ],
+  "recipeInstructions": "1. En un wok, derrite la margarina a fuego medio-alto.\n2. Saltea la cebolla, el ajo y el polvo de curry durante 5 minutos.\n3. Añade la harina y la sal (si no se usa jamón).\n4. Incorpora la carne en cubos, el yogur y el caldo de pollo.\n5. Cocina y remueve hasta que espese y burbujee; no lleves a ebullición.\n6. Continúa cocinando durante 1 minuto más.\n7. Mezcla los frutos secos y las frutas secas picadas.\n8. Calienta hasta que esté bien caliente y sazona al gusto.\n9. Sirve sobre arroz cocido caliente.",
+  "url": null
+}

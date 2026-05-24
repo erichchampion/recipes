@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "lisa-s-swiss-burgers",
+  "name": "Hamburguesas Suizas de Lisa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "plato principal",
+    "carne",
+    "suizo"
+  ],
+  "recipeIngredient": [
+    "Queso suizo",
+    "Chucrut",
+    "Salsa mil islas"
+  ],
+  "recipeInstructions": "1. Montar los ingredientes en hamburguesas y panecillos a la parrilla.",
+  "url": null
+}

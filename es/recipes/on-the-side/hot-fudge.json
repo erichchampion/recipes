@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-fudge",
+  "name": "Fudge caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "postres",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 lata de leche evaporada",
+    "1 taza de azúcar granulada",
+    "1/3 taza de mantequilla sin sal",
+    "1 taza de chips de chocolate semiamargo",
+    "3/4 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. En un cazo de paredes gruesas, combina la leche evaporada y el azúcar granulada.\n2. Calienta la mezcla a fuego medio-alto hasta que hierva.\n3. Cocina durante 2 minutos, removiendo ocasionalmente para evitar que se queme.\n4. Retira del fuego y bate la mantequilla sin sal y el extracto de vainilla.\n5. Reduce el fuego a bajo y revuelve hasta que la mezcla esté suave y bien combinada.\n6. Sirve caliente.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "blueberry-cobbler",
+  "name": "Tarta de arándanos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles de frutas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina",
+    "1 taza de azúcar",
+    "1 taza de leche",
+    "1 cucharadita de vainilla",
+    "1 huevo",
+    "1 barra de mantequilla",
+    "16 onzas de arándanos"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en un molde para hornear de 9x13 pulgadas.\n2. En un bol grande, combina todos los ingredientes excepto los arándanos.\n3. Mezcla bien y vierte en el molde preparado.\n4. Coloca los arándanos encima sin mezclar.\n5. Hornea a 350 grados Fahrenheit hasta que esté listo.",
+  "url": null
+}

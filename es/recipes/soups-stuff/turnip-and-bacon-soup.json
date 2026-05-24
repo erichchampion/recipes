@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "turnip-and-bacon-soup",
+  "name": "Sopa de nabo y tocino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "1/4 lb de tocino streaky, sin piel",
+    "1/4 lb de cebolla picada",
+    "1/4 lb de patatas picadas",
+    "3/4 lb de nabos picados",
+    "2 pintas de caldo",
+    "Aceite para freír"
+  ],
+  "recipeInstructions": "1. Cortar y freír el tocino y la cebolla.\n2. Añadir las patatas, los nabos y el caldo a la sartén.\n3. Cocinar a fuego lento hasta que las verduras estén tiernas.\n4. Sazonar al gusto y servir.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "sam-s-carne-adovada",
+  "name": "Carne adovada de Sam",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "estadounidense",
+    "barbacoa",
+    "étnico",
+    "picante",
+    "carnes",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "2 lb de lomo de cerdo sin hueso; cortado en",
+    "rodajas de 3/8 de pulgada",
+    "2 tazas de chile caribe; molido groseramente",
+    "1 taza de chiles rojos molidos",
+    "1 cucharadita de orégano; molido",
+    "2 cucharadas de ajo granulado",
+    "1 cucharada de sal",
+    "1 agua caliente"
+  ],
+  "recipeInstructions": "1. Cortar el lomo de cerdo en rodajas finas y reservar.\n2. Mezclar las especias juntas y añadir lentamente agua caliente. No lo haga demasiado líquido.\n3. Incorporar el lomo de cerdo a la mezcla y marinar durante dos días, removiendo dos veces al día.\n4. Colocar la carne marinada en una cacerola con tapa y hornear en horno precalentado a 175 °C durante 3 horas.",
+  "url": null
+}

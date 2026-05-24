@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "coffee-syrup",
+  "name": "Sirupo de Café",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "2 tazas de café fuerte",
+    "1 taza de azúcar",
+    "1/2 cucharadita de vainilla"
+  ],
+  "recipeInstructions": "1. En una cacerola pequeña, calienta el café hasta que comience a hervir.\n2. Añade el azúcar y la vainilla, y continúa cocinando a fuego lento durante 8 minutos, removiendo ocasionalmente, hasta que el azúcar se disuelva por completo.\n3. Deja enfriar la mezcla antes de usarla.\nRendimiento: 1-1 1/2 tazas",
+  "url": null
+}

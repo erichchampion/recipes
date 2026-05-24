@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "heavenly-hawaiian-rice",
+  "name": "Arroz Hawaiano Celestial",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "arroz",
+    "dietas especiales",
+    "vegano",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "2 tazas de arroz crudo",
+    "1 lata de piña, triturada",
+    "1/4 taza de azúcar",
+    "1 pequeño frasco de cerezas (opcional)",
+    "Nueces (opcional)",
+    "2 tazas de crema batida vegana (opcional)"
+  ],
+  "recipeInstructions": "1. Cocinar el arroz.\n2. Escurrir y enjuagar el arroz cocido.\n3. Agregar todos los demás ingredientes al arroz y mezclar bien.\n4. Servir frío.",
+  "url": null
+}

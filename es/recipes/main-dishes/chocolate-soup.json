@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-soup",
+  "name": "Sopa de chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chocolate",
+    "diabético",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de azúcar",
+    "5 cucharadas de harina",
+    "2 cucharadas de cacao en polvo",
+    "4 tazas de leche desnatada",
+    "3 rebanadas de pan",
+    "1/4 taza de mantequilla",
+    "1/4 taza de margarina"
+  ],
+  "recipeInstructions": "1. Mezclar el azúcar, la harina y el cacao en un cazo.\n2. Cocinar a fuego medio hasta que se integren bien.\n3. Añadir gradualmente la leche desnatada, removiendo constantemente para evitar grumos.\n4. Continuar cocinando hasta que la mezcla espese y adquiera una textura cremosa.\n5. Incorporar más leche fría hasta obtener una consistencia suave.\n6. Agregar extracto de vainilla y sal al gusto (aproximadamente 1/2 cucharadita de vainilla y un toque de sal).\n7. En una sartén separada, dorar las rebanadas de pan en la mantequilla o margarina.\n8. Servir la sopa caliente con el pan tostado encima.",
+  "url": null
+}

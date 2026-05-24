@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "peach-melba-dessert",
+  "name": "Peach Melba Dessert",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "fruits"
+  ],
+  "recipeIngredient": [
+    "2 cups Peaches, sliced (peeled)",
+    "2 cups Raspberry, fresh or frozen",
+    "3/4 cup Sugar",
+    "2 tablespoons Water",
+    "Ice Cream - Vanilla"
+  ],
+  "recipeInstructions": "1. In a saucepan, bring peaches, raspberries, sugar and water to a boil.\n2. Reduce heat and simmer for 5 minutes.\n3. Chill if desired.\n4. Serve over ice cream.",
+  "url": null
+}

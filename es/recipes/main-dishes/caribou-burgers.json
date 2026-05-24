@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "caribou-burgers",
+  "name": "Hamburguesas de Caribú",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgueros",
+    "plato principal",
+    "juego"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida de caribú",
+    "4 oz de carne de cerdo molida",
+    "Sal",
+    "Pimienta negra molida fresca",
+    "1/2 cebolla mediana, picada",
+    "Pan rallado u otro cereal (opcional)",
+    "Especias para hamburguesas al gusto",
+    "Hierbas y condimentos al gusto",
+    "1 huevo para unir los ingredientes"
+  ],
+  "recipeInstructions": "Debido a que la carne de caribú tiene un bajo contenido de grasa, se añade algo de cerdo para darle jugosidad.\nCombinar todos los ingredientes con el mínimo manejo posible. Precalentar la parrilla o el broil.\nBorrar las hamburguesas con aceite vegetal y cocinarlas en la parrilla durante unos 4 minutos, dándoles la vuelta una vez y cocinándolas hasta el punto deseado. Servir en panecillos con los condimentos preferidos.",
+  "url": null
+}

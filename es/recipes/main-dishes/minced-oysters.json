@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "minced-oysters",
+  "name": "Ostras picadas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1 litro de ostras",
+    "1 cucharada de semillas de apio",
+    "1/2 cucharadita de pimienta negra",
+    "1 cucharadita de sal",
+    "1/8 cucharadita de pimentón rojo",
+    "4 huevos",
+    "1/4 libra de mantequilla o margarina",
+    "1 taza de apio picado",
+    "1 1/2 tazas de migas de galleta"
+  ],
+  "recipeInstructions": "1. Escurrir las ostras.\n2. Picar finamente las ostras con tijeras.\n3. Añadir las especias y los huevos; cocinar y remover constantemente hasta que hierva.\n4. Incorporar las migas de galleta para espesar la mezcla.\n5. Verter en un molde para hornear y extender la mantequilla uniformemente por encima.\n6. Cortar en porciones.\n7. Hornear a 180 °C (375 °F) hasta que esté dorado.",
+  "url": null
+}

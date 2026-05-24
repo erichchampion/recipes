@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "super-pita-bread-sandwich",
+  "name": "Sándwich de pan pita super",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "Pepino cortado en trozos",
+    "Tomate cortado en trozos",
+    "Cebolla cortada en trozos",
+    "Brotes de alfalfa",
+    "2 cucharadas de salsa de sésamo super (ver receta)",
+    "Bolsa de pan pita integral"
+  ],
+  "recipeInstructions": "1. Recortar la parte superior de 1/4 del pan pita para facilitar su división.\n2. Ablandar el pan pita en el microondas durante 10 segundos.\n3. Extender la salsa de sésamo super sobre el pan pita ablandado.\n4. Rellenar el pan pita con las verduras cortadas.",
+  "url": null
+}

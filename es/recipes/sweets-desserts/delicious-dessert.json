@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "delicious-dessert",
+  "name": "Delicioso Postre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina",
+    "1/2 taza de margarina",
+    "1/2 taza de nueces picadas",
+    "225 g de queso crema",
+    "1 taza de azúcar glas",
+    "1 taza de crema batida",
+    "2 sobre de mezcla instantánea de pudín de vainilla",
+    "2 sobre de mezcla instantánea de pudín de caramelo",
+    "2 3/4 tazas de leche"
+  ],
+  "recipeInstructions": "1. En un bol, batir la margarina y la harina hasta que estén bien combinadas.\n2. Agregar las nueces picadas a la mezcla y remover hasta incorporarlas.\n3. Extender la masa en un molde para hornear rectangular antiadherente de 23x33 cm.\n4. Hornear a 175 °C durante 15 minutos. Dejar enfriar completamente.\n5. En un bol aparte, mezclar el queso crema y el azúcar glas hasta obtener una textura suave.\n6. Incorporar la crema batida a la mezcla de queso crema hasta que esté bien combinada.\n7. Extender la mezcla uniformemente sobre la base enfriada.\n8. Mezclar los dos tipos de pudín con la leche hasta que estén semiespesos.\n9. Extender el pudín sobre la capa de queso crema y masa.\n10. Decorar con crema batida adicional y nueces picadas restantes.\n11. Refrigerar durante al menos 1 hora antes de servir.",
+  "url": null
+}

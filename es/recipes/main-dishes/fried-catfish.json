@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fried-catfish",
+  "name": "Pescado Frito",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "etnica",
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "2 libras de filetes de pescado gato, de 1/2 pulgada de grosor",
+    "1 cucharadita de polvo de ajo",
+    "2 cucharaditas de sal",
+    "1/2 cucharadita de pimienta negra molida fresca",
+    "2 tazas de migajas de galleta o galletas sin sal trituradas groseramente",
+    "1 taza de aceite vegetal"
+  ],
+  "recipeInstructions": "1. Retire cualquier piel o membrana del pescado gato. Mezcle el polvo de ajo, la sal y la pimienta en un bol pequeño. Espolvoree la mezcla sobre ambos lados de los filetes. Cubra los filetes con las migajas de galleta, presionando suavemente para que se adhieran a ambos lados. Sacuda el exceso y deje reposar los filetes.\n2. Calente el aceite en una sartén grande y pesada a fuego medio hasta que una pequeña cantidad de migajas de galleta fríen y chisporroteen al caer en el aceite. Coloque cuidadosamente los filetes en la sartén y fríalos, dándoles la vuelta una vez, hasta que estén cocidos por completo y dorados por ambos lados, aproximadamente 8 minutos. Retire de la sartén y escurra sobre papel absorbente antes de servir.",
+  "url": null
+}

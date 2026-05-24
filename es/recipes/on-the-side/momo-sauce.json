@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "momo-sauce",
+  "name": "Salsa Momo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de mantequilla clarificada (Ghee)",
+    "1 cucharadita de jengibre picado",
+    "1 cucharadita de ajo picado",
+    "1/2 taza de cebolla picada",
+    "1/2 cucharadita de garam masala",
+    "1/8 cucharadita de cúrcuma",
+    "1/2 cucharadita de polvo de chile",
+    "1 taza de tomates picados",
+    "1 taza de agua",
+    "1/2 cucharadita de vinagre blanco",
+    "1 cucharadita de salsa de soja",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "Cebolleta picada",
+    "2 ramitas de cilantro picado"
+  ],
+  "recipeInstructions": "1. Calentar la mantequilla clarificada en un cazo.\n2. Añadir el jengibre, ajo y cebolla; saltear durante 1 minuto.\n3. Incorporar el garam masala, cúrcuma y polvo de chile; saltear durante 30 segundos.\n4. Agregar los tomates picados y saltear durante 3 minutos.\n5. Verter el agua y llevar a ebullición.\n6. Reducir el fuego y dejar cocinar a fuego lento durante 5 minutos.\n7. Incorporar el vinagre blanco, la salsa de soja, la sal y la pimienta.\n8. Mezclar bien y adornar con cebolleta picada y cilantro.\n9. Servir caliente.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cuba-libre",
+  "name": "Cuba Libre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz de ron blanco",
+    "1 cucharadita de jugo de limón",
+    "6 oz de cola; o hasta llenar",
+    "1/4 de limón"
+  ],
+  "recipeInstructions": "1. Verter el jugo de limón y el ron en un vaso alto lleno de cubitos de hielo.\n2. Llenar el vaso con cola, ajustando al nivel deseado.\n3. Adornar con una rodaja de limón.",
+  "url": null
+}

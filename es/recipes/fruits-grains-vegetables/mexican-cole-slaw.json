@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-cole-slaw",
+  "name": "Ensalada de col mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "mexicano",
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de col roja rallada",
+    "1/2 taza de col verde rallada",
+    "1 zanahoria mediana, pelada, rallada",
+    "1/4 taza de yogur bajo en grasa",
+    "1/4 cucharadita de comino molido",
+    "1/8 cucharadita de sal",
+    "Una pizca de pimienta negra fresca molida"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol mediano.\n2. Servir inmediatamente o refrigerar y servir frío.",
+  "url": null
+}

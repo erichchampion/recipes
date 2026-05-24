@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cafe-kula-grilled-tofu",
+  "name": "Tofu asado de Cafe Kula",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "plato principal",
+    "dietas especiales",
+    "tofu",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 lb de tofu firme",
+    "1/4 taza de mirin",
+    "1/4 taza de tamari",
+    "1 cucharada de jengibre fresco picado",
+    "1 cucharadita de pimienta cayena"
+  ],
+  "recipeInstructions": "1. Cortar el tofu en 4 filetes a lo largo.\n2. Mezclar el mirin, tamari, jengibre y pimienta cayena.\n3. Marinar el tofu en la mezcla durante al menos una hora o durante la noche.\n4. A la parrilla el tofu sobre brasas calientes hasta que esté caliente por dentro y ligeramente dorado.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-sausage-3",
+  "name": "Salsicha italiana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "salchichas"
+  ],
+  "recipeIngredient": [
+    "2 libras de hombro de cerdo molido groseramente",
+    "2 cucharaditas de sal",
+    "1 cucharadita de pimienta negra",
+    "2 cucharadas de semillas de eneldo",
+    "1/2 taza de agua",
+    "1 cucharadita de semillas de pimiento rojo molidas (1 a 2)"
+  ],
+  "recipeInstructions": "1. Remojar las semillas de eneldo en agua durante al menos 10 minutos.\n2. Mezclar el eneldo remojado y el agua con la carne de cerdo.\n3. Añadir las especias y rellenar los casings con la mezcla.\n4. Atar las salchichas cada 4 pulgadas.",
+  "url": null
+}

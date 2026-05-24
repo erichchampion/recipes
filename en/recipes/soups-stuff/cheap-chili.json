@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheap-chili",
+  "name": "Cheap Chili",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "main dish",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 can tomato juice",
+    "2 cans kidney beans",
+    "2 cans french cut green beans",
+    "1 can corn",
+    "1 pound ground beef or turkey",
+    "chili seasoning of your choice"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a large pot.\n2. Bring mixture to a boil over medium heat.\n3. Reduce heat to low and simmer until heated through, about 30 minutes.\n4. Serve with cornbread, crackers, or rolls.\n5. This recipe serves approximately 9 people.",
+  "url": null
+}

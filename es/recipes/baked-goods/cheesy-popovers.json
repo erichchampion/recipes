@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheesy-popovers",
+  "name": "Popovers con queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "desayuno"
+  ],
+  "recipeIngredient": [
+    "2 Huevos, batidos",
+    "1 taza de Leche",
+    "3/4 cucharadita de Sal",
+    "1/2 cucharadita de Tomillo seco y molido",
+    "1/4 cucharadita de Salvia seca y molida",
+    "1/2 cucharadita de Albahaca seca y molida",
+    "1 taza de Harina sin blanquear",
+    "1/2 taza de Queso Cheddar rallado"
+  ],
+  "recipeInstructions": "1. Mezcla las especias con la leche y los huevos en un bol.\n2. Añade la harina y el queso; mezcla hasta que esté justo combinado.\n3. Vierte la masa en moldes para magdalenas engrasados, llenándolos 2/3 de su capacidad.\n4. No precalientes el horno.\n5. Coloca la bandeja de magdalenas en el horno y caliéntalo a 230°C.\n6. Hornea durante 30 minutos sin abrir.\n7. Retira del horno y apaga el calor.\n8. Pincha los popovers con un tenedor en todos los lados a ángulo recto.\n9. Devuélvelos al horno (sin encender el calor). Deja que se sequen en el horno unos 10 minutos.\n10. Sirve inmediatamente.",
+  "url": null
+}

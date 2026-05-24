@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "goulash",
+  "name": "Goulash",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "3 lb de solomillo de res (cruz de costilla)",
+    "1 agua (para cubrir el asado)",
+    "1 lata de almejas enteras",
+    "28 oz de tomates enlatados",
+    "5 oz de pasta de tomate",
+    "1 yogur natural",
+    "1 cucharadita de granos de pimienta entera",
+    "1 cucharadita de orégano",
+    "1 pimiento rojo seco",
+    "1 cucharadita de polvo de chile",
+    "1/2 cucharadita de comino",
+    "2 cebollas, cortadas en rodajas",
+    "8 dientes de ajo, picados",
+    "1 taza de setas frescas"
+  ],
+  "recipeInstructions": "1. Coloca el asado en una olla de presión con suficiente agua para cubrirlo.\n2. Cocina durante 45 minutos hasta que esté tierno.\n3. Retira el asado del líquido de cocción y deja enfriar.\n4. Añade a la olla los tomates enlatados, las almejas, las cebollas, las setas, las especias (granos de pimienta, orégano, pimiento rojo, polvo de chile, comino) y la pasta de tomate.\n5. Machaca los dientes de ajo con el lado de un cuchillo y añádelos al estofado.\n6. Revuelve y deja cocinar a fuego lento hasta que el asado esté completamente frío.\n7. Desmenuza el asado en trozos y devuélvelo al estofado para seguir cocinando.\n8. Sirve sin aderezo con yogur natural encima, mézclalo con arroz o fideos, o disfruta del gulash solo, pero con compañía.",
+  "url": null
+}

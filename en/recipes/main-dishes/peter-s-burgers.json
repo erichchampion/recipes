@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "peter-s-burgers",
+  "name": "Peter's Burgers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "burgers",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 pound ground beef (93% lean)",
+    "1 egg",
+    "1 teaspoon salt",
+    "1 teaspoon black pepper",
+    "1 medium onion, chopped",
+    "1 teaspoon hot pepper sauce (about 5 shakes)",
+    "1 tablespoon Worcestershire sauce",
+    "2 tablespoons teriyaki glaze",
+    "1/4 cup rolled oats (raw)",
+    "1 clove garlic, minced"
+  ],
+  "recipeInstructions": "1. Mix all ingredients thoroughly.\n2. Form the mixture into four patties.\n3. Broil or grill to taste.\nNutritional information per serving: 231 calories (39% from fat), protein 26.6 g, fat 9.8 g (polyunsaturated 0.5 g, monounsaturated 4.5 g, saturated 3.4 g), carbs 7.8 g, fiber 1.2 g, cholesterol 116 mg, iron 3.2 mg, sodium 1160 mg, calcium 41 mg.",
+  "url": null
+}

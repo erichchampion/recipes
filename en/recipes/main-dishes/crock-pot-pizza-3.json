@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "crock-pot-pizza-3",
+  "name": "Crock Pot Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza",
+    "side dishes",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Hamburger (browned with onions)",
+    "2/3 package Cooked rigatoni pasta",
+    "2 cans Pizza sauce",
+    "2 large bags Mozzarella cheese",
+    "1 package Pepperoni slices",
+    "Mushrooms"
+  ],
+  "recipeInstructions": "1. Brown the hamburger with onions until fully cooked.\n2. In a crock pot, combine the cooked rigatoni pasta and pizza sauce.\n3. Add the pepperoni slices on top of the pasta and sauce.\n4. Sprinkle the shredded mozzarella cheese over everything.\n5. Place sliced mushrooms on top of the cheese.\n6. Cover with a lid and cook on low for 5 hours until the cheese is melted and bubbly.\nMakes a full pot.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-salad-supreme",
+  "name": "Ensalada de frutas suprema",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frutas",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de rúcula, sin tallos",
+    "8 piñas frescas o enlatadas, escurridas",
+    "2 naranjas, peladas y en rodajas",
+    "1 1/2 tazas de trozos de melón cantalupo",
+    "1/4 taza de cebolla verde picada o 1 pequeña cebolla dulce finamente picada",
+    "Salsa de lima:",
+    "1/4 taza de aceite vegetal",
+    "2 cucharadas de jugo de lima",
+    "1 cucharada de azúcar",
+    "1/4 cucharadita de salsa picante",
+    "1 cucharada de crema agria"
+  ],
+  "recipeInstructions": "1. Disponer la rúcula, las piñas y las naranjas en platos individuales.\n2. Cubrir con trozos de melón cantalupo y cebolla verde.\n3. En un bol pequeño, batir el aceite, el jugo de lima, el azúcar y la salsa picante hasta que se disuelva el azúcar.\n4. Incorporar la crema agria.\n5. Servir con las ensaladas.",
+  "url": null
+}

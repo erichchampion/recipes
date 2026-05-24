@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-vegetable-salad",
+  "name": "Ensalada de Verduras Italiana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "italiano",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 lata de VEG-ALL Mezcla de Verduras, escurrida (450 g)",
+    "1 lata de garbanzos, escurridos (450 g)",
+    "1/4 taza de cebolla verde picada",
+    "1/2 taza de apio picado",
+    "1/4 taza de aceite de oliva",
+    "3 cucharadas de vinagre",
+    "1 cucharadita de azúcar",
+    "1 cucharadita de albahaca seca",
+    "1 diente de ajo, picado",
+    "1/2 taza de aceitunas maduras, en rodajas",
+    "1 taza de tomates cereza, cortados por la mitad",
+    "2 cucharaditas de perejil picado"
+  ],
+  "recipeInstructions": "1. Mezcla el VEG-ALL, los garbanzos, la cebolla y el apio en un bol.\n2. Prepara el aderezo combinando el aceite de oliva, el vinagre, el azúcar, la albahaca y el ajo; mezcla bien.\n3. Vierte el aderezo sobre la mezcla de verduras y garbanzos.\n4. Deja reposar durante varias horas o durante la noche para marinar.\n5. Agrega las aceitunas, los tomates y el perejil antes de servir.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "egg-foo-yong",
+  "name": "Huevos Foo Yong",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "asiático",
+    "chino",
+    "étnico",
+    "oriental"
+  ],
+  "recipeIngredient": [
+    "3 huevos",
+    "1 taza de brotes de soja",
+    "1/2 taza de cerdo cocido",
+    "2 cucharadas de aceite de maní",
+    "2 cucharadas de cebolla picada",
+    "1 cucharada de salsa de soja"
+  ],
+  "recipeInstructions": "1. Batir los huevos hasta que estén espesados.\n2. Incorporar los brotes de soja, el cerdo, la cebolla y la salsa de soja a los huevos batidos.\n3. Calentar el aceite en una sartén.\n4. Verter pequeñas porciones de la mezcla en la sartén.\n5. Con una espátula, presionar el huevo mientras se enfría sobre la carne para formar un pastel.\n6. Cuando el pastel esté firme, darle la vuelta para dorar el otro lado.\n7. Servir con salsa.",
+  "url": null
+}

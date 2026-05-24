@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-sausage-1",
+  "name": "Italian Sausage 1",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italian",
+    "main dish",
+    "meat",
+    "meats",
+    "sausages"
+  ],
+  "recipeIngredient": [
+    "5 lb Coarse ground pork butt",
+    "6 Cloves pressed garlic",
+    "1 tbsp Crushed red pepper",
+    "1 tbsp Fennel seeds",
+    "1 t Thyme",
+    "2 Bay leaves, crushed",
+    "1 tbsp Salt",
+    "2 tsp Black pepper",
+    "1/2 tsp Nutmeg",
+    "1/2 tsp Coriander",
+    "1 tbsp Paprika",
+    "1 cup Cold water"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a large bowl and mix well.\n2. Stuff the mixture into hog casings using a stuffing machine or sausage stuffer.\n3. Cook the sausages by frying them over medium heat until fully cooked, or bake them in a preheated oven at 375°F (190°C) for about 20-25 minutes, or until the internal temperature reaches 160°F (71°C).\n4. Turn off the heat and let the sausages rest for a few minutes before serving.",
+  "url": null
+}

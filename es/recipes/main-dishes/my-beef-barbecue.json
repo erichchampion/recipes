@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-beef-barbecue",
+  "name": "Mi Barbacoa de Carne de Res",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "olla de cocción lenta",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "4 libras de carne de guiso de ternera, en cubos pequeños",
+    "30 onzas de tomates, picados",
+    "2 cebollas, picadas",
+    "1 litro de agua",
+    "1/2 cucharadita de polvo de chile",
+    "1 cucharadita de sal (al gusto)",
+    "1 cucharadita de pimienta negra, molida fresca",
+    "1 taza de ketchup",
+    "1/2 taza de vinagre de sidra",
+    "1/3 taza de salsa Worcestershire",
+    "4 dientes de ajo, picados finamente",
+    "1/8 de cucharadita de salsa picante"
+  ],
+  "recipeInstructions": "1. No intente hacer esta receta en una olla de cocción lenta, ya que la evaporación no ocurre en ese método.\n2. Combine todos los ingredientes en un gran y pesado cazo.\n3. Deje cocinar a fuego lento sin tapar hasta que la carne se deshaga y esté tierna al tacto.\n4. Revuelva ocasionalmente durante la cocción para asegurar una distribución uniforme de sabores.\n5. Este proceso tomará aproximadamente 5 a 6 horas.\n6. Durante la última hora, vigile atentamente para evitar que la mezcla se pegue en el fondo del cazo.\n7. La mezcla final debe estar espesa y cremosa.\n8. Mientras se cocina el plato, puede agregar al gusto pimientos verdes picados, apio, laurel o zanahorias para más sabor y textura.\n9. Sirva sobre panecillos de hamburguesa con mostaza.",
+  "url": null
+}

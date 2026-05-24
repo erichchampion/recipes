@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-bread-abm-large-loaf",
+  "name": "Pan de trigo blanco - Panificadora grande",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 1/3 tazas de leche",
+    "2 cucharadas de mantequilla",
+    "4 tazas de harina de trigo",
+    "3 cucharadas de azúcar blanca",
+    "1 1/2 cucharaditas de sal",
+    "2 1/4 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "1. Asegúrese de que todos los ingredientes estén a temperatura ambiente (70-80 °F).\n2. Coloque los ingredientes en la máquina panificadora en el siguiente orden: harina, azúcar, sal, levadura, leche y mantequilla.\n3. Seleccione la opción Normal en la máquina panificadora.\n- Alternativamente, para una opción más rápida, puede usar levadura en polvo rápida (1 1/2 cucharaditas) si lo prefiere.",
+  "url": null
+}

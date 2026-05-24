@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-chicken",
+  "name": "Mexican Chicken",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "mexican",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1 Onion; Med, Thinly Sliced",
+    "0.5 cup Vegetable Oil",
+    "12 Green Olives; Pitted",
+    "4 cups Tomatoes; Chopped, 4 Medium",
+    "2 Celery Stalks; Chopped",
+    "2 Cloves Garlic; Finely Chopped",
+    "2 Bay Leaves",
+    "0.5 cup Water",
+    "2 tbsp Capers",
+    "1 tbsp Oregano Leaves; Dried",
+    "0.5 tsp Salt",
+    "0.25 tsp Pepper",
+    "6 Chicken Breast Halves;",
+    "8 oz Mushrooms; Fresh, Sliced"
+  ],
+  "recipeInstructions": "1. Cook and stir onion in oil in a 10-inch skillet until tender.\n2. Stir in the remaining ingredients except the chicken breasts and mushrooms. Heat to boiling; reduce heat and simmer, uncovered, for 30 minutes.\n3. Place chicken, skin sides up, in a single layer in the skillet. Cover and cook over medium-low heat for 30 minutes.\n4. Add mushrooms, cover and cook until chicken is done, about 15 minutes longer.",
+  "url": null
+}

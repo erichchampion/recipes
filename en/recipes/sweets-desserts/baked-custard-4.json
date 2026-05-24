@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-custard-4",
+  "name": "Baked Custard",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 egg",
+    "1 cup milk",
+    "3 tablespoons sugar",
+    "3/4 teaspoon vanilla extract",
+    "1/8 teaspoon salt",
+    "1/8 teaspoon ground nutmeg"
+  ],
+  "recipeInstructions": "1. In a bowl, lightly beat the egg.\n2. Add milk, sugar, vanilla and salt to the beaten egg.\n3. Pour mixture into two ungreased 6-oz custard cups.\n4. Sprinkle each cup with nutmeg.\n5. Set the cups in a pan containing 1/2 to 1 inch of hot water.\n6. Bake at 350°F for 35 minutes or until set.",
+  "url": null
+}

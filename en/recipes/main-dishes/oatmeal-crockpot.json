@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "oatmeal-crockpot",
+  "name": "Oatmeal - Crockpot",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "cereals",
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "2 1/2 cups Water",
+    "1 cup Oats",
+    "1/4 teaspoon Salt"
+  ],
+  "recipeInstructions": "1. Add water, oats, and salt to the crockpot.\n2. Set the crockpot to low or overnight setting.\n3. Cook for the entire night or until the oats are tender and have absorbed most of the liquid.\n4. Fluff with a fork before serving.\nThis technique works well not only for oats but also for polenta and other coarse cooked cereals.",
+  "url": null
+}

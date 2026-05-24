@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "thyme-tea",
+  "name": "Té de tomillo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "recetas de hierbas",
+    "guarniciones",
+    "té"
+  ],
+  "recipeIngredient": [
+    "2 cucharaditas de tomillo seco",
+    "2 cucharaditas de menta seca",
+    "2 cucharaditas de salvia seca"
+  ],
+  "recipeInstructions": "1. Calienta una tetera de 6 tazas.\n2. Coloca las hierbas en la tetera.\n3. Vierte agua hirviendo sobre las hierbas.\n4. Deja reposar la infusión durante un máximo de 10 minutos.\n5. Una vez infusionado, vierte el té inmediatamente en tazas.\n6. Sirve con miel.",
+  "url": null
+}

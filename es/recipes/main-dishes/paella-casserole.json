@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "paella-casserole",
+  "name": "Paella en cocina de horno",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 paquete (6,8 oz.) de mezcla de arroz español",
+    "1 lata (400g) de tomates troceados en jugo (o tomates estofados escurridos)",
+    "2 tazas de pollo o pavo cocido y picado",
+    "1 taza de guisantes congelados",
+    "1 paquete (6 oz.) de gambas congeladas, descongeladas, enjuagadas y escurridas",
+    "2 tazas (8 oz.) de mezcla de queso Sargento 4 Quesos Country Casserole Recipe Blend"
+  ],
+  "recipeInstructions": "1. Cocinar el arroz según las instrucciones del paquete utilizando los tomates.\n2. Retirar del fuego; mezclar con el pollo, los guisantes y las gambas.\n3. Extender la mitad de la mezcla de arroz en un molde para hornear de 23x33 cm.\n4. Espolvorear con 1 taza de mezcla de queso Sargento.\n5. Cubrir con el resto de la mezcla de arroz.\n6. Tapar con papel aluminio; hornear a 180°C durante 25 minutos o hasta que esté caliente.\n7. Retirar el papel aluminio; espolvorear con el resto del queso (1 taza).\n8. Dejar reposar 5 minutos o hasta que se derrita el queso.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "muffin-tin-breakfast",
+  "name": "Desayuno en moldes para muffins",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "desayuno",
+    "carnes",
+    "magdalenas",
+    "dulce"
+  ],
+  "recipeIngredient": [
+    "6 rebanadas de jamón de pavo",
+    "6 huevos",
+    "Batido para 6 muffins"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375 °F (190 °C).\n2. Forrar seis compartimentos de un molde para muffins con rebanadas de jamón de pavo.\n3. Romper un huevo en cada rebanada de jamón.\n4. Forrar otros seis compartimentos con papel pergamino.\n5. Llenar cada cupo hasta las 2/3 de su capacidad con el batido para muffins.\n6. Hornear durante 15-20 minutos, o hasta que los huevos estén cocidos y los muffins sean dorados.",
+  "url": null
+}

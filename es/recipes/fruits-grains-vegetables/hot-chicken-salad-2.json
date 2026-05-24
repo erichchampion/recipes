@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-chicken-salad-2",
+  "name": "Ensalada de Pollo Caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pollo",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de pollo cocido desmenuzado",
+    "1 taza de apio picado",
+    "1 cucharada de cebolla picada",
+    "1/2 taza de aderezo para ensalada",
+    "1/4 taza de nueces picadas",
+    "Sal y pimienta al gusto",
+    "1 taza de queso rallado"
+  ],
+  "recipeInstructions": "1. En una sartén, mezclar el pollo cocido, el apio, la cebolla y el aderezo para ensalada.\n2. Calentar a fuego medio hasta que todo esté caliente y bien combinado.\n3. Incorporar las nueces, la sal y la pimienta.\n4. Agregar el queso rallado y remover hasta que se derrita y quede integrado por completo.",
+  "url": null
+}

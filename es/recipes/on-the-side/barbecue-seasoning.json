@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecue-seasoning",
+  "name": "Condimento para barbacoa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bbq",
+    "condimentos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de sal",
+    "4 cucharadas de azúcar (en polvo)",
+    "2 cucharadas de comino molido",
+    "2 cucharadas de pimienta negra",
+    "2 cucharadas de polvo de chile",
+    "4 cucharadas de pimentón dulce"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Remover bien hasta obtener una mezcla homogénea.\n3. Colocar la mezcla en un tarro con tapa hermética.\n4. Utilizar al gusto para sazonar tus platos de barbacoa.",
+  "url": null
+}

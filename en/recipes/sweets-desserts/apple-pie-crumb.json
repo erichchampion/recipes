@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-pie-crumb",
+  "name": "Apple Pie - Crumb",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "fruits",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "6 medium Apples",
+    "2 tablespoons Sugar",
+    "1 teaspoon Nutmeg",
+    "1 cup Flour",
+    "1 cup Brown sugar",
+    "1/2 cup Butter",
+    "3 tablespoons Milk"
+  ],
+  "recipeInstructions": "1. Mix 2 tablespoons of sugar and 1 teaspoon of nutmeg.\n2. Pour the mixture over thinly sliced apples placed in a pie pan lined with pastry.\n3. In a bowl, combine 1 cup of flour and 1 cup of brown sugar. Add the butter and cut it in until crumbly.\n4. Pour this crumb mixture over the apples.\n5. Pour 3 tablespoons of milk on top.\n6. Bake in a moderate oven (350 degrees) until done.",
+  "url": null
+}

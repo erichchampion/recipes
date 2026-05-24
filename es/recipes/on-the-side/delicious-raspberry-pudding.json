@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "delicious-raspberry-pudding",
+  "name": "Delicioso Pudín de Fresas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pudins",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de almidón de maíz",
+    "1 taza de azúcar granulada",
+    "4 tazas de leche",
+    "1/2 cucharadita de sal",
+    "1 paquete (340 g) de frambuesas frescas"
+  ],
+  "recipeInstructions": "1. Mezcla el almidón de maíz, el azúcar y la sal en un bol.\n2. Añade la leche poco a poco, batiendo hasta que no queden grumos.\n3. Retira del fuego y añade las frambuesas, mezclando hasta que estén distribuidas uniformemente.\n4. Vierte en copas para postre y decora con frambuesas enteras y hojas de menta.",
+  "url": null
+}

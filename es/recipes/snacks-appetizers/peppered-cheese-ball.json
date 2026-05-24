@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "peppered-cheese-ball",
+  "name": "Pelota de queso especiada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivo",
+    "aperitivos",
+    "queso",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "2 tazas de queso jack",
+    "8 onzas de queso crema",
+    "1 cucharada de hierbas finas",
+    "1 cucharada de cebolla picada",
+    "1 cucharada de salsa Worcestershire",
+    "1 cucharada de ajo en polvo",
+    "3 cucharadas de pimienta molida (divididas)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes, excepto la pimienta molida.\n2. Dar forma a la mezcla en una bola.\n3. Aplanar ligeramente un lado de la bola.\n4. Rodear el lado aplanado con pimienta molida.\n5. Envolver la bola en papel film y refrigerar durante 6-12 horas hasta que esté firme.\n6. Servir ligeramente frío o a temperatura ambiente con galletas saladas, pan o tostadas variadas.",
+  "url": null
+}

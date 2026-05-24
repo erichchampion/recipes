@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "wild-thing",
+  "name": "Cosa Salvaje",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 lb de solomillo o lomo de res - cortado en rodajas de 1/8\"",
+    "1 cucharada de aceite vegetal",
+    "1/2 taza de cebolletas picadas",
+    "1 paquete de mezcla de arroz largo y salvaje (4.3 a 6.25 oz.) preparado según las instrucciones del paquete",
+    "7 oz de maíz entero enlatado - escurrido",
+    "16 oz de tomates estofados enlatados - sin escurrir"
+  ],
+  "recipeInstructions": "1. Calentar una sartén grande a fuego medio-alto. Agregar el aceite.\n2. Dorar la carne en la sartén, aproximadamente 2-3 minutos por lado, hasta que esté completamente cocida.\n3. Añadir las cebolletas y cocinar durante un minuto más.\n4. Incorporar el arroz, el maíz y los tomates.\n5. Cocinar, removiendo ocasionalmente, hasta que se haya calentado todo bien, aproximadamente 2 a 3 minutos más.",
+  "url": null
+}

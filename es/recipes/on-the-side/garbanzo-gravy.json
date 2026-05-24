@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "garbanzo-gravy",
+  "name": "Salsa de garbanzos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de harina de garbanzo",
+    "1/3 taza de levadura nutricional",
+    "2 cucharadas de cebolla deshidratada finamente picada",
+    "1/4 cucharadita de polvo de ajo",
+    "Sal y pimienta al gusto",
+    "3 tazas de caldo vegetal",
+    "2 cucharadas de salsa de carne o salsa Worcestershire vegetariana"
+  ],
+  "recipeInstructions": "1. En una cacerola de 2 litros, combina todos los ingredientes excepto el caldo y la salsa.\n2. Tuesta a fuego medio, removiendo constantemente, durante unos 2 minutos.\n3. Incorpora gradualmente el caldo y la salsa al mezcla de harina, batiendo continuamente.\n4. Cocina, revolviendo hasta que espese y se suavice. Sirve inmediatamente.",
+  "url": null
+}

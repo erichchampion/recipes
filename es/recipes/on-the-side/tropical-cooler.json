@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "tropical-cooler",
+  "name": "Refresco Tropical",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 taza de jugo de naranja",
+    "1/4 taza de jugo de limón",
+    "1 taza de jugo de piña",
+    "1/4 taza de jugo de cereza maraschino",
+    "1 taza de gaseosa de jengibre",
+    "2 cucharaditas de miel",
+    "1 taza de jugo de arándano y manzana"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes excepto la gaseosa de jengibre en una licuadora.\n2. Licuar hasta obtener una textura suave.\n3. Verter en vasos y añadir la gaseosa de jengibre justo antes de servir.\n4. Para un toque decorativo, adornar cada porción con una hoja de menta, una cereza maraschino roja o verde, o ambas.\n5. Rinde para 6 personas.",
+  "url": null
+}

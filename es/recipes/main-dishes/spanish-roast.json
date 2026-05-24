@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "spanish-roast",
+  "name": "Asado español",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "chocolate",
+    "étnico",
+    "español"
+  ],
+  "recipeIngredient": [
+    "4 lb de asado",
+    "Harina",
+    "2 cucharadas de aceite",
+    "1 cebolla grande, cortada en rodajas finas en anillos",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra",
+    "2 clavos enteros",
+    "1 cucharada de vinagre",
+    "1 hoja de laurel entera",
+    "1 cucharadita de canela",
+    "2 cucharadas de ketchup",
+    "2 tazas de agua",
+    "2 onzas de chocolate con leche semiamargo, rallado"
+  ],
+  "recipeInstructions": "1. Harina el asado.\n2. Dorar el asado en aceite por todos lados.\n3. Retirar el asado de la sartén y reservar.\n4. Colocar los anillos de cebolla en una olla (o sartén holandesa).\n5. Añadir sal y pimienta a los anillos de cebolla.\n6. Colocar el asado nuevamente sobre los anillos de cebolla, junto con los clavos, vinagre, hoja de laurel, canela, ketchup y agua.\n7. Cubrir la olla y llevar a ebullición.\n8. Reducir el calor y dejar cocinar a fuego lento durante aproximadamente 2 horas y media o hasta que el asado esté tierno.\n9. Añadir el chocolate rallado y remover alrededor del asado.\n10. Dejar cocinar otros 15 minutos.\n11. Retirar los clavos y la hoja de laurel antes de servir.",
+  "url": null
+}

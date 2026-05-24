@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "banshee",
+  "name": "Banshee",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "refrescos",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1/2 oz de licor de plátano",
+    "1/2 oz de licor de cacao",
+    "2 oz de crema dulce",
+    "Hielo triturado"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes líquidos con hielo triturado en un vaso mezclador.\n2. Agitar bien hasta que estén combinados.\n3. Colar en un vaso de cóctel.",
+  "url": null
+}

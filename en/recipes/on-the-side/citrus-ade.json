@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "citrus-ade",
+  "name": "Citrus-Ade",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "fruits",
+    "lemonade",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "5 Lemons",
+    "5 Limes",
+    "5 Oranges",
+    "3 quarts Water",
+    "1 1/2 cups Sugar"
+  ],
+  "recipeInstructions": "1. Squeeze the juice from four lemons, limes, and oranges.\n2. Pour the juice into a gallon container.\n3. Thinly slice the remaining fruit for garnish.\n4. Add water and sugar to the juice; mix well.\n5. Store in the fridge.\n6. Serve over ice with fruit slices.",
+  "url": null
+}

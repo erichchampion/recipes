@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-silk-pie",
+  "name": "Chocolate Silk Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Butter",
+    "3/4 cup Sugar",
+    "1 oz Bake's unsweetened chocolate",
+    "1 tsp Vanilla",
+    "2 Eggs",
+    "1 Pie shell (9 inch)",
+    "1/2 pint Whipping cream"
+  ],
+  "recipeInstructions": "1. Thoroughly cream butter and sugar.\n2. Blend in melted chocolate and vanilla.\n3. Add eggs, one at a time, beating for 5 minutes after each addition on medium speed.\n4. Pour into cool pie shell.\n5. Chill for 2 hours.\n6. Top with whipped cream.",
+  "url": null
+}

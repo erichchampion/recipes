@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "rabbit-fried",
+  "name": "Cone de conejo frito",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "juego",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "Conejo, limpio y cortado en trozos",
+    "Aceite de cocina",
+    "Sal",
+    "Pimienta",
+    "Cebolla, en rodajas",
+    "Harina"
+  ],
+  "recipeInstructions": "Si es un conejo joven, siga la receta. Para un conejo mayor y más duro, hiérvelo en agua salada hasta que esté tierno.\n1. Dorar ligeramente las cebollas en aceite de cocina.\n2. Empanizar los trozos de conejo con harina, sal y pimienta.\n3. Colocar en una sartén caliente con aceite y cebolla y cocinar hasta dorar por ambos lados.\n4. Retirar la carne de la sartén y hacer salsa espesando el resto de harina del empanizado en el aceite restante.\n5. Cocinar hasta que esté dorada.\n6. Añadir 1 taza y media de agua y devolver el conejo a la mezcla. Cocinar a fuego lento hasta que la salsa espese.",
+  "url": null
+}

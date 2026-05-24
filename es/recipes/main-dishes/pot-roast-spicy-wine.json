@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "pot-roast-spicy-wine",
+  "name": "Rost de ternera picante al vino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "sal",
+    "pimienta",
+    "1 pequeña cebolla, picada",
+    "3/4 taza de mezcla de salsa marrón",
+    "1 taza de agua",
+    "1/4 taza de ketchup",
+    "1/4 taza de vino tinto seco",
+    "2 cucharaditas de mostaza estilo Dijon",
+    "1 cucharadita de salsa Worcestershire",
+    "1/8 cucharadita de polvo de ajo",
+    "4 libras de carne de res para estofado (pot roast)"
+  ],
+  "recipeInstructions": "1. Espolvorear la carne de res con sal y pimienta.\n2. Colocar la carne en una olla de cocción lenta.\n3. En un bol, mezclar los ingredientes restantes (agua, ketchup, vino tinto, mostaza, salsa Worcestershire, polvo de ajo).\n4. Verter la mezcla sobre la carne.\n5. Tapar y cocinar a fuego lento durante 8-10 horas.\n6. Retirar la carne cocida y cortarla en rebanadas.\n7. (Opcional) Espesar la salsa con harina disuelta en un poco de agua, si se desea.\n8. Servir la salsa sobre las rebanadas de carne o como acompañamiento para papas.",
+  "url": null
+}

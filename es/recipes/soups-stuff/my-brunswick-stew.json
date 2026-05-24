@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-brunswick-stew",
+  "name": "Mi Estofado de Brunswick",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "pollo",
+    "cerdo",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "2 1/2 libras de pechuga de pollo sin piel ni hueso",
+    "1 cebolla grande, picada finamente",
+    "5 costillas de apio, cortadas en rodajas de 1/2 pulgada",
+    "4 zanahorias medianas, cortadas en rodajas de 1/2 pulgada",
+    "1 cucharadita de pimentón rojo",
+    "3 cuartos de caldo de pollo",
+    "2 1/2 libras de roast de cerdo, cortado en cubos de 1/2 pulgada",
+    "28 onzas de tomates triturados en lata",
+    "1 libra de okra, cortada en rodajas de 1/4 pulgada",
+    "2 latas de maíz congelado, descongeladas",
+    "4 gotas de salsa Tabasco",
+    "16 onzas de salsa de tomate"
+  ],
+  "recipeInstructions": "1. Cocinar la pechuga de pollo y las cebollas en una olla grande a fuego medio hasta que estén calientes por dentro.\n2. Agregar el apio y las zanahorias, cocinar durante un minuto más.\n3. Incorporar el pimentón rojo y el caldo de pollo. Llevar a ebullición, luego reducir el calor a bajo.\n4. Añadir los cubos de cerdo y cocinar a fuego lento, cubierto parcialmente, durante 30 minutos.\n5. Retirar el pollo con una cuchara perforada y dejar enfriar. Devolver la olla al fuego.\n6. Escurrir cualquier grasa excesiva de la superficie del líquido.\n7. Desmenuzar el pollo frío con dos tenedores, descartando la piel y los huesos.\n8. Agregar los tomates, la okra y cocinar a fuego lento sin cubrir durante 30 minutos, revolviendo ocasionalmente, hasta que el cerdo esté completamente cocido y no quede rastro de color rosado, y la okra esté tierna.\n9. Incorporar el maíz, la salsa de tomate, la salsa Tabasco, sal y pimienta al gusto.\n10. Dejar enfriar el estofado antes de servir o disfrutarlo directamente de la olla.",
+  "url": null
+}

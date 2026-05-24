@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-raspberry-jam",
+  "name": "Mermelada de fresa falsa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "mermeladas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "5 tazas de tomates verdes",
+    "4 tazas de azúcar",
+    "6 onzas de gelatina de frambuesa (2 paquetes)"
+  ],
+  "recipeInstructions": "1. Licúa los tomates verdes hasta obtener una mezcla homogénea.\n2. Añade el azúcar a la mezcla licuada y lleva a ebullición durante 20 minutos, retirando espuma si es necesario.\n3. Incorpora la gelatina de frambuesa y remueve hasta que se disuelva por completo.\n4. Vierte la mezcla en tarros esterilizados.\n5. Guarda en el refrigerador. Esta confitura también se puede congelar.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-vinaigrette",
+  "name": "Simple Vinaigrette",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "dressings",
+    "salads",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "3 tablespoons Red wine vinegar or tarragon vinegar",
+    "1 tablespoon Dijon mustard",
+    "Salt and pepper to taste",
+    "12 tablespoons Safflower oil or Canola oil"
+  ],
+  "recipeInstructions": "1. Mix the vinegar with the mustard, salt, and pepper.\n2. Gradually add the oil while mixing vigorously by hand or electric blender.\n3. Continue mixing until the desired consistency is reached.\n4. Makes 1 cup.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pineapple-orange-yogurt-shake",
+  "name": "Batido de piña y naranja con yogur",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "postres",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de leche desnatada",
+    "6 onzas de zumo de naranja descongelado",
+    "1 taza de hielo",
+    "1 taza de agua",
+    "1 cucharadita de extracto de vainilla",
+    "1/2 taza de yogur natural",
+    "1 naranja pelada y sin semillas, cortada en trozos",
+    "1 piña pequeña, cortada en trozos"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes al licuadora: leche, zumo de naranja, hielo, agua, vainilla, yogur, naranja y piña.\n2. Mezclar hasta obtener una textura suave.\n3. Servir inmediatamente.",
+  "url": null
+}

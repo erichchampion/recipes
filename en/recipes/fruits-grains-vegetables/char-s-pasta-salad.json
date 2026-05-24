@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "char-s-pasta-salad",
+  "name": "Char's Pasta Salad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pasta",
+    "quick",
+    "salads"
+  ],
+  "recipeIngredient": [
+    "1 package Pasta Shapes (any)",
+    "4 Hard Cooked Eggs",
+    "1 cup Cubed Ham (or Hormel can)",
+    "1/2 cup Hellman's Mayonaise",
+    "1 tablespoon Dijonnaise",
+    "1 teaspoon Garlic Powder",
+    "1 teaspoon Salt and Pepper to taste"
+  ],
+  "recipeInstructions": "1. Boil the pasta until cooked al dente, then drain.\n2. Chop the hard cooked eggs into bite-sized pieces.\n3. In a large bowl, mix the chopped eggs with the remaining ingredients.",
+  "url": null
+}

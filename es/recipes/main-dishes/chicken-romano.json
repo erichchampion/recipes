@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-romano",
+  "name": "Pollo Romano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "2 1/2 piezas de pollo",
+    "2 cucharadas de aceite de oliva",
+    "Sal",
+    "Pimienta",
+    "1 cebolla, en rodajas",
+    "12 onzas de salsa picante",
+    "1 cucharadita de orégano seco en hojas",
+    "Queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. Dorar el pollo en el aceite hasta que esté cocido por completo.\n2. Retirar y reservar para drenar el exceso de grasa.\n3. Sazonar con sal y pimienta al gusto.\n4. Añadir la cebolla y devolver el pollo a la olla. Cubrir y cocinar durante 30 minutos, removiendo ocasionalmente.\n5. Incorporar la salsa picante y el orégano seco.\n6. Cocinar destapado durante 10 minutos adicionales, bañando frecuentemente con la salsa.\n7. Escurrir cualquier grasa excesiva de la superficie de la salsa.\n8. Servir caliente sobre el pollo, espolvoreado con queso parmesano rallado.",
+  "url": null
+}

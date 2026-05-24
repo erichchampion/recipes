@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "top-dog-hot-dogs",
+  "name": "Perros Calientes Top-Dog",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carnes",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "8 perritos calientes",
+    "8 panecillos para hot dog, cortados por la mitad",
+    "10 oz de encurtido para perritos calientes",
+    "o",
+    "salsa chili",
+    "1 pimiento verde pequeño, picado",
+    "1 cebolla pequeña, picada",
+    "1 tomate pequeño, picado y sin semillas",
+    "Queso mozzarella rallado"
+  ],
+  "recipeInstructions": "1. Cocinar los perritos calientes según las instrucciones del paquete.\n2. Colocar los perritos calientes cocidos en los panecillos.\n3. Añadir encurtido o salsa chili encima.\n4. Agregar pimiento verde, cebolla y tomate.\n5. Espolvorear con queso mozzarella rallado.",
+  "url": null
+}

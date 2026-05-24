@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-biscuits",
+  "name": "Potato Biscuits",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "biscuits",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "1 cup mashed potatoes",
+    "2 tablespoons butter",
+    "1/2 teaspoon baking soda",
+    "1 cup buttermilk",
+    "1 tablespoon honey",
+    "2 cups flour",
+    "2 teaspoons baking powder",
+    "1 tablespoon brown sugar"
+  ],
+  "recipeInstructions": "1. Stir the butter into the mashed potatoes.\n2. Dissolve the baking soda in the buttermilk and add the honey.\n3. Mix together the baking powder, brown sugar, and flour.\n4. Gradually incorporate the milk mixture until a dough forms.\n5. Press the dough onto a lightly greased pad.\n6. Cut the biscuits into desired shapes.\n7. Bake at 400°F (200°C) until golden brown and cooked through.",
+  "url": null
+}

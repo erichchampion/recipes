@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "shredded-wheat-bread",
+  "name": "Pan de trigo rallado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 barra de 400 g",
+    "1 galleta de trigo rallado grande",
+    "7/8 taza de agua",
+    "2 tazas de harina de trigo integral",
+    "1 cucharadita de sal",
+    "1 cucharada de puré de manzana",
+    "1 1/2 cucharadas de azúcar moreno",
+    "1 1/2 cucharadas de miel",
+    "2 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a temperatura media.\n2. Mezclar todos los ingredientes en un bol hasta que estén bien combinados.\n3. Verter la mezcla en un molde para pan y hornear hasta que esté cocido.",
+  "url": null
+}

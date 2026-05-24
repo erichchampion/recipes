@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "onion-cheese-soup",
+  "name": "Onion Cheese Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups"
+  ],
+  "recipeIngredient": [
+    "2 cups Chopped sweet onions",
+    "3 tablespoons Flour",
+    "1/2 tablespoon Salt",
+    "1 teaspoon Pepper",
+    "4 cups Milk",
+    "2 cups Sharp American cheese, grated"
+  ],
+  "recipeInstructions": "1. Cook chopped onions in butter until tender, but not brown.\n2. Blend flour, salt, and pepper together.\n3. Add milk all at once to the flour mixture.\n4. Heat and stir until boiling.\n5. Remove from heat.\n6. Add grated cheese, stirring to melt cheese.",
+  "url": null
+}

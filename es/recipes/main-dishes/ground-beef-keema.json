@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "ground-beef-keema",
+  "name": "Carne molida keema",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "carne molida",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de carne molida",
+    "1 taza de guisantes verdes congelados",
+    "1 cucharadita de sal",
+    "1 paquete de sopa de tomate Campbell's",
+    "1/2 cucharadita de sal de ajo",
+    "1/2 taza de queso Parmesano rallado",
+    "1 cucharadita de salsa A.1. para asar",
+    "1/2 taza de cebolla picada",
+    "2 cucharaditas de canela en polvo",
+    "2 cucharaditas de cúrcuma en polvo",
+    "1/2 cucharadita de canela en polvo"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida en una sartén de hierro, escurriendo el exceso de grasa.\n2. Añadir la cebolla y todas las especias a la carne.\n3. Incorporar los guisantes verdes y el queso Parmesano.\n4. Reducir el fuego y cocinar durante 10 minutos.\n5. Servir con arroz o utilizar el relleno para hacer bolsitas de pan pita.",
+  "url": null
+}

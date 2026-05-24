@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cucumber-salad-i",
+  "name": "Ensalada de pepino I",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "3 pepinos (pelados y cortados en rodajas finas)",
+    "1 diente de ajo (pelado)",
+    "Sal",
+    "1/4 taza de vinagre",
+    "2 cucharadas de azúcar",
+    "2 cucharadas de agua",
+    "Agua cress"
+  ],
+  "recipeInstructions": "1. Cubrir los pepinos con agua.\n2. Añadir el ajo y espolvorear bien con sal, removiendo para disolver la sal.\n3. Dejar reposar durante 1 hora.\n4. Escurrir, presionando suavemente para eliminar el exceso de líquido, y desechar el ajo.\n5. Mezclar el vinagre, el azúcar y 2 cucharadas de agua hasta que se disuelva el azúcar.\n6. Verter sobre los pepinos y mezclar.\n7. Añadir sal al gusto.\n8. Enfriar bien, escurrir y servir sobre una cama de agua cress.",
+  "url": null
+}

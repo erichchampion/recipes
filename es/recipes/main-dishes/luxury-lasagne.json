@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "luxury-lasagne",
+  "name": "Lasaña de lujo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 cebolla grande, picada",
+    "3 dientes de ajo, machacados",
+    "1/3 taza de aceite de oliva",
+    "1/2 libra de hígados de pollo, picados",
+    "1/4 libra de prosciutto, picado",
+    "2 tazas de pollo cocido, picado",
+    "2 latas de pasta de tomate (6 onzas cada una)",
+    "1 lata de tomates pelados, de 15 onzas",
+    "2 latas de salsa de tomate con hierbas (1 libra cada una)",
+    "1 taza de caldo de pollo",
+    "1 taza de vino blanco seco",
+    "1/4 cucharadita de sal, opcional",
+    "1/2 cucharadita de pimienta, albahaca y orégano",
+    "1 libra de lasaña en espiral, aproximadamente 20 piezas",
+    "1 libra de ricota descremada",
+    "3 3/4 tazas de queso Parmesano rallado",
+    "1/2 libra de mozzarella en rodajas"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla y el ajo en aceite de oliva en una olla holandesa hasta que estén tiernos.\n2. Agregar los hígados de pollo y saltear hasta que estén dorados.\n3. Añadir los ingredientes restantes (excepto las últimas 4) a la olla. Llevar a ebullición, tapar y cocinar a fuego lento, removiendo ocasionalmente, durante 25 minutos.\n4. Mientras tanto, cocer y escurrir bien la lasaña. Enjuagar con agua fría para facilitar la separación al manipular y escurrir nuevamente.\n5. Verter un poco de salsa en un molde para hornear de 16 x 9 1/2 x 2 1/2\" (o dos moldes pequeños similares).\n6. Cubrir con una capa de lasaña, extender un tercio de la ricota y espolvorear con un tercio del Parmesano.\n7. Repetir las capas dos veces más.\n8. Colocar las rodajas de mozzarella en la parte superior y hornear en horno precalentado a 175 °C durante 30 minutos o hasta que esté burbujeante. Sirve para 8-10 personas.",
+  "url": null
+}

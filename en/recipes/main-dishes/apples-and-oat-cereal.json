@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "apples-and-oat-cereal",
+  "name": "Apples and Oat Cereal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "cereals",
+    "fruits",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "4 cups Water",
+    "1 1/3 cups Oat bran",
+    "1/2 cup Raisins",
+    "1 Apple, shredded",
+    "1 tbsp Maple syrup",
+    "1/2 tsp Ground caraway seeds",
+    "1/2 tsp Ground cinnamon",
+    "1 cup (1-2) Skim milk"
+  ],
+  "recipeInstructions": "1. In a 2-quart saucepan, bring the water and oat bran to a vigorous boil, stirring constantly.\n2. Reduce the heat to low and cook for 2 minutes, stirring frequently until thick.\n3. Remove from heat and stir in the raisins, apples, maple syrup, caraway seeds, and cinnamon.\n4. Let stand for 5 minutes.\n5. Spoon into bowls and serve with the milk.",
+  "url": null
+}

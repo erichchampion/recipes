@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-crab-imperial",
+  "name": "Crab Imperial Fácil",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "2 tazas de carne de cangrejo [en láminas]",
+    "1 taza de mayonesa",
+    "4 claras de huevo [batidas firmemente]",
+    "1/4 cucharadita de sal",
+    "1/8 cucharadita de pimienta",
+    "1/2 taza de migas de pan"
+  ],
+  "recipeInstructions": "1) Mezclar la carne de cangrejo y la mayonesa en un bol. Incorporar las claras de huevo, la sal y la pimienta.\n2) Verter la mezcla en un molde para hornear engrasado y espolvorear con migas de pan.\n3) Hornear a 180°C durante 45 minutos.",
+  "url": null
+}

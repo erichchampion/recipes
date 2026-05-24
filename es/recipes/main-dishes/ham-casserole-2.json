@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-casserole-2",
+  "name": "Cazuela de Jamón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "6 rebanadas de jamón cocido bajo en grasa, en rodajas gruesas",
+    "o - aproximadamente tres tazas de sobras de jamón",
+    "6 papas medianas, cortadas en finas rodajas",
+    "o 12 nuevas papas, cortadas por la mitad",
+    "2 cebollas grandes, cortadas en rodajas finas",
+    "6 rebanadas de queso mozzarella bajo en grasa (6-12)",
+    "o cualquier queso suave",
+    "1 lata de sopa cremosa de setas baja en grasa"
+  ],
+  "recipeInstructions": "1. Coloca el jamón al fondo de una olla de cocción lenta.\n2. Extiende una capa de sopa sobre el jamón.\n3. Arregla capas alternas de papas, cebollas y queso entre los grupos de rebanadas de jamón.\n4. Continúa con las capas hasta utilizar todos los ingredientes, terminando con una capa de queso en la parte superior.\n5. Cocina a temperatura alta durante un corto período para calentar la olla, luego pasa a temperatura baja.\n6. Tapa y cocina entre 6 y 8 horas, o hasta que el gratinado esté caliente y el queso derretido.",
+  "url": null
+}

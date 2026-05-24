@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tzimmes-meat-vegetables",
+  "name": "Tzimmes (Meat & Vegetables)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetic",
+    "main dish",
+    "special diets"
+  ],
+  "recipeIngredient": [
+    "3 Carrots",
+    "2 Potatoes, peeled",
+    "1 Sweet potato, peeled",
+    "1.5 Beef top round steak",
+    "1 Onion, sliced thin",
+    "0.5 cup Dried prunes",
+    "0.5 cup Dried apricots",
+    "0.5 cup Orange juice",
+    "Water"
+  ],
+  "recipeInstructions": "1. Cut the vegetables into 1-inch pieces.\n2. Cut the beef into strips.\n3. Brown the meat in a nonstick pan.\n4. Add the vegetables, prunes, apricots, and orange juice to the pan.\n5. Add enough water to cover the meat and vegetables.\n6. Bring the mixture to a boil.\n7. Lower the heat and let it simmer for 2 to 3 hours, or until the meat is tender.\n8. Alternatively, bake the dish in a covered dish at 350°F (175°C) for 3 hours.\nWARNING: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

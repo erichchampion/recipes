@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "ale-bread-2",
+  "name": "Ale Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "2 cups unbleached flour",
+    "1 can (12 oz) beer or ale (no lite)",
+    "2 tsp baking powder",
+    "1 handful chopped green onion",
+    "1 dash salt",
+    "1 handful grated cheese (optional)"
+  ],
+  "recipeInstructions": "1. Stir together the flour, salt, and baking powder.\n2. Add the beer. Mix in the green onions and cheese, if using.\n3. Knead the dough briefly, adding more flour if it's sticky.\n4. Form the dough into a round loaf and place it in a greased pie pan or on a greased cookie sheet.\n5. Bake at 375°F for 30 minutes, until golden brown and the loaf sounds hollow when tapped.",
+  "url": null
+}

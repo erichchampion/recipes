@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "abm-rice-bread",
+  "name": "Pan de arroz ABM",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "9 onzas (260 ml) de agua",
+    "1 cucharada (15 ml) de aceite vegetal",
+    "1 taza y 3/4 (180 g) de harina de uso común",
+    "1 taza (120 g) de arroz crujiente molido",
+    "1 cucharadita (5 g) de azúcar",
+    "1 cucharadita (5 g) de sal",
+    "1 1/2 cucharaditas (7,5 g) de levadura"
+  ],
+  "recipeInstructions": "1. En una licuadora, mezcle los arroz crujiente molido hasta obtener aproximadamente 2 tazas.\n2. Agregue los ingredientes líquidos (agua y aceite vegetal) primero a la licuadora.\n3. A continuación, incorpore los ingredientes secos (harina, azúcar, sal).\n4. Finalmente, añada la levadura.\n5. Configure la máquina en el programa regular o básico con una corteza media.\n6. Observe el proceso de mezcla inicial. Si la masa no forma una bola que se desprenda del recipiente, agregue más harina si es necesario.",
+  "url": null
+}

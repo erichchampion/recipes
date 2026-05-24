@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "beaumonde-dip",
+  "name": "Dip de Beaumonde",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "libros de cocina",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 pequeño cartón de crema agria",
+    "Mayonesa, en cantidad casi igual",
+    "Crema agria",
+    "1 cucharadita de condimento Beaumonde",
+    "Hierba de eneldo al gusto",
+    "Copos de perejil al gusto",
+    "Copos de cebolla al gusto",
+    "Sal de ajo al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande.\n2. Revolver bien hasta que esté todo combinado.\n3. Cubrir el bol y refrigerar durante al menos 8 horas o toda la noche.\n4. Servir frío con verduras frescas.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-cornish-hens",
+  "name": "Pollos cornudos al horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "4 pollos Cornish",
+    "1 cucharadita de romero",
+    "2 cucharadas de mantequilla",
+    "2 dientes de ajo, prensados",
+    "2 cucharadas de zumo de limón"
+  ],
+  "recipeInstructions": "1. Untar los pollos con mantequilla.\n2. Mezclar el resto de ingredientes y usar para untar los pollos.\n3. Hornear a 180 °C durante 1 hora, untando con la mezcla de limón cada 10 minutos.\n4. Si se sirve con arroz, verter la mezcla de limón restante sobre el arroz.",
+  "url": null
+}

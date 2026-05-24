@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-sausage-4",
+  "name": "Italian Sausage",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "ethnic",
+    "italian"
+  ],
+  "recipeIngredient": [
+    "1 pound ground pork",
+    "1 medium onion, finely chopped",
+    "1 small garlic clove, crushed",
+    "1/2 tablespoon salt",
+    "1/2 teaspoon ground pepper",
+    "1/2 teaspoon fennel seed",
+    "1/4 teaspoon paprika",
+    "1/8 teaspoon ground thyme",
+    "1/8 teaspoon (or more) cayenne pepper"
+  ],
+  "recipeInstructions": "1. Mix together the pork, onion, and garlic.\n2. Combine the remaining ingredients in a separate bowl.\n3. Add the seasoned mixture to the pork mixture.\n4. Shape the mixture into patties, meatballs, or stuff into casings.",
+  "url": null
+}

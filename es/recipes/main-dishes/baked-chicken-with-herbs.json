@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-chicken-with-herbs",
+  "name": "Pollo horneado con hierbas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 pollo para asar de 2,5 kg",
+    "2 cucharadas de margarina o mantequilla",
+    "2 cucharadas de aceite de oliva o vegetal",
+    "1/4 taza de cebolla finamente picada",
+    "1/4 taza de zumo de limón",
+    "2 cucharadas de salsa Worcestershire",
+    "1/2 cucharadita de hojas de albahaca seca",
+    "1/4 cucharadita de orégano seco",
+    "1/4 cucharadita de tomillo seco",
+    "2 dientes de ajo finamente picados"
+  ],
+  "recipeInstructions": "1. Cortar el pollo en trozos; dividir cada pechuga por la mitad y retirar la piel.\n2. Calentar la margarina y el aceite en una bandeja rectangular de 30x40 cm en un horno precalentado a 190 °C hasta que la margarina se derrita.\n3. Mezclar todos los ingredientes restantes excepto el pollo.\n4. Colocar el pollo, con la parte carnosa hacia abajo, en la bandeja y darle la vuelta para que quede cubierto con la mezcla de hierbas.\n5. Hornear destapado durante 30 minutos.\n6. Darle la vuelta al pollo y hornear hasta que los trozos más gruesos estén cocidos, aproximadamente 30 minutos más.",
+  "url": null
+}

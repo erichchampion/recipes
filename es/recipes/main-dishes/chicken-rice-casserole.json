@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-rice-casserole",
+  "name": "Cazuela de Pollo y Arroz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pollo",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "370 g de sopa de cebolla condensada en lata",
+    "2 muslos de pollo deshuesados y sin piel, cortados por la mitad",
+    "1 lata de setas laminadas (2 oz), escurridas",
+    "1 cucharada de mezcla de sopa de cebolla seca",
+    "1/2 taza de arroz largo granulado cocido"
+  ],
+  "recipeInstructions": "1. Mezclar la sopa, las setas y el arroz en una olla para asar bien engrasada.\n2. Revolver bien.\n3. Colocar los muslos de pollo sobre la mezcla.\n4. Espolvorear con la mezcla de sopa de cebolla.\n5. Cubrir.\n6. Cocinar a fuego lento durante 7-9 horas.\n7. Servir caliente.",
+  "url": null
+}

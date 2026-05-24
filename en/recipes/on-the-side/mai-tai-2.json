@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "mai-tai-2",
+  "name": "Mai Tai",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 oz Rum",
+    "1 oz Dark rum",
+    "1 oz Creme de noyaux or orgeat",
+    "-syrup",
+    "1/2 oz Triple sec",
+    "1 1/2 oz Sour mix, bottled",
+    "1 dash Rose's lime juice",
+    "1 dash Pineapple juice",
+    "Cracked ice",
+    "Ice cubes"
+  ],
+  "recipeInstructions": "Fill a mixing glass with crushed ice. Add rum, creme de noyaux, triple sec, and sour mix. Shake well and strain into a collins glass filled with ice cubes. Top with a dash of Rose's lime juice and a dash of pineapple juice. Garnish with an orange slice and a cherry.",
+  "url": null
+}

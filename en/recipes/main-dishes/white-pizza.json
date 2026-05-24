@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-pizza",
+  "name": "White Pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breads",
+    "italian",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 large Italian bread shell",
+    "2 cups Mushroom slices",
+    "1/4 cup Butter, melted",
+    "1 tablespoon Grated parmesan cheese",
+    "2 cups Shredded mozzarella cheese",
+    "1/2 teaspoon Italian seasonings",
+    "1/4 teaspoon Garlic powder",
+    "1/4 teaspoon Onion powder"
+  ],
+  "recipeInstructions": "1. Preheat oven to 375°F.\n2. Place bread shell on an ungreased 12-inch pizza pan.\n3. In a medium-sized bowl, toss the mushroom slices with the melted butter.\n4. Arrange the mushroom slices over the bread shell.\n5. Sprinkle with grated parmesan cheese and shredded mozzarella cheese.\n6. Sprinkle with Italian seasonings, garlic powder, and onion powder.\n7. Bake for 15-20 minutes.",
+  "url": null
+}

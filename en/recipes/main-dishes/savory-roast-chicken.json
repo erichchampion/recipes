@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "savory-roast-chicken",
+  "name": "Savory Roast Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "2 1/2 pounds Broiler/fryer chicken",
+    "2 tablespoons Butter",
+    "3 tablespoons Lemon juice",
+    "1 tablespoon Fresh savory",
+    "1 teaspoon Dried savory"
+  ],
+  "recipeInstructions": "Place chicken, breast side up, on a rack in a shallow roasting pan. Combine the butter, lemon juice and fresh savory; brush over chicken. Bake, uncovered at 375 degrees for 1-1/2 hours or until juices run clear, basting occasionally with the pan drippings.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "portuguese-sauce",
+  "name": "Salsa portuguesa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de salsa picante",
+    "1/2 taza de catsup",
+    "1/2 taza de jugo de tomate",
+    "1/4 taza de pepinillos finamente cortados",
+    "1/4 taza de apio picado",
+    "2 cucharaditas de capers",
+    "3 cucharadas de cebolla picada",
+    "2 dientes de ajo",
+    "2 cucharadas de aceitunas verdes rellenas picadas",
+    "1/2 cucharadita de salsa Tabasco",
+    "2 cucharadas de salsa Worcestershire",
+    "1 cucharadita de ablandador instantáneo sazonado"
+  ],
+  "recipeInstructions": "Combinar todos los ingredientes en una licuadora. Licuar a velocidad máxima durante aproximadamente 5 minutos.\nRinde unos 2 tazas.",
+  "url": null
+}

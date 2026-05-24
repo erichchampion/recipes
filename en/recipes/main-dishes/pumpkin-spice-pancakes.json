@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pumpkin-spice-pancakes",
+  "name": "Pumpkin Spice Pancakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breads",
+    "breakfast",
+    "brunch",
+    "main dish",
+    "pancakes"
+  ],
+  "recipeIngredient": [
+    "2 cups pancake mix",
+    "1 1/3 cups milk",
+    "1/2 cup canned pumpkin",
+    "1/4 cup oil",
+    "1/2 cup sugar",
+    "1 teaspoon pumpkin pie spice",
+    "2 eggs"
+  ],
+  "recipeInstructions": "1. Heat a skillet to 375°F (190°C). Grease lightly with oil.\n2. In a medium bowl, combine all ingredients; stir just until all ingredients are moistened.\n3. For each pancake, pour 1/4 cup batter into the hot skillet.\n4. Cook for 1 to 1-1/2 minutes, turning when edges look cooked and bubbles begin to break on the surface.\n5. Continue cooking another minute or until golden brown.\n6. Serve with syrup.",
+  "url": null
+}

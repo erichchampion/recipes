@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-schnapps-cake",
+  "name": "Apple Schnapps Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "2 1/2 cups Flour",
+    "2 cups Sugar",
+    "1/4 teaspoon Baking powder",
+    "1 1/2 teaspoons Baking soda",
+    "1 1/2 teaspoons Salt",
+    "3/4 teaspoon Cinnamon",
+    "1/2 teaspoon Cloves",
+    "1/2 teaspoon Allspice",
+    "1/2 cup Butter",
+    "1/2 cup Apple schnapps",
+    "3/4 cups Applesauce",
+    "2 Eggs",
+    "1/2 cup Chopped Nuts",
+    "1 cup Raisins (optional)"
+  ],
+  "recipeInstructions": "1. Cream the butter until light and fluffy.\n2. Gradually add apple sauce and apple schnapps, beating well after each addition.\n3. Add dry ingredients one at a time, mixing thoroughly after each addition.\n4. Stir in the eggs, beating until smooth.\n5. Fold in chopped nuts and raisins (if using).\n6. Grease and flour a bundt pan.\n7. Bake at 350°F for 45-50 minutes, or until a toothpick inserted into the center comes out clean.\n8. Allow to cool before removing from the pan.",
+  "url": null
+}

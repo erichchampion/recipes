@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-tater-pone-potato-pone",
+  "name": "Pone de papa dulce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina de uso común tamizada",
+    "4 cucharaditas de polvo de hornear",
+    "1 cucharadita de sal",
+    "1 cucharadita de allspice",
+    "1 cucharadita de canela",
+    "3/4 taza de azúcar",
+    "1/2 taza de leche",
+    "2 tazas de batata cruda rallada",
+    "2 huevos grandes"
+  ],
+  "recipeInstructions": "Precalentar el horno a 175 °C. Tamizar la harina, el polvo de hornear, la sal y las especias en un bol. Incorporar gradualmente el azúcar y los huevos. Agregar la leche alternándola con los ingredientes secos, batiendo hasta obtener una mezcla suave. Añadir la batata y mezclar bien. Hornear en un molde cuadrado engrasado de 23 cm durante 30 minutos o hasta que esté hecho.",
+  "url": null
+}

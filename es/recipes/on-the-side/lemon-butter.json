@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-butter",
+  "name": "Manteca de limón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "mantequilla",
+    "esencia de Emeril",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de vino blanco",
+    "1 cucharada de zumo de limón",
+    "1 cucharada de cebolla picada",
+    "2 cucharadas de nata para cocinar",
+    "1/4 taza de mantequilla en cubos",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Reducir el vino, el zumo de limón y la cebolla durante 2 minutos.\n2. Añadir la crema y reducir durante 2 minutos más.\n3. Incorporar lentamente la mantequilla con un batidor.\n4. Sazonar con sal y pimienta.\n5. Retirar la carne a la parrilla del fuego y colocarla en un plato de servir.\n6. Verter la salsa sobre la carne.",
+  "url": null
+}

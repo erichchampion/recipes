@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-and-salmon-bagel",
+  "name": "Bagel de queso y salmón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de crema de queso ligera",
+    "1 bagel mini (1 onza), cortado horizontalmente por la mitad y tostado",
+    "1 cucharadita de encurtidos (enjuagados, escurridos)",
+    "1 onza de salmón ahumado (lox), cortado en láminas finas",
+    "2 rebanadas de tomate",
+    "2 rebanadas de cebolla roja"
+  ],
+  "recipeInstructions": "1. Extender la crema de queso sobre una mitad del bagel tostado.\n2. Colocar los encurtidos encima de la crema de queso.\n3. Añadir las láminas de salmón y las rebanadas de tomate.\n4. Cubrir con las rebanadas de cebolla roja.\n5. Colocar la otra mitad del bagel tostado para completar el sándwich.",
+  "url": null
+}

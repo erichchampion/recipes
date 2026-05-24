@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "traditional-margarita",
+  "name": "Margarita tradicional",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "2 onzas de tequila",
+    "1 onza de triple sec",
+    "Jugo de un limón",
+    "Sal kosher para bordear el vaso (al gusto)"
+  ],
+  "recipeInstructions": "1. Exprimir un trozo de limón sobre el borde del vaso y cubrir todo el borde con el jugo.\n2. Sumergir el vaso con el borde en la mezcla de sal sobre una bandeja, asegurándose de que el borde quede uniformemente cubierto.\n3. Llenar el vaso con hielo.\n4. Añadir el tequila, triple sec y jugo de limón al vaso.\n5. Remover suavemente hasta que esté bien combinado.\nRendimiento: 1 Margarita",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "perky-turkey",
+  "name": "Pavo Energizante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "pavo"
+  ],
+  "recipeIngredient": [
+    "3 tazas de arroz cocido",
+    "2 tazas de pavo picado cocido",
+    "1/2 taza de apio en rodajas",
+    "2 onzas de pimientos picados escurridos",
+    "1/3 taza de aderezo de mostaza de Dijon",
+    "Hojas de lechuga"
+  ],
+  "recipeInstructions": "1. Mezclar el arroz, el pavo, el apio, los pimientos y el aderezo en un bol grande.\n2. Servir sobre hojas de lechuga.\n3. Para una opción alternativa de sándwich, cubrir mitades de pan pita con hojas de lechuga; rellenar con 2/3 taza de ensalada de arroz.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "deviled-eggs",
+  "name": "Deviled Eggs",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "eggs",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "3 Large Hard Cooked Eggs",
+    "2 tbsp Mayo or Salad Dressing",
+    "1/2 tsp Prepared Mustard",
+    "1 Dash of Pepper"
+  ],
+  "recipeInstructions": "1. Cut eggs lengthwise into halves.\n2. Slip out yolks and mash with a fork.\n3. Mix in remaining ingredients.\n4. Fill egg whites with yolk mixture, heaping it up lightly.",
+  "url": null
+}

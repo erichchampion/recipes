@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-delicious",
+  "name": "Pollo Delicioso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "6 pechugas de pollo enteras, deshuesadas y cortadas por la mitad",
+    "200 g de sopa de champiñones condensada",
+    "200 g de sopa de apio condensada",
+    "El jugo de 1 limón",
+    "Sal y pimienta al gusto",
+    "1/3 taza de jerez seco",
+    "1/4 taza de queso parmesano rallado",
+    "Sal de apio",
+    "Arroz cocido caliente (opcional)",
+    "1 cucharadita de pimentón dulce"
+  ],
+  "recipeInstructions": "1. Enjuagar las pechugas de pollo y secarlas con papel de cocina.\n2. Sazonar con el jugo de limón, sal, pimienta y sal de apio.\n3. Colocar en la olla de cocción lenta.\n4. Mezclar las sopas condensadas con el jerez.\n5. Verter sobre las pechugas de pollo.\n6. Espolvorear con queso parmesano.\n7. Tapar y cocinar a fuego lento durante 8-10 horas.\n8. Servir sobre arroz caliente y esponjoso (opcional).",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "corn-noodle-casserole",
+  "name": "Cazuela de Fideos de Maíz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "olla de cocción lenta",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "12 onzas de fideos en espiral",
+    "1 barra de margarina",
+    "2 latas de maíz cremoso",
+    "1/4 taza de azúcar",
+    "1 libra de queso americano rallado"
+  ],
+  "recipeInstructions": "1. Cocinar y escurrir los fideos.\n2. Agregar los ingredientes restantes a una olla de cocción lenta.\n3. Mezclar hasta que el queso se derrita.",
+  "url": null
+}

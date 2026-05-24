@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "north-carolina-ribs",
+  "name": "Costillas de Carolina del Norte",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecua",
+    "plato principal",
+    "carne",
+    "cerdo",
+    "costillas"
+  ],
+  "recipeIngredient": [
+    "Marinada:",
+    "1 cucharada sal",
+    "1 cucharada pimienta negra gruesa",
+    "2 cucharaditas pimentón rojo molido",
+    "Salsa:",
+    "1 taza vinagre",
+    "1 palo mantequilla sin sal",
+    "4 cucharadas azúcar moreno",
+    "2 cucharaditas pimentón rojo molido"
+  ],
+  "recipeInstructions": "1. 6 libras costillas de cerdo\n2. Combinar los ingredientes de la marinada y frotar sobre las costillas. Marinar por al menos una hora.\n3. Combinar los ingredientes de la salsa, llevar a ebullición y reducir a fuego lento durante 5 minutos. Usar la salsa caliente para untar en las costillas y servirla caliente con las costillas.",
+  "url": null
+}

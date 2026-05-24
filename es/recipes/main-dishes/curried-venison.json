@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "curried-venison",
+  "name": "Curry de venado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "ciervo"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cebolla mediana picada",
+    "3 tallos de apio picados",
+    "2 manzanas picadas",
+    "1/4 taza de aceite de ensalada o manteca",
+    "2 cucharaditas de polvo de curry",
+    "1 cucharadita de sal",
+    "1/8 cucharadita de pimienta negra",
+    "1/4 cucharadita de jengibre molido",
+    "1/4 cucharadita de salsa Tabasco",
+    "1/2 cucharadita de salsa Worcestershire",
+    "2 tazas de caldo o consome",
+    "1/4 taza de harina",
+    "2 libras de ciervo cocido en cubos",
+    "1 taza de crema o leche enlatada",
+    "1 yema de huevo bien batida",
+    "3 tazas de arroz hervido"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en una sartén grande a fuego medio. Agregar las cebollas, apio y manzanas; saltear hasta que estén ligeramente doradas.\n2. Incorporar el polvo de curry y cocinar durante 5 minutos.\n3. Añadir las especias restantes y el caldo; reducir el fuego y dejar cocer a fuego lento durante 20 minutos.\n4. Mezclar la harina con agua para formar una pasta espesa; incorporarla a la sartén y cocinar durante 5 minutos más hasta que espese.\n5. Retirar del fuego y dejar enfriar durante una hora.\n6. Recalentar la mezcla, luego agregar la carne, crema o leche y la yema de huevo justo antes de servir.\n7. Calentar a través sin llegar a ebullición.\n8. Servir sobre el arroz.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "disgustingly-rich-brownies",
+  "name": "Brownies increíblemente ricos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "brownie",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de azúcar",
+    "1 1/4 tazas de harina",
+    "4 huevos",
+    "3/4 taza de cacao en polvo",
+    "1 cucharadita de extracto de vainilla",
+    "1 taza de mantequilla o margarina",
+    "1/2 taza de nueces picadas (opcional)",
+    "1/4 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 325 °F (160 °C).\n2. Enmantequillar y enharinar un molde cuadrado de 20 cm o redondo de 23 cm.\n3. Derretir la mantequilla.\n4. Mezclar el cacao y el azúcar en un bol.\n5. Añadir la mantequilla derretida, los huevos y la vainilla; remover hasta que quede bien combinado.\n6. Agregar gradualmente la harina y la sal; mezclar hasta integrar. No sobremezclar.\n7. Si se usa, incorporar las nueces picadas.\n8. Verter la masa en el molde preparado.\n9. Hornear durante 40-50 minutos, o hasta que los brownies se desprendan de los lados del molde o un palillo insertado salga limpio.\n10. Dejar enfriar completamente antes de cortar en cuadrados.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "caper-sauce-2",
+  "name": "Salsa de caparros",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "carne",
+    "salsas",
+    "guarniciones",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 taza de mayonesa",
+    "1 cucharada de rábano picante",
+    "1/4 taza de alcaparras",
+    "1/4 taza de crema agria",
+    "1 cucharadita de mostaza estilo Dijon",
+    "1/2 cucharadita de azúcar"
+  ],
+  "recipeInstructions": "1. Mezclar la mayonesa, las alcaparras, la crema agria, la mostaza, el rábano picante y el azúcar.\n2. Revolver bien.\n3. Servir con Carne de Res con Salsa de Cebolla o cualquier otro asado de res.",
+  "url": null
+}

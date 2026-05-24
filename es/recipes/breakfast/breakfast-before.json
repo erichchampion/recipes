@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-before",
+  "name": "Desayuno Antes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 libra de salchicha picante",
+    "6 huevos",
+    "2 tazas de leche",
+    "1 cucharadita de sal",
+    "1 cucharadita de mostaza",
+    "4 rebanadas de pan, cortadas en cubos",
+    "1 lata de queso cheddar rallado fuerte"
+  ],
+  "recipeInstructions": "1. Cocinar la salchicha y escurrir el exceso de grasa.\n2. En un bol, batir juntos los huevos, la leche, la sal y la mostaza.\n3. Colocar los cubos de pan, la salchicha cocida y el queso rallado en un molde para hornear de 9x13 pulgadas.\n4. Verter la mezcla de huevo sobre los ingredientes del molde.\n5. Refrigerar el molde durante la noche.\n6. Precalentar el horno a 350 °F (175 °C).\n7. Hornear durante 45 minutos o hasta que el centro esté cuajado.",
+  "url": null
+}

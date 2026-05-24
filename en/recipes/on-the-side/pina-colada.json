@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pina-colada",
+  "name": "Pina Colada",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 oz Light rum",
+    "1 oz Coconut cream",
+    "1 oz Crushed pineapple",
+    "1/4 cup Crushed ice",
+    "1 Orange slice",
+    "1 Maraschino cherry"
+  ],
+  "recipeInstructions": "Recipe by: Joe Robertson\nPreparation Time: 0:05\nPlace all ingredients in a blender and blend at high setting until smooth -- about 30 seconds. Strain into highball or collins glass and garnish with orange slice and cherry.",
+  "url": null
+}

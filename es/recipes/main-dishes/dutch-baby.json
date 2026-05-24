@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "dutch-baby",
+  "name": "Pastel holandés",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "4 huevos, batidos",
+    "1 taza de harina (240 mL)",
+    "1 taza de leche (240 mL)",
+    "1/3 taza de mantequilla (80 mL)",
+    "1/2 cucharadita de extracto de vainilla (2,5 mL)",
+    "1/4 cucharadita de nuez moscada molida (1,25 mL)",
+    "Jugo de limón",
+    "Azúcar glas"
+  ],
+  "recipeInstructions": "1. Precalentar una sartén grande y pesada de hierro fundido en el horno a 425°F (220 °C).\n2. Mezclar los huevos y la harina. Batir bien.\n3. Agregar la leche y batir nuevamente hasta que esté bien mezclado.\n4. Incorporar el extracto de vainilla y la nuez moscada molida.\n5. Derretir la mantequilla.\n6. Retirar la sartén del horno y cepillar la mantequilla derretida sobre la superficie.\n7. Verter la masa en la sartén, llenándola hasta el borde.\n8. Hornear durante 20-25 minutos o hasta que el baby holandés esté dorado y inflado.\n9. Espolvorear con jugo de limón y azúcar glas al gusto antes de servir caliente.",
+  "url": null
+}

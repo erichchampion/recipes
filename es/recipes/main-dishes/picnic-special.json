@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "picnic-special",
+  "name": "Especial de picnic",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne molida",
+    "1 taza de avena Quaker sin cocinar (rápida o antigua)",
+    "1 3/8 oz de mezcla de sopa de cebolla",
+    "1 taza de leche",
+    "1 hogaza de pan vienés - cortada en 24 rebanadas",
+    "12 rodajas de tomate",
+    "Lechuga de hoja",
+    "6 rodajas de queso americano procesado - cortadas por la mitad"
+  ],
+  "recipeInstructions": "1. Mezclar la carne molida, la avena, la mezcla de sopa y la leche hasta que quede bien combinada.\n2. Dar forma a la mezcla para formar 12 hamburguesas planas.\n3. Colocar las hamburguesas en la parrilla o sobre brasas calientes durante unos 5 minutos.\n4. Dar la vuelta y cocinar por otros 5 minutos.\n5. Para servir, colocar una rodaja de tomate, una hoja de lechuga, media rebanada de queso y una hamburguesa entre dos rebanadas de pan vienés.\n6. Reensamblar el pan en un cesto para pan.",
+  "url": null
+}

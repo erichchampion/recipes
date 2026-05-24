@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "bleu-cheese-dressing",
+  "name": "Aderezo de Queso Azul",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "aderezos para ensaladas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 taza de mayonesa",
+    "2 onzas de queso azul (1/2 taza) - desmenuzado",
+    "2 cucharadas de leche",
+    "2 cucharadas de vinagre blanco",
+    "2 cucharaditas de azúcar",
+    "1/4 cucharadita de sal de cebolla",
+    "1/4 cucharadita de mostaza en polvo",
+    "1/8 cucharadita de polvo de ajo"
+  ],
+  "recipeInstructions": "1. En un bol, mezcle la mayonesa y el queso azul desmenuzado hasta que quede bien combinado.\n2. Añada la leche, el vinagre blanco, el azúcar, la sal de cebolla, la mostaza en polvo y el polvo de ajo a la mezcla.\n3. Revuelva todos los ingredientes hasta que estén bien integrados.\n4. El aderezo debe rendir aproximadamente 1 1/2 tazas una vez terminado de mezclar.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-meat-topping",
+  "name": "Cobertura de Carne para Tacos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de carne de taco",
+    "1 cucharadita de crema agria ligera",
+    "lechuga picada",
+    "4 onzas de queso feta desmenuzado",
+    "1/4 oz de chiles jalapeños - picados"
+  ],
+  "recipeInstructions": "1. Calentar la carne de taco en una sartén pequeña a fuego medio hasta que esté caliente por completo.\n2. Colocar la tortilla caliente sobre un plato.\n3. Cubrir con crema agria, lechuga picada, queso feta desmenuzado y chiles jalapeños picados.\n4. Servir inmediatamente para una tortilla.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-granola",
+  "name": "Granola de frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "4 tazas de avena en hojuelas",
+    "1 3/4 tazas de copos de trigo",
+    "1 taza de semillas de girasol",
+    "1 taza de nueces picadas (almendras, nueces, pecanas o una combinación)",
+    "1/3 taza de semillas de sésamo tostadas",
+    "1/3 taza de aceite de girasol",
+    "1/4 taza de miel",
+    "1/2 taza de pasas",
+    "1/2 taza de dátiles secos",
+    "1/2 taza de melocotones secos",
+    "1/2 taza de manzanas secas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 200 °C.\n2. Mezclar en un bol grande la avena, los copos de trigo, las semillas de girasol, las nueces picadas, las semillas de sésamo, el aceite y la miel hasta que quede bien combinado.\n3. Transferir la mezcla a una bandeja para hornear grande y extenderla uniformemente.\n4. Hornear durante unos 15 minutos, removiendo ocasionalmente, hasta que esté ligeramente dorada en los bordes.\n5. Dejar enfriar completamente antes de agregar las frutas.\n6. Conservar en un recipiente hermético.",
+  "url": null
+}

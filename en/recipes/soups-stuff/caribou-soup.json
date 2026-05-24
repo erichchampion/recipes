@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "caribou-soup",
+  "name": "Caribou Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "game",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 lb Caribou",
+    "Oil -- for browning meat",
+    "8 cups Water or stock",
+    "2 Bay leaves",
+    "4 Juniper berries",
+    "2 Cloves",
+    "1/2 cup White Wine",
+    "1 tbsp Worcestershire Sauce",
+    "4 Small potatoes, quartered",
+    "1 Carrot, peeled and sliced",
+    "1 Parsnip: peeled and diced",
+    "1/2 cup Turnip, peeled and diced",
+    "1/2 cup Cabbage, shredded",
+    "2 Celery ribs, chopped",
+    "2 medium Banana peppers, chopped",
+    "1/2 cup Green peas"
+  ],
+  "recipeInstructions": "1. Trim the meat from the bones and cube in coarse dice.\n2. Simmer the bones in water or stock with the bay leaves, juniper berries, and cloves for about 2 hours. Remove the bones and strain the stock. Return the broth to the pot.\n3. In a skillet, brown the meat in a little oil or bacon fat. Add it to the pot.\n4. Add the remaining ingredients except the peas and simmer for 1/2 hour or more.\n5. Add the peas minutes before serving.\n6. This soup is best reheated the second day.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "homemade-tomato-soup",
+  "name": "Sopa casera de tomate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de mantequilla derretida",
+    "2 cucharadas de harina",
+    "2 tazas de tomates cocidos o jugo de tomate",
+    "1/4 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de sal",
+    "1/8 cucharadita de pimienta negra",
+    "2 a 3 tazas de leche"
+  ],
+  "recipeInstructions": "1. Cocinar la mantequilla y la harina juntas durante unos minutos.\n2. Agregar gradualmente los tomates (o jugo de tomate) y cocinar por unos minutos más.\n3. Incorporar el bicarbonato de sodio, la sal y la pimienta.\n4. Mezclar poco a poco la leche hasta que esté bien combinada.\n5. Calentar a fuego lento sin llegar a ebullición.",
+  "url": null
+}

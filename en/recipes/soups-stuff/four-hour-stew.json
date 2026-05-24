@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "four-hour-stew",
+  "name": "Four Hour Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "meats",
+    "miscellaneous",
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Stew beef",
+    "1 Onion sliced",
+    "1 package Onion soup mix",
+    "3 tsp Minute tapioca",
+    "6 Carrots sliced",
+    "3 Stalks of celery sliced",
+    "1 can Mushroom soup",
+    "1 can Water"
+  ],
+  "recipeInstructions": "1. Grease a casserole dish.\n2. Add diced beef to the dish.\n3. Add the rest of the ingredients in the following order: onion soup mix, minute tapioca, carrots, celery, mushroom soup, and water.\n4. Cover the dish and bake in an oven set to 250 degrees Fahrenheit for four hours.",
+  "url": null
+}

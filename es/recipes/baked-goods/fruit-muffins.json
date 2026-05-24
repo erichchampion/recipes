@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-muffins",
+  "name": "Muffins de frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "desayuno",
+    "postres",
+    "festividades",
+    "magdalenas",
+    "frutos secos"
+  ],
+  "recipeIngredient": [
+    "Nueces picadas (3/4 taza)",
+    "Fechas picadas (3/4 taza)",
+    "Pasas (3/4 taza)",
+    "Huevos batidos (3)"
+  ],
+  "recipeInstructions": "1. Rocía los moldes para muffins de tamaño pequeño con un agente liberador (como PAM).\n2. Calienta el horno a 180°C.\n3. Mezcla todos los ingredientes y vierte una pequeña cantidad en cada agujero del molde para muffins.\n4. Hornea durante 15-20 minutos a 180°C.\n5. Retira inmediatamente de los moldes para que se enfríen.\nEstos se congelan y descongelan muy bien, y he descubierto que tengo que hacer al menos cuatro docenas a la vez ya que mi esposo piensa que son mejores que el caramelo. (Las pasas y fechas son excelentes para combatir el bloqueo de matzo).",
+  "url": null
+}

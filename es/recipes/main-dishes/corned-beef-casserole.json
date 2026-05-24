@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "corned-beef-casserole",
+  "name": "Cazuela de Carne Adobada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "8 oz macarrones tipo elbow sin cocinar",
+    "12 oz carne adobada enlatada",
+    "2 latas de sopa de pollo y setas",
+    "1 1/2 tazas de queso cheddar rallado",
+    "2 1/2 tazas de leche",
+    "2 cebollas pequeñas salteadas"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Dejar reposar la mezcla durante la noche en el refrigerador o al menos 12 horas, cubierta con migas untadas con mantequilla.\n3. Verter la mezcla en un plato para hornear grande.\n4. Hornear a 350 grados Fahrenheit durante 1 hora y 30 minutos.",
+  "url": null
+}

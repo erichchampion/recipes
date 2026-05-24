@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "cranberry-sauce",
+  "name": "Cranberry Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "fruits",
+    "relishes",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "4 cups Cranberries",
+    "2 cups Sugar",
+    "1 cup Water"
+  ],
+  "recipeInstructions": "1. Select good cranberries and wash them well.\n2. Combine sugar and water in a saucepan and cook over medium heat for about 10 minutes.\n3. Add the cranberries to the pan, cover, and continue cooking until the cranberries stop popping (about 10 more minutes).\n4. Skim off any foam from the surface if necessary.\n5. Let the sauce cool before serving.",
+  "url": null
+}

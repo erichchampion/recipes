@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "cabbage-soup-2",
+  "name": "Cabbage Soup#2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "microwave",
+    "soups",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "3 lb Meat or 1 lb stew meat",
+    "8 cups Water",
+    "1 1/2 tsp Salt",
+    "1/2 tsp Dried oregano",
+    "5 Whole peppercorns",
+    "2 Bay leaves",
+    "16-oz canned tomatoes, cut up",
+    "or 3 Fresh tomatoes, cut up",
+    "16-oz can green beans, cut into halves",
+    "2 Medium carrots, sliced",
+    "1 Onion, chopped",
+    "1/2 tsp Crushed red pepper",
+    "-optional",
+    "1 small Head cabbage, cored and chopped"
+  ],
+  "recipeInstructions": "1. In a large kettle, combine meat, water, salt, oregano, peppercorns, and bay leaves.\n2. Bring to a boil, then reduce heat and let simmer for 2 hours.\n3. Remove the beef when it is cool enough to handle; cut up the meat and discard any bones.\n4. Strain the broth and remove excess fat. Return the strained broth back to the kettle.\n5. Add the cubed meat, tomatoes, and all vegetables except cabbage and red pepper (if desired).\n6. Simmer for 30 minutes, then add the chopped cabbage and simmer for another 30 minutes.",
+  "url": null
+}

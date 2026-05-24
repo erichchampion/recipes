@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-vinaigrette",
+  "name": "Vinaigreta de Limón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "ensalada",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 cucharadita de mostaza dijon",
+    "1/4 taza de zumo de limón fresco",
+    "1/2 taza de aceite de oliva virgen extra",
+    "1/2 cucharadita de sal kosher",
+    "pimienta molida al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar la mostaza y el zumo de limón con un batidor.\n2. Agregar lentamente el aceite de oliva mientras se bate continuamente.\n3. Sazonar con sal y pimienta al gusto.\nYield: 2/3 taza",
+  "url": null
+}

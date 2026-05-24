@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "very-veggie-chili",
+  "name": "Chili muy vegetariano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "plato principal",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de aceite vegetal",
+    "3 tallos de apio",
+    "1 cebolla grande - picada",
+    "1 pimiento verde grande - picado",
+    "8 dientes de ajo - picados",
+    "4 latas de 400 g de tomates mexicanos enlatados, triturados",
+    "2 latas de 450 g de frijoles pintos, escurridos",
+    "1 lata de 370 g de maíz morado, escurrido",
+    "1 lata de 280 g de chiles verdes picados",
+    "1 taza de cilantro fresco - picado",
+    "1/4 taza de polvo de chile",
+    "1 cucharadita de comino en polvo"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en una olla holandesa pesada a fuego alto.\n2. Saltear el apio, la cebolla, el pimiento y el ajo hasta que empiecen a ablandarse, unos 8 minutos.\n3. Añadir todos los ingredientes restantes excepto el cilantro y cocinar a fuego lento durante unos 35 minutos.\n4. Durante los últimos 10 minutos de cocción, añadir el cilantro.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "fresh-pesto-pasta",
+  "name": "Fresh Pesto Pasta",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italian",
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "3 Cloves garlic, sliced",
+    "2 tablespoons Olive oil",
+    "2 cups Fresh Basil leaves",
+    "1/4 cup Water",
+    "1 tablespoon Light-colored miso",
+    "1 tablespoon Lemon juice",
+    "6 tablespoons Toasted Pine nuts",
+    "9 ounces Dry durum wheat pasta",
+    "1 Sweet red pepper, cut into slivers"
+  ],
+  "recipeInstructions": "1. Saute the garlic in olive oil.\n2. Add basil, 1/4 cup water, miso, lemon juice, and pine nuts to a blender or food processor.\n3. Blend until smooth, adding more water if needed for desired consistency.\n4. Cook pasta al dente according to package directions.\n5. Drain the pasta.\n6. Serve the pesto sauce over the cooked pasta, sprinkled with pine nuts and garnished with red pepper slivers.",
+  "url": null
+}

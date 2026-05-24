@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-vegetable-marinade",
+  "name": "Marinada de Verduras Italiana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "marinadas",
+    "salsas",
+    "guarniciones",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de aceite de girasol",
+    "1/2 taza de vinagre de manzana",
+    "1/2 taza de miel",
+    "1 cucharadita de condimento italiano",
+    "1 cucharada de queso parmesano rallado",
+    "Una pizca de polvo de ajo",
+    "1 taza de brócoli cortado en ramilletes",
+    "1 taza de calabacín en rodajas",
+    "1 taza de tomates picados",
+    "1 taza de floretes de coliflor"
+  ],
+  "recipeInstructions": "1. Combinar el aceite de girasol, vinagre de manzana, miel, condimento italiano, polvo de ajo y queso parmesano en un tarro de licuadora.\n2. Procesar hasta obtener una mezcla suave.\n3. Verter la mezcla en una cacerola.\n4. Llevar a ebullición a fuego medio.\n5. Retirar del fuego y dejar enfriar.\n6. Mezclar las verduras (brócoli, calabacín, tomates picados y floretes de coliflor) con la marinada en un bol.\n7. Cubrir y refrigerar durante la noche.",
+  "url": null
+}

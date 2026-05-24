@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "grilled-salmon-marinade",
+  "name": "Salmón a la parrilla y marinada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "mariscos",
+    "salmón",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "1,5 kg de filetes de salmón",
+    "1/2 taza de aceite de oliva",
+    "1/4 taza de vinagre de vino tinto",
+    "3/4 cucharadita de sal gema",
+    "1/4 cucharadita de sal común",
+    "1/4 cucharadita de azúcar",
+    "1/2 cucharadita de condimento italiano (orégano, albahaca, etc.)",
+    "1 diente de ajo grande, picado finamente",
+    "1/8 cucharadita de pimienta negra molida",
+    "1 cucharadita de agua"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el salmón.\n2. Marinar durante al menos 30 minutos.\n3. Parrillar (15 minutos por lado para un corte en contra del grano, 6 minutos por lado para un filete) y pincelar con frecuencia la marinada restante sobre el pescado.",
+  "url": null
+}

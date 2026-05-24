@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-cacciatore",
+  "name": "Easy Cacciatore",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1 can Tomatoes",
+    "2 tablespoons Parsley, minced",
+    "1 teaspoon Basil",
+    "1 teaspoon Salt",
+    "10 milliliters Garlic, minced",
+    "1/4 teaspoon Pepper"
+  ],
+  "recipeInstructions": "1. Brown chicken in oil until thoroughly cooked.\n2. Remove the chicken from the pan and set aside.\n3. Slice an onion and cook it in the drippings until soft.\n4. Add the parsley, basil, salt, garlic, and pepper to the pan with the onions.\n5. Return the chicken to the pan and let it simmer uncovered for about 40 minutes, stirring occasionally.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "english-pea-soup",
+  "name": "Sopa de guisantes ingleses",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "diabetico",
+    "sopas",
+    "sopas/estofados",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "10 oz (1 paquete) guisantes ingleses congelados",
+    "2 cucharaditas granos de caldo - sabor pollo",
+    "1/4 taza lechuga fresca picada",
+    "3 onzas hojas de espinaca frescas",
+    "1/2 taza cebolla verde picada",
+    "1/8 cucharadita pimienta",
+    "1 1/4 tazas agua"
+  ],
+  "recipeInstructions": "1. Combinar los guisantes, la lechuga, la espinaca, las cebollas verdes, los granos de caldo y la pimienta en una olla grande; agregar el agua.\n2. Llevar a ebullición, reducir el calor y cocinar a fuego lento durante 20 minutos.\n3. Agregar la leche y cocinar a fuego medio hasta que esté bien caliente.",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "string-beans-stir-fried-with-tofu",
+  "name": "String Beans Stir-Fried with Tofu",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "main dish",
+    "special diets",
+    "thai",
+    "tofu",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "4 tbsp Vegetable oil",
+    "3 Garlic cloves, crushed",
+    "2 Tomatoes, cut into wedges",
+    "4 oz Deep-fried tofu, cubed",
+    "1 lb Bean sprouts",
+    "2 Red chilies, sliced",
+    "1/4 cup Green onion, chopped",
+    "1 tsp Salt",
+    "1 tsp Pepper",
+    "2 tbsp Vegetarian oyster sauce",
+    "4 tbsp Cilantro leaves, chopped"
+  ],
+  "recipeInstructions": "1. Heat the oil in a wok.\n2. Stir-fry the garlic until brown.\n3. Add the tomatoes, tofu, bean sprouts, chilies, onion, salt, pepper, and oyster sauce.\n4. Stir-fry for 2 minutes.\n5. Serve hot, garnished with cilantro.",
+  "url": null
+}

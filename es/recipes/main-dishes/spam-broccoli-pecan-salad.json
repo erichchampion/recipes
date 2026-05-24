@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "spam-broccoli-pecan-salad",
+  "name": "Ensalada de Espárragos, Brócoli y Nueces Pecanas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 lata de carne para bocadillos Spam (12 onzas), cortada en tiras",
+    "3/4 lb de brócoli, partido en floretes, blanqueado",
+    "1/4 lb de queso Cheddar, cortado en trozos tipo palillo",
+    "1/2 taza de radichos finamente cortados",
+    "1/4 taza de vinagre de vino blanco",
+    "3 cucharadas de aceite de oliva",
+    "2 cucharadas de azúcar",
+    "1 diente de ajo, picado",
+    "1/2 cucharadita de mostaza en polvo",
+    "1/4 taza de nueces pecanas tostadas"
+  ],
+  "recipeInstructions": "1. En una sartén, saltea el Spam a fuego medio hasta que esté ligeramente dorado.\n2. En un bol grande, combina el brócoli, el Spam, el queso y los radichos.\n3. En un bol pequeño, mezcla el vinagre de vino blanco, el aceite de oliva, el azúcar, el ajo picado y la mostaza en polvo.\n4. Vierte el aderezo sobre la mezcla de Spam y revuelve.\n5. Tapa y refrigera durante 1 hora.\n6. Antes de servir, añade las nueces pecanas tostadas.",
+  "url": null
+}

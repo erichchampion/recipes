@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "american-pasta-salad",
+  "name": "Ensalada de pasta americana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pasta",
+    "ensalada",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 libra de conchas de pasta",
+    "2 tazas de mayonesa",
+    "1/4 taza de queso Parmesano rallado",
+    "1/4 taza de vinagre de vino tinto",
+    "1 cucharadita de orégano seco",
+    "1 cucharadita de tomillo seco",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimienta",
+    "1/2 cucharadita de polvo de ajo",
+    "6 huevos duros, pelados y picados",
+    "1 taza de queso mozzarella, cortado en cubos",
+    "1 pimiento rojo, cortado groseramente",
+    "4 cebolletas, finamente picadas"
+  ],
+  "recipeInstructions": "1. Cocinar las conchas de pasta en una olla grande de agua hirviendo hasta que estén tiernas.\n2. En un bol grande, mezclar la mayonesa, el queso Parmesano, el vinagre, el orégano, el tomillo, la sal, la pimienta y el polvo de ajo.\n3. Escurrir y enjuagar las conchas de pasta cocidas, luego agregarlas a la mezcla de mayonesa. Mezclar bien.\n4. Agregar los huevos picados, el queso mozzarella, el pimiento rojo y las cebolletas. Mezclar solo hasta combinarlos.\n5. Servir inmediatamente o cubrir y refrigerar durante varias horas o toda la noche para que se mezclen los sabores.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "crab-casserole-2",
+  "name": "Cazuela de Cangrejo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "pescado",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne de cangrejo",
+    "1/2 taza de perejil o pimiento verde",
+    "2 huevos, separados y batidos",
+    "1/2 cucharadita de Tabasco",
+    "1/2 taza de salsa blanca",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Separar las yemas de las claras de los huevos.\n2. Añadir las yemas a la salsa blanca.\n3. Mezclar todos los ingredientes y doblar las claras.\n4. Hornear a 375°F (190°C) hasta que esté dorada, aproximadamente 20 minutos.",
+  "url": null
+}

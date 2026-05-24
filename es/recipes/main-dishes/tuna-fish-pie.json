@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "tuna-fish-pie",
+  "name": "Pastel de atún",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "tartas para cena",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "6 zanahorias grandes, cortadas en cubos",
+    "3 patatas grandes, cortadas en cubos",
+    "2 latas de atún",
+    "1 lata de guisantes"
+  ],
+  "recipeInstructions": "1. Pelar y cortar las patatas y zanahorias en dados.\n2. Cocinar los dados de patatas y zanahorias en agua hasta que estén tiernos.\n3. Escurrir las verduras cocidas.\n4. Añadir el atún y los guisantes a las verduras cocidas.\n5. Verter la mezcla en un molde para hornear.\n6. Cubrir con bizcochos refrigerados.\n7. Hornear en horno precalentado a 200 °C durante 20-30 minutos.",
+  "url": null
+}

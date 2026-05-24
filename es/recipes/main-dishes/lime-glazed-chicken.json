@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "lime-glazed-chicken",
+  "name": "Pollo con glaseado de lima",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo sin hueso ni piel",
+    "1 taza de harina",
+    "Una pizca de sal",
+    "Una pizca de polvo de ajo",
+    "1 cucharadita de pimienta de limón",
+    "1 huevo",
+    "2 cucharadas de aceite de maní",
+    "3 limas",
+    "1/2 taza de caldo de pollo",
+    "Perejil picado para decorar"
+  ],
+  "recipeInstructions": "1. Mezclar la harina con sal y pimienta de limón.\n2. Sazonar los filetes de pollo con sal, pimienta de limón y polvo de ajo.\n3. Pasar el pollo por la mezcla de harina, luego por el huevo y finalmente nuevamente por la mezcla de harina.\n4. Dorar el pollo en una sartén caliente hasta que esté cocido, dando la vuelta varias veces.\n5. Retirar el pollo cocido de la sartén y desglasarlo con caldo de pollo.\n6. Remover mientras se cocina para reducir el líquido a la mitad.\n7. Añadir jugo de lima y cocinar durante varios minutos hasta que espese.\n8. Verter sobre los trozos de pollo cocido y decorar con rodajas de limón fresco y perejil.\n9. Servir para 4 personas.",
+  "url": null
+}

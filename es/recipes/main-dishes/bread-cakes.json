@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "bread-cakes",
+  "name": "Pasteles de pan",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "pasteles",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 yema de huevo",
+    "2 tazas de harina",
+    "3/4 taza de leche",
+    "2 cucharaditas de sal",
+    "3/4 taza de agua",
+    "2 cucharaditas de polvo de hornear",
+    "1 cucharada de manteca derretida",
+    "1 clara de huevo"
+  ],
+  "recipeInstructions": "1. Remojar el pan seco en agua hasta que esté suave. Escurrir lo más posible.\n2. Desmenuzar y medir el pan remojado.\n3. Batir la yema de huevo, agregar la leche, el agua, los migas de pan y la manteca.\n4. Tamizar la harina, medirla y tamizarla con la sal y el polvo de hornear. Incorporar a la mezcla anterior.\n5. Mezclar bien. Incorporar cuidadosamente la clara de huevo batida.\n6. Colocar por cucharadas en una sartén caliente.\n7. Hornear hasta que estén dorados por ambos lados. 12 raciones.",
+  "url": null
+}

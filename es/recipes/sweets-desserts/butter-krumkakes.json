@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "butter-krumkakes",
+  "name": "Krumkakes con mantequilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 huevos",
+    "1/3 taza de azúcar",
+    "1/2 taza de mantequilla",
+    "1 3/4 tazas de harina de uso común tamizada",
+    "1 cucharadita de vainilla"
+  ],
+  "recipeInstructions": "1. Batir los huevos hasta que tengan una textura ligera.\n2. Añadir gradualmente el azúcar y batir hasta que queden de un color amarillo pálido.\n3. Derretir la mantequilla e incorporarla lentamente.\n4. Mezclar la harina y la vainilla hasta obtener una mezcla homogénea.",
+  "url": null
+}

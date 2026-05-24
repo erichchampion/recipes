@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "mapley-milk-shake",
+  "name": "Batido de Leche con Salsa de Maple",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "lácteos",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de leche",
+    "1/4 taza de jarabe de arce",
+    "1 litro de helado de vainilla (blando)",
+    "Canela o nuez moscada al gusto"
+  ],
+  "recipeInstructions": "1. Verter la leche y el jarabe de arce en el recipiente de la licuadora.\n2. Añadir el helado.\n3. Cubrir la licuadora.\n4. Mezclar a velocidad media durante aproximadamente 1 minuto o hasta obtener una textura suave.\n5. Verter la mezcla en vasos.\n6. Espolvorear con canela al gusto.\n7. Servir inmediatamente.",
+  "url": null
+}

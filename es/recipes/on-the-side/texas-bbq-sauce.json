@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "texas-bbq-sauce",
+  "name": "Salsa Barbacoa de Texas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas barbacoa",
+    "asado",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de ketchup",
+    "1 taza de salsa Worcestershire",
+    "1/2 taza de vinagre de vino tinto",
+    "3 dientes de ajo, picados finamente",
+    "1 cucharada de aceite de maní",
+    "2 cucharaditas de polvo de chile",
+    "1 cucharadita de sal de apio"
+  ],
+  "recipeInstructions": "1. En una cacerola, mezclar el ketchup, la salsa Worcestershire y el vinagre.\n2. Añadir el ajo. Llevar a ebullición.\n3. Incorporar el aceite de maní.\n4. Reducir el fuego y cocinar durante unos 15 minutos. Dejar enfriar ligeramente.\n5. Agregar el polvo de chile y la sal de apio. Dejar reposar unos minutos.",
+  "url": null
+}

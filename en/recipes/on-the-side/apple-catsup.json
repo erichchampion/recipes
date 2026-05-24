@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-catsup",
+  "name": "Apple Catsup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condiments",
+    "herbs",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "4 cups Unsweetened apple sauce",
+    "1 teaspoon Ginger",
+    "1 teaspoon Cinnamon",
+    "1 teaspoon Cloves",
+    "1 teaspoon Mustard",
+    "1 teaspoon Onion flavoring",
+    "2 teaspoons Salt",
+    "2 cups Vinegar",
+    "1 teaspoon Pepper"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a large pot.\n2. Place the pot over low heat.\n3. Stir occasionally and allow the mixture to simmer slowly until it thickens.\n4. Remove from heat and let cool before using.",
+  "url": null
+}

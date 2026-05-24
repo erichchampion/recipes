@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "glorified-rice",
+  "name": "Arroz glorificado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "1 sobre de gelatina de limón",
+    "1 litro de agua",
+    "1/4 taza de nueces picadas",
+    "3/4 taza de piña triturada",
+    "1/4 taza de azúcar",
+    "1 taza de arroz cocido",
+    "3/4 taza de marshmallows pequeños",
+    "2 tazas de crema batida fría"
+  ],
+  "recipeInstructions": "1. Disolver la gelatina en agua hirviendo.\n2. Dejar enfriar la mezcla hasta que espese ligeramente.\n3. Añadir gradualmente los ingredientes restantes, mezclando suavemente.\n4. Incorporar la crema batida al final.",
+  "url": null
+}

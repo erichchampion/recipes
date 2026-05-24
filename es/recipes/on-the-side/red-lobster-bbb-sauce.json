@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "red-lobster-bbb-sauce",
+  "name": "Salsa BBB de Red Lobster",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "misceláneo",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "Salsa Prego estilo grueso, 1/2 taza",
+    "Ketchup Del Monte, 1/2 taza",
+    "Mostaza dijon, 1 cucharada",
+    "Vinagre, 1 cucharada",
+    "Mostaza en polvo, 1/8 de cucharadita",
+    "Polvo de chile, 1 cucharadita"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes a fondo.\n2. Refrigerar, bien tapado, hasta por 90 días.\n3. Alternativamente, congelar y descongelar antes de usar en un año.\n4. Servir con sándwich de pollo.",
+  "url": null
+}

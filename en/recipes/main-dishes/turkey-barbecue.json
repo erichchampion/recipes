@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "turkey-barbecue",
+  "name": "Turkey Barbecue",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "poultry",
+    "turkey"
+  ],
+  "recipeIngredient": [
+    "2 tablespoons water",
+    "1/4 cup onion, diced",
+    "1/4 cup green bell pepper, diced",
+    "1 pound ground turkey",
+    "1/4 cup cider vinegar",
+    "2 tablespoons packed brown sugar",
+    "1 teaspoon ground mustard (dry)",
+    "1 teaspoon chili powder",
+    "1 teaspoon paprika",
+    "1 teaspoon Worcestershire sauce",
+    "1/4 teaspoon black pepper",
+    "1 8 oz. can tomato sauce",
+    "8 Kaiser rolls, split"
+  ],
+  "recipeInstructions": "1. Heat water in a 10-inch skillet over medium heat.\n2. Cook onion and bell pepper in the water for about 2 minutes, stirring occasionally, until crisp-tender.\n3. Stir in turkey. Cook an additional 4 to 5 minutes, stirring occasionally, until no longer pink.\n4. Stir in the remaining ingredients (except the rolls).\n5. Reduce heat and cover. Simmer about 20 minutes, stirring occasionally, until hot.\n6. Fill rolls with turkey mixture.",
+  "url": null
+}

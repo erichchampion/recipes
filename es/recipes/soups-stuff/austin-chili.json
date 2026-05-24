@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "austin-chili",
+  "name": "Chili de Austin",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "4 libras de carne molida",
+    "28 onzas de tomates enlatados (estofados)",
+    "2 cebollas grandes",
+    "4 dientes de ajo",
+    "1/2 taza de harina",
+    "2 latas de frijoles (estilo rancho)",
+    "1/2 taza de polvo de chile",
+    "12 onzas de cerveza",
+    "2 cucharadas de orégano",
+    "2 cucharadas de comino",
+    "1 cucharadita de pimienta cayena",
+    "2 cucharaditas de sal"
+  ],
+  "recipeInstructions": "1. En una sartén grande, sofríe las cebollas y el ajo en aceite hasta que estén tiernos.\n2. Añade la carne molida a la sartén y dórala a fuego medio.\n3. Incorpora la harina y revuelve constantemente durante unos 2 minutos.\n4. Agrega los tomates enlatados, los frijoles (escurridos), el polvo de chile, la cerveza, el orégano, el comino y la pimienta cayena.\n5. Lleva la mezcla a ebullición, luego reduce el fuego a bajo.\n6. Tapa y deja cocinar a fuego lento durante 2 horas, removiendo ocasionalmente.\n7. Agrega la sal justo antes de servir.",
+  "url": null
+}

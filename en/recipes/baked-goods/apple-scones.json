@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-scones",
+  "name": "Apple Scones",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "biscuits",
+    "breads",
+    "desserts",
+    "fruits"
+  ],
+  "recipeIngredient": [
+    "2 cups Flour",
+    "6 tablespoons Shortening",
+    "3 teaspoons Baking Powder",
+    "1/2 cup Sugar",
+    "1/2 cup Apples, peeled and chopped",
+    "1/2 cup Raisins",
+    "4 tablespoons Cold apple juice or water",
+    "1/2 teaspoon Cinnamon",
+    "1/2 teaspoon Salt"
+  ],
+  "recipeInstructions": "1. Preheat oven to 400°F.\n2. Mix together dry ingredients. Cut in shortening as you would for a pie crust. Stir in apples and raisins. Add enough juice to make a stiff dough.\n3. On a floured surface, roll the dough about 1/2 inch thick. Cut into triangles.\n4. Bake on a cookie sheet for 10 minutes, or until light brown.",
+  "url": null
+}

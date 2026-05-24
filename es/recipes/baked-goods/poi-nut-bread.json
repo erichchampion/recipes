@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "poi-nut-bread",
+  "name": "Pan de Nuez de Poi",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "étnicos",
+    "hawaiano"
+  ],
+  "recipeIngredient": [
+    "1 lb de poi",
+    "3/4 taza de agua",
+    "2 tazas de harina",
+    "3/4 taza de azúcar",
+    "2 cucharaditas de canela",
+    "2 cucharaditas de polvo de hornear",
+    "1 cucharadita de sal",
+    "3 huevos; ligeramente batidos",
+    "1 taza de aceite",
+    "2 cucharaditas de vainilla",
+    "1 1/2 tazas de nueces"
+  ],
+  "recipeInstructions": "1. Mezclar el poi y el agua en un bol.\n2. En otro bol, mezclar la harina, el azúcar, la canela, el polvo de hornear y la sal.\n3. Combinar las dos mezclas con los ingredientes restantes (huevos, aceite, vainilla, nueces) y verter la masa en moldes para pan engrasados.\n4. Hornear a 175 °C durante 45 minutos.\n5. Opcional: Añadir 1/2 taza de pasas a la mezcla antes de hornear.",
+  "url": null
+}

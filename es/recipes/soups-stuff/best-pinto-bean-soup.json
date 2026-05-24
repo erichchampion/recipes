@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "best-pinto-bean-soup",
+  "name": "La mejor sopa de frijoles pintos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "frijoles",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "3 tazas de frijoles pintos secos de la marca Rose",
+    "2 trozos de tocino o 2 rebanadas de jamón",
+    "1 taza de cebolla picada",
+    "1 taza de apio picado",
+    "1 lata de salsa de tomate",
+    "1 lata de sopa de tomate"
+  ],
+  "recipeInstructions": "1. Sazonar con sal, pimienta y sal vegetal al gusto.\n2. Cocinar los frijoles con el tocino o jamón cortado en dados hasta que estén casi hechos.\n3. Agregar la cebolla, el apio, la salsa de tomate y la sopa de tomate.\n4. Añadir agua si es necesario para obtener una consistencia media-espesa.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "court-bouillon",
+  "name": "Court Bouillon",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "fish",
+    "main dish",
+    "meat",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "1 quart Water",
+    "1 medium onion, sliced",
+    "6 whole cloves",
+    "1/2 lemon, sliced",
+    "1 celery stalk, leaves chopped",
+    "2 parsley stems",
+    "1 1/2 tsp Salt",
+    "6 peppercorns",
+    "1/2 bay leaf"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a large pot.\n2. Bring to a simmer over medium heat.\n3. Simmer for 15 minutes.\n4. If desired, add white wine up to 1 quart and continue simmering for an additional 30 minutes.",
+  "url": null
+}

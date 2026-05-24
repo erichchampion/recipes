@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-orange-popsicles",
+  "name": "Helados de fresa y naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "niños",
+    "varios"
+  ],
+  "recipeIngredient": [
+    "1 litro de zumo de naranja",
+    "2 tazas de fresas (frescas o congeladas)",
+    "3 cucharadas de azúcar",
+    "1 taza de yogur natural"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes hasta obtener una textura suave, según tu preferencia.\n2. Vierte la mezcla en moldes para palitos y congela.\nRinde aproximadamente 24 palitos.",
+  "url": null
+}

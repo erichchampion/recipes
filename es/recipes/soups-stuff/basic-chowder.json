@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-chowder",
+  "name": "Sopa Básica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "4 oz de trozos de tocino",
+    "1 zanahoria, cortada en rodajas finas",
+    "2 tallos de apio, cortados en rodajas finas",
+    "1 cebolla, picada groseramente",
+    "1 hoja de laurel",
+    "2 clavos de ajo enteros",
+    "1 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Freír el tocino en una olla grande y retirarlo.\n2. Añadir la zanahoria y el apio a la olla y cocinar a fuego medio durante 2 minutos.\n3. Incorporar la cebolla, la hoja de laurel y los clavos de ajo enteros.\n4. Agregar la pimienta negra y seguir cocinando hasta que todos los ingredientes estén bien combinados.",
+  "url": null
+}

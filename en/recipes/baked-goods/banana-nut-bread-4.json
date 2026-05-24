@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-nut-bread-4",
+  "name": "Banana Nut Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "1 Egg",
+    "1 cup Sugar",
+    "1/2 cup Shortening",
+    "3 Bananas, mashed",
+    "1 tsp Vanilla",
+    "2 cups Flour",
+    "1 tsp Baking Soda",
+    "1/2 cup Nuts (optional)",
+    "1/2 cup Raisins (optional)"
+  ],
+  "recipeInstructions": "1. Blend the egg, sugar, shortening, mashed bananas, and vanilla together.\n2. Mix in the flour and baking soda.\n3. Fold in the nuts and raisins if using.\n4. Pour the batter into a loaf pan or muffin tins (a bundt can also be used).\n5. Bake at 350°F for about 1 hour until done. Turn off the oven and let cool before removing from the pan.",
+  "url": null
+}

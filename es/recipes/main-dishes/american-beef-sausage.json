@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "american-beef-sausage",
+  "name": "Salchicha de carne americana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "salchichas"
+  ],
+  "recipeIngredient": [
+    "6 libras de carne molida magra",
+    "2 cucharaditas de tomillo",
+    "3 cucharaditas de sal",
+    "1 1/2 cucharaditas de pimienta negra recién molida",
+    "1 cucharadita de pimentón ahumado",
+    "3 tazas de miga de pan",
+    "4 cucharadas de perejil fresco picado",
+    "2 huevos batidos",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta que queden bien integrados y rellenar las tripas de cerdo.\n2. Colocar en una olla con agua hirviendo, asegurándose de que estén completamente cubiertas, y hervir durante unos 30 minutos.\n3. Retirar del fuego y dejar enfriar antes de refrigerar.\n4. Para servir, cortar la carne en rebanadas finas y asar lentamente hasta que esté dorada por todos lados.",
+  "url": null
+}

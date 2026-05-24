@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "bar-b-barn-ribs-3",
+  "name": "Costillas Bar-b-Barn",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "cerdo",
+    "costillas"
+  ],
+  "recipeIngredient": [
+    "2 libras de costillas de cerdo",
+    "1/4 cucharadita de pimienta negra",
+    "1/4 cucharadita de pimentón dulce",
+    "1/4 cucharadita de canela en polvo",
+    "1 taza de azúcar moreno",
+    "1/2 taza de salsa de manzana",
+    "1/4 taza de ketchup",
+    "3 cucharadas de jugo de limón"
+  ],
+  "recipeInstructions": "1. Coloca las costillas en una bandeja para hornear (sin apilarlas).\n2. Vierte la salsa (muy espesa) sobre las costillas.\n3. Cubre la bandeja con papel de aluminio.\n4. Marina las costillas durante 24 horas, dándoles la vuelta ocasionalmente para asegurar que todas estén marinadas.\n5. Saca las costillas directamente de la nevera y hornea durante 1 hora y media a 300°F, manteniendo el papel de aluminio puesto.",
+  "url": null
+}

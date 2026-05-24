@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "greg-s-favourite-pasta",
+  "name": "La pasta favorita de Greg",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiana",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de harina sin blanquear",
+    "1 taza de harina de sémola",
+    "1/2 cucharadita de sal",
+    "1 cucharada de aceite de oliva",
+    "3 huevos grandes",
+    "1 cucharada de agua tibia (si es necesario)"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes secos en una tabla, formando un pozo en el centro.\n2. Añadir el aceite de oliva y los huevos al pozo. Mezclar con un tenedor hasta que se integren los ingredientes secos con la mezcla de huevo. Cuando la masa sea demasiado dura para usar el tenedor, comenzar a amasar a mano hasta obtener una consistencia muy firme. Si es necesario, agregar agua tibia en pequeñas cantidades.\n3. Dejar reposar la masa, cubierta, durante al menos 10 minutos.\n4. Cortar trozos de masa del tamaño de un huevo con un rodillo sobre una superficie enharinada.\n5. Aplanar cada pieza con la palma de la mano.\n6. Procesar a través de la máquina de pasta empezando por el ajuste más grueso.\n7. Pasar nuevamente por la máquina en cada ajuste más delgado para obtener tiras largas del ancho de su máquina y el grosor adecuado para el estilo de pasta deseado (esto ayuda a incorporar los ingredientes).\n8. Espolvorear ligeramente con harina la superficie y dejar reposar al aire durante unos 30 minutos.\n9. Ajustar la cabeza cortadora según el tipo de pasta deseado.\n10. Cortar, extender sobre una tabla enharinada, espolvorear ligeramente con harina y dejar secar antes de cocinar o envolver en papel film y congelar para usar más tarde.\nRecuerde que la pasta fresca se cocina mucho más rápido que la de caja. No la sobrecocine. Si se corta con una cabeza de ancho medio, queda ideal para pollo y fideos o cortada fina para espagueti. Al utilizar 1 huevo por taza de harina, obtendrá una pasta ligeramente dorada que luce y sabe fantástica. Para los más conscientes de la salud, reduzca el número de huevos y reemplácelos con agua. Un poco de azafrán restaurará su color rico.",
+  "url": null
+}

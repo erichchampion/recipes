@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "tribble-s-banquet",
+  "name": "Banquete de Tribble",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pollo",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "Pecho de pollo o otra parte (1 por sándwich)",
+    "Queso suizo en lonchas (1 oz por sándwich)",
+    "Carne de res curada en lonchas (1 oz por sándwich)",
+    "Pan de centeno (2 rebanadas por sándwich)",
+    "Sal sazonada al gusto",
+    "Repollo morado (para 4 sándwiches):",
+    "Repollo, rallado (3 tazas)",
+    "Zanahorias, ralladas (3/4 taza)",
+    "Cebolletas, cortadas en rodajas (1/4 taza)",
+    "Mayonesa (1/3 taza)",
+    "Jugo de limón (1 cucharada)",
+    "Sal sazonada al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar y enfriar el pollo con antelación.\n2. Preparar la ensalada de repollo mezclando en un bol grande el repollo rallado, las zanahorias y las cebolletas. Añadir la mayonesa, el jugo de limón y la sal sazonada, luego mezclar bien.\n3. Para hacer los sándwiches: Colocar una loncha de queso suizo y una loncha de carne curada sobre una rebanada de pan de centeno. Retirar las huesos de 1 trozo de pollo y extender sobre la carne curada. Espolvorear con sal sazonada, añadir ensalada de repollo (2-3 cucharadas) y cubrir con una segunda rebanada de pan.\n4. Cortar cada sándwich por la mitad y servir con un pepinillo.",
+  "url": null
+}

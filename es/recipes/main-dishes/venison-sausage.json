@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "venison-sausage",
+  "name": "Salchicha de venado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "embutidos"
+  ],
+  "recipeIngredient": [
+    "5 lb de carne de ciervo en cubos",
+    "1 lb de sebo en cubos",
+    "3 cucharadas de sal",
+    "1 cucharada de pimienta negra",
+    "1 cucharadita de pimentón rojo o cayena",
+    "1 cucharadita de pimentón dulce",
+    "1 cucharadita de tomillo",
+    "2 cucharaditas de ajo en polvo"
+  ],
+  "recipeInstructions": "1. Mezclar la carne de ciervo y el sebo con las especias.\n2. Moler la mezcla hasta obtener la textura deseada.\n3. Freír una pequeña albóndiga para probar el sabor. Si está demasiado suave, añadir un poco de pimentón rojo hasta alcanzar el gusto adecuado. Si está demasiado picante, agregar más carne de ciervo.\n4. Rellenar los cascos de salchicha con la mezcla de salchicha.\n5. Ahumar las salchichas durante 28-30 horas.",
+  "url": null
+}

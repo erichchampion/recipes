@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pheasant-casserole",
+  "name": "Cazuela de Faón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 faón cocido y deshuesado",
+    "2 cebollas picadas",
+    "4 tazas de caldo de faón o pollo",
+    "1/4 taza de salsa de soja",
+    "Pimienta al gusto",
+    "1 cucharada de perejil seco (opcional)",
+    "2 tazas de apio picado",
+    "2 tazas de arroz marrón crudo",
+    "1 lata de crema de setas",
+    "1 lata de setas frescas (opcional)"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 300-350 °F (150-175 °C).\n2. En un bol grande, mezclar el faón cocido y deshuesado, las cebollas, el caldo, la salsa de soja, la pimienta, el perejil seco (si se usa), el apio y el arroz marrón.\n3. Incorporar la crema de setas y las setas frescas (opcional).\n4. Transferir la mezcla a un refractario y hornear durante 2 horas o hasta que esté bien caliente.",
+  "url": null
+}

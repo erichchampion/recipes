@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-custard-4",
+  "name": "Crema pastelera horneada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 huevo",
+    "1 taza de leche",
+    "3 cucharadas de azúcar",
+    "3/4 cucharadita de extracto de vainilla",
+    "1/8 cucharadita de sal",
+    "1/8 cucharadita de nuez moscada molida"
+  ],
+  "recipeInstructions": "1. Batir ligeramente el huevo en un bol.\n2. Añadir la leche, el azúcar, la vainilla y la sal a los huevos batidos.\n3. Verter la mezcla en dos copas para crema pastelera sin engrasar.\n4. Espolvorear cada copa con nuez moscada.\n5. Colocar las copas dentro de una sartén con 1/2 a 1 pulgada de agua caliente.\n6. Hornear a 350°F durante 35 minutos o hasta que cuaje.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "christmas-cocktail",
+  "name": "Cóctel de Navidad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de azúcar",
+    "2/3 taza de agua",
+    "2/3 taza de jugo de piña sin endulzar",
+    "2/3 taza de jugo de limón",
+    "2 cucharadas de jugo de lima fresco o embotellado",
+    "2 claras de huevo batidas",
+    "4 tazas de hielo triturado",
+    "Cerezas al marasquino"
+  ],
+  "recipeInstructions": "1. Calentar el azúcar y el agua juntos durante 5 minutos, luego dejar enfriar y refrigerar la mezcla.\n2. En un licuadora o bol grande, combinar todos los ingredientes excepto las cerezas al marasquino.\n3. Batir hasta que esté ligero y espumoso.\n4. Verter sobre hielo triturado en vasos.\n5. Decorar con una cereza.\n6. Servir inmediatamente.",
+  "url": null
+}

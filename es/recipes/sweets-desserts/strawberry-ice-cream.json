@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-ice-cream",
+  "name": "\"Helado de fresa\"",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "frutas",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "Gelatina sin sabor (alrededor de 7 g)",
+    "1 taza de leche desnatada",
+    "1 taza de fresas frescas",
+    "1 taza de leche en polvo desnatada instantánea",
+    "1 taza de agua helada",
+    "1 cucharada de jugo de limón",
+    "1 taza de piña triturada (escurrida)"
+  ],
+  "recipeInstructions": "1. Ablandar la gelatina en la leche.\n2. Calentar, removiendo hasta que la gelatina se disuelva.\n3. Triturar las fresas y añadirlas a la leche caliente.\n4. Verter en un bol y refrigerar hasta enfriar.\n5. Mezclar la leche en polvo, agua helada y jugo de limón. Batir hasta obtener una consistencia similar a la nata montada (puede llevar hasta 10 minutos).\n6. Incorporar la \"nata\" a la mezcla de fresas.\n7. Congelar hasta que esté firme. Añadir la piña y batir hasta obtener una textura espesa y suave. Verter en moldes para cubos de hielo o platos para servir y congelar hasta que esté firme.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "homemade-fruit-smoothie",
+  "name": "Batido de frutas casero",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "Plátano, pelado",
+    "Fresas sin tallo (1 taza)",
+    "Melocotones en rodajas (1 taza)",
+    "Jugo de naranja (1 taza)",
+    "Miel (1 cucharada)",
+    "Hielo triturado (1 taza)"
+  ],
+  "recipeInstructions": "1. Agregar las frutas, el jugo y la miel a una licuadora.\n2. Mezclar a velocidad baja para combinar los ingredientes.\n3. Incorporar el hielo.\n4. Licuar a velocidad alta hasta obtener una textura suave.\n5. Rinde 3 porciones de aproximadamente 8 onzas cada una.",
+  "url": null
+}

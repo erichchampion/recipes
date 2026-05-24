@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "silly-carrots",
+  "name": "Zanahorias Locas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "zanahorias",
+    "guarniciones",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 libras de zanahorias, peladas y cortadas en rodajas",
+    "1 lata de 400 gramos de sopa de tomate",
+    "3/4 taza de azúcar",
+    "3/4 taza de vinagre de vino",
+    "1/4 taza de aceite de oliva",
+    "1 cucharadita de mostaza preparada",
+    "1 cebolla grande, picada",
+    "1 pimiento verde mediano, picado",
+    "4 tallos de apio, picados",
+    "Sal al gusto",
+    "Pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar las zanahorias en agua hirviendo hasta que estén tiernas.\n2. Escurrir y reservar.\n3. En una olla grande, mezclar la sopa de tomate, el azúcar, el vinagre, el aceite, la mostaza, la cebolla, el pimiento verde y el apio.\n4. Calentar a fuego medio hasta que hierva.\n5. Reducir el fuego y cocinar a fuego lento durante 10 minutos.\n6. Verter la salsa sobre las zanahorias escurridas.",
+  "url": null
+}

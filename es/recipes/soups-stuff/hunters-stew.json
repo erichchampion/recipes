@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "hunters-stew",
+  "name": "Estofado de Cazadores",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "aperitivos",
+    "salchichas",
+    "sopas",
+    "sopas/estofados",
+    "estofados"
+  ],
+  "recipeIngredient": [
+    "4 setas secas",
+    "1/4 taza de agua",
+    "2 libras de chucrut",
+    "20 onzas de tomates, picados",
+    "5 granos de pimienta",
+    "1 hoja de laurel",
+    "2 tazas de tocino picado",
+    "1 manzana pelada y sin corazón, en rodajas",
+    "1 ración de patatas al vapor o pan de centeno"
+  ],
+  "recipeInstructions": "1. Remojar las 4 setas secas en 1/4 taza de agua durante 2 horas.\n2. Llevar a ebullición las setas remojadas y cocinar a fuego lento hasta que estén tiernas (aproximadamente 30 minutos).\n3. Cortar las setas cocidas.\n4. Enjuagar el chucrut y escurrir el exceso de líquido.\n5. Añadir la mezcla de setas, los tomates, las manzanas, los granos de pimienta y la hoja de laurel a la olla.\n6. Incorporar el tocino picado.\n7. Tapar y cocinar a fuego lento durante 1 hora y 15 minutos adicionales.\n8. Añadir la carne y remover nuevamente durante otra hora.\n9. Servir con patatas al vapor o pan de centeno. Se recomienda recalentar.",
+  "url": null
+}

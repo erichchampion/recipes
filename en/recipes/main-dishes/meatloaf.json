@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "meatloaf",
+  "name": "Meatloaf",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "burgers",
+    "main dish",
+    "meat",
+    "meats"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground chuck or round beef",
+    "1 Egg",
+    "1/3 cup Bread crumbs",
+    "1/3 cup Ketchup",
+    "2 tbsp Water",
+    "1 package Onion soup mix"
+  ],
+  "recipeInstructions": "1. Mix the ground meat, egg, bread crumbs, ketchup, water, and onion soup mix together until well combined.\n2. Place the mixture in a microwave-safe dish covered with a lid or microwave-safe plate.\n3. Cook on medium/high power for 15 minutes, or until the internal temperature reaches 160°F (71°C).\n4. Allow the meatloaf to rest for a few minutes before serving.",
+  "url": null
+}

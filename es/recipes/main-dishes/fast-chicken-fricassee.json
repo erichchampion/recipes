@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "fast-chicken-fricassee",
+  "name": "Pollo Rápido Fricasea",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "3 pechugas de pollo o pavo",
+    "1 lata de setas",
+    "1 cebolla",
+    "240 ml de crema espesa",
+    "2 cucharaditas de almidón de maíz",
+    "750 ml de caldo de pollo (instantáneo)",
+    "3 cucharadas de vino blanco",
+    "Sal y pimienta al gusto",
+    "Mantequilla"
+  ],
+  "recipeInstructions": "1. Cortar la cebolla en trozos y saltear en mantequilla; añadir el pollo y freír hasta que esté completamente blanqueado. Sazonar con sal y pimienta al gusto; reducir el fuego y cocinar durante unos 10 minutos. Añadir las setas y cocinar otros 5 minutos.\n2. Mezclar la crema y el almidón de maíz, luego incorporarlo a la carne. Reducir el fuego y cocinar, removiendo ocasionalmente.\n3. Cuando el pollo esté hecho, agregar el vino blanco. Servir con arroz. En lugar de carne, se puede preparar con almejas, ternera, pescado o cangrejos.",
+  "url": null
+}

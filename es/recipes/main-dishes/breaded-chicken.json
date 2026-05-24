@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "breaded-chicken",
+  "name": "Pollo empanado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "2 pollos, cortados en trozos",
+    "2 tazas de leche",
+    "2 tazas de harina",
+    "3 cucharadas de sal para cocinar (Chef's Salt)",
+    "4 huevos enteros",
+    "1/2 taza de leche",
+    "1/2 taza de agua",
+    "4-6 tazas de pan rallado",
+    "Cortes de manteca para freír"
+  ],
+  "recipeInstructions": "1. Golpear el pollo para que quede uniforme en grosor.\n2. Mezclar la leche y la harina en un recipiente poco profundo; mezclar bien.\n3. Sumergir los trozos de pollo en la mezcla de huevo, luego recubrirlos con la mezcla de harina sazonada.\n4. Colocar el resto del pan rallado en otro recipiente poco profundo.\n5. Sacudir para eliminar el exceso de miga de cada trozo.\n6. Calentar la manteca en una freidora profunda o en una olla pesada a 175 °C (350 °F).\n7. Freír el pollo en tandas hasta que esté dorado y cocido por completo, aproximadamente 3-4 minutos por lado.\n8. Escurrir sobre papel absorbente.\n9. Apagar el calor.",
+  "url": null
+}

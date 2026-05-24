@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "mulled-cider",
+  "name": "Mulled Cider",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "american",
+    "beverages",
+    "holiday",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/2 gallon Apple cider",
+    "1/4 cup Brown sugar",
+    "3 Cinnamon sticks",
+    "1/2 tsp Whole cloves",
+    "1/4 cup Maple syrup"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a large kettle.\n2. Bring the mixture to a boil.\n3. Reduce heat and simmer for 5 minutes.\n4. Strain the liquid to remove cinnamon sticks and any twigs or debris.\n5. Serve hot. Optionally, add half a (fresh) cinnamon stick to each cup.",
+  "url": null
+}

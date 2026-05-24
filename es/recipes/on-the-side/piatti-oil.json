@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "piatti-oil",
+  "name": "Platos de Aceite",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "mezclas",
+    "aceites",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3 oz de aceite de oliva virgen extra",
+    "1 cucharada generosa de hojas de albahaca fresca",
+    "1 oz de vinagre balsámico",
+    "Ajos picados",
+    "Sal al gusto",
+    "Perejil picado",
+    "Pimienta roja en copos, al gusto"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes en un bol hasta que estén bien integrados.\n2. Prueba y ajusta la sazón según tus preferencias.",
+  "url": null
+}

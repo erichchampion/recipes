@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-chip-bars",
+  "name": "Barras de Chips de Plátano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de margarina",
+    "2/3 taza de azúcar blanca",
+    "2/3 taza de azúcar morena",
+    "1 cucharadita de extracto de vainilla",
+    "2 plátanos maduros, machacados",
+    "1 huevo",
+    "2 tazas de harina",
+    "2 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "1 taza de chips de chocolate"
+  ],
+  "recipeInstructions": "1. Batir la margarina y los azúcares hasta obtener una mezcla suave.\n2. Agregar el huevo y la vainilla, mezclando bien.\n3. Incorporar los plátanos machacados y la mezcla de harina.\n4. Doblar suavemente los chips de chocolate en la masa.\n5. Verter la mezcla en un molde engrasado de 9x3 pulgadas.\n6. Hornear a 180 °C durante 25 minutos.",
+  "url": null
+}

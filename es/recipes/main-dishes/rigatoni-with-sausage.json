@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "rigatoni-with-sausage",
+  "name": "Rigatóni con Salchicha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "etnica",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 lb de salchicha italiana",
+    "1/4 taza de pimientos pepperoncini en rodajas",
+    "1 diente de ajo picado",
+    "1/2 taza de aceitunas, cortadas en cuartos",
+    "2 tazas de salsa de espagueti",
+    "1 taza de queso rallado (al gusto)",
+    "1/4 taza de vino tinto seco o agua",
+    "4 tazas de rigatoni cocido caliente"
+  ],
+  "recipeInstructions": "Porciones: 4\nCalentar la salchicha a fuego medio en una sartén de 10 cuartos hasta que esté dorada, removiendo para separar la carne. Retirar la casca y escurrir la grasa. Añadir el ajo picado, salsa de espagueti, vino (o agua), y pimientos pepperoncini en rodajas. Llevar a ebullición, luego reducir el calor a bajo y cocinar a fuego lento durante 5 minutos, removiendo ocasionalmente. Incorporar las aceitunas cortadas, la mitad del queso rallado, y los rigatoni cocidos calientes. Mezclar bien para cubrir todos los ingredientes. Servir espolvoreado con el queso restante.",
+  "url": null
+}

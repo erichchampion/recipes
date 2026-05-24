@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "planet-burger",
+  "name": "Burger del Planeta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "plato principal",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de semillas de girasol",
+    "16 onzas de garbanzos (enlatados, escurridos y machacados)",
+    "3 tazas de arroz marrón cocido",
+    "1 cebolla mediana, picada",
+    "1 zanahoria mediana, rallada",
+    "1/2 taza de migas de pan estilo italiano",
+    "1/3 taza de perejil fresco picado",
+    "2 huevos, batidos ligeramente",
+    "1/4 taza de salsa de soja",
+    "1 cucharadita de tomillo seco"
+  ],
+  "recipeInstructions": "1. Tostar las semillas de girasol en una bandeja para hornear a 180 °C durante 5 a 7 minutos hasta que estén doradas.\n2. Combinar las semillas tostadas, los garbanzos, el arroz, la cebolla, la zanahoria, las migas de pan, el perejil, los huevos, la salsa de soja y el tomillo en un bol grande.\n3. Formar la mezcla en 8 hamburguesas rectangulares.\n4. Calentar aceite en una sartén grande a fuego medio-alto.\n5. Freír las hamburguesas hasta que estén bien calentadas, aproximadamente 4 minutos por lado.\n6. Servir sobre pan francés con condimentos.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "almond-chocolate-bars",
+  "name": "Barras de chocolate con almendras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 libra de mantequilla",
+    "1/2 taza de azúcar moreno",
+    "1/2 taza de azúcar granulado",
+    "1 taza de harina",
+    "2 cucharaditas de polvo de hornear",
+    "1 yema de huevo",
+    "6 barras de Hershey",
+    "1 taza de almendras picadas"
+  ],
+  "recipeInstructions": "1. Batir la mantequilla con los azúcares hasta obtener una mezcla cremosa.\n2. Incorporar la yema de huevo a la mezcla.\n3. Mezclar el polvo de hornear con la harina.\n4. Combinar los ingredientes secos con los húmedos.\n5. Extender la masa uniformemente en un molde de 9x13 cm.\n6. Hornear a 180 °C durante 25 minutos.\n7. Colocar las barras de chocolate sobre la masa caliente y extenderlas hasta cubrirla.\n8. Espolvorear con las almendras picadas.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "cabbage-stew",
+  "name": "Estofado de Col",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "bajo en calorías",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "1 repollo grande, cortado en trozos gruesos",
+    "4 zanahorias grandes, en rodajas",
+    "3 patatas, cortadas en cubos",
+    "1 cebolla, picada",
+    "5 dientes de ajo",
+    "1/2 taza de vino blanco, o caldo vegetal",
+    "1/2 taza de agua, o caldo vegetal",
+    "1/2 cucharadita de tomillo",
+    "1/2 cucharadita de salvia",
+    "1/2 cucharadita de pimienta blanca, o pimienta limonada",
+    "sal al gusto"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en una olla holandesa grande.\n2. Tapa y lleva a ebullición a fuego medio-alto.\n3. Reduce el fuego a bajo y deja cocinar a fuego lento durante unos 30 minutos, o hasta que las verduras estén tiernas.\n4. (Opcional) Agrega champiñones, calabacín u otras verduras de tu elección.",
+  "url": null
+}

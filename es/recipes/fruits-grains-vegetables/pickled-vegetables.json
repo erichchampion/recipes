@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pickled-vegetables",
+  "name": "Verduras encurtidas",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "platos secundarios",
+    "tailandés",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de agua hirviendo",
+    "1/4 taza de vinagre blanco",
+    "1/4 taza de azúcar",
+    "1/2 cucharadita de sal",
+    "1 taza de coliflor, cortada en trozos grandes",
+    "1 taza de repollo, cortado en tiras finas",
+    "1 taza de zanahoria, rallada",
+    "2 chiles serrano, sin tallo y cortados en rodajas finas a lo largo"
+  ],
+  "recipeInstructions": "1. Mezclar el agua hirviendo, el vinagre blanco, el azúcar y la sal en un bol.\n2. Revolver hasta que el azúcar se disuelva por completo.\n3. Dejar enfriar la mezcla a temperatura ambiente.\n4. Añadir la coliflor, el repollo, la zanahoria y los chiles serrano (sin tallo y cortados) al líquido.\n5. Tapar el bol y dejar que las verduras marinen a temperatura ambiente durante 1 día.\n6. Alternativamente, refrigerar la mezcla durante 2-3 días.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "frozen-lemonade-pie",
+  "name": "Tarta de Limonada Congelada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 lata de leche evaporada endulzada (400 g)",
+    "1 lata de concentrado de limonada congelada (95 g), descongelado y sin diluir",
+    "1 envase de crema batida congelada (225 g), descongelado",
+    "2 bases de galleta Graham preparadas de 23 cm",
+    "Decoración: rodajas de limón, menta fresca"
+  ],
+  "recipeInstructions": "1. Mezcla la leche evaporada y el concentrado de limonada con la crema batida.\n2. Vierte la mezcla en las bases de galleta Graham preparadas.\n3. Congela hasta que esté firme.\n4. Decora con rodajas de limón y menta fresca, si lo deseas.\nSe puede preparar con antelación y congelar. Deja al menos 8 horas para que la tarta se congele completamente.",
+  "url": null
+}

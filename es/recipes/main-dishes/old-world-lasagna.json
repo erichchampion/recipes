@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "old-world-lasagna",
+  "name": "Lasaña del mundo antiguo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 litro de salsa de espagueti",
+    "1 cucharada de aceite de oliva",
+    "250 g de láminas de lasaña crudas",
+    "400 g de mozzarella rallada",
+    "500 g de ricota",
+    "200 g de parmesano rallado"
+  ],
+  "recipeInstructions": "1. Prepara la salsa de espagueti según la receta.\n2. Vierte 1 cucharada de aceite de oliva en una olla de 3 litros con agua hirviendo.\n3. Añade 12 láminas de lasaña en dos tandas para evitar que se peguen. Cocina durante 15 minutos sin tapar. Escurre y enjuaga con agua fría, luego reserva.\n4. Precalienta el horno a 180 °C. Engrasa un molde rectangular de 30x40 cm.\n5. Comienza a montar la lasaña en capas: salsa, láminas de lasaña, ricota, mozzarella y parmesano, en ese orden. Repite el proceso dos veces más, terminando con una capa de parmesano.\n6. Hornea sin cubrir durante 45 minutos.\n7. Deja reposar 15 minutos antes de cortar.",
+  "url": null
+}

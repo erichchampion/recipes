@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-seasoning",
+  "name": "Condimento para Tacos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "estadounidense",
+    "étnico",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de cebolla picada (deshidratada)",
+    "1 cucharada de polvo de chile",
+    "1 cucharadita de comino",
+    "1 cucharadita de sal de ajo",
+    "1/2 cucharadita de orégano",
+    "1/2 cucharadita de almidón de maíz"
+  ],
+  "recipeInstructions": "1. Mezcla las especias juntas.\n2. Combina las especias con 1 libra de carne cocida y añade 1/2 taza de agua.\n3. Cocina a fuego lento, cubierto, durante unos 10 minutos.",
+  "url": null
+}

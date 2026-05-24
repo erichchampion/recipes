@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "bob-s-burger-soup-2",
+  "name": "Bob's Burger Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground round",
+    "2 small Chopped onions",
+    "1 can Tomato juice (48 oz.)",
+    "1 cup Water",
+    "1 can Cream of mushroom soup",
+    "1 1/2 tsp Basil",
+    "1/4 tsp Dill weed",
+    "1/4 tsp Italian seasoning",
+    "1 1/2 tsp Marjoram",
+    "1/4 tsp Oregano",
+    "2 Bay leaves",
+    "Salt and pepper to taste",
+    "1 package Frozen peas (10 oz.)",
+    "4 oz Dry noodles"
+  ],
+  "recipeInstructions": "1. Sauté beef with onions until browned.\n2. Add tomato juice and water to the pan. Stir well.\n3. Simmer for a few minutes, then add the cream of mushroom soup and seasonings.\n4. Bring the mixture to a boil.\n5. Add the frozen peas and dry noodles. Simmer for 30 minutes.",
+  "url": null
+}

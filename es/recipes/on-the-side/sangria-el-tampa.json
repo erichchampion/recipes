@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "sangria-el-tampa",
+  "name": "Sangría El Tampa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "frutas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 litro de vino Chianti o Borgoña",
+    "1 taza de azúcar o EQUAL (tm)",
+    "1 taza de jugo de naranja (fresco)",
+    "1 taza de jugo de toronja (fresco)",
+    "1 cucharadita de canela en polvo",
+    "1 cucharadita de nuez moscada en polvo",
+    "1 taza de jugo de limón",
+    "12 onzas de 7-Up o Sprite",
+    "1 litro de agua",
+    "8 palitos de canela"
+  ],
+  "recipeInstructions": "1. Reservar la mayor cantidad posible de pulpa del jugo de cítricos exprimido fresco para incluir en la sangría.\n2. Calentar el agua a un hervor lento, luego agregar el azúcar (si se usa EQUAL (tm), no realice este paso). Derretir el azúcar en el agua hirviendo.\n3. Incorporar los jugos de frutas y retirar del fuego. Dejar enfriar a temperatura ambiente.\n4. Añadir el vino, la pulpa de cítricos y las especias, y mezclar bien.\n5. Enfriar y servir con rodajas finas de frutas flotando en el bol.",
+  "url": null
+}

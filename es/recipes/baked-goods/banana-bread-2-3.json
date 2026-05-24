@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-bread-2-3",
+  "name": "Pan de plátano #2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "plátanos",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "1 cucharadita de polvo de hornear",
+    "1 cucharadita de bicarbonato de sodio",
+    "1/2 cucharadita de sal",
+    "3/4 taza de azúcar",
+    "1 huevo",
+    "1/2 taza de nueces",
+    "1 taza de plátanos machacados"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar la harina tamizada con el polvo de hornear, el bicarbonato y la sal.\n2. En otro bol, batir el huevo, los plátanos machacados y jugo de limón (opcional).\n3. Agregar gradualmente los ingredientes secos a la mezcla húmeda, removiendo hasta combinarlos.\n4. Incorporar las nueces si se desea.\n5. Verter la masa en un molde para pan engrasado de 23 x 13 cm.\n6. Hornear a 175 °C durante 45 minutos o hasta que un palillo insertado en el centro salga limpio.\n7. Dejar enfriar el pan antes de servir.",
+  "url": null
+}

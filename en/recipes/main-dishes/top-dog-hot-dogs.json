@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "top-dog-hot-dogs",
+  "name": "Top-Dog Hot Dogs",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meats",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "8 Hot dogs",
+    "8 Hot dog buns, sliced",
+    "10 oz Hot dog relish",
+    "or",
+    "Chili sauce",
+    "1 small Green pepper, chopped",
+    "1 small Onion, chopped",
+    "1 small Tomato, chopped and seeded",
+    "Shredded mozzarella cheese"
+  ],
+  "recipeInstructions": "1. Cook hot dogs according to package directions.\n2. Place cooked hot dogs in buns.\n3. Top with relish or chili sauce.\n4. Add green pepper, onion, and tomato.\n5. Sprinkle with shredded mozzarella cheese.",
+  "url": null
+}

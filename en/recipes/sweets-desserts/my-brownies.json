@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-brownies",
+  "name": "My Brownies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "brownies",
+    "chocolate",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Butter",
+    "3/4 cup Cocoa powder (Hershey's)",
+    "1/4 cup Vegetable oil",
+    "1 cup White sugar",
+    "1 cup Brown sugar",
+    "2 tsp Vanilla extract or 1 Tbsp liquor",
+    "4 Eggs",
+    "1 1/2 cups Flour",
+    "1 tsp Baking powder",
+    "1/2 tsp Salt",
+    "1/2 cup Chopped walnuts",
+    "1/2 cup Chocolate chips"
+  ],
+  "recipeInstructions": "1. In a large saucepan, melt together the butter, oil, and cocoa powder over low heat to prevent scorching.\n2. Remove from heat. Stir in the sugar and vanilla, blending well.\n3. Add eggs one at a time, then mix in dry ingredients just until blended.\n4. Fold in nuts and chocolate chips.\n5. Spread batter in a greased and floured 13 x 9 pan.\n6. Bake for 35-40 minutes.",
+  "url": null
+}

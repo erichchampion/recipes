@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "blt-pizza",
+  "name": "Pizza BLT",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza",
+    "bocadillos"
+  ],
+  "recipeIngredient": [
+    "1 masa de pan italiano (de 12\")",
+    "1/3 taza de mayonesa KRAFT Real Mayonnaise",
+    "4 tomates plúm, en rodajas",
+    "1/2 taza de queso mozzarella desmenuzado KRAFT",
+    "8 lonchas de BACON OSCAR MAYER, cortadas en cuartos y cocidas",
+    "1 taza de lechuga romana rasgada"
+  ],
+  "recipeInstructions": "1. Extienda la masa de pan con mayonesa.\n2. Coloque en capas los tomates, el queso y el bacon.\n3. Hornee a 450°F durante 5 a 7 minutos, o hasta que se derrita el queso.\n4. Cubra con lechuga romana. Rinde 4 porciones.",
+  "url": null
+}

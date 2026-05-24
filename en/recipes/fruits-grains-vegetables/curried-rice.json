@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "curried-rice",
+  "name": "Curried Rice",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "asian",
+    "chinese",
+    "ethnic"
+  ],
+  "recipeIngredient": [
+    "2 cups Basmati rice, white or brown",
+    "1/4 teaspoon Ground cinnamon",
+    "1/8 teaspoon Ground cardamom (or seeds of cardamom pods, crushed)",
+    "1/2 teaspoon Turmeric",
+    "1 teaspoon Salt",
+    "1/2 cup Slivered almonds",
+    "1/2 cup Raisins",
+    "4 cups Boiling water",
+    "1 cup Green peas, fresh or frozen"
+  ],
+  "recipeInstructions": "1. Toast the rice in a large skillet over medium heat until it starts to become opaque and somewhat chalky in appearance.\n2. Add remaining ingredients, except peas, and bring to a simmer.\n3. Cover the pot and cook until rice is tender and all the water is absorbed (20 minutes for white rice, 60 minutes for brown rice).\n4. Stir in the peas just before serving (a few minutes sooner if using fresh peas).\n5. Serves 6-8.",
+  "url": null
+}

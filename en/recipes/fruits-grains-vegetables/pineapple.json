@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "pineapple",
+  "name": "Pineapple",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "fruits",
+    "miscellaneous",
+    "preserving"
+  ],
+  "recipeIngredient": [
+    "21 pounds pineapple for a canner load of 7 quarts",
+    "13 pounds pineapple for a canner load of 9 pints",
+    "3 pounds pineapple for each quart"
+  ],
+  "recipeInstructions": "1. Select firm, ripe pineapples.\n2. Wash the pineapples thoroughly.\n3. Peel the fruit and remove any eyes or tough fibers.\n4. Slice or cube the peeled pineapples.\n5. Pack the pineapple pieces in water, apple juice, white grape juice, or syrup (very light, light, or medium).\n6. In a large saucepan, combine the pineapple with the chosen liquid and bring to a simmer for 10 minutes.\n7. Remove from heat and pack hot pineapple pieces and cooking liquid into jars, leaving ½-inch headspace.\n8. Seal the jars tightly and process according to Table 1 based on altitude.\nTable 1: Recommended processing times for Pineapple in a boiling-water canner.\nStyle of Pack | Jar Size | Altitude (0-1000 ft) | 1001-3000 ft | 3001-6000 ft | Above 6000 ft\n--------------|----------|---------------------|-------------|-------------|---------------\nHot           | Pints    | 15 minutes          | 20 minutes  | 20 minutes  | 25 minutes\nHot           | Quarts   | 20 minutes          | 25 minutes  | 30 minutes  | 35 minutes",
+  "url": null
+}

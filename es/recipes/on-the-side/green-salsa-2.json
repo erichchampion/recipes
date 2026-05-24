@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "green-salsa-2",
+  "name": "Salsa verde",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "mexicano",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 cebollas grandes",
+    "2 dientes de ajo",
+    "1 manojo de cilantro fresco",
+    "2 cucharadas de azúcar",
+    "1 cucharadita de sal",
+    "3 chiles amarillos frescos",
+    "8 tomatillos frescos o 2 tazas de tomatillo con jugo"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes excepto los tomatillos al procesador de alimentos.\n2. Picar utilizando las cuchillas de cuchillo.\n3. Añadir los tomatillos.\n4. Continuar procesando hasta obtener una consistencia fina.",
+  "url": null
+}

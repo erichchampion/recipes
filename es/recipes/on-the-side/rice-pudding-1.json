@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-pudding-1",
+  "name": "Arroz con leche 1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "postres",
+    "budines",
+    "arroz",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de arroz marrón cocido",
+    "3/4 taza de leche desnatada",
+    "3/4 taza de agua",
+    "2 cucharadas de miel",
+    "1 cucharadita de extracto de vainilla",
+    "2 cucharaditas de canela"
+  ],
+  "recipeInstructions": "1. Mezclar el arroz marrón cocido, la leche desnatada, el agua, la miel, el extracto de vainilla y la canela en una cacerola.\n2. Revitar hasta que esté bien combinado.\n3. Transferir la mezcla a un plato para hornear o una olla apta para horno.\n4. Cubrir con papel aluminio o una tapa.\n5. Hornear en el horno precalentado a 175 °C (350 °F) durante 45 minutos o hasta que esté cuajado.",
+  "url": null
+}

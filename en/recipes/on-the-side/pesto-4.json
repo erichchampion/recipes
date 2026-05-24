@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pesto-4",
+  "name": "Pesto",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "grains",
+    "pasta",
+    "pesto",
+    "rice",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "5 teaspoons basil, dried",
+    "3 teaspoons parsley, dried",
+    "1/2 cup fat-free parmesan cheese",
+    "1 clove garlic, quartered",
+    "1/4 cup walnuts",
+    "1/4 teaspoon salt",
+    "1/4 cup olive oil"
+  ],
+  "recipeInstructions": "1. In a food processor, combine the basil, parsley, parmesan cheese, garlic, walnuts, and salt.\n2. Cover and process with several on-off turns until blended.\n3. With the machine running slowly, gradually add the oil and process to the consistency of soft butter.",
+  "url": null
+}

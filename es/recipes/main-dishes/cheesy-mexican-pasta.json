@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheesy-mexican-pasta",
+  "name": "Pasta mexicana con queso",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "mexicano",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de salsa de queso Velvetta",
+    "2 tazas de pasta cocida"
+  ],
+  "recipeInstructions": "1. Mezclar el queso Velvetta con la pasta cocida.\n2. Decorar con pimientos picados y cilantro.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-cheddar-soup",
+  "name": "Beer & Cheddar Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 quart beer",
+    "1 quart chicken stock",
+    "1 cup heavy cream",
+    "3 egg yolks",
+    "1 cup cheddar cheese, shredded",
+    "1 tsp paprika"
+  ],
+  "recipeInstructions": "1. Bring the beer and chicken stock to a boil over moderate heat.\n2. Simmer for 25 minutes.\n3. Beat the egg yolks until thick and pale yellow.\n4. Beat in the heavy cream.\n5. Slowly add a little of the hot beer to the egg mixture, stirring constantly to prevent curdling.\n6. Add the egg mixture and cheese to the remaining soup.\n7. Heat for 5 minutes, but do not allow the soup to boil.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-punch-1",
+  "name": "Batido de Frutas 1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "diabético",
+    "ponche",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 sobre de mezcla para batido tropical",
+    "350 g de concentrado de jugo de naranja congelado sin azúcar",
+    "4 litros de agua",
+    "4 litros de refresco dietético blanco"
+  ],
+  "recipeInstructions": "1. En un jarro grande, combina la mezcla para batido y el agua; revuelve bien.\n2. Añade el concentrado de jugo de naranja; revuelve bien.\n3. Antes de servir, vierte en una fuente para batidos y agrega el refresco blanco.",
+  "url": null
+}

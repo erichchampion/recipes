@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "sausage-casserole",
+  "name": "Cazuela de salchicha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "salchichas"
+  ],
+  "recipeIngredient": [
+    "1 lb. de salchicha",
+    "1 1/4 tazas de queso cheddar rallado",
+    "6 huevos",
+    "1/4 cucharadita de mostaza en polvo",
+    "1 taza de migas de pan",
+    "2 tazas de leche",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Saltear la salchicha hasta que se desmenuce. Escurrir y reservar.\n2. En un bol, mezclar los huevos, la leche, la mostaza, la sal y la pimienta; batir durante 2 minutos.\n3. En otro bol, combinar la salchicha, las migas de pan y el queso.\n4. Colocar la mitad de la mezcla de salchicha en un refractario.\n5. Verter la mitad de la mezcla de huevos sobre la salchicha.\n6. Añadir el resto de la salchicha.\n7. Agregar los huevos restantes.\n8. Refrigerar durante la noche.\n9. Hornear a 350 grados durante 45 minutos. Sirve para 6 personas.",
+  "url": null
+}

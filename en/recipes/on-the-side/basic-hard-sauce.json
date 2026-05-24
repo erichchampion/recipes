@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-hard-sauce",
+  "name": "Basic Hard Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "desserts",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/4 lb unsalted butter, softened",
+    "1/2 cup powdered sugar",
+    "1/2 tsp vanilla",
+    "or other flavoring such as rum or orange liqueur"
+  ],
+  "recipeInstructions": "1. Cream the butter until very soft.\n2. Gradually add the powdered sugar until well whipped.\n3. Add the desired flavoring.\n4. Chill before serving. Makes 3/4 cup.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "nouvelle-gateau",
+  "name": "Nueva Tarta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "6 oz de mantequilla a temperatura ambiente,",
+    "más mantequilla para engrasar el molde para pastel.",
+    "5 oz de chocolate semiamargo",
+    "1 taza de café, reducido a 3 cucharadas",
+    "4 1/2 cucharadas de harina sin tamizar ni blanqueada",
+    "(Esta medida es correcta.",
+    "Se usa muy poca harina en este bizcocho)",
+    "3/4 taza de azúcar",
+    "Un pellizco de sal",
+    "1/4 taza de ron, preferiblemente Meyers",
+    "6 huevos grandes, separados"
+  ],
+  "recipeInstructions": "Precalentar el horno a 340 grados F y engrasar el molde para pastel.\nDerretir la mantequilla y el chocolate sobre agua caliente (no hirviendo) al baño María. Agregar el café y batir bien con un batidor de alambre. Retirar del fuego y añadir gradualmente la harina, el azúcar y la sal. Incorporar el ron. Mezclar los yemas de huevo.\nBatir las claras de huevo hasta que estén firmes pero no secas, y plegarlas en la mezcla de chocolate enfriada. Colocar en un baño de agua y hornear durante 1 hora y 10 minutos. El bizcocho está hecho cuando un palillo insertado en el centro sale limpio.",
+  "url": null
+}

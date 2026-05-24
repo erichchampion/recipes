@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "fondue-3",
+  "name": "Fondue n.º 3",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "quesos/huevos",
+    "fondue",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 lb de queso Gouda",
+    "1/4 taza de vino blanco seco",
+    "2 cucharadas de mantequilla",
+    "2 cucharaditas de cereza (Kirsch)",
+    "1/4 taza de harina",
+    "Pan cortado en cubos",
+    "1 1/2 tazas de leche",
+    "Pimienta al gusto",
+    "2 cucharaditas de ajo picado finamente",
+    "1/8 cucharadita de nuez moscada"
+  ],
+  "recipeInstructions": "1. Rallar el queso Gouda.\n2. Derrir la mantequilla en una sartén y añadir la harina, removiendo con un batidor de alambre. Incorporar la leche, batiendo rápidamente con el batidor hasta obtener una textura suave. Añadir el ajo, la pimienta, la nuez moscada y el vino blanco. Si se desea, incluir las cerezas (Kirsch).\n3. Servir caliente con los cubos de pan para sumergir. Si la salsa se va a utilizar sobre verduras, omitir las cerezas.",
+  "url": null
+}

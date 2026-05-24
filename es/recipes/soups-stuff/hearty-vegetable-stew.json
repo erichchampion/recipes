@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "hearty-vegetable-stew",
+  "name": "Estofado Generoso de Verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "baja en calorías",
+    "sopas",
+    "guisos",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "32 onzas de jugo de tomate",
+    "14,5 onzas de tomates triturados",
+    "2 tazas de agua",
+    "2 grandes papas, cortadas en cubos",
+    "15 onzas de garbanzos enlatados, escurridos",
+    "15 onzas de frijoles rojos enlatados, escurridos",
+    "1 taza de lentejas, enjuagadas y escurridas",
+    "1 cebolla grande, picada",
+    "2 cucharaditas de ajo en polvo",
+    "1 taza de pimiento rojo, cortado en dados",
+    "1 taza de pimiento verde, cortado en dados",
+    "10 onzas de brócoli congelado, cortado en trozos",
+    "2 zanahorias grandes, ralladas",
+    "2 cucharadas de perejil seco",
+    "2 cucharaditas de comino en polvo",
+    "1 cucharadita de albahaca seca"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en una olla grande.\n2. Llevar a ebullición.\n3. Reducir el calor y cocinar a fuego lento, cubierto, durante 30-45 minutos o hasta que las lentejas estén tiernas.",
+  "url": null
+}

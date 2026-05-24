@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-smoothie-2",
+  "name": "Batido de fresa #2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "congeladas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "10 onzas de fresas congeladas en rodajas, descongeladas",
+    "4 tazas de leche",
+    "1 litro de helado de fresa",
+    "1 cucharadita de ralladura de limón"
+  ],
+  "recipeInstructions": "1. Mezclar la mitad de los ingredientes en una licuadora a velocidad alta durante 1 minuto.\n2. Añadir el resto de los ingredientes y licuar nuevamente por 1 minuto (o usar una batidora).\n3. Servir en vasos altos.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "whole-wheat-and-popcorn-bread",
+  "name": "Pan de trigo integral y palomitas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "2 2/3 tazas de harina de trigo integral",
+    "1/2 taza de harina de maíz",
+    "1/4 taza de harina de gluten",
+    "1 1/2 cucharadas de leche en polvo",
+    "1 1/2 cucharaditas de sal marina",
+    "1 1/4 tazas de agua",
+    "3 cucharadas de margarina de soja",
+    "1 1/2 cucharadas de melaza",
+    "1 cucharada de miel",
+    "4 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a la temperatura indicada por el fabricante.\n2. Colocar todos los ingredientes en el pan del robot de amasado según las instrucciones del fabricante.\n3. Seleccionar el programa de trigo integral, si tu robot de amasado lo tiene, para obtener mejores resultados.\n4. Iniciar el ciclo de amasado y dejar que la máquina complete el ciclo de horneado.\n5. Volcar el pan terminado sobre una rejilla para enfriar completamente antes de cortarlo.",
+  "url": null
+}

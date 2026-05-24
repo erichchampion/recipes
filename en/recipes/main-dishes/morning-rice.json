@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "morning-rice",
+  "name": "Morning Rice",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "2 cups cooked brown rice",
+    "1/2 cup soy milk",
+    "2 tablespoons honey",
+    "1 apple, chopped",
+    "1 teaspoon cinnamon",
+    "2 tablespoons raisins",
+    "1/4 cup crushed pineapple with juice (optional)"
+  ],
+  "recipeInstructions": "1. In a medium bowl, combine the cooked brown rice, soy milk, honey, chopped apple, and cinnamon.\n2. Mix well until all ingredients are evenly distributed.\n3. Fold in the raisins.\n4. If using, microwave the crushed pineapple with juice for about 30 seconds to remove the chill.\n5. Stir everything together until combined.",
+  "url": null
+}

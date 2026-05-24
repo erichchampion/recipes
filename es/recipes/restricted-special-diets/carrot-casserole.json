@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "carrot-casserole",
+  "name": "Estofado de Zanahoria",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "cazuelas",
+    "diabético",
+    "guarniciones",
+    "dietas especiales",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 latas de zanahorias (cortadas en dados o palitos)",
+    "1 bolsa pequeña de patatas fritas (trituradas)",
+    "1 lata de sopa de setas cremosas",
+    "1/2 cebolla, picada finamente"
+  ],
+  "recipeInstructions": "1. Enmantequillar un molde para hornear de 1 litro.\n2. Alternar capas con zanahorias, sopa y mezcla de cebolla.\n3. Hornear a 180°C durante 20-25 minutos o hasta que esté bien caliente.\n4. Justo antes de sacar del horno, espolvorear con las patatas fritas trituradas y dorar ligeramente.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "broiled-steak",
+  "name": "Steak asado",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americano",
+    "vacuno",
+    "étnico",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "2 costillas de ternera,",
+    "1/2 taza de jugo de limón,",
+    "2 cucharadas de orégano seco,",
+    "2 cucharadas de aceite de oliva o aceite vegetal,",
+    "2 cucharaditas de sal,",
+    "1/2 cucharadita de pimienta negra molida,",
+    "4 dientes de ajo machacados."
+  ],
+  "recipeInstructions": "Coloca las costillas de ternera en un recipiente poco profundo de vidrio o plástico. Mezcla el resto de los ingredientes y viértelos sobre la carne. Cubre y refrigera durante al menos 8 horas, dándoles la vuelta ocasionalmente. Precalienta el horno a broil. Coloca la carne en una rejilla dentro de una bandeja para hornear. Broila con la parte superior a unos 5 cm de distancia del calor hasta que esté dorada, aproximadamente 5 minutos. Da la vuelta a la carne y continúa broilando durante unos 5 minutos más. Corta la carne en tiras finas en contra del grano de la misma. Sirve con tortillas y aguacate si lo deseas.",
+  "url": null
+}

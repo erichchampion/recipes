@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-and-meatballs",
+  "name": "Spaghetti and Meatballs",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italian",
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 tablespoon chopped fresh parsley (about 1/2 teaspoon)",
+    "1 tablespoon chopped fresh basil (about 1/2 teaspoon)",
+    "2 teaspoons chopped fresh oregano (about 1/4 teaspoon)",
+    "1 teaspoon sugar",
+    "1/2 teaspoon salt",
+    "1 large onion, chopped (approximately 1 cup)",
+    "1 clove garlic, crushed",
+    "1 can (16 ounces) whole peeled tomatoes",
+    "1 can (8 ounces) tomato sauce",
+    "4 cups hot cooked spaghetti"
+  ],
+  "recipeInstructions": "1. In a 3-quart saucepan, mix all ingredients except meatballs and spaghetti.\n2. Break up the tomatoes and bring to a boil.\n3. Reduce heat and simmer, covered, for 30 minutes, stirring occasionally.\n4. Prepare the meatballs and drain excess fat.\n5. Stir the meatballs into the tomato mixture and continue simmering for another 30 minutes, stirring occasionally.\n6. Serve over spaghetti and, if desired, with Parmesan cheese.",
+  "url": null
+}

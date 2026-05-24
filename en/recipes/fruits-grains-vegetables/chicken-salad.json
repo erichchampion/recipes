@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-salad",
+  "name": "Chicken Salad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "poultry",
+    "salads"
+  ],
+  "recipeIngredient": [
+    "Small sweet pickles (1 each)",
+    "Onion, cut into 1-inch pieces (1 each)",
+    "Cooked chicken breast, cubed (1 each)",
+    "Mayonnaise (1/3 cup)",
+    "Sugar (1/2 teaspoon)",
+    "Salt (1/2 teaspoon)",
+    "Pepper (1/2 teaspoon)"
+  ],
+  "recipeInstructions": "1. Place the pickles and onion in a blender or food processor.\n2. Blend until finely chopped.\n3. Add the cubed chicken and pulse quickly three times.\n4. Add the remaining ingredients (mayonnaise, sugar, salt, and pepper) and pulse quickly two more times.\n5. The mixture should yield about 1 cup.",
+  "url": null
+}

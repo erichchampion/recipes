@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-mexicana",
+  "name": "Pasta Mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta",
+    "tex-mex",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "1/2 lb Thin, green spaghetti",
+    "1 1/2 cup Cubed tomatoes",
+    "1 cup Cucumber matchsticks",
+    "1 medium Avocado, peeled, seeded, and thinly sliced crosswise",
+    "1 cup Salsa",
+    "1 tbsp Extra-virgin olive oil",
+    "1/2 tsp Dried oregano",
+    "1/4 tsp Ground cumin",
+    "1/4 tsp Chili powder",
+    "Cayenne to taste",
+    "1/4 cup Minced cilantro"
+  ],
+  "recipeInstructions": "1. Prepare pasta according to package directions. Rinse under cold water and set into a large, shallow serving bowl.\n2. Add tomatoes, cucumber, and avocado to the serving bowl.\n3. Combine salsa, oil, oregano, chili powder, and cayenne to taste. Mix well, then pour over pasta. Add cilantro and toss gently to distribute vegetables evenly.",
+  "url": null
+}

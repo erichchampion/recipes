@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "great-guacamole",
+  "name": "Great Guacamole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "dips",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1 avocado",
+    "12 tablespoons lime juice (or 3 limes)",
+    "Pinch chili flakes",
+    "1/2 teaspoon ground cumin",
+    "1/2 teaspoon dried oregano"
+  ],
+  "recipeInstructions": "1. Cut the avocado in half, remove the seed, and scoop out the pulp into a bowl.\n2. Mash the avocado with a fork until mostly smooth.\n3. Add lime juice, chili flakes, cumin, and oregano to the mashed avocado.\n4. Mix well until all ingredients are combined and the mixture is creamy.\n5. If not serving immediately, return any unused avocado flesh to the bowl, cover tightly, and refrigerate until ready to use.\n6. Serve as a dip for corn chips, celery stalks, or other raw vegetables.",
+  "url": null
+}

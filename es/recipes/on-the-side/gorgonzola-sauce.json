@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "gorgonzola-sauce",
+  "name": "Salsa de Gorgonzola",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de mantequilla",
+    "1/4 taza de harina",
+    "2 tazas de leche",
+    "1/4 taza de caldo de verduras",
+    "1/2 cucharadita de pimienta negra molida",
+    "4 onzas de queso Gorgonzola, desmenuzado"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una sartén pequeña a fuego medio.\n2. Agrega la harina y cocina, removiendo, durante 2-3 minutos o hasta que burbujee.\n3. Vierte lentamente la leche, el caldo de verduras y la pimienta, cocinando hasta espesar.\n4. Reduce el fuego a bajo y añade el queso, removiendo hasta que se derrita.",
+  "url": null
+}

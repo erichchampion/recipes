@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheddar-dumplings",
+  "name": "Empanadas de Cheddar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "quiches",
+    "repostería rápida"
+  ],
+  "recipeIngredient": [
+    "16 oz de queso cheddar; rallado mediano",
+    "2 huevos; grandes",
+    "1 taza de harina de trigo blanco sin blanquear",
+    "1 cucharadita de sal",
+    "3 cuartos de agua hirviendo",
+    "1/2 taza de mantequilla",
+    "1/2 taza de crema agria"
+  ],
+  "recipeInstructions": "1. Machaca el queso cheddar y añade los huevos, mezclando bien.\n2. Incorpora la harina y la sal.\n3. Vierte cucharadas de la masa en agua hirviendo rápidamente.\n4. Cubre y hierve durante 15 minutos.\n5. Escurre y sirve con mantequilla derretida y crema agria.\n6. Espolvorea con perejil picado o pimentón, si lo deseas.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-nicoise",
+  "name": "Pasta Nicosa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pasta",
+    "ensaladas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "8 oz de conchas pequeñas de pasta",
+    "4 tomates grandes, cortados en cuartos",
+    "1 pimiento rojo, cortado en rodajas",
+    "200 g de judías verdes, al vapor",
+    "8 aceitunas negras",
+    "1 cucharadita de caparras",
+    "2 cucharadas de aceite de oliva",
+    "2 cucharadas de vinagre blanco",
+    "2 dientes de ajo, picados",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta en agua hirviendo con sal hasta que esté al dente (10-12 minutos).\n2. Escurrir bien y enjuagar bajo agua fría. Reservar.\n3. En un bol grande, mezclar la pasta, el pimiento rojo, los tomates, las judías verdes; añadir las aceitunas y las caparras.\n4. Mezclar el aceite de oliva, el vinagre, el ajo, la sal y la pimienta y verter sobre la pasta.\n5. Revolver bien antes de servir.",
+  "url": null
+}

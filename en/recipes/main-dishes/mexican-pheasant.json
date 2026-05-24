@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-pheasant",
+  "name": "Mexican Pheasant",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "american",
+    "ethnic",
+    "meats",
+    "mexican"
+  ],
+  "recipeIngredient": [
+    "2 cups Cooked pheasant, cut into 1-inch bites",
+    "1 can Cream of Mushroom Soup",
+    "1 can Cream of Chicken Soup",
+    "1/2 Jar Medium Salsa",
+    "1 cup Sour Cream",
+    "1 cup Cheddar Cheese, grated",
+    "1 cup Monterey Jack Cheese, grated",
+    "1 Onion, chopped",
+    "1 package Corn Tortillas, cut into strips"
+  ],
+  "recipeInstructions": "1. Combine the cooked pheasant, soups, onion, salsa, sour cream, and 3/4 of the cheese in a large bowl.\n2. Layer the mixture with tortilla strips.\n3. Top with the remaining cheese.\n4. Bake at 350°F for 30 minutes, turning off the heat when done.",
+  "url": null
+}

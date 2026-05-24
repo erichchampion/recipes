@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chi-chi",
+  "name": "Chi Chi",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz de vodka",
+    "1 1/2 oz de crema de coco",
+    "4 cucharadas de piña triturada",
+    "2 tazas de hielo triturado"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una licuadora.\n2. Licuar hasta obtener una textura suave.\n3. Colar la mezcla en un vaso alto o copa de cerveza.\n4. Decorar con una rodaja de piña, naranja y cereza.",
+  "url": null
+}

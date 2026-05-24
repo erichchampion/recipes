@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "venison-stew",
+  "name": "Venison Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "main dish",
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "2 lb Venison, cubed",
+    "1 cup Onion, diced",
+    "12 Potatoes, diced",
+    "6 Carrots, diced",
+    "1 package Mixed Veggies, frozen",
+    "1 cup Celery, diced",
+    "1/4 cup Barley",
+    "8 cups Water",
+    "1 tsp Seasoning salt",
+    "1 Garlic clove, minced",
+    "1 tsp Salt",
+    "1/2 tsp Pepper",
+    "2 tbsp Parsley, dried",
+    "1 tbsp Beef Soup Base",
+    "1 package Gravy Mix",
+    "1 Bay leaf"
+  ],
+  "recipeInstructions": "1. Sear venison until brown on all sides.\n2. Add water to the pot and bring to a simmer.\n3. Add celery, carrots, potatoes, and onions, then all other ingredients except frozen vegetables.\n4. Cook on medium heat until vegetables are tender and meat is cooked through.\n5. Stir in the frozen vegetables and cook until hot.\n6. Remove the bay leaf before serving.\n7. Serve with hard rolls if desired; additional broth may be needed.",
+  "url": null
+}

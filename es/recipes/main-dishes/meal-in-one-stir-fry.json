@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "meal-in-one-stir-fry",
+  "name": "Estofado de uno plato",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 pequeña cebolla, picada",
+    "2 cucharadas de aceite vegetal",
+    "10 oz de trozos de pollo enlatado, escurridos y desmenuzados",
+    "4 oz de setas en rodajas enlatadas, escurridas",
+    "8 1/2 oz de guisantes verdes enlatados, escurridos",
+    "3 tazas de arroz cocido",
+    "2 oz de pimientos picados (opcional)",
+    "1 cucharadita de pimienta negra molida"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla en un wok o sartén grande hasta que sea transparente.\n2. Agregar el pollo, las setas, los guisantes, el arroz, los pimientos (si se usa) y la pimienta; mezclar bien.\n3. Calentar a fuego alto hasta que todos los ingredientes estén calientes de manera uniforme.",
+  "url": null
+}

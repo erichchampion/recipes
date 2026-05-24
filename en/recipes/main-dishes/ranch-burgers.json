@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "ranch-burgers",
+  "name": "Ranch Burgers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Ground beef",
+    "3/4 cup Ranch salad dressing",
+    "3/4 cup Dry bread crumbs",
+    "1/4 cup Onion, minced",
+    "1 tsp Salt",
+    "1/2 tsp Black pepper",
+    "Sesame seed buns",
+    "Lettuce, tomatoes, onion (slices, optional)",
+    "Ranch salad dressing"
+  ],
+  "recipeInstructions": "1. In a large bowl, combine the ground beef, 3/4 cup of salad dressing, bread crumbs, onion, salt, and black pepper.\n2. Shape the mixture into six patties.\n3. Grill over medium hot coals for 4-5 minutes for medium doneness.\n4. Place the patties on sesame seed buns with your choice of additions.\n5. Serve with a generous amount of additional salad dressing.",
+  "url": null
+}

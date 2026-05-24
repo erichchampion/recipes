@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "blue-hawaii-2",
+  "name": "Blue Hawaii",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 oz Blue Curacao",
+    "1/2 oz Dark Rum",
+    "1/2 oz Light Rum",
+    "1 oz Orange Juice",
+    "5 oz Pineapple Juice (or to fill)",
+    "3 oz Crushed Ice"
+  ],
+  "recipeInstructions": "Pour crushed ice into blender. Add Curacao, rum, pineapple juice, and orange juice, and blend until smooth. Pour into beer goblet. Garnish with an orange slice, pineapple chunk, and cherry on a toothpick.",
+  "url": null
+}

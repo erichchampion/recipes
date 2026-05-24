@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-turkey",
+  "name": "Pavo simulado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "pollo",
+    "dietas especiales",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "2 tazas de avena en hojuelas",
+    "2 tazas de agua caliente",
+    "2 cebollas verdes, picadas finamente",
+    "4 huevos",
+    "2 cucharadas de aceite de cocina",
+    "2 tazas de frutos secos molidos (preferiblemente nueces)",
+    "1 taza de semillas de girasol molidas",
+    "2 cucharadas de mantequilla de maní",
+    "1 cucharadita de condimento para aves",
+    "2 cucharaditas de alga marina en polvo"
+  ],
+  "recipeInstructions": "1. Verter el agua caliente sobre la avena.\n2. Añadir el resto de los ingredientes a la avena y mezclar bien.\n3. Engrasar un molde para hornear.\n4. Dar forma a la mezcla en la forma de un pavo, utilizando tallos de apio para las patas y pequeños rectángulos para las alas.\n5. Untar aceite por fuera de la mezcla formada.\n6. Hornear en un horno moderado hasta que esté hecho en el centro, aproximadamente 45 minutos.\n7. Desprender con un espátula y transferir a una bandeja de carne.\n8. Decorar y servir caliente. Sirve para 4-6 personas.",
+  "url": null
+}

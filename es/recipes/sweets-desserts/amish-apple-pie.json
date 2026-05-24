@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "amish-apple-pie",
+  "name": "Pastel de manzana amish",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "Streusel:",
+    "1/3 taza de azúcar",
+    "1/4 taza de azúcar moreno",
+    "10 cucharadas de harina",
+    "1 cucharadita de canela",
+    "1 cucharadita de jengibre",
+    "Una pizca de sal",
+    "Para la tarta:",
+    "1/2 taza de mantequilla fría",
+    "1/2 taza de nueces picadas groseramente",
+    "4 manzanas grandes, peladas, desvenadas y cortadas en láminas finas (aproximadamente 4 tazas)",
+    "1 masa de tarta sin hornear de 23 cm",
+    "1 taza de azúcar",
+    "3 cucharadas de harina",
+    "1/2 cucharadita de canela",
+    "1 huevo grande",
+    "1 taza de crema espesa (para montar)",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "Streusel:\nEn un bol para procesador de alimentos, mezcle los seis primeros ingredientes. Añada la mantequilla y procese hasta obtener una mezcla arenosa; debe tener aún un aspecto seco. No sobreprocese. Añada las nueces y reserve.\nPrecaliente el horno a 180 °C.\nColoque las manzanas en la masa de tarta.\nEn un bol pequeño, mezcle el azúcar, la harina y la canela.\nBata el huevo en un bol mediano, luego añada la crema y la vainilla. Mezcle con la mezcla de azúcar y hornee durante 1 hora en la parte inferior del horno. Después de 20 minutos, espolvoree el streusel por encima y continúe horneando unos 40 minutos más, o hasta que la parte superior esté hinchada y dorada.",
+  "url": null
+}

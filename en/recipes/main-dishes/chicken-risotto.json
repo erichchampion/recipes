@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-risotto",
+  "name": "Chicken Risotto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "2 zucchini, thinly sliced",
+    "2 green onions, sliced",
+    "2 cups cooked diced chicken",
+    "1/2 teaspoon salt",
+    "1/2 teaspoon thyme",
+    "2 tablespoons chopped pimento",
+    "3 cups cooked rice",
+    "1/4 cup grated cheese"
+  ],
+  "recipeInstructions": "1. Cook the zucchini and onions in a small amount of water until tender, about 5 to 10 minutes.\n2. Add the other ingredients, except for the cheese. Stir to combine.\n3. Continue cooking until heated through.\n4. Remove from heat and stir in the cheese.\n5. Serve.",
+  "url": null
+}

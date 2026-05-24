@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-coney-islands",
+  "name": "Rápidas Islas de Coney",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "4 perritos calientes",
+    "1/2 libra de carne molida",
+    "1/4 taza de apio picado",
+    "1 diente de ajo machacado",
+    "Una pizca de sal",
+    "4 bollos para perro caliente",
+    "3/4 taza de cebolla picada",
+    "1 taza de salsa de tomate",
+    "1/2 cucharadita de salsa picante",
+    "Una pizca de pimienta"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida en una sartén.\n2. Agregar 1/2 taza de cebolla y apio a la sartén; cocinar hasta que estén casi tiernos.\n3. Escurrir el exceso de grasa de la carne.\n4. Incorporar los ingredientes restantes: apio, ajo, sal, salsa de tomate, salsa picante y pimienta.\n5. Reducir la mezcla a fuego lento durante 15 minutos.\n6. Calentar los bollos en el horno o tostador.\n7. Calentar los perritos calientes en una pequeña cantidad de agua hasta que estén tibios.\n8. Untar mostaza en cada bollo.\n9. Colocar un perrito caliente dentro de cada bollo.\n10. Verter la salsa de cebolla caliente sobre el perrito.\n11. Agregar la cebolla restante encima para servir.",
+  "url": null
+}

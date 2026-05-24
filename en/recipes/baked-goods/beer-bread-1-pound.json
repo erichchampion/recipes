@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-bread-1-pound",
+  "name": "Beer Bread 1 Pound",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1/4 cup Water",
+    "2/3 cup Beer",
+    "2 tbsp Oil",
+    "1 tsp Lemon Juice",
+    "1 tsp Salt",
+    "2 tbsp Sugar",
+    "2 cups Bread Flour",
+    "1 1/2 tsp Active Dry Yeast"
+  ],
+  "recipeInstructions": "1. Place all liquid ingredients into bread machine pan.\n2. Add flour, then the rest of the dry ingredients to the bread machine.\n3. Set the machine for Dough.\n4. When the machine beeps, remove the dough from the machine.\n5. Place the dough in a buttered loaf pan and let rise for 2 hours.\n6. Bake in a preheated oven at 350°F until lightly browned.\n7. This can also be baked in your bread machine.",
+  "url": null
+}

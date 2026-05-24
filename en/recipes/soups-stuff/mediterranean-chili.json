@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "mediterranean-chili",
+  "name": "Mediterranean Chili",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "2 pounds ground round",
+    "1 pound Italian sausage, ground",
+    "2 cups shallot, minced",
+    "2 tablespoons garlic, minced",
+    "4 cups low sodium beef broth",
+    "1 teaspoon saffron threads",
+    "3 tablespoons olive oil",
+    "12 ounces diced green chiles",
+    "1 teaspoon oregano",
+    "1 teaspoon cumin",
+    "1/2 teaspoon cayenne",
+    "2 tablespoons hot chile powder",
+    "6 ounces tomato paste",
+    "32 ounces canned kidney beans, drained",
+    "4 cups onion, minced"
+  ],
+  "recipeInstructions": "1. Combine beef, sausage, and garlic in a large stockpot.\n2. Saute for 10-15 minutes, until browned.\n3. Add remaining ingredients, except beans.\n4. Simmer for 60 minutes.\n5. Add kidney beans and simmer for another 30-60 minutes.\n6. Serve hot, garnished as desired.",
+  "url": null
+}

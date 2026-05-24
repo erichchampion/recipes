@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "almond-milk",
+  "name": "Almond Milk",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "dairy",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 quart water, ice cold",
+    "1 cup almonds, soaked",
+    "2 tablespoons raisins",
+    "OR",
+    "1 tablespoon sweetener"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a blender.\n2. Blend at high speed for 2 minutes.\n3. Serve over granola or cereal.",
+  "url": null
+}

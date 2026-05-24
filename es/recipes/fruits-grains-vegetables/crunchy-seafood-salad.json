@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "crunchy-seafood-salad",
+  "name": "Ensalada de mariscos crujientes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "6 1/2 onzas de atún enlatado",
+    "6 onzas de carne de cangrejo enlatada",
+    "5 onzas de gambas enlatadas",
+    "1 cabeza grande de lechuga",
+    "1 taza de apio, picado",
+    "1/2 taza de cebolletas, picadas",
+    "1/2 aguacate maduro, picado",
+    "1/2 taza de nueces picadas",
+    "1/2 taza de soja tostada sin sal, tostada",
+    "1/2 taza de semillas de girasol",
+    "2 huevos duros, picados",
+    "1 tomate, cortado en gajos"
+  ],
+  "recipeInstructions": "1. Escurrir el atún y el cangrejo, eliminando cualquier hueso. Desvenar las gambas.\n2. Colocar el pescado escurrio en un bol y refrigerar.\n3. En un bol grande, mezclar todos los ingredientes excepto el tomate.\n4. Añadir el pescado enfriado y mezclar bien.\n5. Incorporar el aderezo elegido (como mayonesa o crema agria) y mezclar de nuevo.\n6. Decorar con gajos de tomate antes de servir.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "gloria-s-punch",
+  "name": "Punch de Gloria",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "batido",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 latas grandes de zumo de naranja congelado, preparado según las instrucciones",
+    "2 latas grandes de limonada rosa congelada, preparada según las indicaciones",
+    "2 latas grandes de zumo de uva sin azúcar congelado, preparado según las instrucciones",
+    "2 latas grandes de Five Alive Punch de frutas congelado, preparado según las indicaciones",
+    "2 litros de gingerale",
+    "2 naranjas en rodajas"
+  ],
+  "recipeInstructions": "1. Mezcla los jugos y el gingerale.\n2. Flota rodajas de naranja sobre la mezcla.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "delicious-fudge",
+  "name": "Fudge delicioso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "caramelo",
+    "postres",
+    "fudge"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar moreno",
+    "1 taza de azúcar granulada",
+    "2/3 taza de leche condensada",
+    "2 tazas de chocolate sin endulzar",
+    "2 cucharadas de mantequilla",
+    "2 cucharadas de jarabe de maíz",
+    "1 cucharadita de extracto de vainilla",
+    "1 taza de nueces picadas"
+  ],
+  "recipeInstructions": "1. Cortar el chocolate en trozos pequeños.\n2. Cocinar el chocolate con el azúcar moreno, azúcar granulada, leche condensada y jarabe de maíz en una sartén a fuego lento.\n3. Revolver hasta que el azúcar se disuelva.\n4. Continuar cocinando, revolviendo ocasionalmente, hasta que la mezcla forme una bola suave al caer en agua fría.\n5. Retirar del fuego y agregar mantequilla, revolviendo hasta enfriar.\n6. Batir hasta que la mezcla pierda su brillo.\n7. Incorporar la vainilla y las nueces; verter en un molde engrasado.\n8. Dejar enfriar por completo.\n9. Cortar en cuadrados.",
+  "url": null
+}

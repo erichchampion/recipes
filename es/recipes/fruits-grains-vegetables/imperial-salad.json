@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "imperial-salad",
+  "name": "Ensalada Imperial",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "4 tazas de arroz rápido",
+    "3 tomates, cortados en tiras finas",
+    "1 pimiento verde, cortado en tiras",
+    "1/4 taza de pimientos rojos en rodajas",
+    "4 cebolletas, cortadas muy finamente",
+    "1 lata (8 onzas) de guisantes",
+    "1 lata (4 onzas) de aceitunas negras, picadas",
+    "3 cucharadas de vinagre de vino",
+    "1 cucharadita de mostaza en polvo",
+    "1 diente de ajo, picado"
+  ],
+  "recipeInstructions": "1. Cocinar el arroz según las instrucciones del paquete.\n2. Mezclar los ingredientes restantes en un bol; agregar el arroz y mezclar bien.\n3. Enfriar antes de servir. Montar en una fuente.\n4. Decorar con rúcula, tiras de tomate, aceitunas negras y rodajas de pepino si se desea.",
+  "url": null
+}

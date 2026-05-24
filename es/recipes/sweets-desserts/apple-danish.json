@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-danish",
+  "name": "Manzanas danesas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "manzanas",
+    "repostería",
+    "galletas",
+    "postres",
+    "vacaciones"
+  ],
+  "recipeIngredient": [
+    "Base:",
+    "3 tazas de harina",
+    "1/2 taza de leche",
+    "Relleno:",
+    "1 1/2 tazas de azúcar",
+    "2 cucharadas de harina",
+    "Glaseado:",
+    "2 cucharaditas de leche",
+    "1 taza de manteca corta",
+    "1/2 cucharadita de sal",
+    "1 yema de huevo",
+    "6 manzanas peladas y rebanadas",
+    "1/4 taza de margarina",
+    "1 cucharada de canela",
+    "1/2 taza de azúcar glas",
+    "1/4 cucharadita de extracto de almendras"
+  ],
+  "recipeInstructions": "1. Mezclar la harina y la sal para la base; cortar en trozos la manteca.\n2. Combinar la leche y la yema de huevo, luego añadir a la mezcla de harina.\n3. Estirar media masa sobre una superficie enharinada para ajustar a un molde para pastel enrollable de 11x16x1/2 pulgadas y colocarla en el molde.\n4. Mezclar todos los ingredientes del relleno y extenderlos sobre la masa.\n5. Estirar la masa restante y colocarla sobre el relleno.\n6. Cepillar la masa con una clara de huevo batida.\n7. Hornear a 375°F durante 45 minutos.\n8. Mezclar los ingredientes del glaseado y verter sobre el danés enfriado.\n9. Cortar en barras.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-chicken-with-noodles",
+  "name": "Pollo italiano con fideos",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "italiano",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "2 pechugas de pollo",
+    "1/2 cucharadita de orégano",
+    "1/8 cucharadita de pimienta negra",
+    "1 cebolla picada",
+    "4 onzas de queso mozzarella rallado",
+    "1 cucharada de jugo de limón",
+    "1/4 cucharadita de sal",
+    "1/4 taza de margarina",
+    "1 taza de caldo de pollo",
+    "8 onzas de fideos de huevo"
+  ],
+  "recipeInstructions": "1. Deshuesa, pela y divide las pechugas de pollo por la mitad.\n2. Corta la carne en tiras de 2 x 1/4 pulgadas.\n3. Espolvorea las tiras con jugo de limón, orégano, albahaca, sal y pimienta.\n4. Derrite la margarina en una sartén, añade el pollo y la cebolla.\n5. Cocina hasta que esté dorado, aproximadamente 5-7 minutos.\n6. Añade el caldo de pollo, reduce el fuego, tapa y cocina durante 10 minutos más.\n7. Agrega el queso, tapa y cocina hasta que se derrita.\n8. Sirve sobre fideos calientes.",
+  "url": null
+}

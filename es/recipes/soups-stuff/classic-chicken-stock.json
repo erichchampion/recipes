@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "classic-chicken-stock",
+  "name": "Caldo de Pollo Clásico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "pollo",
+    "sopas",
+    "caldos"
+  ],
+  "recipeIngredient": [
+    "2 libras de huesos y partes de pollo",
+    "3 litros de agua fría",
+    "1 zanahoria, en rodajas",
+    "1 cebolla, pelada y cortada en cuartos",
+    "1 tallo de apio, en rodajas",
+    "1 hoja de laurel",
+    "2 ramitas de tomillo",
+    "1/2 cucharadita de granos de pimienta negra"
+  ],
+  "recipeInstructions": "1. En una olla para sopa, llevar a ebullición los huesos de pollo con 3 litros de agua fría.\n2. Añadir todos los ingredientes restantes. Devolver a ebullición, luego reducir el calor a un hervor suave.\n3. Hervir a fuego lento durante dos horas, retirando la grasa y espuma de la superficie según sea necesario.\n4. Colar el líquido a través de un paño de queso si es posible. Sazonar con sal al gusto.\nSe puede almacenar en el refrigerador hasta por dos semanas o congelar durante meses. Para congelar, dividir en moldes para cubos de hielo.\nPara crear una demi-glace reducida adecuada para salsas, hervir el caldo durante dos horas adicionales.",
+  "url": null
+}

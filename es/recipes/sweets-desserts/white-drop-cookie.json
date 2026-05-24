@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-drop-cookie",
+  "name": "Galleta de Gotas Blancas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de manteca corta",
+    "3 tazas de azúcar, batida",
+    "4 huevos",
+    "1 taza de leche dulce",
+    "5 1/4 tazas de harina",
+    "1 cucharadita de bicarbonato de sodio disuelto en 1/4 taza de leche agria",
+    "4 cucharaditas de polvo de hornear",
+    "1 cucharadita de vainilla",
+    "1/4 cucharadita de nuez moscada"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Extender la masa por cucharadas sobre hojas para galletas preparadas.\n3. Hornear en horno moderado a 175 °C hasta que esté firme.",
+  "url": null
+}

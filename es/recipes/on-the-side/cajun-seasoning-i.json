@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cajun-seasoning-i",
+  "name": "Especias Cajún I",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "platos secundarios",
+    "especias"
+  ],
+  "recipeIngredient": [
+    "1 cucharadita de orégano",
+    "1 cucharadita de tomillo",
+    "1 cucharadita de pimentón dulce",
+    "1 cucharadita de sal (opcional)",
+    "1 cucharadita de ajo en polvo",
+    "1 cucharadita de pimienta cayena",
+    "1 cucharadita de pimienta negra",
+    "1 cucharadita de pimienta blanca"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes en un bol.\n2. Almacena la mezcla de especias en un recipiente hermético hasta su uso.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheesy-zucchini-pizza",
+  "name": "Cheesy Zucchini Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza",
+    "snacks",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "6 medium Zucchini, sliced",
+    "3 Tomatoes, unpeeled",
+    "3 medium Onions, sliced",
+    "Salt",
+    "Garlic salt",
+    "Oregano",
+    "Pepper",
+    "American cheese slices",
+    "Bacon"
+  ],
+  "recipeInstructions": "1. Place zucchini slices in a shallow baking dish.\n2. Sprinkle with salt, garlic salt, oregano, and pepper.\n3. Slice tomatoes and place over the zucchini.\n4. Season the tomatoes as before.\n5. Slice onions and form a layer, seasoning as before.\n6. Layer cheese slices on top of the onions.\n7. Top with a layer of bacon.\n8. Bake uncovered for 45 to 55 minutes in a 350 degree oven.",
+  "url": null
+}

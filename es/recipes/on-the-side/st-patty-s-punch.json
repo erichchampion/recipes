@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "st-patty-s-punch",
+  "name": "Punch de San Patricio",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "vacaciones",
+    "batido",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "20 oz de piña triturada en jugo",
+    "8 gotas de colorante alimentario verde (opcional)",
+    "18 oz de concentrado de limonada congelada - descongelado",
+    "46 oz de zumo de uva blanco - frío",
+    "46 oz de zumo de piña - frío",
+    "32 cubos de hielo",
+    "36 oz de cerveza - fría"
+  ],
+  "recipeInstructions": "1. Teñir la piña triturada con 4 gotas de colorante verde.\n2. En un jarro, mezclar el concentrado de limonada descongelado, zumo de uva blanco y zumo de piña frío.\n3. Teñir la mezcla con las gotas restantes de colorante verde.\n4. Verter sobre los cubos de hielo en una jarra para cóctel.\n5. Justo antes de servir, añadir la cerveza fría.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "boboli-california-pizza",
+  "name": "Boboli California Pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italian",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 cup Cheddar cheese, shredded",
+    "1 large Bobolis OR 4 small",
+    "1 cup Ripe olives",
+    "1 Avocado, peeled, sliced",
+    "1 cup Alfalfa sprouts",
+    "4 slices Bacon, cook and crumble",
+    "1/2 cup Sour cream"
+  ],
+  "recipeInstructions": "1. Sprinkle the shredded Cheddar cheese and chopped olives over the Bobolis.\n2. Bake at 450°F for 10 minutes.\n3. Top with sliced avocado and alfalfa sprouts.\n4. Garnish with sour cream and crumbled bacon.",
+  "url": null
+}

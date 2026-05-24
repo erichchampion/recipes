@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "puttanesca",
+  "name": "Puttanesca",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "2 teaspoons Olive oil",
+    "2 cloves Garlic, minced",
+    "1 celery rib, minced",
+    "1 sweet red pepper, minced",
+    "(optional)",
+    "1 can Italian plum tomatoes, 3 oz",
+    "8 anchovies, chopped",
+    "8 stuffed green olives, sliced",
+    "8 pitted black olives, sliced",
+    "1 teaspoon capers",
+    "1/4 teaspoon dried red pepper"
+  ],
+  "recipeInstructions": "1. Heat olive oil in a large skillet.\n2. Saute garlic, celery, and sweet red pepper until soft.\n3. Press tomatoes through a food mill and add to the skillet along with anchovies.\n4. Simmer for 10 minutes.\n5. Stir in olives, capers, basil, and dried red pepper.\n6. Simmer, uncovered, for an additional 20 minutes.\n7. Serve with hot pasta tossed with butter.",
+  "url": null
+}

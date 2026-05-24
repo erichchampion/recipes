@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "ranch-chicken-salad",
+  "name": "Ensalada de Pollo Ranch",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "rápido",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 lb (aprox. 450 g) pechugas de pollo sin hueso ni piel, cortadas en tiras de 1/4 de pulgada",
+    "2 cucharaditas de polvo de chile",
+    "1 cucharada de aceite vegetal",
+    "16 oz (450 g) mezcla de ensalada lista para servir",
+    "1 taza de queso cheddar rallado",
+    "3/4 taza de aderezo ranch",
+    "3/4 taza de salsa",
+    "1/2 taza de chips de maíz o tortillas trituradas"
+  ],
+  "recipeInstructions": "1. Espolvorear el pollo con el polvo de chile.\n2. En una sartén, cocinar el pollo en aceite durante 6 minutos o hasta que los jugos sean claros.\n3. Colocar las lechugas de ensalada en un bol grande o en platos individuales.\n4. Cubrir con queso y pollo.\n5. Mezclar el aderezo ranch y la salsa; verter sobre el pollo.\n6. Espolvorear con chips.",
+  "url": null
+}

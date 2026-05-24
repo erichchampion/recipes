@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "spinach-parmesan",
+  "name": "Spinach Parmesan",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "italian",
+    "spinach",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "1 lb Spinach, washed and chopped",
+    "1/2 tsp Pepper",
+    "1/8 tsp Nutmeg",
+    "1/4 cup Butter",
+    "3 tbsp Grated Parmesan cheese",
+    "1/2 tsp Salt"
+  ],
+  "recipeInstructions": "1. Place spinach in a pan with butter and cook for 8 minutes, or until tender.\n2. Add salt, pepper, nutmeg, and Parmesan cheese to the spinach.\n3. Mix well.\n4. Serve.\nServes 4",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "shish-kebab",
+  "name": "Brocheta de cordero",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne de res en cubos",
+    "1 lb de setas",
+    "1 taza de tomates en gajos",
+    "1 taza de cebollas en cuartos",
+    "2 pimientos verdes en cuartos",
+    "1/2 taza de aceite para ensalada",
+    "1 diente de ajo",
+    "1/4 taza de vinagre",
+    "1/2 cucharadita de salsa de soja",
+    "1/2 cucharadita de albahaca",
+    "1 cucharada de jugo de limón"
+  ],
+  "recipeInstructions": "1. Marina la carne en aceite, vinagre, salsa de soja, ajo machacado, jugo de limón, albahaca y sal y pimienta al gusto durante 3 a 4 horas.\n2. Alterna trozos de carne marinada, setas, tomates, pimientos y cebollas en brochetas.\n3. Asa las brochetas, bañándolas con la marinada.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "vinaigrette-marinade",
+  "name": "Marinada Vinagreta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "barbecua",
+    "marinadas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "BUEY, AVES, CERDO, PESCA, VERDURAS",
+    "1 pequeño diente de ajo; machacado",
+    "1/4 cucharadita de sal gruesa",
+    "1/2 cucharadita de mostaza dijon",
+    "2 cucharadas de zumo de limón",
+    "1/4 taza de aceite de oliva",
+    "1 cucharada de vinagre de vino tinto",
+    "1/4 cucharadita de pimienta negra molida"
+  ],
+  "recipeInstructions": "Machacar el ajo y la sal en un bol pequeño con la parte posterior de una cuchara. Incorporar la mostaza y el zumo de limón. Añadir el aceite de oliva, el vinagre y la pimienta, y batir hasta que esté bien combinado. Da para aproximadamente 1/3 taza.",
+  "url": null
+}

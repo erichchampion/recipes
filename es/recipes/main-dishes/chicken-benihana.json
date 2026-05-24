@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-benihana",
+  "name": "Pollo Benihana",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "oriental",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite de soja",
+    "1 pechuga de pollo deshuesada y sin piel",
+    "Sal",
+    "Pimienta",
+    "Jugo de limón fresco",
+    "1 cucharada de semillas de sésamo"
+  ],
+  "recipeInstructions": "1. Calentar una plancha o sartén con aceite de soja hasta que esté caliente, cubriendo la superficie.\n2. Cortar la pechuga de pollo en trozos pequeños y colocarlos sobre la plancha caliente.\n3. Sazonar el pollo al gusto con sal y pimienta.\n4. Cocinar el pollo hasta que esté hecho.\n5. Añadir un poco de jugo de limón fresco y semillas de sésamo.\n6. Continuar cocinando durante unos minutos más.\n7. Servir con salsa de mostaza mágica.",
+  "url": null
+}

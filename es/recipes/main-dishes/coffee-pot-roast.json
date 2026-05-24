@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "coffee-pot-roast",
+  "name": "Tostado de olla de café",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "olla de cocción lenta",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "6 zanahorias; peladas, cortadas en dados",
+    "2 tazas de papas; peladas, cortadas en dados",
+    "2 libras de asado (carne de res)",
+    "Sal y pimienta al gusto",
+    "1 taza de tomates enlatados",
+    "1 taza de café negro",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. Coloca las verduras en la olla.\n2. Añade el asado, espolvoreando con sal y pimienta.\n3. Incorpora los tomates enlatados y los líquidos.\n4. Tapa y cocina a fuego lento durante 8-10 horas o hasta que la carne esté tierna.\n5. (Opcional) Espesa la salsa mezclando harina con agua.",
+  "url": null
+}

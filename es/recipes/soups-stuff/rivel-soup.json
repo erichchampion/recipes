@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "rivel-soup",
+  "name": "Sopa de Revelación",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "1/2 cucharadita de sal",
+    "1 huevo batido",
+    "1 taza de caldo de pollo",
+    "1 taza de caldo de carne",
+    "1 taza de maíz molido"
+  ],
+  "recipeInstructions": "1. Mezcla la harina, la sal y el huevo batido en un bol con las yemas hasta obtener una textura arenosa.\n2. Vierte esta mezcla en el caldo poco a poco, añadiendo el maíz y cocina durante unos 10 minutos. Los riveles estarán listos cuando se asemejen a arroz cocido.",
+  "url": null
+}

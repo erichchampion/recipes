@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "turnip-and-bacon-soup",
+  "name": "Turnip and Bacon Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "1/4 lb Streaky bacon, rinds removed",
+    "1/4 lb Chopped onions",
+    "1/4 lb Chopped potatoes",
+    "3/4 lb Chopped turnips",
+    "2 pints Stock",
+    "Fat for frying"
+  ],
+  "recipeInstructions": "1. Chop and fry the bacon and onions.\n2. Add the chopped potatoes, turnips, and stock to the pan.\n3. Cook gently until the vegetables are soft.\n4. Adjust seasoning and serve.",
+  "url": null
+}

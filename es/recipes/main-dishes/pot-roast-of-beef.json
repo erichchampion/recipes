@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pot-roast-of-beef",
+  "name": "Rost de ternera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "3 lb de brisket (o roast de cadera o asado de olla), cortado para llegar a 4 lb",
+    "1 cebolla grande, cortada en rodajas",
+    "2-3 patatas, peladas y cortadas en cubos",
+    "2 zanahorias, peladas y cortadas en cubos",
+    "1/2 taza de agua o caldo",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Coloca las verduras en el fondo de la olla de cocción lenta.\n2. Sazona la carne con sal y pimienta.\n3. Añade la carne sazonada encima de las verduras.\n4. Vierte el líquido.\n5. Tapa y cocina a fuego lento durante 10-12 horas (o a fuego alto durante 4-5 horas).\n6. Retira la carne y las verduras con una espátula.",
+  "url": null
+}

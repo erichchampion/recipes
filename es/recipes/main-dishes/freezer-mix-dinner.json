@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "freezer-mix-dinner",
+  "name": "Cena de mezcla para congelar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "diversos",
+    "mezclas"
+  ],
+  "recipeIngredient": [
+    "1 sobre de mezcla para cena de fideos de carne",
+    "1 sobre de mezcla para cena de tomate picante",
+    "3,5 tazas de mezcla para congelador tostada y sazonada (ligeramente apretada)"
+  ],
+  "recipeInstructions": "1. Prepara la mezcla para cena de fideos de carne o de tomate picante según las instrucciones del paquete, excepto sustituye 3,5 tazas de mezcla para congelador tostada y sazonada en lugar de la carne molida escurrida.",
+  "url": null
+}

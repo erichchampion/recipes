@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "half-time-beef-sandwiches",
+  "name": "Sándwiches de ternera para el descanso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de jugo de limón",
+    "1 manzana pequeña, picada finamente",
+    "1 paquete (3 onzas) de queso crema",
+    "1 cucharada de leche",
+    "1 cucharada de rábano picante preparado",
+    "1/4 taza de trozos de nuez",
+    "6 panecillos Kaiser, cortados por la mitad",
+    "6 hojas de lechuga",
+    "1 libra de rodajas finas de roast beef",
+    "2 cucharadas de cebolla verde picada"
+  ],
+  "recipeInstructions": "1. Espolvorear jugo de limón sobre la manzana.\n2. Mezclar en un bol el queso crema, la leche y el rábano picante.\n3. Agregar la manzana picada y los trozos de nuez a la mezcla de queso crema.\n4. Untar cantidades iguales de la mezcla de queso crema sobre los lados cortados de cada panecillo.\n5. Colocar hojas de lechuga, rodajas de roast beef y cebolla verde sobre la mitad inferior de cada panecillo.\n6. Cubrir con las mitades superiores de los panecillos.",
+  "url": null
+}

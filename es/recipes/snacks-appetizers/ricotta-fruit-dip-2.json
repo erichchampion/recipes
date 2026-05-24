@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "ricotta-fruit-dip-2",
+  "name": "Dip de frutas con ricota",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1/3 taza de queso ricota sin grasa",
+    "2 cucharadas de azúcar en polvo",
+    "1 cucharada de jugo de naranja",
+    "1/2 cucharadita de extracto de vainilla",
+    "1/3 taza de yogur natural bajo en grasa",
+    "2 tazas de fresas, u otra fruta"
+  ],
+  "recipeInstructions": "1. En un recipiente para licuadora o bol procesador, combinar la ricota, el azúcar en polvo, el jugo de naranja y la vainilla. Tapar y mezclar hasta obtener una consistencia suave.\n2. Incorporar la mezcla al yogur.\n3. Si se desea, tapar y refrigerar hasta por 24 horas. Servir con fresas, melón y otra fruta.",
+  "url": null
+}

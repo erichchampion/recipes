@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "best-cookie-ever",
+  "name": "Best Cookie Ever",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "2 cups butter",
+    "1 teaspoon salt",
+    "2 cups sugar",
+    "2 teaspoons baking powder",
+    "2 cups brown sugar",
+    "2 teaspoons baking soda",
+    "4 eggs",
+    "24 ounces semisweet chocolate chips",
+    "2 teaspoons vanilla",
+    "8 ounces Hershey bar, grated",
+    "4 cups flour",
+    "3 cups nuts (optional)",
+    "5 cups oatmeal, blended (see note)"
+  ],
+  "recipeInstructions": "1. Cream together the butter and both sugars.\n2. Add the eggs and vanilla to the mixture and beat until well combined.\n3. Gradually mix in the flour, oatmeal, salt, baking powder, and baking soda.\n4. Fold in the chocolate chips, grated Hershey bar, and nuts (if using).\n5. Roll the dough into balls about 1-inch in diameter.\n6. Place the cookie balls two inches apart on an ungreased cookie sheet.\n7. Bake at 375°F for 10 minutes.\n8. Allow cookies to cool on the baking sheet for a few minutes before removing them.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "spiced-pork-roast",
+  "name": "Spiced Pork Roast",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "pork"
+  ],
+  "recipeIngredient": [
+    "3 lb Pork roast",
+    "1/2 cup Apple cider vinegar",
+    "1/2 tsp Dried sage",
+    "1/4 tsp Black pepper"
+  ],
+  "recipeInstructions": "1. Place pork roast in Tender Cooker.\n2. Add apple cider vinegar, dried sage, and black pepper to the cooker.\n3. Cover the cooker, add the indicator, and cook on high for 30 minutes.",
+  "url": null
+}

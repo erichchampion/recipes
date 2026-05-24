@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "guacamole-mock-2",
+  "name": "Guacamole (Mock)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "dips",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1 cup asparagus, cooked",
+    "2 tablespoons chili peppers, diced",
+    "2 teaspoons tomato paste",
+    "2 teaspoons lemon juice",
+    "1 tablespoon onion, chopped",
+    "3 tablespoons nonfat mayonnaise",
+    "or yogurt or sour cream",
+    "1/4 teaspoon cumin",
+    "1/4 teaspoon garlic powder",
+    "1/8 teaspoon white pepper"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a blender or food processor.\n2. Blend until smooth and reach desired consistency.\n3. Serve immediately.",
+  "url": null
+}

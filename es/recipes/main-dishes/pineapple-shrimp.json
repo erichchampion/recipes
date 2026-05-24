@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pineapple-shrimp",
+  "name": "Arroz con Gambas y Piña",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco",
+    "gambas"
+  ],
+  "recipeIngredient": [
+    "2 1/2 tazas de trozos de piña",
+    "3 cucharadas de jarabe de encurtido",
+    "3/4 cucharadita de sal",
+    "1/2 taza de pepinillos picados",
+    "1 cucharada de almidón de maíz",
+    "1 libra de gambas cocidas",
+    "1 taza de arroz cocido"
+  ],
+  "recipeInstructions": "1. Mezclar la piña con el jarabe, los pepinillos y la sal en una sartén.\n2. Disolver el almidón de maíz en un poco de agua y añadirlo a la sartén.\n3. Llevar la mezcla a ebullición y remover hasta que espese y aclare.\n4. Añadir las gambas cocidas y calentar a fuego lento.\n5. Servir sobre el arroz.",
+  "url": null
+}

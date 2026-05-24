@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "almost-stuffed-cabbage",
+  "name": "Cabbina casi rellena",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "col y brócoli",
+    "carne picada",
+    "arroz",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 tazas de repollo picado",
+    "1 taza de arroz blanco sin cocer",
+    "1/2 taza de agua",
+    "1 cebolla mediana, picada",
+    "1 pimiento rojo mediano, picado",
+    "1 lata (400g) de tomates enteros, escurridos y picados",
+    "1 libra de carne molida magra (sin cocinar)",
+    "1/2 libra de salchicha, cortada en rodajas finas"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una olla eléctrica para arroz.\n2. Ajustar a la configuración \"cocinar\".\n3. Cuando el cocinador cambie a la configuración \"calentamiento\", remover y dejar reposar cubierto durante 10 minutos.",
+  "url": null
+}

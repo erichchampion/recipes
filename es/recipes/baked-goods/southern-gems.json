@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "southern-gems",
+  "name": "Tesoros del Sur",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina",
+    "1 taza de maicena",
+    "1 taza de harina de graham",
+    "1 taza de azúcar moreno",
+    "1 cucharadita de sal",
+    "5 cucharaditas de polvo de hornear",
+    "1 huevo",
+    "2 tazas de leche",
+    "3 cucharadas de mantequilla (derretida)"
+  ],
+  "recipeInstructions": "1. Cierna los ingredientes secos juntos.\n2. Agrega la leche y el huevo batido a los ingredientes cernidos.\n3. Bate hasta obtener una mezcla suave.\n4. Incorpora la mantequilla derretida.\n5. Vierte la masa en moldes para muffins.\n6. Hornea durante 20-25 minutos a temperatura moderada de 180-200°C.",
+  "url": null
+}

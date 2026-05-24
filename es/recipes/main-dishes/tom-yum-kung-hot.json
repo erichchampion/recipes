@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "tom-yum-kung-hot",
+  "name": "Tom Yum Kung (¡Calentísimo!!!)",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "asiático",
+    "étnico",
+    "marisco",
+    "tailandés"
+  ],
+  "recipeIngredient": [
+    "5 tazas de caldo de pescado",
+    "1 tallo de citronela, finamente picado",
+    "1 limón pequeño, cortado en rodajas finas",
+    "2 hojas de lima kaffir",
+    "1 chile rojo, sin semillas",
+    "8 camarones rey frescos, con cáscara",
+    "2 calamares limpios, cortados en anillos",
+    "2 cucharadas de salsa de pescado",
+    "1 cebolleta, picada",
+    "4 ramitas de cilantro"
+  ],
+  "recipeInstructions": "1. Llevar el caldo de pescado a ebullición. Añadir la citronela, las rodajas de limón, las hojas de lima kaffir y el chile rojo. Reducir el fuego y cocinar a fuego lento durante 7 minutos.\n2. Pelar los camarones, dejando las colas y cabezas intactas. Retirar la vena de cada camarón.\n3. Agregar los camarones y calamares al caldo. Incorporar la salsa de pescado y cocinar a fuego lento hasta que los mariscos estén ligeramente cocidos.\n4. Decorar la sopa con cebolleta picada y ramitas de cilantro.",
+  "url": null
+}

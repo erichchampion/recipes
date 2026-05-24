@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "homemade-mincemeat",
+  "name": "Mincestaco casero",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "frutas",
+    "dietas especiales",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "6 tomates verdes picados",
+    "1/2 cucharadita de canela en rama",
+    "6 manzanas ácidas picadas",
+    "1/2 cucharadita de jengibre molido",
+    "1 taza de pasas",
+    "1/4 taza de vinagre",
+    "1 taza de pasas",
+    "3 cucharaditas de canela en polvo",
+    "1 cucharadita de clavo de olor molido"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una olla grande y pesada.\n2. Cocinar a fuego lento hasta que espese.\n3. Rinde aproximadamente 3 litros. Congelar el mincate en porciones de taza.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-candy-popcorn",
+  "name": "Orange Candy Popcorn",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "popcorn",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "2/3 cup orange juice",
+    "1 1/4 cups sugar",
+    "1/8 cup white corn syrup",
+    "grated rind of 1 orange",
+    "1 cup popped popcorn"
+  ],
+  "recipeInstructions": "1. In a heavy saucepan, combine the orange juice, sugar, corn syrup, and grated orange rind.\n2. Cook over moderate heat until the temperature reaches 280°F on a candy thermometer.\n3. Pour the mixture over the popped corn.",
+  "url": null
+}

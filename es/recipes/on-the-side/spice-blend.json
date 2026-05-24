@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "spice-blend",
+  "name": "Mezcla de especias",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "platos secundarios",
+    "especias",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "2 cucharaditas de tomillo, entero",
+    "2 cucharaditas de polvo de curry",
+    "2 cucharaditas de polvo de cebolla",
+    "2 cucharadas de base vegetal Vogue",
+    "4 cucharaditas de perejil seco",
+    "2 cucharaditas de orégano, entero",
+    "2 cucharaditas de sal",
+    "2 cucharaditas de ajo en polvo",
+    "2 cucharaditas de albahaca seca"
+  ],
+  "recipeInstructions": "1. Mezcla todas las especias y hierbas.",
+  "url": null
+}

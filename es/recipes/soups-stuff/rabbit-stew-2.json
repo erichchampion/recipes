@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "rabbit-stew-2",
+  "name": "Estofado de Conejo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "plato principal",
+    "carnes",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "3 conejos cortados en trozos",
+    "1 taza de harina",
+    "1/4 taza de aceite de oliva",
+    "1/2 taza de cebollas picadas",
+    "2 dientes de ajo finamente picados",
+    "1/4 taza de vino (jerez o seco)",
+    "1 taza de caldo de pollo",
+    "1 taza de marinada para caza, colada",
+    "1 cucharadita de tomillo",
+    "1 cucharadita de salvia",
+    "1 pizca de pimienta cayena",
+    "1/4 taza de perejil picado",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Espolvorear los trozos de conejo con harina y sacudir para eliminar el exceso. Dorar en aceite de oliva por todos lados en una olla negra de hierro fundido. Retirar y mantener caliente.\n2. Añadir las cebollas y el ajo al mismo aceite; cocinar hasta que estén transparentes, sin dorar.\n3. Escurrir el exceso de aceite y devolver el conejo a la olla.\n4. Verter el jerez.\n5. Agregar el caldo y la marinada colada. Llevar a ebullición.\n6. Reducir el fuego y cocinar a fuego lento, cubierto, durante 1 a 1 hora y media.",
+  "url": null
+}

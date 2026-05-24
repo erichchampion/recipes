@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "corned-beef",
+  "name": "Carne de res curada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "4 litros de agua caliente",
+    "2 tazas de sal gruesa",
+    "1/4 taza de azúcar",
+    "2 cucharadas de especias para encurtidos",
+    "1 1/2 cucharaditas de nitrato de sodio o nitrito de sodio"
+  ],
+  "recipeInstructions": "1. Medir 4 litros de agua caliente y verterlos en un recipiente grande.\n2. Añadir la sal gruesa al agua, asegurándose de que todos los trozos estén sumergidos.\n3. Remover hasta que se disuelva el azúcar 1/4 taza.\n4. Espolvorear 2 cucharadas de especias para encurtidos sobre la carne.\n5. Por último, agregar 1 1/2 cucharaditas de nitrato de sodio o nitrito de sodio y remover suavemente para combinar.",
+  "url": null
+}

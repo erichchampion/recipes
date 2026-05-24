@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "whiskey-sour",
+  "name": "Whiskey Sour",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 lemon; juiced",
+    "1/2 teaspoon sugar, powdered",
+    "2 ounces blended whiskey"
+  ],
+  "recipeInstructions": "1. Shake the mixture with ice until well combined.\n2. Strain into a chilled sour glass.\n3. Garnish with a half-slice of lemon and a cherry.",
+  "url": null
+}

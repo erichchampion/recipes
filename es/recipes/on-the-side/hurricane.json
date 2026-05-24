@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hurricane",
+  "name": "Huracán",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 oz de ron oscuro",
+    "1 oz de ron claro",
+    "1/2 oz de Galliano",
+    "2 oz de jarabe de maracuyá",
+    "1/2 oz de jugo de naranja",
+    "1 cucharadita de jugo de lima Rose's",
+    "1 cucharadita de jugo de piña"
+  ],
+  "recipeInstructions": "Llenar un vaso mezclador con hielo picado. Agregar el ron, Galliano, jarabe de maracuyá y jugo de naranja. Agitar y colar en un vaso alto o Collins lleno de cubitos de hielo. Completar con un chorro de jugo de lima Rose's y un chorro de jugo de piña.",
+  "url": null
+}

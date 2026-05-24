@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-and-stoffle",
+  "name": "Pescado y Estofado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "4 tazas de migas de pan (de dos días)",
+    "1 cebolla grande, picada finamente",
+    "2/3 taza de leche (aproximadamente)",
+    "1 huevo",
+    "1 cucharada de mostaza preparada",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "1/2 cucharadita de condimento para aves de corral",
+    "3 cucharadas de mantequilla derretida o",
+    "4 lonchas de tocino",
+    "2 libras de bacalao, merluza o cualquier pescado blanco firme y fresco (puede ser congelado)"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar la leche, el huevo, la mostaza y las especias.\n2. Verter la mezcla sobre los cubos de pan y remover hasta que el pan absorba la leche.\n3. Colocar la mezcla en un molde para hornear ligeramente engrasado de 3 cuartos.\n4. Disponer el pescado encima del relleno.\n5. Cubrir con mantequilla derretida o lonchas de tocino.\n6. Espolvorear con pimentón, cebolla picada o perejil para una presentación atractiva.\n7. Hornear a 180°C hasta que el pescado se desmenuce fácilmente. El tiempo de horneado dependerá del grosor del pescado y si está congelado o fresco.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-quinoa-breakfast-cereal",
+  "name": "Cereal de desayuno de quinoa caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "frutas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 taza de quinoa",
+    "2 tazas de agua",
+    "1/2 taza de manzanas, cortadas en rodajas finas",
+    "1/3 taza de pasas",
+    "1/2 cucharadita de canela",
+    "Leche o crema",
+    "Miel o azúcar moreno"
+  ],
+  "recipeInstructions": "1. Enjuagar la quinoa y añadirla al agua.\n2. Llevar a ebullición.\n3. Reducir el fuego y cocinar a fuego lento durante 5 minutos.\n4. Agregar las manzanas, las pasas y la canela.\n5. Cocinar hasta que se absorba todo el agua.\n6. Servir con leche o crema y endulzar al gusto con miel o azúcar moreno.",
+  "url": null
+}

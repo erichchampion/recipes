@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "plain-kugel",
+  "name": "Kugel sencillo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "etnica",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "6 huevos",
+    "Sal y pimienta al gusto",
+    "1/4 libra de margarina (parve) o mantequilla (si se permite lácteos)",
+    "1 libra de fideos"
+  ],
+  "recipeInstructions": "1. Mezclar la mantequilla con los fideos cocidos a fuego alto.\n2. Añadir los huevos y remover hasta obtener una mezcla homogénea.\n3. Sazonar al gusto.\n4. Verter en un molde de 9 x 13 cm.\n5. Hornear a 175 °C durante una hora.\n6. Servir con elementos asados. Esta receta es adaptable, y para un kugel más ligero y alto, batir las claras primero (aunque este método no es común según el autor). El autor suele preparar este plato solo en ocasiones especiales, como cuando la pequeña Sara viene a cenar.",
+  "url": null
+}

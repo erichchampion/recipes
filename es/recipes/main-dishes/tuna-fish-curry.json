@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tuna-fish-curry",
+  "name": "Curry de Atún",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pesca",
+    "niños",
+    "variado"
+  ],
+  "recipeIngredient": [
+    "2 cucharaditas de aceite",
+    "2 cucharaditas de polvo de curry",
+    "1 manzana, pelada y cortada en trozos",
+    "1 lata de atún, escurrido - 8 onzas",
+    "1 taza de salsa de tomate (8 onzas) o 1 taza",
+    "2 cucharadas de jugo de manzana",
+    "2 tazas de arroz cocido caliente"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en un wok a fuego medio.\n2. Añadir la manzana y saltear durante 1-2 minutos hasta que esté ligeramente ablandada.\n3. Incorporar el polvo de curry y luego agregar la salsa de tomate.\n4. Llevar la mezcla a ebullición.\n5. Agregar el jugo de manzana y el atún, removiendo hasta que todo esté caliente.\n6. Servir caliente sobre el arroz cocido.",
+  "url": null
+}

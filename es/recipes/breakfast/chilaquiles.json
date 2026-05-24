@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chilaquiles",
+  "name": "Chilaquiles",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "cazuelas",
+    "favoritas",
+    "plato principal",
+    "prueba mick"
+  ],
+  "recipeIngredient": [
+    "12 Tortillas",
+    "2 cebollas amarillas medianas; picadas",
+    "2 dientes de ajo; picados finamente",
+    "1 pimiento verde; picado",
+    "500 g de carne molida magra o pavo",
+    "2 latas de salsa de tomate; 8 onzas cada una",
+    "1 cucharadita de sal",
+    "2 cucharadas de polvo de chile",
+    "1 taza de queso cheddar; rallado"
+  ],
+  "recipeInstructions": "1. Cortar las tortillas en cuadrados de 1 pulgada.\n2. Freír o hornear los cuadrados de tortilla hasta que estén dorados y crujientes. Si se fríen, escurrirlos después.\n3. En una sartén, saltear las cebollas, el ajo y el pimiento verde hasta que estén tiernos.\n4. Agregar la carne a la sartén y cocinar hasta que esté bien hecha.\n5. Incorporar la salsa de tomate.\n6. Añadir los cuadrados de tortilla, la sal y el polvo de chile.\n7. Transferir la mezcla a un plato para hornear y espolvorear con queso.\n8. Hornear a 175 °C hasta que esté caliente y el queso se haya derretido.\n9. Servir y adornar con aceitunas maduras cortadas si se desea.",
+  "url": null
+}

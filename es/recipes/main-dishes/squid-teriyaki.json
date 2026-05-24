@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "squid-teriyaki",
+  "name": "Calamar Teriyaki",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "asiático",
+    "étnico",
+    "japonés",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "3 lb de calamares, limpios y cortados en",
+    "anillas",
+    "1/2 taza de salsa de soja",
+    "1/2 taza de mirin, o 1/2 taza de jerez",
+    "1/2 taza de agua",
+    "2 cucharadas de azúcar",
+    "1 cucharadita de almidón de maíz",
+    "El jugo de 2 limas"
+  ],
+  "recipeInstructions": "1. Para preparar la salsa teriyaki, combina todos los ingredientes excepto el almidón de maíz en un bol.\n2. Reserva media parte de la salsa y marina los calamares con la otra mitad durante 1 hora.\n3. Prepara la parrilla insertando las piezas y tentáculos de calamar en brochetas.\n4. Calienta la salsa teriyaki reservada en una cacerola hasta que comience a hervir.\n5. Añade el almidón de maíz disuelto en un poco de agua, y retira del fuego cuando la salsa espese.\n6. Asa los calamares en la parrilla durante 2-3 minutos por cada lado, dependiendo del calor, y dales la vuelta.\n7. Basa con la salsa teriyaki una última vez antes de retirar las brochetas de la parrilla.\n8. Sirve sobre arroz acompañado de la salsa restante.",
+  "url": null
+}

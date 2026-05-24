@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "spiced-pork-roast",
+  "name": "Cerdo asado especiado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "3 libras de lomo de cerdo",
+    "1/2 taza de vinagre de manzana",
+    "1/2 cucharadita de tomillo seco",
+    "1/4 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Coloca el lomo de cerdo en la olla de cocción lenta.\n2. Añade el vinagre de manzana, el tomillo seco y la pimienta negra a la olla.\n3. Cubre la olla, coloca el indicador y cocina a alta temperatura durante 30 minutos.",
+  "url": null
+}

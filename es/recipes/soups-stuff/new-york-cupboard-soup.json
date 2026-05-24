@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "new-york-cupboard-soup",
+  "name": "Sopa del Armario de Nueva York",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "4 tazas de caldo de pollo",
+    "2 tazas de agua",
+    "1/4 taza de orzo",
+    "12 onzas de chicharros de maíz, escurridos",
+    "16 onzas de frijoles negros, escurridos",
+    "5 onzas de pechuga de pollo blanca, picada",
+    "4 onzas de setas, laminadas",
+    "1 frasco de pimientos rojos asados",
+    "1 cucharadita de perejil seco",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Llevar a ebullición el caldo de pollo y el agua en una olla mediana.\n2. Añadir el orzo y cocinar durante unos 5 minutos, removiendo ocasionalmente hasta que esté tierno.\n3. Incorporar los chicharros de maíz, frijoles negros, pechuga de pollo, setas, pimientos rojos asados y perejil seco.\n4. Reducir el fuego para mantener un hervor suave y seguir cocinando hasta que las verduras estén bien calientes (aproximadamente 5 minutos más).\n5. Sazonar con sal y pimienta al gusto.\n6. Servir caliente, adornado con perejil adicional si se desea.\nRinde de 4 a 6 porciones.",
+  "url": null
+}

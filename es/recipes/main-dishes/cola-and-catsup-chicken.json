@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "cola-and-catsup-chicken",
+  "name": "Pollo con salsa de cola y ketchup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "4 libras de pollo frito, cortado en trozos",
+    "1 taza de bebida cola",
+    "1 taza de catsup"
+  ],
+  "recipeInstructions": "1. Mezclar la cola y el catsup en un bol.\n2. Verter la mezcla sobre los trozos de pollo en un plato para hornear engrasado.\n3. Espolvorear con sal y pimienta.\n4. Hornear a 180°C durante unos 60 minutos, sin cubrir, o hasta que el pollo esté tierno y tenga una buena glasea.",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "ground-beef-with-spaghetti-parmigiana",
+  "name": "Carne molida con espagueti Parmesana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "italiana",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "Espaguetis (8 onzas)",
+    "Carne molida (1 libra)",
+    "Cebolla mediana, picada",
+    "Maíz dulce con pimientos (12 onzas)",
+    "Salsa de tomate (8 onzas)",
+    "Agua (1/4 taza)",
+    "Sal (1/2 cucharadita)",
+    "Pimienta (1/4 cucharadita)",
+    "Azúcar (1/4 cucharadita)",
+    "Canela en polvo (1/8 cucharadita)",
+    "Queso parmesano rallado (1/4 taza)",
+    "Mantequilla o margarina (2 cucharadas)"
+  ],
+  "recipeInstructions": "1. Cocinar los espaguetis en una olla según las instrucciones del paquete; escurrir. Devolver los espaguetis a la olla.\n2. En una sartén de 30 cm a fuego medio-alto, cocinar la carne molida y la cebolla, removiendo ocasionalmente, hasta que se evapore todo el jugo de la sartén y la carne esté dorada. Añadir el maíz, la salsa de tomate, el agua, la sal, la pimienta, el azúcar y la canela; calentar a fuego lento.\n3. Mezclar los espaguetis con el queso parmesano y la mantequilla o margarina. Colocar los espaguetis en un plato caliente. Cubrir con la mezcla de carne.",
+  "url": null
+}

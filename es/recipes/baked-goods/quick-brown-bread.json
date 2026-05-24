@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-brown-bread",
+  "name": "Pan de trigo marrón rápido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de azúcar morena",
+    "1/4 taza de jarabe; maple o melaza",
+    "1 cucharadita de sal",
+    "1 huevo",
+    "2 tazas de leche agria o buttermilk",
+    "2 cucharaditas de bicarbonato de sodio",
+    "1 taza de harina blanca",
+    "2 tazas de harina de graham",
+    "1 cucharadita de polvo de hornear",
+    "2 cucharadas de manteca derretida"
+  ],
+  "recipeInstructions": "1. Bate juntos los cuatro primeros ingredientes.\n2. Añade el bicarbonato de sodio disuelto en la leche a la mezcla.\n3. Combina la harina y el polvo de hornear, luego añade la manteca.\n4. Vierte en un molde engrasado de 5 x 10 pulgadas.\n5. Hornea durante 1 hora a 375°F.",
+  "url": null
+}

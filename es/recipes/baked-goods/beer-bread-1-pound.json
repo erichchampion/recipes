@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-bread-1-pound",
+  "name": "Pan de Cerveza 1 Libra",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de agua",
+    "2/3 taza de cerveza",
+    "2 cucharadas de aceite",
+    "1 cucharadita de jugo de limón",
+    "1 cucharadita de sal",
+    "2 cucharadas de azúcar",
+    "2 tazas de harina de pan",
+    "1 1/2 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes líquidos en el pan del panificador.\n2. Añade la harina y el resto de los ingredientes secos al panificador.\n3. Selecciona el programa de masa.\n4. Cuando la máquina emita una señal sonora, retira la masa del panificador.\n5. Coloca la masa en un molde para pan engrasado y deja levar durante 2 horas.\n6. Hornea en un horno precalentado a 175 °C hasta que esté ligeramente dorado.\n7. También se puede hornear en el panificador.",
+  "url": null
+}

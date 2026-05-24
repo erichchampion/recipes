@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "ceviche",
+  "name": "Ceviche",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "fish",
+    "main dish",
+    "meat",
+    "seafood",
+    "spices"
+  ],
+  "recipeIngredient": [
+    "1 lb Fish filets",
+    "8 oz Lime juice",
+    "1 Large onion, finely chopped",
+    "1 Small jalapeno pepper, chopt",
+    "2 Med tomatoes, finely chopped",
+    "30 Pitted green olives",
+    "1/8 tsp Cumin",
+    "20 Capers",
+    "1/4 cup Fresh coriander, chopped",
+    "1/4 cup Olive oil",
+    "1 Salt & pepper to taste",
+    "1 Oregano to taste"
+  ],
+  "recipeInstructions": "1. Marinate the fish in lime juice for 4 to 5 hours until it turns white.\n2. Drain the fish and mix with all other ingredients.\n3. Serve chilled.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "creamed-tuna",
+  "name": "Atún cremoso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco",
+    "atún"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de mantequilla o margarina",
+    "1/4 taza de harina",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "2 tazas de leche",
+    "1 lata de atún en agua (escurrido)"
+  ],
+  "recipeInstructions": "1. Para preparar la salsa blanca, derrite la mantequilla, incorpora la harina, la sal y la pimienta. Mezcla hasta obtener una textura suave. Añade la leche poco a poco mientras revuelves constantemente. Calienta a fuego medio-alto hasta que la mezcla hierva y espese.\n2. Agrega el atún escurrido a la salsa y remueve hasta que esté bien mezclado y caliente. Sirve sobre puré de papas, arroz, tostadas, etc., con verduras al gusto.",
+  "url": null
+}

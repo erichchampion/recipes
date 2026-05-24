@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-dip",
+  "name": "Cheese Dip",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "dips",
+    "snacks",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "1 1/8 pounds cream cheese, softened",
+    "8 radishes",
+    "1 large carrot",
+    "1 small onion",
+    "1 green pepper",
+    "1 clove garlic",
+    "salt and pepper to taste",
+    "milk"
+  ],
+  "recipeInstructions": "1. Grate or chop finely all the vegetables (I use a food processor) and add them to the softened cream cheese. Add salt and pepper to taste, then milk until reaching the desired consistency.\n2. Refrigerate overnight and serve with potato chips, crackers, as a vegetable dip, etc.",
+  "url": null
+}

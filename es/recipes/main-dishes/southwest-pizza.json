@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "southwest-pizza",
+  "name": "Pizza del suroeste",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 cucharadita de harina de maíz",
+    "1 lata de masa para pizza Pillsbury de uso general",
+    "1/2 taza de salsa de tomate",
+    "1/2 cucharadita de polvo de chile",
+    "1/2 taza de pimiento verde picado",
+    "1/2 taza de pimiento rojo picado",
+    "1 lata de chiles verdes escurridos",
+    "1 paquete de queso rallado Cheddar y Monterey Jack",
+    "1/2 taza de cilantro picado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 425 °F (220 °C).\n2. Engrasar una bandeja para hornear tipo jelly roll de 10 x 15 pulgadas.\n3. Extender la masa uniformemente sobre la bandeja preparada.\n4. Hornear durante 5 minutos.\n5. Retirar del horno.\n6. Extender la salsa de tomate combinada con el polvo de chile sobre la masa.\n7. Cubrir con una mezcla de pimientos, chiles y queso con cilantro.\n8. Hornear durante 15 a 20 minutos o hasta que la corteza sea dorada.",
+  "url": null
+}

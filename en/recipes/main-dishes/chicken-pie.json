@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-pie",
+  "name": "Chicken Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry",
+    "poultry main dish londontowne"
+  ],
+  "recipeIngredient": [
+    "4 cups Cooked chicken",
+    "2 tablespoons Salt",
+    "1 cup Celery, finely chopped",
+    "2 cups Soft bread crumbs",
+    "2 teaspoons Parsley, minced"
+  ],
+  "recipeInstructions": "1. Cut the cooked chicken into rather large pieces.\n2. Alternate layers of chicken, celery, bread crumbs, and parsley in a greased casserole dish.\n3. In a separate bowl, mix together the salt, beaten eggs, and chicken broth until well combined.\n4. Pour the egg mixture over the layered chicken mixture in the casserole dish.\n5. Bake the pie in a pan of hot water set in a moderate oven (about 350°F) for approximately 1 hour, or until the mixture does not stick to a knife blade.\n6. Serve with Drop Biscuits on top.",
+  "url": null
+}

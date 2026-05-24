@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "tamales",
+  "name": "Tamales",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne de cerdo",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "4 kg de carne de cerdo deshuesada",
+    "6 tazas de agua",
+    "8 cucharadas de polvo de chile",
+    "1/8 cucharadita de orégano seco",
+    "1/4 cucharadita de comino molido",
+    "2 dientes de ajo picados",
+    "Sal al gusto",
+    "5 kg de harina de masa",
+    "1 kg de manteca",
+    "Caldo de cerdo",
+    "1 paquete de hojas de maíz"
+  ],
+  "recipeInstructions": "1. Cocer la carne de cerdo en agua hasta que esté tierna. Retirar la carne y reservar parte del caldo, manteniendo el resto para la masa y el relleno de chile.\n2. Cortar la carne cocida en trozos pequeños y colocarla en un cazo.\n3. Disolver el polvo de chile en 1,5 tazas del caldo reservado, luego añadir a la carne junto con el ajo, las especias y la sal. Cocinar hasta que esté bien hecho.\n4. Batir la manteca en un bol. Añadir la harina de masa y mezclar bien. Incorporar gradualmente suficiente caldo para obtener una masa moldeable con un cuchillo.\n5. Enjuagar y remojar las hojas de maíz en agua hasta que estén suaves.\n6. Extender aproximadamente 2 cucharadas de masa en el centro de cada hoja de maíz. Colocar una porción del relleno de chile encima.\n7. Doblar los lados de la hoja hacia el centro, luego doblar la parte inferior hacia arriba y la superior hacia abajo para formar un paquete.\n8. Atar cada tamal firmemente con tiras delgadas de hojas de maíz.\n9. Colocar los tamales en una olla grande con 2 cm de agua y colocar una rejilla dentro. Al vapor durante aproximadamente 40 minutos.",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "missouri-barbecued-ribs",
+  "name": "Missouri Barbecued Ribs",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecue",
+    "main dish",
+    "meat",
+    "pork",
+    "ribs"
+  ],
+  "recipeIngredient": [
+    "Marinade:",
+    "2 cups cider vinegar",
+    "2 teaspoons freshly ground black pepper",
+    "4 teaspoons salt",
+    "2 tablespoons brown sugar",
+    "2 tablespoons chili powder",
+    "2 teaspoons dry mustard",
+    "2 teaspoons paprika",
+    "2 teaspoons toasted ground cumin seeds",
+    "2 tablespoons honey",
+    "6 pounds spareribs"
+  ],
+  "recipeInstructions": "1. Combine the marinade ingredients in a large screw-top jar and shake vigorously. Brush the mixture over the ribs and marinate for 4 to 6 hours.\n2. Cook on grill, brushing with sauce every 15 or 20 minutes. Serve remaining sauce, heated with the ribs.",
+  "url": null
+}

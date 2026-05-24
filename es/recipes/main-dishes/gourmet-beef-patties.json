@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "gourmet-beef-patties",
+  "name": "Hamburguesas de ternera gourmet",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "sencillo",
+    "plato principal",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de carne picada magra",
+    "1 1/2 cucharaditas de sal",
+    "1/4 cucharadita de pimienta negra",
+    "2 cucharadas de agua helada",
+    "4 rebanadas finas de queso suizo",
+    "4 rebanadas finas de jamón cocido"
+  ],
+  "recipeInstructions": "1. Mezclar la carne picada con la sal, la pimienta y el agua helada hasta que esté bien combinada.\n2. Formar la mezcla en 8 hamburguesas iguales.\n3. Colocar una rebanada de queso y jamón sobre 4 de las hamburguesas.\n4. Cubrir las hamburguesas restantes y presionar para sellar el jamón y el queso.\n5. Broilar durante 4 minutos por cada lado o hasta el punto de cocción deseado.\n6. Rinde 4 porciones.\nConsejo: El agua helada ayuda a evitar que la carne se seque.",
+  "url": null
+}

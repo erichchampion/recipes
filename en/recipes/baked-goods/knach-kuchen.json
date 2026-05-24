@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "knach-kuchen",
+  "name": "Knach Kuchen",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "1 cup Sugar",
+    "1 Egg",
+    "1 cup Hickory Nuts",
+    "Sponge; enough for 1 loaf",
+    "Butter; piece size of a walnut"
+  ],
+  "recipeInstructions": "1. Mix the sponge with a piece of butter the size of a walnut.\n2. Combine well and place in a greased bread loaf pan.\n3. Let rise until double in bulk.\n4. Bake at moderate temperature (350 - 400 F) for about 40 - 50 minutes.",
+  "url": null
+}

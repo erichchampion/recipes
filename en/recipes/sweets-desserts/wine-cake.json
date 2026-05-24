@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "wine-cake",
+  "name": "Wine Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "beverages",
+    "cakes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 package Yellow cake mix",
+    "1/4 teaspoon Nutmeg",
+    "1 package French vanilla pudding (small packages)",
+    "5 Eggs",
+    "1 cup Cooking oil",
+    "1/2 cup Walnuts, chopped",
+    "1 cup Sherry wine"
+  ],
+  "recipeInstructions": "1. Preheat oven to 350°F.\n2. Mix cake mix, pudding mix, oil, sherry and nutmeg in a large bowl until blended.\n3. Add one egg at a time, blending on medium speed after each addition.\n4. Fold in the chopped walnuts.\n5. Pour batter into a Bundt pan.\n6. Place in 350°F oven.\n7. Bake for 50 minutes.\n8. Remove from pan immediately.",
+  "url": null
+}

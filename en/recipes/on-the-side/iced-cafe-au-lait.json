@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "iced-cafe-au-lait",
+  "name": "Iced Cafe Au Lait",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "coffee",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 1/4 cups Cold freshly brewed coffee",
+    "2 cups Milk",
+    "2 cups Crushed ice",
+    "Sugar (optional)"
+  ],
+  "recipeInstructions": "1. Combine the cold, freshly brewed coffee and milk in a large pitcher or serving glass.\n2. Add crushed ice to the mixture.\n3. Stir until well combined.\n4. If desired, add sugar and continue stirring until frothy.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "spam-meal-in-a-bundle",
+  "name": "Comida de spam en un paquete",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de azúcar moreno compacta",
+    "1/4 taza de mostaza molida",
+    "1/4 taza de cerveza",
+    "1/2 cucharadita de semillas de apio",
+    "8 papas nuevas, cortadas en rodajas de 1/4 de pulgada",
+    "2 tazas de zanahorias, cortadas en rodajas de 1/4 de pulgada",
+    "1 cebolla, cortada finamente",
+    "1 lata de Spam (12 onzas), cortado en rodajas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375 °F.\n2. En un bol, mezclar el azúcar morena, la mostaza, la cerveza y las semillas de apio.\n3. Dividir los vegetales y el Spam entre cuatro trozos de papel de aluminio cuadrado de 12 pulgadas.\n4. Verter la mezcla de mostaza sobre los vegetales.\n5. Doblar el papel de aluminio para formar paquetes.\n6. Hornear durante 45-60 minutos o hasta que esté caliente.",
+  "url": null
+}

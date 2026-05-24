@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "3-bean-salad",
+  "name": "Ensalada de 3 frijoles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frijoles",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 lata de 450 g de frijoles verdes",
+    "1 lata de 450 g de frijoles rojos (kidney beans)",
+    "1 lata de 450 g de guisantes de cera",
+    "1/2 taza de pimiento verde picado",
+    "1/2 taza de azúcar",
+    "2/3 taza de vinagre",
+    "1/2 taza de aceite de ensalada",
+    "1/4 cucharadita de pimienta negra molida",
+    "1/4 cucharadita de sal",
+    "1/2 taza de cebolla picada"
+  ],
+  "recipeInstructions": "1. Escurrir los tres tipos de frijoles y colocarlos en un bol.\n2. Añadir todos los ingredientes excepto la cebolla al bol.\n3. Mezclar bien y refrigerar durante varias horas.\n4. Agregar 1/2 taza de cebolla picada antes de servir.",
+  "url": null
+}

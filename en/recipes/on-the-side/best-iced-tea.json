@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "best-iced-tea",
+  "name": "Best Iced Tea",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "side dishes",
+    "tea"
+  ],
+  "recipeIngredient": [
+    "2 tea bags (regular)",
+    "1 chai tea bag",
+    "1/2 teaspoon anise seeds",
+    "Sugar to taste or no sugar at all",
+    "1 gallon hot or warm water"
+  ],
+  "recipeInstructions": "1. Place 2 regular tea bags and 1 chai tea bag in a large container.\n2. Add the anise seeds and fill with hot or warm water.\n3. Steep for several hours, then remove the tea bags.\n4. Stir in sugar to taste (or omit sugar entirely).\n5. Refrigerate until chilled before serving over ice.",
+  "url": null
+}

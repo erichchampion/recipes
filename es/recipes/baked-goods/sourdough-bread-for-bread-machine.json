@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "sourdough-bread-for-bread-machine",
+  "name": "Pan de masa madre para máquina de panificar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de masa madre de sourdough",
+    "3/4 taza de leche",
+    "2 1/2 cucharadas de margarina o mantequilla",
+    "2 2/3 cucharadas de azúcar",
+    "1 1/3 cucharadas de sal",
+    "4 tazas de harina de pan",
+    "2 1/2 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Precalentar la máquina de pan al ciclo regular.\n2. Añadir todos los ingredientes en el orden indicado por las instrucciones del fabricante de la máquina.\n3. Para un pan grande (1,5 lb), establecer el número de raciones en 6. Para uno mediano, 4; para uno pequeño, 3.\n4. Cerrar la tapa y iniciar el proceso de elaboración del pan en el ciclo regular.",
+  "url": null
+}

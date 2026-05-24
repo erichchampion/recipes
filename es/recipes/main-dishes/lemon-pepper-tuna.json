@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-pepper-tuna",
+  "name": "Tuna con limón y pimienta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco",
+    "atún"
+  ],
+  "recipeIngredient": [
+    "4 lomos de atún, de 1,5 cm de grosor",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra gruesa",
+    "1 cucharada de aceite",
+    "1/2 taza de caldo de pollo",
+    "1 cucharada de zumo de limón",
+    "1 cucharada de mostaza Dijon estilo rústico",
+    "1 cucharada de cebolla fresca picada finamente"
+  ],
+  "recipeInstructions": "1. Espolvorea ambos lados del atún con sal y pimienta.\n2. Calienta el aceite en una sartén antiadherente a fuego medio-alto. Añade el atún; cocina hasta que esté dorado por ambos lados y ligeramente rosado en el centro, aproximadamente 8 minutos.\n3. Transfiere el atún a una bandeja para servir.\n4. En la misma sartén, añade el caldo de pollo y el zumo de limón. Lleva a ebullición. Retira del fuego. Mezcla la mostaza y las cebollas.\n5. Vierte la salsa sobre el atún. Sirve inmediatamente.",
+  "url": null
+}

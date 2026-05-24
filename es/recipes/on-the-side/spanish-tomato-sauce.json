@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "spanish-tomato-sauce",
+  "name": "Salsa de Tomate Española",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de mantequilla",
+    "1/4 cebolla pequeña",
+    "1/4 pimiento verde",
+    "1/2 diente de ajo pequeño",
+    "400 g de tomates (enlatados, escurridos)",
+    "60 g de puré de tomate (enlatado)",
+    "1 cucharadita de azúcar",
+    "1/2 cucharadita de orégano seco molido",
+    "1/2 cucharadita de pimienta negra",
+    "Una pizca de sal"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en un recipiente procesador de alimentos.\n2. Mezclar hasta que la cebolla y el pimiento verde estén finamente picados.\n3. Verter la mezcla en una cacerola.\n4. Cocinar a fuego lento, cubierto, durante 30 minutos.\n5. Servir sobre carne o pescado.\nRinde 3 tazas.",
+  "url": null
+}

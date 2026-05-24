@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "smoky-corn-salad",
+  "name": "Ensalada de Maíz ahumado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "maíz",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de granos de maíz frescos",
+    "1 taza de pollo o pavo cocido en cubos",
+    "1 taza de queso ahumado cortado o desmenuzado (Cheddar de Vermont o Gouda)",
+    "1/2 taza de aceitunas rebanadas",
+    "1/4 taza de cebolla roja dulce picada",
+    "1/4 taza de pimiento rojo cortado en dados",
+    "1/2 taza de mayonesa ligera",
+    "1/2 taza de crema agria ligera",
+    "Sal al gusto",
+    "Pimienta negra molida al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar a vapor los granos de maíz hasta que estén tiernos y crujientes. Enfriar.\n2. Mezclar con el pollo, el queso, las aceitunas, la cebolla y el pimiento rojo.\n3. Batir la mayonesa, la crema agria, la sal y la pimienta.\n4. Incorporar a la mezcla de maíz.\n5. Refrigerar durante varias horas para que se mezclen los sabores.",
+  "url": null
+}

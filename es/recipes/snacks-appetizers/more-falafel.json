@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "more-falafel",
+  "name": "Más Falafel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "tentempié",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 tazas de garbanzos cocidos",
+    "1/2 taza de perejil",
+    "1/4 taza de tahini",
+    "2 dientes de ajo picados",
+    "1/4 taza de leche desnatada",
+    "1 huevo batido",
+    "1/2 cucharadita de mostaza en polvo",
+    "1 cucharadita de comino",
+    "1/2 cucharadita de pimentón dulce",
+    "Sal y pimienta al gusto",
+    "1 cucharada de salsa Worcestershire",
+    "Aceite vegetal para freír (opcional)"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F (175°C).\n2. Triturara los garbanzos y el perejil en una licuadora hasta obtener una mezcla homogénea.\n3. Incorporar el resto de ingredientes (excepto el aceite) a la mezcla y combinar bien.\n4. Con una cuchara, formar discos con la masa sobre una bandeja para hornear.\n5. Untar un poco de aceite sobre cada disco.\n6. Hornear hasta que estén dorados y crujientes, aproximadamente 15 minutos.\nSe pueden recalentar los falafel ya cocidos friéndolos en aceite caliente con especias al gusto.",
+  "url": null
+}

@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "seafood-creole",
+  "name": "Marisco criollo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americano",
+    "cajún",
+    "étnico",
+    "pescado",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "Aceite vegetal, 1/4 taza",
+    "Harina de uso común, 1/4 taza",
+    "Agua caliente, 1 taza",
+    "Camaron, pelado y desvenado, 450 g",
+    "Filetes de pescado fresco, cortados en cubos de 2 cm, 450 g",
+    "Salsa de tomate (8 oz), 1 lata",
+    "Perejil picado, 1/2 taza",
+    "Pimiento verde picado, 1/4 taza",
+    "Ajo finamente picado, 4 dientes",
+    "Hojas de laurel, 2",
+    "Sal, 1 1/2 cucharaditas",
+    "Tomillo, 1/2 cucharadita",
+    "Pimienta cayena, 1/2 cucharadita",
+    "Rodaja de limón sin semillas"
+  ],
+  "recipeInstructions": "1. Calentar el aceite vegetal a fuego medio en una sartén grande. Mezclar gradualmente la harina, removiendo constantemente hasta que se forme una pasta marrón (tener cuidado de no quemarla).\n2. Agregar el agua caliente poco a poco y cocinar hasta que espese y sea suave.\n3. Incorporar los camarones, los filetes de pescado, la salsa de tomate, el perejil picado, el pimiento verde, el ajo, las hojas de laurel, la sal, el tomillo y la pimienta cayena. Tapar y cocinar a fuego lento durante 12 minutos.\n4. Retirar las hojas de laurel y la rodaja de limón.\n5. Servir sobre arroz caliente.",
+  "url": null
+}

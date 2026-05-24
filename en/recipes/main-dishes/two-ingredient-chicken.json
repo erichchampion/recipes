@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "two-ingredient-chicken",
+  "name": "Two Ingredient Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "poultry",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "1 whole chicken",
+    "1 cup Chicken Tonight Sweet & Spicy sauce"
+  ],
+  "recipeInstructions": "1 Remove giblets from inside the chicken.\n2 Pour 1 cup of sauce into the cavity.\n3 Place the chicken breast-down in a crockpot.\n4 Pour the remaining sauce over the chicken.\n5 Add ½ cup molasses or honey, if desired.\n6 Cook until done.",
+  "url": null
+}

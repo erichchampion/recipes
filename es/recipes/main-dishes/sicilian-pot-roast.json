@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "sicilian-pot-roast",
+  "name": "Rost de olla siciliana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "italiana",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "4 lb de asado de falda de res",
+    "2 oz de panceta en cubos",
+    "8 aceitunas negras",
+    "8 aceitunas verdes rellenas",
+    "1 lata grande de tomates triturados",
+    "Harina para empanizar",
+    "1 cebolla grande, en rodajas",
+    "Sal y pimienta al gusto",
+    "1/4 taza de pasas",
+    "4 cucharadas de aceite de oliva",
+    "1 diente de ajo picado"
+  ],
+  "recipeInstructions": "1. Hacer incisiones en la carne e insertar alternativamente las aceitunas negras, las aceitunas rellenas, el ajo y la panceta.\n2. Empanizar la carne en harina y dorarla en aceite caliente.\n3. Incorporar los tomates, las pasas y la cebolla; sazonar con sal y pimienta.\n4. Tapar y cocinar en horno moderado a 175 °C durante 2 horas y media o hasta que esté tierna. Verter agua si es necesario durante la cocción.",
+  "url": null
+}

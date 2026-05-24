@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "hermit-cookies",
+  "name": "Galletas Monjas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar moreno",
+    "1/4 taza de margarina (ablandada)",
+    "1/4 taza de manteca vegetal",
+    "1/4 taza de café frío",
+    "1 huevo",
+    "1 cucharadita de bicarbonato de sodio",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de canela molida",
+    "1/2 cucharadita de nuez moscada molida",
+    "1 3/4 tazas de harina para todo uso",
+    "1 1/4 tazas de pasas",
+    "3/4 taza de nueces picadas"
+  ],
+  "recipeInstructions": "Precalentar el horno a 375 °F. Mezclar en un bol el azúcar moreno, la margarina, la manteca vegetal, el café, el huevo, el bicarbonato de sodio, la sal, la canela y la nuez moscada hasta obtener una mezcla suave. Incorporar gradualmente los ingredientes restantes hasta que estén bien combinados. Colocar cucharaditas de masa (aproximadamente 2 cm de diámetro) sobre una bandeja para hornear sin engrasar. Hornear durante 8 a 10 minutos, o hasta que las galletas se dejen ligeramente presionar al tacto. Retirar inmediatamente de la bandeja y dejar enfriar. Rinde aproximadamente 4 docenas de galletas.",
+  "url": null
+}

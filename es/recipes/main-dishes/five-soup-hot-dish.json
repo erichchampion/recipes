@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "five-soup-hot-dish",
+  "name": "Sopa Caliente de Cinco Ingredientes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne molida",
+    "2 cebollas medianas, picadas",
+    "1 lata de sopa de apio crema, sin diluir",
+    "1 lata de sopa de setas crema, sin diluir",
+    "1 lata de sopa de pollo crema, sin diluir",
+    "1 lata de sopa de res con cebada, sin diluir",
+    "1 lata de sopa de pollo y arroz, sin diluir",
+    "8 oz de fideos chow mein"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida y las cebollas.\n2. Añadir las sopas a la sartén y mezclar bien.\n3. Incorporar dos tercios de los fideos.\n4. Verter la mezcla en un guiso grande.\n5. Cubrir con el resto de fideos.\n6. Hornear a 175°C durante 45 minutos.\nSirve para 6 a 8 personas.",
+  "url": null
+}

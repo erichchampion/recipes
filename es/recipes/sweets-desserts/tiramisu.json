@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "tiramisu",
+  "name": "Tiramisú",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "queso",
+    "chocolate",
+    "postres",
+    "tiramisú"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de espresso, a temperatura ambiente",
+    "1/2 taza de azúcar",
+    "1/4 taza de brandy",
+    "2 yemas de huevo",
+    "1 kg de queso mascarpone",
+    "21-24 galletas savoiardi",
+    "4 onzas de chocolate semiamargo rallado",
+    "1 taza de crema batida",
+    "1/4 cucharadita de extracto de vainilla",
+    "2 cucharadas de azúcar glas"
+  ],
+  "recipeInstructions": "1. Mezclar el espresso, el azúcar y el brandy hasta que se disuelva el azúcar.\n2. Retirar 1/3 taza de la mezcla y reservar. Batir las yemas de huevo con la mezcla de café restante. Agregar el mascarpone y batir hasta obtener una textura suave; evitar sobremezclar para no separar la mezcla.\n3. Forrar un molde rectangular de 23 x 13 cm con papel de cera grande.\n4. Sumergir los savoiardi en la mezcla de café reservada, uno a la vez, brevemente. Colocarlos en el molde, cruzados, hasta cubrir el fondo.\n5. Extender la mitad de la mezcla de mascarpone sobre los savoiardi. Espolvorear con 2 onzas de chocolate. Repetir con la siguiente capa.\n6. Cubrir con una última capa de savoiardi. Envolver el papel de cera por encima y cubrir con plástico transparente.\n7. Refrigerar durante al menos 6 horas.\n8. Voltear el loaf enfriado sobre un plato de servir. Retirar el papel de cera.\n9. Batir la crema, la vainilla y el azúcar glas en un bol hasta que quede firme. Extender la crema batida sobre el loaf y decorar con una boquilla.\n10. Espolvorear con cacao en polvo usando un colador fino. Cortar y servir.",
+  "url": null
+}

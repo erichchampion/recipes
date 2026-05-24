@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "lecso-stew",
+  "name": "Estofado de Lecso",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "etnico",
+    "húngaro",
+    "estofado"
+  ],
+  "recipeIngredient": [
+    "1 cebolla",
+    "2 cucharadas de aceite",
+    "6 pimientos (bellas)",
+    "4 tomates grandes",
+    "1/2 taza de arroz",
+    "Sal"
+  ],
+  "recipeInstructions": "1. Cortar la cebolla en rodajas y freír en aceite caliente.\n2. Retirar semillas y membranas de los pimientos, cortarlos en anillos o trozos y picar los tomates.\n3. Añadir los tomates picados a la cebolla frita y cocinar hasta que se ablanden.\n4. Incorporar los pimientos y seguir cocinando hasta que estén tiernos.\n5. Agregar el arroz y sazonar con sal al gusto.\n6. Reducir el fuego a bajo, tapar y dejar cocer hasta que el arroz esté hecho y los tomates se deshagan.",
+  "url": null
+}

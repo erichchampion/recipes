@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-chicken-and-dressing",
+  "name": "Pollo y relleno fácil",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "aderezos",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 pollo",
+    "1/2 lata de agua",
+    "1 lata de sopa de pollo cremoso",
+    "1/2 taza de mantequilla derretida o caldo de pollo",
+    "1 lata de sopa de apio cremoso",
+    "1 taza de migas de pan Pepperidge Farm",
+    "1 taza de relleno"
+  ],
+  "recipeInstructions": "1. Deshuesar el pollo y cortarlo en trozos pequeños.\n2. Mezclar con las sopas, agua, mantequilla (o caldo) y broth.\n3. Colocar en un molde para hornear de 9x13 pulgadas.\n4. Espolvorear las migas de pan y el relleno sobre la mezcla.\n5. Hornear durante 30 minutos a 350 °F (175 °C) o hasta que el relleno esté dorado.",
+  "url": null
+}

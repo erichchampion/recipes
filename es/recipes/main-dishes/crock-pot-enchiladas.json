@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "crock-pot-enchiladas",
+  "name": "Enchiladas en olla de cocción lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "1 cebolla picada",
+    "1 lata (4.5 oz) de chiles picados",
+    "1 lata de salsa para enchiladas suave",
+    "10.5 onzas de sopa de setas doradas",
+    "10.5 onzas de sopa de queso cheddar",
+    "10.5 onzas de sopa de champiñones cremosos",
+    "10.5 onzas de sopa de apio cremoso",
+    "1 paquete de chips Doritos"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida y la cebolla, escurrir el exceso de grasa.\n2. Agregar todos los ingredientes (excepto los chips Doritos) a la olla de cocción lenta.\n3. Cocinar a fuego bajo durante 4 a 6 horas.\n4. Durante los últimos 15 minutos antes de servir, añadir los chips Doritos y remover suavemente.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cactus-chili",
+  "name": "Chili de Nopal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 latas de tomates enlatados (escurridos)",
+    "2 dientes de ajo picados",
+    "2 latas de frijoles rojos (escurridos)",
+    "Una pizca de sal",
+    "1 lata de salsa de tomate",
+    "500 g de carne molida magra",
+    "1/4 taza de vino blanco",
+    "1 1/2 cucharaditas de chile en polvo",
+    "1 cebolla mediana picada"
+  ],
+  "recipeInstructions": "1. Dorar la carne con la cebolla y el ajo.\n2. Escurrir el exceso de grasa.\n3. Mezclar todos los ingredientes en una olla de cocción lenta.\n4. Remover bien.\n5. Cocinar a fuego lento durante 7-8 horas.\n6. Servir con crema agria, cebolla verde picada, queso cheddar fuerte rallado y un toque de pimienta roja molida.",
+  "url": null
+}

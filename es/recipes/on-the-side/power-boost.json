@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "power-boost",
+  "name": "Impulso de Energía",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 manzana orgánica agria, sin pelar, cortada en cuartos y picada",
+    "5 zanahorias orgánicas, limpias, sin pelar y picadas",
+    "2 tallos de col rizada orgánica, sin los tallos"
+  ],
+  "recipeInstructions": "1. Preparar los ingredientes como se indica anteriormente.\n2. Extraer el jugo según las instrucciones del fabricante para tu exprimidor.\n3. Beber el jugo inmediatamente después de su preparación.\n4. Consumir esta bebida al menos 15 minutos antes de comer.",
+  "url": null
+}

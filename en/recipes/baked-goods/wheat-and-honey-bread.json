@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "wheat-and-honey-bread",
+  "name": "Wheat and Honey Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread",
+    "bread machine",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "Yeast",
+    "Whole wheat flour (3/4 cup)",
+    "Bread flour (2 1/2 cups)",
+    "Salt (1 tsp)",
+    "Honey (2 tbsp)",
+    "Egg (1)",
+    "Warm water (1 cup Plus 1 T)"
+  ],
+  "recipeInstructions": "1. In the order listed, place all ingredients in pan.\n2. Select white bread on machine settings.\n3. Push \"start\".",
+  "url": null
+}

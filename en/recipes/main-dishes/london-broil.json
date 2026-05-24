@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "london-broil",
+  "name": "London Broil",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat",
+    "meats",
+    "steak"
+  ],
+  "recipeIngredient": [
+    "2 lb Flank steak",
+    "1 cup Salad oil",
+    "1/2 cup Vinegar",
+    "1 tsp Salt",
+    "1/4 tsp Pepper",
+    "2 tsp Dry mustard",
+    "2 tsp Worcestershire sauce",
+    "1 dash Cayenne",
+    "1 drop Tabasco sauce"
+  ],
+  "recipeInstructions": "1. Remove excess fat from the flank steak.\n2. Score the steak on both sides with a knife.\n3. In a shallow pan, mix together the salad oil, vinegar, salt, pepper, dry mustard, Worcestershire sauce, cayenne, and tabasco.\n4. Place the steak in the pan and coat it with the marinade mixture. Turn the steak over to ensure even coating.\n5. Marinate the steak for at least 3 hours or overnight, turning several times during the marination period.\n6. Preheat the broiler to a position about 3 inches from the heat source.\n7. Place the steak on the broiler pan and cook each side for 4 minutes. Adjust the time as needed based on your broiler's intensity.\n8. Slice the cooked steak thinly across the grain, diagonally.",
+  "url": null
+}

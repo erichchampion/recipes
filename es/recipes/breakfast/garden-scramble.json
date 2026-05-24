@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "garden-scramble",
+  "name": "Revuelto de Jardín",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 taza de sustituto de huevos",
+    "1/8 cucharadita de pimienta",
+    "1/8 cucharadita de hojas de orégano",
+    "1/4 taza de apio, finamente picado",
+    "1/4 taza de pimiento rojo, finamente picado",
+    "2 cucharadas de pimiento verde, finamente picado",
+    "2 cucharadas de caldo de pollo sin grasa",
+    "1 taza de queso cheddar sin grasa, rallado",
+    "2 rebanadas de pan blanco o integral tostado",
+    "1 cucharada de cebollas verdes, picadas"
+  ],
+  "recipeInstructions": "1. En un bol, mezcle el sustituto de huevos, la pimienta y el orégano. Reserve.\n2. Rocíe una sartén antiadherente con spray para cocinar y caliéntela a fuego medio.\n3. Cocine el apio, el pimiento rojo, el pimiento verde y las cebollas verdes en el caldo de pollo hasta que estén tiernos.\n4. Agregue la mezcla de sustituto de huevos y queso rallado a la sartén.\n5. Revuelva ocasionalmente hasta que los huevos estén cuajados.\n6. Sirva inmediatamente, con pan tostado si lo desea o sin él.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-duck-2",
+  "name": "Mock Duck",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "american",
+    "beef",
+    "canada",
+    "ethnic"
+  ],
+  "recipeIngredient": [
+    "1 Onion; chopped",
+    "1/2 cup Celery; chopped",
+    "1/2 cup Mushroom; chopped",
+    "-salt and pepper to taste",
+    "1 lb Round steak",
+    "3/4 cup Dry bread crumbs",
+    "3/4 cup Beef stock",
+    "1 tbsp Butter",
+    "1 tb Vegetable oil",
+    "1/2 tsp Savory, dried"
+  ],
+  "recipeInstructions": "1. Heat a nonstick frypan or cast iron skillet over medium heat.\n2. Add butter and sauté the chopped onion, celery, and mushrooms until softened.\n3. Remove from heat; stir in bread crumbs, savory, thyme, salt, and pepper to taste. Stir in just enough beef stock to moisten.\n4. Pound the steak to ¼ inch thickness. Cut into serving pieces and season with additional salt and pepper.\n5. Place stuffing along one side of each piece and roll up tightly from the wider end.\n6. Secure rolls with string.\n7. Brown rolls in oil in a skillet, then add enough stock to cover them. Simmer, turning occasionally, for 1 hour, or bake at 325°F (160°C) for 1 hour.\n8. Serve.\nMakes: 4 servings\nNote: The attribution and additional notes have been removed as per the instructions.",
+  "url": null
+}

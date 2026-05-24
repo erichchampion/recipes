@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pineapple-breakfast-shake",
+  "name": "Batido de desayuno de piña",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "aperitivos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "20 oz trozos de piña",
+    "1 plátano mediano, cortado en trozos",
+    "1 1/2 tazas de leche desnatada",
+    "1/4 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Escurrir la piña y reservar 3/4 taza de jugo en un recipiente aparte.\n2. Medir 1/2 taza de trozos de piña y reservar para otro uso.\n3. En una licuadora, combinar los trozos de piña restantes con la leche y el extracto de vainilla.\n4. Licuar hasta obtener una consistencia suave.\n5. Servir en vasos.",
+  "url": null
+}

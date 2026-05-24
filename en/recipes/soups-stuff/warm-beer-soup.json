@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "warm-beer-soup",
+  "name": "Warm Beer Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 cup Beer",
+    "1 cup Milk",
+    "1 Egg yolk",
+    "1 tablespoon Sugar",
+    "2 whole Cloves",
+    "1 pinch Cinnamon",
+    "1/2 teaspoon Lemon rind",
+    "1 tablespoon Flour",
+    "1 teaspoon Salt"
+  ],
+  "recipeInstructions": "1. Bring beer to boiling, then add cloves, sugar, cinnamon, and lemon rind.\n2. Bring milk to boiling point, mix with flour, salt, and stir in the beer mixture.\n3. Add egg yolk.\n4. Serve as a nourishing soup!",
+  "url": null
+}

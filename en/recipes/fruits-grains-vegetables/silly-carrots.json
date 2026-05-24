@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "silly-carrots",
+  "name": "Silly Carrots",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "carrots",
+    "side dishes",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "2 pounds carrots, peeled and sliced",
+    "10 ounce can tomato soup",
+    "3/4 cup sugar",
+    "3/4 cup wine vinegar",
+    "1/4 cup oil",
+    "1 teaspoon prepared mustard",
+    "1 large onion, diced",
+    "1 medium green pepper, diced",
+    "4 stalks celery, diced",
+    "salt to taste",
+    "pepper to taste"
+  ],
+  "recipeInstructions": "1. Cook carrots in boiling water just until tender.\n2. Drain and set aside.\n3. In a large pot, combine the tomato soup, sugar, vinegar, oil, mustard, onion, green pepper, and celery.\n3b. Stir until well combined.\n4. Bring mixture to a boil over medium heat.\n5. Reduce heat and simmer for 10 minutes.\n6. Pour the sauce over the drained carrots.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-chili-3",
+  "name": "Chili rápido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "chili con frijoles",
+    "carne molida",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite vegetal",
+    "2 libras de carne molida de res",
+    "2 tazas de cebolla picada",
+    "2 latas de tomates, escurridos (de 400 g cada una)",
+    "1 taza de caldo de carne",
+    "1 cucharadita de azúcar moreno",
+    "1 cucharadita de vinagre de manzana",
+    "1/2 taza de polvo de chili",
+    "4 latas de frijoles pintos, enjuagados y escurridos (de 400 g cada una)",
+    "Al gusto sal"
+  ],
+  "recipeInstructions": "1. En una olla grande o cacerola holandesa, cocine la carne molida y la cebolla picada en el aceite hasta que estén doradas.\n2. Añada los ingredientes restantes: tomates, caldo de carne, azúcar moreno, vinagre de manzana, polvo de chili y frijoles pintos.\n3. Reduzca el fuego y cocine a fuego lento durante 30 minutos, removiendo ocasionalmente.\n4. Agregue los frijoles pintos enjuagados y escurridos a la mezcla y caliente hasta que estén bien calientes.",
+  "url": null
+}

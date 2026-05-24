@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-macaroni",
+  "name": "Beef & Macaroni",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground beef",
+    "1/2 cup Miracle Whip",
+    "1 can Spaghetti sauce (30 oz)",
+    "1 package Cooked macaroni (7 oz)"
+  ],
+  "recipeInstructions": "1. Brown the ground beef.\n2. Add Miracle Whip, spaghetti sauce, and cooked macaroni to the pan.\n3. Heat the mixture on medium until it is thoroughly warmed through.\n4. Stir occasionally to ensure even cooking.\n5. Top with cheese before serving.",
+  "url": null
+}

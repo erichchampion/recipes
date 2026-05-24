@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fluffy-pancakes",
+  "name": "Fluffy Pancakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breads",
+    "breakfast",
+    "main dish",
+    "pancakes"
+  ],
+  "recipeIngredient": [
+    "2 1/2 cups flour",
+    "1 teaspoon salt",
+    "1 teaspoon baking soda",
+    "1 tablespoon brown sugar",
+    "2 eggs",
+    "2 1/2 - 3 cups buttermilk",
+    "2 tablespoons oil"
+  ],
+  "recipeInstructions": "1. Mix together the dry ingredients.\n2. In a separate bowl, beat the 2 eggs and stir in up to 3 cups of buttermilk (to taste) and 2 tablespoons of oil until combined.\n3. Pour the wet mixture into the center of the dry ingredients.\n4. Stir gently only enough to combine; the batter should remain lumpy.",
+  "url": null
+}

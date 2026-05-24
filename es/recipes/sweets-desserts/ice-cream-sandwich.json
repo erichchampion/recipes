@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "ice-cream-sandwich",
+  "name": "Helado Sandwiche",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de mantequilla de maní crujiente",
+    "2 cuadrados de galletas Graham",
+    "1/2 taza de helado de vainilla de trigo integral"
+  ],
+  "recipeInstructions": "1. Extender la mantequilla de maní en un cuadrado de galleta Graham.\n2. Cubrir con helado de vainilla.\n3. Colocar otro cuadrado de galleta Graham encima.",
+  "url": null
+}

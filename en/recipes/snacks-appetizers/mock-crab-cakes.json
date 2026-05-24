@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-crab-cakes",
+  "name": "Mock Crab Cakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "cakes",
+    "seafood",
+    "snacks",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "2 cups Grated zucchini",
+    "1 cup Italian bread crumbs",
+    "2 Eggs, beaten",
+    "1 tbsp Mayonnaise",
+    "1 tbs Crab spice or to taste",
+    "Grated onion, optional",
+    "Grated celery, optional"
+  ],
+  "recipeInstructions": "1. Grate the zucchini.\n2. Mix all ingredients together in a bowl.\n3. Form the mixture into patties.\n4. Heat oil in a skillet over medium heat.\n5. Fry the patties until browned on both sides.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "venison-sausage",
+  "name": "Venison Sausage",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "meats",
+    "sausages"
+  ],
+  "recipeIngredient": [
+    "5 lb Cubed venison",
+    "1 lb Cubed suet",
+    "3 tbsp Salt",
+    "1 tbsp Black pepper",
+    "1 tsp Red or cayenne pepper",
+    "1 tsp Paprika",
+    "1 tsp Sage",
+    "2 tsp Garlic powder",
+    "Sausage casings"
+  ],
+  "recipeInstructions": "1. Mix the cubed venison and suet with the seasonings.\n2. Grind the mixture until it reaches a desired texture.\n3. Fry a small patty to taste. If it's too mild, add a small amount of red pepper until the proper taste is reached. If it's too hot, add more venison.\n4. Stuff the sausage mixture into casings.\n5. Smoke the sausages for 28 to 30 hours.",
+  "url": null
+}

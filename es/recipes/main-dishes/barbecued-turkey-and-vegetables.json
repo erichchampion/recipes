@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecued-turkey-and-vegetables",
+  "name": "Pavo asado y verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pollo",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 taza de salsa barbacoa",
+    "1/2 taza de agua caliente",
+    "2 muslos de pavo sin piel, cortados por la mitad (aproximadamente 2 libras)",
+    "3 papas medianas, sin pelar, cortadas en 8 trozos cada una",
+    "6 zanahorias medianas, cortadas en palitos de 2 1/2 x 1/2 pulgadas"
+  ],
+  "recipeInstructions": "1. En un bol mediano, mezclar la salsa barbacoa con el agua caliente.\n2. Capar turba, papas y zanahorias en una olla de cocción lenta eléctrica.\n3. Verter la mezcla de salsa sobre la parte superior.\n4. Cubrir y cocinar a fuego lento durante al menos 9 horas.\n5. Retirar el pavo y las verduras con una cuchara perforada.\n6. Colocarlas en un plato de servir.\n7. Servir con el jugo de cocción sobre el pavo y las verduras.",
+  "url": null
+}

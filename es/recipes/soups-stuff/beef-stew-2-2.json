@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-stew-2-2",
+  "name": "Estofado de Carne#2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "estofados"
+  ],
+  "recipeIngredient": [
+    "Papas (1 libra)",
+    "Zanahorias (1 libra)",
+    "Cebolla (1 grande)",
+    "Apio (1 tallo)",
+    "Ternera o pollo (1 libra)",
+    "Sopa de champiñones (1 lata, 400 g)",
+    "Sopa de tomate (1 lata, 400 g)",
+    "Agua (de 1/2 a 1 taza)"
+  ],
+  "recipeInstructions": "1. Cortar las verduras en trozos pequeños: papas, zanahorias, cebolla y apio.\n2. Comprar la pieza de ternera o pollo más económica y cortarla en trozos pequeños, eliminando la mayor parte de grasa y vetas de grasa.\n3. Colocar todos los ingredientes en una olla de cocción lenta.\n4. Añadir 1 lata de sopa de champiñones (400 g) y 1 lata de sopa de tomate (400 g).\n5. Verter aproximadamente 1/2 a 1 taza de agua fría.\n6. Cocinar a fuego lento o medio durante 5-8 horas.\n7. No añadir especias hasta después del primer período de cocción, si se desea. Solo se necesita un poco de pimienta.",
+  "url": null
+}

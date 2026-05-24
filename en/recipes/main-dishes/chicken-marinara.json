@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-marinara",
+  "name": "Chicken Marinara",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "freezer meals",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1 chicken mixture",
+    "1 can diced tomatoes",
+    "1 can tomato paste",
+    "1/4 cup red wine, optional",
+    "2 teaspoons basil",
+    "1 tablespoon sugar",
+    "1 minced garlic clove",
+    "1 dash salt and pepper"
+  ],
+  "recipeInstructions": "1. Combine the chicken mixture with the diced tomatoes.\n2. Stir in the tomato paste, red wine (if using), basil, sugar, garlic, salt, and pepper.\n3. Heat through either on the stove top or in the microwave.\n4. Serve over pasta topped with grated Parmesan cheese.",
+  "url": null
+}

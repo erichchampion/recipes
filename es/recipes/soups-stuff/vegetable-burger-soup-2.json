@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetable-burger-soup-2",
+  "name": "Sopa de hamburguesa vegetal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de carne molida",
+    "2 tazas de agua",
+    "400 g de tomates enlatados (estofados)",
+    "8 oz (225 g) de salsa de tomate",
+    "10 oz (280 g) de mezcla de verduras congeladas",
+    "1/4 taza de mezcla de sopa de cebolla seca",
+    "1 cucharadita de azúcar"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida en una olla grande.\n2. Escurrir el exceso de grasa.\n3. Incorporar el agua, los tomates enlatados, la salsa de tomate, las verduras congeladas, la mezcla de sopa de cebolla y el azúcar.\n4. Llevar a ebullición.\n5. Reducir el fuego y dejar hervir a fuego lento durante 20 minutos.",
+  "url": null
+}

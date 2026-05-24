@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "reuben-casserole-2",
+  "name": "Reuben Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish",
+    "microwave",
+    "quick"
+  ],
+  "recipeIngredient": [
+    "2 cups Swiss cheese; shredded",
+    "1/2 cup Mayonnaise",
+    "1 can Sauerkraut; rinsed and drained",
+    "2 tablespoons Butter",
+    "12 ounces Corned beef; chopped",
+    "1/4 cup Thousand Island dressing or:",
+    "1/4 cup Mayonnaise and a dash of ketchup,",
+    "plus relish",
+    "2 tomatoes; sliced (optional)",
+    "1 green pepper; cut into rings",
+    "1/4 cup Bread crumbs"
+  ],
+  "recipeInstructions": "Fat grams per serving: Approximately 12 minutes cook time.\n1. Place sauerkraut in a buttered 1 1/2-cup casserole dish.\n2. Top with corned beef, broken into pieces, then cheese.\n3. Combine mayonnaise and Thousand Island dressing (or substitute made with mayo, ketchup, and relish) to equal 3/4 cup and spread over the cheese.\n4. Top with tomatoes or green pepper slices.\n5. Melt butter in a microwave-safe bowl, then blend with bread crumbs.\n6. Spread the mixture evenly over the top of the casserole.\n7. Cook on HIGH (100%) for 12 minutes.\nWarning: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat,\" \"press\" instead of \"smash,\" and avoid words like \"destroy,\" \"burn,\" \"splutter,\" or \"execute.\"",
+  "url": null
+}

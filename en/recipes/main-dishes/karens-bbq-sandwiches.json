@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "karens-bbq-sandwiches",
+  "name": "Karens BBQ Sandwiches",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "3 pounds hamburger, cooked and drained",
+    "1/2 onion, chopped",
+    "1 tablespoon garlic powder",
+    "1 cup tomato sauce",
+    "1/4 cup brown sugar",
+    "1 teaspoon mustard",
+    "3 tablespoons BBQ spice"
+  ],
+  "recipeInstructions": "1. Cook and shred the meat.\n2. Add the shredded meat to a crock pot with the remaining ingredients: chopped onion, garlic powder, tomato sauce, brown sugar, mustard, and BBQ spice.\n3. Turn the crock pot setting to high and let it boil until the mixture starts to heat up.\n4. Reduce the setting to low and leave the mixture in the crock pot all day.\n5. Serve the cooked meat mixture on bread or rolls with cheese. You can also use bottled BBQ sauce if desired.",
+  "url": null
+}

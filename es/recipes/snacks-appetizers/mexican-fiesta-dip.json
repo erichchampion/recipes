@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-fiesta-dip",
+  "name": "Dip de Fiesta Mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas y demás",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "8 oz de crema agria",
+    "1,25 oz de mezcla de especias para tacos",
+    "16 oz de frijoles refritos",
+    "0,5 taza de pimientos jalapeños encurtidos en rodajas",
+    "1 taza de queso Monterey Jack rallado",
+    "1 taza de queso Cheddar rallado",
+    "1,5 tazas de lechuga picada",
+    "1 tomate grande, cortado en cubos"
+  ],
+  "recipeInstructions": "1. Mezclar la crema agria con la mezcla de especias para tacos.\n2. Extender los frijoles refritos sobre un plato redondo de 9 pulgadas para servir.\n3. Cubrir uniformemente los frijoles con la mezcla de crema agria.\n4. Superponer con pimientos jalapeños y el resto de ingredientes.\n5. Servir con totopos de maíz.",
+  "url": null
+}

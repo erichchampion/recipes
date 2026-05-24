@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "fancy-fish",
+  "name": "Fancy Fish",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "fish",
+    "main dish",
+    "meat",
+    "sauces",
+    "seafood",
+    "sun-dried"
+  ],
+  "recipeIngredient": [
+    "-Waldine Van Geffen VGHC42A",
+    "-Mayo",
+    "-Lemon juice",
+    "-Dill weed",
+    "-Rehydrated dried tomatoes, halved and chopped",
+    "-Hot pepper sauce, ds"
+  ],
+  "recipeInstructions": "1. Mix all ingredients together and serve as a sauce with fish or fish sticks.\n2. Ensure the heat is turned off when finished.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "diabetic-fudge-2",
+  "name": "Fudge para diabéticos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulce de caramelo",
+    "chocolate",
+    "postres",
+    "fudge"
+  ],
+  "recipeIngredient": [
+    "1 lata de leche evaporada (400 ml)",
+    "3 cucharadas de cacao en polvo",
+    "1/4 taza de manteca",
+    "1/2 taza de edulcorante líquido (por ejemplo, azúcar moreno)",
+    "1/4 cucharadita de sal",
+    "1 cucharadita de extracto de vainilla",
+    "2 1/2 tazas de migas de galleta Graham",
+    "1/4 taza de nueces picadas"
+  ],
+  "recipeInstructions": "1. Mezclar la leche evaporada y el cacao en polvo en una cacerola.\n2. Batir hasta obtener una consistencia suave.\n3. Incorporar la manteca, el edulcorante líquido y la sal a la mezcla.\n4. Llevar a ebullición, removiendo constantemente.\n5. Retirar del fuego y añadir el extracto de vainilla, las migas de galleta Graham y las nueces picadas.\n6. Dejar enfriar durante unos 15 minutos.\n7. Dividir la mezcla en 32 bolas.\n8. Rodar cada bola en las migas de galleta Graham restantes.\n9. Refrigerar hasta que esté firme antes de servir.",
+  "url": null
+}

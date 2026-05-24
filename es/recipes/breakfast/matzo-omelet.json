@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "matzo-omelet",
+  "name": "Omeleta de matzá",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "queso/huevos",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 Matzas blancas",
+    "Al gusto sal y pimienta",
+    "1/2 Cebolla, rallada",
+    "Agua hirviendo",
+    "4 Huevos",
+    "Grasa para freír"
+  ],
+  "recipeInstructions": "1. Rompa las matzas en trozos pequeños.\n2. Vierta agua hirviendo sobre las matzas y deje reposar unos minutos.\n3. Escurra las matzas remojadas.\n4. Bata todos los ingredientes juntos hasta que estén bien integrados en un bol.\n5. Caliente la grasa en una sartén.\n6. Vierta la masa en la sartén caliente.\n7. Esto debería hacer 4 grandes omeletas.\n8. Sirva con mermelada, sirope o crema agria al gusto.\nVariación:\nSustituya 2 tazas de farfel por las matzas.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "medallions-of-beef",
+  "name": "Medallas de ternera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "bistec"
+  ],
+  "recipeIngredient": [
+    "6 onzas de solomillo de ternera",
+    "mantequilla clarificada al gusto",
+    "1 cucharadita de ajo picado",
+    "2 onzas de tomates pelados, desvenados y cortados en dados",
+    "2 onzas de demi-glace",
+    "1 cucharadita de perejil fresco picado"
+  ],
+  "recipeInstructions": "1. Cocinar la ternera en mantequilla clarificada hasta alcanzar el punto deseado de cocción. Mantener caliente.\n2. Dorar el ajo en mantequilla clarificada para liberar sus aromas.\n3. Añadir los tomates y la demi-glace a la sartén. Reducir ligeramente la mezcla.\n4. Incorporar el perejil y sazonar con sal y pimienta al gusto.\n5. Servir la salsa sobre los medallones de ternera.",
+  "url": null
+}

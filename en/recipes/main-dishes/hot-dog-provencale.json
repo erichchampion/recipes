@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-dog-provencale",
+  "name": "Hot Dog Provencale",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "meats"
+  ],
+  "recipeIngredient": [
+    "8 hot dogs",
+    "8 bacon slices",
+    "1 cup onion, minced",
+    "1 garlic clove, minced",
+    "1 can tomatoes (8-oz)",
+    "1/2 tsp salt",
+    "1 dash pepper"
+  ],
+  "recipeInstructions": "1. Fry the bacon until crisp. Remove from heat and let it cool slightly.\n2. In a frying pan, cook the onion and garlic over medium heat until softened.\n3. Stir in the diced tomatoes, salt, and pepper. Bring to a boil, then reduce the heat and simmer for about 10 minutes.\n4. Add the hot dogs to the sauce and cover. Simmer for an additional 15 minutes, or until the hot dogs are heated through.",
+  "url": null
+}

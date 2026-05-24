@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "broccoli-onion-soup",
+  "name": "Sopa de brócoli y cebolla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 cebolla dulce mediana, picada",
+    "2 cucharadas de mantequilla o margarina",
+    "2 paquetes (8 onzas cada uno) de queso crema en cubos",
+    "2 tazas de leche",
+    "2 cubitos de caldo de pollo",
+    "1 1/2 tazas de agua hirviendo",
+    "1 paquete de brócoli congelado picado (10 onzas), cocido y escurrido",
+    "1 cucharadita de jugo de limón",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla en la mantequilla hasta que esté tierna.\n2. Añadir el queso crema y la leche; remover a fuego lento hasta que el queso se derrita.\n3. Disolver los cubitos de caldo en el agua hirviendo; agregar al mezcla de queso crema.\n4. Incorporar el brócoli, el jugo de limón, la sal y la pimienta.\n5. Calentar bien.",
+  "url": null
+}

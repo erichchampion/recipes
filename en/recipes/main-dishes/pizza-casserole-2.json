@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-casserole-2",
+  "name": "Pizza Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "casseroles",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "2 pounds ground beef",
+    "2 large onions, chopped",
+    "48 ounces spaghetti sauce",
+    "1 1/2 teaspoons salt",
+    "1/4 teaspoon pepper",
+    "2 teaspoons Italian seasonings",
+    "10 ounces spiral macaroni",
+    "2 cups shredded mozzarella",
+    "1/2 cup Parmesan"
+  ],
+  "recipeInstructions": "1. Brown and drain the ground beef.\n2. Cook and drain the pasta.\n3. Add all ingredients to a large bowl and mix well.\n4. Transfer the mixture to either a large casserole dish or two 8-inch by 8-inch pans.\n5. Sprinkle with additional Parmesan.\n6. Bake at 350°F for 30 minutes.",
+  "url": null
+}

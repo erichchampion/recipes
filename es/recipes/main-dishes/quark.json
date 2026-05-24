@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "quark",
+  "name": "Cuajada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "toppings"
+  ],
+  "recipeIngredient": [
+    "2 tazas de yogur natural",
+    "1/2 taza de crema agria",
+    "1/4 taza de azúcar",
+    "1 1/2 cucharaditas de vainilla",
+    "1 1/2 cucharaditas de canela",
+    "1/2 cucharadita de nuez moscada"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol hasta obtener una textura suave.\n2. Refrigerar la mezcla únicamente.\n(Nota: ¡No congelar!)",
+  "url": null
+}

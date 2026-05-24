@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "spiced-chicken-bbq",
+  "name": "Pollo especiado BBQ",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecua",
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite de cocina",
+    "1/4 taza de cebolla, picada finamente",
+    "1 diente de ajo, picado",
+    "3/4 taza de ketchup",
+    "1/3 taza de vinagre",
+    "1 cucharada de salsa Worcestershire",
+    "2 cucharaditas de azúcar moreno",
+    "1 cucharadita de mostaza seca",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1/4 cucharadita de salsa Tabasco",
+    "3 libras de pollo, cortado en cuartos"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de cocina en una sartén y cocinar la cebolla y el ajo hasta que estén tiernos, sin dorar.\n2. Agregar el ketchup y mezclar.\n3. Incorporar los ingredientes restantes (excepto el pollo) a la sartén.\n4. Llevar a ebullición y reducir el fuego. Dejar cocinar a fuego lento, destapado, durante 10 minutos, removiendo ocasionalmente.\n5. Retirar la salsa para que se enfríe un poco.\n6. Sazonar los trozos de pollo con sal adicional, si lo desea.\n7. Colocar los trozos de pollo con el hueso hacia abajo sobre brasas medianas a calientes.\n8. Asar durante 25 minutos (hasta que el lado del hueso esté bien dorado).\n9. Dar la vuelta a los trozos y asar otros 25 minutos o hasta que el pollo esté tierno.\n10. Untar el pollo con salsa frecuentemente durante los últimos 10 minutos de asado, utilizando toda la salsa.",
+  "url": null
+}

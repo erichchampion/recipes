@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "bar-b-que-beef-sandwiches-c-p",
+  "name": "Sándwiches de carne asada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "3 libras de asado de paleta",
+    "1 taza de agua",
+    "2 cubos de caldo de carne de res",
+    "1 cucharadita de cebolla picada",
+    "1 lata de salsa de tomate (400 g)",
+    "1/4 taza de azúcar moreno",
+    "1/4 taza de ketchup",
+    "1/4 taza de mostaza",
+    "Una pizca de salsa Worcestershire"
+  ],
+  "recipeInstructions": "1. Coloca el asado en un recipiente apto para horno.\n2. Añade 1 taza de agua y 2 cubos de caldo a la fuente.\n3. Hornea la carne hasta que esté completamente cocida, aproximadamente entre 1-2 horas dependiendo de la temperatura del horno.\n4. Una vez cocida, desmenuza la carne con un tenedor.\n5. Reserva 1 taza de los jugos de cocción para más tarde.\n6. En un bol aparte, mezcla los ingredientes restantes: azúcar moreno, ketchup, mostaza y salsa Worcestershire.\n7. Combina la carne desmenuzada con la mezcla de paso 6.\n8. Transfiere todo a una olla de cocción lenta.\n9. Cocina a fuego lento durante 3-4 horas.\n10. Sirve sobre panecillos para hamburguesa o rollos para cena.",
+  "url": null
+}

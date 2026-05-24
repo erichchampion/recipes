@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "new-potato-salad-satterly",
+  "name": "Ensalada de Patatas Nuevas (Sattely)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 lb de patatas pequeñas, cortadas en cubos",
+    "Agua para hervir",
+    "1 pimiento rojo o verde pequeño",
+    "2 cucharaditas de eneldo seco",
+    "2 cucharaditas de romero seco molido",
+    "3 cucharadas de aceite de oliva extra virgen",
+    "1 cucharada de vinagre de malta",
+    "3 cucharadas de cebolla finamente picada",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. En una olla mediana, cocine los cubos de patatas en agua con sal hasta que estén tiernos.\n2. Mientras tanto, mezcle el eneldo seco, el romero, el aceite de oliva, el vinagre de malta y la cebolla picada en un bol pequeño.\n3. Escurra las patatas cocidas y añádalas al bol con los demás ingredientes. Mezcle suavemente.\n4. Sirva caliente o a temperatura ambiente, o fría.",
+  "url": null
+}

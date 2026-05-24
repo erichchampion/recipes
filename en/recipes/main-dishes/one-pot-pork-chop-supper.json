@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "one-pot-pork-chop-supper",
+  "name": "One Pot Pork Chop Supper",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish",
+    "meat",
+    "pork"
+  ],
+  "recipeIngredient": [
+    "4 pork chops",
+    "1 can tomato soup",
+    "1/2 cup water",
+    "1 teaspoon Worcestershire sauce",
+    "1/2 teaspoon salt",
+    "1/2 teaspoon caraway seed or oregano, optional",
+    "6 small whole potatoes or",
+    "3 medium potatoes, quartered",
+    "4 small carrots, cut into 2-inch pieces"
+  ],
+  "recipeInstructions": "1. In a skillet, brown the pork chops. Pour off any excess fat.\n2. Add the tomato soup, water, Worcestershire sauce, salt, and caraway (or oregano) to the skillet.\n3. Add the potatoes and carrots to the skillet.\n4. Cover and simmer for 45 minutes or until the pork is tender.",
+  "url": null
+}

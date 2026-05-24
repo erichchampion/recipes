@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "noodles-alfredo",
+  "name": "Noodles Alfredo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "8 oz Egg noodles",
+    "1 cup Parmesan cheese",
+    "1/2 cup Butter",
+    "1/2 cup Light cream",
+    "1 tbsp Parsley",
+    "1/4 tsp Salt",
+    "1/4 tsp Pepper"
+  ],
+  "recipeInstructions": "1. Cook the egg noodles according to package directions.\n2. Over low heat, melt butter and cream in a saucepan.\n3. Stir in Parmesan cheese, parsley, salt, and pepper until combined.\n4. Drain the cooked noodles and transfer them to a serving dish.\n5. Pour the sauce over the noodles and gently stir until evenly coated.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "oatmeal-with-dates",
+  "name": "Oatmeal with Dates",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "cereals",
+    "fruits",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 cup Oats",
+    "1/2 tsp Salt",
+    "2 cups Water",
+    "1 cup Dates (pitted and halved)"
+  ],
+  "recipeInstructions": "1. Bring water to a boil.\n2. Add salt.\n3. Gradually add rolled oats, stirring constantly.\n4. Cook over low flame in a double boiler for 45 minutes.\n5. When the oatmeal is done, add the dates.\n6. Mix thoroughly.\n7. Serve with cream and sugar.",
+  "url": null
+}

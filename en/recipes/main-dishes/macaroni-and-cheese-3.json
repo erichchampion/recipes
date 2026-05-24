@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "macaroni-and-cheese-3",
+  "name": "Macaroni and Cheese",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "3 cups cooked macaroni",
+    "1 tablespoon melted mararine",
+    "2 cups evaporated milk",
+    "3 cups shredded sharp process cheese",
+    "1/4 cup finely chopped green pepper",
+    "1/4 cup chopped onion",
+    "1 teaspoon salt",
+    "1/4 teaspoon pepper"
+  ],
+  "recipeInstructions": "1. Toss the cooked macaroni with melted mararine.\n2. Add the remaining ingredients to the macaroni and mix well.\n3. Pour the mixture into a greased crock pot.\n4. Cover and cook on high for 2 to 3 hours, stirring once or twice.",
+  "url": null
+}

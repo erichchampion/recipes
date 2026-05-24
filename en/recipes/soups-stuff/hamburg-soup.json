@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburg-soup",
+  "name": "Hamburg Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "beef",
+    "burgers",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground beef",
+    "1 1/2 cups Onions, diced",
+    "1 1/2 cups Potato, diced",
+    "1 cup Carrot, diced",
+    "1/2 cup Celery, diced",
+    "1 bay leaf",
+    "1 cup Tomato",
+    "4 tbsp Salt",
+    "6 bouillon cubes",
+    "1 cup Cabbage, cut",
+    "1 1/2 quarts Water",
+    "1/4 cup Rice",
+    "1 basil leaf",
+    "1/8 tsp Pepper"
+  ],
+  "recipeInstructions": "1. Brown meat and onions in a pan, stirring with a fork to break up the meat.\n2. Add all vegetables except finely cut cabbage.\n3. Add seasonings and meat to water in a large pot.\n4. Bring to boil and simmer for 15 minutes.\n5. Add rice. Simmer for 45 minutes.\n6. Add cabbage, and simmer another 45 minutes, stirring frequently.\n7. Serve with grated cheese. Tastes even better the next day.",
+  "url": null
+}

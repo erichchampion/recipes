@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "joe-s-eggnog",
+  "name": "Eggnog de Joe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "postres",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "60 yemas de huevo",
+    "4 tazas de coñac o bourbon",
+    "2 tazas de azúcar, o al gusto",
+    "1 taza de ron oscuro",
+    "1 cucharadita de sal",
+    "1 cucharadita de extracto de vainilla",
+    "4 tazas de crema espesa, batida",
+    "Nuez moscada"
+  ],
+  "recipeInstructions": "1. Batir las yemas de huevo hasta que estén claras.\n2. Añadir gradualmente el coñac o bourbon mientras se bate continuamente.\n3. Disolver el azúcar en el ron y removerlo con la mezcla de yema de huevo.\n4. Incorporar la sal y el extracto de vainilla.\n5. Mezclar la crema batida.\n6. Batir las claras de huevo hasta que estén firmes pero no secas.\n7. Mezclar suavemente las claras batidas en la mezcla.\n8. Espolvorear con nuez moscada antes de servir.",
+  "url": null
+}

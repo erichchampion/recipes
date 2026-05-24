@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "penne-carbonara",
+  "name": "Penne Carbonara",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/2 libra de panceta, picada",
+    "1/2 libra de penne seca",
+    "4 huevos batidos",
+    "1/3 taza de queso Pecorino Romano rallado",
+    "1/3 taza de queso Parmesano rallado",
+    "Sal",
+    "Pimienta negra molida al gusto"
+  ],
+  "recipeInstructions": "1. Saltear la panceta hasta que sea transparente. Retirar y reservar.\n2. Cocinar la pasta hasta que quede al dente. Escurrir y devolverla a la olla.\n3. Agregar a la pasta la panceta con su grasa, los huevos, ambos quesos y la pimienta.\n4. Cocinar a fuego muy bajo, revolviendo constantemente. Mantener la mezcla en movimiento en la olla para evitar que los huevos se cuajen. Es posible que sea necesario retirar la olla del fuego ocasionalmente.\n5. Debe formarse una salsa fina sobre la pasta. Servir inmediatamente.\nNota: La pancetta es bacon al estilo italiano. El Pecorino Romano es un queso duro italiano hecho con leche de cabra. El mejor sustituto es el Parmesano.",
+  "url": null
+}

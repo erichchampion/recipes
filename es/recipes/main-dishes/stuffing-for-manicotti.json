@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "stuffing-for-manicotti",
+  "name": "Relleno para manicotti",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "étnica",
+    "italiana",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de queso ricota",
+    "3/4 libra de mozzarella, picada",
+    "3 huevos, ligeramente batidos",
+    "2 cucharadas de mantequilla",
+    "2 cucharadas de parmesano recién rallado",
+    "1/2 cucharadita de sal",
+    "Una pizca de pimienta negra"
+  ],
+  "recipeInstructions": "1. Escurrir el queso ricota.\n2. Mezclar todos los ingredientes y combinar bien.",
+  "url": null
+}

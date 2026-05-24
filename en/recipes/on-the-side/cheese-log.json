@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-log",
+  "name": "Cheese Log",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "appetizers",
+    "cheese",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/2 lb New York Sharp Cheese",
+    "1/2 lb Pimento Cheese",
+    "1/2 lb Cream Cheese",
+    "2 Garlic Cloves",
+    "2 Tablespoons Worcestershire Sauce",
+    "1/4 Teaspoon Red Pepper Flakes",
+    "2 Tablespoons Mayonnaise",
+    "1/4 Teaspoon Salt"
+  ],
+  "recipeInstructions": "1. Grate the cheese.\n2. Add all ingredients to a large bowl and mix well.\n3. Chill the mixture for about 30 minutes.\n4. Divide the mixture into thirds.\n5. Roll each third in paprika.\n6. The logs can be frozen until ready to serve.",
+  "url": null
+}

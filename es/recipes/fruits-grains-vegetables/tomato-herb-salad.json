@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-herb-salad",
+  "name": "Ensalada de Tomate y Hierbas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "diabetico",
+    "ensaladas",
+    "guarniciones",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "6 tomates pequeños, pelados",
+    "1 1/2 cucharaditas de orégano",
+    "Endulzante sin calorías equivalente a 1 cucharada de azúcar",
+    "4 cucharadas de vinagre maltado",
+    "1/2 cucharadita de sal con hierbas",
+    "1/4 cucharadita de pimienta negra",
+    "1 taza de lechuga romana, rasgada"
+  ],
+  "recipeInstructions": "1. Picar finamente 1 1/2 tomates.\n2. Mezclar con orégano, endulzante, vinagre y sal.\n3. Cortar en rodajas los tomates restantes.\n4. Colocarlos sobre las hojas de lechuga.\n5. Verter la mezcla de vinagre encima.\n6. Refrigerar hasta el momento de servir.",
+  "url": null
+}

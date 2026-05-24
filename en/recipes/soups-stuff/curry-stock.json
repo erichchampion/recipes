@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "curry-stock",
+  "name": "Curry Stock",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "curries",
+    "ethnic",
+    "indian",
+    "sauces",
+    "soups",
+    "stocks"
+  ],
+  "recipeIngredient": [
+    "Water (3 pt)",
+    "Onions (2 Spanish), peeled, chopped",
+    "Garlic puree (1 ts)",
+    "Ginger puree (1 ts)",
+    "Ghee (1 tb)",
+    "Salt (2 ts)",
+    "Cloves (10)",
+    "Green Cardamoms (6 Pieces)",
+    "Cassia bark (6)"
+  ],
+  "recipeInstructions": "1. Bring the water to a boil.\n2. Add onions, garlic puree, ginger puree, ghee, and salt. Continue boiling until all ingredients are well combined.\n3. Add cloves, green cardamoms, and cassia bark. Stir gently.\n4. Reduce heat to low and simmer for 1 hour with the lid on. The stock should reduce by half during this time.\n5. Strain the stock through a fine mesh strainer and discard any solids.\n6. Optionally, add meat off-cuts and bones at step 3 for an additional depth of flavor.",
+  "url": null
+}

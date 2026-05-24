@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "an-excellent-veggieburger",
+  "name": "An Excellent Veggieburger",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "august",
+    "burgers",
+    "main dish",
+    "vegetables",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "1 cup Walnuts",
+    "1 1/2 cups Cooked rice",
+    "1 Onion",
+    "2 tablespoons Bacon bits",
+    "2 tablespoons BBQ sauce",
+    "Salt to taste",
+    "Black pepper to taste",
+    "Garlic powder to taste",
+    "Flour as needed"
+  ],
+  "recipeInstructions": "1. Blend the walnuts, cooked rice, bacon bits, BBQ sauce, salt, black pepper, and garlic powder into a paste.\n2. Sauté the onions until softened.\n3. Add the sautéed onions to the mix along with enough flour to form a workable dough.\n4. Shape the mixture into patties and sprinkle flour on the outside of each patty.\n5. Refrigerate for at least one hour.\n6. Fry, grill, or bake the patties (they hold together well on the grill, slightly crumbly like an actual hamburger).\n7. Serve with extra BBQ sauce on a bun, topped with onion, lettuce, tomato, or any other desired toppings. Makes six servings.",
+  "url": null
+}

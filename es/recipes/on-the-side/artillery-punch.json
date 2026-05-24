@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "artillery-punch",
+  "name": "Artillería Punch",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cóctel",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 litro de té negro fuerte",
+    "1 litro de whisky de centeno",
+    "26 onzas de vino tinto",
+    "1 pinta de ron jamaicano",
+    "1/2 pinta de brandy",
+    "1 jigger de benedictino",
+    "1 pinta de jugo de naranja",
+    "1/2 pinta de jugo de limón"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol de punch grande con un bloque de hielo.\n2. Remover bien hasta que esté combinado.\n3. Si la mezcla está demasiado seca, agregar jarabe de azúcar al gusto.\n4. Decorar con tiras de cáscara de limón antes de servir.\n5. Rinde 25-30 tazas.",
+  "url": null
+}

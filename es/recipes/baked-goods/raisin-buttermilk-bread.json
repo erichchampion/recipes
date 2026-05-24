@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "raisin-buttermilk-bread",
+  "name": "Pan de leche con pasas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 taza de buttermilk + 1 cucharada",
+    "1 taza de agua + 1 cucharada y",
+    "5 cucharadas de buttermilk en polvo",
+    "2 tazas de harina blanca",
+    "1 taza de harina integral",
+    "1 cucharadita de sal",
+    "2 1/2 cucharaditas de levadura",
+    "1/3 taza de pasas",
+    "1/3 taza de nueces picadas (al gusto)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto las pasas y las nueces en la máquina panificadora, programar para Mix Bread o Raisin Bread y presionar Start.\n2. Agregar las pasas y las nueces durante la última parte de la segunda masa, cuando suene la alarma.",
+  "url": null
+}

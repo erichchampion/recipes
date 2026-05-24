@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "steak-with-onions",
+  "name": "Steak con cebollas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes",
+    "solomillo"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb solomillo de ternera",
+    "4 cucharadas de mantequilla",
+    "4 cebollas medianas en rodajas",
+    "Un chorrito de brandy"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una sartén a fuego medio.\n2. Añade las cebollas en rodajas y sofríe hasta que estén tiernas, removiendo ocasionalmente.\n3. Vierte el brandy y deja que reduzca durante 1 minuto.\n4. Sirve las cebollas salteadas como acompañamiento sobre el solomillo.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-shrimp-etouffee",
+  "name": "Arroz de camarones rápido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco",
+    "gambas"
+  ],
+  "recipeIngredient": [
+    "450 g de gamberos, limpiados",
+    "1 lata pequeña de tomates",
+    "4 dientes de ajo, picados finamente",
+    "60 g de mantequilla o margarina",
+    "2 cucharadas de perejil fresco, picado finamente",
+    "1 cucharada de harina de uso múltiple",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Licuar los tomates con su jugo hasta obtener una textura suave.\n2. En una sartén grande, preparar un roux con la harina y la mantequilla.\n3. Agregar el ajo picado y cocinar hasta que esté dorado y tierno.\n4. Incorporar los tomates licuados, los gamberos, sal y pimienta.\n5. Cocinar a fuego lento durante 15 a 20 minutos.\n6. Retirar del fuego y mezclar el perejil picado antes de servir.\nServir sobre arroz caliente y esponjoso.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-pork-adobo",
+  "name": "Pollo y cerdo adobo",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "asiático",
+    "pollo",
+    "étnico",
+    "filipino",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 taza de vinagre blanco destilado (o vinagre de manzana)",
+    "1 taza de agua",
+    "2 cucharadas de ajo pelado y machacado",
+    "2 cucharaditas de sal",
+    "2 hojas de laurel",
+    "1/2 cucharadita de pimienta negra molida",
+    "1 libra de pollo cortado en trozos",
+    "2 libras de carne de cerdo butifera cortada en cubos",
+    "Salsa de soja",
+    "Aceite"
+  ],
+  "recipeInstructions": "1. Combinar el vinagre, agua, ajo, sal, hojas de laurel y pimienta en una olla grande. Llevar a ebullición.\n2. Agregar el pollo y el cerdo a la olla. Tapar y llevar nuevamente a ebullición.\n3. Cocinar a fuego lento durante unos 30 minutos.\n4. Espolvorear con salsa de soja y cocinar por 10 minutos adicionales.\n5. Retirar la carne de la olla y reducir la salsa.\n6. Calentar aceite en la olla y dorar la carne cocida.\n7. Escurrir el exceso de aceite de la olla, luego devolver la salsa reducida a la olla con la carne.\n8. Servir sobre arroz.",
+  "url": null
+}

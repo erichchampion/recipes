@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "buttermilk-oat-bread",
+  "name": "Buttermilk Oat Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 pound loaf bread flour",
+    "1 cup buttermilk",
+    "4 tbsp butter",
+    "3 tbsp molasses",
+    "1 1/2 tsp salt",
+    "1 cup oatmeal",
+    "2 cups bread flour",
+    "1 1/2 tsp yeast"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in the bread machine.\n2. Select the \"Sweet Bread\" cycle on the lightest setting.\n3. Follow manufacturer's instructions for baking time and temperature.",
+  "url": null
+}

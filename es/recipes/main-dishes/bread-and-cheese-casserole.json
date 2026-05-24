@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "bread-and-cheese-casserole",
+  "name": "Casserola de Pan y Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "6 rebanadas de pan (blanco, integral, bollos o pan sobrante)",
+    "2 tazas de queso rallado (elige el que prefieras)",
+    "2 cebollas, cortadas en rodajas finas",
+    "2 pimientos verdes, cortados en rodajas finas",
+    "4 tomates, cortados en rodajas finas",
+    "Sal y pimienta al gusto",
+    "1/2 taza de mantequilla, o más si lo deseas",
+    "1 1/4 tazas de leche",
+    "2 huevos batidos",
+    "Queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 grados Fahrenheit.\n2. Tostar y cortar el pan en trozos más pequeños.\n3. En un molde para hornear de 9x13 pulgadas, colocar capas alternas de pan, cebolla, pimiento verde, tomate y queso.\n4. Sazonar con sal y pimienta al gusto y espolvorear queso parmesano por encima.\n5. Distribuir trozos de mantequilla sobre la mezcla.\n6. Verter la leche y los huevos batidos sobre la casserole.\n7. Hornear durante 40 minutos o hasta que la leche se haya absorbido y el queso esté derretido y burbujeante.\n8. Servir para 3 personas.",
+  "url": null
+}

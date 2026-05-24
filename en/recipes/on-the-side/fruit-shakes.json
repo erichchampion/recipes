@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-shakes",
+  "name": "Fruit Shakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "fruits",
+    "kids",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 Medium banana",
+    "1/2 cup Quartered strawberries",
+    "1/2 cup Pineapple or mango cut into Chunks",
+    "3/4 cup Orange juice",
+    "1 cup Ice"
+  ],
+  "recipeInstructions": "1. Put all ingredients into blender.\n2. Puree until very smooth and thick.",
+  "url": null
+}

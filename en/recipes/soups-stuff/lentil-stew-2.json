@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "lentil-stew-2",
+  "name": "Lentil Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "beans",
+    "soups",
+    "soups/stews",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "1 lb Dried lentils, washed, pickled",
+    "2 quarts Water",
+    "2 Celery stalks, chopped",
+    "1 medium Onion, chopped",
+    "2 Carrots, chopped",
+    "1 Clove Garlic, minced",
+    "1 Bay leaf",
+    "1/4 tsp Thyme",
+    "1/2 cup Red wine",
+    "1 can Plum tomatoes"
+  ],
+  "recipeInstructions": "In a large soup pot, combine all ingredients except wine and tomatoes. Bring to a boil and simmer over low heat for 1-1/2 hours. Add wine and tomatoes, and simmer an additional 20-30 minutes.",
+  "url": null
+}

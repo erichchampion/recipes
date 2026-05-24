@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-with-sausage-and-zucchini",
+  "name": "Pasta con salchicha y calabacín",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "rápido"
+  ],
+  "recipeIngredient": [
+    "1 lb de salchicha de pollo, Aidell's, picada",
+    "1/2 lb de calabacín, cortado en láminas finas",
+    "1/2 cucharadita de tomillo seco",
+    "1 taza de caldo de pollo, diluido con agua o 1 taza de pollo enlatado escurrido (opcional)",
+    "tomates secos al sol",
+    "1 lb de penne u otra pasta larga",
+    "1/4 taza de queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta en una olla grande con agua según las instrucciones del paquete.\n2. Mientras se cocina la pasta, saltear la salchicha y el calabacín en una sartén hasta que la salchicha esté dorada y el calabacín esté tierno. Agregar el tomillo a la sartén, junto con el caldo de pollo y los tomates secos; sazonar con sal y pimienta al gusto. Cocinar durante 1-2 minutos para ablandar los tomates.\n3. Escurrir la pasta; mezclar con la mezcla de calabacín y salchicha, espolvorear con queso parmesano y servir inmediatamente.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "tuna-and-rice-creole",
+  "name": "Tuna y arroz criollo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco",
+    "atún"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de mantequilla o grasa de tocino",
+    "3/4 taza de arroz",
+    "1/2 taza de pimiento verde picado",
+    "1/2 taza de cebolla picada",
+    "1 diente de ajo",
+    "1 lata de VEG-ALL verduras mixtas (450 g)",
+    "1 lata de tomates estofados (450 g)",
+    "1 lata de caldo de pollo (355 ml)",
+    "1 lata de atún en escamas (195 g)",
+    "1/2 taza de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Calentar la mantequilla o grasa de tocino en una sartén a fuego medio. Añadir el arroz, el pimiento verde, la cebolla y el ajo; cocinar durante 5 minutos.\n2. Escurrir el contenido de la lata de VEG-ALL en un bol aparte.\n3. Mezclar el arroz cocido con los tomates estofados y el caldo de pollo. Llevar a ebullición, tapar y dejar cocer hasta que el arroz esté listo, unos 25 minutos.\n4. Incorporar el atún escamado y las verduras. Espolvorear el queso cheddar rallado por encima.\n5. Calentar suavemente hasta que el queso se derrita.",
+  "url": null
+}

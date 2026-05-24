@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-potato-salad",
+  "name": "Ensalada de patatas francesa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "7 patatas (aproximadamente 2 libras)",
+    "1 cucharada de tomillo picado",
+    "1/4 taza de cebolla picada",
+    "1/2 taza de vino blanco seco",
+    "2 cucharadas de chalotas picadas",
+    "1/2 taza de aceite de oliva",
+    "1/2 cucharadita de ajo picado",
+    "2 cucharadas de vinagre de vino",
+    "1/4 taza de perejil picado",
+    "Pimienta negra molida al gusto",
+    "Un pellizco de pimentón rojo en hojuelas"
+  ],
+  "recipeInstructions": "1. Enjuagar las patatas y escurrirlas, pero no pelarlas. Colocarlas en una olla grande. Agregar agua fría suficiente para cubrirlos y llevar a ebullición. Cocinar a fuego lento durante unos 20 minutos, hasta que estén tiernas.\n2. Cortar las patatas por la mitad a lo largo y luego cortarlas en rodajas finas.\n3. Transferir las patatas a un bol y añadir el resto de los ingredientes, incluyendo la pimienta. Mezclar con delicadeza.",
+  "url": null
+}

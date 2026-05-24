@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "four-hour-stew",
+  "name": "Estofado de cuatro horas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carnes",
+    "diversos",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 kg de carne para estofar",
+    "1 cebolla en rodajas",
+    "1 sobre de mezcla de sopa de cebolla",
+    "3 cucharaditas de perlas de tapioca instantáneas",
+    "6 zanahorias en rodajas",
+    "3 tallos de apio en rodajas",
+    "1 lata de sopa de setas",
+    "1 lata de agua"
+  ],
+  "recipeInstructions": "1. Engrasar un plato para hornear.\n2. Añadir la carne picada a el plato.\n3. Incorporar el resto de los ingredientes en el siguiente orden: mezcla de sopa de cebolla, perlas de tapioca instantáneas, zanahorias, apio, sopa de setas y agua.\n4. Tapar el plato y hornear en un horno precalentado a 120 °C durante cuatro horas.",
+  "url": null
+}

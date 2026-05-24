@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-fondue-2",
+  "name": "Fondo mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "fondue",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 libra de queso Manchego, o Monterey Jack",
+    "3 pimientos serrano, o menos; 2 jalapeños",
+    "2 tomates grandes",
+    "2 dientes de ajo",
+    "1/4 cebolla",
+    "2 cucharaditas de aceite",
+    "Al gusto sal"
+  ],
+  "recipeInstructions": "1. Cocinar los tomates con los pimientos en una pequeña cantidad de agua.\n2. Triturar juntos el tomate cocido, los pimientos, el ajo y la cebolla.\n3. Saltear la salsa con aceite y sal hasta que esté caliente.\n4. Añadir trozos pequeños de queso.\n5. Servir el fondue sobre tortillas de harina en lugar de pan.",
+  "url": null
+}

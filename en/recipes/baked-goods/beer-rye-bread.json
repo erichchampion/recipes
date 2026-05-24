@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-rye-bread",
+  "name": "Beer Rye Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 package Dry yeast",
+    "2 1/4 cups Whole wheat flour",
+    "1 1/4 cups Stale beer",
+    "1 1/2 teaspoons Salt",
+    "1 1/2 tablespoons Vegetable oil",
+    "1 1/2 tablespoons Oat flour",
+    "1 1/2 cups Rye flour"
+  ],
+  "recipeInstructions": "1. Place all ingredients into the breadmaker.\n2. Process on the white bread cycle.",
+  "url": null
+}

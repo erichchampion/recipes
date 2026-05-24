@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-bread-2",
+  "name": "Pizza Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Loaf",
+    "2 tsp Active dry yeast",
+    "1 1/2 tbsp Sugar",
+    "3 cups Bread flour",
+    "1/2 cup Chopped pepperoni",
+    "1 tsp Dried onion",
+    "1 tsp Garlic powder",
+    "2 tbsp Dry milk",
+    "1 1/2 tsp Pizza spice",
+    "2 tbsp Parmesan cheese",
+    "1 tsp Garlic salt",
+    "3 tbsp Olive oil",
+    "1/4 cup Warm water",
+    "1/4 cup Plus 2 tbsp Tomato sauce"
+  ],
+  "recipeInstructions": "1. Add all ingredients to bread machine in order listed.\n2. Select pizza dough cycle and start the machine.\n3. Machine will mix, knead, and rise the dough automatically.\n4. It will then shape the dough into a loaf and bake it until done.\n5. Let the bread cool before slicing and serving. Enjoy with Paul Prudhomme's Hot and Sweet Pizza and Pasta Magic sauce if desired.",
+  "url": null
+}

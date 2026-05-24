@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-sauce",
+  "name": "Banana Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup vanilla ice cream, softened",
+    "1/2 cup whipping cream, whipped",
+    "1 banana, chopped",
+    "1 tablespoon dark rum (optional)"
+  ],
+  "recipeInstructions": "1. Stir together the ice cream, whipped cream, chopped banana, and rum in a bowl until well combined.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "string-cheese-loaf",
+  "name": "Barra de Queso Filado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 barra de pan francés",
+    "3 onzas (85 g) de queso crema",
+    "1/4 taza de queso mozzarella rallado",
+    "1/4 taza de cebolla picada",
+    "2 cucharadas de mantequilla ablandada",
+    "1/2 cucharadita de sal de ajo"
+  ],
+  "recipeInstructions": "1. Cortar el pan en rodajas inclinadas de 1 pulgada, sin llegar al fondo.\n2. Extender la mezcla uniformemente entre las rebanadas.\n3. Envolver en papel de aluminio y asar a 5-6 pulgadas de las brasas hasta que se derrita el queso.\n4. Desenvolver y asar durante 5 minutos adicionales.",
+  "url": null
+}

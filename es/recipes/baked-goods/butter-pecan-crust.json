@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "butter-pecan-crust",
+  "name": "Crásta de Mantequilla y Nueces Pecán",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla",
+    "1 taza de harina",
+    "1/4 taza de azúcar",
+    "1/2 taza de nueces pecán, picadas con un cuchillo"
+  ],
+  "recipeInstructions": "1. Mezclar la mantequilla, la harina y el azúcar hasta obtener una mezcla crujiente.\n2. Incorporar las nueces pecán.\n3. Presionar la mezcla en un molde para tartas de 23 cm.\n4. Hornear a 180°C durante 12 a 15 minutos.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "kamut-breakfast",
+  "name": "Desayuno de Kamut",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 tazas de kamut (cocido según las instrucciones del paquete)",
+    "1 taza de arroz basmati",
+    "1/2 taza de pasas",
+    "1 cucharadita de vainilla",
+    "1 cucharadita de canela",
+    "azúcar al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar el kamut según las instrucciones del paquete.\n2. Preparar el arroz basmati utilizando 1/2 taza de leche de arroz y 1/2 taza de agua, siguiendo las indicaciones del paquete.\n3. En una sartén, saltear las pasas hasta que se hinchen y ablanden.\n4. Mezclar el kamut cocido y el arroz basmati en un bol grande.\n5. Añadir las pasas, la vainilla, la canela y el azúcar al gusto.\n6. Servir el desayuno de kamut caliente o dejarlo enfriar antes de servir.",
+  "url": null
+}

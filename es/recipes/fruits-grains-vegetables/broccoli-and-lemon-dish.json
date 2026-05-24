@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "broccoli-and-lemon-dish",
+  "name": "Plato de brócoli y limón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 libras de brócoli, picado",
+    "1 taza de agua",
+    "2 limones, exprimidos",
+    "1/4 taza de agua",
+    "1 cucharada de almidón de maíz"
+  ],
+  "recipeInstructions": "1. Cocinar el brócoli al vapor en una olla grande con agua durante varios minutos hasta que esté tierno.\n2. En una olla separada a fuego medio, remover constantemente el jugo de limón, el agua y el almidón de maíz hasta que la salsa espese, aproximadamente 2 minutos.\n3. Servir la salsa sobre el brócoli al vapor.",
+  "url": null
+}

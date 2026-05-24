@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "greek-vegetable-stew",
+  "name": "Estofado de Verduras Griego",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "griego",
+    "plato principal",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "2 calabacines medianos, en rodajas",
+    "1 berenjena mediana, en rodajas y pelada",
+    "2 cebollas medianas, en rodajas",
+    "500 g de okras pequeñas, con los tallos cortados",
+    "1 taza de judías verdes, cortadas por la mitad",
+    "1 papa grande, cortada en láminas finas",
+    "4 tomates maduros, pelados y en rodajas",
+    "Aceite de oliva",
+    "2 cucharadas de hojas de albahaca fresca",
+    "2 dientes de ajo, picados",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 °F (175 °C).\n2. En un refractario profundo, colocar en capas las verduras. Rocíar con aceite de oliva y espolvorear con ajo, albahaca, sal y pimienta sobre cada capa.\n3. Alternar las verduras en cualquier orden, pero colocar las papas en el centro y terminar con tomates.\n4. Hornear cubierto durante 1 hora y media, rociando ocasionalmente con la salsa de la bandeja.\n5. Si el estofado resulta demasiado acuoso, descubrirlo y hornear durante los últimos 10 minutos.",
+  "url": null
+}

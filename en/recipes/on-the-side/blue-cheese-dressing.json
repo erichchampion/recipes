@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "blue-cheese-dressing",
+  "name": "Blue Cheese Dressing",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "dressings",
+    "salad dressing",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/4 cup blue cheese, crumbled",
+    "1 tablespoon sherry vinegar",
+    "1/4 cup mayonnaise",
+    "1/2 cup buttermilk",
+    "1/8 teaspoon fresh ground black pepper"
+  ],
+  "recipeInstructions": "1. Crumble the blue cheese.\n2. Add the crumbled blue cheese to a blender.\n3. Blend with vinegar and mayonnaise until smooth.\n4. With the blender running, slowly add buttermilk.\n5. Season with pepper.",
+  "url": null
+}

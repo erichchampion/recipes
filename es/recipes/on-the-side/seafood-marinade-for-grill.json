@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "seafood-marinade-for-grill",
+  "name": "Marinada de mariscos para parrilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pescado",
+    "marinadas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "Pescado (salmón, espadín, tiburón o brochetas de camarones, almejas o una mezcla)",
+    "Jugo de 3 limones",
+    "Aceite de oliva, 1/4 taza",
+    "Mostaza dijon, 2 cucharadas",
+    "Cilantro fresco picado, 1/4 taza",
+    "Sal, 1/4 cucharadita",
+    "Pimienta molida al gusto (1 diente de ajo picado)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta combinarlos bien.\n2. Marinar el pescado durante 2 horas en el refrigerador.\n3. Colocar el pescado en la parrilla caliente.\n4. Asar durante 8 a 14 minutos por lado, dependiendo del grosor.\n5. Barnizar con la marinada mientras se cocina.",
+  "url": null
+}

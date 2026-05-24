@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-chili-sauce",
+  "name": "Sweet Chili Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "relishes",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "6 onions",
+    "30 ripe tomatoes",
+    "6 peaches",
+    "6 pears",
+    "1 tablespoon salt",
+    "2 red peppers",
+    "1 tablespoon cinnamon",
+    "2 cups celery",
+    "2 green bell peppers",
+    "1 1/2 cups sugar",
+    "1 1/2 cups vinegar",
+    "1 tablespoon cloves",
+    "1 tablespoon allspice"
+  ],
+  "recipeInstructions": "1. Chop the onions, celery, and peppers.\n2. Chop the fruit (peaches and pears).\n3. Combine all ingredients in a large pot.\n4. Cook slowly on low heat, stirring frequently until thickened.\n5. Adjust sweetness by adding more vinegar and sugar to taste.",
+  "url": null
+}

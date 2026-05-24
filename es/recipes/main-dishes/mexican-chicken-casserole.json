@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-chicken-casserole",
+  "name": "Cazuela de Pollo Mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "clásicos estadounidenses",
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de pechugas de pollo sin hueso ni piel, cortadas en cubos",
+    "1 cebolla grande, picada",
+    "1 lata de chiles suaves, picados",
+    "1/2 cucharadita de polvo de ajo",
+    "1 lata grande de tomates enteros, escurridos y picados",
+    "1 sopa de crema de pollo",
+    "1 taza de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Cortar el pollo en cubos.\n2. Mezclar todos los ingredientes restantes, añadiendo 1/2 taza del líquido de los tomates.\n3. Verter la mezcla en un recipiente para hornear de 3 cuartos y cubrir con más queso rallado si se desea.\n4. Hornear a 175 °C durante 50-60 minutos.",
+  "url": null
+}

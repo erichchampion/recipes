@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-beef-dip",
+  "name": "Dip de carne mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "americana",
+    "aperitivos",
+    "queso",
+    "étnica",
+    "carne molida",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "2 1/2 libras de carne molida",
+    "1 cebolla picada",
+    "8 onzas de queso mozzarella rallado",
+    "8 onzas de queso cheddar rallado",
+    "1 libra de Velveeta en cubos",
+    "1 sobre de condimento para tacos",
+    "1 lata de salsa picante",
+    "Sal de ajo al gusto"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida y escurrir el exceso de grasa.\n2. Mezclar la carne cocida con el condimento para tacos.\n3. Combinar todos los ingredientes en un plato para hornear.\n4. Hornear a 175°C durante 30 minutos.\n5. Servir con chips de nachos.",
+  "url": null
+}

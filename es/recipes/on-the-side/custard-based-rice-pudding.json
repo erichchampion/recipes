@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "custard-based-rice-pudding",
+  "name": "Budín de arroz con crema",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pudín",
+    "pudines",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "3/5 taza de arroz",
+    "1 7/8 tazas de leche",
+    "1/8 cucharadita de sal",
+    "3 1/2 cucharadas de azúcar",
+    "1 cucharada de mantequilla blanda",
+    "1 cucharadita de vainilla",
+    "2 huevos",
+    "1/3 taza de pasas"
+  ],
+  "recipeInstructions": "1. Cocinar el arroz según las instrucciones del paquete; escurrir y enjuagar con agua fría.\n2. Mezclar la leche, la sal, el azúcar, la mantequilla, la vainilla y los huevos con el arroz; batir bien.\n3. Agregar las pasas y mezclar suavemente con un tenedor.\n4. Enmantequillar un molde para hornear y verter la mezcla dentro.\n5. Hornear a 180°C hasta que se cuaje y al insertar un cuchillo en el centro salga limpio.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "old-fashioned",
+  "name": "Old Fashioned",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 oz Blended whiskey",
+    "2 dash Bitters",
+    "1 tsp Water",
+    "1 tsp Sugar",
+    "Ice cubes",
+    "1 Lemon twist",
+    "1 Orange slice",
+    "1 Maraschino cherry"
+  ],
+  "recipeInstructions": "Pour bitters and water into an old fashioned glass. Add sugar and muddle well with a bar spoon or teaspoon. Add whiskey and stir. Add ice cubes. Twist a lemon peel over the drink and drop it in. Garnish with an orange slice and cherry.",
+  "url": null
+}

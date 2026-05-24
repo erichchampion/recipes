@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-pizza",
+  "name": "Pizza para desayuno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "6 1/2 oz de mezcla para masa de pizza",
+    "4 salchichas tipo desayuno bajas en grasa, cocidas y desmenuzadas",
+    "4 lonchas de tocino bajo en grasa, cocidas y desmenuzadas",
+    "1 taza de queso cheddar sin grasa rallado",
+    "1 taza de papas hash browns trituradas",
+    "6 claras de huevo",
+    "3 cucharadas de leche descremada",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375°F (190°C).\n2. Preparar la masa de pizza según las instrucciones del paquete.\n3. Espolvorear la salchicha y el tocino sobre la masa.\n4. Distribuir uniformemente las papas hash browns y el queso cheddar sobre la salchicha, el tocino y la masa.\n5. En un bol, batir juntas las claras de huevo, la leche descremada, la sal y la pimienta.\n6. Verter la mezcla de claras de huevo sobre las papas y el queso.\n7. Hornear durante 20 minutos o hasta que la masa esté dorada.",
+  "url": null
+}

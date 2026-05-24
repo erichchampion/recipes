@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-new-brownie",
+  "name": "Mi Nuevo Brownie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "brownie",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "6 cuadrados de chocolate negro sin azúcar, picados groseramente",
+    "1 taza de mantequilla sin sal",
+    "2 tazas de azúcar",
+    "1 cucharadita de extracto de vainilla",
+    "4 huevos grandes",
+    "1 taza de harina de uso múltiple",
+    "1/2 taza de nueces picadas (opcional)"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 175°C.\n2. Forrar un molde cuadrado de 23 cm con papel aluminio, dejando que los extremos se extiendan por encima de los lados en dos lados.\n3. Derretir el chocolate y la mantequilla en el microondas o en un cazo pequeño a fuego muy bajo, removiendo con frecuencia hasta obtener una mezcla suave. Dejar enfriar 5 minutos.\n4. Batir juntos el azúcar y la vainilla hasta que estén bien integrados.\n5. Añadir los huevos uno a uno, batiendo justo hasta combinarlos.\n6. Continuar batiendo hasta que la mezcla sea sedosa.\n7. Agregar la harina poco a poco y batir hasta incorporarla.\n8. Mezclar las nueces picadas (si se usan).\n9. Verter la masa en el molde preparado.\n10. Hornear durante 35-45 minutos o hasta que la superficie se agriete cerca de los bordes y un probador insertado en el centro salga con migas húmedas.\n11. Dejar enfriar completamente sobre una rejilla.\n12. Cortar en 16 cuadrados y retirar del papel aluminio.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "waldorf-chicken-sandwich-2",
+  "name": "Sándwich de Pollo Waldorf",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 lata de pollo desmenuzado Underwood",
+    "3 oz (85 g) de queso crema ablandado",
+    "1/2 manzana mediana, picada finamente",
+    "2 cucharadas de pasas",
+    "1 tallo de apio, picado finamente",
+    "6 rebanadas de pan integral"
+  ],
+  "recipeInstructions": "1. En un bol mediano, mezclar el pollo desmenuzado, el queso crema ablandado, la manzana picada, las pasas y el apio picado.\n2. Combinar todos los ingredientes hasta que estén bien mezclados.\n3. Cubrir el bol y refrigerar durante 1 hora.\n4. Servir la mezcla sobre rebanadas de pan integral.",
+  "url": null
+}

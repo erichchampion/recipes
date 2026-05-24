@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-mushroom-sauce",
+  "name": "Salsa de setas blancas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "etnía",
+    "italiana",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 libra de setas frescas cortadas en rodajas finas (puedes usar un cortador de huevos)",
+    "1/4 taza de mantequilla",
+    "1 taza de crema espesa",
+    "2 cucharadas de perejil fresco picado",
+    "Sal y pimienta al gusto",
+    "1/2 taza de vino blanco",
+    "1 libra de pasta cocida y escurrida",
+    "Queso rallado"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una sartén grande a fuego medio.\n2. Añade las rodajas de setas y cocina hasta que se doren.\n3. Incorpora el vino blanco, el perejil, la sal y la pimienta. Cocina a fuego medio durante 10 minutos.\n4. Retira del fuego y mezcla la crema espesa.\n5. Sirve caliente sobre la pasta cocida y escurrida, con queso rallado al lado.",
+  "url": null
+}

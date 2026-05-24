@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "diabetic-cookies",
+  "name": "Diabetic Cookies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts",
+    "diabetic"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Shortening/promise (margarine)",
+    "1 tsp Baking soda",
+    "1 c Grated apple",
+    "1/2 tsp Salt",
+    "1 tbsp Sweet 'n' low",
+    "1/2 tsp Cinnamon",
+    "1/2 tsp Nutmeg",
+    "1/4 tsp Ground cloves",
+    "1 tb Vanilla",
+    "1/2 cup Buttermilk/sour cream (flour)"
+  ],
+  "recipeInstructions": "1. Cream together the shortening, egg, sugar substitute, and butter.\n2. Add buttermilk and mix in flour, baking soda, apple, salt, cinnamon, nutmeg, soda, cloves, and vanilla.\n3. Drop batter onto a greased cookie sheet.\n4. Bake for 7-8 minutes at 375 degrees Fahrenheit.",
+  "url": null
+}

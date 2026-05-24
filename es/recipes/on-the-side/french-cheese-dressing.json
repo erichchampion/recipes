@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-cheese-dressing",
+  "name": "Aderezo de queso francés",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso",
+    "aderezos",
+    "ensaladas",
+    "platos secundarios",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 taza de aceite para ensalada",
+    "1/3 taza de vinagre de vino blanco",
+    "1 cucharadita de azúcar",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimentón dulce",
+    "1 pizca de pimienta negra",
+    "1/2 diente de ajo mediano",
+    "1/4 cebolla pequeña",
+    "3 onzas de queso azul"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes excepto el queso azul en un recipiente para licuadora.\n2. Licuar hasta que la cebolla esté finamente picada.\n3. Agregar el queso azul desmenuzado y licuar hasta que el queso esté completamente incorporado.\n4. Transferir el aderezo a un frasco o botella y almacenar en el refrigerador.\n5. Agitar el aderezo antes de verlo sobre la ensalada.\nRinde 2 tazas.",
+  "url": null
+}

@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-with-crab",
+  "name": "Arroz con Cangrejo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americana",
+    "étnica",
+    "plato principal",
+    "mexicana",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de arroz grano largo",
+    "1/4 taza de cebolla, picada finamente (1 pequeña)",
+    "1 diente de ajo, picado",
+    "2 cucharadas de aceite de cocina",
+    "1 1/4 tazas de agua",
+    "8 onzas de tomates, cortados en trozos (1 lata)",
+    "1 1/2 cucharaditas de caldo de pollo instantáneo",
+    "1/4 cucharadita de sal",
+    "Salsa picante al gusto",
+    "1/2 taza de guisantes congelados",
+    "7 1/2 onzas de carne de cangrejo (1 lata, opcional)",
+    "7 1/2 onzas de camarones congelados (opcional)"
+  ],
+  "recipeInstructions": "1. Escurrir, desmenuzar y quitar la cartílago a la carne de cangrejo.\n2. Descascar y cocinar los camarones.\n3. En una sartén, cocinar el arroz, la cebolla y el ajo en aceite a fuego medio-bajo, removiendo ocasionalmente hasta que el arroz se dore. Retirar del fuego.\n4. Agregar el agua, los tomates escurridos, las granelas de caldo, la sal y unas cuantas gotas de salsa picante a la sartén. Tapar y dejar cocinar por unos 15 minutos o hasta que se absorba la mayor parte del líquido.\n5. Incorporar los guisantes y cocinar por 5 minutos adicionales.\n6. Mezclar la carne de cangrejo o los camarones y el vino; calentar a fuego lento. Servir.",
+  "url": null
+}

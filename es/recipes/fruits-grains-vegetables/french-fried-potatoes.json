@@ -1,0 +1,17 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-fried-potatoes",
+  "name": "Patatas fritas francesas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "patatas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "patatas (cortadas en tiras)",
+    "sal"
+  ],
+  "recipeInstructions": "1. Pelar y cortar las patatas en tiras de aproximadamente medio centímetro de grosor.\n2. Enjuagar bajo agua fría y remojar durante 2 a 3 horas para eliminar la mayor cantidad posible de almidón.\n3. Escurrir el agua y secar con un paño limpio y seco.\n4. Calentar una olla con aceite profundo hasta que un trozo de pan dorado en aproximadamente 60 segundos (alrededor de 180 °C).\n5. Freír por tandas de una taza de patatas a la vez.\n6. Retirar del aceite cuando estén doradas.\n7. Escurrir sobre papel absorbente.\n8. Espolvorear con sal.\n9. Servir inmediatamente mientras estén calientes y crujientes.",
+  "url": null
+}

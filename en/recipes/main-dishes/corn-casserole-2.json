@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "corn-casserole-2",
+  "name": "Corn Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "2 eggs",
+    "1/2 cup oil",
+    "1/2 teaspoon soda",
+    "1 medium chopped onion",
+    "1 small can green chilies",
+    "1 cup corn meal",
+    "10 ounces grated Cheddar cheese",
+    "3/4 cup milk",
+    "1 teaspoon salt",
+    "5 tablespoons sugar",
+    "1 small jar pimentos",
+    "1 can cream-style corn",
+    "1 can whole corn, drained"
+  ],
+  "recipeInstructions": "1. Combine all ingredients except corn, corn meal, and cheese.\n2. Blend in a blender until smooth.\n3. Add corn and corn meal; pour into a greased baking dish.\n4. Cover with cheese.\n5. Bake at 350 degrees for about 45 minutes or until firm.",
+  "url": null
+}

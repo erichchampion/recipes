@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-rhubarb-custard-pie",
+  "name": "Tarta de crema de fresa y ruibarbo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tarta",
+    "tartas",
+    "fresas"
+  ],
+  "recipeIngredient": [
+    "1 masa de pastel sin hornear, redonda, de 23 cm (congelada o fresca)",
+    "3 huevos",
+    "3 cucharadas de leche",
+    "1 1/4 tazas de azúcar",
+    "1/4 taza de harina",
+    "3 tazas de ruibarbo cortado en dados",
+    "1 taza de fresas cortadas en rodajas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180 °C.\n2. Batir los huevos y agregar la leche, incorporando el azúcar y la harina.\n3. Añadir el ruibarbo y las fresas.\n4. Verter la mezcla en la base de pastel.\n5. Hornear durante 50-60 minutos o hasta que la cuajada esté firme.",
+  "url": null
+}

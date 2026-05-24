@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "crock-pot-stew-3",
+  "name": "Crock Pot Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "slow cooker",
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "2 cans ranch-style beans",
+    "2 cans minestrone soup",
+    "1 can Rotel diced tomatoes",
+    "1 pound ground beef"
+  ],
+  "recipeInstructions": "1. Brown the meat thoroughly.\n2. Drain excess fat if necessary.\n3. Add the browned meat to the crock pot.\n4. Add the canned beans, minestrone soup, and Rotel diced tomatoes to the crock pot.\n5. Cook on low heat for 5-6 hours or until tender.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-green-beans",
+  "name": "Pizza Green Beans",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "beans",
+    "diabetic",
+    "side dishes",
+    "special diets",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "2 cups Green Beans",
+    "1 teaspoon Pimiento, chopped",
+    "1 tablespoon Lemon juice",
+    "1/4 teaspoon Oregano",
+    "1/4 teaspoon Salt"
+  ],
+  "recipeInstructions": "1. Cook the green beans in boiling water until tender. Drain.\n2. In a bowl, combine lemon juice, oregano, pimiento, garlic powder and salt. Mix well.\n3. Pour the mixture over the cooked green beans and toss to coat evenly.",
+  "url": null
+}

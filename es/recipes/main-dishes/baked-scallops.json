@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-scallops",
+  "name": "Escamas de mar horneadas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "500 g de escamas de mar, cortadas por la mitad",
+    "2 cucharadas de jerez (opcional)",
+    "6 cucharadas de mantequilla, derretida y dividida",
+    "1/2 taza de miga de pan seca"
+  ],
+  "recipeInstructions": "1. Coloca las escamas de mar en un plato para hornear con fondo antiadherente engrasado.\n2. Espolvorea el jerez sobre las escamas, si se desea.\n3. Vierte la mitad de la mantequilla derretida sobre los mariscos.\n4. Cubre con miga de pan.\n5. Vierte el resto de la mantequilla sobre la miga de pan.\n6. Hornea a 180 °C durante 15 minutos.",
+  "url": null
+}

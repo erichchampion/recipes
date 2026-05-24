@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-filling",
+  "name": "Relleno de Naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "glaseado",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "5 cucharadas de harina de repostería",
+    "1 cucharadita de sal",
+    "1/2 taza de jugo de naranja",
+    "3 cucharadas de jugo de limón",
+    "1/4 taza de agua",
+    "1 huevo, batido bien",
+    "2 cucharaditas de ralladura de naranja",
+    "2 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. Mezclar el azúcar, la harina y la sal en la parte superior de un termostato de doble caldera.\n2. Añadir el jugo de naranja, agua y huevo, mezclando bien.\n3. Colocar sobre agua hirviendo y cocinar durante 10 minutos, removiendo constantemente.\n4. Incorporar la ralladura de naranja y la mantequilla.\n5. Enfriar. Relleno suficiente para extender entre dos capas de 23 cm (generosamente), o entre tres capas de 30 cm.",
+  "url": null
+}

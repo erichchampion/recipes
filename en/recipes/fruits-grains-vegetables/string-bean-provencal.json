@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "string-bean-provencal",
+  "name": "String Bean Provencal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "1 tbsp Olive oil",
+    "2 ts Sugar",
+    "4 medium Onions, chopped",
+    "1/4 ts Salt",
+    "4 Garlic cloves, chopped",
+    "28 oz Plum tomatoes in thick puree",
+    "2 tsp Leaf thyme, crumbled",
+    "2 lb String beans, trimmed and halved"
+  ],
+  "recipeInstructions": "1. Heat olive oil in a Dutch oven over medium heat.\n2. Add onions and garlic; cook, covered, stirring occasionally, for 8 minutes or until softened.\n3. Add tomatoes, thyme, sugar, salt, and pepper. Break the tomatoes with the back of a spoon.\n4. Stir in the string beans.\n5. Simmer, covered, stirring occasionally, for 25 to 35 minutes or until beans are tender.",
+  "url": null
+}

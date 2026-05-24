@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-pietoo",
+  "name": "Taco Pietoo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "american",
+    "casseroles",
+    "ethnic",
+    "main dish",
+    "mexican"
+  ],
+  "recipeIngredient": [
+    "1 Pie shell, unbaked",
+    "1 lb Ground chuck",
+    "1 med Onion",
+    "1/2 pkg Taco seasoning",
+    "1/2 cup Sour cream",
+    "4 oz Yellow cheese, shredded",
+    "Shredded lettuce",
+    "1/2 cup Taco chips, crushed"
+  ],
+  "recipeInstructions": "1. Brown hamburger with onion and drain grease.\n2. Add taco seasoning and enough water to moisten the mixture.\n3. Place the mixture into the crust.\n4. Top with sour cream and cheese.\n5. Bake at 375°F for 20-25 minutes.\n6. Top with lettuce and taco chips before serving.",
+  "url": null
+}

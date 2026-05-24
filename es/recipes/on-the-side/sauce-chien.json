@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "sauce-chien",
+  "name": "Salsa Chien",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "americano",
+    "caribeño",
+    "condimentos",
+    "étnico"
+  ],
+  "recipeIngredient": [
+    "3 pimientos rojos, cortados groseramente",
+    "3 pimientos verdes, cortados groseramente",
+    "1/2 cucharadita de orégano en hojas",
+    "1/2 cucharadita de sal",
+    "1/4 cebolla amarilla, picada finamente",
+    "2 dientes de ajo, picados finamente",
+    "1/4 taza de vinagre blanco",
+    "1 cucharada de aceite de oliva"
+  ],
+  "recipeInstructions": "1. Mezclar los chiles en un bol con orégano, sal, cebolla y ajo.\n2. Calentar el vinagre hasta que aparezcan burbujas alrededor de la orilla. Verter sobre la mezcla de chiles.\n3. Incorporar el aceite de oliva. Dejar enfriar a temperatura ambiente.\nAcompaña con mariscos (a la parrilla o estofados), carnes asadas, panes tipo pizza crujientes, platos de arroz y frijoles.",
+  "url": null
+}

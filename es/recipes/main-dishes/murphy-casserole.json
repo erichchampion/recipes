@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "murphy-casserole",
+  "name": "Casserola de Murphy",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "queso",
+    "plato principal",
+    "tocino de carne",
+    "pasta",
+    "tomate"
+  ],
+  "recipeIngredient": [
+    "32 oz de tomates estofados",
+    "1 lb de tocino",
+    "1/4 taza de cebolla picada",
+    "8 oz de queso Velveeta",
+    "2 tazas de macarrones cocidos"
+  ],
+  "recipeInstructions": "1. Freír el tocino hasta que quede crujiente. Retirar del fuego y escurrir sobre papel absorbente.\n2. Añadir los tomates estofados a la sartén con la grasa de tocino cocida. Incorporar trozos de queso Velveeta.\n3. Derretir el queso removiendo constantemente a fuego bajo hasta que se derrita por completo.\n4. Transferir la mezcla a un molde rectangular engrasado.\n5. Espolvorear las rebanadas restantes de queso Velveeta sobre la casserole.\n6. Hornear a 175°C durante 20 minutos, o hasta que el queso se haya derretido por completo.\n7. Servir caliente con panecillos y ensalada.",
+  "url": null
+}

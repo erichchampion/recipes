@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-pressure-cooker-pot-roast-2",
+  "name": "My Pressure Cooker Pot Roast",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "Pot Roast",
+    "1/2 cup Onion, chopped",
+    "3 tbsp Oil",
+    "1 tsp Salt",
+    "1 cup Tomato Juice",
+    "1/4 tsp Garlic Powder",
+    "0.13 tsp Pepper",
+    "1/2 tsp Salt",
+    "1/2 cup Celery",
+    "1 cup Water",
+    "1/2 tsp Worcestershire Sauce"
+  ],
+  "recipeInstructions": "1. Brown the meat in oil.\n2. Add onion, tomato juice, salt, pepper, and garlic powder to the pot. Stir.\n3. Pressure cook for 15 minutes per pound of meat.\n4. Add salt, Worcestershire sauce, and water.\n5. Pressure cook for an additional 15 minutes.\n6. Thicken the sauce and serve.",
+  "url": null
+}

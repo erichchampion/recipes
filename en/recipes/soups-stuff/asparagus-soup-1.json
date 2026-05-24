@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "asparagus-soup-1",
+  "name": "Asparagus Soup #1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "microwave",
+    "soups",
+    "soups/stews",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "2 lb Asparagus, cut into diagonal pieces (1 inch)",
+    "1 Clove garlic, pressed",
+    "3 Sliced leeks",
+    "4 Chopped green onions",
+    "3 tbsp Butter",
+    "3 Small red potatoes, chopped",
+    "4 cups Water",
+    "1 Vegetable/beef/chicken cube",
+    "1 tbsp Soy sauce",
+    "1 cup Cream",
+    "2 tbsp Tarragon",
+    "2 tbsp Basil"
+  ],
+  "recipeInstructions": "1. Saute the vegetables in butter for 5 minutes.\n2. Add water and bouillon cube; simmer for 5 minutes.\n3. Add the remaining ingredients and simmer for an additional 10 minutes.\n4. Serve.",
+  "url": null
+}

@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "billy-goats",
+  "name": "Billy Goats",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1/2 cup vegetable shortening",
+    "1 cup sugar",
+    "2 large eggs",
+    "2 teaspoons vanilla extract",
+    "1/4 cup sour cream",
+    "2 cups flour",
+    "2 teaspoons baking powder",
+    "1/2 teaspoon baking soda",
+    "1/2 teaspoon salt",
+    "2 teaspoons cinnamon",
+    "1 teaspoon ground cloves",
+    "1 teaspoon ground allspice",
+    "2 cups walnuts, chopped",
+    "2 cups dates, finely chopped"
+  ],
+  "recipeInstructions": "1. Preheat oven to 375°F (190°C). Grease cookie sheets.\n2. Cream together the shortening and sugar until smooth.\n3. Add eggs and vanilla; beat until well combined.\n4. Beat in sour cream.\n5. In a separate bowl, mix flour, baking powder, baking soda, salt, cinnamon, cloves, and allspice.\n6. Stir this mixture into the wet ingredients until fully incorporated.\n7. Fold in walnuts and dates.\n8. Drop heaping teaspoons of dough onto prepared cookie sheets, spacing them about 2 inches apart.\n9. Bake for 12 minutes or until edges are lightly browned.\n10. Let cool on racks completely before serving.",
+  "url": null
+}

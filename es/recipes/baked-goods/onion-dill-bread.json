@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "onion-dill-bread",
+  "name": "Pan de cebolla y eneldo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "Paquete pequeño (25 g) de levadura seca activa",
+    "3 tazas y media de harina de pan",
+    "1/4 cucharadita de sal",
+    "1 huevo sin batir a temperatura ambiente",
+    "1/4 taza de agua",
+    "3/4 taza de queso cottage cremoso",
+    "3/4 taza de crema agria",
+    "3 cucharadas de azúcar",
+    "3 cucharadas de cebolla seca picada",
+    "2 cucharadas de semillas de eneldo",
+    "1,5 cucharaditas de mantequilla o margarina"
+  ],
+  "recipeInstructions": "En la máquina de pan, carga la levadura, la harina y la sal. En un cazo, combina los demás ingredientes hasta que estén cálidos. Vierte esta mezcla en la máquina de pan. Procesa en el ciclo de pan blanco con la configuración de corteza más ligera.",
+  "url": null
+}

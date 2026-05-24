@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-in-a-glass",
+  "name": "Breakfast in a Glass",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "beverages",
+    "breakfast",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "Bananas (sliced)",
+    "Orange juice (1/3 cup)",
+    "Wheat germ (2 teaspoons)",
+    "Honey (1 tablespoon)",
+    "Crushed ice (1 cup)",
+    "Yogurt, any flavor (1 carton)"
+  ],
+  "recipeInstructions": "1. Add the sliced bananas to the blender.\n2. Add orange juice, wheat germ, honey, and crushed ice to the blender.\n3. Pour yogurt into the blender.\n4. Blend at high speed for one minute.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "slow-porridge",
+  "name": "Slow Porridge",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "5 cups Water",
+    "1 cup Oatmeal (unsweetened)",
+    "1/2 cup Dried fruit",
+    "1 dash Ground nutmeg",
+    "1 dash Ground mace",
+    "1 dash Ground cinnamon"
+  ],
+  "recipeInstructions": "1. Place water, oatmeal, and dried fruit in a slow cooker.\n2. Stir to combine.\n3. Cook on low for 8 - 10 hours until the mixture is thick and resembles soup.\n4. Do not add milk at the table.\nHelpful Hints:\nEach slow cooker is different, so adjust the water amount if needed.\nFor added flavor, sprinkle a bit of nutmeg, mace, or cinnamon (or any combination).\nConsider using brown rice, barley, rye berries, whole oats, or wheat berries as alternatives.",
+  "url": null
+}

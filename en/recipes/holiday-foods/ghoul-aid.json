@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "ghoul-aid",
+  "name": "Ghoul-Aid",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Holiday Foods",
+  "keywords": [
+    "beverages",
+    "holiday"
+  ],
+  "recipeIngredient": [
+    "1 package Kool-Aid, grape",
+    "1 package Kool-Aid, orange",
+    "2 cups Sugar",
+    "3 quarts Water",
+    "1 liter Ginger ale, cold"
+  ],
+  "recipeInstructions": "1. Use the unsweetened Kool-Aid.\n2. In a large non-metal pitcher, combine envelopes of Kool-Aid with sugar and water. Stir until thoroughly mixed and Kool-Aid is dissolved.\n3. Add ginger ale and serve immediately. Makes about 8-10 servings.",
+  "url": null
+}

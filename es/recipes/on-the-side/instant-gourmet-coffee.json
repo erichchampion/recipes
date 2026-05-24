@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "instant-gourmet-coffee",
+  "name": "Café gourmet instantáneo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de cristales de café instantáneo",
+    "1 1/2 tazas de crema seca para café",
+    "1 taza de mezcla de chocolate caliente seco",
+    "1 cucharadita de canela (redondeada)",
+    "1 1/2 tazas de azúcar",
+    "1 cucharadita de polvo de vainilla"
+  ],
+  "recipeInstructions": "1. Coloca los cristales de café en un procesador de alimentos; tritura hasta obtener una textura fina.\n2. Mezcla todos los ingredientes y guarda la mezcla en bolsas de plástico para congelar.\n3. Para usar, toma 2-4 cucharadas de la mezcla y colócala en una taza.\n4. Vierte agua hirviendo (3 cucharadas para una taza de 8 onzas).",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "dry-martini-2",
+  "name": "Dry Martini 2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "3 oz Gin",
+    "1 oz Dry Vermouth",
+    "2 Olives"
+  ],
+  "recipeInstructions": "1. Fill a mixing glass with ice.\n2. Add the gin and dry vermouth to the mixing glass.\n3. Stir gently until well chilled, about 30 seconds.\n4. Strain into a chilled martini glass filled with ice.\n5. Garnish with an olive on a cocktail pick.\n6. Serve immediately.",
+  "url": null
+}

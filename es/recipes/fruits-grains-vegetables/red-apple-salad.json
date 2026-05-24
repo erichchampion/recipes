@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "red-apple-salad",
+  "name": "Ensalada de Manzana Roja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frutas",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "4 manzanas verdes firmes y ácidas",
+    "1 1/2 tazas de azúcar",
+    "1/4 cucharadita de sal",
+    "1/2 taza de caramelos de canela roja",
+    "3 tazas de agua",
+    "1/2 taza de queso cottage",
+    "1/4 taza de pimiento verde picado"
+  ],
+  "recipeInstructions": "1. Pelar y retirar el corazón de las manzanas.\n2. En una cacerola, mezclar el azúcar, la sal y los caramelos de canela con el agua. Calentar a fuego medio-bajo y remover hasta que los caramelos se disuelvan por completo.\n3. Añadir las manzanas a la mezcla y tapar la cacerola. Cocinar a fuego lento durante unos 15-20 minutos, dando la vuelta a las manzanas ocasionalmente para un cocinado uniforme.\n4. Retirar del fuego y escurrir el exceso de líquido.\n5. En un bol aparte, mezclar el queso cottage con el pimiento verde picado.\n6. Rellenar cada manzana con la mezcla de queso cottage.\n7. Servir fría sobre lechuga o espinacas oscuras.",
+  "url": null
+}

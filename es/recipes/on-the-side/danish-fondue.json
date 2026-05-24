@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "danish-fondue",
+  "name": "Fondue danesa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso",
+    "fondue",
+    "acompañamientos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "6 onzas de panceta magra, sin piel y picada finamente",
+    "1 cebolla pequeña, picada finamente",
+    "3 cucharadas de mantequilla",
+    "3 cucharadas de harina común",
+    "8 onzas de cerveza",
+    "8 onzas de queso Havarti rallado",
+    "8 onzas de queso Samso rallado",
+    "Gherkin dulce y ácido (para decorar)",
+    "Rebanadas de pan de centeno claro (para servir)"
+  ],
+  "recipeInstructions": "1. Coloca la panceta, la cebolla y la mantequilla en una sartén.\n2. Cocina a fuego medio hasta que la panceta sea dorada y la cebolla esté tierna.\n3. Añade la harina y mezcla bien. Vierte gradualmente la cerveza, removiendo constantemente.\n4. Agrega los quesos uno a la vez, removiendo con frecuencia para evitar cuajada.\n5. Continúa cocinando hasta que todos los quesos se hayan derretido y la mezcla esté suave.\n6. Vierte en una olla de fondue y sirve con gherkins y rebanadas de pan de centeno a un lado.\n(Sirve 4-6 personas)",
+  "url": null
+}

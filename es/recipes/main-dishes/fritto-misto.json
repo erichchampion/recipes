@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "fritto-misto",
+  "name": "Frito mixto",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "italiano",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "500 g de calamar limpio",
+    "3/4 taza de harina",
+    "1 filete de bacalao, cortado en trozos",
+    "1 taza de agua",
+    "2 cucharadas de aceite de oliva",
+    "500 g de gambas peladas y desvenadas",
+    "Claras de huevo batidas firmemente",
+    "2 cucharaditas de zumo de limón",
+    "Aceite para freír"
+  ],
+  "recipeInstructions": "1. Lavar y secar los mariscos.\n2. Espolvorear con zumo de limón y sal.\n3. Cubrir con aproximadamente 3 cucharadas de harina.\n4. En un bol pequeño, tamizar la harina restante (3/4 taza) y una pizca de sal.\n5. Mezclar con agua y aceite de oliva. Dejar reposar a temperatura ambiente durante 1 hora.\n6. Incorporar las claras batidas.\n7. Calentar el aceite en una sartén eléctrica a 190 °C (375 °F).\n8. Sumergir los mariscos en la masa y freír por lotes de unos pocos trozos a la vez durante 1 minuto, o hasta que estén dorados.\n9. Escurrir sobre papel absorbente.\n10. Mantener calientes en el horno a 93 °C (200 °F) hasta que todos estén cocidos.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "three-in-one-dinner",
+  "name": "Cena de tres en uno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "500g de carne picada (falda baja)",
+    "1 cebolla mediana",
+    "2 pimientos verdes medianos",
+    "4 tomates frescos, cortados en rodajas",
+    "2 tazas de maíz fresco (o latas de Niblets)",
+    "1/2 taza de pan rallado",
+    "1/2 taza de queso rallado",
+    "4 cucharadas de mantequilla",
+    "Sal",
+    "Pimienta"
+  ],
+  "recipeInstructions": "1. Cortar la cebolla y los pimientos verdes en trozos gruesos.\n2. En un bol, mezclar la cebolla y los pimientos con 2 cucharadas de mantequilla. Dejar marinar durante tres minutos.\n3. Agregar la carne picada a la mezcla. Sazonar con sal y pimienta.\n4. Cocinar la carne a fuego lento hasta que esté completamente cocida, aproximadamente 10 minutos.\n5. Enmantequillar un plato para horno.\n6. Alternar capas de maíz, mezcla de carne y tomates en el plato para horno. Repetir las capas hasta agotar todos los ingredientes.\n7. Espolvorear pan rallado sobre la parte superior de las capas.\n8. Extender el queso rallado de manera uniforme sobre el pan rallado.\n9. Hornear durante 45 minutos a 220 °C.",
+  "url": null
+}

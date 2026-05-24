@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "minted-yogurt-sauce",
+  "name": "Minted Yogurt Sauce",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "appetizers",
+    "greek",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup nonfat yogurt, plain",
+    "1/4 cup fresh mint, minced",
+    "2 cloves garlic, minced",
+    "Salt and pepper to taste"
+  ],
+  "recipeInstructions": "1. Stir together the yogurt, minced mint, minced garlic, salt, and pepper until well combined.",
+  "url": null
+}

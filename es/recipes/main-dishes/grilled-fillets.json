@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "grilled-fillets",
+  "name": "Filetes a la parrilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de vinagre balsámico",
+    "2 cucharadas de jugo de limón (a temperatura ambiente)",
+    "1 cucharada de aceite de oliva",
+    "4 dientes de ajo (machacados)",
+    "1 cucharadita de jengibre",
+    "1/8 cucharadita de pimienta blanca",
+    "4 filetes de pescado de 5 onzas"
+  ],
+  "recipeInstructions": "1. En un recipiente para hornear poco profundo, mezclar el vinagre balsámico, jugo de limón, aceite de oliva, ajo machacado, jengibre y pimienta blanca.\n2. Agregar los filetes de pescado a la marinada y voltearlos para que queden bien cubiertos.\n3. Cubrir el recipiente y refrigerar por al menos 2 horas, volviendo a darles la vuelta ocasionalmente.\n4. Rocíar la parrilla con spray para cocinar antes de precalentar.\n5. Escurrir el exceso de marinada y desecharla.\n6. Grillar los filetes durante 4 minutos por cada lado hasta que estén bien cocidos.",
+  "url": null
+}

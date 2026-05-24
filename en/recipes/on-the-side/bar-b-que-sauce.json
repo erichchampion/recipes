@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "bar-b-que-sauce",
+  "name": "Bar-b-Que Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "sauces",
+    "seasonings",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 tablespoon Oil",
+    "1 clove Garlic",
+    "3 tablespoons Worcestershire sauce",
+    "1 teaspoon Mustard",
+    "1/2 cup Cold Water",
+    "1/2 onion",
+    "3 tablespoons Vinegar",
+    "2 tablespoons Molasses",
+    "1 cup Ketchup",
+    "1 teaspoon Cornstarch"
+  ],
+  "recipeInstructions": "1. Heat oil in a pan over medium heat. Dice the onion and add it to the pan. Brown the onions until they are translucent, then add garlic if desired. Stir occasionally to prevent burning. Add vinegar, Worcestershire sauce, molasses, and mustard. Stir well.\n2. Quickly stir in ketchup and cold water mixed with cornstarch. Simmer the sauce over low heat for at least ten minutes, stirring occasionally to ensure it doesn't burn. If needed, add more water to thin the sauce or make additional sauce.\n3. This sauce can be used as a marinade for beef, pork, or chicken. Remove meat from the sauce and place on the BBQ grill, or bake in an oven at 350°F using this marinade. Typically, enough sauce is made for 6-8 people; freeze the remaining half for later use.\n(Taken from the Cattleman's Cookbook, found in the Elko, Nevada library).",
+  "url": null
+}

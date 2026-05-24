@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-and-cream-kuchen",
+  "name": "Kuchen de Manzana y Crema",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "Masa:",
+    "1 sobre de levadura",
+    "1/2 cucharadita de sal",
+    "4 cucharadas de azúcar",
+    "2 tazas de harina de uso general, sin tamizar",
+    "1/4 taza de mantequilla o margarina",
+    "1/2 taza de leche",
+    "1 huevo grande",
+    "Relleno:",
+    "3 tazas de manzanas ácidas, en rodajas",
+    "1 cucharada de zumo de limón",
+    "1 cucharadita de canela",
+    "3/4 taza de azúcar",
+    "2 cucharadas de harina blanqueada",
+    "200 gramos de queso crema ablandado",
+    "1 huevo grande"
+  ],
+  "recipeInstructions": "Masa:\nMezclar la levadura, la sal, 4 cucharadas de azúcar y 3/4 taza de harina. Añadir la mantequilla derretida con la leche hasta obtener una mezcla homogénea. Incorporar gradualmente la mezcla de leche caliente. Amasar hasta formar una masa suave. Amasar durante 5-10 minutos. Colocar en un bol engrasado y dejar levar durante 1 hora o hasta que doble su tamaño. Presionar la masa en un molde desmontable de 23 cm, asegurándose de que suba 1,5 cm por los lados.\nRelleno:\nMezclar las manzanas con el zumo de limón, la canela, 1/4 taza de azúcar y 2 cucharadas de harina. Disponerlas en capas sobre la masa. Batir el queso crema, 1/2 taza de azúcar y el huevo hasta obtener una mezcla suave. Extender sobre las manzanas. Dejar levar durante 1 hora en un lugar cálido. Hornear a 180°C durante 30 minutos. Servir caliente.",
+  "url": null
+}

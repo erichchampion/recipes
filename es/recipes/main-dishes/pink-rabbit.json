@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pink-rabbit",
+  "name": "Conejo Rosa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1 lata de sopa de tomate",
+    "1/2 taza de queso rallado",
+    "1/2 taza de atún en cubos"
+  ],
+  "recipeInstructions": "1. Calentar la sopa de tomate en una cacerola a fuego medio hasta que el queso se derrita y todos los ingredientes se mezclen bien.\n2. Servir la mezcla sobre tostadas con mantequilla caliente en forma de wedges.",
+  "url": null
+}

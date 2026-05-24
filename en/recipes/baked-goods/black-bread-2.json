@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "black-bread-2",
+  "name": "Black Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "2 1/4 teaspoons Yeast",
+    "2 cups Bread flour",
+    "1 cup Rye flour",
+    "1 teaspoon Caraway seeds",
+    "1 1/2 tablespoons Cornmeal, coarsely ground",
+    "1 1/2 teaspoons Instant coffee granules",
+    "1 1/2 teaspoons Unsweetened cocoa powder",
+    "1 1/2 teaspoons Onion powder",
+    "1 1/2 teaspoons Salt",
+    "1 1/2 tablespoons Dark brown sugar",
+    "2 tablespoons Butter or margarine",
+    "3/4 cup Water",
+    "1/2 cup Buttermilk",
+    "1 1/2 tablespoons Molasses",
+    "1 teaspoon Lemon juice"
+  ],
+  "recipeInstructions": "1. Place all ingredients in the bread machine and select the appropriate cycle.\n2. Close the lid securely before starting the machine.\n3. Allow the machine to complete the baking process.\n4. Remove the finished loaf from the machine and let it cool on a wire rack.",
+  "url": null
+}

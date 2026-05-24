@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "danish-rye-cereal",
+  "name": "Danish Rye Cereal",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "cereals",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 cup Whole rye berries, unprocessed",
+    "2 teaspoons Ground cinnamon",
+    "1 tablespoon Caraway seeds",
+    "1 tablespoon Vanilla extract",
+    "3 cups Water",
+    "1/4 cup Raisins",
+    "Ricotta cheese - optional",
+    "Sugar - optional"
+  ],
+  "recipeInstructions": "1. Combine all ingredients except raisins, ricotta and sugar in a saucepan.\n2. Mix well.\n3. Heat to a boil.\n4. Reduce heat to simmer and cook, covered, for 1 hour. Stir occasionally; add more water if needed to prevent scorching.\n5. During the last 15 minutes of cooking time, add raisins.\n6. Top each serving with a dollop of ricotta cheese and sugar, if desired.",
+  "url": null
+}

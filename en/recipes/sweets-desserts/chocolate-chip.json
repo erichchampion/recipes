@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-chip",
+  "name": "Chocolate Chip",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "cakes",
+    "chocolate",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 cup margarine",
+    "2 cups sugar",
+    "4 eggs",
+    "3 cups flour",
+    "1 teaspoon baking soda",
+    "2 cups sour cream",
+    "3 teaspoons baking powder",
+    "2 teaspoons vanilla",
+    "TOPPING",
+    "1 cup chocolate chips",
+    "2 teaspoons cinnamon",
+    "1/2 cup sugar"
+  ],
+  "recipeInstructions": "1. Cream the margarine in a large mixing bowl.\n2. Gradually add sugar and beat until light and fluffy.\n3. Add eggs, beating well.\n4. Sift flour with baking powder and baking soda.\n5. Alternately add dry ingredients with sour cream and vanilla, beginning and ending with dry ingredients.\n6. Pour half of the batter into a greased 9x13 inch pan.\n7. Sprinkle half of the topping mixture over the batter.\n8. Repeat with remaining batter and topping.\n9. Bake at 350°F for 45 minutes.",
+  "url": null
+}

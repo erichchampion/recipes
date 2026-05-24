@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "cock-a-leekie-soup",
+  "name": "Cock-a-Leekie Soup",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "ethnic",
+    "scottish"
+  ],
+  "recipeIngredient": [
+    "2-3 lbs Boiling Fowl (1 to 1-1/2 kg)",
+    "3 quarts Water (3 Litres)",
+    "2 Medium Onions, finely chopped",
+    "1 Bay Leaf",
+    "1 Sprig of Thyme",
+    "1 Parsley Stalk",
+    "Salt and freshly ground Black Pepper",
+    "1-1/4 lbs Leeks, finely chopped (625 g)",
+    "2 ounces Long Grain Rice (50g)",
+    "Chopped Parsley for garnish",
+    "2 ounces Prunes cut into strips"
+  ],
+  "recipeInstructions": "1. Place the boiling fowl in a large pot with water. Bring to a boil and skim.\n2. Add the herbs, tied together, salt, pepper, chopped onions, and only the white part of the leeks.\n3. Simmer for 1-1/2 to 2 hours or until the meat is tender.\n4. Add the rice half an hour before the end of cooking time.\n5. Remove the bird and let it cool slightly.\n6. Add the green parts of the leek and cook for another few minutes.\n7. When the bird is cool, remove some of the flesh and chop roughly.\n8. Return the chopped meat to the soup and heat through.\n9. Check seasoning, remove herbs, and serve.\nNote: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "bob-s-barbequed-salmon",
+  "name": "Bob's Barbequed Salmon",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecue",
+    "main dish",
+    "meat",
+    "salmon",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "4 salmon steaks (4-6 oz each)",
+    "-----",
+    "sauce ingredients:",
+    "3 tbsp melted butter",
+    "1 tbsp lemon juice",
+    "1 tbsp white wine vinegar",
+    "1/4 tsp grated lemon peel",
+    "1/4 tsp garlic salt",
+    "1/4 tsp salt",
+    "1 dash hot pepper sauce (optional)"
+  ],
+  "recipeInstructions": "1. In a bowl, combine the sauce ingredients and stir thoroughly.\n2. Brush both sides of each salmon steak generously with the mixture.\n3. Place the salmon steaks on a well-oiled grill over hot coals.\n4. Tent the salmon with foil or cover it with the barbecue lid.\n5. Grill for 6-8 minutes per side, depending on the thickness of the steaks.\n6. Baste frequently and turn once, brushing the steaks with sauce.\n7. The steaks should flake easily when tested with a fork.\nServes 4.",
+  "url": null
+}

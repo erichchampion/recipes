@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "california-easy-pita",
+  "name": "Pita Fácil de California",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 pan de pita",
+    "4 rebanadas de pavo asado al horno Deli-Thin de Louis Rich",
+    "2 cucharadas de brotes de alfalfa",
+    "2 rebanadas de tomate",
+    "2 rebanadas de pepino",
+    "1 cucharada de aderezo ranch Kraft"
+  ],
+  "recipeInstructions": "1. Rellena la mitad del pan de pita con pavo, brotes, tomate y pepino.\n2. Vierte el aderezo por encima.\n3. Forma 1 sándwich.",
+  "url": null
+}

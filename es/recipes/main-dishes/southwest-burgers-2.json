@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "southwest-burgers-2",
+  "name": "Hamburguesas del suroeste",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "tex-mex",
+    "plato principal",
+    "carnes",
+    "salsas",
+    "hamburguesas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 salsa de tomate fresca",
+    "500 g de carne molida",
+    "4 oz (120 g) de chiles verdes picados (puede usar una lata de 4 oz, escurrir y picar)",
+    "4 oz (120 g) de queso Monterey Jack, cortado en cubos",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Prepara la salsa de tomate fresca según la receta del suroeste.\n2. Forma las hamburguesas con la carne molida, incorporando los cubos de queso Monterey Jack en cada una.\n3. Sazona las hamburguesas con sal y pimienta al gusto.",
+  "url": null
+}

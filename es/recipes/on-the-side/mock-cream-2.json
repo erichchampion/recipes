@@ -1,0 +1,17 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-cream-2",
+  "name": "Crema falsa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 taza de leche desnatada",
+    "1 taza de queso cottage sin grasa"
+  ],
+  "recipeInstructions": "1. Mezclar la leche desnatada y el queso cottage sin grasa en una licuadora.\n2. Licuar hasta obtener una textura suave, eliminando cualquier grumo.\n3. Utilizar esta mezcla como lo harías con la leche o la crema tradicional en recetas.\n4. Tenga en cuenta que la consistencia es más espesa que la leche, por lo que las salsas pueden resultar un poco más intensas.",
+  "url": null
+}

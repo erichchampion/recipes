@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-wheat-bread-3",
+  "name": "Banana Wheat Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "brdmachine",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 package Yeast",
+    "1 1/2 cups Bread flour",
+    "1 1/2 cups Whole wheat flour",
+    "1/2 teaspoon Salt",
+    "2 medium ripe Bananas, mashed",
+    "1/4 cup Honey",
+    "1/4 cup Warm water",
+    "1 Egg",
+    "1/4 cup Oil",
+    "1/2 teaspoon Vanilla extract",
+    "1 teaspoon Poppy seeds (optional)"
+  ],
+  "recipeInstructions": "1. Ensure all ingredients are at room temperature.\n2. Preheat the DAK bread machine to the white bread setting.\n3. Combine yeast, flour, salt, mashed bananas, honey, warm water, egg, oil, and vanilla in the bread machine.\n4. Pulse the mixture for 30 seconds.\n5. Place the paddle insert into the bread machine pan.\n6. Select the white bread cycle and press start.\n7. When baking is complete, allow the bread to cool before slicing and serving.",
+  "url": null
+}

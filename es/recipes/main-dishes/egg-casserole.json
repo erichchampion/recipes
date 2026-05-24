@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "egg-casserole",
+  "name": "Tortilla de huevo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "gratinado",
+    "gratines",
+    "lácteos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "12 huevos",
+    "1 libra de salchicha",
+    "1 lata de maíz dulce en crema"
+  ],
+  "recipeInstructions": "1. Desmenuzar y dorar la salchicha.\n2. Agregar el maíz dulce en crema a la salchicha.\n3. Incorporar los 12 huevos a la mezcla en la base de una olla holandesa.\n4. Colocar aproximadamente 8 briquetas en la parte inferior del horno y 14 encima.\n5. Hornear durante unos 30 minutos.\nIdeal para excursiones de campamento. Puedes hornear las galletas mientras se cocinan los huevos, y todo estará listo juntos.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "favorite-cheesecake",
+  "name": "Mi tarta de queso favorita",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pastel",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 base de galleta Graham",
+    "450 g de queso crema",
+    "1/2 taza de azúcar",
+    "2 huevos",
+    "1 cucharadita de extracto de vainilla",
+    "500 ml de crema agria",
+    "1/4 taza de azúcar",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Utiliza un molde desmontable de 23 cm o 25 cm, presiona tu receta de base de galletas trituradas en el fondo y la mitad de los lados, o utiliza una base lista. Refrigera.\n2. Con un batidor, mezcla los ingredientes de la primera capa hasta que queden suaves. Vierte en la base y hornea a 180 °C durante 20 minutos.\n3. Deja enfriar. Con un batidor, mezcla los ingredientes de la segunda capa hasta obtener una textura suave. Vierte sobre la primera capa y devuélvelo al horno a 180 °C durante 20 minutos más.\n4. Deja enfriar y refrigera antes de servir.",
+  "url": null
+}

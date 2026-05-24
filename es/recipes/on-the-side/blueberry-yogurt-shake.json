@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "blueberry-yogurt-shake",
+  "name": "Batido de yogur con arándanos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "frutas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 tazas de yogur natural",
+    "1/2 taza de zumo de naranja (exprimido recién)",
+    "1 taza de arándanos frescos, enjuagados",
+    "1 plátano muy maduro"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una licuadora.\n2. Licuar a velocidad media hasta obtener una textura suave y espumosa.\n3. Verter en vasos y servir.\nRaciones: 4\nTiempo de preparación: 3 minutos",
+  "url": null
+}

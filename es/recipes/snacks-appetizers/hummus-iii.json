@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hummus-iii",
+  "name": "Hummus III",
+  "recipeCuisine": "Africa & Middle East",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempié"
+  ],
+  "recipeIngredient": [
+    "3 tazas de garbanzos cocidos",
+    "1/4 taza de agua",
+    "1/4 taza de zumo de limón",
+    "4 dientes de ajo picados",
+    "1/2 cucharadita de sal",
+    "3 cucharadas de tahini",
+    "2 cucharadas de perejil fresco picado",
+    "3 cucharadas de aceite de oliva"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes a una licuadora o procesador de alimentos.\n2. Mezclar hasta obtener una textura suave y ligera.\n3. Ajustar con líquido adicional si es necesario para lograr la consistencia deseada.\n4. Servir inmediatamente con ensalada y pan pita.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "manhattan-2",
+  "name": "Manhattan",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "alcoholic",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 oz Blended whiskey",
+    "3/4 oz Sweet vermouth",
+    "3 dash Bitters",
+    "1 Maraschino cherry"
+  ],
+  "recipeInstructions": "1. In a mixing glass filled with 6 ice cubes, combine the whiskey, vermouth, and bitters.\n2. Stir well until the mixture is chilled.\n3. Strain into an empty cocktail glass.\n4. Garnish with the maraschino cherry.\n5. Serve and enjoy.\nDRY MANHATTAN: For a dry version of this drink, substitute sweet vermouth with dry vermouth and garnish with a lemon twist instead of a cherry.",
+  "url": null
+}

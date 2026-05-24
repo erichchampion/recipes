@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "really-quick-meat-balls",
+  "name": "Bolas de carne realmente rápidas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne molida",
+    "1 lata de leche evaporada",
+    "1 taza de migas de pan finas",
+    "1 sobre de mezcla de sopa de cebolla (en polvo)",
+    "1 huevo batido",
+    "1/2 cucharadita de pimienta",
+    "1/4 cucharadita de sal",
+    "Pam o aceite vegetal"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Formar bolas con la mezcla.\n3. Rocíar una sartén con Pam.\n4. Dorar las albóndigas.\n5. Servir.",
+  "url": null
+}

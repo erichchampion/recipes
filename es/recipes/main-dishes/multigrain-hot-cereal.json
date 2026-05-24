@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "multigrain-hot-cereal",
+  "name": "Cereal caliente de varios cereales",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "plato principal",
+    "mcdougall"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de arroz marrón, grano largo",
+    "2 cucharadas de cebada",
+    "2 cucharadas de mijo cocido",
+    "2 cucharadas de centeno",
+    "2 cucharadas de nueces de trigo (granos de trigo)",
+    "6 mitades de albaricoque seco, picado",
+    "2 tazas de agua"
+  ],
+  "recipeInstructions": "1. Enjuagar los granos y remojarlos en agua suficiente durante 30 minutos.\n2. Escurrir los granos.\n3. Colocar los granos remojados en un cocedor de arroz o una sartén con las pasas y 2 tazas de agua.\n4. Cocinar a fuego lento hasta que se absorba el agua, aproximadamente 17 minutos en una sartén; en un cocedor de arroz, se apagará automáticamente.\n5. Dejar reposar durante 15 minutos antes de servir.",
+  "url": null
+}

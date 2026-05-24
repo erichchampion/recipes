@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "parsley-potato-soup",
+  "name": "Parsley & Potato Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "appetizers",
+    "soups",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "1 medium onion, chopped",
+    "1 teaspoon olive oil",
+    "2 cups chopped potatoes",
+    "1 cup sliced leeks (white only)",
+    "4 cups stock",
+    "1 teaspoon salt",
+    "1/4 teaspoon white pepper",
+    "2 tablespoons chopped fresh chives",
+    "1/4 cup chopped fresh parsley"
+  ],
+  "recipeInstructions": "1. In a large pot, combine all ingredients except the salt, pepper, chives, and parsley.\n2. Cover the pot and bring to a boil.\n3. Lower heat and simmer for 30 minutes.\n4. Cool slightly, then puree the soup.\n5. Season with salt and pepper.\n6. Garnish with chives and parsley.",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "garden-special",
+  "name": "Especial del Jardín",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "encurtidos"
+  ],
+  "recipeIngredient": [
+    "1 litro de judías limas, frescas o enlatadas",
+    "1 litro de judías verdes cortadas",
+    "2 litros de col rallada",
+    "2 litros de cebollas pequeñas picadas",
+    "2 litros de tomates verdes picados",
+    "2 libras de azúcar moreno",
+    "1 galón de vinagre",
+    "1 litro de maíz verde",
+    "2 litros de pepinos pequeños en rodajas",
+    "3 manojos de apio picado",
+    "6 zanahorias grandes cortadas",
+    "Una docena de pimientos verdes picados",
+    "1 pimiento rojo picado",
+    "3 cucharaditas de semillas de mostaza",
+    "3 cucharaditas de semillas de apio"
+  ],
+  "recipeInstructions": "1. Cocinar las verduras por separado hasta que estén tiernas en agua suficiente para cubrirlos.\n2. Combinar las verduras cocidas.\n3. Añadir el azúcar, el vinagre, las semillas de apio y las semillas de mostaza.\n4. Mezclar bien y llevar a ebullición.",
+  "url": null
+}

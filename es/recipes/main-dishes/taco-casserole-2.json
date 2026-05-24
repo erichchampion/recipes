@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-casserole-2",
+  "name": "Taco Cocina Al Horno",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "carne molida",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne molida (2-2 1/2 lb)",
+    "1 pequeña cebolla picada",
+    "1 lata de sopa de pollo cremoso",
+    "1 lata de agua",
+    "1/3 taza de salsa picante",
+    "1/2 bolsa de Doritos",
+    "3/4 taza de queso cheddar rallado",
+    "lechuga picada",
+    "tomates picados"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida y la cebolla. Escurrir el exceso de grasa.\n2. Mezclar la sopa de pollo, el agua y la salsa picante hasta que se calienten por completo.\n3. Cubrir el fondo de un molde para hornear de 9x13 pulgadas con Doritos.\n4. Verter la mezcla de carne sobre los Doritos.\n5. Espolvorear queso rallado encima.\n6. Hornear a 180°C hasta que el queso se derrita, durante el tiempo necesario.\n7. Servir con lechuga y tomates picados, y añadir queso extra, cebolla y salsa picante al gusto.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "shawarma",
+  "name": "Shawarma",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "ethnic",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "2 pounds beef, lamb or chicken, very thinly sliced",
+    "Marinade:",
+    "1 cup yogurt",
+    "2 tablespoons lemon juice",
+    "4 cloves garlic, minced",
+    "1/2 teaspoon hot pepper sauce",
+    "1 tablespoon vinegar",
+    "1 tablespoon onion, finely minced",
+    "1/2 teaspoon black pepper",
+    "1/2 teaspoon red pepper",
+    "1/2 teaspoon ground mace",
+    "1/2 teaspoon salt"
+  ],
+  "recipeInstructions": "1. Combine all marinade ingredients.\n2. Add meat and marinate overnight.\n3. Place the marinated meat in a barbecue cage and cook over hot coals for 15 minutes.\n4. Prepare tahini sauce by combining tahini (sesame paste), lemon juice, parsley, and garlic until creamy. Add water if necessary.\n5. Assemble the dish by placing cooked meat, sliced tomatoes, and onions in pita bread.\n6. Pour the tahini mixture over the assembled ingredients as desired.",
+  "url": null
+}

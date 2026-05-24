@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-things",
+  "name": "Cosas de chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de trozos de chocolate semiamargo Nestle",
+    "1/2 taza de mantequilla de maní Jif"
+  ],
+  "recipeInstructions": "1. Coloca los trozos de chocolate en un bol apto para calor.\n2. Prepara un baño maría con agua en la cacerola inferior y el bol de chocolate encima.\n3. Calienta a fuego suave, removiendo hasta que el chocolate se derrita por completo.\n4. Retira del fuego y añade la mantequilla de maní.\n5. Mezcla bien hasta combinar.\n6. Vierte la mezcla sobre papel para hornear.\n7. Deja enfriar y endurecer completamente.",
+  "url": null
+}

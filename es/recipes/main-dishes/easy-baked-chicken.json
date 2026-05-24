@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-baked-chicken",
+  "name": "Pollo asado fácil",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo, cortadas por la mitad y sin piel",
+    "1/8 cucharadita de polvo de ajo",
+    "1/8 cucharadita de pimienta negra",
+    "1 lata de crema de brócoli",
+    "1/2 taza de agua",
+    "4 tazas de pasta cocida sin sal"
+  ],
+  "recipeInstructions": "1. Rocía un recipiente para hornear de 2 cuartos con spray antiadherente.\n2. Coloca las mitades de pollo en el recipiente, con la parte hueso hacia abajo.\n3. Espolvorea el polvo de ajo y la pimienta negra sobre el pollo.\n4. Hornea a 175 °C durante 30 minutos.\n5. Mezcla la crema de brócoli y el agua en un bol.\n6. Vierte la mezcla sobre el pollo.\n7. Continúa horneando durante otros 30 minutos o hasta que el pollo ya no esté rosado y los jugos sean claros.\n8. Sirve con la pasta.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-italian",
+  "name": "Pollo italiano",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 Pollo entero para freír, sin piel (o 3 libras de pechugas de pollo sin piel)",
+    "2 cucharadas de aceite de oliva",
+    "2 cucharadas de jugo de limón",
+    "2 dientes de ajo machacados",
+    "1/4 cucharadita de orégano",
+    "2 cucharadas de vino blanco seco"
+  ],
+  "recipeInstructions": "1. Si se utiliza un pollo entero, córtelo por la mitad.\n2. Mezcla todos los ingredientes restantes para hacer la marinada.\n3. Sumerge el pollo en la marinada durante 10 minutos.\n4. Precalienta el horno a 375 grados Fahrenheit.\n5. Coloca el pollo en una bandeja para hornear engrasada y hornea durante 45 minutos a 1 hora, o hasta que esté tierno.\n6. Sirve 4 porciones.",
+  "url": null
+}

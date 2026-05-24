@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-con-cervesa",
+  "name": "Chili con cerveza",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "entrada",
+    "mexicana",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1/2 kg de carne molida de res",
+    "1/2 taza de cebolla picada",
+    "6 onzas de puré de tomate",
+    "350 ml de cerveza",
+    "470 ml de frijoles rojos enlatados (escurridos)",
+    "1 cucharadita de azúcar",
+    "1 cucharadita de polvo de ajo",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de orégano",
+    "1 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Combina la carne molida y la cebolla en una sartén a fuego medio. Calienta y revuelve durante 5-10 minutos hasta que la carne esté dorada y la cebolla esté tierna.\n2. Añade el puré de tomate y la cerveza. Mezcla bien.\n3. Incorpora los frijoles con su jugo, el polvo de chili, el azúcar y el polvo de ajo. Revuelve todo.\n4. Sazona al gusto con sal y pimienta negra.\n5. Lleva a ebullición, reduce el fuego y deja que hierva a fuego lento durante 15-20 minutos, añadiendo agua si es necesario para ajustar la consistencia.\n6. Sirve caliente.",
+  "url": null
+}

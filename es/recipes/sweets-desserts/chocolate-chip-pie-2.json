@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-chip-pie-2",
+  "name": "Tarta de chips de chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina de uso común",
+    "1 cucharadita de polvo de hornear",
+    "1/4 cucharadita de sal",
+    "1 1/2 tazas de azúcar moreno claro, presado firmemente",
+    "1/2 taza de mantequilla derretida",
+    "2 huevos grandes, batidos",
+    "1 cucharadita de extracto de vainilla",
+    "12 onzas de trozos de chocolate semiamargo",
+    "1/2 taza de nueces o pecanas picadas"
+  ],
+  "recipeInstructions": "1. Mezclar la harina, el polvo de hornear, la sal y el azúcar moreno claro en un bol mediano.\n2. Añadir la mantequilla, los huevos y la vainilla; remover bien.\n3. Incorporar los trozos de chocolate y las nueces.\n4. Verter en una bandeja para tarta engrasada de 23 cm.\n5. Hornear a 180 °C durante 35-40 minutos o hasta que un cuchillo insertado en el centro salga limpio.\n6. Enfriar sobre una rejilla.\nRinde una tarta de 23 cm.\nDeliciosa con helado de vainilla o mantequilla de nueces.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "blue-cheese-dressing",
+  "name": "Salsa de queso azul",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "aderezo para ensalada",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de queso azul desmenuzado",
+    "1 cucharada de vinagre de jerez",
+    "1/4 taza de mayonesa",
+    "1/2 taza de buttermilk",
+    "1/8 cucharadita de pimienta negra molida fresca"
+  ],
+  "recipeInstructions": "1. Desmenuzar el queso azul.\n2. Colocar el queso azul desmenuzado en una licuadora.\n3. Mezclar con vinagre y mayonesa hasta obtener una consistencia suave.\n4. Verter lentamente el buttermilk mientras la licuadora está en marcha.\n5. Sazonar con pimienta negra.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "fig-bread",
+  "name": "Fig Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "fruit"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Figs",
+    "1/2 cup Raisins",
+    "2 tbsp Shortening",
+    "1 cup Honey",
+    "1 Egg",
+    "2 1/2 cups Flour",
+    "1/2 tsp Salt",
+    "1 tsp Baking Powder",
+    "1/2 tsp Baking Soda",
+    "3/4 cup Sweet Milk",
+    "1/4 cup Sour Milk",
+    "1 cup Nuts"
+  ],
+  "recipeInstructions": "1. Cut the raisins and figs into small pieces.\n2. Cream the shortening and honey well, then add the beaten egg.\n3. Sift together the dry ingredients. Reserve some flour to mix with the fruits and nuts.\n4. Alternately add the milk (sweet and sour) and gradually incorporate the mixture of nuts and fruit.\n5. Bake in a moderate oven at 325°F for 1 hour and 10 minutes.",
+  "url": null
+}

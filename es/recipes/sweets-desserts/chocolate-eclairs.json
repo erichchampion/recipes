@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-eclairs",
+  "name": "Eclares de chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "chocolate"
+  ],
+  "recipeIngredient": [
+    "8 oz. de Nata (crema de leche) batida",
+    "2 paquetes pequeños de pudín de vainilla francés (instantáneo)",
+    "3 tazas de leche",
+    "1 caja de galletas Graham",
+    "1 lata de glaseado de chocolate con leche"
+  ],
+  "recipeInstructions": "Mezclar el pudín y la leche, luego agregar la nata batida.\n1.ª capa: Galletas Graham enteras.\n2.ª capa: 1/2 mezcla de pudín.\n3.ª capa: Galletas Graham.\n4.ª capa: Mezcla de pudín restante.\n5.ª capa: Galletas Graham.\n6.ª capa: Cubrir con glaseado de chocolate con leche. Refrigerar durante la noche para que las galletas absorban el pudín.",
+  "url": null
+}

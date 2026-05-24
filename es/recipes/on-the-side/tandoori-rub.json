@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "tandoori-rub",
+  "name": "Tandoori Rub",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "asiático",
+    "étnico",
+    "indio",
+    "marinadas"
+  ],
+  "recipeIngredient": [
+    "1,5 cucharaditas de polvo de ajo",
+    "1,5 cucharaditas de pimentón dulce",
+    "1 cucharadita de pimienta cayena",
+    "1 cucharadita de cúrcuma en polvo",
+    "1 cucharadita de comino en polvo",
+    "1 cucharadita de jengibre molido",
+    "1 cucharadita de sal",
+    "0,25 cucharaditas de cardamomo en polvo",
+    "0,25 cucharaditas de canela en polvo"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta obtener una pasta homogénea.\n2. Untar la mezcla sobre carne de cordero, res, cerdo o pollo.\n3. Hornear o asar a la parrilla.",
+  "url": null
+}

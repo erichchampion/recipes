@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-casserole",
+  "name": "Cazuela de arroz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz crudo",
+    "2 tazas de crema agria sin grasa o yogur",
+    "2 tazas de queso rallado sin grasa",
+    "1 cebolla grande picada",
+    "4-5 tomates en rodajas (o calabacín/calabaza en rodajas)",
+    "Un molde para hornear de 30x40 cm"
+  ],
+  "recipeInstructions": "1. Cocinar el arroz según las instrucciones del paquete.\n2. Extender el arroz cocido uniformemente en un molde para hornear de 30x40 cm.\n3. Espolvorear la cebolla picada sobre el arroz.\n4. Cubrir con el queso rallado sin grasa.\n5. Añadir los tomates en rodajas (o calabacín/calabaza).\n6. Verter la crema agria o yogur restante encima.\n7. Hornear en un horno precalentado a 180 °C durante 30 minutos, o hasta que esté caliente y burbujeante.",
+  "url": null
+}

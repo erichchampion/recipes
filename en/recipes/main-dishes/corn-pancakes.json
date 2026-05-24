@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "corn-pancakes",
+  "name": "Corn Pancakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "pancakes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cups Flour",
+    "4 teaspoons Baking powder",
+    "2/3 cup Corn meal",
+    "2/3 teaspoon Salt",
+    "3 tablespoons Sugar (granulated)",
+    "1 beaten Egg",
+    "1 1/2 cups Milk",
+    "2 tablespoons Fat (melted)"
+  ],
+  "recipeInstructions": "1. Mix all ingredients together and beat until well combined.\n2. Pour batter onto a greased griddle, using the desired cake size.\n3. Bake on one side until bubbles form on the surface.\n4. Turn the pancakes once to cook the other side.\n5. Serve hot.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mashed-potato-pancakes",
+  "name": "Tortitas de puré de patatas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "patatas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 taza de puré de patatas",
+    "2 tazas de harina, tamizada",
+    "1 cucharadita de sal",
+    "3 cucharaditas de polvo de hornear",
+    "2 huevos, batidos",
+    "1 taza de leche",
+    "4 cucharadas de jarabe de maíz ligero",
+    "1 cucharadita de nuez moscada"
+  ],
+  "recipeInstructions": "1. Mezclar el puré de patatas, la harina tamizada, la sal y el polvo de hornear.\n2. Combinar los huevos y la leche, y mezclar suavemente con la mezcla de patata y harina. Añadir el jarabe de maíz y la nuez moscada, y batir bien.\n3. Engrasar una plancha o una sartén grande.\n4. Verter cucharadas de la masa sobre la plancha caliente, formando pequeñas tortitas.\n5. Cocinar hasta que estén doradas por ambos lados, aproximadamente 2-3 minutos por cada lado.",
+  "url": null
+}

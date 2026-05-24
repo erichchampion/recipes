@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "oyster-chicken",
+  "name": "Pollo a la ostras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "comidas congeladas",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "Trozos de pollo",
+    "Salsa de ostras"
+  ],
+  "recipeInstructions": "1. Untar los trozos de pollo con salsa de ostras.\n2. Colocar el pollo en un plato para hornear.\n3. Hornear durante una hora.\n4. Verter el jugo en una cacerola.\n5. Espesar el jugo con almidón de maíz y agua.\n6. Servir sobre arroz.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "capirotada-bread-pudding",
+  "name": "Capirotada (Pudín de pan)",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "postres",
+    "mexicanos",
+    "pudines",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "8 rebanadas de pan tostado",
+    "2 tazas de agua",
+    "1 taza de azúcar",
+    "1 cucharadita de canela",
+    "1/2 cucharadita de nuez moscada",
+    "1/2 cucharadita de clavos de olor",
+    "1 1/2 tazas de queso cheddar rallado",
+    "1 1/2 tazas de pasas",
+    "2 cucharadas de mantequilla",
+    "Nata montada (opcional)"
+  ],
+  "recipeInstructions": "1. Tostar el pan y cortarlo en trozos.\n2. Preparar un almíbar con agua, azúcar y las especias en una cacerola. Llevarlo a ebullición y cocinar a fuego lento durante 10 minutos.\n3. Engrasar un molde rectangular.\n4. Alternar capas de pan, queso, pasas y mantequilla en el molde.\n5. Verter el almíbar sobre la mezcla de pan.\n6. Hornear a 180°C durante 20 minutos o hasta que se absorba el almíbar.\n7. Servir caliente o frío. Si se sirve caliente, añadir nata montada por encima.",
+  "url": null
+}

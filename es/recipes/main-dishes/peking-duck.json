@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "peking-duck",
+  "name": "Pavo de Pekín",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "asiático",
+    "chino",
+    "étnico",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "Piel de pato",
+    "Carne de pato",
+    "Mezcla de jerez o agua con miel (partes iguales)",
+    "Cebolletas (parte verde y blanca, de unos 2 cm de largo)",
+    "Salsa hoisin (enlatada o en botella)",
+    "Harina (2 tazas)",
+    "Agua hirviendo (1 taza)",
+    "Aceite de sésamo oscuro (2 cucharadas)"
+  ],
+  "recipeInstructions": "1. Aflojar la piel del pato masajeándola y separándola del carne.\n2. Blanquear el pato durante unos minutos.\n3. Colgar el pato para que se seque durante 4 horas, luego empaapar con la mezcla de jerez o agua con miel. Dejar secar nuevamente otras 4 horas.\n4. Asar el pato en etapas múltiples:\n- 30 min a 375°F\n- 15 min a 450°F\n- 1 hora a 250°F\n- 55 min a 350°F\n- 30 min a 400°F\n- 20 min a 450°F\n5. Para servir, cortar la piel en trozos de 1\"x2\" y la carne en piezas similares.\n6. Preparar los panecillos:\n- Mezclar la harina con el agua hirviendo en un bol hasta formar una masa (amasar durante 10 minutos).\n- Dejar reposar la masa durante 10 minutos.\n- Formar la masa en rollos largos de unos 2 cm de diámetro, luego cortarlos en mitades de 0,5 cm de grosor.\n- Aplanar cada mitad hasta alcanzar un grosor de unos 0,25 cm y cepillar con aceite de sésamo.\n- Estirar cada pieza en una plancha hasta que mida al menos 4 pulgadas de diámetro.\n- Calentar la plancha a fuego bajo, colocar los círculos de masa y vaporizar durante 10 minutos antes de servir.\n6. Servir enrollando un poco de carne, piel y cebolleta en un panecillo y untar con salsa hoisin.",
+  "url": null
+}

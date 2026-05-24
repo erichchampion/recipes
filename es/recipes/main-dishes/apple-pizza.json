@@ -1,0 +1,42 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-pizza",
+  "name": "Pizza de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "manzanas",
+    "panes",
+    "plato principal",
+    "pizza",
+    "pizzas"
+  ],
+  "recipeIngredient": [
+    "Base:",
+    "2 3/4 tazas de harina",
+    "1 sobre de levadura seca",
+    "3 cucharadas de azúcar",
+    "1/2 cucharadita de sal",
+    "1/2 taza de agua tibia",
+    "1/4 taza de leche",
+    "1/4 taza de mantequilla derretida",
+    "1 huevo",
+    "Cobertura de manzana:",
+    "2 cucharadas de mantequilla",
+    "2 manzanas grandes peladas y en rodajas",
+    "1/2 taza de azúcar",
+    "2 cucharadas de harina",
+    "1 cucharadita de canela",
+    "Cobertura de queso:",
+    "100 g de queso crema",
+    "2 cucharadas de azúcar",
+    "1 cucharada de jugo de limón",
+    "1/4 cucharadita de nuez moscada",
+    "Cobertura crujiente:",
+    "1/3 taza de harina",
+    "1/3 taza de azúcar",
+    "1/4 taza de mantequilla blanda"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar 1 1/2 tazas de harina, levadura, azúcar y sal.\n2. Calentar el agua, la leche y la mantequilla hasta que estén muy calientes. Verter la mezcla en la harina y batir durante tres minutos. Agregar mano a mano suficiente harina para formar una masa suave. Cubrir y dejar reposar 15 minutos.\n3. Extender la masa sobre una bandeja para pizza engrasada, formando un borde. Extender uniformemente la cobertura de queso sobre la base, luego colocar la cobertura de manzana (ver instrucciones a continuación) encima del queso.\n4. Mezclar los ingredientes de la cobertura crujiente y espolvorear uniformemente sobre las manzanas.\n5. Cubrir la pizza y dejar reposar 15 minutos adicionales.\n6. Hornear a 375°F (190°C) durante 25-30 minutos, hasta que esté dorada.\n7. Servir caliente o fría.\nInstrucciones para la cobertura de manzana:\n1. Derretir la mantequilla en una sartén. Agregar las rodajas de manzana, azúcar, harina y canela. Reducir a fuego lento durante 15 minutos, luego enfriar antes de colocar sobre la base.",
+  "url": null
+}

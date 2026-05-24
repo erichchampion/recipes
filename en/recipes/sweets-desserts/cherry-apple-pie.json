@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cherry-apple-pie",
+  "name": "Cherry Apple Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "2 1/2 cups Pitted sour cherries",
+    "1 cup Sugar",
+    "2 tablespoons Flour",
+    "1/2 teaspoon Nutmeg",
+    "4 large Apples",
+    "6 tablespoons Butter",
+    "2 1/2 teaspoons Cinnamon",
+    "Pastry for a 9-inch pie crust"
+  ],
+  "recipeInstructions": "1. Pare, core, and slice the apples.\n2. Melt 2 tablespoons butter and brush the bottom of the pie shell.\n3. Mix the dry ingredients (sugar, flour, nutmeg, cinnamon).\n4. Place a layer of apple slices, then the dry mixture, then cherries.\n5. Continue layering until all ingredients are used, finishing with apples.\n6. Dot with butter and cover with the top crust.\n7. Bake at 425°F for 10 minutes, then reduce heat to 325°F and bake an additional 30-40 minutes.",
+  "url": null
+}

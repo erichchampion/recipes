@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomatensalat-tomato-salad",
+  "name": "Ensalada de Tomate",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "etnica",
+    "alemana",
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "5 tomates; medianos, picados",
+    "1/4 cucharadita pimienta; molida fresca",
+    "1 cucharada azúcar",
+    "1/2 taza aceite vegetal",
+    "6 cucharadas vinagre",
+    "1 cucharadita sal",
+    "1 cucharadita albahaca; seca",
+    "1/4 cucharadita tomillo; seco",
+    "1 cebolla grande; picada"
+  ],
+  "recipeInstructions": "1. Picar los tomates y colocarlos en un bol.\n2. Añadir al bol con los tomates la pimienta molida, el azúcar, el aceite vegetal, el vinagre, la sal, la albahaca seca, el tomillo y la cebolla picada.\n3. Mezclar todos los ingredientes hasta que estén bien combinados.\n4. Cubrir la mezcla y refrigerar durante 1 hora antes de servir.\n5. Servir sobre hojas de lechuga.",
+  "url": null
+}

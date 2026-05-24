@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "burrito-filling",
+  "name": "Burrito Filling",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "american",
+    "beef",
+    "ethnic",
+    "mexican"
+  ],
+  "recipeIngredient": [
+    "4 tablespoons Oil",
+    "14.5 ounces Can beef broth",
+    "3.5 to 4 pounds Beef Stew Meat",
+    "4 ounces Can green chilies",
+    "12 ounces Can vegetable juice",
+    "3 minced cloves garlic"
+  ],
+  "recipeInstructions": "1. Shred shredded cheddar cheese.\n2. Brown the meat in oil and drain excess fat.\n3. Add remaining ingredients except cheese.\n4. Simmer over low heat for 2 to 3 hours.\n5. Once cooked, shred the meat with a fork and drain any excess liquid.\n6. Serve on tortillas topped with shredded cheddar cheese.",
+  "url": null
+}

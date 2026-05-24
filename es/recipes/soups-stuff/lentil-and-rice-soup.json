@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "lentil-and-rice-soup",
+  "name": "Sopa de lentejas y arroz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "arroz",
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "1 cebolla grande, picada",
+    "1 cucharada de aceite de girasol",
+    "2 cucharadas de aceite de girasol",
+    "2 dientes de ajo, picados",
+    "3 cubos de caldo de pollo",
+    "6 tazas de agua",
+    "1/2 taza de lentejas, enjuagadas",
+    "3 tazas de arroz marrón cocido"
+  ],
+  "recipeInstructions": "1. En una olla para sopa, cocina la cebolla en aceite de girasol durante unos 10 minutos.\n2. Añade el ajo y las especias; cocina por 2 minutos más.\n3. Agrega los cubos de caldo, el agua y las lentejas a la olla. Lleva la mezcla a ebullición.\n4. Reduce el fuego y deja cocinar a fuego lento durante aproximadamente 1 hora.\n5. Vierte la sopa en cuencos sobre el arroz.",
+  "url": null
+}

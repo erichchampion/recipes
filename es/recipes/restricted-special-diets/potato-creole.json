@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-creole",
+  "name": "Papas criollas",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "guarniciones",
+    "dietas especiales",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de aceite vegetal",
+    "3 patatas; peladas y cortadas en rodajas",
+    "1 cebolla; cortada en rodajas",
+    "2 tazas de tomates; picados",
+    "Sal y pimienta negra molida al gusto",
+    "1 cucharadita de tomillo seco",
+    "Unas hebras de pimentón ahumado"
+  ],
+  "recipeInstructions": "1. Calentar el aceite vegetal en una sartén grande a fuego medio.\n2. Agregar las patatas y la cebolla, saltear durante 10 minutos.\n3. Incorporar los tomates, sal, pimienta negra, tomillo seco y pimentón ahumado.\n4. Llevar la mezcla a ebullición.\n5. Reducir el fuego, tapar la sartén y cocinar a fuego lento durante 30 minutos, o hasta que las patatas estén tiernas y la salsa haya espesado.",
+  "url": null
+}

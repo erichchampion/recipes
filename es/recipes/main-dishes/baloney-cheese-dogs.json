@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "baloney-cheese-dogs",
+  "name": "Perros calientes con queso y baloney",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "queso",
+    "perritos calientes",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "2 panecillos para perritos calientes",
+    "Mayonesa o mostaza",
+    "2 rebanadas de salchicha de pavo (turkey bologna)",
+    "2 palitos de queso cheddar o palitos de string cheese"
+  ],
+  "recipeInstructions": "1. Untar el interior de cada panecillo con mayonesa o mostaza.\n2. Enrollar una rebanada de salchicha de pavo alrededor de cada palito de queso.\n3. Colocar los perros calientes montados nuevamente en sus respectivos panecillos.\n4. Envolver cada panecillo apretadamente con papel plástico para mantener su frescura.",
+  "url": null
+}

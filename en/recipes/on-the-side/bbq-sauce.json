@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "bbq-sauce",
+  "name": "BBQ Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/4 cup Brown sugar",
+    "2 tbsp Paprika",
+    "2 tsp Salt",
+    "2 tsp Dry mustard",
+    "2 Bay leaves",
+    "1/2 tsp Chili powder",
+    "1/4 tsp Cayenne pepper",
+    "1/4 cup Worcestershire sauce",
+    "1/2 cup Cider vinegar",
+    "2 cups Tomato juice",
+    "1/2 cup Catsup",
+    "1 cup Water"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a large saucepan.\n2. Bring the mixture to a boil over high heat.\n3. Reduce heat and let simmer until slightly thickened, approximately 30 minutes.\n4. Remove and discard the bay leaves.",
+  "url": null
+}

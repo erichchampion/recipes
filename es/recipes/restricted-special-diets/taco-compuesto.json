@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-compuesto",
+  "name": "Taco compuesto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "plato principal",
+    "carnes",
+    "dietas especiales",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "750 g de carne molida magra",
+    "1/2 cucharadita de sal sazonado",
+    "1/2 taza de cebolla picada",
+    "8 capas de taco",
+    "2 cucharadas de pimiento verde picado",
+    "1 taza de lechuga",
+    "1 diente de ajo picado",
+    "1 cucharadita de polvo de chile",
+    "1 1/2 tazas de tomate picado",
+    "3 cucharadas de aderezo italiano (de bajo contenido calórico)"
+  ],
+  "recipeInstructions": "1. En una sartén grande, cocina la carne molida, la cebolla, el pimiento verde y el ajo picado a fuego medio hasta que la carne esté dorada. Escurre el exceso de grasa. Añade el polvo de chile.\n2. En un bol, combina el tomate picado, el aderezo italiano y el sal sazonado. Llena las capas de taco con la mezcla de carne. Cubre con la mezcla de tomate, lechuga, queso rallado y salsa de taco. Sirve 4 porciones. Tiempo: 20 minutos.",
+  "url": null
+}

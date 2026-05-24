@@ -1,0 +1,35 @@
+{
+  "@type": "Recipe",
+  "identifier": "hunter-s-minestrone",
+  "name": "Hunter's Minestrone",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "beef",
+    "italian",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "2 teaspoons Salt",
+    "3 quarts Water",
+    "2 1/2 pounds Beef, cubed",
+    "1 Garlic clove, crushed",
+    "1 Bay leaf",
+    "1 Carrot, large, sliced",
+    "2 Celery sticks, sliced",
+    "1 Onion, medium, cut into 8ths",
+    "1 can Kidney beans (12 to 16 oz.)",
+    "1 can Tomato paste with garlic (6 oz)",
+    "1 Handful green beans (or more), halved or quartered",
+    "4 Roma tomatoes, chopped",
+    "1/2 cup Chianti or other red wine",
+    "1/2 cup Basil leaves",
+    "2 teaspoons Creole seasoning",
+    "1 1/2 teaspoons Oregano leaves",
+    "8 ounces Pasta shells",
+    "1/2 teaspoon Paprika",
+    "2 teaspoons Sugar"
+  ],
+  "recipeInstructions": "1. Bring the water to a boil. Add all first part ingredients and simmer, covered, for 3 hours.\n2. Add all second part ingredients to the pot and simmer for 30 minutes.\n3. Add all third part ingredients to the pot and simmer for an additional 30 minutes.\n4. Serve with lots of garlic bread.",
+  "url": null
+}

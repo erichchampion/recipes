@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-italian-spaghetti",
+  "name": "Quick Italian Spaghetti",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/2 lb Beef, ground",
+    "3/4 cup Green onions, thinly sliced",
+    "1/2 tsp Salt",
+    "1/8 tsp Pepper",
+    "2 tsp Sugar",
+    "2 tbsp Worcestershire sauce",
+    "24 oz Tomato sauce (3x8oz cans)",
+    "2 1/4 oz Olives, ripe, drained and sliced (1 can)",
+    "Spaghetti, cooked",
+    "Cheese, Parmesan or Romano, grated",
+    "Real bacon bits (optional)"
+  ],
+  "recipeInstructions": "1. In a skillet, brown the ground beef and onions.\n2. Add salt, pepper, sugar, Worcestershire sauce, and tomato sauce; cover and simmer for 10 minutes.\n3. Add olives and simmer for an additional 5 minutes.\n4. Spoon the sauce over cooked spaghetti.\n5. Sprinkle with grated cheese and bacon bits if desired.",
+  "url": null
+}

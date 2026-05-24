@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "reel-cuisine",
+  "name": "Reel Cuisine",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "Yellow Pepper, diced",
+    "Red Pepper, diced",
+    "Green Pepper, diced",
+    "Asparagus, trimmed and cut into 2-inch pieces",
+    "Leeks, sliced",
+    "Corn on the Cob, cut into 1/4-inch slices",
+    "Red Onions, thinly sliced",
+    "Maine Lobster, shelled and deveined",
+    "Shrimp, peeled and deveined"
+  ],
+  "recipeInstructions": "Marinate the first seven vegetables in olive oil with salt and pepper to taste. Place each vegetable on a skewer and grill until cooked.\nMarinate the lobster and shrimp in the lobster marinade.\nToss all grilled items in watermelon salsa (recipe follows) and serve on plates.\nWatermelon Salsa:\nLime, cut into 1/4-inch pieces\nCucumbers, peeled and seedless, diced into 1/2-inch pieces\nWatermelon, seeded and diced into 1/2-inch pieces\nGreen Onions, thinly sliced\nCilantro, minced\nJalapeno Chile, seeded and minced\nSugar\nCover and refrigerate for 30 minutes.",
+  "url": null
+}

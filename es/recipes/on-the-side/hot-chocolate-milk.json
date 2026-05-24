@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-chocolate-milk",
+  "name": "Chocolate caliente con leche",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "chocolate",
+    "lácteos",
+    "microondas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de sirope de chocolate",
+    "1 cucharada de sirope de chocolate",
+    "1/2 cucharadita de extracto de vainilla",
+    "3/4 taza de leche"
+  ],
+  "recipeInstructions": "1. Mezclar el sirope de chocolate y la vainilla en un vaso o taza resistente al calor, que no sea metálica.\n2. Incorporar la leche y calentar al descubierto en el microondas de 1 1/2 a 2 1/2 minutos, o hasta que esté caliente. No permitir que hierva la leche.",
+  "url": null
+}

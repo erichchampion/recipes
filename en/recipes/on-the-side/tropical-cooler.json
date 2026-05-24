@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "tropical-cooler",
+  "name": "Tropical Cooler",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup orange juice",
+    "1/4 cup lemon juice",
+    "1 cup pineapple juice",
+    "1/4 cup maraschino cherry juice",
+    "1 cup ginger ale",
+    "2 teaspoons honey",
+    "1 cup cran-apple juice"
+  ],
+  "recipeInstructions": "1. Combine all ingredients except the ginger ale in a blender.\n2. Blend until smooth.\n3. Pour into glasses and top with ginger ale just before serving.\n4. For added color, garnish each serving with 1 mint leaf, 1 red or green maraschino cherry, or both.\n5. Serves 6.",
+  "url": null
+}

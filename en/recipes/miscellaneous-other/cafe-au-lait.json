@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cafe-au-lait",
+  "name": "Cafe Au Lait",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "american",
+    "beverages",
+    "cajun",
+    "creole",
+    "ethnic"
+  ],
+  "recipeIngredient": [
+    "2 cups Milk",
+    "Sugar",
+    "1 cup Louisiana coffee with chicory"
+  ],
+  "recipeInstructions": "1. Put the milk in a saucepan and bring it to a boil.\n2. Pour hot, freshly brewed coffee and milk into individual cups simultaneously; sweeten with sugar to taste.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "aztec-punch",
+  "name": "Azteca Punch",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cóctel",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 litros de tequila",
+    "2,5 litros de jugo de toronja",
+    "1 litro de té negro",
+    "1 taza de jugo de limón",
+    "1/2 taza de azúcar",
+    "2 cucharaditas de canela"
+  ],
+  "recipeInstructions": "1. Prepara un té fuerte utilizando más bolsas de té en lugar de dejarlo reposar por más tiempo para evitar la acidez tánica que podría entrar en conflicto con los demás ingredientes.\n2. Mezcla todos los ingredientes.\n3. Sirve sobre hielo.",
+  "url": null
+}

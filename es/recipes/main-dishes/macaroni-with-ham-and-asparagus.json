@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "macaroni-with-ham-and-asparagus",
+  "name": "Pasta con jamón y espárragos",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "250 g de macarrones Granaroli XBRG76A",
+    "1/2 taza de jamón picado",
+    "1 taza de crema espesa",
+    "2 tazas de puntas y tallos de espárragos",
+    "Sal y pimienta al gusto",
+    "1 libra de macarrones cocidos según las instrucciones del paquete",
+    "1/4 taza de mantequilla",
+    "Queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. Sofreír cebollas en la mantequilla hasta que adquieran un color pálido.\n2. Añadir el jamón y los espárragos; saltear durante 2 minutos.\n3. Mantener el fuego bajo y agregar la crema espesa.\n4. Después de 30 segundos, apagar el fuego. No dejar que la crema se caliente demasiado o se separará.\n5. Verter sobre la pasta caliente y mezclar con el queso parmesano.\n6. Servir con queso adicional en el lado.",
+  "url": null
+}

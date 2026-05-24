@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-cheese-macaroni",
+  "name": "Olla de cocción lenta con queso y macarrones",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "queso/huevos",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "Una caja pequeña de macarrones tipo \"elbow\"",
+    "3 tazas de queso Cheddar rallado",
+    "1 lata de leche evaporada",
+    "1,5 tazas de leche homogénea",
+    "3 huevos",
+    "Media barra de mantequilla",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar los macarrones según las instrucciones del paquete.\n2. Enmantequillar la olla de cocción lenta.\n3. Mezclar todos los ingredientes en la olla de cocción lenta.\n4. Cocinar a temperatura alta durante 30 minutos, luego reducir el calor y cocinar a temperatura baja durante 2 horas.",
+  "url": null
+}

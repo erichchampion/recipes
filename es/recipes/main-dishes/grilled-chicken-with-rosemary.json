@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "grilled-chicken-with-rosemary",
+  "name": "Pollo a la parrilla con romero",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "3 1/2 lb de pollo (cortado en mitades)",
+    "2 cucharadas de romero fresco",
+    "3 dientes de ajo (pelados, machacados)",
+    "1 limón (el zumo)",
+    "1/4 taza de aceite de oliva",
+    "Sal",
+    "Pimienta"
+  ],
+  "recipeInstructions": "1. Coloca el pollo en un bol grande con los ingredientes restantes.\n2. Mezcla bien hasta que todo esté cubierto. Deja marinar durante 1 hora.\n3. Asa el pollo a fuego medio-bajo, aproximadamente 25 minutos por lado.\n4. Cepilla el pollo con el resto de la marinada mientras se cocina.\n5. El pollo estará listo cuando puedas pinchar la parte inferior de un muslo y los jugos sean claros.",
+  "url": null
+}

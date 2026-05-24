@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "spinach-fettucine",
+  "name": "Espinacas Fettuccine",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "8 oz de fettuccine",
+    "1/2 libra de espinacas frescas",
+    "1 cucharada de ajo en polvo",
+    "1 taza de crema espesa",
+    "1/4 taza de queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. Añadir la pasta y las espinacas a agua hirviendo juntas y cocinar durante 10 minutos.\n2. Escurrir la pasta, removiendo el ajo en polvo.\n3. Incorporar la crema espesa y el queso parmesano rallado hasta que esté bien combinado.\n4. Mezclar bien y servir.",
+  "url": null
+}

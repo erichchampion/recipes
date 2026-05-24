@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-delites",
+  "name": "Delicias de jamón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1/4 lb de mantequilla ablandada",
+    "2 cucharaditas de mostaza",
+    "2 cucharadas de semillas de amapola",
+    "2 cucharaditas de salsa Worcestershire",
+    "1 cebolla mediana rallada",
+    "2 paquetes de rollos para fiestas",
+    "1 paquete de jamón cocido, cortado en porciones de 4 onzas",
+    "1 paquete de queso suizo, cortado en rebanadas de 4 onzas"
+  ],
+  "recipeInstructions": "1. Preparar el relleno mezclando la mantequilla ablandada con mostaza, semillas de amapola, salsa Worcestershire y cebolla rallada.\n2. Colocar los rollos para fiestas sobre una bandeja para hornear.\n3. Extender uniformemente la mezcla preparada sobre cada rollo.\n4. Añadir jamón y rebanadas de queso suizo a cada rollo.\n5. Hornear a 175 °C durante 15 a 20 minutos.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "custard-pie-2",
+  "name": "Custard Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "9 inch pie crust",
+    "4 eggs",
+    "1/2 cup sugar",
+    "1/4 teaspoon salt",
+    "3 cups milk",
+    "1 teaspoon vanilla"
+  ],
+  "recipeInstructions": "1. Preheat oven to 450°F (225°C). Brush the unbaked pie crust with egg white and set aside.\n2. Scald the milk, then add the sugar, salt, eggs, and vanilla. Mix well.\n3. Pour the mixture into the prepared pie crust.\n4. Bake for 10 minutes at 450°F (225°C).\n5. Reduce the temperature to 300°F (150°C) and bake for another 45-50 minutes.",
+  "url": null
+}

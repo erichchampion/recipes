@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-sausage-sweet",
+  "name": "Salsicha italiana dulce",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "carne",
+    "cerdo/jamón",
+    "salchichas"
+  ],
+  "recipeIngredient": [
+    "5 lb de carne de cerdo molida gruesa (cota)",
+    "5 dientes de ajo, prensados",
+    "3 cucharaditas de semillas de eneldo",
+    "3 cucharaditas de sal",
+    "3 cucharaditas de pimienta blanca",
+    "1 taza de vino blanco",
+    "1 1/2 cucharaditas de hojas de salvia"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta combinarlos bien.\n2. Rellenar la mezcla en embutidos de cerdo o formar hamburguesas.",
+  "url": null
+}

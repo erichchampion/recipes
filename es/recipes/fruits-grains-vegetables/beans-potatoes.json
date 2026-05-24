@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "beans-potatoes",
+  "name": "Frijoles con Patatas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frijoles"
+  ],
+  "recipeIngredient": [
+    "2 tazas de frijoles pintos secos",
+    "3 patatas grandes, peladas y cortadas en trozos",
+    "2 tallos de apio, picados",
+    "1 cebolla dulce grande, laminada",
+    "al gusto sal"
+  ],
+  "recipeInstructions": "1. Cocinar los frijoles pintos secos en olla de presión hasta que estén tiernos (aproximadamente 20 minutos).\n2. Añadir las patatas peladas y cortadas en trozos, así como el apio picado.\n3. Cocinar hasta que las patatas estén tiernas (alrededor de 4 minutos a altitud alta).\n4. Sazonar con sal al gusto.\n5. Saltear la cebolla laminada hasta que esté dorada, luego mezclarla con los frijoles y patatas.",
+  "url": null
+}

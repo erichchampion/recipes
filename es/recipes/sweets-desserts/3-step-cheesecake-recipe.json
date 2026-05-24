@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "3-step-cheesecake-recipe",
+  "name": "Receta de Tarta de Queso en 3 Pasos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pastel",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 paquetes de 250 g de queso crema (ablandado)",
+    "1/2 taza de azúcar",
+    "1/2 cucharadita de extracto de vainilla",
+    "2 huevos",
+    "1/2 taza de chips de chocolate semi-amargo pequeño",
+    "Base de galletas Graham"
+  ],
+  "recipeInstructions": "1. Batir el queso crema, el azúcar y el extracto de vainilla a velocidad media hasta que quede bien mezclado.\n2. Incorporar los 2 huevos y mezclar bien, luego añadir las chips de chocolate. Verter la mezcla en una base de galletas Graham preparada.\n3. Hornear a 180 °C durante 40 minutos, o hasta que el centro esté casi firme. Enfriar completamente. Para mejores resultados, refrigerar durante 3 horas.",
+  "url": null
+}

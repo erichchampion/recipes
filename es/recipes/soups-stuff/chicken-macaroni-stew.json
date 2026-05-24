@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-macaroni-stew",
+  "name": "Estofado de Pollo con Macarrones",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "plato principal",
+    "aves de corral",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "1/2 lata de tomates (latas de 400 g)",
+    "1 taza de mezcla de verduras congeladas",
+    "1/3 taza de macarrones de forma elipsoidal, crudos",
+    "1/4 taza de cebolla picada",
+    "1/4 cucharadita de orégano seco",
+    "1/4 cucharadita de sal",
+    "1/8 cucharadita de ajo en polvo",
+    "Una pizca de pimienta negra",
+    "1 hoja de laurel",
+    "1 taza de caldo de pollo",
+    "3/4 taza de pollo cocido, cortado en cubos"
+  ],
+  "recipeInstructions": "1. Cocinar los macarrones según las instrucciones del paquete hasta que estén tiernos.\n2. En una olla, triturar los tomates y mezclar todos los ingredientes excepto el pollo.\n3. Llevar la mezcla a ebullición. Reducir el fuego y cocinar a fuego lento sin tapar durante unos 15 minutos, removiendo ocasionalmente para evitar que se pegue.\n4. Agregar el pollo cocido y calentar hasta que esté caliente.\n5. Retirar la hoja de laurel antes de servir.",
+  "url": null
+}

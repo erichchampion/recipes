@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "mushroom-foo-yung",
+  "name": "Setas Foo Yung",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "asiático",
+    "pollo",
+    "chino",
+    "huevos",
+    "étnico"
+  ],
+  "recipeIngredient": [
+    "4 huevos, ligeramente batidos",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de jengibre molido",
+    "1/2 taza de pollo cocido, picado finamente",
+    "1 taza de setas, laminadas",
+    "1 taza de brotes de soja frescos",
+    "2 cebolletas finas, picadas",
+    "1 tallo de apio, picado finamente",
+    "Aceite de cocina",
+    "Salsa de soja"
+  ],
+  "recipeInstructions": "1. En un bol mediano, mezcle todos los ingredientes excepto el aceite y la salsa de soja.\n2. Calienta una pequeña cantidad de aceite de cocina en una sartén grande (o wok) a fuego medio.\n3. Vierta cucharadas generosas (aproximadamente 2 cucharadas o 25 ml) de la mezcla en la sartén.\n4. Cocine, dando la vuelta una vez, hasta que esté ligeramente dorado. Repita hasta terminar con toda la mezcla de huevo.\n5. Sirva con salsa de soja al lado.",
+  "url": null
+}

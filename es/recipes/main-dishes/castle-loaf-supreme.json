@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "castle-loaf-supreme",
+  "name": "Pan de castillo supremo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "pastel de carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "12 hamburguesas White Castle (con pepinillos y ketchup)",
+    "1 libra de carne de cerdo molida",
+    "2 dientes de ajo picados",
+    "8 ramitas de perejil picado",
+    "1/2 cucharadita de pimienta negra",
+    "1/3 taza de leche",
+    "Un pellizco de orégano",
+    "1/2 lata de salsa de tomate",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto la salsa de tomate en un bol grande.\n2. Enmantequillar un molde para panecillos.\n3. Dar forma a la mezcla y colocarla en el molde; alisar la carne con las manos untadas con aceite.\n4. Verter la salsa de tomate sobre el pastel de carne.\n5. Hornear a 175 °C durante una hora.",
+  "url": null
+}

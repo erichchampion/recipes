@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cardamom-coffee",
+  "name": "Café de cardamomo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "diabético",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de café caliente preparado",
+    "2 gotas de cardamomo molido",
+    "2 sobrecitas de Equal",
+    "2 cucharaditas de extracto de brandy"
+  ],
+  "recipeInstructions": "1. En cada una de dos tazas de café, añade una gota de cardamomo y un sobre de Equal.\n2. Llena las tazas con café.\n3. Mezcla una cucharadita de extracto de brandy en cada taza.",
+  "url": null
+}

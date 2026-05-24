@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-sausage-sweet-2",
+  "name": "Salchicha italiana dulce nº 2",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "carne",
+    "carnes",
+    "cerdo",
+    "salchichas"
+  ],
+  "recipeIngredient": [
+    "5 lb de carne de cerdo molida gruesa",
+    "2 cucharadas de sal",
+    "1 1/2 cucharaditas de semillas de eneldo",
+    "1 cucharadita de pimienta negra",
+    "2 cucharaditas de azúcar",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande hasta combinarlos bien.\n2. Rellenar la mezcla en embutidos de cerdo, dejando unos 3 pulgadas a cada extremo para atar.\n3. Atar las salchichas con hilo de cocina para formar eslabones.\n4. Cocinar friendo o horneando hasta que estén completamente cocidas.",
+  "url": null
+}

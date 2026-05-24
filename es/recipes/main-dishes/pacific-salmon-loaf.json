@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pacific-salmon-loaf",
+  "name": "Pastel de Salmón del Pacífico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "salmón",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1 lata (450 g) de salmón, escurrido y desmenuzado",
+    "1/2 taza de pan rallado seco",
+    "1/2 taza de mayonesa",
+    "1/2 taza de cebolla picada",
+    "1/4 taza de apio picado",
+    "1/4 taza de pimiento verde picado",
+    "1 huevo batido",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto la salsa de pepino en un bol y combinar suavemente.\n2. Dar forma a la mezcla en un molde para hornear poco profundo.\n3. Hornear a 180°C durante 40 minutos.\n4. Servir con salsa de pepino.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "eggs-florentine-2",
+  "name": "Huevos Florentino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "queso",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1/2 lb espinacas, cocidas",
+    "4 huevos",
+    "3 cucharadas mantequilla",
+    "2 cucharadas cebolla picada",
+    "1 receta salsa Mornay"
+  ],
+  "recipeInstructions": "1. Calentar la mantequilla en una sartén a fuego medio.\n2. Agregar la cebolla y cocinar hasta que esté tierna.\n3. Añadir las espinacas y mezclar bien con la cebolla.\n4. Transferir la mezcla a un plato para hornear.\n5. Romper los huevos en los huecos creados en la mezcla.\n6. Cubrir con salsa Mornay.\n7. Hornear a 175°C durante 10 minutos o hasta que los huevos estén cuajados.",
+  "url": null
+}

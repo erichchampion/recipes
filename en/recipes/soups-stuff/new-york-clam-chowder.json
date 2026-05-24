@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "new-york-clam-chowder",
+  "name": "New York Clam Chowder",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "seafood",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 Dozen large hard clams, chopped, and juice",
+    "1/4 lb Salt pork, chopped (or bacon)",
+    "1 Onion, chopped",
+    "1 cup Cubed potatoes",
+    "1 Carrot, sliced",
+    "16 oz Can tomatoes",
+    "1/2 tsp Salt (optional)",
+    "1/4 tsp Pepper",
+    "2 cups Hot water (clam juice makes it better)",
+    "1 t Thyme"
+  ],
+  "recipeInstructions": "1. Brown the pork in a pot.\n2. Add onion and cook until yellow.\n3. Add potatoes and carrots, canned whole tomatoes, salt, pepper, and water.\n4. Boil until potatoes and carrots are done.\n5. Add clams, thyme, and clam juice.\n6. Simmer for a few more minutes.\n7. Serve 6 portions.",
+  "url": null
+}

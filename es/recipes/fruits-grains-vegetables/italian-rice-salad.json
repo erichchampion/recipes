@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-rice-salad",
+  "name": "Ensalada de arroz italiano",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 paquete de arroz Uncle Ben's Original",
+    "2 1/2 tazas de aderezo para ensalada italiana",
+    "1 1/2 tazas de hojas de albahaca, trituradas",
+    "3 tazas de guisantes congelados, ligeramente cocidos",
+    "1 taza de cebolletas, cortadas en rodajas",
+    "1 taza de aceitunas maduras, cortadas en rodajas",
+    "1/2 taza de tiras de pimiento"
+  ],
+  "recipeInstructions": "1. Cocinar el arroz según las instrucciones del paquete.\n2. Transferir el arroz y el líquido restante a una sartén poco profunda. Dejar reposar hasta que se absorba todo el líquido.\n3. Mezclar el aderezo para ensalada con la albahaca.\n4. Incorporar la mezcla al arroz cocido.\n5. Cubrir y refrigerar.\n6. Doblar los guisantes, cebolletas, aceitunas y pimientos antes de servir.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-lemon-haddock",
+  "name": "Salmón al limón horneado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "fruta",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "2 libras de filetes de bacalao",
+    "1 taza de migas de pan con hierbas",
+    "4 cucharadas de mantequilla o margarina derretida",
+    "2 cucharadas de perejil seco en hojuelas",
+    "2 cucharaditas de ralladura de limón",
+    "1/2 cucharadita de ajo en polvo"
+  ],
+  "recipeInstructions": "1. Cortar el pescado en trozos para servir.\n2. Colocar los trozos en un molde para hornear engrasado de 30x20x2 cm.\n3. Mezclar los ingredientes restantes.\n4. Espolvorear la mezcla sobre el pescado.\n5. Hornear a 180°C durante 25 minutos o hasta que el pescado se desmenuce fácilmente con un tenedor.",
+  "url": null
+}

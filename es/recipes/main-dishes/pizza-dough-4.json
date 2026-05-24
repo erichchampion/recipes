@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-dough-4",
+  "name": "Masa para pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panificadora",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 sobre de levadura seca activa",
+    "3 tazas de harina de uso general",
+    "1 cucharada de azúcar",
+    "1 cucharadita de sal kosher",
+    "2 cucharadas de leche en polvo sin grasa",
+    "1 cucharada de mantequilla a temperatura ambiente",
+    "1 1/4 tazas de agua tibia"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en la panificadora en el orden indicado.\n2. Permite que la panificadora amase y deje levar ligeramente antes de retirar, aproximadamente entre 20 y 25 minutos.\n3. Retira la masa de la panificadora antes de que comience el ciclo de horneado.\nNota: Utilizo la DAK Autobakery en el ajuste de pan blanco para hacer esta masa. Una vez retirada, colócala sobre una tabla de amasar ligeramente enharinada y cúbrela con un paño limpio y húmedo para dejarla levar durante unos 30 minutos adicionales antes de estirarla en la bandeja para pizza.",
+  "url": null
+}

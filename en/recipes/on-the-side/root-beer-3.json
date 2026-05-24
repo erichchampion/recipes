@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "root-beer-3",
+  "name": "Root Beer",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "mixes",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "Granulated sugar (2 cups)",
+    "Dry yeast (1 teaspoon)",
+    "Hot water (1 quart)",
+    "Warm water (1/2 cup)",
+    "Root beer extract (4 teaspoons)"
+  ],
+  "recipeInstructions": "1. Dissolve the yeast in 1/2 cup warm water.\n2. In a separate container, dissolve the granulated sugar in 1 quart hot water.\n3. Combine the dissolved yeast and sugar solutions.\n4. Add the root beer extract to the mixture and stir until well combined.\n5. Pour the mixture into a gallon jar.\n6. Fill the jar with warm water, ensuring all ingredients are well mixed.\n7. Cover the jar and set it in a warm place for 4 hours.\n8. The root beer will be ready to drink the next day. Chill before serving.",
+  "url": null
+}

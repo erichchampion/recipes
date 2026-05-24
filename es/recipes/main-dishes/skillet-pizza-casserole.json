@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "skillet-pizza-casserole",
+  "name": "Casserola de pizza en sartén",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "pasta",
+    "sartén"
+  ],
+  "recipeIngredient": [
+    "4 oz sustituto de fideos de huevo sin yemas, crudos",
+    "3/4 lb pechuga de pollo deshuesada, sin piel",
+    "1/2 taza pimientos rojos, picados",
+    "1/2 taza cebolla, picada",
+    "25 rebanadas pepperoni de pavo bajo en grasa, picado",
+    "14 oz salsa de pizza",
+    "1 taza salsa de pizza casera",
+    "8 oz queso mozzarella sin grasa, rallado"
+  ],
+  "recipeInstructions": "1. Cocine el sustituto de fideos de huevo según las indicaciones del paquete.\n2. En una sartén, combine el pollo, los pimientos y la cebolla. Cocine hasta que el pollo ya no sea rosado y las verduras estén tiernas.\n3. Incorpore los fideos, el pepperoni y la salsa de pizza. Cocine hasta que todo esté caliente.\n4. Espolvoree con queso. Cubra y deje reposar hasta que el queso se haya derretido.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-quiche",
+  "name": "Quiche mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "tartas de cena",
+    "plato principal",
+    "mexicano",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "4 oz de chiles verdes picados",
+    "1 taza de queso suizo rallado",
+    "2 tazas de crema ligera",
+    "6 rebanadas de tocino cocido desmenuzado",
+    "1/4 cucharadita de sal",
+    "4 capas de tortillas de maíz"
+  ],
+  "recipeInstructions": "1. Coloca el queso suizo rallado en las capas preparadas.\n2. Mezcla el tocino cocido con los chiles verdes escurridos y coloca en las capas.\n3. Bate los huevos, la crema ligera y la sal hasta que estén bien combinados.\n4. Vierte la mezcla de huevo sobre la mezcla de tocino y chile en las capas.\n5. Espolvorea pimienta cayena uniformemente sobre cada quiche.\n6. Hornea a 175 °C durante 25 a 30 minutos.\n7. Retira del horno y deja enfriar durante 5 minutos antes de servir.\n8. Da para 4 porciones.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mocha-ice-cream",
+  "name": "Mocha Ice Cream",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "ice cream"
+  ],
+  "recipeIngredient": [
+    "4 eggs (separated)",
+    "150 g plain chocolate",
+    "60 ml strong coffee",
+    "300 ml double cream",
+    "100 g sugar",
+    "1 tbsp coffee liqueur"
+  ],
+  "recipeInstructions": "1. Melt chocolate using a bain-marie.\n2. Beat together the melted chocolate, coffee, and egg yolks.\n3. Whip the cream in a large bowl until stiff peaks form, then fold in the coffee liqueur.\n4. In another bowl, whisk egg whites until stiff peaks form, gradually adding sugar.\n5. Whisk the mocha mixture into the whipped cream, then gently fold into the egg white mixture.\n6. Freeze for at least 5 hours. The texture should hold firm without needing to beat during freezing, but check halfway through just in case.",
+  "url": null
+}

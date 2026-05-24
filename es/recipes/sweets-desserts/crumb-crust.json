@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "crumb-crust",
+  "name": "Crusta de migas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina",
+    "6 cucharadas de mantequilla o margarina",
+    "1 cucharadita de canela o nuez moscada",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Mezclar la harina, la mantequilla (o margarina), la canela o nuez moscada y la sal en un bol pequeño.\n2. Amasar hasta obtener una mezcla homogénea.",
+  "url": null
+}

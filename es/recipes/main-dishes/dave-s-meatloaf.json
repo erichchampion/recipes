@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "dave-s-meatloaf",
+  "name": "Relleno de carne de Dave",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne picada magra",
+    "1/4 libra de carne de salchicha",
+    "1/4 taza de cerveza oscura",
+    "1 huevo",
+    "2 rebanadas de pan, desmenuzadas suavemente",
+    "1 cebolla, picada",
+    "3 cucharadas de perejil picado",
+    "1/2 cucharadita de pimienta negra molida",
+    "unas gotas de salsa Worcestershire",
+    "unas gotas de salsa Tabasco"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes y darles forma suavemente en un molde redondo.\n2. Colocar el molde sobre un soporte en una olla de cocción lenta.\n3. Tapar y cocinar a fuego bajo durante unas 7-8 horas.\n4. Servir con salsa de tomate o salsa chili.\n5. Refrigerar las sobras y cortarlas en rebanadas para sándwiches al día siguiente.",
+  "url": null
+}

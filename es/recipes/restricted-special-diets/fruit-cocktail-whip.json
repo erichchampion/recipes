@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-cocktail-whip",
+  "name": "Batido de cóctel de frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "postres",
+    "diabético",
+    "frutas",
+    "dietas especiales"
+  ],
+  "recipeIngredient": [
+    "1 cucharadita de gelatina sin sabor",
+    "2 cucharadas de agua fría",
+    "1 taza de agua hirviendo",
+    "1 cucharada de zumo de limón",
+    "3 comprimidos de sacarina (1/4 de grano cada uno)",
+    "1/2 taza de cóctel de frutas, escurrido"
+  ],
+  "recipeInstructions": "1. Espolvorea la gelatina sobre el agua fría; deja reposar 5 minutos.\n2. Añade el agua hirviendo y remueve hasta que se disuelva la gelatina.\n3. Incorpora el zumo de limón y la sacarina.\n4. Refrigera hasta que la mezcla comience a cuajarse.\n5. Bate con un batidor giratorio hasta obtener una textura esponjosa.\n6. Mezcla cuidadosamente el cóctel de frutas.\n7. Refrigera hasta que esté firme.\nNota: Se pueden sustituir otras frutas dietéticas por el cóctel de frutas. El líquido escurrido de las frutas también se puede hervir y usar en lugar del agua hirviendo. Para una ensalada de frutas gelificada, omite el paso de batir si lo prefieres.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "potatoes-romanoff",
+  "name": "Patatas Romanoff",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "patatas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "4 patatas, cortadas en cuartos",
+    "2 cucharadas de mantequilla",
+    "1 taza de crema agria",
+    "4 cebollas verdes enteras, picadas",
+    "1 1/4 tazas de queso cheddar rallado",
+    "1 cucharadita de sal",
+    "1/8 cucharadita de pimienta negra",
+    "pimienta roja al gusto"
+  ],
+  "recipeInstructions": "1. Hervir las patatas hasta que estén tiernas.\n2. Machacarlas con mantequilla, crema agria, cebollas, 3/4 taza de queso, sal y pimienta.\n3. Transferir la mezcla a un molde para hornear engrasado de 1 1/2 litros.\n4. Espolvorear el resto del queso y la pimienta roja encima.\n5. Hornear destapado a 180 °C durante 40 minutos.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-beef-stew",
+  "name": "Quick Beef Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "main dish",
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "1 lb Cooked Beef",
+    "4 Med Carrots",
+    "3 Med Potatoes",
+    "1 Envelope Onion Soup Mix",
+    "3 Tbsp Unbleached Flour",
+    "2 1/4 c Water"
+  ],
+  "recipeInstructions": "1. Cut the cooked beef into bite-sized pieces (2 to 2 1/2 cups).\n2. Cut carrots into strips about 2 1/2 inches long.\n3. Peel and cut potatoes into pieces that are about 1 1/2 inches in size.",
+  "url": null
+}

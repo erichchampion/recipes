@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-sauce-cb-usa",
+  "name": "Salsa para pizza - CB USA",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "10 3/4 oz. de puré de tomate",
+    "6 oz. de pasta de tomate",
+    "3/4 cucharadita de cebolla deshidratada",
+    "1 cucharadita de mezcla de hierbas italianas",
+    "1 1/2 cucharaditas de orégano",
+    "1/2 cucharadita de romero molido",
+    "1/2 cucharadita de albahaca",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de polvo de ajo",
+    "1/4 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una cacerola.\n2. Añadir agua poco a poco hasta alcanzar la consistencia deseada.\n3. Calentar a fuego suave hasta que esté caliente.",
+  "url": null
+}

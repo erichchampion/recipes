@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "spanish-noodles",
+  "name": "Spanish Noodles",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "grains",
+    "main dish",
+    "pasta",
+    "rice"
+  ],
+  "recipeIngredient": [
+    "1/2 tsp olive oil",
+    "1/2 cup onions, chopped",
+    "1/2 cup bell peppers, chopped",
+    "1 lb ground chicken breast, skinless, cooked",
+    "28 oz crushed tomatoes",
+    "1/4 cup chili sauce",
+    "1 tsp salt",
+    "1/2 tsp black pepper",
+    "3 cups No Yolks® egg noodle substitute"
+  ],
+  "recipeInstructions": "1. In a skillet, heat oil over medium heat.\n2. Add onions, bell peppers, and chicken. Cook until chicken is no longer pink and vegetables are tender.\n3. Stir in crushed tomatoes, chili sauce, salt, black pepper, and egg noodle substitute.\n4. Cook, covered, over low heat for 30 minutes or until noodles are done.",
+  "url": null
+}

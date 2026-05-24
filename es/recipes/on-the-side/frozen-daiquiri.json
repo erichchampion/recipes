@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "frozen-daiquiri",
+  "name": "Daiquiri congelado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "aperitivos",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 oz de ron",
+    "1 1/2 oz de jugo de limón",
+    "1 cucharadita de azúcar en polvo",
+    "4 oz de hielo triturado"
+  ],
+  "recipeInstructions": "Llenar una licuadora con el hielo triturado. Agregar el ron, el jugo de limón y el azúcar. Mezclar hasta obtener una consistencia suave y verter en un vaso para cóctel. Decorar con una rodaja de limón.",
+  "url": null
+}

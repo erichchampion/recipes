@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbeque-beef-and-pork",
+  "name": "Carne de vacuno y cerdo a la barbacoa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de carne de guiso, cortada en cubos",
+    "1 1/2 libras de cerdo, cortado en cubos",
+    "2 tazas de cebolla picada",
+    "1/2 taza de azúcar moreno, compactado",
+    "3 cucharaditas de comino chili",
+    "2 cucharaditas de sal",
+    "1 cucharadita de mostaza en polvo",
+    "1/4 taza de vinagre",
+    "2 cucharaditas de salsa Worcestershire",
+    "16 bollos para sándwiches"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes (excepto los bollos) en una olla de cocción lenta.\n2. Cocina a fuego bajo durante 8-10 horas o hasta que la carne esté tierna.\n3. Revuelve con un tenedor para desmenuzar los trozos.\n4. Sirve sobre los bollos.\nPuedes usar todo cerdo o toda ternera. El cerdo se cocina más rápido que la ternera, así que comienza con la ternera primero y luego añade el cerdo.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "irish-bread-5",
+  "name": "Irish Bread",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "ireland"
+  ],
+  "recipeIngredient": [
+    "1/4 lb Butter",
+    "2 Eggs",
+    "2 1/2 tbsp Baking powder",
+    "1 cup Sugar",
+    "1/4 tsp Salt",
+    "2 cups Flour",
+    "1 cup Raisins"
+  ],
+  "recipeInstructions": "1. Cream butter and sugar.\n2. Mix flour, salt, baking powder, and add to butter mixture alternately with milk. Add raisins.\n3. Pour into 8-inch x 8-inch pan.\n4. Bake at 350 degrees for one hour.",
+  "url": null
+}

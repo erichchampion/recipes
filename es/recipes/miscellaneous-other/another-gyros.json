@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "another-gyros",
+  "name": "Otro Gyros",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "etnica",
+    "griega",
+    "cordero"
+  ],
+  "recipeIngredient": [
+    "2 lb de cordero picante (limpio)",
+    "2 rebanadas de pan casero, tostado y desmenuzado",
+    "1 cucharadita de canela molida",
+    "1 cucharadita de semillas de cilantro molidas",
+    "1 diente de ajo, prensado",
+    "1 cebolla, rallada",
+    "1 cucharadita de hierbabuena fresca picada",
+    "Sal al gusto",
+    "Pimienta negra recién molida al gusto",
+    "Rebanadas de tocino (opcional)"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar todos los ingredientes.\n2. Amasar bien hasta que la mezcla esté firme.\n3. Formar dedos de carne, de unos 5 pulgadas de largo y no más de 2 cm de diámetro.\n4. Colocar los dedos en brochetas, dejando espacio de aproximadamente 1 cm entre ellos.\n5. Cocinar sobre brasas calientes durante 10 a 15 minutos, dando la vuelta con frecuencia hasta que estén cocidos por completo.\n6. Opcionalmente, envolver los \"dedos\" en rebanadas de tocino antes de cocinar.",
+  "url": null
+}

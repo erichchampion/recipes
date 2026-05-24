@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-pizza-2",
+  "name": "White Pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italian",
+    "main dish",
+    "pies",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "Pizza shell, 12 inches",
+    "2 tablespoons Olive oil",
+    "4 teaspoons Garlic; chopped fine",
+    "2 tablespoons Basil, fresh; OR",
+    "2 teaspoons Basil, dried",
+    "2 medium Tomatoes; thinly sliced",
+    "1/4 pound Mozzarella; grated, or to taste",
+    "1/4 pound Provolone; grated, or to taste",
+    "1/4 cup Romano; grated",
+    "2 teaspoons Oregano, dried; OR",
+    "1 tablespoon Oregano, fresh"
+  ],
+  "recipeInstructions": "1. Roll the crust out to a 12-inch circle.\n2. Brush the crust with olive oil and sprinkle with garlic and basil.\n3. Arrange tomato slices over the crust and top with grated mozzarella, provolone, and Romano cheeses.\n4. Bake in a hot preheated oven (425 to 450 degrees) for 12 to 15 minutes or until the cheese has melted and the crust is lightly browned.\n5. Sprinkle with oregano. For best results, bake on parchment paper directly on pizza stone or oven tiles.\n6. Best made with Neopolitan pizza crust (flour, yeast, water, salt, and molasses); crust thin and crispy, yet soft enough to be folded over and eaten with fingers.",
+  "url": null
+}

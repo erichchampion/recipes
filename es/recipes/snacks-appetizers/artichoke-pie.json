@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "artichoke-pie",
+  "name": "Tarta de alcachofas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "huevos",
+    "italiano",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 paquete de corazones de alcachofa congelados",
+    "4 huevos",
+    "1/2 taza de pepperoni picado",
+    "1 taza de mozzarella rallada",
+    "1/2 taza de queso rallado",
+    "1 masa de tarta de 23 cm"
+  ],
+  "recipeInstructions": "1. Cocinar las alcachofas, escurrir y cortar.\n2. Batir los huevos y añadir todos los ingredientes.\n3. Mezclar bien y verter en la masa de tarta.\n4. Hornear a 190 °C durante 45-60 minutos.\n5. Se puede congelar después de hornear.\n6. Servir como parte de un antipasto o como primer plato.",
+  "url": null
+}

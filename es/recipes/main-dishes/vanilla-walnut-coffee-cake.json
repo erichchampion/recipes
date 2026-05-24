@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "vanilla-walnut-coffee-cake",
+  "name": "Pastel de café con nueces y vainilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "máquina de pan",
+    "desayuno",
+    "pastel",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2/3 taza de leche",
+    "2 cucharadas de mantequilla",
+    "3 cucharadas de miel",
+    "1 1/2 cucharaditas de levadura",
+    "2 tazas de harina de pan (ajustar según las necesidades de tu máquina)",
+    "3/4 cucharadita de sal",
+    "1 cucharadita de extracto de vainilla",
+    "2 huevos enteros (separar las yemas si es necesario)",
+    "2 cucharadas de azúcar moreno",
+    "1/2 taza de nueces picadas"
+  ],
+  "recipeInstructions": "1. Ajusta la cantidad de harina de pan para tu máquina de amasar, entre 1 1/2 y 2 tazas.\n2. Calienta la leche y mezcla con la miel y la mantequilla hasta que se integren. Deja enfriar a temperatura ambiente.\n3. Agrega la mezcla de leche fría y todos los ingredientes restantes (excepto el azúcar moreno y las nueces) a la máquina, siguiendo el orden indicado por las instrucciones de tu máquina.\n4. En la señal sonora o al final del primer ciclo de amasado, incorpora el azúcar moreno y las nueces picadas.\n5. Sirve caliente o a temperatura ambiente.",
+  "url": null
+}

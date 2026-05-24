@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pork-and-cabbage-soup",
+  "name": "Sopa de cerdo y col",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de grasas de cerdo desgrasadas (de un hombro asado)",
+    "1 taza de cerdo cocido, cortado en cubos (de un hombro asado)",
+    "2 tazas de col, rallada groseramente",
+    "1 1/2 tazas de agua hirviendo",
+    "1/3 taza de apio, en rodajas",
+    "1/4 taza de pimiento verde, picado",
+    "1/4 cucharadita de sal",
+    "Pimienta negra al gusto",
+    "1 hoja de laurel"
+  ],
+  "recipeInstructions": "1. Calentar las grasas de cerdo en una sartén a fuego medio hasta que estén calientes.\n2. Añadir el cerdo cortado y dorarlo ligeramente, removiendo ocasionalmente.\n3. Incorporar la col rallada y cocinar durante unos 2 minutos hasta que se ablande un poco.\n4. Mezclar el agua hirviendo y los ingredientes restantes (apio, pimiento verde, sal, pimienta).\n5. Llevar de nuevo a ebullición, reducir el fuego para mantener un hervor suave, tapar y dejar cocinar durante 25 minutos.\n6. Retirar la hoja de laurel antes de servir.",
+  "url": null
+}

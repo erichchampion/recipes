@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pierogi-casserole",
+  "name": "Pierogi Casserole",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish",
+    "polish"
+  ],
+  "recipeIngredient": [
+    "Potatoes, mashed",
+    "White American cheese, 1/4 lb",
+    "Lasagna noodles, 1/2 box",
+    "Butter (for greasing pan)",
+    "Milk (a little)",
+    "Onions, 2 large (fried)"
+  ],
+  "recipeInstructions": "1. Cook and mash 4 potatoes.\n2. Add the white American cheese to the mashed potatoes.\n3. Cook and drain the lasagna noodles.\n4. Grease an oblong baking dish with butter and add a little milk to prevent sticking.\n5. Fry the onions in butter until desired crispiness is achieved.\n6. Layer the cooked noodles, mashed potato mixture, and fried onions in the prepared pan.\n7. Bake at 350°F for 35 minutes.",
+  "url": null
+}

@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "coffee-milkshake",
+  "name": "Coffee Milkshake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "ice cream"
+  ],
+  "recipeIngredient": [
+    "3 cups coffee ice cream",
+    "1 cup milk",
+    "1/2 teaspoon vanilla extract"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a container of an electric blender.\n2. Blend the mixture until it is smooth.\n3. Serve immediately.\nNOTE: 3 cups vanilla ice cream and 1 tablespoon instant coffee granules may be substituted for coffee ice cream, if desired.",
+  "url": null
+}

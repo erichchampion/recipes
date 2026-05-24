@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "no-cook-tomato-sauce",
+  "name": "Salsa de tomate sin cocinar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "4 tomates grandes, picados",
+    "2 tazas de albahaca fresca picada",
+    "1/2 taza de queso mozzarella bajo en grasa rallado",
+    "2 cucharadas de aceite de oliva",
+    "2 cucharadas de queso parmesano rallado",
+    "3/4 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra",
+    "1 libra de espagueti"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar los tomates picados, la albahaca, el queso mozzarella, el aceite de oliva, el parmesano, la sal y la pimienta.\n2. Mientras tanto, cocinar la pasta en agua hirviendo con sal según las instrucciones del paquete.\n3. Escurrir la pasta, reservando aproximadamente 1/2 taza del líquido de cocción.\n4. Agregar la pasta escurrida y el líquido reservado a la mezcla de tomate; mezclar bien para cubrir.\n5. Servir inmediatamente.",
+  "url": null
+}

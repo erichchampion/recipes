@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-sausage-3",
+  "name": "Italian Sausage",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "sausages"
+  ],
+  "recipeIngredient": [
+    "2 Lbs coarsely ground pork shoulder",
+    "2 Tsp salt",
+    "1 Tsp pepper",
+    "2 Tbsp fennel seed",
+    "1/2 Can water",
+    "1 Tsp ground hot pepper seeds (1 to 2)"
+  ],
+  "recipeInstructions": "1. Soak the fennel seed in water for at least 10 minutes.\n2. Mix the soaked fennel and water with the pork.\n3. Add the spices and stuff the mixture into casings.\n4. Tie off the sausages at four-inch intervals.",
+  "url": null
+}

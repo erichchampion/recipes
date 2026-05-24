@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-chicken-marinade",
+  "name": "Marinada de Pollo Básica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pollo",
+    "ajo",
+    "marinado",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de zumo de naranja",
+    "1/2 taza de zumo de limón",
+    "1 cucharadita de mostaza dijon",
+    "1 cucharadita de salsa Worcestershire",
+    "1/4 taza de aceite de girasol",
+    "3 dientes de ajo, prensados",
+    "1/4 taza de perejil fresco, picado",
+    "1 cucharadita de orégano seco",
+    "Sal kosher al gusto",
+    "Pimienta negra recién molida"
+  ],
+  "recipeInstructions": "1. En un bol mezclador no reactivo, combina el zumo de naranja, zumo de limón, mostaza dijon y salsa Worcestershire.\n2. Añade el aceite de girasol poco a poco mientras bates hasta que esté bien integrado.\n3. Incorpora el ajo, perejil picado, orégano seco, sal y pimienta negra recién molida a la mezcla.\n4. El adobo rendirá aproximadamente 1-1/2 tazas.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "red-pepper-sour-cream-sauce",
+  "name": "Salsa de pimiento rojo y crema agria",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "mexicano",
+    "salsas",
+    "guarniciones",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 pimientos rojos",
+    "1 pimiento jalapeño rojo",
+    "1/2 taza crema agria",
+    "1 cucharadita azúcar"
+  ],
+  "recipeInstructions": "1. Asar los pimientos hasta que presenten ampollas y estén ligeramente carbonizados, luego pelarlos.\n2. Triturar los pimientos asados en un procesador de alimentos o licuadora hasta obtener una textura suave.\n3. Incorporar la crema agria y el azúcar.",
+  "url": null
+}

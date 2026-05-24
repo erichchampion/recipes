@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-pizza-2",
+  "name": "Fruit Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "appetizers",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "Orange juice (1 cup)",
+    "Water (3/4 cup)",
+    "Lemon juice (1/4 cup)",
+    "Cornstarch (3 Tbsp)",
+    "Salt (dash)",
+    "Sugar (1 cup)",
+    "Cream cheese (8 oz)",
+    "Vanilla (1 Tbsp)",
+    "Sugar (1/2 cup)",
+    "Sugar cookie dough (package)",
+    "Peaches",
+    "Grapes",
+    "Bananas",
+    "Strawberries",
+    "Kiwi"
+  ],
+  "recipeInstructions": "1. Mix glaze ingredients in a saucepan and cook over medium heat until it boils and thickens. Allow to cool.\n2. Spread the cooled cookie dough onto a buttered pizza pan. Bake at 350 degrees for 10 minutes, then let cool.\n3. Mix sauce ingredients and spread over the cooled dough.\n4. Arrange fruit on top of the sauce.\n5. Pour glaze over the fruit.\n6. Refrigerate until ready to serve.",
+  "url": null
+}

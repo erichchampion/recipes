@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "coffee-brickle-ice-cream",
+  "name": "Helado de Café Crujiente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helado",
+    "nueces"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de café instantáneo",
+    "2 cucharaditas de agua caliente",
+    "1 lata de leche condensada dulce",
+    "4 tazas de media crema",
+    "3/4 taza de almendras tostadas, picadas",
+    "1/3 taza de chips de brickle",
+    "2 cucharaditas de vainilla",
+    "1 cucharadita de extracto de almendra"
+  ],
+  "recipeInstructions": "1. En un bol pequeño, disuelve el café instantáneo en agua caliente.\n2. En un recipiente para helado, combina todos los ingredientes; mezcla bien.\n3. Congela según las indicaciones del fabricante. Rinde 2 cuartos.",
+  "url": null
+}

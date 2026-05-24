@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "bread-recipe-conversion",
+  "name": "Receta de conversión de pan",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "sugerencias",
+    "liquidez",
+    "varios"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina de uso común",
+    "1 1/8 tazas de agua",
+    "1 cucharadita de azúcar",
+    "1 sobre de levadura seca activa",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Reducir la receta para obtener un solo pan.\n- Si la receta original requiere 6 tazas de harina, dará para 3 panes. Reducir a 2 tazas de harina para uno.\n2. Establecer parámetros de la máquina.\n- Consultar la receta básica de pan blanco de la máquina para conocer su capacidad y potencia del motor.\n- Identificar el rango de relación líquido/harina ajustándose al número de tazas de harina con las onzas de líquido en la receta.\n- Determinar la masa considerando si la receta requiere 2 a 2 1/2 tazas de harina (máquina de 1 libra) o 3 a 4 tazas (máquina de 1 1/2 libras).\n3. Calcular la relación líquido/harina.\n- Utilizar el gráfico proporcionado para calcular la proporción dividiendo los ingredientes secos con los líquidos.\n- Una relación más alta indica una masa más firme, mientras que una más baja significa una masa más líquida.\n4. Calcular la liquidez de la masa:\n- Listar los ingredientes y sus cantidades en fracciones decimales.\n- Sumar cada columna (seca y húmeda) y multiplicar por el multiplicador (3).\n- Dividir el total seco final entre el total húmedo para obtener la relación.\n5. Ajustar si es necesario:\n- Si la relación está dentro del rango de la máquina, proceder con la preparación.\n- Si está por debajo, reducir ligeramente el líquido o aumentar los ingredientes secos y recalcular.\n- Si está por encima, añadir líquido o disminuir los ingredientes secos y volver a calcular.\n6. Mezclar todos los ingredientes en la máquina de pan según las instrucciones de su fabricante.\n7. Hornear a la temperatura y tiempo recomendados para obtener un pan perfecto.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-pie-variation",
+  "name": "Apple Pie - Variation",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "fruits",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "2 Pie crust",
+    "1 teaspoon Cinnamon",
+    "3/4 cup Sugar",
+    "6 Apples; peeled, sliced",
+    "1/2 cup Brown sugar",
+    "1/4 cup Honey",
+    "1/2 cup Raisins",
+    "1/2 cup Pecans; chopped"
+  ],
+  "recipeInstructions": "1. Mix cinnamon and sugar.\n2. Combine the cinnamon-sugar mixture with sliced apples.\n3. Mix apples with a combination of brown sugar, honey, and raisins.\n4. Place in pastry-lined pie pan.\n5. Dot with butter.\n6. Cover with slitted top crust.\n7. Bake at 425°F for about 50 minutes.",
+  "url": null
+}

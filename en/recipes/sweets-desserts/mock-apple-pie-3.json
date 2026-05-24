@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-apple-pie-3",
+  "name": "Mock Apple Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pie",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "4 cups zucchini, peeled and sliced",
+    "3/4 cup sugar",
+    "2 tablespoons tapioca",
+    "2 tablespoons cornstarch",
+    "5 tablespoons lemon juice",
+    "1/2 teaspoon salt",
+    "2 teaspoons cinnamon",
+    "1 teaspoon nutmeg",
+    "Crumb Topping",
+    "1/2 cup margarine",
+    "1/2 cup sugar",
+    "1/2 cup flour"
+  ],
+  "recipeInstructions": "1. In a large bowl, mix together zucchini, sugar, tapioca, cornstarch, lemon juice, salt, cinnamon, and nutmeg.\n2. Spoon the mixture into an unbaked pie shell.\n3. In another bowl, combine margarine, sugar, and flour for the crumb topping.\n4. Mix in the crumb topping and sprinkle it evenly over the filling.\n5. Place the pie in a large paper bag, fold the sides to cover the pie, and staple the top closed.\n6. Bake at 375 degrees Fahrenheit for 1 hour.",
+  "url": null
+}

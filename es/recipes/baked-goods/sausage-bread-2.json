@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "sausage-bread-2",
+  "name": "Pan de salchicha",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "italiano"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de salchicha (sin piel)",
+    "8 oz de mozzarella rallada",
+    "1/2 taza de parmesano rallado",
+    "1 lb de masa de pizza o pan",
+    "2 huevos",
+    "1/4 cucharadita de orégano seco",
+    "2 cucharadas de perejil picado",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar la salchicha en una sartén y escurrir el exceso de grasa.\n2. En un bol grande, mezclar la salchicha cocida, la mozzarella, el parmesano, 1 huevo entero y 1 clara de huevo.\n3. Agregar perejil, orégano, sal y pimienta a la mezcla. Mezclar bien.\n4. Estirar la masa en forma circular, similar a una pizza mediana.\n5. Extender la mezcla de salchicha sobre la masa, dejando un borde de aproximadamente 1 pulgada.\n6. Enrollar la masa como un rolo de canela y colocarlo sobre una bandeja para hornear.\n7. Pintar ligeramente la parte superior con el huevo batido.\n8. Hornear a 350 grados Fahrenheit durante 45 minutos o hasta que esté dorado.",
+  "url": null
+}

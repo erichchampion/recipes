@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "mocha-java",
+  "name": "Mocha Java",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "2 onzas (2 cuadritos) de chocolate amargo semidulce",
+    "4 cucharaditas de azúcar granulada",
+    "1/4 taza de crema espesa",
+    "4 tazas de café recién preparado caliente",
+    "Crema batida, para decorar",
+    "Chocolate rallado, para decorar"
+  ],
+  "recipeInstructions": "1. Derretir el chocolate en una sartén pesada a fuego bajo, removiendo constantemente.\n2. Incorporar el azúcar y la crema espesa. Mezclar hasta obtener una textura suave.\n3. Agregar gradualmente el café caliente y batir bien.\n4. Repartir la mezcla entre 4 tazas de café.\n5. Cubrir cada taza con crema batida y chocolate rallado.\n6. Servir inmediatamente.\nRinde: 4 porciones",
+  "url": null
+}

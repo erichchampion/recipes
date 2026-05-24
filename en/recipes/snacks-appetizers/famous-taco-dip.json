@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "famous-taco-dip",
+  "name": "Famous Taco Dip",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "dips",
+    "holiday",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1 can bean dip",
+    "1 can avocado dip, frozen",
+    "1 package taco seasoning mix",
+    "4 tablespoons sour cream",
+    "6 tablespoons mayonnaise",
+    "1 cup shredded cheddar cheese",
+    "1 cup shredded Monterey Jack cheese",
+    "6 green onions, chopped",
+    "1 tomato, chopped",
+    "1 can black olives, chopped"
+  ],
+  "recipeInstructions": "1. Mix together the taco seasoning mix, sour cream, and mayonnaise.\n2. Layer the remaining ingredients on top of the mixture.",
+  "url": null
+}

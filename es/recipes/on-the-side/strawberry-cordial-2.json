@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-cordial-2",
+  "name": "Licor de fresa 2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cuarto",
+    "licores",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "10 onzas de fresas congeladas",
+    "6 onzas de vodka de 100 grados",
+    "2 onzas de jarabe de azúcar"
+  ],
+  "recipeInstructions": "1. Descongelar las fresas, aplastándolas suavemente para extraer el jugo. Utilizar un colador de malla fina para presionar las bayas y obtener aproximadamente 6 onzas de jugo.\n2. Mezclar el vodka con el jugo de fresa en otro colador, presionando para separar el líquido de los sólidos.\n3. Pasar la mezcla a través de un paño de queso para asegurar su claridad.\n4. Añadir el jarabe de azúcar y filtrar nuevamente con un paño de queso para obtener un producto final liso.",
+  "url": null
+}

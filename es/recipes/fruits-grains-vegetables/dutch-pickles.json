@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "dutch-pickles",
+  "name": "Encurtidos holandeses",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "encurtidos"
+  ],
+  "recipeIngredient": [
+    "1 litro de tomates verdes picados",
+    "1 coliflor grande, picada",
+    "1 taza de sal",
+    "1 cucharadita de cúrcuma",
+    "2 cuartos de vinagre",
+    "1 litro de cebollas picadas",
+    "1 pequeña col, picada",
+    "1 cucharadita de mostaza",
+    "1 taza de harina",
+    "3 tazas de azúcar"
+  ],
+  "recipeInstructions": "1. Mezclar en un bol grande los tomates verdes picados, la coliflor, la sal, las cebollas, la col y la mostaza.\n2. Cubrir con agua caliente y dejar reposar durante 30 minutos.\n3. Escurrir los vegetales y mezclar en otro bol la cúrcuma, la harina, el azúcar y el vinagre hasta obtener una mezcla homogénea.\n4. Incorporar los vegetales escurridos a la mezcla del paso 3.\n5. Cocinar a fuego lento, removiendo constantemente, durante 15-20 minutos hasta que espese y adquiera una textura suave.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "steak-n-gravy",
+  "name": "Steak y Salsa Gravy",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 lb de solomillo, cortado en trozos",
+    "1 cucharada de aceite de cocina",
+    "1 1/2 tazas de agua",
+    "1 lata de salsa de tomate (8 oz)",
+    "1 cucharadita de comino molido",
+    "1 cucharadita de polvo de ajo",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "2 cucharadas de harina de uso múltiple",
+    "1/4 taza de agua fría",
+    "arroz cocido o puré de patatas"
+  ],
+  "recipeInstructions": "1. Corta la carne en trozos pequeños.\n2. Dorar la carne en el aceite en una sartén.\n3. Transfiere la carne a una olla de cocción lenta.\n4. Cubre con agua y añade la salsa de tomate y las especias.\n5. Cocina a fuego lento durante 8 horas, o a fuego alto durante 4 horas, o hasta que la carne esté tierna.\n6. En un bol pequeño, mezcla la harina con el agua fría para hacer una pasta.\n7. Añade la pasta al líquido en la olla de cocción lenta.\n8. Tapa y cocina a fuego alto durante 30 minutos adicionales, o hasta que la salsa espese.\n9. Sirve sobre arroz o puré de patatas.",
+  "url": null
+}

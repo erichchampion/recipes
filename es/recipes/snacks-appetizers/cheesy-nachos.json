@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheesy-nachos",
+  "name": "Nachos con queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 bolsa (300g) de chips de tortilla planos y salados",
+    "1 lata (380g) de sopa de queso para nachos condensada",
+    "3/4 taza de salsa picante caliente y espesa en botella",
+    "3 cebolletas finas cortadas",
+    "1/3 taza de aceitunas negras cortadas"
+  ],
+  "recipeInstructions": "1. Extender los chips de tortilla sobre una bandeja grande.\n2. En un cazo mediano, mezclar la sopa, la salsa y 3 cucharadas de agua. Calentar a fuego bajo hasta que hierva, removiendo ocasionalmente. Reducir el fuego y dejar hervir durante 1 minuto.\n3. Verter la mezcla sobre los chips. Espolvorear con las cebolletas y las aceitunas.",
+  "url": null
+}

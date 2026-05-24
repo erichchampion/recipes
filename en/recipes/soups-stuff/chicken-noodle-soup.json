@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-noodle-soup",
+  "name": "Chicken Noodle Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 cup celery, chopped",
+    "1 cup onion, chopped",
+    "1/4 cup margarine",
+    "12 cups water",
+    "1 cup carrot, diced",
+    "3 tbsp chicken bouillon",
+    "1/2 tsp marjoram leaves",
+    "1/4 tsp pepper",
+    "1 bay leaf",
+    "6 oz egg noodles (medium)",
+    "4 tbsp parsley, chopped"
+  ],
+  "recipeInstructions": "1. In a large Dutch oven, cook celery and onion in butter until tender.\n2. Add the remaining ingredients except noodles and parsley. Bring to boil.\n3. Reduce heat and simmer covered for 30 minutes.\n4. Remove bay leaf; add noodles and parsley.\n5. Cook an additional 10 minutes or until noodles are tender, stirring occasionally.",
+  "url": null
+}

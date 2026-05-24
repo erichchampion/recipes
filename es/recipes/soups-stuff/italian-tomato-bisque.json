@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-tomato-bisque",
+  "name": "Sopa de tomate italiana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 libras de tomates Roma",
+    "1 cebolla mediana, cortada en rodajas finas",
+    "1 cucharada de mantequilla",
+    "1 cucharada de azúcar moreno",
+    "2 clavos enteros",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra",
+    "2 cucharadas de albahaca fresca picada",
+    "1/2 taza de crema de leche",
+    "1 taza de leche",
+    "2 cucharadas de cebolla verde picada",
+    "1/2 taza de vino tinto seco (opcional)"
+  ],
+  "recipeInstructions": "1. Blanquea los tomates hasta que la piel se suelte, luego retira la piel, las semillas y córtalos groseramente.\n2. Saltea la cebolla en mantequilla durante unos minutos.\n3. Añade todos los ingredientes excepto la crema de leche y la leche a la sartén. Hierve a fuego lento durante unos 25 minutos, retirando los clavos antes de colar.\n4. Transfiere la mezcla a una licuadora o procesador de alimentos y puréala.\n5. Mezcla la crema de leche y la leche.\n6. Si preparas con antelación, refrigera hasta el momento de servir.\n7. Calienta en una cacerola y espolvorea con cebolla verde antes de servir.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-cream",
+  "name": "Chocolate Cream",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "chocolate",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "7 gelatin leaves, soaked in cold water",
+    "6 ounces white chocolate",
+    "10 ounces heavy cream",
+    "4 egg whites",
+    "4 ounces sugar",
+    "2 tablespoons kirsch"
+  ],
+  "recipeInstructions": "1. Dissolve the gelatin in a pan using a bain marie.\n2. Place the white chocolate in the top half of a double boiler and melt it.\n3. Remove from heat and add the dissolved gelatin. Let cool.\n4. Whip the cream to soft peaks.\n5. Beat the egg whites, gradually adding sugar, until stiff peaks form.\n6. Fold the meringue into the whipped cream, then fold in the chocolate.\n7. Reserve at room temperature.",
+  "url": null
+}

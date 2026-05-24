@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-cheesecake",
+  "name": "Tarta de queso italiana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pastel",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "8 onzas de mascarpone (o queso crema)",
+    "1 1/2 libras de ricota de leche desnatada",
+    "3 yemas de huevo, ligeramente batidas",
+    "1/2 taza de azúcar",
+    "2 cucharadas de coñac o brandy",
+    "2 cucharadas de vainilla",
+    "2 bases de masa para tartas de 9 pulgadas preparadas"
+  ],
+  "recipeInstructions": "1. Batir juntos los quesos.\n2. Añadir las yemas de huevo, el azúcar, el coñac y la vainilla a la mezcla de queso batido.\n3. Verter la masa en las bases de tarta preparadas.\n4. Hornear a 180°C durante 30 minutos o hasta que un palillo insertado en el centro salga limpio.\n5. Rinde para 2 tartas.\nNota: Se pueden sustituir el coñac por amaretto, frangelico u otros licores. Para una tarta de queso sin alcohol, usar solo vainilla. Se pueden añadir nueces picadas o bien otras nueces.",
+  "url": null
+}

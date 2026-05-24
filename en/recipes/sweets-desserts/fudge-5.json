@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fudge-5",
+  "name": "Fudge",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "candy",
+    "chocolate",
+    "desserts",
+    "fudge"
+  ],
+  "recipeIngredient": [
+    "18 oz chocolate chips",
+    "14 oz condensed milk",
+    "1 1/2 tsp vanilla extract",
+    "1 dash salt"
+  ],
+  "recipeInstructions": "1. Melt the chocolate, condensed milk, and salt together in a heavy saucepan over low heat.\n2. Remove from heat and stir in the vanilla extract.\n3. Pour the mixture into a wax-paper lined pan (an 11x7 inch pan works well).\n4. Refrigerate until firm.",
+  "url": null
+}

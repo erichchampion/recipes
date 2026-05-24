@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-mint-bread",
+  "name": "Chocolate Mint Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 package Yeast",
+    "2 1/2 cups Better for Bread flour",
+    "1/2 cup Wheat flour",
+    "1 tbsp Gluten",
+    "1/4 cup Instant nonfat dry milk",
+    "3 tbsp Sugar",
+    "1 1/2 tsp Salt",
+    "1 tbsp Vegetable oil",
+    "2 tbsp White Creme de Menthe",
+    "1 cup Very warm water (plus 1 tb.)",
+    "1 cup Mint-chocolate morsels"
+  ],
+  "recipeInstructions": "1. Add all ingredients, except the chocolate morsels, into a pan in the order listed.\n2. Select white bread and press \"Start.\"\n3. At the beep, after 88 minutes into the cycle (33 minutes with Dak Turbo II), add the chocolate morsels.",
+  "url": null
+}

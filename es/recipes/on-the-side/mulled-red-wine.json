@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "mulled-red-wine",
+  "name": "Vino tinto especiado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 cucharadita de azúcar superfina",
+    "1/4 taza de agua",
+    "5 onzas de vino tinto",
+    "1 1/2 cucharadas de jugo de limón",
+    "Una pizca de amargo de naranja",
+    "Un pellizco de canela molida"
+  ],
+  "recipeInstructions": "1. Mezclar el azúcar y el agua en una pequeña olla.\n2. Calentar a fuego lento hasta que el azúcar se disuelva.\n3. Retirar del fuego.\n4. Añadir el vino tinto, el jugo de limón, los amargos y la canela; remover.\n5. Verter en una taza de 200 ml precalentada.\n6. Servir caliente con un palillo rojo incandescente.",
+  "url": null
+}

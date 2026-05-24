@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "irish-cream-2",
+  "name": "Crema irlandesa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "aperitivo",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 huevos",
+    "1 lata de leche Eagle Brand",
+    "1 pequeña cantidad de crema espesa (o nata para montar)",
+    "1 taza de ron de centeno (o ron o whisky)",
+    "1 cucharadita de café instantáneo",
+    "1 cucharadita de polvo de chocolate instantáneo para leche"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una licuadora hasta que queden bien combinados.\n2. Transferir la mezcla a un recipiente hermético y refrigerar hasta el momento de servir.\nSe puede utilizar inmediatamente después de mezclar.",
+  "url": null
+}

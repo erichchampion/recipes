@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "braised-bear",
+  "name": "Braised Bear",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "game",
+    "main dish",
+    "meat",
+    "meats"
+  ],
+  "recipeIngredient": [
+    "1/2 teaspoon garlic salt",
+    "1/2 teaspoon onion salt",
+    "dash pepper",
+    "1/2 teaspoon chili powder",
+    "4 onions, sliced",
+    "2 cans tomato soup"
+  ],
+  "recipeInstructions": "1. Marinate bear steak overnight.\n2. Dry and sear on both sides in hot cooking oil or bacon grease.\n3. Add garlic salt, onion salt, pepper, and chili powder.\n4. Cover and simmer for 2 to 3 hours, until tender.\n5. Add onions and soup.\n6. Simmer for an additional 15 to 20 minutes.\n7. If desired, add flour to thicken the juice for gravy.",
+  "url": null
+}

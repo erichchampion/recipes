@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "blueberry-breakfast-shake",
+  "name": "Blueberry Breakfast Shake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "fruits",
+    "main dish",
+    "seasonal"
+  ],
+  "recipeIngredient": [
+    "2 cups Plain Yogurt",
+    "1 cup Fresh Blueberries",
+    "1 medium Ripe Banana",
+    "1/2 cup Orange Juice"
+  ],
+  "recipeInstructions": "1. Combine the yogurt, blueberries, banana, and orange juice in a blender.\n2. Blend until smooth and frothy.\n3. Pour into glasses.",
+  "url": null
+}

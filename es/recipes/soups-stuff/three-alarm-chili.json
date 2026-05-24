@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "three-alarm-chili",
+  "name": "Chili de tres alarmas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 lata de 10 onzas de puré de tomate",
+    "1 lata de 10 onzas de tomates triturados enlatados",
+    "6 libras de carne molida",
+    "2 tazas de cebolla picada",
+    "1 taza de polvo de chile picante caliente",
+    "1/4 taza de orégano seco",
+    "1 lata de 10 onzas de frijoles rojos enlatados, escurridos",
+    "2 cucharaditas de sal kosher al gusto",
+    "2 cucharaditas de pimienta negra al gusto",
+    "2 tazas de queso cheddar rallado",
+    "8 onzas de crema agria",
+    "4 tazas de cebolla dulce picada"
+  ],
+  "recipeInstructions": "1. Combinar la carne y las cebollas en una olla a fuego medio.\n2. Calentar y remover durante 15-20 minutos hasta que esté dorada.\n3. Incorporar los ingredientes restantes.\n4. Llevar a ebullición, reducir el calor y dejar cocinar a fuego lento durante 2 horas.\n5. Servir caliente, adornado con queso cheddar rallado, crema agria y cebolla dulce picada.",
+  "url": null
+}

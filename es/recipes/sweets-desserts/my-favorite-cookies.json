@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-favorite-cookies",
+  "name": "Mis galletas favoritas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar moreno",
+    "1/2 taza de manteca",
+    "1 huevo",
+    "1 taza de pasas pequeñas",
+    "2 tazas de harina de masa pastel sieada",
+    "1 cucharadita de especias mixtas en polvo",
+    "1/2 cucharadita de bicarbonato de sodio",
+    "2 cucharaditas de polvo para hornear",
+    "1/2 cucharadita de sal",
+    "1/2 taza de buttermilk"
+  ],
+  "recipeInstructions": "1. Batir la manteca y el azúcar hasta que estén bien combinados.\n2. Agregar el huevo y batir bien.\n3. Mezclar juntos la harina, las especias, el bicarbonato de sodio, el polvo para hornear y la sal.\n4. Añadir gradualmente los ingredientes sieados a la mezcla de manteca y azúcar con el buttermilk, mezclando bien.\n5. Incorporar las pasas pequeñas (remojadas y escurridas).\n6. Colocar cucharadas de masa sobre una bandeja para hornear engrasada o cubierta con papel pergamino.\n7. Hornear a 180°C hasta que estén doradas.\nNota: Las especias se pueden ajustar según el gusto personal. También se pueden usar nueces en lugar de pasas.",
+  "url": null
+}

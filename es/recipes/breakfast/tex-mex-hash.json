@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "tex-mex-hash",
+  "name": "Hash Tex-Mex",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "3 cebollas, cortadas en rodajas",
+    "1 pimiento verde, picado",
+    "1 lata de tomates enteros (medianos)",
+    "1/2 taza de arroz crudo",
+    "1 cucharadita de polvo de chile",
+    "2 cucharaditas de sal",
+    "1 pizca de pimienta"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 grados Fahrenheit.\n2. Saltear la carne molida en una sartén hasta que esté ligeramente dorada.\n3. Escurrir la grasa de la sartén.\n4. Añadir las cebollas y los pimientos a la sartén y cocinar hasta que las cebollas estén tiernas.\n5. Incorporar el resto de ingredientes.\n6. Calentar la mezcla hasta que esté caliente.\n7. Verter en un plato para hornear, cubrir con papel aluminio y hornear durante 1 hora.",
+  "url": null
+}

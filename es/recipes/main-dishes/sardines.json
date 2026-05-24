@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "sardines",
+  "name": "Sardinas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "carnes",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "4 latas de sardinas en aceite",
+    "3 cebollas amarillas grandes, cortadas por la mitad y luego en rodajas finas",
+    "2 bulbos de anís grande, sin tallos ni hojas, cortados por la mitad y luego en rodajas finas",
+    "3 dientes de ajo grandes, picados finamente",
+    "Sal y pimienta al gusto",
+    "1/2 taza de vino blanco"
+  ],
+  "recipeInstructions": "1. Retirar las sardinas de los botes y reservar.\n2. Escurrir el aceite de los botes en una sartén grande y calentar a fuego medio.\n3. Agregar las cebollas, el anís y el ajo a la sartén y cocinar, removiendo ocasionalmente, hasta que las verduras estén muy suaves pero sin dorarse (aproximadamente 5 minutos).\n4. Sazonar con sal y pimienta.\n5. Colocar el relleno de cebolla en un plato y mantener caliente.\n6. Añadir el vino blanco a la sartén y reducir durante 2 o 3 minutos.\n7. Devolver las sardinas a la sartén y cocinar hasta que los jugos de la sartén cubran la parte superior del relleno.",
+  "url": null
+}

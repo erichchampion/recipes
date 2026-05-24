@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "sc-biscuits",
+  "name": "Galletas de bicarbonato",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "galletas"
+  ],
+  "recipeIngredient": [
+    "4 tazas de harina",
+    "4 cucharaditas de polvo de hornear",
+    "1 cucharadita de sal",
+    "1 taza de crema agria",
+    "1 1/4 tazas de leche agria",
+    "1 cucharadita de bicarbonato de sodio"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta que estén apenas combinados.\n2. Dar forma a la masa en una plancha plana y hornear en un horno moderado durante unos 10 a 20 minutos, o hasta que esté dorada.\nNotas: No se especifica la temperatura exacta. Moderado suele estar entre 350°F y 400°F (175°C y 200°C).\nFuente: Granero de Boxbury, Condado de Morgan, OH",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-dough",
+  "name": "Masa para pasta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 taza de sémola de trigo duro",
+    "1/2 cucharadita de orégano seco",
+    "1/2 cucharadita de pimienta negra molida",
+    "1/4 taza de yogur natural sin grasa",
+    "1 cucharada de jugo de limón",
+    "agua, según sea necesario"
+  ],
+  "recipeInstructions": "Método a mano:\n1. Mezclar la sémola, el orégano, la pimienta, el yogur y el jugo de limón hasta que se combinen.\n2. Añadir agua gradualmente para lograr una consistencia similar a una masa.\nMétodo con extrusor:\n1. Combinar la sémola, el orégano, la pimienta, el yogur y el jugo de limón en un bol.\n2. Incorporar lentamente agua según sea necesario hasta alcanzar la textura deseada.\n3. La masa debe mantenerse unida fácilmente pero no estar demasiado húmeda o crujiente. Ajustar con más agua si está demasiado seca o un poco más firmeza si está demasiado pegajosa.\nNota: La masa hecha a mano puede requerir un poco más de humedad para evitar que se pegue, mientras que la masa para extrusor debe tener una textura crujiente que se desplace sin problemas por el disco.",
+  "url": null
+}

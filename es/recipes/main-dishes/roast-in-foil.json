@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "roast-in-foil",
+  "name": "Asar al horno con papel de aluminio",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 asado de falda (de 4 a 4,5 kg)",
+    "1 sobre de mezcla de sopa de cebolla",
+    "1/3 taza de vino tinto"
+  ],
+  "recipeInstructions": "1. Mezclar la mezcla de sopa de cebolla con el vino tinto.\n2. Colocar el asado en un trozo de papel aluminio.\n3. Verter la mezcla de cebolla y vino sobre la carne.\n4. Cerrar bien el papel aluminio alrededor del asado.\n5. Hornear a 180 °C durante 5 horas sin abrir el horno.",
+  "url": null
+}

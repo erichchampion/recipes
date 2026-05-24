@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-spaghetti-i",
+  "name": "Pollo y espagueti I",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "2 pollos medianos",
+    "1 taza de apio, picado",
+    "1/2 taza de pimiento rojo, picado",
+    "1 paquete de espagueti (340 g)",
+    "1 taza de pimiento verde, picado",
+    "1 taza de cebolla, picada",
+    "2 latas de sopa de setas",
+    "3 1/2 tazas de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Cocinar los pollos hasta que estén bien hechos.\n2. Retirar las huesos; reservar 1 litro del caldo en un bol, colándolo para eliminar cualquier impureza.\n3. Agregar el pimiento verde, la cebolla y el apio al caldo colado. Cocinar las verduras hasta que estén tiernas.\n4. Incorporar el pimiento rojo, la sopa de setas y el espagueti. Reducir el fuego y cocinar hasta que todos los ingredientes estén listos.\n5. Colocar una capa de espagueti en un plato para horno, seguido de una capa de queso y luego una capa de pollo. Repetir hasta terminar con todos los ingredientes.\n6. Hornear a 180 °C durante unos 25 minutos o hasta que esté caliente y burbujeante.",
+  "url": null
+}

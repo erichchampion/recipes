@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "paul-s-burgers-on-the-grill",
+  "name": "Hamburguesas de Paul a la Parrilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1/4 taza de ketchup",
+    "1/4 taza de cebolla, finamente picada",
+    "2 cucharaditas de condimento italiano",
+    "1 cucharadita de polvo de ajo",
+    "1/2 cucharadita de sal",
+    "4 panecillos para hamburguesa, cortados por la mitad",
+    "Hojas de lechuga y rodajas de tomate - opcional"
+  ],
+  "recipeInstructions": "1. Mezclar los seis primeros ingredientes en un bol mediano; amasar bien.\n2. Formar cuatro hamburguesas.\n3. Asar a la parrilla sobre carbón medio durante 4-5 minutos por lado o hasta que ya no sea rosada.\n4. Servir en los panecillos; añadir lechuga y tomate si se desea.",
+  "url": null
+}

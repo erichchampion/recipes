@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-cheese-bake",
+  "name": "Horno de Chili y Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 libra de queso Monterey Jack rallado",
+    "1 pequeña lata de chiles verdes picados",
+    "1 libra de queso Cheddar rallado",
+    "1 huevo",
+    "1/2 taza de harina",
+    "1/2 taza de agua",
+    "1 lata de salsa de tomate especial Hunt's"
+  ],
+  "recipeInstructions": "1. Capa los tres primeros ingredientes.\n2. Mezcla el huevo, la harina, el agua y la salsa de tomate en un bol.\n3. Vierte la mezcla sobre el queso y los chiles.\n4. Hornea a 180 °C hasta que el queso se derrita.\n5. Vierte una lata de salsa de tomate especial Hunt's sobre la mezcla de queso.\n6. Cocina hasta que la salsa burbujee.",
+  "url": null
+}

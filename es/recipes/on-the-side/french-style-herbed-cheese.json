@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-style-herbed-cheese",
+  "name": "Queso con hierbas al estilo francés",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "8 onzas (225 g) de queso crema suavizado",
+    "2 cucharadas (30 ml) de leche",
+    "1/4 cucharadita de orégano seco molido",
+    "1/8 cucharadita de polvo de ajo",
+    "1/8 cucharadita de polvo de cebolla",
+    "1/8 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol hasta que queden bien integrados.\n2. Amasar hasta obtener una textura homogénea.\n3. Transferir a un plato para servir y refrigerar durante al menos 30 minutos.\n4. Servir con pan francés crujiente o galletas saladas.",
+  "url": null
+}

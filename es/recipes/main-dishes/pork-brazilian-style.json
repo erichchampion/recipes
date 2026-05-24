@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pork-brazilian-style",
+  "name": "Cerdo al estilo brasileño",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "3-4 libras de lomo de cerdo sin hueso",
+    "Glaseado:",
+    "1 taza de miel",
+    "1/4 - 1/2 taza de jugo de naranja",
+    "Una pizca de jengibre y clavos molidos"
+  ],
+  "recipeInstructions": "1. Untar el glaseado sobre el lomo de cerdo.\n2. Cocinar durante otra hora, con la tapa suelta, y barnizar 2-3 veces con el glaseado.\n3. Servir con frijoles negros y arroz, y una ensalada de pepino y cebolla.",
+  "url": null
+}

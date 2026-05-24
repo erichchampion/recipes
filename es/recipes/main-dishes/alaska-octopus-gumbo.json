@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "alaska-octopus-gumbo",
+  "name": "Gumbo de Pulpo de Alaska",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "pulpo",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de tocino picado",
+    "2 tazas de agua",
+    "1 litro de pulpo fresco, cocido al vapor hasta que esté tierno",
+    "2 tazas de arroz ligeramente cocido al vapor",
+    "1 lata de tomates",
+    "1 lata de okra",
+    "1/2 taza de cebolla picada",
+    "1 pimiento verde picado",
+    "1/4 cucharadita de cayena",
+    "1/2 taza de apio picado",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Hervir el tocino picado en agua durante 15 minutos.\n2. Añadir el resto de los ingredientes a la olla.\n3. Cocinar a fuego lento durante 10 minutos.\n4. Servir con pan de maíz caliente. Rinde para cuatro personas.",
+  "url": null
+}

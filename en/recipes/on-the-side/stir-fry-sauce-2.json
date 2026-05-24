@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "stir-fry-sauce-2",
+  "name": "Stir-Fry Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "sauces",
+    "side dishes",
+    "stir-fry"
+  ],
+  "recipeIngredient": [
+    "3 tbsp Soy sauce",
+    "2 tbsp Rice wine or sake",
+    "1 tbsp Chinese black vinegar",
+    "Worcestershire sauce"
+  ],
+  "recipeInstructions": "1. Combine soy sauce, wine and vinegar.",
+  "url": null
+}

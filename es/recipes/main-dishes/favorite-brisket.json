@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "favorite-brisket",
+  "name": "Mi Costilla Favorita",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "4 libras de solomillo de ternera fresco",
+    "1 cucharadita de sal",
+    "2 cucharaditas de mostaza en polvo",
+    "2 cucharaditas de pimentón dulce",
+    "1/8 cucharadita de pimienta negra",
+    "1/2 cucharadita de ajo en polvo (hasta 1 cucharadita)"
+  ],
+  "recipeInstructions": "1. Retirar todo el exceso de grasa del solomillo.\n2. Mezclar las especias hasta que estén bien integradas; frotar sobre el solomillo.\n3. Colocar la carne en una olla de cocción lenta con el lado graso hacia arriba, cortando si es necesario para ajustarse.\n4. Tapar y cocinar a fuego lento durante 10-12 horas.\n5. Retirar el solomillo del líquido y cortarlo en rebanadas finas en contra del grano.\n6. Servir con el jugo.",
+  "url": null
+}

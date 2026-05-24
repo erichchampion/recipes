@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mondel-bread-italian",
+  "name": "Pan de Mondel Italiano",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de aceite",
+    "3/4 taza de azúcar",
+    "2 huevos (reserva algo para la cobertura)",
+    "2 cucharaditas de polvo de hornear",
+    "1 cucharadita de vainilla",
+    "2 tazas de harina",
+    "1/4 taza de chips de chocolate",
+    "1/4 taza de nueces",
+    "1/4 taza de frutas confitadas"
+  ],
+  "recipeInstructions": "1. Mezcla los ingredientes en un bol.\n2. Forma 3 hogazas separadas.\n3. Cubre cada hogaza con un huevo.\n4. Hornea sobre una bandeja para galletas sin engrasar.\n5. Corta en diagonal cuando esté caliente.\n6. Espolvorea azúcar glas encima.\n7. Hornea a 180 °C durante 20 minutos o hasta que sea dorado.",
+  "url": null
+}

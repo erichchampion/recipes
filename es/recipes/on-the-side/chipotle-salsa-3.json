@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chipotle-salsa-3",
+  "name": "Salsa Chipotle",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "mexicano",
+    "salsas",
+    "salsa y aderezos",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 tomate grande",
+    "5 tomatillos",
+    "2 chiles chipotle, o al gusto",
+    "1 cebolla, picada finamente",
+    "2 dientes de ajo, picados",
+    "1 cucharadita de vinagre",
+    "Aceite para freír"
+  ],
+  "recipeInstructions": "1. Hierve los tomatillos y los chiles en una taza de agua durante 15 minutos.\n2. Licúa los chiles, tomates, tomatillos, ajo y vinagre. Cuela la mezcla a través de un colador fino.\n3. Fríe la cebolla; añade la mezcla licuada y cocina por 10 minutos adicionales, removiendo constantemente.\n4. Agrega sal al gusto y sirve con tortillas calientes.",
+  "url": null
+}

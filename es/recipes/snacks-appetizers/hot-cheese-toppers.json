@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-cheese-toppers",
+  "name": "Topadores de queso caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "tu tipo favorito de queso",
+    "galletas integrales",
+    "embutido para almuerzo",
+    "manzanas",
+    "trozos de tocino",
+    "aceitunas",
+    "salsa o cualquier otro aderezo"
+  ],
+  "recipeInstructions": "1. Coloca sobre cada galleta una rebanada de queso que quepa en la galleta.\n2. Coloca las galletas sobre un plato apto para microondas.\n3. Añade los aderezos deseados a cada galleta.\n4. Microondas a potencia máxima durante 15 a 30 segundos, o hasta que el queso se derrita.",
+  "url": null
+}

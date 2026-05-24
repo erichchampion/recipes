@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "pirate-steak",
+  "name": "Pirate Steak",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecue",
+    "beef",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "1 can Beer (12 oz.)",
+    "1/2 cup Chili sauce",
+    "1/4 cup Salad oil",
+    "2 tbsp Soy sauce",
+    "1 tbsp Dijon-style mustard",
+    "1/2 tsp Red pepper sauce",
+    "0.13 tsp Liquid smoke",
+    "1/2 cup Coarsely chopped onion",
+    "2 cloves Garlic, crushed",
+    "3 lb Beef sirloin steak, 1 1/2 - 2 inches thick",
+    "1 tsp Salt",
+    "1/2 tsp Pepper"
+  ],
+  "recipeInstructions": "1. Mix all ingredients except steak, salt, and pepper in a bowl.\n2. Simmer the mixture for 30 minutes.\n3. Brush the cooked meat with the sauce before serving.",
+  "url": null
+}

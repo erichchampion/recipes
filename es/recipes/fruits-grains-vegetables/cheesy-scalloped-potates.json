@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheesy-scalloped-potates",
+  "name": "Patatas gratinadas con queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "patatas",
+    "guarniciones",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "4 patatas, cocidas (pelar antes de cocer)",
+    "15 onzas de leche evaporada, escurrida",
+    "1 lata de sopa de pollo Crema",
+    "1 taza de cebolla cruda, picada",
+    "1 taza de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Cocinar las patatas peladas y cortadas en cubos hasta que estén tiernas.\n2. Escurrir las patatas cocidas.\n3. Mezclar la leche evaporada, la sopa de pollo y la cebolla picada con las patatas.\n4. Cocinar a fuego medio-bajo hasta que las cebollas se ablanden.\n5. Incorporar el queso cheddar rallado y cocinar a fuego lento hasta que se derrita.",
+  "url": null
+}

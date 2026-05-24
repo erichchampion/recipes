@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "picnic-kabobs",
+  "name": "Picnic Kabobs",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat",
+    "meats"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Ground beef",
+    "3/4 cup Quaker Oats, uncooked (quick or old-fashioned)",
+    "1 Egg",
+    "1 tsp Salt",
+    "1 tbsp Worcestershire sauce",
+    "1/4 cup Tomato sauce",
+    "18 medium Stuffed olives",
+    "4 medium Tomatoes; cut into 16 wedges",
+    "2 Green peppers; cut into 16 pieces",
+    "8 small Cooked potatoes",
+    "8 Button mushrooms"
+  ],
+  "recipeInstructions": "1. Combine ground beef, oats, egg, salt, Worcestershire sauce, and tomato sauce thoroughly.\n2. Shape the meat mixture around olives to form 18 meat balls.\n3. Alternate 3 meatballs, 2 tomato wedges, 2 green pepper pieces, 1 potato, and 1 mushroom on six 12-inch metal skewers.\n4. Thread the meatballs through the olives in the center of each skewer to ensure they stay secure.\n5. Brush the kabobs with French dressing.\n6. Place the kabobs under the broiler or over hot coals about 6 inches from the heat source.\n7. Cook for 8 minutes, turning occasionally and brushing again with French dressing.\n8. Continue cooking until done, about 4 more minutes.\nWARNING: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

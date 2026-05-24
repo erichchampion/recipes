@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-california-pizza",
+  "name": "Pizza California rápida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 lata de tomates asados (400 g)",
+    "1 base de pizza grande",
+    "1 cucharada de aceite de oliva",
+    "1 lata de setas laminadas (250 g)",
+    "1 cucharada de perejil",
+    "1/3 taza de queso Romano rallado"
+  ],
+  "recipeInstructions": "1. Escurrir los tomates y reservar el jugo.\n2. Añadir aceite de oliva al jugo reservado y extender sobre la base de la pizza.\n3. Disponer los tomates y las setas sobre la base.\n4. Espolvorear con perejil y queso Romano.\n5. Hornear durante 10 minutos a 200 °C.",
+  "url": null
+}

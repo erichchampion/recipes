@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-tea-punch-2",
+  "name": "Punche de té mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cóctel",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de tequila",
+    "2 tazas de té (frio y fuerte)",
+    "1 taza de jugo de piña",
+    "1/4 taza de miel",
+    "1/4 taza de agua",
+    "1/4 taza de jugo de lima",
+    "1/4 taza de jugo de limón",
+    "1 1/2 cucharaditas de canela molida",
+    "1 1/2 cucharaditas de amargo aromático"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un jarro.\n2. Refrigerar hasta enfriar.\n3. Remover antes de servir.\n4. Servir sobre hielo.",
+  "url": null
+}

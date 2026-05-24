@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-and-rice-dinner",
+  "name": "Cena de carne y arroz",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "asiático",
+    "carne de res",
+    "chino",
+    "étnico",
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "1 paquete de Hamburger Helper",
+    "1 lata (450 g) de verduras mixtas chinas",
+    "1 lata de caldo de ternera condensado",
+    "Pimiento verde pequeño"
+  ],
+  "recipeInstructions": "1. Prepara la cena de arroz oriental según las instrucciones del paquete, excepto que omitas el agua; añade suficiente caldo de ternera para obtener 3 tazas y media de líquido.\n2. Corta finamente el pimiento verde pequeño.\n3. Cinco minutos antes de finalizar la cocción, incorpora las verduras y el pimiento verde.",
+  "url": null
+}

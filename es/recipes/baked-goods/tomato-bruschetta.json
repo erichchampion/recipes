@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-bruschetta",
+  "name": "Bruschetta de Tomate",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "panes",
+    "étnico",
+    "italiano",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 hogaza de pan italiano",
+    "Cortada por la mitad a lo largo y luego cortada en rodajas diagonales de 1 pulgada",
+    "1 diente de ajo, picado",
+    "2 cucharadas de aceite de oliva",
+    "2 tomates grandes, pelados, sin semillas y cortados en cubos",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1/2 taza de albahaca fresca picada"
+  ],
+  "recipeInstructions": "1. Tostar el pan bajo el grill hasta que esté ligeramente dorado.\n2. Mezclar el ajo y el aceite de oliva y untar en un lado de cada rebanada de pan.\n3. Extender la mezcla de tomate uniformemente sobre los lados untados.\n4. Espolvorear con sal y pimienta.\n5. Grillar durante unos 30 segundos para calentar los tomates.\n6. Espolvorear con albahaca fresca y servir.",
+  "url": null
+}

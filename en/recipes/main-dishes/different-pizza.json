@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "different-pizza",
+  "name": "Different Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground beef (browned)",
+    "1/3 cup Chopped onion",
+    "2 tsp Worcestershire sauce",
+    "1/2 tsp Marjoram",
+    "1/2 tsp Oregano",
+    "1/4 tsp Sage",
+    "1/4 tsp Pepper",
+    "1 can Cream of mushroom soup",
+    "-----CRUST-----",
+    "2 cups Flour",
+    "1/2 tsp Salt",
+    "2 tsp Baking powder",
+    "1/4 cup Crisco (or shortening)",
+    "1 cup Milk",
+    "2 cups Shredded mozzarella cheese"
+  ],
+  "recipeInstructions": "1. Drain the ground beef and onion. Stir in Worcestershire sauce, seasonings, and soup. Mix well and set aside.\n2. In a bowl, combine flour, salt, and baking powder. Cut in Crisco until the mixture resembles coarse crumbs.\n3. Add milk to the dry ingredients and mix until a soft dough forms.\n4. Transfer the dough to a greased 15x10x1-inch baking pan.\n5. Spread the beef mixture evenly over the crust.\n6. Sprinkle shredded mozzarella cheese on top.\n7. Bake at 400°F for 25-30 minutes, or until the crust is golden and the cheese is bubbly.\nRecipe sourced from: Taste of Home Ground Beef Collection 1996 Edition",
+  "url": null
+}

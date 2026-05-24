@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-chowder",
+  "name": "Hamburger Chowder",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "meats",
+    "soups",
+    "spreads"
+  ],
+  "recipeIngredient": [
+    "3/4 lb hamburger",
+    "1 can (14-1/2 oz) diced tomatoes",
+    "1/2 large onion, chopped",
+    "3 medium potatoes, sliced",
+    "3 tbsp flour (heaping)",
+    "2 tbsp chili powder",
+    "Salt and pepper to taste",
+    "Green bell pepper, chopped",
+    "(Option: 3 garlic cloves, minced)"
+  ],
+  "recipeInstructions": "1. In a pressure cooker, sauté the hamburger until browned.\n2. Add diced tomatoes, onion, and garlic (and green bell pepper if desired), along with salt and pepper. Stir thoroughly.\n3. Securely cover the pot and cook on \"High\" until steam is released.\n4. Place the weight back on the lid and reduce heat to \"Medium.\" Allow the mixture to gently rock for about 10 minutes, or until fully cooked.\n5. Carefully remove the lid after all steam has dissipated.\n6. Make a paste from chili powder and flour, then stir into the chowder before serving.",
+  "url": null
+}

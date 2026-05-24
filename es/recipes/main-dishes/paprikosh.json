@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "paprikosh",
+  "name": "Paprikash",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 libras de cubos de carne de res",
+    "5 zanahorias grandes (cortadas en cubos)",
+    "8 papas grandes (cortadas en cubos)",
+    "2 cebollas grandes (cortadas en rodajas finas)",
+    "3 cucharadas de pimentón dulce",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes a la olla de cocción lenta.\n2. Verter agua sobre las verduras hasta que queden cubiertas, creando una especie de \"salsa\".\n3. Cocinar a temperatura alta durante 4 horas.\nNota: Ajustar la cantidad de pimentón según el gusto personal.",
+  "url": null
+}

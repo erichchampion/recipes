@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "special-quick-cookies",
+  "name": "Galletas Rápidas Especiales",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "1 taza de sirope de maíz blanco",
+    "1 taza de mantequilla de maní",
+    "6 tazas de cereales Special K"
+  ],
+  "recipeInstructions": "1. Llevar a ebullición 1 taza de azúcar y 1 taza de sirope de maíz blanco.\n2. Retirar del fuego y mezclar hasta que se disuelva la mantequilla de maní.\n3. Incorporar los cereales Special K y mezclar bien.\n4. Colocar cucharadas de la mezcla sobre papel para hornear.\n5. Dejar enfriar antes de consumir.",
+  "url": null
+}

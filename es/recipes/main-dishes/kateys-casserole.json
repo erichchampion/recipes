@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "kateys-casserole",
+  "name": "Casserola de Katey",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "cenas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 1/2 pechugas de pollo sin hueso ni piel, cortadas en cubos",
+    "1 1/2 tazas de arroz blanco MINUTE, crudo",
+    "1 1/4 tazas de leche",
+    "10 onzas de brócoli congelado picado, escurrido y descongelado (o 10 onzas de brócoli fresco picado y ligeramente al vapor)",
+    "1 lata de sopa de verduras cremosa",
+    "4 onzas de crema agria sin grasa",
+    "1 sobre de mezcla para sopa o dip de verduras"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Verter la mezcla en un molde para hornear rectangular de 12x8 pulgadas.\n3. Hornear a 175 °C durante 30 minutos o hasta que el pollo esté cocido.",
+  "url": null
+}

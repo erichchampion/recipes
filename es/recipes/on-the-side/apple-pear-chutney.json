@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-pear-chutney",
+  "name": "Chutney de Manzana y Peras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimento",
+    "frutas",
+    "encurtidos",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 tazas de vinagre de manzana",
+    "3 tazas de azúcar moreno oscuro",
+    "10 manzanas grandes, ácidas; peladas, sin corazón y cortadas groseramente",
+    "5 peras verdes firmes; peladas, sin corazón y cortadas groseramente",
+    "2 pimientos rojos grandes; limpios y cortados groseramente",
+    "1 taza de pasas secas",
+    "1 taza de cebolla; picada groseramente",
+    "1/2 taza de jengibre fresco; pelado y cortado finamente",
+    "2 limones; sin semillas y cortado finamente (incluir la cáscara)",
+    "2 cucharaditas de semillas de mostaza enteras",
+    "1 cucharada de menta fresca; picada groseramente",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. En una olla grande y no reactiva, llevar el vinagre y el azúcar a ebullición a fuego alto.\n2. Añadir todos los demás ingredientes y reducir el calor a un hervor suave.\n3. Cocinar, removiendo ocasionalmente, hasta que espese, aproximadamente 45 minutos.\n4. Verter en frascos esterilizados y sellar.",
+  "url": null
+}

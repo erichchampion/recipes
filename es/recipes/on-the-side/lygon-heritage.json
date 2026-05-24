@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "lygon-heritage",
+  "name": "Legado de Lygon",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "Un chorrito de Creme De Framboise",
+    "Una pizca de Lime Cordial",
+    "Unas gotas de zumo de limón fresco",
+    "Champagne Laurent-Perrier",
+    "4 frambuesas enhebradas, congeladas y enrolladas en azúcar"
+  ],
+  "recipeInstructions": "1. Agitar el creme de framboise, el cordial de lima y el zumo de limón con hielo en un agitador de cócteles.\n2. Colar la mezcla en un vaso de champán.\n3. Llenar cuidadosamente el vaso con champán.\n4. Servir con una frambuesa enrollada.",
+  "url": null
+}

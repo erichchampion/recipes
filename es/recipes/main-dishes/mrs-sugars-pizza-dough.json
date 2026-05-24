@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mrs-sugars-pizza-dough",
+  "name": "Masa de pizza de la señora Sugars",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "masa",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1/2 sobre de levadura seca remojada en 1/4 taza de agua",
+    "2/3 taza de agua tibia",
+    "2 tazas de harina tamizada",
+    "3/4 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. AMASAR la mezcla hasta obtener una consistencia suave, elástica y sedosa.\n2. Cubrir y dejar levar durante dos horas (la señora Sugars creía que el tiempo de levado era crucial y insistía en que debía ser al menos dos horas).",
+  "url": null
+}

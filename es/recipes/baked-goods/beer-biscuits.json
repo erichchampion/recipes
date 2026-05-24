@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-biscuits",
+  "name": "Biscuitos de Cerveza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "panes rápidos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina sin blanquear",
+    "3 cucharadas de polvo de hornear",
+    "1 cucharadita de sal",
+    "1/4 taza de manteca corta",
+    "3/4 taza de cerveza"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 232 °C (450 °F).\n2. Tamizar juntos los ingredientes secos.\n3. Cortar la manteca en la mezcla hasta obtener una textura similar a la del maíz molido.\n4. Incorporar la cerveza y amasar ligeramente.\n5. Estirar la masa hasta alcanzar un grosor de 1/2 pulgada.\n6. Hornear durante 10-12 minutos, o hasta que adquieran un color dorado.\nRinde entre 12 y 15 tostadas.",
+  "url": null
+}

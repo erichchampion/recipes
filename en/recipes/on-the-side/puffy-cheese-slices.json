@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "puffy-cheese-slices",
+  "name": "Puffy Cheese Slices",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "cheese",
+    "pizza",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "5 slices of bread",
+    "2 cups shredded cheese",
+    "1 egg, slightly beaten",
+    "1/2 teaspoon salt"
+  ],
+  "recipeInstructions": "1. Set oven to broil.\n2. Broil bread until brown on one side.\n3. Blend together the shredded cheese, slightly beaten egg, and salt.\n4. Spread the mixture evenly over the untoasted side of the bread.\n5. Return to broil until the cheese is bubbly.",
+  "url": null
+}

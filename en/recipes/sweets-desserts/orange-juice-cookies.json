@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-juice-cookies",
+  "name": "Orange Juice Cookies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "Creme:",
+    "1 cup Sugar",
+    "1/4 cup Crisco",
+    "2 1/2 cups Flour",
+    "1/2 tsp Salt",
+    "1/2 cup Butter",
+    "2 Eggs",
+    "1/2 tsp Baking Soda",
+    "3/4 cup Orange Juice",
+    "Glaze:",
+    "2 1/2 cups Powdered Sugar",
+    "1/4 cup Butter, melted"
+  ],
+  "recipeInstructions": "CREME: Mix all the ingredients together to make the cream. On a greased cookie sheet, bake at 400°F for 10 minutes.\nGLAZE: Add a small amount of orange juice until you achieve a glaze-like consistency. Frost the cooled cookies.",
+  "url": null
+}

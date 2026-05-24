@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-shake",
+  "name": "Apple Shake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "fruits",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup Vanilla ice cream",
+    "2 cups Cold apple cider",
+    "2 Bananas, ripe",
+    "1/2 teaspoon Ground cinnamon"
+  ],
+  "recipeInstructions": "1. Add the vanilla ice cream to the blender.\n2. Pour in the cold apple cider.\n3. Peel and slice the ripe bananas, then add them to the blender.\n4. Sprinkle the ground cinnamon over the mixture.\n5. Blend until smooth and creamy.\n6. Pour the shake into glasses and enjoy!",
+  "url": null
+}

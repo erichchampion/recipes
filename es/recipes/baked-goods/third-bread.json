@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "third-bread",
+  "name": "Tercer Pan",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "Paquete de levadura",
+    "3/4 taza de harina de centeno",
+    "3 tazas de harina para pan",
+    "3/4 taza de harina de maíz amarillo",
+    "1 1/2 cucharaditas de sal",
+    "1/2 taza de miel",
+    "1 1/2 tazas de agua muy caliente"
+  ],
+  "recipeInstructions": "1. Coloca la levadura, la harina de centeno, la harina para pan, la harina de maíz amarillo, la sal, la miel y el agua muy caliente en el bol en el orden indicado.\n2. Selecciona el programa de pan blanco en tu máquina y presiona \"Iniciar\".\n3. Asegúrate de que todos los ingredientes estén a temperatura ambiente, si no se indica lo contrario.\n4. Después de la segunda fase de amasado, retira la masa de la máquina y divídela en dos porciones iguales.\n5. Coloca cada porción en moldes para pan pequeños y cúbrelos.\n6. Deja que la masa suba hasta duplicar su tamaño, lo cual tomará aproximadamente 45 minutos a 1 hora.\n7. Hornea a 350°F durante 35-40 minutos.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "tapioca-soup",
+  "name": "Sopa de Yuca",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "asiático",
+    "étnico",
+    "sopas",
+    "tailandés"
+  ],
+  "recipeIngredient": [
+    "5 tazas de caldo de cerdo (puede usar pollo)",
+    "1/2 taza de carne de cerdo picada o molida",
+    "1 cucharada de ajo picado",
+    "3 cucharadas de salsa de pescado",
+    "1/2 taza de yuca",
+    "1/2 taza de carne de cangrejo cocida o enlatada",
+    "Pimienta al gusto"
+  ],
+  "recipeInstructions": "1. En una olla grande, mezcle el caldo de cerdo con la yuca. Lleve a ebullición.\n2. Agregue la carne picada o molida y el ajo picado, removiendo hasta que esté bien combinado.\n3. Disminuya el fuego y deje cocinar a fuego lento durante 10 minutos.\n4. Incorpore la salsa de pescado y la carne de cangrejo cocida o enlatada. Mezcle hasta que se incorpore.\n5. Sazone con pimienta al gusto.\n6. Sirva caliente y disfrute.",
+  "url": null
+}

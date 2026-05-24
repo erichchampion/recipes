@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "dagwood-sandwiches",
+  "name": "Sándwiches de Dagwood",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "Mostaza de Dijon",
+    "1 hogaza de pan integral de buena calidad, en rebanadas",
+    "1 taza de mayonesa",
+    "1 taza de aderezo para ensalada",
+    "1 1/2 cucharaditas de albahaca fresca picada",
+    "1 hogaza de pan sourdough de buena calidad, en rebanadas",
+    "1/2 libra de pavo ahumado, cortado finamente",
+    "1/2 libra de queso Emmenthaler o Jarlsberg importado, cortado finamente",
+    "1 manojo de espinacas frescas, sin tallos",
+    "1 lechuga romana, lavada y secada",
+    "1/2 libra de jamón, cortado finamente"
+  ],
+  "recipeInstructions": "1. Untar mostaza en un lado de una rebanada de pan integral.\n2. Untar aderezo para ensalada en un lado de otra rebanada de pan integral.\n3. Mezclar la mayonesa con la albahaca y untar en ambos lados de una rebanada de pan sourdough.\n4. Colocar una rebanada de pavo, una rebanada de queso y dos hojas de espinacas sobre la rebanada de pan integral con mostaza.\n5. Colocar la rebanada de pan sourdough encima, seguida de una hoja de lechuga romana y una rebanada de jamón.\n6. Tapar con la rebanada restante de pan integral.\n7. Segurar el sándwich con dos palillos de bambú.\n8. Repetir los pasos 1-7 para hacer un total de 8 sándwiches doble decker.",
+  "url": null
+}

@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "layered-mexican-dish",
+  "name": "Layered Mexican Dish",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "american",
+    "ethnic",
+    "main dish",
+    "meats",
+    "mexican"
+  ],
+  "recipeIngredient": [
+    "1 can Refried beans",
+    "1 can Bean dip",
+    "1 Minced onion",
+    "2 Avocadas (soaked in lemon juice)",
+    "1 Small sour cream",
+    "1 package Taco mix",
+    "2 tbsp Mayonnaise",
+    "6 oz Monteray jack cheese (shred)",
+    "6 oz Chedder cheese (shred)",
+    "1 can Small black olives (chopped)",
+    "2 Tomatoes (chopped)",
+    "2 Green onions (chopped)"
+  ],
+  "recipeInstructions": "1. Spread refried beans evenly in the bottom of a dish.\n2. Add bean dip on top of the beans.\n3. Place minced onion over the bean dip.\n4. Layer avocado slices on top, ensuring they are evenly distributed.\n5. Mix sour cream and taco mix, then spread the mixture over the avocados.\n6. Add mayonnaise to the mixture.\n7. Shred Monterey jack cheese and Cheddar cheese separately, then layer them over the sour cream mixture.\n8. Chop black olives and distribute them evenly on top of the cheeses.\n9. Finally, chop tomatoes and green onions, arranging them on the top layer.",
+  "url": null
+}

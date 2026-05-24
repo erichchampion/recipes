@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-quiche",
+  "name": "Tarta básica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "lácteos",
+    "tartas de cena",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "G. Granaroli XBRG76A",
+    "1 masa de tarta individual congelada de tipo profundo",
+    "1/3 taza de jamón, tocino o pescado (salteado)",
+    "4 huevos",
+    "1/2 taza de leche",
+    "1/2 taza de queso rallado",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180°C y hornear la masa del pastel hasta que esté dorada.\n2. Extender la carne sobre la base de la masa una vez dorada.\n3. Batir en una licuadora los huevos, el queso, la leche y las especias.\n4. Verter la mezcla sobre la carne en la masa.\n5. Hornear durante 40 minutos a 180°C.",
+  "url": null
+}

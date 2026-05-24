@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "the-best-ever-pizza-sauce",
+  "name": "La \"mejor nunca\" Salsa para Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1/2 litro de salsa de pizza Prince",
+    "300 gramos de pasta de tomate enlatada",
+    "Un chorrito de vino tinto seco",
+    "1 cucharadita de sal",
+    "1 cucharadita de orégano seco",
+    "1/2 cucharadita de albahaca seca"
+  ],
+  "recipeInstructions": "1. Picar 1 cebolla mediana y picar finamente 1 diente de ajo.\n2. Calentar 2 cucharadas de aceite de oliva en una sartén y saltear la cebolla y el ajo hasta que estén tiernos.\n3. Incorporar el resto de los ingredientes a la sartén y remover ocasionalmente mientras se cocina a fuego lento durante aproximadamente 1 hora.\n4. Esta salsa es suficiente para cubrir 2 pizzas grandes.",
+  "url": null
+}

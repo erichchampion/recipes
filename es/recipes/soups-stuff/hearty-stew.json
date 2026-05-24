@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "hearty-stew",
+  "name": "Estofado Generoso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "cazuelas",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de garbanzos secos",
+    "1/2 taza de frijoles rojos secos",
+    "2 litros de agua",
+    "1 cebolla amarilla grande, en rodajas",
+    "2 dientes de ajo machacados",
+    "2 cucharadas de salsa de soja baja en sodio",
+    "2 cucharaditas de polvo de curry",
+    "2 zanahorias, peladas y cortadas en rodajas",
+    "2 parsnips, pelados y cortados en rodajas",
+    "1 calabacín cortado en trozos",
+    "1/2 taza de macarrones de trigo integral (sin cocinar)",
+    "1/4 taza de bulgur sin cocinar",
+    "1 cucharada de jugo de limón",
+    "2 tazas de espinacas frescas"
+  ],
+  "recipeInstructions": "1. Remojar los garbanzos y los frijoles rojos en un recipiente con agua durante la noche, cubriéndolos apenas.\n- Los frijoles enlatados no son adecuados para esta receta, ya que el líquido de cocción de los secos crea un caldo rico y sabroso.\n2. En una olla grande, combinar los frijoles remojados y 2 litros de agua. Llevar a ebullición, luego reducir el calor, dejar hervir a fuego lento durante 2 minutos, apagar el fuego y dejar reposar durante 1 hora.\n3. Agregar la cebolla, el ajo, la salsa de soja y el polvo de curry. Devolver a ebullición, reducir el calor y cocinar a fuego lento durante 2 horas.\n4. En una pequeña olla, cocinar las parsnips en agua hasta que estén tiernas (aproximadamente 15 minutos). Dejar enfriar y licuar hasta obtener una puré suave.\n5. Incorporar la puré de parsnips, las zanahorias y el calabacín al estofado. Cocinar por 30 minutos adicionales.\n6. Agregar los macarrones y el bulgur. Continuar cocinando durante 15 minutos más.\n7. Mezclar el jugo de limón y las espinacas, cocinar hasta que se marchiten ligeramente (aproximadamente 5 minutos).\n8. Servir inmediatamente.",
+  "url": null
+}

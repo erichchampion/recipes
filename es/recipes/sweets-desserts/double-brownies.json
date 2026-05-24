@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "double-brownies",
+  "name": "Dobles brownies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "brownies",
+    "postres",
+    "ninguno"
+  ],
+  "recipeIngredient": [
+    "Huevos, 2",
+    "Azúcar, 1 taza",
+    "Harina, 3/4 taza",
+    "Nueces picadas, 1/2 taza",
+    "Sal, 1/8 cucharadita",
+    "Cacao en polvo, 1/4 taza",
+    "Mantequilla o margarina, 1/2 taza",
+    "Mantequilla o margarina, 1/2 taza (para la capa de butterscotch)",
+    "Azúcar moreno, 1 1/2 tazas",
+    "Huevos, 2 (para la capa de butterscotch)",
+    "Extracto de vainilla, 2 cucharaditas (para la capa de butterscotch)",
+    "Harina, 1 1/2 tazas",
+    "Sal, 1/4 cucharadita (para la capa de butterscotch)"
+  ],
+  "recipeInstructions": "1. Para la capa de chocolate: Batir los huevos hasta que estén espumosos. Agregar azúcar, harina, nueces picadas y sal. Derretir el cacao en polvo con la mantequilla en un cazo. Incorporar a la mezcla de huevos y mezclar bien. Extender en un molde rectangular engrasado de 30 x 45 cm.\n2. Dejar a un lado.\n3. Para la capa de butterscotch: Batir la mantequilla con el azúcar moreno hasta que quede ligera y esponjosa. Agregar los huevos y la vainilla. Batir hasta que esté bien mezclado. Incorporar gradualmente la harina, la sal y las nueces picadas. Extender pequeñas porciones de la mezcla sobre la capa de chocolate y extenderlo lo mejor posible.\n4. Hornear a 350 °F (o 180 °C) durante 30 minutos o hasta que los brownies empiecen a separarse del molde.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomatillo-guacamole",
+  "name": "Guacamole de tomatillo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "mexicanos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "6 tomates verdes (enlatados o frescos)",
+    "3 cucharadas de cebolla finamente picada",
+    "1 aguacate mediano a grande, machacado con tenedor",
+    "1/2 limón (1 cucharada)",
+    "1/2 a 1 pimiento jalapeño, picado finamente, o al gusto Tabasco",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "Rinde: 1 1/2 a 2 tazas\n1. Pela los tomates verdes y enjuágalos brevemente. Hiérvelos en agua con sal hasta que estén tiernos. Escurre, machaca y deja enfriar. Si usas tomates enlatados, simplemente escúrrelos y machácalos.\n2. Mezcla con la cebolla, aguacate, jugo de limón, jalapeño o Tabasco y sal al gusto. Sirve inmediatamente.",
+  "url": null
+}

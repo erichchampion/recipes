@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "venison-burgers",
+  "name": "Hamburguesas de ciervo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgueros",
+    "juego",
+    "plato principal",
+    "ciervo"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida de ciervo",
+    "3 oz de tocino de cerdo, picado",
+    "Sal",
+    "Pimienta negra recién molida"
+  ],
+  "recipeInstructions": "Debido a que el ciervo tiene poca grasa, es necesario añadir algo para que la hamburguesa quede jugosa. Pero no uses grasa de ciervo, ya que sabe mal.\nMezcla la carne de ciervo, el tocino, la sal y la pimienta, manejando la masa lo menos posible.\nCalienta la parrilla. Unta las hamburguesas con aceite vegetal y ásalas durante unos 4 minutos; da la vuelta y cocina hasta el punto deseado.\nSirve en panecillos con los condimentos que prefieras.",
+  "url": null
+}

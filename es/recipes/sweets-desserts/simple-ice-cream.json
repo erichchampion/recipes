@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-ice-cream",
+  "name": "Helado sencillo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helados",
+    "helados y dulces congelados"
+  ],
+  "recipeIngredient": [
+    "2 huevos",
+    "1/2 taza de azúcar",
+    "2 tazas de nata para montar",
+    "2 tazas de fruta, triturada, picada o machacada (plátanos, melocotones, cualquier tipo de bayas, cerezas, etc.)",
+    "1 cucharadita de extracto de vainilla (o prueba con extracto de almendras si usas cerezas o melocotones)"
+  ],
+  "recipeInstructions": "1. Con una batidora eléctrica, bate los huevos y el azúcar hasta obtener una mezcla espesa y de color amarillo claro.\n2. Añade la fruta triturada, la nata y los aromatizantes a la mezcla de huevo y remueve hasta que esté bien mezclado.\n3. Procesa en una heladera convencional o en una máquina de hacer helados manual que se enfríe en el congelador antes de usarla.\nRinde: aproximadamente 1 litro",
+  "url": null
+}

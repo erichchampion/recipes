@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-eggs-2",
+  "name": "Huevos al horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "6 rebanadas de pan, cortadas en cubos",
+    "3 tazas de queso cheddar suave rallado",
+    "1 taza de jamón cocido, cortado en cubos",
+    "1/4 taza de pimiento verde picado",
+    "1/2 taza de cebolla picada",
+    "6 huevos",
+    "3 tazas de leche"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto los huevos y la leche en un molde para hornear rectangular de 13x9 pulgadas.\n2. Batir juntos los huevos y la leche, y verter sobre la mezcla.\n3. Refrigerar durante la noche para servir al día siguiente por la mañana, o congelar el plato.\n4. Descongelar y hornear sin cubrir a 180°C durante 45 minutos.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "german-rye-bread",
+  "name": "German Rye Bread",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads",
+    "breads and rolls",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 tablespoon active dry yeast",
+    "1 tablespoon caraway seed",
+    "2 1/4 cups bread flour",
+    "1 1/2 teaspoons salt",
+    "2 1/2 teaspoons unsweetened cocoa",
+    "1 1/2 cups rye flour",
+    "1 1/4 cups warm water",
+    "1 1/2 tablespoons butter",
+    "2 1/2 tablespoons molasses"
+  ],
+  "recipeInstructions": "1. Place ingredients in the bread machine in the order recommended by the manufacturer of your machine.\n2. Use a regular bread cycle.\n3. (Optional) Grind the caraway seeds before using, as preferred, for flavor but not for the seeds themselves.\n4. (For Panasonic/National machines, use 3 1/2 teaspoons of yeast instead.)",
+  "url": null
+}

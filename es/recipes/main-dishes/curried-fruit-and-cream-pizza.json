@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "curried-fruit-and-cream-pizza",
+  "name": "Pizza de fruta curri y crema",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "fruta",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 masa de pizza de leche",
+    "2 manzanas, peladas, sin corazón, cortadas en dados de 1/2 pulgada",
+    "1 pera, pelada, sin corazón, cortada en dados de 1/2 pulgada",
+    "1 rebanada de piña, cortada en dados de 1/2 pulgada",
+    "1 plátano, pelado, cortado en dados de 1/2 pulgada",
+    "3 onzas uvas sin semillas",
+    "1/2 taza de crema batida pesada",
+    "2 cucharadas de polvo de curry"
+  ],
+  "recipeInstructions": "1. Preparar la masa de pizza.\n2. Precalentar el horno a 230 °C.\n3. Si se utiliza una piedra o baldosas para hornear, colóquelas en el horno ahora.\n4. Colocar todas las frutas en una cacerola. Verter la crema batida pesada y mezclar suavemente con el polvo de curry.\n5. Tapar y cocinar a fuego lento hasta que las frutas estén tiernas y la crema se haya absorbido, aproximadamente 15 minutos.\n6. Estirar la masa de pizza y cubrir con la mezcla de frutas.\n7. Transferir la pizza al horno y hornear durante 10 minutos.\n8. Reducir la temperatura a 180 °C y hornear hasta que la corteza esté dorada, aproximadamente 10 minutos.\n9. Servir inmediatamente.",
+  "url": null
+}

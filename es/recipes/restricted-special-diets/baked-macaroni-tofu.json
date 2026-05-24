@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-macaroni-tofu",
+  "name": "Macarrones al horno con tofu",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "plato principal",
+    "dietas especiales",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "4 tazas de macarrones elásticos cocidos",
+    "1 taza de tofu machacado",
+    "3 tazas de salsa bechamel con queso"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180°C.\n2. Mezclar el tofu machacado y los macarrones en un plato para hornear.\n3. Verter la salsa bechamel con queso sobre la mezcla.\n4. Hornear durante 20 minutos.",
+  "url": null
+}

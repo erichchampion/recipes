@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "mushroom-foo-yung",
+  "name": "Mushroom Foo Yung",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "asian",
+    "chicken",
+    "chinese",
+    "eggs",
+    "ethnic"
+  ],
+  "recipeIngredient": [
+    "4 Eggs, lightly beaten",
+    "1/4 teaspoon Salt",
+    "1/4 teaspoon Ginger, ground",
+    "1/2 cup Chicken, cooked, finely chopped",
+    "1 cup Mushrooms, sliced",
+    "1 cup Bean sprouts, fresh",
+    "2 Green onions, finely chopped",
+    "1 Celery stalk, finely chopped",
+    "Cooking oil",
+    "Soya sauce"
+  ],
+  "recipeInstructions": "1. In a medium-sized bowl, beat together all ingredients except oil and soya sauce.\n2. Heat a small amount of cooking oil in a large skillet (or Wok) over medium heat.\n3. Drop large spoonfuls (about 2 tablespoons or 25 ml) into the skillet.\n4. Cook, turning once, until lightly browned. Repeat until all egg mixture is used.\n5. Serve with soya sauce.",
+  "url": null
+}

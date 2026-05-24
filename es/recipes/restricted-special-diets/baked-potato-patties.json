@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-potato-patties",
+  "name": "Patatas asadas en forma de hamburguesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "guarniciones",
+    "dietas especiales",
+    "verduras",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "6 patatas medianas, limpias",
+    "1/8 cucharadita pimienta molida fresca",
+    "2 cucharadas cebolla picada",
+    "2 cucharadas harina de repostería integral",
+    "1 cucharada perejil fresco picado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375°F (190°C).\n2. Rallar las patatas groseramente. Mezclar con la cebolla, el perejil, la pimienta y la harina.\n3. Dar forma a 4 hamburguesas y colocarlas en una bandeja para hornear antiadherente.\n4. Hornear durante 30 minutos. Si se desea, colocar las hamburguesas bajo el grill durante los últimos minutos para dorarlas.",
+  "url": null
+}

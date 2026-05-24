@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "frozen-pumpkin-pie",
+  "name": "Frozen Pumpkin Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1 cup pumpkin",
+    "1 tsp pumpkin spice",
+    "1 tsp salt",
+    "1 quart vanilla ice cream",
+    "1/2 cup brown sugar"
+  ],
+  "recipeInstructions": "1. Place the ingredients in a pie shell that has been baked.\n2. Freeze overnight.\n3. Top with meringue.\n4. Bake at 500 degrees Fahrenheit for 1 to 1 1/2 minutes, following the method used for Baked Alaska.",
+  "url": null
+}

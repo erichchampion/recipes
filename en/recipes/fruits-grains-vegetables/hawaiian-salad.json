@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "hawaiian-salad",
+  "name": "Hawaiian Salad",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "kids",
+    "salads"
+  ],
+  "recipeIngredient": [
+    "2 apples",
+    "2 bananas",
+    "1 can of fruit cocktail",
+    "1 bag of mini-marshmallons",
+    "-(optional)",
+    "1 container of cool whip",
+    "-(optional)(use my mock cool-whip...)"
+  ],
+  "recipeInstructions": "1. Cut the fruit into bite-size pieces.\n2. Mix the chopped fruit with the fruit cocktail and marshmallows.\n3. Add the Cool Whip, if using, and stir until everything is well combined.\n4. Refrigerate the salad before serving.",
+  "url": null
+}

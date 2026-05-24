@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "spiced-applesauce-bread",
+  "name": "Pan de manzana especiada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "otoño",
+    "frutas",
+    "pan rápido"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina",
+    "1/2 taza de harina integral",
+    "1/2 cucharadita de sal",
+    "1 cucharadita de bicarbonato de sodio",
+    "1/2 cucharadita de nuez moscada",
+    "1/2 cucharadita de canela",
+    "1/2 cucharadita de jengibre",
+    "1 huevo",
+    "1/4 taza de leche",
+    "1 taza de azúcar moreno",
+    "1 taza de puré de manzana",
+    "1/2 taza de aceite vegetal"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F (175°C).\n2. Engrasar ligeramente un molde para pan con spray de cocina vegetal.\n3. Tamizar las harinas, la sal, el bicarbonato de sodio y las especias en un bol.\n4. Batir el huevo y la leche juntos en otro bol.\n5. Agregar el azúcar moreno, el puré de manzana y el aceite a la mezcla de huevo y leche. Mezclar bien.\n6. Combinar los ingredientes húmedos con los secos hasta que estén apenas mezclados.\n7. Verter la masa en el molde para pan engrasado.\n8. Hornear durante 60 minutos.\n9. Enfriar y servir.",
+  "url": null
+}

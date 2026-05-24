@@ -1,0 +1,17 @@
+{
+  "@type": "Recipe",
+  "identifier": "improvement-in-making-coffee",
+  "name": "Improvement in Making Coffee.",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "coffee",
+    "hints",
+    "miscellaneous"
+  ],
+  "recipeIngredient": [
+    "None"
+  ],
+  "recipeInstructions": "1. Use hot water or cold water for brewing coffee. If using hot water (not boiling), add the ground coffee and seal the lid tightly.\n2. Close the spout with a cork.\n3. Place the vessel over a small lamp, fountain lamp, or similar small heating device.\n4. Ensure the wick is less than one-eighth of an inch high and use alcohol, pure spermaceti oil, or good petroleum-based oil.\n5. The aroma will be preserved without trimming the wick.\n6. Leave the coffee to simmer all night; it will continue simmering without boiling over or significantly reducing in volume.\nWARNING: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

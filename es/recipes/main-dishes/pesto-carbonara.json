@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pesto-carbonara",
+  "name": "Pesto Carbonara",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de tocino",
+    "cortado en rodajas de 1/4 de pulgada",
+    "1/4 taza de hojas de albahaca fresca",
+    "5 dientes de ajo",
+    "1/2 taza de crema para batir",
+    "2 huevos, batidos",
+    "1 taza de queso parmesano rallado (rallado fresco)",
+    "1 lb de vermicelli"
+  ],
+  "recipeInstructions": "1. En una sartén, fríe el tocino hasta que esté ligeramente dorado; escurre y reserva.\n2. Coloca la albahaca y el ajo en un procesador de alimentos o licuadora y procesa hasta obtener un picado fino.\n3. Mezcla la crema para batir con los huevos batidos en un bol grande.\n4. Añade el tocino cocido, la mezcla de albahaca y ajo, y el queso parmesano a la mezcla de huevo y crema.\n5. Cocina la pasta según las instrucciones del paquete. Escurre y añade a la mezcla de huevo.\n6. Tapa y deja reposar de 2 a 3 minutos. Destapa y revuelve para cubrir la pasta con la salsa.\n7. Sirve inmediatamente. Rinde de 4 a 6 porciones.",
+  "url": null
+}

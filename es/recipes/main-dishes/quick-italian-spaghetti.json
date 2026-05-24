@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-italian-spaghetti",
+  "name": "Espaguetis italianos rápidos",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de carne molida de res",
+    "3/4 taza de cebollas verdes, cortadas finamente",
+    "1/2 cucharadita de sal",
+    "1/8 cucharadita de pimienta negra",
+    "2 cucharaditas de azúcar",
+    "2 cucharadas de salsa Worcestershire",
+    "24 onzas de salsa de tomate (3 latas de 8 onzas)",
+    "2 1/4 oz de aceitunas maduras, escurridas y cortadas (1 lata)",
+    "Espaguetis cocidos",
+    "Queso parmesano o romano rallado",
+    "Virutas de tocino real (opcional)"
+  ],
+  "recipeInstructions": "1. En una sartén, dora la carne molida y las cebollas verdes.\n2. Añade sal, pimienta, azúcar, salsa Worcestershire y salsa de tomate; tapa y reduce el fuego. Cocina a fuego lento durante 10 minutos.\n3. Incorpora las aceitunas y cocina a fuego lento durante 5 minutos adicionales.\n4. Vierte la salsa sobre los espaguetis cocidos.\n5. Espolvorea con queso rallado y virutas de tocino, si se desea.",
+  "url": null
+}

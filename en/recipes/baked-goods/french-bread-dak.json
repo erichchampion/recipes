@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-bread-dak",
+  "name": "French Bread (Dak)",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 package Yeast",
+    "2 cups Bread flour",
+    "1 tablespoon Salt",
+    "1 tablespoon Sugar",
+    "1 tablespoon Soft butter",
+    "1 cup Plus 1 tbsp warm water"
+  ],
+  "recipeInstructions": "1. Add all ingredients to the inner pot.\n2. Select \"French bread\" setting.\n3. Push start button.",
+  "url": null
+}

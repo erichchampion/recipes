@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "moroccan-beef-stew",
+  "name": "Estofado de ternera marroquí",
+  "recipeCuisine": "Africa & Middle East",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "Marruecos",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "2 lb de paleta de ternera (en trozos para morder)",
+    "3 cucharadas de harina",
+    "2 cucharaditas de sal",
+    "2 cucharadas de aceite vegetal",
+    "20 oz de trozos de piña",
+    "2 tazas de jugo/agua",
+    "1/2 cucharadita de pimentón dulce",
+    "1/4 cucharadita de cilantro en polvo",
+    "1/4 cucharadita de cúrcuma",
+    "1/4 cucharadita de comino en polvo",
+    "1/4 cucharadita de jengibre en polvo",
+    "1/8 cucharadita de pimienta cayena",
+    "1 taza de apio picado",
+    "1/2 taza de cebolla picada",
+    "2 dientes de ajo picados",
+    "1 taza de zanahorias cortadas en rodajas",
+    "3 tomates pequeños, cortados por la mitad"
+  ],
+  "recipeInstructions": "1. Dorar la paleta de ternera en el aceite caliente.\n2. Agregar la cebolla y el ajo a la olla.\n3. Verter el jugo/agua.\n4. Incorporar las especias (pimentón, cilantro, cúrcuma, comino, jengibre, pimienta cayena).\n5. Añadir los trozos de piña y cocinar durante 30 minutos más.\n6. Agregar las zanahorias y los tomates, luego reducir el fuego y cocinar a fuego lento hasta que estén tiernos.\n7. Servir sobre arroz o con pan.",
+  "url": null
+}

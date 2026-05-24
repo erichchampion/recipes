@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "sugar-free-cookies",
+  "name": "Galletas sin azúcar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de pasas",
+    "2 tazas de harina",
+    "1 cucharadita de canela",
+    "1 cucharadita de bicarbonato de sodio",
+    "1 taza de puré de manzana sin endulzar",
+    "2 huevos",
+    "10 paquetes de Sweet and Low",
+    "3/4 taza de aceite vegetal",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Cocinar las pasas en agua hasta que estén casi secas.\n2. Agregar los ingredientes restantes a las pasas.\n3. Colocar cucharadas de la mezcla sobre una bandeja para galletas engrasada.\n4. Hornear a 175 °C durante 20 minutos.\nNota: Para una textura más esponjosa, hornear en un molde largo engrasado y enharinado a 175 °C durante 45 minutos.",
+  "url": null
+}

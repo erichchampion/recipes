@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "liquor",
+  "name": "Licor",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "2 tazas de azúcar (preferiblemente azúcar moreno, pero también se puede usar blanco)",
+    "1 litro de vodka (el más económico disponible)",
+    "2 tazas de néctar (se puede utilizar extracto herbal, café, etc.)"
+  ],
+  "recipeInstructions": "1. Mezclar el azúcar y el néctar hasta que se disuelvan por completo.\n2. Dejar enfriar la mezcla hasta que esté completamente fría.\n3. Añadir el vodka y almacenar en botellas herméticas.\n4. Dejar reposar durante al menos un año.\nOpcional:\nAgregar un trozo de fruta firme, como jackfruit, lichis, guayaba u otras frutas tropicales de tu jardín. Usar semillas de anís si lo deseas para darle un sabor similar a la ambrosia dorada. Si no se dispone de frutas frescas, utilizar una lata de fruta en almíbar y mezclar el almíbar con el vodka antes de almacenar.\nTras el envejecimiento, probar el licor; debería tener un sabor suave y delicado. Para versiones más dulces, considerar usar menos vodka o más azúcar. Disfrutar sobre tofu vegano con vainilla u otros postres helados para un capricho extra.",
+  "url": null
+}

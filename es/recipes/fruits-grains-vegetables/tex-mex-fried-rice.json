@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tex-mex-fried-rice",
+  "name": "Arroz Frito Tex-Mex",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "plato principal",
+    "arroz",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "2 tazas de caldo de pollo",
+    "1 cucharadita de sal",
+    "3/4 taza de arroz largo sin cocer",
+    "3 cucharadas de aceite para freír",
+    "6 onzas de salsa de tomate estilo español",
+    "2 cucharadas de pimiento verde picado",
+    "1 cucharada de cebolla picada"
+  ],
+  "recipeInstructions": "1. Llevar el caldo de pollo a ebullición en una cacerola mediana con tapa.\n2. Añadir la sal y el arroz, luego cubrir y cocinar a fuego medio hasta que esté hecho pero no pegajoso, aproximadamente 15 minutos.\n3. Verter el aceite para freír en una sartén pesada de 10 pulgadas y calentar hasta que esté caliente.\n4. Agregar el arroz y saltear durante 10 minutos.\n5. Incorporar el pimiento verde, la cebolla y la salsa de tomate, luego remover hasta que esté bien mezclado.\n6. Cubrir y continuar cocinando durante 10 minutos más, removiendo ocasionalmente.",
+  "url": null
+}

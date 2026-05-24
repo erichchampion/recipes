@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "peaches-and-cream-pie",
+  "name": "Tarta de Duraznos y Crema",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "frutas",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 masa de tarta de 23 cm",
+    "3 1/2 tazas de duraznos frescos pelados y cortados en rodajas",
+    "1/2 taza de azúcar",
+    "1/2 cucharadita de canela molida",
+    "Una pizca de nuez moscada molida",
+    "3 cucharadas de almidón de maíz",
+    "Media crema"
+  ],
+  "recipeInstructions": "1. Mezclar los duraznos cortados con el azúcar, las especias y el almidón de maíz en un bol.\n2. Colocar la mezcla en la masa de tarta preparada.\n3. Verter media crema sobre el relleno de fruta hasta que la masa esté tres cuartos llena.\n4. Hornear a 200 °C durante 10 minutos.\n5. Reducir la temperatura a 180 °C y continuar horneando durante 45-50 minutos más, o hasta que esté cuajado.\n6. Servir caliente o tibio.",
+  "url": null
+}

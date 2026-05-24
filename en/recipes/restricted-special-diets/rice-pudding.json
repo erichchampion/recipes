@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-pudding",
+  "name": "Rice Pudding",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "desserts",
+    "diabetic",
+    "rice",
+    "special diets"
+  ],
+  "recipeIngredient": [
+    "1/2 cup White rice",
+    "1/4 cup Sugar",
+    "1/4 cup Water",
+    "1 tablespoon Vanilla extract",
+    "2 cups Skim milk",
+    "1/2 cup Raisins"
+  ],
+  "recipeInstructions": "1. Cook the rice in 3/4 cup water over medium heat until tender, about 45 minutes.\n2. Add the skim milk and sugar. Cook slowly over low heat until thickened, about 30 minutes.\n3. Stir in the vanilla extract and raisins. Spoon into six serving dishes.",
+  "url": null
+}

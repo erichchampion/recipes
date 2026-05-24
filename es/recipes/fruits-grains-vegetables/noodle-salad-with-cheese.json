@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "noodle-salad-with-cheese",
+  "name": "Ensalada de fideos con queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "18 onzas de pasta espiral",
+    "5 encurtidos de eneldo",
+    "15 onzas de jamón cocido",
+    "15 onzas de queso suizo o emmentaler, cortado en cubos pequeños",
+    "6 cucharadas de mayonesa",
+    "4 cucharadas de crema de café (líquida)",
+    "5 cucharadas de ketchup",
+    "2 cucharadas de cebolla picada finamente",
+    "2 cucharadas de jugo de limón"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta según las instrucciones del paquete; escurrir.\n2. Cortar los encurtidos, el jamón y el queso en cubos pequeños.\n3. Mezclar la mayonesa, la crema de café, la cebolla picada y el jugo de limón. Incorporar esta mezcla al resto de los ingredientes de la ensalada.\n4. Dejar enfriar y ajustar la sazón con sal si es necesario.",
+  "url": null
+}

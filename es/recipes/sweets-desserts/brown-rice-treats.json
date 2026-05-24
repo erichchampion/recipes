@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "brown-rice-treats",
+  "name": "Bocadillos de arroz marrón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres sin azúcar",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla de maní",
+    "1/2 taza de miel",
+    "1/2 taza de nueces picadas",
+    "1/2 cucharadita de extracto de vainilla",
+    "1/2 cucharadita de canela",
+    "2 tazas de cereal inflado (tipo arroz marrón)"
+  ],
+  "recipeInstructions": "1. Mezclar la mantequilla de maní, miel, nueces, extracto de vainilla y canela en un bol.\n2. Añadir el cereal a la mezcla; remover suavemente hasta que el cereal esté bien cubierto.\n3. Formar bolas del tamaño de las nueces con la mezcla, usando manos húmedas.\n4. Colocar las bolas sobre una bandeja ligeramente engrasada o papel de horno.",
+  "url": null
+}

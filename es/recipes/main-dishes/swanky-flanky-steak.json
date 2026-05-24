@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "swanky-flanky-steak",
+  "name": "Steak Flanco Elegante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 libra de solomillo",
+    "---Marinada---",
+    "1 lata de 400g de caldo de carne",
+    "1/3 taza de vinagre balsámico",
+    "1/3 taza de salsa de soja baja en sodio",
+    "1/2 taza de cebolla finamente picada",
+    "3 dientes de ajo, finamente picados",
+    "3 cucharadas de mostaza dijon con rábano",
+    "1 cucharada de salsa Worcestershire",
+    "1 hoja de laurel",
+    "1 cucharadita de albahaca seca",
+    "1/2 cucharadita de orégano seco",
+    "1/2 cucharadita de tomillo seco",
+    "1/2 cucharadita de salvia seca",
+    "1/4 cucharadita de pimienta negra recién molida"
+  ],
+  "recipeInstructions": "Marinada: Mezclar todos los ingredientes de la marinada en una bolsa de plástico sellable. Sellar y agitar para combinar. Colocar el solomillo en la bolsa. Sellar, agitar y mezclar. Refrigerar durante 1 a 8 horas.\nPrecalentar el asador. Retirar la carne de la marinada. Descartar la marinada. Colocar la carne en una rejilla para asador.\nAhorar la carne en un asador, a 5-6 pulgadas de la fuente de calor, unos 3 minutos por lado (poco hecho) o 4 minutos por lado (medio).\nRetirar la carne del asador y colocarla en una tabla de cortar. Dejar reposar durante 10 minutos. Cortar contra el grano en diagonal.",
+  "url": null
+}

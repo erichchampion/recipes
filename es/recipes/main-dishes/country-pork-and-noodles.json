@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "country-pork-and-noodles",
+  "name": "Pasta con cerdo country",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 libra de lomo de cerdo asado, cortado en cubos (aproximadamente 2 tazas)",
+    "4 tazas de caldo de pollo",
+    "2 cucharadas de almidón de maíz",
+    "7 onzas de fideos secos de huevo",
+    "1/2 pimiento rojo, picado",
+    "3/4 taza de guisantes congelados (aproximadamente 4 onzas)",
+    "1/8 cucharadita de pimienta negra",
+    "2 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. En un bol pequeño, mezcla 1/4 taza de caldo con el almidón de maíz. Reserva.\n2. En una olla de 4 cuartos, lleva el caldo restante a ebullición. Añade los fideos y cocina durante 5 minutos.\n3. Incorpora el pimiento rojo, los guisantes y la pimienta negra. Cuando los fideos estén suaves, añade la mezcla de almidón.\n4. Cocina hasta que espese ligeramente. Mezcla el cerdo y la mantequilla. Calienta hasta que esté bien combinado.",
+  "url": null
+}

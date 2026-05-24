@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-hash-browns",
+  "name": "Patatas fritas picantes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "brunch",
+    "plato principal",
+    "patatas"
+  ],
+  "recipeIngredient": [
+    "25 lb de patatas, pelar, cocer hasta que estén tiernas, escurrir, enfriar y rallar",
+    "2,5 lb de jamón, cortar en cubos",
+    "2,5 lb de cebollas, picar",
+    "2,5 lb de pimientos verdes, picar",
+    "0,5 lb de jalapeños frescos, picar",
+    "1 taza de mantequilla, dividida",
+    "4 tarros de pimientos, escurrir y picar (de 4 oz cada uno)",
+    "10 cucharaditas de sal",
+    "5 cucharaditas de pimienta negra",
+    "2,5 cucharaditas de cayena",
+    "2,5 cucharaditas de pimentón dulce",
+    "2 lb de queso cheddar, rallar"
+  ],
+  "recipeInstructions": "1. Saltear el jamón, las cebollas y los pimientos en 1/4 taza de mantequilla hasta que estén tiernos.\n2. Dejar enfriar la mezcla durante 10 minutos.\n3. Añadir a las patatas ralladas.\n4. Mezclar los pimientos picados y las especias.\n5. Cocinar las patatas en una plancha con el resto de la mantequilla hasta que estén doradas.\n6. Dar la vuelta y cocinar el otro lado hasta que esté dorado.\n7. Colocar la mitad de las patatas sobre un plato, cubrir con queso.\n8. Devolver las patatas restantes a la plancha y terminar de cocinar.",
+  "url": null
+}

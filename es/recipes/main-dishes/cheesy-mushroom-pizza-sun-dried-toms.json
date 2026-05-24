@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheesy-mushroom-pizza-sun-dried-toms",
+  "name": "Pizza de setas con queso/Tomates secos al sol",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza",
+    "secado al sol",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 tazas de setas, laminadas",
+    "2 cucharadas de aceite",
+    "1/2 taza de salsa de pizza o tomate",
+    "1 base de pizza Boboli de 30 cm o 4 bases de 15 cm",
+    "1 taza de queso cheddar, rallado",
+    "4 tomates secos al sol, cortados en tiras"
+  ],
+  "recipeInstructions": "1. Saltear las setas en el aceite durante 2 minutos.\n2. Extender la salsa sobre la base de Boboli.\n3. Espolvorear el queso sobre la salsa.\n4. Cubrir con las setas y los tomates secos al sol.\n5. Hornear a 200 °C durante 10 minutos.",
+  "url": null
+}

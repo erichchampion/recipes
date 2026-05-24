@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "onion-egg-bread",
+  "name": "Onion Egg Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "2 1/4 teaspoons Yeast",
+    "3 cups Bread flour",
+    "3 tablespoons Onion flakes, dehydrated",
+    "1 1/2 teaspoons Poppy seeds",
+    "1 teaspoon Salt",
+    "1 tablespoon Sugar",
+    "4 tablespoons Powdered milk",
+    "2 tablespoons Butter or margarine",
+    "1 cup Water",
+    "1 large Egg",
+    "1 teaspoon Lemon juice"
+  ],
+  "recipeInstructions": "1. Combine yeast with warm water in the bread machine's liquid insert.\n2. Add bread flour, onion flakes, poppy seeds, salt, sugar, powdered milk, butter, egg, and lemon juice to the bread machine.\n3. Follow the manufacturer's instructions for loading ingredients into the machine.\n4. Select the appropriate cycle for your bread machine.\n5. Close the lid securely and start the machine.\n6. The machine will mix and knead the dough automatically.\n7. Allow the machine to complete the baking process.\n8. Once finished, remove the loaf from the machine and let it cool on a wire rack before slicing.\nWARNING: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

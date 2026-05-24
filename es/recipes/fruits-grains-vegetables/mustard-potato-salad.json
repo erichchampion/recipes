@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mustard-potato-salad",
+  "name": "Ensalada de patatas con mostaza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "huevos",
+    "patatas",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de patatas peladas y cortadas en cubos (aproximadamente 1 libra)",
+    "1 receta de ensalada de huevo estilo clásico (ver receta anterior)",
+    "1/4 taza de mayonesa",
+    "1 cucharadita de mostaza preparada",
+    "1/2 cucharadita de cebolla seca picada finamente",
+    "1/4 cucharadita de sal",
+    "Hojas de lechuga",
+    "Rodajas de remolacha - opcional"
+  ],
+  "recipeInstructions": "1. En una olla, cubrir las patatas con agua y cocinar hasta que estén tiernas pero firmes.\n2. Escurrir y enfriar las patatas.\n3. En un bol, mezclar la ensalada de huevo, la mayonesa, la mostaza, la cebolla y la sal.\n4. Incorporar las patatas frías a la mezcla.\n5. Tapar y refrigerar.\n6. Servir sobre hojas de lechuga; decorar con rodajas de remolacha si se desea.",
+  "url": null
+}

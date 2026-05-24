@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "iced-coffee-2",
+  "name": "Iced Coffee",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "coffee",
+    "diabetic",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "3/4 cup brewed coffee",
+    "1 teaspoon skim milk",
+    "2 packets Equal"
+  ],
+  "recipeInstructions": "1. Combine the brewed coffee, skim milk, and Equal in a glass.\n2. Stir until well mixed.\n3. Add ice cubes to taste and serve.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "popcorn-cake",
+  "name": "Pastel de palomitas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "4 cuartos de palomitas de maíz preparadas",
+    "1/2 libra de gominolas",
+    "1/2 libra de maní picado",
+    "1 libra de malvaviscos",
+    "1/2 taza de margarina derretida",
+    "1/2 taza de aceite de maíz"
+  ],
+  "recipeInstructions": "1. Derrite los malvaviscos, la margarina y el aceite de maíz juntos en un cazo a fuego medio.\n2. Vierte la mezcla sobre las palomitas de maíz, las gominolas y los maníes.\n3. Revuelve bien para combinar todos los ingredientes.\n4. Transfiere la mezcla a un molde para pastel redondo o para bizcocho tipo ángel.\n5. Deja enfriar completamente antes de cortar y servir.",
+  "url": null
+}

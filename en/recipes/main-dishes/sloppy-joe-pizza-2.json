@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "sloppy-joe-pizza-2",
+  "name": "Sloppy Joe Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 cup warm water",
+    "1/2 tsp yeast",
+    "1 tablespoon natural sweetener (such as sugar)",
+    "1 tbsp vinegar",
+    "1 cup skim milk",
+    "1 1/2 cups whole wheat flour",
+    "1 1/2 cups bread flour",
+    "1/2 jar Healthy Choice spaghetti sauce (thin variety)",
+    "cooked onions",
+    "peppers",
+    "mushrooms",
+    "Better Than Burger topping",
+    "1/3 cup ketchup",
+    "1 tbsp mustard",
+    "2 tbsp molasses or other sweetener",
+    "garlic",
+    "red pepper flakes",
+    "PAM cooking spray"
+  ],
+  "recipeInstructions": "1. Mix water, yeast, and natural sweetener in a bowl and let sit for 5 minutes.\n2. Mix vinegar and milk together and microwave on high for 30 seconds until it comes out gloppy. Add this mixture to the dry ingredients (yeast mixture) and stir. Gradually add the flours and knead the dough for 8 minutes.\n3. Roll out the dough on a lightly floured cookie sheet or pizza pan and bake at 350°F for about 13 minutes.\n4. Remove from the oven, cover with half of the spaghetti sauce (thin variety), cooked onions, peppers, mushrooms, and Better Than Burger topping. Place back in the oven at 350°F for 12-15 minutes until the crust is done.\n5. Mix Better Than Burger ingredients: Combine Better Than Burger, lite soy sauce, oats, and warm water. Let sit for 15 minutes, then crumble up and sauté in a PAM-coated pan until browned with browned onions.\n6. Mix ketchup, mustard, molasses, garlic, red pepper flakes, and any desired seasonings to taste.\n7. Add the spiced crumbles to the pizza or mix into the spaghetti sauce for a \"sloppy joe\" topping.\nWARNING: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

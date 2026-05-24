@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "olive-and-mint-bread",
+  "name": "Pan de oliva y menta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de harina de trigo integral",
+    "1 1/2 tazas de harina de pan",
+    "2 cucharadas de menta fresca picada o 1 cucharadita de menta seca",
+    "2 cucharaditas de albahaca fresca picada o 1 cucharadita de albahaca seca",
+    "1 1/2 cucharaditas de sal marina",
+    "1 1/4 tazas de agua",
+    "2 cucharadas de aceite de oliva",
+    "2 cucharaditas de miel",
+    "4 cucharaditas de levadura seca activa",
+    "1/2 taza de aceitunas españolas picadas, escurridas"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes excepto las aceitunas según las instrucciones del fabricante.\n2. Programar en modo integral.\n3. Al final del ciclo de mezcla, justo antes del ciclo de amasado, agregar las aceitunas (o mezclar todos los ingredientes juntos).\n4. Hornear en una máquina de pan Welbilt ABM100 utilizando el ciclo de PAN INTEGRAL sin ajustes necesarios.",
+  "url": null
+}

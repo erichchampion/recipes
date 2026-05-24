@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "german-sausage",
+  "name": "Salchicha alemana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "embutidos"
+  ],
+  "recipeIngredient": [
+    "50 lb de carne de res o ciervo (molida)",
+    "50 lb de carne de cerdo fresca (molida) no demasiado magra",
+    "1 3/4 tazas de sal (sal en saco, sin yodo)",
+    "3 oz de cura rápida Morton",
+    "3 oz de pimienta negra",
+    "2 oz de polvo de ajo (el ajo fresco es el mejor)"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en un bol grande y agregar hasta 2 cuartos de agua fría al mezclar.\n2. Rellenar las salchichas con casings usando tres cabezas de ajo pelado, rebanado y aplastado colocadas en un frasco de un litro lleno de agua hirviendo. Escurrir el jugo de ajo como se desee antes de comenzar el proceso de salchicha.",
+  "url": null
+}

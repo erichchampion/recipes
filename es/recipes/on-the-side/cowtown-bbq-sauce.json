@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "cowtown-bbq-sauce",
+  "name": "Salsa BBQ de Cowtown",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "favorito",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 1/4 pintas de ketchup",
+    "1 1/2 tazas de azúcar",
+    "1/4 taza de vinagre de sidra de manzana",
+    "2 cucharadas de melaza",
+    "1 cucharada de mostaza Dijon",
+    "2 cucharaditas de salsa Worcestershire",
+    "1 cucharadita de saborizante de humo líquido",
+    "1 1/2 cucharaditas de sal",
+    "1 cucharadita de pimienta negra",
+    "1/4 cucharadita de polvo de cebolla",
+    "1 cucharadita de polvo de ajo",
+    "Un chorrito de whisky (o brandy)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el whisky en una olla grande.\n2. Calentar la mezcla a fuego medio y dejarla cocinar a fuego lento, removiendo ocasionalmente, durante 1 hora.\n3. Agregar cuidadosamente el chorrito de whisky (o brandy) a la salsa.\n4. Continuar cocinando durante otros 30 minutos, sin permitir que la mezcla se queme.",
+  "url": null
+}

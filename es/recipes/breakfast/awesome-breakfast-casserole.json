@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "awesome-breakfast-casserole",
+  "name": "Desayuno Casero Increíble",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "cazuelas",
+    "favoritas",
+    "plato principal",
+    "patatas"
+  ],
+  "recipeIngredient": [
+    "1,5 kg de patatas fritas congeladas (hash browns)",
+    "1 kg de tocino o salchicha",
+    "3 huevos",
+    "2 oz de Velveeta",
+    "2 oz de queso cheddar rallado",
+    "1 lata de sopa cremosa de patata",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar las patatas fritas con cebolla hasta que estén crujientes.\n2. Freír la carne.\n3. Mezclar en un molde para hornear de 13x9 con los quesos, la sopa, huevos batidos, sal y pimienta.\n4. Hornear a 180°C durante 30 a 50 minutos.",
+  "url": null
+}

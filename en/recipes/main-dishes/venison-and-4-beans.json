@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "venison-and-4-beans",
+  "name": "Venison and 4-beans",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "game",
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "2 lb Venison",
+    "1 lb Bacon",
+    "1 can Pork and beans",
+    "1 can Lima beans",
+    "1 can Kidney beans",
+    "1 can Navy beans",
+    "1/2 Onion, cut up",
+    "1 Green pepper, cut up",
+    "1 cup Mustard",
+    "1 cup Catsup",
+    "1 tsp Brown sugar",
+    "1 tsp Salt",
+    "1 tsp Pepper"
+  ],
+  "recipeInstructions": "1. Brown the venison and bacon.\n2. Place all ingredients in a crock pot.\n3. Cook for 4 hours on high temperature setting.",
+  "url": null
+}

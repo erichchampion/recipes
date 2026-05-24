@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-beef-pie",
+  "name": "Pastel de carne rápido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "tartas de cena",
+    "plato principal",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de carne molida",
+    "1 cebolla mediana, picada",
+    "1/2 cucharadita de sal",
+    "1 lata de sopa de tomate condensada (400 g)",
+    "1 lata de judías verdes cortadas, escurridas (400 g)",
+    "1/4 cucharadita de pimienta",
+    "2 tazas de patatas sazonadas y machacadas",
+    "1/2 taza de queso Cheddar rallado"
+  ],
+  "recipeInstructions": "1. Desmenuzar la carne en una sartén grande.\n2. Añadir la cebolla y la sal; cocinar hasta que esté dorada.\n3. Escurrir el exceso de grasa.\n4. Incorporar la sopa, las judías verdes y la pimienta.\n5. Reducir el fuego y cocinar a fuego lento durante 5 minutos.\n6. Verter la mezcla en un molde para hornear engrasado de 2 cuartos.\n7. Extender las patatas machacadas sobre la parte superior.\n8. Espolvorear con queso.\n9. Hornear a 180 °C durante 20 minutos.",
+  "url": null
+}

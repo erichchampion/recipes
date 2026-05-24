@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-chili",
+  "name": "Mexican Chili",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "beef",
+    "chili",
+    "slow cooker",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground beef",
+    "15 1/2 oz Chili beans, hot and spicy",
+    "15 1/2 oz Chili beans, hot",
+    "28 oz Tomatoes, cut up",
+    "1 1/2 cup Celery, chopped",
+    "1 cup Onion, chopped",
+    "1/2 cup Pepper, green, chopped",
+    "4 oz Chili peppers, drained, seeded and chopped",
+    "2 tbsp Sugar",
+    "1 Bay leaf",
+    "1 t Salt",
+    "1 t Marjoram, dried, crushed",
+    "1/2 t Garlic powder",
+    "1 Pepper"
+  ],
+  "recipeInstructions": "1. Combine beans, undrained tomatoes, celery, onion, tomato paste, green pepper, green chilies, sugar, bay leaf, salt, marjoram, garlic powder and pepper in a crockpot.\n2. Brown ground beef in a skillet; drain and stir into the tomato mixture.\n3. Cook on low for 8 to 10 hours.\n4. Skim off excess fat from the chili.\n5. Remove the bay leaf before serving.",
+  "url": null
+}

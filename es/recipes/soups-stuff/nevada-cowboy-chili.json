@@ -1,0 +1,36 @@
+{
+  "@type": "Recipe",
+  "identifier": "nevada-cowboy-chili",
+  "name": "Chili del Ranchero de Nevada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "alcohol",
+    "chili",
+    "carnes",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de manteca",
+    "3 cebollas medianas, picadas groseramente",
+    "2 pimientos",
+    "2 tallos de apio, picados groseramente",
+    "1 cucharada de pimientos jalapenos encurtidos",
+    "8 libras de carne molida de chuck",
+    "30 onzas de tomates estofados",
+    "15 onzas de salsa de tomate",
+    "6 onzas de pasta de tomate",
+    "8 cucharadas de chile en polvo picante",
+    "4 cucharadas de chile en polvo suave",
+    "2 cucharaditas de comino molido",
+    "3 hojas de laurel",
+    "1 cucharada de salsa picante líquida",
+    "Sal al gusto",
+    "Ajo en polvo al gusto",
+    "Pimienta negra molida al gusto",
+    "4 onzas de cerveza",
+    "Agua"
+  ],
+  "recipeInstructions": "1. Calentar la manteca en una olla grande y pesada a fuego medio-alto.\n2. Agregar las cebollas, pimientos, apio y jalapenos. Cocinar, removiendo hasta que las cebollas se vuelvan translúcidas.\n3. Incorporar la carne al pot. Desmenuzar los grumos con un tenedor y cocinar, removiendo ocasionalmente, hasta que la carne esté uniformemente dorada.\n4. Agregar el resto de los ingredientes con suficiente agua para cubrir.\n5. Llevar a ebullición, luego reducir el fuego y cocinar a fuego lento sin tapar durante 3 horas. Remover con frecuencia.\n6. Ajustar las especias al gusto.",
+  "url": null
+}

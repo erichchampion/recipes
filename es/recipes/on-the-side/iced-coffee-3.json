@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "iced-coffee-3",
+  "name": "Café con hielo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de café instantáneo, regular o en polvo",
+    "1 litro de leche fría",
+    "1/4 taza de azúcar o edulcorante de bajo contenido calórico"
+  ],
+  "recipeInstructions": "1. Disuelve el café instantáneo y el azúcar en agua caliente.\n2. Añade 1 litro de leche fría y remueve.\n3. Agrega hielo.\nPara un sabor a mocha, utiliza leche con chocolate y reduce la cantidad de azúcar al gusto.\nPara una ración individual: disuelve 1 cucharada de café instantáneo y 2 cucharaditas de azúcar en 1 cucharada de agua caliente. Añade 1 taza de leche fría y remueve.",
+  "url": null
+}

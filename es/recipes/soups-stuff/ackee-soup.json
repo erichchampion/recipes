@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "ackee-soup",
+  "name": "Sopa de ackee",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas/estofados",
+    "americano",
+    "caribeño",
+    "étnico"
+  ],
+  "recipeIngredient": [
+    "1 lata de ackee (19 onzas), aproximadamente 4 tazas",
+    "1 1/2 taza de caldo de pollo",
+    "1/2 taza de tomates pelados y picados",
+    "1/4 taza de cebolletas picadas",
+    "Sal al gusto",
+    "Pimienta negra al gusto",
+    "Salsa Tabasco al gusto",
+    "1/2 taza de crema espesa"
+  ],
+  "recipeInstructions": "1. Combinar los ackee con el líquido de la lata en una olla.\n2. Añadir el caldo de pollo, tomates, cebolletas, sal y pimienta; cubrir y calentar a fuego lento hasta que las cebolletas estén tiernas.\n3. Mezclar la mezcla en una licuadora eléctrica.\n4. Devolver a la olla, sazonar con salsa Tabasco al gusto, mezclar la crema y calentar a fuego lento.\n5. Servir caliente o fría, adornada con cebollino picado, perejil de hoja plana o pimentón dulce si se desea.",
+  "url": null
+}

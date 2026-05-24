@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "gyro-sandwiches",
+  "name": "Sándwiches de Giro",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "griego",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 1/4 kg de carne picada magra de ternera",
+    "1 1/4 kg de carne picada magra de cordero",
+    "1/4 taza de orégano",
+    "1 1/2 cucharaditas de polvo de cebolla",
+    "1 cucharadita de polvo de ajo",
+    "3/4 cucharadita de pimienta molida (o más)",
+    "1 cucharadita de tomillo",
+    "3/4 cucharadita de sal",
+    "Salsa de yogur:",
+    "1 taza de yogur natural",
+    "1/4 taza de pepino picado finamente",
+    "1/4 taza de cebolla picada finamente",
+    "2 cucharadas de aceite de oliva",
+    "Polvo de ajo",
+    "Sal y pimienta blanca al gusto",
+    "8 panes pita grandes, cortados por la mitad",
+    "Rings de cebolla frita fina"
+  ],
+  "recipeInstructions": "Para las hamburguesas: Precalentar la parrilla o preparar una barbacoa. Mezclar los ingredientes en un bol grande con suavidad pero a fondo. Dar forma a 16 hamburguesas finas y cocinarlas en la parrilla, dándoles la vuelta una vez, hasta que estén cocidas según el gusto.\nPara la salsa: Combinar los primeros cuatro ingredientes en un bol pequeño. Añadir polvo de ajo, sal y pimienta al gusto.\nPara armar el sándwich, colocar 1 hamburguesa en cada mitad de pan pita y cubrir con salsa de yogur y rings de cebolla.",
+  "url": null
+}

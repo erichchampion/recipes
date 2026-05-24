@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-casserole-5",
+  "name": "Taco Ensalada",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "plato principal",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1 cebolla; picada",
+    "Sal",
+    "Pimienta",
+    "1 taza de frijoles refritos",
+    "1 taza de encurtidos de jalapeño; o dip de frijoles",
+    "3 oz de chiles verdes; picados",
+    "1 taza de salsa para tacos",
+    "1/4 taza de cebolletas; picadas",
+    "1 taza de aceitunas negras; picadas",
+    "1 taza de tomate; picado",
+    "1 taza de lechuga; picada",
+    "1 taza de crema agria"
+  ],
+  "recipeInstructions": "1. Freír la carne y las cebollas hasta que estén cocidas, luego escurrir.\n2. Extender los frijoles en un plato de 10x13.\n3. Cubrir con la mezcla de carne.\n4. Espolvorear con chiles verdes.\n5. Añadir queso y rociar con salsa para tacos.\n6. Enfriar si se desea.\n7. Hornear destapado a 200°C durante 20-25 minutos.\n8. Una vez hecho y ligeramente enfriado, extender el guacamole y espolvorear con lechuga, aceitunas, cebolletas y tomate.\n9. Servir con totopos de maíz.",
+  "url": null
+}

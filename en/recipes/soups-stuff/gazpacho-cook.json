@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "gazpacho-cook",
+  "name": "Gazpacho (Cook)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "appetizers",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 clove garlic, peeled",
+    "4 ripe tomatoes, cut into eighths",
+    "1 teaspoon salt",
+    "1/2 small onion, peeled/sliced",
+    "3 tablespoons wine vinegar",
+    "1 slim cucumber, peeled/cut",
+    "1/2 green pepper, seeded/sliced",
+    "1/4 teaspoon black pepper",
+    "2 tablespoons olive oil",
+    "1/2 cup ice water"
+  ],
+  "recipeInstructions": "1. Put all ingredients into a container of an electric blender.\n2. Add the ingredients in the order listed above.\n3. Cover and blend at high speed for 5-10 seconds or until the ingredients are finely chopped.\n4. Chill thoroughly.\n5. Serve, optionally accompanied by side dishes of chopped cucumber, green onion, green pepper, tomatoes, and croutons.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-stew",
+  "name": "Estofado francés",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "étnica",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne para estofar",
+    "1 taza de vino tinto",
+    "1 lata de sopa de setas",
+    "1 sobre de mezcla para sopa de cebolla seca",
+    "1 taza de cebollas pequeñas, cocidas",
+    "1 taza de zanahorias baby, cocidas",
+    "1 taza de aceitunas verdes"
+  ],
+  "recipeInstructions": "1. Cortar la carne en trozos pequeños y colocarla en una olla grande.\n2. Añadir el vino, la sopa y la mezcla de sopa al recipiente; remover bien.\n3. Hornear a 250°F durante 4 horas.\n4. Después de hornear, agregar las cebollas cocidas, zanahorias y aceitunas.\n5. Devolver la olla al horno y hornear por 30 minutos adicionales.\n6. Servir con una ensalada y pan francés caliente.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tangy-chicken",
+  "name": "Pollo Ácido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "8 muslos de pollo",
+    "8 contras de pollo",
+    "Marinada:",
+    "1/2 taza de aceite de oliva virgen extra",
+    "1/4 taza de vinagre de vino tinto",
+    "2 cucharadas de mostaza dijon",
+    "3 dientes de ajo grandes, finamente picados",
+    "sal y pimienta negra molida al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes de la marinada en un bol. Añadir el pollo; remover bien.\nCubrir y refrigerar durante la noche.\n2. Sacar el pollo del refrigerador y dejarlo a temperatura ambiente. Precalentar el horno a 350°F (175°C).\nColocar el pollo en una bandeja para hornear; verter la marinada sobre el pollo. Hornear durante 45 minutos,\nenjuagando ocasionalmente. Terminar la cocción a la parrilla, a 3-4 pulgadas de la fuente de calor (o cocinar\n15 minutos más en el horno).",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-puree",
+  "name": "Apple Puree",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "apples",
+    "fruits"
+  ],
+  "recipeIngredient": [
+    "8 ounces Granny Smith apples, pared, cored",
+    "2 ounces sugar",
+    "2 ounces apple juice",
+    "3 cinnamon sticks"
+  ],
+  "recipeInstructions": "1. Place all ingredients in a saucepan.\n2. Heat to boiling.\n3. Reduce heat and simmer until the apples are soft.\n4. Remove from heat and take out the cinnamon sticks.\n5. Let cool.\n6. Transfer to a blender or food processor.\n7. Process until smooth.",
+  "url": null
+}

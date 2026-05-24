@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "nuevo-frijoles",
+  "name": "Nuevo Frijoles",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "american",
+    "beans",
+    "ethnic",
+    "mexican",
+    "tex-mex",
+    "vegetables",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "1 lb Dried pinto beans",
+    "-soaked for 8-12 hours",
+    "1 tbsp Olive oil",
+    "1 tbsp Mexican oregano dried",
+    "1 oz Chopped block olives",
+    "1 oz Chopped green Spanish olives",
+    "1 tsp Ground cumin",
+    "1 tsp Marjoram",
+    "1 tbsp Chopped pimientos"
+  ],
+  "recipeInstructions": "1. Bring beans to a boil in water just covering them.\n2. Add the olive oil when the water starts to boil. Cook for 15 minutes.\n3. Add the balance of the ingredients: chopped block olives, chopped green Spanish olives, ground cumin, marjoram, and chopped pimientos.\n4. Cook for an additional 30 minutes, stirring occasionally and ensuring the pot is covered while cooking.\nOrigin: Don Houston's kitchen circa 1989",
+  "url": null
+}

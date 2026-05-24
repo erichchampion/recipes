@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "dilly-mashed-potatoes",
+  "name": "Papas machacadas con eneldo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "patatas",
+    "guarniciones",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 libras de patatas, peladas y cortadas en cubos",
+    "2 cucharadas de mantequilla o margarina ablandada",
+    "1/4 taza de leche",
+    "1/4 taza de crema agria",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "1/2 cucharadita de eneldo seco"
+  ],
+  "recipeInstructions": "1. Cocinar las patatas en agua hirviendo hasta que estén tiernas.\n2. Escurrir las patatas.\n3. Machacar las patatas con los ingredientes restantes.",
+  "url": null
+}

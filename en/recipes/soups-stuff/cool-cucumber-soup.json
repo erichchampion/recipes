@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cool-cucumber-soup",
+  "name": "Cool Cucumber Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "2 large cucumbers",
+    "1/4 cup walnuts",
+    "1 fennel or celery stalk",
+    "3 cups plain yogurt",
+    "1 tbsp olive oil",
+    "-----GARNISH-----",
+    "Dill or parsley, chopped"
+  ],
+  "recipeInstructions": "1. Peel the cucumbers.\n2. Blend the cucumbers and other ingredients (except the oil) in a food processor until smooth.\n3. Add the olive oil drop by drop while continuing to blend.\n4. Chill for 2 hours.\n5. Garnish with dill or parsley.",
+  "url": null
+}

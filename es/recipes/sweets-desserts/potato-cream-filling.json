@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-cream-filling",
+  "name": "Relleno de Crema de Patatas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "postres",
+    "glaseado"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla",
+    "1 taza de patatas machacadas",
+    "1/4 taza de queso crema",
+    "1/3 taza de azúcar",
+    "1/4 taza de crema agria",
+    "1 cucharada de ralladura de naranja",
+    "3 yemas de huevo",
+    "1 cucharada de ralladura de limón",
+    "1 cucharadita de vainilla"
+  ],
+  "recipeInstructions": "1. Batir la mantequilla hasta que esté suave.\n2. Incorporar las patatas machacadas y el queso crema.\n3. Mezclar el resto de los ingredientes.",
+  "url": null
+}

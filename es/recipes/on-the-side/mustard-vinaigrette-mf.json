@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mustard-vinaigrette-mf",
+  "name": "Vinaigreta de Mostaza (Mf)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "aderezos para ensaladas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 cucharadita de mostaza dijon",
+    "4 cucharadas de aceite vegetal",
+    "2 cucharadas de aceite de oliva",
+    "2 cucharadas de vinagre de vino tinto",
+    "sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Batir bien hasta que quede una mezcla homogénea.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "rhubarb-punch",
+  "name": "Punch de Ruibarbo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "batido",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "4 tazas de ruibarbo cortado",
+    "1/2 taza de azúcar",
+    "2 tazas de agua",
+    "6 onzas de limonada congelada enlatada",
+    "12 onzas de 7-Up o soda blanca"
+  ],
+  "recipeInstructions": "1. Cocinar hasta que el ruibarbo esté blando.\n2. Colar la mezcla.\n3. Añadir la limonada congelada.\n4. Antes de servir, agregar el 7-Up o la soda.\nNota: La base de ruibarbo se puede preparar durante la temporada de ruibarbo y congelar para su uso posterior con limonada y 7-Up.",
+  "url": null
+}

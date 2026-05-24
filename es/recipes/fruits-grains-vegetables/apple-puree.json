@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-puree",
+  "name": "Puré de manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "manzanas",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "8 onzas de manzanas Granny Smith peladas, sin corazón",
+    "2 onzas de azúcar",
+    "2 onzas de jugo de manzana",
+    "3 varas de canela"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en una cacerola.\n2. Lleva a ebullición.\n3. Reduce el fuego y deja cocinar a fuego lento hasta que las manzanas estén tiernas.\n4. Retira del fuego y retira las varas de canela.\n5. Deja enfriar.\n6. Transfiere a una licuadora o procesador de alimentos.\n7. Procesa hasta obtener una textura suave.",
+  "url": null
+}

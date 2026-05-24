@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "harvest-cookies",
+  "name": "Galletas de la Cosecha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/3 taza de aceite vegetal",
+    "1 huevo grande",
+    "1 taza de calabaza, cocida y machacada",
+    "1 1/2 tazas de harina blanca sin blanqueo",
+    "1/2 cucharadita de polvo de hornear",
+    "1/2 cucharadita de nuez moscada",
+    "1/2 cucharadita de canela",
+    "1 1/2 tazas de dátiles, finamente picados"
+  ],
+  "recipeInstructions": "1. Bate juntos el aceite, el huevo y la calabaza en un bol.\n2. Agrega la harina, el polvo de hornear, la nuez moscada y la canela a la mezcla. Revuelve hasta que esté bien combinado.\n3. Dobla suavemente los dátiles picados.\n4. Coge pequeñas cucharadas de masa y colócalas en hojas de hornear ligeramente engrasadas.\n5. Hornea a 175 °C durante 10 minutos o hasta que estén firmes al tacto.\n6. Retira del horno y enfría sobre rejillas.",
+  "url": null
+}

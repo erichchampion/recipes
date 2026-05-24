@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "deer-sausage",
+  "name": "Deer Sausage",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cajun/creole",
+    "game",
+    "main dish",
+    "meat",
+    "sausages"
+  ],
+  "recipeIngredient": [
+    "7 1/2 pounds venison, ground",
+    "7 1/2 pounds pork, ground",
+    "4 ounces salt",
+    "1 ounce black pepper, ground",
+    "1 1/2 ounces Accent seasoning mix",
+    "1 ounce cayenne",
+    "3 ounces light brown sugar",
+    "1 ounce Louisiana hot sauce",
+    "1 ounce paprika",
+    "3 ounces Lea & Perrins Worcestershire Sauce",
+    "3 whole fresh green onion, chopped"
+  ],
+  "recipeInstructions": "1. Combine all the ingredients in a large bowl and stir until well mixed.\n2. Place the mixture into sausage casings and tie off to form sausages.",
+  "url": null
+}

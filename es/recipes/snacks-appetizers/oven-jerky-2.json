@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "oven-jerky-2",
+  "name": "Jerky al horno #2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "carne de res",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 chuletón",
+    "1 clavo",
+    "1/2 taza de miel",
+    "Pimienta negra",
+    "4 cucharadas de jugo de limón",
+    "1/2 taza de salsa de soja",
+    "Sal marina"
+  ],
+  "recipeInstructions": "1. Congelar el chuletón durante 30 minutos hasta que esté firme al tacto.\n2. Cortar contra el grano en tiras de 6 mm de grosor.\n3. Mezclar todos los ingredientes restantes y marinar las tiras de carne durante al menos 2 horas.\n4. Colocar las tiras en una rejilla sobre una bandeja para hornear y secar en el horno a 150°F (65°C) durante 12 horas, o hasta que al doblarlas se rompan pero no se desmenuzan.",
+  "url": null
+}

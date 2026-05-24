@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "blueberry-breakfast-shake",
+  "name": "Batido de desayuno de arándanos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "frutas",
+    "plato principal",
+    "estacional"
+  ],
+  "recipeIngredient": [
+    "2 tazas de yogur natural",
+    "1 taza de arándanos frescos",
+    "1 plátano maduro de tamaño mediano",
+    "1/2 taza de jugo de naranja"
+  ],
+  "recipeInstructions": "1. Mezcla el yogur, los arándanos, el plátano y el jugo de naranja en una licuadora.\n2. Licúa hasta obtener una consistencia suave y espumosa.\n3. Vierte en vasos.",
+  "url": null
+}

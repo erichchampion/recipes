@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "western-salad",
+  "name": "Ensalada Occidental",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "Huevo, cocido",
+    "Lechuga Boston, una cabeza",
+    "Espinacas",
+    "Cebolla, en rodajas finas",
+    "Perejil, picado",
+    "Vinagre",
+    "Aceite de ensalada",
+    "Polvo de ajo",
+    "Pimentón dulce",
+    "Mostaza en polvo",
+    "Sal",
+    "Pimienta negra"
+  ],
+  "recipeInstructions": "1. Separa la yema del huevo y machácala con el ajo.\n2. Mezcla sal, pimentón, pimienta y mostaza en polvo con la yema de huevo.\n3. Añade aceite de ensalada y vinagre; bate bien hasta emulsionar.\n4. Corta el blanco del huevo en trozos pequeños y mezcla con el perejil. Incorpora a la salsa.\n5. Lava y corta la lechuga, las espinacas y la cebolla. Colócalas en un bol para ensalada.\n6. Vierte el aderezo sobre la ensalada y mezcla suavemente.",
+  "url": null
+}

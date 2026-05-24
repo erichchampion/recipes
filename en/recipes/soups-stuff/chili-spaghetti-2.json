@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-spaghetti-2",
+  "name": "Chili Spaghetti",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "main dish",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground beef",
+    "1 cup Chopped onion",
+    "1/2 cup Chopped green bell pepper",
+    "1 t Minced garlic",
+    "8 oz Tomato sauce",
+    "1/2 cup Water",
+    "2 tsp Chili powder",
+    "1 t Ground cumin",
+    "1 t Bouillon granules",
+    "1/2 tsp Ground oregano",
+    "1/2 tsp Salt",
+    "1/2 tsp Black pepper",
+    "1/2 lb Spaghetti, cooked/drained",
+    "-cheese, shredded Cheddar",
+    "-or Monterey Jack"
+  ],
+  "recipeInstructions": "1. In a large skillet, brown the meat with onion, pepper, garlic.\n2. Drain the excess fat from the skillet.\n3. Stir in the remaining ingredients except spaghetti and cheese.\n4. Simmer, covered for 10 minutes, stirring occasionally.\n5. Arrange spaghetti on a platter.\n6. Top with chili sauce.\n7. Add shredded Cheddar or Monterey Jack cheese.",
+  "url": null
+}

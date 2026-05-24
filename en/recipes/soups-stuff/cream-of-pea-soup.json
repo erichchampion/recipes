@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cream-of-pea-soup",
+  "name": "Cream of Pea Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "1 can Peas (2 1/2 cups)",
+    "1/2 teaspoon Sugar",
+    "1 pint Water",
+    "2 tablespoons Flour",
+    "1/8 teaspoon Pepper",
+    "1 tablespoon Salt",
+    "1 1/2 tablespoons Butter",
+    "1 pint Milk"
+  ],
+  "recipeInstructions": "1. Run peas and liquid through strainer; add sugar and water, then heat.\n2. Make white sauce using flour, salt, pepper, butter, and milk.\n3. As soon as the sauce boils, turn off the heat.\n4. Combine the sauce with the peas.",
+  "url": null
+}

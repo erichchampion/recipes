@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "sage-breakfast-sausage",
+  "name": "Salchichas para desayuno con tomillo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "carne",
+    "cerdo",
+    "salchichas"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne de cerdo molida",
+    "1 1/2 cucharaditas de tomillo en polvo",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de mezcla para aves de corral",
+    "1/2 cucharadita de pimienta negra",
+    "Un pellizco de canela en polvo"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta combinarlos bien.\n2. Formar la mezcla en seis hamburguesas.\n3. Enfriar durante al menos una hora.\n4. Freír en una sartén durante 3-4 minutos por cada lado, o hasta que estén doradas y ya no haya rastro de color rosado en el centro.\nYIELO: 6 raciones",
+  "url": null
+}

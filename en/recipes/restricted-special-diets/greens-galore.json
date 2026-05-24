@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "greens-galore",
+  "name": "Greens Galore",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetic",
+    "salads",
+    "side dishes",
+    "special diets",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "10 cups Kale, Swiss Chard, or Mustard Greens (or a combination of the above), chopped",
+    "2 tablespoons Olive oil",
+    "Salt and pepper to taste",
+    "Juice of 1/2 lemon",
+    "Optional: 2 medium onions, thinly sliced"
+  ],
+  "recipeInstructions": "1. Wash the greens thoroughly and chop them with their stems.\n2. In a large saucepan, heat the olive oil over medium heat.\n3. Add the onions (if using) and cook until golden brown.\n4. Stir in the chopped greens and add water to cover. Cover the pan and simmer on medium heat, stirring occasionally, until the greens are tender.\n5. Season with salt and pepper to taste.\n6. If desired, sprinkle with lemon juice.",
+  "url": null
+}

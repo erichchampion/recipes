@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "tea-liqueur",
+  "name": "Licor de té",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "aperitivos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "2 cucharaditas de hojas de té negro",
+    "1 1/2 tazas de vodka",
+    "1/2 taza de jarabe de azúcar (ver receta)"
+  ],
+  "recipeInstructions": "1. Infundir las hojas de té en el vodka durante un máximo de 24 horas. No dejar más tiempo, ya que se desarrollará un sabor amargo.\n2. Colar la mezcla y añadir el jarabe de azúcar.\n3. Envejecer el licor durante 2 semanas.\n4. Se puede utilizar cualquier tipo de té favorito para obtener el sabor deseado, y también se pueden agregar especias.\nRendimiento: 1 litro\nContenedor: Tarro de un cuarto",
+  "url": null
+}

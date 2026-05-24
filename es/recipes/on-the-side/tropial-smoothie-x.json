@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "tropial-smoothie-x",
+  "name": "Batido Tropical X",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "Patas de guayaba (ingrediente impreciso)",
+    "1 1/2 tazas de fresas, desmotadas",
+    "1/2 taza de melocotones frescos congelados o enlatados",
+    "Trozos de piña",
+    "8 onzas de yogur de piña bajo en grasa",
+    "1/2 taza de jugo de naranja",
+    "1 1/2 tazas de cubos de hielo"
+  ],
+  "recipeInstructions": "1. En una licuadora, combina todos los ingredientes excepto los cubos de hielo.\n2. Licúa hasta obtener una consistencia suave.\n3. Añade gradualmente los cubos de hielo y licúa hasta que estén completamente incorporados.",
+  "url": null
+}

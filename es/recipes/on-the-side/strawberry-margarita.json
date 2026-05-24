@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-margarita",
+  "name": "Margarita de fresa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 oz de tequila",
+    "1/2 oz de licor de fresa",
+    "1 oz de jugo de lima fresco",
+    "2 oz de fresas congeladas",
+    "Azúcar granulada",
+    "Hielo picado"
+  ],
+  "recipeInstructions": "1. Coloca azúcar granulada en un platito pequeño.\n2. Frota el borde de un vaso de cóctel frío con la cáscara de lima y sumérgelo en el azúcar hasta que quede recubierto.\n3. Llena un vaso mezclador con hielo picado.\n4. Añade la tequila, licor de fresa, jugo de lima y fresas congeladas al vaso mezclador.\n5. Agita bien y cuela en el vaso de cóctel preparado.",
+  "url": null
+}

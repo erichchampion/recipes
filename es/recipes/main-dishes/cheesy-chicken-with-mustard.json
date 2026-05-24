@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheesy-chicken-with-mustard",
+  "name": "Pollo con queso y mostaza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo deshuesadas",
+    "4 onzas de queso azul",
+    "7 onzas (200 ml) de crema doble",
+    "1 cucharada de mostaza francesa",
+    "1 onza (28 g) de mantequilla",
+    "sal",
+    "pimienta",
+    "1 cucharadita de tomillo picado",
+    "granos de pimienta rosa molidos para servir"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 400 °F (200 °C).\n2. Hacer un corte profundo en el lado de cada pechuga de pollo para formar una bolsa. Colocar una rebanada de queso en cada bolsa.\n3. Colocar el pollo en un plato apto para hornear.\n4. Mezclar la crema con la mitad de la mostaza. Verter alrededor de la base del pollo.\n5. Derretir la mantequilla y sazonar con sal, pimienta y tomillo picado. Añadir la mostaza restante. Untar sobre las partes expuestas del pollo.\n6. Hornear durante 40 minutos hasta que esté dorado. Servir con granos de pimienta rosa molidos.",
+  "url": null
+}

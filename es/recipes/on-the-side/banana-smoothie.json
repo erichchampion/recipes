@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-smoothie",
+  "name": "Batido de Plátano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 plátano mediano",
+    "1 taza de leche desnatada",
+    "1 taza de helado de vainilla",
+    "2 cucharadas de azúcar"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes a una licuadora eléctrica.\n2. Mezclar hasta obtener una consistencia suave.\n3. Servir inmediatamente.",
+  "url": null
+}

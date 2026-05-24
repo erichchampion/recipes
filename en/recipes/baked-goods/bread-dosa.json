@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "bread-dosa",
+  "name": "Bread Dosa",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "asian",
+    "bakery",
+    "breads",
+    "ethnic",
+    "indian"
+  ],
+  "recipeIngredient": [
+    "1 cup Bread crumbs",
+    "1/4 cup Rice",
+    "1/4 cup Moong dal",
+    "1 medium Onion, minced",
+    "2 each Green chiles, minced",
+    "1 small Piece of ginger, minced",
+    "1 each Handful of cilantro leaves",
+    "1/2 tsp Cumin seeds",
+    "Salt, to taste"
+  ],
+  "recipeInstructions": "1. In a bowl, cover the rice and dal with plenty of water and let soak for several hours.\n2. Drain, then grind to a fine paste.\n3. Add milk or water to make a thick batter. Stir in remaining ingredients.\n4. For each dosa, cook 2 tablespoons batter on hot greased skillet or griddle, spreading batter into thin circles.\n5. Turn the dosa once to brown both sides.\n6. Serve hot with chutney.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-espresso-cake",
+  "name": "Pastel de chocolate y espresso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de polvo de cacao sin azúcar",
+    "2 tazas de café expreso fuerte",
+    "3 tazas de harina de uso común",
+    "2 cucharaditas de bicarbonato de sodio",
+    "1/2 cucharadita de polvo de hornear",
+    "Una pizca de sal",
+    "4 huevos grandes",
+    "2 barras de mantequilla sin sal o margarina, ablandada",
+    "2 1/4 tazas de azúcar granulada",
+    "1 cucharadita de extracto de vainilla",
+    "3/4 cucharadita de extracto de almendras"
+  ],
+  "recipeInstructions": "1. Mezclar el cacao y el café expreso hasta obtener una consistencia suave.\n2. En un bol aparte, combinar la harina, el bicarbonato, el polvo de hornear y la sal.\n3. Batir los huevos, la mantequilla, el azúcar y los extractos en otro bol hasta que estén bien integrados.\n4. Añadir gradualmente la mezcla de ingredientes secos a la mezcla de huevos, alternando con la mezcla de café, empezando y terminando con los ingredientes secos.\n5. Engrasar un molde para pastel de 23 cm x 33 cm con mantequilla o margarina y enharinar el fondo.\n6. Hornear a 180 °C durante 45 minutos a 1 hora, hasta que un palillo insertado en el centro salga limpio.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "1-2-3-4-5-cake",
+  "name": "Pastel 1-2-3-4-5",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de mantequilla",
+    "2 tazas de azúcar",
+    "3 tazas de harina",
+    "4 huevos",
+    "5 cucharaditas de polvo de hornear",
+    "1 taza de leche",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcle la mantequilla y el azúcar hasta que estén bien combinados.\n2. Agregue los huevos a la mezcla y siga batiendo hasta incorporarlos.\n3. Incorpore el extracto de vainilla.\n4. Vierta la leche y luego añada el polvo de hornear.\n5. Mezcle suavemente la harina hasta que esté apenas combinada.\n6. Precaliente el horno a 175 °C (350 °F).\n7. Coloque la masa en un molde para pastel engrasado y hornee durante 30 minutos, o hasta que un palillo insertado en el centro salga limpio con un ligero rebote.",
+  "url": null
+}

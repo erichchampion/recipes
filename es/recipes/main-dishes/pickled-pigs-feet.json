@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pickled-pigs-feet",
+  "name": "Piezas de cerdo encurtidas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "4 piezas de pieza de cerdo",
+    "3 tazas de vinagre",
+    "1 cebolla",
+    "12 granos de pimienta negra enteros",
+    "6 clavos de olor enteros",
+    "1 hoja de laurel",
+    "1 cucharada de sal"
+  ],
+  "recipeInstructions": "1. Divida las piezas de cerdo y lávelas bien.\n2. Colóquelas en una olla y cubra con agua fría.\n3. Lleve a ebullición, retirando la espuma si es necesario.\n4. Agregue el vinagre y vuelva a llevar a ebullición.\n5. Retire del fuego y añada las especias (cebolla, pimienta negra, clavos de olor, hoja de laurel, sal).\n6. Deje enfriar completamente la mezcla antes de servir a temperatura ambiente.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "rocky-road-yogurt",
+  "name": "Yogur de Camino Rocoso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "chocolate",
+    "postres",
+    "yogur helado"
+  ],
+  "recipeIngredient": [
+    "2 tazas de yogur helado, cualquier sabor",
+    "2 cucharadas de pasas",
+    "2 cucharadas de mini marshmallows",
+    "2 cucharadas de sirope de chocolate"
+  ],
+  "recipeInstructions": "1. Deje que el yogur helado se ablande a temperatura ambiente.\n2. Mezcle las pasas, los mini marshmallows y el sirope de chocolate hasta obtener una mezcla uniforme.\n3. Devuelva la mezcla al congelador.\n4. Retire del congelador y sirva cuando alcance la consistencia deseada.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "dagwood-sandwiches",
+  "name": "Dagwood Sandwiches",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "sandwiches",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "Dijon mustard",
+    "1 loaf best-quality sliced whole grain bread",
+    "1 cup mayonnaise",
+    "1 cup salad dressing",
+    "1 1/2 tablespoons minced fresh basil",
+    "1 loaf best-quality sliced sourdough bread",
+    "1/2 pound smoked turkey, thinly sliced",
+    "1/2 pound imported Emmenthaler or Jarlsberg cheese, thinly sliced",
+    "1 bunch fresh spinach, stems removed",
+    "1 head romaine lettuce, washed and dried",
+    "1/2 pound ham, thinly sliced"
+  ],
+  "recipeInstructions": "1. Spread mustard on one side of a slice of whole grain bread.\n2. Spread salad dressing on one side of another slice of whole grain bread.\n3. Mix mayonnaise with basil and spread onto both sides of a slice of sourdough bread.\n4. Arrange a slice of turkey, a slice of cheese, and two spinach leaves on the whole grain bread slice with mustard.\n5. Place the sourdough slice on top, followed by a leaf of romaine lettuce and a slice of ham.\n6. Cover with the remaining whole grain bread slice.\n7. Secure the sandwich with two bamboo skewers.\n8. Repeat steps 1-7 to make a total of 8 double-decker sandwiches.",
+  "url": null
+}

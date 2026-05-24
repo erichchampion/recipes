@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-milk",
+  "name": "Leche de arroz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "lácteos",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "4 tazas de agua caliente/tibia",
+    "1 taza de arroz cocido (blanco o integral)",
+    "1 cucharadita de vainilla"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en una licuadora y mezcla hasta obtener una textura suave.\n2. Deja reposar la leche durante unos 30 minutos, sin agitarla, luego viértela en otro recipiente, dejando la mayor parte del sedimento en el primero.\n3. Esto rinde aproximadamente 4-4/12 tazas de leche de arroz.\n4. Cuando se utiliza agua fría o arroz refrigerado, los resultados pueden no ser tan buenos. Lo ideal es usar agua tibia y arroz tibio (se pueden recalentar las sobras, pero la frescura es mejor). Dejar reposar durante más de 30 minutos (de noche) no mejora el resultado.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "salsa-rapida-quick-sauce",
+  "name": "Salsa Rápida",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "americana",
+    "étnica",
+    "mexicana",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "2 Tomates, pelados y picados",
+    "1 Cebolla, pelada y picada",
+    "1 Diente de ajo, machacado",
+    "1 Pimiento rojo pequeño, picado finamente",
+    "3 Ramas de perejil",
+    "1/2 cucharadita de cilantro molido",
+    "1 Cuchara de sal",
+    "Unas gotas de orégano",
+    "Unas gotas de clavo molido",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar los vegetales picados.\n2. Añadir las especias.\n3. Servir con carne o tortillas.",
+  "url": null
+}

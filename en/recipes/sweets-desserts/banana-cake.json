@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-cake",
+  "name": "Banana Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "bananas",
+    "cakes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "3 cups whole wheat flour",
+    "2 cups dark brown sugar",
+    "2 cups mashed bananas",
+    "1/2 cup chopped nuts",
+    "2/3 cup oil",
+    "2 teaspoons baking soda",
+    "1 teaspoon salt",
+    "1/2 teaspoon baking powder",
+    "4 eggs",
+    "1 small package banana pudding mix",
+    "1 tablespoon cinnamon"
+  ],
+  "recipeInstructions": "1. In a large bowl, combine the whole wheat flour, dark brown sugar, mashed bananas, chopped nuts, oil, baking soda, salt, and baking powder.\n2. Add the eggs and banana pudding mix to the dry ingredients. Mix until well combined.\n3. Pour the batter into a greased 13x9 inch cake pan.\n4. Bake at 350°F for approximately 45 minutes or until a toothpick inserted into the center of the cake comes out clean.",
+  "url": null
+}

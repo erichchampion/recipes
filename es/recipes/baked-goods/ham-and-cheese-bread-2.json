@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-and-cheese-bread-2",
+  "name": "Pan de jamón y queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de pan (1 libra)",
+    "1 1/2 cucharaditas de levadura seca activa (1 1/2 cs)",
+    "2 1/2 cucharaditas de azúcar (2 1/2 cs)",
+    "3 cucharadas de trozos de jamón picados (3 cb)",
+    "1/4 taza de queso suizo rallado (1/4 t)",
+    "2 1/2 cucharaditas de cebolla picada deshidratada (5 cs)",
+    "3/4 taza de queso cheddar rallado (1/2 t)",
+    "1 cucharadita de pimentón (1/2 cs)",
+    "5 cucharadas de queso parmesano rallado (5 cb)",
+    "1/2 cucharadita de mostaza en polvo (1/2 cs)",
+    "1/4 cucharadita de sal (1/4 cs)",
+    "2 1/2 tazas de harina de pan (1 3/4 t)",
+    "5 cucharadas de mantequilla (2 1/2 cb)",
+    "4 1/2 onzas de leche tibia (7 oz)"
+  ],
+  "recipeInstructions": "1. Mezclar la levadura, el azúcar y la leche tibia en la máquina del pan.\n2. Añadir los trozos de jamón, el queso suizo, la cebolla picada, el queso cheddar, el pimentón, el parmesano, la mostaza y la sal a la máquina del pan.\n3. Seleccionar el programa para una corteza ligera.\n4. Presionar el botón de inicio para comenzar la mezcla.\n5. Dejar que la masa suba completamente antes de hornear.",
+  "url": null
+}

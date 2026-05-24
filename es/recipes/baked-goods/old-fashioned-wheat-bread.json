@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "old-fashioned-wheat-bread",
+  "name": "Pan de trigo tradicional",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de agua",
+    "1 1/2 cucharadas de aceite de canola",
+    "1 1/2 cucharadas de jarabe de arce",
+    "1 2/3 tazas de harina todo uso sin blanquear",
+    "1/3 taza de harina integral",
+    "2 cucharadas de leche en polvo",
+    "1 cucharadita de sal marina fina",
+    "1 1/2 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en la panera de tu máquina de pan, en el orden indicado.\n2. Si el manual de tu máquina indica que los ingredientes secos se deben colocar primero y los líquidos al final, invierte el orden.\n3. Selecciona el ciclo Basic Wheat (Trigo Básico).\n4. Elige la configuración LIGHT (o la configuración equivalente para tu máquina).\n5. Presiona Start (Iniciar).",
+  "url": null
+}

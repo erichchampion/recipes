@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pancakes",
+  "name": "Pancakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "pancakes"
+  ],
+  "recipeIngredient": [
+    "1 cup flour",
+    "1 tbsp baking powder",
+    "1/4 tsp baking soda",
+    "1/2 cup sugar"
+  ],
+  "recipeInstructions": "1. Mix the dry ingredients: Combine 1 cup flour, 1 tbsp baking powder, and 1/4 tsp baking soda in a large bowl.\n2. Add the sugar: Stir in 1/2 cup sugar until well combined.\n3. Incorporate liquid: Gradually add at least 1 cup of water (or soy milk) to the dry ingredients, stirring until you achieve the desired consistency. For thinner pancakes, add more water.\n4. Optional: Add a dash of lemon juice for flavor.\n5. Cook the pancakes: Spray the griddle with a small amount of cooking spray between each pancake, or brush very lightly with oil.",
+  "url": null
+}

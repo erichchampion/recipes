@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburgers-au-poivre",
+  "name": "Hamburgers Au Poivre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "burgers",
+    "main dish",
+    "meat",
+    "meats"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground Beef",
+    "1/2 tsp Salt",
+    "1/2 tbsp Freshly Cracked Black Pepper",
+    "3 tbsp Red Wine (dry), optional"
+  ],
+  "recipeInstructions": "1. Mix meat and salt. Shape mixture into 4 patties, each about 3/4 of an inch thick.\n2. Press pepper into both sides of the patties.\n3. Cook the patties in a large skillet over medium-high heat, turning once, until the desired doneness is reached (about 8 minutes).\n4. Drain off the fat.\n5. Sprinkle cognac over the patties, if using, and ignite if desired.\n6. Remove patties to a warm platter.\n7. Stir the wine into the drippings in the skillet until boiling, stirring constantly.\n8. Serve sauce over the patties.",
+  "url": null
+}

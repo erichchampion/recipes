@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-style-lasagne",
+  "name": "Lasaña al estilo mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "legumbres",
+    "verduras",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "10 oz de salsa de enchilada",
+    "16 oz de tomates enlatados (sin escurrir)",
+    "6 oz de pasta de tomate",
+    "15 oz de frijoles negros enlatados (escurridos)",
+    "9 oz de láminas de lasaña (aproximadamente 9)",
+    "1 pinta de queso cottage (2 tazas)",
+    "3 tazas de queso cheddar rallado (3/4 libra)",
+    "Cebolla picada"
+  ],
+  "recipeInstructions": "Precalentar el horno a 375°F.\nEn un bol, mezclar la salsa de enchilada, los tomates con su jugo y la pasta de tomate. Combinar bien para integrar los ingredientes.\nAgregar los frijoles negros y remover.\nExtender un tercio del mezcla de salsa de tomate sobre el fondo de un molde para hornear de 12 x 8 pulgadas.\nColocar tres láminas de lasaña sin cocinar sobre la salsa. Extender uniformemente una taza de queso cottage y espolvorear con una taza de queso cheddar.\nAñadir la mitad del resto de la mezcla de salsa de tomate encima.\nAgregar otra capa de tres láminas, una taza de queso cottage y una taza de queso cheddar.\nColocar las tres láminas restantes, el resto de la salsa de tomate y el resto del queso cheddar.\nCubrir apretadamente con papel aluminio y hornear durante 50-60 minutos.\nAntes de servir, espolvorear con cebolla picada.",
+  "url": null
+}

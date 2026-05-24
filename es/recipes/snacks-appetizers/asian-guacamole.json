@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "asian-guacamole",
+  "name": "Guacamole Asiático",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "mexicano",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de semillas de sésamo negro",
+    "1 cucharada de semillas de sésamo blanco",
+    "1 aguacate grande y firme, cortado en cubos",
+    "1 cucharada de jengibre encurtido rallado",
+    "3 cucharadas de vinagre de arroz sazonado (o 3 cucharadas de vinagre de manzana mezclado con 1 cucharadita de azúcar y 1/2 cucharadita de polvo de wasabi o rábano picante preparado)"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar los cubos de aguacate, el jengibre encurtido rallado y el vinagre de arroz sazonado.\n2. Agregar las semillas de sésamo y remover hasta que queden bien cubiertas.\n3. Mezclar suavemente hasta combinar todos los ingredientes.",
+  "url": null
+}

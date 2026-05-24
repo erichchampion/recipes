@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheesy-spanish-omelette",
+  "name": "Omeleta española con queso",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aceite de oliva",
+    "2 cucharadas de mantequilla",
+    "1 cebolla, picada",
+    "1 diente de ajo, machacado",
+    "1 pimiento rojo, sin semillas, cortado en dados",
+    "3/4 taza de col verde finamente rallada",
+    "4 rebanadas de tocino, picadas",
+    "1 cucharadita de fenogreco",
+    "1/2 cucharadita de comino molido",
+    "4 huevos batidos",
+    "1 cucharada de agua fría",
+    "Sal al gusto",
+    "Pimienta fresca molida al gusto",
+    "1/2 taza de queso cheddar rallado",
+    "tiras de pimiento rojo (opcional)",
+    "ramitas de perejil italiano fresco (opcional)"
+  ],
+  "recipeInstructions": "1. Calentar el aceite y la mantequilla en una sartén antiadherente de tamaño mediano a fuego medio.\n2. Añadir la cebolla, el ajo, el pimiento rojo, la col y el tocino; freír a fuego lento durante 5 minutos, removiendo ocasionalmente.\n3. Agregar el fenogreco y el comino; remover bien.\n4. Precalentar el grill.\n5. Batir los huevos con agua fría, sal y pimienta; verter en la sartén.\n6. Remover la sartén para asegurar una cobertura uniforme.\n7. Cocinar a fuego lento durante 3-4 minutos, o hasta que la mezcla sea dorada por debajo.\n8. Espolvorear con queso y colocar bajo el grill precalentado hasta que la mezcla esté cuajada en la parte superior y el queso se haya derretido.\n9. Cortar en 4 wedges; decorar con tiras de pimiento rojo y ramitas de perejil, si se desea, y servir caliente.",
+  "url": null
+}

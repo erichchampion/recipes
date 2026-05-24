@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "steak-au-poivre-2",
+  "name": "Steak al pimiento",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "2 1/2 lb filetes de solomillo",
+    "2 cucharadas de granos de pimienta negra",
+    "2 cucharadas de mantequilla",
+    "1/4 taza de vino tinto",
+    "sal al gusto"
+  ],
+  "recipeInstructions": "1. Cubrir los filetes por ambos lados con pimienta molida, presionando para que se adhiera.\n2. Cocinar los filetes en mantequilla caliente durante 3 minutos por cada lado.\n3. Retirar los filetes a una placa cálida y sazonar con sal.\n4. Verter el vino en la sartén para desglasar y cocinar durante 2 minutos adicionales.\n5. Verter la salsa sobre los filetes.",
+  "url": null
+}

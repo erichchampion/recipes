@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetable-burger-soup",
+  "name": "Vegetable Burger Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "burgers",
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "1/2 lb Ground beef",
+    "2 cups Water",
+    "16-oz Stewed tomatoes",
+    "8-oz Tomato sauce",
+    "10-oz Frozen mixed vegetables",
+    "1/4 cup Dry onion soup mix",
+    "1 tsp Sugar"
+  ],
+  "recipeInstructions": "1. Brown the ground beef in a large saucepan.\n2. Drain off any excess fat.\n3. Stir in water, stewed tomatoes, tomato sauce, frozen mixed vegetables, dry onion soup mix, and sugar.\n4. Bring the mixture to a boil.\n5. Reduce heat and simmer for 20 minutes.",
+  "url": null
+}

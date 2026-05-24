@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "lentil-burgers",
+  "name": "Hamburguesas de lentejas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "frijoles",
+    "hamburguesas",
+    "plato principal",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 taza de lentejas",
+    "2/3 taza de arroz",
+    "2 1/2 tazas de agua",
+    "1 rebanada de pan de trigo",
+    "1/2 taza de cebolla picada",
+    "1/4 cucharadita de sal de apio"
+  ],
+  "recipeInstructions": "1. Cocinar las lentejas y el arroz juntos en agua hasta que se absorba el agua.\n2. Machacar las lentejas y el arroz cocidos. Desmenuzar el pan en trozos y añadirlo a la mezcla de lentejas con los demás ingredientes.\n3. Mezclar bien y formar hamburguesas.\n4. Broilar hasta dorar, dando la vuelta una vez.",
+  "url": null
+}

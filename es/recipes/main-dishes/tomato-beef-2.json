@@ -1,0 +1,35 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-beef-2",
+  "name": "Bistec de Tomate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de solomillo de res, en rodajas finas",
+    "3 tomates",
+    "2 cebolletas",
+    "1 diente de ajo (picado)",
+    "2 cucharadas de aceite",
+    "Marinada para la carne:",
+    "1 cucharada de salsa de soja",
+    "1 1/2 cucharadas de vino",
+    "1 1/2 cucharadas de agua",
+    "1/2 cucharada de aceite",
+    "1/2 cucharada de aceite de sésamo",
+    "1/2 cucharada de almidón de maíz",
+    "Salsa:",
+    "3 cucharadas de ketchup de tomate",
+    "1 cucharadita de azúcar",
+    "1/2 cucharadita de vinagre",
+    "Una pizca de pimienta y sal",
+    "1/2 cucharada de almidón de maíz disuelto en 1 cucharada de agua"
+  ],
+  "recipeInstructions": "1. Marina las rodajas de res durante 30 minutos.\n2. Calienta un wok con 2 cucharadas de aceite y el ajo durante 30 segundos.\n3. Añade la carne, cocina durante 1-2 minutos, escurre el aceite sobrante y reserva.\n4. Calienta el wok a fuego alto, añade los tomates en rodajas y saltea durante 2 minutos.\n5. Vierte entonces la mezcla de salsa. Espesa si está demasiado líquida.\n6. Devuelve la carne al wok y mezcla bien. Sirve caliente.",
+  "url": null
+}

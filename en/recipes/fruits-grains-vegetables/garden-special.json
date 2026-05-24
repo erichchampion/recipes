@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "garden-special",
+  "name": "Garden Special",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pickles"
+  ],
+  "recipeIngredient": [
+    "1 quart Lima beans, fresh or canned",
+    "1 quart Chopped string beans",
+    "2 quarts Shredded cabbage",
+    "2 quarts Small onions, chopped",
+    "2 quarts Chopped green tomatoes",
+    "2 pounds Brown sugar",
+    "1 gallon Vinegar",
+    "1 quart Green corn",
+    "2 quarts Small cucumbers, sliced",
+    "3 bunches Celery, diced",
+    "6 large Carrots, chopped",
+    "1 dozen Green peppers, chopped",
+    "1 Red pepper, chopped",
+    "3 teaspoons Mustard seed",
+    "3 teaspoons Celery seed"
+  ],
+  "recipeInstructions": "1. Cook the vegetables separately until tender in water to cover.\n2. Combine the cooked vegetables.\n3. Add sugar, vinegar, celery seed, and mustard seed.\n4. Mix thoroughly and heat to boiling.",
+  "url": null
+}

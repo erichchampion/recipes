@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "health-bread",
+  "name": "Pan de salud",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina de uso general",
+    "1 cucharadita de sal",
+    "1 cucharadita de polvo de hornear",
+    "1/3 taza de azúcar blanco",
+    "1 cucharadita de bicarbonato de sodio",
+    "2 tazas de avena en hojuelas para cocción rápida",
+    "1/2 taza de melaza",
+    "2 cucharadas de manteca derretida",
+    "2 tazas de leche agria",
+    "1 taza de pasas"
+  ],
+  "recipeInstructions": "1. Cierna juntos los primeros cinco ingredientes.\n2. Añade la avena, la melaza, la manteca derretida y la leche agria a los ingredientes cernidos. Mezcla bien.\n3. Dobla las pasas en la masa.\n4. Vierte la masa en un molde para pan grande engrasado.\n5. Deja reposar durante 20 minutos.\n6. Hornea a 175 °C durante aproximadamente 1 hora.",
+  "url": null
+}

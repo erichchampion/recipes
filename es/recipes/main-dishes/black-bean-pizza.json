@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "black-bean-pizza",
+  "name": "Pizza de frijoles negros",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "Masa de pizza de 30 cm",
+    "1 lata de frijoles negros, machacados",
+    "1 taza de queso Monterey Jack bajo en grasa, rallado",
+    "1/2 aguacate grande, machacado"
+  ],
+  "recipeInstructions": "1. Extender los frijoles negros machacados de forma uniforme sobre la masa de pizza.\n2. Espolvorear el queso Monterey Jack rallado sobre los frijoles.\n3. Colocar la pizza en el horno precalentado a 190 °C (375 °F) y hornear durante unos 15 minutos, o hasta que la masa esté dorada y el queso se haya derretido.\n4. Retirar la pizza del horno y cubrir con aguacate machacado.\n5. Servir inmediatamente.",
+  "url": null
+}

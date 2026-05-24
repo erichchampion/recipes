@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "creamsicle",
+  "name": "Creamsicle",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/2 oz Vodka",
+    "1/2 oz Triple sec; or Cointreau",
+    "1/2 oz Orange juice",
+    "1 Vanilla ice cream"
+  ],
+  "recipeInstructions": "1. Add all ingredients to a blender.\n2. Blend at high speed until smooth, about 30 seconds.\n3. Serve with a straw in a dessert or cocktail glass.\n4. Tastes just like a Dreamsicle!",
+  "url": null
+}

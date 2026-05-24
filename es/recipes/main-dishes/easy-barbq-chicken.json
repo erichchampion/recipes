@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-barbq-chicken",
+  "name": "Pollo Barbacoa Fácil",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "carnes",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 pollo grande, cortado en trozos",
+    "Sal",
+    "Pimienta",
+    "1 taza de ketchup Red Gold",
+    "16 onzas (473 ml) de Coca-Cola"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una sartén.\n2. Cocinar a fuego medio durante 30 minutos con la tapa puesta.\n3. Retirar la tapa y continuar cocinando por otros 30 minutos.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "iced-mocha-cappuccino",
+  "name": "Cappuccino de Moca con Hielo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de sirope de chocolate",
+    "1 taza de espresso doble caliente o café muy fuerte",
+    "1/4 taza de media crema (half-and-half)",
+    "4 cubos de hielo"
+  ],
+  "recipeInstructions": "1. Mezclar el sirope de chocolate con el café caliente hasta que se derrita.\n2. En una licuadora, combinar el café con la media crema y los cubos de hielo.\n3. Licuar a velocidad alta durante 2 a 3 minutos.\n4. Servir inmediatamente en un vaso alto y frío.\nEsta receta rinde 1 porción.",
+  "url": null
+}

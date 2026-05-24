@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "bean-and-beef-soup",
+  "name": "Sopa de Frijoles y Carne de Res",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "1 lb (aprox. 450 g) de frijoles navos",
+    "1 lb (aprox. 450 g) de ciruelas pasas",
+    "1 litro de zanahorias cortadas",
+    "1 1/2 cuartos (aprox. 1,3 L) de papas cortadas",
+    "1 lb (aprox. 450 g) de carne de guiso de res",
+    "1 cebolla",
+    "Sal y pimienta al gusto",
+    "12 clavos enteros"
+  ],
+  "recipeInstructions": "1. Remojar 1 libra de frijoles navos durante la noche.\n2. Cocinar los frijoles, las ciruelas pasas, la carne y las verduras por separado sin escurrir.\n3. Mezclar todos los ingredientes.\n4. Reducir a fuego lento hasta que los sabores se combinen bien.",
+  "url": null
+}

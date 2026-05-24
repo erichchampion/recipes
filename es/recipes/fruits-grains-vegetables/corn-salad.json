@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "corn-salad",
+  "name": "Ensalada de Maíz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "16 onzas (450 g) de maíz entero en lata, escurrido",
+    "2 oz (57 g) de queso cheddar o suizo cortado en cubos de 1/4 de pulgada",
+    "2 oz (57 g) de pimiento verde picado",
+    "2 oz (57 g) de cebolla picada",
+    "2 oz (57 g) de pepino picado",
+    "2 oz (57 g) de relish de pepinillos",
+    "2 oz (57 g) de aderezo Thousand Island",
+    "Lechuga"
+  ],
+  "recipeInstructions": "1. En un bol, combina el maíz escurrido, los cubos de queso, el pimiento verde, la cebolla, el pepino, y el relish de pepinillos.\n2. Incorpora cuidadosamente el aderezo Thousand Island.\n3. Tapa y refrigera durante varias horas o toda la noche.\n4. Sirve en hojas de lechuga.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "sugar-pie",
+  "name": "Tarta de azúcar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tarta",
+    "tartas",
+    "jarabe"
+  ],
+  "recipeIngredient": [
+    "Masa de repostería de tu elección",
+    "1/2 cucharadita de bicarbonato de sodio",
+    "1/4 cucharadita de extracto de vainilla",
+    "1 1/2 tazas de jarabe de arce",
+    "1 taza de harina de uso general",
+    "1 taza de azúcar moreno oscuro",
+    "Una pizca de nuez moscada",
+    "1/3 taza de mantequilla"
+  ],
+  "recipeInstructions": "1. Forrar un molde para tarta de 23 cm con la masa.\n2. Mezclar el bicarbonato y la vainilla en el jarabe y verterlo sobre la masa.\n3. Con los dedos, mezclar los ingredientes restantes (harina, azúcar moreno, nuez moscada y mantequilla) hasta obtener una textura arenosa.\n4. Extender la mezcla arenosa sobre el jarabe.\n5. Colocar papel de aluminio debajo del molde para evitar que salga líquido durante la cocción.\n6. Hornear a 180 °C durante 30 minutos.\n7. Dejar enfriar completamente; servir frío.",
+  "url": null
+}

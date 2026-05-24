@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "octopus-pasta",
+  "name": "Pasta de pulpo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "pulpo",
+    "pasta",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1 pequeño pulpo (aproximadamente 3 1/4 libras)",
+    "1/2 taza de aceite de oliva",
+    "1 ramita de romero",
+    "1 hoja de laurel",
+    "1 pizca de orégano",
+    "1 cucharadita de semillas de comino",
+    "Perejil picado",
+    "1 pimiento verde, picado",
+    "1/2 lb tomates, pelados y cortados en trozos pequeños",
+    "3 dientes de ajo, picados",
+    "Sal y pimienta al gusto",
+    "1 lb espagueti"
+  ],
+  "recipeInstructions": "1. Lavar cuidadosamente el pulpo y secarlo. Retirar la boca.\n2. Calentar el aceite de oliva en una sartén. Añadir el romero, la hoja de laurel, el orégano, las semillas de comino, el perejil picado, el pimiento verde y el ajo picado.\n3. Colocar el pulpo sobre la mezcla y sazonar con sal y pimienta.\n4. Cubrir la olla y dejar cocinar a fuego lento durante unos 45 minutos.\n5. Cocinar el espagueti en abundante agua hirviendo con sal hasta que esté al dente (firme al mordisco).\n6. Escurrir y transferir el espagueti a un plato de servir caliente.\n7. Mezclar la salsa de pulpo con la pasta cocida.\n8. Servir caliente.",
+  "url": null
+}

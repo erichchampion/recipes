@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "janet-s-pork-chops",
+  "name": "Lomos de cerdo de Janet",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carnes",
+    "cerdo",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "6-8 chuletas de cerdo",
+    "Ketchup",
+    "1 pimiento rojo; picado",
+    "1 cebolla; picada",
+    "1/2 taza de agua"
+  ],
+  "recipeInstructions": "1. Dorar las chuletas de cerdo en una sartén.\n2. En una olla de cocción lenta, crear capas con los siguientes ingredientes: 1 chuleta de cerdo, 1/6 de la cebolla picada, 1/6 del pimiento rojo picado, una fina capa de ketchup.\n3. Repetir las capas hasta agotar todos los ingredientes.\n4. Verter el agua en la olla de cocción lenta.\n5. Cocinar a temperatura alta durante 3 horas.",
+  "url": null
+}

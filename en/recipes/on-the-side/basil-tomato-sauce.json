@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "basil-tomato-sauce",
+  "name": "Basil Tomato Sauce",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "italian",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 pounds Fresh tomatoes, seeded and chopped",
+    "1 tablespoon Olive oil",
+    "1 Onion, chopped",
+    "1 tablespoon fresh basil",
+    "1 tablespoon thyme",
+    "1 tablespoon parsley, minced",
+    "1 tablespoon Parmesan cheese"
+  ],
+  "recipeInstructions": "1. Heat olive oil in a large pan over medium heat.\n2. Add onions and sauté until softened, about 5 minutes.\n3. Stir in basil, thyme, and parsley.\n4. Add tomatoes and cook for another 10 minutes.\n5. Grate Parmesan cheese into the sauce and stir to combine.\n6. Simmer for 15 minutes, stirring occasionally.\n7. Use a blender or food processor to puree the sauce until smooth.",
+  "url": null
+}

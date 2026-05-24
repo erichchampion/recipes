@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-and-tofu",
+  "name": "Spaghetti and Tofu",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "1 cup Tofu, mashed",
+    "2 tbsp Nutritional yeast",
+    "1 tbsp Oil",
+    "2 tbsp Tamari",
+    "2 cups Cooked spaghetti",
+    "3 cups Tomato sauce"
+  ],
+  "recipeInstructions": "1. In a medium-sized bowl, combine the mashed tofu, nutritional yeast, oil, and tamari.\n2. Stir in the cooked spaghetti and tomato sauce until everything is well mixed.\n3. Transfer the mixture to a baking dish and bake in a moderate oven (350°F/175°C) for about 20-25 minutes, or until heated through.\n4. Serve hot.",
+  "url": null
+}

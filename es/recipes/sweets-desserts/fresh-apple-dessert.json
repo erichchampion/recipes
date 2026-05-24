@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "fresh-apple-dessert",
+  "name": "Postre de Manzana Fresca",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 paquete de mezcla para pastel amarillo",
+    "2/3 taza de margarina (ablandada), o mantequilla",
+    "4 cucharadas de azúcar moreno (presionado)",
+    "1 cucharadita de canela en polvo",
+    "2 manzanas grandes, peladas y cortadas en rodajas finas, o peras firmes",
+    "1 taza de crema agria, o crema agria baja en grasa",
+    "1 huevo, o 1/4 taza de producto de huevo sin colesterol descongelado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 grados.\n2. Mezclar la mezcla para pastel (seca), margarina, azúcar moreno y canela hasta obtener migas. Reservar 2/3 de esta mezcla.\n3. Presionar la mezcla restante en una fuente rectangular sin engrasar de 13x9x2 pulgadas.\n4. Disponer las rodajas de manzana sobre la capa de migas en la fuente.\n5. Batir la crema agria y el huevo hasta que estén combinados; extender sobre las manzanas.\n6. Espolvorear con la mezcla de migas reservada.\n7. Hornear durante 25 a 30 minutos, o hasta que la parte superior sea ligeramente dorada. Dejar enfriar.",
+  "url": null
+}

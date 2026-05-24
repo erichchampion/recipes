@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-filling",
+  "name": "Relleno de queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "repostería"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de pasas amarillas",
+    "1 cucharada de coñac",
+    "200 g de queso crema (o cuajada)",
+    "2 cucharadas de azúcar",
+    "1 cucharada de harina",
+    "1 yema de huevo",
+    "1 cucharada de mantequilla derretida",
+    "1 cucharada de crema agria",
+    "La ralladura de medio limón",
+    "1/2 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Mezclar las pasas con el coñac.\n2. Batir juntos el queso crema, el azúcar y la harina.\n3. Incorporar la yema de huevo, luego la mantequilla derretida, la crema agria, la ralladura de limón y la vainilla.\n4. Añadir las pasas con coñac.",
+  "url": null
+}

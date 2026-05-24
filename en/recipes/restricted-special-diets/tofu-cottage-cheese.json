@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "tofu-cottage-cheese",
+  "name": "Tofu Cottage Cheese",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "special diets",
+    "tofu",
+    "vegetables",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "1/2 lb Tofu",
+    "1 tbsp Oil",
+    "1 tsp Vinegar OR",
+    "1 tsp Lemon juice",
+    "1/2 tsp Dill",
+    "1 tbsp Tamari",
+    "1 tbsp Nutritional yeast"
+  ],
+  "recipeInstructions": "1. Mash the tofu.\n2. Add the remaining ingredients and mix well.\n3. Chill and serve.",
+  "url": null
+}

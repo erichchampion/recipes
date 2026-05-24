@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "country-bread",
+  "name": "Country Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread",
+    "bread machine",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "2 teaspoons yeast",
+    "2 cups bread flour",
+    "1 cup whole wheat flour",
+    "3 tablespoons wheat germ",
+    "1½ teaspoons salt",
+    "1½ tablespoons vegetable oil",
+    "¾ cup sourdough starter",
+    "1 cup water."
+  ],
+  "recipeInstructions": "1. Follow your machine's instructions.\n2. If the dough is too yeasty, reduce the amount of yeast to 1½ teaspoons; this recipe still produced a loaf that overflowed the pan.",
+  "url": null
+}

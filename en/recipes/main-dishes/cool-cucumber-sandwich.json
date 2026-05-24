@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cool-cucumber-sandwich",
+  "name": "Cool Cucumber Sandwich",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "sandwiches",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "1 tablespoon Prepared ranch salad dressing",
+    "2 slices Bread",
+    "12 Thin cucumber slices",
+    "2 Bacon strips, cooked",
+    "1 Tomato slice"
+  ],
+  "recipeInstructions": "1. Spread the prepared ranch salad dressing on one side of each slice of bread.\n2. Layer the cucumber slices, bacon, and tomato onto one slice of bread.\n3. Place the second slice of bread on top, with the salad dressing-side down.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "bourbon-pie",
+  "name": "Tarta de Bourbon",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 huevos",
+    "1 taza de azúcar",
+    "1/2 taza de mantequilla derretida",
+    "4 cucharadas de bourbon",
+    "1/4 taza de almidón de maíz",
+    "1 taza de nueces picadas (picadas groseramente)",
+    "1 taza de chips de chocolate",
+    "4 onzas de crema batida",
+    "1 masa de tarta de 23 cm sin hornear"
+  ],
+  "recipeInstructions": "1. Batir los huevos gradualmente.\n2. Añadir el azúcar a los huevos batidos.\n3. Incorporar la mantequilla derretida y el bourbon a la mezcla.\n4. Mezclar el almidón de maíz.\n5. Agregar las nueces picadas y los chips de chocolate.\n6. Verter la masa en una masa de tarta sin hornear.\n7. Hornear a 175 °C durante 45 a 50 minutos.\n8. Servir caliente con crema batida.",
+  "url": null
+}

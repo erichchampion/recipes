@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-pizza-2",
+  "name": "Pizza de fresa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "frutas",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "1/2 taza de azúcar glas",
+    "1 taza de mantequilla",
+    "1 taza de crema batida",
+    "8 onzas de queso crema",
+    "1 cucharadita de extracto de vainilla",
+    "3 pintas de fresas frescas",
+    "1 taza de agua",
+    "1 sobre de gelatina sin sabor"
+  ],
+  "recipeInstructions": "1. Mezclar la harina y la mitad del azúcar glas.\n2. Agregar la mantequilla y mezclar hasta obtener migas. Presionar en un molde para pizza engrasado de 30 cm. Hornear a 200 °C durante 8-10 minutos, o hasta que esté ligeramente dorado. Dejar enfriar.\n3. Batir la crema y reservar.\n4. Mezclar el queso crema, el azúcar glas restante y el extracto de vainilla. Incorporar suavemente la crema batida. Extender la mezcla sobre la base enfriada y refrigerar.\n5. Cortar y machacar un cuarto de las fresas. Mezclar con agua y gelatina. Extender sobre la crema y colocar las fresas restantes en pie encima. Refrigerar durante al menos 1 hora antes de servir.",
+  "url": null
+}

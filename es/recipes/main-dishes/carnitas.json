@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "carnitas",
+  "name": "Carnitas",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo",
+    "cerdo/ternera"
+  ],
+  "recipeIngredient": [
+    "5 libras de paleta de cerdo con hueso o cerdo asado",
+    "4 tazas de caldo de pollo",
+    "1 cebolla grande, cortada en cuartos",
+    "1 cucharada de semillas de cilantro",
+    "1 cucharada de semillas de comino",
+    "1 cucharadita de orégano seco",
+    "3 chiles chipotle en adobo",
+    "2 hojas de laurel"
+  ],
+  "recipeInstructions": "1. Coloca el cerdo, el caldo, la cebolla, el cilantro, el comino, el orégano, los chiles (si se usan) y las hojas de laurel en una olla de 5 a 6 litros. Añade agua suficiente para cubrir la carne. Tapa la olla y lleva a ebullición; reduce el fuego y deja cocinar a fuego lento hasta que la carne se desmenuce fácilmente con un tenedor (3 a 4 horas).\n2. Retira la carne (reserva el caldo si lo deseas). Desecha la grasa. Coloca el cerdo en una bandeja para hornear grande y hornéalo, destapado, a 450°F hasta que esté crujiente y dorado (aproximadamente 20 minutos). Desmenuza la carne con dos tenedores, descartando la grasa.",
+  "url": null
+}

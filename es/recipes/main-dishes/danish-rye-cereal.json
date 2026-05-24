@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "danish-rye-cereal",
+  "name": "Cereal de centeno danés",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 taza de granos de centeno enteros sin procesar",
+    "2 cucharaditas de canela en polvo",
+    "1 cucharada de semillas de eneldo",
+    "1 cucharada de extracto de vainilla",
+    "3 tazas de agua",
+    "1/4 taza de pasas",
+    "Queso ricota (opcional)",
+    "Azúcar (opcional)"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes excepto las pasas, el queso ricota y el azúcar en una olla.\n2. Mezclar bien.\n3. Llevar a ebullición.\n4. Reducir el calor a fuego lento y cocinar, cubierto, durante 1 hora. Revolver ocasionalmente; agregar más agua si es necesario para evitar que se queme.\n5. Durante los últimos 15 minutos de tiempo de cocción, agregar las pasas.\n6. Colocar una cucharada de queso ricota y azúcar sobre cada porción, si se desea.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cola-steak",
+  "name": "Steak con cola",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de solomillo redondo sin hueso, cortado en 4 trozos",
+    "1 cucharada de harina",
+    "1 taza de cebolla picada",
+    "1/2 cucharadita de sal",
+    "1/8 cucharadita de ajo en polvo",
+    "1/8 cucharadita de pimienta negra",
+    "1/4 taza de ketchup",
+    "1/2 taza de refresco de cola carbonatado"
+  ],
+  "recipeInstructions": "1. Cortar el solomillo redondo sin hueso en 4 trozos iguales.\n2. En un plato poco profundo, pasar cada trozo de carne por la harina hasta cubrir ligeramente.\n3. Colocar las carnes sazonadas y la cebolla picada en la olla de cocción lenta.\n4. Añadir la sal, el ajo en polvo, la pimienta, el ketchup y el refresco de cola.\n5. Tapar y cocinar a fuego lento durante 8-10 horas, hasta que la carne esté tierna.",
+  "url": null
+}

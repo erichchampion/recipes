@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-chopped-liver",
+  "name": "Mock Chopped Liver",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "dips",
+    "pate",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1 tbsp Vegetable oil or water",
+    "1 large Onion, sliced",
+    "1 lb Green beans, trimmed",
+    "1 lb Soft tofu",
+    "1 t Paprika",
+    "Salt to taste",
+    "Pepper to taste"
+  ],
+  "recipeInstructions": "1. Heat the oil or water in a medium frying pan over medium heat.\n2. Cook the onion, stirring occasionally, until soft - about 5 minutes.\n3. Steam the green beans over boiling water until just tender, about 10 minutes.\n4. Transfer the cooked onion and green beans to a food processor with the remaining ingredients.\n5. Puree until smooth.\n6. Chill for 4 hours or overnight.\n7. Serve with crackers or toast.\nPreparation time: 30 minutes\nChilling time: 4 hours",
+  "url": null
+}

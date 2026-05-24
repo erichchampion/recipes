@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "ice-cream-sundae-dessert",
+  "name": "Postre: Helado Sundae",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "2 tazas de chips de chocolate semiamargo",
+    "1 lata (400 ml) de leche evaporada",
+    "1/2 cucharadita de sal",
+    "1 paquete (350 g) de galletas tipo wafers vainilla, trituradas",
+    "1/2 taza de mantequilla o margarina derretida",
+    "2 litros de helado de vainilla o de su elección, suavizado"
+  ],
+  "recipeInstructions": "1. En una cacerola a fuego medio, derrita los chips de chocolate con la leche y la sal; cocine y revuelva hasta que espese, aproximadamente 25 minutos. Retire del fuego y reserve.\n2. Mezcle las migas de galletas con la mantequilla; reserve.\n3. Presione las migas restantes en un molde engrasado de 13x9x2 pulgadas. Refrigere de 10 a 15 minutos.\n4. Vierta el chocolate sobre las migas. Cubra y congele de 20 a 25 minutos, o hasta que esté firme.\n5. Extienda el helado sobre el chocolate. Espolvoree con las migas reservadas.\n6. Congele al menos 2 horas antes de servir.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "polish-sausage",
+  "name": "Polish Sausage",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "pork",
+    "sausages"
+  ],
+  "recipeIngredient": [
+    "4 lb Pork butt",
+    "1 lb Beef stew meat",
+    "2 tbsp Black pepper; coarse ground",
+    "1 tsp Marjoram leaves",
+    "8 garlic cloves, pressed",
+    "1/4 tsp Allspice",
+    "3 1/2 tsp Salt",
+    "1 cup Water"
+  ],
+  "recipeInstructions": "1. Grind pork and beef very coarsely.\n2. Combine all ingredients in a large bowl and mix well.\n3. Stuff the mixture into hog casings or form into patties.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-chip-pie-4",
+  "name": "Chocolate Chip Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pie",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "2 whole eggs",
+    "1/2 cup flour",
+    "1/2 cup sugar",
+    "1/2 cup brown sugar",
+    "1 cup butter, melted and cooled",
+    "6 ounces chocolate chips",
+    "1 cup pecans, chopped",
+    "1 9-inch pie shell, unbaked"
+  ],
+  "recipeInstructions": "1. In a large bowl, beat the eggs until foamy.\n2. Add the flour, sugar, and brown sugar to the bowl with the eggs and beat until combined.\n3. Blend in the melted butter.\n4. Stir in the chocolate chips and chopped pecans.\n5. Pour the mixture into the prepared pie shell.\n6. Bake at 325 degrees Fahrenheit for 1 hour.\nNote: The original recipe calls for walnuts, but we prefer pecans.",
+  "url": null
+}

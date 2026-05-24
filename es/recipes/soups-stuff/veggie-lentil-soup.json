@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "veggie-lentil-soup",
+  "name": "Sopa de lentejas con verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "frijoles",
+    "sopas",
+    "sopas y estofados"
+  ],
+  "recipeIngredient": [
+    "1 libra de lentejas",
+    "5 tazas de caldo de verduras",
+    "3 tazas de agua",
+    "3 dientes de ajo, picados",
+    "1 cebolla, picada",
+    "1 zanahoria, picada",
+    "1 tallo de apio, picado",
+    "1 pimiento rojo, picado",
+    "1 taza de judías verdes cortadas en trozos de 1 pulgada",
+    "1 taza de espinacas picadas",
+    "1/3 taza de salsa de soja tamari",
+    "1 cucharadita de orégano",
+    "1 cucharadita de tomillo fresco, o 1/2 cucharadita seco",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. En una olla para sopa de tu elección, cocina las lentejas con suficiente agua para cubrirlos.\n2. Cuando estén tiernas (por lo general en una hora o menos), agrega el resto de los ingredientes.\n3. Deja que hierva a fuego lento hasta que las verduras estén cocidas. Es posible que necesites agregar más caldo si se reduce demasiado.",
+  "url": null
+}

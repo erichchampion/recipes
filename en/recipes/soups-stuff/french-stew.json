@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-stew",
+  "name": "French Stew",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "ethnic",
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "2 lb Stew beef",
+    "1 cup Burgundy",
+    "1 can Cream of mushroom soup",
+    "1 package Dry onion soup mix",
+    "1 cup Onions (small), cooked",
+    "1 cup Baby carrots, cooked",
+    "1 cup Green olives"
+  ],
+  "recipeInstructions": "1. Cut the beef into small chunks and place into a large casserole dish.\n2. Add the wine, soup, and soup mix to the casserole; stir well.\n3. Bake in an oven set at 250°F for 4 hours.\n4. After baking, add the cooked onions, carrots, and olives.\n5. Return the casserole to the oven and bake for an additional 30 minutes.\n6. Serve with a salad and warmed French bread.",
+  "url": null
+}

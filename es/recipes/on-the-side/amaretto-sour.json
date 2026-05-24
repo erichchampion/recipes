@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "amaretto-sour",
+  "name": "Sour de amaretto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "3/4 oz de licor Amaretto",
+    "1 1/2 oz de jugo de limón fresco",
+    "1 cereza al marasquino"
+  ],
+  "recipeInstructions": "1. Añadir el amaretto, el jugo de limón y la cereza al marasquino a un sacudidor lleno de hielo triturado.\n2. Agitar bien hasta que esté combinado.\n3. Colar la mezcla en un vaso para whiskey sour frío.\n4. Decorar con una rodaja de naranja y la cereza.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-ginger-bw",
+  "name": "Pizza de jengibre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carnes",
+    "tartas",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 base de pizza lista para hornear",
+    "12 oz (340 g) solomillo de ternera sin hueso, cortado en tiras finas",
+    "1 cucharada de jengibre seco rallado",
+    "1 diente de ajo machacado",
+    "1 cucharadita de salsa picante",
+    "1 cucharada de aceite de maíz",
+    "1 pimiento rojo pequeño, sin semillas y picado",
+    "1/2 cucharadita de almidón de maíz",
+    "Sal y pimienta al gusto",
+    "6 cebolletas cortadas en rodajas"
+  ],
+  "recipeInstructions": "1. Coloca las tiras de solomillo en un bol y sazona con sal y pimienta. Añade el jengibre, el ajo, el aceite de maíz, la salsa picante y el almidón de maíz. Mezcla bien, tapa y refrigera durante 30 minutos, removiendo ocasionalmente.\n2. Incorpora las cebolletas y los pimientos rojos a la mezcla de carne y extiende sobre la base de pizza.\n3. Hornea durante 7-10 minutos a 450 °F (230 °C).",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "steak-n-mushrooms",
+  "name": "Steak 'n Mushrooms",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat",
+    "steak"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Sirloin steak",
+    "2 lb Mushroom caps",
+    "6 tbsp Butter",
+    "6 tbsp Olive oil",
+    "1 each Garlic clove, chopped",
+    "3 tbsp Parsley, chopped"
+  ],
+  "recipeInstructions": "1. Heat butter and olive oil in a skillet over medium heat.\n2. Add mushroom caps to the skillet and sauté for about 3 minutes.\n3. Add garlic and cook until tender.\n4. Sprinkle parsley over the mixture.\n5. Season with salt and pepper to taste.\n6. Optionally, add Worcestershire sauce or sherry.\n7. Serve alongside the steak.",
+  "url": null
+}

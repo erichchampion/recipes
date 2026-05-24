@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "sausage-dip",
+  "name": "Salsa de salchicha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "2 lb de queso Velveeta",
+    "1 lata de tomates Ro-Tel",
+    "2 chiles picados",
+    "1 lb de salchicha molida",
+    "1 cebolla picada",
+    "1 lata de sopa de setas Cream of Mushroom",
+    "1 cucharadita de polvo de ajo"
+  ],
+  "recipeInstructions": "1. Cocinar la carne molida hasta que esté completamente dorada.\n2. Añadir trozos de queso Velveeta y derretir juntos.\n3. Incorporar los tomates Ro-Tel, chiles picados, salchicha molida y cebolla picada hasta que estén bien combinados.\n4. Mezclar la sopa de setas Cream of Mushroom y el polvo de ajo al gusto.\n5. Servir caliente.",
+  "url": null
+}

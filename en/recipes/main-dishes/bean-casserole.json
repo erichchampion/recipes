@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "bean-casserole",
+  "name": "Bean Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beans",
+    "casseroles",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 lb hamburger",
+    "1/2 lb bacon",
+    "1 large onion",
+    "1 can lima beans",
+    "1 can baked beans",
+    "1 can kidney beans",
+    "1/2 cup brown sugar",
+    "1/2 cup catsup",
+    "2 tablespoons vinegar",
+    "1 teaspoon mustard, prepared"
+  ],
+  "recipeInstructions": "1. Prepare the ingredients by browning the hamburger and cooking the bacon.\n2. Chop the onion.\n3. Combine all the bean cans in a bowl.\n4. Mix together the brown sugar, catsup, vinegar, and mustard.\n5. Pour the mixture over the beans and mix well.\n6. Bake at 325°F (165°C) for 1-1/2 hours until heated through.",
+  "url": null
+}

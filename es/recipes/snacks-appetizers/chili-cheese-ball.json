@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-cheese-ball",
+  "name": "Bola de queso con chili",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "mexicano",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 sobre de condimento para chili",
+    "2 paquetes de queso crema (de 8 onzas cada uno)",
+    "3 cucharadas de salsa",
+    "Queso Monterey Jack rallado",
+    "Nueces picadas"
+  ],
+  "recipeInstructions": "1. Mezcla el condimento para chili, el queso crema y la salsa hasta que quede bien combinado.\n2. Forma la mezcla en una bola y refrigera hasta que esté firme.\n3. Una vez frío y moldeado, cubre la bola con queso rallado y/o nueces picadas.",
+  "url": null
+}

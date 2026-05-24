@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "another-spaghetti-sauce",
+  "name": "Otra salsa para espaguetis",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "comidas congeladas",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "5 libras de carne molida",
+    "2 cebollas (picadas)",
+    "2 botes grandes de salsa de espaguetis Prego Original",
+    "1 lata grande de tomates troceados",
+    "albahaca al gusto",
+    "orégano al gusto",
+    "ajo al gusto",
+    "sal al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar la carne y la cebolla juntas hasta que estén hechas.\n2. Añadir los ingredientes restantes, removiendo ocasionalmente.\n3. Reducir a fuego lento durante 30 minutos.",
+  "url": null
+}

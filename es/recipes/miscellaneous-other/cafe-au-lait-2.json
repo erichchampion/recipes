@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "cafe-au-lait-2",
+  "name": "Café au lait",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "estadounidense",
+    "bebidas",
+    "cajún",
+    "étnico"
+  ],
+  "recipeIngredient": [
+    "2 tazas de leche",
+    "Azúcar",
+    "1 taza de café de Luisiana con chicorée"
+  ],
+  "recipeInstructions": "1. Coloca la leche en una cacerola y hiérvela a fuego medio.\n2. Vierte el café caliente y recién preparado en tazas individuales. Añade la leche al mismo tiempo, llenando cada taza hasta la mitad aproximadamente. Endulza con azúcar al gusto.",
+  "url": null
+}

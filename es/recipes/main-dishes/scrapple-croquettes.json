@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "scrapple-croquettes",
+  "name": "Croquetas de Scrapple",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "sin carne"
+  ],
+  "recipeIngredient": [
+    "1 taza de scrapple",
+    "Sal",
+    "Pimienta",
+    "1 taza de arroz marrón cocido o puré de patatas",
+    "1 huevo batido",
+    "2 huevos duros picados",
+    "1/2 taza de migas de pan integral",
+    "1 cucharadita de perejil picado"
+  ],
+  "recipeInstructions": "1. Mezclar el scrapple, el arroz cocido o puré de patatas y los huevos duros picados en un bol.\n2. Sazonar con perejil, sal y pimienta.\n3. Dar forma a las croquetas usando el huevo batido y las migas de pan integral.\n4. Freír en aceite profundo hasta que estén doradas.",
+  "url": null
+}

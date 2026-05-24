@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-fruit-salad",
+  "name": "Ensalada de Pollo y Fruta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "fruta",
+    "aves de corral",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "3 tazas de pollo cocido, cortado en trozos gruesos",
+    "3/4 taza de apio, picado",
+    "3/4 taza de uvas rojas, cortadas por la mitad y sin semillas",
+    "20 onzas de trozos de piña enlatada (en jugo natural, escurrida)",
+    "11 onzas de mandarinas enlatadas (escurridas)",
+    "1/4 taza de nueces picadas",
+    "1/8 cucharadita de sal",
+    "Hojas de lechuga - al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar el pollo, apio, uvas, piña y mandarinas en un bol con delicadeza.\n2. Añadir 3 cucharadas de nueces picadas a la mezcla.\n3. Combinar suavemente con aderezo para ensalada y sal hasta que estén integrados.\n4. Enfriar la ensalada.\n5. Servir sobre hojas de lechuga.\n6. Decorar con las nueces restantes.",
+  "url": null
+}

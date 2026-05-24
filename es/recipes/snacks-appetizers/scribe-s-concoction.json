@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "scribe-s-concoction",
+  "name": "Conjura del Escriván",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "carne",
+    "tentempié",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "Puré de patatas",
+    "Cebolletas",
+    "Tortitas de maíz",
+    "Salsa de tomate (como Prego)",
+    "Tomates picados",
+    "Cebolla",
+    "Ajo",
+    "Otras especias y verduras",
+    "Carne molida de pollo, ternera u otra"
+  ],
+  "recipeInstructions": "1. Preparar el puré de patatas.\n2. Hervir la salsa de tomate, los tomates picados y la carne hasta que estén cocidos.\n3. Añadir todos los ingredientes restantes en el último momento.\n4. Mezclar las cebolletas con el puré de patatas.\n5. Colocar la salsa de tomate sobre las tortitas de maíz.\n6. Crear un muro de puré de patatas alrededor y cubrir con más tortitas.",
+  "url": null
+}

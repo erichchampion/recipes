@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-shrimp",
+  "name": "Camarones picantes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco",
+    "gambas"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de langostinos, limpiados",
+    "1 1/2 tazas de caldo de pollo",
+    "1/2 taza de vinagre rojo",
+    "1 cebolla, en rodajas",
+    "2 cucharadas de mostaza seca",
+    "1 cucharadita de salsa picante",
+    "1/2 cucharadita de tomillo"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una cacerola.\n2. Llevar a ebullición.\n3. Reducir el calor y dejar cocinar hasta que los langostinos adquieran un color rosado.\n4. Retirar del fuego y dejar enfriar.\n5. Transferir a un bol, refrigerar, luego escurrir los líquidos.\n6. Servir con rodajas de limón y perejil.",
+  "url": null
+}

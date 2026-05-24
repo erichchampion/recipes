@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "butterscotch-cookies",
+  "name": "Galletas de caramelo con mantequilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2/3 taza de manteca vegetal",
+    "2 tazas de azúcar morena",
+    "2 huevos",
+    "3 tazas de harina",
+    "1 taza de nueces picadas finamente",
+    "1/2 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de sal",
+    "1 cucharadita de polvo de hornear",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Batir el azúcar y la manteca vegetal hasta obtener una mezcla cremosa.\n2. Agregar los huevos, las nueces picadas y la mezcla tamizada de harina, bicarbonato de sodio, sal y polvo de hornear.\n3. Enfriar en rodillos, cortar en porciones y hornear a 175 °C durante 10 a 12 minutos.",
+  "url": null
+}

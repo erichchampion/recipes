@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "all-american-hot-dish",
+  "name": "Guiso Americano Caliente",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de vacuno",
+    "queso/huevos",
+    "carne molida",
+    "plato principal",
+    "carne",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida magra",
+    "1/2 taza de cebolla; picada",
+    "8 oz de maíz entero en lata",
+    "1 lata de salsa de tomate",
+    "1/4 taza de aceitunas maduras; sin hueso, cortadas por la mitad",
+    "4 oz de fideos; crudos, aproximadamente 2 tazas",
+    "2 tazas de agua",
+    "1 c.c. de orégano fresco",
+    "1/2 c.p. de sal",
+    "1/4 c.p. de pimienta negra",
+    "1 taza de queso cheddar; rallado"
+  ],
+  "recipeInstructions": "1. Cocinar y remover la carne y la cebolla en una sartén grande a fuego medio hasta que la carne esté marrón.\n2. Escurrir el exceso de grasa, si es necesario.\n3. Incorporar el maíz enlatado y los ingredientes restantes (salsa de tomate, aceitunas, fideos, agua, orégano, sal, pimienta).\n4. Para cocinar en una sartén: Calentar la mezcla hasta que hierva, luego reducir el fuego y dejarla hervir destapada, removiendo ocasionalmente, hasta que los fideos estén tiernos (aproximadamente 20 minutos). Servir caliente.\n5. Para hornear: Verter la mezcla en un recipiente para hornear de 2 cuartos sin engrasar. Tapar y hornear a 175°C durante 30 minutos, removiendo ocasionalmente. Desentarlar y seguir horneando hasta que la mezcla espese (aproximadamente 15 minutos). Servir caliente.",
+  "url": null
+}

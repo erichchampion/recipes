@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "our-california-pizza",
+  "name": "Nuestra pizza californiana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "pizza",
+    "tentempié"
+  ],
+  "recipeIngredient": [
+    "Masa:",
+    "8 onzas (paquete) de masa de hojaldre refrigerada en forma de media luna",
+    "Relleno:",
+    "8 onzas (paquete) de queso crema, ablandado",
+    "1/3 taza de mayonesa",
+    "2 cucharadas de salsa pesto",
+    "1/4 taza de tomates secos al sol, picados finamente",
+    "1 diente pequeño de ajo, picado",
+    "Cobertura:",
+    "1/2 pimiento rojo dulce, picado finamente",
+    "1/2 pimiento verde dulce, picado finamente",
+    "1/2 cabeza de brócoli, solo las puntas, picadas finamente",
+    "2 cebollas verdes enteras, picadas finamente",
+    "1 1/2 cucharadas de vinagreta"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 grados.\n2. Para hacer la masa, extender las piezas de hojaldre en una bandeja para hornear sin engrasar. Si se desea una masa más fina, enrollar o aplastar las piezas ligeramente. Hornear durante aproximadamente 11 minutos o hasta que esté dorada. Enfriar completamente.\n3. Para el relleno, mezclar el queso crema, la mayonesa y el pesto en un procesador de alimentos o batidora hasta obtener una textura suave. Agregar los tomates secos al sol y el ajo; mezclar solo para combinar. Reservar.\n4. En un bol aparte, mezclar todos los ingredientes de la cobertura.\n5. Justo antes de servir, extender el relleno sobre la masa enfriada. Espolvorear con la mezcla de cobertura, presionando firmemente sobre el relleno. Refrigerar hasta que esté listo para servir. Cortar en cuadrados.\n6. Sirve 4 porciones como plato principal ligero.",
+  "url": null
+}

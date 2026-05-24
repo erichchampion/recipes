@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "fluffy-hot-chocolate",
+  "name": "Chocolate caliente esponjoso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "8 cucharaditas de azúcar",
+    "4 cucharaditas de cacao en polvo",
+    "4 tazas de leche",
+    "1 1/2 tazas de mini marshmallows",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. En una cacerola, mezclar los cuatro ingredientes iniciales. Cocinar y remover a fuego medio hasta que se derritan los marshmallows, aproximadamente 8 minutos.\n2. Retirar del fuego; agregar la vainilla y remover.\n3. Servir en tazas.",
+  "url": null
+}

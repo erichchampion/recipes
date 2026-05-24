@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pickled-red-eggs",
+  "name": "Huevos rojos encurtidos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "aperitivos",
+    "fácil",
+    "encurtidos"
+  ],
+  "recipeIngredient": [
+    "12 huevos cocidos",
+    "2 tazas de remolacha encurtida, con su jugo",
+    "2 tazas de remolacha enlatada (sin sabor), con su jugo",
+    "1 taza de vinagre de sidra"
+  ],
+  "recipeInstructions": "1. Coloca los huevos en un recipiente de vidrio.\n2. Vierte los ingredientes restantes sobre los huevos, asegurándote de que queden completamente cubiertos por el líquido.\n3. Refrigera durante al menos 24 horas para permitir que el color penetre más profundamente en los huevos.\n4. Corta por la mitad y sirve como aperitivo o corta en rodajas y añade a una ensalada verde.",
+  "url": null
+}

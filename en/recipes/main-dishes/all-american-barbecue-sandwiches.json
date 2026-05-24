@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "all-american-barbecue-sandwiches",
+  "name": "All-American Barbecue Sandwiches",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "salads",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "4 1/2 pounds Ground beef",
+    "1 1/2 cups Onion, chopped",
+    "2 1/4 cups Catsup",
+    "3 tablespoons Prepared mustard",
+    "3 tablespoons Worcestershire sauce",
+    "2 tablespoons Vinegar",
+    "2 tablespoons Sugar",
+    "1 tablespoon Salt",
+    "1 tablespoon Pepper",
+    "18 Hamburger buns, split"
+  ],
+  "recipeInstructions": "1. In a Dutch oven, cook beef and onion until the meat is browned and the onion is tender.\n2. Drain the excess fat.\n3. Combine catsup, mustard, Worcestershire sauce, vinegar, sugar, salt, and pepper in a bowl.\n4. Stir the mixture into the beef.\n5. Heat through.\n6. Serve on buns.",
+  "url": null
+}

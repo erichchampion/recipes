@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "brownie",
+  "name": "Brownie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "brownies",
+    "postres",
+    "watchers de peso"
+  ],
+  "recipeIngredient": [
+    "1 paquete de mezcla para brownie de chocolate",
+    "3 cucharadas de harina",
+    "1/2 cucharadita de polvo de hornear",
+    "6 cucharaditas de agua hirviendo o café",
+    "1 paquete de edulcorante artificial",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Rocía un bol pequeño apto para microondas con spray antiadherente.\n2. Vierte la mezcla en el bol.\n3. Hornea en el microondas durante 45 segundos, o hornea en horno convencional a 175 °F (350 °C) durante 7 minutos, 1 minuto encendido y 35 minutos apagado.",
+  "url": null
+}

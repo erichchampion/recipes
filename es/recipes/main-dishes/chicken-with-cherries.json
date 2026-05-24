@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-with-cherries",
+  "name": "Pollo con cerezas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 pollo",
+    "1 vaso de cerezas sin hueso",
+    "Vino blanco",
+    "Pimentón dulce",
+    "Canela",
+    "Sal y pimienta al gusto (sin usar en la marinada)",
+    "Nudos espirales",
+    "Maicena, si es necesario."
+  ],
+  "recipeInstructions": "1. Lava el pollo y úntalo con las especias, omitiendo la sal y pimienta.\n2. Rellena las cerezas huecas dentro del pollo.\n3. Coloca el pollo en una fuente para hornear y añade vino blanco hasta que el pollo quede cubierto.\n4. Hornea a 175-200 °C durante aproximadamente 1 hora.\n5. Mezcla el jugo con sal y pimienta, y espesa con maicena si es necesario.\n6. Sirve con los nudos espirales.",
+  "url": null
+}

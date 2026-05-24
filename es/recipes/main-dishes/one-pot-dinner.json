@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "one-pot-dinner",
+  "name": "Cena en una olla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "olla de cocción lenta",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "3/4 libra de tocino, cortado en trozos pequeños",
+    "1 taza de cebolla picada",
+    "2 latas de \"pork 'n beans\" (450 g)",
+    "1 lata de frijoles rojos (400 g), escurridos",
+    "1/4 taza de azúcar moreno",
+    "1 cucharadita de humo líquido",
+    "3 cucharadas de vinagre blanco",
+    "1 cucharadita de sal",
+    "Pimienta"
+  ],
+  "recipeInstructions": "1. Dorar la carne en una sartén y escurrir el exceso de grasa.\n2. Agregar la carne dorada al cocinero lento.\n3. Dorar por separado el tocino y las cebollas, luego escurrir el exceso de grasa.\n4. Incorporar el tocino y las cebollas dorados al cocinero lento con la carne molida.\n5. Añadir los ingredientes restantes (\"pork 'n beans\", frijoles rojos, azúcar moreno, humo líquido, vinagre blanco, sal, pimienta) al cocinero lento.\n6. Mezclar bien todos los ingredientes.\n7. Tapar el cocinero lento y cocinar a fuego bajo durante 4 a 9 horas.",
+  "url": null
+}

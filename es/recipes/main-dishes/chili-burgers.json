@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-burgers",
+  "name": "Hamburguesas de chili",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgueros",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1 tomate maduro, cortado en cubos de 1/4 de pulgada (desvainado)",
+    "1/2 taza de aceitunas negras sin hueso, picadas",
+    "1 cucharadita de ajo finamente picado",
+    "1/2 cucharadita de mostaza estilo Dijon",
+    "1 cucharada de polvo de chile",
+    "1/4 cucharadita de albahaca seca",
+    "1/4 cucharadita de orégano seco",
+    "Ralladura fina de 1 limón",
+    "2 cucharadas de eneldo fresco o perejil picado",
+    "Sal al gusto",
+    "Pimienta negra molida al gusto",
+    "4 panecillos para hamburguesa tostados",
+    "1/3 taza de crema agria (opcional)",
+    "3 cebolletas finas (3 pulgadas), cortadas (opcional)"
+  ],
+  "recipeInstructions": "1. Preparar brasas calientes para la parrilla.\n2. Mezclar en un bol la carne molida con el tomate, las aceitunas, el ajo, la mostaza, el polvo de chile, la albahaca, el orégano, la ralladura de limón y el eneldo. Sazonar con sal y pimienta al gusto. Formar suavemente la mezcla en 4 hamburguesas.\n3. Asar las hamburguesas sobre brasas calientes a 3 pulgadas de distancia del calor durante unos 4 minutos por lado para carne poco hecha.\n4. Servir inmediatamente sobre los panecillos. Si se desea, cubrir con crema agria, cebolletas y queso Monterey Jack rallado.",
+  "url": null
+}

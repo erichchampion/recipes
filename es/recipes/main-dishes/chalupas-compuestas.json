@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chalupas-compuestas",
+  "name": "Chalupas compuestas",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americana",
+    "étnica",
+    "plato principal",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "12 tostadas (tortillas fritas)",
+    "4-6 tazas de frijoles refritos",
+    "1 taza de queso cheddar rallado",
+    "2 tazas de chili con carne sin frijoles",
+    "2 tazas de lechuga picada",
+    "Guacamole"
+  ],
+  "recipeInstructions": "1. Coloca las tostadas en una bandeja para hornear.\n2. Extiende los frijoles refritos uniformemente sobre las tostadas.\n3. Espolvorea el queso rallado sobre los frijoles.\n4. Coloca bajo el grill hasta que el queso se derrita, dando la vuelta ocasionalmente.\n5. Retira del horno y extiende el chili con carne y la lechuga picada sobre las tostadas.\n6. Sirve inmediatamente con guacamole.",
+  "url": null
+}

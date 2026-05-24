@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "roast-beef-a-la-stroganoff",
+  "name": "Roast Beef a La Stroganoff",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Chopped celery",
+    "1 ts Soy sauce",
+    "1 Onion, chopped fine",
+    "1 1/2 c Beef bouillon",
+    "1 c Sour cream",
+    "1/4 lb Mushrooms, sliced",
+    "1/2 cup Butter",
+    "1/2 cup Flour",
+    "2 c Thinly sliced roast beef, Cooked"
+  ],
+  "recipeInstructions": "1. Cook celery, onion and mushrooms in butter until tender.\n2. Stir in flour and soy sauce.\n3. Add bouillon; cook, stirring until thickened.\n4. Stir in sour cream.\n5. Add beef and heat through.\n6. Serve with hot cooked rice or noodles.",
+  "url": null
+}

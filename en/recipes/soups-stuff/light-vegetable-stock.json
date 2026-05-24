@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "light-vegetable-stock",
+  "name": "Light Vegetable Stock",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "stews",
+    "stocks",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "1 onion",
+    "2 garlic cloves",
+    "1 celery stalk",
+    "1 carrot",
+    "1 bouquet garni"
+  ],
+  "recipeInstructions": "1. Place all ingredients in a saucepan.\n2. Cover with water.\n3. Bring to a boil over high heat.\n4. Reduce heat and simmer, partially covered, for about 1 hour.\n5. Strain the stock through a fine-mesh sieve into another container.\n6. Discard solids.\nOther vegetables and flavorings such as leeks, thinly pared lemon rind, and allspice berries can be added before cooking. Peeling from well-scrubbed potatoes also enhances the flavor of vegetable stock.",
+  "url": null
+}

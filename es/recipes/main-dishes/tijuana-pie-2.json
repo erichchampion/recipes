@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "tijuana-pie-2",
+  "name": "Torta de Tijuana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "tartas de cena",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lata de frijoles estilo ranch",
+    "1 lata de chiles verdes picados",
+    "1 lata de sopa de setas (o pollo)",
+    "1 taza de queso rallado",
+    "1 libra de carne molida, dorada y escurrida",
+    "1 paquete de totopos de maíz"
+  ],
+  "recipeInstructions": "1. Mezclar los frijoles, chiles y la sopa en una cacerola; calentar hasta que esté tibio.\n2. Colocar una capa de totopos en un plato para hornear, seguido de una capa de carne, luego la mezcla de frijoles y terminar con una capa de queso.\n3. Hornear a 175 °C (350 °F) hasta que el queso se derrita.",
+  "url": null
+}

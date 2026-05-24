@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "spam-fajitas",
+  "name": "Fajitas de Spam",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "Laca para cocinar vegetal",
+    "1 pimiento verde, cortado en tiras",
+    "1/2 cebolla, cortada en rodajas de 1/4 de pulgada",
+    "1 lata de SPAM (12 onzas), cortado en tiras",
+    "3/4 taza de salsa CHI-CHI's",
+    "8 tortillas de harina, calentadas (8\")",
+    "2 tazas de lechuga picada",
+    "1/2 taza de pimiento picante Monterey en polvo",
+    "1/2 taza de yogur natural sin grasa",
+    "Salsa extra al gusto"
+  ],
+  "recipeInstructions": "1. Rocíe una sartén antiadherente grande con laca para cocinar vegetal.\n2. Calentar la sartén a fuego medio-alto.\n3. Saltear el pimiento verde y la cebolla durante 2 minutos.\n4. Agregar el SPAM y saltear por 2 minutos más.\n5. Incorporar la salsa y calentar hasta que hierva.\n6. Verter aproximadamente media taza de la mezcla de SPAM en cada tortilla de harina.\n7. Cubrir cada una con media taza de lechuga picada, una cucharada de queso rallado, una cucharada de yogur y salsa extra al gusto.",
+  "url": null
+}

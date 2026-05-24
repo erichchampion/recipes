@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-mulled-spice-mix",
+  "name": "Mezcla de especias calientes para calentar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "bebidas",
+    "varios",
+    "mezclas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de semillas de cilantro enteras",
+    "2 tazas de pimienta entera",
+    "1 taza de clavos enteros",
+    "1/2 taza de semillas de anís entero",
+    "1 taza de menta seca",
+    "2 tazas de varitas de canela de 3 pulgadas",
+    "1 taza de pasto y tallos de limón seco (opcional)",
+    "1 taza de cáscara de naranja seca (opcional)",
+    "1 taza de estrella de anís entera (opcional)"
+  ],
+  "recipeInstructions": "1. Medir todos los ingredientes.\n2. Colocar cada ingrediente en un bol o recipiente grande.\n3. Mezclar bien todos los ingredientes.\n4. Transferir la mezcla a un contenedor con tapa hermética para su almacenamiento.",
+  "url": null
+}

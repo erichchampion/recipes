@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "oreo-cookie-bread",
+  "name": "Pan de galleta Oreo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de leche",
+    "1 huevo",
+    "4 cucharadas de mantequilla",
+    "3 cucharadas de azúcar",
+    "3/4 cucharadita de sal",
+    "2 tazas de harina de pan",
+    "1 1/2 cucharaditas de levadura",
+    "3/4 taza de galletas Oreo trituradas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a la temperatura indicada en las instrucciones del fabricante.\n2. En un bol, mezclar la leche, el huevo, la mantequilla, el azúcar y la sal hasta que quede bien combinado.\n3. Añadir gradualmente la harina de pan y la levadura a la mezcla, removiendo continuamente hasta formar una masa.\n4. Incorporar las galletas Oreo trituradas hasta que estén distribuidas uniformemente en la masa.\n5. Colocar la masa en un molde para hornear engrasado y hornear durante el tiempo indicado por las instrucciones del fabricante, o hasta que esté hecho.\n6. Sacar del horno y dejar enfriar antes de servir.",
+  "url": null
+}

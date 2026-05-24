@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-orange-julius",
+  "name": "Naranja falsa Julius",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "no alcohólicas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "6 oz de zumo de naranja congelado - CONCENTRADO",
+    "1 taza de leche",
+    "1 taza de agua",
+    "1/4 taza de azúcar",
+    "1 huevo",
+    "1/2 taza de leche de coco",
+    "8 cubos de hielo"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes al licuadora: zumo de naranja congelado, leche, agua, azúcar, huevo, leche de coco y cubos de hielo.\n2. Licuar hasta que todos los ingredientes estén bien combinados y la mezcla sea espumosa, aproximadamente 2 minutos.\n3. Servir inmediatamente para disfrutar de su mejor sabor y textura.",
+  "url": null
+}

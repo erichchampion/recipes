@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-dip",
+  "name": "French Dip",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meats",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "3 pounds chuck roast, trimmed",
+    "2 cups water",
+    "1/2 cup soy sauce",
+    "1 teaspoon dried rosemary",
+    "1 teaspoon dried thyme",
+    "1 teaspoon garlic powder",
+    "1 bay leaf",
+    "3 to 4 peppercorns",
+    "8 French rolls, split"
+  ],
+  "recipeInstructions": "1. Place the roast in a slow cooker.\n2. Add water, soy sauce, and seasonings.\n3. Cover and cook on high for 5-6 hours or until beef is tender.\n4. Remove meat from broth; shred with forks and keep warm.\n5. Strain broth; skim off fat.\n6. Pour broth into small cups for dipping.\n7. Serve beef on rolls.",
+  "url": null
+}

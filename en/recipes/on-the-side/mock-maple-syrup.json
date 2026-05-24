@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-maple-syrup",
+  "name": "Mock Maple Syrup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup brown sugar",
+    "1 teaspoon butter",
+    "1 cup boiling water",
+    "1/2 teaspoon vanilla",
+    "1/2 cup white sugar (ie: sugar)"
+  ],
+  "recipeInstructions": "1. Combine the brown sugar and water in a saucepan, then bring to a boil.\n2. In a frying pan, heat the white sugar until it melts and turns brown.\n3. Add the brown sugar syrup from step 1 to the caramelized white sugar in the frying pan. Simmer until smooth and thick.\n4. Pour the mixture into a pitcher containing the butter and vanilla extract.",
+  "url": null
+}

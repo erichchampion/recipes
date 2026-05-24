@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "passionella",
+  "name": "Pasiónela",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "25 ml de Cointreau",
+    "50 ml de jugo de fruta de la pasión",
+    "20 ml de jugo de arándanos",
+    "80 ml de Champagne Laurent Perrier"
+  ],
+  "recipeInstructions": "1. Verter el Cointreau, jugo de fruta de la pasión y jugo de arándanos en un vaso.\n2. Remover bien.\n3. Completar con champagne.\n4. Decorar con una fresa fresca insertada en el borde del vaso.",
+  "url": null
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-mush",
+  "name": "Desayuno de Hongos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 tazas y ¼ de agua",
+    "1/2 taza de leche de soja con vainilla",
+    "1/8 taza de arroz integral",
+    "1/4 taza de harina de maíz (polenta) gruesa",
+    "1/4 taza de fibra de trigo",
+    "1/2 taza de avena espesa",
+    "1/8 taza de amaranto tostado",
+    "1 cucharadita de melaza negra",
+    "2 cucharadas de miel",
+    "1 cucharadita de jengibre en polvo",
+    "1 cucharadita y ¼ de canela",
+    "1/8 cucharadita de sal marina",
+    "2 cucharadas de proteína de soja en polvo",
+    "1 cucharadita de extracto de vainilla",
+    "1/2 taza de arándanos frescos"
+  ],
+  "recipeInstructions": "1. En una cacerola mediana, remoja el arroz integral en agua con sal durante la noche.\n2. Por la mañana, hierve la misma cantidad de agua.\n3. Añade la harina de maíz, la avena, la fibra de trigo, la melaza, la miel, el jengibre, la canela y la sal.\n4. Reduce el fuego y deja cocinar a fuego lento con la tapa puesta durante 10 minutos.\n5. Agrega el amaranto, la leche de soja y la proteína en polvo. Vuelve a hervir a fuego medio y cocina destapado, removiendo con frecuencia, durante 5-10 minutos más hasta alcanzar la consistencia deseada.\n6. Retira del fuego, transfiere a un bol grande y mezcla el extracto de vainilla y los arándanos.\n7. Sirve con sirope de arce al gusto.",
+  "url": null
+}

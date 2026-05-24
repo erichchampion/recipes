@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fettuccine-alfredo-4",
+  "name": "Fettuccine Alfredo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 lb Fettuccine",
+    "1/2 cup Butter",
+    "1 cup Light cream",
+    "3/4 cup Parmesan cheese",
+    "3/4 cup Cheddar cheese, grated",
+    "1/4 teaspoon Pepper"
+  ],
+  "recipeInstructions": "1. Cook fettuccine according to package directions.\n2. Melt butter in the top of a double boiler over low heat.\n3. Add remaining ingredients and cook until smooth, stirring constantly.\n4. Remove from heat when hot, but do not boil. Toss with noodles.",
+  "url": null
+}

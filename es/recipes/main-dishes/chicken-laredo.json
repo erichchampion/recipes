@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-laredo",
+  "name": "Pollo Laredo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "3 lb de pollo, cortado en trozos (o pechugas de pollo)",
+    "1/2 cucharadita de polvo de ajo",
+    "3 cucharadas de margarina",
+    "1/2 taza de cebolla picada",
+    "1 taza de pasas sin semillas",
+    "1/2 taza de aceitunas rellenas de pimiento en rodajas",
+    "1/2 cucharadita de canela",
+    "1 lata de caldo de pollo"
+  ],
+  "recipeInstructions": "1. Secar los trozos de pollo y espolvorear con polvo de ajo.\n2. En una sartén grande, saltear el pollo y la cebolla en mantequilla hasta que estén dorados.\n3. Reducir el fuego.\n4. Espolvorear las pasas, las aceitunas y la canela sobre el pollo.\n5. Verter el caldo de pollo sobre el pollo.\n6. Tapar y cocinar durante 25 a 30 minutos.\n7. Servir con arroz si se desea.",
+  "url": null
+}

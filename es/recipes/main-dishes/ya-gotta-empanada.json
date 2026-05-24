@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "ya-gotta-empanada",
+  "name": "Tienes que empanada",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americana",
+    "étnica",
+    "plato principal",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "1 paquete de mezcla de arroz español (4.4 a 6.8 onzas) preparado según las instrucciones del paquete",
+    "1 lata de pechuga de pollo en trozos (6-3/4 onzas), escurrida, desmenuzada",
+    "4 oz queso Cheddar rallado",
+    "1/2 taza de cebolla verde picada",
+    "1/4 taza de aceitunas verdes maduras picadas",
+    "1 paquete de masa de pastel refrigerada (15 oz.)"
+  ],
+  "recipeInstructions": "1. Mezclar el arroz, el pollo, el queso, las cebollas y las aceitunas.\n2. Extender la mitad de la mezcla de arroz sobre la mitad de cada base de masa.\n3. Doblar la masa sobre el relleno.\n4. Sellar y doblar los bordes para formar las empanadas.\n5. Hornear a 200°C durante 20 a 22 minutos, o hasta que estén doradas.\n6. Cortar cada empanada por la mitad.",
+  "url": null
+}

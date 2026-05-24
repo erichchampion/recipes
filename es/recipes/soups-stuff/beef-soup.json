@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-soup",
+  "name": "Sopa de carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "3 lb de paleta de ternera",
+    "1/3 taza de zanahorias picadas",
+    "1 cucharada de cebolla picada",
+    "1/4 cucharadita de sal de apio",
+    "1/8 cucharadita de pimienta negra",
+    "3 litros de agua fría",
+    "1/3 taza de nabos picados",
+    "1 hoja de laurel",
+    "1 cucharadita de sal",
+    "2 cucharadas de grasa para cocinar"
+  ],
+  "recipeInstructions": "1. Limpiar la paleta de ternera.\n2. Cortar la carne en trozos pequeños y triturar el hueso.\n3. Dorar la carne en la grasa caliente para cocinar.\n4. Combinar la carne, el hueso triturado, la hoja de laurel, la sal de apio, el agua, la sal y la pimienta en una olla grande.\n5. Tapar y cocinar a fuego lento durante 4-5 horas, retirando la espuma según sea necesario.\n6. En grasa caliente para cocinar, dorar por separado las zanahorias y los nabos picados.\n7. Agregar los vegetales dorados al caldo de carne y dejar cocinar hasta que estén tiernos.\n8. Servir 6 porciones.",
+  "url": null
+}

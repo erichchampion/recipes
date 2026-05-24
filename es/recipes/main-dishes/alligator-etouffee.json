@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "alligator-etouffee",
+  "name": "Alligatore Estofado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuela principal",
+    "carne de caza",
+    "plato fuerte"
+  ],
+  "recipeIngredient": [
+    "2 cebollas picadas",
+    "2 dientes de ajo picados",
+    "4 tallos de apio picados",
+    "1 lata de tomates Rotel",
+    "1 libra de carne de caimán en tiras",
+    "2 palos de mantequilla",
+    "1/2 taza de cebolletas picadas",
+    "1/4 taza de perejil picado",
+    "Sal y pimienta al gusto",
+    "Pimienta cayena al gusto",
+    "3 tazas de arroz cocido"
+  ],
+  "recipeInstructions": "1. En una sartén grande, saltee las cebollas, el ajo y el apio en mantequilla hasta que estén suaves.\n2. Añada los tomates Rotel y deje cocinar a fuego lento durante 20 minutos en una olla de hierro cubierta.\n3. Incorpore la carne de caimán y deje cocinar a fuego lento hasta que esté tierna, aproximadamente 1 hora.\n4. Si la salsa está demasiado espesa, añada un poco de agua caliente para alcanzar la consistencia deseada.\n5. Sirva el etouffée sobre el arroz cocido.",
+  "url": null
+}

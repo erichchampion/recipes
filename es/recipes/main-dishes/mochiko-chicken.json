@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "mochiko-chicken",
+  "name": "Pollo Mochiko",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "3 lb de pollo (limpio, deshuesado y cortado en trozos pequeños)",
+    "2 cucharadas de harina de uso general",
+    "4 cucharadas de almidón de maíz",
+    "4 cucharadas de mochiko (harina de arroz dulce hecha con arroz pegajoso)",
+    "4 cucharadas de azúcar granulada",
+    "5 cucharadas de salsa de soja",
+    "1 cucharada de salsa de ostras china",
+    "2 huevos",
+    "MSG - opcional",
+    "Cebolletas picadas",
+    "2 cucharadas de semillas de sésamo, al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes con los trozos de pollo en un bol grande y remover bien para que quede uniformemente cubierto.\n2. Marinar durante 2-3 horas.\n3. Freír el pollo marinado en una sartén grande, como se haría con el pollo frito tradicional, hasta que esté dorado.\n4. Escurrir sobre papel absorbente y servir caliente.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "whipped-topping",
+  "name": "Cremas batidas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "postres",
+    "diabéticos",
+    "dietas especiales"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de leche en polvo instantánea sin grasa",
+    "2 cucharadas de azúcar",
+    "1/2 taza de agua helada",
+    "1/2 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Enfría un bol pequeño y las palas de una batidora eléctrica.\n2. Mezcla la leche en polvo con el agua helada en el bol.\n3. Bate hasta que esté firme, añadiendo el azúcar gradualmente.\n4. Añade el extracto de vainilla.\n5. Sirve inmediatamente. Rinde aproximadamente 2 tazas.",
+  "url": null
+}

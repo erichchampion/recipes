@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "lbi-chicken",
+  "name": "Pollo Lbi",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "arroz",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "Espagueti sin grasa (1/4 lb)",
+    "1 pimiento naranja cortado en tiras",
+    "1 taza de caldo de pollo",
+    "2 cucharadas de salsa de soja",
+    "1/2 taza de cebolletas cortadas (solo la parte blanca)",
+    "2 cucharadas de vino Marsala",
+    "Pimienta al gusto",
+    "1/2 lb de pechuga de pollo cortada en trozos pequeños",
+    "1 cucharada de harina disuelta en 2 cucharadas de agua",
+    "Pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Poner a hervir una olla con agua para cocinar la espagueti.\n2. Cortar el pollo y las verduras, sazonar el pollo con pimienta.\n3. Mezclar el caldo de pollo, salsa de soja y vino Marsala, sazonar con pimienta.\n4. Rocíar una sartén grande con spray de aceite de oliva e saltear las verduras a fuego alto durante unos 1 minuto.\n5. Agregar el pollo a la sartén y saltear hasta que ya no esté rosado.\n6. Verter la salsa y llevar a ebullición.\n7. Reducir el fuego y dejar cocinar destapado mientras se cocina la espagueti.\n8. Añadir la espagueti al agua hirviendo y cocinar durante 10 minutos o según las instrucciones del paquete.\n9. Una vez que la espagueti esté lista, agregar la mezcla de harina y agua a la sartén con el pollo. Aumentar el fuego y cocinar hasta que la salsa espese.\n10. Servir el pollo sobre la espagueti.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-soup",
+  "name": "Sopa de Tacos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1/2 cucharadita de polvo de ajo",
+    "1 cebolla grande",
+    "16 oz de tomates (enlatados)",
+    "16 oz de salsa de tomate (enlatada)",
+    "4 oz de chiles verdes (enlatados)",
+    "1 tarro de salsa gruesa y gruesa",
+    "16 oz de frijoles pintos (enlatados)",
+    "16 oz de frijoles pintos con salsa de chile (enlatados)",
+    "16 oz de frijoles rojos (enlatados)",
+    "1 sobre de mezcla para tacos",
+    "3 tazas de agua"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida en una olla grande hasta que esté completamente cocida.\n2. Añadir la cebolla y el polvo de ajo, remover para combinar.\n3. Escurrir y agregar los tomates, salsa de tomate, chiles verdes, salsa, frijoles pintos y frijoles pintos con salsa de chile.\n4. Incorporar la mezcla para tacos y el agua, llevando la mezcla a ebullición.\n5. Cocinar la sopa durante unos 20 minutos hasta que los sabores estén bien combinados.\n6. Servir caliente, adornada con queso cheddar rallado, totopos de tortilla y crema agria al gusto.",
+  "url": null
+}

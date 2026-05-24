@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "filet-of-filly",
+  "name": "Filete de yegua",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "4 1/4 libras de filetes de yegua",
+    "4 lonchas de tocino",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Prepara los filetes de yegua tal como lo harías con un filete mignon.\n2. Envuelve cada filete con una rebanada de tocino crudo por fuera, luego asegúralo con palillos dentales.\n3. Asa a la parrilla los filetes envueltos en tocino hasta alcanzar el punto de cocción deseado.",
+  "url": null
+}

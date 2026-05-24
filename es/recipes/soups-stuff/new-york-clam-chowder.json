@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "new-york-clam-chowder",
+  "name": "Cazuela de almejas de Nueva York",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "mariscos",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 docena de almejas grandes duras, picadas, y su jugo",
+    "1/4 lb de panceta salada picada (o tocino)",
+    "1 cebolla picada",
+    "1 taza de papas cortadas en cubos",
+    "1 zanahoria en rodajas",
+    "1 lata de 400 g de tomates triturados",
+    "1/2 cucharadita de sal (opcional)",
+    "1/4 cucharadita de pimienta",
+    "2 tazas de agua caliente (el jugo de almejas es mejor)",
+    "1 cucharadita de tomillo"
+  ],
+  "recipeInstructions": "1. Dorar la panceta en una olla.\n2. Añadir la cebolla y cocinar hasta que adquiera un tono amarillo.\n3. Incorporar las papas y zanahorias, los tomates en lata, la sal, la pimienta y el agua.\n4. Hervir hasta que las papas y zanahorias estén tiernas.\n5. Agregar las almejas, el tomillo y el jugo de almejas.\n6. Reducir el fuego y dejar cocinar unos minutos más.\n7. Servir 6 porciones.",
+  "url": null
+}

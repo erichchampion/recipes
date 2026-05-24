@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "lipton-s-calico-coleslaw",
+  "name": "Ensalada de col calico de Lipton",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 sobre de mezcla de sopa de verduras",
+    "1/2 litro de crema agria (240 g)",
+    "2 cucharadas de mayonesa",
+    "1 cucharada de vinagre de sidra de manzana",
+    "2 cucharaditas de mostaza dijon preparada",
+    "5 tazas de col verde, rallada",
+    "1 cebolla roja, cortada en láminas finas",
+    "1 cucharada de perejil picado finamente",
+    "Al gusto, pimienta negra molida"
+  ],
+  "recipeInstructions": "1. En un bol mediano, mezcle bien la mezcla de sopa de verduras, la crema agria, la mayonesa, el vinagre y la mostaza.\n2. Agregue el resto de los ingredientes y mezcle hasta combinarlos.\n3. Refrigere hasta el momento de servir.",
+  "url": null
+}

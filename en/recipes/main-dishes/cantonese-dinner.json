@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "cantonese-dinner",
+  "name": "Cantonese Dinner",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "asian",
+    "chinese",
+    "ethnic",
+    "main dish",
+    "oriental",
+    "pork"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Pork steak (cut into strips)",
+    "2 tbsp Oil",
+    "1 Large onion, sliced",
+    "1 Small green pepper, sliced",
+    "4 oz Mushrooms, canned and drained",
+    "8 oz Tomato sauce",
+    "1 1/2 tbsp Vinegar",
+    "3 tbsp Brown sugar",
+    "1 1/2 tsp Salt",
+    "2 tsp Worcestershire sauce"
+  ],
+  "recipeInstructions": "1. Brown the pork in oil.\n2. Place the pork into a crock pot.\n3. Add the remaining ingredients to the crock pot.\n4. Cook for 6-8 hours on low heat.\n5. Serve over rice.",
+  "url": null
+}

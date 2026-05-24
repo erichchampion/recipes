@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pickled-eggs-deck-2",
+  "name": "Pickled Eggs (Deck 2)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "eggs",
+    "pickles"
+  ],
+  "recipeIngredient": [
+    "15 eggs",
+    "1 cup water",
+    "1 tablespoon pickling spices",
+    "3 cups white vinegar",
+    "1 teaspoon salt"
+  ],
+  "recipeInstructions": "1. Hard boil the eggs.\n2. Remove shells and place the eggs in a 2-quart sterilized jar.\n3. Combine the remaining ingredients (white vinegar, salt) in a saucepan.\n4. Bring to a boil and pour over the eggs.\n5. Store in a cool place for several weeks.",
+  "url": null
+}

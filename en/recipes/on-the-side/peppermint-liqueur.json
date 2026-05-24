@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "peppermint-liqueur",
+  "name": "Peppermint Liqueur",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 tablespoons Peppermint extract (or 3 tablespoons)",
+    "3 cups Vodka",
+    "1 cup Sugar syrup (see recipe)"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a quart jar.\n2. Stir until well mixed.\n3. Allow the mixture to stand for 2 weeks to allow flavors to meld.\n4. Adjust the amount of Peppermint extract and sugar syrup to achieve desired strength and sweetness.\nWARNING: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-strawberry-pie",
+  "name": "Mi tarta de fresa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "fruta",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "Masa de tarta precocida de 23 cm",
+    "1 1/2 litros de fresas",
+    "1 1/2 tazas de azúcar",
+    "1/3 taza de maicena",
+    "1/2 taza de agua",
+    "3 tazas de Cool Whip Lite®"
+  ],
+  "recipeInstructions": "1. Cortar 2 tazas de fresas.\n2. En una cacerola, mezclar el azúcar y la maicena.\n3. Añadir agua a la mezcla poco a poco hasta obtener una consistencia suave.\n4. Incorporar las fresas cortadas a la cacerola.\n5. Cocinar, removiendo constantemente, hasta que la mezcla espese y hierva.\n6. Dejar enfriar la mezcla en la nevera durante unos 30 minutos.\n7. Verter aproximadamente 3/4 de la mezcla enfriada en la masa de tarta preparada.\n8. Colocar las fresas enteras restantes en la tarta, sumergiéndolas ligeramente en la salsa.\n9. Verter el resto de la salsa sobre las fresas.\n10. Refrigerar hasta que esté firme, aproximadamente 3 horas.\n11. Esparcir uniformemente el Cool Whip Lite® sobre la tarta antes de servir.",
+  "url": null
+}

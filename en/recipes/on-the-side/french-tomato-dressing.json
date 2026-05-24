@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-tomato-dressing",
+  "name": "French Tomato Dressing",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "dressings",
+    "salads",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Oil",
+    "1/4 cup Lemon Juice",
+    "2 tbsp Sweetener",
+    "3 tbsp Tomato Paste",
+    "3 tbsp Water",
+    "1 tsp Salt",
+    "1/4 tsp Onion Powder"
+  ],
+  "recipeInstructions": "1. Combine all ingredients except oil and lemon juice in a blender.\n2. Blend until smooth.\n3. With the blender running, slowly pour in the oil.\n4. Stir in the lemon juice.\n5. Chill before using.",
+  "url": null
+}

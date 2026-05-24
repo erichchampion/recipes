@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-macaroni-salad",
+  "name": "Ensalada de Macarrones con Tacos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "carne",
+    "pasta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de macarrones en espiral sin cocer",
+    "1 libra de carne molida redonda",
+    "1 sobre de mezcla para tacos (1 1/4 oz)",
+    "1/2 taza de aderezo francés",
+    "1/2 taza de lechuga rallada",
+    "1 taza de tomates cherry cortados por la mitad",
+    "4 onzas de queso cheddar fuerte rallado",
+    "1/2 taza de cebolla verde picada",
+    "1/2 taza de pimiento verde picado"
+  ],
+  "recipeInstructions": "1. Cocinar los macarrones según las instrucciones del paquete; escurrir.\n2. Enjuagar con agua fría y escurrir nuevamente.\n3. Refrigerar durante al menos 1 hora.\n4. Cocinar la carne molida en una sartén grande hasta que esté dorada, desmenuzándola mientras se cocina; escurrir el exceso de grasas.\n5. Incorporar la mezcla para tacos y el aderezo francés; dejar enfriar.\n6. Mezclar los macarrones, la mezcla de carne y el resto de ingredientes en un bol grande; mezclar bien.\n7. Servir la ensalada inmediatamente.",
+  "url": null
+}

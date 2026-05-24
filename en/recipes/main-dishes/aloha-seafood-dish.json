@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "aloha-seafood-dish",
+  "name": "Aloha Seafood Dish",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "2 pounds fish fillets",
+    "1/2 cup pineapple juice",
+    "1/4 cup steak sauce",
+    "1 teaspoon salt",
+    "1 dash pepper"
+  ],
+  "recipeInstructions": "1. Place fish in a single layer in a shallow baking dish.\n2. Combine the remaining ingredients and pour over the fish.\n3. Let stand for 30 minutes, turning once.\n4. Remove the fish, reserving the sauce for basting.\n5. Place the fish on a Pam-sprayed broiler pan.\n6. Broil for about 4 minutes, brushing with sauce.\n7. Turn carefully and brush with sauce again.\n8. Continue broiling until the fish flakes when tested with a fork.\n9. Garnish with lime wedges or pineapple if desired.",
+  "url": null
+}

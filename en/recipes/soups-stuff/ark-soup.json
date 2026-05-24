@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "ark-soup",
+  "name": "Ark Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "2 tbsp Butter",
+    "2 Onions (peeled and chopped)",
+    "2 Leeks (sliced)",
+    "2 Medium Turnips (cubed)",
+    "2 Potatoes (peeled and cubed)",
+    "2 Shallots (chopped)",
+    "2 Stalks Celery (sliced)",
+    "2 Carrots (sliced)",
+    "2 Cloves Garlic (halved)",
+    "2 Sprigs Parsley",
+    "2 cans Chicken Broth",
+    "2 cups Half-and-half",
+    "Salt and pepper to taste",
+    "Dill Weed to taste (optional)"
+  ],
+  "recipeInstructions": "1. Heat the butter in a large soup pot over medium heat.\n2. Add the onions, leeks, turnips, potatoes, shallots, celery, carrots, garlic, and parsley.\n3. Saute until the vegetables are tender but not browned.\n4. Stir in the chicken broth and bring to a simmer.\n5. Cook until the turnips are fully cooked.\n6. Cool slightly, then blend the soup into smaller batches using a blender.\n7. Return the blended soup to the pot and stir in the half-and-half.\n8. Gently reheat the soup over low heat until warmed through.\n9. Serve hot, garnished with a sprig of fresh dill (if desired).",
+  "url": null
+}

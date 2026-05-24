@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "irish-vegetables",
+  "name": "Verduras irlandesas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "guarniciones",
+    "dietas especiales",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 hoja de laurel",
+    "1/2 taza de floretes de coliflor",
+    "1/4 taza de pimiento picante (Pequin)",
+    "2 cucharadas de vinagre de vino",
+    "Sal al gusto (muy poca, para mí)",
+    "1/2 taza de maíz",
+    "1/2 taza de floretes de brócoli",
+    "1/2 taza de zanahoria"
+  ],
+  "recipeInstructions": "1. Combinar la hoja de laurel, agua y vinagre de vino en una cacerola mediana. Llevar a ebullición.\n2. Añadir las verduras. Reducir el fuego y cocinar hasta que las verduras estén tiernas.\n3. Si es necesario, escurrir y retirar la hoja de laurel antes de servir.\n4. Sazonar con sal y pimienta al gusto.",
+  "url": null
+}

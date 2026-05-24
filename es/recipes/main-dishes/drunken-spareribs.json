@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "drunken-spareribs",
+  "name": "Costillas de cerdo borrachas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "variado",
+    "cerdo",
+    "costillas"
+  ],
+  "recipeIngredient": [
+    "4 libras de costillas",
+    "1/4 taza de bourbon",
+    "1/4 taza de salsa de soja",
+    "1/4 taza de azúcar moreno",
+    "1 cucharada de mostaza dijon"
+  ],
+  "recipeInstructions": "1. Coloca las costillas en una rejilla sobre una bandeja para hornear.\n2. Mezcla los ingredientes restantes y extiéndelos uniformemente sobre ambos lados de las costillas.\n3. Hornea a 175 °C hasta que estén doradas y crujientes (1 hora 15 minutos a 1 hora 30 minutos), dándoles la vuelta una vez y barnizándolas frecuentemente con la salsa.\nSirve para 4 personas.",
+  "url": null
+}

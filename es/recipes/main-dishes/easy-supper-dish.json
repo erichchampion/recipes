@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-supper-dish",
+  "name": "Plato fácil para la cena",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de mantequilla",
+    "1 taza de macarrones",
+    "2 tazas de jugo de tomate",
+    "1/2 libra de carne molida",
+    "1 pequeña cebolla",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "Queso rallado"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una sartén.\n2. Añade los macarrones y el jugo de tomate, lleva a ebullición.\n3. Incorpora la carne molida y la cebolla.\n4. Agrega sal y pimienta; cocina durante 20 minutos.\n5. Espolvorea queso rallado por encima y deja que se derrita.",
+  "url": null
+}

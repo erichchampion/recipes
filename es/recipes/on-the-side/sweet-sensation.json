@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-sensation",
+  "name": "Sensación Dulce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "barbecua",
+    "marinadas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de especias todas las especias molidas",
+    "1/4 taza de azúcar moreno",
+    "1/4 taza de polvo de cebolla",
+    "2 cucharadas de sal",
+    "2 cucharaditas de nuez moscada molida",
+    "2 cucharaditas de canela en polvo",
+    "2 cucharaditas de tomillo seco"
+  ],
+  "recipeInstructions": "1. Mezcla bien las especias en un bol.\n2. Guarda en un recipiente cerrado en un lugar fresco y oscuro.",
+  "url": null
+}

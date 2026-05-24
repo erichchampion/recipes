@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "holy-guacamole",
+  "name": "Holy Guacamole!",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "dips",
+    "salads",
+    "snacks",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "2 medium Avocados",
+    "1 medium Onion, chopped",
+    "1 package Taco seasoning",
+    "2 Garlic cloves, minced",
+    "2 Celery stalks, chopped",
+    "2 Tbsp Lemon juice",
+    "1 medium Tomato, chopped",
+    "2 Jalapenos, seeded and chopped",
+    "1/2 tsp Cayenne pepper",
+    "1/2 tsp Worcestershire sauce",
+    "1/2 tsp Tabasco hot sauce",
+    "1 tsp Horseradish"
+  ],
+  "recipeInstructions": "1. Peel and cut the avocados in half lengthwise.\n2. Quarter one avocado half and place it in a food processor.\n3. Coarsely process the avocado with the remaining ingredients.\n4. Quarter and coarsely chop or mash the remaining avocado.\n5. Combine the mashed avocado with the processed mixture, stirring only to mix.\n6. Sprinkle the top with lemon juice, cover, and chill.",
+  "url": null
+}

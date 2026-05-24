@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "herb-and-oil-marinade",
+  "name": "Marinada de Hierbas y Aceite",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "marinadas",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "Jugo y cáscara de 1 naranja",
+    "1/4 taza de jugo de limón",
+    "1/4 taza de aceite vegetal",
+    "1/2 cucharadita de jengibre",
+    "1/2 cucharadita de salvia",
+    "1 diente de ajo, picado finamente",
+    "Pimienta recién molida al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Colocar la carne en un plato de vidrio poco profundo y verter la marinada sobre ella.\n3. Dejar marinar la carne en el refrigerador durante 4 horas.\n4. Durante la parrilla o barbacoa, barnizar la carne con la marinada restante.",
+  "url": null
+}

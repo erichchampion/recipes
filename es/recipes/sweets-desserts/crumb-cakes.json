@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "crumb-cakes",
+  "name": "Pasteles de migas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "1/2 taza de manteca corta",
+    "2 tazas de harina",
+    "1/2 cucharadita de sal",
+    "1 taza de crema agria",
+    "1/2 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de polvo de hornear",
+    "1 taza de pasas picadas",
+    "1 cucharadita de canela"
+  ],
+  "recipeInstructions": "1. Cernir la harina, medir y cernir nuevamente.\n2. Batir el azúcar y la manteca hasta obtener una mezcla cremosa.\n3. Agregar la harina, la canela y la sal a la mezcla. Mezclar hasta obtener migas.\n4. Reservar la mitad de esta mezcla para cubrir el pastel.\n5. Combinar la mezcla restante con la crema agria y las pasas. Batir bien.\n6. Incorporar el bicarbonato de sodio y el polvo de hornear.\n7. Verter la masa en un molde para pan engrasado. Espolvorear con las migas reservadas.\n8. Hornear en horno moderado (350°F) durante aproximadamente 40 minutos.",
+  "url": null
+}

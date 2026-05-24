@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-fudge",
+  "name": "Flan de Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "caramelo",
+    "queso",
+    "chocolate",
+    "postres",
+    "fudge",
+    "vacaciones"
+  ],
+  "recipeIngredient": [
+    "1 taza (2 barras) de mantequilla ablandada",
+    "225 g de queso procesado pasteurizado, en cubos",
+    "500 g de azúcar glas",
+    "1/2 taza de cacao",
+    "1/2 taza de leche en polvo sin grasa",
+    "2 cucharaditas de extracto de vainilla",
+    "2 tazas de nueces picadas groseramente"
+  ],
+  "recipeInstructions": "1. En una sartén grande a fuego medio, derretir la mantequilla y el queso, removiendo con frecuencia.\n2. Retirar del fuego. Colar juntos el azúcar glas y el cacao; añadir a la mezcla de queso, mezclando bien.\n3. Incorporar la leche en polvo sin grasa, el extracto de vainilla y las nueces.\n4. Verter en un molde rectangular de 20x20x5 cm. Refrigerar hasta que esté firme.\n5. Da para 3 libras.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cool-vegetable-pizza",
+  "name": "Cool Vegetable Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "snacks",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "16 Whole Pillsbury Crescent Rolls, 2 cans",
+    "8 oz Cream Cheese, softened",
+    "1 tsp Dried Dill Weed",
+    "1/8 tsp Garlic Powder",
+    "1/2 whole Yellow Bell Pepper, coarsely chopped",
+    "1/2 whole Red Bell Pepper, coarsely chopped",
+    "1/2 whole Cucumber, coarsely chopped"
+  ],
+  "recipeInstructions": "1. Preheat oven to 375°F.\n2. Press the crescent roll dough into an ungreased 15x10-inch jellyroll pan to form the crust. Bake for 13 to 17 minutes or until golden brown. Cool completely.\n3. Combine cream cheese with dill and garlic powder. Spread over the cooled crust.\n4. Cover and refrigerate for 1 hour.\n5. Top with vegetables.",
+  "url": null
+}

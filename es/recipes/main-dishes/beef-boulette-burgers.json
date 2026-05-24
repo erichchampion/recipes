@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-boulette-burgers",
+  "name": "Hamburguesas de albóndigas de ternera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "plato principal",
+    "carnes",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne molida",
+    "1 taza de crema agria",
+    "1/2 taza de pan rallado seco",
+    "4 oz de setas (utilice 1 lata de 4 oz de champiñones en trozos y tallos, escurridos y picados)",
+    "2 cucharadas de cebolla (picada finamente)",
+    "2 cucharadas de perejil (cortado)",
+    "1 1/2 cucharaditas de sal",
+    "1/4 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes.\n2. Forma la mezcla en 8 hamburguesas, cada una de aproximadamente 3/4 de pulgada de grosor.\n3. Asa o tuesta las hamburguesas a 4 pulgadas de distancia del calor, dándoles la vuelta una vez, hasta alcanzar el punto deseado (aproximadamente 10 a 15 minutos).",
+  "url": null
+}

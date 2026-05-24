@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "sugar-and-spice-cookies",
+  "name": "Galletas de azúcar y especias",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de manteca (al menos parte margarina)",
+    "1 taza de azúcar",
+    "1 huevo",
+    "1/4 taza de melaza",
+    "2 cucharaditas de bicarbonato de sodio",
+    "1/4 cucharadita de sal",
+    "1 cucharadita de canela en polvo",
+    "3/4 cucharadita de clavo molido",
+    "3/4 cucharadita de jengibre molido",
+    "2 tazas de harina",
+    "1/4 taza de azúcar moreno",
+    "1 cucharadita de canela en polvo"
+  ],
+  "recipeInstructions": "1. Batir la manteca y el azúcar hasta obtener una mezcla suave.\n2. Incorporar el huevo y la melaza.\n3. Añadir el bicarbonato de sodio, la sal, la canela, el clavo y el jengibre. Mezclar bien.\n4. Formar bolas con la masa.\n5. Rodar cada bola en una mezcla de azúcar moreno y 1 cucharadita de canela en polvo.\n6. Hornear a 375°F durante 10-12 minutos hasta que adquieran un tono dorado.",
+  "url": null
+}

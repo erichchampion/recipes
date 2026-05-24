@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-mushroom-curry",
+  "name": "Curry de Patata y Setas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "currys",
+    "plato principal",
+    "dietas especiales",
+    "verduras",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "375 gramos de setas tipo champiñón, enteras",
+    "250 gramos de patatas, cortadas en cubos",
+    "3 cucharadas de aceite de maní",
+    "1 cucharadita de hojas de fenogreco seco",
+    "1 cebolla grande, picada finamente",
+    "2 cucharaditas de ajo picado",
+    "1 cucharadita de jengibre fresco picado",
+    "1 tomate, cortado en cubos",
+    "2 cucharadas de cilantro fresco picado",
+    "1 cucharadita de polvo de chile",
+    "1 cucharadita de cúrcuma molida",
+    "1 cucharadita de sal, o al gusto",
+    "1/2 taza de agua caliente",
+    "1/2 cucharadita de garam masala"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en una sartén a fuego medio.\n2. Añadir las hojas de fenogreco y cocinar hasta que desprendan aroma.\n3. Agregar la cebolla picada y freír hasta que esté suave y dorada.\n4. Incorporar el ajo, el jengibre, los tomates y el cilantro. Cocinar durante 2 minutos, removiendo ocasionalmente.\n5. Añadir el polvo de chile, la cúrcuma, la sal y el agua caliente. Llevar a ebullición.\n6. Agregar las setas y los cubos de patata. Tapar y dejar cocinar a fuego lento, removiendo ocasionalmente, hasta que las patatas estén tiernas.\n7. Espolvorear con garam masala antes de servir con pan indio o arroz.",
+  "url": null
+}

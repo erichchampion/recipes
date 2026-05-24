@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "curried-hash",
+  "name": "Curry al haché",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "carne de res",
+    "guisos",
+    "carne molida",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aceite de cocina",
+    "1/2 cucharadita de salvia",
+    "500 g de carne molida",
+    "3 cucharadas de harina de uso común",
+    "1/2 taza de cebolla picada",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimienta"
+  ],
+  "recipeInstructions": "1. Combinar el aceite de cocina, la carne molida y la cebolla picada en una sartén.\n2. Dorar la mezcla, removiendo con frecuencia para desmenuzar la carne.\n3. Espolvorear con sal, pimienta y salvia.\n4. Incorporar la harina hasta que esté bien mezclada con la mezcla de carne.\n5. Añadir leche gradualmente y remover mientras hierve y espesa.\n6. Mezclar el polvo de curry.\n7. Si es necesario, añadir más líquido, especialmente al recalentar.\n8. Listo para servir o colocar en un refractario. Cubrir y hornear a 175 °C durante 20 minutos.\n9. Servir con arroz o fideos.",
+  "url": null
+}

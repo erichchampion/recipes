@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-and-shrimp-sauce",
+  "name": "Spagueti y salsa de gambas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "pasta",
+    "salsas",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "450 g de gambas frescas",
+    "2 cebollas pequeñas, picadas",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "2 cucharadas de aceite de oliva",
+    "1/4 taza de queso parmesano romano rallado",
+    "2 dientes de ajo, picados finamente",
+    "1 pimiento verde, picado",
+    "1/8 cucharadita de orégano seco",
+    "350 g de espaguetis"
+  ],
+  "recipeInstructions": "1. Cocinar las gambas en agua hirviendo hasta que estén ligeramente rosadas. Retirar la cáscara y reservar.\n2. Calentar el aceite en una sartén grande a fuego medio. Añadir el ajo, las cebollas, el pimiento verde, la sal, la pimienta y el orégano. Saltear hasta que las cebollas estén tiernas.\n3. Incorporar las gambas cocidas a la sartén y remover suavemente. Cocinar a fuego lento durante 10 minutos.\n4. Cocinar los espaguetis en agua hirviendo salada según las instrucciones del paquete hasta que estén al dente. Escurrir y mezclar con la salsa de gambas.\n5. Servir con queso parmesano rallado por encima.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "homemade-ice-cream",
+  "name": "Helado casero",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "diabético",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "13 onzas de leche evaporada",
+    "2 cucharadas de sustituto de azúcar",
+    "1 1/2 tazas de leche entera",
+    "1 cucharadita de extracto de vainilla",
+    "3 huevos - batidos bien"
+  ],
+  "recipeInstructions": "1. Mezclar la leche evaporada y el sustituto de azúcar en un bol. Batir hasta que se disuelva el azúcar.\n2. Añadir la leche entera y el extracto de vainilla, luego batir bien.\n3. Agregar los huevos gradualmente a la mezcla, batiendo vigorosamente para incorporarlos.\n4. Verter la mezcla en una máquina de helados y congelar según las instrucciones del fabricante.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-casserole-3",
+  "name": "Pizza Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "casseroles",
+    "ground beef",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 jar pizza sauce (commercial -or your own)",
+    "1 lb Ground beef",
+    "1/2 Onion, chopped",
+    "1/2 Green pepper, chopped",
+    "1 pk Pepperoni, sliced",
+    "2 cups Raw egg noodles"
+  ],
+  "recipeInstructions": "1. Layer the ingredients in order listed above in a casserole dish.\n2. Cover with plastic wrap and microwave for 5 minutes on high.\n3. Remove, stir, replace, and microwave again for 5 minutes on high.\n4. Sprinkle mozzarella cheese liberally on top.\n5. Let stand until cheese melts.\nNote: The dish can also be prepared in the oven by cooking the noodles and omitting water. Cook at 350 degrees Fahrenheit until bubbly, about 40 minutes.",
+  "url": null
+}

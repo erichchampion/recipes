@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "dijon-chicken-salad-sandwich",
+  "name": "Ensalada de pollo con salsa de mostaza de Dijon",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "aves de corral",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de mayonesa BEST FOODS",
+    "1/4 taza de cebolla verde picada",
+    "1 cucharadita de mostaza de Dijon",
+    "1 cucharadita de eneldo seco",
+    "1/2 cucharadita de sal",
+    "2 tazas de pollo cortado en cubos",
+    "Lechuga",
+    "Tomate"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar la mayonesa, la cebolla verde picada, la mostaza de Dijon, el eneldo seco y la sal.\n2. Incorporar el pollo cortado en cubos a la mezcla y remover hasta que quede bien combinado.\n3. Montar los sándwiches con lechuga, tomate y el relleno de ensalada de pollo.",
+  "url": null
+}

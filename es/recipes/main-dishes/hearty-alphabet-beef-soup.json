@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "hearty-alphabet-beef-soup",
+  "name": "Sopa de Carne Alfabética Generosa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "olla de cocción lenta",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de carne para estofar (o carne de res redonda)",
+    "1 taza de tomates enlatados (de una lata)",
+    "8 onzas de salsa de tomate (de una lata)",
+    "1 taza de agua",
+    "1 sobre de sopa de cebolla",
+    "1 paquete de verduras mixtas congeladas (parcialmente descongeladas)",
+    "1/2 taza de pasta tipo letras, cruda"
+  ],
+  "recipeInstructions": "1. Coloca la carne cortada en trozos en una olla de cocción lenta.\n2. Añade los tomates enlatados, la salsa de tomate, el agua, la sopa de cebolla y las verduras mixtas parcialmente descongeladas al recipiente.\n3. Tapa y cocina a fuego lento durante 6-8 horas.\n4. Cambia a un fuego alto.\n5. Agrega la pasta y tapa nuevamente.\n6. Cocina a fuego alto durante 30 minutos o hasta que las verduras estén tiernas.",
+  "url": null
+}

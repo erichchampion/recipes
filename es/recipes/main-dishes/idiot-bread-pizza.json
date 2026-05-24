@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "idiot-bread-pizza",
+  "name": "Pizza de panadero tonto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "Un sobre de levadura",
+    "1 cucharada de azúcar",
+    "4 tazas de harina",
+    "2 tazas de agua caliente",
+    "1 cucharadita de sal",
+    "1 1/2 tazas de salsa de tomate (para pizza)",
+    "225 g de queso mozzarella rallado",
+    "450 g de hamburguesa (salchicha o pepperoni) cocida"
+  ],
+  "recipeInstructions": "1. Disolver la levadura en agua tibia.\n2. Añadir el azúcar, la sal y la harina. Mezclar bien con una cuchara.\n3. Extender la masa uniformemente en dos bandejas engrasadas de 9x13 cm.\n4. Dejar reposar durante una hora.\n5. Extender aproximadamente 1 1/2 tazas de salsa de tomate sobre la masa.\n6. Espolvorear queso mozzarella rallado sobre la salsa.\n7. Añadir la hamburguesa cocida (salchicha o pepperoni).\n8. Colocar la pizza en el horno precalentado a 500 °F (260 °C). Reducir inmediatamente la temperatura a 400 °F (200 °C).\n9. Hornear durante 35 minutos, o hasta que el queso se derrita.",
+  "url": null
+}

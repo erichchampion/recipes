@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "better-than-potato-salad",
+  "name": "Mejor que la ensalada de patatas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "Arroz de grano largo cocido, 4 tazas",
+    "Radicios en rodajas, 8",
+    "Huevos duros y picados, 4",
+    "Pepino sin semillas y picado, 1 mediano",
+    "Apio en rodajas finas, 2 tazas",
+    "Cebolla picada, 1/2 taza",
+    "Mayonesa, 1 1/2 tazas",
+    "Mostaza preparada, 3 cucharadas",
+    "Pimienta, 3/4 cucharadita"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar el arroz, los radicios, los huevos, el pepino, el apio y la cebolla.\n2. En otro bol, combinar la mayonesa, la mostaza y la pimienta; mezclar bien.\n3. Verter la mezcla de mayonesa sobre el arroz y mezclar para que quede uniformemente cubierto.\n4. Tapar el bol y refrigerar al menos 1 hora antes de servir.",
+  "url": null
+}

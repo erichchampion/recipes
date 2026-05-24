@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-brownies",
+  "name": "Apple Brownies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "brownies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 stick margarine",
+    "1 1/2 cups sugar",
+    "3 apples, chopped",
+    "3/4 cup nuts",
+    "2 eggs",
+    "1 1/2 cups flour",
+    "3/4 teaspoon baking soda",
+    "3/4 teaspoon baking powder",
+    "3/4 teaspoon cinnamon"
+  ],
+  "recipeInstructions": "1. Cream the margarine and sugar until well combined.\n2. Add eggs to the mixture and mix well.\n3. Gradually add flour, baking soda, baking powder, and cinnamon, mixing until smooth.\n4. Stir in the chopped apples and nuts.\n5. Pour the batter into a greased baking dish.\n6. Bake at 375°F for 40 minutes.\n7. Turn off the heat and let the brownies cool before serving.",
+  "url": null
+}

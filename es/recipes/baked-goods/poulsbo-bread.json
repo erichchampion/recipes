@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "poulsbo-bread",
+  "name": "Pan de Poulsbo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 1/8 tazas de agua",
+    "3/4 taza de mezcla de granos 7",
+    "2 1/4 tazas de harina de pan",
+    "1/4 taza de harina integral",
+    "2 cucharadas de azúcar",
+    "2 cucharadas de melaza",
+    "1 cucharadita de sal",
+    "1 1/2 cucharaditas de leche en polvo (buttermilk)",
+    "1 1/2 cucharaditas de levadura",
+    "1 1/2 cucharadas de margarina",
+    "1/2 taza de semillas de girasol, opcional"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto las semillas de girasol en un bol grande.\n2. Si se usan semillas de girasol, incorporarlas a la masa antes de hornear.\n3. Verter la mezcla en un molde engrasado y hornear a 375°F (190°C) hasta que esté dorado y crujiente, aproximadamente 30-35 minutos.\n4. Este pan suave será difícil de cortar cuando esté caliente. Dejarlo enfriar completamente antes de usarlo en sándwiches.",
+  "url": null
+}

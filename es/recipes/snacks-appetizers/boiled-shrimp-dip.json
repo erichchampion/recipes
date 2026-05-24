@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "boiled-shrimp-dip",
+  "name": "Dip de camarones hervidos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "juegos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 litro de mayonesa",
+    "1 cucharada de capers picados",
+    "1 cucharada de anchoas picadas",
+    "1/2 taza de zumo de limón",
+    "Una pizca de salsa Tabasco",
+    "Una pizca de salsa Worcestershire",
+    "1/2 taza de pepinillo de eneldo, picado",
+    "1/4 taza de perejil finamente picado",
+    "1/2 cucharadita de rábano picante cremoso",
+    "2 cucharadas de mostaza criolla",
+    "2 dientes de ajo picados",
+    "2 cucharadas de cebolla picada"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta que queden bien integrados.\n2. Transferir la mezcla a un bol para servir y refrigerar hasta el momento de servir.",
+  "url": null
+}

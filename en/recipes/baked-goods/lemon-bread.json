@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-bread",
+  "name": "Lemon Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "1 cup Sugar",
+    "1 Lemon, rind of, grated",
+    "1/3 cup Cooking oil",
+    "2 Eggs",
+    "1/2 cup Milk",
+    "1 1/2 cups Flour, sifted once",
+    "1 teaspoon Baking powder",
+    "1/4 teaspoon Salt",
+    "1/2 cup Nuts, walnuts, pecans, etc., chopped fine"
+  ],
+  "recipeInstructions": "1. Mix all ingredients (except those for glaze) together in the order given.\n2. Pour the mixture into a greased loaf pan.\n3. Bake at 350 degrees for 45 minutes to 1 hour.\n4. After removing from the oven, glaze the top with the mixture of powdered sugar and lemon juice while the bread is still hot.\n5. Serves 8 to 10. Excellent for a brunch or teatime.",
+  "url": null
+}

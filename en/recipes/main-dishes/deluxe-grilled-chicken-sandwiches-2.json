@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "deluxe-grilled-chicken-sandwiches-2",
+  "name": "Deluxe Grilled Chicken Sandwiches",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "poultry",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "1 lb Breast of chicken, cut into strips",
+    "1 medium Green pepper, sliced thin",
+    "1 medium Red bell pepper, sliced thin",
+    "1 medium Onion, thinly sliced",
+    "4 oz Monterey Jack or mozzarella cheese, sliced",
+    "1/4 tsp Garlic powder",
+    "1 tbsp Taco seasoning",
+    "Salt and pepper to taste",
+    "4 Sesame Seed buns",
+    "1/2 tsp Dried basil"
+  ],
+  "recipeInstructions": "1. In a medium frying pan, saute the chicken breast strips until browned.\n2. Sprinkle with garlic powder, salt, pepper, and taco seasoning. Mix through thoroughly.\n3. Add sliced green peppers, red bell peppers, and onion to the pan. Continue sauteing until the vegetables are tender and the chicken is no longer pink.\n4. Butter the outside of each sliced sub bun, sprinkle with basil if desired, and place them in a toaster oven for 3 minutes to melt the butter and crisp the buns.\n5. Remove the buns from the toaster oven and top each one with the cooked chicken mixture and grated cheese.\n6. Place the buns back into the toaster oven, open, until the cheese bubbles and begins to brown.\n7. Serve with cucumber spears.\nWARNING: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

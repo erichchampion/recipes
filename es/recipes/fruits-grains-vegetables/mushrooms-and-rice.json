@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "mushrooms-and-rice",
+  "name": "Setas y arroz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "diabetico",
+    "arroz",
+    "guarniciones",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 oz de setas, laminadas",
+    "2 cucharadas de mantequilla (o margarina) derretida",
+    "1/2 cucharadita de sal",
+    "1/4 taza de jerez",
+    "3 tazas de arroz, caliente y cocido"
+  ],
+  "recipeInstructions": "1. Escurrir las setas y reservar el líquido.\n2. Saltear las setas en la mantequilla durante unos 5 minutos.\n3. Añadir sal, pimienta y jerez a la sartén.\n4. Reducir el fuego y cocinar durante otros 5 minutos.\n5. Incorporar el arroz.\n6. Agregar el líquido reservado de las setas y calentar hasta que esté bien cocido.",
+  "url": null
+}

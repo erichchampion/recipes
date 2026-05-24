@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "simulated-instant-beef-gravy-packet",
+  "name": "Saquete de salsa de carne instantánea simulada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de harina",
+    "1 cucharada de base de sabor a carne de res",
+    "1/2 cucharadita de almidón de maíz",
+    "1 cucharada de ketchup",
+    "1 cucharadita de polvo de verduras mixtas",
+    "1 pizca de polvo de ajo",
+    "1 pizca de polvo de cebolla",
+    "1 giro generoso de pimienta negra fresca molida",
+    "1 taza de agua (o leche)"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes excepto el agua o la leche en un bol pequeño hasta formar una pasta.\n2. Añade lentamente el agua (o leche) mientras revuelves vigorosamente. El ketchup será el más difícil de mezclar.\n3. Lleva a ebullición en una sartén o cacerola que contenga los jugos del plato principal.\n4. Revuelve hasta espesar a la consistencia deseada.\n5. Sirve. Sustituye la leche por el agua para simular \"salsa bechamel al estilo campestre\".",
+  "url": null
+}

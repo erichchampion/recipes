@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-brown-bread",
+  "name": "Quick Brown Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Brown sugar",
+    "1/4 cup Syrup; maple or molasses",
+    "1 tsp Salt",
+    "1 Egg",
+    "2 cups Sour milk or buttermilk",
+    "2 tsp Baking soda",
+    "1 cup White flour",
+    "2 cups Graham flour",
+    "1 tsp Baking powder",
+    "2 tbsp Shortening; melted"
+  ],
+  "recipeInstructions": "1. Beat together the first four ingredients.\n2. Add baking soda dissolved in milk to the mixture.\n3. Combine the sifted flour and baking powder, then add shortening.\n4. Pour into a greased 5 x 10 inch pan.\n5. Bake for 1 hour at 375°F.",
+  "url": null
+}

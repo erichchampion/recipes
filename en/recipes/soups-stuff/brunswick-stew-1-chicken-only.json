@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "brunswick-stew-1-chicken-only",
+  "name": "Brunswick Stew#1 (Chicken Only)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "soups & stews",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "1 large hen, steamed, boned, and diced (reserve broth)",
+    "2 large onions, chopped",
+    "1 can V-8® vegetable juice",
+    "1 can peeled tomatoes",
+    "1 can peeled tomatoes",
+    "1/4 cup Worcestershire sauce",
+    "salt and pepper to taste",
+    "2 packages frozen baby lima beans",
+    "2 packages frozen okra",
+    "2 packages frozen whole kernel corn",
+    "Optional: Tabasco or other red hot pepper sauce to taste"
+  ],
+  "recipeInstructions": "1. Cook chicken broth.\n2. Add diced chicken, tomatoes, juices, onions, and seasonings.\n3. Simmer until fairly thick.\n4. Stir in vegetables (lima beans, okra, corn).\n5. Continue cooking until vegetables are done and stew reaches desired consistency.\n6. Adjust seasoning to taste if needed.",
+  "url": null
+}

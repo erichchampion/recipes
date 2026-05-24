@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "plain-or-spinach-pasta",
+  "name": "Pasta sencilla o con espinacas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "italiano",
+    "pasta",
+    "espinacas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina (para pasta blanca)",
+    "3 huevos enteros + 1/2 taza de agua",
+    "250 g de espinacas cocidas escurridas",
+    "2 1/2 tazas de huevos batidos",
+    "3 huevos enteros batidos para obtener 2 tazas"
+  ],
+  "recipeInstructions": "1. Coloca la harina en el procesador de alimentos y enciéndelo.\n2. Vierte los huevos batidos a través del tubo.\n3. Deja que la masa limpie el bol hasta que esté lista.\n4. Para pasta con espinacas, añade las espinacas con la harina y procesa durante unos minutos antes de incorporar los huevos.",
+  "url": null
+}

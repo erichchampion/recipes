@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "gimlet",
+  "name": "Gimlet",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 oz Gin",
+    "1/2 oz Rose's lime juice",
+    "Cracked ice"
+  ],
+  "recipeInstructions": "1. Fill a mixing glass with cracked ice.\n2. Add gin and Rose's lime juice to the mixing glass.\n3. Shake well until cold.\n4. Strain into a chilled cocktail glass.",
+  "url": null
+}

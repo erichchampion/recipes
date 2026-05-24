@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "sugared-muffins",
+  "name": "Muffins con azúcar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "magdalenas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 tazas de mezcla para pan de maíz (INDEX)",
+    "3/4 taza de agua",
+    "1/4 taza de azúcar moreno compactado",
+    "1 huevo",
+    "1 taza de arándanos frescos",
+    "3 cucharadas de azúcar granulado",
+    "1/2 cucharadita de canela en polvo",
+    "2 cucharadas de mantequilla o margarina derretida"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 425 °F (220 °C). Engrasar los fondos de 12 moldes para muffins medianos.\n2. Mezclar la mezcla para pan de maíz, el agua, el azúcar moreno y el huevo hasta que la mezcla esté humedecida. La masa estará con grumos.\n3. Incorporar los arándanos suavemente. Llenar los moldes para muffins hasta las 2/3 de su capacidad.\n4. Hornear durante 15 a 20 minutos, o hasta que estén dorados.\n5. Mezclar el azúcar granulado con la canela. Sumergir los topes de los muffins en la mantequilla derretida y luego en la mezcla de azúcar-canela.",
+  "url": null
+}

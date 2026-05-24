@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-shake",
+  "name": "Batido de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "frutas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de helado de vainilla",
+    "2 tazas de sidra de manzana fría",
+    "2 plátanos maduros",
+    "1/2 cucharadita de canela en polvo"
+  ],
+  "recipeInstructions": "1. Agregar el helado de vainilla en la licuadora.\n2. Verter la sidra de manzana fría.\n3. Pelar y cortar los plátanos maduros, y añadir a la licuadora.\n4. Espolvorear la canela en polvo sobre la mezcla.\n5. Licuar hasta obtener una consistencia suave y cremosa.\n6. Servir en vasos y disfrutar.",
+  "url": null
+}

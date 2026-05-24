@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "popeye-s-favorite-snack",
+  "name": "El favorito de Popeye como tentempié",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "favoritos",
+    "varios"
+  ],
+  "recipeIngredient": [
+    "10 oz (paquete) de espinacas congeladas",
+    "1 taza de mezcla de relleno sazonado (en migas)",
+    "1/3 taza de queso parmesano",
+    "3 huevos, batidos",
+    "1 cebolla, picada",
+    "4 cucharadas de margarina derretida"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 175°C.\n2. Cocinar las espinacas según las instrucciones del paquete y escurrir bien.\n3. Mezclar las espinacas con los ingredientes restantes, combinando bien.\n4. Formar bolas del tamaño de una nuez.\n5. Hornear en una bandeja para galletas sin engrasar a 175°C durante 20 minutos.\n6. Estas pueden congelarse antes de cocinarlas. Sin descongelar, hornear a 175°C durante 30 minutos.\n7. Servir caliente o frío.",
+  "url": null
+}

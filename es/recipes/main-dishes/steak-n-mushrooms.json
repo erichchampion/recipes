@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "steak-n-mushrooms",
+  "name": "Steak y setas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "bistec"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb solomillo de ternera",
+    "2 lb champiñones con sus sombreros",
+    "6 cucharadas de mantequilla",
+    "6 cucharadas de aceite de oliva",
+    "1 diente de ajo, picado",
+    "3 cucharadas de perejil fresco picado"
+  ],
+  "recipeInstructions": "1. Calentar la mantequilla y el aceite de oliva en una sartén a fuego medio.\n2. Añadir los champiñones a la sartén y saltear durante unos 3 minutos.\n3. Incorporar el ajo y cocinar hasta que esté tierno.\n4. Espolvorear el perejil sobre la mezcla.\n5. Sazonar con sal y pimienta al gusto.\n6. (Opcional) Agregar salsa Worcestershire o jerez.\n7. Servir junto al steak.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-baked-chicken",
+  "name": "Pollo al horno italiano",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "Freidora o sartén",
+    "1/2 taza de queso italiano rallado",
+    "2 huevos batidos",
+    "1 taza de migas de pan italiano",
+    "1/4 taza de aceite de oliva",
+    "Mantequilla o margarina (opcional)"
+  ],
+  "recipeInstructions": "1. Mezclar las migas de pan con el queso en un bol.\n2. En otro bol, combinar los huevos y el aceite de oliva.\n3. Sumergir cada trozo de pollo en la mezcla de huevo, escurriendo rápidamente para cubrirlo con la mezcla de migas de pan y queso.\n4. Colocar los trozos de pollo en una sartén ligeramente engrasada y untar un poco de mantequilla sobre cada uno.\n5. Hornear a 180°C durante aproximadamente 1 hora, o hasta que esté cocido completamente.",
+  "url": null
+}

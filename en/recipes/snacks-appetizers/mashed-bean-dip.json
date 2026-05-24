@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mashed-bean-dip",
+  "name": "Mashed Bean Dip",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "dips",
+    "snacks",
+    "texmex"
+  ],
+  "recipeIngredient": [
+    "2 cup Drained, cooked pinto beans",
+    "2 Green onions, minced",
+    "3/4 cup Jack or Cheddar, grated",
+    "1/4 tsp Cilantro, minced",
+    "1 tbsp Chili powder",
+    "1/2 tsp Salt",
+    "1 Clove garlic, crushed",
+    "2 tbsp Bacon drippings"
+  ],
+  "recipeInstructions": "1. Mash the beans.\n2. Add the remaining ingredients except the bacon drippings and mix well.\n3. Season with salt and garlic to taste.\n4. Heat the bacon drippings in a chafing dish.\n5. Add the mixture to the heated drippings and stir until the cheese is melted and the dip is bubbling.\n6. Serve warm with freshly made tortillas.",
+  "url": null
+}

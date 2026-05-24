@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "pumpkin-muffins-4",
+  "name": "Muffins de Calabaza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "1 huevo",
+    "1/2 taza de leche",
+    "1/2 taza de calabaza cocida y machacada",
+    "1/4 taza de aceite vegetal",
+    "1 1/2 tazas de harina",
+    "1/2 taza de azúcar",
+    "2 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de canela",
+    "1/2 cucharadita de nuez moscada",
+    "1/2 cucharadita de sal",
+    "1/2 taza de pasas"
+  ],
+  "recipeInstructions": "1. Mezclar el huevo, la leche, la calabaza y el aceite.\n2. En otro bol, combinar los ingredientes secos: harina, azúcar, polvo de hornear, canela, nuez moscada y sal.\n3. Agregar la mezcla seca a la mezcla de calabaza y mezclar bien.\n4. Incorporar las pasas.\n5. Verter la masa en moldes para muffins.\n6. Hornear a 175 °C durante 18-20 minutos.",
+  "url": null
+}

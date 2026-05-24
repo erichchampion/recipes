@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-grits",
+  "name": "Grits con chili",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "mexicano",
+    "sopas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de maicena para grits rápida",
+    "1 1/2 cucharaditas de sal",
+    "6 tazas de agua hirviendo",
+    "1/2 taza de mantequilla",
+    "2 tazas de queso cheddar rallado",
+    "2 cucharadas de pimientos jalapeños finamente picados",
+    "3 huevos batidos",
+    "1 lata (400 g) de sopa de pollo",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180 °C.\n2. Cocinar los grits en agua hirviendo con sal durante 8 minutos.\n3. Añadir la mantequilla, queso, pimientos, huevos, sopa y sal; mezclar bien.\n4. Extender la mezcla en un molde para hornear de 2 litros engrasado.\n5. Hornear durante 1 a 1 1/2 horas, cubierto durante los primeros 45 minutos.\n6. Retirar la tapa y continuar horneando hasta que esté ligeramente dorado.",
+  "url": null
+}

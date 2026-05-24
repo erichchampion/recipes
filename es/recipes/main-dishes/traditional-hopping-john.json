@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "traditional-hopping-john",
+  "name": "Tradicional Hopping John",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo",
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "4 lomos de tocino",
+    "1/4 taza de cebolla, picada",
+    "1/2 pimiento rojo, picado",
+    "1/2 pimiento verde, picado",
+    "2 tazas de guisantes negros frescos (o guisantes morados con cáscara)",
+    "2 paquetes (10 onzas cada uno) de guisantes negros congelados",
+    "1/2 taza de arroz blanco sin cocinar",
+    "2 tazas de agua",
+    "Sal y pimienta al gusto",
+    "Salsa picante Louisiana"
+  ],
+  "recipeInstructions": "1. Pica el tocino y fríelo en una olla holandesa con la cebolla y los pimientos hasta que el tocino esté crujiente y las verduras suaves.\n2. Añade los guisantes y el arroz, luego el agua. Tapa y deja cocinar a fuego muy bajo durante unos 20 minutos, o hasta que el arroz esté tierno.\n3. Sazona con sal y pimienta al gusto.\n4. Agrega un chorro de salsa picante Louisiana al gusto.",
+  "url": null
+}

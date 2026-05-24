@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-sorbet-2",
+  "name": "Chocolate Sorbet",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "sorbet"
+  ],
+  "recipeIngredient": [
+    "1 cup cocoa powder",
+    "3/4 cup sugar",
+    "2 1/2 cups water",
+    "1 teaspoon vanilla extract"
+  ],
+  "recipeInstructions": "1. Combine all ingredients except vanilla extract in a saucepan.\n2. Heat the mixture on medium, stirring frequently, until it reaches a boil.\n3. Turn off the heat and stir in the vanilla extract.\n4. Chill the mixture thoroughly.\n5. Freeze according to your ice cream maker's instructions.",
+  "url": null
+}

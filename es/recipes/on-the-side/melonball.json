@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "melonball",
+  "name": "Melón en bolas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 oz de Midori",
+    "1 oz de vodka",
+    "5 oz de zumo de naranja; o hasta llenar"
+  ],
+  "recipeInstructions": "1. Llenar un vaso alto con hielo.\n2. Verter el vodka y el Midori.\n3. Completar con zumo de naranja.\n4. Remover suavemente.\n5. Servir.",
+  "url": null
+}

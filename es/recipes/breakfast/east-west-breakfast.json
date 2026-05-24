@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "east-west-breakfast",
+  "name": "Desayuno East-West",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "mcdougall"
+  ],
+  "recipeIngredient": [
+    "1 cebolla mediana picada",
+    "1 tallo de apio picado",
+    "1/3 taza de pimiento verde picado",
+    "1/2 taza de agua",
+    "2 papas grandes cocidas (peladas o cortadas en cubos)",
+    "1 taza de arroz marrón cocido",
+    "1 cucharadita de comino molido",
+    "1 cucharada de salsa de soja"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla, el apio y el pimiento verde en 1/4 taza de agua en una sartén antiadherente grande durante 5 minutos.\n2. Añadir las papas y el resto del agua (1/4 taza) a la sartén. Cocinar, removiendo suavemente, hasta que las verduras estén tiernas, aproximadamente 5 minutos.\n3. Incorporar el arroz, el comino y la salsa de soja. Cocinar, removiendo, hasta que el fondo se dore ligeramente, unos 2 minutos.",
+  "url": null
+}

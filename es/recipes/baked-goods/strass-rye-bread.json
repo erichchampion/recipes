@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "strass-rye-bread",
+  "name": "Pan de centeno con strass",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina de centeno, o harina de avena",
+    "1 1/2 tazas de harina de trigo para pan o harina de uso general",
+    "1/4 taza de trigo partido",
+    "1 cucharada de melaza",
+    "1 huevo",
+    "1 cucharada de aceite",
+    "1/2 naranja, ralladura de la cáscara",
+    "1 cucharadita de sal",
+    "2 cucharaditas de semillas de anís o comino",
+    "1/2 taza de agua",
+    "1/2 taza de buttermilk",
+    "1 1/2 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes según el orden indicado por las configuraciones de mezclado de su procesador.\n2. Colocar la mezcla en el recipiente de mezclado y encender la máquina.",
+  "url": null
+}

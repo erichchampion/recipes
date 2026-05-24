@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-pizza-sauce",
+  "name": "Basic Pizza Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza",
+    "sauces"
+  ],
+  "recipeIngredient": [
+    "1 Can Whole tomatoes (35 oz)",
+    "1 Teaspoon Basil, Oregano, or Marjoram",
+    "1 Clove Garlic, peeled, crushed and minced",
+    "2 Tablespoons Tomato paste, optional",
+    "Black pepper, freshly ground to taste",
+    "Salt, to taste"
+  ],
+  "recipeInstructions": "1. Pour the contents of the tomato can into a 2-quart, heavy non-aluminum saucepan.\nCoarsely crush the tomatoes with a fork.\n2. Add the herbs, garlic, tomato paste, salt, and pepper.\n3. Bring to a simmer over medium heat, stirring to mix the seasonings.\n4. As soon as the sauce begins to bubble, reduce the heat to low.\n5. Cook, uncovered, stirring occasionally for a minimum of 15 minutes and up to 1 hour.",
+  "url": null
+}

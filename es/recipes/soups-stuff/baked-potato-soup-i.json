@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-potato-soup-i",
+  "name": "Sopa de papa al horno I",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "6 papas",
+    "2 tazas de leche",
+    "1/2 taza de mantequilla",
+    "1/2 taza de crema agria",
+    "3 rebanadas de tocino, fritas y desmenuzadas",
+    "1/2 taza de cebolla verde picada",
+    "1/2 taza de queso cheddar rallado",
+    "Sal y pimienta negra molida al gusto"
+  ],
+  "recipeInstructions": "1. Pelar y cortar las papas en dados.\n2. Cocinar en agua hasta que estén tiernas.\n3. Escurrir las papas.\n4. Devolver las papas a la olla.\n5. Agregar la leche y calentar lentamente, sin llegar a hervir.\n6. Añadir gradualmente la mantequilla, crema agria, tocino, cebolla verde picada y queso cheddar rallado.\n7. Continuar cocinando hasta que la mantequilla, crema agria y queso se hayan derretido en gran medida.\n8. Sazonar con sal y pimienta al gusto.\n9. Servir inmediatamente, adornando con cebolla verde adicional, queso y crema agria si se desea.",
+  "url": null
+}

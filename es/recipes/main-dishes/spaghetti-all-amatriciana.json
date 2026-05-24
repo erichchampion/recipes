@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-all-amatriciana",
+  "name": "Spaguetis a la amatriciana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiana",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "300 g de espagueti",
+    "1 lata de tomates pelados triturados (1/2 taza)",
+    "1 pimiento enlatado (picado)",
+    "1 cucharada de aceite de oliva",
+    "14 onzas de spaghetti",
+    "1 cucharada de mantequilla",
+    "Sal y pimienta al gusto",
+    "1/2 taza de tocino magro picado (o prosciutto rallado)"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva y la mantequilla en una sartén. Freír suavemente el tocino picado durante 5 minutos hasta que esté dorado.\n2. Añadir los tomates triturados, el pimiento y cocinar a fuego medio durante 10 minutos, removiendo ocasionalmente.\n3. Cocinar la pasta según las instrucciones del paquete y escurrir bien.\n4. Mezclar la pasta con la mitad de la salsa.\n5. Cubrir con la salsa restante y espolvorear con prosciutto rallado o queso antes de servir.",
+  "url": null
+}

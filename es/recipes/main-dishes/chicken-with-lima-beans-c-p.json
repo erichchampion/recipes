@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-with-lima-beans-c-p",
+  "name": "Pollo con Judías de Lima",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "olla de cocción lenta",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 pollo para freír, cortado en trozos",
+    "Sal",
+    "Pimienta",
+    "1 cucharada de aceite",
+    "2 patatas grandes, cortadas en cubos",
+    "1 paquete de judías de lima congeladas, descongeladas",
+    "1 taza de caldo de pollo",
+    "1/4 cucharadita de tomillo"
+  ],
+  "recipeInstructions": "1. Sazonar los trozos de pollo con sal y pimienta.\n2. Calentar el aceite en una sartén grande a fuego medio.\n3. Freír el pollo por ambos lados hasta que esté dorado.\n4. Transferir el pollo frito y las patatas a la olla de cocción lenta.\n5. Añadir las judías de lima descongeladas, el caldo de pollo y el tomillo a la olla de cocción lenta.\n6. Tapar la olla de cocción lenta y cocinar a fuego lento durante 4-6 horas.",
+  "url": null
+}

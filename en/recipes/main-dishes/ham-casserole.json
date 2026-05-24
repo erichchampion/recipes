@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-casserole",
+  "name": "Ham Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cups ham cubes",
+    "1 cup grated Cheddar cheese",
+    "1/2 cup milk",
+    "1 can cream of mushroom soup",
+    "2 cups cooked macaroni",
+    "2 tablespoons butter",
+    "2 tablespoons chopped onion"
+  ],
+  "recipeInstructions": "1. Cook the ham and onions in butter until the onions are translucent.\n2. Add the cream of mushroom soup, milk, and grated Cheddar cheese to the pan. Stir over medium heat until the cheese has melted.\n3. Mix in the remaining cooked macaroni and chopped onions.\n4. Transfer the mixture to a greased 2-quart casserole dish.\n5. Bake at 350°F (175°C) for 30 minutes, or until heated through and bubbly.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-peanuts",
+  "name": "Hot Peanuts",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "chiles",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "4 cups Peanuts",
+    "1/2 cup Butter",
+    "2 tablespoons Red pepper flakes",
+    "1 tablespoon Chipotle flakes"
+  ],
+  "recipeInstructions": "1. Melt the butter.\n2. Toss the nuts in the melted butter until coated.\n3. Bake at 350 degrees Fahrenheit for 15 minutes.\n4. Toss with red pepper flakes.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-fudge-2",
+  "name": "Fudge rápido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "caramelo",
+    "postres",
+    "fudge"
+  ],
+  "recipeIngredient": [
+    "1 caja (450 g) de azúcar glas",
+    "6 cucharadas de mantequilla o margarina",
+    "1/4 taza de leche",
+    "1/2 cucharadita de sal",
+    "1 cucharadita de extracto de vainilla",
+    "1/4 a 1/2 taza de cacao, según la intensidad deseada"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en el fondo de una sartén grande.\n2. Añade el azúcar glas y el resto de los ingredientes, removiendo bien.\n3. Cocina a fuego medio hasta que la mezcla llegue a ebullición.\n4. Vierte la mezcla en un molde cuadrado de 20 cm engrasado.\n5. Deja enfriar y corta en cuadrados pequeños.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-soup-1",
+  "name": "Fish Soup#1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "1 lb Fresh fish (croakers, porgies, etc.)",
+    "2 tsp Powdered ginger or fresh ginger root -- smashed",
+    "2 medium Tomatoes, quartered",
+    "1 t MSG",
+    "1 Lemon, juice of",
+    "4 cups Water",
+    "Salt and pepper to taste",
+    "4 Stalk scallion, diced"
+  ],
+  "recipeInstructions": "1. Put all ingredients except lemon juice in a large saucepan.\n2. Simmer for 45 minutes.\n3. Bring serving, add lemon juice and diced scallion, and serve.",
+  "url": null
+}

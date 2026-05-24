@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-bangers",
+  "name": "Bangers básicos",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "británico",
+    "étnico",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 lb de hombro de cerdo (parte magra)",
+    "8 oz de grasa de cerdo",
+    "Sal y pimienta",
+    "1 ½ cucharadas de miga de pan fresca",
+    "Nuez moscada",
+    "Clavo molido",
+    "Macis",
+    "Tomillo",
+    "2 Yemas de huevo",
+    "8 pieles de salchicha"
+  ],
+  "recipeInstructions": "1. Picar finamente el hombro de cerdo y la grasa de cerdo.\n2. Sazonar generosamente con sal, pimienta y al menos una pizca cada uno de nuez moscada, clavo molido, macis y tomillo.\n3. Añadir las migas de pan y las yemas de huevo a la mezcla de carne y mezclar bien hasta que quede combinada.\n4. Refrigerar la mezcla durante unos 30 minutos para facilitar su manipulación.\n5. Rellenar las pieles de salchicha con la mezcla, cerrarlas firmemente en los extremos.\n6. Si no se dispone de pieles de salchicha, cubrirlas con huevo batido y luego pasarlas por pan rallado seco.\n7. Servir a la parrilla o fritas.",
+  "url": null
+}

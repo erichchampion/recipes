@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-popcorn",
+  "name": "Pizza de palomitas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "palomitas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "12 tazas de palomitas de maíz",
+    "2 cucharadas de aceite de oliva",
+    "2 cucharadas de mezcla de salsa de espagueti seca",
+    "2 cucharadas de queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. Coloca las palomitas de maíz en un bol grande.\n2. Calienta el aceite de oliva en el microondas hasta que esté caliente.\n3. Vierte el aceite de oliva caliente sobre las palomitas de maíz.\n4. Espolvorea la mezcla de salsa de espagueti y el queso parmesano rallado uniformemente sobre las palomitas.\n5. Mezcla suavemente las palomitas para que se cubran bien con las especias.",
+  "url": null
+}

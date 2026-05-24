@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "harvest-soup",
+  "name": "Harvest Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "1 cup Chopped Onions",
+    "1 tbsp Oil",
+    "3 cans (14 1/2 oz) Chicken Broth",
+    "1 can (16 oz) Pumpkin",
+    "1 can (7 1/2 oz) Hunt's Whole Tomatoes, drained and crushed",
+    "1 1/2 tsp Sugar",
+    "1/4 tsp Salt",
+    "1/2 tsp Curry Powder",
+    "1/4 tsp Pepper",
+    "1/8 tsp Crushed Cloves",
+    "1 cup Skim Milk",
+    "1 tsp Cornstarch"
+  ],
+  "recipeInstructions": "1. In a large saucepan, sauté onions in oil until tender.\n2. Stir in the remaining ingredients except milk and cornstarch.\n3. Boil and simmer uncovered for 10 minutes.\n4. In a cup, mix milk and cornstarch.\n5. Add to soup and stir constantly.\n6. Continue boiling until slightly thickened.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mocha-marble-cake",
+  "name": "Tarta de mármol mocha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de miel, o endulzante alternativo",
+    "1/2 taza de agua tibia",
+    "1/4 taza de aceite de girasol",
+    "2 cucharadas de tahini",
+    "1 cucharadita de sustituto de café",
+    "1 libra de tofu firme, cortado en trozos",
+    "2 cucharaditas de extracto de vainilla",
+    "1/4 taza de glaseado de chocolate, ver receta",
+    "1/2 taza de migas de galleta Graham"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180°C.\n2. Mezclar la miel, agua, aceite, tahini y sustituto de café hasta obtener una consistencia homogénea. Incorporar los trozos de tofu uno a uno hasta lograr una textura cremosa.\n3. Enmantequillar ligeramente un molde para tarta de 23 cm de diámetro. Espolvorear con migas de galleta. Verter la mitad de la mezcla de tofu en el molde. Extender el glaseado de chocolate sobre la capa.\n4. Cubrir con el resto de la mezcla de tofu.\n5. Introducir un cuchillo en el centro y tirar hacia arriba para crear vetas de chocolate a través de las capas.\n6. Hornear durante 20-25 minutos.",
+  "url": null
+}

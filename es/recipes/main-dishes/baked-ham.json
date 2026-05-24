@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-ham",
+  "name": "Jamón horneado",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "jamón",
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "10 libras de jamón",
+    "1 taza de azúcar moreno",
+    "1/4 taza de harina",
+    "1 cucharadita de mostaza en polvo",
+    "1/4 taza de jarabe de arce",
+    "3 cucharadas de agua",
+    "2 clavos enteros"
+  ],
+  "recipeInstructions": "- Nota: Esta receta asume el uso de un jamón crudo. Si utiliza un jamón cocido previamente, omita el paso de hervirlo por completo.\n- Lavar el jamón y cubrir con agua hirviendo. Cocinar a fuego lento durante 4 horas. Dejar reposar el jamón en el líquido durante la noche.\n- Al día siguiente, retirar la grasa visible y hacer incisiones en la superficie del jamón. Insertar los clavos enteros en el jamón.\n- Preparar una pasta mezclando el azúcar, la harina, la mostaza, el jarabe de arce y el agua (puede usar el agua en que se cocinó el jamón si está disponible).\n- Extender la pasta uniformemente sobre el jamón y colocarlo en una bandeja para hornear. Hornear destapado a 400 °F durante 45 minutos.",
+  "url": null
+}

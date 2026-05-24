@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-noodles",
+  "name": "Nudos Dulces",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "etnica",
+    "húngara",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "250 g de fettuccine, linguini u otros fideos",
+    "30 g de margarina bechamel (Becel)"
+  ],
+  "recipeInstructions": "1. Cocina los fideos según las instrucciones del paquete hasta que estén al dente.\n2. En una sartén separada, derrite la margarina Becel a fuego lento.\n3. Mezcla los fideos cocidos con la margarina derretida y sirve calientes.",
+  "url": null
+}

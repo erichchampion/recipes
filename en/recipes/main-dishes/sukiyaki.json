@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "sukiyaki",
+  "name": "Sukiyaki",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "asian",
+    "ethnic",
+    "japanese",
+    "oriental",
+    "steak"
+  ],
+  "recipeIngredient": [
+    "1 lb Round steak",
+    "1/2 cup Beef bouillon",
+    "2 tbsp Soy sauce",
+    "1/4 lb Mushrooms, sliced",
+    "1/4 lb Spinach",
+    "3 tbsp Peanut oil",
+    "3/4 cup Celery, sliced",
+    "3/4 cup Onion, sliced",
+    "1 Rice, cooked"
+  ],
+  "recipeInstructions": "1. Cut steaks across grain into diagonal strips about 3-inches long.\n2. Combine butter and soy sauce. Heat oil in a large skillet and brown the meat.\n3. Add bouillon mixture and push meat to one side of the pan.\n4. Add celery, mushrooms, and onions; Cook and stir for about 4 minutes.\n5. Add the spinach and cook about 2 more minutes.\n6. Serve over rice.",
+  "url": null
+}

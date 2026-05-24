@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-rice-with-raisins",
+  "name": "Arroz blanco con pasas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "diabetico",
+    "frutas",
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "2 tazas de arroz blanco común crudo",
+    "3 cucharadas de mantequilla",
+    "1 taza de pasas ligeras o oscuras"
+  ],
+  "recipeInstructions": "1. Cocinar el arroz según las instrucciones del paquete; escurrir si es necesario.\n2. Mientras tanto, cubrir las pasas con agua hirviendo y dejar reposar durante 10 minutos.\n3. Escurrir las pasas.\n4. Con un tenedor, mezclar las pasas en el arroz cocido escurrido junto con la mantequilla.",
+  "url": null
+}

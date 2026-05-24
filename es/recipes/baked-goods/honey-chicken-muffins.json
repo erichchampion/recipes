@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "honey-chicken-muffins",
+  "name": "Muffins de Pollo con Miel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "magdalenas",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina sin blanquear",
+    "1 taza de maíz molido",
+    "1 cucharadita de polvo de hornear",
+    "1 cucharadita de mostaza en polvo",
+    "1/2 cucharadita de bicarbonato de sodio",
+    "1/2 cucharadita de sal",
+    "2 tazas de pechuga de pollo sin piel y desmenuzada (cocida)",
+    "1 taza de buttermilk a temperatura ambiente",
+    "1/4 taza de puré de manzana a temperatura ambiente",
+    "2 claras de huevo batidas",
+    "2 cucharadas de miel"
+  ],
+  "recipeInstructions": "Precalentar el horno a 175°C. Preparar 12 moldes para muffins con spray antiadherente y harina. En un bol, mezclar la harina, el maíz molido, el polvo de hornear, la mostaza en polvo, el bicarbonato de sodio y la sal. En otro bol, combinar el pollo, el buttermilk, el puré de manzana, las claras de huevo y la miel. Mezclar los ingredientes húmedos con los secos hasta que estén mojados. Rellenar los moldes para muffins 3/4 con una cuchara para helado. Hornear durante 20 minutos.",
+  "url": null
+}

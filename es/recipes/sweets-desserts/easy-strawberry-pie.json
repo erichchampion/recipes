@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-strawberry-pie",
+  "name": "Tarta de fresa fácil",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "panadería",
+    "postres",
+    "frutas",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "Masa de tarta de 23 cm, horneada",
+    "4 tazas de fresas",
+    "1 taza de azúcar",
+    "1 taza de agua",
+    "3 cucharadas de almidón de maíz",
+    "2 cucharadas de jarabe de maíz blanco"
+  ],
+  "recipeInstructions": "1. En una cacerola, mezclar el azúcar, el agua, el almidón de maíz y el jarabe de maíz blanco.\n2. Cocinar a fuego medio hasta que la mezcla espese ligeramente.\n3. Retirar del fuego y dejar enfriar completamente.\n4. Incorporar las fresas cortadas a la mezcla fría.\n5. Verter el relleno de fresa en la masa de tarta preparada.\n6. Refrigerar al menos 2 horas antes de servir.",
+  "url": null
+}

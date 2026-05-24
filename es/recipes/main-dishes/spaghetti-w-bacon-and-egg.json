@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-w-bacon-and-egg",
+  "name": "Spaghettis con tocino y huevo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carnes",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/2 libra de tocino",
+    "4 huevos batidos",
+    "1/2 taza de vino blanco",
+    "3 cucharadas de mantequilla sin sal",
+    "Pimienta al gusto",
+    "300 g de espaguetis finos",
+    "1/2 taza de queso italiano rallado"
+  ],
+  "recipeInstructions": "1. Cocinar el tocino hasta que esté ligeramente crujiente. Escurrir y reservar 2 cucharadas de las grasas resultantes.\n2. Cortar el tocino en trozos gruesos y reservar.\n3. Derretir la mantequilla en las grasas reservadas, agregar el vino blanco y la pimienta, y reducir a fuego lento durante 5 minutos.\n4. Cocinar los espaguetis según las instrucciones del paquete.\n5. Añadir el tocino troceado a la mezcla de mantequilla y vino.\n6. Verter rápidamente los huevos batidos en la salsa, cocinando con el calor residual de la pasta.\n7. Escurrir bien los espaguetis cocidos.\n8. Mezclar los espaguetis con la salsa de tocino y huevo.\n9. Incorporar la mitad del queso rallado. Servir con el resto del queso para espolvorear encima.",
+  "url": null
+}

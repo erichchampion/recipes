@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "gin-bucket",
+  "name": "Cubo de ginebra",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "americano",
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 lata (6 onzas) de limonada",
+    "1 lata (6 onzas) de ginebra",
+    "Varias ramitas de menta fresca",
+    "Hielo al gusto",
+    "Agua con gas al gusto"
+  ],
+  "recipeInstructions": "1. Machaca 2 o 3 ramitas de menta en el fondo de un pequeño balde metálico, como los vendidos en festivales alemanes.\n2. Añade la limonada y la ginebra al balde.\n3. Mezcla bien.\n4. Llena el balde con hielo.\n5. Vierte agua con gas hasta llenar el balde.",
+  "url": null
+}

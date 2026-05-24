@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-omelet",
+  "name": "Basic Omelet",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "eggs",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "2 tablespoons butter",
+    "4 eggs",
+    "1 tablespoon heavy cream",
+    "1/2 teaspoon seasoned salt",
+    "pepper"
+  ],
+  "recipeInstructions": "1. Melt butter in a non-stick omelet pan or skillet until well coated with melted butter.\n2. Beat the eggs with remaining ingredients.\n3. Pour the egg mixture into the pan and tilt to spread evenly across the surface.\n4. Cook over low heat, allowing the eggs to set.\n5. Loosen the edges of the eggs using a spatula as they begin to firm up.\n6. Lift the cooked portions of the eggs with the spatula and tilt the pan to allow uncooked egg to flow under the layered eggs.\n7. Gently lift one side of the outer edge of the eggs with the spatula, folding it over toward the center to form a half-circle or flattened cone shape.\n8. Slide the omelet onto a serving dish.\n9. If desired, spoon filling mixture on top and in the center of the omelet before folding the edges over to create the final shape.",
+  "url": null
+}

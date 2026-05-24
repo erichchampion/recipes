@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "bologna-omelet",
+  "name": "Omeleta de Bolonia",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal",
+    "sin acompañamiento"
+  ],
+  "recipeIngredient": [
+    "4 huevos, batidos",
+    "1/4 cucharadita de polvo de hornear",
+    "2 cucharadas de cebolla picada",
+    "2 cucharadas de pimiento verde picado",
+    "2 cucharadas de apio picado",
+    "1/2 rebanada de boloñesa, cortada en trozos pequeños",
+    "1 rebanada de queso americano, cortado en trozos pequeños"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Calentar una sartén engrasada y precalentada a fuego medio.\n3. Verter la mezcla en la sartén y cocinar hasta que se cuaje.\n4. Darle la vuelta una vez para asegurar una cocción uniforme.\n5. Retirar del fuego y servir.",
+  "url": null
+}

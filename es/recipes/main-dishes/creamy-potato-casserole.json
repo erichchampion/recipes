@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "creamy-potato-casserole",
+  "name": "Casserola de Patatas Cremosa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "plato principal",
+    "rápido"
+  ],
+  "recipeIngredient": [
+    "8 patatas medianas, peladas y cortadas en rodajas finas",
+    "1 cebolla pequeña, picada",
+    "1 lata de sopa de queso cheddar condensado (340 g), sin diluir",
+    "1 taza de crema agria",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande; combinar bien.\n2. Transferir la mezcla a un molde para hornear cuadrado de 20 cm engrasado.\n3. Tapar y hornear a 180 °C durante 70-75 minutos, o hasta que las patatas estén tiernas.\n4. Retirar la tapa y hornear durante 10-15 minutos adicionales, o hasta que esté ligeramente dorada.",
+  "url": null
+}

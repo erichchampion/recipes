@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-smoothie",
+  "name": "Banana Smoothie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 medium banana",
+    "1 cup skim milk",
+    "1 cup vanilla ice cream",
+    "2 tbsp sugar"
+  ],
+  "recipeInstructions": "1. Add all ingredients to an electric blender.\n2. Blend until smooth.\n3. Serve immediately.",
+  "url": null
+}

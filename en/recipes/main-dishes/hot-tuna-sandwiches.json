@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-tuna-sandwiches",
+  "name": "Hot Tuna Sandwiches",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "kids",
+    "main dish",
+    "sandwiches",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "6 ounces tuna in oil, drained and flaked",
+    "4 ounces shredded Cheddar cheese",
+    "3 hard-boiled egg, chopped",
+    "3 tablespoons chopped green pepper",
+    "3 tablespoons sweet pickle",
+    "3 tablespoons ripe olives and onion",
+    "1/2 cup mayonnaise or salad dressing",
+    "6 sandwich buns, split"
+  ],
+  "recipeInstructions": "1. Combine the tuna, cheese, eggs, chopped green pepper, sweet pickle, ripe olives, and onion with mayonnaise.\n2. Spread about 1/3 cup of the mixture onto each bun.\n3. Wrap each sandwich in waxed paper.\n4. Microwave on high for 30-45 seconds per sandwich, or until the cheese melts.",
+  "url": null
+}

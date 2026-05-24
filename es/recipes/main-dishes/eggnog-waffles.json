@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "eggnog-waffles",
+  "name": "Wafflas de eggnog",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina tamizada",
+    "2 cucharaditas de polvo de hornear",
+    "1 cucharadita de bicarbonato de sodio",
+    "1/2 cucharadita de sal",
+    "2 huevos batidos",
+    "2 tazas de eggnog",
+    "6 cucharadas de aceite vegetal",
+    "1 taza de nueces picadas (pecanas o nueces inglesas)"
+  ],
+  "recipeInstructions": "1. Tamizar juntos la harina, el polvo de hornear, el bicarbonato y la sal.\n2. En un bol grande, combinar los huevos, el eggnog y el aceite vegetal.\n3. Agregar los ingredientes secos tamizados a los húmedos y mezclar hasta obtener una masa suave.\n4. Incorporar suavemente las nueces picadas.\n5. Verter la masa en una gofrera precalentada.\n6. Cocinar hasta que deje de salir vapor por los agujeros, luego retirar de la gofrera.",
+  "url": null
+}

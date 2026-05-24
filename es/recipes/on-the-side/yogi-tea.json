@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "yogi-tea",
+  "name": "Té Yogi",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "guarniciones",
+    "té"
+  ],
+  "recipeIngredient": [
+    "2 litros de agua",
+    "Un trozo grande de corteza de canela",
+    "2 cm de jengibre fresco picado",
+    "2 clavos",
+    "5 granos de pimienta negra",
+    "1/4 litro de leche",
+    "1 cucharada de té negro"
+  ],
+  "recipeInstructions": "1. Hervir el agua y añadir la corteza de canela.\n2. Incorporar el jengibre, los clavos y los granos de pimienta al agua hirviendo.\n3. Dejar enfriar ligeramente la mezcla.\n4. Añadir 1/4 litro de leche.\n5. Hervir de nuevo la mezcla.\n6. Agregar el té negro y hervir durante un minuto más.\n7. Retirar del fuego y colar.\n8. Servir con miel si se desea. El té se puede recalentar en el microondas u otro método.",
+  "url": null
+}

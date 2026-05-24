@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "fast-goodies",
+  "name": "Fast Goodies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "breads",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "2 cups Bisquick",
+    "1/2 cup melted butter",
+    "8 oz sour cream",
+    "1/2 cup grated cheese"
+  ],
+  "recipeInstructions": "1. Mix all ingredients together until well combined.\n2. Fill muffin tins with the batter, filling each cup about 3/4 full.\n3. Bake at 450°F for 10-12 minutes or until a toothpick inserted into the center comes out clean.\n4. Remove from oven and allow to cool in the pan for a few minutes before transferring to a wire rack to cool completely.",
+  "url": null
+}

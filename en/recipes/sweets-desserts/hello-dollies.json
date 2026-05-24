@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "hello-dollies",
+  "name": "Hello Dollies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 Stick Butter",
+    "1 Cup Semi-Sweet Chocolate Pieces",
+    "1 Cup Butterscotch Pieces",
+    "1 Cup Pecan Pieces",
+    "1 Cup Crushed Vanilla Wafers",
+    "1 Cup Shredded Coconut",
+    "1 Can Eagle Brand Sweet Condensed Milk"
+  ],
+  "recipeInstructions": "1. Preheat oven to 350 degrees Fahrenheit.\n2. Melt butter in a 13x9 inch dish.\n3. Layer the vanilla wafers, pecans, coconut, butterscotch pieces, and semi-sweet chocolate pieces evenly over the melted butter.\n4. Pour Eagle Brand sweet condensed milk evenly over the top of the layered ingredients.\n5. Bake for 25-30 minutes.\n6. Allow to cool for one hour.\n7. Cut into 2x2 squares.\n8. Store in the refrigerator.",
+  "url": null
+}

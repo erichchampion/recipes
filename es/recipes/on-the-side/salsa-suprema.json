@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "salsa-suprema",
+  "name": "Salsa suprema",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "mexicano",
+    "encurtidos",
+    "salsas",
+    "aderezos",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 tomate grande, picado",
+    "2 chiles verdes frescos, picados",
+    "1/2 cucharadita de sal de ajo",
+    "Sal al gusto",
+    "1 cebolla mediana, picada",
+    "4 onzas de chile verde enlatado",
+    "1/2 cucharadita de glutamato monosódico (opcional)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Sazonar con sal al gusto.\n3. Tapar y refrigerar durante al menos una hora.",
+  "url": null
+}

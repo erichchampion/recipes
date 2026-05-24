@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "vege-pate",
+  "name": "Pate de verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempié"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de semillas de girasol molidas",
+    "1/2 taza de harina de trigo integral",
+    "1/2 taza de germen de trigo o levadura nutricional",
+    "1 zanahoria grande, rallada",
+    "1 papa grande, rallada",
+    "1 tallo de apio grande",
+    "2 cucharadas de jugo de limón o vinagre",
+    "2 cucharadas de aceite",
+    "Sal y pimienta al gusto",
+    "Hierbas opcionales: albahaca, tomillo, salvia"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un molde de 9x9.\n2. Hornear a 350°F durante aproximadamente 1 hora, o hasta que los bordes estén dorados y la parte superior esté firme y seca.\n3. Rallar las verduras a mano para obtener un paté rústico, o usar una procesadora de alimentos para una textura suave.\n4. Saltear cebollas (opcional) para dar al paté un sabor característico.",
+  "url": null
+}

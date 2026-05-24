@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-stroganoff-2",
+  "name": "Beef Stroganoff",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat",
+    "meats"
+  ],
+  "recipeIngredient": [
+    "1/2 pound flank steak, cubed",
+    "2 cups beef broth",
+    "1/2 cup mushrooms, sliced",
+    "1/2 cup onion, diced",
+    "8 ounces nonfat sour cream",
+    "8 ounces noodles"
+  ],
+  "recipeInstructions": "1. Simmer the meat, mushrooms, and onions in a crockpot for 5 hours.\n2. Remove the mixture to a pan, using only 1 cup of liquid; discard the rest.\n3. Cook the noodles according to package instructions, omitting salt and oil.\n4. Add sour cream to the meat mixture and bring to a boil.\n5. Serve over noodles.",
+  "url": null
+}

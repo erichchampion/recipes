@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "aleecha-vegetable-stew",
+  "name": "Aleecha (Estofado de Verduras)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas/estofados",
+    "estofados",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 cebollas grandes, cortadas en rodajas",
+    "600 g de patatas, cortadas en trozos",
+    "1 repollo, cortado en octavos",
+    "1/2 cabeza de coliflor, rota en trozos",
+    "4-5 zanahorias, cortadas en rodajas de 1 cm",
+    "250 g de mantequilla sazonada",
+    "1 cucharadita de polvo de curry"
+  ],
+  "recipeInstructions": "1. Hervir el repollo.\n2. Freír las cebollas en la mantequilla hasta que estén translúcidas.\n3. Añadir el polvo de curry y cocinar durante un minuto.\n4. Incorporar 60 ml de agua a la mezcla de cebolla y cocinar durante cinco minutos.\n5. Agregar las zanahorias y las patatas, y cocinar durante 15 minutos.\n6. Añadir la coliflor y cocinar durante cinco minutos.\n7. Incorporar el repollo y cocinar otros 15 minutos.\n8. Servir para 8 personas.",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "seafood-pizza",
+  "name": "Seafood Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 oz Pesto sauce",
+    "1 oz Pizza sauce",
+    "1 oz Capers",
+    "1 oz Kalamata Olives",
+    "2 Whole anchovy fillets",
+    "1 oz Garlic",
+    "3 Whole prawns, cooked",
+    "3 Whole scallops, cooked",
+    "2 oz Crabmeat",
+    "1 oz Parmesan cheese",
+    "3 oz Mozzarella cheese, smoked",
+    "1 pinch Parsley",
+    "1 pinch Lemon zest",
+    "1 pinch Red pepper flakes, crushed"
+  ],
+  "recipeInstructions": "1. Preheat oven to 500°F with pizza stone.\n2. Blend pesto and pizza sauce together.\n3. Spread the blended sauce over the pizza dough.\n4. Cover with remaining ingredients: crabmeat, mozzarella cheese, cooked prawns, cooked scallops, anchovy fillets, capers, olives, garlic, parsley, lemon zest, and red pepper flakes.\n5. Place on pizza stone in oven and bake until golden brown.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-salsa",
+  "name": "Hot Salsa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "sauces",
+    "side dishes",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "1 large tomato",
+    "1/2 onion",
+    "5 Jalapeno peppers"
+  ],
+  "recipeInstructions": "1. Chop the ingredients into small pieces.\n2. Mix them together until combined.\n3. Enjoy your salsa.",
+  "url": null
+}

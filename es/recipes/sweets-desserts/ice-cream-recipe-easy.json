@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "ice-cream-recipe-easy",
+  "name": "Receta de helado (Fácil)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "5 huevos",
+    "Una pizca de sal",
+    "2 tazas de azúcar",
+    "2 sobres de mezcla para pudín instantáneo",
+    "1 lata de leche evaporada",
+    "2 litros de leche"
+  ],
+  "recipeInstructions": "1. Bate los huevos hasta que estén bien mezclados.\n2. Añade la pizca de sal.\n3. Incorpora el azúcar y la mezcla de pudín.\n4. Vierte la leche evaporada y la leche normal.\n5. Revuelve todo hasta obtener una mezcla homogénea.\n6. Vierte la mezcla en un recipiente (de plástico es lo ideal).\n7. Deja que se solidifique en el congelador durante la noche.",
+  "url": null
+}

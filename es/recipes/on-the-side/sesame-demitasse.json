@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "sesame-demitasse",
+  "name": "Demitasse de sésamo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "2 tazas de café caliente",
+    "1 1/2 cucharadas de miel",
+    "1 1/2 cucharadas de azúcar",
+    "1 1/2 cucharadas de semillas de sésamo"
+  ],
+  "recipeInstructions": "1. Mezclar el café, la miel, el azúcar y las semillas de sésamo en una cacerola.\n2. Revitar hasta que la miel y el azúcar se disuelvan por completo.\n3. Tapar y calentar a fuego lento durante 2 minutos.\n4. Colar y servir en tazas.",
+  "url": null
+}

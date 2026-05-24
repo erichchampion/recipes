@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "mimosa",
+  "name": "Mimosas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "3 oz de Champagne frío",
+    "3 oz de zumo de naranja",
+    "1 chupito de Grand Marnier"
+  ],
+  "recipeInstructions": "1. Verter el zumo de naranja en un vaso de vino grande y frío.\n2. Verter lentamente el champagne, removiendo suavemente.\n3. Añadir un chupito de Grand Marnier encima.",
+  "url": null
+}

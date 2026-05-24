@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-supreme-canape",
+  "name": "Canapés de Pollo Supremo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "pollo",
+    "tentempié"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo (sin piel ni hueso) (cortadas en trozos)",
+    "2 aguacates (en cubos)",
+    "2 latas de corazones de palmera (en rodajas)",
+    "1/2 taza de alcaparras (enteras)",
+    "1 manojo de rúcula (picada finamente)",
+    "1/2 taza de perejil (picado finamente)",
+    "4 cebolletas (parte verde y blanca) (cortadas en rodajas)",
+    "1/2 taza de vinagre de vino de tarragon",
+    "1/2 taza de alcaparras (picadas)",
+    "1 1/4 tazas de aceite de oliva",
+    "2 cucharaditas de jugo de limón",
+    "Pimienta blanca y sal al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes juntos. Se puede preparar con antelación, sin la salsa vinagreta, un día antes.\n2. Verter la salsa vinagreta y mezclar con la mezcla de pollo justo antes de rellenar las capas de masa.\n3. Rellenar las capas de masa y espolvorear con perejil.\nVinagreta de Alcaparras:",
+  "url": null
+}

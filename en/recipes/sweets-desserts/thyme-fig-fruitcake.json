@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "thyme-fig-fruitcake",
+  "name": "Thyme-Fig Fruitcake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "desserts",
+    "diabetic"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Unsweetened apple juice",
+    "1/2 teaspoon Dried thyme",
+    "1 cup Finely chopped dried figs",
+    "1 1/4 cups Flour",
+    "1/4 cup Cornmeal",
+    "2 teaspoons Baking powder",
+    "1/4 teaspoon Baking soda",
+    "6 tablespoons Vegetable oil",
+    "2 tablespoons Sugar",
+    "1 Egg",
+    "1/4 cup Pine nuts, toasted"
+  ],
+  "recipeInstructions": "1. Combine the apple juice, thyme, and figs in a bowl.\n2. Set aside for 10 minutes.\n3. Stir together the flour, cornmeal, baking powder, and baking soda in a separate bowl.\n4. Beat the oil, sugar, and egg until well blended. Pour this mixture into the dry ingredients. Add the pine nuts and fig mixture. Mix well.\n5. Pour the batter into an oiled and floured 9-inch round (or 8-inch square) baking pan. Bake in a 350°F oven for 40 to 50 minutes.\n6. Cool for 5 minutes in the pan, then remove from the pan and cool thoroughly.\nWARNING: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "watermelon-salad",
+  "name": "Ensalada de sandía",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frutas",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "4 tazas de sandía sin semillas y cortada en cubos",
+    "2 tazas de queso feta cortado en cubos de 1,5 cm",
+    "1 taza de hojas de menta picadas",
+    "3/8 de taza de crema agria extra",
+    "2 cucharadas de jugo de limón",
+    "Pimienta negra molida al gusto"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar todos los ingredientes.\n2. Revolver suavemente hasta que esté bien combinado.\n3. Servir inmediatamente antes de que la ensalada se vuelva acuosa.",
+  "url": null
+}

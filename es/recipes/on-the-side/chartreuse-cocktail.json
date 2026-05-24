@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chartreuse-cocktail",
+  "name": "Cóctel Chartreuse",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz de tequila",
+    "3 cucharadas de jugo de limón",
+    "1 oz de licor verde Chartreuse",
+    "1 cucharada de jugo de limón",
+    "1/4 taza de hielo triturado"
+  ],
+  "recipeInstructions": "1. Vierta todos los ingredientes sobre hielo en un recipiente bien cerrado.\n2. Agite hasta que esté muy frío.\n3. Cuele en un vaso de servicio.\n4. Adorne con una rodaja de limón, si se desea.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "brownie-bread-abm",
+  "name": "Pan de brownie ABM",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1/2 cucharadita de levadura",
+    "1 7/8 tazas de harina de pan",
+    "1/3 taza de cacao en polvo sin azúcar",
+    "1/2 taza de azúcar",
+    "1 cucharadita de sal",
+    "1 1/2 cucharadas de aceite",
+    "1 huevo",
+    "3/4 taza de agua",
+    "1/3 taza de trozos de nuez"
+  ],
+  "recipeInstructions": "1. Precalentar la máquina de pan a la configuración deseada.\n2. En un bol grande, mezclar la levadura, harina, cacao en polvo, azúcar y sal hasta que estén bien combinados.\n3. Agregar el aceite, huevo, agua y trozos de nuez a los ingredientes secos. Revolver hasta combinar; no sobremezclar.\n4. Transferir la masa a la bandeja de la máquina de pan y hornear según las instrucciones del fabricante.\n5. Retirar el pan horneado de la máquina y dejar enfriar completamente antes de cortar y servir.",
+  "url": null
+}

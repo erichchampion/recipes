@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "dhal",
+  "name": "Dhal",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "asiático",
+    "étnico",
+    "indio"
+  ],
+  "recipeIngredient": [
+    "1 1/4 tazas de lentejas marrones",
+    "3 3/4 tazas de agua",
+    "1 cucharadita de cúrcuma",
+    "1 diente de ajo machacado",
+    "2 cucharadas de ghee",
+    "1 cebolla grande, picada",
+    "1 cucharadita de garam masala",
+    "1/2 cucharadita de jengibre molido",
+    "1 cucharadita de cilantro en polvo",
+    "1/2 cucharadita de pimienta cayena",
+    "Hojas de cilantro fresco (opcional)"
+  ],
+  "recipeInstructions": "1. Enjuagar las lentejas con agua fría.\n2. En una olla, combinar las lentejas, el agua, la cúrcuma y el ajo. Tapar y dejar cocinar a fuego lento durante 30 minutos o hasta que las lentejas estén tiernas. Descubrir y cocinar por 2-3 minutos adicionales para reducir el exceso de líquido.\n3. Calentar el ghee en una sartén. Añadir la cebolla y freír suavemente durante 5 minutos.\n4. Agregar el garam masala, el jengibre, el cilantro y la pimienta cayena; cocinar suavemente durante 1 minuto.\n5. Incorporar la mezcla a las lentejas y remover bien.\n6. Decorar con cilantro fresco si se desea.",
+  "url": null
+}

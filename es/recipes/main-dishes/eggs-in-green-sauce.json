@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "eggs-in-green-sauce",
+  "name": "Huevos en salsa verde",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "queso/huevos",
+    "huevos",
+    "alemán",
+    "plato principal",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de mayonesa",
+    "1 taza de crema agria",
+    "El jugo de 1 limón",
+    "9 huevos grandes, cocidos y duros",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1/2 cucharadita de azúcar",
+    "1 1/2 tazas de hierbas frescas (picadas)"
+  ],
+  "recipeInstructions": "1. Mezcla la mayonesa, la crema agria y el jugo de limón.\n2. Pica finamente un huevo duro cocido y mézclalo con la mezcla de mayonesa.\n3. Sazona con sal, pimienta y azúcar.\n4. Enjuaga bien las hierbas frescas (como eneldo, cebolleta, perejil, tomillo o albahaca), sécalas con papel de cocina y mézclalas con la salsa.\n5. Corta los huevos duros cocidos restantes por la mitad y colócalos sobre la salsa para servir.",
+  "url": null
+}

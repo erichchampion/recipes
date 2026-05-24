@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "tuna-italiano",
+  "name": "Atún \"italiano\"",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "pescado",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de cebolla picada",
+    "1/4 cucharadita de orégano seco",
+    "2 cucharadas de margarina light",
+    "1 lata (300 g) de sopa de champiñones condensada",
+    "2 tazas de macarrones cocidos",
+    "1/2 taza de tomates picados",
+    "10 onzas (280 g) de atún enlatado escurrido",
+    "Queso parmesano rallado al gusto"
+  ],
+  "recipeInstructions": "1. En una sartén, sofríe la cebolla con el orégano en la margarina hasta que esté tierna.\n2. Añade la sopa y el resto de los ingredientes, mezclando bien.\n3. Calienta a fuego medio y remueve ocasionalmente hasta que se caliente todo.\n4. Sirve con queso parmesano rallado por encima.",
+  "url": null
+}

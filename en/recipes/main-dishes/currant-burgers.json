@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "currant-burgers",
+  "name": "Currant Burgers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "main dish",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground turkey",
+    "2/3 cup Currants",
+    "1/2 cup Seasoned bread crumbs (whole grain)",
+    "1/4 cup Onions, minced",
+    "1/4 cup Celery, minced",
+    "1/4 cup Walnuts",
+    "1/2 tsp Soy sauce",
+    "1 tsp Vegetable salt",
+    "Pepper to taste",
+    "2 tbsp Butter"
+  ],
+  "recipeInstructions": "1. Combine the ground turkey and currants.\n2. Add the seasoned bread crumbs, onions, celery, walnuts, soy sauce, vegetable salt, and pepper, mixing until well-blended.\n3. Melt the butter in a large frying pan.\n4. Form 3-inch patties from the mixture.\n5. Fry the patties over medium heat.\n6. Turn once when they are browned on one side.\n7. Serve.",
+  "url": null
+}

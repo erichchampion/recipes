@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "new-orleans-gumbo",
+  "name": "Gumbo de Nueva Orleans",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "bacon",
+    "arroz",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "4 lonchas de tocino, picadas",
+    "2 cebollas picadas",
+    "1/2 pimiento verde picado",
+    "1 tallo de apio picado",
+    "1 lata de 28-30 onzas de tomates, escurridos",
+    "9 onzas de okra congelada en rodajas",
+    "arroz cocido para 8 porciones",
+    "1 lata pequeña de gambas, escurridas (opcional)"
+  ],
+  "recipeInstructions": "1. Cocinar el tocino hasta que esté ligeramente dorado. Retirar del fuego.\n2. Añadir las cebollas, pimiento verde y apio a la sartén. Cocinar a fuego lento hasta que estén tiernos.\n3. Escurrir los tomates y agregarlos a la sartén. Devolver el tocino a la sartén si se ha retirado.\n4. Lavar, cortar y cocinar la okra por separado. Escurrir y cortar en rodajas antes de devolverla a la sartén con algo del líquido de cocción de la okra.\n5. Sazonar con sal y pimienta al gusto.\n6. Servir sobre el arroz cocido.\n7. Opcionalmente, añadir las gambas al plato antes de servir.",
+  "url": null
+}

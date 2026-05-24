@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-risotto",
+  "name": "Risotto básico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "4 cucharadas de mantequilla",
+    "4 cucharadas de aceite de oliva",
+    "1 taza de cebolla amarilla picada",
+    "2 tazas de arroz Arborio",
+    "6 tazas de caldo de pollo, preferiblemente casero",
+    "4 cucharaditas de sal",
+    "2 gotas de pimienta negra",
+    "Queso parmesano recién rallado"
+  ],
+  "recipeInstructions": "1. Calentar la mantequilla y el aceite de oliva en un plato o sartén grande de 22 cm sin tapa. Cocinar a fuego alto durante 2 minutos.\n2. Añadir las cebollas y remover para cubrir. Cocinar, sin tapa, a fuego alto durante 4 minutos más.\n3. Incorporar el arroz y remover para revestirlo. Cocinar, sin tapa, otros 4 minutos.\n4. Verter el caldo (preferiblemente casero) y cocinar, sin tapa, durante 12 minutos más.\n5. Retirar del fuego. Dejar reposar sin tapa durante 5 minutos para que el arroz absorba el líquido restante, removiendo varias veces.\n6. Mezclar la sal, la pimienta y el queso parmesano si se desea.",
+  "url": null
+}

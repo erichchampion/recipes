@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "deer-sausage",
+  "name": "Salchicha de ciervo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cajún/criolla",
+    "plato principal",
+    "carne",
+    "salchichas"
+  ],
+  "recipeIngredient": [
+    "7 1/2 libras de ciervo molido",
+    "7 1/2 libras de cerdo molido",
+    "4 onzas de sal",
+    "1 onza de pimienta negra molida",
+    "1 1/2 onzas de mezcla de adobo Accent",
+    "1 onza de cayena",
+    "3 onzas de azúcar moreno claro",
+    "1 onza de salsa picante Louisiana",
+    "1 onza de pimentón dulce",
+    "3 onzas de salsa Worcestershire Lea & Perrins",
+    "3 cebollas verdes frescas, picadas finamente"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande hasta que estén bien integrados.\n2. Rellenar los cascos de salchicha con la mezcla y atarlos para formar las salchichas.",
+  "url": null
+}

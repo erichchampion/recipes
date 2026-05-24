@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "butterscotch-delights",
+  "name": "Butterscotch Delights",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 cup brown sugar",
+    "1 cup shortening",
+    "2 teaspoons vanilla",
+    "1 cup granulated sugar",
+    "2 eggs",
+    "2 tablespoons milk",
+    "2 cups sifted flour",
+    "1 teaspoon baking powder",
+    "1 teaspoon baking soda",
+    "1 teaspoon salt",
+    "2 cups uncooked quick oats"
+  ],
+  "recipeInstructions": "1. Cream together the sugars and shortening until smooth.\n2. Blend in the eggs, vanilla, and milk.\n3. Sift together the flour, baking powder, baking soda, and salt.\n4. Add the dry ingredients to the egg mixture all at once, mixing until smooth.\n5. Fold in the oats.\n6. Drop by teaspoonful onto a greased cookie sheet.\n7. Bake at 350 degrees Fahrenheit for 8 to 10 minutes, or until set.",
+  "url": null
+}

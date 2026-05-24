@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "carrot-and-apple-pie",
+  "name": "Carrot and Apple Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "fruits",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1 cup Young carrots, peeled and sliced crosswise",
+    "1 1/2 cups Sliced raw apples",
+    "1 tsp Grated orange rind",
+    "1 cup Sugar",
+    "3 tbsp Flour",
+    "1/8 tsp Cinnamon",
+    "1/8 tsp Nutmeg",
+    "1/2 cup Seedless raisins"
+  ],
+  "recipeInstructions": "1. Cook the carrots in salted water until barely tender.\n2. Mix all ingredients lightly.\n3. Put into a pastry-lined pie pan and sprinkle with 1 tsp flour.\n4. Dot with 1 tsp butter.\n5. Cover with pastry.\n6. Bake about 30 minutes in a very hot oven (425°F), or until apples are tender.",
+  "url": null
+}

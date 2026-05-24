@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "berry-sauce",
+  "name": "Salsa de bayas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 tazas de fresas, frescas",
+    "1/3 taza de azúcar",
+    "1 cucharada de zumo de limón",
+    "1/4 cucharadita de ralladura de limón",
+    "2 cucharadas de almidón de maíz",
+    "2 cucharadas de coñac"
+  ],
+  "recipeInstructions": "1. Cocinar las bayas con azúcar (más si están frescas) hasta que estén calientes.\n2. Añadir el zumo y la ralladura de limón, y dejarlo hervir a fuego lento durante 5 minutos.\n3. Pasarlo por un colador para eliminar las partes sólidas.\n4. Mezclar el almidón de maíz con el coñac hasta obtener una mezcla suave.\n5. Añadir gradualmente la mezcla de bayas a la mezcla de almidón de maíz, cocinando a fuego lento y removiendo constantemente hasta que adquiera claridad y espese.\n6. Servir caliente o frío sobre frutas o helado.",
+  "url": null
+}

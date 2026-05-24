@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-wine-sangria",
+  "name": "White Wine Sangria",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 bottle dry white wine",
+    "1/4 cup brandy",
+    "1/4 cup superfine sugar",
+    "1/3 cup ice cubes",
+    "4 lime slices, cut in quarters",
+    "4 lemon slices, cut in quarters",
+    "4 orange slices, cut in quarters",
+    "1 cup seltzer water"
+  ],
+  "recipeInstructions": "1. In a large glass pitcher, combine the wine, brandy, and sugar.\n2. Add ice and stir until the sugar is dissolved.\n3. Add fruit and seltzer; serve immediately.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "carrot-casserole",
+  "name": "Carrot Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "casseroles",
+    "diabetic",
+    "side dishes",
+    "special diets",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "2 cans carrots (diced/shoestring)",
+    "1 small bag potato chips (crushed)",
+    "1 can Cream of Mushrooms soup",
+    "1/2 onion, finely chopped"
+  ],
+  "recipeInstructions": "1. Grease a greased 1-quart casserole.\n2. Alternate layers with carrots, soup, and onion mixture.\n3. Bake at 325°F for 20 to 25 minutes or until thoroughly heated.\n4. Just before removing from the oven, sprinkle with crushed potato chips and brown slightly.",
+  "url": null
+}

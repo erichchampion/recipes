@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cake-mix-cookies",
+  "name": "Cake Mix Cookies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "cookies",
+    "desserts",
+    "round robin"
+  ],
+  "recipeIngredient": [
+    "1 package Cake mix (any flavor)",
+    "2 Eggs",
+    "1/2 cup Vegetable oil"
+  ],
+  "recipeInstructions": "1 Preheat oven to 350°F.\n2 Combine all ingredients and mix well.\n3 Drop by rounded teaspoons onto ungreased cookie sheet.\n4 Bake 9 - 12 minutes. Makes about 4 dozen cookies.",
+  "url": null
+}

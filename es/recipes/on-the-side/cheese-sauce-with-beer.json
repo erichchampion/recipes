@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-sauce-with-beer",
+  "name": "Salsa de queso con cerveza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsa",
+    "salsas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de queso jack",
+    "1/2 taza de queso cheddar",
+    "1 cucharada de harina",
+    "1/2 cucharadita de mostaza en polvo",
+    "1/2 cucharadita de pimentón dulce",
+    "4 onzas de cerveza",
+    "1 cucharada de salsa picante líquida",
+    "1/4 taza de leche"
+  ],
+  "recipeInstructions": "1. Mezclar el queso jack, cheddar, harina, mostaza en polvo y pimentón dulce en un bol. Revolver hasta combinar bien.\n2. En una sartén a fuego medio-bajo, mezclar la cerveza y la salsa picante líquida.\n3. Incorporar la mezcla de quesos a la sartén, removiendo constantemente hasta que se derrita.\n4. Agregar la leche y remover.\n5. Servir caliente.",
+  "url": null
+}

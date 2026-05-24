@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "salade-tiede",
+  "name": "Ensalada Tierno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1/4 lb de tocino",
+    "1/2 taza de aceite de nuez",
+    "1 lechuga romana",
+    "2 ramilletes de rúcula",
+    "3 cabezas de endivias",
+    "2 oz de vinagre de vino tinto",
+    "2 oz de vinagre de frambuesa",
+    "8 rebanadas de pan francés, cortadas en cubos y frotadas con ajo",
+    "Sal al gusto",
+    "Pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cortar el tocino en trozos gruesos y cocinar durante 3-4 minutos, sin dejar que se dore.\n2. Colocar las lechugas en un bol y añadir el aceite y las grasas del tocino, mezclando bien.\n3. Desglasar la sartén con vinagre de vino tinto y reducir ligeramente. Verter sobre la ensalada y agregar el vinagre de frambuesa.\n4. Incorporar los croutons y mezclar. Ajustar la sazón si es necesario.\n5. Servir.",
+  "url": null
+}

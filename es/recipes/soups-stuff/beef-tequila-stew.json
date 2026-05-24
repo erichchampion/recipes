@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-tequila-stew",
+  "name": "Estofado de Carne y Tequila",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne",
+    "mexicana",
+    "sopas",
+    "guisos",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne (pecho sin hueso, punta o redondo), cortada en cubos de 1 pulgada",
+    "1/4 taza de tequila",
+    "1/4 taza de harina de trigo blanqueada",
+    "3/4 taza de jugo de tomate",
+    "1/2 taza de aceite vegetal",
+    "1/2 taza de cebolla picada",
+    "2 rebanadas de tocino mediano, cortadas en trozos",
+    "1 1/2 cucharaditas de sal",
+    "15 onzas de garbanzos (1 lata)",
+    "1 taza de tomates picados",
+    "2 dientes de ajo finamente picados"
+  ],
+  "recipeInstructions": "1. Dorar la carne en una sartén con aceite hasta que esté cocida por completo.\n2. Retirar la carne y reservar.\n3. Cocinar la cebolla y el tocino en la misma sartén hasta que el tocino esté crujiente.\n4. Añadir los ingredientes restantes (tequila, harina, jugo de tomate, aceite, tomates, sal, garbanzos y ajo) a la sartén.\n5. Llevar a ebullición, luego reducir el fuego.\n6. Tapar y cocinar a fuego lento hasta que la carne esté tierna, aproximadamente 1 hora.",
+  "url": null
+}

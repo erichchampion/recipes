@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "miracle-soup",
+  "name": "Sopa Milagrosa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1/2 repollo",
+    "1 cebolla",
+    "1 pimiento verde",
+    "2 tallos de apio, cortados en rodajas",
+    "1 lata (400g) de tomates",
+    "1 sobre de mezcla para sopa de cebolla",
+    "3 tazas de agua o más"
+  ],
+  "recipeInstructions": "1. Llevar todos los ingredientes a ebullición y hervir durante 10 minutos.\n2. Tapar y dejar cocinar a fuego lento hasta que las verduras estén tiernas.",
+  "url": null
+}

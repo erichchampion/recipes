@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "four-bean-casserole",
+  "name": "Cazuela de Cuatro Frijoles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "16 onzas de frijoles con tocino, escurridos",
+    "15 onzas de frijoles pintos, enjuagados y escurridos",
+    "16 onzas de frijoles rojos, enjuagados y escurridos",
+    "14.5 onzas de judías verdes estilo francés, escurridas",
+    "1 manojo de cebolletas, cortadas",
+    "1 pimiento verde mediano, picado",
+    "1 taza de salsa chili",
+    "1/4 taza de azúcar moreno compacta"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una cacerola de 2 cuartos sin grasar.\n2. Hornear, sin cubrir, a 350 grados Fahrenheit durante 1 hora o hasta que esté caliente y burbujeante.\n3. Servir 8-10 porciones.",
+  "url": null
+}

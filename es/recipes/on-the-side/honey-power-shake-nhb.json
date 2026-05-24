@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "honey-power-shake-nhb",
+  "name": "Batido de energía con miel y NHB",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "miel",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de miel",
+    "1/4 taza de yogur sin grasa",
+    "1/4 taza de puré de manzana",
+    "1/4 taza de jugo de naranja"
+  ],
+  "recipeInstructions": "1. Añadir la miel al yogur y mezclar.\n2. Incorporar el puré de manzana y remover.\n3. Agregar el jugo de naranja y mezclar bien.",
+  "url": null
+}

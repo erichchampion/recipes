@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-5",
+  "name": "Pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "DOUGH",
+    "2 cups flour",
+    "1 cup warm water",
+    "1 tablespoon yeast",
+    "2 tablespoons olive oil",
+    "salt",
+    "TOPPING",
+    "2 pounds tomatoes, seeded and peeled",
+    "3 cloves garlic, chopped",
+    "1 tablespoon basil, shredded",
+    "1 tablespoon oregano",
+    "2 tablespoons olive oil",
+    "salt and pepper",
+    "1 pound mozzarella cheese"
+  ],
+  "recipeInstructions": "DOUGH:\nDissolve yeast in 1 cup warm water.\nAdd salt, flour, and oil.\nLet stand for 2 hours.\nRoll out the dough or stretch it with your hands in a pizza pan.\nLet stand for 1 hour.\nBake at pre-heated 425°F for 5 minutes.\nTOPPING:\nHeat olive oil in a saucepan. Stir in garlic and chopped tomatoes until just brought to a boil; turn off heat. Stir in herbs, salt, and pepper.\nASSEMBLING:\nTop with mozzarella slices and cover with the sauce.\nBake at 350°F until the cheese melts.",
+  "url": null
+}

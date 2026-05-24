@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "three-cheese-bread",
+  "name": "Pan de tres quesos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de agua",
+    "3 tazas de harina de pan",
+    "2 cucharadas de azúcar",
+    "1 1/2 cucharaditas de sal",
+    "2 cucharadas de margarina o aceite",
+    "1/2 taza de queso suizo rallado",
+    "1/3 taza de queso cottage cremoso",
+    "3 cucharadas de parmesano rallado",
+    "2 cucharaditas de levadura activa regular"
+  ],
+  "recipeInstructions": "1. Precalentar el horno según las instrucciones del fabricante.\n2. Colocar los ingredientes en el molde para pan en el orden recomendado por el fabricante.\n3. No utilizar el ciclo de temporizador diferido, ya que el queso podría estropearse durante la cocción.\n4. Hornear sobre una costra ligera.\n5. Debido a los diferentes contenidos de humedad del queso, observar cuidadosamente la masa antes de hornear para determinar si está demasiado húmeda o demasiado seca.",
+  "url": null
+}

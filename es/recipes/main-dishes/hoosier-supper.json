@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "hoosier-supper",
+  "name": "Cena de Indiana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1/2 taza de pimiento verde, picado",
+    "1/2 taza de apio, picado",
+    "1 diente de ajo",
+    "2 tazas de berenjena, picada",
+    "2 cucharadas de perejil",
+    "1 taza de arroz sin cocinar",
+    "1 sobre de mezcla de sopa de cebolla",
+    "1/2 cucharadita de orégano",
+    "6 oz de pasta de tomate",
+    "3 tazas de agua",
+    "1/4 taza de aceitunas maduras",
+    "1 taza de migas de pan",
+    "1/2 taza de queso parmesano",
+    "2 cucharadas de mantequilla derretida",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Dorar la carne; escurrir el exceso de grasa.\n2. Añadir el pimiento verde, el apio y el ajo. Saltear hasta que estén tiernos.\n3. Incorporar sal y pimienta, la berenjena, el perejil, el arroz, el orégano, la mezcla de sopa de cebolla, la pasta de tomate y el agua.\n4. Llevar a ebullición; tapar y cocinar a fuego lento durante 20 minutos.\n5. Verter en un molde para hornear engrasado.\n6. Espolvorear con las migas de pan, el queso parmesano y la mantequilla derretida.\n7. Cubrir con aceitunas maduras (opcional).\n8. Hornear a 450 grados durante 15 minutos.",
+  "url": null
+}

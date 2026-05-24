@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-pizza",
+  "name": "Potato Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza",
+    "potatoes",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "5 Potatoes, unpeeled, thinly sliced",
+    "1 Onion, thinly sliced",
+    "2 tbsp Olive oil",
+    "1/2 Sweet red pepper, slivered",
+    "2 Cloves garlic, minced",
+    "1 tbsp Minced fresh parsley",
+    "1/2 tsp Salt",
+    "1/4 tsp Rosemary and pepper",
+    "1/2 cup Shredded provolone or Mozzarella",
+    "1/4 cup Freshly grated parmesan"
+  ],
+  "recipeInstructions": "1. In a bowl, toss together potatoes, onion, and oil.\n2. Stir in red pepper, garlic, parsley, salt, rosemary, and pepper.\n3. Brush a 12-inch pizza pan with oil; spread with potato mixture.\n4. Bake in a 450°F oven for 15 minutes or until tender, brown, and crisp.\n5. Sprinkle with cheeses, then bake for 5 to 8 minutes longer or until golden brown.",
+  "url": null
+}

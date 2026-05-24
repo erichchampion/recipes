@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-with-lentils",
+  "name": "Spaghettis con lentejas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite de oliva",
+    "1 cebolla pequeña, picada",
+    "1 diente de ajo, picado finamente",
+    "1/2 taza de lentejas secas",
+    "1 lata grande de tomates triturados",
+    "6 onzas de puré de tomate",
+    "1 taza de agua",
+    "1/2 cucharadita de albahaca seca",
+    "1/2 cucharadita de orégano seco",
+    "1/4 cucharadita de tomillo seco",
+    "1/4 cucharadita de sal",
+    "1/4 taza de vino tinto",
+    "8 onzas de espaguetis cocidos"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en una olla holandesa a fuego medio.\n2. Añadir la cebolla y el ajo; sofreír hasta que estén tiernos.\n3. Incorporar los ingredientes restantes, excepto los espaguetis cocidos.\n4. Llevar la mezcla a ebullición, luego reducir el calor y dejar cocinar a fuego lento.\n5. Cocinar a fuego lento durante 1 hora, removiendo ocasionalmente.\n6. Servir la mezcla de lentejas sobre los espaguetis cocidos.",
+  "url": null
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "noodle-stroganoff",
+  "name": "Estofado de fideos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "plato principal",
+    "carne",
+    "variado"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de mantequilla",
+    "1/4 taza de cebolla en rodajas (cebollas)",
+    "1 diente de ajo, picado",
+    "1/2 lb de setas en rodajas",
+    "1 lb de carne molida",
+    "3 cucharadas de zumo de limón",
+    "3 cucharadas de vino tinto o otro vino rojo",
+    "1 lata de caldo de carne",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "4 oz (120 g) de fideos medianos",
+    "1 taza de crema agria",
+    "Perejil picado"
+  ],
+  "recipeInstructions": "1. En una sartén caliente con mantequilla, saltear las cebollas, el ajo y las setas hasta que estén ligeramente doradas.\n2. Añadir la carne molida a la sartén; cocinar, removiendo, hasta que el color de la carne desaparezca.\n3. Incorporar el zumo de limón, el vino tinto, el caldo, la sal y la pimienta.\n4. Dejar hervir destapado durante 15 minutos.\n5. Añadir los fideos sin cocinar; cocinar tapado durante 5 minutos, o hasta que los fideos estén tiernos.\n6. Mezclar la crema agria; calentar rápidamente pero no dejar hervir.\n7. Servir inmediatamente, espolvoreado con perejil.",
+  "url": null
+}

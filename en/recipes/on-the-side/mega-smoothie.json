@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mega-smoothie",
+  "name": "Mega-Smoothie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "import",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 mango, peeled and seeded, chopped",
+    "2 bananas, peeled and chopped",
+    "8 large strawberries",
+    "2 medium carrots, chopped",
+    "2 cups ice cubes",
+    "1 tablespoon honey",
+    "1 cup yogurt (optional)"
+  ],
+  "recipeInstructions": "1. In a blender, combine half of each ingredient: mango, bananas, strawberries, carrots, ice cubes, honey, and yogurt.\n2. Blend until smooth.\n3. Pour into a glass and serve immediately.\n4. Repeat the process with the remaining ingredients.\nYield: 2 servings",
+  "url": null
+}

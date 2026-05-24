@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-whipped-cream-frosting",
+  "name": "Glaseado de crema batida falsa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "glaseado"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de azúcar granulada",
+    "3/4 taza de mantequilla (1 1/2 barras)",
+    "1/2 taza de manteca vegetal",
+    "1 taza de leche tibia",
+    "3 cucharadas de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol pequeño.\n2. Batir a velocidad baja hasta que la mezcla deje de salpicar.\n3. Aumentar la velocidad a máxima y batir durante al menos 10 minutos.\nDelicioso con pastel de galletas Graham.",
+  "url": null
+}

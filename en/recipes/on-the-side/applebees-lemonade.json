@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "applebees-lemonade",
+  "name": "Applebees Lemonade",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "lemonade",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 quart water",
+    "1 cup sugar",
+    "1 cup fresh lemon juice",
+    "2-3 cups sparkling water (not tonic water)"
+  ],
+  "recipeInstructions": "1. Mix the water, sugar, and lemon juice together until the sugar is fully dissolved.\n2. Fill a tall glass 2/3 to 3/4 full with the lemon mixture.\n3. Top off the glass with sparkling water.\nAn interesting variation is to puree some fruit (raspberries, strawberries, etc.) with a little superfine or powdered sugar and add it to the glass before adding the lemonade and water.",
+  "url": null
+}

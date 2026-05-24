@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "sherry-cake-2",
+  "name": "Pastel de jerez",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 sobre de mezcla para pastel amarillo",
+    "1 sobre de pudín instantáneo de vainilla (tamaño grande)",
+    "3/4 taza de aceite de ensalada",
+    "3/4 taza de vino de jerez",
+    "4 huevos",
+    "1/2 cucharadita de nuez moscada",
+    "1 cucharadita de canela"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol hasta que estén bien combinados.\n2. Verter la masa en un molde para pastel tipo bundt previamente engrasado.\n3. Hornear a 350 grados Fahrenheit durante 45 minutos.\n4. Dejar enfriar durante 15 minutos antes de desmoldar.",
+  "url": null
+}

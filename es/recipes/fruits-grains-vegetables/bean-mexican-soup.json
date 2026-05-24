@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "bean-mexican-soup",
+  "name": "Sopa Mexicana de Frijoles",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "estadounidense",
+    "frijoles",
+    "étnico",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de carne molida de pavo (cocida)",
+    "1/2 taza de cebolla picada",
+    "1/2 taza de pimiento rojo picado",
+    "1 sobre de mezcla de condimentos para tacos",
+    "1 frasco de salsa para tacos, de 8 oz",
+    "1 lata de frijoles rojos, de 15 1/2 oz (escurridos y enjuagados)",
+    "1 lata de frijoles negros, de 16 oz (escurridos y enjuagados)",
+    "1 lata de tomates triturados, de 14 oz (sin escurrir)",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. En una sartén, cocina la carne molida de pavo hasta que ya no esté rosada.\n2. Añade la cebolla y el pimiento rojo; cocina hasta que las verduras estén tiernas.\n3. Incorpora la mezcla de condimentos para tacos, la salsa para tacos, los frijoles rojos, los frijoles negros, los tomates triturados y el agua.\n4. Deja cocinar a fuego lento durante 30 minutos.",
+  "url": null
+}

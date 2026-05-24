@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "greek-sunday-bread",
+  "name": "Pan de domingo griego",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "2 cucharaditas de levadura",
+    "3 1/2 tazas de harina de pan",
+    "1/8 cucharadita de canela",
+    "1/4 cucharadita de cáscara de naranja rallada",
+    "1/4 cucharadita de semillas de anís",
+    "1/4 cucharadita de canela en polvo",
+    "3 cucharadas de azúcar",
+    "1 cucharadita de sal",
+    "1 1/2 huevos",
+    "4 cucharadas de mantequilla",
+    "1 1/4 tazas de leche"
+  ],
+  "recipeInstructions": "1. Introducir todos los ingredientes en la máquina panificadora y encenderla.",
+  "url": null
+}

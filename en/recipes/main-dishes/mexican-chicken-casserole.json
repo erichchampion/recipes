@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-chicken-casserole",
+  "name": "Mexican Chicken Casserole",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "american classics",
+    "casseroles",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 1/2 pounds chicken breast halves, boned, skinned",
+    "1 large onion, chopped",
+    "1 can mild chiles, diced",
+    "1/2 teaspoon garlic powder",
+    "1 large can whole tomatoes, drained and diced",
+    "1 can cream of chicken soup",
+    "1 cup cheddar cheese, shredded"
+  ],
+  "recipeInstructions": "1. Cut the chicken into cubes.\n2. Mix together the remaining ingredients, adding 1/2 cup of the tomato liquid.\n3. Pour the mixture into a 3-quart casserole dish and top with more grated cheese if desired.\n4. Bake at 350°F for 50-60 minutes.",
+  "url": null
+}

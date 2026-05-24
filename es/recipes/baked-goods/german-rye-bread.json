@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "german-rye-bread",
+  "name": "Pan de centeno alemán",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "panes y rollos",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de levadura seca activa",
+    "1 cucharada de semillas de eneldo",
+    "2 1/4 tazas de harina de trigo para pan",
+    "1 1/2 cucharaditas de sal",
+    "2 1/2 cucharaditas de cacao sin endulzar",
+    "1 1/2 tazas de harina de centeno",
+    "1 1/4 tazas de agua tibia",
+    "1 1/2 cucharadas de mantequilla",
+    "2 1/2 cucharadas de melaza"
+  ],
+  "recipeInstructions": "1. Coloque los ingredientes en la máquina del pan en el orden recomendado por el fabricante de su máquina.\n2. Utilice un ciclo de pan normal.\n3. (Opcional) Moler las semillas de eneldo antes de usarlas, si se prefiere por sabor pero no para las semillas en sí.\n4. (Para máquinas Panasonic/National, utilice 3 1/2 cucharaditas de levadura en lugar de 1 cucharada).",
+  "url": null
+}

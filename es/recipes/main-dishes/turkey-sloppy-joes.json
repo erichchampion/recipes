@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "turkey-sloppy-joes",
+  "name": "Turco Desmenuzado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "pavo"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite de oliva",
+    "1 libra de pavo molido",
+    "1 taza de cebolla picada",
+    "1/2 taza de pimiento rojo picado",
+    "1 sobre de condimento para tacos desmenuzados",
+    "1 lata de 400 g de salsa de tomate",
+    "1/4 taza de salsa Worcestershire"
+  ],
+  "recipeInstructions": "1. En una sartén grande, calienta el aceite a fuego medio.\n2. Agrega el pavo, la cebolla y el pimiento rojo a la sartén.\n3. Cocina hasta que la carne ya no sea rosada y las verduras estén tiernas.\n4. Incorpora la mezcla de condimento, la salsa de tomate y la salsa Worcestershire.\n5. Reduce el fuego y cocina a fuego lento durante 15 minutos.\n6. Sirve sobre panecillos tostados.",
+  "url": null
+}

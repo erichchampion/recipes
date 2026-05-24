@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "peach-cobbler",
+  "name": "Peach Cobbler",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cobblers",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "4 cups peaches, peeled and sliced",
+    "2/3 cup flour",
+    "2/3 cup granulated sugar",
+    "1/2 cup brown sugar, packed",
+    "1/2 teaspoon cinnamon, ground",
+    "2 tablespoons whole milk"
+  ],
+  "recipeInstructions": "1. Preheat the oven to 400°F.\n2. In a shallow baking dish, combine the peaches, first measure of flour, sugar, and cinnamon.\n3. In a mixing bowl, combine second measure of flour and brown sugar. Cut in butter until mixture is pea-sized.\n4. Stir in milk until moistened.\n5. Drop spoonfuls onto the peaches.\n6. Bake for 30 minutes or until a toothpick inserted into crust comes out clean.\n7. Let stand 5 minutes before serving.",
+  "url": null
+}

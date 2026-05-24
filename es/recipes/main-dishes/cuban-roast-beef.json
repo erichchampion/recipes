@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "cuban-roast-beef",
+  "name": "Cerdo asado cubano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "4 oz jamón ahumado, picado finamente",
+    "4 oz panceta, picada finamente",
+    "8 oz cebolla, picada",
+    "1 oz alcaparras, picadas",
+    "1 diente de ajo, picado",
+    "2 oz aceitunas verdes, cortadas groseramente",
+    "1 cucharadita pimientos verdes, picados",
+    "3 lb solomillo de res (corte de ojo redondo)",
+    "Sal y pimienta al gusto",
+    "2 oz grasa de panceta",
+    "8 oz caldo",
+    "4 oz salsa de tomate",
+    "1 cucharadita vinagre"
+  ],
+  "recipeInstructions": "Precalentar el horno a 175°C.\nMezclar los siete primeros ingredientes para hacer un relleno.\nCortar una incisión de 5-7 cm de profundidad a lo largo del solomillo.\nRellenar la incisión con el relleno. Salpimentar el solomillo.\nDorar el solomillo por todos lados en la grasa de panceta en una cacerola pesada.\nAñadir todos los ingredientes restantes y cocinar en el horno durante 2,5 horas o hasta que la carne esté muy tierna. Verificar periódicamente para asegurarse de que el líquido no se evapore. Añadir agua o caldo sin sal si es necesario.",
+  "url": null
+}

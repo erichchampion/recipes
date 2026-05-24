@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-pudding-pie",
+  "name": "Tarta de Pudin de Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "Harina, 1 taza",
+    "Nueces picadas, 1/2 taza",
+    "Manteca, 1 barra (1 cada)",
+    "Azúcar, 1 taza",
+    "Crema batida en tubo, 473 ml (16 oz)",
+    "Queso crema, 227 g (8 oz)",
+    "Mezcla instantánea de gelatina chocolate, paquete (6 3/4 oz)"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes para la base: harina, nueces picadas y manteca. Presionar en un molde para pastel.\n2. Hornear a 175 °C durante 20 minutos.\n3. Preparar el pudin de chocolate según las instrucciones del paquete.\n4. En una batidora, mezclar azúcar y queso crema.\n5. Incorporar la mitad de la crema batida al mezcla.\n6. Verter la mezcla sobre la base.\n7. Añadir el pudin de chocolate preparado.\n8. Cubrir con el resto de la crema batida.\n9. Espolvorear con nueces picadas rotas por encima.\n10. Refrigerar antes de servir.",
+  "url": null
+}

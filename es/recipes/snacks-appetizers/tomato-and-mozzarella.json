@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-and-mozzarella",
+  "name": "Tomate y mozzarella",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "italiano",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "4 tomates pequeños maduros",
+    "2 bocconcini (queso mozzarella), 2 a 4 (dependiendo del tamaño)",
+    "3 cucharadas de aceite de oliva",
+    "1 cucharada de zumo de limón",
+    "3 cucharadas de hojas de albahaca fresca desmenuzadas"
+  ],
+  "recipeInstructions": "1. Lava los tomates, pero no pelarlos. Corta en rodajas finas y mantenlas juntas.\n2. Corta la mozzarella en rodajas finas.\n3. Coloca en platos individuales, alternando rodajas de tomate y queso, apretando ligeramente para formar un rollo. Deja una rodaja de tomate y aproximadamente media rebanada de queso por persona.\n4. Vierte el aderezo sobre el encima.\n5. Decora con unas hojas de albahaca.",
+  "url": null
+}

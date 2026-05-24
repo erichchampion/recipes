@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-rice",
+  "name": "Arroz con chili",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pollo",
+    "cereales",
+    "pasta",
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "1/2 cucharadita de aceite de oliva",
+    "1 libra de pechuga de pollo picada sin piel, cocida",
+    "1/2 taza de apio, cortado en rodajas",
+    "1/2 taza de pimientos rojos, picados",
+    "1/2 taza de cebolla, picada",
+    "1 diente de ajo, picado finamente",
+    "2 cucharadas de sal",
+    "3 tazas de agua",
+    "400 gramos de tomates enlatados triturados",
+    "1 taza de arroz de grano largo",
+    "6 onzas de puré de tomate",
+    "1 cucharadita de azúcar granulada",
+    "1 cucharadita de polvo de chile"
+  ],
+  "recipeInstructions": "1. En una olla, calienta el aceite de oliva a fuego medio.\n2. Añade el pollo, el apio, los pimientos, las cebollas y el ajo. Revuelve hasta que el pollo ya no sea rosado y las verduras estén tiernas.\n3. Incorpora la sal, el agua, los tomates enlatados, el arroz, el puré de tomate, el azúcar y el polvo de chile.\n4. Tapa y deja cocinar a fuego lento durante 25 minutos o hasta que el arroz esté hecho. Revuelve ocasionalmente.",
+  "url": null
+}

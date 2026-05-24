@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-apple-pie-cracker-pie",
+  "name": "Mock Apple Pie (Cracker Pie)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "4 cups Water",
+    "2 cups Sugar",
+    "4 teaspoons Cream of Tartar",
+    "40 Ritz Crackers; crumbled",
+    "Dash Cinnamon",
+    "Dash Nutmeg",
+    "1 Unbaked Pie Shell",
+    "Butter"
+  ],
+  "recipeInstructions": "1. Combine water, sugar, and cream of tartar in a saucepan. Bring to a boil.\n2. Continue boiling for 2 minutes.\n3. Add the cracker crumbs, cinnamon, and nutmeg. Boil for an additional minute.\n4. Allow mixture to cool completely.\n5. Place the cooled mixture into the unbaked pie shell.\n6. Dot with butter.\n7. Bake at 350 degrees Fahrenheit for 55 minutes.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cold-broiled-chicken",
+  "name": "Pollo a la parrilla frío",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "picnic",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de salsa de soja",
+    "1 taza de jerez",
+    "1 cucharada de pimentón dulce",
+    "2 dientes de ajo, picados",
+    "6 muslos de pollo, cortados por la mitad",
+    "1/2 taza de aceite para cocinar"
+  ],
+  "recipeInstructions": "1. Marinar el pollo durante 60 minutos. Mezclar la salsa de soja, jerez, pimentón, ajo y una pizca de pimienta en un bol, y verter sobre las mitades de pollo. Dejar reposar durante una hora o dos, dando la vuelta ocasionalmente.\n2. Broilar el pollo durante 35-40 minutos. Retirar el pollo de la marinada y cepillar cada pieza con aceite. Colocar con el hueso hacia el calor y broilar durante 13 minutos. Cepillar con la marinada y continuar broilando durante 3 minutos más.\n3. Dar la vuelta al pollo, alejándolo un poco de la parrilla para evitar que la piel se agriete o queme. Cepillar el lado de la piel con marinada y broilar durante 12 minutos adicionales.\n4. Continuar broilando hasta que el pollo esté tierno. Enfriar y envolver en papel aluminio antes de transportarlo al lugar del picnic.",
+  "url": null
+}

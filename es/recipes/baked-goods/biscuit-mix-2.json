@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "biscuit-mix-2",
+  "name": "Mezcla para galletas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "panes",
+    "varios",
+    "mezclas"
+  ],
+  "recipeIngredient": [
+    "4 tazas de harina (medidas ligeramente en la taza)",
+    "2/3 taza de leche en polvo instantánea sin grasa",
+    "2 cucharadas de polvo de hornear",
+    "1 cucharadita de sal",
+    "2/3 taza de manteca vegetal"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes secos hasta que estén bien integrados.\n2. Cortar la manteca en la mezcla seca con un cortapastas o una batidora hasta obtener migas finas y que la manteca esté uniformemente distribuida.\n3. Guardar en un recipiente cerrado herméticamente en el refrigerador. Consumir dentro de los 3 meses.",
+  "url": null
+}

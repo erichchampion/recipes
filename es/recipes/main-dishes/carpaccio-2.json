@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "carpaccio-2",
+  "name": "Carpaccio",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "étnico",
+    "italiano",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 lb de solomillo de ternera",
+    "1 cebolla mediana, laminada finamente",
+    "1 apio, cortado en láminas finas",
+    "2 dientes de ajo",
+    "1/2 limón, cortado en láminas finas",
+    "2 tazas de vino tinto seco",
+    "2 tazas de vinagre de vino tinto",
+    "1 taza de azúcar moreno",
+    "12 ramitas de perejil",
+    "1/2 naranja, cortada en láminas finas",
+    "1/2 taza de alcaparras",
+    "2 cucharadas de especias para encurtidos",
+    "2 cucharadas de sal"
+  ],
+  "recipeInstructions": "1. Retire toda la grasa y tendones del solomillo. Colóquelo en el congelador durante 15-20 minutos hasta que se endurezca.\n2. Mezcle los ingredientes restantes (excepto las láminas de limón) en una olla de fondo pesado, no antiadherente. Lleve a ebullición, reduzca el fuego y deje cocinar a fuego lento durante 10 minutos. Enfríe y cuele, desechando los sólidos. Reserve la marinada.\n3. Con un cuchillo afilado o una máquina cortadora, corte el solomillo en láminas finas. Colóquelas sobre una cama de lechuga. Coloque una pequeña montaña de cebolla picada y alcaparras en el centro. Adorne con las rodajas de naranja o limón, si lo desea.",
+  "url": null
+}

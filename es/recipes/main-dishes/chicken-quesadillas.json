@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-quesadillas",
+  "name": "Quesadillas de pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "bajo en calorías",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "8 tortillas de harina grandes",
+    "3 tazas de queso cheddar rallado",
+    "12 onzas de pechuga de pollo cocida en trozos",
+    "1 cucharada de salsa chipotle picante"
+  ],
+  "recipeInstructions": "1. Calentar una sartén o una plancha, untiendo la superficie con aceite de oliva si se usa una sartén.\n2. Calentar las tortillas, una a una, por ambos lados.\n3. Colocar 1 tortilla en la sartén, extender un cuarto del queso sobre ella y espolvorear un cuarto del pollo encima del queso.\n4. Añadir un chorrito de salsa picante y cubrir con otra tortilla.\n5. Cocinar hasta que el queso se derrita casi por completo, aproximadamente 4 minutos. Dar la vuelta y cocinar durante 2 minutos más.\n6. Transferir a una superficie de trabajo y repetir el proceso para el resto de quesadillas.\n7. Cortar cada quesadilla en 6 triángulos, colocar en platos individuales y servir.",
+  "url": null
+}

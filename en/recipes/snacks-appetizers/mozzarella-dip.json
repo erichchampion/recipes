@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mozzarella-dip",
+  "name": "Mozzarella Dip",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "dips",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "2 cups mayonnaise",
+    "1 cup sour cream",
+    "1 cup mozzarella cheese, shredded",
+    "2 tablespoons Parmesan cheese, grated",
+    "1 tablespoon dried minced onion",
+    "1 teaspoon sugar",
+    "dash each of garlic salt and seasoned salt"
+  ],
+  "recipeInstructions": "1. In a bowl, combine all ingredients.\n2. Mix well.\n3. Cover and chill for at least 1 hour.\n4. Serve with raw vegetables or tortilla chips.",
+  "url": null
+}

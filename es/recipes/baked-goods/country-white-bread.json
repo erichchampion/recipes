@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "country-white-bread",
+  "name": "Pan blanco del campo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de harina",
+    "1 taza de agua",
+    "1 huevo",
+    "3 1/4 tazas de harina para pan",
+    "1/4 taza de azúcar",
+    "1 1/2 cucharaditas de sal",
+    "2 1/4 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "1. En un bol grande, combinar el agua, el huevo y la levadura.\n2. Añadir el azúcar a los ingredientes húmedos.\n3. Agregar gradualmente la harina y la sal, mezclando hasta formar una masa.\n4. Transferir la masa a un molde para pan ligeramente engrasado.\n5. Seguir las instrucciones del fabricante para el color de la corteza y el tamaño del pan en su máquina de pan.\n6. Hornear según las indicaciones de la máquina de pan.",
+  "url": null
+}

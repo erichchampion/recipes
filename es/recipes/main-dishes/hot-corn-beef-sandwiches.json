@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-corn-beef-sandwiches",
+  "name": "Sándwiches de carne caliente de maíz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 taza de carne de res enlatada o picada",
+    "1/2 taza de queso americano rallado",
+    "1/2 taza de aceitunas verdes picadas",
+    "Panecillos Coney",
+    "1/4 taza de ketchup",
+    "2 cucharadas de cebolla picada",
+    "1 cucharada de salsa Worcestershire"
+  ],
+  "recipeInstructions": "1. Mezclar bien en un bol la carne de res, el queso americano, las aceitunas verdes, el ketchup, la cebolla y la salsa Worcestershire.\n2. Rellenar cada panecillo Coney con la mezcla y envolver apretadamente en papel de aluminio.\n3. Calentar los sándwiches envueltos en un horno hasta que estén calientes al tacto.",
+  "url": null
+}

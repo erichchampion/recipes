@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "muffin-tin-breakfast",
+  "name": "Muffin-Tin Breakfast",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "brunch",
+    "meats",
+    "muffins",
+    "wrv"
+  ],
+  "recipeIngredient": [
+    "6 slices of turkey ham",
+    "6 eggs",
+    "Muffin batter for 6 muffins"
+  ],
+  "recipeInstructions": "1. Preheat oven to 375°F (190°C).\n2. Line six muffin tin cups with turkey ham slices.\n3. Break an egg into each ham slice.\n4. Line six more muffin tin cups with paper liners.\n5. Fill each cup about 2/3 full with muffin batter.\n6. Bake for 15-20 minutes, or until eggs are cooked and muffins are golden brown.",
+  "url": null
+}

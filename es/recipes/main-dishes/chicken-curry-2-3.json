@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-curry-2-3",
+  "name": "Curry de Pollo 2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "platos principales",
+    "carne",
+    "aves de corral",
+    "pollo"
+  ],
+  "recipeIngredient": [
+    "1 cebolla mediana, picada",
+    "1 diente de ajo, picado finamente",
+    "3 clavos de olor",
+    "3 granos de cardamomo",
+    "2 cm de canela en palitos, rota en trozos",
+    "1 cm de jengibre, picado"
+  ],
+  "recipeInstructions": "1. Freír las cebollas hasta que adquieran un color marrón dorado.\n2. Añadir los ingredientes restantes al curry y continuar cocinando según las instrucciones de su receta.",
+  "url": null
+}

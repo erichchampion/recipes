@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "noodles-alfredo",
+  "name": "Pasta Alfredo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "8 oz de pasta tipo huevo",
+    "1 taza de queso parmesano rallado",
+    "1/2 taza de mantequilla",
+    "1/2 taza de crema ligera",
+    "1 cucharada de perejil picado",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta tipo huevo según las instrucciones del paquete.\n2. Derretir la mantequilla con la crema a fuego bajo en una sartén.\n3. Incorporar el queso parmesano, el perejil, la sal y la pimienta, removiendo hasta que se mezcle bien.\n4. Escurrir la pasta cocida y transferirla a un plato para servir.\n5. Verter la salsa sobre la pasta y remover suavemente para cubrir uniformemente.",
+  "url": null
+}

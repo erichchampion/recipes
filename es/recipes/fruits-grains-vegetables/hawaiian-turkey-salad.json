@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "hawaiian-turkey-salad",
+  "name": "Ensalada de pavo hawaiano",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "plato principal",
+    "aves de corral",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "3 tazas arroz integral cocido",
+    "2 tazas pollo cocido (cortado en trozos gruesos)",
+    "8 onzas trozos de piña en jugo (escurrir; reservar el jugo)",
+    "8 onzas rodajas de chicharón de agua (escurrir)",
+    "1 manzana mediana, sin pelar y sin corazón, picada",
+    "1/3 taza nueces macadamia picadas",
+    "1/2 cucharadita sal",
+    "1/2 taza yogur natural",
+    "Hojas de lechuga",
+    "1/4 taza coco tostado rallado"
+  ],
+  "recipeInstructions": "1. Mezclar el arroz, el pollo, la piña, los chicharones, la manzana, las nueces y la sal.\n2. Revolver suavemente con yogur y 1 cucharada de jugo de piña.\n3. Servir sobre hojas de lechuga y decorar con coco.",
+  "url": null
+}

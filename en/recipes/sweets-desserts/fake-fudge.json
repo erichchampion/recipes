@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fake-fudge",
+  "name": "Fake Fudge",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "candy",
+    "desserts",
+    "fudge"
+  ],
+  "recipeIngredient": [
+    "1 pound confectioners sugar",
+    "1/4 cup Hershey's cocoa",
+    "1/2 cup (one stick) butter",
+    "dash of salt",
+    "few tablespoons milk"
+  ],
+  "recipeInstructions": "1. Place all ingredients in a large microwavable bowl.\n2. Microwave on high until the butter melts.\n3. Use an electric mixer to beat the mixture until smooth.\n4. Add 1 teaspoon vanilla extract and any additional flavorings (e.g., walnuts).\n5. Pour the mixture into a greased pan.\n6. Allow the fudge to chill until firm before serving.",
+  "url": null
+}

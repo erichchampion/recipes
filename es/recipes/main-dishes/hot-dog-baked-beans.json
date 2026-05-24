@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-dog-baked-beans",
+  "name": "Frijoles al horno con perrito caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "4 latas de frijoles asados (4 lb)",
+    "1/4 cucharadita de polvo de cebolla",
+    "1/4 taza de ketchup",
+    "1/4 taza de azúcar",
+    "3/4 taza de cebolla picada",
+    "1/3 taza de melaza ligera",
+    "1/4 taza de salsa de churrasco con cebolla",
+    "1 lb de perros calientes cortados en trozos"
+  ],
+  "recipeInstructions": "1. Agregar los frijoles, la cebolla, el polvo de cebolla, la melaza, el ketchup, la salsa BBQ y el azúcar a la olla de cocción lenta.\n2. Colocar los perros calientes en la olla.\n3. Mezclar suavemente para combinar todos los ingredientes.\n4. Cocinar a fuego lento durante unas 8 horas.\n5. Si la salsa está demasiado líquida, retirar la tapa durante la última hora o dos para permitir que se evapore el exceso de líquido.",
+  "url": null
+}

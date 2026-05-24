@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-key-lime-pie",
+  "name": "Mock Key Lime Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pastries",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1 (9 or 10-inch) Baked Pastry Shell or Graham Crumb Crust",
+    "6 Egg Yolks",
+    "2 Cans (14 oz each) Sweetened Condensed Milk",
+    "1 Bottle (8 oz) Lime Juice",
+    "Food Colouring - Yellow or Green - Optional",
+    "Whipped Cream"
+  ],
+  "recipeInstructions": "1. Preheat oven to 325°F.\n2. In a large mixing bowl, beat egg yolks with sweetened condensed milk, lime juice, and food coloring if desired.\n3. Pour the mixture into the prepared pastry shell.\n4. Bake for 40 minutes (or 30 minutes if using frozen packaged pie shell or graham cracker crumb crust).\n5. Cool and chill thoroughly.\n6. Top with whipped cream and garnish as desired.\n7. Refrigerate leftovers.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-ice-cream-carol",
+  "name": "Carol de helado de chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "galletas",
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "2 litros de leche evaporada (Half and Half)",
+    "1/2 taza de miel",
+    "3/4 taza de carob (o cacao amargo en polvo)",
+    "1 huevo, opcional",
+    "1 cucharadita de extracto de vainilla, opcional"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande hasta que queden bien integrados.\n2. Seguir las instrucciones del fabricante para verter la mezcla en una máquina heladera de hielo y servir según lo deseado.",
+  "url": null
+}

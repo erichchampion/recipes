@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-camel",
+  "name": "Camello horneado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "misceláneo",
+    "pavo"
+  ],
+  "recipeIngredient": [
+    "1 camello grande",
+    "2 ovejas grandes",
+    "4 pavos grandes",
+    "20 carpas grandes",
+    "200 huevos de gaviota medianos",
+    "400 fechas grandes",
+    "Hojas de plátano"
+  ],
+  "recipeInstructions": "1. Cocinar los huevos y pelarlos.\n2. Escalar las carpas.\n3. Rellenar cada carp con fechas y huevos a medio cocer.\n4. Envolver cada carp rellena en un pavo, luego cada pavo en una oveja, y finalmente cada oveja en el camello.\n5. Cavar un molde grande y llenarlo con aproximadamente 500 kg de carbón. Encender el carbón.\n6. Envolver el camello en hojas de plátano y colocarlo en el molde.\n7. Cubrir con tierra y hornear durante dos días.\n8. Servir con arroz.",
+  "url": null
+}

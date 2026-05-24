@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-muffins",
+  "name": "Basic Muffins",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "low-calorie",
+    "muffins"
+  ],
+  "recipeIngredient": [
+    "2 cups Whole-wheat flour",
+    "2 teaspoons Baking powder",
+    "1/4 cup Honey",
+    "2 cups Water, or nut milk",
+    "2 tablespoons Applesauce",
+    "1/2 teaspoon Vanilla"
+  ],
+  "recipeInstructions": "1. Combine the dry ingredients (whole-wheat flour and baking powder).\n2. In a separate bowl, mix together the wet ingredients (honey, water or nut milk, applesauce, and vanilla).\n3. Fold the wet mixture into the dry mixture until just moistened.\n4. Grease a muffin tin with oil or use a non-stick spray.\n5. Spoon the batter into the prepared muffin cups.\n6. Bake at 350 degrees Fahrenheit for 30 minutes.",
+  "url": null
+}

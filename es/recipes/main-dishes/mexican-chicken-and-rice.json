@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-chicken-and-rice",
+  "name": "Pollo mexicano con arroz",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "mexicano",
+    "ave de corral",
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "1 lb de pechuga de pollo (sin hueso y sin piel)",
+    "2 cucharadas de aceite",
+    "1 lata de caldo de pollo",
+    "1 lata de salsa de tomate",
+    "1 sobre de mezcla para tacos",
+    "1 lata de maíz (escurrido)",
+    "1 taza y media de arroz rápido",
+    "Queso rallado",
+    "Tortitas de maíz",
+    "Crema agria"
+  ],
+  "recipeInstructions": "1. Cocinar y remover el pollo en aceite caliente hasta que esté dorado.\n2. Añadir el caldo de pollo, la salsa de tomate y la mezcla para tacos a la sartén. Llevar a ebullición la mezcla.\n3. Reducir el fuego, tapar y dejar cocer a fuego lento durante 5 minutos.\n4. Incorporar el maíz y devolver a ebullición.\n5. Añadir el arroz rápido, remover y retirar del fuego. Tapar.\n6. Dejar reposar durante 5 minutos antes de servir con queso rallado, tortitas de maíz y crema agria.",
+  "url": null
+}

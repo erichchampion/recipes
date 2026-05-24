@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "lobster-parisienne",
+  "name": "Langosta Parisiense",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "etnico",
+    "francés",
+    "plato principal",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "6 colas de langosta, cocidas/refrigeradas",
+    "6 cucharadas de mayonesa",
+    "1 cucharadita de mostaza preparada",
+    "1 cucharadita de zumo de limón",
+    "1 cucharadita de vinagre de vino de tarragona",
+    "1 cucharada de cebolleta finamente picada",
+    "1 cucharada de perejil picado",
+    "Sal al gusto",
+    "Pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Retirar la carne de langosta de las colas. Reservar las colas. Cortar la carne en trozos pequeños. Mezclar los ingredientes restantes y batir bien. Añadir los trozos de langosta, mezclando con un tenedor, y refrigerar hasta enfriar.\n2. Para servir, rellenar las colas de langosta con la mezcla de langosta fría. Servir como primer plato en platos pequeños forrados con lechuga.",
+  "url": null
+}

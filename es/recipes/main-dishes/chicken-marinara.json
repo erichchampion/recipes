@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-marinara",
+  "name": "Pollo Marinara",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "comidas preparadas para congelar",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 mezcla de pollo",
+    "1 lata de tomates troceados",
+    "1 lata de puré de tomate",
+    "1/4 taza de vino tinto, opcional",
+    "2 cucharaditas de albahaca",
+    "1 cucharada de azúcar",
+    "1 diente de ajo picado",
+    "Una pizca de sal y pimienta"
+  ],
+  "recipeInstructions": "1. Mezcla la mezcla de pollo con los tomates troceados.\n2. Añade el puré de tomate, el vino tinto (si se usa), la albahaca, el azúcar, el ajo, la sal y la pimienta.\n3. Calienta a fuego lento en una cacerola o en el microondas.\n4. Sirve sobre pasta con queso parmesano rallado.",
+  "url": null
+}

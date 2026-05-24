@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "german-chocolate-pies",
+  "name": "Tartas de chocolate alemán",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "chocolate",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "3 tazas de azúcar",
+    "Unas pizcas de sal",
+    "7 cucharadas de cacao en polvo",
+    "12 onzas de leche evaporada",
+    "1 cucharadita de extracto de vainilla",
+    "4 huevos batidos",
+    "1/2 taza de mantequilla derretida",
+    "2 tazas de coco rallado",
+    "1 taza de nueces picadas",
+    "2 bases de tarta sin hornear de 23 cm"
+  ],
+  "recipeInstructions": "1. Mezclar el azúcar, la sal y el cacao en un bol.\n2. Incorporar la leche evaporada, la vainilla, los huevos y la mantequilla derretida. Remover bien.\n3. Añadir el coco y las nueces y mezclar.\n4. Verter la masa en 2 bases de tarta.\n5. Hornear a 175°C durante 40 minutos o hasta que los bordes estén cuajados.\n6. Enfriar y refrigerar.\n7. Consumir uno y congelar el otro para más tarde. Los pasteles se congelan bien.",
+  "url": null
+}

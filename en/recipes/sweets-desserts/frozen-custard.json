@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "frozen-custard",
+  "name": "Frozen Custard",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "2 cups Milk",
+    "2 tbsp Flour",
+    "1 cup Sugar",
+    "1 dash Salt",
+    "1 tbsp Butter",
+    "2 Eggs",
+    "1 can Condensed Milk",
+    "2 tsp Vanilla"
+  ],
+  "recipeInstructions": "1. Combine milk, flour, sugar, salt, and butter in a saucepan over medium heat.\n2. Cook until slightly thickened.\n3. Whisk eggs and gradually add to the hot mixture, stirring constantly.\n4. Cook for a few more minutes on low heat, stirring frequently.\n5. Remove from heat and stir in condensed milk and vanilla.\n6. Chill until firm before serving.",
+  "url": null
+}

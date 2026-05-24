@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pineapple-salsa-moosewood-cookbook",
+  "name": "Salsa de piña - Libro de cocina Moosewood",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "frutas",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 tazas de piña picada",
+    "2 dientes de ajo medianos, picados",
+    "3 cucharadas de menta fresca picada",
+    "2 cucharadas de jugo de limón fresco",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de comino",
+    "Pimienta cayena al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande.\n2. Tapar bien y refrigerar hasta el momento de servir.",
+  "url": null
+}

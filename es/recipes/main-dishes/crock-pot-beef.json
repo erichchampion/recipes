@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "crock-pot-beef",
+  "name": "Cazuela de ternera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento"
+  ],
+  "recipeIngredient": [
+    "1,5 kg de carne de res tipo chuck o redonda en tiras",
+    "1/3 taza de harina",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1 cebolla grande, en rodajas",
+    "1 pimiento verde grande, en rodajas",
+    "1 lata de tomates (400 g)",
+    "1 lata de setas (4 onzas), escurridas",
+    "2 cucharadas de melaza",
+    "3 cucharadas de salsa de soja",
+    "1 paquete de guisantes verdes congelados (10 onzas)"
+  ],
+  "recipeInstructions": "1. Combinar las tiras de carne, la harina, la sal y la pimienta en la olla de cocción lenta. Revolver bien para cubrir uniformemente la carne.\n2. Añadir el resto de ingredientes: cebollas, pimientos verdes, tomates, setas, melaza, salsa de soja y guisantes verdes.\n3. Cocinar a fuego lento durante 8 horas o a fuego alto durante 5 horas, seguido de 2 horas a fuego lento.",
+  "url": null
+}

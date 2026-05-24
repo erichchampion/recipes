@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-nog",
+  "name": "Nog de Naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "festividades",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 parte de zumo de naranja",
+    "1 huevo batido",
+    "1 cucharadita de azúcar",
+    "Una pizca de amargo de angostura",
+    "Una gota de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una licuadora.\n2. Licuar hasta obtener una textura suave.\n3. Enfriar la mezcla.\n4. Servir.",
+  "url": null
+}

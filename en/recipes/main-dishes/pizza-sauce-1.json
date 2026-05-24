@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-sauce-1",
+  "name": "Pizza Sauce#1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza",
+    "sauces"
+  ],
+  "recipeIngredient": [
+    "1 can Tomato paste",
+    "1 Clove garlic (chopped)",
+    "3 cups Water",
+    "1 pint Oregano",
+    "3 pints Cooking oil",
+    "1/4 pint Marjoram",
+    "1 pint Black pepper",
+    "1/4 pint Basil",
+    "1 pint Instant minced onion",
+    "1 pint Brown sugar",
+    "1 pint Grated Parmesan cheese"
+  ],
+  "recipeInstructions": "1. Combine the tomato paste, garlic (chopped), water, oregano, cooking oil, marjoram, black pepper, basil, instant minced onion, brown sugar, and grated Parmesan cheese in a 1 quart saucepan.\n2. Cook the mixture for 30-40 minutes until it thickens slightly.\n3. The sauce will make enough to serve four pizzas of approximately 12 inches each.",
+  "url": null
+}

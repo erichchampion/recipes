@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-salad-recipe-2",
+  "name": "Potato Salad Recipe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "appetizers",
+    "salads"
+  ],
+  "recipeIngredient": [
+    "10 Med Potatoes, diced and cooked",
+    "1/2 Green Bell Pepper, diced",
+    "2 Celery Stalks, diced",
+    "3 Scallions, chopped",
+    "1/2 Cup Olive Oil",
+    "1 Tsp Hungarian Paprika",
+    "1 Tsp Basil",
+    "1 Tsp Salt",
+    "1 tsp Oregano",
+    "1 tsp Garlic Powder",
+    "1 Dash Red Pepper"
+  ],
+  "recipeInstructions": "1. Cool potatoes completely in the fridge or better leave to stand overnight.\n2. Mix in the diced vegetables.\n3. Whisk together the oil with the spices and herbs until well blended.\n4. Pour over potatoes and toss gently.\n5. Refrigerate until ready to be served.",
+  "url": null
+}

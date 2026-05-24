@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-sheshuka",
+  "name": "Desayuno Sheshuka",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 tomates pequeños, picados",
+    "2 dientes de ajo, picados finamente",
+    "1 cebolla pequeña, picada",
+    "5 huevos, ligeramente batidos"
+  ],
+  "recipeInstructions": "1. Calentar aceite vegetal (preferiblemente girasol o cártamo) en una sartén a fuego medio.\n2. Añadir la cebolla y el ajo picados a la sartén. Cocinar hasta que las cebollas se vuelvan translúcidas y tiernas.\n3. Agregar los tomates picados a la sartén. Reducir el fuego a bajo y tapar. Cocinar hasta que los tomates alcancen la textura deseada, teniendo cuidado de no sobrecocinar.\n4. Verter cuidadosamente los huevos batidos en la sartén. Aumentar ligeramente el fuego y cocinar hasta que los huevos estén apenas cuajados, con algunas partes aún líquidas si se prefiere.\n5. Sazonar con sal y pimienta al gusto. Servir caliente.",
+  "url": null
+}

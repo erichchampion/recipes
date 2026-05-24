@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "5-spice-tamales",
+  "name": "Tamales de las 5 especias",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "plato principal",
+    "dieta McDougall",
+    "dietas especiales",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 lb de tofu, desmenuzado",
+    "2 cucharaditas de polvo de cinco especias chino",
+    "1/4 cucharadita de pimienta cayena",
+    "2 cucharadas de cebolla seca",
+    "1/4 taza de pimiento rojo picado",
+    "4 cucharaditas de mostaza preparada",
+    "1 cucharada de salsa de soja"
+  ],
+  "recipeInstructions": "1. Mezclar el tofu, el polvo de cinco especias chino, la pimienta cayena, la cebolla, el pimiento rojo, la mostaza y la salsa de soja en un bol.\n2. Rellenar y cocinar los tamales según el procedimiento básico de \"Tamales\".",
+  "url": null
+}

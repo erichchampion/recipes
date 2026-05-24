@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "red-pesto-sauce",
+  "name": "Salsa Pesto Rojo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pasta",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de tomates secos al sol en aceite",
+    "3 tazas de hojas de albahaca fresca",
+    "3 dientes de ajo",
+    "1/2 taza de queso Romano rallado fresco",
+    "1/2 taza de piñones",
+    "1/2 taza de aceite de oliva",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra molida"
+  ],
+  "recipeInstructions": "1. Escurrir y picar los tomates secos al sol.\n2. En un procesador de alimentos, combinar los tomates secos picados con la albahaca y el ajo.\n3. Pulsar hasta obtener una textura áspera.\n4. Agregar el queso Romano, los piñones y 1/4 taza de aceite de oliva al procesador.\n5. Continuar pulsando hasta que todos los ingredientes estén bien mezclados.\n6. Con el motor en marcha, añadir el aceite de oliva restante, la sal y la pimienta.\n7. Raspar los lados del bol del procesador.\n8. Pulsar hasta que todo esté bien combinado.",
+  "url": null
+}

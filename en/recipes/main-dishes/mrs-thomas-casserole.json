@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mrs-thomas-casserole",
+  "name": "Mrs. Thomas' Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casserole",
+    "casseroles",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 1/2 pounds ground beef, browned and drained",
+    "1 cup onion, chopped",
+    "16 ounces corn, drained",
+    "1 can cream of chicken soup",
+    "1 can cream of mushroom soup",
+    "1 1/2 teaspoons salt",
+    "1/2 teaspoon pepper",
+    "10 ounces noodles, cooked and drained"
+  ],
+  "recipeInstructions": "1. Brown the meat and onions together until the meat is done and the onions are tender.\n2. Add all other ingredients to the meat mixture.\n3. Mix everything thoroughly.\n4. Pour the mixture into a 2.5 quart casserole dish or two smaller dishes.\n5. Bake at 350°F for 30 minutes.",
+  "url": null
+}

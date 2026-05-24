@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "forbidden-city-chicken",
+  "name": "Pollo de la Ciudad Prohibida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de salsa de soja",
+    "2 cucharadas de mantequilla derretida",
+    "1 cucharada de polvo de curry",
+    "1 cucharadita de canela en polvo",
+    "1 cucharadita de jengibre molido",
+    "1 diente de ajo machacado",
+    "2 gotas de salsa Tabasco",
+    "2 muslos y contramuslos de pollo para asar",
+    "Semillas de sésamo"
+  ],
+  "recipeInstructions": "1. Coloca los muslos y contramuslos de pollo en una bandeja para hornear, con la piel hacia arriba, en una sola capa.\n2. En un bol, mezcla la mantequilla derretida con la salsa de soja, el polvo de curry, la canela, el jengibre, el ajo y la salsa Tabasco hasta obtener una combinación homogénea.\n3. Unta la mezcla sobre el pollo y refrigera durante una hora.\n4. Precalienta el horno a 165 °C (325 °F).\n5. Espolvorea semillas de sésamo sobre el pollo.\n6. Hornea al descubierto durante una hora o hasta que esté dorado.",
+  "url": null
+}

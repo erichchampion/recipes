@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-cucumber-relish",
+  "name": "Ensalada de Tomate y Pepino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "encimados",
+    "acompañamientos",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1/2 pepino pelado, sin semillas y cortado en cubos",
+    "2 tomates tipo ciruela, sin semillas y cortados en cubos",
+    "1 tarro (4 onzas) de pimientos verdes, cortados en cubos",
+    "1/4 taza de cebolletas picadas",
+    "1/4 taza de perejil fresco picado",
+    "1/4 taza de vinagre de sidra",
+    "2 cucharadas de miel"
+  ],
+  "recipeInstructions": "1. En un bol pequeño, mezcla el pepino, los tomates, los pimientos verdes, las cebolletas y el perejil.\n2. En una taza apta para microondas, combina el vinagre y la miel. Microondas a potencia máxima durante 20 segundos. Vierte la mezcla sobre las verduras.",
+  "url": null
+}

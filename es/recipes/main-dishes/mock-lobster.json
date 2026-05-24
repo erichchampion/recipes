@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-lobster",
+  "name": "Langostino falso",
+  "recipeCuisine": "Africa & Middle East",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "étnica",
+    "judía",
+    "plato principal",
+    "no regional",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "2 lb de filete de bacalao",
+    "Jugo de tomate; o V8/para cubrir",
+    "1/2 taza de salsa de chile",
+    "1/2 taza de rábano picante preparado",
+    "1/4 taza de crema agria"
+  ],
+  "recipeInstructions": "1. Cocinar el pescado en jugo de tomate con especias al gusto o en V8. Hervir hasta que el pescado se desmenuce.\n2. Mezclar los ingredientes restantes para hacer la salsa y ajustar el sabor según lo deseado. Agregar la salsa al pescado, asegurándose de que no esté demasiado espesa. Debe parecerse a una ensalada de langosta; se pueden añadir pepino y/o cebolla picados si se prefiere.\nNota: En la década de 1950, este plato era popular en los almuerzos del Templo cuando la gente quería comer \"langosta\" mientras seguía las normas kosher. Si prefieres una ensalada de langosta o camarones favorita, puedes sustituir el pescado. En aquel entonces, era más asequible... ¿quién sabe?",
+  "url": null
+}

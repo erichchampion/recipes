@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetable-stock-2",
+  "name": "Vegetable Stock#2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "mcdougall",
+    "soups",
+    "stocks",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "5 cups Water",
+    "1/2 cup Spinach",
+    "1/2 cup Tomatoes",
+    "1/2 cup Turnips",
+    "1/2 cup Onions",
+    "1/2 cup Celery",
+    "1 Bay leaf",
+    "1 clove Garlic"
+  ],
+  "recipeInstructions": "1. Choose your own vegetables, even leftovers, if desired. Just make sure to use twice as much liquid as vegetables.\n2. Chop spinach and tomatoes. Slice turnips and onions. Chop celery.\n3. Combine all ingredients in a large stockpot and bring to boil.\n4. Remove any foam that might come to the top.\n5. Reduce heat, cover and simmer slowly for 1 1/2 hours.\n6. Strain, cool, cover, refrigerate or freeze.",
+  "url": null
+}

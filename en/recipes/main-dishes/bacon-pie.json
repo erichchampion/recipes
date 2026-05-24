@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "bacon-pie",
+  "name": "Bacon Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "easy",
+    "eggs",
+    "main dish",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1 lb Bacon",
+    "1 can Green Chili (chopped)",
+    "1 cup Grated Jack Cheese",
+    "1 1/2 cups Milk",
+    "1 cup Bisquick",
+    "6 oz Sour Cream",
+    "3 Eggs",
+    "Salt and Pepper to taste"
+  ],
+  "recipeInstructions": "1. Brown, drain, and crumble the bacon.\n2. Place the bacon in the bottom of a greased 11x7 inch dish.\n3. Top the bacon with chopped onions and grated Jack cheese.\n4. In a blender, mix together Bisquick, sour cream, eggs, salt, and pepper for 1 minute.\n5. Pour the mixture over the bacon and cheese.\n6. Bake at 350°F until a knife inserted into the center comes out clean (35-45 minutes).",
+  "url": null
+}

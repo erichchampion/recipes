@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "coke-salad",
+  "name": "Ensalada de Coca",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "gelatina",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 paquetes de Gelatina de Cereza",
+    "1 lata (8 oz) de cerezas oscuras dulces, cortadas por la mitad",
+    "1 lata (12 fl oz) de piña triturada con coco, escurrida",
+    "1 taza de nueces pecanas",
+    "2 latas pequeñas de Coca-Cola (cola)"
+  ],
+  "recipeInstructions": "1. Escurrir el jugo de las cerezas y la piña, y agregar suficiente agua para obtener 2 tazas de líquido.\n2. Calentar la mezcla líquida hasta que hierva.\n3. Verter la mezcla hirviendo sobre la gelatina de cereza y remover hasta disolver completamente.\n4. Incorporar las cerezas cortadas, la piña con coco, las nueces pecanas y la Coca-Cola a la mezcla de gelatina.\n5. Refrigerar la ensalada hasta que cuaje.",
+  "url": null
+}

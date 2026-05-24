@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "birch-beer",
+  "name": "Birch Beer",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 gallon twigs (chopped very fine)",
+    "1 gallon honey",
+    "4.5 gallons birch sap",
+    "1 package yeast"
+  ],
+  "recipeInstructions": "1. Put the chopped twigs into a crock.\n2. Boil together the honey and birch sap for 12 minutes.\n3. Pour the mixture over the twigs in the crock.\n4. Allow to cool, then strain out the twigs.\n5. Add the yeast package.\n6. Let ferment for one week.\n7. Strain into bottles and cap tightly.\n8. Serve ice cold at any time.",
+  "url": null
+}

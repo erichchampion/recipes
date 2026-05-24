@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "lasagne-2",
+  "name": "Lasagne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Hamburger",
+    "1 cup Onion",
+    "2 Large garlic cloves",
+    "2 tsp Oregano",
+    "2 cans Tomato soup",
+    "1/2 cup Water",
+    "2 tsp Vinegar",
+    "1/2 lb Wide noodles",
+    "1 pint Cottage cheese",
+    "1/2 lb Mozzarella cheese grated"
+  ],
+  "recipeInstructions": "1. Brown the meat, onion, and garlic.\n2. Add the tomato soup, water, oregano, and vinegar to a pan.\n3. Cook the noodles separately.\n4. Assemble the lasagne by layering the noodles, sauce, and cheeses in the pan.\n5. Bake at a moderate temperature for 30 minutes.\n6. Let it stand for 15 minutes before serving.",
+  "url": null
+}

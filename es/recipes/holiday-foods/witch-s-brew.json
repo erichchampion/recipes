@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "witch-s-brew",
+  "name": "Hechizo de Bruja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Holiday Foods",
+  "keywords": [
+    "vacaciones"
+  ],
+  "recipeIngredient": [
+    "3 pintas de zumo de uva morado",
+    "1 1/2 pintas de agua mineral con gas",
+    "uvas",
+    "manzanas"
+  ],
+  "recipeInstructions": "1. Mezcla el zumo de uva y el agua mineral en un jarro.\n2. Corta las uvas por la mitad y retira los granos.\n3. Corta las manzanas en trozos pequeños.\n4. Justo antes de servir, flota los trozos de fruta en la bebida; por magia, las uvas aparecerán como ojos y los trozos de manzana como dientes.\n5. Crea un escoba con un palillo y borlas de papel negro.",
+  "url": null
+}

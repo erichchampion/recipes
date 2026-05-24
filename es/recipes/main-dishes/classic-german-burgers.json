@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "classic-german-burgers",
+  "name": "Hamburguesas clásicas alemanas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne molida magra",
+    "1 cebolla mediana finamente picada",
+    "3 cucharadas de perejil fresco picado",
+    "2 huevos batidos",
+    "1/2 cucharadita de sal",
+    "1/8 cucharadita de pimienta molida",
+    "1/8 cucharadita de nuez moscada molida",
+    "2 cucharadas de harina"
+  ],
+  "recipeInstructions": "1. Mezclar en un bol la carne molida, la cebolla, el perejil, los huevos batidos, la sal, la pimienta y la nuez moscada hasta que estén bien integrados.\n2. Formar la mezcla en 6 hamburguesas.\n3. Calentar mantequilla en una sartén y cocinar las hamburguesas hasta el punto deseado. Retirarlas de la sartén y mantenerlas calientes.\n4. En la misma sartén, freír las cebollas en rodajas hasta que estén doradas.",
+  "url": null
+}

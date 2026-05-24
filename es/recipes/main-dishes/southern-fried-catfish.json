@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "southern-fried-catfish",
+  "name": "Pescado frito del sur",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "caza",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "2 lb de filetes de pescado (catfish)",
+    "1/2 limón por cada filete",
+    "3/4 taza de maicena",
+    "1 cucharadita de sal",
+    "1/8 cucharadita de pimienta negra molida",
+    "Aceite para freír"
+  ],
+  "recipeInstructions": "1. Frota los filetes de pescado con rodajas de limón por ambos lados.\n2. Pasa los filetes por una mezcla de maicena y especias.\n3. Calienta 1/8 de pulgada de aceite en una sartén grande a fuego medio.\n4. Fríe los filetes hasta que estén dorados y crujientes por ambos lados, aproximadamente 8 minutos en total.",
+  "url": null
+}

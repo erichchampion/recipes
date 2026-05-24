@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-cheese-dip",
+  "name": "Dip de queso mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "americana",
+    "aperitivos",
+    "queso",
+    "salsas",
+    "étnica",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "10 oz de queso Pepper jack rallado",
+    "1 cebolla mediana",
+    "Mantequilla para cocinar la cebolla",
+    "1 cucharadita de ajo machacado",
+    "2 cucharadas de harina",
+    "1 lata de pasta de tomate",
+    "1 taza de crema batida"
+  ],
+  "recipeInstructions": "1. Cocina las cebollas en una sartén antiadherente de hierro forjado hasta que estén ligeramente doradas o comenzando a quemarse.\n2. Añade la harina, el ajo, la crema y la pasta de tomate cuando las cebollas estén listas.\n3. Revuelve hasta obtener una mezcla suave y caliente.\n4. Agrega gradualmente el queso rallado hasta que burbujee.\n5. Sirve con totopos de tortilla.",
+  "url": null
+}

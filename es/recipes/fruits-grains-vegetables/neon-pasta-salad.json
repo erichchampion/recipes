@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "neon-pasta-salad",
+  "name": "Ensalada de pasta neón",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "italiana",
+    "pasta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de pasta rotini, sin cocer, tri-colores",
+    "1 pequeña calabacín, en rodajas",
+    "2 tomates pequeños cortados en gajos",
+    "1/2 taza de trozos de pimiento amarillo",
+    "1/2 taza de trozos de pimiento rojo",
+    "1/2 taza de trozos de pimiento verde",
+    "1 lata (2-1/4 oz.) de aceitunas rebanadas, escurridas",
+    "2 tazas de pavo cocido, en cubos",
+    "1/3 taza de hojas de albahaca fresca, cortadas en tiras",
+    "1/2 taza de queso feta desmenuzado",
+    "1/2 taza de aderezo italiano sin grasa"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta según las instrucciones del paquete; escurrir.\n2. Combinar los vegetales, el pavo, la albahaca y el queso en un bol grande.\n3. Mezclar con 1/2 taza de aderezo italiano.\n4. Enfriar al menos 2 horas antes de servir.\n5. Si es necesario, agregar otras 1/4 a 1/2 taza de aderezo antes de servir.",
+  "url": null
+}

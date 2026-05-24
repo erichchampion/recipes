@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "five-fruit-salad",
+  "name": "Ensalada de Cinco Frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frutas",
+    "ensaladas de frutas"
+  ],
+  "recipeIngredient": [
+    "1 taza de peras, peladas, sin corazón y cortadas en cubos",
+    "1 plátano mediano, en rodajas",
+    "1/4 taza de jugo de naranja",
+    "2 tazas de arándanos frescos o congelados",
+    "1 taza de fresas, cortadas por la mitad",
+    "1/2 taza de jicama, rallada finamente",
+    "1 cucharada de menta fresca picada",
+    "1 taza de yogur natural bajo en grasa"
+  ],
+  "recipeInstructions": "1. Mezclar las peras y el plátano en un bol con jugo de naranja.\n2. En un bol mediano, combinar todos los ingredientes excepto el yogur.\n3. Servir con una cucharada de yogur natural.",
+  "url": null
+}

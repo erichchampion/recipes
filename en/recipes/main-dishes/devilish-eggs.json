@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "devilish-eggs",
+  "name": "Devilish Eggs",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "appetizers",
+    "cajun",
+    "eggs",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "6 Each Hard boiled eggs",
+    "2 Tablespoons Mayonnaise",
+    "2 Tablespoons Poupon mustard",
+    "1 Tablespoon Louisiana hot sauce",
+    "1 Tablespoon Mashed Pimientos",
+    "3 Tablespoons Dill relish",
+    "Salt, to taste"
+  ],
+  "recipeInstructions": "1. Cut the eggs in half.\n2. Remove yolk from white and set white aside.\n3. Mash yolks with a fork.\n4. Add mayonnaise and the rest of the ingredients to the mashed yolks.\n5. Spoon the mixture back into egg whites.\n6. Serve on a bed of lettuce.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "bistro-cheeseburger",
+  "name": "Hamburguesa de Queso al Estilo Bistro",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de carne molida",
+    "Aceite vegetal",
+    "4 rebanadas de cebolla dulce, de 0,6 cm de grosor",
+    "4 panes crujientes, cortados por la mitad y tostados",
+    "4 hojas de lechuga romana",
+    "4 rodajas de tomate, de 0,6 cm de grosor",
+    "8 rebanadas de queso suizo",
+    "1/4 taza de mayonesa",
+    "1 cucharada de mostaza de Dijon"
+  ],
+  "recipeInstructions": "1. En un bol pequeño, mezclar los ingredientes de la salsa (mayonesa y mostaza de Dijon). Reservar.\n2. Dar forma a la carne molida en cuatro hamburguesas de 1,2 cm de grosor.\n3. Untar ligeramente aceite en los lados cortados de las cebollas.\n4. Colocar las hamburguesas y las cebollas en la parrilla sobre carbón medio cubierto de ceniza.\n5. Asar a la parrilla sin cubrir durante 13 a 15 minutos o hasta que los centros ya no sean rosados y las cebollas estén tiernas. Dar la vuelta una vez durante el asado.\n6. Sazonar las hamburguesas con sal y pimienta, si se desea, después de darlas la vuelta.\n7. Aproximadamente un minuto antes de que las hamburguesas estén listas, colocar dos rebanadas de queso sobre cada una.\n8. Extender una cantidad igual de la mezcla de salsa en la mitad superior de cada panecillo.\n9. Cubrir la base de cada panecillo con lechuga y tomate; colocar la hamburguesa y las cebollas encima. Cerrar los sándwiches.",
+  "url": null
+}

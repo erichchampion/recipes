@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "berry-chocolate-pie",
+  "name": "Tarta de Chocolate con Bayas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "chocolate",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 masa de tarta horneada vacía",
+    "1 taza de chips de chocolate con leche",
+    "3 cucharadas de leche",
+    "1 cucharadita de extracto de vainilla",
+    "1 paquete de frambuesas congeladas en rodajas (descongeladas en su almíbar)",
+    "1 paquete de crema batida congelada (no ligera), descongelada"
+  ],
+  "recipeInstructions": "1. En un bol mediano y apto para microondas, mezclar los chips de chocolate con la leche.\n2. Microondar a potencia media (50%) durante 1 minuto y medio, removiendo cada 30 segundos hasta que el chocolate esté completamente derretido y suave.\n3. Incorporar el extracto de vainilla.\n4. Verter la mezcla de chocolate en la masa de tarta horneada y refrigerar al menos 2 horas.\n5. Antes de servir, mezclar las frambuesas descongeladas con la crema batida en un bol mediano.\n6. Extender la mezcla de frambuesa sobre la capa de chocolate.\n7. Decorar con copos de chocolate (opcional).",
+  "url": null
+}

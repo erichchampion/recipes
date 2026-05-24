@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "champagne-punch",
+  "name": "Punch de Champán",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "importado",
+    "ponche",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 taza de triple sec",
+    "1 taza de brandy",
+    "1/2 taza de Chambord",
+    "2 tazas de jugo de piña sin endulzar",
+    "1 litro de ale (gengibre) fría",
+    "2 botellas frías de champán seco de 750 ml"
+  ],
+  "recipeInstructions": "1. En un bol, mezcle el triple sec, el brandy, el Chambord y el jugo de piña.\n2. Deje enfriar la mezcla, cubierta, durante al menos 4 horas o durante la noche.\n3. En un gran recipiente para punch, combine la mezcla fría con la ale de gengibre y el champán.\n4. Añada cubos de hielo.\nRendimiento: 16 tazas, aproximadamente 12 porciones",
+  "url": null
+}

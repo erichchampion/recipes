@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-party-mix",
+  "name": "Mezcla para Fiesta de Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "entrada",
+    "variada",
+    "mezclas"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de queso parmesano rallado",
+    "3 cucharadas de mezcla para salsa de espagueti",
+    "2 cucharadas de albahaca seca",
+    "2 cucharadas de orégano seco",
+    "2 cucharadas de polvo de ajo",
+    "8 tazas de cuadrados de cereales Crispix",
+    "4 tazas de nuggets de pretzel",
+    "3 cucharadas de aceite"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar el queso parmesano rallado, la mezcla para salsa de espagueti, la albahaca seca, el orégano seco y el polvo de ajo.\n2. Colocar los cuadrados de cereales Crispix y los nuggets de pretzel en una bolsa de plástico grande.\n3. Verter el aceite sobre la mezcla de cereales y pretzels en la bolsa y remover suavemente para cubrir uniformemente.\n4. Agregar la mezcla de especias del paso 1 a la bolsa con los cereales y pretzels, y remover suavemente hasta que todo esté bien cubierto.\n5. Transferir la mezcla a un recipiente hermético y almacenar a temperatura ambiente.",
+  "url": null
+}

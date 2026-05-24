@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "bean-muffins",
+  "name": "Muffins de frijoles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas",
+    "rápido"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de frijoles Anasazi cocidos (escurridos)",
+    "1 1/2 tazas de jugo de frijol, agua o leche",
+    "1/2 taza de melaza o jarabe de arce",
+    "1 huevo",
+    "1 cucharadita de vainilla",
+    "2 cucharaditas de polvo de hornear sin alumbre",
+    "1 1/2 tazas de harina integral de trigo",
+    "1/3 taza de polvo de carob",
+    "1/2 cucharadita de canela",
+    "Un pellizco de nuez moscada"
+  ],
+  "recipeInstructions": "1. Mezcla los frijoles, jugo, melaza, huevo y vainilla en una licuadora o procesador de alimentos hasta obtener una textura suave.\n2. Agrega los ingredientes secos a la mezcla y combina bien.\n3. Llena moldes para muffins engrasados aproximadamente 2/3 con la masa.\n4. Hornea a 175°C durante 25 minutos, o hasta que estén hechos.",
+  "url": null
+}

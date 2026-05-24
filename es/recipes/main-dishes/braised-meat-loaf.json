@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "braised-meat-loaf",
+  "name": "Pastel de carne guisado",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "pastel de carne",
+    "carnes",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida de res",
+    "1 lb de jamón ahumado cocido, molido",
+    "1 lb de cerdo molido",
+    "3 huevos grandes",
+    "2 cucharaditas de sal",
+    "1/2 cucharadita de pimienta negra",
+    "1/4 cucharadita de nuez moscada molida",
+    "Salsa Chipotle -",
+    "1/2 taza de migas de pan secas",
+    "1/4 taza de mezcla instantánea de tortillas de maíz",
+    "1/2 taza de aceite vegetal"
+  ],
+  "recipeInstructions": "Mezclar la carne molida, el jamón cocido, el cerdo molido, los huevos, la sal, la pimienta y la nuez moscada. Dar forma a la mezcla en un molde para lomo. Tapar y refrigerar durante 1 hora.\nPreparar la salsa Chipotle y reservar. Mezclar las migas de pan con la mezcla de tortillas de maíz. Recubrir el lomo con la mezcla de migas. Calentar el aceite en una sartén de 10 pulgadas hasta que esté caliente. Freír el lomo en el aceite a fuego medio hasta que esté dorado por todos lados. Verter la salsa Chipotle sobre el lomo. Llevar a ebullición y reducir el fuego. Tapar y cocinar a fuego lento durante aproximadamente 1 hora.",
+  "url": null
+}

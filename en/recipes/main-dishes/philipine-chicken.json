@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "philipine-chicken",
+  "name": "Philipine Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "1 Cut-up chicken",
+    "1 cup Water",
+    "1/2 cup Vinegar",
+    "1/4 cup Soy Sauce",
+    "2 Cloves Sliced Garlic"
+  ],
+  "recipeInstructions": "1. Place all ingredients in a crockpot.\n2. Cook for 6 to 8 hours on low setting.\n3. Serve over rice.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cola-frosting",
+  "name": "Glaseado de Cola",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "postres",
+    "glaseado"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla o margarina",
+    "1/4 taza de bebida gaseosa con sabor a cola",
+    "3 cucharadas de cacao en polvo",
+    "3 tazas de azúcar glas (cernido)",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "Combinar la mantequilla, la cola y el cacao en una cacerola pesada. Llevar a ebullición, removiendo constantemente. Retirar del fuego. Incorporar el azúcar glas y la vainilla. Darle la forma deseada. Rendimiento: 1-1/4 tazas.",
+  "url": null
+}

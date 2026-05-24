@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hershey-brownies",
+  "name": "Hershey Brownies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "brownies",
+    "chocolate",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 cup Sugar",
+    "1 Stick Oleo",
+    "4 Eggs",
+    "1 Can Hershey Syrup",
+    "1 Cup Flour",
+    "Nuts if desired"
+  ],
+  "recipeInstructions": "1. Cream together the sugar and oleo until well combined.\n2. Add eggs one at a time, beating well after each addition.\n3. Stir in the syrup and flour until just mixed.\n4. Fold in nuts, if using.\n5. Spread batter onto a greased and floured baking sheet.\n6. Bake for 30 minutes at 350°F (175°C).\n7. Frost or dust with powdered sugar before serving.",
+  "url": null
+}

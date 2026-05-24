@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-dip",
+  "name": "Taco Dip",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "dips",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "refried beans",
+    "sour cream",
+    "taco mix",
+    "1 large avocado with lemon, mashed",
+    "2 bunches green onion, chopped",
+    "black olives",
+    "tomatoes - chopped",
+    "cheese - shredded"
+  ],
+  "recipeInstructions": "1. Mix the sour cream and taco mix together.\n2. Layer the remaining ingredients in order.",
+  "url": null
+}

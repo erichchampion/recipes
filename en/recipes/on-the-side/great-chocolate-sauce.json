@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "great-chocolate-sauce",
+  "name": "Great Chocolate Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "desserts",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Cocoa",
+    "1/2 cup Brown Sugar",
+    "3/4 cup Milk",
+    "1/2 tsp Vanilla"
+  ],
+  "recipeInstructions": "1. In a saucepan, mix cocoa and sugar.\n2. Add milk to the mixture.\n3. Heat over medium heat until boiling, stirring constantly for 5 minutes or until thickened.\n4. Allow the sauce to cool.\n5. Stir in vanilla.\n6. Serve at room temperature.",
+  "url": null
+}

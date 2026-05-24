@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "special-company-casserole",
+  "name": "Casserola Especial de la Empresa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 libras de puré de patatas congelado",
+    "1/2 taza de cebolla picada",
+    "1 lata de sopa de apio en crema",
+    "1 lata de sopa de pollo en crema",
+    "8 onzas de crema agria",
+    "2 tazas de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Deja descongelar los purés de patatas.\n2. En un bol grande, combina la cebolla, la sopa de apio en crema, la sopa de pollo en crema y la crema agria.\n3. Añade el resto de ingredientes, excepto el queso cheddar rallado.\n4. Vierte la mezcla de patata en una fuente para hornear engrasada de 30x45 cm.\n5. Cubre con el queso cheddar rallado.\n6. Hornea a 180 °C durante 1 hora y 30 minutos, o hasta que esté caliente y burbujeante.",
+  "url": null
+}

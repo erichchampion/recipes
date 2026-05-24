@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "basil-tomato-parmesan-bread",
+  "name": "Pan de tomate basilico parmesano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 hogaza de pan de 1 libra",
+    "1/2 taza de agua",
+    "1/4 taza de leche",
+    "2 cucharadas de aceite de oliva",
+    "1 cucharadita de azúcar",
+    "1 cucharadita de sal",
+    "2 cucharaditas de albahaca seca",
+    "1/3 taza de queso parmesano rallado",
+    "2 tazas de harina de pan",
+    "2 cucharaditas de levadura",
+    "1/4 taza de tomates secos al sol, picados"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes excepto los tomates secos en el orden indicado por las instrucciones de la máquina de pan.\n2. Programar la máquina para hacer pan blanco con corteza media.\n3. Cuando la máquina emita la señal sonora, incorporar los tomates secos picados.",
+  "url": null
+}

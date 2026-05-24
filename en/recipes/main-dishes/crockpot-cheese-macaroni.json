@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-cheese-macaroni",
+  "name": "Crockpot Cheese & Macaroni",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cheese/eggs",
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "Small box elbow macaroni",
+    "3 cups Cheddar cheese, shredded",
+    "1 can evaporated milk",
+    "1.5 cups homogenized milk",
+    "3 eggs",
+    "Half stick butter",
+    "Salt and pepper to taste"
+  ],
+  "recipeInstructions": "1. Cook the macaroni according to the directions on the box.\n2. Grease the crockpot with butter.\n3. Mix all ingredients in the crockpot.\n4. Cook on high for 30 minutes, then turn off the heat and cook on low for 2 hours.",
+  "url": null
+}

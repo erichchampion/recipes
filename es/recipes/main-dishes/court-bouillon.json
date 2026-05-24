@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "court-bouillon",
+  "name": "Caldo corte",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1 litro de agua",
+    "1 cebolla mediana, en rodajas",
+    "6 clavos enteros",
+    "1/2 limón, en rodajas",
+    "1 tallo de apio, con las hojas picadas",
+    "2 ramitas de perejil",
+    "1 1/2 cucharadita de sal",
+    "6 granos de pimienta",
+    "1/2 hoja de laurel"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una olla grande.\n2. Llevar a ebullición a fuego medio.\n3. Cocinar a fuego lento durante 15 minutos.\n4. Opcionalmente, añadir hasta 1 litro de vino blanco y continuar cocinando a fuego lento durante 30 minutos adicionales.",
+  "url": null
+}

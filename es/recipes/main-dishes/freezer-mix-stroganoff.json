@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "freezer-mix-stroganoff",
+  "name": "Stroganoff de Congelador",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 paquete de mezcla congelada de carne y setas",
+    "4 cucharadas de agua",
+    "3/4 taza de crema agria láctea",
+    "2 tazas de fideos o arroz cocido caliente"
+  ],
+  "recipeInstructions": "1. Sumergir el recipiente de la mezcla congelada en agua caliente para aflojarla.\n2. En una cacerola de 2 cuartos, calentar la mezcla congelada y el agua hasta que hierva.\n3. Reducir el fuego y tapar, dejar cocinar a fuego lento, removiendo con frecuencia, hasta que la mezcla se descongele (aproximadamente 20 minutos).\n4. Incorporar la crema agria y continuar calentando.\n5. Servir sobre fideos o arroz.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "salmon-soup",
+  "name": "Sopa de Salmón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "mariscos",
+    "sopas",
+    "guisos/sopas"
+  ],
+  "recipeIngredient": [
+    "3 litros de leche",
+    "2 cucharadas de mantequilla",
+    "1 lata de salmón",
+    "Sal y pimienta al gusto",
+    "Migas de pan"
+  ],
+  "recipeInstructions": "1. Calentar a fuego lento 3 litros de leche.\n2. Añadir 2 cucharadas de mantequilla.\n3. Incorporar la lata de salmón, desmenuzándolo con un tenedor antes de agregar.\n4. Condimentar con sal y pimienta al gusto.\n5. Espesar la sopa con migas de pan.",
+  "url": null
+}

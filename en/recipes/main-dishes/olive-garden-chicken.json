@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "olive-garden-chicken",
+  "name": "Olive Garden Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "miscellaneous"
+  ],
+  "recipeIngredient": [
+    "Chicken breasts",
+    "Soy sauce",
+    "Pineapple juice",
+    "Onion",
+    "Garlic"
+  ],
+  "recipeInstructions": "1. Marinate the chicken in a mixture of soy sauce, pineapple juice, chopped onion, and minced garlic for 24 hours.\n2. Preheat the grill to medium heat.\n3. Grill the marinated chicken until it is cooked through and no longer pink inside, turning occasionally.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheeseburgers",
+  "name": "Hamburguesas con queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "queso/huevos",
+    "plato principal",
+    "carnes",
+    "microondas"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de carne picada magra",
+    "Sal",
+    "Salsa marrón (opcional)",
+    "Agua (opcional)",
+    "6 panecillos para hamburguesa",
+    "6 rebanadas de queso"
+  ],
+  "recipeInstructions": "1. Formar la carne en 6 hamburguesas, de unos 0,5 cm de grosor.\n2. Espolvorear cada hamburguesa con sal y cepillar ligeramente con una mezcla a partes iguales de salsa marrón y agua, si se desea un color marrón intenso.\n3. Disponer las hamburguesas en círculo en un plato para hornear poco profundo forrado con papel de cocina, evitando colocar ninguna hamburguesa en el centro del círculo. Cubrir con papel de cocina y microondas durante 5 minutos.\n4. Dar la vuelta a las hamburguesas. Si se desea, cepillar de nuevo con la mezcla de salsa marrón.\n5. Microondas sin cubrir por un minuto adicional. Los hamburguesas estarán poco hechas. Seguir microondas entre 1 y 2 minutos más para obtener un punto medio o bien hecho.\n6. Colocar una hamburguesa sobre cada panecillo y colocar una rebanada de queso sobre cada hamburguesa. Disponer los hamburguesas en un plato para servir resistente al calor y microondas sin cubrir durante 2 minutos, o hasta que el queso se haya derretido.",
+  "url": null
+}

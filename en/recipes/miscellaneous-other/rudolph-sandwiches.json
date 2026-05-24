@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "rudolph-sandwiches",
+  "name": "Rudolph Sandwiches",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "kids",
+    "miscellaneous",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "Dark sliced bread",
+    "Peanut butter",
+    "Cherries",
+    "Thin pretzel sticks",
+    "M&Ms"
+  ],
+  "recipeInstructions": "1. Trim the crust from one slice of bread.\n2. Cut the trimmed slice into two triangles.\n3. Spread peanut butter on one triangle.\n4. Place the other triangle on top, peanut butter side down.\n5. Decorate with M&Ms for eyes, a cherry for the nose, and pretzel sticks for antlers.",
+  "url": null
+}

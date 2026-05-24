@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-ala-capt-james-mcdonnell",
+  "name": "Chili Al Estilo Capitán James McDonnell",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "plato principal",
+    "sopas",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "1 kilo de salchicha italiana suave",
+    "1 kilo de carne molida",
+    "1 cebolla amarilla grande, picada",
+    "2 dientes de ajo grandes, finamente picados",
+    "1 1/2 cucharaditas de polvo de chile",
+    "6 onzas de pasta de tomate",
+    "1 1/2 tazas de agua",
+    "1 cucharadita de café instantáneo",
+    "1 cucharadita de azúcar",
+    "1 cucharadita de pimentón dulce",
+    "1 cucharadita de orégano seco",
+    "1 cucharadita de sal",
+    "1 cucharadita de pimienta negra",
+    "1 cucharadita de comino molido",
+    "1 taza de frijoles rojos oscuros escurridos",
+    "1 taza de frijoles refritos"
+  ],
+  "recipeInstructions": "1. Dorar la salchicha, la carne molida, la cebolla y el ajo en una olla.\n2. Añadir los ingredientes restantes (excepto los frijoles) a la olla. Llevar a ebullición, tapar y cocinar a fuego lento durante 1 hora y 15 minutos.\n3. Después de cocinar, agregar los frijoles y remover suavemente.\n4. Servir con queso Monterey Jack rallado y cebolla verde picada.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "coffeeshake",
+  "name": "Café Batido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de café recién preparado y frío",
+    "2 cucharaditas de cacao en polvo",
+    "2 cucharadas de azúcar",
+    "1/4 litro de leche",
+    "1/8 litro de crema fresca",
+    "Chocolate rallado para decorar"
+  ],
+  "recipeInstructions": "1. Prepara el café y déjalo enfriar por completo.\n2. Combina el cacao en polvo, el azúcar y la leche en una licuadora.\n3. Mezcla hasta obtener una textura suave.\n4. Reparte la mezcla en 6 vasos.\n5. Cubre cada vaso con crema fresca y espolvorea chocolate rallado por encima.",
+  "url": null
+}

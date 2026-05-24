@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-and-easy-dinner",
+  "name": "Quick and Easy Dinner",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "2 lb Chuck roast",
+    "2 Bags of Frozen Stew Veggies (The Large Ones)",
+    "2 cans Cream of Mushroom soup",
+    "1 Pack Lipton onion soup"
+  ],
+  "recipeInstructions": "1. Place the chuck roast in the Crock Pot.\n2. Add 2 1/2 cups of water to the pot.\n3. Arrange the Soup on top of the meat.\n4. Layer the Stew Veggies on top of the soup.\n5. Turn the Crock Pot to LOW if cooking for 8 or more hours, or HIGH if cooking for 6 or less hours.\n6. When you get home, enjoy your ready-to-eat meal!",
+  "url": null
+}

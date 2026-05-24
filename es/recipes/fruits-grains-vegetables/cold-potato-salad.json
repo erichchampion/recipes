@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cold-potato-salad",
+  "name": "Ensalada de Patatas Frías",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "alemán",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "6 patatas (peladas y cortadas en cuartos)",
+    "Agua hirviendo",
+    "1/2 cucharadita de sal",
+    "1 cebolla mediana (picada finamente)",
+    "3 cucharadas de vinagre",
+    "1/2 cucharadita de mostaza preparada",
+    "1 cucharadita de azúcar",
+    "2 cucharaditas de semillas de eneldo"
+  ],
+  "recipeInstructions": "1. Pelar y cortar las patatas en cuartos.\n2. Cocinar las patatas en agua hirviendo con sal hasta que estén tiernas, aproximadamente 15-20 minutos. Escurrir, reservando 3/4 taza del agua de cocción.\n3. Cubrir las patatas con aceite y agregar la cebolla picada; mezclar suavemente.\n4. Calentar el agua de cocción reservada en una cacerola pequeña hasta que hierva.\n5. Verter el agua caliente sobre las patatas y la cebolla. Dejar enfriar a temperatura ambiente durante 2-3 horas, removiendo ocasionalmente.\n6. Incorporar el vinagre, la mostaza, el azúcar y las semillas de eneldo.\n7. Servir la ensalada de patatas a temperatura ambiente.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "frogmore-stew",
+  "name": "Estofado de Frogmore",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas y estofados",
+    "estofados"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de Condimento Old Bay",
+    "3 cucharadas de sal",
+    "1,5 galones de agua",
+    "2 libras de kielbasa o salchicha ahumada",
+    "12 mazorcas de maíz, cortadas en trozos de 3-4 cm",
+    "4 libras de camarones con cáscara"
+  ],
+  "recipeInstructions": "1. En una olla grande, combina las especias y el agua, y lleva a ebullición.\n2. Añade la salchicha y hierve durante cinco minutos sin cubrir. Comienza a contar desde este momento.\n3. Agrega el maíz y continúa hirviendo otros cinco minutos.\n4. Incorpora los camarones y hierve durante tres minutos más.\n5. Escurre la mezcla inmediatamente.",
+  "url": null
+}

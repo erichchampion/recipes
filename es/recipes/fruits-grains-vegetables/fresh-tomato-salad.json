@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fresh-tomato-salad",
+  "name": "Ensalada de Tomate Fresco",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "italiano",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "4 tomates grandes",
+    "12 hojas de albahaca fresca, picadas",
+    "1/4 taza de vinagre balsámico",
+    "1/4 cucharadita de orégano",
+    "1/2 cebolla roja, picada finamente",
+    "1/2 taza de aceite de oliva virgen extra",
+    "1 diente de ajo, picado",
+    "Sal y pimienta al gusto",
+    "Pan italiano"
+  ],
+  "recipeInstructions": "1. Coloca los tomates, la cebolla y el ajo en un bol.\n2. Añade las especias (sal y pimienta), el aceite y el vinagre.\n3. Sirve con pan italiano, utilizando el pan para absorber los jugos de la ensalada.",
+  "url": null
+}

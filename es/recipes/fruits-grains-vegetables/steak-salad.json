@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "steak-salad",
+  "name": "Ensalada de Bistec",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "carne de res",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de solomillo de res sobrante, en juliana",
+    "1 pequeña patata, cortada en cubos",
+    "1 pequeña cebolla, picada",
+    "2 hojas de lechuga, arrancadas",
+    "Sal",
+    "Pimienta",
+    "1 cucharada de aderezo vinagreta de capar"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar la carne en juliana, los cubos de patata y la cebolla picada.\n2. Sazonar con sal y pimienta al gusto.\n3. Verter el aderezo vinagreta de capar sobre la mezcla.\n4. Arrancar las hojas de lechuga y agregar al bol.\n5. Mezclar suavemente todos los ingredientes hasta que estén bien combinados.\n6. Servir inmediatamente.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "west-coast-wonder",
+  "name": "Maravilla de la Costa Oeste",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "barbecua",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de salsa Hoist",
+    "1/2 taza de vinagre de arroz",
+    "1/4 taza de salsa de soja",
+    "2 cucharadas de mostaza Dijon",
+    "2 cucharaditas de jengibre fresco rallado",
+    "1 cucharadita de semillas de anís molidas",
+    "2 dientes de ajo, picados"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una cacerola.\n2. Calentar a fuego lento durante unos 10 minutos.\n3. Servir la salsa caliente o a temperatura ambiente.\n4. Se conserva en el refrigerador durante varias semanas.",
+  "url": null
+}

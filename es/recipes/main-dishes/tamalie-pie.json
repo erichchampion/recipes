@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "tamalie-pie",
+  "name": "Pastel de tamal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "empanadas de cena",
+    "carne molida",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "Mezcla de maicena:",
+    "2 tazas agua hirviendo",
+    "1 taza maicena de maíz amarilla",
+    "1 cucharadita sal",
+    "1 taza agua fría",
+    "Chili:",
+    "500 g carne molida",
+    "1 cucharada mantequilla",
+    "3/4 taza cebolla picada",
+    "1 pimiento verde mediano, sin semillas y picado",
+    "1 lata (8 onzas) de salsa de tomate",
+    "1 lata (12 onzas) de maíz entero, escurrido",
+    "2 cucharaditas polvo de chili",
+    "2 cucharaditas sal sazonada",
+    "1/2 cucharadita salsa Worcestershire"
+  ],
+  "recipeInstructions": "Mezcla de maicena:\n1. Mezclar la maicena, la sal y 1 taza de agua fría en un bol.\n2. Verter lentamente el agua hirviendo sobre la mezcla, revolviendo constantemente.\n3. Cocinar a fuego medio hasta que espese.\n4. Tapar y cocinar a fuego lento durante unos 10 minutos.\n5. Verter 2/3 de la mezcla de maicena en un molde para hornear de 2 cuartos.\n6. Agregar la mezcla de chili encima.\n7. Cubrir con el resto de la mezcla de maicena.\n8. Hornear a 175 °C durante 20 minutos.\nChili:\n1. Calentar la mantequilla en una sartén a fuego medio.\n2. Saltear la cebolla y el pimiento verde hasta que estén tiernos.\n3. Agregar la carne molida a la sartén y dorarla ligeramente.\n4. Incorporar la salsa de tomate, el maíz, el polvo de chili, la sal sazonada y la salsa Worcestershire.\n5. Reducir el fuego y cocinar hasta que se caliente todo.",
+  "url": null
+}

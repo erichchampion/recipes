@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-salsa",
+  "name": "Salsa de arroz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "1 1/2 a 2 tazas de arroz marrón",
+    "1/4 taza de salsa suave",
+    "3/4 taza de maíz (escurrido de una latas pequeña)",
+    "1 lata pequeña de tomate en salsa",
+    "16 onzas de frijoles rosados enlatados, escurridos y enjuagados"
+  ],
+  "recipeInstructions": "1. Mezclar el arroz marrón, la salsa, el maíz, el tomate y los frijoles en un bol.\n2. Calentar la mezcla hasta que esté caliente.\n3. Servir inmediatamente.",
+  "url": null
+}

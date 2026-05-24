@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "amaretto-coffee",
+  "name": "Café de Amaretto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de agua tibia",
+    "3 cucharadas de amaretto",
+    "1 1/2 cucharaditas de cristales de café instantáneo",
+    "Topping para postres (opcional)"
+  ],
+  "recipeInstructions": "1. En un vaso para bebidas no metálico, mezcle el agua y los cristales de café instantáneo.\n2. Caliente a potencia máxima durante aproximadamente 1 minuto y medio o hasta que la mezcla esté muy caliente.\n3. Añada el amaretto y mezcle bien.\n4. Decore con topping para postres al gusto.",
+  "url": null
+}

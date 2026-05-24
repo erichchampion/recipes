@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "jambalaya-casserole",
+  "name": "Jambalaya Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish",
+    "pasta",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "Elbow macaroni, cook (5 oz)",
+    "Bacon (2 slices), chopped",
+    "Chopped onion (1/2 cup)",
+    "Chopped green pepper (1/2 cup)",
+    "Minced garlic (1/2 clove)",
+    "Flour (2 tbsp)",
+    "Canned tomatoes (2 1/4 cups)",
+    "Boiled ham (1/2 lb)",
+    "Cooked cleaned shrimp (1 cup)",
+    "Breadcrumbs (1/4 cup)",
+    "Grated Parmesan cheese (2 tbsp)",
+    "Melted margarine (2 tbsp)"
+  ],
+  "recipeInstructions": "1. Brown chopped bacon in a skillet.\n2. Add onion, green pepper, and garlic to the skillet; brown.\n3. Stir in flour; add tomatoes and cook until thickened, stirring constantly.\n4. Add macaroni, ham, and shrimp to the mixture.\n5. Pour into a greased 1 1/2 qt casserole dish.\n6. Combine breadcrumbs, cheese, and margarine.\n7. Sprinkle over the casserole.\n8. Bake at 350°F for about 30 minutes.",
+  "url": null
+}

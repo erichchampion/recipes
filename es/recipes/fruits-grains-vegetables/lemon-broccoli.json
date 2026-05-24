@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-broccoli",
+  "name": "Brócolis al limón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 manojo de brocoli",
+    "1 cucharadita de sal",
+    "2 cucharadas de aceite de ensalada",
+    "1/2 diente de ajo, picado finamente",
+    "2 cucharaditas de zumo de limón",
+    "6 tazas de agua hirviendo"
+  ],
+  "recipeInstructions": "1. Prepara el brocoli lavándolo y escurriéndolo. Separa los tallos.\n2. Coloca el brocoli en una olla grande con agua hirviendo y sal. Tapa y cocina hasta que esté tierno (10 minutos).\n3. Escurre el brocoli.\n4. Calienta el ajo y el aceite en un cacerolita pequeño.\n5. Añade el brocoli cocido a la sartén, espolvoreando con zumo de limón y sal.\n6. Cocina hasta que el brocoli esté bien caliente.",
+  "url": null
+}

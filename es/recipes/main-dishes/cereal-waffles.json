@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "cereal-waffles",
+  "name": "Wafflas de cereal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "plato principal",
+    "gofres"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina",
+    "2 cucharaditas de polvo de hornear",
+    "4 cucharadas de manteca derretida",
+    "1/2 taza de pasas cortadas",
+    "1 taza de cereales granulares sin cocinar",
+    "1 cucharadita de sal",
+    "1 taza de leche",
+    "1 huevo batido bien",
+    "1 cucharada de azúcar"
+  ],
+  "recipeInstructions": "1. Cierna juntos la harina, el azúcar, la sal y el polvo de hornear.\n2. Agrega los cereales, el huevo, la manteca derretida, la leche y las pasas a los ingredientes secos. Mezcla hasta combinarlos ligeramente.\n3. Vierte la masa en una plancha de gofres caliente.\n4. Cocina según las instrucciones del fabricante.\n5. Sirve con jarabe de arce y mantequilla. Rinde 6 porciones.",
+  "url": null
+}

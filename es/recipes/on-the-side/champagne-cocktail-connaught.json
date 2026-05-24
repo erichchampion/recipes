@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "champagne-cocktail-connaught",
+  "name": "Cóctel de Champán Connaught",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "Azúcar en cubos",
+    "4 gotas de amargo Angostura",
+    "4 gotas de Cointreau",
+    "4 gotas de cognac",
+    "Champán Laurent Perrier",
+    "Gira de cáscara de naranja",
+    "1 cereza"
+  ],
+  "recipeInstructions": "1. Coloca el cubo de azúcar en un vaso tipo flauta.\n2. Añade los amargos al vaso.\n3. Vierte el Cointreau en el vidrio.\n4. Agrega el cognac al vaso.\n5. Completa con champán.\n6. Sirve con la gira de cáscara de naranja y la cereza en un palillo.",
+  "url": null
+}

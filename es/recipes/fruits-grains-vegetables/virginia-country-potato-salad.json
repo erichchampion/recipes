@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "virginia-country-potato-salad",
+  "name": "Ensalada de Papas del País de Virginia",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "patatas",
+    "ensalada",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "5 libras de patatas, cocidas y cortadas en cubos",
+    "1 cebolla grande, picada",
+    "3 tallos de apio, picados",
+    "6 huevos, duros y picados",
+    "1/4 taza de pepinillos tipo bread and butter, picados",
+    "1/4 taza de jugo de los pepinillos",
+    "1 taza de mayonesa"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto la mayonesa en un bol.\n2. Dejar reposar durante 15 minutos para que se mezclen los sabores.\n3. Añadir la mayonesa hasta alcanzar la consistencia deseada. La cantidad de mayonesa necesaria variará según las patatas utilizadas.",
+  "url": null
+}

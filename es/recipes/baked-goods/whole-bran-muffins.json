@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "whole-bran-muffins",
+  "name": "Muffins de trigo integral",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina (pasada por tamiz)",
+    "3 1/2 cucharaditas de polvo de hornear",
+    "3 cucharadas de azúcar",
+    "1/4 cucharadita de sal",
+    "3/4 taza de leche",
+    "1 taza de avena integral",
+    "1 huevo (batido bien)",
+    "3 cucharadas de grasa (derretida)"
+  ],
+  "recipeInstructions": "1. Tamizar la harina una vez, luego medir y agregar el polvo de hornear, el azúcar y la sal. Tamizar nuevamente.\n2. Verter la leche sobre la avena integral. Agregar el huevo y la grasa a la mezcla de avena. Incorporar la harina lo menos posible.\n3. Hornear en moldes para muffins engrasados en un horno precalentado a 425°F durante 20 minutos.",
+  "url": null
+}

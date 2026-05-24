@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "zesty-orange-salad",
+  "name": "Ensalada de Naranja Ácida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "ensaladas",
+    "dietas especiales"
+  ],
+  "recipeIngredient": [
+    "2 naranjas, peladas y cortadas en rodajas finas",
+    "1 cebolla pequeña, cortada en rodajas finas",
+    "2 cucharadas de aceite vegetal",
+    "1 cucharada de vinagre de sidra",
+    "1/8 cucharadita de polvo de chile",
+    "Hojas de lechuga"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto las hojas de lechuga en un bol.\n2. Tapar y refrigerar durante 2 horas antes de servir.\n3. Antes de servir, mezclar la ensalada con las hojas de lechuga.",
+  "url": null
+}

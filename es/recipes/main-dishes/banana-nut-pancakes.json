@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-nut-pancakes",
+  "name": "Tortitas de plátano y nuez",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "sin gluten",
+    "plato principal",
+    "crepes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de harina de arroz",
+    "2 cucharaditas de polvo de hornear",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de goma xantana",
+    "1 1/4 tazas de agua",
+    "3 cucharadas de aceite vegetal",
+    "2 cucharadas de miel",
+    "2 yemas de huevo batidas",
+    "2 plátanos grandes machacados",
+    "1/2 taza de nueces picadas",
+    "2 claras de huevo"
+  ],
+  "recipeInstructions": "1. Mezclar la harina de arroz, el polvo de hornear, la sal y la goma xantana en un bol mediano.\n2. Incorporar el agua, el aceite vegetal, la miel, las yemas de huevo, los plátanos machacados y las nueces picadas hasta obtener una mezcla homogénea.\n3. Batir las claras de huevo hasta que formen picos firmes en otro bol mediano.\n4. Mezclar suavemente las claras batidas con la masa.\n5. Calentar una plancha o sartén caliente con aceite vegetal.\n6. Verter la masa sobre la superficie caliente y cocinar cada lado hasta que adquiera un color dorado.",
+  "url": null
+}

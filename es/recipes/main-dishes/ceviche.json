@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "ceviche",
+  "name": "Ceviche",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco",
+    "especias"
+  ],
+  "recipeIngredient": [
+    "1 lb de filetes de pescado",
+    "8 oz de jugo de limón",
+    "1 cebolla grande, picada finamente",
+    "1 pimiento jalapeño pequeño, picado",
+    "2 tomates medianos, picados finamente",
+    "30 aceitunas verdes sin hueso",
+    "1/8 cucharadita de comino",
+    "20 capers",
+    "1/4 taza de cilantro fresco picado",
+    "1/4 taza de aceite de oliva",
+    "Sal y pimienta al gusto",
+    "Orégano al gusto"
+  ],
+  "recipeInstructions": "1. Marina el pescado en jugo de limón durante 4 a 5 horas hasta que se vuelva blanco.\n2. Escurre el pescado y mézclalo con todos los demás ingredientes.\n3. Sirve frío.",
+  "url": null
+}

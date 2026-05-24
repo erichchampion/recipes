@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "monterey-spaghetti-casserole",
+  "name": "Monterey Espagueti al Horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "4 oz de espagueti cocido y escurrido",
+    "1 clara de huevo batida",
+    "1 taza de crema agria sin grasa",
+    "1/4 taza de queso parmesano sin grasa",
+    "1/4 cucharadita de polvo de ajo",
+    "1 taza de queso Monterey Jack bajo en grasa, rallado",
+    "1 1/2 tazas de verduras mixtas congeladas, descongeladas"
+  ],
+  "recipeInstructions": "Precalentar el horno a 350°F.\nEngrasar un molde cuadrado de 8 pulgadas; reservar.\nEn un bol para mezclar, combinar la clara de huevo, crema agria, queso parmesano y polvo de ajo. Agregar el queso Monterey Jack, espagueti caliente y verduras mixtas. Verter en el molde preparado.\nHornear al descubierto durante 30 minutos o hasta que esté caliente.",
+  "url": null
+}

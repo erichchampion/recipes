@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "janet-s-french-salad-dressing",
+  "name": "Salsa francesa de Janet",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "ensaladas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de vinagre",
+    "3/4 taza de aceite para ensaladas",
+    "1/2 taza de azúcar (o más, al gusto)",
+    "1 lata de sopa de tomate",
+    "1 cucharadita de semillas de apio",
+    "1/2 cucharadita de sal",
+    "2 dientes de ajo machacados o picados",
+    "Perejil opcional"
+  ],
+  "recipeInstructions": "1. Mezclar el vinagre, el aceite para ensaladas, el azúcar, la sopa de tomate, las semillas de apio y la sal con un batidor hasta que quede bien combinado.\n2. Añadir el ajo machacado y el perejil opcional.\n3. Remover suavemente hasta que espese.",
+  "url": null
+}

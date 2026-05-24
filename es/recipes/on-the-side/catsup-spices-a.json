@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "catsup-spices-a",
+  "name": "Especias para ketchup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "acompañamientos",
+    "especias"
+  ],
+  "recipeIngredient": [
+    "4 libras de pimienta blanca en polvo",
+    "1/2 libra de pimentón cayena en polvo",
+    "1/4 libra de nuez moscada en polvo",
+    "1/4 libra de clavos en polvo",
+    "1/4 libra de canela en polvo",
+    "1/2 libra de cilantro en polvo",
+    "1/2 libra de tomillo en polvo",
+    "1/4 libra de hojas de laurel en polvo"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta que queden bien combinados.",
+  "url": null
+}

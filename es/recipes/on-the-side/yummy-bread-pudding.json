@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "yummy-bread-pudding",
+  "name": "Delicioso Pudín de Pan",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "postres",
+    "budines",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 tazas de pan francés, cortado en cubos",
+    "2 huevos",
+    "1/2 taza de azúcar",
+    "1/4 cucharadita de sal",
+    "1 lata de leche evaporada",
+    "1/2 taza de agua hirviendo",
+    "1 cucharadita de canela",
+    "1 cucharadita de nuez moscada",
+    "1/2 cucharadita de pasas",
+    "2 cucharaditas de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 °F (175 °C).\n2. Engrasar un recipiente para hornear de 1,5 litros y colocar los cubos de pan en su interior.\n3. Batir los huevos en un bol mediano. Añadir el azúcar, la sal, la leche evaporada y 2 cucharadas de agua hirviendo. Incorporar el resto del agua hirviendo y mezclar bien, luego agregar la canela, la nuez moscada, las pasas y el extracto de vainilla. Verter la mezcla de huevos sobre los cubos de pan.\n4. Hornear durante unos 45 minutos o hasta que el pudín esté cuajado. Servir caliente, a temperatura ambiente o frío.",
+  "url": null
+}

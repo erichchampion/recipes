@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-pizza",
+  "name": "Pizza de chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chocolate",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 taza de chips de chocolate semiamargo",
+    "1/2 taza de manteca",
+    "1/2 taza de harina",
+    "1/2 taza de azúcar granulada",
+    "2 huevos",
+    "1 cucharadita de polvo de hornear",
+    "3/4 taza de chips de chocolate semiamargo",
+    "2 cucharadas de manteca",
+    "2 cucharadas de agua"
+  ],
+  "recipeInstructions": "%%%%% Tarta de Chocolate %%%%%\n1. Derrite 1 taza de chips de chocolate y 1/2 taza de manteca sobre agua caliente; enfría.\n2. Mezcla con tenedor la harina, el azúcar, los huevos y el polvo de hornear hasta que se combinen bien.\n3. Extiende la masa uniformemente en una bandeja para pizza engrasada de 30 cm.\n4. Hornea a 175 °C durante 15 minutos.\n5. Combina 3/4 taza de chips de chocolate, 2 cucharadas de manteca y 2 cucharadas de agua; mezcla.\n6. Extiende el glaseado uniformemente sobre la tarta de chocolate enfriada.\n7. Decora al gusto con dulces.",
+  "url": null
+}

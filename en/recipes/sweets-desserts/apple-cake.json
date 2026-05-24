@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-cake",
+  "name": "Apple Cake",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "4 cups Apples; peeled and grated",
+    "1 1/2 cups Sugar (up to 2 cups)",
+    "2 cups Flour",
+    "1 1/2 teaspoons Baking soda",
+    "1 teaspoon Salt",
+    "2 teaspoons Cinnamon",
+    "1/4 teaspoon Ground cloves",
+    "1/2 teaspoon Nutmeg",
+    "1/2 teaspoon Ginger",
+    "2 teaspoons Vanilla",
+    "2 eggs, beaten well",
+    "3/4 cup Vegetable oil",
+    "1/2 cup Walnuts, coarsely chopped"
+  ],
+  "recipeInstructions": "1. Mix grated apples with sugar and allow to sit for 30 minutes.\n2. Mix all dry ingredients together. Set aside.\n3. After the apple and sugar mixture has sat for 30 minutes, add eggs, oil, and vanilla. Mix well.\n4. Add dry ingredients and then walnuts.\n5. Pour mixture into a greased (I use non-stick spray) 13\" x 9\" pan.\n6. Bake for 50 minutes at 350 degrees.",
+  "url": null
+}

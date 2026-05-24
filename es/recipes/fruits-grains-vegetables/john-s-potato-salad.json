@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "john-s-potato-salad",
+  "name": "Ensalada de patatas de John",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 libras de patatas rojas con piel",
+    "1 cucharadita de sal de apio",
+    "1/2 taza de cebolletas verdes, cortadas en trozos",
+    "1 cucharadita de pimienta negra molida",
+    "2 tazas de crema agria",
+    "1/4 taza de queso azul desmenuzado",
+    "Una pizca de hojas de apio seco"
+  ],
+  "recipeInstructions": "1. Cocinar las patatas hasta que estén tiernas.\n2. Dejar enfriar ligeramente y luego cortarlas en trozos pequeños, dejando la piel.\n3. Mezclar todos los ingredientes en un bol grande.\n4. Refrigerar antes de servir.\nPreparada por John Harned, Verano 1992. Publicada por Cathy Harned.",
+  "url": null
+}

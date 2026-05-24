@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "lewis-coney-island-hot-dogs",
+  "name": "Perros Calientes de la Isla de Coney de Lewis",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "comida estadounidense",
+    "carne molida",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1/4 kg de carne picada magra",
+    "6 onzas de puré de tomate",
+    "1 1/2 tazas de agua",
+    "1/4 taza de encurtido de pepinillos",
+    "1 cucharada de cebolla instantánea picada",
+    "1 cucharada de mostaza",
+    "3 cucharaditas de polvo de chile",
+    "1 cucharadita de azúcar",
+    "12 perritos calientes, calentados",
+    "12 panecillos para hot dogs, tostados"
+  ],
+  "recipeInstructions": "1. En una sartén mediana, cocine la carne picada hasta que pierda su color rojo y se desmenuce con un tenedor.\n2. Añada los ingredientes restantes (excepto los perritos calientes y los panecillos) a la sartén.\n3. Reduzca el fuego y deje cocinar todo junto durante unos 30 minutos.",
+  "url": null
+}

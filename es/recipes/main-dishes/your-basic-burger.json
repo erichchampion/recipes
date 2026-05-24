@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "your-basic-burger",
+  "name": "Tu Hamburguesa Básica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgueros",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne molida",
+    "Sal al gusto",
+    "1 1/2 cucharaditas de polvo de cebolla",
+    "1/4 cucharadita de pimienta"
+  ],
+  "recipeInstructions": "1. Con un tenedor, mezcla suavemente la carne molida, la sal, el polvo de cebolla y la pimienta hasta que estén bien combinados.\n2. Forma 6 hamburguesas, manejando la carne lo menos posible.\n3. Cuidado de no apretar demasiado la carne juntas.\n4. Asa a la parrilla, cocina a la parrilla o fríe las hamburguesas. El tiempo de cocción dependerá de si prefieres que estén poco hechas, al punto o bien cocidas.",
+  "url": null
+}

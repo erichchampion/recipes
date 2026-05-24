@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "veg-broth-mix-2",
+  "name": "Mezcla de caldo vegetal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de polvo de cebolla",
+    "1 cucharada de sal de apio",
+    "1 cucharada de copos de perejil seco",
+    "1 1/2 cucharaditas de polvo de ajo",
+    "1 1/2 cucharaditas de sal",
+    "1/2 cucharadita de savia molida",
+    "1/2 cucharadita de orégano seco",
+    "1/2 cucharadita de tomillo seco",
+    "1/4 cucharadita de pimienta negra",
+    "1/4 cucharadita de cúrcuma",
+    "1/4 cucharadita de salvia molida"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes y combinar bien.\n2. Revolver nuevamente antes de usar.\n3. Se pueden agregar copos de verduras secas para un sabor adicional.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-bread-pizzas",
+  "name": "Pizzas de pan con queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "Pan con queso",
+    "Salsa chili Kitchen Kettle",
+    "Queso cheddar fuerte rallado"
+  ],
+  "recipeInstructions": "1. Cortar el pan con queso en trozos de 0,5 cm de grosor y dividir cada trozo por la mitad a lo largo.\n2. Extender 1 cucharada de salsa chili Kitchen Kettle sobre cada pieza de pan y espolvorear con 1 cucharada de queso cheddar fuerte rallado.\n3. Hornear en una bandeja para galletas durante 5 a 7 minutos a 400 °F (200 °C) o hasta que el queso se derrita.",
+  "url": null
+}

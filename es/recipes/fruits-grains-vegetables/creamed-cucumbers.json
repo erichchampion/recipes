@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "creamed-cucumbers",
+  "name": "Cukis cremosos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 pepinos",
+    "2 cucharadas de mantequilla",
+    "2 cucharadas de harina",
+    "1/2 cucharadita de sal",
+    "1/8 cucharadita de pimentón dulce",
+    "1 taza de leche"
+  ],
+  "recipeInstructions": "1. Cocinar los pepinos en agua hirviendo con sal hasta que estén tiernos, aproximadamente 10 minutos.\n2. Derretir la mantequilla en una sartén.\n3. Mezclar la harina, la sal y el pimentón.\n4. Incorporar la leche y cocinar hasta que hierva y espese.\n5. Añadir los pepinos y mezclar bien.\n6. Servir.",
+  "url": null
+}

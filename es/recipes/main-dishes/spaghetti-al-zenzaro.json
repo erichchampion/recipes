@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-al-zenzaro",
+  "name": "Spaghettis al jengibre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 lb de espagueti (preferiblemente italiano importado)",
+    "6 a 10 dientes de ajo (picados groseramente)",
+    "1 trozo de jengibre fresco (sin pelar, de aproximadamente 2 pulgadas de largo y 3/4 de pulgada de ancho), cortado en 4 a 5 rodajas finas",
+    "1/4 a 1/2 cucharadita de flóres de pimiento rojo",
+    "1/2 taza de aceite de oliva",
+    "2 cucharadas de albahaca fresca (picada finamente o picada groseramente)",
+    "2 cucharadas de menta fresca (picada finamente o picada groseramente)"
+  ],
+  "recipeInstructions": "1. Cocinar los espagueti hasta que estén al dente.\n2. En una sartén separada, calentar el ajo, las rodajas de jengibre y los flóres de pimiento rojo en aceite de oliva. Cocinar hasta que el ajo se dore ligeramente en los bordes pero no se tueste.\n3. Escurrir los espagueti cocidos y retirar las rodajas de jengibre.\n4. Mezclar los espaguetis con la mezcla de ajo, jengibre y pimiento rojo, sazonar al gusto con sal.\n5. Añadir la albahaca y la menta, luego servir inmediatamente.",
+  "url": null
+}

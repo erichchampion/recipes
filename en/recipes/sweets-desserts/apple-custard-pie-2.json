@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-custard-pie-2",
+  "name": "Apple Custard Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "fruits",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "2 Egg yolks",
+    "1 cup Sugar",
+    "2 tbsp Butter",
+    "2 cups Apples (peeled and sliced)",
+    "1 tsp Vanilla",
+    "1 Pie Crust (9 inch)"
+  ],
+  "recipeInstructions": "1. In a double boiler, combine egg yolks and sugar.\n2. Add butter, apples, and vanilla; stir to mix.\n3. Place over boiling water in the double boiler, stirring constantly until thickened.\n4. Pour into pie crust.\n5. Bake at 350°F for 20 minutes.",
+  "url": null
+}

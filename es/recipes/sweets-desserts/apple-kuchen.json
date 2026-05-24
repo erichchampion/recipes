@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-kuchen",
+  "name": "Kuchen de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla derretida",
+    "1/2 taza de azúcar",
+    "1 taza de harina de uso general",
+    "1 cucharadita de polvo de hornear",
+    "1 cucharadita de extracto de vainilla",
+    "1 huevo batido",
+    "8 manzanas Granny Smith grandes, peladas, desvenadas y cortadas en rodajas gruesas",
+    "1/4 cucharadita de canela",
+    "3 cucharadas de almendras laminadas"
+  ],
+  "recipeInstructions": "Precalentar el horno a 175 °C. En un bol grande, mezclar la mantequilla, el azúcar, la harina, el polvo de hornear, la vainilla y el huevo.\nVerter la mitad de la masa en un molde cuadrado engrasado de 20 cm y extender para cubrir el fondo.\nEn otro bol grande, mezclar las rodajas de manzana con 4 cucharadas de azúcar y canela, luego colocarlas sobre la masa en el molde.\nExtender la masa restante sobre la mezcla de manzana. Hornear durante 20 minutos, luego espolvorear con almendras y hornear durante 30 minutos más.",
+  "url": null
+}

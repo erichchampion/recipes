@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "oven-omelet",
+  "name": "Omeleta al horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1/8 taza de mantequilla",
+    "8 huevos",
+    "1/2 taza de crema agria",
+    "1/2 taza de leche",
+    "3/4 cucharadita de sal",
+    "Una pizca de pimienta",
+    "1/8 taza de cebolla picada",
+    "1/8 taza de pimiento verde picado",
+    "1/8 taza de setas picadas"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una sartén de 20x20 cm.\n2. Bate los huevos y añade la crema agria, la leche, la sal y la pimienta. Mezcla bien.\n3. Vierte la mezcla en la sartén.\n4. Espolvorea la cebolla, el pimiento verde y las setas sobre la omeleta.\n5. Hornea a 180°C durante 35-45 minutos.\n6. Durante los últimos minutos de horneado, espolvorea queso rallado y tocino frito desmenuzado encima.\n7. Corta en cuadrados y sirve.",
+  "url": null
+}

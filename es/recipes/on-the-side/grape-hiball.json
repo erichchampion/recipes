@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "grape-hiball",
+  "name": "Grapa Hiball",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "granizado de uva",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "3 limones, su jugo",
+    "1,5 litros de agua",
+    "1 cucharada de granada en polvo",
+    "1 taza de azúcar"
+  ],
+  "recipeInstructions": "1. Mezclar el jugo de limón con los demás ingredientes.\n2. Verter en una jarra llena de hielo.\n3. Remover hasta que esté bien combinado.\n4. Dejar reposar durante 10 minutos antes de servir.",
+  "url": null
+}

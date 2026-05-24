@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cream-of-pea-soup",
+  "name": "Sopa de Guisantes Cremosa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "1 lata de guisantes (2 1/2 tazas)",
+    "1/2 cucharadita de azúcar",
+    "1 litro de agua",
+    "2 cucharadas de harina",
+    "1/8 cucharadita de pimienta negra",
+    "1 cucharadita de sal",
+    "1 1/2 cucharadas de mantequilla",
+    "1 litro de leche"
+  ],
+  "recipeInstructions": "1. Escurrir los guisantes y el líquido a través de un colador; añadir el azúcar y el agua, luego calentar.\n2. Preparar una salsa blanca con la harina, la sal, la pimienta, la mantequilla y la leche.\n3. Tan pronto como la salsa hierva, retirar del fuego.\n4. Mezclar la salsa con los guisantes.",
+  "url": null
+}

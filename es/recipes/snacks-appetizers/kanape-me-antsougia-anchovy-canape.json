@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "kanape-me-antsougia-anchovy-canape",
+  "name": "Canapés con Anchoas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "griego",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 lata de filetes de anchoa planos",
+    "2 remolachas cocidas cortadas en cubos",
+    "5 claras de huevo duras cortadas en cubos",
+    "Aceitunas picadas",
+    "Alcaparras"
+  ],
+  "recipeInstructions": "1. Coloca un filete de anchoa a lo largo en el centro de cada rebanada de pan.\n2. Extiende unas cuantas claras de huevo picadas en un lado del filete y añade alcaparras encima.\n3. En el otro lado, extiende remolacha picada y cubre con aceitunas picadas.",
+  "url": null
+}

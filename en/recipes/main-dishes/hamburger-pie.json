@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-pie",
+  "name": "Hamburger Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "dinner pies",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 1/4 lb ground round",
+    "8 oz canned tomato sauce",
+    "1 pkg. crescent rolls",
+    "1/4 tsp garlic powder",
+    "1 cup mozzarella cheese",
+    "1/2 tsp salt",
+    "1 cup cheddar cheese"
+  ],
+  "recipeInstructions": "1. Brown the meat and remove grease.\n2. Add the tomato sauce, salt, and garlic powder to the browned meat. Set aside.\n3. Place the crescent rolls in a 9-inch pie pan to form the crust.\n4. Spread 1 cup of the combined cheeses (mozzarella and cheddar) evenly on the bottom of the crust.\n5. Pour the meat mixture into the crust, spreading it out evenly.\n6. Top with the remaining 1 cup of combined cheeses.\n7. Bake at 375°F for 25 minutes.",
+  "url": null
+}

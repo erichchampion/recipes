@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-swiss-steak",
+  "name": "Mi bistec suizo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "3 libras de filete redondo",
+    "2 cucharadas de harina",
+    "2 cebollas grandes, en rodajas",
+    "2 dientes de ajo, picados",
+    "2 tazas de ketchup",
+    "2 cucharadas de aceite",
+    "sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Pasear el filete por la harina y sazonar con sal y pimienta si se desea.\n2. Calentar el aceite en una sartén grande a fuego medio.\n3. Dorar las cebollas, el ajo y la carne hasta que el filete esté dorado por todos lados.\n4. Verter el ketchup sobre la carne y mezclar bien.\n5. Tapar la sartén y cocinar durante al menos 1 hora, o hasta que el filete esté tierno.\n6. Comprobar ocasionalmente para asegurarse de que la carne no se queme. Si parece que puede quemarse, añadir agua o caldo si está disponible.",
+  "url": null
+}

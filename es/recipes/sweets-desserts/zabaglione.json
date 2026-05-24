@@ -1,0 +1,17 @@
+{
+  "@type": "Recipe",
+  "identifier": "zabaglione",
+  "name": "Zabaglione",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres"
+  ],
+  "recipeIngredient": [
+    "4 yemas de huevo",
+    "2 cucharadas de azúcar glas",
+    "2 cucharadas de jerez"
+  ],
+  "recipeInstructions": "1. Batir las yemas de huevo con el azúcar glas hasta obtener una mezcla espesa.\n2. Colocar la mezcla en un bol pesado sobre agua caliente.\n3. Batir constantemente, añadiendo poco a poco el jerez, hasta que la mezcla empiece a tomar forma.\n4. Servir inmediatamente en tazas calentadas para disfrutar caliente o frío. Tradicionalmente se utiliza vino Marsala en lugar de jerez.",
+  "url": null
+}

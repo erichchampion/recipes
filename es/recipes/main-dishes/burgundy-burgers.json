@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "burgundy-burgers",
+  "name": "Burgos de Borgoña",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgueros",
+    "plato principal",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de carne molida",
+    "1/4 taza de vino tinto de Borgoña o otro vino rojo",
+    "1/4 taza de cebolla; picada finamente, 1 pequeña",
+    "1 cucharada de salsa Worcestershire",
+    "1 cucharadita de sal sazonada",
+    "1/4 cucharadita de pimienta",
+    "1/8 cucharadita de sal de ajo"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcle la carne molida, el vino tinto, la cebolla picada finamente, la salsa Worcestershire, la sal sazonada, la pimienta y la sal de ajo hasta que esté bien combinada.\n2. Forme la mezcla en 6 hamburguesas, cada una de aproximadamente 1 cm de grosor.\n3. Asar o grilar las hamburguesas, manteniéndolas a 4 pulgadas de la fuente de calor. Darles la vuelta una vez para lograr el punto deseado de cocción, que tardará unos 10 a 15 minutos.\n4. Servir en panecillos tostados con los toppings favoritos.",
+  "url": null
+}

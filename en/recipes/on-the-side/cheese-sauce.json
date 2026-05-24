@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-sauce",
+  "name": "Cheese Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "cheese/eggs",
+    "mcdougall",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/4 cup Potato; cooked, peeled",
+    "2 cups Water",
+    "4 oz Pimientos; jar",
+    "1/2 tsp Onion powder",
+    "1/4 cup Nutritional yeast",
+    "3 tbsp Cornstarch",
+    "2 tbsp Lemon juice",
+    "Salt; to taste, if desired"
+  ],
+  "recipeInstructions": "Blend the potato with 1/2 to 1/3 cups of water in a blender. Add the remaining ingredients and blend until smooth. Pour into a saucepan. Cook, stirring until smooth and thick, 7 to 8 minutes. Serve at once. The sauce will set when cool and can be reheated.",
+  "url": null
+}

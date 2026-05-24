@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "steak-sandwich-2",
+  "name": "Sándwich de bistec",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "caliente arena",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "4 bistecs de lomo alto, de 150 g cada uno",
+    "60 g de harina",
+    "2 cucharadas de pimentón rojo",
+    "4 bollos largos de 15 cm",
+    "1 kg de cebollas, en rodajas finas",
+    "2 tazas de leche"
+  ],
+  "recipeInstructions": "1. Mezclar la harina con el pimentón rojo en un plato poco profundo.\n2. Remover bien para asegurar una cobertura uniforme.\n3. Remojar las cebollas en la leche durante 15 minutos.\n4. Escurrir las cebollas remojadas y desechar la leche.\n5. Espolvorear las rodajas de cebolla con la mezcla de harina y pimentón.\n6. Calentar aceite en una freidora profunda o una sartén pesada a 175 °C (350 °F).\n7. Freír las rodajas de cebolla hasta que estén doradas y crujientes, aproximadamente 3-4 minutos por cada lado.\n8. Sazonar los bistecs al gusto.\n9. Colocar los bistecs cocinados en los bollos calientes.\n10. Cubrir con cebollas fritas y servir inmediatamente.",
+  "url": null
+}

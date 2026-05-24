@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "ahi-carpaccio",
+  "name": "Carpaccio de atún rojo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "aperitivos",
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de atún fresco, cortado en láminas finas",
+    "Sal",
+    "Vinagre",
+    "Aceite de oliva",
+    "Pimienta negra recién molida",
+    "Un manojo de rúcula",
+    "Queso parmesano rallado",
+    "1/2 trufa blanca o negra, rallada"
+  ],
+  "recipeInstructions": "Disponer las láminas de atún en una bandeja superpuestas. Espolvorear con sal y rociar con aceite de oliva y vinagre al gusto. Añadir pimienta negra recién molida. Rodear el atún con la rúcula. Espolvorear queso parmesano rallado sobre todo. Terminar con la trufa rallada.",
+  "url": null
+}

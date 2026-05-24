@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-ham",
+  "name": "Baked Ham",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "ham",
+    "main dish",
+    "meat",
+    "pork"
+  ],
+  "recipeIngredient": [
+    "10 lb Ham",
+    "1 cup Brown sugar",
+    "1/4 cup Flour",
+    "1 tsp Mustard, dry",
+    "1/4 cup Maple syrup",
+    "3 tbsp Water",
+    "1 each Cloves, whole"
+  ],
+  "recipeInstructions": "Note: This recipe assumes using an uncooked ham. Omit boiling the ham altogether if using a pre-cooked ham.\nWash the ham and cover with boiling water. Let it cook on top of the stove for 4 hours. Let the ham stand in liquid overnight.\nNext day, remove the fatty rind and make gashes across the surface of the ham. Stick whole cloves into the ham.\nMake a paste by mixing the sugar, flour, mustard, syrup, and water (use water in which the ham was cooked if available).\nSpread the paste evenly over the ham and place it in a roasting pan. Bake uncovered at 400°F for 45 minutes.",
+  "url": null
+}

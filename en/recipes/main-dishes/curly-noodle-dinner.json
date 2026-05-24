@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "curly-noodle-dinner",
+  "name": "Curly Noodle Dinner^",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meats",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 lb ground beef",
+    "1 package beef flavored ramen noodles",
+    "14.5 oz stewed tomatoes, drained",
+    "8.5 oz canned corn, drained"
+  ],
+  "recipeInstructions": "1. Brown the meat and drain any excess fat.\n2. Stir in the cooked noodles, seasoning (from the ramen noodles package), stewed tomatoes, and corn.\n3. Bring the mixture to a boil, then reduce the heat and let it simmer until the noodles are tender.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mystery-pizza",
+  "name": "Mystery Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "3/8 cup Ricotta (part skim) cheese",
+    "1/4 cup Tomato paste",
+    "1/4 teaspoon Oregano",
+    "2 tablespoons Mushrooms",
+    "3/4 ounce Mozzarella",
+    "3 tablespoons Flour"
+  ],
+  "recipeInstructions": "1. In a small bowl, blend ricotta and flour.\n2. Place the mixture in the center of a small sprayed baking pan.\n3. Spread the mixture into an 7-inch circle, mounding the edges.\n4. Bake at 350°F for about 20 minutes.\n5. In a separate small bowl, combine tomato paste, oregano, and Worcestershire sauce.\n6. Spoon the sauce over the crust.\n7. Top with mushrooms and mozzarella cheese.\n8. Bake for an additional 10 minutes at 350°F.\nEach serving includes bread, one vegetable, and two protein sources.",
+  "url": null
+}

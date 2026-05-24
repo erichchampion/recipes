@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "applebees-lemonade",
+  "name": "Limonada de Applebee",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "limonada",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 litro de agua",
+    "1 taza de azúcar",
+    "1 taza de jugo de limón fresco",
+    "2-3 tazas de agua con gas (no agua tónica)"
+  ],
+  "recipeInstructions": "1. Mezclar el agua, el azúcar y el jugo de limón hasta que el azúcar se disuelva por completo.\n2. Llenar un vaso alto con la mezcla de limón hasta las dos tercios o tres cuartos.\n3. Completar el vaso con agua con gas.\nUna variante interesante es licuar algunas frutas (frambuesas, fresas, etc.) con un poco de azúcar glas o en polvo y añadirlas al vaso antes de verter la limonada y el agua.",
+  "url": null
+}

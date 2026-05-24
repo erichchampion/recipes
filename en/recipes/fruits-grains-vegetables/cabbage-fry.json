@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cabbage-fry",
+  "name": "Cabbage Fry",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "cabbage",
+    "main dish",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "1 pound ground beef",
+    "chopped cabbage",
+    "chopped onion",
+    "chopped green pepper",
+    "salt",
+    "pepper"
+  ],
+  "recipeInstructions": "1. Cook the ground beef until it is browned and cooked through, turning off the heat.\n2. Add the chopped cabbage, onion, and green pepper to the pan.\n3. Continue cooking the mixture until all vegetables are tender.",
+  "url": null
+}

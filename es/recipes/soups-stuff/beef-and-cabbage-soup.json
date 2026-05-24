@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-and-cabbage-soup",
+  "name": "Sopa de carne y col",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida magra",
+    "1/2 cucharadita de sal de ajo",
+    "1/4 cucharadita de polvo de ajo",
+    "1/4 cucharadita de pimienta negra",
+    "2 tallos de apio, picados",
+    "16 onzas de frijoles rojos, escurridos",
+    "1/2 repollo picado",
+    "28 onzas de tomates en cubos",
+    "1 lata de agua (del tarro vacío de tomates)",
+    "4 cubitos de caldo de ternera",
+    "Perejil picado"
+  ],
+  "recipeInstructions": "1. En una olla holandesa, dore la carne molida a fuego medio.\n2. Añade sal de ajo, polvo de ajo y pimienta negra.\n3. Incorpora apio picado, frijoles rojos y tomates en cubos.\n4. Vierte el agua del tarro de tomates y agrega los cubitos de caldo de ternera.\n5. Lleva la mezcla a ebullición, luego reduce el fuego y deja cocer destapada durante aproximadamente una hora.\n6. Después de cocer, incorpora perejil picado y cocina por un minuto más.\n7. Adorna con perejil fresco antes de servir.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "herb-bread",
+  "name": "Pan de hierbas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de agua",
+    "3/4 cucharadita de sal",
+    "1 cucharada de puré de manzana",
+    "2 tazas de harina de pan",
+    "1 1/2 cucharadas de polvo de leche instantánea",
+    "1 1/2 cucharadas de azúcar",
+    "1 1/4 cucharaditas de mezcla de hierbas italianas",
+    "1 1/2 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar el agua, la sal, el puré de manzana, la harina de pan y el resto de los ingredientes secos.\n2. Amasar la masa según las indicaciones del fabricante.\n3. Colocar la masa en un molde para hornear engrasado y dejarla levar según el ciclo de horneado elegido (regular, diferido o rápido).\n4. Hornear a la temperatura indicada en el ciclo hasta que el pan esté cocido.",
+  "url": null
+}

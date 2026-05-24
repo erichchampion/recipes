@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cocoa-milk-shake",
+  "name": "Batido de leche con cacao",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "chocolate",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de cacao en polvo",
+    "1/2 cucharadita de azúcar o miel",
+    "Una pizca de sal",
+    "1/4 cucharadita de extracto de vainilla",
+    "1 huevo, batido con vigor",
+    "1 taza de leche"
+  ],
+  "recipeInstructions": "1. Mezcla el cacao y el azúcar con un poco de leche para crear una pasta suave.\n2. Añade gradualmente los ingredientes restantes (leche y huevo) a la pasta, batiendo bien.\n3. Sirve inmediatamente o refrigera hasta el momento de servir. Espolvorea con crema batida si lo deseas.",
+  "url": null
+}

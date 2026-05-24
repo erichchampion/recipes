@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chipotle-sauce-hot",
+  "name": "Salsa Chipotle - ¡Hot!",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "caliente y picante",
+    "mexicana",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/3 taza de jarabe de maíz oscuro",
+    "4 cucharaditas de polvo de chile (4 a 6)",
+    "1/3 taza de café fuerte",
+    "1 cucharada de aceite de maíz",
+    "1/4 taza de ketchup",
+    "2 cucharaditas de mostaza",
+    "1/4 taza de vinagre de sidra",
+    "1/2 cucharadita de sal",
+    "1/4 taza de salsa Worcestershire",
+    "4 chiles chipotle enlatados (4 a 6)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una cacerola.\n2. Calentar la mezcla a fuego medio, removiendo ocasionalmente.\n3. Llevar a ebullición.\n4. Reducir el calor y dejar hervir a fuego lento durante 10 minutos, o hasta que espese.\n5. Retirar del fuego y transferir a una licuadora.\n6. Licuar hasta obtener una consistencia suave.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "duck-with-apple-dressing",
+  "name": "Pato con aderezo de manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "juego",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 (3-4 kg) pato",
+    "4 rebanadas de pan seco, tostado",
+    "4 cucharadas de mantequilla derretida",
+    "250 ml agua",
+    "3 manzanas grandes, peladas, sin corazón y cortadas en cubos finos",
+    "2 cucharadas de azúcar",
+    "1/4 cucharadita de nuez moscada",
+    "1/2 taza de pasas",
+    "1/2 taza de nueces picadas",
+    "1 rebanada de tocino, cortada por la mitad"
+  ],
+  "recipeInstructions": "1. Enjuagar el pato y secarlo por dentro y por fuera.\n2. Mezclar en un bol todos los ingredientes excepto el tocino. Agitar bien para combinar. Rellenar todas las cavidades del pato con la salsa y colocarlo en una fuente para hornear.\n3. Colocar las tiras de tocino sobre el pato y hornear a 180°C hasta que esté tierno.\n4. Servir con arroz salvaje y verduras al gusto.",
+  "url": null
+}

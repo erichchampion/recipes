@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "seafood-soup",
+  "name": "Sopa de mariscos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "mariscos",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 cebolla grande, finamente rebanada",
+    "1 taza de cebollino picado y parte del tallo",
+    "3 dientes de ajo, finamente picados",
+    "1/2 taza de perejil picado",
+    "1 pimiento rojo, sin semillas y cortado en dados",
+    "3 tazas de salsa de tomate",
+    "1 taza de vino blanco seco",
+    "1 taza de agua",
+    "1/4 cucharadita de tomillo molido",
+    "1/4 cucharadita de romero molido",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra recién molida",
+    "1 hoja de laurel",
+    "1 libra de cangrejo o pescado blanco firme en cubos",
+    "1 libra de camarones",
+    "6 almejas o mejillones con cáscara"
+  ],
+  "recipeInstructions": "1. Combinar las cebollas y el ajo, cocinar a fuego lento cubierto hasta que estén suaves, removiendo con frecuencia.\n2. Agregar el perejil, el pimiento rojo, la salsa de tomate, el vino, el agua, el tomillo, el romero, la sal, la pimienta y la hoja de laurel.\n3. Reducir a fuego lento cubierto por 1 hora.\n4. Añadir el cangrejo o pescado blanco, los camarones, las almejas o mejillones.\n5. Cocinar cubierto por 8-10 minutos hasta que las conchas de las almejas o mejillones se abran.\n6. Descartar cualquier concha que no se haya abierto.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-caviar",
+  "name": "Caviar de imitación",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "mariscos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "2 latas pequeñas de aceitunas maduras picadas o",
+    "1 1/2 tazas de aceitunas maduras finamente picadas",
+    "1 cucharadita de anchoas picadas",
+    "1 cucharadita de aceite de ensalada",
+    "2 cucharaditas de jugo de limón",
+    "Hojas pequeñas de lechuga",
+    "1/3 taza de crema agria",
+    "1 cucharadita de cebolla verde finamente picada",
+    "2 huevos duros finamente picados"
+  ],
+  "recipeInstructions": "1. Mezclar en un bol las aceitunas picadas, anchoas, aceite de ensalada, jugo de limón, crema agria, cebolla verde y huevos duros.\n2. Tapar la mezcla y refrigerar hasta el momento de servir.\n3. Al servir, forrar un plato de servicio frío con hojas de lechuga.\n4. Apilar la mezcla de aceitunas sobre la lechuga.\n5. Cubrir con crema agria y espolvorear con cebolla verde adicional.",
+  "url": null
+}

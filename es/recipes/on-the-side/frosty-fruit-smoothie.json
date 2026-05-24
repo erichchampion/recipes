@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "frosty-fruit-smoothie",
+  "name": "Batido de frutas heladas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "desayuno",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de yogur griego bajo en grasa (vanilla)",
+    "1 taza de melocotones en rodajas, frescos, congelados o enlatados",
+    "1 plátano maduro, cortado en trozos",
+    "1/4 taza de germen de trigo",
+    "1/4 taza de zumo de naranja",
+    "1 taza de cubos de hielo",
+    "Rodajas de melocotón o plátano (opcional)",
+    "2 cucharaditas de germen de trigo (opcional)"
+  ],
+  "recipeInstructions": "1. En una licuadora o procesador de alimentos, mezclar el yogur, los melocotones, el plátano, el germen de trigo, 1/4 taza de zumo de naranja y los cubos de hielo.\n2. Tapar y licuar durante aproximadamente 1 minuto, hasta obtener una textura suave.\n3. Servir inmediatamente en vasos altos, adornado con rodajas de melocotón o plátano y espolvorear con 2 cucharaditas de germen de trigo.",
+  "url": null
+}

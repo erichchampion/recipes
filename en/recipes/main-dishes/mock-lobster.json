@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-lobster",
+  "name": "Mock Lobster",
+  "recipeCuisine": "Africa & Middle East",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "ethnic",
+    "jewish",
+    "main dish",
+    "non-regional",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "2 lb Haddock; fillet",
+    "Tomato juice; or V8/to cover",
+    "1/2 cup Chili sauce",
+    "1/2 cup Horseradish; prepared",
+    "1/4 cup Sour cream"
+  ],
+  "recipeInstructions": "1. Poach the fish in tomato juice to cover with spices of your choice or in V8. Simmer until the fish flakes.\n2. Mix the remaining ingredients together to make the sauce and adjust for your taste. Add the sauce to the fish, ensuring it is not too thick. It should resemble lobster salad; you can add diced celery and/or onion if desired.\nNOTE: In the 1950s, this dish was popular at luncheons at the Temple when people wanted to have 'lobster' while remaining kosher. If you prefer a favorite lobster or shrimp salad, you could substitute the fish. Back in those days, it was more affordable... who knows?",
+  "url": null
+}

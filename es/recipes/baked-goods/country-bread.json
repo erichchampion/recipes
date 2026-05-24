@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "country-bread",
+  "name": "Pan de campo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pan",
+    "máquina de pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "2 cucharaditas de levadura",
+    "2 tazas de harina de trigo",
+    "1 taza de harina integral",
+    "3 cucharadas de germen de trigo",
+    "1,5 cucharaditas de sal",
+    "1,5 cucharadas de aceite vegetal",
+    "3/4 taza de masa madre de pan",
+    "1 taza de agua."
+  ],
+  "recipeInstructions": "1. Siga las instrucciones de su máquina de amasar.\n2. Si la masa está demasiado levadura, reduzca la cantidad a 1,5 cucharaditas; esta receta aún produjo un pan que se desbordó en el molde.",
+  "url": null
+}

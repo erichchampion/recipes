@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-chili-recipe",
+  "name": "Easy Chili Recipe",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "beef",
+    "chili",
+    "soups",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "4 cloves garlic, minced",
+    "1 tsp cumin",
+    "1 yellow onion, chopped",
+    "1 package pinto beans",
+    "3 cups beef broth",
+    "1/4 tsp cayenne pepper"
+  ],
+  "recipeInstructions": "1. Wash and soak the pinto beans overnight (drain).\n2. Sauté cubed sirloin tips in a bit of oil until browned.\n3. Add chili powder to the pan with the meat, onions, and garlic.\n4. Pour in beef broth and bring to a simmer.\n5. Stir in cumin, salt, pepper, and additional cayenne if desired.\n6. Add the soaked beans and cook gently for about 2.5 hours,\nstirring occasionally until the beans are tender.\n7. Adjust seasoning as needed, then serve hot.\nOptional ingredients: fresh tomatoes or tomato sauce, black beans, masa and water to thicken (optional).",
+  "url": null
+}

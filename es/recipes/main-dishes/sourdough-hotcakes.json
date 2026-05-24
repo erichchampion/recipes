@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "sourdough-hotcakes",
+  "name": "Tortitas de masa madre caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "tortitas"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de agua",
+    "1/4 taza de harina",
+    "2 tazas de masa madre de pan",
+    "1/4 taza de harina",
+    "2 huevos",
+    "1/4 cucharadita de sal",
+    "2 cucharadas de azúcar",
+    "2 cucharadas de aceite",
+    "1/4 cucharadita de bicarbonato de sodio (añadir más si la masa está muy ácida)"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar el agua y la harina para preparar la masa madre.\n2. En otro bol, combinar la masa madre, la harina restante, los huevos, la sal, el azúcar y el aceite.\n3. Añadir gradualmente los ingredientes secos a los húmedos de paso 1, removiendo hasta que estén integrados.\n4. Justo antes de usar la plancha, incorporar el bicarbonato de sodio.\n5. Verter la masa en una plancha caliente.\n6. Rinde para 4 tortitas grandes (aproximadamente 6 pulgadas de diámetro) por ración.",
+  "url": null
+}

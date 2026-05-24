@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fiesta-casserole",
+  "name": "Fiesta Casserole",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "casseroles",
+    "main dish",
+    "mexican"
+  ],
+  "recipeIngredient": [
+    "2 lb Ground beef",
+    "8 oz Shredded cheddar cheese, grated",
+    "2 medium Onions, chopped",
+    "1 package Taco seasoning mix",
+    "1 lb Tortilla chips",
+    "16 oz Tomato sauce"
+  ],
+  "recipeInstructions": "1. In a skillet, cook ground beef and onions over medium heat until the meat is brown and the onions are tender.\n2. Drain off excess fat from the beef mixture.\n3. Stir in taco seasoning mix and tomato sauce. Simmer for 5 minutes.\n4. Evenly spread 3 cups of tortilla chips into a 2-quart baking dish.\n5. Layer with half of the grated cheddar cheese, followed by the meat mixture, then the remaining cheese.\n6. Top with an additional 2 cups of tortilla chips.\n7. Bake at 350°F for 15 minutes.\n8. Garnish with sour cream and black olives if desired.",
+  "url": null
+}

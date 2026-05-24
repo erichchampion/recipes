@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "candy-bars",
+  "name": "Candy Bars",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "candy",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "3 tablespoons margarine, imitation",
+    "1/2 cup semisweet chocolate chips",
+    "1/4 cup peanut butter",
+    "1/4 cup caramel topping",
+    "4 cups miniature marshmallows",
+    "6 cups Rice Krispies"
+  ],
+  "recipeInstructions": "1. Melt margarine in a large saucepan over low heat. Add chocolate chips and melt. Add peanut butter and caramel, stirring to blend. Add marshmallows and stir constantly until all is smooth.\n2. Remove from heat and add Rice Krispies. Stir until the Krispies are covered.\n3. Spray a 9x13 pan with cooking spray. Spread the Krispie mixture in the pan and flatten. Cool completely. When cool, cut into 12 pieces.",
+  "url": null
+}

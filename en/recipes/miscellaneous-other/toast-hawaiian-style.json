@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "toast-hawaiian-style",
+  "name": "Toast Hawaiian Style",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "asian",
+    "ethnic",
+    "hawaiian"
+  ],
+  "recipeIngredient": [
+    "4 slices White Bread",
+    "4 slices Boiled Ham",
+    "4 slices Pineapples (Rings)",
+    "4 slices Gouda Cheese",
+    "4 Maraschino Cherries"
+  ],
+  "recipeInstructions": "1. Place a slice of ham, a slice of pineapple, and a slice of cheese on each slice of bread.\n2. Bake in an oven set to 200°C until the cheese is melted.\n3. Garnish with cherries and serve immediately.",
+  "url": null
+}

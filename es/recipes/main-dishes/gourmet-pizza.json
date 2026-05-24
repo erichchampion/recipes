@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "gourmet-pizza",
+  "name": "Pizza gourmet",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 base de pizza de trigo con miel de 20 cm",
+    "4 cucharadas de salsa de pizza de buena calidad",
+    "Aceite de oliva para untar",
+    "10 rodajas de tomate plumado asado",
+    "10 rebanadas finas de mozzarella",
+    "12 puntas de espárrago",
+    "1 cucharada de albahaca picada",
+    "1 cucharada de orégano picado",
+    "1/4 de cucharadita de ajo fresco picado"
+  ],
+  "recipeInstructions": "1. Untar la base de pizza con aceite de oliva.\n2. Extender la salsa de pizza sobre la base.\n3. Alternar rodajas de tomate y mozzarella alrededor de la pizza.\n4. Colocar las puntas de espárrago, la albahaca, el orégano y el ajo encima de la pizza.\n5. Hornear en un horno precalentado a 400 °F durante 10-12 minutos hasta que esté dorada y crujiente.\n6. Cortar en cuartos y servir sobre un plato caliente.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-nut-wheat-bread-abm",
+  "name": "Banana Nut Wheat Bread (Abm)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "brdmachine",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 package Yeast",
+    "1/2 cup Pecans",
+    "3 cups Whole Wheat Flour",
+    "1 1/2 cups Mashed Banana",
+    "1 tsp Salt",
+    "1 cup Warm Water",
+    "3 tbsp Maple Syrup",
+    "1 tsp Maple Extract"
+  ],
+  "recipeInstructions": "1. Ensure all ingredients are at room temperature before beginning.\n2. Add the ingredients to the pan in the following order: Yeast, Pecans, Whole Wheat Flour, Mashed Banana, Salt, Warm Water, Maple Syrup, and Maple Extract.\n3. Select \"Whole Wheat\" setting on your bread machine.\n4. Press \"Start\" to begin baking.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "favorite-bierocks",
+  "name": "Bierocks favoritos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "carne de res",
+    "pan",
+    "varios"
+  ],
+  "recipeIngredient": [
+    "2 tazas de leche tibia",
+    "1/4 taza de aceite",
+    "2 huevos (batidos)",
+    "2 sobre de levadura",
+    "1/2 taza de azúcar",
+    "1 cucharadita de sal",
+    "2 tazas de harina"
+  ],
+  "recipeInstructions": "1. Mezclar la leche y el aceite.\n2. Agregar los ingredientes restantes a la mezcla y amasar hasta obtener una masa suave.\n3. Dejar levar la masa durante 1 hora.\n4. Mientras la masa leva, preparar el relleno friendo 500 g de carne molida hasta que esté dorada (no escurrir).\n5. Añadir col picada y cebolla a la carne, junto con sal y pimienta al gusto.\n6. Estirar pedazos de masa lo más finos posible, del tamaño de una pelota de tenis.\n7. Colocar medio trozo de queso americano sobre cada porción de masa.\n8. Añadir el relleno, luego otro medio trozo de queso.\n9. Doblar la masa y sellar los bordes.\n10. Hornear a 325-350°F durante 30 minutos o hasta que esté dorado.",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "super-nacho",
+  "name": "Super Nachos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "carne molida",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 lata de frijoles refritos",
+    "1 libra de carne molida cocida",
+    "1 sobre de condimento para tacos",
+    "1 taza de cebolla picada (puede cocinarse junto con la carne molida)",
+    "1 lata de salsa para tacos, 4 oz.",
+    "1 lata de pimientos jalapenos picados, 4 oz.",
+    "8 oz. queso Monterey Jack rallado",
+    "8 oz. queso cheddar rallado",
+    "1 pequeña lata de aceitunas verdes picadas",
+    "1 taza de dip de aguacate",
+    "1 caja de crema agria",
+    "1/4 taza de cebolla verde picada",
+    "1/4 taza de pimientos verdes picados"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 200 °C.\n2. Engrasar ligeramente un plato para hornear poco profundo, aproximadamente 11 x 15 pulgadas.\n3. Extender los frijoles y agregar los demás ingredientes en el orden indicado (carne molida, condimento para tacos, cebolla, salsa para tacos, pimientos jalapenos, queso Monterey Jack, queso cheddar y aceitunas), mezclando bien el queso, terminando con las aceitunas verdes.\n4. Hornear hasta que burbujee.\n5. Crear un anillo de dip de aguacate en la parte superior de los nachos.\n6. Colocar en el centro la crema agria y espolvorear con cebolla verde y pimientos verdes.\n7. Servir con totopos grandes o tortillas.",
+  "url": null
+}

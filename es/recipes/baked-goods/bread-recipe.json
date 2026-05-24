@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "bread-recipe",
+  "name": "Receta de pan",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "6 tazas de harina",
+    "1 sobre de levadura seca",
+    "1/2 taza de leche",
+    "3 cucharadas de azúcar",
+    "2 cucharaditas de sal",
+    "3 cucharadas de mantequilla o margarina"
+  ],
+  "recipeInstructions": "1. Calentar la leche, la mantequilla y un poco de agua hasta que alcancen unos 40 °C.\n2. Incorporar esta mezcla a 2 tazas de harina y los ingredientes secos restantes. Amasar durante aproximadamente 2 minutos a velocidad media hasta obtener una masa.\n3. Añadir gradualmente unas 3 tazas más de harina con una cuchara grande, hasta obtener una masa suave, añadiendo más harina si es necesario.\n4. Amasar sobre una superficie ligeramente enharinada durante unos 10 minutos, hasta que la masa sea lisa y elástica.\n5. Formar una bola con la masa y colocarla en un bol ligeramente engrasado. Dejar reposar durante 1 hora o hasta que doble su tamaño.\n6. Una vez duplicado su volumen, desinflar la masa y darla forma de hogazas. Colocarlas en moldes ligeramente engrasados para que vuelvan a doblar su tamaño.\n7. Precalentar el horno a 200 °C. Hornear durante unos 25-30 minutos.\nEsta receta da un pan sabroso pero algo denso. Considere:\n1. Ajustar la cantidad de amasado.\n2. Usar menos harina.\n3. Hornear a una temperatura ligeramente más alta.",
+  "url": null
+}

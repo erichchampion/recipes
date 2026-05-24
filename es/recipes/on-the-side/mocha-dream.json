@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mocha-dream",
+  "name": "Sueño de Mocha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "postre",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de granulas de café instantáneo",
+    "1 cucharada de agua caliente",
+    "1/4 taza de sirope de chocolate",
+    "1 1/2 tazas de leche",
+    "1 litro de helado de vainilla, suavizado",
+    "nata montada congelada - descongelada",
+    "chocolate rallado - opcional"
+  ],
+  "recipeInstructions": "1. Disolver las granulas de café en agua caliente.\n2. Mezclar la mezcla de café, sirope de chocolate, leche y helado en un recipiente de licuadora.\n3. Licuar hasta que quede suave, detenerse para raspar los lados según sea necesario.\n4. Verter en copas de servicio y cubrir con nata montada.\n5. Opcionalmente, añadir chocolate rallado encima.\nRinde 5 tazas.",
+  "url": null
+}

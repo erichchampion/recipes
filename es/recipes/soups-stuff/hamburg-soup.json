@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburg-soup",
+  "name": "Sopa de Hamburguesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1 1/2 tazas de cebolla picada",
+    "1 1/2 tazas de patata picada",
+    "1 taza de zanahoria picada",
+    "1/2 taza de apio picado",
+    "1 hoja de laurel",
+    "1 taza de tomate",
+    "4 cucharadas de sal",
+    "6 cubos de caldo",
+    "1 taza de repollo cortado en trozos grandes",
+    "1 1/2 litros de agua",
+    "1/4 taza de arroz",
+    "1 hoja de albahaca",
+    "1/8 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Dorar la carne y las cebollas en una sartén, desmenuzando la carne con un tenedor.\n2. Añadir todas las verduras excepto el repollo cortado en trozos pequeños.\n3. Incorporar las especias y la carne al agua en una olla grande.\n4. Llevar a ebullición y reducir el fuego, cocinando durante 15 minutos.\n5. Agregar el arroz y cocinar durante 45 minutos.\n6. Añadir el repollo y cocinar otros 45 minutos, removiendo con frecuencia.\n7. Servir con queso rallado. Saboriza mejor al día siguiente.",
+  "url": null
+}

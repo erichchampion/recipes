@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-apple-pie-2",
+  "name": "Pastel de manzana falso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de agua",
+    "2 cucharaditas de crema de tártaro",
+    "25 galletas, preferiblemente Ritz"
+  ],
+  "recipeInstructions": "1. Llevar la mezcla a ebullición.\n2. Añadir las galletas una a una hasta que se integren todas.\n3. Colocar la mezcla en una masa de tarta sin hornear.\n4. Espolvorear con canela.\n5. Poner pequeños trozos de mantequilla encima.\n6. Hornear a 180 °C durante unos 30 minutos.\n¡Sabe igual que una tarta de manzana real!",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pineapple-pie-2",
+  "name": "Pineapple Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "fruits",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "Pastry for 2 crust pie",
+    "1 cup Sugar",
+    "1/4 teaspoon Salt",
+    "3 tablespoons Cornstarch",
+    "#2 can crushed pineapple and juice (2 1/2 cups)"
+  ],
+  "recipeInstructions": "1. In a saucepan, mix together sugar, salt, and cornstarch.\n2. Stir in the pineapple.\n3. Cook over medium heat, stirring constantly, until the mixture thickens and boils.\n4. Continue cooking for an additional minute.\n5. Pour the mixture into a pastry-lined pie pan.\n6. Quickly cover with a top crust that has slits cut in it.\n7. Bake at 425°F for 25-30 minutes.",
+  "url": null
+}

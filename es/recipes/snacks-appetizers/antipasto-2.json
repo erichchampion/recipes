@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "antipasto-2",
+  "name": "Antipasto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempié"
+  ],
+  "recipeIngredient": [
+    "2 pimientos verdes",
+    "1 cebolla mediana",
+    "2 tallos de apio",
+    "3 zanahorias",
+    "1 diente de ajo",
+    "1/2 libra de champiñones en rodajas",
+    "1 florete de coliflor cortado en pequeños trozos",
+    "2 cucharadas de aceite",
+    "1 lata de atún, escurrido",
+    "1 limón, jugo",
+    "1 cucharadita de azúcar granulada",
+    "1 botella de 450 gramos de ketchup"
+  ],
+  "recipeInstructions": "1. Cortar finamente los pimientos, la cebolla, el apio, las zanahorias, el ajo, los champiñones y la coliflor.\n2. Calentar el aceite en una sartén a fuego medio.\n3. Añadir los vegetales cortados a la sartén y cocinar durante 5 minutos, removiendo ocasionalmente hasta que estén tiernos.\n4. Mezclar bien con los vegetales cocidos.\n5. Verter en frascos esterilizados y dejar enfriar antes de refrigerar.\n6. Al servir, colocar el antipasto en un plato atractivo y rodearlo con galletas saladas.",
+  "url": null
+}

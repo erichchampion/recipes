@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "grilled-cheese-chipotle-sandwich",
+  "name": "Sándwich de Queso Fundido con Chipotle",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "4 rebanadas de pan blanco o integral",
+    "2 cucharaditas de puré de chiles chipotles",
+    "5 onzas de queso (ralado o en lonchas finas)",
+    "1 tomate maduro, en rodajas",
+    "Cebolla roja fina",
+    "Cilantro picado groseramente",
+    "Mantequilla suave"
+  ],
+  "recipeInstructions": "1. Untar cada rebanada de pan con una fina capa de puré de chiles, o más si te gusta picante.\n2. Cubrir la rebanada inferior con una capa de queso, rodajas de tomate y cilantro al gusto.\n3. Tapar con la segunda rebanada de pan y untar mantequilla en ambos lados.\n4. Colocar la tostada, con la mantequilla hacia abajo, en una sartén de hierro fundido.\n5. Cocinar lentamente hasta que el fondo esté dorado.\n6. Dar la vuelta a la tostada y cocinar el otro lado, cubriendo la sartén para ayudar a derretir el queso mientras el pan se dora.\n7. Servir inmediatamente con algo frío para beber.",
+  "url": null
+}

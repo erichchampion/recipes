@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "ice-cream-topping",
+  "name": "Cobertura para helado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3 Huevos",
+    "1 taza de Azúcar",
+    "2 tazas de Galletas Graham",
+    "2 cucharaditas de Extracto de Vainilla",
+    "2 cucharaditas de Extracto de Almendras",
+    "1 taza de Nueces picadas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 °F (175 °C).\n2. Separar las yemas de las claras de los huevos.\n3. Batir las yemas con el azúcar hasta obtener una mezcla suave.\n4. Añadir lentamente la mantequilla derretida, el extracto de vainilla, el extracto de almendras y las nueces picadas a la mezcla de yemas.\n5. Incorporar los trozos de Galletas Graham.\n6. Verter la masa en un molde para tartas engrasado.\n7. Hornear durante 30-35 minutos o hasta que esté cuajado.\n8. Servir con crema batida sobre el helado favorito.",
+  "url": null
+}

@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "tortilla-soup",
+  "name": "Sopa de Tortilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 cebolla mediana picada",
+    "2 dientes de ajo finamente picados",
+    "1 taza de apio picado",
+    "3 cucharadas de aceite",
+    "6 tazas de caldo de pollo",
+    "2 tazas de salsa picante",
+    "32 onzas (latas) de tomates",
+    "2 limas",
+    "2 tazas de pollo cocido desmenuzado",
+    "2 cucharaditas de salsa Worcestershire",
+    "6 onzas de puré de tomate",
+    "1 aguacate",
+    "6 tortillas de maíz",
+    "1/2 taza de queso rallado",
+    "Cilantro picado (opcional)",
+    "Crema agria para decorar"
+  ],
+  "recipeInstructions": "1. En una olla grande, saltea la cebolla, el apio y el ajo en aceite hasta que las verduras estén tiernas.\n2. Añade el resto de los ingredientes excepto las tortillas, el queso y el cilantro al pot. Deja cocinar a fuego lento durante 30 minutos.\n3. Corta las tortillas de maíz en tiras y hiérvelas durante 2 minutos adicionales.\n4. Vierte la sopa en cuencos y espolvorea con queso. Puedes añadir aguacate, cilantro y un chorro de crema agria para darle más sabor.",
+  "url": null
+}

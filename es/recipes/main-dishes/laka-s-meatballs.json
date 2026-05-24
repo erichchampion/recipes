@@ -1,0 +1,35 @@
+{
+  "@type": "Recipe",
+  "identifier": "laka-s-meatballs",
+  "name": "Albóndigas de Laka",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "estadounidense",
+    "brasileño",
+    "étnico",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "ALAS DE CARNE",
+    "1 lb de carne molida",
+    "1/2 taza de maní tostado y molido",
+    "1/2 sobre de sopa de cebolla instantánea",
+    "1 cucharadita de jengibre rallado",
+    "1/2 cebolla, picada",
+    "un pellizco de nuez moscada",
+    "un pellizco de canela",
+    "pimienta negra molida",
+    "1 diente de ajo, picado",
+    "sal al gusto",
+    "aceite para freír",
+    "Salsa:",
+    "1 taza de caldo de carne",
+    "1 cucharada de maicena",
+    "jugo de 1 naranja",
+    "1 cucharadita de jengibre fresco rallado",
+    "sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "ALAS DE CARNE:\n1. Mezclar todos los ingredientes.\n2. Comprobar la sal.\n3. Cocinar en aceite caliente.\nSalsa:\n1. Batir el jugo de naranja con la maicena hasta que quede suave.\n2. Incorporar la mezcla al caldo de carne hirviendo junto con el jengibre, sazonar con sal y pimienta.\n3. Cocinar a fuego medio hasta espesar ligeramente.\n4. Servir la salsa sobre las albóndigas.",
+  "url": null
+}

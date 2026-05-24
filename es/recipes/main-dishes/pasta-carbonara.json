@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-carbonara",
+  "name": "Pasta Carbonara",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "arroz",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "1/4 lb a 1/2 lb de tocino o panceta",
+    "1 taza de leche",
+    "2 cucharadas de vinagre",
+    "2 huevos o 4 oz de sustituto de huevo",
+    "1/4 taza de queso Parmesano rallado"
+  ],
+  "recipeInstructions": "1. Cortar el tocino o la panceta en trozos de 1/2 pulgada.\n2. Cocinar en una sartén pesada hasta que el tocino alcance el nivel de cocción deseado (si se usa panceta, saltear en mantequilla o aceite hasta que esté transparente).\n3. Mientras tanto, combinar la leche y el vinagre; dejar reposar durante 5 minutos para acidificar la leche.\n4. Añadir la mezcla de leche a la sartén con el tocino escurrido, llevar a ebullición apenas; tapar y reducir el fuego para simular durante 20 minutos.\n5. Agregar los huevos batidos (muy bien batidos) y cocinar, revolviendo constantemente, durante 2 minutos.\n6. Incorporar el queso Parmesano y mezclar con la pasta cocida. Servir con queso Parmesano adicional en el lado.",
+  "url": null
+}

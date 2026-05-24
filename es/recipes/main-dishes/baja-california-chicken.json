@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "baja-california-chicken",
+  "name": "Pollo de Baja California",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave",
+    "rápido"
+  ],
+  "recipeIngredient": [
+    "8 pechugas de pollo",
+    "Sal y pimienta al gusto",
+    "4 cucharadas de vinagre de tarragona",
+    "4 cucharadas de aceite de oliva",
+    "2 dientes de ajo, picados",
+    "2/3 taza de jerez seco"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180 °C.\n2. Calentar el aceite de oliva en una sartén a fuego medio.\n3. Agregar el vinagre de tarragona, el ajo picado, sal y pimienta al gusto.\n4. Cocinar las pechugas de pollo durante 10-12 minutos por cada lado hasta que estén doradas.\n5. Retirar el pollo de la sartén y colocarlo en un plato para hornear.\n6. Verter el jerez sobre el pollo.\n7. Hornear durante 10 minutos adicionales.\n8. Servir y disfrutar.",
+  "url": null
+}

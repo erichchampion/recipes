@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "tofu-dip",
+  "name": "Dip de tofu",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempié",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "8 onzas de tofu",
+    "1/2 aguacate grande maduro",
+    "2 dientes de ajo picados",
+    "2 cucharaditas de jengibre fresco picado",
+    "1/2 taza de hojas de perejil (sin tallos)",
+    "2 cucharadas de zumo de limón",
+    "1 cucharada de tahini o mantequilla de maní o mantequilla de girasol",
+    "1 cucharada de puré de manzana",
+    "Una pizca de azúcar o un poco de miel"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un procesador de alimentos.\n2. Triturar hasta obtener una textura muy suave y cremosa.\n3. Ajustar la sazón si es necesario.\n4. Servir con verduras frescas, galletas o usar como relleno para sándwiches.\n5. Da para aproximadamente 2 tazas.",
+  "url": null
+}

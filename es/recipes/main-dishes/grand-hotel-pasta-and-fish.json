@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "grand-hotel-pasta-and-fish",
+  "name": "Pasta y pescado del Gran Hotel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "pasta",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de aceite de oliva",
+    "1 diente de ajo, laminado",
+    "150 g de filetes de bacalao",
+    "cortados en tiras de 1/2 cm",
+    "2 cucharadas de perejil plano picado",
+    "2 cucharadas de albahaca fresca picada",
+    "1/4 taza de vino blanco",
+    "4 tomates plomeros, cortados por la mitad",
+    "sin semillas, cortados en rodajas de 1/2 cm",
+    "sal al gusto",
+    "pimienta negra molida al gusto",
+    "250 g de espagueti de espinacas"
+  ],
+  "recipeInstructions": "1. En una sartén grande, calentar el aceite a fuego medio.\n2. Añadir el ajo y cocinar durante 2 minutos o hasta que esté ligeramente dorado.\n3. Incorporar el bacalao, el perejil y la albahaca. Cocinar durante 2 minutos, removiendo suavemente.\n4. Agregar el vino y los tomates. Reducir el fuego y cocinar durante 4 minutos para cocinar el pescado y los tomates.\n5. Sazonar con sal y pimienta al gusto. Mantener caliente a fuego bajo.\n6. Cocinar la espagueti según las instrucciones del paquete. Escurrir; mezclar con la salsa.",
+  "url": null
+}

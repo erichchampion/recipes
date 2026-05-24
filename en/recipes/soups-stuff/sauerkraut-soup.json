@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "sauerkraut-soup",
+  "name": "Sauerkraut Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 lb Sauerkraut",
+    "6 cups Beef stock",
+    "2 large Onions, chopped",
+    "3 slices Bacon",
+    "1 teaspoon Paprika",
+    "1 tablespoon Tomato paste",
+    "1/2 teaspoon Caraway seeds",
+    "Salt",
+    "2 Potatoes, peeled and grated",
+    "1/4 lb Lean Diced Ham",
+    "2 Slices Beef Frankfurters"
+  ],
+  "recipeInstructions": "1. Simmer sauerkraut with 3 cups of stock for 30 minutes.\n2. Saute onions with bacon until golden. Add paprika, remaining stock, tomato paste, caraway seeds, and salt to taste.\n3. Add sauerkraut, stock, and drained potatoes, and simmer for 30 minutes. Add more stock if necessary to make 6 cups.\n4. Add the meats and cook long enough to heat through (about 10 minutes).",
+  "url": null
+}

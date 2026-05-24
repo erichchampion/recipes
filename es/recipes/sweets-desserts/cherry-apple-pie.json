@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cherry-apple-pie",
+  "name": "Pastel de manzana y cereza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 1/2 tazas de cerezas sin hueso",
+    "1 taza de azúcar",
+    "2 cucharadas de harina",
+    "1/2 cucharadita de nuez moscada",
+    "4 manzanas grandes",
+    "6 cucharadas de mantequilla",
+    "2 1/2 cucharaditas de canela",
+    "Masa para una base de tarta de 23 cm"
+  ],
+  "recipeInstructions": "1. Pelar, retirar el corazón y cortar las manzanas en rodajas.\n2. Derretir 2 cucharadas de mantequilla y untar la base de la masa para tartas.\n3. Mezclar los ingredientes secos (azúcar, harina, nuez moscada, canela).\n4. Colocar una capa de rodajas de manzana, luego la mezcla seca, y terminar con cerezas.\n5. Continuar con capas alternas hasta agotar todos los ingredientes, terminando con manzana.\n6. Hacer puntos con mantequilla sobre la superficie y cubrir con la masa superior.\n7. Hornear a 200 °C durante 10 minutos, luego reducir la temperatura a 180 °C y hornear durante 30-40 minutos adicionales.",
+  "url": null
+}

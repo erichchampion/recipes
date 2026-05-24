@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "polo-loco-marinade",
+  "name": "Marinada para Polo Loco",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "marinadas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 limón, exprimido",
+    "1/2 taza de cilantro picado",
+    "1 cucharada de especias mexicanas (aderezo)",
+    "1/4 taza de jugo de naranja fresco"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar el jugo de limón (con cáscara rallada), cilantro y jugo de naranja.\n2. Añadir las especias mexicanas al gusto; remover bien.\n3. Verter la marinada sobre trozos de pollo crudo y dejar marinar en el refrigerador durante un máximo de 4 horas.\n4. Asar el pollo marinado a la parrilla hasta que esté cocido por completo.\n5. (Opcional) Agregar un chorro de tequila para un toque de sabor extra.",
+  "url": null
+}

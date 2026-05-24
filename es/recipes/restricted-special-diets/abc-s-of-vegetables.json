@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "abc-s-of-vegetables",
+  "name": "Los ABC de las Verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "dietas especiales",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 taza de piezas de espárragos",
+    "1 taza de floretes de brócoli",
+    "1 taza de zanahorias cortadas en rodajas finas",
+    "1 taza de espinacas",
+    "Espray de cocina sin grasa",
+    "11 onzas de sopa de champiñones (condensada)",
+    "2 cucharadas de cebolla finamente picada",
+    "1 cucharadita de tomillo",
+    "1/2 taza de agua",
+    "Sal al gusto",
+    "Pimienta molida fresca"
+  ],
+  "recipeInstructions": "1. Capa los espárragos, brócoli, zanahorias y espinacas en un plato para hornear.\n2. Rocía la capa de verduras con espray de cocina sin grasa.\n3. En un bol aparte, mezcla hasta obtener una consistencia suave los ingredientes restantes: sopa de champiñones, cebolla, tomillo, agua, sal y pimienta.\n4. Vierte la mezcla sobre las verduras en el plato para hornear.\n5. Cubre el plato con papel de aluminio o un tapa.\n6. Hornea a 175 °C durante 30 a 40 minutos, o hasta que las verduras estén tiernas.",
+  "url": null
+}

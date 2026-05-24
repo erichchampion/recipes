@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "cake-mix-cookies-3",
+  "name": "Cake Mix Cookies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "chocolate",
+    "cookies",
+    "desserts",
+    "peanut butter"
+  ],
+  "recipeIngredient": [
+    "1 package cake mix (flavor of your choice)",
+    "2 eggs",
+    "1/2 cup vegetable oil",
+    "any 1 or 2 of the following:",
+    "6 oz mini chocolate chips",
+    "6 oz butterscotch chips",
+    "6 oz peanut butter chips",
+    "1/2 cup coconut",
+    "1/2 cup raisins",
+    "1 cup toffee chips",
+    "1 cup chopped nuts"
+  ],
+  "recipeInstructions": "1. Preheat oven to 350°F.\n2. Combine all ingredients and mix well.\n3. Drop by rounded teaspoons onto an ungreased cookie sheet.\n4. Bake for 9 - 12 minutes.\n5. Makes about 4 dozen cookies.",
+  "url": null
+}

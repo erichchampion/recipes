@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "country-chili",
+  "name": "Chili del país",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "frijoles",
+    "chili",
+    "diabético",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 cebolla grande, picada",
+    "1 diente de ajo, picado",
+    "1 cucharada de margarina reducida",
+    "1 cucharadita de sal",
+    "1 cucharadita de albahaca seca entera",
+    "1 cucharadita de polvo de chile",
+    "1/2 cucharadita de orégano seco entero",
+    "1/2 cucharadita de tomillo seco entero",
+    "1/4 cucharadita de pimienta negra",
+    "400 g de tomates triturados (sin escurrir)",
+    "200 g de frijoles rojos enlatados (sin escurrir)"
+  ],
+  "recipeInstructions": "1. Calentar la margarina en una sartén grande a fuego medio.\n2. Añadir la cebolla y el ajo; saltear hasta que estén tiernos.\n3. Incorporar la sal, la albahaca, el polvo de chile, el orégano, el tomillo y la pimienta.\n4. Agregar los tomates y los frijoles rojos; remover para combinar.\n5. Dejar cocinar a fuego lento sin cubrir durante 10-15 minutos.\n6. Servir caliente.",
+  "url": null
+}

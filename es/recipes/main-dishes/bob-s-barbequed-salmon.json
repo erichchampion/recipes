@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "bob-s-barbequed-salmon",
+  "name": "Salmón a la barbacoa de Bob",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecua",
+    "plato principal",
+    "carne",
+    "salmón",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "4 lomos de salmón (de 4-6 onzas cada uno)",
+    "-----",
+    "Ingredientes para la salsa:",
+    "3 cucharadas de mantequilla derretida",
+    "1 cucharada de zumo de limón",
+    "1 cucharada de vinagre de vino blanco",
+    "1/4 cucharadita de ralladura de limón",
+    "1/4 cucharadita de sal de ajo",
+    "1/4 cucharadita de sal",
+    "Una pizca de salsa picante (opcional)"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar todos los ingredientes de la salsa y remover bien.\n2. Untar ambos lados de cada lomo de salmón generosamente con la mezcla.\n3. Colocar los lomos de salmón en una parrilla engrasada sobre brasas calientes.\n4. Tapar el salmón con papel aluminio o la tapa de la barbacoa.\n5. Asar durante 6-8 minutos por cada lado, dependiendo del grosor de los lomos.\n6. Barnizar frecuentemente y dar la vuelta una vez, rociando los lomos con salsa.\n7. Los lomos estarán listos cuando se desmenucen fácilmente con un tenedor.\nRinde para 4 personas.",
+  "url": null
+}

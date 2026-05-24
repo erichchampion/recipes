@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "stew-2",
+  "name": "Guiso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne de res para guiso sin hueso",
+    "1 sobre de sopa seca de cebolla",
+    "1 lata de sopa de setas",
+    "1 lata de setas frescas",
+    "1/2 taza de vino tinto"
+  ],
+  "recipeInstructions": "1. Coloca la carne de res en una olla de cocción lenta o en una olla muy pesada a fuego bajo.\n2. Agrega el contenido del sobre de sopa de cebolla, la sopa de setas y las setas frescas a la olla.\n3. Vierte el vino tinto.\n4. Cocina a fuego lento durante un período prolongado hasta que la carne esté tierna.\n5. Sirve sobre arroz.",
+  "url": null
+}

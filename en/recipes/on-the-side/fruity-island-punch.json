@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruity-island-punch",
+  "name": "Fruity Island Punch",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "punch",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 quarts cranberry-apple juice",
+    "1 quart orange juice",
+    "1 quart pineapple juice",
+    "3 quarts carbonated lemon-lime beverage",
+    "1 quart vodka or rum (optional)"
+  ],
+  "recipeInstructions": "1. Mix chilled juices together in a large punch bowl or crock with spigot.\n2. Add liquor and ice to the mixture.\n3. Just before serving, add the carbonated drinks.",
+  "url": null
+}

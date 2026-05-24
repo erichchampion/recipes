@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "potatos-plakey",
+  "name": "Patatas Plackey",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "etnica",
+    "griega",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 1/2 kg de patatas cortadas en rodajas de 0,5 cm",
+    "10 dientes de ajo",
+    "5 cucharadas de perejil italiano picado (cilantro)",
+    "Una pizca de sal",
+    "Una pizca de pimienta negra",
+    "1/2 taza de aceite de oliva",
+    "1 taza de tomates con jugo",
+    "1 cucharada de pasta de tomate o ketchup",
+    "1 taza de agua (según sea necesario)"
+  ],
+  "recipeInstructions": "1. Cocinar en olla de presión.\n2. Cocinar a fuego alto durante 10 minutos a presión.\n3. Retirar del fuego y dejar que la presión se libere naturalmente.\n4. Una vez liberada toda la presión, cocinar sin tapa durante 5 minutos más, o hasta que el líquido tenga una textura de salsa ligera (no acuosa).",
+  "url": null
+}

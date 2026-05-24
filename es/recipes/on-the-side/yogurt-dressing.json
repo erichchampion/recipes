@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "yogurt-dressing",
+  "name": "Aderezo de yogur",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "ensaladas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de yogur natural sin azúcar",
+    "2 cucharadas de miel",
+    "1 cucharada de mostaza",
+    "1 cucharadita de vinagre de manzana",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. En un bol pequeño, mezclar todos los ingredientes hasta que queden bien integrados.",
+  "url": null
+}

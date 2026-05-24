@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "jack-lemmon-s-barbecue-sauce",
+  "name": "Salsa Barbacoa de Jack Lemmon",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "carnes",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3/4 litro de catup",
+    "1 cucharadita de mostaza inglesa",
+    "1 cucharadita de pimienta negra molida",
+    "1 cucharada de salsa Worcestershire",
+    "1 diente de ajo",
+    "1/2 cebolla mediana",
+    "4 cucharadas de zumo de limón",
+    "1 hoja de laurel",
+    "4 cucharadas de aderezo para ensalada picante",
+    "3/4 taza de jarabe de arce",
+    "1 taza de mantequilla",
+    "Chili en polvo (al gusto)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Llevar la mezcla a ebullición.\n3. Reducir el fuego y cocinar a fuego lento durante una hora, removiendo ocasionalmente.\n4. Retirar la cebolla y la hoja de laurel antes de servir.",
+  "url": null
+}

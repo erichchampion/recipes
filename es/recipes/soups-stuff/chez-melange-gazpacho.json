@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "chez-melange-gazpacho",
+  "name": "Gazpacho de Chez Melange",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 pepino, pelado y cortado en cubos",
+    "2 tomates, cortados en cubos",
+    "1/2 cebolla, cortada en cubos",
+    "1/2 pimiento rojo, sin semillas y cortado en cubos",
+    "1/2 pimiento amarillo, sin semillas y cortado en cubos",
+    "1/2 pimiento verde, sin semillas y cortado en cubos",
+    "2 cucharadas de eneldo fresco picado",
+    "2 cucharadas de cilantro fresco picado",
+    "1 litro de caldo de ternera",
+    "2 cucharadas de aceite de oliva",
+    "2 cucharadas de vinagre de vino tinto",
+    "1 cucharadita de ajo finamente picado",
+    "1 cucharadita de salsa Tabasco",
+    "2 cucharaditas de sal",
+    "1/2 cucharadita de pimienta blanca",
+    "1 litro de jugo de tomate"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande.\n2. Combinar bien para asegurar una distribución uniforme de sabores y texturas.\n3. Transferir la mezcla a un recipiente y refrigerar hasta que esté frío.",
+  "url": null
+}

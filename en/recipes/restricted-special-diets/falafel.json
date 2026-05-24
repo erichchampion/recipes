@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "falafel",
+  "name": "Falafel",
+  "recipeCuisine": "Africa & Middle East",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "africa",
+    "ethnic",
+    "middle eastern"
+  ],
+  "recipeIngredient": [
+    "2 cups cooked chick-peas",
+    "1/2 cup bread crumbs",
+    "1/2 cup chicken broth",
+    "1 tablespoon flour",
+    "1 egg",
+    "1 tablespoon tahini",
+    "1/2 teaspoon cumin",
+    "1/4 teaspoon dried marjoram",
+    "1 teaspoon paprika",
+    "1 teaspoon lemon juice",
+    "2 cloves garlic",
+    "2 tablespoons chopped parsley",
+    "vegetable oil",
+    "shredded lettuce",
+    "pita bread",
+    "2 medium tomatoes",
+    "4 scallions"
+  ],
+  "recipeInstructions": "1. Heat vegetable oil to 350 degrees in a heavy deep skillet or deep fryer.\n2. Process chick peas until smooth. Add chicken broth and bread crumbs, pulsing to mix.\n3. Pour mixture into a bowl. Stir in flour, egg, tahini, cumin, marjoram, paprika, lemon juice, garlic, and parsley.\n4. Form the mixture into 2-inch balls. Coat with extra flour.\n5. Deep fry balls, a few at a time, until golden brown. Drain on paper towels.\n6. Assemble in pita pockets with shredded lettuce, topped with tomatoes and scallions.",
+  "url": null
+}

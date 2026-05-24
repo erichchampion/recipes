@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-drop-biscuits",
+  "name": "Biscuitos básicos con caída",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "desayuno"
+  ],
+  "recipeIngredient": [
+    "2 1/2 tazas de harina de repostería",
+    "2 cucharadas de harina de repostería",
+    "1 cucharada de azúcar",
+    "2 cucharaditas de polvo de hornear",
+    "4 cucharadas de manteca corta",
+    "1 huevo, ligeramente batido",
+    "1 taza de leche"
+  ],
+  "recipeInstructions": "Precalentar el horno a 200 °C. En un procesador de alimentos o en un bol grande, mezclar la harina con la sal, el azúcar y el polvo de hornear. Cortar la manteca en los ingredientes secos hasta obtener una textura similar a la del maíz molido. Separadamente, mezclar el huevo con la leche, y añadir todo menos 2 cucharadas de este líquido a la mezcla seca. Mezclar solo lo suficiente para formar una masa uniformemente húmeda. Colocar cucharaditas de masa sobre una bandeja para hornear engrasada y espolvoreada con maíz molido, dejando un espacio de aproximadamente 1 pulgada entre cada uno. Brisar las partes superiores con el líquido reservado. Hornear en el horno precalentado hasta que se inflen y doren, unos 12 minutos. Dejar enfriar unos minutos antes de servir. Rinde aproximadamente 15 bizcochos.",
+  "url": null
+}

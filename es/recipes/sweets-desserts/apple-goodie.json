@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-goodie",
+  "name": "Manzanas delicias",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "manzanas",
+    "repostería",
+    "galletas",
+    "postres",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "2 cucharadas de harina",
+    "Un pellizco de sal",
+    "1 1/2 litros de manzanas en rodajas",
+    "1 cucharadita de canela"
+  ],
+  "recipeInstructions": "1. Mezclar la avena, el azúcar moreno, la harina, el bicarbonato de sodio y el polvo de hornear en un bol hasta que queden bien combinados.\n2. Enmantequillar (o forrar con papel pergamino) un molde cuadrado de 20 cm.\n3. En otro bol, mezclar las manzanas en rodajas con el azúcar, la harina, la sal y la canela. Verter la mezcla en el molde preparado.\n4. Para el topping, combinar los ingredientes restantes (la margarina no se especifica) hasta obtener migas.\n5. Extender el topping uniformemente sobre las manzanas en el molde.\n6. Hornear durante 35-45 minutos a 180°C, o hasta que el topping sea dorado y la mezcla burbujee.",
+  "url": null
+}

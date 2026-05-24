@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "rock-roll-clams",
+  "name": "Rock & Roll Clams",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "ethnic",
+    "main dish",
+    "meat",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "450 grams clams",
+    "1 teaspoon minced garlic",
+    "6 chiles, shredded",
+    "1 tablespoon chili paste with soybean oil",
+    "1 1/2 tablespoons fish sauce",
+    "1/2 teaspoon sugar",
+    "30 mint leaves",
+    "4 tablespoons vegetable broth"
+  ],
+  "recipeInstructions": "1. Wash clams in cool water; do not open them.\n2. Heat oil and stir-fry garlic and chili paste until fragrant.\n3. Add clams, then fish sauce and sugar; mix well.\n4. Add mint and stock, cover, and cook until clams open.\nIf chili paste with soybean oil is unavailable, use Thai BBQ Sauce recipe.",
+  "url": null
+}

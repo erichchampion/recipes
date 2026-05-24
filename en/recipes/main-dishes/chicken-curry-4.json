@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-curry-4",
+  "name": "Chicken Curry",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "2 chickens",
+    "1/2 pint yogurt",
+    "2 tablespoons coriander",
+    "2 tablespoons turmeric",
+    "2 teaspoons cumin",
+    "8 chiles",
+    "1 teaspoon fenugreek seed",
+    "1 clove garlic, minced",
+    "1 onion, chopped",
+    "1 piece ginger, minced"
+  ],
+  "recipeInstructions": "1. Combine the marinade ingredients: yogurt, coriander, turmeric, cumin, chiles, fenugreek seed, garlic, and ginger.\n2. Marinate the chickens in the mixture overnight.\n3. Braise the marinated chickens in liquid until tender.\n4. Alternatively, drain the excess liquid and roast the chickens in the oven.",
+  "url": null
+}

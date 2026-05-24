@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti",
+  "name": "Spaghetti",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 lb spagetti, uncooked, whole wheat",
+    "6 large tomatoes, diced",
+    "10 medium onions, chopped",
+    "1 cup fresh parsley, chopped (no stems)",
+    "1 red jalapeno pepper, chopped",
+    "3-4 cloves garlic",
+    "1 small can black olives, chopped (optional)",
+    "1/2 - 1 tablespoon black pepper (to taste)",
+    "1 teaspoon sage (or more to taste)",
+    "1 tablespoon basil (or more to taste)",
+    "1 tablespoon oregano (or more to taste)"
+  ],
+  "recipeInstructions": "1. In a large saucepan, crush and sauté the garlic in 1/2 cup of water until it turns clear.\n2. Add the chopped onions and remaining ingredients to the saucepan.\n3. Cook over medium heat, stirring frequently initially, until the mixture begins to cook down.\n4. Reduce heat to low. If the sauce is soupy, leave the lid off; if it's too thick, add a little water (a small amount goes a long way).\n5. Let simmer for 45 minutes or longer to thicken up, as needed.\n6. Cook the spaghetti in boiling water for about 15 minutes once it has reached the desired tenderness.",
+  "url": null
+}

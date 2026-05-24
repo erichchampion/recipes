@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "salt-spice",
+  "name": "Especias Saladas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "mezclas",
+    "guarniciones",
+    "especias"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de sal kosher o marina",
+    "1 cucharada de accento",
+    "1 cucharadita de eneldo seco",
+    "1 cucharadita de pimienta negra",
+    "1 cucharadita de polvo de cebolla",
+    "1/4 cucharadita de sal de ajo",
+    "1/4 cucharadita de polvo de curry",
+    "La ralladura de un limón",
+    "1/4 cucharadita de pimentón dulce",
+    "1/4 cucharadita de pimentón picante",
+    "1/4 cucharadita de orégano seco",
+    "1/4 cucharadita de tomillo seco",
+    "1/4 cucharadita de salvia molida"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes y almacenar en un molinillo de pimienta o procesar en un robot de cocina a alta velocidad hasta obtener un polvo fino.\n2. Rinde aproximadamente 1/2 taza.\n3. Se conserva indefinidamente a temperatura ambiente.",
+  "url": null
+}

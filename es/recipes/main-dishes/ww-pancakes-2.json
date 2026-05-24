@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "ww-pancakes-2",
+  "name": "Pancas WW",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "tortitas"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina WW",
+    "1 taza de harina de centeno (o otra taza de harina WW)",
+    "1 cucharada de replacante de huevo Ener-G",
+    "2 cucharaditas de polvo de hornear",
+    "1 cucharada de azúcar turbinado (opcional)"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes secos.\n2. Añadir 1 taza de plátano machacado (o puré de manzana) y suficiente leche de arroz para obtener una consistencia similar a la de una masa.\n3. Freír con cuidado en una sartén antiadherente o rociada con Pam. Opcionalmente, agregar canela, nuez moscada o media taza de cereal 7 granos cocido a medio cocer para un sabor extra.",
+  "url": null
+}

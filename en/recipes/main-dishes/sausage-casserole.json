@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "sausage-casserole",
+  "name": "Sausage Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish",
+    "sausages"
+  ],
+  "recipeIngredient": [
+    "1 lb. sausage",
+    "1 1/4 cups grated Cheddar cheese",
+    "6 eggs",
+    "1/4 tsp dry mustard",
+    "1 cup breadcrumbs",
+    "2 cups milk",
+    "salt and pepper to taste"
+  ],
+  "recipeInstructions": "1. Saute the sausage until it crumbles. Drain and set aside.\n2. In a bowl, combine eggs, milk, mustard, salt, and pepper; beat for 2 minutes.\n3. In a separate bowl, mix together the sausage, breadcrumbs, and cheese.\n4. Place half of the sausage mixture in a casserole dish.\n5. Pour half of the egg mixture over the sausage.\n6. Add the remaining sausage.\n7. Add the remaining eggs.\n8. Refrigerate overnight.\n9. Bake at 350 degrees for 45 minutes. Serves 6.",
+  "url": null
+}

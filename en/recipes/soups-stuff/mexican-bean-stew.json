@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-bean-stew",
+  "name": "Mexican Bean Stew",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "main dish",
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "1 can Pinto beans, drained, rinsed",
+    "2 tablespoons Mexican Spice Mix (5 tsp Cumin, 5 tsp Chili powder, 2.5 tsp Black pepper, 3 tbsp Minced onions, 3 tbsp Minced garlic, 1.25 tsp Salt)",
+    "2 carrots, cut into 2-inch chunks",
+    "1/2 cup zucchini, cut into 2-inch chunks",
+    "2 cans low sodium tomato sauce"
+  ],
+  "recipeInstructions": "1. Combine pinto beans, seasoning mix, vegetables (carrots and zucchini), and tomato sauce in a large pot.\n2. Add enough water to achieve the desired consistency.\n3. Bring to a simmer and cover. Cook for 30-60 minutes.\n4. Mexican Spice Mix: In a covered bottle, combine equal parts of cumin, chili powder, black pepper, onions, garlic, and salt. Use 3 tablespoons of this mix per cup of dried beans.",
+  "url": null
+}

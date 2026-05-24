@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-irish-stew",
+  "name": "Estofado irlandés en olla de cocción lenta",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento"
+  ],
+  "recipeIngredient": [
+    "2 lb (900 g) de cordero, sin hueso, cortado en cubos - dorado y escurrido",
+    "2 cucharaditas de sal",
+    "1/4 cucharadita de pimienta negra",
+    "2 tazas (500 ml) de agua",
+    "1 hoja de laurel pequeña",
+    "2 zanahorias medianas, peladas y cortadas en rodajas de 1/2 cm",
+    "2 cebollas pequeñas, laminadas finamente",
+    "4 patatas medianas, peladas y cortadas en cuartos",
+    "2 cucharadas de perlas de tapioca (opcional)",
+    "350 g de guisantes congelados o una mezcla de verduras congeladas"
+  ],
+  "recipeInstructions": "1. Condimentar los cubos de cordero con sal y pimienta.\n2. Agregar el resto de ingredientes (omitiendo la tapioca si no se desea espesar la salsa) al recipiente de la olla de cocción lenta. Mezclar bien.\n3. Tapar y cocinar a fuego lento durante 10-12 horas.\n4. Añadir los guisantes durante las últimas 1-2 horas de cocción.",
+  "url": null
+}

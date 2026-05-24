@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-lentil-stew",
+  "name": "Estofado sencillo de lentejas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "agosto",
+    "sopas",
+    "guisos",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de lentejas",
+    "1 cebolla pequeña picada",
+    "1 zanahoria cortada en trozos",
+    "1 papa cortada en trozos",
+    "2 cucharadas de margarina",
+    "1 cucharada de harina",
+    "Agua",
+    "Tomillo",
+    "Sal",
+    "Pimienta negra"
+  ],
+  "recipeInstructions": "1. Calentar la margarina en una sartén profunda.\n2. Freír la cebolla, zanahoria y papa hasta que estén tiernas.\n3. Incorporar la harina y remover.\n4. Añadir las lentejas y suficiente agua para cubrirlos generosamente.\n5. Cocinar las lentejas hasta que estén tiernas, añadiendo más agua si es necesario para mantener la sopa espesa (las lentejas se expandirán y absorberán el agua).\n6. Mientras se cocina, agregar tomillo, sal y pimienta al gusto (el tomillo debe ser el condimento principal).",
+  "url": null
+}

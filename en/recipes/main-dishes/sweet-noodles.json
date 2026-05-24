@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-noodles",
+  "name": "Sweet Noodles",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "ethnic",
+    "hungarian",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "250 g Fettuccine, Linguini, or other noodles",
+    "30 g Bechamel Margarine (Becel)"
+  ],
+  "recipeInstructions": "1. Cook the noodles according to package instructions until al dente.\n2. In a separate pan, melt the Becel margarine over low heat.\n3. Mix the cooked noodles with the melted margarine and serve hot.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "dott-s-coffee-cake",
+  "name": "Dott's Coffee Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "cake",
+    "desserts",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "2 cups flour",
+    "2 cups brown sugar",
+    "1/2 cup butter",
+    "1 cup buttermilk",
+    "1 teaspoon baking soda",
+    "1 egg",
+    "1 pinch salt"
+  ],
+  "recipeInstructions": "1. Cream together the flour, brown sugar, and butter until well combined.\n2. Set aside half a cup of this mixture for topping.\n3. Mix the remaining flour mixture with buttermilk, baking soda, egg, and salt until smooth.\n4. Pour the batter into a greased 9 x 13 inch pan.\n5. Sprinkle the reserved topping over the top of the cake.\n6. Bake at 350°F (175°C) for 40 minutes.\n7. Serve from the baking pan, hot or cold.",
+  "url": null
+}

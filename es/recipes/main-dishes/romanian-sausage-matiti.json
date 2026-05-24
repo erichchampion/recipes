@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "romanian-sausage-matiti",
+  "name": "Salchicha rumana (Matiti)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "salchichas"
+  ],
+  "recipeIngredient": [
+    "1 taza de agua",
+    "4 dientes de ajo",
+    "1 cucharadita de bicarbonato",
+    "1 1/2 cucharaditas de sal",
+    "1 cucharadita de tomillo",
+    "1/2 cucharadita de albahaca",
+    "500 g de carne molida de res",
+    "300 g de carne molida de cerdo"
+  ],
+  "recipeInstructions": "1. Mezclar el agua y el ajo picado hasta obtener una pasta fina.\n2. Añadir caldo de carne, sal, bicarbonato, tomillo y albahaca a la pasta. Mezclar bien.\n3. Agregar gradualmente la carne molida de res y cerdo, mezclando hasta que esté completamente combinada.",
+  "url": null
+}

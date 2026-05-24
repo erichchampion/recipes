@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "meat-loaf-5",
+  "name": "Meat Loaf",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat",
+    "meats"
+  ],
+  "recipeIngredient": [
+    "2 lb Ground beef",
+    "1 cup Bread crumbs",
+    "2 Eggs, beaten",
+    "1 small Onion, chopped",
+    "1 tbsp Parsley, chopped",
+    "1/2 cup Milk",
+    "4 Bacon strips",
+    "1 dash Salt",
+    "1 dash Pepper"
+  ],
+  "recipeInstructions": "1. In a large bowl, combine the ground beef, bread crumbs, eggs, onion, parsley, milk, bacon, salt, and pepper.\n2. Place the mixture in a greased loaf pan with the bacon on top.\n3. Bake for 45 minutes at 350°F (175°C). If using bacon, you may substitute by spreading 2 tablespoons of salad oil over the top before baking.",
+  "url": null
+}

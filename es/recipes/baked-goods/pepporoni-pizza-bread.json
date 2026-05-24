@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pepporoni-pizza-bread",
+  "name": "Pan de pizza con pepperoni",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 taza y 2 cucharadas de agua",
+    "3 tazas de harina de pan",
+    "1/3 taza de queso mozzarella rallado",
+    "2 cucharadas de azúcar",
+    "1 1/2 cucharaditas de sal al ajo",
+    "1 1/2 cucharaditas de orégano seco",
+    "1 3/4 cucharaditas de levadura para pan",
+    "2/3 taza de pepperoni en rodajas"
+  ],
+  "recipeInstructions": "1. Configura la máquina de pan para el ajuste de 1 1/2 libras.\n2. Mide y coloca cuidadosamente todos los ingredientes excepto el pepperoni en el pan de la máquina de pan en el orden recomendado por las instrucciones del fabricante.\n3. Añade las rodajas de pepperoni en la señal de pasas o nueces, o 5-10 minutos antes de que finalice el último ciclo de amasado.\n4. Selecciona el ciclo básico/blanco. Elige un color de corteza medio o ligero. No utilices ciclos de demora.\n5. Retira el pan horneado del molde y déjalo enfriar sobre una rejilla.\nNota: Esta receta no se recomienda para máquinas de pan con moldes de aluminio fundido en forma horizontal debido a resultados inconsistentes al probarse en nuestras cocinas.",
+  "url": null
+}

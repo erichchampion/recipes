@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "black-forest-coffee",
+  "name": "Café del Bosque Negro",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "6 onzas de café recién preparado",
+    "2 cucharadas de sirope de chocolate",
+    "1 cucharada de jugo de cereza de Maraschino",
+    "Crema batida",
+    "Chocolate rallado o chips",
+    "Cerezas de Maraschino"
+  ],
+  "recipeInstructions": "1. Vierta el café recién preparado en un vaso.\n2. Añada 2 cucharadas de sirope de chocolate y mezcle hasta que se combine bien.\n3. Incorpore 1 cucharada de jugo de cereza de Maraschino.\n4. Cubra con crema batida, chocolate rallado o chips, y una cereza de Maraschino.",
+  "url": null
+}

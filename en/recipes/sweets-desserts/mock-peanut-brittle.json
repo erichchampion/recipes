@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-peanut-brittle",
+  "name": "Mock Peanut Brittle",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "candies",
+    "candy",
+    "desserts",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "8 cups Corn flakes",
+    "1 cup Peanut butter",
+    "1 cup White corn syrup",
+    "1 cup Sugar"
+  ],
+  "recipeInstructions": "1. Spread corn flakes over a large, oiled baking dish.\n2. Mix corn syrup and sugar in a saucepan and bring to a boil.\n3. Remove from heat. Add peanut butter and stir until melted.\n4. Pour mixture over the cornflakes until well covered.\n5. Spread thinly on wax paper.\n6. Let cool completely.\nMinnie Lee, LPN",
+  "url": null
+}

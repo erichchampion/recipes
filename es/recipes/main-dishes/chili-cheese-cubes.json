@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-cheese-cubes",
+  "name": "Cubos de Chili y Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "queso",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "8 huevos",
+    "1 cucharada de polvo de hornear",
+    "1 y 1/2 tazas de queso Monterey Jack rallado",
+    "1 y 1/2 tazas de queso cheddar rallado",
+    "8 onzas de chiles verdes picados",
+    "1/2 taza de harina",
+    "3/4 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Bate los huevos durante 4 a 5 minutos hasta que estén ligeros.\n2. Añade la harina, el polvo de hornear y la sal. Mezcla bien.\n3. Incorpora el queso y los chiles.\n4. Vierte la mezcla en un molde para hornear engrasado de 9x13x2 pulgadas.\n5. Hornea a 175 °C durante 40 minutos.\n6. Corta en cuadrados.\n7. Sirve caliente o frío.",
+  "url": null
+}

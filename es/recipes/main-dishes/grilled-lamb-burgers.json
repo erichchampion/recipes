@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "grilled-lamb-burgers",
+  "name": "Hamburguesas de cordero a la parrilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecua",
+    "hamburguesas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de trigo bulgur",
+    "1 libra de carne molida de cordero",
+    "2 tazas de perejil picado",
+    "2 cucharadas de cebolla finamente picada",
+    "2 cucharadas de vino tinto seco",
+    "1 diente de ajo, picado finamente",
+    "1/8 cucharadita de menta seca molida",
+    "1/4 cucharadita de canela en polvo",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Remojar el trigo bulgur en agua tibia durante 1 hora, luego escurrir bien.\n2. Mezclar el bulgur escurrido con la carne molida de cordero, perejil, cebolla, vino tinto, ajo, menta y canela.\n3. Amasar hasta que todos los ingredientes estén bien integrados.\n4. Dar forma a la mezcla en hamburguesas.\n5. Cocinar a la parrilla sobre carbón medio durante 16-18 minutos, o hasta que estén bien cocidas.\n6. Servir con pan pita, lechuga, pepino y yogur.",
+  "url": null
+}

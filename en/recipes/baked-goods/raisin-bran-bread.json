@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "raisin-bran-bread",
+  "name": "Raisin Bran Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads",
+    "quick"
+  ],
+  "recipeIngredient": [
+    "3 cups Flour",
+    "2 cups Raisin Bran",
+    "1/2 teaspoon Baking soda",
+    "5 tablespoons Brown sugar",
+    "1 1/2 cups Hot water",
+    "1 tablespoon Cinnamon"
+  ],
+  "recipeInstructions": "1. Preheat oven to the temperature specified in your bread machine cookbook.\n2. In a large bowl, combine flour and raisin bran.\n3. Add baking soda, brown sugar, and cinnamon to the dry ingredients.\n4. Pour hot water into the mixture and stir until well combined.\n5. Transfer the batter to your bread machine according to the manufacturer's instructions.\n6. Close the lid and press \"Start\" to begin the baking process.\n7. When the cycle is complete, turn off the bread machine and allow it to cool before removing the loaf.",
+  "url": null
+}

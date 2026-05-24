@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-pietoo",
+  "name": "Taco Pieto",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americana",
+    "estofados",
+    "étnica",
+    "plato principal",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "1 Masa de tarta, sin hornear",
+    "1 lb Carne molida",
+    "1 Cebolla mediana",
+    "1/2 Paquete de aderezo para tacos",
+    "1/2 taza Crema agria",
+    "4 oz Queso amarillo, rallado",
+    "Lechuga picada",
+    "1/2 taza Chips de taco, triturados"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida con la cebolla y escurrir el exceso de grasa.\n2. Agregar el aderezo para tacos y suficiente agua para humedecer la mezcla.\n3. Colocar la mezcla en la masa.\n4. Cubrir con crema agria y queso.\n5. Hornear a 175°C durante 20-25 minutos.\n6. Decorar con lechuga y chips de taco antes de servir.",
+  "url": null
+}

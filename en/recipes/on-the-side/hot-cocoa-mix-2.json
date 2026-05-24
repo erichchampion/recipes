@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-cocoa-mix-2",
+  "name": "Hot Cocoa Mix",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "chocolate",
+    "miscellaneous",
+    "mixes"
+  ],
+  "recipeIngredient": [
+    "1 cup Cremora Non dairy creamer",
+    "1 cup Nonfat dry milk",
+    "3/4 cup Sugar (or more, to 1 cup)",
+    "1/2 cup Unsweetened cocoa",
+    "1/4 cup Instant coffee (for Mocha)",
+    "1 t Ground cinnamon (for Mexican)"
+  ],
+  "recipeInstructions": "1. In a bowl, mix together the cremora non dairy creamer and nonfat dry milk.\n2. Gradually add the sugar until the mixture reaches 1 cup.\n3. Add the unsweetened cocoa to the mixture.\n4. For a Mocha version, stir in the instant coffee.\n5. For a Mexican version, sprinkle ground cinnamon into the mix.",
+  "url": null
+}

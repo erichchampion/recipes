@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-spiced-drink",
+  "name": "Bebida especiada caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "microondas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 litro de leche",
+    "1/4 taza de melaza",
+    "4 palos de canela (de 3 pulgadas)",
+    "Crema batida (endulzada)",
+    "Nuez moscada"
+  ],
+  "recipeInstructions": "1. En un jarro o cacerola resistente al calor de 2 cuartos, sin metal, mezcle la leche y la melaza. Añada los palos de canela.\n2. Caliente al descubierto en el microondas durante 6 minutos o hasta que esté caliente. Retire los palos de canela.\n3. Sirva en tazas, adornado con crema batida y un poco de nuez moscada espolvoreada.",
+  "url": null
+}

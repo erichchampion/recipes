@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "yorkshire-pancakes",
+  "name": "Tortitas de Yorkshire",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "tortitas",
+    "especial"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de harina",
+    "2 huevos",
+    "1/2 taza de leche",
+    "1/8 lb mantequilla (1/2 barra)",
+    "Jugo de limón"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 450 grados Fahrenheit.\n2. Dejar que los huevos alcancen la temperatura ambiente antes de usarlos.\n3. Batir ligeramente los huevos.\n4. Agregar la harina y la leche a los huevos batidos, mezclando bien.\n5. Derretir la mantequilla en un molde para hornear.\n6. Verter la masa en la mantequilla derretida.\n7. Hornear durante 15 minutos hasta que los panqueques suban.\n8. Servir espolvoreados con jugo de limón y azúcar glas.",
+  "url": null
+}

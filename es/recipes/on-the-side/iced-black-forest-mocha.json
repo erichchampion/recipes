@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "iced-black-forest-mocha",
+  "name": "Mocha Bosque Negro con Hielo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "4 cucharadas de espresso",
+    "Hielo",
+    "1 cucharada de sirope de chocolate",
+    "1 cucharada de sirope de cereza",
+    "1/2 cucharadita de sirope de coco",
+    "16 cucharadas de leche fría",
+    "Crema batida - para cubrir",
+    "Chocolate rallado - para cubrir",
+    "1 cereza - para decorar"
+  ],
+  "recipeInstructions": "1. Verter el espresso en un vaso de 12 onzas lleno de hielo.\n2. Añadir los siropes y la leche fría.\n3. Remover suavemente hasta que esté combinado.\n4. Cubrir con una generosa cucharada de crema batida, chocolate rallado y decorar con cereza.",
+  "url": null
+}

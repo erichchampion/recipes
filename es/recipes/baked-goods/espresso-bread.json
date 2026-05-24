@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "espresso-bread",
+  "name": "Pan de Espresso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de agua tibia",
+    "3 tazas y 1/4 de harina de pan blanco",
+    "1/4 taza de azúcar",
+    "1 1/2 cucharaditas de sal",
+    "1/4 taza de crema espesa",
+    "3 cucharadas de polvo de espresso instantáneo",
+    "1 cucharada de extracto de vainilla puro",
+    "1 3/4 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "1. Agregar el agua, la harina, el azúcar, la sal, la crema espesa, el polvo de espresso, la vainilla y la levadura a la máquina panificadora en el orden indicado por las instrucciones del fabricante.\n2. Apagar la máquina panificadora una vez que el pan haya terminado de hornearse.",
+  "url": null
+}

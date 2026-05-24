@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "fried-meatballs",
+  "name": "Albóndigas fritas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1 cucharadita de polvo de cebolla",
+    "1/4 taza de queso rallado",
+    "1 cucharada de orégano",
+    "1/2 cucharadita de polvo de ajo",
+    "2 cucharadas de huevos"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes y formar bolas del tamaño de una albóndiga.\n2. Enjuagar una sartén grande con spray de aceite de oliva antiadherente.\n3. Freír las albóndigas durante unos 10 minutos, o hasta que estén bien doradas.\n4. Guardar en un recipiente hermético y refrigerar hasta su uso, o incorporarlas inmediatamente a una salsa de tomate y cocinar hasta que la salsa esté caliente.",
+  "url": null
+}

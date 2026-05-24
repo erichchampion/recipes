@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-chef-salad",
+  "name": "Ensalada del Chef Mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "carne de res",
+    "mexicana",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida extra magra",
+    "1 cucharadita de polvo de chile",
+    "1 lata de frijoles rojos, enjuagados y escurridos",
+    "1 cebolla, picada",
+    "2 tomates, picados",
+    "1 lechuga, desmenuzada",
+    "2 tazas de queso cheddar rallado",
+    "1 aguacate, picado",
+    "1 bolsa de totopos de maíz, triturados groseramente",
+    "Salsa:",
+    "1/2 taza de ketchup",
+    "1/4 taza de mayonesa",
+    "1/4 taza de crema agria",
+    "1 cucharadita de polvo de chile"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes de la salsa y refrigerar.\n2. Cocinar la carne molida hasta que esté completamente cocida.\n3. Escurrir la carne cocida y mezclarla con 1 cucharadita de polvo de chile.\n4. En un bol grande, combinar el resto de los ingredientes de la ensalada (lechuga, tomates, queso, aguacate).\n5. Verter la salsa fría sobre la mezcla de ensalada.\n6. Mezclar todos los ingredientes para asegurar una distribución uniforme de la salsa.\n7. Cubrir la ensalada con los totopos triturados antes de servir.",
+  "url": null
+}

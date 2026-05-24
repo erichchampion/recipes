@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "neopolitan-chicken",
+  "name": "Neopolitan Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "3 pounds chicken, cut up",
+    "1 medium onion, chopped",
+    "4 medium potatoes, diced",
+    "1 large green pepper, sliced",
+    "1/4 cup chopped parsley",
+    "1 clove garlic, minced",
+    "1 teaspoon salt",
+    "1 dash pepper",
+    "1/2 teaspoon dried basil",
+    "1 pound jar spaghetti sauce"
+  ],
+  "recipeInstructions": "1. Combine the chicken, onion, potatoes, green pepper, parsley, garlic, salt, pepper, and basil in a Crockpot.\n2. Add the spaghetti sauce to the pot.\n3. Cook on Low for 6-8 hours or on High for 3-4 hours.\n4. Skim any fat that rises to the top of the liquid.\n5. Serve the chicken and vegetables in bowls. Optionally, you can omit the potatoes and serve the mixture over spaghetti.",
+  "url": null
+}

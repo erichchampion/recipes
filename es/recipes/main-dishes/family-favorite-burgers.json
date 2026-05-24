@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "family-favorite-burgers",
+  "name": "Hamburguesas favoritas de la familia",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "plato principal",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de carne molida",
+    "2 panes; migas de pan frescas",
+    "1/3 taza de leche",
+    "1/4 taza de ketchup",
+    "1/4 taza de cebolla; picada finamente, 1 pequeña",
+    "1 cucharadita de sal",
+    "2 cucharaditas de rábano picante",
+    "2 cucharaditas de salsa Worcestershire",
+    "1 cucharada de mostaza preparada"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Dar forma a la mezcla en 6 hamburguesas, cada una de aproximadamente 1 cm de grosor.\n3. Broilar o asar las hamburguesas a 4 pulgadas de distancia del calor.\n4. Darles la vuelta una vez, hasta alcanzar el punto deseado de cocción, unos 10 a 15 minutos.",
+  "url": null
+}

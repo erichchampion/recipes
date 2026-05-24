@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pork-chops-2",
+  "name": "Lomos de cerdo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "frutas",
+    "plato principal",
+    "carnes",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "6 chuletas de cerdo",
+    "1/4 taza de azúcar moreno",
+    "1/4 cucharadita de canela en polvo",
+    "1/4 cucharadita de clavo molido",
+    "200 g de salsa de tomate (latas)",
+    "290 g de duraznos en almíbar (latas), escurridos, reservando 1/4 taza del almíbar",
+    "1/4 taza de vinagre",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Dorar ligeramente las chuletas de cerdo por ambos lados en una sartén.\n2. Escurrir el exceso de grasa.\n3. Mezclar en un bol el azúcar moreno, la canela, el clavo, la salsa de tomate, 1/4 taza del almíbar de los duraznos y el vinagre. Sazonar las chuletas con sal y pimienta.\n4. Colocar las chuletas sazonadas en una olla de cocción lenta.\n5. Poner los duraznos por encima de las chuletas.\n6. Verter la mezcla de salsa sobre todo.\n7. Tapar y cocinar a fuego lento durante 4-6 horas.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "almost-orange-julius",
+  "name": "Casi Orange Julius",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "guarniciones",
+    "desclasificado"
+  ],
+  "recipeIngredient": [
+    "3/8 de lata de jugo de naranja congelado concentrado",
+    "1/2 taza de leche",
+    "1/2 taza de agua",
+    "2 cucharadas de azúcar",
+    "1/4 cucharadita de extracto de vainilla",
+    "1/4 cucharadita de extracto de almendras",
+    "6 cubos de hielo"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una licuadora.\n2. Licuar hasta obtener una textura suave.",
+  "url": null
+}

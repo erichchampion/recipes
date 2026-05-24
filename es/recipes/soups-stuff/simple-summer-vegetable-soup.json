@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-summer-vegetable-soup",
+  "name": "Sopa de Verduras de Verano Fácil",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "plato principal",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de mantequilla",
+    "1 cebolla, picada",
+    "2 zanahorias, en rodajas",
+    "2 tallos de apio, en rodajas",
+    "8 tazas de caldo de pollo",
+    "2 tomates, picados",
+    "2 calabacines, cortados en cuartos y en rodajas",
+    "1/2 taza de judías verdes o guisantes",
+    "1 taza de espinacas frescas"
+  ],
+  "recipeInstructions": "1. Lavar y cortar las espinacas frescas en tiras.\n2. Derretir la mantequilla en una olla de sopa; añadir la cebolla, zanahorias y apio. Cocinar a fuego medio, removiendo con frecuencia, durante 5 minutos.\n3. Añadir el caldo y los tomates, y dejar que hierva a fuego lento otros 10 minutos.\n4. Incorporar los calabacines y cocinar durante un minuto más.\n5. Sazonar con sal y pimienta al gusto.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-a-la-avacado",
+  "name": "Pollo a la Aguacate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "frutas",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1/8 taza de aceite de oliva",
+    "6 pechugas de pollo sin hueso",
+    "1/2 taza de alcaparras",
+    "3/4 taza de jugo de limón",
+    "1/2 taza de perejil picado",
+    "1/2 aguacate",
+    "Sal al gusto",
+    "Pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una sartén a fuego bajo.\n2. Cocinar el pollo, 3 onzas por lado, durante unos 5 minutos hasta que esté cocido por completo.\n3. Retirar el pollo de la sartén y reservar.\n4. Saltear las alcaparras en la misma sartén durante 1 minuto.\n5. Añadir el jugo de limón y el perejil a la sartén y cocinar durante otro minuto.\n6. Colocar la mezcla de jugo de limón y alcaparras sobre cada pechuga de pollo.\n7. Servir con rebanadas de aguacate en abanico encima y arroz.",
+  "url": null
+}

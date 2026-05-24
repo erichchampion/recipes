@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "oatmeal-with-dates",
+  "name": "Avena con dátiles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "frutas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 taza de avena",
+    "1/2 cucharadita de sal",
+    "2 tazas de agua",
+    "1 taza de dátiles (sin hueso y cortados por la mitad)"
+  ],
+  "recipeInstructions": "1. Llevar el agua a ebullición.\n2. Añadir la sal.\n3. Agregar gradualmente la avena, removiendo constantemente.\n4. Cocinar a fuego lento en un baño María durante 45 minutos.\n5. Cuando la avena esté lista, incorporar los dátiles.\n6. Mezclar bien.\n7. Servir con crema y azúcar.",
+  "url": null
+}

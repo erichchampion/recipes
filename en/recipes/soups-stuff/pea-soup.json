@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pea-soup",
+  "name": "Pea Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "1 can Peas",
+    "3 cups Water (cold)",
+    "3 cups Milk",
+    "1 onion, sliced",
+    "2 tablespoons Butter",
+    "2 tablespoons Flour",
+    "1 tablespoon Sugar",
+    "Salt",
+    "Pepper"
+  ],
+  "recipeInstructions": "1. Place peas and water in a kettle.\n2. Add 3 cups cold water to the mixture.\n3. Simmer for 15 minutes.\n4. Strain through a sieve.\n5. Reheat the strained peas.\n6. Add flour and butter, stirring until smooth.\n7. Scald milk with onion in a separate pan.\n8. Combine the milk and onion mixture with the pea mixture.\n9. Season with salt and pepper to taste.\n10. Serve hot.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pickled-oysters",
+  "name": "Pickled Oysters",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "5 Dozen small oysters",
+    "1 cup water",
+    "1 cup white vinegar",
+    "1/4 cup mixed spices",
+    "4 medium onions"
+  ],
+  "recipeInstructions": "1. Boil the oysters for 20 minutes and then drain them.\n2. Bring water, white vinegar, and mixed spices to a boil in a saucepan, strain the mixture into a bowl, and let it cool.\n3. Place the sliced onions over the oysters.\n4. Refrigerate overnight.",
+  "url": null
+}

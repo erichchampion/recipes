@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-pasta-hot-dish",
+  "name": "Guiso de Pollo y Pasta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de macarrones en espiral",
+    "1/4 taza de mantequilla",
+    "3 cucharadas de harina de uso común",
+    "1 1/2 cucharaditas de sal",
+    "3 tazas de leche",
+    "3 tazas de queso cheddar rallado",
+    "2 tazas de pollo o pavo cocido y desmenuzado",
+    "3 cucharadas de copos de maíz triturados"
+  ],
+  "recipeInstructions": "1. Cocinar los macarrones según las instrucciones del paquete; escurrir.\n2. En una sartén grande, derretir la mantequilla. Añadir la harina y la sal, remover. Incorporar lentamente la leche, cocinando y removiendo constantemente hasta espesar y formar burbujas.\n3. Agregar el queso y remover hasta que se derrita.\n4. Mezclar los macarrones, la salsa de queso y el pollo. Combinar bien.\n5. Verter en un cazo para hornear de 3 litros. Cubrir con los copos de maíz.\n6. Hornear a 180 °C hasta que esté caliente, aproximadamente 30 minutos.",
+  "url": null
+}

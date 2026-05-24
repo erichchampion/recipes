@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecued-chicken-2",
+  "name": "Pollo a la parrilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "variado",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo sin piel y sin hueso (de 100 g o más cada una)",
+    "Para la salsa:",
+    "1/4 taza de ketchup",
+    "3 cucharadas de vinagre de sidra",
+    "1/2 cucharadita de rábano blanco, o al gusto",
+    "2 cucharaditas de azúcar moreno, presionado",
+    "1 diente de ajo picado (o al gusto)",
+    "1/8 cucharadita de tomillo seco",
+    "1/4 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Precalentar el asador. Calentar la parrilla de carbón hasta que forme una ceniza blanca, o precalentar una parrilla de gas a fuego medio.\n2. En un cazo pequeño, mezclar el ketchup, el vinagre, el rábano, el azúcar moreno, el ajo y el tomillo. Calentar a fuego medio-bajo y cocinar, removiendo con frecuencia, hasta que espese, aproximadamente 5 minutos. Retirar del fuego; añadir la pimienta.\n3. Untar ligeramente la parte superior de los trozos de pollo con salsa. Colocar el pollo, con la salsa hacia abajo, en una bandeja para asar forrada con papel de aluminio o sobre una rejilla.\n4. Untar ligeramente los otros lados con salsa.\n5. Asar o cocinar a la parrilla a 3 pulgadas (7,5 cm) de distancia del calor, bastando con la salsa restante y dando la vuelta hasta que ya no quede rosa en el centro, aproximadamente 5 a 7 minutos por lado (mi pollo tardó más debido a su grosor y la distancia al calor).\n6. Dejar reposar el pollo durante 5 minutos antes de servir. Servir con arroz (usé Rice Roni), ensalada verde y verduras mixtas.",
+  "url": null
+}

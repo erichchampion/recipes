@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "jack-and-jill-cookies-2",
+  "name": "Galletas de Jack y Jill",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de manteca corta",
+    "1 taza de azúcar moreno compacta",
+    "3/4 cucharadita de sal",
+    "1 cucharadita de vainilla",
+    "1 huevo",
+    "3/4 taza de harina tamizada (tamizar antes de medir)",
+    "1/2 cucharadita de polvo de hornear",
+    "1/4 cucharadita de sal",
+    "1 taza de avena en hojuelas",
+    "1/2 taza de prunas sin cocer picadas finamente",
+    "1/2 taza de albaricoques secos picados finamente"
+  ],
+  "recipeInstructions": "Precalentar el horno a 175 °C. Mezclar la manteca, el azúcar moreno, la sal, la vainilla y el huevo; batir hasta que esté bien combinado. Tamizar juntos la harina, el polvo de hornear y la sal; incorporar a la mezcla de manteca. Agregar las avenas, prunas y albaricoques. Colocar cucharadas de masa en hojas de hornear engrasadas y aplastar con un vaso plano cubierto con un paño húmedo. Hornear durante 10 a 12 minutos.",
+  "url": null
+}

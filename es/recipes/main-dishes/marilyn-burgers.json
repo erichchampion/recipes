@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "marilyn-burgers",
+  "name": "Hamburguesas de Marilyn",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "plato principal",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 taza de almendras molidas",
+    "1/4 taza de tahini",
+    "1/4 taza de tamari",
+    "1/2 cebolla, picada finamente",
+    "1 zanahoria, picada finamente",
+    "Jugo de un limón"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes con las almendras molidas hasta que queden bien combinados.\n2. Formar la mezcla en hamburguesas.\n3. Freír las hamburguesas en una pequeña cantidad de aceite o asarlas hasta que estén cocidas por completo.\n4. Manejar las hamburguesas con cuidado para evitar romperlas.",
+  "url": null
+}

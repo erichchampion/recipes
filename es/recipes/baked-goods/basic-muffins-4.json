@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-muffins-4",
+  "name": "Muffins básicos 4",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "bajo en calorías",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina integral",
+    "2 cucharaditas de polvo de hornear",
+    "1/4 taza de miel",
+    "2 tazas de agua o leche vegetal",
+    "2 cucharadas de puré de manzana",
+    "1/2 cucharadita de extracto de vainilla",
+    "1 taza de maicena"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes secos.\n2. Combinar los ingredientes húmedos.\n3. Incorporar los ingredientes secos y húmedos hasta que estén justo humedecidos.\n4. Verter la mezcla en un molde para muffins engrasado o antiadherente.\n5. Hornear a 180 °C durante 30 minutos.",
+  "url": null
+}

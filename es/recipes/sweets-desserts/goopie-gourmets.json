@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "goopie-gourmets",
+  "name": "Goopie Gourmets",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de sirope de maíz ligero",
+    "1/2 taza de azúcar",
+    "3/4 taza de mantequilla de maní",
+    "3 tazas de cereales Special K",
+    "Papel para hornear con cera"
+  ],
+  "recipeInstructions": "1. Mezclar el sirope de maíz y el azúcar en una cacerola a fuego bajo.\n2. Cuando se disuelva el azúcar y la mezcla comience a hervir, retirar del fuego.\n3. Incorporar la mantequilla de maní.\n4. Verter la mezcla sobre los cereales.\n5. Colocar porciones generosas con una cuchara grande sobre papel para hornear con cera.\n6. Dejar enfriar.",
+  "url": null
+}

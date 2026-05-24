@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-dough-1",
+  "name": "Masa de pizza #1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "masa",
+    "étnico",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 sobre de levadura seca activa",
+    "3/4 taza de agua tibia",
+    "1/2 cucharadita de azúcar",
+    "1/2 cucharadita de sal",
+    "2 cucharadas de aceite de oliva o vegetal",
+    "2 tazas de harina de uso común"
+  ],
+  "recipeInstructions": "1. Disolver la levadura en el agua tibia.\n2. Añadir el azúcar, la sal, el aceite de oliva o vegetal y 1 y 3/4 tazas de la harina de uso común.\n3. Extender la mezcla sobre una superficie enharinada y amasar hasta obtener una masa suave y elástica. Esto llevará aproximadamente cinco minutos.\n4. Continuar amasando añadiendo suficiente harina restante para evitar que se pegue.",
+  "url": null
+}

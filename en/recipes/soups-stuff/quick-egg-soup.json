@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-egg-soup",
+  "name": "Quick Egg Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "diabetic",
+    "eggs",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cups boiling water",
+    "1 cube bouillon",
+    "1 egg"
+  ],
+  "recipeInstructions": "1. Dissolve the bouillon cube in the boiling water.\n2. Remove from heat.\n3. Beat the egg.\n4. Blend the egg into the vegetable broth.\n5. Reheat slowly; do not boil!",
+  "url": null
+}

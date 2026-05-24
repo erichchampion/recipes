@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "almond-crisps",
+  "name": "Crujientes de Almendras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar moreno",
+    "1/2 taza de mantequilla derretida",
+    "1 taza de avena en hojuelas",
+    "1 taza de coco rallado",
+    "1/2 taza de almendras (cortadas por la mitad)",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Mezcla el azúcar moreno y la mantequilla derretida en un bol.\n2. Añade la avena, el coco, las almendras y la vainilla a la mezcla. Revuelve hasta combinar.\n3. Presiona la mezcla en una bandeja cuadrada de 20 cm engrasada.\n4. Hornea a 180°C durante 20 minutos.\n5. Deja enfriar completamente antes de cortar en cuadrados pequeños.",
+  "url": null
+}

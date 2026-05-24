@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-rice",
+  "name": "Simple Rice",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "rice",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "Cooked rice",
+    "1 Onion, minced",
+    "1 cup Cabbage, chopped",
+    "2 Tablespoons Brown sugar",
+    "1 Tablespoon Oil",
+    "1 Tablespoon Margarine",
+    "Soy sauce or Hot sauce"
+  ],
+  "recipeInstructions": "This is so simple there are really no rules on how much of any of the\ningredients you need. Just adjust to your own taste.\nCook the rice in your normal manner, but add a little soy sauce to the\nwater. (I prefer a few dashes of hot sauce) Dice the onion and cabbage and\nfry in a small amount of oil. Add the brown sugar, garlic and margarine.\nStir this around for a while and then add it to the cooked rice.",
+  "url": null
+}

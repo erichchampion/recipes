@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-hazelnut-muffins",
+  "name": "Muffins de Manzana y Avellana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de nueces molidas en un procesador hasta obtener una harina gruesa",
+    "1/2 taza de harina de uso general",
+    "2 cucharadas de polvo de hornear",
+    "1/4 taza de azúcar",
+    "1 huevo",
+    "2 cucharadas de mantequilla sin sal, derretida y enfriada",
+    "1/2 taza de leche tibia",
+    "1 c.c. de extracto de vainilla",
+    "Una pizca de sal",
+    "1/2 taza de manzanas secas picadas"
+  ],
+  "recipeInstructions": "Precalentar el horno a 350°F. Mezclar las nueces molidas, la harina, el polvo de hornear y el azúcar. Agregar el huevo, la mantequilla, la leche, la vainilla, la sal y las manzanas. Dejar reposar durante 10 minutos. Rellenar un molde para muffins antiadherente (o un molde regular con papel pergamino) con la masa. Hornear durante 8 a 10 minutos, hasta que un palillo insertado en el centro salga limpio.",
+  "url": null
+}

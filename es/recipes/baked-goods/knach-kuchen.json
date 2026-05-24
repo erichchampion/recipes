@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "knach-kuchen",
+  "name": "Kuchen de mantequilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "1 huevo",
+    "1 taza de nueces de hickory",
+    "Masa de pan suficiente para 1 hogaza",
+    "Mantequilla, una porción del tamaño de una nuez"
+  ],
+  "recipeInstructions": "1. Mezclar la masa con una porción de mantequilla del tamaño de una nuez.\n2. Combinar bien y colocar en un molde para hogaza de pan engrasado.\n3. Dejar levar hasta que doble su volumen.\n4. Hornear a temperatura moderada (350-400 °F) durante unos 40-50 minutos.",
+  "url": null
+}

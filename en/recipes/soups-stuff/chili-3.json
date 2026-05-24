@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-3",
+  "name": "Chili",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "beans",
+    "chili",
+    "meats",
+    "slow cooker",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "2 lb Ground chuck",
+    "2 medium Onions, chopped",
+    "1 Green pepper, chopped",
+    "4 Sticks Celery, chopped",
+    "28 oz Can Crushed Tomatoes",
+    "8 oz Can Tomato Sauce",
+    "2 cans Kidney Beans",
+    "1 tsp Pepper",
+    "3 tsp Chili Powder",
+    "1 tsp Garlic Salt"
+  ],
+  "recipeInstructions": "1. Cook the ground chuck and drain the grease.\n2. Combine all ingredients in a crockpot.\n3. Cook on HIGH for 4 to 5 hours until the chili is done.",
+  "url": null
+}

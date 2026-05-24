@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mocha-frosting",
+  "name": "Mocha Frosting",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "chocolate",
+    "desserts",
+    "frosting",
+    "frostings"
+  ],
+  "recipeIngredient": [
+    "3 tablespoons Margarine",
+    "1 1/2 cups Icing sugar",
+    "2 tablespoons Cocoa",
+    "1/2 teaspoon instant coffee",
+    "1/2 teaspoon vanilla extract",
+    "1 tablespoon Milk"
+  ],
+  "recipeInstructions": "1. Using a wooden spoon, mix butter, sugar, cocoa, coffee, and vanilla.\n2. Gradually add milk and continue beating until smooth.",
+  "url": null
+}

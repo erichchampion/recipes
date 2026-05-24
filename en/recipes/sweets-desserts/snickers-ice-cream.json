@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "snickers-ice-cream",
+  "name": "Snickers Ice Cream",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "ice cream"
+  ],
+  "recipeIngredient": [
+    "12 oz Vanilla ice cream",
+    "1/4 cup Crunchy peanut butter",
+    "1 cup Cool whip",
+    "1 package Instant chocolate pudding"
+  ],
+  "recipeInstructions": "1. Mix all ingredients well.\n2. Pour the mixture into a square pan.\n3. Freeze until set, then serve 8 portions.",
+  "url": null
+}

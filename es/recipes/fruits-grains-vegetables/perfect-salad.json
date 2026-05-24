@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "perfect-salad",
+  "name": "Ensalada perfecta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "queso",
+    "diabético",
+    "ensaladas",
+    "guarniciones",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1/2 gelatina sin sabor",
+    "2 tazas de agua fría",
+    "1/4 taza de pepino",
+    "1/4 taza de zanahoria",
+    "1/4 taza de cebolla",
+    "3 oz de queso crema",
+    "2 cucharadas de mayonesa de bajo contenido calórico",
+    "1 cucharada de zumo de limón"
+  ],
+  "recipeInstructions": "1. Disolver la gelatina en agua fría.\n2. Añadir la gelatina disuelta, edulcorante y sal al agua caliente; remover hasta que se disuelva por completo.\n3. Mezclar el zumo de limón, pepino, zanahoria y cebolla.\n4. Batir juntos el queso crema y la mayonesa hasta obtener una textura suave.\n5. Combinar la mezcla con las verduras.\n6. Verter en un molde y enfriar.",
+  "url": null
+}

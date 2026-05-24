@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-snow-frosting",
+  "name": "Glaseado de Nieve Blanca",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "postres",
+    "glaseado",
+    "glasas"
+  ],
+  "recipeIngredient": [
+    "Claras de huevo",
+    "Mantequilla sin sal",
+    "Manteca vegetal",
+    "Extracto de coco",
+    "Extracto de vainilla",
+    "Azúcar glas"
+  ],
+  "recipeInstructions": "1. Batir las claras de huevo, la manteca y la mantequilla hasta que estén bien integradas.\n2. Añadir gradualmente el extracto de coco y la vainilla, batiendo hasta obtener una textura suave.\n3. Incorporar lentamente el azúcar glas mientras se bate hasta obtener una consistencia esponjosa.",
+  "url": null
+}

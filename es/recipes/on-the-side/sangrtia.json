@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "sangrtia",
+  "name": "Sangría",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "mexicana",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 litro de jugo de tomate",
+    "4 naranjas, jugo",
+    "1 lima, jugo",
+    "2 limones, jugo",
+    "2 cucharadas de polvo de chile picante",
+    "1 cucharada de azúcar",
+    "3/4 cucharadita de azúcar",
+    "1 cebolla mediana, rallada"
+  ],
+  "recipeInstructions": "1. Calentar el jugo de tomate a casi ebullición.\n2. Agregar los jugos restantes y los ingredientes excepto la salsa Tabasco.\n3. Reducir a fuego lento durante 5 minutos, ajustando la sazón si es necesario.\n4. Colar y enfriar.\n5. Servir muy frío con vodka, tequila o simplemente con un chorro de Tabasco.\nNota: Los chiles pueden sustituirse por polvo de chile; rallarlos junto con la cebolla.",
+  "url": null
+}

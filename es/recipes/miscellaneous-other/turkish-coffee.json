@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "turkish-coffee",
+  "name": "Café turco",
+  "recipeCuisine": "Africa & Middle East",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "África",
+    "bebidas",
+    "café",
+    "étnico",
+    "medio oriental",
+    "Turquía"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de agua",
+    "1 cucharada de azúcar",
+    "1 cucharada de café en polvo",
+    "1 vaina de cardamomo"
+  ],
+  "recipeInstructions": "1. Mezclar el agua y el azúcar en un ibrik o una pequeña sartén.\n2. Llevar a ebullición.\n3. Retirar del fuego y agregar el café y el cardamomo.\n4. Remover bien.\n5. Devolver al fuego.\n6. Cuando el café espume, retirar del fuego y dejar reposar los posos.\n7. Repetir los pasos 5-6 dos veces más.\n8. Verter en tazas; dejar reposar los posos antes de servir.",
+  "url": null
+}

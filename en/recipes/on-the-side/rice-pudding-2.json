@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-pudding-2",
+  "name": "Rice Pudding 2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "desserts",
+    "puddings",
+    "rice",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup white rice",
+    "6 cups skim milk",
+    "3/4 cup sugar",
+    "pinch salt",
+    "1 tablespoon vanilla"
+  ],
+  "recipeInstructions": "1. Mix all ingredients except the vanilla in a non-stick pot.\n2. Heat until just short of boiling, stirring constantly.\n3. Reduce heat, cover, and simmer for 1 hour, stirring occasionally.\n4. When it reaches the desired consistency, remove from heat and add the vanilla.\n5. Pour into bowls and let cool or eat hot as preferred.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-cream-crepes",
+  "name": "Crepes de fresa y crema",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "crepes",
+    "postres",
+    "frutas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "4 tazas de fresas frescas cortadas",
+    "2 cucharadas de azúcar",
+    "14 onzas de leche condensada azucarada",
+    "1/4 taza de zumo de limón",
+    "1/2 taza de nata para montar batida",
+    "12 crepes dulces",
+    "12 fresas enteras para decorar"
+  ],
+  "recipeInstructions": "1. Espolvorear las fresas cortadas con azúcar y dejar reposar.\n2. Batir la leche condensada con el zumo de limón hasta que espese.\n3. Incorporar las fresas y la nata batida.\n4. Distribuir la mezcla entre los crepes, doblando cada uno.\n5. Decorar con más nata montada y una fresa en el centro.\n6. Se obtienen 6 raciones.",
+  "url": null
+}

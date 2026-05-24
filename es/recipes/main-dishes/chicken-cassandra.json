@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-cassandra",
+  "name": "Pollo Cassandra",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "olla de cocción lenta",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 libras de pollo para asar",
+    "1/3 taza de aderezo italiano",
+    "1 1/2 tazas de arroz largo crudo",
+    "2 tazas de tomates estofados, picados",
+    "1/2 taza de vino blanco seco",
+    "1 cucharadita de condimento italiano",
+    "1/8 cucharadita de semilla de apio",
+    "1 1/2 cucharaditas de sal",
+    "1 paquete de col rizada, congelada"
+  ],
+  "recipeInstructions": "1. Cortar el pollo en trozos para servir (16 onzas cada uno).\n2. Enjuagar y secar bien los trozos de pollo.\n3. En una sartén, saltear el pollo en aderezo italiano a fuego medio.\n4. Mezclar el arroz, los tomates, el vino, las especias y la col rizada en una olla de cocción lenta.\n5. Cubrir con el pollo.\n6. Tapar y cocinar a temperatura baja durante 4 a 6 horas.\nPara 8 personas (aproximadamente 3 cuartos)",
+  "url": null
+}

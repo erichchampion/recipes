@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "deep-fried-squid",
+  "name": "Calamares fritos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "aperitivos",
+    "plato principal",
+    "carne",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "2 libras de calamar",
+    "2 cucharadas de jugo de limón",
+    "1 cucharadita de sal",
+    "1/8 cucharadita de pimienta blanca",
+    "2 cucharadas de leche",
+    "1 huevo batido",
+    "1 taza de harina",
+    "Aceite para freír en profundidad",
+    "Gajos de limón"
+  ],
+  "recipeInstructions": "1. Limpiar el calamar, retirando la piel y las sacos de tinta.\n2. Cortar en anillos de 1/2 pulgada.\n3. Espolvorear jugo de limón, sal y pimienta blanca sobre el calamar.\n4. Mezclar la leche y el huevo en un plato poco profundo.\n5. Sumergir cada trozo de calamar en la mezcla de leche, luego envolver en harina.\n6. Calentar el aceite para freír en profundidad a 175 °C (350 °F).\n7. Colocar los calamares cubiertos en una capa única en el aceite caliente y freír hasta que estén ligeramente dorados, aproximadamente 3 a 5 minutos.\n8. Retirar del aceite con una cuchara perforada y escurrir sobre toallas de papel.\n9. Servir con gajos de limón.",
+  "url": null
+}

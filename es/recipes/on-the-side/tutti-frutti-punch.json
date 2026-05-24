@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "tutti-frutti-punch",
+  "name": "Punch de Frutas Varias",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "frutas",
+    "bajo en calorías",
+    "batido",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "16 oz (450 g) de fresas congeladas descongeladas",
+    "6 oz (170 g) de jugo de piña congelado descongelado",
+    "3 oz (85 g) de jugo de manzana congelado descongelado",
+    "3 oz (85 g) de jugo de naranja congelado descongelado",
+    "1 1/2 tazas (360 ml) de agua",
+    "33 oz (950 ml) de agua con gas fría"
+  ],
+  "recipeInstructions": "1. Mezclar las cuatro primeras ingredientes en un recipiente de licuadora hasta obtener una textura suave.\n2. Verter la mezcla de fresas en un jarro grande y añadir el agua. Tapar y refrigerar durante al menos 3 horas.\n3. Para servir, incorporar el agua con gas a la mezcla de jugos y remover suavemente. Servir inmediatamente.",
+  "url": null
+}

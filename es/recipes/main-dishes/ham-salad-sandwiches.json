@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-salad-sandwiches",
+  "name": "Sándwiches de ensalada de jamón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "comida ligera",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "4 libras de jamón cocido o ring bologna completamente cocido, molido groseramente",
+    "3 tazas de pepinillos dulces picados",
+    "2 tazas de mayonesa",
+    "2 onzas de pimientos picados escurridos",
+    "100 rebanadas de pan"
+  ],
+  "recipeInstructions": "1. Mezclar el jamón, los pepinillos, la mayonesa y los pimientos en un bol grande.\n2. Revolver bien hasta que todos los ingredientes estén distribuidos uniformemente.\n3. Extender aproximadamente 1/4 taza de la mezcla sobre 50 rebanadas de pan.\n4. Opcionalmente, agregar lechuga encima del esparcido.\n5. Colocar las rebanadas de pan restantes para completar las tostadas.",
+  "url": null
+}

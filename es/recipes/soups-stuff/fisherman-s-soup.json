@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "fisherman-s-soup",
+  "name": "Sopa de Pescador",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "mariscos",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aceite de oliva",
+    "1 taza de cebolla finamente picada",
+    "2 dientes de ajo medianos, pelados y picados",
+    "1 lata (400 g) de tomates pelados y cortados, escurridos",
+    "1 cucharadita de semillas de anís ligeramente machacadas",
+    "1/2 cucharadita de tomillo seco machacado",
+    "1 lata (400 ml) de caldo de verduras, más suficiente agua para obtener 3 tazas",
+    "1/8 cucharadita de azafrán en polvo",
+    "1/2 cucharadita de sal",
+    "1/8 cucharadita de pimienta cayena",
+    "2 libras de papas rojas, cortadas por la mitad y en rodajas finas",
+    "1 filete de halibut de 1 libra, cortado en 4 trozos",
+    "Pimienta negra molida al gusto",
+    "1/4 taza de perejil picado",
+    "1 taza de croutones preparados, triturados"
+  ],
+  "recipeInstructions": "1. En una olla grande, calentar el aceite de oliva a fuego medio. Agregar la cebolla y el ajo; saltear durante 5 minutos. Incorporar los tomates escurridos, las semillas de anís y el tomillo. Llevar a ebullición, luego reducir el calor y cocinar a fuego lento durante 10 minutos.\n2. Añadir el caldo-agua, el azafrán, la sal y la pimienta cayena. Cocinar a fuego lento durante 5 minutos. Agregar las papas, tapar y cocinar a fuego lento durante 15 minutos.\n3. Colocar los trozos de halibut en una canasta para vapor que quepa sobre la olla. Rocíar con un poco del caldo de cocción y espolvorear con pimienta. Vaporizar durante 12 minutos por cada centímetro de grosor, o hasta que el pescado se desmenuce.\n4. Retirar la piel del halibut y dividirlo en 4 cuencos para sopa. Mezclar el perejil y los croutones en la sopa. Ajustar la sazón con sal y pimienta si es necesario, y servir en los cuencos.",
+  "url": null
+}

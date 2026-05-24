@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-mix",
+  "name": "Taco Mix",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "miscellaneous",
+    "mixes"
+  ],
+  "recipeIngredient": [
+    "2 Tablespoons Instant minced onion",
+    "1 Teaspoon Salt",
+    "1 Teaspoon Chili powder",
+    "1/2 Teaspoon Ground cumin",
+    "1/2 Teaspoon Crushed dried red pepper or cayenne",
+    "1/2 Teaspoon Instant minced garlic",
+    "1/4 Teaspoon Dried oregano leaves"
+  ],
+  "recipeInstructions": "1. Combine all ingredients.\n2. Place the mixture in a sandwich plastic bag and seal.\n3. Repeat the recipe to make as many packages as desired.",
+  "url": null
+}

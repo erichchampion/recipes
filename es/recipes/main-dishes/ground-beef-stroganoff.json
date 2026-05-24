@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "ground-beef-stroganoff",
+  "name": "Estofado de Carne Molida con Crema",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "carne molida",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de cebolla picada",
+    "1 cucharada de mantequilla",
+    "1 libra de carne molida",
+    "1 cucharada de harina",
+    "4 cucharadas de ketchup",
+    "2 cucharadas de salsa Worcestershire",
+    "2/3 taza de crema agria",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "Nudillos de huevo o arroz"
+  ],
+  "recipeInstructions": "1. En una sartén grande, saltear la cebolla en mantequilla hasta que esté dorada.\n2. Agregar la carne molida a la sartén y cocinar hasta que también esté dorada.\n3. Incorporar la harina, el ketchup, la salsa Worcestershire, la crema agria, la sal y la pimienta.\n4. Reducir el fuego y dejar cocinar la mezcla durante 20 minutos, removiendo ocasionalmente.\n5. Servir sobre nudillos de huevo o arroz.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-and-ceci-i",
+  "name": "Pasta and Ceci I",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beans",
+    "italian",
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "2 small cans garbanzo beans",
+    "2 large cans crushed tomatoes",
+    "4 garlic cloves",
+    "2 tablespoons basil or oregano",
+    "1 lb Ditalini",
+    "1 cup water",
+    "2 tablespoons oil"
+  ],
+  "recipeInstructions": "1. In a saucepan, sauté the garlic in oil.\n2. Add the crushed tomatoes, water, garbanzo beans, and herbs.\n3. Simmer for 1 hour.\n4. Cook the Ditalini al dente.\n5. Add the cooked pasta to the sauce.",
+  "url": null
+}

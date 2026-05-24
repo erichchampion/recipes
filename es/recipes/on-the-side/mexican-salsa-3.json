@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-salsa-3",
+  "name": "Salsa mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "mexicano",
+    "relís",
+    "salsas",
+    "sos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "8 oz. de salsa de tomate",
+    "2 cucharadas de chile rojo molido",
+    "1/2 cucharadita de comino en polvo",
+    "1/2 cucharadita de orégano",
+    "1 cucharadita de sal",
+    "2 dientes de ajo picados (o 1/4 cucharadita de polvo de ajo)",
+    "2 cucharadas de vinagre",
+    "1/2 limón, jugo de"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Revolver bien hasta que esté combinado.\n3. Dejar reposar la mezcla durante 3 horas a temperatura ambiente.\n4. Esta salsa es excelente con tacos o como dip para chips de tortilla.",
+  "url": null
+}

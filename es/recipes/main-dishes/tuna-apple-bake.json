@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "tuna-apple-bake",
+  "name": "Tuna y Manzana al Horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "pescado",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 taza de cebolla picada",
+    "1 taza de apio picado",
+    "2 tazas de manzanas cortadas en cubos, sin pelar",
+    "2 cucharadas de mantequilla o margarina",
+    "1 lata de sopa de queso condensada (11 onzas)",
+    "1/2 taza de leche",
+    "2 tazas de arroz cocido",
+    "2 latas de atún en cubos, escurridas (7 onzas cada una)",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "3/4 taza de migas de pan untadas y sazonadas"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla, el apio y las manzanas en la mantequilla hasta que estén tiernos pero sin dorar.\n2. Incorporar la sopa, la leche, el arroz, el atún, la sal y la pimienta; mezclar bien.\n3. Verter en un recipiente para hornear de 2,5 litros engrasado y espolvorear con las migas de pan.\n4. Hornear a 200 °C durante 20 minutos o hasta que esté bien caliente.",
+  "url": null
+}

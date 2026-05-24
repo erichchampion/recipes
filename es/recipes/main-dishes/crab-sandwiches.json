@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "crab-sandwiches",
+  "name": "Sándwiches de Cangrejo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "1 lata (6 oz) de carne de cangrejo escurrida",
+    "2 costillas de apio finamente picadas",
+    "4 cebolletas (escamas verdes y blancas), finamente picadas",
+    "1/2 taza de champiñones picados",
+    "1 cucharadita de semillas de eneldo",
+    "4 cucharadas de mayonesa",
+    "Sal y pimienta negra recién molida al gusto",
+    "4 rebanadas de pan",
+    "8 rebanadas de tocino frito y escurrido",
+    "1/2 taza de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Mezclar en un bol la carne de cangrejo, el apio, las cebolletas, los champiñones, las semillas de eneldo, la mayonesa, la sal y la pimienta hasta que todo esté bien combinado.\n2. Tostar una cara del pan bajo el grill.\n3. Extender la mezcla de cangrejo sobre la cara no tostada de cada rebanada de pan.\n4. Cubrir con tocino y queso cheddar.\n5. Volver al grill hasta que se derrita el queso.",
+  "url": null
+}

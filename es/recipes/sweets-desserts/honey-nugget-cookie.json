@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "honey-nugget-cookie",
+  "name": "Galleta de Nugget de Miel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de manteca corta",
+    "1 taza de azúcar moreno",
+    "1 taza de miel",
+    "1 cucharadita de polvo de hornear",
+    "1 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de canela",
+    "3 tazas de harina",
+    "3 tazas de avena",
+    "2 huevos"
+  ],
+  "recipeInstructions": "Precalentar el horno a 180 °C.\nMezclar en un bol la manteca, el azúcar moreno, la miel y los huevos. Batir bien.\nIncorporar gradualmente los ingredientes restantes hasta que estén completamente integrados.\nCon una cuchara, tomar porciones de masa y colocarlas sobre una bandeja para hornear sin engrasar.\nHornear durante 10-12 minutos a 180 °C.",
+  "url": null
+}

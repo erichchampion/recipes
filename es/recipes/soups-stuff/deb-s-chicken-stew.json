@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "deb-s-chicken-stew",
+  "name": "Estofado de Pollo de Deb",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "favoritos",
+    "plato principal",
+    "carnes",
+    "aves de corral",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "3 lb de pollo cocido y cortado en cubos",
+    "1 cebolla grande, salteada",
+    "1/2 lb de setas",
+    "4 zanahorias cortadas en rodajas",
+    "6 tazas de caldo de pollo",
+    "2 cucharadas de tomillo",
+    "Sal y pimienta al gusto",
+    "Polvo de ajo",
+    "Perejil picado",
+    "Harina para espesar",
+    "1 lb de rúcula seca",
+    "1 paquete de verduras congeladas"
+  ],
+  "recipeInstructions": "1. En una olla grande, cocinar a fuego lento los cubos de pollo, la cebolla salteada, las setas y las zanahorias en el caldo de pollo hasta que estén tiernos.\n2. Agregar el tomillo, la sal, la pimienta, el polvo de ajo y el perejil picado al gusto.\n3. Si se usan fideos, cocinarlos directamente en el estofado o por separado según las instrucciones del paquete.\n4. Incorporar las verduras congeladas y continuar cocinando hasta que estén calientes.\n5. Espesar el estofado con un poco de harina si es necesario.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "sourdough-beer-bread",
+  "name": "Pan de cerveza de levadura natural",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pan",
+    "máquina de pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 1/3 tazas de masa madre",
+    "1/4 taza de agua",
+    "1/2 taza de cerveza plana",
+    "2 cucharadas de aceite vegetal",
+    "3 tazas de harina de pan",
+    "1 1/2 cucharaditas de sal",
+    "1 cucharada de azúcar",
+    "1 1/2 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en la máquina del pan.\n2. Programa la máquina con el ajuste de pan blanco básico.\n3. Establece el control de temperatura en oscuro.\n4. Presiona Start.\n5. Para preparar la cerveza, caliéntala suavemente en un cacerol pequeño hasta que hierva y luego se vuelva plana.",
+  "url": null
+}

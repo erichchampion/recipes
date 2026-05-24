@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "tv-cookies",
+  "name": "Galletas TV",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de manteca",
+    "1 taza de azúcar",
+    "1 taza de azúcar moreno",
+    "2 huevos, batidos",
+    "1 cucharadita de extracto de vainilla",
+    "2 tazas de harina tamizada",
+    "1 cucharadita de bicarbonato de sodio",
+    "1/2 cucharadita de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "2 tazas de avena rápida",
+    "2 tazas de Rice Krispies",
+    "1 taza de coco rallado",
+    "1/2 taza de nueces picadas"
+  ],
+  "recipeInstructions": "1. Batir la manteca, el azúcar y el azúcar moreno hasta obtener una textura suave.\n2. Incorporar los huevos batidos y el extracto de vainilla.\n3. Mezclar la harina tamizada, el bicarbonato de sodio, el polvo de hornear y la sal. Agregar esta mezcla a la mezcla anterior.\n4. Añadir la avena rápida, los Rice Krispies, el coco rallado y las nueces picadas.\n5. Con una cuchara, depositar porciones de la masa sobre una bandeja para hornear.\n6. Hornear a 175 °C hasta que adquieran un tono dorado.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "mega-smoothie",
+  "name": "Batido Mega",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 mango, pelado, sin semillas y cortado en trozos",
+    "2 plátanos, pelados y cortados",
+    "8 fresas grandes",
+    "2 zanahorias medianas, cortadas",
+    "2 tazas de cubitos de hielo",
+    "1 cucharada de miel",
+    "1 taza de yogur (opcional)"
+  ],
+  "recipeInstructions": "1. En una licuadora, mezclar la mitad de cada ingrediente: mango, plátanos, fresas, zanahorias, cubitos de hielo, miel y yogur.\n2. Licuar hasta obtener una consistencia suave.\n3. Verter en un vaso y servir inmediatamente.\n4. Repetir el proceso con los ingredientes restantes.\nRinde: 2 porciones",
+  "url": null
+}

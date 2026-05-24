@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "walnut-bread",
+  "name": "Walnut Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "Egg",
+    "1 cup Sugar",
+    "1 cup Milk",
+    "Salt",
+    "Baking powder",
+    "Flour",
+    "Walnuts"
+  ],
+  "recipeInstructions": "1. Preheat the oven to 300 - 350 F (slow oven).\n2. Mix all ingredients together.\n3. Pour the mixture into a baking dish and bake for 45 - 50 minutes, or until done.",
+  "url": null
+}

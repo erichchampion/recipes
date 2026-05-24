@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tuna-and-potato-salad",
+  "name": "Ensalada de atún y patata",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pescado",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "10 onzas de guisantes verdes congelados, descongelados",
+    "6 pequeñas patatas nuevas, sin pelar",
+    "1 lata de atún en agua, escurrido (6 oz)",
+    "3 anchas de anchoa (opcional)",
+    "2 cucharadas de salsa pesto",
+    "1 taza de mayonesa",
+    "Sal y pimienta al gusto",
+    "3 cucharadas de perejil picado"
+  ],
+  "recipeInstructions": "1. Blanquea los guisantes descongelados en agua hirviendo durante 2 minutos. Escurre y sumérgelo en agua fría. Escurre nuevamente.\n2. Coloca las patatas cocidas, los guisantes y el atún en un bol para ensalada. Mezcla las anchoas y la salsa pesto con la mayonesa y viértela sobre la ensalada. Añade sal y pimienta al gusto y mezcla bien.\n3. Decora con perejil picado.",
+  "url": null
+}

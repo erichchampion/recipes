@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "spiced-coffee-mix",
+  "name": "Mezcla de café especiada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "(2 onzas) tarro de café instantáneo",
+    "1 cucharadita de canela molida",
+    "1 cucharadita de nuez moscada molida",
+    "1 cucharadita de jengibre molido",
+    "1 taza de azúcar granulada"
+  ],
+  "recipeInstructions": "1. Mezclar el café, el azúcar y las especias en una licuadora.\n2. Licuar durante 15 segundos o hasta obtener una mezcla esponjosa.\n3. Almacenar en un recipiente hermético.\n4. Para servir, mezclar 1 a 2 cucharaditas con 2/3 taza de agua caliente.\n5. Rinde aproximadamente 50 tazas.",
+  "url": null
+}

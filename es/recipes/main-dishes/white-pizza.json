@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-pizza",
+  "name": "Pizza blanca",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "italiano",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 gran concha de pan italiano",
+    "2 tazas de rebanadas de setas",
+    "1/4 taza de mantequilla derretida",
+    "1 cucharada de queso parmesano rallado",
+    "2 tazas de queso mozzarella rallado",
+    "1/2 cucharadita de hierbas italianas",
+    "1/4 cucharadita de polvo de ajo",
+    "1/4 cucharadita de polvo de cebolla"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375°F (190°C).\n2. Colocar la concha de pan en una bandeja para pizza no engrasada de 30 cm.\n3. En un bol mediano, mezclar las rebanadas de setas con la mantequilla derretida.\n4. Disponer las setas sobre la concha de pan.\n5. Espolvorear con queso parmesano y mozzarella rallados.\n6. Sazonar con hierbas italianas, polvo de ajo y polvo de cebolla.\n7. Hornear durante 15-20 minutos.",
+  "url": null
+}

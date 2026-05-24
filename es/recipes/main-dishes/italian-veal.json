@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-veal",
+  "name": "Cerdo italiano",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "étnica",
+    "italiana",
+    "carne",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 libras de cubos de ternera",
+    "2 cebollas, en rodajas",
+    "2 tomates grandes, cortados en trozos",
+    "4 dientes de ajo, picados",
+    "2 pimientos verdes, en rodajas",
+    "1/4 taza de vino blanco",
+    "4 cucharaditas de orégano",
+    "sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una olla de cocción lenta.\n2. Cocinar a fuego lento durante 8-10 horas.",
+  "url": null
+}

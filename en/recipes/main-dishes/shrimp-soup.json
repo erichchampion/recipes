@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "shrimp-soup",
+  "name": "Shrimp Soup",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cajun",
+    "main dish",
+    "meat",
+    "seafood",
+    "shrimp",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "8 cups Chicken stock",
+    "2 teaspoons Louisiana hot sauce",
+    "1 cup Green onions, chopped",
+    "1/2 cup Celery, chopped",
+    "Salt",
+    "1 tablespoon Garlic, diced",
+    "1 tablespoon Lea & Perrins",
+    "1 cup Parsley, chopped",
+    "2 cups White wine, dry",
+    "2 pounds Shrimp, chopped"
+  ],
+  "recipeInstructions": "1. Combine all ingredients except shrimp with the chicken stock.\n2. Bring mixture to a boil.\n3. Lower heat and let it simmer.\n4. Cover and cook for 45 minutes.\n5. Add shrimp and continue simmering for an additional 30 minutes.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-pizza-lasagna",
+  "name": "Pizza/Lasaña en olla de cocción lenta",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "12 oz (340 g) de ñoquis cocidos y escurridos",
+    "1,5 lb (680 g) de carne de hamburguesa cocida y escurrida",
+    "1 cebolla grande picada",
+    "16 oz (450 g) de salsa de pizza",
+    "8 oz (225 g) de salsa de espagueti",
+    "8 oz (225 g) de queso cheddar rallado",
+    "8 oz (225 g) de queso mozzarella rallado"
+  ],
+  "recipeInstructions": "1. Mezclar la carne de hamburguesa con las salsas.\n2. Capar la mezcla de carne, ñoquis y quesos en la olla de cocción lenta.\n3. Cocinar a fuego lento durante 3-4 horas.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "company-ham",
+  "name": "Jamón de alta calidad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "jamón",
+    "plato principal",
+    "carne",
+    "carnes",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "5-6 libras de jamón cocido sin hueso",
+    "1 cebolla grande, picada",
+    "2 manzanas, peladas y cortadas en rodajas finas",
+    "1/2 cucharadita de tomillo",
+    "1/2 cucharadita de canela",
+    "1/2 cucharadita de orégano",
+    "6 clavos de olor",
+    "10 granos de pimienta negra",
+    "1/2 taza de jerez",
+    "1/2 taza de caldo de carne"
+  ],
+  "recipeInstructions": "1. Coloca la cebolla picada y las rodajas de manzana en el fondo de una olla holandesa.\n2. Espolvorea con la mitad del tomillo, canela, orégano, clavos y granos de pimienta.\n3. Coloca el jamón encima y frota la superficie con la otra mitad de las especias.\n4. Vierte el jerez sobre el jamón.\n5. Hornea al descubierto en el horno a 175 °C durante 2 horas.\n6. Reduce frecuentemente con el caldo de carne y los jugos de la sartén.\n7. Cubre durante los últimos 30 minutos de horneado.\n8. Deja reposar durante 30 minutos antes de cortar.\nSírve con salsa de jamón para la compañía.",
+  "url": null
+}

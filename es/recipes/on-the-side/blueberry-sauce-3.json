@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "blueberry-sauce-3",
+  "name": "Salsa de arándanos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "frutas",
+    "salsas",
+    "guarniciones",
+    "dulce"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "2 cucharadas de maicena",
+    "1/4 cucharadita de nuez moscada",
+    "un toque de sal",
+    "2 tazas de arándanos frescos",
+    "3 cucharadas de jugo de limón"
+  ],
+  "recipeInstructions": "1. En una cacerola, mezclar el azúcar, la maicena, la nuez moscada y la sal.\n2. Incorporar agua hirviendo poco a poco hasta que la mezcla espese.\n3. Cocinar a fuego durante 2 minutos más.\n4. Agregar los arándanos frescos y volver a hervir.\n5. Retirar del fuego y mezclar el jugo de limón.\n6. Enfriar antes de usar. Rinde 3 tazas.",
+  "url": null
+}

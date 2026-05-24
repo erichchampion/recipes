@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cafe-au-vin",
+  "name": "Café al Vino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "aperitivos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 taza de café negro francés fuerte frío",
+    "2 cucharadas de azúcar granulada",
+    "1 cucharadita de canela",
+    "2 onzas de jerez dulce (Tawny Port)",
+    "1/2 cucharadita de cáscara de naranja rallada"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una taza para batidora y batir a velocidad alta.\n2. Verter en copas de vino frías.",
+  "url": null
+}

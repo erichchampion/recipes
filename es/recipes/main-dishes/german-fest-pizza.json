@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "german-fest-pizza",
+  "name": "Pizza Festiva Alemana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "6 a 8 onzas de salchicha fresca picante (ver nota)",
+    "1 masa de pizza fina estilo thin de 12 pulgadas, ya preparada",
+    "2/3 taza de salsa de pizza preparada",
+    "3/4 cucharadita de orégano seco",
+    "1/2 cucharadita de sal de ajo",
+    "1/2 taza de chucrut, preferiblemente de estilo alemán dulce",
+    "4 onzas de queso suizo rallado (aproximadamente 1 taza)",
+    "4 onzas de queso mozzarella rallado (aproximadamente 1 taza)",
+    "1/3 taza de champiñones enlatados en rodajas",
+    "1/3 taza de pimientos verdes picados",
+    "1/3 taza de cebolla picada",
+    "1/3 taza de aceitunas negras en rodajas"
+  ],
+  "recipeInstructions": "1. Retire las casings de la salchicha y cocine en una sartén a fuego medio-alto, desmenuzando la carne a medida que se cocina hasta que esté completamente cocida y desmenuzada.\n2. Precalentar el horno a 450 grados.\n3. Extienda la masa de pizza con la salsa de pizza preparada. Espolvoree con orégano y sal de ajo. Distribuya el chucrut uniformemente sobre la masa. Mezcle los quesos juntos y distribúyalos uniformemente sobre la pizza. Coloque la salchicha encima de la masa y agregue los champiñones, pimientos verdes, cebolla y aceitunas.\n4. Hornee en el horno precalentado durante 10-15 minutos, hasta que el queso se haya derretido y la corteza esté ligeramente dorada alrededor de los bordes. Cortar en triángulos. Da para 8 porciones.",
+  "url": null
+}

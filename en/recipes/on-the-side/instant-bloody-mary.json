@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "instant-bloody-mary",
+  "name": "Instant Bloody Mary",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz Vodka",
+    "3 1/2 oz Spicy v8 cocktail",
+    "1 dash Lemon juice (optional)"
+  ],
+  "recipeInstructions": "1 Fill an old fashioned glass with ice.\n2 Add vodka, V8, and (if desired) a dash of fresh lemon juice.\n3 Stir gently.\n4 Garnish with a slice of lime and a celery stalk.",
+  "url": null
+}

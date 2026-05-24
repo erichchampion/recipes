@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "plain-muffins-2",
+  "name": "Muffins simples",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "4 cucharadas de manteca",
+    "2 cucharadas de azúcar",
+    "1 huevo",
+    "3 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "1 taza de leche",
+    "2 tazas de harina"
+  ],
+  "recipeInstructions": "1. Batir la manteca y el azúcar hasta obtener una mezcla suave.\n2. Incorporar el huevo batido previamente.\n3. Agregar alternativamente las ingredientes secas (polvo de hornear, sal y harina) con la leche, en pequeñas cantidades.\n4. Rellenar cada molde para muffins aproximadamente hasta los 2/3 de su capacidad.\n5. Hornear a temperatura media en el horno.",
+  "url": null
+}

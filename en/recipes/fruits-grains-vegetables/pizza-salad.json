@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-salad",
+  "name": "Pizza Salad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "main dish",
+    "salads"
+  ],
+  "recipeIngredient": [
+    "1 pound macaroni, whole-wheat, spirals",
+    "1 can black olives, drained",
+    "1 large green pepper, diced",
+    "1 large tomato, diced",
+    "1 large onion, diced",
+    "1 small pepperoni slice",
+    "1 package Cheddar cheese, Cracker Barrel",
+    "16 ounces Italian salad dressing, low calorie, Good Seasons"
+  ],
+  "recipeInstructions": "1. Cook the macaroni according to package instructions.\n2. Drain and rinse the black olives.\n3. Dice the green pepper, tomato, onion, and pepperoni.\n4. Shred the Cheddar cheese.\n5. In a large bowl, combine the cooked macaroni, diced vegetables, pepperoni, and shredded cheese.\n6. Pour the Italian salad dressing over the mixture and stir until well combined.\n7. Cover and refrigerate for at least 30 minutes to allow flavors to meld.\n8. Serve chilled or at room temperature.",
+  "url": null
+}

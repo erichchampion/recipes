@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "powdered-sugar-glaze",
+  "name": "Glaseado de azúcar en polvo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "postres",
+    "glaseado"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar en polvo (cernida)",
+    "1 1/2 cucharadas de leche",
+    "1/2 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Mezclar el azúcar en polvo y la leche en un bol.\n2. Revolver hasta obtener una mezcla homogénea.\n3. Añadir el extracto de vainilla y revolver nuevamente hasta que quede suave.",
+  "url": null
+}

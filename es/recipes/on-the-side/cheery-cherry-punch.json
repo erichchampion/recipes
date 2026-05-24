@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheery-cherry-punch",
+  "name": "Punch de Cerezas Frescas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "batido",
+    "platos secundarios",
+    "salsa"
+  ],
+  "recipeIngredient": [
+    "3 sobre de gelatina de cereza (de 3 onzas cada uno)",
+    "2-3 tazas de azúcar",
+    "6 tazas de agua hirviendo",
+    "1 lata de jugo de piña sin azúcar (46 onzas)",
+    "1 lata de jugo de naranja concentrado descongelado (12 onzas)",
+    "1 lata de concentrado de limonada descongelada (12 onzas)",
+    "1 galón de agua fría",
+    "2 botellas de ginger ale (de 2 litros cada una)"
+  ],
+  "recipeInstructions": "1. Disolver la gelatina y el azúcar en el agua hirviendo.\n2. Añadir el jugo de piña, los concentrados y el agua fría; mezclar bien.\n3. Congelar la mezcla hasta que esté lista para servir.\n4. Justo antes de servir, agregar el ginger ale y mezclar a fondo.",
+  "url": null
+}

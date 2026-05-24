@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "martini-steak",
+  "name": "Martini de bistec",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de ginebra",
+    "2 cucharadas de aceite vegetal",
+    "1 cucharada de vermut seco",
+    "1/2 cucharadita de albahaca seca",
+    "1/2 cucharadita de orégano seco",
+    "1/4 cucharadita de sal",
+    "2 lomos de rib eye o solomillo de 5 onzas",
+    "6 aceitunas rellenas de pimiento"
+  ],
+  "recipeInstructions": "1. En un recipiente poco profundo, mezclar todos los ingredientes excepto la carne y las aceitunas.\n2. Marcar la superficie de los lomos con cortes cruzados poco profundos; añadir a la marinada.\n3. Marinar a temperatura ambiente durante dos horas, dando la vuelta a la carne varias veces.\n4. Retirar los lomos y reservar la marinada.\n5. Asar a la parrilla o bajo el brote a una distancia de unos 5 cm del fuego.\n6. Cocinar durante cuatro minutos por cada lado para un punto medio raro; seis minutos para medio. Bañar la carne con la marinada varias veces mientras se cocina.\n7. Decorar con aceitunas en un palillo.",
+  "url": null
+}

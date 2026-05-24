@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-nacho-casserole",
+  "name": "Nacho Casserola Mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1 sobre de mezcla para tacos Mexicasa",
+    "1 lata de frijoles refritos Mexicasa",
+    "1/2 taza de cebolla picada",
+    "Pimiento verde picado (opcional)",
+    "1 taza de queso cheddar suave rallado",
+    "Nachos"
+  ],
+  "recipeInstructions": "1. Cocinar la carne molida y la mezcla para tacos según las indicaciones del paquete.\n2. En un molde para hornear mediano, extender los frijoles refritos.\n3. Espolvorear la cebolla picada sobre los frijoles.\n4. Colocar la mezcla de carne sobre los frijoles.\n5. Hornear a 200°C durante 15 minutos.\n6. Disponer los nachos alrededor del borde de la tarta.\n7. Cubrir con pimiento verde picado y queso cheddar rallado.\n8. Hornear durante 5 minutos adicionales.\n9. Decorar con crema agria, cebolla verde picada y tomate picado.",
+  "url": null
+}

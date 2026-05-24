@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-eggs-and-ham",
+  "name": "Huevos al horno con jamón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "brunch",
+    "plato principal",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "Croutons sazonados, 1/4 taza",
+    "Jamón picado, 2 cucharadas",
+    "Mantequilla o margarina derretida, 2 cucharadas",
+    "Huevos, 2",
+    "Queso cheddar rallado, 1 cucharada"
+  ],
+  "recipeInstructions": "1. En un plato para hornear poco profundo engrasado, mezclar los croutons sazonados, el jamón y la mantequilla derretida.\n2. Romper cuidadosamente los huevos sobre la mezcla.\n3. Espolvorear con queso cheddar rallado.\n4. Hornear al descubierto a 175 °C durante 15 a 18 minutos o hasta que los huevos estén al punto deseado de cocción.",
+  "url": null
+}

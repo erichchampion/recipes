@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "new-orleans-gumbo",
+  "name": "New Orleans Gumbo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "bacon",
+    "rice",
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "4 slices bacon, diced",
+    "2 diced onions",
+    "1/2 green pepper, diced",
+    "1 stalk celery, diced",
+    "28 to 30 ounce can tomatoes, undrained",
+    "9 ounce package frozen okra, sliced",
+    "cooked rice for 8 servings",
+    "1 small can shrimp, drained (optional)"
+  ],
+  "recipeInstructions": "1. Cook the bacon until it is slightly browned. Remove from heat.\n2. Add the diced onions, green pepper, and celery to the pan. Cook over low heat until softened.\n3. Drain the tomatoes and add them to the pan. Return the bacon to the pan if removed.\n4. Wash, stem, and cook the okra separately. Drain and slice it before adding back to the pan with some of the cooking liquid from the okra.\n5. Season with salt and pepper to taste.\n6. Serve over cooked rice.\n7. Optionally, add shrimp to the dish before serving.",
+  "url": null
+}

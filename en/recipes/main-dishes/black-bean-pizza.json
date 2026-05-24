@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "black-bean-pizza",
+  "name": "Black Bean Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "12 inch pizza crust",
+    "1 can black beans, mashed",
+    "1 cup lowfat monterey jack cheese",
+    "1/2 large avocado, mashed"
+  ],
+  "recipeInstructions": "1. Spread the mashed black beans evenly on the pizza crust.\n2. Sprinkle the shredded lowfat Monterey Jack cheese over the beans.\n3. Place the pizza in a preheated oven at 375°F (190°C) and bake for about 15 minutes, or until the crust is golden brown and the cheese is melted.\n4. Remove the pizza from the oven and top with mashed avocado.\n5. Serve immediately.",
+  "url": null
+}

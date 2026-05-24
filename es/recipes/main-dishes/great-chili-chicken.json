@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "great-chili-chicken",
+  "name": "Gran Pollo Chili",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "bajo en calorías",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite de oliva",
+    "2 pechugas de pollo enteras grandes, deshuesadas, sin piel y cortadas en cubos",
+    "3 tazas de jugo de tomate",
+    "2 tazas de cebolla picada",
+    "1/2 taza de apio picado",
+    "1/2 taza de pimiento verde picado",
+    "2 manzanas sin pelar, cortadas en rodajas",
+    "2 cucharaditas de polvo de chile",
+    "1 cucharadita de condimento sin sal",
+    "2 dientes de ajo picados",
+    "1/2 cucharadita de comino",
+    "1 cucharadita de albahaca",
+    "3 gotas de salsa Tabasco",
+    "3 latas de frijoles rojos (14 onzas cada una, escurridos)"
+  ],
+  "recipeInstructions": "1. En una olla holandesa, calienta el aceite y dora ligeramente el pollo.\n2. Añade todos los ingredientes restantes excepto los frijoles rojos y deja cocinar a fuego lento durante 1 hora.\n3. Incorpora los frijoles rojos y deja cocinar a fuego lento durante otra hora, o hasta que el chili alcance la consistencia deseada.",
+  "url": null
+}

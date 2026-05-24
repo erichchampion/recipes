@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "plain-muffins-ii",
+  "name": "Muffins simples II",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina mezclada lista",
+    "3 cucharadas de manteca derretida",
+    "4 cucharadas de azúcar",
+    "1 taza de leche",
+    "1 huevo, batido bien"
+  ],
+  "recipeInstructions": "1. Cernir la harina y medirla.\n2. Combinar el huevo, la mantequilla derretida, la leche y el azúcar en un bol.\n3. Añadir la harina cernida a la mezcla y batir hasta obtener una textura suave.\n4. Llenar los moldes para muffins 2/3 con la masa.\n5. Hornear en horno precalentado (425 °F) durante 15-20 minutos.\n6. Rinde: 10 porciones.",
+  "url": null
+}

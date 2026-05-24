@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "camp-stew-2",
+  "name": "Estofado de Campo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "acampada",
+    "plato principal",
+    "variado",
+    "al aire libre",
+    "teriyaki"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne de hamburguesa",
+    "1 lata de tomates enlatados en puré",
+    "1 lata de maíz",
+    "8 onzas de macarrones tipo \"elbow\"",
+    "1/2 taza de cebolla picada",
+    "1 taza de agua",
+    "1/4 libra de queso cheddar Longhorn rallado"
+  ],
+  "recipeInstructions": "1. Dorar la carne en una olla holandesa, olla arrocera o sartén.\n2. Escurrir el exceso de grasa de la carne.\n3. Incorporar los tomates enlatados, maíz, macarrones y agua.\n4. Cocinar hasta que los ingredientes estén tiernos.\n5. Justo antes de servir, añadir el queso cheddar Longhorn rallado.",
+  "url": null
+}

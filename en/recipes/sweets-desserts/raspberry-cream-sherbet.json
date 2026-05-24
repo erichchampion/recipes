@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "raspberry-cream-sherbet",
+  "name": "Raspberry Cream Sherbet",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "ice cream",
+    "sherbet"
+  ],
+  "recipeIngredient": [
+    "1 cup sugar",
+    "3 packages frozen raspberries",
+    "3 cups half and half",
+    "4 egg whites, beaten stiff",
+    "1/4 teaspoon salt"
+  ],
+  "recipeInstructions": "1. Add the sugar to the frozen berries and mash.\n2. Put through a sieve.\n3. Freeze cream, salt, and beaten egg whites until they form a mush.\n4. Add the mashed berries and finish freezing.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "onion-chops",
+  "name": "Cortas de cebolla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carnes",
+    "patatas",
+    "olla de cocción lenta",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "6 chuletas de cerdo",
+    "1 sobre de mezcla de sopa de cebolla Lipton",
+    "1/2 taza de agua",
+    "Papas; pelar, cortar en rodajas",
+    "Cebollas; cortar por la mitad, rebanar",
+    "Zanahorias; pelar, cortar en rodajas de 1/2 cm"
+  ],
+  "recipeInstructions": "1. Coloca las chuletas de cerdo en la olla de cocción lenta.\n2. Espolvorea la mezcla de sopa de cebolla alrededor y entre las chuletas.\n3. Añade agua a la olla de cocción lenta.\n4. Agrega las cebollas, papas y zanahorias a la olla.\n5. Cocina a temperatura alta durante 4 horas o a temperatura baja durante 6 horas.",
+  "url": null
+}

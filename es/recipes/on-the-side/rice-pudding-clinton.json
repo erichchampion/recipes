@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-pudding-clinton",
+  "name": "Budín de arroz Clinton",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "postre",
+    "budín",
+    "budines",
+    "arroz",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 tazas de arroz cocido",
+    "5 huevos",
+    "1 taza de azúcar",
+    "1/4 taza de mantequilla; o margarina (derretida)",
+    "2 tazas de leche",
+    "1 cucharadita de vainilla",
+    "1/4 cucharadita de nuez moscada",
+    "1/2 taza de pasas (opcional)"
+  ],
+  "recipeInstructions": "1. Batir los huevos.\n2. Agregar el azúcar, la mantequilla derretida, la leche, la vainilla y la nuez moscada a los huevos batidos.\n3. Mezclar con el arroz cocido y las pasas si se desea.\n4. Verter la mezcla en un molde para hornear de 2 cuartos engrasado.\n5. Hornear a 175 °C durante 45 minutos.",
+  "url": null
+}

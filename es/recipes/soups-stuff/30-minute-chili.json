@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "30-minute-chili",
+  "name": "Chili en 30 minutos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "plato principal",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida o carne magra picada",
+    "1 cebolla grande, picada",
+    "1 lata de frijoles rojos (350 g)",
+    "1 lata de sopa de tomate sin diluir",
+    "1 cucharadita de sal",
+    "1 cucharada de polvo de chile (o al gusto)",
+    "Salsa picante al gusto"
+  ],
+  "recipeInstructions": "1. Dorar la carne en un poco de mantequilla a fuego medio durante unos 10 minutos, hasta que esté marrón.\n2. Añadir todos los ingredientes excepto la salsa picante a la olla.\n3. Mezclar bien.\n4. Llevar la mezcla a ebullición y cocinar a fuego lento durante 30 minutos.\n5. Sazonar con salsa picante al gusto.",
+  "url": null
+}

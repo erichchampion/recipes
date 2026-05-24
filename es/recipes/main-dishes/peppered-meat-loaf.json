@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "peppered-meat-loaf",
+  "name": "Relleno de carne con pimienta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne molida de res",
+    "1/2 libra de salchicha en granel",
+    "1 cebolla grande, finamente picada",
+    "3 dientes de ajo, picados",
+    "1 lata de 8 onzas de salsa de tomate",
+    "1/2 taza de ketchup",
+    "3/4 taza de galletas saladas trituradas",
+    "2 huevos",
+    "2 cucharaditas de salsa Worcestershire",
+    "1 cucharadita de sal sazonada",
+    "1/4 cucharadita de pimienta sazonada",
+    "1 papa (o 2), pelada, cortada en dedos"
+  ],
+  "recipeInstructions": "Sirve para 6 a 8 personas\nCombinar todos los ingredientes excepto las papas y la salsa; mezclar bien y dar forma a un pan.\nColocar las papas en el fondo de una olla lenta.\nTapar con el pan de carne.\nMezclar los ingredientes de la salsa juntos hasta que estén bien combinados.\nVerter la salsa sobre todo.\nCubrir y cocinar a fuego lento durante 8 a 12 horas.",
+  "url": null
+}

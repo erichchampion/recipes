@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cocktail-quiche",
+  "name": "Tarta de cóctel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "tartas de cena",
+    "pescado y mariscos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mayonesa",
+    "2 cucharadas de harina",
+    "2 huevos batidos",
+    "1/2 taza de leche",
+    "1 masa de tarta de 23 cm (precocida parcialmente)",
+    "1 lata de carne de cangrejo",
+    "1 lata de camarones",
+    "8 oz. de queso suizo natural Kraft",
+    "1/4 taza de cebolla verde picada"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar la mayonesa y la harina.\n2. Añadir los huevos batidos y la leche a la mezcla. Remover hasta que esté bien combinado.\n3. Incorporar suavemente la carne de cangrejo, los camarones, el queso suizo y la cebolla verde picada.\n4. Verter cuidadosamente el relleno en la masa de tarta parcialmente cocida.\n5. Colocar el plato en el horno precalentado a 175 °C.\n6. Hornear durante 45 minutos o hasta que la quiche sea dorada.",
+  "url": null
+}

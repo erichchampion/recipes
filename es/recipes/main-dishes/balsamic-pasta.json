@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "balsamic-pasta",
+  "name": "Pasta con salsa balsámica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 pimiento rojo, cortado en rodajas",
+    "1 pimiento verde, cortado en rodajas",
+    "1 pimiento amarillo, cortado en rodajas",
+    "3-4 dientes de ajo, picados",
+    "1 cucharada de alcaparras",
+    "1/2 taza de vinagre balsámico",
+    "1/2 taza de vinagre de sidra de manzana",
+    "1 paquete de pasta Rotini"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta y escurrirla.\n2. En una sartén, calentar el vinagre balsámico y el vinagre de sidra de manzana.\n3. Saltear el ajo en los vinagres durante aproximadamente un minuto.\n4. Añadir las rodajas de pimiento a la sartén y remover hasta que estén calentadas.\n5. Llevar la mezcla a ebullición.\n6. Reducir el fuego y agregar las alcaparras.\n7. Remover para combinar y dejar que la salsa reduzca durante 15-20 minutos.\n8. Mezclar la pasta con la salsa. Servir, es ácida y deliciosa.",
+  "url": null
+}

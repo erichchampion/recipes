@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-split-pea-soup",
+  "name": "Sopa de guisantes en olla de cocción lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "olla de cocción lenta",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 paquete (1 lb) de guisantes partidos",
+    "1 hueso de jamón (con algo de carne adherida) o 2 morcillas de jamón",
+    "1 zanahoria, picada",
+    "1 cebolla, picada",
+    "1 tallo de apio, picado",
+    "2 cuartos de agua",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en la olla de cocción lenta.\n2. Tapar y cocinar a fuego lento durante 8 a 10 horas.\n3. Retirar el hueso de jamón; cortar la carne y picarla, luego devolverla a la sopa.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "nut-bread",
+  "name": "Pan de nueces",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "4 tazas de harina",
+    "6 cucharaditas de polvo de hornear",
+    "1 taza de azúcar",
+    "1 taza de frutos secos picados",
+    "1 cucharadita de sal",
+    "1 taza de leche dulce",
+    "2 huevos"
+  ],
+  "recipeInstructions": "1. Mezcla los ingredientes secos y los frutos secos.\n2. Añade la leche y los huevos, removiendo hasta que se combinen.\n3. Vierte la mezcla en 2 moldes para hornear engrasados.\n4. Deja reposar durante 20 minutos.\n5. Hornea a temperatura moderada (180°C) durante 45 a 60 minutos.",
+  "url": null
+}

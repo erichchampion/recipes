@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "a-very-tasty-chili-recipe",
+  "name": "Una receta de chili muy sabrosa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "chili",
+    "carnes",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "3 chiles rojos secos New Mex",
+    "2 chipotles",
+    "1 habanero",
+    "4 dientes de ajo",
+    "1 cucharada de comino molido",
+    "1 cucharada de orégano seco",
+    "1 cucharada de aceite vegetal",
+    "1 cebolla grande picada",
+    "150 gramos de carne molida",
+    "400 gramos de tomates troceados (con su jugo)",
+    "400 gramos de frijoles rojos"
+  ],
+  "recipeInstructions": "1. Cortar la parte superior de los chiles secos y eliminar los tallos.\n2. Tostar los chiles en una sartén caliente durante unos minutos hasta que estén aromáticos.\n3. Remojar los chiles en agua caliente durante 20 minutos, luego escurrir y mezclar con algo del agua de remojo.\n4. Picar groseramente el habanero y el ajo, y añadirlo al procesador junto con el comino y el orégano. Mezclar de nuevo.\n5. Calentar el aceite vegetal en una cacerola y freír la cebolla picada hasta que esté tierna.\n6. Agregar la carne molida a la sartén y cocinar hasta que esté dorada.\n7. Incorporar la mezcla de chile, tomates troceados y frijoles rojos. Cubrir y dejar hervir a fuego lento durante al menos 30 minutos.\n8. Descubrir la olla y aumentar ligeramente el fuego. Dejar evaporar el exceso de líquido durante unos 10 minutos más.\n9. Servir según lo deseado.",
+  "url": null
+}

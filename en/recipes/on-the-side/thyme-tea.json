@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "thyme-tea",
+  "name": "Thyme Tea",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "herb recipes",
+    "side dishes",
+    "tea"
+  ],
+  "recipeIngredient": [
+    "2 teaspoons dried thyme",
+    "2 teaspoons dried Spearmint",
+    "2 teaspoons dried sage"
+  ],
+  "recipeInstructions": "1. Preheat a 6-cup teapot.\n2. Place the herbs in the teapot.\n3. Pour boiling water over the herbs.\n4. Let the infusion steep for no more than 10 minutes.\n5. Once steeped, pour the tea immediately into cups.\n6. Serve with honey.",
+  "url": null
+}

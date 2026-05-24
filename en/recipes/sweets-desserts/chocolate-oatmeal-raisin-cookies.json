@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-oatmeal-raisin-cookies",
+  "name": "Chocolate-Oatmeal Raisin Cookies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 package, €",
+    "1 Pound cake mix",
+    "3/4 cup Vegetable oil",
+    "2 Eggs",
+    "1 teaspoon Vanilla extract",
+    "1/2 teaspoon Cinnamon",
+    "1 cup Quick cooking oats",
+    "3/4 cup Chocolate-covered raisins"
+  ],
+  "recipeInstructions": "Preheat oven to 375.\nIn a large bowl, combine cake mix, vegetable oil, eggs, vanilla extract, and cinnamon; beat with an electric mixer until smooth.\nStir in oats and chocolate-covered raisins.\nDrop tablespoonfuls of dough about 2 inches apart on an ungreased baking sheet.\nBake 8 to 10 minutes or until edges are light brown.\nTransfer to a wire rack to cool completely.",
+  "url": null
+}

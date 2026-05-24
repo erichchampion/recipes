@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "caesar-style-dressing",
+  "name": "Aderezo al estilo César",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 yema de huevo",
+    "4 cucharadas de aceite de ajo",
+    "1 cucharada de vinagre de vino tinto",
+    "1 cucharada de mostaza dijon",
+    "1 cucharada de parmesano rallado",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Verter lentamente el aceite de ajo en la yema de huevo mientras se bate continuamente.\n2. Agregar gradualmente el vinagre de vino tinto.\n3. Incorporar los ingredientes restantes (mostaza dijon, parmesano rallado, sal y pimienta).\n4. Si el aderezo es demasiado espeso, diluirlo con un poco de agua, una cucharadita a la vez.",
+  "url": null
+}

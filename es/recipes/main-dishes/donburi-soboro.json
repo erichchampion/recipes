@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "donburi-soboro",
+  "name": "Donburi Soboro",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "asiático",
+    "carne de res",
+    "étnico",
+    "japonés"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite",
+    "2 zanahorias; picadas finamente",
+    "2 cebolletas",
+    "1 libra de carne de res, desmenuzada",
+    "5 onzas de tofu; cortado en cubos de medio centímetro",
+    "3 onzas de espinacas",
+    "2 cucharadas de azúcar",
+    "4 cucharadas de salsa de soja",
+    "4 huevos",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "1. Calentar el aceite y saltear las zanahorias.\n2. Añadir las cebolletas picadas.\n3. Incorporar la carne de res y dorar.\n4. Agregar el tofu, las espinacas, la sal, el azúcar y la salsa de soja. Cocinar a fuego lento.\n5. Batir los huevos y mezclarlos con la mezcla.\n6. Cocinar y remover durante 5 minutos.\n7. Servir sobre arroz al vapor.",
+  "url": null
+}

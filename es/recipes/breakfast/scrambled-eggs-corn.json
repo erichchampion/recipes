@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "scrambled-eggs-corn",
+  "name": "Huevos revueltos con maíz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "queso",
+    "huevos",
+    "plato principal",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "2 cucharaditas de mantequilla",
+    "2 cebolletas, picadas finamente, incluyendo un poco del verde",
+    "5 ramitos de cilantro, picados",
+    "1 mazorca grande de maíz (retirar los granos)",
+    "Agua",
+    "2 huevos",
+    "Sal",
+    "2 tortillas de harina",
+    "2 cucharadas de queso Muenster rallado",
+    "2 cucharadas de queso Monterey Jack rallado"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una sartén de 20 cm y añade las cebolletas, el cilantro y el maíz. Cocina durante un minuto o dos.\n2. Añade un chorro de agua y continúa cocinando hasta que el maíz esté tierno. Sazona con sal.\n3. Bate los huevos con una pizca de sal y una cucharadita de agua. Vierte la mezcla en la sartén con el maíz.\n4. Revuelve suavemente con un tenedor.\n5. Añade al final el queso Muenster y el Monterey Jack rallados. Mezcla con unas cuantas pasadas del tenedor.\n6. Mientras se cocina, calienta las tortillas en una sartén seca. Sirve caliente con los huevos y salsa o cilantro adicional, si lo deseas.",
+  "url": null
+}

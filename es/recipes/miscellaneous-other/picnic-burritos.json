@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "picnic-burritos",
+  "name": "Burritos para picnic",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "americano",
+    "burrito",
+    "étnico",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mayonesa baja en grasa",
+    "2 cucharaditas de mezcla de especias taco",
+    "6 tortillas de harina (de 8 pulgadas)",
+    "2 onzas de queso rallado bajo en grasa",
+    "1/2 libra de pavo cocido en láminas finas",
+    "1 tomate grande, en rodajas finas",
+    "Lechuga de hoja"
+  ],
+  "recipeInstructions": "1. Mezclar la mayonesa y la mezcla de especias taco.\n2. Extender la mezcla uniformemente sobre cada tortilla.\n3. Espolvorear queso rallado sobre la mayonesa.\n4. Capar con pavo, rodajas de tomate y lechuga, dejando aproximadamente 2 pulgadas en un lado cubiertas solo con la mezcla de mayonesa.\n5. Enrollar cada tortilla apretadamente empezando por el lado con pavo.\n6. Para servir inmediatamente, cortar cada burrito por la mitad.\n7. O, envolver los burritos sin cortar en papel film y refrigerar hasta por 2 horas antes de cortar y servir.",
+  "url": null
+}

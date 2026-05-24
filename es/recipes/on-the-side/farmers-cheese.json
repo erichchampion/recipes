@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "farmers-cheese",
+  "name": "Queso de granero",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "8 tazas de leche desnatada",
+    "1 taza de polvo de leche desnatada instantánea (Carnation)",
+    "1/4 taza de zumo de limón o vinagre blanco",
+    "(especias opcionales al gusto)"
+  ],
+  "recipeInstructions": "1. Calentar 8 tazas de leche desnatada en una cacerola a fuego medio hasta que esté tibia.\n2. Incorporar lentamente el polvo de leche desnatada, removiendo hasta que se disuelva.\n3. Cuando la mezcla comience a hervir, añadir lentamente el zumo de limón o vinagre blanco, removiendo constantemente.\n4. Continuar calentando y añadiendo ácido hasta que los sólidos de la leche se separen por completo del suero (líquido amarillo).\n5. Escurrir los cuajados a través de un paño de cocina en un bol.\n6. Utilizar el queso cocinado como deseen, por ejemplo, rellenar pimientos verdes con sal, pimienta y hierbas si se añaden durante el proceso.",
+  "url": null
+}

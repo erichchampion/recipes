@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "extra-dry-martini",
+  "name": "Extra Dry Martini",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz Gin",
+    "1 drop Dry vermouth",
+    "1 Olive"
+  ],
+  "recipeInstructions": "Fill a mixing glass with ice. Pour in gin and dry vermouth. Stir (or shake) and strain into a martini glass. Garnish with an olive.",
+  "url": null
+}

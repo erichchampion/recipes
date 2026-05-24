@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-pizza-dough-sauce",
+  "name": "Masa de pizza rápida y salsa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiana",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "Masa:",
+    "4 tazas de harina",
+    "1 cucharadita de sal",
+    "1 cucharadita de azúcar",
+    "2 1/2 cucharaditas de levadura para repostería rápida",
+    "Salsa:",
+    "1 cebolla, picada finamente",
+    "1 diente de ajo, picado",
+    "2 cucharadas de aceite de oliva",
+    "1/2 cucharadita de azúcar",
+    "1/8 cucharadita de tomillo",
+    "1/8 cucharadita de albahaca",
+    "1/8 cucharadita de orégano",
+    "1 lata (400 g) de tomates triturados"
+  ],
+  "recipeInstructions": "Para la masa:\nEn un procesador de alimentos, mezclar 1 taza de harina, la levadura y el azúcar. Pulsar hasta combinar. Agregar 1 1/3 tazas de agua caliente, sal y el resto de la harina. Procesar hasta formar una bola; luego procesar durante 10 segundos más. Es posible que sea necesario ajustar la masa agregando más agua o harina. La masa no debe estar demasiado seca ni demasiado pegajosa. Dejar reposar/levantar durante aproximadamente 10 minutos.\nPara la salsa:\nEn una sartén, cocinar la cebolla y el ajo en aceite a fuego medio-bajo, revolviendo después de 5 minutos. Agregar el azúcar, tomillo, albahaca y orégano; cocinar hasta que la cebolla esté suave. Procesar en un procesador de alimentos hasta obtener una consistencia suave. Devolver a la sartén y cocinar durante 15 minutos. Enfriar antes de usar.",
+  "url": null
+}

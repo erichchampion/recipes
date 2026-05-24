@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-rustica-pastry-dough",
+  "name": "Masa para pizza rustica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "masa",
+    "principal",
+    "plato",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "4 tazas de harina de uso común",
+    "2 cucharaditas de azúcar",
+    "1 cucharadita de sal",
+    "2 barras de mantequilla fría sin sal (cortada en trozos)",
+    "4 huevos, ligeramente batidos"
+  ],
+  "recipeInstructions": "1. En un bol con un cortador de masa o en un procesador de alimentos, mezcle o pulse juntos la harina, el azúcar y la sal.\n2. Añada la mantequilla y mezcle o pulse hasta obtener una textura similar a migas gruesas.\n3. Incorpore los huevos y mezcle o pulse hasta que estén integrados y forme una masa.\n4. Forme la masa en un disco y refrigere, envuelta en papel de cera, durante 1 hora. La masa se puede preparar con hasta un día de antelación y conservar en el refrigerador, cubierta.",
+  "url": null
+}

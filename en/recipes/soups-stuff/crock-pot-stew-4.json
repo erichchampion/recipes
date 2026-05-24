@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "crock-pot-stew-4",
+  "name": "Crock Pot Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "poultry",
+    "slow cooker",
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "1 pound Beef stew meat",
+    "2 large Potatoes, quartered",
+    "1 large Onion, quartered",
+    "2 Carrots, sliced",
+    "2 Celery stalks, sliced",
+    "2 cups Bouillon (made with 2 cups water and 2 bouillon cubes)",
+    "1 can Cream of Mushroom soup",
+    "1 can Cream of Celery soup"
+  ],
+  "recipeInstructions": "1. Layer all ingredients as listed in the crock pot.\n2. Cook on low for 8-10 hours or until the meat is tender.\n3. Alternatively, bake in an oven at 225°F (107°C) for 5 hours.",
+  "url": null
+}

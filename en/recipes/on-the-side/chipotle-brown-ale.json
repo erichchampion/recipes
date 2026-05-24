@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chipotle-brown-ale",
+  "name": "Chipotle Brown Ale",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "7 lb Dark Malt",
+    "Extract Syrup",
+    "1/2 lb Crystal Malt",
+    "1/4 lb Black Patent Malt",
+    "2 oz Fuggles Hops (boiling)",
+    "1/2 oz Fuggles or Cascade Hops",
+    "Hops (Finishing): 4 Chipotle Peppers (split in half)",
+    "1 package Ale Yeast",
+    "3/4 cup Corn Sugar"
+  ],
+  "recipeInstructions": "1. Combine the cracked crystal malt and black patent malt with 3 gallons of cold water. Bring to a boil.\n2. Strain out the grains once boiling.\n3. Add extract syrup, boiling Fuggles hops, and chipotle peppers. Boil for 45-60 minutes.\n4. During the final 5-10 minutes, add finishing Fuggles or Cascade hops.\n5. Sparge hot water into the fermenter with cold water. Allow to cool.\n6. Transfer yeast to the cooled mixture.\n7. Ferment for 2 weeks.\n8. Add corn sugar and bottle.",
+  "url": null
+}

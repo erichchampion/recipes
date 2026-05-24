@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "seafood-paella-2",
+  "name": "Paella de Mariscos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1 cebolla grande (picada)",
+    "2 dientes de ajo (picados)",
+    "1/4 taza de aceite vegetal",
+    "1 1/2 tazas de arroz sin cocinar",
+    "1/8 cucharadita de azafrán",
+    "1 hoja de laurel",
+    "3 tazas de caldo de pollo",
+    "1 libra de camarones (descascados y desvenados)",
+    "18 almejas",
+    "18 mejillones (enjuagados)",
+    "2 cucharadas de pimentón (picado)",
+    "1 taza de guisantes pequeños"
+  ],
+  "recipeInstructions": "1. Saltear las cebollas y el ajo en aceite en una sartén hasta que estén tiernos. Agregar el arroz y el azafrán, y seguir salteando durante 5 minutos más. Incorporar la hoja de laurel y 2 tazas de caldo, luego dejar cocinar a fuego lento sin tapar por 10 minutos.\n2. Añadir el resto del caldo y los camarones, y seguir cocinando a fuego lento durante 5 minutos más. Luego agregar las almejas y los mejillones, junto con cualquier caldo adicional necesario. Cocinar hasta que se abran las conchas (descartar las conchas sin abrir).\n3. Retirar del fuego, retirar la hoja de laurel, mezclar el pimentón y los guisantes. Sazonar con sal y pimienta al gusto antes de servir.",
+  "url": null
+}

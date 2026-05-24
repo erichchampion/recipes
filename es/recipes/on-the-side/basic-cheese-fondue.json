@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-cheese-fondue",
+  "name": "Fondue de queso básico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso",
+    "fondue",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 kg de queso Gruyere rallado groseramente",
+    "200 g de queso Emmentaler rallado groseramente",
+    "4 cucharaditas de maicena",
+    "1 diente de ajo, partido por la mitad",
+    "1 ½ tazas de vino blanco seco, preferiblemente Neufchatel",
+    "2 cucharaditas de zumo de limón",
+    "1 ½ cucharadas de kirsch, si se desea",
+    "Pimienta negra molida al gusto",
+    "Un pellizco de nuez moscada rallada"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar los quesos y la maicena y remover hasta que estén bien cubiertos.\n2. Frotar el interior de una cacerola pesada con el ajo y desechar el ajo.\n3. Añadir el vino y el zumo de limón y llevar a ebullición.\n4. Incorporar la mezcla de queso gradualmente a fuego medio, removiendo hasta que esté suave.\n5. Añadir el kirsch, si se desea. Sazonar con pimienta y nuez moscada.\n6. Reducir el fuego y dejar que la mezcla hierva durante 2-3 minutos.\n7. Transferir la mezcla a un soporte para fondue sobre una llama baja.\n8. Servir inmediatamente, removiendo continuamente para evitar que se separe.\nRinde: 4-6 personas",
+  "url": null
+}

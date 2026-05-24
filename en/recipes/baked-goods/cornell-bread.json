@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "cornell-bread",
+  "name": "Cornell Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 package Yeast",
+    "3 cups Bread Flour",
+    "3 tablespoons Soy Flour",
+    "3 tablespoons Nonfat Dry Milk Powder",
+    "3 tablespoons Wheat Germ",
+    "1 teaspoon Salt",
+    "2 tablespoons Honey",
+    "2 tablespoons Butter",
+    "1 Egg",
+    "1 cup Plus 2 Tablespoons Warm Water"
+  ],
+  "recipeInstructions": "1. Add all ingredients in the order listed, select white bread setting, and press \"Start\".\n2. Unless otherwise noted, ensure all ingredients are at room temperature.\n3. This can be mixed on manual mode of the bread machine.\n4. After second kneading, remove dough from the machine, divide into two equal portions, and place in small loaf pans.\n5. Cover and let rise to double, about 45 minutes to 1 hour.\n6. Bake at 350°F for 35-40 minutes.",
+  "url": null
+}

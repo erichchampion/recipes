@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-sauce-3-2",
+  "name": "Salsa para pizza #3",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pizza",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 lata de puré de tomate",
+    "1/4 litro de marjoram",
+    "3 tazas de agua",
+    "1/4 litro de orégano",
+    "3 pintas de aceite de cocina",
+    "1/2 litro de azúcar moreno",
+    "1/4 taza de cebolla cruda (picada)",
+    "1 pinta de pimienta negra",
+    "1 diente de ajo (picado)",
+    "1 pinta de queso parmesano (rallado)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una olla de 1 litro.\n2. Cocinar durante 30-40 minutos.\n3. Sirve para 4 pizzas de 30 cm de diámetro.",
+  "url": null
+}

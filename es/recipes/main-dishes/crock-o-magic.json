@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "crock-o-magic",
+  "name": "Crock-o-Mágica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato bajo en calorías",
+    "plato principal",
+    "olla de cocción lenta",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "Cebolla entera, lavada y picada",
+    "Lechuga sobrante, picada",
+    "Col rizada sobrante, cortada en puñados",
+    "Zanahorias sobrantes, picadas",
+    "Papas marchitas, cortadas",
+    "Frijoles lima sobrantes, picados",
+    "Calabacín amarillo/verde, picado",
+    "Rábano cortado (casi podrido)",
+    "Manzana marchita, con los puntos malos eliminados, picada",
+    "Arroz seco o 1 taza de arroz cocido"
+  ],
+  "recipeInstructions": "1. Reúne todos los restos que vayas a tirar y colócalos en la olla de cocción lenta.\n2. Añade agua hasta que todo esté cubierto.\n3. Configura la olla de cocción lenta a temperatura baja y cocina durante 12 horas.",
+  "url": null
+}

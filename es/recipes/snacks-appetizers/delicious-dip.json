@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "delicious-dip",
+  "name": "Saboroso Dip",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "salsas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de queso cottage",
+    "2 cucharadas de queso rallado",
+    "1/4 cucharadita de eneldo seco",
+    "1/2 cucharadita de salsa Worcestershire",
+    "1/4 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. En un bol, machaca el queso cottage con un tenedor y mézclalo con el queso rallado.\n2. Añade el eneldo, la sal y la salsa Worcestershire a la mezcla.\n3. Revuelve bien hasta que todos los ingredientes estén combinados.\n4. Sumérgeles verduras crudas en el dip y disfruta.",
+  "url": null
+}

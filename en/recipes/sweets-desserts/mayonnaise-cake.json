@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mayonnaise-cake",
+  "name": "Mayonnaise Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "2 cups flour",
+    "5 teaspoons cocoa powder",
+    "1 cup sugar",
+    "2 teaspoons baking soda",
+    "1 cup mayonnaise",
+    "1 cup cold water",
+    "1 teaspoon vanilla extract"
+  ],
+  "recipeInstructions": "1. Sift together 2 cups of flour, 5 teaspoons of cocoa powder, 1 cup of sugar, and 2 teaspoons of baking soda.\n2. Add the mayonnaise, cold water, and vanilla extract to the sifted ingredients.\n3. Beat all ingredients for 5 minutes until well combined.\n4. Grease and flour a pan.\n5. Pour the batter into the prepared pan.\n6. Bake at 350°F for about 25 minutes.\n7. Use any type of icing desired.",
+  "url": null
+}

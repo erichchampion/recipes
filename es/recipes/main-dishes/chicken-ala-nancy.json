@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-ala-nancy",
+  "name": "Pollo ala Nancy",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "2 pechugas de pollo enteras",
+    "1/4 taza de aceite",
+    "1 diente de ajo",
+    "1/2 limón con su piel",
+    "1/2 libra de setas",
+    "1 cucharada de harina",
+    "1/4 taza de vino blanco",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "1/4 cucharadita de orégano",
+    "1 lata de corazones de artichoke"
+  ],
+  "recipeInstructions": "1. Golpear el pollo en trozos de 2 pulgadas.\n2. Calentar el aceite en una sartén a fuego medio.\n3. Agregar el ajo (machacado) y saltear hasta que esté suave.\n4. Añadir todos los demás ingredientes excepto los corazones de artichoke.\n5. Saltear, revolviendo con frecuencia, durante 15 minutos a fuego medio-alto.\n6. Incorporar los corazones de artichoke y continuar cocinando hasta que estén calientes.",
+  "url": null
+}

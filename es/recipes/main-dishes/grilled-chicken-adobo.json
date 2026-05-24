@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "grilled-chicken-adobo",
+  "name": "Pollo a la parrilla adobo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "salsas mexicanas para pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "10 pechugas de pollo (sin hueso ni piel)",
+    "1/4 taza de salsa de achiote base",
+    "1 taza de jugo de naranja",
+    "2 cucharadas de aceite vegetal",
+    "1 cucharadita de hojas de albahaca seca",
+    "1 cucharadita de canela molida",
+    "1/2 cucharadita de sal",
+    "Salsa de Achiote Base:",
+    "1/3 taza de semillas de achiote (chiles Ancho)",
+    "1/3 taza de jugo de naranja",
+    "1/3 taza de vinagre blanco",
+    "1 cucharadita de chiles rojos molidos",
+    "1/2 cucharadita de pimienta negra",
+    "1 diente de ajo pelado"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes para la salsa de achiote base en un bol.\n2. Colocar las 10 pechugas de pollo sin hueso ni piel en la marinada y retirar el fuego.\n3. Remover bien para cubrir el pollo uniformemente.\n4. Dejar reposar el pollo marinado a temperatura ambiente durante al menos 30 minutos antes de asar.\n5. Asar el pollo a fuego medio hasta que esté completamente cocido, aproximadamente 6-8 minutos por lado.\n6. Servir caliente con arroz o el acompañamiento de su elección.",
+  "url": null
+}

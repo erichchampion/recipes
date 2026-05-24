@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "down-and-dirty-rice",
+  "name": "Arroz sucio y rápido",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americano",
+    "vacuno",
+    "cajún",
+    "étnico"
+  ],
+  "recipeIngredient": [
+    "1/2 libra de carne molida",
+    "Sal y pimienta al gusto",
+    "1 cucharada de mantequilla",
+    "1 taza de perejil picado",
+    "1 1/2 tazas de cebolla verde picada",
+    "2 tazas de arroz blanco sin cocer",
+    "4 1/2 tazas de caldo de pollo"
+  ],
+  "recipeInstructions": "1. Sazonar la carne molida con sal y pimienta.\n2. Cocinar la carne en la mantequilla, desmenuzándola mientras se cocina, hasta que esté dorada.\n3. Agregar el perejil y la cebolla verde. Cocinar hasta que las verduras estén tiernas.\n4. Incorporar el arroz y verter el caldo. Llevar a ebullición.\n5. Reducir el fuego y dejar cocer a fuego lento durante 1 hora.\n6. Espolvorear con pimienta negra antes de servir.\n7. Para variar, se puede usar 1 taza de arroz salvaje junto con 1 taza de arroz blanco.",
+  "url": null
+}

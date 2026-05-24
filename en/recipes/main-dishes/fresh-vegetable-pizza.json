@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "fresh-vegetable-pizza",
+  "name": "Fresh Vegetable Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "appetizers",
+    "main dish",
+    "pizza",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "2 cups Pillsbury Crescent Rolls",
+    "8 oz Sour cream",
+    "1 1/2 tbsp Prepared horseradish",
+    "1/4 tsp Salt",
+    "1/8 tsp Pepper",
+    "2 cups Fresh mushrooms, chopped",
+    "1 cup Chopped, seeded tomatoes",
+    "1 cup Small broccoli florets",
+    "1/2 cup Chopped green peppers",
+    "1/2 cup Chopped green onions"
+  ],
+  "recipeInstructions": "1. Heat oven to 375°F. Separate dough into 4 long rectangles. Place rectangles crosswise in an ungreased 15 x 10 x 1-inch baking pan; press over bottom and 1 inch up the sides. Seal perforations. Bake 14 to 19 minutes or until golden brown. Cool completely.\n2. Blend sour cream, horseradish, salt, and pepper until smooth. Spread evenly over crust. Top with remaining ingredients. Cut into appetizer-size pieces. Refrigerate.",
+  "url": null
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "slow-poke-jambalaya",
+  "name": "Jambayola Lenta",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "diabetico",
+    "plato principal",
+    "cocinador lento"
+  ],
+  "recipeIngredient": [
+    "1 Pimiento rojo, picado",
+    "1 Cebolla, picada",
+    "2 Tomates medianos, picados",
+    "1 Taza de apio picado",
+    "1 Diente de ajo, machacado",
+    "2 Cucharadas de perejil fresco picado",
+    "2 c.c. de tomillo fresco picado",
+    "2 c.c. de orégano fresco picado",
+    "1/8 c.c. de cayena",
+    "1/2 c.p. de sal",
+    "4 onzas de salchicha ahumada, picada",
+    "8 onzas de pechuga de pollo, picada",
+    "2 Tazas de caldo de ternera o pollo",
+    "1/2 libra de camarones cocidos pelados y mitad",
+    "1 Taza de arroz cocido"
+  ],
+  "recipeInstructions": "1. Desvenar los camarones y dividirlos por la mitad a lo largo.\n2. En una olla para cocción lenta, mezclar todos los ingredientes excepto los camarones y el arroz. Cubrir y cocinar a fuego lento durante 9-10 horas.\n3. Apagar la olla para cocción lenta, luego añadir los camarones cocidos y el arroz. Cubrir y cocinar a fuego alto durante 20-30 minutos.",
+  "url": null
+}

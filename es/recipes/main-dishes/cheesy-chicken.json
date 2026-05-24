@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheesy-chicken",
+  "name": "Pollo con queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo sin hueso",
+    "1 cebolla pequeña, en rodajas",
+    "1 taza de setas, en rodajas (opcional)",
+    "2 cucharadas de mantequilla",
+    "1 lata (10 onzas) de sopa de champiñones Campbell's",
+    "5 onzas de leche",
+    "Queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla en mantequilla hasta que esté transparente.\n2. Añadir las pechugas de pollo y cocinar hasta que el pollo esté hecho (los jugos sean claros). Retirar y colocar en un plato para hornear grande.\n3. En una taza medidora grande, mezclar la sopa (lata de 10 onzas) y la leche, y remover para disolver los grumos.\n4. Verter la mezcla sobre el pollo en el plato para hornear.\n5. Espolvorear con queso parmesano rallado y hornear durante 15-20 minutos a 325°F (160°C).\n6. Saltear las setas en mantequilla hasta que estén cocidas.\n7. Cuando el pollo esté fuera del horno, extender las setas salteadas sobre la parte superior y servir.\n8. Servir con puré de patatas o arroz. Excelente con coliflor o brócoli como guarnición. La salsa de queso también se puede añadir a las verduras para un sabor extra.",
+  "url": null
+}

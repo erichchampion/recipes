@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-salad-deluxe",
+  "name": "Chicken Salad Deluxe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "poultry",
+    "salads"
+  ],
+  "recipeIngredient": [
+    "3 cups Chicken, cooked and diced",
+    "1/2 cup Pecans, toasted",
+    "1 cup Celery, chopped",
+    "1/2 cup Coconut",
+    "1/2 cup Grapes, seedless, halved",
+    "1/4 cup Sour cream",
+    "1 tablespoon Mustard",
+    "1/2 teaspoon Salt",
+    "1/2 cup Mayonnaise",
+    "1/2 Lemon, juice from half"
+  ],
+  "recipeInstructions": "1. Combine chicken, pecans, celery, coconut, and grapes in a large bowl.\n2. In a small bowl, mix together the sour cream, mustard, salt, mayonnaise, and lemon juice to make dressing.\n3. Serve the salad over lettuce or halved avocado.\n4. Surround the salad with pineapple or other fruit.\n5. Garnish with olives or cherries.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-dip",
+  "name": "Sopa de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "frutas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de azúcar moreno (aproximadamente 300 g)",
+    "1/4 taza de azúcar (50 g)",
+    "1 cucharadita de extracto de vainilla",
+    "2 paquetes de queso crema (8 onzas cada uno, aproximadamente 560 g en total)",
+    "1 taza de nueces picadas"
+  ],
+  "recipeInstructions": "1. Mezclar los azúcares, la vainilla y el queso crema hasta obtener una consistencia suave.\n2. Incorporar las nueces picadas a la mezcla.\n3. Cortar las manzanas en rodajas y sumergirlas durante unos minutos en agua con sal para evitar que se oxiden.\n4. Sumergir las rodajas de manzana en el dip, alejándose de usted.",
+  "url": null
+}

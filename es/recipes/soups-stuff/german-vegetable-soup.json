@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "german-vegetable-soup",
+  "name": "Sopa de verduras alemana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "Hueso de sopa, grande",
+    "Tomate, 1 pinta",
+    "Frijoles lima, 1 pinta",
+    "Maíz rallado, 1 pinta",
+    "Repollo picado, 2 tazas",
+    "Rábano cortado en cubos, 1 grande",
+    "Zanahoria cortada en cubos, 1 grande",
+    "Cebolla rebanada, 1",
+    "Harina, 1 cucharadita",
+    "Leche, ½ taza",
+    "Sal y pimienta al gusto",
+    "Agua fría"
+  ],
+  "recipeInstructions": "1. Lavar bien el hueso de sopa y cubrirlo con agua fría. Dejar hervir durante varias horas.\n2. Retirar la grasa de la superficie del líquido hirviendo.\n3. Agregar a la olla el rábano, la zanahoria, la cebolla, los frijoles lima, el maíz, el repollo y mezclar ½ taza de leche con una cucharadita de harina.\n4. Sazonar la sopa al gusto con sal y pimienta.\n5. Continuar cocinando por otra hora.\n6. Servir caliente.",
+  "url": null
+}

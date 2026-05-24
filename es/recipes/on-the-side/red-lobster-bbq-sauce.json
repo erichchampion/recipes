@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "red-lobster-bbq-sauce",
+  "name": "Salsa BBQ de Red Lobster",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "barbecua",
+    "variado",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de salsa estilo rústica Prego",
+    "1/2 taza de ketchup Del Monte",
+    "1 cucharada de mostaza Dijon",
+    "1 cucharada de vinagre",
+    "1/8 cucharadita de mostaza en polvo seca",
+    "1 cucharadita de polvo de chile"
+  ],
+  "recipeInstructions": "1. Mezclar bien la salsa estilo rústica Prego, el ketchup Del Monte, la mostaza Dijon, el vinagre, la mostaza en polvo seca y el polvo de chile.\n2. Refrigerar, bien tapado, hasta por 90 días o congelar hasta por 1 año.\n3. Servir con sándwich de pollo.",
+  "url": null
+}

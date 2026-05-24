@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "ranch-style-taco-salad",
+  "name": "Ensalada de Tacos al Estilo Ranch",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "plato principal",
+    "mexicano",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "Una cabeza de lechuga",
+    "Cebolla",
+    "400 g de frijoles rancheros en lata",
+    "Paquete de totopos de maíz",
+    "2 aguacates",
+    "2 tomates",
+    "400 g de queso cheddar",
+    "Botella de aderezo Catalina",
+    "400 g de carne molida",
+    "2 cucharadas de jugo de limón"
+  ],
+  "recipeInstructions": "1. Saltear la carne molida y escurrir bien. Dejar enfriar.\n2. Rasgar la lechuga en trozos.\n3. Cortar los tomates y la cebolla en dados.\n4. Rallar el queso.\n5. Escurrir los frijoles.\n6. Romper los totopos en pedazos más pequeños.\n7. Cortar los aguacates y espolvorear con jugo de limón, mezclando suavemente para cubrir.\n8. Mezclar todos los ingredientes excepto los totopos.\n9. Cubrir con los totopos justo antes de servir.",
+  "url": null
+}

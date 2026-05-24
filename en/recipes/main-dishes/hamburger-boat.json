@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-boat",
+  "name": "Hamburger Boat",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "cheese",
+    "ground beef",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "1 Loaf French Bread",
+    "1 can Mushrooms, sliced",
+    "1 pound Ground beef",
+    "1 Onion, diced",
+    "15 ounce Tomato sauce",
+    "1 package Mozzarella cheese slices"
+  ],
+  "recipeInstructions": "1. Remove the center of the bread to create a boat shape.\n2. Brown the ground beef in a pan.\n3. Add the tomato sauce, mushrooms, and onion to the pan. Simmer for 2-3 minutes.\n4. Pour the beef mixture into the hollowed-out bread.\n5. Top with slices of mozzarella cheese.\n6. Place on a baking sheet and heat at 350°F for 10-15 minutes, or until the cheese melts.\n7. Slice and serve. Serves 5-6.",
+  "url": null
+}

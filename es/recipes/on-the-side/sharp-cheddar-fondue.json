@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "sharp-cheddar-fondue",
+  "name": "Fondue de Queso Cheddar Picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso",
+    "fondue",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "3 tazas de queso cheddar fuerte, cortado en cubos",
+    "1 taza de queso azul (4 onzas)",
+    "1 taza de sopa de tomate sin diluir",
+    "2 cucharaditas de salsa Worcestershire",
+    "1/4 taza de jerez seco"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el vino en una sartén.\n2. Cocinar a fuego lento, removiendo continuamente hasta que esté suave.\n3. Incorporar el vino y servir.",
+  "url": null
+}

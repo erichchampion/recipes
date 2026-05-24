@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "steak-marinade-2",
+  "name": "Marinada para bistec",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "marinadas",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 cucharadita de ralladura de limón",
+    "1/2 taza de zumo de limón",
+    "1/3 taza de aceite de cocina",
+    "2 cucharadas de cebolla verde picada con las puntas",
+    "1 diente de ajo, picado finamente",
+    "4 cucharaditas de azúcar",
+    "1 1/2 cucharaditas de sal",
+    "1 cucharadita de salsa Worcestershire",
+    "1 cucharadita de mostaza dijon",
+    "1/8 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes de la marinada.\n2. Verter la mezcla sobre los filetes de steak.\n3. Dejar marinar a temperatura ambiente durante 3-4 horas, dando la vuelta a los filetes varias veces, o pasar la noche en el refrigerador.\n4. Sellar los filetes a la parrilla hasta alcanzar el punto de cocción deseado.\n5. Esta receta proporciona suficiente líquido para marinar 4 filetes.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "fried-cucumber",
+  "name": "Cuchas fritas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 pepino",
+    "Sal y pimienta al gusto",
+    "Pan rallado",
+    "1 huevo batido",
+    "Aceite de fritura"
+  ],
+  "recipeInstructions": "1. Pelar el pepino y cortarlo en rodajas finas en sentido largo. Secar las rodajas con papel de cocina.\n2. Espolvorear sal y pimienta sobre las rodajas.\n3. Pasarlas primero por el pan rallado, luego por el huevo batido y finalmente nuevamente por el pan rallado.\n4. Freír en aceite caliente a 190 °C hasta que estén delicadamente doradas.\n5. Escurrir sobre papel absorbente.",
+  "url": null
+}

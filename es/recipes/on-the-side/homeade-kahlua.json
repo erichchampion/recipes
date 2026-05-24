@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "homeade-kahlua",
+  "name": "Kahlua casera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 litro de brandy",
+    "2 onzas de café instantáneo",
+    "4 tazas de azúcar",
+    "1 vaina de vainilla, cortada por la mitad",
+    "2 tazas de agua hirviendo"
+  ],
+  "recipeInstructions": "1. Mezclar el brandy, el café instantáneo, el azúcar y el agua hirviendo en un bol grande.\n2. Cortar la vaina de vainilla en cuartos y añadirla a la mezcla.\n3. Remover lentamente los ingredientes hasta que estén bien combinados.\n4. Transferir la mezcla a botellas oscuras y almacenarlas en un lugar oscuro durante 1 mes.\n5. Agitar las botellas una vez al mes durante el proceso de envejecimiento.",
+  "url": null
+}

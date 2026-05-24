@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-stroganoff",
+  "name": "Estofado fácil de Stroganoff",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 lb carne picada",
+    "1 cebolla mediana, picada",
+    "2 cucharadas de harina de uso común",
+    "1/2 cucharadita de sal de ajo",
+    "1/4 cucharadita de pimienta negra",
+    "4 oz setas laminadas",
+    "10 3/4 oz sopa de champiñones (sin diluir)",
+    "8 oz crema agria",
+    "Nudillos de pasta cocidos al vapor"
+  ],
+  "recipeInstructions": "1. Cocinar la carne picada y la cebolla en una sartén grande hasta que la carne esté dorada. Desmenuzar la carne con una espátula y escurrir el exceso de grasa.\n2. Incorporar la harina y los siguientes tres ingredientes (sal de ajo, pimienta) y cocinar, removiendo constantemente, durante unos 1 minuto.\n3. Agregar las setas laminadas y seguir cocinando otros 5 minutos, removiendo ocasionalmente.\n4. Incorporar la sopa de champiñones y reducir el fuego. Dejar hervir a fuego lento durante 10 minutos, removiendo con frecuencia.\n5. Finalmente, añadir la crema agria y calentar hasta que todo esté bien mezclado y caliente.\n6. Servir sobre los nudillos de pasta cocidos al vapor.",
+  "url": null
+}

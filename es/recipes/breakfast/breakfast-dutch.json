@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-dutch",
+  "name": "Desayuno holandés",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "3 tazas de harina",
+    "1 cucharadita de sal",
+    "2 huevos",
+    "Leche",
+    "Aceite para cocinar"
+  ],
+  "recipeInstructions": "1. Mezcla los tres primeros ingredientes.\n2. Añade suficiente leche para obtener una consistencia similar a la de los huevos revueltos.\n3. Vierte aceite en una sartén de hierro fundido, asegurándote de que cubra el fondo generosamente; la masa se pegará durante la cocción.\n4. Vierte la masa en la sartén.\n5. Cocina a fuego alto, revolviendo y cortando como si hicieras huevos revueltos, hasta que adquiera un aspecto similar y esté completamente cocido.\n6. Sirve inmediatamente con mantequilla y jarabe.",
+  "url": null
+}

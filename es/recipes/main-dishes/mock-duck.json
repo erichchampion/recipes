@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-duck",
+  "name": "Pavo de simulación",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 Cebolla, picada",
+    "1/2 Taza Apio, picado",
+    "1/2 Taza Setas, picadas",
+    "1 cucharada Mantequilla",
+    "3/4 Taza Pan rallado seco",
+    "1/2 cucharadita Ajo en polvo",
+    "1/4 cucharadita Tomillo seco",
+    "Sal y pimienta al gusto",
+    "1 lb Lomo de res redondo",
+    "1 cucharada Aceite vegetal",
+    "3/4 Taza Caldo de carne"
+  ],
+  "recipeInstructions": "1. En una sartén, saltear la cebolla, el apio y las setas en mantequilla hasta que estén tiernos.\n2. Retirar del fuego; mezclar con el pan rallado, ajo en polvo, tomillo, sal y pimienta al gusto, añadiendo agua o caldo de carne lo suficiente para humedecer la mezcla.\n3. Golpear el lomo de res hasta que tenga 1/4 de pulgada de grosor. Cortar en 4 u 5 trozos para servir.\n4. Distribuir el relleno casi hasta los bordes de cada trozo. Enrollar desde el lado más ancho; asegurar con hilo.\n5. Dorar los rollos en una sartén con aceite vegetal.\n6. Añadir el caldo de carne y cubrir. Cocinar a fuego lento durante 1 hora, dando la vuelta y ungiendo ocasionalmente, o hornear a 325°F por 1 hora.\nRinde: 4 u 5 porciones",
+  "url": null
+}

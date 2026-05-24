@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "north-pole-cherry-pie",
+  "name": "Tarta de cerezas del Polo Norte",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 litro de helado de vainilla",
+    "1 masa de tarta de 23 cm ya horneada",
+    "1 base crujiente (opcional)",
+    "400 g de relleno de tarta de cerezas"
+  ],
+  "recipeInstructions": "1. Extender el helado ligeramente suavizado en la masa de la tarta y congelar.\n2. Una hora antes de servir, extender el relleno de cerezas sobre el helado.\n3. Devolver la tarta al congelador.\n4. Servir rápidamente.",
+  "url": null
+}

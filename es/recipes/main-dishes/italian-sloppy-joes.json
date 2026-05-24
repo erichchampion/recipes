@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-sloppy-joes",
+  "name": "Italianos Sloppy Joes",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "platos principales italianos",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 kilo de salchicha italiana molida",
+    "1 kilo de salchicha italiana picante molida",
+    "4 dientes de ajo, finamente picados",
+    "1 taza de pimiento verde, picado",
+    "1/2 taza de cebolla, picada",
+    "1 lata de salsa de tomate (400 g)",
+    "2 cucharadas de perejil fresco, picado",
+    "1 cucharadita de orégano seco",
+    "1/2 cucharadita de polvo de chile",
+    "1/4 cucharadita de semillas de anís",
+    "8 bollos franceses, cortados por la mitad",
+    "3/4 taza de queso mozzarella rallado"
+  ],
+  "recipeInstructions": "1. Cocinar las salchichas y el ajo en una sartén grande o olla holandesa a fuego medio hasta que la salchicha ya no sea rosada.\n2. Agregar el pimiento verde y la cebolla picados; cocinar hasta que estén tiernos.\n3. Incorporar la salsa de tomate y las especias (orégano, polvo de chile, semillas de anís). Llevar a ebullición.\n4. Reducir el fuego y tapar; cocinar a fuego lento durante 30 minutos.\n5. Verter aproximadamente 1/2 taza de la mezcla sobre cada mitad de bollo.\n6. Espolvorear con queso mozzarella rallado.\n7. Servir inmediatamente.",
+  "url": null
+}

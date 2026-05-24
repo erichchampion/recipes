@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-roast-beef",
+  "name": "Italian Roast Beef",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "4 pounds beef rump roast",
+    "2 onions",
+    "2 cloves garlic",
+    "1 stalk celery",
+    "2 ounces salt pork or bacon"
+  ],
+  "recipeInstructions": "1. Trim all excess fat from the roast.\n2. Mince 1 onion, the garlic, celery, and salt pork.\n3. Lightly flour the roast; rub with the minced mixture.\n4. Slice the remaining onions and place them in a Crock Pot.\n5. Place the roast on top of the onions.\n6. Cover and cook on low setting for 10 to 12 hours.",
+  "url": null
+}

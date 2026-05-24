@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "german-cabbage-soup",
+  "name": "Sopa de col rizada alemana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "4 rebanadas de tocino grueso, picado",
+    "1 cabeza de col verde, rallada",
+    "2 cebollas, en rodajas",
+    "1/2 pequeña nabo, en rodajas",
+    "2 zanahorias, picadas",
+    "2 papas, cortadas en cubos",
+    "4 tazas de caldo de pollo o caldo",
+    "2 tazas de agua",
+    "6 ramitas de perejil",
+    "1 hoja de laurel"
+  ],
+  "recipeInstructions": "1. Atar las 6 ramitas de perejil y la hoja de laurel juntas con un hilo.\n2. En una olla o sartén de 6 litros, combinar todos los ingredientes excepto la sal, la pimienta y el queso.\n3. Hervir a fuego lento, cubierto parcialmente, durante 1 a 2 horas.\n4. Retirar el paquete de perejil; sazonar al gusto.\n5. Servir en platos de sopa caliente y espolvorear con queso.",
+  "url": null
+}

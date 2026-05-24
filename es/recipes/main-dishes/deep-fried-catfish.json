@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "deep-fried-catfish",
+  "name": "Pescado frito profundo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "2 lb de pescado gato (catfish)",
+    "1 cucharadita de sal",
+    "2 huevos batidos ligeramente",
+    "1 taza de harina de uso múltiple",
+    "1/8 cucharadita de pimienta",
+    "1 taza de migas de pan secas"
+  ],
+  "recipeInstructions": "1. Calentar el aceite a 375 °F en una freidora profunda.\n2. Mezclar la harina, la sal y la pimienta.\n3. Cubrir el pescado con la mezcla.\n4. Sumergirlo en los huevos batidos.\n5. Recubrir con migas de pan.\n6. Freír cada trozo durante unos 4 minutos o hasta que esté dorado.",
+  "url": null
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-momos",
+  "name": "Momos de patata",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "tentempié",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de mantequilla clarificada (ghee)",
+    "1/2 cucharadita de jengibre picado",
+    "1/2 cucharadita de ajo picado",
+    "1/4 taza de cebolla picada",
+    "1/2 cucharadita de garam masala",
+    "1/2 cucharadita de polvo de chile",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1 cucharada de salsa de soja",
+    "2 tazas de puré de patatas",
+    "1/2 taza de espinacas frescas, escurridas y picadas",
+    "1/4 taza de cilantro picado",
+    "1/4 taza de cebolletas picadas",
+    "Papel de momo (momo wrappers)",
+    "Salsa para momos (ver receta)"
+  ],
+  "recipeInstructions": "1. Derretir la mantequilla clarificada en un pequeño wok o sartén a fuego medio. Añadir el jengibre, el ajo y la cebolla. Saltear durante 1 minuto.\n2. Incorporar el garam masala, el polvo de chile, la sal, la pimienta y la salsa de soja. Saltear durante 30 segundos.\n3. Retirar del fuego y agregar el puré de patatas. Mezclar bien.\n4. Añadir las espinacas picadas, las cebolletas y el cilantro. Mezclar hasta combinar.\n5. Colocar una porción de relleno en cada papel de momo.\n6. Cerrar los bordes con un poco de agua.\n7. Al vapor sobre agua hirviendo o en un soporte para al vapor. Servir caliente con salsa para momos.",
+  "url": null
+}

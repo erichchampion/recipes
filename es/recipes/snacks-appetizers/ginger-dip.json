@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "ginger-dip",
+  "name": "Dip de jengibre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "salsas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 taza de mayonesa fría",
+    "1 taza de crema agria",
+    "1/4 taza de cebolla finamente picada",
+    "1/4 taza de perejil picado",
+    "1/4 taza de agua de lata finamente picada",
+    "1 cucharada (o 2 al gusto) de jengibre cristalizado finamente picado",
+    "2 dientes de ajo picados",
+    "1 cucharadita de salsa de soja"
+  ],
+  "recipeInstructions": "1. Mezclar la mayonesa y la crema agria en un bol.\n2. Incorporar el resto de los ingredientes hasta obtener una mezcla homogénea.\n3. Servir con galletas de semillas de sésamo o patatas fritas.",
+  "url": null
+}

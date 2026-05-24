@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "poached-chicken",
+  "name": "Poached Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "4 cups chicken stock",
+    "6 chicken breast halves"
+  ],
+  "recipeInstructions": "1. Bring the chicken stock to a boil in a large pot.\n2. Reduce heat to maintain a simmer.\n3. Gently add the chicken breasts to the boiling stock and cook for 15 minutes.\n4. Remove the chicken from the stock using a slotted spoon and allow it to cool in the cooking liquid.\nReady to use in any recipe calling for precooked chicken.",
+  "url": null
+}

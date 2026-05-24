@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-butter",
+  "name": "Cheese Butter",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "breads",
+    "condiments",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Butter, softened",
+    "1/8 teaspoon Garlic powder",
+    "1 tablespoon Lemon juice",
+    "3/4 teaspoon Italian seasoning",
+    "1 cup Cheddar, shredded",
+    "1/8 teaspoon Pepper"
+  ],
+  "recipeInstructions": "1. In a bowl, beat the butter and seasonings until fluffy.\n2. Add the shredded cheese and lemon juice to the mixture.\n3. Blend all ingredients together until well combined.\n4. Shape the mixture into a log and refrigerate until ready to use.",
+  "url": null
+}

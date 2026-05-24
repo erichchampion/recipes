@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-pita-breakfast",
+  "name": "Desayuno rápido de pita",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 manzana pequeña, cortada en cubos",
+    "1/4 taza de queso cottage bajo en grasa",
+    "1 cucharada de pasas",
+    "1/2 panecillo integral"
+  ],
+  "recipeInstructions": "1. Mezclar los cubos de manzana, el queso cottage y las pasas en un bol.\n2. Rellenar un bolsillo de panecillo integral con la mezcla.",
+  "url": null
+}

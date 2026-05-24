@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-potatoes-broccoli",
+  "name": "Patatas dulces y brócoli",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "dietas especiales",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 patata dulce mediana",
+    "1/2 taza de agua",
+    "1 taza de brócoli fresco picado",
+    "1/2 taza de yogur cottage bajo en grasa",
+    "1 cucharada de semillas de sésamo"
+  ],
+  "recipeInstructions": "1. Cortar la patata dulce en cubos y cocinarla en 1/2 taza de agua, cubierta, hasta que esté casi hecha.\n2. Añadir el brócoli y seguir cocinando hasta que esté tierno. Es posible que necesites agregar más agua.\n3. Mezclar el yogur cottage y las semillas de sésamo hasta obtener una mezcla homogénea.",
+  "url": null
+}

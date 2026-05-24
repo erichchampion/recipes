@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizzaburgers-2",
+  "name": "Pizzaburros",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "plato principal",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne de hamburguesa",
+    "12 oz de salsa de tomate (2 tazas)",
+    "6 oz de aceitunas verdes rellenas, picadas",
+    "1 lb de queso mozzarella en cubos",
+    "Sal y pimienta",
+    "Orégano"
+  ],
+  "recipeInstructions": "1. Dorar la carne de hamburguesa. Añadir la salsa de tomate y las especias. Reducir a fuego lento hasta espesar.\n2. Enfriar la mezcla. Incorporar las aceitunas picadas y el queso mozzarella en cubos.\n3. Distribuir el relleno uniformemente sobre los panes de hamburguesa.\n4. Envolver cada pan apretadamente con papel de aluminio o film transparente.\n5. Refrigerar hasta el momento de servir.\n6. Calentar en microondas o horno antes de servir.\nRinde de 14 a 16 bollos.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "bob-hope-s-favorite-lemon-pie",
+  "name": "Pastel de limón favorito de Bob Hope",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "2 cucharadas de azúcar",
+    "1 taza de agua hirviendo",
+    "2 cucharadas de mantequilla",
+    "Sal",
+    "1 masa de pastel horneada",
+    "2 cucharadas de azúcar",
+    "4 cucharadas de zumo de limón",
+    "4 yemas de huevo",
+    "Ralladura de un limón",
+    "3 claras de huevo"
+  ],
+  "recipeInstructions": "1. Mezclar la maicena con 1 taza y 2 cucharadas de azúcar.\n2. Añadir el agua poco a poco, removiendo constantemente hasta que espese y se suavice.\n3. Incorporar las yemas de huevo ligeramente batidas, la mantequilla, la ralladura de limón, el zumo de limón y la sal.\n4. Cocinar durante 2 o 3 minutos.\n5. Verter la mezcla en la masa de pastel horneada.\n6. Cubrir con una merengue hecha con 3 claras de huevo batidas firmes y 2 cucharadas de azúcar.\n7. Hornear a horno lento durante 15 minutos o hasta que esté dorado.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "shrimp-andre",
+  "name": "Camarones André",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco",
+    "gambas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de setas frescas, laminadas",
+    "1/4 taza de cebolla, picada",
+    "1 cucharadita de tomillo entero",
+    "2 pincadas de polvo de ajo",
+    "3 cucharaditas de perejil picado",
+    "3 cucharadas de mantequilla o margarina",
+    "36 camarones grandes, limpios y cortados por la mitad a lo largo",
+    "1/2 taza de jerez",
+    "Jugo de 1 limón",
+    "1 1/2 tazas de salsa Mornay"
+  ],
+  "recipeInstructions": "1. En una sartén grande, derrita la mantequilla a fuego medio.\n2. Añada las setas, cebollas, tomillo, polvo de ajo y perejil. Cocine durante 4 minutos, removiendo ocasionalmente.\n3. Agregue los camarones a la sartén y cocine por un minuto adicional.\n4. Incorpore el jerez, jugo de limón y salsa Mornay. Mezcle bien hasta que esté combinada.\n5. Sirva caliente sobre arroz pilaf.",
+  "url": null
+}

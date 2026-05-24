@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "bloody-mary-3",
+  "name": "Bloody Mary",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 Ounces Vodka",
+    "3 Ounces Tomato Juice",
+    "1 Lemon, juiced",
+    "1/2 Teaspoon Worcestershire Sauce",
+    "3 Drops Tabasco Sauce",
+    "Pepper to taste",
+    "Salt to taste"
+  ],
+  "recipeInstructions": "1. Pour the vodka, tomato juice, lemon juice, Worcestershire sauce, and Tabasco sauce into a shaker filled with ice.\n2. Shake well until chilled.\n3. Strain the mixture into an old-fashioned glass filled with ice cubes.\n4. Add pepper and salt to taste.\n5. Optionally, garnish with a wedge of lime.",
+  "url": null
+}

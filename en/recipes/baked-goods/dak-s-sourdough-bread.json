@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "dak-s-sourdough-bread",
+  "name": "Dak's Sourdough Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 package Yeast",
+    "3 cups Better for Bread white flour",
+    "1 tablespoon Salt",
+    "1 tablespoon Sugar",
+    "1 cup Water (very warm)",
+    "1 cup Sourdough starter"
+  ],
+  "recipeInstructions": "1. In a large bowl, combine all the ingredients in the order listed.\n2. Select either the \"white\" or \"oat/French\" bread setting on your machine.\n3. Set the brown control to the darkest setting and push start.\n4. If you are at 2,500-foot altitude, remove 1/4 cup (2 tablespoons) of white flour from the mix and substitute it with an equal amount of gluten powder.",
+  "url": null
+}

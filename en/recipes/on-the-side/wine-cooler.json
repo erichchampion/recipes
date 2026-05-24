@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "wine-cooler",
+  "name": "Wine Cooler",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 oz Wine",
+    "5 oz Lemon-lime soft drink (e.g., 7-UP, Sprite, Slice)",
+    "Ice cubes (optional)"
+  ],
+  "recipeInstructions": "1. Pour wine and lemon-lime soft drink into a glass.\n2. Fill with ice cubes, if desired.\n3. Serve immediately.\nThis recipe makes wine coolers similar to those you buy at the store. I typically use an inexpensive wine with strong berry notes.",
+  "url": null
+}

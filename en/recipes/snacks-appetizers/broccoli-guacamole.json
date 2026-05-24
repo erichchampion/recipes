@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "broccoli-guacamole",
+  "name": "Broccoli Guacamole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "dips",
+    "snacks",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "1 cup broccoli, cooked and chopped",
+    "1/4 cup sour cream",
+    "1/4 cup mayonnaise",
+    "2 tablespoons grated parmesan cheese",
+    "1/4 cup cheddar cheese, grated",
+    "1 teaspoon green onion, minced",
+    "1/4 teaspoon curry powder",
+    "1/4 teaspoon salt",
+    "squeeze lemon juice"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a bowl.\n2. Transfer mixture to a blender.\n3. Puree until smooth.\n4. Allow the guacamole to chill in the refrigerator for at least 30 minutes before serving.",
+  "url": null
+}

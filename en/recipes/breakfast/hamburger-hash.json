@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-hash",
+  "name": "Hamburger Hash",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "beef",
+    "casseroles",
+    "main dish",
+    "meat",
+    "meats"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Ground beef",
+    "6 medium Potatoes, cubed",
+    "1 medium Onion",
+    "Salt and pepper"
+  ],
+  "recipeInstructions": "1. Brown the ground beef in a saucepan.\n2. Pour off excess grease.\n3. Add the cubed potatoes to the pan.\n4. Add enough water to cover the potatoes and meat.\n5. Add the onion whole so that it can be lifted out when the potatoes are done cooking.\n6. Season with salt and pepper to taste.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "goody-cake",
+  "name": "Goody Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 package Yellow cake mix",
+    "1 cup Nuts",
+    "1 Stick butter/margarine",
+    "1 package Powdered sugar (1 lb box)",
+    "1 package Cream cheese"
+  ],
+  "recipeInstructions": "1. Mix together the cake mix, nuts, and butter. Press into a 13x9 pan to form the bottom layer.\n2. Mix together the powdered sugar and cream cheese until thoroughly blended.\n3. Spread over the top of the bottom layer.\n4. Bake at 350°F for 40-45 minutes, or until golden brown.\n5. Cool and cut into small squares. Nuts can be omitted if desired.",
+  "url": null
+}

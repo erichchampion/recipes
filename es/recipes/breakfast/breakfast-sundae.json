@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-sundae",
+  "name": "Desayuno Sundae",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 pequeño recipiente de yogur sin grasa",
+    "3 tipos diferentes de fruta en rodajas (como plátanos, fresas, uvas)",
+    "Granola o cereales Grapenuts",
+    "Pasas"
+  ],
+  "recipeInstructions": "1. Echar el yogur en un cuenco o plato para sundae.\n2. Cubrir con las rodajas de fruta.\n3. Añadir granola o cereales Grapenuts.\n4. Espolvorear pasas por encima.\n5. Servir.",
+  "url": null
+}

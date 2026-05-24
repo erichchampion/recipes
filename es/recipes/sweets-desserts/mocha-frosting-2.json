@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mocha-frosting-2",
+  "name": "Crema de Mocha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "chocolate",
+    "postres",
+    "glaseado"
+  ],
+  "recipeIngredient": [
+    "1 litro de crema batida",
+    "1 taza de leche",
+    "1 paquete de pudín de chocolate instantáneo",
+    "1 1/2 cucharadas de café instantáneo"
+  ],
+  "recipeInstructions": "1. Batir la crema hasta que formen picos firmes.\n2. Preparar el pudín instantáneo con 1 taza de leche.\n3. Añadir el café a la mezcla de pudín.\n4. Mezclar suavemente el pudín en la crema batida hasta combinarse.\n5. Cubrir como desee.",
+  "url": null
+}

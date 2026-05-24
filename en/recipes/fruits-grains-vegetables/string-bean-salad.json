@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "string-bean-salad",
+  "name": "String Bean Salad",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "salads",
+    "thai"
+  ],
+  "recipeIngredient": [
+    "1 lb String beans, blanched and sliced",
+    "2 each Green chilies, julienned",
+    "2 each Red chilies, julienned",
+    "1/2 lb Tofu, pressed and cubed",
+    "1/2 cup Coconut milk",
+    "2 tbsp Soy sauce",
+    "4 tbsp Lime juice",
+    "2 tbsp Sugar",
+    "2 tbsp Chili sauce"
+  ],
+  "recipeInstructions": "1. Place the beans on a large serving platter.\n2. Arrange the green and red chilies and tofu cubes over the top.\n3. In a small bowl, mix together the coconut milk, soy sauce, lime juice, sugar, and chili sauce.\n4. Just before serving, pour the dressing over the salad.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "sazerac",
+  "name": "Sazerac",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "esencia de Emeril",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 1/2 onzas de whisky o ron",
+    "1/3 onza de jarabe simple",
+    "4 onzas de amargo Peychaud",
+    "2 onzas de amargo Angostura",
+    "Gira de limón"
+  ],
+  "recipeInstructions": "1. En un vaso de 9 onzas, gira unas gotas de Herbsaint hasta que el vaso esté cubierto; descarta el exceso.\n2. En un agitador de cócteles, combina el whisky (o ron), jarabe simple y ambos amargos. Llena con cubos de hielo.\n3. Agita vigorosamente hasta enfriar.\n4. Cuela en el vaso preparado.\n5. Sirve con una gira de limón como adorno.",
+  "url": null
+}

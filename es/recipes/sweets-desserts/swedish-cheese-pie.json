@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "swedish-cheese-pie",
+  "name": "Tarta de queso sueco",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "queso",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "Masa de tarta de hojaldre básica; 23 cm",
+    "2 tazas de queso cottage",
+    "3 huevos grandes",
+    "1/4 taza de harina blanqueada, tamizada",
+    "1/4 taza de azúcar granulado",
+    "1 taza de crema ligera",
+    "1/2 taza de almendras tostadas y picadas finamente"
+  ],
+  "recipeInstructions": "Precalentar el horno a 180°C. Pasar el queso cottage por un colador. Colocarlo en un bol grande y batir hasta obtener una textura suave. Añadir los huevos, la harina, el azúcar, la crema y las almendras picadas, y mezclar bien. Verter la mezcla en la masa de tarta preparada y hornear durante unos 45 minutos o hasta que al insertar un cuchillo salga limpio. Retirar del horno y dejar enfriar antes de servir.",
+  "url": null
+}

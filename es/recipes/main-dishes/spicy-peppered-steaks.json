@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-peppered-steaks",
+  "name": "Steak con pimienta picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "6 solomillos",
+    "4 cucharaditas de granos de pimienta negra enteros",
+    "1/2 taza de salsa para filete",
+    "2 cucharadas de mostaza dijon",
+    "1 cucharada de azúcar moreno",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Machaca los granos de pimienta con un rodillo hasta obtener una textura gruesa.\n2. Mezcla la salsa para filete, la mostaza, el azúcar moreno y la sal en un bol hasta que se combinen.\n3. Marina los solomillos durante la noche o al menos 30 minutos antes de cocinarlos.\n4. Asa los solomillos marinados a la parrilla como de costumbre, bañándolos con la mezcla de marinada mientras se cocinan.",
+  "url": null
+}

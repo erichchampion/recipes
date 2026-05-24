@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-chicken-and-cheddar-sauce",
+  "name": "Sopa de Pollo y Salsa de Queso Cheddar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pollo",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 lb de pollo",
+    "2 cucharadas de mantequilla o margarina",
+    "1/2 taza de tiras de jamón",
+    "370 g de sopa de queso cheddar",
+    "1 tomate, picado",
+    "2 cebollas, picadas",
+    "1/4 cucharadita de albahaca"
+  ],
+  "recipeInstructions": "1. Dorar el pollo en la mantequilla y retirarlo a la olla de cocción lenta.\n2. Dorar el jamón por separado.\n3. Mezclar los ingredientes restantes (tomate, cebollas, albahaca) con la sopa de queso cheddar.\n4. Verter la mezcla sobre el pollo y el jamón en la olla de cocción lenta.\n5. Tapar y cocinar a fuego lento durante 7-9 horas, o hasta que el pollo esté tierno.",
+  "url": null
+}

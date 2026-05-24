@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-spectacular-3",
+  "name": "Pollo Espectacular",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "3 tazas de pollo cocido",
+    "1 lata (400g) de guisantes verdes cortados, escurridos",
+    "2 tazas de arroz cocido",
+    "1 lata (397g) de sopa de apio con crema",
+    "60 ml de mayonesa",
+    "1 lata (150-200g) de nueces de agua, escurridas y en rodajas",
+    "2 cucharadas de pimiento verde picado",
+    "2 cucharadas de cebolla finamente picada"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta combinarlos bien.\n2. Verter la mezcla en una olla de cocción lenta engrasada.\n3. Tapar y cocinar a fuego lento durante 6-8 horas o a fuego alto durante 3-4 horas.\nServir para 4 personas",
+  "url": null
+}

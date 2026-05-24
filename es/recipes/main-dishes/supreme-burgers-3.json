@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "supreme-burgers-3",
+  "name": "Hamburguesas Supremas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "carne molida",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne molida",
+    "1 1/2 oz de mezcla de sopa de cebolla (1 sobre)",
+    "1/2 taza de pan rallado seco",
+    "1 taza de crema agria",
+    "1/8 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande.\n2. Formar la mezcla en 8 hamburguesas, cada una con un grosor aproximado de 3/4 de pulgada.\n3. Broilar o asar a la parrilla las hamburguesas, manteniéndolas a 4 pulgadas de distancia de la fuente de calor. Darles la vuelta una vez para lograr el punto deseado de cocción, lo que tardará unos 10 a 15 minutos.",
+  "url": null
+}

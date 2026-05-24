@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pork-with-cabbage",
+  "name": "Cerdo con Col",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "oriental",
+    "cerdo",
+    "wok"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de cerdo desmenuzado",
+    "1 cucharada de salsa de soja",
+    "Sal al gusto",
+    "1/2 repollo mediano, cortado en tiras finas",
+    "3 cucharadas de aceite",
+    "1/2 taza de agua"
+  ],
+  "recipeInstructions": "1. Cortar el cerdo y el repollo en tiras finas.\n2. Calentar el aceite en un wok hasta que humee. Dorar el cerdo durante unos 3 minutos. Agregar el repollo, la sal y la salsa de soja. Revolver bien.\n3. Incorporar la taza de agua, tapar el wok y cocinar los ingredientes durante 8-10 minutos, levantando la tapa ocasionalmente para remover la mezcla.",
+  "url": null
+}

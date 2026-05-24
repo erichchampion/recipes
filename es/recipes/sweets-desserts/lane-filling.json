@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "lane-filling",
+  "name": "Relleno de Canal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "8 yemas de huevo",
+    "1 taza de azúcar",
+    "1/2 libra de mantequilla a temperatura ambiente",
+    "2 cucharadas de brandy",
+    "2 cucharadas de agua",
+    "1/2 taza de cerezas confitadas finamente picadas",
+    "1 taza de pasas sin semillas, cortadas groseramente",
+    "1 taza de nueces picadas",
+    "1/2 taza de coco rallado"
+  ],
+  "recipeInstructions": "1. Coloca las yemas de huevo y el azúcar en una cacerola.\n2. Bate con un batidor manual o eléctrico hasta que esté bien mezclado.\n3. Añade la mantequilla.\n4. Cocina y bate a fuego medio hasta que se disuelva el azúcar y la mezcla espese.\n5. Retira del fuego, vierte en un bol para mezclar y deja enfriar ligeramente.\n6. Agrega el brandy y el agua; incorpora los frutos secos y el coco.",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-chip-bread",
+  "name": "Chocolate Chip Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "-------------",
+    "1 package Yeast",
+    "3 cups Bread flour",
+    "2 tablespoons Brown sugar",
+    "2 tablespoons White sugar",
+    "1 teaspoon Salt",
+    "1 teaspoon Cinnamon",
+    "4 tablespoons Soft butter",
+    "1 Egg",
+    "1 cup Warm milk",
+    "1/4 cup Water",
+    "1 cup Chocolate chips"
+  ],
+  "recipeInstructions": "-------------\nCombine the first 10 ingredients in a large bowl. Add the chocolate chips and mix until evenly distributed. Pour into a greased loaf pan, select white bread setting, and start the machine. The beeper will signal when it is done mixing for about 5 minutes. Remove from the machine and turn the darkness control slightly towards light to avoid overcooking the chips. This bread has a cake-like texture.",
+  "url": null
+}

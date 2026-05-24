@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "crazy-fudge-cake",
+  "name": "Pastel de Fudge Loco",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "5 cucharadas de manteca derretida",
+    "1 1/2 tazas de harina, tamizada",
+    "3 cucharadas de cacao en polvo",
+    "1 taza de azúcar",
+    "1/2 cucharadita de sal",
+    "1 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de vinagre",
+    "1 taza de agua",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 °F (175 °C).\n2. En un molde cuadrado de 8 pulgadas, mezclar la harina tamizada, el azúcar y el cacao en polvo.\n3. Agregar la sal y el bicarbonato de sodio, y mezclar bien.\n4. Hacer tres agujeros en la mezcla de harina, espaciándolos uniformemente en la parte superior del molde.\n5. Verter el vinagre en el primer agujero, el agua y el extracto de vainilla en el segundo, y la manteca derretida en el tercero.\n6. Mezclar todos los ingredientes hasta obtener una masa suave.\n7. Hornear durante 35 minutos.\n8. Cubrir con glaseado de fudge.",
+  "url": null
+}

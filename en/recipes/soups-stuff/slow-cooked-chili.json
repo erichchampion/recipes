@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "slow-cooked-chili",
+  "name": "Slow-Cooked Chili",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "2 lb ground beef",
+    "2 16 oz cans kidney beans, rinsed and drained",
+    "2 14.5 oz cans diced tomatoes, undrained",
+    "1 8 oz can tomato sauce",
+    "2 med onions, chopped",
+    "1 green pepper, chopped",
+    "2 cloves garlic, minced",
+    "2 tbsp chili powder",
+    "2 tsp salt, optional",
+    "1 tsp pepper",
+    "shredded cheddar cheese -- optional"
+  ],
+  "recipeInstructions": "1. In a skillet, brown the ground beef and drain any excess fat.\n2. Transfer the browned beef to a slow cooker.\n3. Add kidney beans, diced tomatoes (with juice), tomato sauce, chopped onions, green pepper, garlic, chili powder, salt (if using), and pepper to the slow cooker.\n4. Cover and cook on low for 8-10 hours or on high for 4 hours.\n5. Serve individual servings with shredded cheddar cheese if desired.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-cinnamon-oatmeal",
+  "name": "Apple Cinnamon Oatmeal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "cereals",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 cup Water",
+    "1/4 cup Apple juice",
+    "1 Tart apple, diced",
+    "2/3 cup Rolled oats",
+    "1 Dash cinnamon",
+    "1 cup Skim milk"
+  ],
+  "recipeInstructions": "1. Place water and apple juice in a medium saucepan.\n2. Bring the mixture to a boil over high heat.\n3. Add diced apples, rolled oats, and cinnamon to the saucepan.\n4. Return to boiling, then reduce heat to low.\n5. Simmer until the porridge is thick.\n6. Serve hot with milk.",
+  "url": null
+}

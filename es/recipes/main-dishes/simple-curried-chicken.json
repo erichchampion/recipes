@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-curried-chicken",
+  "name": "Pollo curry sencillo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite vegetal (dividido)",
+    "2 cebollas medianas (cortadas en trozos de 1/2 pulgada)",
+    "2 zanahorias (cortadas en trozos de 1/2 pulgada)",
+    "3 dientes de ajo (picados groseramente)",
+    "1 manzana (pelada, desvenada y cortada en cubos)",
+    "450 g de pechugas o muslos de pollo sin hueso y sin piel",
+    "2-3 cucharaditas de polvo de curry",
+    "1/2 cucharadita de comino molido",
+    "1/2 cucharadita de jengibre molido",
+    "1/4 cucharadita de pimienta cayena",
+    "Sal y pimienta al gusto",
+    "1/3 taza de caldo de pollo bajo en sodio",
+    "1 taza de uvas verdes sin semillas enjuagadas",
+    "2 cucharadas de pasas oscuras o doradas",
+    "1/4 taza de cacahuetes tostados sin sal picados"
+  ],
+  "recipeInstructions": "1. Pelar, desvenar y cortar la manzana en cubos.\n2. Si se usan muslos, cortarlos en trozos de 1 pulgada.\n3. Calentar 1 cucharada de aceite en una sartén grande y profunda con tapa.\n4. Añadir las cebollas, zanahorias y ajo. Cocinar, removiendo a fuego medio, hasta que las verduras estén doradas, aproximadamente 5 minutos.\n5. Incorporar la manzana. Retirar las verduras y reservar.\n6. Añadir la cucharada restante de aceite a la sartén. Agregar el pollo y cocinar a fuego medio-alto hasta que esté dorado por ambos lados, aproximadamente 5 minutos.\n7. Espolvorear el polvo de curry, comino, jengibre, pimienta cayena, sal y pimienta sobre el pollo. Mezclar bien.\n8. Añadir las verduras reservadas, el caldo, las uvas y las pasas. Cubrir y cocinar a fuego lento, removiendo ocasionalmente, hasta que se mezclen los sabores y el pollo esté cocido, aproximadamente 10 minutos.\n9. Retirar la sartén del fuego. Añadir gradualmente el yogur.\n10. Servir la mezcla de pollo sobre arroz caliente y espolvorear con cacahuetes.",
+  "url": null
+}

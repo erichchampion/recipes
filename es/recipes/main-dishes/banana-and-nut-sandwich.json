@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-and-nut-sandwich",
+  "name": "Sándwich de plátano y nuez",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 Plátano",
+    "1/4 taza de jugo de uvas",
+    "1/2 taza de nueces picadas",
+    "1 Naranja"
+  ],
+  "recipeInstructions": "1. Machaca el plátano y mézclalo con las nueces picadas y el jugo de uvas.\n2. Humedece la mezcla con jugo de naranja.\n3. Utiliza la mezcla sobre pan blanco o integral untado con mantequilla.",
+  "url": null
+}

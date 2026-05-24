@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tuna-burgers",
+  "name": "Hamburguesas de atún",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgueros",
+    "de baja caloría",
+    "plato principal",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "1 lata de atún",
+    "1 taza de apio picado",
+    "1/2 taza de queso americano cortado en cubos",
+    "1 cucharada de cebolla picada",
+    "1/4 cucharadita de sal",
+    "1/8 cucharadita de pimienta",
+    "1/4 taza de mayonesa",
+    "6 bollos de hamburguesa"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 °F (175 °C).\n2. Mezclar todos los ingredientes en un bol hasta que estén bien combinados.\n3. Rellenar cada bollo de hamburguesa con la mezcla de atún.\n4. Colocar cada sándwich sobre un cuadrado de papel de aluminio, doblar el aluminio para sellar los sándwiches de forma segura.\n5. Disponer los sándwiches sellados en una bandeja para hornear.\n6. Hornear durante 20 minutos o hasta que estén calientes por completo.",
+  "url": null
+}

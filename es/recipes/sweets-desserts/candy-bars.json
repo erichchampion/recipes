@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "candy-bars",
+  "name": "Barras de caramelo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de margarina falsa",
+    "1/2 taza de chips de chocolate semiamargo",
+    "1/4 taza de mantequilla de maní",
+    "1/4 taza de tope de caramelo",
+    "4 tazas de marshmallows en miniatura",
+    "6 tazas de Rice Krispies"
+  ],
+  "recipeInstructions": "1. Derretir la margarina en una sartén grande a fuego bajo. Añadir los chips de chocolate y derretirlos. Incorporar la mantequilla de maní y el tope de caramelo, removiendo para mezclar. Agregar los marshmallows y remover constantemente hasta que todo esté suave.\n2. Retirar del fuego y añadir los Rice Krispies. Remover hasta que los Krispies estén cubiertos.\n3. Engrasar un molde rectangular de 9x13 cm con spray de cocina. Extender la mezcla de Krispies en el molde y aplanar. Dejar enfriar completamente. Al estar frío, cortar en 12 porciones.",
+  "url": null
+}

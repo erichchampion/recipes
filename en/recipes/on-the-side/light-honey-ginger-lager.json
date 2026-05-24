@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "light-honey-ginger-lager",
+  "name": "Light Honey Ginger Lager",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beers",
+    "beverages",
+    "side dishes",
+    "specialty beers"
+  ],
+  "recipeIngredient": [
+    "3 1/2 lbs Malt Extract Powder-Light",
+    "2 1/2 lbs honey",
+    "1 1/2 oz Cascade Hops, boiling",
+    "1/2 oz Cascade Hops, finishing",
+    "4 oz grated ginger root",
+    "1 package Lager yeast",
+    "3/4 cup corn sugar, bottling"
+  ],
+  "recipeInstructions": "1. Combine the malt extract, honey, grated ginger, and boiling hops in a 1.5-gallon container with water.\n2. Boil for 60 minutes.\n3. Add the finishing hops during the final 2-4 minutes of boiling.\n4. Sparge the mixture into cold water.\n5. Cool before pitching the yeast.\n6. Bottle when ready.",
+  "url": null
+}

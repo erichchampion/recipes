@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "quinoa-super-salad",
+  "name": "Quinoa Super Salad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "grains",
+    "salads",
+    "tomatoes"
+  ],
+  "recipeIngredient": [
+    "5 cups cooked quinoa (basic recipe)",
+    "1 cup carrots, chopped",
+    "3/4 cup parsley, minced",
+    "1 cup sunflower seeds",
+    "4 cloves garlic, minced or to taste",
+    "1/4 cup olive oil or less",
+    "1/4 cup soy sauce or tamari (Try Bragg's aminos)",
+    "1/2 cup lemon juice"
+  ],
+  "recipeInstructions": "1. Cook quinoa.\n2. Let cool.\n3. Add carrots, parsley, sunflower seeds, and garlic to the quinoa.\n4. Mix thoroughly.\n5. Combine liquids, pour over quinoa, and toss well.\n6. Garnish with tomato wedges and olives.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "ice-cream-muffins",
+  "name": "Muffins de helado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de harina para todo uso de Pillsbury (o harina común) con 1 cucharadita de polvo de hornear y 1/2 cucharadita de sal",
+    "2 tazas de helado de vainilla muy suave",
+    "1 huevo",
+    "2 cucharadas de aceite vegetal"
+  ],
+  "recipeInstructions": "1. Mezclar la harina y el helado en un bol hasta que los ingredientes secos estén mojados.\n2. Rellenar moldes para muffins engrasados con tres cuartos de la mezcla.\n3. Hornear a 450 °F (230 °C) durante 20-25 minutos o hasta que los muffins estén dorados.\n4. Opcional: para variar el sabor, agregar 1/2 taza de chips de chocolate y 1/2 taza de nueces picadas a la mezcla. Espolvorear con canela y azúcar para un toque crujiente.",
+  "url": null
+}

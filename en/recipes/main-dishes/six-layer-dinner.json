@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "six-layer-dinner",
+  "name": "Six Layer Dinner",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "casseroles",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "2 cups diced potatoes",
+    "1 pound hamburger",
+    "1 cup diced onion",
+    "1 can tomato soup",
+    "2 cups water",
+    "1 cup diced carrot",
+    "salt and pepper, to taste"
+  ],
+  "recipeInstructions": "1. Preheat oven to 350 degrees F (175 degrees C).\n2. Spread layers of vegetables, potatoes, and meat in a baking dish in the order specified.\n3. Season each layer with salt and pepper.\n4. Mix water with tomato soup and pour over all the layers.\n5. Bake for about 1 hour and 30 minutes, or until the vegetables are tender and the meat is cooked through.",
+  "url": null
+}

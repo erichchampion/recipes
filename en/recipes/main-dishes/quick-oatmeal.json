@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-oatmeal",
+  "name": "Quick Oatmeal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "cereals",
+    "low-calorie",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Oatmeal, quick cooking",
+    "1 cup Water"
+  ],
+  "recipeInstructions": "1. Place water in a saucepan.\n2. Add quick oats to the water and bring to a boil.\n3. Stir occasionally until the oats are cooked through for about one minute.\n4. Remove the pan from heat and cover.\n5. Let it rest for a few minutes.\n6. Stir again before serving.\n7. You can add dried fruit during cooking if desired.\n8. Optionally, sprinkle with nutmeg, mace, or cinnamon, or any combination of these spices.",
+  "url": null
+}

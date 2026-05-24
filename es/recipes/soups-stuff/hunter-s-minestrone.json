@@ -1,0 +1,35 @@
+{
+  "@type": "Recipe",
+  "identifier": "hunter-s-minestrone",
+  "name": "Minestrón de Cazador",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "italiana",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 cucharaditas de sal",
+    "3 litros de agua",
+    "2,5 kg de carne de res en cubos",
+    "1 diente de ajo machacado",
+    "1 hoja de laurel",
+    "1 zanahoria grande, en rodajas",
+    "2 tallos de apio, en rodajas",
+    "1 cebolla mediana, cortada en 8 pedazos",
+    "1 lata de frijoles rojos (de 300 a 400 g)",
+    "1 lata de puré de tomate con ajo (de 6 onzas)",
+    "Un puñado de judías verdes (o más), cortadas por la mitad o en cuartos",
+    "4 tomates Roma, picados",
+    "1/2 taza de vino Chianti u otro vino tinto",
+    "1/2 taza de hojas de albahaca",
+    "2 cucharaditas de especias criollas",
+    "1,5 cucharaditas de orégano seco",
+    "8 onzas de conchas de pasta",
+    "1/2 cucharadita de pimentón dulce",
+    "2 cucharaditas de azúcar"
+  ],
+  "recipeInstructions": "1. Llevar el agua a ebullición. Agregar todos los ingredientes de la primera parte y cocinar a fuego lento, cubierto, durante 3 horas.\n2. Añadir todos los ingredientes de la segunda parte al caldero y cocinar a fuego lento durante 30 minutos.\n3. Incorporar todos los ingredientes de la tercera parte al caldero y cocinar a fuego lento durante 30 minutos adicionales.\n4. Servir con mucho pan de ajo.",
+  "url": null
+}

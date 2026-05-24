@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "deb-s-hummus-sandwiches",
+  "name": "Sándwiches de hummus de Deb",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "frijoles",
+    "favoritos familiares",
+    "plato principal",
+    "bocadillos"
+  ],
+  "recipeIngredient": [
+    "2 panes de pita integrales",
+    "1/2 taza de hummus (hecho en casa)",
+    "1/2 taza de cebolla roja encurtida",
+    "2 tazas de lechuga mixta",
+    "1/2 pimiento rojo, picado"
+  ],
+  "recipeInstructions": "1. Cortar los panes de pita por la mitad.\n2. Extender el hummus uniformemente en el interior de cada trozo de pita.\n3. Repartir las ingredientes restantes por igual entre los cuatro sándwiches.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-meat-topping",
+  "name": "Taco Meat Topping",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "2 tablespoons taco meat",
+    "1 teaspoon light sour cream",
+    "shredded lettuce",
+    "4 ounces feta cheese, crumbled",
+    "1/4 ounce jalapeno chiles -- diced"
+  ],
+  "recipeInstructions": "1. Heat the taco meat in a small skillet over medium heat until warmed through.\n2. Place the warm tortilla on a plate.\n3. Top with sour cream, shredded lettuce, crumbled feta cheese, and diced jalapeno chiles.\n4. Serve immediately for one tortilla.",
+  "url": null
+}

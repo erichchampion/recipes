@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "taglarini-casserole",
+  "name": "Casserola de Taglarini",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "étnicas",
+    "plato principal",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "Carne molida",
+    "3 cebollas",
+    "1 lata de tomates",
+    "1 lata de maíz entero",
+    "1 lata de aceitunas maduras, en rodajas",
+    "2 cucharaditas de polvo de chile",
+    "1/2 taza de margarina",
+    "2 huevos batidos",
+    "1 1/2 tazas de harina de maíz",
+    "1 taza de leche"
+  ],
+  "recipeInstructions": "1. Dorar la carne y las cebollas.\n2. Incorporar los tomates, el polvo de chile, el maíz, las aceitunas y la margarina. Cocinar durante 10 minutos.\n3. Mezclar los huevos, la leche y la harina de maíz.\n4. Agregar la mezcla de huevo a la mezcla de carne.\n5. Verter la salsa en un plato para hornear.\n6. Hornear a 375 grados durante 40 minutos.",
+  "url": null
+}

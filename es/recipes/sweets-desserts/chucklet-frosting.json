@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chucklet-frosting",
+  "name": "Glaseado de Chuckles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "postres",
+    "rellenos",
+    "glaseado"
+  ],
+  "recipeIngredient": [
+    "2 1/2 tazas de azúcar glas",
+    "3/4 taza de harina",
+    "1/2 cucharadita de sal",
+    "1/3 taza de mantequilla blanda",
+    "1 cucharadita de vainilla",
+    "3 cuadrados de chocolate sin endulzar derretido",
+    "1 cucharada de jarabe de maíz ligero",
+    "1/3 taza de leche"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto 2 cucharadas de leche en un bol.\n2. Batir hasta obtener una textura suave.\n3. Añadir gradualmente la leche restante hasta alcanzar la consistencia deseada para extenderlo.",
+  "url": null
+}

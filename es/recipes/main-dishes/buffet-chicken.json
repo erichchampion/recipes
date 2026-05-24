@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "buffet-chicken",
+  "name": "Buffet de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "2 libras de pechugas de pollo",
+    "Harina",
+    "Aceite para freír",
+    "Sal y pimienta al gusto",
+    "Mantequilla",
+    "1 diente de ajo picado",
+    "6 cebolletas picadas",
+    "1/2 taza de setas",
+    "2 cucharadas de harina",
+    "1/2 taza de agua",
+    "1/2 taza de jerez",
+    "1/2 cucharadita de pimentón dulce",
+    "1/2 cucharadita de tomillo",
+    "1/8 taza de perejil picado",
+    "1/2 lata de aceitunas negras sin hueso y en rodajas",
+    "1 lata de caldo",
+    "1 taza de crema agria"
+  ],
+  "recipeInstructions": "1. Deshuesa y quita la piel a las pechugas de pollo.\n2. Espolvorea ligeramente con harina y dóralas en aceite.\n3. Sazona con sal y pimienta; colócalas en un plato para horno grande.\n4. En una sartén separada, sofríe el ajo, las cebolletas y las setas en mantequilla hasta que estén tiernas pero no doradas.\n5. Agrega la mezcla sofrita al pollo.\n6. Prepara una pasta con harina, agua y jerez; viértela sobre el pollo.\n7. Espolvorea pimentón, tomillo y perejil.\n8. Añade las aceitunas negras y vierte el caldo encima.\n9. Hornea a 180°C hasta que esté tierno (aproximadamente 40-60 minutos).\n10. Mezcla la crema agria hasta que se caliente (sin llegar a hervir), unos 10 minutos.\n11. Sirve caliente en un calentador de fondue. Se puede preparar con antelación y congelar; solo descongela, recalienta y mezcla la crema agria antes de servir.",
+  "url": null
+}

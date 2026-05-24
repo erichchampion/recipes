@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "create-your-own-casserole",
+  "name": "Create Your Own Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cups canned ham, chopped",
+    "1 cup cooked chicken/turkey, chopped",
+    "1 cup canned luncheon meat",
+    "1 cup cooked beef, veal, lamb or pork",
+    "1 cup hard cooked eggs",
+    "1 cup frankfurters",
+    "1 cup cheese",
+    "1 cup canned tuna or salmon"
+  ],
+  "recipeInstructions": "1. Preheat the oven to 350°F (175°C).\n2. In a large bowl, combine all ingredients.\n3. Mix well until everything is evenly distributed.\n4. Transfer the mixture to a greased baking dish.\n5. Bake in the preheated oven for 25-30 minutes or until heated through and bubbly.\n6. Turn off the heat and let it cool for a few minutes before serving.",
+  "url": null
+}

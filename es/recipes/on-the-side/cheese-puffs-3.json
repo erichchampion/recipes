@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-puffs-3",
+  "name": "Bocadillos de Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso",
+    "huevos/queso",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "8 rebanadas de pan blanco",
+    "2 tazas de leche",
+    "8 onzas de lonchas de queso Old English",
+    "1/2 cucharadita de pimienta",
+    "3/4 cucharadita de mostaza en polvo",
+    "1/4 taza de mantequilla derretida",
+    "1 cucharadita de sal",
+    "3 huevos"
+  ],
+  "recipeInstructions": "1. Se puede preparar con antelación.\n2. Al menos 4 horas antes de cocinar, retira los bordes y corta el pan en cuadrados de 1 pulgada. Corta el queso en trozos pequeños.\n3. En un refractario engrasado, alterna capas de pan y queso.\n4. Vierte la mantequilla derretida sobre la superficie.\n5. Bate los huevos hasta que estén bien mezclados, luego añade la sal, la pimienta, la mostaza y la leche.\n6. Vierte la mezcla de huevo sobre el refractario.\n7. Cubre y refrigera.\n8. Una hora antes de servir, hornea a 175 °C durante 30 minutos con la tapa puesta, luego 30 minutos sin tapa hasta que la parte superior esté dorada y con textura de mazorca.",
+  "url": null
+}

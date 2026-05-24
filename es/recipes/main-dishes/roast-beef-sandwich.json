@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "roast-beef-sandwich",
+  "name": "Sándwich de roast beef",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "arenas frías",
+    "arenas calientes",
+    "plato principal",
+    "restaurantes",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "3 rebanadas de pan de centeno tostado",
+    "1/4 libra de roast beef en corte delgado (raro)",
+    "2 rebanadas de queso Muenster",
+    "3 rebanadas de tocino cocido",
+    "1/2 taza de lechuga iceberg picada",
+    "1/4 taza de aderezo Thousand Island",
+    "Tomate en rodajas",
+    "Cebolla en rodajas",
+    "Palitos de pepinillo encurtido"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 400°F (200°C).\n2. Dividir el roast beef por la mitad y colocarlo sobre una bandeja para hornear; encima de cada porción de carne, colocar una rebanada de queso. Hornear hasta que el queso se derrita y la carne esté caliente. Retirar del horno.\n3. Montar el sándwich: Untar todas las rebanadas de pan con aderezo. En una rebanada, colocar una porción de carne; encima, añadir lechuga y otra rebanada de pan con aderezo. Agregar otra porción de carne, lechuga, tocino y finalmente la tercera rebanada de pan con aderezo. Fijarlo con palillos; cortar por la mitad. Servir con tomate, cebolla y pepinillo.",
+  "url": null
+}

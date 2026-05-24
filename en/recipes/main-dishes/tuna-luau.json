@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "tuna-luau",
+  "name": "Tuna Luau",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "entree",
+    "fish",
+    "main dish",
+    "meat",
+    "seafood",
+    "tuna"
+  ],
+  "recipeIngredient": [
+    "2 cans tuna, drained and flaked",
+    "1 can pineapple tidbits (reserve liquid) (9 oz)",
+    "2 tablespoons brown sugar",
+    "1 1/2 teaspoons cornstarch",
+    "1 teaspoon MSG or lemon juice",
+    "3 tablespoons cider vinegar",
+    "2 teaspoons prepared mustard",
+    "3/4 cup water",
+    "1 green pepper, cut into strips",
+    "Cooked rice"
+  ],
+  "recipeInstructions": "1. Put the tuna into a skillet.\n2. Add the liquid from the pineapple, sugar, cornstarch, MSG, vinegar, and mustard, and water.\n3. Cook, stirring until thickened.\n4. Simmer for 10 minutes.\n5. Add the pineapple tidbits and green pepper strips, then simmer another 10 minutes.\n6. Serve over hot rice.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-whipped-cream-frosting-2",
+  "name": "Mock Whipped Cream Frosting",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "cake",
+    "desserts",
+    "frosting"
+  ],
+  "recipeIngredient": [
+    "1 cup milk",
+    "5 tablespoons flour",
+    "1/4 teaspoon salt",
+    "2/3 cup shortening (Crisco)",
+    "1 cup sugar"
+  ],
+  "recipeInstructions": "1. Combine milk, flour and salt in a heavy saucepan.\n2. Bring to a boil and cook, stirring frequently until very thick.\n3. Remove from heat and let cool completely.\n4. In a separate bowl, cream together the shortening and sugar.\n5. Add the custard mixture to the shortening and sugar, beating constantly.\n6. Continue adding the custard until all is incorporated.\n7. Beat for an additional 20 minutes or until the frosting reaches the consistency of whipped cream.",
+  "url": null
+}

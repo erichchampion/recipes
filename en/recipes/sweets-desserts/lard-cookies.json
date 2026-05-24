@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "lard-cookies",
+  "name": "Lard Cookies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 cup lard",
+    "1/2 cup sugar",
+    "1 cup buttermilk",
+    "1/2 tsp baking soda",
+    "1 tsp salt",
+    "1 tsp nutmeg",
+    "1 heaping teaspoon baking powder",
+    "3 cups flour (or enough flour to make a soft dough which holds together for rolling)"
+  ],
+  "recipeInstructions": "1. Melt the lard and let it cool until lukewarm.\n2. Sift all dry ingredients together in a bowl.\n3. Add the melted lard to the dry ingredients and mix well.\n4. Gradually add buttermilk and stir until a soft dough forms.\n5. Roll the dough out on a floured surface to a thickness of 1/2 inch.\n6. Cut into large round cookies.\n7. Bake for about 12 minutes, or until lightly browned.",
+  "url": null
+}

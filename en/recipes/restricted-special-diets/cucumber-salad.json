@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "cucumber-salad",
+  "name": "Cucumber Salad",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "appetizers",
+    "asian",
+    "ethnic",
+    "indian",
+    "vegan",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "1 small carrot, peeled",
+    "3 medium cucumbers, peeled",
+    "1/8 teaspoon chili powder",
+    "1 tablespoon butter or oleo",
+    "1 tablespoon lemon juice",
+    "1/2 teaspoon black pepper",
+    "1 tablespoon fresh coriander leaves"
+  ],
+  "recipeInstructions": "1. Peel and shred the carrots.\n2. Peel and slice the cucumbers.\n3. In a bowl, mix together the lemon juice, black pepper, chili powder, butter, and salt until well combined.\n4. On a salad plate, arrange the cucumber slices in two layers.\n5. Pour the seasoned lemon juice mixture over each layer of cucumbers.\n6. Sprinkle the carrots and coriander leaves on top of the final layer of cucumbers.",
+  "url": null
+}

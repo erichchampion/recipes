@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "oven-baked-toast",
+  "name": "Tostada al horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de mantequilla",
+    "2 cucharadas de miel",
+    "1/2 cucharadita de canela en polvo",
+    "4 huevos",
+    "1/2 taza de jugo de naranja",
+    "6 rebanadas de pan integral"
+  ],
+  "recipeInstructions": "1. Coloca la mantequilla y la miel en un molde rectangular de 13 pulgadas por 9 pulgadas.\n2. Coloca el molde en el horno precalentado hasta que la mantequilla se derrita.\n3. Espolvorea con canela.\n4. Mezcla los huevos con el jugo de naranja; bate bien.\n5. En un plato plano, sumerge las rebanadas de pan en la mezcla de huevo.\n6. Escurre las rebanadas de pan empapadas y colócalas sobre la mezcla de miel.\n7. Hornea a 180°C hasta que esté dorado.\n8. Voltea sobre un plato para servir.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "stu-s-tuna-fish",
+  "name": "Tuna de Stu",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco",
+    "atún"
+  ],
+  "recipeIngredient": [
+    "1 lata de atún blanco sólido, escurrir el agua",
+    "1 cucharada de encurtido dulce",
+    "1 cucharadita de orégano",
+    "1 cucharadita de semillas de apio",
+    "Pimienta negra al gusto",
+    "1 pequeña cebolla, picada"
+  ],
+  "recipeInstructions": "1. Lavar bien el atún.\n2. Comprar atún blanco sólido enlatado.\n3. Añadir 2 cucharadas generosas de encurtido dulce y aproximadamente una cucharadita de orégano o semillas de apio al atún. Ajustar la sazón según el gusto.\n4. Mezclar todos los ingredientes en un bol hasta que queden bien integrados.",
+  "url": null
+}

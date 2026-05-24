@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "funny-cake",
+  "name": "Pastel Divertido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "panadería",
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "Base:",
+    "1/2 taza de azúcar",
+    "1/3 taza de cacao en polvo",
+    "1/2 taza de agua caliente",
+    "1/2 cucharadita de extracto de vainilla",
+    "Relleno:",
+    "2/3 taza de azúcar",
+    "1/3 taza de manteca ablandada",
+    "1 huevo, batido",
+    "2/3 taza de leche",
+    "1 cucharadita de polvo de hornear",
+    "1 taza de harina tamizada",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Forrar el fondo de un molde para tarta de 9 pulgadas con la masa quebrada sin hornear.\n2. Mezclar el azúcar, el cacao en polvo, el agua caliente y el extracto de vainilla en un bol. Verter la mezcla sobre la base de masa.\n3. En otro bol, mezclar el azúcar con la manteca ablandada. Incorporar el huevo y la leche.\n4. Agregar el polvo de hornear, la harina tamizada y el extracto de vainilla. Mezclar hasta obtener una masa suave.\n5. Verter la masa sobre la capa de cacao.\n6. Hornear en horno precalentado a 175°C durante 40 minutos o hasta que la superficie se vuelva firme al tacto.",
+  "url": null
+}

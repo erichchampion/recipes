@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "avocado-filling",
+  "name": "Relleno de aguacate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "importar",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "45 aguacates, pelados y picados finamente",
+    "1 pequeña cebolla blanca, pelada y picada finamente",
+    "1/4 taza de cilantro fresco, picado finamente",
+    "3 chiles serrano pequeños o 1 chile jalapeño pequeño, picados finamente",
+    "Jugo de 2 limas",
+    "Sal marina al gusto",
+    "Pimienta negra recién molida al gusto"
+  ],
+  "recipeInstructions": "1. Machaca los aguacates con un tenedor y mézclalos con las cebollas, el cilantro, los chiles y el jugo de lima.\n2. Sazónalo con sal y pimienta al gusto.\nRinde: aproximadamente 2 1/2 tazas",
+  "url": null
+}

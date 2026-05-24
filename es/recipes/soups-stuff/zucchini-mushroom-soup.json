@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "zucchini-mushroom-soup",
+  "name": "Sopa de Calabacín y Setas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 cebolla pequeña, picada",
+    "1 cucharada de aceite",
+    "4 calabacines medianos, picados",
+    "1/2 libra de setas, picadas",
+    "6 tazas de agua",
+    "1/2 taza de avena en hojuelas",
+    "1/2 cucharadita de sal (opcional)",
+    "2 cucharadas de perejil fresco, finamente picado"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla en aceite hasta que esté transparente.\n2. Añadir los calabacines y las setas. Cocinar durante 5 minutos más.\n3. Incorporar el agua, la avena y la sal, si se usa.\n4. Dejar hervir la sopa a fuego lento durante 12 minutos.\n5. Verter en una licuadora y mezclar hasta obtener una textura suave.\n6. Devolver el mezcla a una olla y calentar nuevamente.\n7. Servir caliente.",
+  "url": null
+}

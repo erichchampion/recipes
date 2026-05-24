@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "congee-jook",
+  "name": "Congí (Jook)",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "asiático",
+    "chino",
+    "étnico",
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz de grano largo",
+    "3 litros de caldo",
+    "2 cucharadas de repollo chino encurtido picado",
+    "1 rodaja de jengibre fresco, picada",
+    "1 tira de cáscara de mandarina, remojada y picada",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "1. En una olla grande, llevar el caldo a ebullición.\n2. Agregar el arroz y reducir el fuego a bajo.\n3. Cocinar hasta que el arroz esté tierno y el líquido se haya absorbido, removiendo ocasionalmente.\n4. Incorporar el repollo encurtido, el jengibre y la cáscara de mandarina.\n5. Sazonar con sal al gusto.\n6. Servir caliente.",
+  "url": null
+}

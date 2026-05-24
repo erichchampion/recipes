@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-pudding-10",
+  "name": "Rice Pudding",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "desserts",
+    "puddings",
+    "rice",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "4 cups milk",
+    "1/2 cup rice, raw",
+    "1/2 cup sugar",
+    "1/4 teaspoon salt",
+    "2 eggs",
+    "1 teaspoon vanilla"
+  ],
+  "recipeInstructions": "1. In a saucepan, combine the milk, rice, sugar, and salt.\n2. Heat the mixture over medium heat until it reaches boiling point.\n3. Reduce the heat to low and simmer for 1 hour or until the rice is tender.\n4. In a separate bowl, beat the eggs and add a small amount of the warm milk mixture to temper them.\n5. Gradually return the tempered egg mixture to the saucepan with the remaining liquid.\n6. Cook over low heat for 5 minutes, stirring constantly.\n7. Do not boil the mixture.\n8. Remove from heat and stir in the vanilla extract.\n9. Cover and refrigerate until chilled before serving.",
+  "url": null
+}

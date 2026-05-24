@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "fried-rice-with-eggs",
+  "name": "Arroz frito con huevos",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "desayuno",
+    "chino",
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "2 tazas de arroz cocido",
+    "4 cebolletas, picadas con los tallos",
+    "2 cucharadas de pimiento verde",
+    "2 cucharadas de aceite de maní",
+    "1 taza de setas laminadas",
+    "2 cucharadas de salsa de soja baja en sodio",
+    "100 gramos de chicharros de agua (enlatados)",
+    "1 taza de cerdo cocido, cortado en cubos",
+    "3 huevos"
+  ],
+  "recipeInstructions": "1. Añadir el cerdo cocido o un sustituto como pollo o ternera a la sartén.\n2. Calentar el aceite en la sartén; agregar cebolletas, pimiento verde y setas. Saltear hasta que estén tiernos.\n3. Incorporar el arroz cocido, los chicharros de agua y la salsa de soja.\n4. Bajar el fuego y cocinar durante 7-10 minutos, removiendo con frecuencia.\n5. Mezclar los huevos batidos y remover constantemente durante unos 3-4 minutos.\n6. Añadir los cubos de cerdo o otra carne; calentar durante aproximadamente 1 minuto más.\n7. Servir mientras esté caliente.",
+  "url": null
+}

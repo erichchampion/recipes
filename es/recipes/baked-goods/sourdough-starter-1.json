@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "sourdough-starter-1",
+  "name": "Iniciador de masa madre #1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina de trigo blanqueada",
+    "1 sobre de levadura seca activa"
+  ],
+  "recipeInstructions": "1. Mezcla la harina y la levadura.\n2. Añade agua poco a poco hasta obtener una masa espesa.\n3. Deja reposar la mezcla en un lugar cálido durante 24 horas o hasta que adquiera un olor a levadura.",
+  "url": null
+}

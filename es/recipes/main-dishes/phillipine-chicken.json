@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "phillipine-chicken",
+  "name": "Pollo filipino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pollo",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "6 pechugas de pollo sin piel",
+    "1 taza de agua",
+    "1/2 taza de vinagre",
+    "1/4 taza de salsa de soja",
+    "2 dientes de ajo picados"
+  ],
+  "recipeInstructions": "1. Coloca las pechugas de pollo en la olla de cocción lenta.\n2. Mezcla el agua, el vinagre y la salsa de soja en un bol.\n3. Añade el ajo al adobo.\n4. Vierte el adobo sobre las pechugas de pollo.\n5. Cocina durante 6 a 8 horas a fuego lento.\n6. Sirve el pollo con arroz.\nNota: Puedes usar un pollo entero, cortándolo primero si lo prefieres.",
+  "url": null
+}

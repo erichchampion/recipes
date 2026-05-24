@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "pumpkin-apple-waffles",
+  "name": "Waffles de Calabaza y Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "gofres"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de calabaza",
+    "1/2 taza de manzanas, ralladas",
+    "2 claras de huevo batidas",
+    "1 taza de leche desnatada a temperatura ambiente",
+    "1/2 taza de puré de manzana a temperatura ambiente",
+    "1 taza de harina",
+    "1/2 taza de azúcar moreno, compactado",
+    "1 1/2 cucharaditas de polvo de hornear",
+    "1 cucharadita de canela",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de nuez moscada",
+    "1/8 cucharadita de jengibre",
+    "1/8 cucharadita de clavo de olor"
+  ],
+  "recipeInstructions": "Preparar la plancha para gofres con spray antiadherente y calentar. En un bol, mezclar la calabaza, las manzanas, las claras de huevo, la leche y el puré de manzana. En otro bol, combinar la harina, el azúcar moreno, el polvo de hornear, la canela, la sal, la nuez moscada, el jengibre y el clavo de olor. Agregar los ingredientes húmedos a los secos hasta que estén mojados. Verter suficiente masa en la plancha para gofres para llenar dos tercios. Cocinar hasta que esté crujiente y dorada. Reservar. Repetir con el resto de la masa.",
+  "url": null
+}

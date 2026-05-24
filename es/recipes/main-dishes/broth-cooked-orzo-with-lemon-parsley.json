@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "broth-cooked-orzo-with-lemon-parsley",
+  "name": "Caldo de orzo cocido con limón y perejil",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 litro de caldo de verduras",
+    "12 onzas de orzo, o cualquier otra pasta pequeña",
+    "1 cucharada de aceite de oliva",
+    "2 dientes de ajo, picados",
+    "El jugo de 2 limones",
+    "1/2 taza de perejil picado",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Llevar el caldo de verduras a ebullición.\n2. Agregar el orzo y cocinar hasta que esté al dente.\n3. Escurrir el orzo y reservar algo del caldo para más tarde.\n4. Mezclar el orzo cocido con aceite de oliva y ajo.\n5. Sazonar con jugo de limón, perejil picado, sal y pimienta.\n6. Servir inmediatamente.",
+  "url": null
+}

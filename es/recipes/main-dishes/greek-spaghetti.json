@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "greek-spaghetti",
+  "name": "Spaghettis griegos",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "2 dientes de ajo, picados",
+    "3 cucharadas de aceite de oliva",
+    "3 latas de tomates troceados con albahaca, ajo y orégano (14,5 onzas cada una)",
+    "1/2 taza de cebolletas, cortadas en rodajas",
+    "1/4 taza de perejil fresco, picado",
+    "1 cucharada de zumo de limón",
+    "12 onzas de espaguetis, cocidos",
+    "1 taza de queso feta desmenuzado",
+    "1 lata de aceitunas rebanadas (2 1/4 onzas)"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una sartén antiadherente grande a fuego medio. Agregar el ajo picado y saltear hasta que fragante.\n2. Incorporar los tomates troceados con albahaca, ajo y orégano. Cocinar durante 2 minutos o hasta que estén calientes.\n3. Mezclar las cebolletas, perejil, zumo de limón, espaguetis cocidos, queso feta y aceitunas rebanadas.\n4. Decorar con rodajas de limón, cebolletas adicionales y ramitas de perejil fresco si se desea.",
+  "url": null
+}

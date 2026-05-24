@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "venison-and-4-beans",
+  "name": "Cazado y 4 frijoles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "juego",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 libras de venado",
+    "1 libra de tocino",
+    "1 lata de frijoles de cerdo",
+    "1 lata de frijoles lima",
+    "1 lata de frijoles rojos (kidney beans)",
+    "1 lata de frijoles navales",
+    "1/2 cebolla, picada",
+    "1 pimiento verde, picado",
+    "1 taza de mostaza",
+    "1 taza de ketchup",
+    "1 cucharadita de azúcar moreno",
+    "1 cucharadita de sal",
+    "1 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Dorar el venado y el tocino.\n2. Colocar todos los ingredientes en una olla de cocción lenta.\n3. Cocinar a fuego alto durante 4 horas.",
+  "url": null
+}

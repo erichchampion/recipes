@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "thanksgiving-pie",
+  "name": "Thanksgiving Pie",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "american",
+    "baked goods",
+    "bakery",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "Mary Bowles DNSR31A",
+    "1 9-inch unbaked pie shell",
+    "3 Eggs",
+    "1 cup Dark corn syrup",
+    "1/2 cup Sugar",
+    "1/4 cup Butter, melted",
+    "1 cup Pumpkin (canned or cooked)",
+    "1 tsp Vanilla",
+    "1 cup Pecan halves"
+  ],
+  "recipeInstructions": "1. Preheat oven to 350°F.\n2. Beat eggs well.\n3. Beat in syrup, sugar, butter, pumpkin, and vanilla until well blended.\n4. Arrange pecans in the bottom of the pie crust.\n5. Slowly pour pumpkin mixture over the pecans.\n6. Bake for 1 hour or until a knife inserted 1 inch from the edge comes out clean.\n7. Cool and serve with whipped cream.",
+  "url": null
+}

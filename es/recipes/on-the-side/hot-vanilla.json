@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-vanilla",
+  "name": "Vainilla caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "4 tazas de leche",
+    "1/4 taza de miel",
+    "1 cucharadita de extracto de vainilla",
+    "Canela molida y un palo de canela -- para decorar"
+  ],
+  "recipeInstructions": "1. Calentar la leche en una sartén a fuego medio o en el microondas hasta que esté caliente, pero no hirviendo.\n2. Retirar del fuego y agregar la miel y el extracto de vainilla.\n3. Verter en tazas, espolvorear con canela y servir con un palo de canela como palillo.",
+  "url": null
+}

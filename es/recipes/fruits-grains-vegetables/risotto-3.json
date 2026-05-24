@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "risotto-3",
+  "name": "Risotto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz, crudo",
+    "1/2 taza de cebolla, picada",
+    "2 cubos de caldo",
+    "1/4 taza de queso parmesano",
+    "2 tazas de agua hirviendo",
+    "1/4 cucharadita de azafrán",
+    "2 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. Calentar la mantequilla en una sartén profunda.\n2. Saltear la cebolla hasta que empiece a ablandarse.\n3. Añadir el arroz y saltear, removiendo con frecuencia, hasta que los bordes de los granos se vuelvan ligeramente translúcidos.\n4. Incorporar el azafrán.\n5. Disolver los cubos de caldo en agua hirviendo.\n6. Verter el caldo disuelto en la sartén con la mezcla de arroz.\n7. Cubrir bien y reducir el fuego a bajo durante unos 20 minutos o hasta que el arroz esté tierno.\n8. Mezclar el queso parmesano justo antes de servir.",
+  "url": null
+}

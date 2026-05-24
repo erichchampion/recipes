@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "vodka-punch",
+  "name": "Cóctel de Vodka",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "familiar",
+    "vacaciones",
+    "batido",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 litro de jugo de arándanos rojos",
+    "2 tazas de vodka",
+    "6 onzas de limonada congelada",
+    "48 onzas de 7-Up helado"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol de punch.\n2. Enfriar con un anillo de hielo.\n3. Rinde 28 bebidas de 4 onzas.",
+  "url": null
+}

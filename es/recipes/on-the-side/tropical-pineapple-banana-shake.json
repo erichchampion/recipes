@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "tropical-pineapple-banana-shake",
+  "name": "Batido Tropical de Piña y Plátano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 taza de piña fresca triturada",
+    "1 plátano grande cortado en cuartos",
+    "1 taza de buttermilk a temperatura ambiente",
+    "1 cucharada de miel",
+    "2 cucharaditas de jengibre fresco rallado",
+    "1 gota de extracto de coco"
+  ],
+  "recipeInstructions": "1. En una licuadora, mezclar la piña, el plátano, el buttermilk, la miel, el jengibre y el extracto de coco.\n2. Licuar hasta obtener una consistencia suave.\n3. Servir en vasos.",
+  "url": null
+}

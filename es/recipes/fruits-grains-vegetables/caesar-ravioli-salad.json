@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "caesar-ravioli-salad",
+  "name": "Ensalada de raviolis César",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pastas",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 paquete de 9 onzas (255 g) de raviolis de queso",
+    "2 tazas de tomates cherry, cortados por la mitad",
+    "1 pepino mediano, cortado en rodajas finas",
+    "1/2 taza de cebolla morada, picada",
+    "1/4 taza de aceitunas negras, rebanadas",
+    "1/4 taza de queso Parmesano fresco rallado",
+    "1/2 cucharadita de pimienta negra molida",
+    "3/4 taza de aderezo para ensalada César",
+    "4 tazas de lechuga romana, picada"
+  ],
+  "recipeInstructions": "1. Cocinar los raviolis según las instrucciones del paquete; escurrir.\n2. Enjuagar los raviolis cocidos con agua fría y escurrir nuevamente.\n3. En un bol grande, mezclar los raviolis con el resto de los ingredientes (tomates cherry, pepino, cebolla, aceitunas negras, queso Parmesano, pimienta negra, aderezo César y lechuga romana).\n4. Tapar el bol y refrigerar durante al menos 30 minutos para que se mezclen los sabores.\n5. Servir sobre una cama de lechuga romana picada.",
+  "url": null
+}

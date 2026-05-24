@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "west-indies-coffee",
+  "name": "Café de las Indias Occidentales",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "3 1/2 tazas de leche",
+    "1/4 taza de café instantáneo",
+    "1/4 taza de azúcar moreno",
+    "Una pizca de sal"
+  ],
+  "recipeInstructions": "1. Llevar la leche a ebullición.\n2. Verter sobre el café, el azúcar moreno y la sal.\n3. Remover hasta que se disuelva el azúcar moreno.\n4. Servir en tazas. Rinde entre 4 y 6 porciones.",
+  "url": null
+}

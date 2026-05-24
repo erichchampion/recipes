@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-oatmeal-raisin-bread",
+  "name": "Pan de manzana, avena y pasas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "2 cucharaditas levadura",
+    "2 tazas harina de pan",
+    "2 tazas avena",
+    "1/4 taza avena partido",
+    "2 cucharadas azúcar moreno",
+    "1/2 cucharadita canela",
+    "1 cucharadita sal",
+    "2 cucharadas mantequilla",
+    "1 1/4 tazas zumo de manzana",
+    "2/3 tazas pasas",
+    "2/3 tazas manzanas - cortadas en cubos",
+    "1/2 taza nueces - picadas"
+  ],
+  "recipeInstructions": "1. Añadir todos los ingredientes excepto las pasas, las manzanas y las nueces a la máquina del pan.\n2. Encender la máquina cuando el ciclo esté completo.\n3. En el momento de sonar, añadir las pasas, las manzanas y las nueces.",
+  "url": null
+}

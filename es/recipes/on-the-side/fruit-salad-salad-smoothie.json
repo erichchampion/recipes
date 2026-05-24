@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-salad-salad-smoothie",
+  "name": "Batido de ensalada de frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "frutas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 pechuga de melocotón maduro",
+    "3/4 taza de fresas frescas o congeladas",
+    "1/2 plátano, pelado",
+    "2 tazas de leche evaporada desnatada, fría",
+    "4 cucharaditas de jugo de naranja concentrado congelado",
+    "1 cucharadita de extracto de vainilla",
+    "4-6 cubos de hielo",
+    "Canela - opcional"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el hielo y la canela en una licuadora.\n2. Añadir los cubos de hielo uno a uno mientras la licuadora está en marcha.\n3. Servir el batido en 4 vasos fríos y espolvorear con canela al gusto.",
+  "url": null
+}

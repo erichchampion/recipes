@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "scrambled-eggs-with-lox-and-cream-cheese",
+  "name": "Huevos revueltos con lox y queso crema",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "12 huevos grandes",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra",
+    "3 cucharadas de mantequilla",
+    "8 onzas (225 g) de crema de queso bien fría, cortada en cubos de 1/2 pulgada",
+    "6 onzas (170 g) de salmón ahumado de Nueva Escocia o lox, cortado en trozos de 1/2 pulgada",
+    "Cebolla fresca picada (opcional)"
+  ],
+  "recipeInstructions": "1. Batir los huevos, la sal y la pimienta en un bol grande hasta que estén combinados.\n2. Derretir la mantequilla en una sartén antiadherente grande a fuego medio-alto.\n3. Añadir los huevos a la sartén. Remover con una cuchara de madera hasta que los huevos estén casi cuajados, aproximadamente 5 minutos.\n4. Incorporar suavemente la crema de queso y el salmón, removiendo solo hasta que los huevos estén cuajados, aproximadamente 1 minuto.\n5. Transferir los huevos a un plato. Espolvorear con cebolla picada si se desea, y servir.",
+  "url": null
+}

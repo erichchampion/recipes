@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-chicken-noodle-soup",
+  "name": "Quick Chicken Noodle Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "poultry",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "3 quarts Water",
+    "5 Chicken Bouillon Cubes",
+    "1 cup Thinly Sliced Carrot",
+    "1/2 cup Chopped Celery",
+    "1/2 cup Finely Chopped Onion",
+    "1 Bay Leaf",
+    "1 Tablespoon Salt",
+    "1/4 Teaspoon Ground Black Pepper",
+    "1/4 Teaspoon Poultry Seasoning",
+    "3 cups Chopped Cooked Chicken",
+    "6 oz Medium Egg Noodles (Uncooked)"
+  ],
+  "recipeInstructions": "1. In a 6-quart saucepan, combine all ingredients except chicken and noodles; heat to boiling.\n2. Add chicken and noodles; cook uncovered, stirring occasionally, for 8 minutes or until noodles and vegetables are tender.\n3. Discard bay leaf. Serves 10 to 12.",
+  "url": null
+}

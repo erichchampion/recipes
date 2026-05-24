@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-turkey",
+  "name": "Olla de pavo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento",
+    "pavo"
+  ],
+  "recipeIngredient": [
+    "1 taza de caldo de pollo",
+    "Espray de cocina Pam",
+    "1 pechuga pequeña de pavo congelada",
+    "Sal y pimienta al gusto",
+    "Zanahorias en cubos (opcional)",
+    "Papas en cubos (opcional)",
+    "Cebollas en cubos (opcional)"
+  ],
+  "recipeInstructions": "1. Coloca la pechuga de pavo en la olla.\n2. Vierte el caldo de pollo sobre el pavo.\n3. Agrega sal y pimienta al gusto.\n4. Si lo deseas, añade verduras como zanahorias, papas o cebollas alrededor y debajo del pavo.\n5. Cocina a fuego lento durante 8-10 horas, apagando cuando esté listo.",
+  "url": null
+}

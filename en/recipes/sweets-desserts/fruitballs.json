@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruitballs",
+  "name": "Fruitballs",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 cup Cherries",
+    "1/4 lb Walnuts",
+    "1/4 lb Coconut",
+    "1/4 lb Almonds",
+    "1/4 lb Dates"
+  ],
+  "recipeInstructions": "1. Put all ingredients through a food chopper.\n2. Add one beaten egg.\n3. Roll into small balls.\n4. Roll in white sugar.",
+  "url": null
+}

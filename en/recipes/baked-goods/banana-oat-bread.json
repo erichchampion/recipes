@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-oat-bread",
+  "name": "Banana Oat Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "brdmachine",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1/2 cup boiling water",
+    "1 cup old fashioned rolled oats",
+    "1/4 cup water",
+    "1 cup mashed bananas",
+    "2 tbsp oil",
+    "4 tbsp brown sugar",
+    "1 cup bread flour",
+    "1 cup whole wheat flour",
+    "1 tsp salt",
+    "1 tbsp yeast"
+  ],
+  "recipeInstructions": "1. Stir the oats into the boiling water and let sit for 10 minutes.\n2. Add the remaining ingredients to a bread pan.\n3. Bake on basic setting.",
+  "url": null
+}

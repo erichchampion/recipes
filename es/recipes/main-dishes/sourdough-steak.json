@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "sourdough-steak",
+  "name": "Bistec de masa madre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "3 libras (1,360 g) de lomo redondo [de 1 pulgada de grosor]",
+    "1 taza (240 ml) de harina",
+    "2 cucharaditas de sal de cebolla",
+    "2 cucharaditas de pimentón dulce",
+    "1 cucharadita de pimienta negra molida",
+    "1 taza (240 ml) de masa madre de sourdough (ver receta a continuación)",
+    "3/4 taza (180 ml) de manteca o shortening"
+  ],
+  "recipeInstructions": "1. Golpear la carne con un mazo de carne o un cuchillo para igualar el grosor y cortar en porciones para servir.\n2. Mezclar la harina con las especias. Sumergir los trozos de carne en la masa madre y luego en la mezcla de harina sazonada.\n3. Freír en aproximadamente 1 pulgada (2,5 cm) de manteca caliente hasta que estén dorados y servir.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetarian-stock",
+  "name": "Caldo Vegetariano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "mcdougall",
+    "sopas",
+    "caldos",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "12 tazas de cáscaras de patata",
+    "12 tazas de agua",
+    "1/4 taza de ajo (picado)",
+    "2 cebollas medianas (cortadas en trozos)",
+    "1 tallo de apio (en rodajas)",
+    "3 ramitas de perejil (desmenuzadas)",
+    "1 hoja de laurel"
+  ],
+  "recipeInstructions": "1. Pica los dientes de ajo, corta las cebollas y corta el apio.\n2. Coloca todos los ingredientes en una olla grande.\n3. Lleva a ebullición. Retira la espuma que se forme en la superficie.\n4. Reduce el fuego, tapa y deja cocinar a fuego lento durante 1 hora y media a 2 horas.\n5. Cuela el caldo a través de un colador fino en otro recipiente; enfría, tapa y refrigera o congela.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "dutch-apple-salad",
+  "name": "Ensalada de Manzana Holandesa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frutas",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 taza de jamón cocido y cortado en cubos",
+    "2 manzanas peladas, sin corazón y cortadas en trozos",
+    "3/4 taza de papas cocidas y cortadas en cubos",
+    "2 huevos duros cortados",
+    "2 encurtidos cortados",
+    "1/4 taza de aderezo italiano o de buttermilk"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcla el jamón cocido, las manzanas, las papas, los huevos duros y los encurtidos.\n2. Agrega el aderezo de buttermilk a la mezcla y revuelve hasta que esté bien combinado.\n3. Sirve la ensalada sobre hojas de lechuga.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "fresh-tomato-sauce",
+  "name": "Fresh Tomato Sauce",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "american",
+    "ethnic",
+    "native",
+    "sauces"
+  ],
+  "recipeIngredient": [
+    "24 fresh tomatoes, peeled, seeded, and quartered",
+    "1 small onion, diced",
+    "2 garlic cloves, chopped",
+    "2 tbsp olive oil",
+    "1/2 tsp salt",
+    "1/2 tsp white pepper",
+    "1 bay leaf",
+    "1 tbsp fresh basil, chopped",
+    "2 tbsp fresh oregano, chopped"
+  ],
+  "recipeInstructions": "1. Puree the tomatoes in a food processor until smooth (about 1 minute).\n2. In a large saucepan over medium heat, sauté the onion and garlic in olive oil until translucent.\n3. Add the tomato puree, salt, pepper, bay leaf, basil, and oregano to the pan; mix well.\n4. Lower the heat and simmer for about 1 hour, stirring occasionally, until the sauce reduces by half and becomes a thicker paste.",
+  "url": null
+}

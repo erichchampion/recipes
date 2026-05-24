@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "root-beer-2",
+  "name": "Root Beer",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 oz Sassafras",
+    "1 oz Allspice",
+    "1 oz Yellowdock",
+    "1 oz Wintergreen",
+    "0.5 oz Wild cherry bark",
+    "0.5 oz Coriander seeds",
+    "1 oz Hops",
+    "3 quarts Molasses",
+    "0.5 pint Yeast",
+    "4 gallons Cold water"
+  ],
+  "recipeInstructions": "1. Mix together the sassafras, allspice, yellow dock, wintergreen, wild cherry bark, coriander seeds, and hops.\n2. Add molasses to the mixture.\n3. Cover everything with boiling water.\n4. Allow the mixture to stand for 24 hours.\n5. Filter the mixture.\n6. Add yeast and cold water.\n7. The beer will be ready in twenty-four hours.\n8. Bottle and seal.",
+  "url": null
+}

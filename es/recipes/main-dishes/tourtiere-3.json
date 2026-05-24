@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "tourtiere-3",
+  "name": "Tourtiere",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "pastel",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne de cerdo picada",
+    "1 cebolla pequeña, picada",
+    "1 diente de ajo pequeño, picado",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de sal de apio",
+    "1/4 cucharadita de clavo molido",
+    "1/2 taza de agua",
+    "1/4 a 1/2 taza de pan rallado",
+    "Masa de hojaldre de su elección"
+  ],
+  "recipeInstructions": "1. Coloque todos los ingredientes excepto el pan rallado y la masa en una cacerola.\n2. Lleve a ebullición, luego cocine destapada durante 20 minutos a fuego medio.\n3. Retire del fuego y añada cucharadas de pan rallado. Deje reposar durante 10 minutos.\n4. Si la grasa ha sido absorbida suficientemente por el pan rallado, no añada más. Si no, continúe de la misma manera.\n5. Enfríe y vierta en un molde para pastel forrado con masa. Cubra con la corteza.\n6. Hornee a 200°C hasta que esté dorado. Sirva caliente. Una tourtière cocida se puede congelar durante 4-5 meses. No es necesario descongelarla antes de recalentar.",
+  "url": null
+}

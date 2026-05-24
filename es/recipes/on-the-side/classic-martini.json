@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "classic-martini",
+  "name": "Martini clásico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas alcohólicas",
+    "aperitivos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "2 1/2 oz de ginebra",
+    "1 cucharadita de vermut seco",
+    "1 aceituna"
+  ],
+  "recipeInstructions": "1. Agitar o mezclar la ginebra y el vermut con hielo.\n2. Colar en un vaso tipo martini.\n3. Decorar con una aceituna.\nRación: 1.\nVARIACIÓN: Martini sucio - Verter un poco de jugo de aceituna y partículas en el martini.\nPor ración: 188 calorías, 1 gramo de grasa (5% de las calorías), 0 mg de colesterol, 0 gramos de proteína, 95 gramos de carbohidratos, 2 mg de sodio.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-stuffed-pork",
+  "name": "Cerdo relleno italiano",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "4 lomo de cerdo o chuletas gruesas",
+    "1/2 taza de croutones de pan sin sal, ligeramente triturados",
+    "1/2 taza de salsa pesto",
+    "1/4 taza de tomates secos al sol picados"
+  ],
+  "recipeInstructions": "1. Mezclar los croutones, la salsa pesto y los tomates secos picados en un bol.\n2. Rellenar las chuletas o el lomo de cerdo con la mezcla.\n3. Hornear sin cubrir a 180-190 °C durante aproximadamente 1 hora, o hasta que esté dorado.\n4. Cubrir apretadamente con papel de aluminio y continuar horneando hasta que esté cocido.",
+  "url": null
+}

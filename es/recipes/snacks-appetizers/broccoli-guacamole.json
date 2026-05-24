@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "broccoli-guacamole",
+  "name": "Brócoli Guacamole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempié",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 taza de brócoli cocido y picado",
+    "1/4 taza de crema agria",
+    "1/4 taza de mayonesa",
+    "2 cucharadas de queso parmesano rallado",
+    "1/4 taza de queso cheddar rallado",
+    "1 cucharadita de cebolla verde picada",
+    "1/4 cucharadita de polvo de curry",
+    "1/4 cucharadita de sal",
+    "un chorrito de jugo de limón"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Transferir la mezcla a una licuadora.\n3. Licuar hasta obtener una textura suave.\n4. Dejar enfriar el guacamole en el refrigerador durante al menos 30 minutos antes de servir.",
+  "url": null
+}

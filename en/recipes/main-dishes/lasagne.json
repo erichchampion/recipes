@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "lasagne",
+  "name": "Lasagne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "ground beef",
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 pound Lasagne noodles",
+    "1 tablespoon Parsley",
+    "1 1/2 pounds Ground beef",
+    "1 dash Cinnamon",
+    "2 pounds Ricotta cheese",
+    "1 dash Nutmeg",
+    "2 cups Mozzarella cheese, grated",
+    "1/2 cup Parmesan cheese, grated",
+    "3 Eggs",
+    "1 quart Spaghetti sauce"
+  ],
+  "recipeInstructions": "1. Cook lasagne noodles as directed on package.\n2. Brown ground beef in a pan until no longer pink. Remove from heat and set aside.\n3. In a bowl, mix ricotta cheese with 1 tablespoon parsley, 1 dash nutmeg, 1 dash cinnamon, and 3 eggs.\n4. Preheat oven to 375°F (190°C).\n5. Place a layer of spaghetti sauce in the bottom of a baking dish.\n6. Layer half of the cooked lasagne noodles over the sauce.\n7. Spread half of the ricotta mixture over the noodles, followed by some of the meat and mozzarella cheese.\n8. Repeat layers with remaining ingredients, ending with a layer of noodles topped with sauce.\n9. Sprinkle remaining Parmesan cheese on top.\n10. Bake for 30 minutes or until heated through and bubbly.",
+  "url": null
+}

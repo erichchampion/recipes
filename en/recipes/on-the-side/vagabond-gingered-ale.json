@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "vagabond-gingered-ale",
+  "name": "Vagabond Gingered Ale",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "3 1/2 lb Munton & Fison plain dark malt extract",
+    "2 1/2 lb Plain dry malt extract",
+    "3/4 lb Crystal malt",
+    "1/2 lb Chocolate malt",
+    "2 oz Cascade hops (boiling)",
+    "Equal to 10 HBU",
+    "1 oz Willamette hops (finishing)",
+    "3 oz Freshly grated ginger root (adjust to taste)",
+    "1 package Ale yeast",
+    "3/4 cup Corn sugar (for bottling)"
+  ],
+  "recipeInstructions": "1. Mix the crushed crystal and chocolate malts with 1.5 gallons of cold water.\n2. Bring the mixture to a boil, then remove the grains.\n3. Add the malt extracts. Do not leave the grains in boiling water to avoid an \"ashy\" taste.\n4. Dissolve the extracts completely.\n5. Add the boiling hops and freshly grated ginger root; continue boiling for 60 minutes.\n6. Finish by adding the Willamette hops during the last 1-2 minutes of boiling.\n7. Sparge the fermenter with cold water.\n8. Cool the mixture, pitch the yeast, and bottle once fermentation is finished.\nSource: Charlie Papazian, \"The New Complete Joy to Homebrewing\"",
+  "url": null
+}

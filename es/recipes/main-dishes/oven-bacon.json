@@ -1,0 +1,17 @@
+{
+  "@type": "Recipe",
+  "identifier": "oven-bacon",
+  "name": "Bacon al horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 lb de tocino en lonchas"
+  ],
+  "recipeInstructions": "1. Coloca las lonchas de tocino sobre una rejilla dentro de una bandeja para hornear.\n2. Hornea a 400 °F (200 °C) durante 15-20 minutos, o hasta que esté crujiente.\n3. Retira del horno y deja enfriar.\n4. Cubre bien y refrigera de 2 a 48 horas para que se endurezca.\n5. Para recalentar, hornea a 450 °F (230 °C) durante 5 minutos, o hasta que vuelva a estar crujiente.\n6. Sirve caliente.",
+  "url": null
+}

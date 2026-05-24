@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "lobster-bisque",
+  "name": "Bisque de langosta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "camarones",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de cebolla picada",
+    "2 cucharadas de margarina",
+    "1 1/2 tazas de leche",
+    "1 paquete (8 onzas) de queso crema",
+    "1 1/2 tazas de langosta cocida en cubos",
+    "2 cucharadas de jerez",
+    "1/4 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Cocinar la cebolla picada en la margarina hasta que esté tierna.\n2. Añadir la leche y derretir el queso crema en la mezcla.\n3. Remover ocasionalmente hasta que el queso se haya derretido por completo.\n4. Incorporar los ingredientes restantes: jerez, langosta cocida en cubos y sal.\n5. Calentar la mezcla hasta alcanzar la temperatura de servicio.\n6. Servir caliente.",
+  "url": null
+}

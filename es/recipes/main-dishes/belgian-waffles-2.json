@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "belgian-waffles-2",
+  "name": "Waffelas belgas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "gofres"
+  ],
+  "recipeIngredient": [
+    "1 sobre de levadura seca",
+    "2 tazas de leche tibia",
+    "4 huevos, separados en yemas y claras",
+    "1 cucharada de extracto de vainilla",
+    "2 1/2 tazas de harina tamizada",
+    "1/2 cucharadita de sal",
+    "1/2 taza de mantequilla derretida",
+    "1 cucharada de azúcar"
+  ],
+  "recipeInstructions": "1. Espolvorea la levadura sobre la leche tibia y remueve hasta que se disuelva.\n2. Bate las yemas de huevo y añádelas a la mezcla de levadura con el extracto de vainilla.\n3. Mezcla la harina, el azúcar y la sal; agrégalos a los ingredientes líquidos.\n4. Incorpora la mantequilla derretida y combina bien.\n5. Bate las claras hasta que estén firmes y mézclalas cuidadosamente en la mezcla.\n6. Deja reposar en un lugar cálido durante unos 45 minutos hasta que la masa duplique su volumen.\n7. Usa 7/8 taza de masa para cada gofre.",
+  "url": null
+}

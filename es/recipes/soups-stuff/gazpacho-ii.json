@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "gazpacho-ii",
+  "name": "Gazpacho II",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 diente de ajo machacado",
+    "1 cebolla pelada, picada",
+    "5 tomates maduros, pelados y picados",
+    "1 taza de caldo de carne",
+    "3 cucharadas de aceite de oliva",
+    "2 cucharadas de vinagre",
+    "2 cucharadas de perejil fresco picado",
+    "Una pizca de pimentón",
+    "1 pimiento verde mediano, picado"
+  ],
+  "recipeInstructions": "1. Mezclar en una licuadora el ajo machacado con la cebolla picada hasta obtener una textura suave.\n2. Incorporar al vaso de la licuadora los ingredientes restantes y licuar hasta que la mezcla quede homogénea.\n3. Tapar el recipiente y refrigerar la sopa hasta que esté bien fría.\n4. Servir en cuencos individuales con rodajas finas de pepino, pimiento verde, tomate, cebolla y crujientes.",
+  "url": null
+}

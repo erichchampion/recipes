@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "burger-trittini",
+  "name": "Tritinis de hamburguesa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "carne molida",
+    "italiana",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne molida",
+    "1 cucharadita de sal",
+    "1 cebolla mediana picada",
+    "1 cucharadita de orégano fresco",
+    "15 onzas de salsa de tomate",
+    "1/2 cucharadita de pimienta negra",
+    "12 onzas de puré de tomate",
+    "20 onzas de espinacas congeladas descongeladas",
+    "4 1/2 onzas de champiñones rebanados escurridos",
+    "16 onzas de queso cottage",
+    "2 cucharaditas de albahaca fresca",
+    "8 onzas de mozzarella rallada",
+    "2 cucharaditas de azúcar"
+  ],
+  "recipeInstructions": "1. Cocinar la carne molida y la cebolla a fuego medio-alto hasta que esté dorada.\n2. Escurrir el exceso de grasa.\n3. Agregar los ingredientes restantes; llevar a ebullición.\n4. Reducir el fuego y cocinar a fuego lento, sin cubrir, hasta que espese.\n5. Escurrir el líquido de las espinacas.\n6. Mezclar con el queso cottage. Sazonar con sal y pimienta al gusto.\n7. Extender la mezcla de carne en un molde para hornear rectangular de 13x9 pulgadas.\n8. Espolvorear la mitad del queso mozzarella sobre la carne.\n9. Distribuir las espinacas sobre el queso.\n10. Espolvorear el resto del queso mozzarella encima.\n11. Hornear a 175 °C durante 25-30 minutos, o hasta que esté caliente y burbujeante.",
+  "url": null
+}

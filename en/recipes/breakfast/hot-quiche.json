@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-quiche",
+  "name": "Hot Quiche",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "dinner pies",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 deep dish pie crust",
+    "1 pint whipping cream or evaporated milk",
+    "4 eggs",
+    "4 ounces Swiss cheese",
+    "1 small onion",
+    "Green pepper (optional)",
+    "Mushrooms (optional)",
+    "1/4 teaspoon red pepper",
+    "1/4 teaspoon salt",
+    "1/2 pound ham (can use bacon, sausage, or any meat)"
+  ],
+  "recipeInstructions": "1. Mix cream, eggs, pepper, and salt together.\n2. Put ham, onions, mushrooms, green pepper, and cheese in the pie shell.\n3. Pour the cream mixture over the ingredients in the pie shell.\n4. Bake at 400 degrees for 15 minutes or bake at 350 degrees for 45 minutes.",
+  "url": null
+}

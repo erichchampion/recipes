@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-limeade",
+  "name": "Limonada de Naranja y Lima",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3 tazas de agua",
+    "1 1/2 tazas de jugo de naranja fresco",
+    "1/4 taza de jugo de lima fresco",
+    "3 cucharadas de sirope de arce puro"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un frasco grande.\n2. Tapar el frasco y agitar hasta que esté bien combinado.\n3. Servir sobre hielo.\nRinde aproximadamente 5 tazas.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-with-wine-and-herbs",
+  "name": "Pollo con Vino y Hierbas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 pollo para freír",
+    "1/2 cucharadita de orégano",
+    "1/2 cucharadita de albahaca",
+    "1 taza de vino blanco seco",
+    "1/2 cucharadita de sal de ajo",
+    "1/4 cucharadita de pimienta",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Lavar el pollo y cortarlo en trozos.\n2. Dorar los trozos de pollo en un poco de aceite por todos lados.\n3. Escurrir el exceso de aceite.\n4. Añadir el vino y las especias a la sartén.\n5. Reducir el fuego y cocinar durante 30-40 minutos, hasta que el pollo esté tierno.",
+  "url": null
+}

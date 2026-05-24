@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "sugarless-cake",
+  "name": "Pastel sin azúcar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de pasas",
+    "2 tazas de agua",
+    "1 huevo batido",
+    "1/2 taza de manteca",
+    "1 taza de avena en hojuelas",
+    "1 1/2 cucharaditas de Equal® edulcorante",
+    "1 taza de harina",
+    "1/2 cucharadita de sal",
+    "1 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de canela"
+  ],
+  "recipeInstructions": "1. Calentar las pasas y el agua a fuego lento en una cacerola durante 15 minutos. Dejar enfriar por completo.\n2. Incorporar el huevo batido, la manteca, las avenas, el edulcorante y la vainilla al líquido de las pasas.\n3. En un bol aparte, tamizar juntos la harina, la sal, el bicarbonato y la canela.\n4. Mezclar los ingredientes secos con los húmedos hasta obtener una masa homogénea.\n5. Verter la masa en un molde para tarta engrasado.\n6. Hornear a 175 °C durante 30-35 minutos.",
+  "url": null
+}

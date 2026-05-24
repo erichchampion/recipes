@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-peanut-brittle",
+  "name": "Falso caramelo de maní",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "caramelos",
+    "postres",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "8 tazas de copos de maíz",
+    "1 taza de mantequilla de maní",
+    "1 taza de jarabe de maíz blanco",
+    "1 taza de azúcar"
+  ],
+  "recipeInstructions": "1. Extienda los copos de maíz en un plato para hornear engrasado.\n2. Mezcle el jarabe de maíz y el azúcar en una sartén a fuego alto hasta que hierva.\n3. Retire del fuego. Añada la mantequilla de maní y revuelva hasta que se derrita.\n4. Vierta la mezcla sobre los copos de maíz y mezcle bien.\n5. Extienda la mezcla en papel para hornear, delgada.\n6. Deje enfriar por completo.",
+  "url": null
+}

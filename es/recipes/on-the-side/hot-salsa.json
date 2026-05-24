@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-salsa",
+  "name": "Salsa Caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "salsas y aderezos",
+    "guarniciones",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 tomate grande",
+    "1/2 cebolla",
+    "5 pimientos jalapeño"
+  ],
+  "recipeInstructions": "1. Cortar los ingredientes en trozos pequeños.\n2. Mezclar hasta obtener una combinación uniforme.\n3. Disfrutar de la salsa.",
+  "url": null
+}

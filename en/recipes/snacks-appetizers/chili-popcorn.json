@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-popcorn",
+  "name": "Chili Popcorn",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "popcorn",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1 tablespoon Margarine, melted",
+    "1/2 teaspoon Chili powder",
+    "1/8 teaspoon Salt",
+    "1/8 teaspoon Garlic powder",
+    "1/8 teaspoon Paprika",
+    "6 cups Popped corn"
+  ],
+  "recipeInstructions": "1. Combine first five ingredients and drizzle over warm popcorn.",
+  "url": null
+}

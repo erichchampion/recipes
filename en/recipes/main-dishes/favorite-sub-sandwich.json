@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "favorite-sub-sandwich",
+  "name": "Favorite Sub Sandwich",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "appetizers",
+    "main dish",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "3 cups Shredded lettuce",
+    "1/2 cup Kraft Ranch Dressing divided",
+    "1 Loaf Italian bread, cut in half lengthwise",
+    "1 package (10 oz) Oscar Mayer All-Beef Hot Dogs",
+    "4 American cheese slices",
+    "1 Medium Green Pepper, thinly sliced",
+    "1 can (2 3/4 oz) sliced pitted olives (optional)"
+  ],
+  "recipeInstructions": "1. Toss lettuce with 1/4 cup of the dressing; set aside.\n2. Brush cut surfaces of bread with remaining 1/4 cup dressing.\n3. Fill loaf with meat, cheese slices, vegetables, olives, and lettuce mixture.\nMakes 4 to 6 servings.\nVARIATIONS:\nSubstitute Kraft Caesar Ranch Dressing or Kraft Free Ranch nonfat dressing for Kraft Ranch Dressing.\nSubstitue 4 to 6 Kaiser rolls for Italian bread loaf.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "planter-s-punch",
+  "name": "Punch de Jardinería",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "batido",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de ron oscuro",
+    "1 1/2 tazas de jugo de naranja fresco",
+    "1 1/2 taza de jugo de piña fresco",
+    "1 1/2 taza de néctar de guayaba",
+    "3 cucharadas de jugo de lima fresco",
+    "2 cucharadas de azúcar moreno claro",
+    "1 cucharadita de amargo de Angostura",
+    "6 rodajas de piña fresca",
+    "6 gajos de naranja",
+    "6 palos de canela",
+    "6 cerezas al marasquino"
+  ],
+  "recipeInstructions": "1. Mezclar en un jarro grande el ron, los jugos de frutas, el azúcar moreno y los amargos.\n2. Revolver bien.\n3. Servir sobre hielo en 6 vasos altos.\n4. Decorar cada vaso con una rodaja de piña, un gajo de naranja, un palo de canela y una cereza al marasquino.",
+  "url": null
+}

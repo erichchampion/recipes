@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "ground-beef-gumbo",
+  "name": "Gumbo de carne molida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "carne molida",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "1/4 taza de cebolla picada",
+    "1/2 taza de agua",
+    "1 cucharadita de sal",
+    "2 cucharadas de mantequilla",
+    "1 cubo de caldo de pollo",
+    "1 lata de sopa condensada de pollo y gumbo",
+    "2 cucharadas de pimiento verde (opcional)"
+  ],
+  "recipeInstructions": "1. Espesar ligeramente la mezcla mezclando partes iguales de harina y mantequilla.\n2. Calentar una sartén a 375 °F.\n3. Derretir la mantequilla en la sartén, luego dorar la carne molida. Agregar la cebolla picada y saltear ligeramente.\n4. Reducir el calor a 225 °F. Disolver el cubo de caldo de pollo en agua, luego añadirlo junto con la sopa condensada de pollo y gumbo, la sal y el pimiento.\n5. Tapar y cocinar hasta alcanzar la consistencia deseada. Servir caliente sobre pan tostado o arroz.",
+  "url": null
+}

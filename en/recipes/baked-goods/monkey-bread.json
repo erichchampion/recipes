@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "monkey-bread",
+  "name": "Monkey Bread",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Pecans",
+    "1 tablespoon Cinnamon",
+    "1/2 cup Sugar",
+    "3 Biscuits",
+    "1 stick of Butter",
+    "1 cup Brown Sugar"
+  ],
+  "recipeInstructions": "1. Place pecans in the bottom of a Bundt pan.\n2. Combine cinnamon and sugar.\n3. Cut each biscuit into quarters and roll them in the sugar mixture.\n4. Stack the biscuits in the pan.\n5. Mix together butter and brown sugar.\n6. Pour the mixture over the biscuits.\n7. Bake for 30-40 minutes at 350°F.",
+  "url": null
+}

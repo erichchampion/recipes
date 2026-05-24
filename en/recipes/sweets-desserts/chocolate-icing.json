@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-icing",
+  "name": "Chocolate Icing",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "cakes",
+    "chocolate",
+    "desserts",
+    "frosting"
+  ],
+  "recipeIngredient": [
+    "1 cup Sugar",
+    "4 tablespoons Chocolate",
+    "3 tablespoons Milk",
+    "1 tablespoon Water"
+  ],
+  "recipeInstructions": "1. Mix chocolate or cocoa with milk and water combined.\n2. Heat the mixture to boiling.\n3. Add sugar and continue heating until boiling for five minutes, stirring occasionally.\n4. Spread the icing on a cold cake.",
+  "url": null
+}

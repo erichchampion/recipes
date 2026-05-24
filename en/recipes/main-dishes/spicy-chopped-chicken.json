@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-chopped-chicken",
+  "name": "Spicy Chopped Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "10 oz Cooked chicken breast",
+    "2 Shallots, chopped",
+    "3 Scallions, chopped",
+    "1 Green pepper (jalapeno or serrano type), sliced into rings",
+    "2 tbsp Lemon juice",
+    "1 tbsp Light soy sauce",
+    "1 pinch Chili powder (dried red variety)",
+    "10 Mint leaves",
+    "5 Coriander leaves"
+  ],
+  "recipeInstructions": "1. Chop the chicken breast.\n2. Mix together all ingredients except the garnish in a bowl.\n3. Sprinkle with chopped mint and coriander leaves.\n4. Serve with plain rice.",
+  "url": null
+}

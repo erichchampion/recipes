@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "christmas-coleslaw",
+  "name": "Ensalada de col de Navidad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 tazas de repollo verde, rallado",
+    "2 tazas de repollo rojo, rallado",
+    "1 taza de pimiento verde, rallado",
+    "1 taza de pimiento rojo, rallado",
+    "1 taza de cebolla roja, rallada",
+    "1 taza de mayonesa",
+    "1/2 taza de aderezo de aceite y vinagre",
+    "2 tazas de zanahorias, ralladas"
+  ],
+  "recipeInstructions": "1. Mezcla el repollo verde, rojo, los pimientos y la cebolla rallada en un bol de vidrio.\n2. En un recipiente aparte, combina la mayonesa con el aderezo de aceite y vinagre.\n3. Vierte el aderezo sobre las verduras y mezcla suavemente para cubrirlas uniformemente.\n4. Cubre el bol con papel film y refrigera durante la noche.",
+  "url": null
+}

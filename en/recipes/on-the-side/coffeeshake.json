@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "coffeeshake",
+  "name": "Coffeeshake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "coffee",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/4 cup Fresh brewed coffee",
+    "2 teaspoons Cocoa powder",
+    "2 tablespoons Sugar",
+    "1/4 quart Milk",
+    "1/8 quart Fresh cream",
+    "Grated chocolate"
+  ],
+  "recipeInstructions": "1. Prepare the coffee and allow it to cool completely.\n2. Add cocoa powder, sugar, and milk to a blender.\n3. Blend well until smooth.\n4. Fill 6 glasses with the mixture.\n5. Top each glass with fresh cream and sprinkle grated chocolate on top.\nSource: A bag.",
+  "url": null
+}

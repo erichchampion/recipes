@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "pozole",
+  "name": "Pozole",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "estadounidense",
+    "étnico",
+    "cereales",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "6 tazas de maíz [cacahuacintle descabezado]",
+    "6 trozos de carne de cabeza de cerdo",
+    "6 trozos de codillo de cerdo",
+    "Cerdo",
+    "8 chiles huajillo secos",
+    "1 cabeza de ajo",
+    "2 hojas de laurel",
+    "Sal",
+    "1 lechuga picada",
+    "4 radices",
+    "2 cebollas picadas",
+    "6 limas en rodajas",
+    "Orégano",
+    "40 chiles piquines molidos"
+  ],
+  "recipeInstructions": "1. Cocinar el maíz en 20 tazas de agua con la cebolla y el ajo hasta que esté tierno.\n2. Añadir la carne a la olla cuando el maíz esté cocido y cortarla una vez terminada.\n3. Retirar, vaciado, remojar y moler los chiles.\n4. Tradicionalmente servido con aderezo de radices, lechuga, cebolla en rodajas, orégano, chile piquines, carne en rodajas, limón, y servido con tortillas o tostadas.",
+  "url": null
+}

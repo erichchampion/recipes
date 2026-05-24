@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "deer-backstrap",
+  "name": "Lomo de ciervo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "juego",
+    "plato principal",
+    "carne",
+    "ciervo"
+  ],
+  "recipeIngredient": [
+    "1 lomo entero de ciervo",
+    "1/2 libra de lonchas de tocino",
+    "1 cucharada de sal",
+    "1 cucharada de pimienta negra",
+    "1 cucharadita de polvo de ajo"
+  ],
+  "recipeInstructions": "1. Cortar el lomo de ciervo a lo largo en 3 tiras iguales.\n2. Sazonar cada tira al gusto con sal, pimienta y polvo de ajo.\n3. Enrollar cada tira de lomo sazonado.\n4. Envolver cada tira enrollada firmemente con una loncha de tocino.\n5. Fijar el tocino envuelto con un palillo dental.\n6. Asar las porciones envueltas en tocino sobre brasas hasta alcanzar el punto deseado (poco hecho).\n7. Retirar del calor y servir.",
+  "url": null
+}

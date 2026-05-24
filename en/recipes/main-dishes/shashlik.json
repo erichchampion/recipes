@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "shashlik",
+  "name": "Shashlik",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "lamb",
+    "main dish",
+    "meat",
+    "meats"
+  ],
+  "recipeIngredient": [
+    "3 lb Lamb, cubed",
+    "1 cup Olive oil",
+    "3 each Onions, chopped",
+    "1 tsp Salt",
+    "1 tsp Pepper, ground"
+  ],
+  "recipeInstructions": "1. Use cubed leg or shoulder of lamb.\n2. Combine the olive oil, onions, salt, and pepper in a bowl.\n3. Marinate the lamb cubes for at least one day in the refrigerator.\n4. Skewer the marinated meat pieces.\n5. Broil the skewered meat until it is brown all over.\n6. Serve with Rice Pilaf and broiled tomatoes.",
+  "url": null
+}

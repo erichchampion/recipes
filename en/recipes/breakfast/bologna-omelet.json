@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "bologna-omelet",
+  "name": "Bologna Omelet",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "eggs",
+    "main dish",
+    "none"
+  ],
+  "recipeIngredient": [
+    "4 Eggs, well beaten",
+    "1/4 teaspoon Baking powder",
+    "2 tablespoons Diced onion",
+    "2 tablespoons Diced green peppers",
+    "2 tablespoons Diced celery",
+    "1/2 slice Bologna, cut into small pieces",
+    "1 slice American cheese, cut into small pieces"
+  ],
+  "recipeInstructions": "1. Mix all ingredients together in a bowl.\n2. Heat a preheated, greased frying pan over medium heat.\n3. Pour the mixture into the pan and cook until set.\n4. Turn once to ensure even cooking.\n5. Remove from heat and serve.",
+  "url": null
+}

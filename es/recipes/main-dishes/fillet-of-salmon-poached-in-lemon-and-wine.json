@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fillet-of-salmon-poached-in-lemon-and-wine",
+  "name": "Filete de salmón escalfado en limón y vino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "salmón",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de zumo de limón",
+    "1/4 taza de vino blanco seco",
+    "4 filetes de salmón grandes",
+    "2 cucharadas de perejil picado"
+  ],
+  "recipeInstructions": "1. En una sartén grande a fuego medio-alto, llevar a ebullición el zumo de limón y el vino.\n2. Reducir el fuego a medio. Añadir los filetes de salmón y cubrir la sartén.\n3. Cocinar el salmón hasta que se desmenuce con un tenedor (5-8 minutos).\n4. Retirar del líquido de cocción y servir inmediatamente, espolvoreando con perejil.",
+  "url": null
+}

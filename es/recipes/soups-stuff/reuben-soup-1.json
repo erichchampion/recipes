@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "reuben-soup-1",
+  "name": "Sopa Reuben #1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1/4 lb de tocino, cortado en dados finos",
+    "1 taza de cebolla picada",
+    "1 diente de ajo, picado",
+    "1 lata de chucrut (16 onzas), escurrido",
+    "6 tazas de caldo de pollo",
+    "2 cucharaditas de mostaza seca",
+    "2 tazas de papas cocidas y cortadas en dados",
+    "1/2 cucharadita de semillas de eneldo",
+    "2 tazas de carne de res curada y cortada en dados",
+    "4 rebanadas de pan de centeno",
+    "1/4 taza de mantequilla derretida",
+    "1/4 taza de queso suizo rallado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 400 grados.\n2. Freír el tocino en una olla de sopa hasta que esté crujiente.\n3. Añadir las cebollas y el ajo, saltear hasta que estén tiernos.\n4. Incorporar el chucrut, el caldo de pollo, la mostaza, las papas, las semillas de eneldo y la carne de res curada. Calentar todo junto.\n5. Hornear durante 10 minutos o hasta que el pan esté crujiente.\n6. Servir la sopa en cuencos, espolvorear con los croutons de pan de centeno y cubrir con una cucharadita de queso suizo rallado.",
+  "url": null
+}

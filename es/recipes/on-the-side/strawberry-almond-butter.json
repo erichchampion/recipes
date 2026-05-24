@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-almond-butter",
+  "name": "Crema de Almendras con Fresas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "mantequilla",
+    "frutas",
+    "encurtidos",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/2 kg de fresas frescas",
+    "1/2 kg de mantequilla",
+    "1 kg de azúcar en polvo",
+    "1/2 taza de almendras molidas finamente",
+    "Una pizca de sal (opcional)"
+  ],
+  "recipeInstructions": "1. Limpiar y quitar el pedúnculo de las fresas, luego pasar por un colador.\n2. Batir la mantequilla con el azúcar en polvo hasta obtener una mezcla homogénea.\n3. Incorporar las fresas pasadas por el colador.\n4. Mezclar las almendras molidas y la pizca de sal, si se desea.",
+  "url": null
+}

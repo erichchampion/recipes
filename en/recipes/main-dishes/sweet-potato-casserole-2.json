@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-potato-casserole-2",
+  "name": "Sweet Potato Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "3 cups sweet potatoes, mashed",
+    "1/2 cup brown sugar",
+    "1/4 cup milk",
+    "2 eggs",
+    "1/4 teaspoon salt",
+    "1 teaspoon vanilla",
+    "1/4 cup margarine",
+    "TOPPING",
+    "1/2 cup pecans, chopped",
+    "1/2 cup brown sugar",
+    "1/4 cup flour",
+    "1/4 cup margarine, melted"
+  ],
+  "recipeInstructions": "1. Mix all ingredients (except topping ingredients) together and pour into a buttered 9 x 9 dish.\n2. Mix pecans, brown sugar, and flour. Sprinkle mixture over the top of the potato mixture.\n3. Pour melted margarine evenly over the sugar mixture.\n4. Bake for 30 minutes at 350°F.",
+  "url": null
+}

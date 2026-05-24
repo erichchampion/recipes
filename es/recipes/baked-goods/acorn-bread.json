@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "acorn-bread",
+  "name": "Pan de bellota",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "estadounidense",
+    "panes",
+    "étnico",
+    "nativo",
+    "nativo americano"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina de bellota",
+    "1 taza de harina común",
+    "2 cucharadas de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "3 cucharaditas de azúcar",
+    "1 huevo batido",
+    "1 taza de leche",
+    "3 cucharadas de aceite"
+  ],
+  "recipeInstructions": "1. Tamizar juntos la harina de bellota, la harina común, el polvo de hornear, la sal y el azúcar.\n2. En un bol aparte, mezclar el huevo, la leche y el aceite.\n3. Combinar los ingredientes secos con los líquidos hasta que estén justo humedecidos.\n4. Verter la masa en un molde engrasado.\n5. Hornear a 400 °F (200 °C) durante 30 minutos.",
+  "url": null
+}

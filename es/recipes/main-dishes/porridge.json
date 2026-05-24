@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "porridge",
+  "name": "Papilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "bajo en calorías",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "4 1/2 tazas de agua",
+    "1 1/2 tazas de avena (ver nota)",
+    "1/2 taza de fruta seca (pasas, manzanas, albaricoques)",
+    "Una pizca de nuez moscada molida",
+    "Una pizca de macis molido",
+    "Una pizca de canela molida"
+  ],
+  "recipeInstructions": "1. Llevar el agua y la fruta seca a ebullición.\n2. Añadir lentamente la avena a la mezcla hirviendo, removiendo constantemente.\n3. Reducir el fuego a bajo y cocinar durante 15-30 minutos, removiendo con frecuencia. Cuanto más tiempo se cocinen los ingredientes, más suaves estarán.\n4. La avena debe tener una consistencia similar a una sopa espesa. No añadir leche en la mesa.\nConsejos útiles: La mayoría de las tiendas de alimentos saludables venden varios cereales integrales. Siga las instrucciones del paquete, pero aumente la cantidad de agua en 1/2 taza por cada dos raciones. Para un sabor adicional, espolvoree con nuez moscada, macis, canela o cualquier combinación de estos.",
+  "url": null
+}

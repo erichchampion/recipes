@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "bacon-egg-tomato-salad-sandwiches",
+  "name": "Sándwiches de tocino, huevo y tomate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "ensalada de huevo",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "5 huevos, duros",
+    "5 rebanadas de tocino, cocidas y desmenuzadas",
+    "1 tomate, sin semillas y picado",
+    "1 cebolla verde, picada",
+    "¼ taza de mayonesa",
+    "1 cucharada de mostaza criolla",
+    "Sal y pimienta al gusto",
+    "Salsa picante al gusto",
+    "8 rebanadas de pan integral"
+  ],
+  "recipeInstructions": "1. Cocinar huevos hasta que estén duros y pelarlos.\n2. Freír el tocino, escurrirlo y desmenuzarlo.\n3. En un bol, mezclar los huevos desmenuzados con el resto de los ingredientes.\n4. Sazonar con sal, pimienta y salsa picante al gusto.\n5. Refrigerar durante al menos 30 minutos para que se mezclen los sabores.",
+  "url": null
+}

@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "pesto-fries",
+  "name": "Patatas fritas al pesto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "patatas",
+    "vegetal",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 paquete de patatas fritas congeladas cortadas en forma de bastón (para 4 raciones)",
+    "2 cucharadas de pesto"
+  ],
+  "recipeInstructions": "1. Cocina las patatas según tu gusto y las instrucciones del fabricante (yo las prefiero asadas).\n2. Cuando estén doradas y crujientes, retíralas del horno.\n3. Mezcla las patatas con el pesto.",
+  "url": null
+}

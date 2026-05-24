@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "shrimp-and-penne-pasta",
+  "name": "Pasta con Gambas y Penne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "1 libra de pasta penne",
+    "3/4 taza de aceite de oliva",
+    "1 1/2 libras de langostinos, asados, pelados y desvenados",
+    "1 libra de tomates plátanos maduros, pelados, sin semillas y picados",
+    "1/2 libra de queso mozzarella, picado",
+    "1/2 taza de perejil italiano fresco picado",
+    "1/4 taza de albahaca fresca picada",
+    "Sal al gusto",
+    "Pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta penne en agua hirviendo con sal según las indicaciones del paquete hasta que esté al dente.\n2. Retirar del fuego y escurrir bien.\n3. Colocar la pasta en un bol y mezclar con el aceite de oliva. Asegurarse de que quede bien cubierta.\n4. Incorporar los ingredientes restantes y mezclar bien.\n5. Dejar reposar durante 15 minutos.\n6. Servir inmediatamente.",
+  "url": null
+}

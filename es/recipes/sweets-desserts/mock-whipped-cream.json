@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-whipped-cream",
+  "name": "Crema batida falsa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "glaseado",
+    "bajo en calorías",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "3/4 cucharadita de gelatina sin sabor",
+    "1 cucharada de agua fría",
+    "1/2 taza de leche en polvo sin grasa",
+    "1/2 taza de agua helada",
+    "2 cucharadas de azúcar glas",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. En un tazón medidor resistente al calor pequeño, disuelve la gelatina en el agua fría sobre una olla con agua hirviendo y calienta durante unos 4 minutos hasta que se disuelva por completo; luego retira del fuego.\n2. En un bol de batidora eléctrica con las paletas enfriadas, combina la leche en polvo, el agua helada y el azúcar glas.\n3. Bate a velocidad media hasta que esté espumosa.\n4. Con el motor en marcha, vierte lentamente la mezcla de gelatina por el lado del bol para evitar salpicaduras.\n5. Continúa batiendo a velocidad media durante 7 a 10 minutos hasta que la crema alcance una consistencia ligera y esponjosa de crema batida.\n6. Añade la vainilla y mezcla hasta que esté incorporada.\n7. Si no se va a usar inmediatamente, guárdala en el refrigerador. En caso de que se afloje, bate nuevamente hasta que vuelva a parecer crema batida.\n8. Rinde 3 tazas.",
+  "url": null
+}

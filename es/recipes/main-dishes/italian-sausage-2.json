@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-sausage-2",
+  "name": "Salchicha italiana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "carne",
+    "salchichas"
+  ],
+  "recipeIngredient": [
+    "2 cucharaditas de sal",
+    "1 cucharadita de pimienta negra",
+    "4 cucharaditas de semillas de eneldo",
+    "4 cucharaditas de orégano",
+    "1 cucharadita de polvo de ajo",
+    "8 libras (3,6 kg) de hombro de cerdo"
+  ],
+  "recipeInstructions": "1. Cortar el cerdo en cubos de 1 1/2 pulgadas.\n2. Espolvorear la mezcla de especias sobre el cerdo y mezclar bien para distribuir uniformemente.\n3. Moler el cerdo sazonado.\n4. Dar forma a la salchicha en albóndigas.",
+  "url": null
+}

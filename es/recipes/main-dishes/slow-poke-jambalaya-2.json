@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "slow-poke-jambalaya-2",
+  "name": "Jambayala al estilo lento",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "mexicano",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 pimiento, picado",
+    "1 cebolla, picada",
+    "2 tomates medianos, picados",
+    "1 taza de apio, picado",
+    "1 diente de ajo, machacado",
+    "2 cucharadas de perejil fresco, picado",
+    "2 cucharaditas de tomillo picado",
+    "2 cucharaditas de orégano fresco, picado",
+    "1/8 cucharadita de cayena",
+    "1/2 cucharadita de sal",
+    "4 onzas de salchicha ahumada, picada",
+    "8 onzas de pechuga de pollo, picada",
+    "2 tazas de caldo de carne o caldo de pollo",
+    "1 taza de arroz cocido"
+  ],
+  "recipeInstructions": "1. Desvenar y dividir las gambas por la mitad.\n2. En una olla lenta, mezclar todos los ingredientes excepto las gambas y el arroz.\n3. Tapar y cocinar a fuego lento durante 9-10 horas.\n4. Aumentar el fuego a alto e incorporar las gambas cocidas y el arroz.\n5. Tapar; cocinar a fuego alto durante 20-30 minutos.",
+  "url": null
+}

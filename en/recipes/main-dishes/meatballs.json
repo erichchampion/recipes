@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "meatballs",
+  "name": "Meatballs",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "italian",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Ground beef",
+    "1 Egg",
+    "1/4 cup Parmesan cheese",
+    "1 Tbsp Parsley",
+    "1 Garlic clove, minced",
+    "1 Hard roll softened in milk",
+    "Salt & pepper"
+  ],
+  "recipeInstructions": "1. Mix all ingredients thoroughly.\n2. Shape into small balls about 2-inch diameter and drop into simmering tomato sauce.\n3. Cook slowly for 20-25 minutes, stirring carefully.\nVariation: Meatballs may be browned in hot olive oil, then dropped into simmering sauce.\nVariation: Place meatballs on an oiled broiler pan, turning carefully as they brown.",
+  "url": null
+}

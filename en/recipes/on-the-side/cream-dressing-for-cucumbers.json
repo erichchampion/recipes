@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cream-dressing-for-cucumbers",
+  "name": "Cream Dressing for Cucumbers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "dressings",
+    "salads",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 large cucumber",
+    "1/2 cup sour cream",
+    "1 tablespoon vinegar",
+    "1 teaspoon paprika",
+    "1 teaspoon salt"
+  ],
+  "recipeInstructions": "1. Peel the cucumber and slice it very thinly.\n2. Place the slices in a bowl and add salt. Cover with plastic wrap and place in the refrigerator for 2 hours.\n3. After 2 hours, rinse the cucumber slices thoroughly three times under cold water. Press each slice between your hands to remove all the salt.\n4. After the last rinsing, mix together the sour cream, vinegar, and paprika until well combined.\n5. If desired, add chopped chives or sliced onions for garnish.\nWARNING: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

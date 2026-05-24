@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "freezer-lasagna",
+  "name": "Lasaña para congelar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "comidas congeladas",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "Salsa de espagueti",
+    "Lasañas",
+    "Queso mozzarella",
+    "Queso ricota",
+    "Queso parmesano"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F (175°C).\n2. Colocar las láminas de lasaña en una bandeja para hornear y congelar hasta que estén firmes.\n3. Escurrir el exceso de agua de las láminas, luego transferirlas a un molde para horno de aluminio.\n4. Alternar capas de salsa de espagueti, queso ricota, queso mozzarella y queso parmesano hasta llegar al borde superior.\n5. Cubrir con más queso mozzarella antes de congelar.\n6. Guardar en el congelador por un máximo de 3 meses.",
+  "url": null
+}

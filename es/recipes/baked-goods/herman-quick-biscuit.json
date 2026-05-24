@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "herman-quick-biscuit",
+  "name": "Biscuit Rápido de Herman",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina",
+    "1/4 taza de aceite vegetal",
+    "2 cucharaditas de polvo de hornear",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de bicarbonato de sodio",
+    "1 taza de leche"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar la harina, el polvo de hornear, la sal y el bicarbonato de sodio.\n2. En un bol aparte, batir la leche y el aceite hasta que estén bien combinados.\n3. Agregar gradualmente los ingredientes húmedos a los secos, removiendo con un tenedor hasta que se combinen (evitar sobre mezclar).\n4. Apagar el horno.\n5. Formar la masa en bolitas y colocarlas sobre una bandeja para hornear forrada con papel pergamino.\n6. Hornear a 175°C durante 10 minutos.\nRinde: 12-15 bizcochos",
+  "url": null
+}

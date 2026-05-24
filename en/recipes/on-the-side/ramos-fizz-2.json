@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "ramos-fizz-2",
+  "name": "Ramos Fizz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 fl gin",
+    "1 tsp powdered sugar",
+    "5 drops orange flower water",
+    "3/4 fl lemon juice",
+    "2 fl milk",
+    "1 seltzer"
+  ],
+  "recipeInstructions": "1 Combine the gin, powdered sugar, orange flower water, and lemon juice in a shaker filled with cracked ice.\n2 Shake until well combined.\n3 Strain into a chilled fizz glass.\n4 Top off with seltzer or carbonated water.",
+  "url": null
+}

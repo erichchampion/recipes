@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-fruit-soup",
+  "name": "Sopa de frutas dulces",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "frutas",
+    "sopa",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "3 tazas de agua",
+    "1/2 taza de ciruelas sin hueso",
+    "1/2 taza de pasas",
+    "2 manzanas medianas, peladas y en rodajas",
+    "1 lata de cerezas oscuras sin hueso",
+    "1 naranja mediana, pelada y en rodajas",
+    "1 limón mediano, en rodajas",
+    "3/4 taza de azúcar",
+    "1/4 taza de tapioca rápida",
+    "Un palo de canela de 2 pulgadas",
+    "2 tazas de jugo de uva"
+  ],
+  "recipeInstructions": "1. En una olla, mezclar el agua, las ciruelas y las pasas. Llevar a ebullición; reducir el calor.\n2. Cocinar a fuego lento, cubierto, durante 10 minutos.\n3. Agregar las frutas (manzanas), el azúcar, la tapioca, la varita de canela y una pizca de sal.\n4. Cocinar a fuego lento, cubierto, por otros 15 minutos o hasta que las manzanas estén tiernas y la mezcla se espese ligeramente.\n5. Incorporar el jugo de uva.\n6. Enfriar antes de servir.",
+  "url": null
+}

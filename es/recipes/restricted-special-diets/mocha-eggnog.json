@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "mocha-eggnog",
+  "name": "Mocha Eggnog",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "bebidas",
+    "diabético",
+    "dietas especiales"
+  ],
+  "recipeIngredient": [
+    "Granulados de café instantáneo",
+    "1 cucharadita",
+    "Agua caliente",
+    "1/2 taza",
+    "Nogada refrigerada",
+    "32 onzas",
+    "Brandy",
+    "1/4 a 1/2 taza",
+    "Jarabe de chocolate",
+    "1/2 taza",
+    "Crema batida",
+    "1/2 taza",
+    "Chocolate semiamargo rallado (opcional)"
+  ],
+  "recipeInstructions": "1. Disolver los granulados de café instantáneo en agua caliente; dejar enfriar.\n2. Combinar el café disuelto, la nogada, el brandy y el jarabe de chocolate en un bol.\n3. Tapar y refrigerar hasta que esté listo para servir.\n4. Para servir, incorporar la crema batida y decorar con chocolate rallado (opcional).",
+  "url": null
+}

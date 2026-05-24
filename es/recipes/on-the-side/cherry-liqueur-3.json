@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cherry-liqueur-3",
+  "name": "Licor de cerezas 3",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "licores",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2/3 taza de pulpa de cerezas triturada",
+    "1 taza de vodka",
+    "1 pequeño clavo",
+    "Unas hebras de canela",
+    "1/3 taza de jarabe de azúcar"
+  ],
+  "recipeInstructions": "1. Coloca la pulpa de las cerezas trituradas en un tarro con el vodka, el clavo y la canela.\n2. Deja macerar durante tres semanas.\n3. Cuela a través de un paño de queso.\n4. Añade el jarabe de azúcar.",
+  "url": null
+}

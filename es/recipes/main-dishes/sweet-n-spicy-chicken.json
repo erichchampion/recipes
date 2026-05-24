@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-n-spicy-chicken",
+  "name": "Pollo dulce y picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "rápido"
+  ],
+  "recipeIngredient": [
+    "1 lb de pechugas de pollo sin hueso ni piel, cortadas en cubos de 1/2 pulgada",
+    "3 cucharadas de mezcla para tacos",
+    "2 cucharadas de aceite vegetal",
+    "1 tarro de 11 oz de salsa picada",
+    "1/2 taza de mermelada de melocotón",
+    "arroz cocido"
+  ],
+  "recipeInstructions": "1. Coloca el pollo en una bolsa de plástico grande y sellable; añade la mezcla para tacos y revuelve hasta que esté cubierto.\n2. En una sartén, calienta el aceite a fuego medio. Añade los trozos de pollo y dóralos hasta que ya no sean rosados.\n3. Combina la salsa y la mermelada de melocotón en un bol.\n4. Incorpora la mezcla al pollo en la sartén.\n5. Lleva la salsa a ebullición, luego reduce el fuego y cubre.\n6. Deja cocinar a fuego lento durante 2-3 minutos o hasta que los jugos de la carne sean claros.\n7. Sirve sobre arroz.",
+  "url": null
+}

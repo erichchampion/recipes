@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-bisque",
+  "name": "Sopa de tomate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "300 g de tofu blando (escurrido)",
+    "1 lata de 400 g de tomates",
+    "1/2 cucharadita de aceite",
+    "1 cebolla, picada finamente",
+    "3 dientes de ajo, machacados",
+    "1 cucharadita de sal",
+    "1 cucharada de maicena",
+    "2 tazas de agua",
+    "1 tomate grande, cortado en cubos",
+    "1 tallo de apio, picado finamente",
+    "Perejil para decorar"
+  ],
+  "recipeInstructions": "1. Mezcla el tofu y los tomates en una licuadora o procesador de alimentos hasta obtener una textura suave.\n2. En una cacerola, sofríe la cebolla y el ajo en aceite hasta que la cebolla empiece a dorarse. Añade la sal y retira del fuego.\n3. Disuelve la maicena en 1 taza de agua fría y viértela en el sofrito de cebolla y ajo. Remueve constantemente para evitar grumos. Lleva a ebullición a fuego medio, removiendo ocasionalmente. Reduce el fuego y deja que hierva a fuego lento durante 5 minutos.\n4. Agrega la mezcla de tofu, los tomates cortados, el apio y el resto del agua. Calienta a fuego medio durante 10 minutos. Sirve inmediatamente.",
+  "url": null
+}

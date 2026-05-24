@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-beef-stew",
+  "name": "Estofado de Carne Fácil",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carnes",
+    "sopas",
+    "estofados"
+  ],
+  "recipeIngredient": [
+    "2 latas de caldo de verduras",
+    "1 lata de setas picadas",
+    "8 patatas, cortadas en cuartos",
+    "1 lata de guisantes (opcional)",
+    "1 lata de zanahorias",
+    "450 g de carne para estofado",
+    "1 cebolla, picada",
+    "1 diente de ajo, picado",
+    "0,5 cucharadita de especias cajún",
+    "1 hoja de laurel",
+    "Opcional: 0,5 taza de jerez o vino tinto",
+    "2 latas de sopa de setas doradas",
+    "0,5 taza de agua"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en la olla de cocción lenta en el orden indicado.\n2. Cocinar a alta temperatura durante 5 horas o a baja temperatura durante 6,5 horas.\n3. Servir sobre macarrones o arroz.",
+  "url": null
+}

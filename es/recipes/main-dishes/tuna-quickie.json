@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tuna-quickie",
+  "name": "Tuna Rápido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco",
+    "atún"
+  ],
+  "recipeIngredient": [
+    "1 lata de atún en aceite",
+    "4 setas, picadas finamente",
+    "1 huevo",
+    "4 cucharadas de cebolla, picada",
+    "1/2 taza de queso rallado"
+  ],
+  "recipeInstructions": "1. No escurrir el aceite del atún.\n2. Mezclar todos los ingredientes.\n3. Verter la mezcla en una sartén.\n4. Cocinar a fuego lento hasta que el huevo y el queso estén cocidos.",
+  "url": null
+}

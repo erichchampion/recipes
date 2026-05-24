@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-cocktail",
+  "name": "Cóctel de tomate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "bebidas y batidos",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 litro de tomates enlatados",
+    "2 tallos de apio, picados",
+    "1/2 pimiento verde, picado",
+    "1 1/2 cucharaditas de sal",
+    "1 cucharadita de pulpa de cebolla",
+    "1 cucharadita de rábano picante",
+    "2 cucharadas de ketchup de tomate"
+  ],
+  "recipeInstructions": "1. Hervir los tomates, el apio, el pimiento y la sal durante unos 5 minutos.\n2. Pasar a través de un colador fino para retener las semillas.\n3. Añadir al jugo de tomate el ketchup, la cebolla y el rábano.\n4. Mezclar bien y dejar enfriar en un lugar fresco.\n5. Batir antes de servir.\n6. Verter en copas pequeñas y servir como entrante en cena o almuerzo.",
+  "url": null
+}

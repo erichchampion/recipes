@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-quiche",
+  "name": "Tarta de jamón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "tartas de cena",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 tazas de queso Cheddar o Colby rallado",
+    "1 taza de jamón cocido en cubos",
+    "1/4 taza de pimiento verde picado",
+    "1/4 taza de pimiento rojo picado",
+    "2 tazas de nata para cocinar (crema de leche)",
+    "1/4 cucharadita de sal",
+    "1/2 cucharadita de nuez moscada, orégano o anís",
+    "5 huevos batidos",
+    "1 masa de pastel horneable de 30 cm"
+  ],
+  "recipeInstructions": "1. Batir los huevos en un bol.\n2. Añadir la nata para cocinar a los huevos batidos.\n3. Incorporar el queso rallado, el jamón, el pimiento verde y el pimiento rojo picados.\n4. Mezclar la sal y las especias.\n5. Verter la mezcla en la masa del pastel horneable preparada.\n6. Hornear a 180 °C durante 40-45 minutos, o hasta que un cuchillo insertado en el centro salga limpio.\n7. Dejar enfriar durante 10 minutos antes de servir.",
+  "url": null
+}

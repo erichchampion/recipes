@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "two-bean-soup",
+  "name": "Sopa de Dos Frijoles",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "frijoles",
+    "carne de res",
+    "alemán",
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "1 1/4 tazas de frijoles blancos secos",
+    "4 oz de jamón, en cubos",
+    "1 taza de judías verdes cortadas",
+    "1/2 taza de apio picado",
+    "1/2 cebolla amarilla picada",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1 cucharada de mantequilla",
+    "2 cucharadas de harina sin blanquear",
+    "3/4 taza de caldo de carne",
+    "1 ramita de perejil"
+  ],
+  "recipeInstructions": "1. Remojar los frijoles blancos en agua fría durante la noche. Escurrir y colocar en una olla de 2 cuartos.\n2. Agregar el jamón y suficiente agua fría para cubrir los frijoles por aproximadamente 1 pulgada. Llevar a ebullición, luego reducir el fuego y cocinar hasta que los frijoles estén tiernos (aproximadamente 1 hora).\n3. Añadir las judías verdes, el apio, la cebolla picada y una papa pelada. Agregar agua suficiente para cubrir las verduras y cocinar durante otros 20 minutos.\n4. En una sartén, derretir la mantequilla y mezclar con la harina. Cocinar, revolviendo hasta que se dore ligeramente. Retirar del fuego y mezclar con el caldo de carne.\n5. Cocinar la mezcla hasta que esté suave. Incorporarla a la sopa y dejar cocinar hasta que espese y las verduras estén tiernas. Sazonar con sal y pimienta.\n6. Decorar con perejil picado y servir inmediatamente.",
+  "url": null
+}

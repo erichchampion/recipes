@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-gravy-2",
+  "name": "Chicken & Gravy",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1 Frying chicken",
+    "1 jalapeno chile pepper, chopped",
+    "1/2 onion, chopped",
+    "1 clove garlic",
+    "salt to taste",
+    "3 tablespoons cooking oil",
+    "3 tablespoons flour",
+    "1 can chicken broth"
+  ],
+  "recipeInstructions": "1. Wash and cut up the chicken.\n2. Drop the chicken into hot oil in a Dutch oven.\n3. Add the chopped ingredients and cover.\n4. Turn the heat low and cook until tender (it makes its own juice).\n5. When the chicken is tender and slightly brown, push it to the side of the pot.\n6. Add flour and stir.\n7. Add chicken broth and enough water to make gravy to the desired thickness.\n8. Simmer on low heat for 15-20 minutes. This is good with hot biscuits.",
+  "url": null
+}

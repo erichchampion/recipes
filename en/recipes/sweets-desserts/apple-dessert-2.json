@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-dessert-2",
+  "name": "Apple Dessert",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cups Flour",
+    "1 stick Butter",
+    "6 Apples, fresh, peeled, cored, sliced",
+    "1 cup Sugar",
+    "1 teaspoon Ground Cinnamon",
+    "1 pint Half and Half",
+    "2 Eggs",
+    "1 teaspoon Cornstarch"
+  ],
+  "recipeInstructions": "1. Combine flour and butter. Press into a greased baking dish.\n2. In a separate bowl, combine apples, sugar, and cinnamon.\n3. Spread the apple mixture on top of the crust.\n4. Dot with small pieces of butter.\n5. Cover with foil.\n6. Bake at 350°F for 1 hour.\n7. Remove from oven and remove foil.\n8. In a separate bowl, beat together Half and Half, eggs, and cornstarch until smooth.\n9. Pour over the warm apples.\n10. Return to oven and bake an additional 15-20 minutes until golden brown.",
+  "url": null
+}

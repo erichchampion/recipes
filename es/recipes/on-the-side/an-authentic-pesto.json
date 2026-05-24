@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "an-authentic-pesto",
+  "name": "Un Pesto Auténtico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas pesto",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "12 nueces, sin cáscara",
+    "2 cucharadas de piñones",
+    "1 cucharadita de sal gruesa",
+    "4 (o 5) granos de pimienta negra",
+    "3 dientes de ajo",
+    "4 cucharadas de mantequilla",
+    "3 tazas de hojas de albahaca",
+    "4 onzas de queso Parmesano rallado",
+    "4 onzas de queso Romano rallado",
+    "o queso Parmesano adicional",
+    "1,5 tazas de aceite de oliva"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes, excepto 1 taza de granos de pimienta negra, en una procesadora de alimentos.\n2. Procesa hasta obtener una textura fina.\n3. Añade el resto del aceite de oliva y mezcla durante unos segundos hasta obtener una consistencia muy suave.",
+  "url": null
+}

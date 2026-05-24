@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "iced-coffee-chocolate-pie",
+  "name": "Pastel de café con hielo y chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "chocolate",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de leche fría",
+    "2 sobre de gelatina sin sabor",
+    "1 taza de leche caliente",
+    "2 tazas de helado de vainilla",
+    "1/3 taza de azúcar",
+    "2 cucharadas de granulos de café instantáneo",
+    "1 cucharadita de extracto de vainilla",
+    "1 base de pastel de chocolate Keebler"
+  ],
+  "recipeInstructions": "1. En una licuadora, agregar 1/4 taza de leche fría.\n2. Espolvorear la gelatina sobre la leche y mezclar a velocidad baja.\n3. Dejar reposar 3-4 minutos para ablandar.\n4. Agregar la leche caliente; cubrir y mezclar a velocidad baja hasta que la gelatina se disuelva, aproximadamente 2 minutos.\n5. Incorporar el helado, azúcar, granulos de café y extracto de vainilla. Cubrir y mezclar hasta obtener una textura suave.\n6. Verter la mezcla en la base de pastel preparada.\n7. Refrigerar durante al menos 2 horas.\n8. Decorar con crema batida y rallas de chocolate antes de servir.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-tuna-casserole",
+  "name": "My Tuna Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "2 cans tuna in water",
+    "2 cans cream of mushroom soup",
+    "2 cans milk (soup cans)",
+    "2 packages flat noodles",
+    "2 cans mushrooms",
+    "1 large can chow mein noodles",
+    "Mrs. Dash"
+  ],
+  "recipeInstructions": "1. Cook the flat noodles according to package instructions.\n2. In a separate bowl, combine 2 cans tuna in water, 2 cans cream of mushroom soup, 2 cans milk (soup cans), and 2 cans mushrooms.\n3. Mix the cooked noodles with the soup mixture until well combined.\n4. Transfer the mixture into a large casserole dish.\n5. Top the casserole with the chow mein noodles.\n6. Bake in a preheated oven at 350°F for 10 minutes, or serve hot if not baking.",
+  "url": null
+}

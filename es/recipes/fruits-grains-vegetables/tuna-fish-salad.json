@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "tuna-fish-salad",
+  "name": "Ensalada de atún",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pescado",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de colinabo picado",
+    "1 taza de atún enlatado desmenuzado",
+    "1 taza de nueces picadas",
+    "2 huevos duros picados",
+    "1/2 taza de pepinillos dulces picados",
+    "1/2 taza de apio picado"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar el atún desmenuzado, las nueces picadas, los huevos duros picados, los pepinillos y el apio.\n2. Sazonar con sal y pimienta al gusto.\n3. Verter mayonesa sobre la mezcla y combinar suavemente con dos tenedores hasta que esté bien integrada.\n4. Servir sobre una cama de rúcula. Rinde para 6 porciones.",
+  "url": null
+}

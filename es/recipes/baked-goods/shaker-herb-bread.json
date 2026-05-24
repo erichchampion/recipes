@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "shaker-herb-bread",
+  "name": "Pan de hierbas con agitador",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "2 1/4 cucharaditas de levadura",
+    "3 tazas de harina de pan",
+    "3/4 cucharadita de semillas de apio",
+    "3/4 cucharadita de semillas de eneldo",
+    "3/4 cucharadita de tomillo molido",
+    "3/4 cucharadita de nuez moscada molida",
+    "1 1/2 cucharaditas de sal",
+    "1 cucharada de azúcar",
+    "4 cucharadas de leche en polvo",
+    "1 cucharada de mantequilla o margarina",
+    "1 taza de agua",
+    "1 huevo grande",
+    "1 cucharadita de zumo de limón"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en la máquina del pan y encenderla.\n2. No utilizar temporizador.\n3. La receta del libro \"El Gran Libro de Pan para Máquina del Pan\" de Lacalamita rinde 1 hogaza.",
+  "url": null
+}

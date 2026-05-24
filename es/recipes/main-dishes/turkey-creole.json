@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "turkey-creole",
+  "name": "Pavo Criollo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento"
+  ],
+  "recipeIngredient": [
+    "1 cebolla grande, picada",
+    "1 1/2 pimientos, picados",
+    "3/4 taza de apio, picado",
+    "900 g de tomates enlatados (estofados)",
+    "4 1/2 cucharaditas de comino en polvo",
+    "3/4 cucharadita de sal (al gusto)",
+    "4 tazas de pavo cocido, cortado en trozos",
+    "6 tazas de arroz cocido"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes excepto el arroz en una olla de cocción lenta.\n2. Cocina durante la mayor parte del día a fuego bajo o alto, según preferencia.\n3. Sirve la mezcla sobre el arroz cocido.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-pina-colada",
+  "name": "Mock Pina Colada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 can (8 oz.) crushed pineapple, undrained",
+    "2 1/2 cups vanilla ice cream or frozen yogurt, softened",
+    "1 teaspoon rum extract",
+    "1 teaspoon coconut extract",
+    "1 tablespoon powdered sugar",
+    "ice cubes"
+  ],
+  "recipeInstructions": "1. Combine the first five ingredients in a container of an electric blender.\n2. Add enough ice cubes to bring the mixture to about 4 cups; process until smooth.\n3. Stop and scrape down the sides as needed.\n4. Serve immediately.\n5. Makes 4 cups.",
+  "url": null
+}

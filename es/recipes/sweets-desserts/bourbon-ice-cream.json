@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "bourbon-ice-cream",
+  "name": "Helado de Bourbon",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "bebidas",
+    "postres",
+    "helados"
+  ],
+  "recipeIngredient": [
+    "4 huevos",
+    "3/4 taza de azúcar",
+    "1/4 taza de bourbon",
+    "240 ml de leche Eagle",
+    "480 ml de media crema (half & half)",
+    "1 ramita de menta"
+  ],
+  "recipeInstructions": "1. Batir los huevos a velocidad media y agregar el azúcar gradualmente.\n2. Incorporar el bourbon y la leche Eagle, mezclando bien.\n3. Verter la mezcla en un recipiente para congelador de 1 galón (aprox. 3,78 L).\n4. Congelar según las instrucciones del fabricante.\n5. Dejar reposar al menos una hora antes de servir.\n6. Presentar con la ramita de menta.",
+  "url": null
+}

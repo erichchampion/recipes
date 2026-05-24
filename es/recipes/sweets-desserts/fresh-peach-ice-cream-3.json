@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fresh-peach-ice-cream-3",
+  "name": "Helado de melocotón fresco",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postre",
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "3 tazas de pulpa y jugo de melocotón",
+    "Jugo de 1 naranja grande",
+    "Jugo de 3 limones",
+    "3 tazas de azúcar",
+    "1 cucharadita de vainilla",
+    "1 litro de leche",
+    "500 ml de nata para montar"
+  ],
+  "recipeInstructions": "1. Mezclar la pulpa de melocotón, todos los jugos, el azúcar y la vainilla.\n2. Dejar reposar la mezcla a temperatura ambiente durante tres horas.\n3. Incorporar la leche y la nata.\n4. Verter la mezcla en una máquina de helados y congelar hasta obtener la consistencia deseada.",
+  "url": null
+}

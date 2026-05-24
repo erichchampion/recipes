@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cajun-coffee",
+  "name": "Café Cajun",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "estadounidense",
+    "bebidas",
+    "cajún",
+    "café",
+    "criollo",
+    "étnico"
+  ],
+  "recipeIngredient": [
+    "3 tazas de café fuerte caliente",
+    "6 cucharadas de melaza",
+    "6 cucharadas de ron oscuro (opcional)",
+    "Crema batida",
+    "Nuez moscada (fresca molida)"
+  ],
+  "recipeInstructions": "1. Mezclar el café y la melaza en una cacerola.\n2. Calentar, removiendo hasta que la melaza se disuelva y el café esté muy caliente.\n3. No dejar hervir.\n4. Si se desea, agregar 1 cucharada de ron a cada taza.\n5. Verter el café en cada taza.\n6. Cubrir con crema batida.\n7. Espolvorear con nuez moscada.\n8. No remover antes de tomar.",
+  "url": null
+}

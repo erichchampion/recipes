@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "salmon-rice-balls",
+  "name": "Bolas de salmón y arroz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "arroz",
+    "salmón",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1 lb de salmón enlatado",
+    "1 taza de arroz cocido",
+    "1/2 taza de pan rallado",
+    "1 cucharada de cebolla picada finamente",
+    "2 cucharaditas de pimiento verde picado",
+    "1 cucharadita de sal",
+    "2 huevos batidos ligeramente",
+    "1 lata de sopa de setas cremosas",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto la sopa y el agua.\n2. Formar la mezcla en pequeñas bolas y colocarlas en una bandeja para hornear poco profunda.\n3. Cubrir las bolas con la mezcla de sopa y agua.\n4. Hornear durante 30 minutos a 350°F (180°C).",
+  "url": null
+}

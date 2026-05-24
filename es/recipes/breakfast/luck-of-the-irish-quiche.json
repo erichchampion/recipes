@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "luck-of-the-irish-quiche",
+  "name": "Tarta de la Suerte Irlandesa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "carne de res",
+    "guisos",
+    "tartas de cena",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "15 onzas de hash de carne de res curada",
+    "1/4 taza de migas de pan suave",
+    "4 huevos",
+    "1 taza de queso suizo rallado",
+    "1 cucharada de harina",
+    "1 taza de leche",
+    "una pizca de pimienta cayena",
+    "anillos de pimiento verde"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F (175°C).\n2. En un bol, mezclar el hash, las migas de pan y un huevo hasta que quede bien combinado.\n3. Extender la mezcla en un molde para tarta de 9 pulgadas.\n4. Mezclar el queso con la harina y espolvorear sobre la capa de hash.\n5. Batir los 3 huevos restantes con la leche y la pimienta cayena, y verter en el molde.\n6. Hornear durante 40 minutos o hasta que la mezcla de huevo esté cuajada.\n7. Decorar con anillos de pimiento verde.",
+  "url": null
+}

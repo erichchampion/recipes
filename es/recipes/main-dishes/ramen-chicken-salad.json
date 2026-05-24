@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "ramen-chicken-salad",
+  "name": "Ensalada de Pollo Ramen",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave",
+    "ramen",
+    "ensalada",
+    "uucp"
+  ],
+  "recipeIngredient": [
+    "3 libras de coleslaw picada",
+    "1 manojo de cebolletas picadas",
+    "1 libra de pollo desmenuzado sazonado",
+    "2 onzas de almendras laminadas",
+    "2 paquetes de fideos ramen (guardar los sobres de condimento para el aderezo)",
+    "1 onza de semillas de sésamo tostadas"
+  ],
+  "recipeInstructions": "1. Mezclar la coleslaw picada, las cebolletas, el pollo desmenuzado, las almendras y los fideos ramen cocidos.\n2. Espolvorear con semillas de sésamo tostadas.\n3. En un bol pequeño, combinar 1/3 taza de aceite, 1 taza de vinagre de vino rojo, 2 sobres de condimento del ramen, 1/4 taza de salsa de soja, sal, pimienta y azúcar al gusto.\n4. Verter el aderezo sobre la ensalada y mezclar bien para combinar todos los ingredientes.",
+  "url": null
+}

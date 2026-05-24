@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "brown-seed-bread",
+  "name": "Pan de semillas marrones",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina de uso común",
+    "1 taza de harina integral",
+    "1 taza de salvado natural",
+    "2 cucharadas de semillas de sésamo",
+    "2 cucharadas de semillas de amapola",
+    "1 y 1/2 cucharaditas de polvo de hornear",
+    "1 cucharadita de bicarbonato de sodio",
+    "1/4 taza de miel líquida",
+    "2 tazas de yogur natural"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar la harina de uso común, la harina integral, el salvado, las semillas de sésamo y de amapola, el polvo de hornear, el bicarbonato y la sal.\n2. Incorporar la miel líquida hasta obtener una mezcla homogénea.\n3. Agregar poco a poco el yogur natural hasta formar una masa pegajosa.\n4. Transferir la masa a un molde para pan engrasado (de 9x5 pulgadas o de 2 litros).\n5. Hornear a 180°C durante 40 minutos, o hasta que al insertar un palillo en el centro salga limpio.",
+  "url": null
+}

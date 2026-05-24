@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "noodles-romanoff",
+  "name": "Nudillos Romanoff",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "queso",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "12 onzas de macarrones con huevo",
+    "1 libra de queso crema ablandado",
+    "8 onzas de crema agria",
+    "2 cucharadas de mantequilla derretida",
+    "1 taza de cebolletas picadas",
+    "1 diente de ajo machacado",
+    "1/4 cucharadita de pimienta negra",
+    "1/4 taza de migas de pan",
+    "1/2 taza de queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. Cocinar los macarrones según las indicaciones del paquete hasta que estén apenas tiernos.\n2. Escurrir los macarrones.\n3. Mezclar el queso crema, la crema agria y la mantequilla derretida en un bol.\n4. Incorporar la mezcla a los macarrones.\n5. Añadir las cebolletas, el ajo y la pimienta a la mezcla de pasta.\n6. Transferir la mezcla a un molde para hornear engrasado.\n7. Mezclar las migas de pan con el queso parmesano.\n8. Espolvorear la mezcla de migas sobre la pasta.\n9. Hornear a 350 grados Fahrenheit durante 30 minutos.",
+  "url": null
+}

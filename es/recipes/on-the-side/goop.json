@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "goop",
+  "name": "Goop en español sería \"Pasta pegajosa\" o simplemente \"Goop\".",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "guisantes verdes",
+    "niños",
+    "varios",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 lata mediana de judías verdes finas",
+    "1 lata de sopa de setas cremosas",
+    "1 paquete de anillas de cebolla congeladas",
+    "1/2 taza de queso americano"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol de cocción mediano.\n2. Hornear a 180°C durante unos 30 minutos o hasta que esté caliente y se derrita el queso.",
+  "url": null
+}

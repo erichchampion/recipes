@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "berry-sauce",
+  "name": "Berry Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 cups Strawberries, fresh",
+    "1/3 cup Sugar",
+    "1 tbsp Lemon Juice",
+    "1/4 tsp Lemon Rind",
+    "2 tsp Cornstarch",
+    "2 tbsp Cognac"
+  ],
+  "recipeInstructions": "1. Cook the berries in sugar (more if fresh) just until hot.\n2. Add lemon juice and grated lemon rind, then simmer for 5 minutes.\n3. Force through a sieve to remove any solids.\n4. Mix together cornstarch and cognac until smooth.\n5. Gradually add the berry mixture into the cornstarch mixture, cooking over low heat while stirring constantly until it becomes clear and thickened.\n6. Serve hot or cold over fruit or ice cream.",
+  "url": null
+}

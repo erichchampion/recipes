@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pineapple-papaya-mango-salsa",
+  "name": "Salsa de piña, papaya y mango",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "frutas",
+    "encurtidos",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 piña mediana",
+    "1 papaya grande",
+    "2 mangos",
+    "1 cebolla pequeña blanca o roja",
+    "1 cucharada de jugo de limón",
+    "Pimienta cayena al gusto (o pimiento jalapeño picado)",
+    "Pimienta negra al gusto"
+  ],
+  "recipeInstructions": "1. Cortar la piña, la papaya, los mangos y la cebolla en trozos pequeños.\n2. Mezclar todos los ingredientes en un bol con el jugo de limón.\n3. Para darle un toque picante a la salsa, añadir una pizca de pimienta cayena o pimiento jalapeño picado al gusto.",
+  "url": null
+}

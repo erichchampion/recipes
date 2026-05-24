@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-apple-pie",
+  "name": "Ham Apple Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "dinner pies",
+    "main dish",
+    "meats",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "4 lb Ham, cooked, chopped fine",
+    "1 Cube bouillon (dissolved in water)",
+    "5 Green apples, chopped",
+    "2 Onions, chopped fine",
+    "1 tsp Sage",
+    "1 tbsp Mixed vegetable seasoning"
+  ],
+  "recipeInstructions": "1. In a deep baking dish, alternate layers of ham and apples.\n2. Sprinkle each layer with onions and seasonings.\n3. Moisten each layer with bouillon.\n4. Cover the top layer with mashed potatoes.\n5. Brush potato peaks with melted butter.\n6. Bake at 325 degrees for 1 1/2 to 2 hours until ham is thoroughly heated and potato peaks are browned.",
+  "url": null
+}

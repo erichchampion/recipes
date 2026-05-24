@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "crazy-pizza",
+  "name": "Pizza loca",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "italiano",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de carne molida",
+    "1 taza de pimiento verde picado",
+    "1/2 taza de cebolla picada",
+    "1 lata de setas en rodajas, escurridas",
+    "1 lata de salsa de pizza",
+    "1 taza de queso mozzarella rallado",
+    "1 taza de harina",
+    "1 cucharadita de sal",
+    "1 cucharadita de condimento italiano",
+    "1/2 cucharadita de pimienta negra",
+    "2 huevos",
+    "2/3 taza de leche"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida con el pimiento verde, escurriendo cualquier grasa excesiva.\n2. Mezclar la harina, la sal, el condimento italiano y la pimienta en un bol aparte.\n3. Añadir los huevos y la leche a los ingredientes secos, removiendo hasta que queden bien combinados.\n4. Verter la masa en una sartén para pizza engrasada.\n5. Inclinar la sartén para que la masa cubra el fondo de manera uniforme.\n6. Colocar las cebollas y las setas sobre la masa.\n7. Hornear a 200 °C durante 20 minutos o hasta que la base esté dorada.\n8. Retirar del horno, añadir la salsa de pizza y el queso rallado.\n9. Devolver al horno durante 10 minutos adicionales, o hasta que el queso se derrita.\n10. (Opcional) Añadir otros toppings al gusto.",
+  "url": null
+}

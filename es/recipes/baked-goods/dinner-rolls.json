@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "dinner-rolls",
+  "name": "Panes para la cena",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "4 tazas de harina",
+    "1 1/2 tazas de leche escaldada",
+    "1/4 taza de azúcar",
+    "1 1/2 cucharaditas de sal",
+    "2 huevos",
+    "1/2 taza de aceite",
+    "2 sobre de levadura",
+    "1/4 taza de agua tibia (aproximadamente 90 °C)"
+  ],
+  "recipeInstructions": "1. Escaldar la leche y dejarla enfriar hasta alcanzar una temperatura tibia (alrededor de 90 °C).\n2. Disolver la levadura en 1/4 taza de agua tibia.\n3. Mezclar la levadura disuelta con la leche templada.\n4. Añadir el azúcar, los huevos, la sal y el aceite a la mezcla.\n5. Incorporar gradualmente la harina a la mezcla hasta que todos los ingredientes estén bien combinados. La masa quedará pegajosa.\n6. Dejar levar la masa durante aproximadamente 1 hora y media.\n7. Dar forma a la masa según el deseo.\n8. Dejar levantar la masa moldeada por un corto tiempo, luego hornear a 350 °F hasta que esté dorada (aproximadamente 12 a 20 minutos, dependiendo del tamaño).",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hollandaise-sauce",
+  "name": "Salsa Holandesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pescado",
+    "salsas",
+    "mariscos",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "10 Yemas de huevo",
+    "1/4 taza de zumo de limón",
+    "1/4 taza de agua",
+    "1/4 taza de crema de jerez",
+    "1/4 taza de vinagre de tarragona",
+    "1/2 cucharadita de salsa Tabasco (al gusto)",
+    "1 libra de mantequilla derretida"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto la mantequilla en el fondo de un baño maría.\n2. Calentar el agua en la parte inferior del baño maría hasta que hierva.\n3. Batir la mezcla de huevo sobre el agua caliente hasta que adquiera una textura cremosa y color limón (se espesará hasta la consistencia de un pudín suave).\n4. Retirar del fuego y continuar batiendo mientras se añade lentamente la mantequilla.",
+  "url": null
+}

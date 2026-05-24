@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "condensed-milk",
+  "name": "Leche condensada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "lácteos",
+    "ensaladas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de azúcar",
+    "1/2 taza de agua tibia",
+    "1 taza + 2 cucharadas de leche en polvo"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Calentar la mezcla hasta que hierva.\n3. Cocinar hasta espesar, aproximadamente 15 a 20 minutos.\n4. Esta cantidad equivale a un brik de leche condensada.",
+  "url": null
+}

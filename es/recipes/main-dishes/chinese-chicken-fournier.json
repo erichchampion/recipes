@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chinese-chicken-fournier",
+  "name": "Pollo chino... al horno",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "chino",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "18 alas de pollo (con o sin muslo)",
+    "3 dientes de ajo, picados finamente",
+    "1 cucharadita de jengibre molido",
+    "1/2 taza de polvo cinco especias",
+    "1/2 taza de salsa de soja",
+    "1/2 taza de vino blanco",
+    "1/4 taza de aceite vegetal"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes y marina el pollo durante 1 o más horas.\n2. Hornea a 180°C durante 30-40 minutos, rociando con la marinada durante todo el proceso.\n3. Termina la cocción en una parrilla, pincelando la salsa para obtener una textura crujiente.",
+  "url": null
+}

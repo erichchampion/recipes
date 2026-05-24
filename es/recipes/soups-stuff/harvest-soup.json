@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "harvest-soup",
+  "name": "Sopa de Cosecha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "1 taza de cebolla picada",
+    "1 cucharada de aceite",
+    "3 latas (750 ml) de caldo de pollo",
+    "1 lata (400 g) de calabaza",
+    "1 lata (280 g) de tomates enteros Hunt's, escurridos y triturados",
+    "1,5 cucharaditas de azúcar",
+    "0,25 cucharadita de sal",
+    "0,5 cucharaditas de polvo de curry",
+    "0,25 cucharadita de pimienta negra",
+    "0,125 cucharadita de clavos molidos",
+    "1 taza de leche desnatada",
+    "1 cucharadita de almidón de maíz"
+  ],
+  "recipeInstructions": "1. En una olla grande, saltear las cebollas en el aceite hasta que estén tiernas.\n2. Agregar los ingredientes restantes excepto la leche y el almidón de maíz.\n3. Hervir y cocinar a fuego lento sin cubrir durante 10 minutos.\n4. En un vaso, mezclar la leche con el almidón de maíz.\n5. Incorporar a la sopa y remover constantemente.\n6. Continuar hirviendo hasta que espese ligeramente.",
+  "url": null
+}

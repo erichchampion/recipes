@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-turtles",
+  "name": "Chocolate Turtles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "candies",
+    "candy",
+    "chocolate",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 lb Caramels",
+    "2 tbsp Water",
+    "1/2 lb Salted nuts (or pecans)",
+    "1 package Chocolate chips"
+  ],
+  "recipeInstructions": "1. Melt the caramels in a double boiler over low heat until smooth.\n2. Arrange clusters of nuts on a buttered cookie sheet.\n3. Drop 1 tsp caramel onto each nut cluster.\n4. Melt the chocolate and spread it evenly over the melted caramels.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "super-pizza-sauce",
+  "name": "Super Pizza Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "3/4 tsp black pepper",
+    "1 tsp salt",
+    "1/2 tsp powdered onion",
+    "1/2 tsp powdered garlic",
+    "1 tsp minced onion",
+    "1 tsp minced garlic",
+    "1/2 tsp marjoram",
+    "1 1/2 tbsp oregano"
+  ],
+  "recipeInstructions": "1. Mix the ingredients with 12 oz. tomato paste.\n2. On the crust, spread a layer of sauce.\n3. Add layers of Mozzarella cheese and Parmesan or Romano cheese.\n4. Place desired toppings on top.\n5. Bake at 450°F for 8 minutes.",
+  "url": null
+}

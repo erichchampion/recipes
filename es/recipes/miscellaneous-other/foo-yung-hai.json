@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "foo-yung-hai",
+  "name": "Foo Yung Hai en español sería: \"Omelette de Verduras\".",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "asiático",
+    "chino",
+    "huevos",
+    "étnico"
+  ],
+  "recipeIngredient": [
+    "3 oz de carne de cangrejo (o pollo cocido o camarones)",
+    "4 cucharadas de aceite de maní",
+    "1 cebolleta, picada finamente",
+    "1 taza de brotes de soja",
+    "5 huevos",
+    "1/4 cucharadita de sal",
+    "2 cucharadas de agua",
+    "6 cucharadas de caldo de pollo",
+    "Una pizca de azúcar",
+    "1 cucharadita de salsa de soja",
+    "1 cucharadita de ketchup",
+    "1 cucharadita de almidón de maíz"
+  ],
+  "recipeInstructions": "1. Picar finamente la carne de cangrejo o el pollo si se usa.\n2. Calentar 1 cucharada de aceite en un wok y saltear la cebolleta y los brotes de soja durante 1 minuto.\n3. Batir los huevos y añadir a la sartén la cebolleta, los brotes, los brotes de soja, 1/4 cucharadita de sal, 2 cucharadas de agua y la carne de cangrejo.\n4. Calentar otra cucharada de aceite en el wok, agregar el caldo de pollo, una pizca de sal, el azúcar, la salsa de soja, el ketchup y el almidón de maíz. Mezclar bien y llevar a ebullición.\n5. Mantener la mezcla caliente mientras se prepara la tortilla.\n6. Calentar 2 cucharadas de aceite en una sartén para tortillas, verter la mezcla de huevo y cocinar.\n7. Servir sobre un plato caliente y verter el salsa encima.",
+  "url": null
+}

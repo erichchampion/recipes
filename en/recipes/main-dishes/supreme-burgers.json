@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "supreme-burgers",
+  "name": "Supreme Burgers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "ground beef",
+    "main dish",
+    "meats"
+  ],
+  "recipeIngredient": [
+    "2 lb ground beef",
+    "1.5 oz onion soup mix; 1 envelope",
+    "0.5 cup bread crumbs; dry",
+    "1 cup dairy sour cream",
+    "0.125 tsp pepper"
+  ],
+  "recipeInstructions": "1. Combine all the ingredients together in a large bowl.\n2. Shape the mixture into 8 patties, each about 3/4-inch thick.\n3. Broil or grill the patties, keeping them 4-inches from the heat source. Turn the patties once to achieve the desired doneness, which should take approximately 10 to 15 minutes.",
+  "url": null
+}

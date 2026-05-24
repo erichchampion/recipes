@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-hash-2",
+  "name": "Beef Hash",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cups cooked beef, diced",
+    "10 ounces frozen hash browns, thawed",
+    "1 onion, finely chopped",
+    "1/4 cup melted margarine",
+    "1 cup gravy",
+    "1 cup beef broth",
+    "pepper"
+  ],
+  "recipeInstructions": "1. Place all ingredients in the crockpot.\n2. Cover and cook on low setting for 6 to 8 hours.",
+  "url": null
+}

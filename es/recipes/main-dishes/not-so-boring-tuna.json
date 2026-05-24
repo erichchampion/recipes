@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "not-so-boring-tuna",
+  "name": "Tuna no tan aburrida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "atún enlatado",
+    "plato principal",
+    "carne",
+    "marisco",
+    "atún"
+  ],
+  "recipeIngredient": [
+    "2 latas de atún de 6 onzas (en agua, escurrido)",
+    "4 cucharadas de yogur griego sin grasa",
+    "2 cucharaditas de polvo de curry",
+    "2 cucharadas de chutney (Major Grey's)",
+    "1/2 manzana Granny Smith, picada"
+  ],
+  "recipeInstructions": "1. Mezclar el atún con el yogur.\n2. Añadir el polvo de curry y el chutney a la mezcla.\n3. Incorporar la manzana picada hasta obtener una combinación homogénea.",
+  "url": null
+}

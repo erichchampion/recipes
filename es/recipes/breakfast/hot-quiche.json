@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-quiche",
+  "name": "Quiche caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "tartas de cena",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 masa de tarta profunda",
+    "1 litro de nata líquida o leche evaporada",
+    "4 huevos",
+    "4 onzas de queso suizo",
+    "1 pequeña cebolla",
+    "Pimiento verde (opcional)",
+    "Setas (opcional)",
+    "1/4 cucharadita de pimentón rojo",
+    "1/4 cucharadita de sal",
+    "500 gramos de jamón (se puede usar tocino, salchicha o cualquier otra carne)"
+  ],
+  "recipeInstructions": "1. Mezclar la nata, los huevos, el pimentón y la sal.\n2. Colocar el jamón, la cebolla, las setas, el pimiento verde y el queso en la masa de la tarta.\n3. Verter la mezcla de nata sobre los ingredientes de la masa de la tarta.\n4. Hornear a 400 grados durante 15 minutos o a 350 grados durante 45 minutos.",
+  "url": null
+}

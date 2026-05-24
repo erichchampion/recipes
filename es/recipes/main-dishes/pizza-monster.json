@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-monster",
+  "name": "Pizza Monstruo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "Base de pan de masa italiana Boboli (12\")",
+    "Paquete de salsa de pizza Boboli (5 oz)",
+    "Pepperoni pre-cortado Hormel (8 oz)",
+    "Queso mozzarella rallado (1/4 taza)",
+    "Tiras de pimiento verde",
+    "Setas (3)",
+    "Aceitunas negras"
+  ],
+  "recipeInstructions": "1. Extender la salsa de pizza Boboli sobre la base de pan de masa italiana.\n2. Colocar el pepperoni pre-cortado sobre la salsa.\n3. Espolvorear queso mozzarella rallado sobre el pepperoni.\n4. Organizar las tiras de pimiento verde y las setas para crear una cara de monstruo encima de la pizza.\n5. Hornear en una bandeja para hornear sin grasar a 200°C durante 8-10 minutos, o hasta que la corteza sea dorada y el queso esté derretido y burbujeante.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "goody-cake",
+  "name": "Pastel de Goody",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 sobre de mezcla de bizcocho amarillo",
+    "1 taza de nueces",
+    "1 barra de mantequilla o margarina",
+    "1 sobre de azúcar glas (caja de 450 g)",
+    "1 sobre de queso crema"
+  ],
+  "recipeInstructions": "1. Mezclar la mezcla de bizcocho, las nueces y la mantequilla. Presionar en un molde rectangular de 30x40 cm para formar la capa inferior.\n2. Mezclar el azúcar glas y el queso crema hasta obtener una mezcla homogénea.\n3. Extender sobre la capa inferior.\n4. Hornear a 180°C durante 40-45 minutos, o hasta que esté dorada.\n5. Enfriar y cortar en cuadrados pequeños. Las nueces se pueden omitir si se prefiere.",
+  "url": null
+}

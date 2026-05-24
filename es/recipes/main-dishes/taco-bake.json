@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-bake",
+  "name": "Tacos al horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "pasta",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "1 cebolla picada",
+    "3/4 taza de agua",
+    "1 sobre (24 g) de mezcla para aderezo de tacos",
+    "2 latas (400 g cada una) de salsa de tomate",
+    "1 paquete (250 g) de macarrones sin cocinar",
+    "1 lata (400 g) de chiles verdes picados suaves",
+    "2 tazas de queso cheddar suave rallado"
+  ],
+  "recipeInstructions": "Servir para 6 a 8 personas.\nEn una sartén, dora la carne molida y la cebolla; escurre el exceso de grasa. Añade el agua, la mezcla para aderezo de tacos y la salsa de tomate; mezcla bien. Reduce el fuego y cocina durante 20 minutos. Transfiere a una olla de cocción lenta. Agrega los macarrones y los chiles verdes picados suaves. Tapa y cocina a fuego lento durante 6 a 8 horas, o a temperatura alta durante 3 a 4 horas. En los últimos 30 minutos de cocción, espolvorea con queso cheddar rallado.",
+  "url": null
+}

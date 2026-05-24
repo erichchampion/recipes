@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "greek-chicken",
+  "name": "Pollo griego",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "3 1/2 libras de pechugas de pollo deshuesadas y sin piel, en mitades",
+    "1/2 cucharadita de polvo de ajo",
+    "1/2 cucharadita de orégano",
+    "1/2 taza de aceite de oliva",
+    "8 onzas de cebolla picada",
+    "2 cucharaditas de sal sazonada",
+    "1/4 cucharadita de margarina batida",
+    "1/2 cucharadita de pimienta negra molida",
+    "6 gajos de tomate"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar el polvo de ajo, orégano, jugo de limón, aceite de oliva, cebolla picada y sal sazonada.\n2. Mezclar bien hasta que todos los ingredientes estén combinados.\n3. Verter la mezcla sobre las pechugas de pollo y marinar en la nevera durante la noche.\n4. Derretir la margarina batida en una sartén a fuego medio.\n5. Agregar el pollo marinado a la sartén y saltear hasta que esté cocido y dorado por ambos lados.\n6. Retirar el pollo de la sartén y espolvorear con pimienta negra molida y gajos de tomate antes de servir.",
+  "url": null
+}

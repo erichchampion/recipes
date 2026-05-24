@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "fry-bread-2",
+  "name": "Fry Bread 2",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "mexican"
+  ],
+  "recipeIngredient": [
+    "4 cups Flour",
+    "4 teaspoons Baking Powder",
+    "1 teaspoon Salt",
+    "2 cups Milk"
+  ],
+  "recipeInstructions": "1. Mix the flour, baking powder, and salt together.\n2. Gradually add milk to form a soft dough.\n3. Roll out the dough on a floured surface.\n4. Cut into desired pieces.\n5. Fry in deep fat until golden brown.",
+  "url": null
+}

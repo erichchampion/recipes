@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-cheese-ball",
+  "name": "Beef Cheese Ball",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "beef",
+    "cheese",
+    "cheese/eggs",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "8 oz cream cheese (yogurt cheese would be just fine)",
+    "2 teaspoons horseradish",
+    "1 jar chipped beef"
+  ],
+  "recipeInstructions": "1. Shred 2 jars of chipped beef and sauté in 2 tablespoons butter.\n2. Combine half of the shredded beef with a teaspoon of prepared mustard.\n3. Roll this mixture into a ball, then roll it in the remaining shredded chipped beef.",
+  "url": null
+}

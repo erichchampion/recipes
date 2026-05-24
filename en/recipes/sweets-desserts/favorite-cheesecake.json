@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "favorite-cheesecake",
+  "name": "Favorite Cheesecake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cake",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 Graham cracker crust",
+    "16 oz Cream cheese",
+    "1/2 cup Sugar",
+    "2 Eggs",
+    "1 t Vanilla",
+    "1 pint Sour cream",
+    "1/4 cup Sugar",
+    "1 t Vanilla"
+  ],
+  "recipeInstructions": "1. Using an 8-inch or 9-inch springform pan, press your favorite crumb crust recipe on the bottom and half way up the sides - or use a ready-made crumb pie crust. Chill.\n2. With a mixer, blend the first layer ingredients until smooth. Pour into the crust and bake at 350°F for 20 minutes.\n3. Cool. With a mixer, blend the second layer ingredients until smooth. Pour on top of the first layer and return to the oven at 350°F for 20 more minutes.\n4. Cool and chill before serving.",
+  "url": null
+}

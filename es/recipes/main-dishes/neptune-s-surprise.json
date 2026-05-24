@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "neptune-s-surprise",
+  "name": "La Sorpresa de Neptuno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de gambas, cocidas y peladas",
+    "1/2 lb de almejas, cocidas y peladas",
+    "1/2 lb de carne de cangrejo",
+    "1/2 lb de ostras, cocidas y peladas",
+    "1/4 taza de pimientos verdes picados",
+    "1/4 taza de aceitunas verdes picadas",
+    "1 diente de ajo, picado finamente",
+    "1/2 taza de cebolla picada",
+    "1 taza de mayonesa",
+    "1 cucharada de eneldo picado",
+    "1 cucharada de jugo de limón fresco",
+    "1/2 taza de pimiento verde picado",
+    "1 taza de patatas fritas trituradas"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar todos los ingredientes excepto las patatas fritas.\n2. Transferir la mezcla a un plato para horno engrasado.\n3. Cubrir y hornear durante 10 minutos a 350 grados F (175 grados C).\n4. Espolvorear las patatas fritas encima de la mezcla.\n5. Devolver el plato al horno y hornear durante 20 minutos adicionales, o hasta que esté caliente por completo.",
+  "url": null
+}

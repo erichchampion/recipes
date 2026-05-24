@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-tacos",
+  "name": "Quick Tacos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "american",
+    "ethnic",
+    "mexican",
+    "miscellaneous"
+  ],
+  "recipeIngredient": [
+    "2 tablespoons Veg. oil",
+    "1 medium onion, chopped",
+    "1 clove garlic",
+    "2 cups chopped cooked chicken",
+    "2 cups tomato puree",
+    "4 oz can green chilies",
+    "Salt and pepper",
+    "6 medium corn tortillas",
+    "2 cups shredded Monterey Jack cheese",
+    "1 large, thinly sliced avocado",
+    "Hot salsa"
+  ],
+  "recipeInstructions": "1. Heat the vegetable oil in a skillet over medium heat.\n2. Add the onion and garlic. Cook until the onion is translucent.\n3. Discard the garlic.\n4. Add the chicken, tomato puree, and green chilies to the skillet.\n5. Season with salt and pepper.\n6. Reduce the heat and simmer for 10 minutes.\n7. Spoon some of the chicken mixture into each tortilla shell.\n8. Fill each shell with cheese, avocado, lettuce, and salsa.\n9. Serve hot with additional salsa on the side.",
+  "url": null
+}

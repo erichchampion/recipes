@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "golden-cheese-bake",
+  "name": "Horno de queso dorado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "granos",
+    "plato principal",
+    "cocinero lento"
+  ],
+  "recipeIngredient": [
+    "2 tazas de arroz largo cocido y convertido",
+    "3 tazas de zanahorias peladas y ralladas",
+    "2 tazas de queso procesado fuerte rallado",
+    "1/2 taza de leche",
+    "2 huevos batidos",
+    "2 cucharadas de cebolla picada",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar todos los ingredientes y remover bien.\n2. Verter la mezcla en una olla para cocinar lenta (Crock-Pot) engrasada.\n3. Tapar y cocinar a fuego lento durante 7 a 9 horas o a fuego alto durante 2 1/2 a 3 horas.\nSirve para 4 a 6 personas. Duplica la receta para una olla de 5 cuartos.",
+  "url": null
+}

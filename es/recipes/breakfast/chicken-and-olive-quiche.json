@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-olive-quiche",
+  "name": "Tarta de Pollo y Aceitunas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "tartas de cena",
+    "plato principal",
+    "quiche"
+  ],
+  "recipeIngredient": [
+    "Masa de tarta",
+    "1 taza de crema",
+    "1 huevo",
+    "2 yemas de huevo",
+    "Una pizca de sal",
+    "Una pizca de nuez moscada",
+    "Una pizca de pimienta cayena",
+    "2 tazas de pollo Oregon cultivado, cocido y cortado en cubos",
+    "Sal y pimienta al gusto",
+    "1/2 taza de aceitunas cortadas"
+  ],
+  "recipeInstructions": "1. En un bol, mezcle la crema, el huevo, las yemas de huevo, la sal, la nuez moscada y la pimienta cayena.\n2. Corte el pollo cocido en cubos y tempérelo con sal y pimienta.\n3. Coloque la masa de tarta en un horno precalentado.\n4. Espolvoree las aceitunas cortadas sobre el pollo.\n5. Vierta el relleno de crema sobre el pollo y las aceitunas.\n6. Hornee a 190 °C durante 40-45 minutos.\nSirve para 4-6 personas.",
+  "url": null
+}

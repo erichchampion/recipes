@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "brussel-sprouts-pasta",
+  "name": "Pasta con col róseas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 tazas de coliflores",
+    "1 taza de cebolla verde picada",
+    "1/2 taza de pimientos rojos dulces picados",
+    "2 cucharadas de mantequilla",
+    "2 cucharadas de aceite de girasol",
+    "1 cucharada de salsa de soja",
+    "1/2 taza de perejil picado",
+    "1 taza de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Cortar las puntas de las coliflores y cocinarlas al vapor en agua hirviendo hasta que estén tiernas, escurrir.\n2. Calentar la mantequilla y el aceite, saltear la cebolla verde.\n3. Agregar los pimientos y las coliflores, remover hasta que estén ligeramente dorados en los bordes.\n4. Incorporar la salsa de soja y dejar reposar cubierto mientras se cocina la pasta.\n5. En un bol, mezclar la pasta con perejil y queso rallado.\n6. Agregar las verduras cocidas y servir caliente.",
+  "url": null
+}

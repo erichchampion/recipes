@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "one-pan-dinner",
+  "name": "One Pan Dinner",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "game",
+    "main dish",
+    "meat",
+    "meats",
+    "venison"
+  ],
+  "recipeIngredient": [
+    "3 Venison chops",
+    "2 Potatoes",
+    "3 Medium carrots",
+    "1 Small chopped onion",
+    "1 Celery stalk",
+    "1/2 tsp Parsley"
+  ],
+  "recipeInstructions": "1. Brown the meat, onion, and celery in a small amount of butter.\n2. Add the cut and sliced carrots and potatoes.\n3. Sprinkle with parsley.\n4. Add enough water to almost cover the ingredients.\n5. Cover and simmer for 40 minutes, checking occasionally to ensure they do not cook dry.",
+  "url": null
+}

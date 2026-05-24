@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-spinach-quiche-2",
+  "name": "Tarta de Pollo y Espinacas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "tartas de cena",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 taza de pollo picado y cocido",
+    "1 taza de queso suizo rallado",
+    "1/2 taza de espinacas cocidas y picadas",
+    "1/4 taza de cebolla picada",
+    "2 huevos batidos ligeramente",
+    "3/4 taza de mayonesa",
+    "3/4 taza de leche",
+    "1/8 cucharadita de pimienta negra",
+    "1 masa de pastel (9 pulgadas), sin hornear"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar el pollo, el queso, las espinacas y la cebolla.\n2. Verter la mezcla en la masa del pastel preparada.\n3. Batir los huevos con la leche, la mayonesa y la pimienta hasta que queden suaves.\n4. Verter la mezcla de huevo sobre la mezcla de pollo.\n5. Hornear a 175 °C durante 45-50 minutos.",
+  "url": null
+}

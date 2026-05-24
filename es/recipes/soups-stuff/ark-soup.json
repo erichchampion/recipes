@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "ark-soup",
+  "name": "Sopa de Arca",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de mantequilla",
+    "2 cebollas (peladas y picadas)",
+    "2 ajos (rebanados)",
+    "2 nabos medianos (cortados en cubos)",
+    "2 patatas (peladas y cortadas en cubos)",
+    "2 chalotas (picadas)",
+    "2 tallos de apio (rebanados)",
+    "2 zanahorias (rebanadas)",
+    "2 dientes de ajo (partidos por la mitad)",
+    "2 ramitas de perejil",
+    "2 latas de caldo de pollo",
+    "2 tazas de crema líquida",
+    "Sal y pimienta al gusto",
+    "Eneldo fresco picado al gusto (opcional)"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una olla grande a fuego medio.\n2. Añade las cebollas, ajos, nabos, patatas, chalotas, apio, zanahorias, ajo y perejil. Saltea hasta que las verduras estén tiernas pero no doradas.\n3. Vierte el caldo de pollo y lleva a ebullición.\n4. Cocina hasta que los nabos estén completamente cocidos.\n5. Deja enfriar un poco, luego licúa la sopa en lotes más pequeños usando una batidora.\n6. Devuelve la sopa licuada a la olla y añade la crema líquida.\n7. Calienta la sopa a fuego lento hasta que esté caliente.\n8. Sirve caliente, decorada con una ramita de perejil fresco picado (opcional).",
+  "url": null
+}

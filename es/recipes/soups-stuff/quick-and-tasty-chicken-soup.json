@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-and-tasty-chicken-soup",
+  "name": "Sopa de Pollo Rápida y Sencilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "diabetico",
+    "plato principal",
+    "aves de corral",
+    "olla de cocción lenta",
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de pollo cocido; picado.",
+    "1 1/2 tazas de caldo de pollo.",
+    "1 taza de agua.",
+    "2 cucharadas de cebolla; picada finamente.",
+    "1/4 taza de apio; picado finamente.",
+    "1/2 cucharadita de tomillo.",
+    "1/2 cucharadita de almidón de flecha.",
+    "1 cucharada de agua."
+  ],
+  "recipeInstructions": "1. Calentar a fuego lento los siete primeros ingredientes juntos durante unos 10 minutos.\n2. Preparar una pasta mezclando el almidón de flecha con 1 cucharada de agua.\n3. Añadir la pasta a la sopa y cocinar hasta que adquiera un aspecto claro y suave (solo toma unos segundos).",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-irish-stew",
+  "name": "Crockpot Irish Stew",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "2 lb Lamb, boneless, cubed - browned and drained",
+    "2 tsp Salt",
+    "1/4 tsp Pepper",
+    "2 cups Water",
+    "1 small Bay leaf",
+    "2 medium Carrots, pared and cut into 1/2-inch slices",
+    "2 small Onions, thinly sliced",
+    "4 medium Potatoes, pared and quartered",
+    "1/4 cup Quick-cooking tapioca (optional)",
+    "10 oz Peas, frozen, or 10 oz Mixed vegetables, frozen"
+  ],
+  "recipeInstructions": "1. Season the cubed lamb with salt and pepper.\n2. Add the remaining ingredients except peas to the pot (omit tapioca if you don't want gravy thickened).\n3. Stir well.\n4. Cover and cook on Low for 10-12 hours.\n5. Add peas during the last 1-2 hours of cooking.",
+  "url": null
+}

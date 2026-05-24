@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "cola-chicken",
+  "name": "Pollo Cola",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pollo",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 taza de Cola regular",
+    "1 taza de Cataplas (ketchup)",
+    "1 cebolla, en rodajas",
+    "1 1/2 libras de Pollo entero"
+  ],
+  "recipeInstructions": "1. Lavar y secar bien el pollo. Sazonar con sal y pimienta al gusto.\n2. Colocar el pollo en la olla de cocción lenta y disponer las cebollas encima.\n3. Verter la cola y el cataplas sobre el pollo y las cebollas.\n4. Cocinar a fuego bajo durante 6 a 8 horas.\n5. Una vez cocido el pollo, retirarlo de la olla y colocarlo en la nevera para enfriar.\n6. Una vez frío, retirar la grasa que haya flotado en la superficie.\n7. Calentar el pollo antes de servir.",
+  "url": null
+}

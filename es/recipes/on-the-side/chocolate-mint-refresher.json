@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-mint-refresher",
+  "name": "Refresco de menta con chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3 tazas de café recién preparado frío",
+    "4 cucharadas de licor de cacao",
+    "4 cucharadas de crema de menta blanca",
+    "1 1/2 tazas de crema ligera (mitad y mitad)"
+  ],
+  "recipeInstructions": "1. Mezclar el café frío con el licor de cacao.\n2. Añadir la crema de menta blanca y la crema ligera a la mezcla.\n3. Batir hasta obtener espuma.\n4. Servir sobre hielo.",
+  "url": null
+}

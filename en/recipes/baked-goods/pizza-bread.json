@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-bread",
+  "name": "Pizza Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "1 package Yeast",
+    "1 tsp Sugar",
+    "3 cups Bread flour",
+    "1/2 cup Sliced pepperoni",
+    "1/2 cup Cooked Italian sausage",
+    "1/2 cup Whole black olives",
+    "1/4 cup Mozzarella cheese",
+    "1/4 cup Parmesan cheese",
+    "1 Egg",
+    "1 cup Bottled pizza sauce",
+    "1 tbsp Olive oil",
+    "1 tsp Whole fennel seed",
+    "1/4 tsp Cracked black pepper",
+    "1 tsp Oregano (I use more)",
+    "3 tbsp Hot water",
+    "4 Cloves garlic, minced"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in the bread machine and press \"Start\".",
+  "url": null
+}

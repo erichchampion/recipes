@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "aztec-punch",
+  "name": "Aztec Punch",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "punch",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "Tequila - 2 quarts",
+    "Grapefruit juice - 2 1/2 quarts",
+    "Dark tea - 1 quart",
+    "Lemon juice - 1 cup",
+    "Sugar - 1/2 cup",
+    "Cinnamon - 2 teaspoons"
+  ],
+  "recipeInstructions": "1. Prepare strong tea using more tea bags rather than steeping for a longer time to avoid tannic acidity that may conflict with other ingredients.\n2. Mix all the ingredients together.\n3. Serve over ice.",
+  "url": null
+}

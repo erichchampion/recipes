@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-al-tonno",
+  "name": "Spaghettis con atún",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de pimiento verde, picado",
+    "1/2 taza de cebolla, picada",
+    "2 latas de atún (7 oz cada una)",
+    "2 latas de salsa de tomate (8 oz cada una)",
+    "1/2 taza de agua",
+    "2 cucharaditas de sal",
+    "1 cucharadita de orégano",
+    "1/2 cucharadita de polvo de ajo",
+    "1/3 taza de aceite de oliva",
+    "1/4 cucharadita de pimienta negra",
+    "1 paquete de espaguetini"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una sartén grande a fuego medio.\n2. Añadir el pimiento verde y la cebolla picados; saltear hasta que estén tiernos, aproximadamente 5 minutos.\n3. Incorporar el atún, la salsa de tomate, el agua, la sal, el orégano, el polvo de ajo y la pimienta.\n4. Cocinar la mezcla hasta que se caliente bien, removiendo ocasionalmente, durante 5-10 minutos.\n5. Verter la salsa sobre los espaguetini cocidos.\n6. Espolvorear con queso rallado antes de servir, si se desea.",
+  "url": null
+}

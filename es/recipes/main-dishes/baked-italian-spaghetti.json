@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-italian-spaghetti",
+  "name": "Espaguetis italianos al horno",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "etnía",
+    "italiana",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida de res",
+    "1 caja de espaguetis en forma de codo",
+    "1 taza de queso Colby de Kraft, rallado",
+    "1 lata pequeña de tomates, escurridos y picados",
+    "1 lata de salsa de tomate",
+    "Sal al ajo y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar los espaguetis hasta que estén hechos.\n2. Mezclar con los demás ingredientes.\n3. No freír la carne molida.\n4. Añadir un poco del jugo de los tomates para mantener la humedad.\n5. Mezclar mantequilla con migas de pan y verter sobre la parte superior.\n6. Hornear durante 30 minutos después de comenzar a cocinar.",
+  "url": null
+}

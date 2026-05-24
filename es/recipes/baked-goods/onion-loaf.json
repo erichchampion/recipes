@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "onion-loaf",
+  "name": "Rollo de Cebolla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina",
+    "panes y rollos sabrosos"
+  ],
+  "recipeIngredient": [
+    "1 taza de agua",
+    "3/4 cucharadita de sal",
+    "1,5 cucharadas de aceite de canola",
+    "1/2 taza de harina de centeno",
+    "2,5 tazas de harina de trigo",
+    "1 sobre de mezcla de sopa de cebolla",
+    "1 cucharadita de eneldo seco",
+    "1,5 cucharaditas de semillas de comino",
+    "1 cucharada de azúcar",
+    "1,5 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en la máquina de pan en el orden indicado.\n2. Programa la máquina para hornear en ciclo rápido con configuración de costra ligera.",
+  "url": null
+}

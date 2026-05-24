@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "irish-spring",
+  "name": "Primavera Irlandesa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "étnicas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 onza líquida de whisky irlandés",
+    "1 onza líquida de jugo de naranja",
+    "0,5 onzas líquidas de brandy de durazno",
+    "1 onza líquida de mezcla dulce y ácida"
+  ],
+  "recipeInstructions": "1. Llenar un vaso Collins con hielo triturado.\n2. Añadir los ingredientes al vaso.\n3. Remover suavemente hasta que estén bien combinados.\n4. Decorar con una cereza y una rodaja de naranja.",
+  "url": null
+}

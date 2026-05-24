@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "campbell-soup-french-onion-soup",
+  "name": "Sopa de cebolla francesa de Campbell",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "aperitivos",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 lata de sopa de cebolla condensada",
+    "1 lata de agua",
+    "3 rebanadas finas de pan francés",
+    "3/4 taza de queso suizo rallado"
+  ],
+  "recipeInstructions": "1. En una cacerola, combina la sopa de cebolla condensada y el agua. Calienta hasta que esté caliente.\n2. Coloca una rebanada de pan francés en cada cuenco individual.\n3. Cubre con queso suizo rallado.\n4. Vierte la sopa caliente sobre el pan.\n5. Grilla hasta que el queso se derrita y dore.",
+  "url": null
+}

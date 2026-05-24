@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "jerky-recipe",
+  "name": "Receta de jerky",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "carne de res",
+    "tentempié"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de salsa de Worcestershire",
+    "1/4 taza de salsa de soja",
+    "1 cucharada de especias Jerk del Caribe",
+    "1/2 cucharadita de polvo de ajo",
+    "1/2 cucharadita de pimienta negra molida",
+    "1/2 cucharadita de pimiento rojo en polvo"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Colocar las tiras de carne en una bolsa grande de plástico con cierre y verter la marinada sobre ellas. Cerrar la bolsa y refrigerar durante 12 a 24 horas.\n3. Después de marinar, retirar la carne de la bolsa y secar con papel de cocina.\n4. Deshidratar la carne según el método preferido (por ejemplo, deshidratador de horno).\n5. Ajustar la cantidad de pimiento rojo si su familia prefiere menos picante.",
+  "url": null
+}

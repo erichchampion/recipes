@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-with-peppers",
+  "name": "Pasta con Pimientos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "aperitivos",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 lb de Rigatoni",
+    "6 tomates medianos, cortados en rodajas finas",
+    "2 pimientos dulces rojos o amarillos, sin semillas - cortados en tiras finas",
+    "1/2 taza de albahaca fresca, picada - O 1 cucharadita de orégano seco",
+    "3 dientes de ajo, finamente picados",
+    "1/4 taza de aceite de oliva, o según sea necesario",
+    "Sal y pimienta al gusto",
+    "1 rebanada de parmesano o romano"
+  ],
+  "recipeInstructions": "1. En un bol grande, combina los tomates, pimientos, albahaca (fresca o seca), ajo, aceite de oliva, sal y pimienta.\n2. Hierve el rigatoni en agua con sal hasta que esté al dente. Escurre bien.\n3. Mezcla la pasta cocida con un poco de aceite de oliva para evitar que se pegue.\n4. Añade la mezcla de tomate y espolvorea queso parmesano o romano rallado al gusto. Mezcla suavemente hasta combinar.\n5. Sirve caliente, adornado con albahaca fresca si lo deseas.",
+  "url": null
+}

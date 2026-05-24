@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "faux-sourdough-bread",
+  "name": "Faux Sourdough Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 package Active Dry Yeast",
+    "2.5 cups Bread Flour",
+    "1 tbsp Dark Molasses",
+    "1 cup Sour Cream",
+    "1 tsp Salt",
+    "1 tsp Lemon Juice",
+    "4 tbsp Warm Water"
+  ],
+  "recipeInstructions": "1. Ensure all ingredients are at room temperature before starting.\n2. Add the dry ingredients (yeast, flour, salt) to the bowl first.\n3. Pour in the liquid ingredients (molasses, sour cream, water, lemon juice).\n4. Mix until a dough forms.\n5. Select \"White Bread\" setting on your bread maker.\n6. Press \"Start\" to begin baking.\n7. The machine will yield 1 loaf of bread.",
+  "url": null
+}

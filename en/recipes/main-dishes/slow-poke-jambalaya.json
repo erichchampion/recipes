@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "slow-poke-jambalaya",
+  "name": "Slow-Poke Jambalaya",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "diabetic",
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "1 Bell pepper, chopped",
+    "1 Onion, chopped",
+    "2 Medium tomatoes, chopped",
+    "1 cup Chopped celery",
+    "1 Clove garlic, crushed",
+    "2 tablespoons Minced parsley",
+    "2 teaspoons Chopped thyme leaves",
+    "2 teaspoons Oregano leaves, chopped",
+    "1/8 teaspoon Cayenne",
+    "1/2 teaspoon Salt",
+    "4 ounces Smoked sausage, chopped",
+    "8 ounces Chicken breast, chopped",
+    "2 cups Beef broth or bouillon",
+    "1/2 pound Cooked shelled shrimp",
+    "1 cup Cooked rice"
+  ],
+  "recipeInstructions": "1. Shell the shrimp and halve them lengthwise.\n2. In a slow cooker, combine all ingredients except shrimp and rice. Cover and cook on low for 9-10 hours.\n3. Turn off the slow cooker, then add the cooked shrimp and cooked rice. Cover and cook on high for 20-30 minutes.",
+  "url": null
+}

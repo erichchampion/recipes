@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "minestrone-pasta",
+  "name": "Pasta con minestrone",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "frijoles",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "3 tazas de conchas de pasta cruda (7-1/2 onzas)",
+    "2/3 taza de aderezo para ensalada italiana bajo en calorías",
+    "1/2 taza de queso parmesano rallado",
+    "2 zanahorias medianas, cortadas (1 taza)",
+    "1 pimiento verde mediano, picado (1 taza)",
+    "1 lata de frijoles rojos, enjuagados y escurridos (15 a 16 onzas)",
+    "1 lata de garbanzos, enjuagados y escurridos (15 a 16 onzas)",
+    "1 lata de tomates italianos estofados o picados, escurridos (14-1/2 onzas)"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta según las instrucciones del paquete.\n2. Escurrir la pasta y mezclar con los ingredientes restantes. Servir caliente o fría.",
+  "url": null
+}

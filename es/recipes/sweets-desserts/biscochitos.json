@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "biscochitos",
+  "name": "Biscuititos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "1 taza de mantequilla ablandada",
+    "3 cucharadas de jerez dulce",
+    "1 huevo",
+    "3 tazas de harina de uso común",
+    "2 cucharaditas de polvo de hornear",
+    "2 cucharaditas de semillas de anís molidas",
+    "1/4 cucharadita de sal",
+    "1/4 taza de azúcar",
+    "1 cucharadita de canela en polvo"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 grados.\n2. Mezclar 1 taza de azúcar, mantequilla, jerez y huevo en un bol grande.\n3. Incorporar 3 tazas de harina, polvo de hornear, anís y sal hasta obtener una masa bien combinada.\n4. Dividir la masa en dos mitades.\n5. Estirar cada mitad en una lámina de 1/4 de pulgada de grosor sobre una superficie ligeramente enharinada.\n6. Cortar las galletas con cortapastas.\n7. Colocar las galletas sobre una bandeja para hornear sin engrasar.\n8. Mezclar 1/4 taza de azúcar y canela.\n9. Espolvorear la mezcla sobre las galletas.\n10. Hornear hasta que estén doradas.",
+  "url": null
+}

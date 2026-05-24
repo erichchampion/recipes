@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-potato-soup",
+  "name": "Sopa de Patatas con Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "queso/huevos",
+    "microondas",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1/2 barra de mantequilla",
+    "1/4 taza de cebolla",
+    "1/4 taza de harina",
+    "2 tazas de leche",
+    "1/2 barra de mantequilla",
+    "1 tarro pequeño de queso Philadelphia",
+    "2 tazas de puré de patatas",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Sofreír 1/2 barra de mantequilla con la cebolla hasta que esté a su gusto.\n2. Espolvorear harina para espesar.\n3. Añadir leche, 1/2 barra de mantequilla, queso, puré de patatas, sal y pimienta.\n4. Calentar hasta que el queso se derrita, removiendo constantemente para evitar quemarlo.",
+  "url": null
+}

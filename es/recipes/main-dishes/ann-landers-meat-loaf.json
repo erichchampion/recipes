@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "ann-landers-meat-loaf",
+  "name": "Relleno de carne de Ann Landers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "carne molida",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne molida",
+    "2 huevos",
+    "1 1/2 tazas de migas de pan",
+    "3/4 taza de ketchup",
+    "1/2 taza de agua tibia",
+    "1 sobre de mezcla de sopa de cebolla seca",
+    "2 rebanadas de tocino (opcional)",
+    "8 onzas de salsa de tomate"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el tocino y la salsa de tomate.\n2. Colocar la mezcla en un molde para pan de 9x5 pulgadas.\n3. Cubrir con 2 tiras de tocino.\n4. Verter la salsa de tomate sobre la carne.\n5. Hornear durante 1 hora y 15 minutos a 175 °C.",
+  "url": null
+}

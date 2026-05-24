@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-spicy-pork",
+  "name": "Chili picante de cerdo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "cerdo",
+    "sopas",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne de cerdo molida",
+    "2 cebollas grandes, picadas",
+    "40 ml de ajo, picado finamente",
+    "1 pimiento rojo dulce, picado",
+    "1 pimiento verde, picado",
+    "1 rama de apio, picada",
+    "2 latas de tomates en cubos con jugo",
+    "1 lata de tomates triturados (400 g)",
+    "1 lata de frijoles rojos, escurridos y enjuagados (400 g)",
+    "6 oz. de pasta de tomate",
+    "3/4 taza de agua",
+    "2 cucharaditas de azúcar moreno",
+    "1 cucharadita de orégano seco",
+    "1 cucharadita de polvo de chile",
+    "1/4 cucharadita de pimentón rojo en hojuelas",
+    "1/4 cucharadita de pimienta cayena"
+  ],
+  "recipeInstructions": "1. En una olla holandesa, dora la carne de cerdo y las cebollas hasta que la carne ya no sea rosada. Escurre el exceso de grasa.\n2. Añade el ajo, los pimientos y el apio. Cocina durante 5 minutos, removiendo ocasionalmente.\n3. Incorpora todos los demás ingredientes y lleva a ebullición.\n4. Reduce el fuego, tapa la olla y deja cocinar a fuego lento durante 45 minutos.",
+  "url": null
+}

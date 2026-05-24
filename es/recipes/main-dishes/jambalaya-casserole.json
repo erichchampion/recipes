@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "jambalaya-casserole",
+  "name": "Casserola de Jambalaya",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "pasta",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "Macarrones con forma de codillo (200 g)",
+    "Tocino (2 rebanadas), picado",
+    "Cebolla picada (1/2 taza)",
+    "Pimiento verde picado (1/2 taza)",
+    "Ajo picado (1/2 diente)",
+    "Harina (2 cucharadas)",
+    "Tomates enlatados (700 ml)",
+    "Jamón cocido (1/2 libra)",
+    "Gambas limpias y cocidas (1 taza)",
+    "Pan rallado (1/4 taza)",
+    "Queso parmesano rallado (2 cucharadas)",
+    "Mantequilla derretida (2 cucharadas)"
+  ],
+  "recipeInstructions": "1. Dorar el tocino picado en una sartén.\n2. Agregar la cebolla, el pimiento verde y el ajo a la sartén; dorar.\n3. Incorporar la harina y cocinar, removiendo constantemente, hasta que espese.\n4. Añadir los macarrones, el jamón y las gambas a la mezcla.\n5. Verter en un recipiente para hornear engrasado de 1,9 L.\n6. Mezclar el pan rallado, el queso parmesano y la mantequilla derretida. Espolvorear sobre la casserole.\n7. Hornear a 180°C durante unos 30 minutos.",
+  "url": null
+}

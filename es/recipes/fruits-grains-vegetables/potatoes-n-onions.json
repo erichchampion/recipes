@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "potatoes-n-onions",
+  "name": "Patatas y cebollas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "patatas",
+    "guarniciones",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 cebolla, en rodajas",
+    "375 ml de leche",
+    "60 g de mantequilla",
+    "8 patatas cocidas",
+    "4 cebolletas finas",
+    "Pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar la cebolla en la leche durante 5 minutos.\n2. Añadir la mantequilla y las patatas a la mezcla de cebolla, machacando bien.\n3. Incorporar las cebolletas y la pimienta.",
+  "url": null
+}

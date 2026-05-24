@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "tropical-fruit-salad",
+  "name": "Ensalada de frutas tropicales",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frutas",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 mango, cortado por la mitad a lo largo del hueso, pelado y cortado en cubos de 1/2 pulgada",
+    "1 papaya, cortada por la mitad, sin semillas, en wedges, pelada y cortada en cubos de 1/2 pulgada",
+    "1 pera asiática, cortada en cuartos, sin corazón, pelada y cortada en cubos de 1/2 pulgada",
+    "1 kiwi, cortado en cuartos y pelado, cortado en cubos de 1/2 pulgada",
+    "1 cucharadita de azúcar",
+    "1/4 cucharadita de canela molida"
+  ],
+  "recipeInstructions": "1. Mezclar el mango, la papaya, la pera asiática y el kiwi en un bol grande.\n2. Espolvorear con azúcar y canela y mezclar para cubrir.\n3. Dejar a temperatura ambiente hasta servir.",
+  "url": null
+}

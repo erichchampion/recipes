@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "coffee-pot-punch",
+  "name": "Cocido de Cafetera con Punch",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "manzanas",
+    "bebidas",
+    "batido",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 1/2 litros de jugo de arándanos",
+    "2 litros de jugo de manzana",
+    "1/2 taza de azúcar morena, apretadamente compactada",
+    "1/2 cucharadita de sal",
+    "4 palos de canela",
+    "1 1/2 cucharaditas de clavo molido"
+  ],
+  "recipeInstructions": "1. Verter el jugo de arándanos y manzana en una olla a presión de 30 tazas.\n2. Colocar el azúcar morena y las especias en el cesto de la olla a presión.\n3. Devolver el cesto a la olla y comenzar a percolar.\n4. Una vez terminado, servir caliente en tazas.\n5. Sirve para 12 personas con suficiente para segundas rondas.",
+  "url": null
+}

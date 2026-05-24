@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-pudding-2",
+  "name": "Budín de arroz 2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "postres",
+    "budines",
+    "arroz",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz blanco",
+    "6 tazas de leche desnatada",
+    "3/4 taza de azúcar",
+    "una pizca de sal",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto la vainilla en una olla antiadherente.\n2. Calentar hasta justo antes de hervir, removiendo constantemente.\n3. Reducir el fuego, tapar y dejar cocer a fuego lento durante 1 hora, removiendo ocasionalmente.\n4. Cuando alcance la consistencia deseada, retirar del fuego y añadir la vainilla.\n5. Servir en cuencos y dejar enfriar o comer caliente según preferencia.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-and-cheese-ball",
+  "name": "Ham and Cheese Ball",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "cheese",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1 cup Ground ham",
+    "1 tbsp Worcestershire sauce",
+    "8 oz Cream cheese",
+    "1/2 tbsp Lemon juice",
+    "8 oz Shredded cheddar",
+    "Onion powder to taste",
+    "1 tsp Tabasco sauce"
+  ],
+  "recipeInstructions": "1. In a large bowl, combine the ground ham and Worcestershire sauce.\n2. Add the cream cheese, lemon juice, shredded cheddar, onion powder, and Tabasco sauce to the bowl.\n3. Mix all ingredients until well combined.\n4. Form the mixture into a ball shape.\n5. Chill in the refrigerator for at least 1 hour before serving.",
+  "url": null
+}

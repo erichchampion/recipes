@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-bread-3-2",
+  "name": "Pan de pizza #3",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pan",
+    "máquina de pan",
+    "panes",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1/2 cucharadita de levadura",
+    "7 onzas de harina blanca fuerte",
+    "4 onzas de harina marrón fuerte",
+    "1 cucharada de leche en polvo",
+    "1/2 cucharadita de azúcar",
+    "1/2 onza de mantequilla",
+    "2 onzas de pepperoni finamente picado",
+    "2 onzas de aceitunas rellenas finamente picadas",
+    "1/2 cucharadita de sal",
+    "1 cucharada de orégano seco",
+    "210 ml de agua (aproximadamente 7 onzas)"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en el pan para hornear según el orden indicado por el fabricante.\n2. Selecciona el ciclo de pan blanco.\n3. Se elabora un pan de 450 gramos.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "spanish-bakes-rice",
+  "name": "Arroz al horno español",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "mexicano",
+    "arroz",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 tazas de arroz de grano largo",
+    "1/4 taza de manteca vegetal",
+    "1/4 taza de cebolla picada",
+    "1 cucharadita de semillas de comino (comino)",
+    "1/2 taza de tomate picado",
+    "1 cucharadita de caldo de pollo granulado",
+    "1/2 cucharadita de sal (o al gusto)",
+    "3 tazas de agua"
+  ],
+  "recipeInstructions": "Precalentar el horno a 180 °C. Calentar la manteca en una sartén pesada a fuego medio. Añadir el arroz y cocinar, removiendo con frecuencia, durante 3-4 minutos o hasta que el arroz empiece a dorarse. Incorporar la cebolla y saltear durante 2 minutos o hasta que la cebolla se ablande. Agregar el comino, el tomate, el caldo de pollo, la sal y el agua. Mezclar bien para disolver el caldo de pollo. Llevar a ebullición y verter en un recipiente para hornear de 2 cuartos. Cubrir herméticamente y hornear durante 1 hora.",
+  "url": null
+}

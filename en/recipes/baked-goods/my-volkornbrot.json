@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-volkornbrot",
+  "name": "My Volkornbrot",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "3 cups 5 or 7 grain cereal",
+    "1 cup Whole wheat flour",
+    "2 tsp Baking soda",
+    "1 tsp Salt",
+    "1/2 cup Molasses",
+    "3 cups Hot water"
+  ],
+  "recipeInstructions": "1. Combine the dry ingredients in a large bowl.\n2. Stir in the molasses and hot water into the dry ingredients until well mixed.\n3. Let the mixture stand overnight.\n4. Turn the mixture into a small loaf pan, ensuring it is evenly distributed.\n5. Cover the pan tightly with aluminum foil.\n6. Bake at 275°F for 3 hours.\n7. Allow the bread to cool in the pan before removing it.\n8. Wrap the cooled bread and store it in the refrigerator. It will keep for up to 2 weeks, although freezing is not recommended.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-cookies",
+  "name": "Galletas de chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de azúcar",
+    "1/4 taza de margarina",
+    "1/4 taza de cacao en polvo",
+    "1/4 taza de leche"
+  ],
+  "recipeInstructions": "1. En una cacerola, llevar a ebullición el azúcar, la margarina, el cacao y la leche.\n2. Hervir durante 2 minutos exactamente, luego retirar del fuego.\n3. Añadir 1 cucharadita de extracto de vainilla.\n4. En un bol, mezclar 2 1/2 tazas de avena y 1/2 taza de coco rallado.\n5. Verter la mezcla hirviendo sobre la mezcla de avena y coco, y mezclar bien.\n6. Presionar en un molde rectangular de 8x8 cm o formar bolitas con una cucharadita y colocarlas sobre papel para hornear.\n7. Refrigerar hasta que estén firmes.",
+  "url": null
+}

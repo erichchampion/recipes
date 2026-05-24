@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-milk-2",
+  "name": "Leche de Plátano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "lácteos",
+    "frutas",
+    "mcdougall",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 plátano; pelado y cortado en rodajas",
+    "1 taza de agua",
+    "1/2 cucharadita de extracto de vainilla (opcional)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una licuadora.\n2. Procesar hasta obtener una textura suave.",
+  "url": null
+}

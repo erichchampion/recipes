@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-blossom",
+  "name": "Flor de Naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 oz de ginebra",
+    "1/2 oz de licor de naranja (Triple sec)",
+    "2 oz de jugo de naranja",
+    "Hielo"
+  ],
+  "recipeInstructions": "1. Llena un vaso mezclador con hielo.\n2. Añade la ginebra, el licor de naranja y el jugo de naranja al vaso mezclador.\n3. Agita bien hasta que esté frío.\n4. Cuela la mezcla en un vaso de cóctel frío.",
+  "url": null
+}

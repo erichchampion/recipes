@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "eggnog-french-toast",
+  "name": "Tostada francesa de eggnog",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "brunch",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 tazas de eggnog preparado",
+    "12 rebanadas de pan duro, gruesas",
+    "8 cucharadas de mantequilla sin sal"
+  ],
+  "recipeInstructions": "1. Verter el eggnog en un bol poco profundo y sumergir cada rebanada de pan en el eggnog, girando para cubrir ambos lados.\n2. Derretir 2 cucharadas de mantequilla en una sartén a fuego medio.\n3. Añadir 2-3 rebanadas de pan a la sartén caliente y freír hasta que se dore por ambos lados.\n4. Repetir con el resto de rebanadas.",
+  "url": null
+}

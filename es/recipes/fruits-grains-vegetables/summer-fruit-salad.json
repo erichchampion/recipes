@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "summer-fruit-salad",
+  "name": "Ensalada de frutas de verano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "fruta",
+    "frutas",
+    "de bajo calorías",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de arroz cocido (a temperatura ambiente)",
+    "1/2 taza de fresas cortadas en cuartos",
+    "1/2 taza de uvas por la mitad",
+    "1/2 taza de rodajas de kiwi cortadas en cuartos",
+    "1/2 taza de trozos de piña",
+    "1/2 taza de rodajas de plátano",
+    "1/4 taza de jugo de piña",
+    "2 cucharadas de yogur natural",
+    "2 cucharadas de miel",
+    "Hojas de lechuga"
+  ],
+  "recipeInstructions": "1. Mezclar el arroz cocido y las frutas en un bol grande.\n2. En un bol pequeño, batir el jugo de piña, el yogur natural y la miel.\n3. Verter la mezcla sobre la combinación de arroz y frutas.\n4. Revolver suavemente para distribuir uniformemente el aderezo.\n5. Servir sobre hojas de lechuga.",
+  "url": null
+}

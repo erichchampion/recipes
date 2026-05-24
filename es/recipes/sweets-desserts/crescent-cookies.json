@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "crescent-cookies",
+  "name": "Galletas Crescentes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres",
+    "festividades"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla",
+    "1/4 taza de azúcar",
+    "1/4 cucharadita de sal",
+    "1 cucharada de extracto de vainilla",
+    "1 taza de harina",
+    "1/4 taza de nueces molidas",
+    "Azúcar glas (para espolvorear)"
+  ],
+  "recipeInstructions": "1. Batir la mantequilla, el azúcar, la sal y el extracto de vainilla hasta obtener una mezcla cremosa.\n2. Agregar la harina y las nueces molidas a la mezcla. Refrigerar durante la noche.\n3. Precalentar el horno a 175 °C (350 °F).\n4. Formar bolas de masa del tamaño de una cucharadita y darles forma de media luna.\n5. Hornear durante 12-15 minutos o hasta que estén doradas.\n6. Espolvorear con azúcar glas antes de dejar enfriar.",
+  "url": null
+}

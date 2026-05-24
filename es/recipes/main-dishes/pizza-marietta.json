@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-marietta",
+  "name": "Pizza Marietta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carnes",
+    "pizza",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "12 pulgadas o 4 capas Boboli de 6 pulgadas",
+    "1/2 taza de salsa de pizza o tomate",
+    "1 taza de mozzarella rallada",
+    "4 salchichas italianas, cocidas y en rodajas",
+    "1 taza de pimiento verde, en tiras finas",
+    "8 rodajas de cebolla roja, separadas y en rodajas finas"
+  ],
+  "recipeInstructions": "1. Extender la salsa sobre la capa Boboli.\n2. Espolvorear con queso.\n3. Disponer el resto de los ingredientes encima.\n4. Hornear a 450°F durante 10-12 minutos.",
+  "url": null
+}

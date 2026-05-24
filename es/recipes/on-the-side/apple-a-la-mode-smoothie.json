@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-a-la-mode-smoothie",
+  "name": "Batido de Manzana a la Moda",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de yogur helado sin grasa de vainilla",
+    "3/4 taza de puré de manzana sin endulzar",
+    "1/4 taza de jugo de manzana frío",
+    "1 taza de manzana, picada y congelada",
+    "1/2 cucharadita de canela en polvo",
+    "1/4 cucharadita de nuez moscada molida"
+  ],
+  "recipeInstructions": "1. Mezclar el yogur helado, el puré de manzana y el jugo de manzana en una licuadora.\n2. Agregar la manzana picada, la canela y la nuez moscada.\n3. Licuar hasta obtener una consistencia suave.",
+  "url": null
+}

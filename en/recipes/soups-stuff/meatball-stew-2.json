@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "meatball-stew-2",
+  "name": "Meatball Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "beef",
+    "ground beef",
+    "soups",
+    "soups/stews",
+    "stews",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "2 Recipe Of Basic Meatballs",
+    "4 Carrots, medium, diced",
+    "2 Celery Stalks, diced",
+    "3 Potatoes, medium, diced",
+    "16 Ounces Stewed Tomatoes",
+    "1 Cup Water",
+    "Salt to taste",
+    "1/8 Teaspoon Pepper",
+    "1 Bay Leaf"
+  ],
+  "recipeInstructions": "1. Prepare the basic meatballs as described in Recipe 12, but cook them in a Dutch oven. Drain any excess fat.\n2. Add the remaining ingredients to the pot and bring the mixture to a boil.\n3. Reduce heat, cover, and simmer, stirring occasionally, until all vegetables are tender (about 40 minutes).\n4. Remove the bay leaf before serving.\nNOTE: Frozen stew vegetables can be substituted for the carrots, celery, and potatoes.",
+  "url": null
+}

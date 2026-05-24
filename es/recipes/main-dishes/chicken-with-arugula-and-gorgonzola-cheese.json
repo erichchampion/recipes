@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-with-arugula-and-gorgonzola-cheese",
+  "name": "Pollo con rúcula y queso gorgonzola",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo sin piel",
+    "5 cucharadas de zumo de limón",
+    "3 cucharadas de salsa de soja ligera",
+    "2 cucharadas de vinagre balsámico",
+    "2 cucharadas de albahaca seca",
+    "2 dientes de ajo picados",
+    "1/8 cucharadita de pimienta negra",
+    "16 hojas de rúcula"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el queso en un bol.\n2. Marinar durante la noche.\n3. Asar el pollo por un lado durante 4 minutos.\n4. Darle la vuelta y añadir queso desmenuzado.\n5. Continuar cocinando hasta que el queso se derrita y el pollo esté bien hecho.\n6. Servir sobre una cama de rúcula.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "blueberry-pound-cake",
+  "name": "Pastel de pound con arándanos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pastel",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de crema agria sin grasa",
+    "1/2 taza de arándanos",
+    "4 claras de huevo batidas",
+    "1 cucharadita de vainilla",
+    "1 1/2 tazas de harina blanqueada",
+    "1 taza de azúcar granulada",
+    "1 cucharadita de polvo de hornear",
+    "1/8 cucharadita de bicarbonato de sodio"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 325 °F (160 °C).\n2. Preparar un molde rectangular antiadherente de 9 x 5 x 3 pulgadas con spray para cocinar y harina; reservar.\n3. En un bol, mezclar la crema agria, los arándanos, las claras batidas y la vainilla.\n4. En otro bol, combinar la harina, el azúcar, el polvo de hornear y el bicarbonato de sodio.\n5. Mezclar los ingredientes secos con los húmedos hasta que estén apenas húmedos.\n6. Verter la mezcla en el molde preparado.\n7. Hornear durante 1 hora o hasta que un palillo insertado en el centro de la tarta salga limpio.",
+  "url": null
+}

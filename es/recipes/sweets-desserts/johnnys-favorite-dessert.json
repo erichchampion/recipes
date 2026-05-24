@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "johnnys-favorite-dessert",
+  "name": "Postre favorito de Johnny",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres refrigerados",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "Base:",
+    "1 barra de mantequilla",
+    "3/4 taza de nueces molidas finamente",
+    "1 taza de harina",
+    "3/4 taza de azúcar moreno",
+    "Relleno:",
+    "1 caja pequeña de gelatina de limón",
+    "1/2 litro de nata para montar, montada",
+    "8 onzas de queso crema, ablandado",
+    "1/2 taza de azúcar",
+    "1 taza de agua hirviendo",
+    "Cobertura:",
+    "1 caja grande de gelatina en polvo de fresa",
+    "3 tazas de agua hirviendo"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes de la base en un bol y presionar en un molde rectangular de vidrio de 13x9 pulgadas. Hornear a 175°C durante 20 minutos. Enfriar completamente.\n2. Batir juntos el queso crema y el azúcar hasta obtener una textura suave. Reservar.\n3. Montar la nata hasta que formen picos firmes. Reservar.\n4. Disolver la gelatina de limón en agua hirviendo y dejar enfriar ligeramente.\n5. Añadir la nata montada a la mezcla de gelatina y remover hasta integrar.\n6. Verter esta mezcla de relleno sobre la base, extendiéndola uniformemente con una cuchara para evitar crear un hueco en el centro.\n7. Refrigerar durante al menos 2 horas, o hasta que esté completamente firme.\n8. En un bol aparte, mezclar la gelatina en polvo de fresa con agua hirviendo y dejar enfriar hasta su uso.\n9. Una vez que el relleno esté frío, verter la mezcla de gelatina sobre él y extender uniformemente.\n10. Refrigerar hasta que la cobertura esté completamente firme.\n11. Cortar en cuadrados y servir frío. Guardar en la nevera.",
+  "url": null
+}

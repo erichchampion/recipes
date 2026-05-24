@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "california-pizza",
+  "name": "Pizza de California",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "queso",
+    "plato principal",
+    "pizza",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 taza de queso Cheddar rallado",
+    "1 taza de aceitunas maduras, en rodajas",
+    "1 masa Boboli de 12 pulgadas o 4 x 6 pulgadas",
+    "1 aguacate, pelado y en rodajas",
+    "1 taza de brotes de alfalfa",
+    "1/2 taza de crema agria",
+    "4 rebanadas de tocino cocido y desmenuzado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 450 °F (232 °C).\n2. Colocar una masa en una bandeja para hornear.\n3. Espolvorear queso y aceitunas sobre la masa.\n4. Hornear a 450 °F durante 10 minutos.\n5. Cubrir con aguacate y brotes de alfalfa.\n6. Decorar con crema agria y tocino desmenuzado.",
+  "url": null
+}

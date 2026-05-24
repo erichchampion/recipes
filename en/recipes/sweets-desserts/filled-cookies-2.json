@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "filled-cookies-2",
+  "name": "Filled Cookies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 cup Lard",
+    "3 Eggs",
+    "1 tsp Baking soda",
+    "2 cups Brown sugar",
+    "4 cups Flour",
+    "2 tbsp Water - cold",
+    "----filling----",
+    "1 cup Raisins",
+    "1 cup Sugar",
+    "1 cup Water",
+    "1 tbsp Flour"
+  ],
+  "recipeInstructions": "Filling: Boil and cool. Put between cookies before baking.\nNote: Combine ingredients for dough while filling is cooling. Roll out, cut, spread with filling. Bake in moderate 350°F oven.",
+  "url": null
+}

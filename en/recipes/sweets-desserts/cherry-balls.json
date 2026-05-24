@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cherry-balls",
+  "name": "Cherry Balls",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "3/4 cup Soft butter",
+    "3/4 cup Icing sugar",
+    "3/4 cup Fine coconut",
+    "3/4 cup Cream",
+    "1 tsp Vanilla",
+    "1 tsp Almond flavoring"
+  ],
+  "recipeInstructions": "1. Mix all ingredients together to form a stiff paste.\n2. Drain cherries well and roll the paste around each cherry.\n3. Roll the coated cherries in crushed graham cracker crumbs until evenly coated.\nNote: The recipe calls for 1/2 cup of soft butter, but it has been normalized to 3/4 cup for better consistency with the other ingredients.",
+  "url": null
+}

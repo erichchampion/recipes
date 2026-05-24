@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-banana-smoothie",
+  "name": "Batido de Fresa y Plátano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 taza de fresas congeladas",
+    "1 taza de cubos de plátano congelado",
+    "1 taza de jugo de piña, o más según sea necesario",
+    "2 cucharadas de crema de coco",
+    "Un chorrito de granadina"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una licuadora.\n2. Licuar hasta obtener una consistencia suave.\n3. Si la mezcla está muy espesa, agregar más jugo de piña gradualmente hasta alcanzar la textura deseada.\n4. Servir inmediatamente y decorar con fresas maduras.",
+  "url": null
+}

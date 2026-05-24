@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "muesli",
+  "name": "Muesli",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "cereals",
+    "main dish",
+    "nuts"
+  ],
+  "recipeIngredient": [
+    "1 lb Rolled oats",
+    "1 lb Barley flakes",
+    "4 oz Mixed nuts, chopped",
+    "4 oz Dried fruits, chopped"
+  ],
+  "recipeInstructions": "1. Place the rolled oats into a bowl.\n2. Stir in the remaining ingredients until evenly mixed.\n3. Store in an airtight container.\n4. Serve with soymilk and sweeten with maple syrup or brown sugar if desired.\n5. Garnish with slices of fresh fruit in season.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "fresh-fruit-dip",
+  "name": "Dip de frutas frescas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "salsas",
+    "aderezos",
+    "acompañamientos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "8 onzas de queso crema sin grasa",
+    "12 onzas de malvavisco suave"
+  ],
+  "recipeInstructions": "1. En un bol, bate el queso crema y el malvavisco hasta obtener una mezcla suave.\n2. Sirve con rebanadas de manzana, melocotón, naranja, pera u otras frutas de tu elección.",
+  "url": null
+}

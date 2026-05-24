@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "high-roller-sandwiches",
+  "name": "Sándwiches High Roller",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 bolsa de tortillas de harina",
+    "1 barra grande de crema de queso ablandada",
+    "Carne asada en rodajas finas",
+    "Jamón en rodajas finas",
+    "Pavo en rodajas finas",
+    "Queso Colby-Jack en rodajas finas",
+    "Lechuga en tiras finas",
+    "Polvo de ajo",
+    "Tomates en rodajas muy finas"
+  ],
+  "recipeInstructions": "1. Utiliza la parte posterior de una espátula para extender una capa fina de crema de queso sobre cada tortilla.\n2. Espolvorea ligeramente con polvo de ajo.\n3. Usa la mitad de una tortilla para colocar carne asada, jamón, pavo, queso Colby-Jack, lechuga y rodajas de tomate.\n4. Enrolla firmemente la tortilla con el lado de crema de queso sellado al final.\n5. Corta en trozos de 1 pulgada.\n6. Sirve 8-10 sándwiches.",
+  "url": null
+}

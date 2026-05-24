@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "huevos-less-rancheros",
+  "name": "Huevos menos rancheros",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "OMELET:",
+    "1 lb de tofu chino firme",
+    "1 taza de leche de soja",
+    "1/4 cucharadita de sal",
+    "1 cebolla verde picada finamente",
+    "SAUCE RANCHERO:",
+    "1 cucharada de aceite vegetal",
+    "2 dientes de ajo picados",
+    "2 cebollas picadas",
+    "1 pimiento verde, sin semillas y picado",
+    "4 champiñones grandes, cortados por la mitad y en rodajas",
+    "2 tomates grandes, sin semillas y picados",
+    "1/4 cucharadita de comino molido",
+    "2 cucharaditas de polvo de chile",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 400°F (200°C). Escurrir y desmenuzar el tofu. Colocar el tofu, la leche de soja y la sal en una licuadora y mezclar hasta obtener una textura suave. Incorporar la cebolla verde. Engrasar ligeramente dos moldes para tartas de 9 pulgadas (preferiblemente de vidrio). Dividir la mezcla de omelet entre los moldes, alisando la superficie con un espátula, y hornear durante unos 35 minutos. Los bordes deben dorarse y el tofu tener la textura de un omelet.\n2. Calentar el aceite en una sartén grande. Agregar todos los ingredientes y cocinar a fuego medio con tapa durante 5 minutos. Retirar la tapa y cocinar por otros 5 minutos.\n3. Colocar la mitad del omelet sobre cada plato y cubrir con la salsa ranchero.",
+  "url": null
+}

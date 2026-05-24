@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "plain-old-pound-cake",
+  "name": "Plain Old Pound Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 lb Butter (not margarine)",
+    "8 medium Eggs",
+    "2 2/3 cups Sugar",
+    "1 tsp Vanilla Extract",
+    "3 1/2 cups Flour (sifted)",
+    "1 tsp Butter Flavoring"
+  ],
+  "recipeInstructions": "1. Cream the butter and sugar until smooth.\n2. Beat in two eggs at a time, then turn mixer to low speed.\n3. Add one cup of flour at a time, alternating with vanilla extract and butter flavoring.\n4. Bake for 1 hour and 25 minutes at 300 degrees Fahrenheit.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "filled-omelet",
+  "name": "Filled Omelet",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "cheese",
+    "eggs",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "3 Eggs",
+    "1 tablespoon Butter",
+    "4 Bacon slices, crumbled",
+    "1/4 cup Cheddar cheese, shredded",
+    "2 tablespoons Sour cream",
+    "1 tablespoon Chives, snipped"
+  ],
+  "recipeInstructions": "1. Mix the eggs slightly.\n2. Combine the eggs with bacon, cheese, sour cream, and chives.\n3. Cook the mixture as you would for a French omelet.",
+  "url": null
+}

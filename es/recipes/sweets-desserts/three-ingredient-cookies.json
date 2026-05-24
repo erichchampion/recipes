@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "three-ingredient-cookies",
+  "name": "Galletas de tres ingredientes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "4 tazas de Wheaties &/o Rice Crispies",
+    "12 onzas de Chips de Chocolate Semisumar",
+    "4 cucharadas de Manteca de Maní, generosa"
+  ],
+  "recipeInstructions": "1. Derrite el chocolate y la manteca de maní en un baño maría hasta que el chocolate esté completamente derretido.\n2. Mezcla bien el chocolate derretido con la manteca de maní y los cereales.\n3. Coge porciones de la mezcla de galletas y colócalas sobre una bandeja para hornear forrada con papel de horno.\n4. Coloca las bandejas en el congelador hasta que el chocolate se endurezca y se seque.",
+  "url": null
+}

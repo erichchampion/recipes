@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "ro-tel-salsa",
+  "name": "Salsa Ro-Tel",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "salsas y aderezos",
+    "platos secundarios",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "1 lata de tomates Ro-Tel con chiles",
+    "2 cebollas verdes; picadas finamente",
+    "1 diente de ajo; picado",
+    "1 tomate grande; picado",
+    "1/2 limón; solo el jugo",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Ajustar la sazón al gusto, añadiendo más chiles jalapeños para un sabor más picante si se prefiere.\n3. Servir inmediatamente o refrigerar hasta el momento de servir.",
+  "url": null
+}

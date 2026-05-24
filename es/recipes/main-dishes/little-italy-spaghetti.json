@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "little-italy-spaghetti",
+  "name": "Espaguetis de Pequeña Italia",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "3 oz cebolla picada",
+    "1 1/2 cucharadas aceite de oliva",
+    "1/2 cucharadita ajo picado",
+    "1/4 cucharadita albahaca",
+    "1/4 cucharadita orégano",
+    "1/2 cucharadita sal",
+    "6 oz tomate finamente picado",
+    "3 oz setas finamente picadas",
+    "3 oz pimiento verde picado",
+    "2 oz pasta de tomate",
+    "6 oz espaguetis cocidos"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una sartén a fuego medio.\n2. Añadir la cebolla y cocinar hasta que sea transparente.\n3. Incorporar el ajo, la albahaca, el orégano y la sal.\n4. Agregar los vegetales (tomates, setas, pimiento verde) y la pasta de tomate.\n5. Cocinar tapado durante 15 minutos, removiendo ocasionalmente.\n6. Añadir los espaguetis cocidos a la sartén y mezclar bien.\n7. Servir caliente.",
+  "url": null
+}

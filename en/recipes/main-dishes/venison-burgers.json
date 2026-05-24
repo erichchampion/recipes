@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "venison-burgers",
+  "name": "Venison Burgers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "game",
+    "main dish",
+    "venison"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground venison",
+    "3 oz Pork fat back, ground",
+    "Salt",
+    "Freshly ground pepper"
+  ],
+  "recipeInstructions": "Because venison has so little fat, you'll need to add some for a juicy burger. But don't use deer fat - it tastes bad.\nMix venison, pork, salt and pepper, handling as little as possible.\nHeat grill. Brush burgers with vegetable oil and grill about 4 minutes; turn and cook to desired doneness.\nServe on rolls with your choice of condiments.",
+  "url": null
+}

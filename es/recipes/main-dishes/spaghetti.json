@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti",
+  "name": "Spaghettis",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 lb espaguetis de trigo integral crudos",
+    "6 tomates grandes picados",
+    "10 cebollas medianas picadas",
+    "1 taza de perejil fresco picado (sin tallos)",
+    "1 pimiento rojo jalapeño picado",
+    "3-4 dientes de ajo",
+    "1 lata pequeña de aceitunas negras picadas (opcional)",
+    "1/2 - 1 cucharadita de pimienta negra (al gusto)",
+    "1 cucharadita de salvia (o más al gusto)",
+    "1 cucharada de albahaca (o más al gusto)",
+    "1 cucharada de orégano (o más al gusto)"
+  ],
+  "recipeInstructions": "1. En una olla grande, machaca y sofríe el ajo en 1/2 taza de agua hasta que se vuelva transparente.\n2. Añade las cebollas picadas y los ingredientes restantes a la olla.\n3. Cocina a fuego medio, removiendo con frecuencia al principio, hasta que la mezcla comience a espesarse.\n4. Reduce el fuego a bajo. Si la salsa está demasiado líquida, deja la tapa abierta; si es demasiado espesa, añade un poco de agua (una pequeña cantidad basta).\n5. Deja que la salsa se cocine a fuego lento durante 45 minutos o más para espesarla según sea necesario.\n6. Cocina los espaguetis en agua hirviendo durante unos 15 minutos una vez que hayan alcanzado el punto deseado de ternura.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-hot-dish",
+  "name": "Plato caliente de hamburguesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1 taza de apio picado",
+    "1/2 taza de queso americano picado",
+    "1/4 taza de aceitunas maduras cortadas en trozos",
+    "2 tazas de fideos sin cocinar",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de sal de cebolla",
+    "3 cucharadas de ketchup o",
+    "1 taza de tomates enlatados"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida.\n2. Agregar el resto de los ingredientes: apio, queso americano, aceitunas, fideos sin cocinar, sal, sal de cebolla, ketchup o tomates enlatados.\n3. Tapar bien y llevar a ebullición.\n4. Reducir el fuego y cocinar a fuego lento durante 30 minutos, removiendo ocasionalmente. Añadir agua si es necesario.",
+  "url": null
+}

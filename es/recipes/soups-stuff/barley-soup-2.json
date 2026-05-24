@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "barley-soup-2",
+  "name": "Sopa de cebada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne molida de res",
+    "3 cuartos de agua caliente",
+    "12 cubos de caldo de carne",
+    "2 tazas de cebolla picada",
+    "3 tazas de zanahorias cortadas en rodajas finas",
+    "1 litro de tomates",
+    "1 taza de cebada"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida y escurrir el exceso de grasa.\n2. Agregar todos los ingredientes restantes a una olla grande.\n3. Llevar a ebullición, luego reducir el fuego y cocinar a fuego lento durante 2 horas hasta que la cebada esté tierna.",
+  "url": null
+}

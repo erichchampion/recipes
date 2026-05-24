@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "three-beans-in-a-salad",
+  "name": "Tres frijoles en ensalada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "diabetico",
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3/5 taza de frijoles pintos cocidos y escurridos",
+    "2 cucharadas de vinagre de arroz natural",
+    "3/5 taza de garbanzos cocidos y escurridos",
+    "1 cucharada de jugo de limón",
+    "1 1/2 tazas de judías verdes cortadas y al vapor",
+    "4 cucharaditas de aceite de oliva",
+    "1/2 taza de apio picado",
+    "1/4 cucharadita de sal",
+    "1/4 taza de cebolla roja picada",
+    "Pimienta molida al gusto",
+    "1/4 taza de pimientos rojos picados",
+    "Hojas de lechuga",
+    "1/4 taza de perejil picado"
+  ],
+  "recipeInstructions": "1. En un bol para ensalada, mezcle todos los ingredientes excepto la lechuga.\n2. Refrigere la mezcla.\n3. Sirva sobre hojas de lechuga.",
+  "url": null
+}

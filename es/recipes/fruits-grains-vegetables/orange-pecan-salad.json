@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-pecan-salad",
+  "name": "Ensalada de Naranja y Nuez Pecana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "desayuno",
+    "californa",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 naranjas, peladas y en rodajas",
+    "1 manojo de lechuga, desmenuzada",
+    "1/4 taza de pecanes, mitad, tostados",
+    "1/2 taza de yogur sin grasa con sabor a durazno",
+    "3 cucharadas de mayonesa baja en grasa"
+  ],
+  "recipeInstructions": "1. Se puede sustituir 1 lata de naranjas mandarinas escurridas por cada 2 naranjas frescas.\n2. Mezcla las naranjas, la lechuga y los pecanes en un bol grande; reserva.\n3. Combina el yogur y la mayonesa y viértelo sobre la ensalada justo antes de servir.",
+  "url": null
+}

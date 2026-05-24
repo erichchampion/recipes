@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "steve-s-muffins",
+  "name": "Muffins de Steve",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "magdalenas",
+    "azúcar",
+    "pan de té y hogazas rápidas"
+  ],
+  "recipeIngredient": [
+    "4 oz de mantequilla derretida",
+    "4 cucharaditas de edulcorante Sweet 'n Low® (marrón)",
+    "6 oz de harina de maíz",
+    "Una pizca de sal",
+    "3 huevos",
+    "14 oz de leche",
+    "4 oz de harina de nueces",
+    "10 oz de harina de uso general",
+    "1 1/2 cucharaditas de polvo de hornear"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes secos: Incorporar la harina y el polvo de hornear a la mantequilla derretida, edulcorante Sweet 'n Low® (marrón), harina de maíz y sal.\n2. Agregar los huevos y la leche a la mezcla seca.\n3. Repartir la masa en un molde para muffins engrasado.\n4. Hornear a 425°F durante 20 minutos o menos.",
+  "url": null
+}

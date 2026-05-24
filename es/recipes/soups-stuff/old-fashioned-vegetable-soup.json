@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "old-fashioned-vegetable-soup",
+  "name": "Sopa de Verduras al Estilo Clásico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "sopas",
+    "sopas/estofados",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 taza de cebolla, picada",
+    "1/4 cucharadita de albahaca seca molida",
+    "1 taza de papa cruda, cortada en cubos",
+    "1/4 cucharadita de tomillo seco molido",
+    "1 taza de zanahoria, rebanada",
+    "1 hoja de laurel",
+    "1/4 cucharadita de pimienta negra",
+    "32 onzas (907 g) de tomates enteros, picados groseramente",
+    "2 cucharadas de caldo de carne instantáneo",
+    "7 onzas (198 g) de maíz enlatado, escurrido",
+    "8 1/2 onzas (240 g) de judías verdes enlatadas, escurridas",
+    "8 1/2 onzas (240 g) de guisantes pequeños enlatados, escurridos y enjuagados"
+  ],
+  "recipeInstructions": "1. Dorar la carne y la cebolla en una sartén.\n2. Escurrir los tomates.\n3. Combinar todos los ingredientes (excepto las verduras enlatadas) en una olla y llevar a ebullición.\n4. Cocinar a fuego lento durante 30 minutos.\n5. Agregar las verduras enlatadas y calentar hasta que estén bien calientes.",
+  "url": null
+}

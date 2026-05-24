@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-muffins",
+  "name": "Muffins de arroz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz cocido frío",
+    "2 huevos, batidos bien",
+    "1/2 cucharadita de sal",
+    "3 cucharaditas de polvo de hornear",
+    "1 taza de leche",
+    "4 cucharadas de manteca derretida",
+    "2 cucharadas de azúcar",
+    "1 1/2 tazas de harina"
+  ],
+  "recipeInstructions": "1. Cernir la harina con el polvo de hornear y la sal, y mezclar.\n2. Combinar en un bol el arroz, la leche, los huevos, la manteca derretida y el azúcar hasta que quede suave.\n3. Incorporar los ingredientes secos a la mezcla húmeda y mezclar hasta combinarlos justo.\n4. Llenar moldes para muffins dos tercios con la masa.\n5. Hornear durante unos 30 minutos a temperatura alta (435°F).\n6. Servir 8 porciones.",
+  "url": null
+}

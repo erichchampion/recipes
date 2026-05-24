@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cake-bread",
+  "name": "Pan de tarta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de levadura",
+    "2/3 taza de mezcla para pastel",
+    "1 2/3 tazas de harina",
+    "1/3 cucharadita de sal",
+    "1 1/3 cucharadas de mantequilla",
+    "3/4 taza de agua"
+  ],
+  "recipeInstructions": "1. Medir todos los ingredientes según lo especificado.\n2. Combinar la levadura, la mezcla para pastel, la harina, la sal, la mantequilla y el agua en un bol grande.\n3. Mezclar hasta que quede bien combinado.\n4. Verter la mezcla en un molde para pan engrasado.\n5. Colocar el molde en el horno precalentado a la temperatura indicada en su libro de cocina.\n6. Hornear durante el tiempo indicado en su libro de cocina.\n7. Retirar del horno y dejar enfriar antes de servir.",
+  "url": null
+}

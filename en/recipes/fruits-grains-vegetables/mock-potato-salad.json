@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-potato-salad",
+  "name": "Mock Potato Salad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "salads"
+  ],
+  "recipeIngredient": [
+    "1 medium rutabaga",
+    "1 pot boiling water",
+    "1/2 packet sugar substitute",
+    "1 tablespoon lemon juice",
+    "1/2 cup scallions, finely chopped",
+    "1 medium dill pickle, chopped",
+    "1 cup celery stalks with leaves, chopped",
+    "1 1/2 teaspoons salt",
+    "dash paprika",
+    "3/4 cup mayonnaise",
+    "4 eggs, hard-boiled, chopped"
+  ],
+  "recipeInstructions": "1. Pare the rutabaga and cut into 4 pieces.\n2. Cook in boiling water until tender, about 30 minutes.\n3. Drain well and cool.\n4. Dice the cooled rutabaga (approximately 2 1/2 cups).\n5. Place diced vegetable in a salad bowl.\n6. Sprinkle with sugar substitute and lemon juice.\n7. Add scallions, pickle, celery, paprika, and mayonnaise.\n8. Toss all well.\n9. Fold in chopped eggs.\n10. Chill well before serving.",
+  "url": null
+}

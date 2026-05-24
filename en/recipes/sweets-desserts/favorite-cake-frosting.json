@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "favorite-cake-frosting",
+  "name": "Favorite Cake Frosting",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "frosting"
+  ],
+  "recipeIngredient": [
+    "1 beaten egg",
+    "1 cup sugar",
+    "3 tbsp milk",
+    "3 tbsp chocolate",
+    "egg-sized butter"
+  ],
+  "recipeInstructions": "1. Beat the egg.\n2. Add sugar, stirring thoroughly.\n3. Mix in milk and chocolate.\n4. Incorporate butter until combined.\n5. Stir until a smooth consistency is reached.\n6. Bring mixture to a boil.\n7. Cook for one minute, stirring continuously.\n8. Remove from heat and beat until desired cake frosting consistency is achieved.\n9. Add 1 teaspoon vanilla extract.",
+  "url": null
+}

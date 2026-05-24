@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-fruit-salad",
+  "name": "Ensalada de Frutas con Limón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frutas",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 sobre de pudín instantáneo de limón",
+    "Azúcar al gusto",
+    "1 lata de trozos de piña",
+    "1 lata de mezcla de frutas (cualquier variedad)",
+    "1/2 taza de coco rallado (opcional)"
+  ],
+  "recipeInstructions": "1. Vacía una lata de fruta en un bol, conservando todo su jugo.\n2. Vierte el pudín sobre la fruta.\n3. Añade la siguiente lata de fruta, pero solo la mitad de su jugo.\n4. Mezcla bien. Si está demasiado espeso, agrega un poco del jugo reservado.\n(Opcional: Incorpora el coco rallado).\n5. Refrigera hasta que esté frío y ¡disfruta!",
+  "url": null
+}

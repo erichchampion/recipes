@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "souper-leftovers",
+  "name": "Sobras de sopa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "sobras",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 taza de carne de pavo ligera sin piel",
+    "1 1/2 tazas de verduras mixtas congeladas, descongeladas",
+    "1/2 taza de cebolla picada",
+    "1/2 taza de pimiento rojo picado",
+    "300 g de sopa de champiñones desnatada",
+    "1 cucharada de leche descremada o más si es necesario",
+    "4 rebanadas de pan blanco tostado"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar el pavo, las verduras, la cebolla y el pimiento rojo.\n2. Añadir la sopa de champiñones y la leche al bol.\n3. Mezclar bien hasta que todos los ingredientes estén distribuidos uniformemente.\n4. Servir caliente sobre rebanadas de pan tostado.",
+  "url": null
+}

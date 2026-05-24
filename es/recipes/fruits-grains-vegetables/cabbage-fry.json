@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cabbage-fry",
+  "name": "Cebolla de col",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "col y verdura",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "repollo picado",
+    "cebolla picada",
+    "pimiento verde picado",
+    "sal",
+    "pimienta"
+  ],
+  "recipeInstructions": "1. Cocinar la carne molida hasta que esté dorada y cocida por completo, apagar el fuego.\n2. Añadir el repollo, la cebolla y el pimiento verde a la sartén.\n3. Continuar cocinando la mezcla hasta que las verduras estén tiernas.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-swiss-steak-5",
+  "name": "Estofado de Bistec Suizo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 solomillo, cortado en porciones para servir",
+    "1 cucharadita de orégano",
+    "1/4 cucharadita de pimentón rojo",
+    "1/4 cucharadita de pimienta negra",
+    "400 gramos de salsa de tomate enlatada",
+    "1 cebolla, cortada en rodajas"
+  ],
+  "recipeInstructions": "1. Harina el carne.\n2. Mezcla los ingredientes restantes (excepto la cebolla) en un bol.\n3. Coloca la carne en la olla de cocción lenta.\n4. Cubre con las rodajas de cebolla.\n5. Vierte la salsa de tomate encima.\n6. Cocina a fuego lento durante 6-8 horas.",
+  "url": null
+}

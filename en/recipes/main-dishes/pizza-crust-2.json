@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-crust-2",
+  "name": "Pizza Crust",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "bread machine",
+    "kids",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "3 cups Flour",
+    "1/4 cup Cornmeal",
+    "1/4 cup Vegetable Oil",
+    "2 tbsp Olive Oil",
+    "1 tsp Salt",
+    "1 package Yeast",
+    "1 cup Water"
+  ],
+  "recipeInstructions": "1. In a large bowl, combine the flour and cornmeal.\n2. Add the vegetable oil, olive oil, salt, yeast, and water to the dry ingredients.\n3. Mix all the ingredients together until a dough forms.\n4. Knead the dough on a floured surface until it is smooth and elastic (about 5-10 minutes).\n5. Place the dough in an oiled bowl, cover with a damp cloth, and let it rise in a warm place for about 1 hour or until doubled in size.",
+  "url": null
+}

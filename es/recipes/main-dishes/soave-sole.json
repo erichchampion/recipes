@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "soave-sole",
+  "name": "Sola suave",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "2 filetes de sole, de 125 g cada uno",
+    "5 setas, picadas",
+    "2 cucharadas de perejil fresco picado",
+    "2 cucharadas de cebolla pequeña picada",
+    "2 cucharadas de tomate pelado y picado",
+    "1/2 taza de Soave o vino blanco seco",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cubra el fondo de una fuente para hornear con la mitad de los tomates picados.\n2. Espolvoree con la mitad de las setas, el perejil y la cebolla picados.\n3. Coloque los filetes de sole encima.\n4. Cubra con el resto de los tomates, setas, cebolla y perejil.\n5. Vierta el Soave sobre la mezcla.\n6. Sazone con sal y pimienta.\n7. Hornee a 180°C durante 30 minutos.",
+  "url": null
+}

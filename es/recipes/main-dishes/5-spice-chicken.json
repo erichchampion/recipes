@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "5-spice-chicken",
+  "name": "Pollo de las 5 especias",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "chino",
+    "a la parrilla",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 taza de vino blanco",
+    "1 taza de salsa teriyaki",
+    "1 cucharadita de mezcla de especias 5 especias chinas",
+    "1 cucharadita de polvo de ajo",
+    "2 libras de trozos de pollo"
+  ],
+  "recipeInstructions": "1. Mezclar los cuatro primeros ingredientes en un bol hasta que estén bien combinados.\n2. Verter la mezcla sobre los trozos de pollo y colocarlos en una sartén grande.\n3. Marinar, girando las piezas cada hora durante tres horas.\n4. Colocar en la parrilla hasta que esté hecho, bañando con la marinada según sea necesario.",
+  "url": null
+}

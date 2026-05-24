@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "southwestern-chicken",
+  "name": "Pollo del suroeste",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave",
+    "rápido"
+  ],
+  "recipeIngredient": [
+    "2 latas de maíz entero (15,25 oz cada una), escurridas",
+    "1 lata de frijoles negros (15 oz), enjuagados y escurridos",
+    "1 tarro de salsa picada (16 oz), dividido",
+    "6 pechugas de pollo sin piel ni hueso",
+    "1 taza de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Mezclar el maíz, los frijoles negros y la mitad de la salsa en una olla de cocción lenta.\n2. Colocar las pechugas de pollo encima; verter la salsa restante sobre el pollo.\n3. Tapar y cocinar a temperatura alta durante 3-4 horas o a temperatura baja durante 7-8 horas, hasta que los jugos de la carne sean claros.\n4. Espolvorear con queso; tapar hasta que se derrita, aproximadamente 5 minutos.",
+  "url": null
+}

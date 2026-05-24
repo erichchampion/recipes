@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "blender-breakfast",
+  "name": "Blender Breakfast",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "beverages",
+    "breakfast",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 ripe banana, peeled and sliced",
+    "1/2 cup milk",
+    "1/2 cup low-fat yogurt",
+    "1 tbsp natural bran",
+    "1 tsp honey, sugar, or maple syrup"
+  ],
+  "recipeInstructions": "1. Combine the banana, milk (or yogurt), honey, and bran in a blender or food processor. Blend until smooth.\n2. Pour the mixture into a tall glass.",
+  "url": null
+}

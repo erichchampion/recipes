@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-chop-suey",
+  "name": "Sencillo Chop Suey",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "asiático",
+    "chino",
+    "étnico",
+    "guarniciones",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 cebolla pequeña, en rodajas",
+    "2 zanahorias, cortadas en juliana",
+    "1 lata de 8 onzas (227 g) de brotes de bambú",
+    "1 lata de 12 onzas (340 g) de chicharros de soja",
+    "1 cucharada de aceite de girasol",
+    "1 diente de ajo pequeño, machacado",
+    "3 cucharadas de salsa de soja"
+  ],
+  "recipeInstructions": "1. Escurrir los brotes de bambú y los chicharros de soja.\n2. Retirar la mayor parte de las vainas verdes de los vegetales.\n3. Calentar el aceite de girasol en un wok.\n4. Machacar el ajo en el aceite caliente.\n5. Añadir la cebolla y las zanahorias al wok. Saltear durante unos minutos, o hasta que la cebolla se haya ablandado ligeramente.\n6. Incorporar los brotes de bambú y cocinar durante un minuto adicional.\n7. Agregar los chicharros de soja y seguir cocinando durante otro minuto.\n8. Mezclar la salsa de soja.\n9. Servir inmediatamente.",
+  "url": null
+}

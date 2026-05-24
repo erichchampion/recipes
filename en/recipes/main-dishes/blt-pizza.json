@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "blt-pizza",
+  "name": "BLT Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "1 Italian (12\" bread shell)",
+    "1/3 Cup KRAFT Mayo Real Mayonnaise",
+    "4 plum tomatoes, sliced",
+    "1/2 Cup KRAFT Shredded Whole Milk Mozzarella",
+    "8 slices of OSCAR MAYER Bacon, cut into 1/4s cooked",
+    "1 cup torn Romaine lettuce"
+  ],
+  "recipeInstructions": "1. Spread the bread shell with mayonnaise.\n2. Layer with tomatoes, cheese, and bacon.\n3. Cook in a 450°F oven for 5 to 7 minutes, or until the cheese melts.\n4. Top with lettuce. Makes 4 servings.",
+  "url": null
+}

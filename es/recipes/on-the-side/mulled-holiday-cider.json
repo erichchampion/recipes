@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mulled-holiday-cider",
+  "name": "Cider de Navidad especiado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "especias",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "32 onzas de jugo de manzana",
+    "10 hojas de salvia piñera",
+    "15 hojas de verbena cítrica",
+    "1/8 cucharadita de anís molido",
+    "1/4 cucharadita de clavo de olor molido",
+    "2 palos de canela (uno para la receta y uno para cada invitado)",
+    "1/2 taza de piña - enlatada sin azúcar o fresca",
+    "1/2 taza de peras - peladas y cortadas en cubos"
+  ],
+  "recipeInstructions": "1. En una olla no reactiva, llevar el jugo de manzana a ebullición.\n2. Reducir el fuego a medio y agregar los ingredientes restantes.\n3. Cocinar a fuego lento durante 30 minutos, o más tiempo para un sabor más intenso.\n4. Retirar la canela, la fruta y las hojas de hierbas.\n5. Servir con un palo de canela en cada taza.\nRinde 1 1/4 cuartos",
+  "url": null
+}

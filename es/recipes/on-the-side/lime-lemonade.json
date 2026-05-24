@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "lime-lemonade",
+  "name": "Limonada de lima",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "limonada",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "4 cucharadas de agua",
+    "4 cucharadas de mezcla de limonada pre-endulzada",
+    "2 tazas de agua con gas de limón fría",
+    "2 gajos de limón, si se desea"
+  ],
+  "recipeInstructions": "1. En cada uno de 2 vasos, combina 2 cucharadas de agua y 2 cucharadas de mezcla de limonada; revuelve bien.\n2. Añade suavemente 1 taza de agua con gas de limón fría a cada vaso.\n3. Agrega hielo a cada vaso y exprime el jugo de 1 gajo de limón en cada uno.\n4. Rinde: 2 raciones (1 taza) cada una.",
+  "url": null
+}

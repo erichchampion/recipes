@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-and-cheese-casserole",
+  "name": "Cazuela de arroz y queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "bajo en calorías",
+    "plato principal",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "2 1/2 tazas de arroz cocido",
+    "3 cebolletas picadas",
+    "1 taza de queso cottage bajo en grasa",
+    "1 cucharadita de eneldo seco",
+    "1/4 taza de parmesano fresco rallado",
+    "1/2 taza de leche desnatada",
+    "1/2 cucharadita de mostaza dijon",
+    "Espray antiadherente vegetal"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el espray antiadherente en un bol.\n2. Verter la mezcla en un plato para hornear engrasado con espray antiadherente.\n3. Hornear en horno precalentado a 180 °C durante 15-20 minutos.",
+  "url": null
+}

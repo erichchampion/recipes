@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "polish-sausage",
+  "name": "Salchicha polaca",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo",
+    "salchichas"
+  ],
+  "recipeIngredient": [
+    "4 libras de paleta de cerdo",
+    "1 libra de carne de res para estofado",
+    "2 cucharadas de pimienta negra; molida gruesamente",
+    "1 cucharadita de hojas de marjoram",
+    "8 dientes de ajo, prensados",
+    "1/4 cucharadita de nuez moscada",
+    "3 1/2 cucharaditas de sal",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. Moler la carne de cerdo y la carne de res hasta obtener una textura muy gruesa.\n2. Mezclar todos los ingredientes en un bol grande y combinar bien.\n3. Rellenar la mezcla en tripas de cerdo o formar hamburguesas.",
+  "url": null
+}

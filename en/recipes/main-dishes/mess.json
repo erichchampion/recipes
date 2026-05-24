@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mess",
+  "name": "Mess",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb ground beef",
+    "16 oz French style green beans",
+    "1 can tomato soup",
+    "1 small onion, chopped",
+    "1 can mushrooms"
+  ],
+  "recipeInstructions": "1. In a Dutch oven or large pot, brown the ground beef and onion until the onion is clear.\n2. Drain any excess fat, then add the remaining ingredients to the pot.\n3. Heat through and salt to taste. Serve plain or on top of noodles or spaghetti.",
+  "url": null
+}

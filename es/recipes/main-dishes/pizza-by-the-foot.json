@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-by-the-foot",
+  "name": "Pizza por el Pie",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "2 salchichas italianas suaves",
+    "1/2 taza de agua",
+    "1 hogaza (1 libra) de pan sin cortar",
+    "15 onzas de salsa de pizza",
+    "1 cucharada de condimento italiano",
+    "1/2 cucharada de polvo de ajo",
+    "1/4 taza de queso provolone rallado",
+    "2 tazas (8 onzas) de queso mozzarella rallado"
+  ],
+  "recipeInstructions": "1. Coloca las salchichas y el agua en una sartén poco profunda.\n2. Tapa y lleva a ebullición.\n3. Reduce el calor a bajo y deja cocinar a fuego lento durante 10 a 12 minutos.\n4. Escurre, enfría ligeramente y corta en rodajas de 1/4 de pulgada.\n5. Corta el pan por la mitad a lo largo y coloca las mitades con la parte cortada hacia arriba sobre una bandeja para hornear.\n6. En un bol pequeño, mezcla la salsa de pizza y las especias.\n7. Extiende uniformemente sobre cada mitad de pan.\n8. Extiende cebolla, salchicha y queso sobre cada mitad.\n9. Hornea a 175 grados durante 20 a 25 minutos, o hasta que el queso esté derretido y ligeramente dorado.\n10. Rinde 6 porciones.",
+  "url": null
+}

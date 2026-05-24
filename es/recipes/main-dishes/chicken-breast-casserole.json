@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-breast-casserole",
+  "name": "Cazuela de Pechuga de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "6 pechos de pollo deshuesados y sin piel (se pueden usar 4-6)",
+    "3 huevos",
+    "1 taza de leche",
+    "1 paquete de migas de pan",
+    "1 lb de queso mozzarella",
+    "2 latas de champiñones",
+    "mantequilla",
+    "queso parmesano",
+    "sal",
+    "pimienta",
+    "sal de ajo"
+  ],
+  "recipeInstructions": "1. Batir los huevos y la leche juntos, marinar el pollo en esta mezcla durante 30 minutos en el refrigerador.\n2. Cubrir cada pecho de pollo con migas de pan mezcladas con queso parmesano y especias (sal, pimienta, sal de ajo).\n3. Freír los pechos de pollo empanizados en mantequilla hasta que estén ligeramente dorados por todos lados.\n4. Engrasar un plato para hornear con mantequilla en la base y los lados.\n5. Alternar capas de pechos de pollo fritos, champiñones, queso mozzarella rallado y queso parmesano en el plato. Repetir las capas hasta que el plato esté lleno, colocando los trozos más pequeños al fondo (generalmente alrededor de 2 capas).\n6. Hornear sin cubrir a 175 °C durante 25-35 minutos.",
+  "url": null
+}

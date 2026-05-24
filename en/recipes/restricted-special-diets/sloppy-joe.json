@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "sloppy-joe",
+  "name": "Sloppy Joe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "main dish",
+    "special diets",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "1 small onion, chopped",
+    "4 garlic cloves, minced",
+    "1 tbsp vegetable oil",
+    "3 large mushrooms, chopped",
+    "1 large carrot, grated",
+    "1/2 tbsp parsley",
+    "1/2 lb tofu, crumbled",
+    "2 tsp tamari",
+    "3 tbsp tomato sauce"
+  ],
+  "recipeInstructions": "1. Heat the vegetable oil in a pan over medium heat.\n2. Add the onion and garlic. Cook until translucent.\n3. Add the mushrooms, carrot, and parsley. Stir fry briefly.\n4. Add the tofu, tamari, and tomato sauce. Mix well.\n5. Cook until everything is heated through.\n6. Stuff the mixture into pita bread and serve.",
+  "url": null
+}

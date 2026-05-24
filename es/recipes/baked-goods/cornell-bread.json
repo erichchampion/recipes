@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "cornell-bread",
+  "name": "Pan de Cornell",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 sobre de levadura",
+    "3 tazas de harina de pan",
+    "3 cucharadas de harina de soja",
+    "3 cucharadas de polvo de leche desnatada",
+    "3 cucharadas de germen de trigo",
+    "1 cucharadita de sal",
+    "2 cucharadas de miel",
+    "2 cucharadas de mantequilla",
+    "1 huevo",
+    "1 taza más 2 cucharadas de agua tibia"
+  ],
+  "recipeInstructions": "1. Añadir todos los ingredientes en el orden indicado, seleccionar la opción de pan blanco y presionar \"Start\".\n2. A menos que se indique lo contrario, asegurarse de que todos los ingredientes estén a temperatura ambiente.\n3. Esta masa también puede mezclarse manualmente en la máquina de pan.\n4. Después del segundo amasado, retirar la masa de la máquina, dividirla en dos porciones iguales y colocarlas en moldes para pan pequeños.\n5. Cubrir y dejar levar hasta que doble su tamaño, aproximadamente entre 45 minutos a 1 hora.\n6. Hornear a 350°F durante 35-40 minutos.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "vanilla-wafer-crust",
+  "name": "Cresta de galleta de vainilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "pasteles",
+    "tarta"
+  ],
+  "recipeIngredient": [
+    "1 taza de galletas de vainilla trituradas",
+    "2 cucharadas de mantequilla derretida",
+    "1 cucharadita de ralladura de limón",
+    "1 cucharadita de azúcar granulada"
+  ],
+  "recipeInstructions": "1. Mezclar las galletas trituradas, la mantequilla derretida, la ralladura de limón y el azúcar hasta que estén bien combinados.\n2. Presionar la mezcla en un molde engrasado de 20 cm.\n3. Hornear a 175 °C (350 °F) durante unos 15 minutos o hasta que esté ligeramente dorado.\n4. Dejar enfriar completamente antes de sacar del molde.",
+  "url": null
+}

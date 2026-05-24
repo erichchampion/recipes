@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-rolls",
+  "name": "Rolos de cerveza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 sobre de levadura seca activa",
+    "2 cucharadas de azúcar",
+    "1 huevo, ligeramente batido",
+    "1/2 taza de leche",
+    "1 cucharadita de sal",
+    "2 cucharadas de manteca derretida",
+    "4 1/2 tazas de harina (aprox.)",
+    "6 cucharadas de cerveza"
+  ],
+  "recipeInstructions": "1. Añadir gradualmente pequeñas cantidades de harina a la mezcla hasta utilizar aproximadamente 4 1/2 tazas en total. Incorporar la cerveza en incrementos de 2 cucharadas junto con la harina.\n2. Mezclar bien después de cada adición. No usar demasiada harina. La masa debe estar ligeramente húmeda y lo suficientemente seca para amasar.\n3. Amasar la masa hasta que aparezcan burbujas.\n4. Sumergir toda la masa en mantequilla derretida, cubrir y dejar levar durante aproximadamente 1 hora y media en un lugar cálido.\n5. Estirar la masa para formar panes del tamaño deseado.\n6. Hornear a 245°C (475°F) hasta que los panes estén hechos.",
+  "url": null
+}

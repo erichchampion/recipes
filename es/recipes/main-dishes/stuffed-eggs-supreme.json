@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "stuffed-eggs-supreme",
+  "name": "Huevos rellenos suprema",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "aperitivos",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "6 huevos, cocidos y cortados por la mitad a lo largo",
+    "750 g de carne de cangrejo escurrida y desmenuzada",
+    "1/4 taza de apio finamente picado",
+    "1 cucharada de zumo de limón",
+    "1/4 taza de cebolla verde finamente picada",
+    "1 cucharada de perejil fresco picado",
+    "1/2 taza de mayonesa",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Retire los yemas de los huevos y machácelas. Mezcle las yemas con la carne de cangrejo, el apio, el zumo de limón, la cebolla verde, el perejil, la mayonesa y la sal.\n2. Rellene las claras de huevo con la mezcla en el momento de servir.",
+  "url": null
+}

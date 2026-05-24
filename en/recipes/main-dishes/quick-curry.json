@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-curry",
+  "name": "Quick Curry",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "sauces",
+    "seafood",
+    "shrimp"
+  ],
+  "recipeIngredient": [
+    "1/4 cup Butter",
+    "3 cups Shrimp, cooked",
+    "2 tsp Salt",
+    "1 cup Pineapple tid-bits",
+    "2 tsp Curry powder",
+    "1/2 tsp Dill weed",
+    "1/4 cup Flour",
+    "2 cups Milk",
+    "1 Rice"
+  ],
+  "recipeInstructions": "1. Melt butter in a saucepan over medium heat.\n2. Remove the saucepan from the heat and stir in flour, curry powder, dill weed, and salt.\n3. Gradually add milk while stirring to prevent lumps.\n4. Stir until the mixture thickens and boils.\n5. Gradually add the remaining milk, stirring constantly until well combined.\n6. Add shrimp (or clams or chicken) and pineapple tid-bits.\n7. Cook for a few minutes until heated through.\n8. Serve over rice. If desired, serve with condiments such as chopped peanuts, coconut, and chutney.",
+  "url": null
+}

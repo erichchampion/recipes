@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "honey-chicken2",
+  "name": "Pollo con Miel 2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina sin blanquear",
+    "2 cucharaditas de sal",
+    "1/4 cucharadita de pimienta negra",
+    "2 cucharaditas de pimentón dulce",
+    "4 pechugas de pollo sin piel y sin hueso",
+    "Salsa:",
+    "1/4 taza de margarina",
+    "1/2 taza de miel",
+    "1/4 taza de zumo de limón a temperatura ambiente"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 200 °C.\n2. Preparar una bandeja de horno de 30x40 cm con spray antiadherente.\n3. En un bol poco profundo, mezclar la harina, la sal, la pimienta y el pimentón; sumergir los trozos de pollo en la mezcla.\n4. Colocar las piezas de pollo en la bandeja, en una sola capa, con la piel hacia abajo. Hornear durante 30 minutos.\n5. Mientras tanto, en un bol pequeño, mezclar los ingredientes de la salsa.\n6. Dar la vuelta al pollo y cubrir con la salsa.\n7. Hornear durante otros 30 minutos o hasta que el pollo esté tierno y no quede rastro de color rosado.\n8. Verter la salsa sobre el pollo una vez más y servir.",
+  "url": null
+}

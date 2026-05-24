@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pecan-pie-3",
+  "name": "Pecan Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1 unbaked 9-inch pie shell",
+    "5 large eggs",
+    "1 cup granulated sugar",
+    "1 cup white corn syrup",
+    "1/4 teaspoon salt",
+    "1 teaspoon vanilla",
+    "2 tablespoons melted butter",
+    "1 cup chopped pecans or walnuts"
+  ],
+  "recipeInstructions": "1. Beat the eggs in a mixing bowl until well combined.\n2. Gradually add the sugar, corn syrup, salt, vanilla, and melted butter to the eggs, stirring after each addition.\n3. Stir in the chopped pecans or walnuts.\n4. Pour the mixture into the pie shell.\n5. Bake for about 1 hour at 350 degrees Fahrenheit.\n6. The filling will set firm when done.",
+  "url": null
+}

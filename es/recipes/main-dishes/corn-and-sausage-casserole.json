@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "corn-and-sausage-casserole",
+  "name": "Guiso de Maíz y Salchicha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de salchicha en trozos",
+    "1 lata de maíz cremoso, escurrido",
+    "1 lata de maíz entero, escurrido",
+    "2 cucharadas de harina",
+    "1/4 taza de leche",
+    "2 cucharadas de azúcar",
+    "3 huevos batidos",
+    "1/2 barra de mantequilla derretida",
+    "12 galletas Ritz trituradas"
+  ],
+  "recipeInstructions": "1. Desmenuzar la salchicha y cocinar hasta que esté dorada.\n2. Escurrir bien; batir los huevos.\n3. Añadir la salchicha, el maíz, el azúcar, la harina, la leche y una pizca de pimienta a la mezcla de huevos. Mezclar bien.\n4. Verter en un recipiente para hornear.\n5. Espolvorear las galletas y la mantequilla derretida por encima.\n6. Hornear a 180°C durante 35 a 45 minutos.",
+  "url": null
+}

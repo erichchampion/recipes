@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "little-wieners-and-orange-sauce",
+  "name": "Salchichas pequeñas y salsa de naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "2 paquetes de salchichas (cortadas en trozos pequeños)",
+    "1/2 taza de azúcar",
+    "3 cucharadas de maicena",
+    "1 1/2 tazas de jugo de naranja",
+    "8 clavos enteros",
+    "1/4 cucharadita de canela",
+    "1/4 taza de vinagre"
+  ],
+  "recipeInstructions": "1. Mezclar el azúcar, la maicena, el jugo de naranja, los clavos, la canela y el vinagre en una cacerola a fuego bajo.\n2. Cocinar hasta que la mezcla espese.\n3. Cuando la salsa haya espesado, agregar las salchichas a la sartén y calentar hasta que se calienten por completo.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "sloppy-joe-variation",
+  "name": "Variación de Sloppy Joe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne molida",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 1/2 kg de carne molida de res o pavo",
+    "2 latas de sopa de gumbo de pollo",
+    "1 cebolla pequeña",
+    "1 cucharada de jugo de limón",
+    "2 cucharadas de mostaza (cualquier tipo)",
+    "1/2 taza de ketchup",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Dorar la carne con las cebollas, el jugo de limón, la sal y la pimienta.\n2. Verter los ingredientes líquidos sobre la carne escurrida.\n3. Mezclar bien para combinar todos los sabores.\n4. Servir como una cena rápida para una experiencia de sabor nueva e interesante.\n5. Nota: el nivel de humedad puede variar entre lotes, lo que resulta en carne más jugosa o más seca.",
+  "url": null
+}

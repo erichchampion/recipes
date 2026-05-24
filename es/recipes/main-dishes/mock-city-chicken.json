@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-city-chicken",
+  "name": "Pollo de Ciudad Ficticio",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de vacuno",
+    "plato principal",
+    "carne",
+    "cerdo",
+    "ternera"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de ternera sin hueso, cortada en cubos de 1,5 cm",
+    "1/2 lb de cerdo sin hueso, cortado en cubos de 1,5 cm",
+    "1/2 lb de carne de res sin hueso, cortada en cubos de 1,5 cm",
+    "2 huevos grandes, batidos",
+    "1 taza de migas de pan sazonadas",
+    "1 cucharada de aceite vegetal (o cualquier otro aceite para freír)",
+    "1/2 taza de harina de uso común"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 °F (175 °C).\n2. Secar los cubos con toallas de papel. Colocar la harina en una bolsa de plástico con cierre y las migas de pan sazonadas en otra bolsa.\n3. Cubrir cada cubo de carne primero con la harina, sacudir bien, luego sumergirlo en el batido de huevo hasta que esté completamente cubierto. A continuación, colocar el cubo en la bolsa de migas de pan y sacudir para asegurar una cobertura uniforme.\n4. Insertar el cubo recubierto en un pincho (tradicionalmente de al menos 1/2 pulgada de largo).\n5. Repetir los pasos 3-4 con los cubos restantes, alternando entre ternera, res y cerdo si se usa la combinación completa.\n6. Calentar el aceite en una sartén pesada grande hasta que esté caliente. Dorar los pinchos de carne por todos lados sin quemarlos.\n7. Retirar del fuego y colocar sobre una bandeja para hornear ligeramente engrasada. Hornear a 350 °F (175 °C) durante 45 minutos o hasta alcanzar el punto deseado de cocción.\nNotas:\nEstos platos se consideran comida reconfortante, evocando sentimientos positivos en algunas personas. Esta receta también se puede preparar con cualquier combinación de las carnes mencionadas o solo con un tipo, aunque no será exactamente igual que el pollo si se usan cubos de pollo sin hueso en su lugar. Asegurar una cobertura uniforme de migas de pan es crucial para el éxito de este plato.",
+  "url": null
+}

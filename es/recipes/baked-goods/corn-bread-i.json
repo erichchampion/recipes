@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "corn-bread-i",
+  "name": "Pan de maíz I",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "cajún"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina de maíz",
+    "1/4 cucharadita de bicarbonato de sodio",
+    "2 cucharaditas de polvo de hornear",
+    "1 cucharadita de sal",
+    "2 huevos batidos",
+    "2 tazas de leche agria (agregar 2 cucharadas de vinagre a la leche dulce)",
+    "2 cucharadas de grasa derretida o manteca de tocino"
+  ],
+  "recipeInstructions": "1. Cernir juntos los ingredientes secos.\n2. Agregar los huevos a la leche y mezclar con los ingredientes secos.\n3. Incorporar la grasa derretida.\n4. Verter la masa en un molde engrasado de 20 cm x 20 cm.\n5. Hornear a 200 °C durante 20-30 minutos.\n6. Servir caliente, solo o con una generosa cantidad de mantequilla y sirope de conejo Bre'r (o sirope de caña Steen).",
+  "url": null
+}

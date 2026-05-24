@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "big-bold-banana",
+  "name": "Gran Manzana Audaz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de leche de soja",
+    "1/2 taza de tofu suave silken",
+    "4 plátanos congelados",
+    "1 cucharada de miel",
+    "1 cucharada de extracto de vainilla",
+    "1 cucharada de polvo de carobo"
+  ],
+  "recipeInstructions": "1. Mezclar la leche de soja y el tofu en una licuadora.\n2. Añadir los plátanos, la miel, el extracto de vainilla y el polvo de carobo.\n3. Licuar hasta obtener una textura suave.",
+  "url": null
+}

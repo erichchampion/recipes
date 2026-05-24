@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-cookies",
+  "name": "Galletas de Fresa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/4 lb de margarina",
+    "1/2 taza de azúcar",
+    "1 huevo; batido",
+    "4 oz de dátiles; cortados en trozos",
+    "1/2 taza de harina",
+    "1/4 cucharadita de sal",
+    "1/2 cucharadita de extracto de vainilla",
+    "1/2 taza de nueces; picadas",
+    "1 1/4 tazas de Rice Krispies",
+    "Azúcar roja",
+    "Glaseado verde"
+  ],
+  "recipeInstructions": "1. Cocinar la margarina y el azúcar con el huevo y los dátiles durante 5 minutos.\n2. Añadir gradualmente la harina, mezclando bien. Continuar cocinando durante otros 7 minutos.\n3. Retirar del fuego y mezclar la sal, las nueces, la vainilla y los Rice Krispies. Asegurarse de que la mezcla esté bien combinada y no enfriar.\n4. Dar forma a la mezcla en figuras de fresas.\n5. Colocar las galletas sobre una bandeja para hornear con azúcar rojo. Sacudir suavemente para cubrirlas uniformemente.\n6. Crear los tallos usando glaseado verde.",
+  "url": null
+}

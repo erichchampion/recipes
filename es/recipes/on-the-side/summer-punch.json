@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "summer-punch",
+  "name": "Refresco de verano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "batido",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 litros de vino blanco, frío",
+    "1 litro de agua mineral con gas, fría",
+    "3 onzas de brandy",
+    "3 onzas de licor de naranja",
+    "1 taza de té fuerte",
+    "3 jugos de limón",
+    "2 jugos de lima"
+  ],
+  "recipeInstructions": "1. Verter todos los ingredientes en un bol de punch sobre un bloque de hielo.\n2. Decorar con rodajas de fruta y ramitas de menta.\nIdeal para duchas o fiestas de aniversario.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-salad",
+  "name": "Mexican Salad",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "american",
+    "ethnic",
+    "mexican"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cups julienned iceberg lettuce",
+    "1/2 cup julienned carrots",
+    "1/2 cup peeled and julienned jicama",
+    "1/2 cup rough chopped cilantro leaves",
+    "Lime-Jalapeno Vinaigrette:",
+    "2 shallots, minced",
+    "2 jalapenos, minced",
+    "2 cloves garlic, minced",
+    "3 tablespoons lime juice",
+    "1/4 cup olive oil",
+    "Salt"
+  ],
+  "recipeInstructions": "1. Combine the salad ingredients in a bowl.\n2. In a small mixing bowl, combine the shallots, jalapenos, garlic, and lime juice.\n3. Whisk in the oil and season to taste with salt.\n4. Toss the salad with the vinaigrette.",
+  "url": null
+}

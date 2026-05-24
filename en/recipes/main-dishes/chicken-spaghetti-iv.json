@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-spaghetti-iv",
+  "name": "Chicken & Spaghetti, IV",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1 chicken",
+    "3/4 cup chopped bell pepper",
+    "2 quarts chicken broth",
+    "1 package spaghetti",
+    "3/4 cup chopped celery",
+    "2 cubes chicken bouillon",
+    "1 lb Velveeta cheese with peppers"
+  ],
+  "recipeInstructions": "1. Boil the chicken in water until cooked through.\n2. Remove and debone the chicken, then add it to a separate pot with enough broth to make 2 quarts of liquid.\n3. Cook the spaghetti in the broth until most of the liquid is absorbed.\n4. Add the remaining ingredients: chopped celery and chicken bouillon cubes.\n5. Stir until combined and serve.",
+  "url": null
+}

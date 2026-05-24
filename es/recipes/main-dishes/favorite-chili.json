@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "favorite-chili",
+  "name": "Mi Chili Favorito",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chili",
+    "plato principal",
+    "olla de cocción lenta",
+    "estofados"
+  ],
+  "recipeIngredient": [
+    "1/2 kg de frijoles (pinto o kidney)",
+    "2 kg de tomates",
+    "2 kg de carne de res picada (asada)",
+    "2 cebollas medianas, picadas groseramente",
+    "1 pimiento verde, picado groseramente",
+    "4 dientes de ajo machacados",
+    "2 cucharadas de polvo de chile",
+    "1 cucharadita de pimienta negra",
+    "1 cucharadita de comino",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "1. Para preparar frijoles al horno y chili con frijoles, hierva los frijoles secos en tres veces su volumen de agua sin sal durante 30 minutos en una olla.\n2. Deje reposar, cubierto, por una hora y media o hasta que estén suaves; escurra y añada los demás ingredientes.\n3. Blanquee los frijoles secos hasta que estén tiernos; escúrralos bien.\n4. Coloque todos los ingredientes en una olla de cocción lenta en el orden indicado. Mezcle una vez.\n5. Cubra y cocine a fuego lento durante 10-12 horas (a fuego alto: 5-6 horas).\n6. Cuando utilice frijoles enlatados (dos latas de 1 kg), escurra el líquido.",
+  "url": null
+}

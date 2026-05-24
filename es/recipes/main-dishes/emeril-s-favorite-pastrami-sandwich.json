@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "emeril-s-favorite-pastrami-sandwich",
+  "name": "Sándwich de pastrami favorito de Emeril",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "6 onzas de pastrami en rodajas",
+    "2 cucharadas de mostaza de grano entero",
+    "4 onzas de cerveza",
+    "3 rebanadas de anillos de cebolla enteros",
+    "1 cucharada de aceite de oliva",
+    "Sal y pimienta al gusto",
+    "2 rebanadas de pan de centeno o pan rústico grueso"
+  ],
+  "recipeInstructions": "1. Precalentar una parrilla.\n2. Sazonar las cebollas con sal y pimienta, luego untarlas con aceite.\n3. En un cacerol pequeño, mezclar la cerveza y la mostaza, llevar a ebullición.\n4. Agregar el pastrami y reducir el fuego, cocinar durante 3 minutos.\n5. Asar las cebollas por ambos lados y tostar el pan en una parte más fría de la parrilla.\n6. Cuando todos los ingredientes estén calientes, armar el sándwich.\nRinde: 1 porción",
+  "url": null
+}

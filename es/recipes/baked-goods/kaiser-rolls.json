@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "kaiser-rolls",
+  "name": "Rollos Kaiser",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pan",
+    "máquina de pan"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cucharaditas de levadura, para máquina de pan (en el manual de la máquina)",
+    "2 tazas de harina de pan",
+    "2 cucharadas de leche en polvo",
+    "1 cucharadita de azúcar",
+    "1 cucharadita de sal",
+    "2 cucharaditas de jarabe de malta de cebada (en tiendas de alimentos saludables)",
+    "3/4 taza + 2 cucharadas de agua",
+    "semillas de amapola (opcional)"
+  ],
+  "recipeInstructions": "1. Añadir todos los ingredientes según las instrucciones del manual de la máquina de pan, excepto las semillas de amapola.\n2. Cuando termine el ciclo de amasado, retirar la masa y dividirla en 8 piezas.\n3. Estirar cada pieza en una bola y espolvorear con semillas de amapola. Colocarlas con la semilla hacia arriba sobre una bandeja para hornear.\n4. Usar un cuchillo afilado o una navaja para marcar 3 semicírculos desde el centro de cada pieza.\n5. Dejar reposar los rolls durante 30 minutos o hasta que hayan doblado su tamaño.\n6. Precalentar el horno a 190°F (375 °C).\n7. Hornear los rolls en el horno precalentado durante 15 minutos o hasta que estén dorados.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "southwest-strata",
+  "name": "Strata del suroeste",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "cazuelas",
+    "plato principal",
+    "entrada"
+  ],
+  "recipeIngredient": [
+    "6 tortillas de harina",
+    "2 latas de chiles verdes picados (8 onzas cada una)",
+    "8 onzas de pavo ahumado, cortado finamente",
+    "4 tazas de queso Monterey Jack rallado",
+    "1 taza de maíz congelado, descongelado",
+    "5 huevos",
+    "2 tazas de leche",
+    "Una pizca de salsa Tabasco",
+    "1/2 cucharadita de polvo de ajo",
+    "Pimienta molida al gusto",
+    "1/2 taza de cilantro fresco picado"
+  ],
+  "recipeInstructions": "1. Forrar una bandeja de horno engrasada de 9x13 pulgadas con las tortillas.\n2. Alternar capas de chiles, pavo, queso y maíz en la bandeja preparada.\n3. Batir los huevos, leche, salsa Tabasco, polvo de ajo y pimienta en un bol.\n4. Verter la mezcla sobre las capas.\n5. Cubrir con cilantro fresco.\n6. Refrigerar cubierto durante la noche.\n7. Hornear a 180 °C durante 50 a 60 minutos.\n8. Enfriar y cortar en cuadrados para servir.",
+  "url": null
+}

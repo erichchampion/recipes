@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "peppermint-cordial",
+  "name": "Refresco de menta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "licores",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "12 cucharadas de hojas de menta piperita seca, desmenuzadas",
+    "1/5 litro de vodka",
+    "1 1/2 tazas de jarabe de azúcar",
+    "1 cucharadita de glicerina"
+  ],
+  "recipeInstructions": "1. Marina las hojas de menta en el vodka durante ocho días, agitando ocasionalmente.\n2. Cuela las hojas con un colador metálico y exprime todo el líquido de las mismas. Es importante no omitir este paso, ya que contiene gran parte del sabor. En esta etapa, pueden quedar partículas pequeñas de hojas en la solución de alcohol y menta. Si se desea, se puede filtrar nuevamente a través de un paño de queso.\n3. Añade el jarabe de azúcar y la glicerina.",
+  "url": null
+}

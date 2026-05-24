@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pico-de-gallo-ii",
+  "name": "Pico de Gallo II",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "americana",
+    "étnica",
+    "mexicana",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de tomates, picados, pelados y sin semillas",
+    "2 cucharadas de aceite de oliva",
+    "2 dientes de ajo, picados finamente",
+    "2 pimientos serrano, cortados en trozos pequeños",
+    "6 cucharadas de cebolla roja, picada finamente",
+    "2 cucharadas de jugo de limón"
+  ],
+  "recipeInstructions": "1. Coloca los tomates picados en un bol.\n2. En una pequeña sartén a fuego medio, combina el aceite de oliva, el ajo y los chiles.\n3. Cocina, removiendo ocasionalmente, durante 3 minutos.\n4. Agrega la mezcla al bol con los tomates.\n5. Incorpora la cebolla y el jugo de limón.\n6. Refrigera antes de servir.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "multigrain-hot-cereal",
+  "name": "Multigrain Hot Cereal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "cereals",
+    "main dish",
+    "mcdougall"
+  ],
+  "recipeIngredient": [
+    "1/4 cup Brown rice, long-grain",
+    "2 tbsp Barley",
+    "2 tbsp Millet, cooked",
+    "2 tbsp Rye",
+    "2 tbsp Wheat nuts (wheat berries)",
+    "6 Dried apricot halves, chopped",
+    "2 cups Water"
+  ],
+  "recipeInstructions": "1. Rinse the grains and soak them in water to cover for 30 minutes.\n2. Drain the grains.\n3. Place the soaked grains in a rice cooker or a saucepan along with the apricots and 2 cups of water.\n4. Cook over low heat until the water is absorbed, about 17 minutes in a saucepan; in a rice cooker, it will shut off automatically.\n5. Let rest for 15 minutes before serving.",
+  "url": null
+}

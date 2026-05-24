@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "sauteed-abalone",
+  "name": "Abalone salteado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "marisco",
+    "plato principal",
+    "carne",
+    "marisco",
+    "molusco"
+  ],
+  "recipeIngredient": [
+    "1 libra de abalón",
+    "1 huevo, ligeramente batido",
+    "2 cucharaditas de leche",
+    "3/4 taza de migas de pan seco sazonadas",
+    "2 cucharadas de aceite vegetal"
+  ],
+  "recipeInstructions": "1. Cortar el abalón en filetes de 1 cm de grosor en contra del grano y golpear para ablandarlo.\n2. Mezclar el huevo y la leche y batir ligeramente. Colocar la mezcla en un plato poco profundo.\n3. En otro plato, colocar las migas de pan.\n4. Sumergir los filetes de abalón en la mezcla de huevo y luego recubrir con las migas de pan.\n5. Cuando el aceite esté caliente, saltear los filetes de abalón durante aproximadamente 1 1/2 a 2 minutos por cada lado.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizzaburgers-3",
+  "name": "Pizzaburgers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "burgers",
+    "ground beef",
+    "main dish",
+    "meats",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "2 lb Hamburger",
+    "12 oz Tomato Sauce",
+    "1 lb Cubed Mozzerlla Cheese",
+    "6 oz Stuffed Green Olives, Chopped"
+  ],
+  "recipeInstructions": "1. Brown the hamburger.\n2. Add tomato sauce and seasonings (salt, pepper, and oregano) to taste. Simmer until thick.\n3. Allow mixture to cool.\n4. Stir in chopped stuffed green olives.\n5. Divide the mixture evenly between burger buns.\n6. Wrap the buns in foil or saran wrap.\n7. Refrigerate until ready to serve.\n8. Reheat in microwave or oven before serving.\nMakes 14 to 16 buns.",
+  "url": null
+}

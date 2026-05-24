@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pancakes-2",
+  "name": "Pancakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "pancakes"
+  ],
+  "recipeIngredient": [
+    "1 cup all-purpose flour",
+    "1 teaspoon baking powder",
+    "1/4 teaspoon baking soda",
+    "1 tablespoon sugar"
+  ],
+  "recipeInstructions": "1. Mix the dry ingredients in a large bowl.\n2. Add at least 1 cup of water, soy milk, or more liquid until desired consistency is reached. More liquid for thinner pancakes.\n3. Optionally add a dash of lemon juice.\n4. Spray the griddle with a small amount of cooking spray between pancakes (non-aerosol) or brush very lightly with oil.",
+  "url": null
+}

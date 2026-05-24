@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tex-mex-bake",
+  "name": "Horno Tex-Mex",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "carne molida",
+    "plato principal",
+    "carne",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "2 tazas de chips de maíz triturados",
+    "4 oz (1 taza) de chiles verdes picados",
+    "3 oz (1 taza) de queso Monterey Jack rallado",
+    "1 huevo grande batido",
+    "8 oz (1 taza) de salsa de tomate",
+    "1 pimiento verde mediano picado",
+    "1 lb (450g) de carne molida magra"
+  ],
+  "recipeInstructions": "Los chiles verdes deben estar escurridos.\nSe recomienda usar un queso suave y rallar 1 taza.\n~--------------------------------------------------------------------------\nPrecalentar el horno a 350°F (175°C).\nMezclar los chips de maíz, el huevo y el agua; presionar en un molde para pastel o fuente para hornear de 9 pulgadas. Hornear durante 10 minutos.\nMientras tanto, en un bol grande, mezclar la mezcla de sopa de cebolla, la carne molida, los chiles, la mitad del queso y la salsa de tomate; presionar uniformemente sobre la base preparada. Cubrir con salsa de tomate y luego con el pimiento verde. Hornear durante 30 minutos adicionales. Espolvorear con el queso restante y hornear durante 5 minutos más o hasta que el queso se derrita y la carne esté cocida.",
+  "url": null
+}

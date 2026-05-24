@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "granola-popcorn",
+  "name": "Granola con palomitas de maíz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "palomitas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de mantequilla",
+    "3 cucharadas de miel",
+    "3 cucharadas de azúcar moreno",
+    "1/2 taza de palomitas de maíz infladas",
+    "1 taza de nueces tostadas",
+    "1 taza de avena en hojuelas",
+    "1 taza de coco tostado",
+    "1 taza de pasas"
+  ],
+  "recipeInstructions": "1. En una sartén pesada, mezclar la mantequilla, la miel y el azúcar moreno.\n2. Cocinar a fuego medio hasta que se derrita.\n3. Verter la mezcla sobre las palomitas de maíz, nueces, avena, coco y pasas.\n4. Hornear a 150°C durante 30 minutos.",
+  "url": null
+}

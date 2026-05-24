@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "enchilada-sauce-mix",
+  "name": "Enchilada Sauce Mix",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "side dishes",
+    "spices",
+    "spices mixes"
+  ],
+  "recipeIngredient": [
+    "1 tsp salt",
+    "1 tsp chili powder",
+    "1/2 tsp sugar",
+    "1/2 tsp ground cumin",
+    "1/4 tsp oregano",
+    "2 tsp minced onion",
+    "1 tsp dried chili pepper",
+    "1 tsp corn meal",
+    "1/2 tsp minced garlic",
+    "1 tsp paprika"
+  ],
+  "recipeInstructions": "1. Mix together all ingredients.\n2. Use the desired amount when making enchiladas.",
+  "url": null
+}

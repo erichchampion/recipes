@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "greek-orzo-salad",
+  "name": "Ensalada de orzo griega",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "queso",
+    "étnico",
+    "griego",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "2 cucharaditas de eneldo",
+    "2 dientes de ajo (picados)",
+    "1/4 taza de aceite de oliva",
+    "3 cucharadas de zumo de limón",
+    "2 cucharadas de vinagre de vino tinto",
+    "Pimienta al gusto",
+    "1 taza de orzo",
+    "4 tomates tipo Roma (sin semillas y picados)",
+    "1 pepino (pelado y picado)",
+    "3 cebolletas verdes (cortadas en rodajas)",
+    "8 onzas de queso feta (escramelado)"
+  ],
+  "recipeInstructions": "1. Batir todos los ingredientes del aderezo en un bol.\n2. Refrigerar la mezcla del aderezo hasta su uso.\n3. Hervir el orzo en agua con sal hasta que esté cocido pero firme al tacto.\n4. Escurrir el orzo y dejarlo enfriar a temperatura ambiente.\n5. Mezclar el orzo frío con los tomates, pepino, cebolletas verdes y queso feta escramelado en un bol grande.\n6. Verter el aderezo sobre la ensalada y mezclar suavemente hasta que esté bien combinado.",
+  "url": null
+}

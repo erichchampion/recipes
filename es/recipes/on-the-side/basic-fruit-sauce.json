@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-fruit-sauce",
+  "name": "Salsa de frutas básica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "postres",
+    "frutas",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 taza de zumo de fruta",
+    "Una pizca de crema de tártaro",
+    "1/4 taza de azúcar (opcional, si el zumo no está endulzado)",
+    "1 cucharada de zumo de limón",
+    "2 cucharaditas de almidón de flecha o maicena",
+    "2 cucharadas de zumo de fruta frío"
+  ],
+  "recipeInstructions": "Esta salsa de frutas es una de las básicas. Se puede servir sobre helado o con un pastel. Mezcla el primer cantidad de zumo, crema de tártaro, azúcar y zumo de limón en una cacerola y lleva a ebullición. Mezcla el almidón con el resto del zumo de fruta frío. Añade a la mezcla hirviendo. Cocina hasta que quede clara y espesada ligeramente. Sirve caliente o fría. Rinde 1 1/4 tazas",
+  "url": null
+}

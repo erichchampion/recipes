@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "minted-coffee-cocoa-mix",
+  "name": "Mezcla de café con cacao y menta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de crema vegetal sin lactosa",
+    "1 taza de azúcar",
+    "1/2 taza de café instantáneo",
+    "1/2 taza de cacao en polvo",
+    "Una pizca de sal",
+    "1/2 cucharadita de extracto de menta"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el extracto.\n2. Revolver para eliminar cualquier grumo.\n3. Añadir el extracto y mezclar bien hasta que se combine.\n4. Conservar en un recipiente hermético.\n5. Para preparar, mezclar 2-3 cucharadas soperas por taza de agua.\n6. Calentar primero el agua y luego añadir la mezcla.",
+  "url": null
+}

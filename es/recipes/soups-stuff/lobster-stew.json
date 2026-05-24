@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "lobster-stew",
+  "name": "Sopa de Langosta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "mariscos",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "1 1/4 lb de langosta cocida",
+    "5 tazas de leche",
+    "1/2 taza de crema espesa",
+    "Una pizca de pimienta blanca",
+    "4 cucharadas de mantequilla",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Retirar la carne de la carcasa y las pinzas de la langosta. Cortar la carne en cubos.\n2. Calentar la leche con las cáscaras de la langosta. Desechar las cáscaras.\n3. Saltear ligeramente la langosta en mantequilla hasta que esté ligeramente dorada.\n4. Añadir la leche caliente a la olla y llevar a ebullición.\n5. Retirar del fuego, agregar la crema espesa, sazonar al gusto con sal y pimienta blanca, y servir.",
+  "url": null
+}

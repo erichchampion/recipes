@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "carne-seca",
+  "name": "Carne seca",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "estadounidense",
+    "étnico",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne seca cruda",
+    "2 cucharaditas de orégano molido",
+    "2 cucharaditas de sal",
+    "3/4 taza de vinagre",
+    "2 cebollas grandes, picadas finamente",
+    "2 dientes de ajo machacados",
+    "1/2 cucharadita de pimienta negra gruesa",
+    "1 cucharadita de humo líquido"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes para hacer la marinada.\n2. Remojar la carne en la marinada durante 24 horas.\n3. Retirar la carne de la marinada y colocarla en el horno o en el fumador.\n4. Cocinar a 150-200 °C durante 7-8 horas, o hasta que la carne esté marrón, dura y seca al tacto.",
+  "url": null
+}

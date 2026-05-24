@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "masa-bread",
+  "name": "Pan de masa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 sobre de levadura",
+    "1 cucharadita de sal",
+    "1 cucharada de azúcar",
+    "1/2 taza de masa harina",
+    "2 1/2 tazas de harina de trigo",
+    "2 cucharadas de polvo de leche sin grasa",
+    "1 cucharada de aceite",
+    "1 3/8 tazas de agua tibia, muy caliente, dependiendo de la humedad y otros factores."
+  ],
+  "recipeInstructions": "Esta masa combina especialmente bien con el chili. Para variar, considere agregar 1 o 2 cucharaditas de comino y/o polvo de chile.\nNota: La masa harina se puede encontrar en la sección de harinas de muchos supermercados, incluyendo tiendas de alimentos latinoamericanos.",
+  "url": null
+}

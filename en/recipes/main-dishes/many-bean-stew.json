@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "many-bean-stew",
+  "name": "Many Bean Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "slow cooker",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "1 Onion, chopped",
+    "1 tbsp Oil",
+    "2 Cloves garlic, chopped",
+    "1 1/2 tsp Paprika",
+    "1/2 cup Pinto beans",
+    "1/2 cup Northern beans",
+    "1/2 cup Kidney beans",
+    "1/2 cup Red lentils",
+    "5 cups Water",
+    "1 Bay leaf",
+    "1 tsp Celery seed",
+    "1 tsp Dill weed",
+    "2 tsp Salt",
+    "1/4 tsp Black pepper",
+    "1 Knorr Vegetarian Bol. Cube",
+    "2 cups Cubed potatoes (potato, carrot, etc.)"
+  ],
+  "recipeInstructions": "1. Saute onion and garlic in oil with paprika.\n2. Add all ingredients to the slow cooker.\n3. Simmer on high for about 4 hours.",
+  "url": null
+}

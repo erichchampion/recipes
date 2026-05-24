@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "irish-raisin-bread",
+  "name": "Irish Raisin Bread",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads",
+    "ethnic"
+  ],
+  "recipeIngredient": [
+    "1 package Yeast",
+    "1 Egg",
+    "3 cups Bread flour",
+    "1/4 cup Butter",
+    "1/4 cup Sugar",
+    "3/4 cup Warm water",
+    "1 teaspoon Cinnamon",
+    "1/2 cup Warm milk",
+    "1/2 teaspoon Salt",
+    "1 cup Raisins"
+  ],
+  "recipeInstructions": "1. In a large bowl, mix all ingredients except raisins.\n2. Choose the white bread setting on your machine and turn the baking control knob to 12 o'clock.\n3. Add the raisins at the 10-beep sound.",
+  "url": null
+}

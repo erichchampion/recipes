@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pimms-royale",
+  "name": "Pimms Royale",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "Ice",
+    "50 Milliliters Pimms No. 1",
+    "Laurent Perrier Champagne",
+    "1 Slice Orange",
+    "1 Slice Lemon",
+    "1 Slice Lime",
+    "1 Slice Apple",
+    "3 Leaves Fresh Mint"
+  ],
+  "recipeInstructions": "1. Place ice in a large wine glass.\n2. Add Pimms, fruit slices (orange, lemon, lime, apple), and mint leaves to the glass.\n3. Carefully top off with champagne.",
+  "url": null
+}

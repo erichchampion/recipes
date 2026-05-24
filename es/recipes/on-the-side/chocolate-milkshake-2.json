@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-milkshake-2",
+  "name": "Batido de chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "lácteos",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "Plátano congelado (1 y 1/2, por lo general)",
+    "Cacao en polvo (3 cucharadas)",
+    "Leche de soja sin grasa (aproximadamente 1 taza)",
+    "Jarabe de arce u otro endulzante (opcional)"
+  ],
+  "recipeInstructions": "1. Agregar los plátanos congelados a la licuadora.\n2. Incorporar el cacao en polvo y la leche de soja sin grasa a la licuadora.\n3. Si se desea, añadir un chorro de jarabe de arce para endulzar.\n4. Mezclar hasta obtener una textura suave.",
+  "url": null
+}

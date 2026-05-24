@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "spanish-omelet-3",
+  "name": "Omeleta española",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americana",
+    "cajún",
+    "criolla",
+    "étnica",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "Cebolla (finamente picada)",
+    "Mantequilla o margarina",
+    "Tomates (200g), cortados en trozos",
+    "Sal al gusto",
+    "Salsa picante (opcional)",
+    "Huevos batidos",
+    "Galletas saladas (para servir)",
+    "Queso rallado (para servir)"
+  ],
+  "recipeInstructions": "1. Picar la cebolla finamente.\n2. Calentar mantequilla o margarina en una sartén mediana a fuego medio.\n3. Agregar los tomates, sal, salsa picante (si se usa) y los huevos batidos a la sartén. Cocinar hasta que la mezcla esté cuajada.\n4. Volcar sobre galletas saladas y espolvorear con queso rallado.",
+  "url": null
+}

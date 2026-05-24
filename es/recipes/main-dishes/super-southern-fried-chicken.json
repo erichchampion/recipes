@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "super-southern-fried-chicken",
+  "name": "Pollo Frito del Sur Super",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 gran pollo para freír",
+    "1 taza de crema o leche",
+    "2 cucharadas de agua",
+    "2 huevos",
+    "2 tazas de harina",
+    "sal y pimienta",
+    "1/2 cucharadita de pimentón dulce",
+    "1 taza de grasa de tocino",
+    "1 taza de manteca"
+  ],
+  "recipeInstructions": "1. Cortar el pollo en trozos para freír.\n2. Sazonar el pollo con sal y pimienta. Dejar reposar 15 minutos.\n3. Mezclar la crema, el agua, los huevos y batir hasta obtener una mezcla homogénea.\n4. Cubrir el pollo con la mezcla de crema y dejar marinar durante 1 hora.\n5. Espolvorear el pimentón sobre la harina, luego pasar el pollo por la harina.\n6. Derretir la grasa de tocino, la manteca en una sartén grande.\n7. Freír los trozos de pollo en la grasa caliente a fuego medio hasta que estén dorados.",
+  "url": null
+}

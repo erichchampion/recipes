@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-pancakes-4",
+  "name": "Apple Pancakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "pancakes"
+  ],
+  "recipeIngredient": [
+    "2 medium apples",
+    "1 large egg",
+    "3 tablespoons sugar",
+    "1/2 cup cake meal",
+    "3/4 cup water",
+    "1/4 cup oil",
+    "pinch salt"
+  ],
+  "recipeInstructions": "1. Beat eggs, sugar and water together in a bowl until well combined.\n2. Peel and dice the apples.\n3. Add the diced apples to the egg mixture along with the cake meal and salt.\n4. Mix everything until all ingredients are well incorporated.\n5. Heat a small amount of oil in a frying pan over medium heat.\n6. Drop spoonfuls of the batter into the hot oil, forming small pancakes.\n7. Fry each pancake for 2-3 minutes on each side or until golden brown.",
+  "url": null
+}

@@ -1,0 +1,17 @@
+{
+  "@type": "Recipe",
+  "identifier": "grape-juice-2",
+  "name": "Jugo de Uvas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "uvas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar"
+  ],
+  "recipeInstructions": "1. Esterilizar el tarro.\n2. Colocar en el tarro 1 taza de azúcar.\n3. Llenar con agua hirviendo y sellar mientras está caliente.\n4. Si se tienen pocos tarros, duplicar la receta añadiendo 2 tazas de azúcar y 2 tazas de uvas al tarro, y llenar con agua caliente.\n5. Colocar en un baño maría y llevar a ebullición.\n6. Al abrir el tarro, añadir suficiente agua fría para obtener 1 galón de jugo de uvas.",
+  "url": null
+}

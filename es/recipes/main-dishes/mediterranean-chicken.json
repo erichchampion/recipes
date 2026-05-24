@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "mediterranean-chicken",
+  "name": "Pollo Mediterráneo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "plato principal de aves de corral londontown"
+  ],
+  "recipeIngredient": [
+    "2 1/2 lb de pollo cortado en trozos",
+    "1 cucharadita de orégano",
+    "1/2 taza de migas de pan finas",
+    "1 cucharadita de tomillo",
+    "1/2 taza de queso parmesano rallado",
+    "1/4 cucharadita de pimienta negra",
+    "2 cucharadas de albahaca en hojuelas",
+    "2 cucharadas de mantequilla derretida",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Retirar la piel del pollo.\n2. Mezclar todos los ingredientes excepto la mantequilla en un bol.\n3. Sumergir cada trozo de pollo en la mantequilla derretida y cubrirlo uniformemente con la mezcla de migas.\n4. Colocar los trozos de pollo en una fuente para hornear grande y poco profunda, asegurándose de que no se toquen.\n5. Hornear a temperatura media (175 °C) durante aproximadamente 1 hora, hasta que el pollo esté tierno.\n6. Decorar con albahaca antes de servir.",
+  "url": null
+}

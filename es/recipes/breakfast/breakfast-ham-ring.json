@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-ham-ring",
+  "name": "Anillo de jamón para desayuno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "tartas saladas",
+    "queso/huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "10 huevos",
+    "500g de jamón molido cocido",
+    "500g de salchicha de cerdo en masa",
+    "1 ½ tazas de migas de pan suaves",
+    "½ taza de leche",
+    "2 cucharadas de perejil seco en hojuelas",
+    "1 cucharada de rábano preparado"
+  ],
+  "recipeInstructions": "1. En un bol grande, bate ligeramente 2 huevos.\n2. Añade el jamón, la salchicha, las migas de pan, la leche, el perejil y el rábano a los huevos batidos; mezcla bien.\n3. Presiona la mezcla en un molde para anillos de 6 tazas engrasado.\n4. Hornea a 175°C durante 1 hora y 15 minutos.\n5. Hacia el final del tiempo de horneado, prepara los huevos revueltos con los 8 huevos restantes, sazonando al gusto.\n6. Retira el anillo del horno y drena cualquier jugo.\n7. Desmolda el relleno de jamón en un plato de servir.\n8. Llena el centro con los huevos revueltos preparados.\n9. Sirve inmediatamente.",
+  "url": null
+}

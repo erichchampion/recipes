@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "godfather",
+  "name": "El Padrino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz de whisky escocés",
+    "1/2 oz de amaretto"
+  ],
+  "recipeInstructions": "1. Llena un vaso con hielo, ya sea tipo rocks o un vaso old fashioned.\n2. Añade el whisky escocés y el amaretto.\n3. Remueve suavemente hasta que esté bien combinado.",
+  "url": null
+}

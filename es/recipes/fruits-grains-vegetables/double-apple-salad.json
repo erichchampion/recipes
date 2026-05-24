@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "double-apple-salad",
+  "name": "Ensalada de Dos Manzanas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "fruta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 manzana Golden Delicious grande, cortada en cubos",
+    "1 manzana Red Delicious grande, cortada en cubos",
+    "1 cucharadita de zumo de limón",
+    "1 lata (400 g) de trozos de piña, escurridos",
+    "1 taza de malvaviscos pequeños",
+    "2/3 taza de coco rallado",
+    "1/2 taza de nueces picadas",
+    "1/4 taza de pasas",
+    "1/4 taza de mayonesa",
+    "2 cucharadas de apio picado finamente"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar las manzanas con el zumo de limón.\n2. Añadir el resto de los ingredientes y mezclar bien.\n3. Tapar y refrigerar durante al menos 1 hora.",
+  "url": null
+}

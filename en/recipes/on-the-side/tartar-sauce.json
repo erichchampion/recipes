@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tartar-sauce",
+  "name": "Tartar Sauce",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 eggs",
+    "1 tablespoon capers, finely chopped",
+    "1/2 tablespoon pickles, finely chopped",
+    "1 tablespoon parsley, finely chopped",
+    "1 teaspoon mustard",
+    "1 teaspoon lemon juice",
+    "1 tablespoon mayonnaise",
+    "freshly ground white pepper to taste"
+  ],
+  "recipeInstructions": "1. Mash the yolks from the hard-boiled eggs.\n2. Stir in the rest of the ingredients. Taste and adjust seasonings as needed.\n3. Ensure the sauce has a firm consistency before serving.",
+  "url": null
+}

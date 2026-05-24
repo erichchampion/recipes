@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fabulous-fudge",
+  "name": "Fábuloso Fudge",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "caramelo",
+    "postres",
+    "fudge"
+  ],
+  "recipeIngredient": [
+    "4 1/2 tazas de azúcar",
+    "350 ml de leche evaporada",
+    "1/8 cucharadita de sal",
+    "1/4 libra de mantequilla o margarina",
+    "200 g de chocolate con leche",
+    "2 tazas de nueces picadas",
+    "225 g de crema de malvavisco",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. En una cacerola, mezclar el azúcar, la leche evaporada, la sal y la mantequilla.\n2. Llevar a ebullición a fuego medio.\n3. Cocinar durante 5 minutos, removiendo constantemente hasta que la mezcla alcance el punto de bola blanda (112°C en un termómetro de caramelo).\n4. Agregar los ingredientes restantes: chocolate con leche, nueces, crema de malvavisco y extracto de vainilla.\n5. Revolver hasta que el chocolate se derrita y todos los ingredientes estén bien combinados.\n6. Verter la mezcla en dos moldes engrasados de 20x20 cm.\n7. Refrigerar hasta que esté firme (aproximadamente 2-3 horas).\n8. Rendimiento: aproximadamente 4 libras de fudge.",
+  "url": null
+}

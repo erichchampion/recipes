@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "bacalhau",
+  "name": "Bacalao",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "portugués",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "2 lb de bacalao salado; remojado",
+    "2 cebollas grandes; en rodajas",
+    "6 cucharadas de mantequilla",
+    "1 diente de ajo; picado",
+    "3 papas grandes",
+    "2 cucharadas de pan rallado",
+    "10 aceitunas verdes, sin hueso",
+    "10 aceitunas negras, sin hueso",
+    "4 huevos duros",
+    "1/2 taza de perejil fresco; picado",
+    "Vinagre de vino",
+    "Aceite de oliva",
+    "Pimienta negra"
+  ],
+  "recipeInstructions": "1. Remojar el bacalao seco en agua fría durante unas 24 horas, o hasta que esté completamente hidratado. Cambiar el agua varias veces y escurrir bien.\n2. Colocar el bacalao en una cacerola con agua fría para cubrirlo. Llevar a ebullición, luego reducir el fuego y cocinar a fuego lento durante 15 minutos o hasta que el pescado esté tierno. Escurrir; desmenuzar la piel y los huesos del pescado con un tenedor.\n3. Saltear las cebollas en la mitad de la mantequilla hasta que estén tiernas y doradas.\n4. Cocinar las papas sin pelar en agua con sal. Una vez tiernas, retirar del fuego, refrescar bajo agua corriente fría, luego escurrir y cortar en rodajas finas.\n5. Precalentar el horno a 350 °F. Engrasar un refractario de 1 1/2 cuartos con la mantequilla restante.\n6. Armar capas en el refractario: una capa de la mitad de las papas, luego la mitad del bacalao y la mitad de las cebollas; espolvorear con un poco de pimienta negra.\n7. Repetir las capas con más papas, bacalao y cebollas.\n8. Espolvorear los migas de pan sobre la última capa.\n9. Hornear durante 15 minutos o hasta que esté caliente y ligeramente dorado.\n10. Antes de servir, decorar con aceitunas y huevos, y espolvorear con perejil. Servir con vinagre de vino y aceite de oliva en crujientes, y pimienta negra al lado.",
+  "url": null
+}

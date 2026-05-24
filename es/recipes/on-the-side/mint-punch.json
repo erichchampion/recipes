@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "mint-punch",
+  "name": "Golpe de menta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 taza de agua",
+    "240 gramos de azúcar",
+    "8 onzas de menta fresca",
+    "1 taza de jugo de naranja",
+    "1 1/2 galones de soda clara, como Sprite o Slice"
+  ],
+  "recipeInstructions": "1. Hervir el agua y el azúcar; hervir hasta que el azúcar se disuelva por completo, aproximadamente 5 minutos.\n2. Colocar la menta entera en un paño de queso y verter la mezcla sobre la menta.\n3. Añadir el jugo de naranja a la mezcla. Dejar reposar en el refrigerador durante al menos 2 horas. Cuanto más tiempo repose, más intenso será el sabor a menta.\n4. Retirar el paño de queso de la mezcla.\n5. Agregar la soda justo antes de servir.\n6. Verter sobre hielo.\n7. Decorar con ramitas de menta fresca.",
+  "url": null
+}

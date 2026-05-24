@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cowboy-s-candy-bar",
+  "name": "Cowboy's Candy Bar",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "american",
+    "candies",
+    "candy",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "Newton's Cocoa (for baking)",
+    "4 cups Oatmeal",
+    "1 cup Margarine",
+    "1/2 cup White Corn Syrup",
+    "1 cup Brown Sugar",
+    "6 oz Milk Chocolate Chips",
+    "3/4 cup Crunchy Peanut Butter"
+  ],
+  "recipeInstructions": "1. Mix oatmeal, margarine, corn syrup, and sugar to form a pie crust.\n2. Press the mixture into the bottom of a greased 9x13-inch pan.\n3. Bake at 350°F for 10-15 minutes or until lightly browned.\n4. Cool completely.\n5. Melt chocolate chips and mix with crunchy peanut butter.\n6. Spread over the baked layer.\n7. Let cool before cutting into squares.",
+  "url": null
+}

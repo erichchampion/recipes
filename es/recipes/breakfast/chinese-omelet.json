@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chinese-omelet",
+  "name": "Omeleta china",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de arroz cocido",
+    "3 huevos, separados",
+    "4 cucharadas de mantequilla",
+    "1/4 cucharadita de pimentón",
+    "4 cucharadas de harina de uso múltiple",
+    "1 1/4 cucharaditas de sal",
+    "1/8 cucharadita de mostaza en polvo",
+    "2 tazas de leche",
+    "4 cucharadas de queso rallado"
+  ],
+  "recipeInstructions": "1. Cocinar el arroz hasta que esté tierno.\n2. Enjuagar con agua caliente y fría.\n3. Preparar una salsa derritiendo la mantequilla, mezclarla con la harina y añadir la leche. Cocinar hasta espesar.\n4. Batir las yemas de huevo e incorporar el arroz, la salsa, las especias (sal, pimentón) y el queso a la mezcla.\n5. Incorporar cuidadosamente las claras de huevo batidas al punto de firmeza.\n6. Precalentar el horno a 175 °C.\n7. Verter la mezcla en una sartén poco profunda engrasada.\n8. Hornear durante 175 °C durante 35-40 minutos.\n9. Servir para 6 personas.",
+  "url": null
+}

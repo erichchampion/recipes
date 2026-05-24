@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-egg-salad",
+  "name": "Ensalada de huevo falsa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "baja en calorías",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "19 onzas (536 g) de garbanzos enlatados, escurridos",
+    "1/4 taza de aderezo hervido agrio (receta incluida)",
+    "1/4 taza de apio picado",
+    "1/2 cucharadita de albahaca seca",
+    "1/4 cucharadita de polvo de curry",
+    "1/4 cucharadita de sal ajo"
+  ],
+  "recipeInstructions": "1. Machacar groseramente los garbanzos.\n2. Mezclar los garbanzos machacados con el aderezo y los demás ingredientes hasta combinarlos bien.\n3. Puede usar un procesador de alimentos para obtener una textura más suave, pero una textura gruesa imita más la ensalada tradicional de huevo.\n4. Servir rellenando tomates o sobre hojas de lechuga, con rodajas de pepino como guarnición.\n(Nota: Intente preparar porciones individuales o por lotes y congele los garbanzos extra en porciones para comidas).",
+  "url": null
+}

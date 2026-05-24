@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetable-marinade",
+  "name": "Marinada de Verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "marinadas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 paquete de coliflor congelada (10 onzas)",
+    "1 pepino, pelado y cortado en rodajas",
+    "1 tomate, cortado en gajos",
+    "1/3 taza de aceite vegetal",
+    "1/4 taza de vino blanco seco",
+    "2 cucharadas de jugo de limón",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra molida",
+    "1/8 cucharadita de sal de ajo",
+    "6 copas de lechuga"
+  ],
+  "recipeInstructions": "1. Cocinar la coliflor según las instrucciones del paquete; escurrir y refrigerar hasta enfriar.\n2. Colocar la coliflor fría, el pepino y el tomate en un bol.\n3. En un bol separado, mezclar el aceite, el vino blanco, el jugo de limón, la sal, la pimienta y la sal de ajo.\n4. Verter la mezcla sobre las verduras.\n5. Cubrir y refrigerar durante al menos 12 horas, pero no más de 24 horas, removiendo ocasionalmente.\n6. Servir en copas de lechuga.",
+  "url": null
+}

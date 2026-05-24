@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "crc-pancakes",
+  "name": "Tortitas de Crc",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "diabético",
+    "plato principal",
+    "tortitas"
+  ],
+  "recipeIngredient": [
+    "1 taza de queso cottage escurrido bajo en grasa",
+    "1 huevo ligeramente batido",
+    "1/2 taza de leche desnatada",
+    "1/2 cucharadita de polvo de hornear",
+    "1 taza de arroz cocido",
+    "1 cucharada de mostaza preparada",
+    "1/2 taza de harina",
+    "2/3 taza de maíz entero escurrido"
+  ],
+  "recipeInstructions": "1. Combinar el queso cottage y los huevos en un bol.\n2. Añadir la leche, el arroz y la mostaza; mezclar bien.\n3. En un bol aparte, combinar la harina con el polvo de hornear.\n4. Incorporar la mezcla de harina a la mezcla de queso cottage; remover hasta obtener una consistencia suave.\n5. Agregar el maíz y mezclar bien.\n6. Calentar una plancha antiadherente o sartén a fuego medio.\n7. Verter cucharadas generosas de la masa sobre la plancha caliente.\n8. Cocinar hasta que estén doradas por ambos lados, aproximadamente 2-3 minutos por lado.",
+  "url": null
+}

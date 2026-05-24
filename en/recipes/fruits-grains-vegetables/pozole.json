@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "pozole",
+  "name": "Pozole",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "american",
+    "ethnic",
+    "grains",
+    "mexican"
+  ],
+  "recipeIngredient": [
+    "6 cups corn [cacahuacintle descabezado]",
+    "6 pieces pig head meat",
+    "6 pieces pig elbow",
+    "Pork",
+    "8 dry huajillo chillis",
+    "1 head garlic",
+    "2 laurel leaves",
+    "salt",
+    "1 chopped head of lettuce",
+    "4 radishes",
+    "2 chopped onion",
+    "6 sliced limes",
+    "oregano",
+    "40 ground chili piquines"
+  ],
+  "recipeInstructions": "1. Cook the corn in 20 cups of water with the onion and garlic until tender.\n2. Add the meat to the pot when the corn is cooked and slice it once finished.\n3. Remove, hollow, soak, and grind the chilies.\n4. Traditionally served garnished with radishes, lettuce, sliced onion, oregano, chili piquines, sliced meat, lemon, and served with tortillas or tostadas.",
+  "url": null
+}

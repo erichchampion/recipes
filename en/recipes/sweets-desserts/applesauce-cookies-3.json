@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "applesauce-cookies-3",
+  "name": "Applesauce Cookies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "apple",
+    "baked goods",
+    "cookies",
+    "desserts",
+    "sauces"
+  ],
+  "recipeIngredient": [
+    "1 cup unsweetened applesauce",
+    "1 cup sugar",
+    "1/2 cup butter and lard",
+    "1 egg",
+    "2 cups flour",
+    "1 cup chopped raisins",
+    "1 cup chopped nuts",
+    "1 tsp baking powder",
+    "1 tsp baking soda",
+    "1 tsp cinnamon",
+    "1 tsp cloves",
+    "1/4 tsp salt"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a bowl.\n2. Form the mixture into small balls or drops, about 1 teaspoon each.\n3. Place the dough balls onto greased cookie sheets.\n4. Bake at 375°F (190°C) until golden brown and firm to the touch.",
+  "url": null
+}

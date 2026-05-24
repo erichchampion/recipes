@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-corn-bread",
+  "name": "Pan de maíz picante",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina",
+    "1 taza de masa de maíz",
+    "1 huevo",
+    "4 cucharaditas de polvo de hornear",
+    "1/2 taza de maíz (fresco o congelado)",
+    "1/4 taza de margarina",
+    "1 taza de leche",
+    "1/4 taza de azúcar",
+    "1 cucharadita de sal",
+    "2 cucharadas de pimiento rojo picado",
+    "1/8 cucharadita de pimienta cayena"
+  ],
+  "recipeInstructions": "Precalentar el horno a 425°F. Mezclar los ingredientes secos: harina, masa de maíz, polvo de hornear, azúcar y sal. En un bol separado, combinar el maíz, el huevo y la leche hasta que estén apenas integrados. Derretir la margarina en una sartén de hierro fundido o molde para pastel apta para horno caliente. Verter la margarina derretida en la mezcla y remover. Verter inmediatamente en la sartén caliente. Hornear durante 25 minutos.",
+  "url": null
+}

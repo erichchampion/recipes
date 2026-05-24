@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "california-brownies",
+  "name": "Brownies de California",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "brownie",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "10 oz de chocolate sin azúcar",
+    "2 1/2 tazas de mantequilla o margarina",
+    "10 huevos",
+    "5 tazas de azúcar",
+    "2 cucharaditas de sal",
+    "4 cucharaditas de extracto de vainilla",
+    "4 tazas de harina tamizada",
+    "1 1/3 taza de nueces picadas groseramente"
+  ],
+  "recipeInstructions": "1. Derrite el chocolate y la mantequilla juntos en un baño maría.\n2. En un bol grande, bate los huevos, el azúcar, la sal y la vainilla hasta que estén bien combinados.\n3. Agrega gradualmente la mezcla de chocolate derretido a la mezcla de huevo, removiendo hasta que esté completamente mezclado.\n4. Incorpora la harina poco a poco mientras sigues mezclando a velocidad baja.\n5. Añade las nueces picadas.\n6. Vierte la masa uniformemente en dos moldes para hornear engrasados de 18 x 12 pulgadas.\n7. Hornea a 350°F durante 20 a 25 minutos, teniendo cuidado de no sobrehornear.\n8. Deja enfriar ligeramente los brownies antes de cortarlos en cuadrados.",
+  "url": null
+}

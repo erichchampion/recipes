@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-muffins-2",
+  "name": "Muffins de manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de harina",
+    "1/4 taza de azúcar",
+    "1 cucharadita de bicarbonato de sodio",
+    "3 cucharaditas de especias mixtas (canela, nuez moscada, clavo y pimienta)",
+    "1 1/2 tazas de relleno de tarta de manzana",
+    "1 taza de pasas",
+    "1 huevo batido",
+    "4 onzas de mantequilla derretida"
+  ],
+  "recipeInstructions": "1. Mezclar la harina, el azúcar, el bicarbonato y las especias en un bol grande.\n2. Incorporar el relleno de manzana, las pasas, el huevo batido y la mantequilla derretida a los ingredientes secos. Remover hasta que todo esté bien combinado; la masa estará pegajosa.\n3. Verter la masa en un molde para muffins engrasado o en un molde para hornear de 12 cupos forrado con papel pergamino.\n4. Hornear durante 20 minutos a 350 °F (175 °C).\n5. Rinde 12 muffins.",
+  "url": null
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetable-curry",
+  "name": "Curry de Verduras",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "asiático",
+    "curry",
+    "étnico",
+    "indio"
+  ],
+  "recipeIngredient": [
+    "1 cebolla mediana, picada",
+    "1 cucharadita de sal",
+    "1 cucharadita de polvo de curry",
+    "1/2 cucharadita de pimienta negra",
+    "1/4 cucharadita de jengibre molido",
+    "1/4 cucharadita de comino en polvo",
+    "1/8 cucharadita de pimentón picante",
+    "2 zanahorias medianas, cortadas en rodajas de 1 pulgada",
+    "1/2 libra de judías verdes, cortadas en trozos de 1 pulgada",
+    "1 pimiento rojo, picado",
+    "1/2 cabeza de coliflor, dividida en floretes",
+    "1/2 libra de brócoli, cortado en pedazos pequeños",
+    "1/2 libra de calabacín, cortado en cubos de 1 pulgada",
+    "3/4 taza de agua"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla hasta que esté suave.\n2. Añadir las especias y cocinar durante 1 minuto.\n3. Incorporar el resto de los ingredientes a la sartén.\n4. Tapar y llevar la mezcla a ebullición.\n5. Reducir el fuego y dejar cocer a fuego lento hasta que las verduras estén tiernas, aproximadamente 20 minutos.\n6. Retirar la tapa, aumentar el fuego y cocinar unos minutos más para reducir los jugos de la sartén.\n7. Servir con arroz.\nUn curry de verduras es muy parecido a un salteado de verduras: infinitamente variable y adaptable a lo que tengas en la nevera en ese momento.",
+  "url": null
+}

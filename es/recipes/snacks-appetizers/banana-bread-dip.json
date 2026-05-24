@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-bread-dip",
+  "name": "Banana Bread Dip",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "postres",
+    "salsas",
+    "frutas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 taza de plátanos maduros, machacados",
+    "1 cucharada de jugo de limón",
+    "1 cucharada de extracto de vainilla",
+    "1/4 cucharadita de sal",
+    "1/2 taza de azúcar",
+    "1 1/2 cucharaditas de canela en polvo",
+    "1/4 cucharadita de nuez moscada molida",
+    "1/2 taza de avena rápida sin cocinar"
+  ],
+  "recipeInstructions": "1. No utilice los paquetes instantáneos para la avena. Utilice la avena rápida.\n2. Mezcle los plátanos y el jugo de limón, batiendo bien.\n3. Agregue todos los demás ingredientes, mezclando hasta combinar.\n4. Sirva inmediatamente.\nRinde aproximadamente 2 tazas de dip.\nSugerencias de sumergentes: frutas frescas o secas, galletas de chocolate, cubos de bizcocho o wafeles de vainilla.",
+  "url": null
+}

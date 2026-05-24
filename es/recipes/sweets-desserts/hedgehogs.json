@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "hedgehogs",
+  "name": "Hojas de erizo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de nueces",
+    "1 taza de dátiles",
+    "2 tazas de coco rallado fino",
+    "1 taza de azúcar moreno",
+    "2 huevos"
+  ],
+  "recipeInstructions": "1. Triturar las nueces y los dátiles juntos.\n2. Añadir el coco, el azúcar morena y los huevos a la mezcla triturada.\n3. Mezclar todos los ingredientes hasta que estén bien combinados.\n4. Formar la mezcla en rodillos pequeños.\n5. Rodear cada rodillo con coco extra para cubrir completamente.\n6. Hornear a 175 °C hasta que el coco esté ligeramente dorado.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pet-basket",
+  "name": "Cesta para Mascotas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Holiday Foods",
+  "keywords": [
+    "vacaciones",
+    "variado"
+  ],
+  "recipeIngredient": [
+    "Juguetes de catnip",
+    "Galletas para animales",
+    "Collar anti pulgas",
+    "Bocadillos",
+    "Hueso"
+  ],
+  "recipeInstructions": "1. Reúne todos los artículos mencionados anteriormente.\n2. Coloca los juguetes de catnip, galletas para animales, collar anti pulgas, bocadillos y hueso en la cesta.\n3. Organiza los elementos de forma ordenada dentro de la cesta.",
+  "url": null
+}

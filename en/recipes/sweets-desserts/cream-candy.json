@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cream-candy",
+  "name": "Cream Candy",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "candies",
+    "candy",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "2 cups Sugar",
+    "1/4 cup Butter",
+    "1 cup Shredded Coconut",
+    "1 cup Cream",
+    "1/4 cup White Syrup",
+    "1/2 tsp Vanilla"
+  ],
+  "recipeInstructions": "1. Boil sugar, butter, cream, and syrup together until it forms a soft ball when dropped into cold water.\n2. Remove from heat and add shredded coconut and vanilla.\n3. Beat with a spoon until the mixture cools slightly.\n4. Pour into a buttered 8x8-inch pan.",
+  "url": null
+}

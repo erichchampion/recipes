@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "double-pumpkin-bread-r-t",
+  "name": "Pan de calabaza doble",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "bajo en calorías",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cucharaditas de levadura seca activa (1 1/2 cucharadas)",
+    "1 2/3 tazas de harina de trigo (1 taza + 2 cucharadas)",
+    "1 1/2 tazas de harina integral (1 taza)",
+    "3 cucharadas de leche en polvo (2 cucharadas)",
+    "3 cucharadas de azúcar moreno (2 cucharadas)",
+    "1 1/2 cucharaditas de jengibre molido",
+    "1 1/2 cucharaditas de nuez moscada rallada",
+    "1 1/2 cucharaditas de canela en polvo",
+    "1 1/2 cucharaditas de sal",
+    "1 cucharadita de Wonderslim (1/2 cucharadita)",
+    "3/4 taza de calabaza enlatada (1/2 taza)",
+    "3/4 taza de agua, más 3 cucharadas",
+    "1/2 taza de semillas de calabaza asadas y sin cáscara"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto las semillas de calabaza según el manual de la máquina panificadora y procesar en el ciclo básico de pan como indica el fabricante.\n2. En la señal sonora (o al final del primer amasado en las marcas Panasonic o National), añadir las semillas de calabaza.\n3. Servir las rebanadas simples, con crema de queso, requesón o mantequilla si se desea.",
+  "url": null
+}

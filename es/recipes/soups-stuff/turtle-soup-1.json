@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "turtle-soup-1",
+  "name": "Sopa de Tortuga #1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "3 lb carne de tortuga",
+    "3 1/2 litros de agua",
+    "2 cebollas medianas picadas finamente",
+    "1 rama de apio picada finamente",
+    "1/2 hoja de laurel",
+    "2 ramitas de perejil",
+    "6 clavos",
+    "1 cucharada de azúcar",
+    "1 taza de tomates enlatados",
+    "3 cucharadas de mantequilla",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Retirar la carne de los huesos y reservar, manteniendo los huesos y el cartílago.\n2. Añadir las cebollas, el apio, la hoja de laurel, el perejil, los clavos, el azúcar, los tomates, los huesos, el cartílago y la sal y pimienta al agua; llevar a ebullición.\n3. Cocinar a fuego lento cubierto durante 1 hora.\n4. Mientras tanto, cortar la carne en cubos de 1/4 de pulgada y dorar en la mantequilla.\n5. Colar el caldo y desechar los huesos y verduras.\n6. Incorporar la carne dorada y las grasas al caldo. Cocinar a fuego lento durante 20-30 minutos hasta que la carne esté cocida y el caldo tenga un sabor rico.\n7. No sobrecocinar.\n8. Servir caliente.",
+  "url": null
+}

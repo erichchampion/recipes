@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "apples-apple-pie",
+  "name": "Tarta de Manzana con Manzanas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de agua",
+    "3/4 taza de azúcar",
+    "16 galletas saladas redondas (soda crackers)",
+    "1 barra de mantequilla, cortada en trozos",
+    "3/4 taza de crema de tártaro",
+    "1/2 cucharadita de canela",
+    "1/2 cucharadita de nuez moscada"
+  ],
+  "recipeInstructions": "1. Mezclar el agua y el azúcar en un bol.\n2. Triturar las galletas saladas y añadirlas a la mezcla.\n3. Incorporar la mantequilla, la crema de tártaro, la canela y la nuez moscada.\n4. Verter la mezcla en una masa de tarta sin hornear.\n5. Hornear a 180 °C hasta que esté dorada.",
+  "url": null
+}

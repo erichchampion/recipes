@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "sourdough-steak",
+  "name": "Sourdough Steak",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat",
+    "meats"
+  ],
+  "recipeIngredient": [
+    "3 lb Round steak [1 inch thick]",
+    "1 cup Flour",
+    "2 tsp Onion salt",
+    "2 tsp Paprika",
+    "1 tsp Pepper",
+    "1 cup Sourdough starter [recipe follows]",
+    "3/4 cup Shortening"
+  ],
+  "recipeInstructions": "1. Using a meat tenderizing mallet or knife, pound steak to 1 inch thick and cut into serving pieces.\n2. Combine flour and seasonings, and dip steak pieces in sourdough starter then in flour mixture.\n3. Fry in about 1 inch of hot shortening and serve.",
+  "url": null
+}

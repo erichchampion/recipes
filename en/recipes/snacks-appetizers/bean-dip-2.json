@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "bean-dip-2",
+  "name": "Bean Dip",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "dips",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1 pound ground beef",
+    "1 medium onion, chopped",
+    "1 can refried beans",
+    "1 can chili without beans",
+    "1 can green chiles, diced",
+    "1 pound Velveeta cheese"
+  ],
+  "recipeInstructions": "1. Brown the hamburger and onion; drain excess fat.\n2. Add the remaining ingredients to a crockpot.\n3. Cook on low for at least 2 hours.\n4. Serve with tortilla chips.",
+  "url": null
+}

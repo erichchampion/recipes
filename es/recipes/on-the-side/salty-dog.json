@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "salty-dog",
+  "name": "Perro Salado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz de vodka",
+    "5 oz de jugo de toronja; o hasta llenar",
+    "Sal para margarita",
+    "Hielo"
+  ],
+  "recipeInstructions": "1. Humedecer el borde de un vaso alto con jugo de limón y cubrirlo con sal para margarita u otra sal gruesa.\n2. Llenar el vaso con hielo.\n3. Verter el vodka y el jugo de toronja.\n4. Remover suavemente hasta que esté combinado.",
+  "url": null
+}

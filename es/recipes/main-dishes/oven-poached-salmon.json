@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "oven-poached-salmon",
+  "name": "Salmón al horno poché",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "salmón",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de zumo de limón",
+    "1 cucharada de jerez, vermut o vino",
+    "1 cucharada de mantequilla",
+    "1 manojo de eneldo",
+    "1 libra de filetes de salmón."
+  ],
+  "recipeInstructions": "1. Rocía una hoja de papel de aluminio con spray cocinero.\n2. Coloca el salmón sobre el centro del papel de aluminio.\n3. Añade zumo de limón y jerez al salmón.\n4. Hornea a 175°C durante 10 minutos.\n5. Abre el papel de aluminio, añade mantequilla y eneldo al salmón.\n6. Cierra el papel de aluminio y hornea durante otros 10 minutos.",
+  "url": null
+}

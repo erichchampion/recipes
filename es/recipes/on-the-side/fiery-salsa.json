@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "fiery-salsa",
+  "name": "Salsa Picante",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "étnica",
+    "mexicana",
+    "salsas",
+    "sopas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 cebolla grande",
+    "8 tomates",
+    "1/2 manojo de cilantro (sin tallos)",
+    "10 chiles jalapeños",
+    "Jugo de 1 lima",
+    "Jugo de 1 limón",
+    "2 cucharadas de vinagre",
+    "1 cucharadita de sal",
+    "1 cucharadita de pimienta",
+    "1 cucharadita de sal de ajo",
+    "1 cucharadita de orégano"
+  ],
+  "recipeInstructions": "1. Cortar la cebolla, los tomates, los chiles jalapeños y el cilantro en cubos muy pequeños.\n2. En un bol grande, mezclar todos los ingredientes restantes.\n3. Refrigerar durante la noche.",
+  "url": null
+}

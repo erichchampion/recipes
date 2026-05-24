@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "seven-happiness-soup",
+  "name": "Seven Happiness Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "low-calorie",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "4 cups Chicken Stock",
+    "1 slice Ginger",
+    "1 clove Garlic (halved)",
+    "1/2 cup Shredded Chinese Cabbage",
+    "1/3 cup Coarsely chopped Tofu",
+    "1/3 cup Thinly sliced Mushrooms",
+    "1/3 cup Snow Peas",
+    "1/3 cup Slivered Bamboo Shoots",
+    "1/3 cup Thin sliced Water Chestnuts",
+    "1/3 cup Sliced Carrots"
+  ],
+  "recipeInstructions": "1. Combine the chicken stock, ginger, and garlic in a pot.\n2. Simmer for 15 minutes.\n3. Remove the garlic and ginger from the pot.\n4. Add the remaining ingredients to the flavored stock.\n5. Gently simmer for an additional 20 minutes.",
+  "url": null
+}

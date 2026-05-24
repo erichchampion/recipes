@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "curried-mushrooms",
+  "name": "Curried Mushrooms",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "asian",
+    "ethnic",
+    "indian",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "1/2 lbs mushrooms",
+    "1 large onion",
+    "1/4 tsp turmeric",
+    "salt to taste",
+    "chili to taste",
+    "2 large tomatoes",
+    "oil"
+  ],
+  "recipeInstructions": "1. Wash the mushrooms and slice them finely.\n2. Slice the onion finely.\n3. Heat the oil in a pan, then add the turmeric and onions. Fry until the onions are soft.\n4. Add the sliced tomatoes and cook for 3 minutes, stirring constantly.\n5. Add the mushrooms to the pan. Cover and simmer for 15 to 20 minutes.\n6. Remove the cover and let any remaining moisture evaporate.\n7. Serve hot.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "supreme-style-pizza",
+  "name": "Pizza al estilo supremo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carnes",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 masa grande de 12\" Boboli o",
+    "4 masas pequeñas de 6\" Boboli",
+    "5 oz de salsa de pizza Boboli para masa grande",
+    "1 1/4 oz de salsa de pizza para cada masa pequeña de 6\"",
+    "2 oz de queso provolone rallado",
+    "2 oz de pepperoni",
+    "1 oz de tocino canadiense",
+    "1 oz de salami duro picado",
+    "2 oz de mozzarella rallada",
+    "2 oz de aceitunas negras en rodajas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 450°F (232°C).\n2. Extender la salsa de pizza uniformemente sobre la base de cada masa.\n3. Espolvorear el queso provolone sobre la salsa.\n4. Añadir rebanadas de pepperoni.\n5. Agregar tiras de tocino canadiense.\n6. Distribuir trozos de salami duro.\n7. Cubrir con mozzarella rallada y rodajas de aceituna negra.\n8. Hornear durante 12-15 minutos (5-8 minutos si se usan masas pequeñas).",
+  "url": null
+}

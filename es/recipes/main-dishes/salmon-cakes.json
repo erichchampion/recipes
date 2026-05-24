@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "salmon-cakes",
+  "name": "Pasteles de salmón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "salmón",
+    "marisco",
+    "peso vigilantes"
+  ],
+  "recipeIngredient": [
+    "5 onzas de salmón enlatado, escurrido y enjuagado",
+    "3 onzas de mezcla de coleslaw",
+    "1/4 taza de migas de pan, más 2 cucharadas",
+    "1 huevo",
+    "2 cucharadas de cilantro picado",
+    "1 cucharada de mayonesa (poca grasa)",
+    "2 cucharaditas de mostaza",
+    "Una pizca de pimienta negra",
+    "4 bollos"
+  ],
+  "recipeInstructions": "1. En un bol mediano, mezcle todos los ingredientes excepto los bollos.\n2. Mezcle bien con un tenedor.\n3. Divida la mezcla en cuatro partes y forme cada una en una hamburguesa de 1 cm de grosor.\n4. Rocíe una sartén antiadherente grande con spray antiadherente y colóquela a fuego medio-alto.\n5. Cocine las hamburguesas hasta que estén doradas por ambos lados, durante 8-10 minutos.\n6. Sirva sobre los bollos.",
+  "url": null
+}

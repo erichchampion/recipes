@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-cherry-pie",
+  "name": "Tarta de cerezas falsa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tarta",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 masas de tarta de 23 cm",
+    "1 taza de arándanos frescos, cortados por la mitad",
+    "1/2 taza de pasas",
+    "1 taza de azúcar",
+    "1 cucharada de mantequilla",
+    "2 cucharadas de harina",
+    "1 cucharadita de extracto de vainilla",
+    "3/4 taza de agua hirviendo"
+  ],
+  "recipeInstructions": "1. Coloca una masa en un molde para tarta de 23 cm.\n2. Mezcla los ingredientes restantes y viértelos sobre la base.\n3. Cubre con la otra masa.\n4. Hornea a 180 °C durante 30-40 minutos, o hasta que la masa esté dorada.",
+  "url": null
+}

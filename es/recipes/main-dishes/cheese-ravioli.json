@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-ravioli",
+  "name": "Raviolis de queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 Paquete de raviolis rellenos de queso congelados, 30 oz (85 g)",
+    "1 Latas de sopa de queso cheddar condensado, 11 oz (310 g)",
+    "1 1/4 Tazas de leche",
+    "1 Taza de queso mozzarella rallado, 4 oz (115 g)",
+    "1/2 Cucharadita de condimento italiano",
+    "1/2 Taza de queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. Cocinar los raviolis según las instrucciones del paquete.\n2. Calentar la sopa y la leche hasta que hierva en una cacerola de 2 cuartos, removiendo ocasionalmente.\n3. Incorporar el queso mozzarella y el condimento italiano.\n4. Cocinar a fuego lento, removiendo constantemente, hasta que el queso se derrita.\n5. Escurrir los raviolis; colocarlos en un molde para hornear o plato apto para horno de 2 cuartos sin engrasar.\n6. Verter la mezcla de queso sobre los raviolis.\n7. Servir con queso parmesano rallado por encima.",
+  "url": null
+}

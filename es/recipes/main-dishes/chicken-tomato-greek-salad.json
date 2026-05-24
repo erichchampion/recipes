@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-tomato-greek-salad",
+  "name": "Ensalada Griega de Pollo y Tomate",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "etnica",
+    "griega",
+    "aves de corral",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 lata de trozos de pollo blanco (10 oz), escurrido",
+    "1 lata de tomates S&W cortados listos, escurridos",
+    "3/4 taza de pepino sin pelar, picado",
+    "1 calabacín mediano, picado",
+    "1/4 taza de cebolla picada",
+    "10 aceitunas negras S&W extra grandes, deshuesadas",
+    "1/4 taza de queso feta desmenuzado",
+    "1/4 taza de vino blanco S&W Vintage Lites"
+  ],
+  "recipeInstructions": "1. Mezclar el pollo, los tomates, el pepino, el calabacín, la cebolla, las aceitunas y el queso en un bol grande.\n2. Añadir el aderezo y mezclar bien.\n3. Servir sobre hojas de lechuga.",
+  "url": null
+}

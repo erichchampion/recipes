@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "hurricane-fruit-salad",
+  "name": "Ensalada de frutas huracán",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "diabetico",
+    "frutas",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 taza de plátanos en rodajas",
+    "1 taza de secciones de naranja fresca, peladas",
+    "1/2 taza de fresas en rodajas",
+    "1 taza de trozos de piña fresca",
+    "1/2 taza de kiwi en rodajas, pelado"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el coco y la lechuga. Tapar y refrigerar durante 1-2 horas.\n2. Colocar hojas de lechuga en un plato.\n3. Servir la mezcla sobre la lechuga.\n4. Decorar con coco rallado.",
+  "url": null
+}

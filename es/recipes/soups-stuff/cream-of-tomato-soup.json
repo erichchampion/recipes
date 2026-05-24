@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "cream-of-tomato-soup",
+  "name": "Sopa de tomate cremosa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de jugo de tomate fresco",
+    "1/4 taza de jugo de cebolla verde",
+    "1/4 taza de jugo de papa",
+    "1 taza de crema de leche",
+    "Sal y pimienta al gusto",
+    "3 cucharadas de albahaca fresca picada"
+  ],
+  "recipeInstructions": "1. En una olla, mezclar los jugos de tomate, cebolla verde y papa.\n2. Agregar la crema de leche, sal, pimienta y llevar a ebullición suave.\n3. Incorporar la albahaca fresca picada.\n4. Servir en platos individuales y decorar con ramitas de albahaca fresca.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-dough-5",
+  "name": "Pizza Dough",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "dough",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "2 cups all-purpose flour",
+    "1 teaspoon sugar",
+    "1 packet active dry yeast",
+    "1/2 cup warm water (about 110°F)",
+    "2 tablespoons olive oil",
+    "Salt to taste"
+  ],
+  "recipeInstructions": "1. In a large bowl, mix together the flour and salt.\n2. Make a well in the center and add the sugar, yeast, and warm water.\n3. Stir until combined, then drizzle with olive oil.\n4. Knead the dough on a floured surface for about 10 minutes until smooth.\n5. Place the dough in an oiled bowl, cover, and let it rise in a warm place for at least 1 hour or until doubled in size.\n6. Punch down the dough, divide into four portions, shape into balls, and let rest for another 10 minutes.\n7. Shape each ball into a 12-inch pizza by stretching on a floured surface.\n8. Let the shaped pizzas rise briefly before baking according to your preferred method.",
+  "url": null
+}

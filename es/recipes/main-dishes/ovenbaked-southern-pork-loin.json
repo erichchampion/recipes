@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "ovenbaked-southern-pork-loin",
+  "name": "Lomo de cerdo al horno del sur",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "2 1/2 lb lomo de cerdo con hueso",
+    "3 cucharadas de puré de tomate",
+    "Salsa de untado:",
+    "2 cucharadas de vinagre de sidra",
+    "1/2 taza de cebolla picada",
+    "2 cucharadas de melaza",
+    "1/2 taza de apio picado",
+    "2 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "Precalentar el horno a 350°F.\nSaltear la cebolla y el apio en la mantequilla hasta que estén suaves.\nAñadir el puré de tomate, vinagre y melaza. Mezclar bien.\nColocar la carne sobre una rejilla para asar. Untar con un poco de salsa.\nHornear hasta que el cerdo esté tierno y los jugos sean claros al pincharlo con un tenedor (aproximadamente 90 minutos o según el grosor de la carne).\nUntar el cerdo con salsa de vez en cuando.\nServir caliente.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "grapefruit-strawberry-punch",
+  "name": "Punch de Toronja y Fresa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "fruta",
+    "vacaciones",
+    "ponche",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "8 onzas de jugo de toronja concentrado congelado",
+    "2 libras de fresas congeladas, descongeladas",
+    "2 litros de agua con gas de jengibre",
+    "Cubos de hielo"
+  ],
+  "recipeInstructions": "1. Triturar las fresas.\n2. Colocar las fresas trituradas en un bol.\n3. Reconstituir el jugo de toronja a partir del concentrado congelado.\n4. Verter el jugo de toronja reconstituido sobre las fresas trituradas.\n5. Añadir hielo y agua con gas al gusto.",
+  "url": null
+}

@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "greek-burgers",
+  "name": "Hamburguesas griegas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecua",
+    "carne de res",
+    "hamburguesas",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne picada de cordero",
+    "1 cucharada de mostaza dijon",
+    "1 cucharada de zumo de limón",
+    "1 cucharada de cebolla picada",
+    "1 diente de ajo, picado",
+    "1/2 cucharadita de romero seco molido",
+    "1/2 cucharadita de sal o al gusto",
+    "1/4 cucharadita de pimienta negra",
+    "4 bollos de hamburguesa, hogazas duras o pitas, cortados por la mitad",
+    "Pepino en rodajas para decorar",
+    "Tomate en rodajas para decorar",
+    "Aderezo de ensalada ranch para decorar (opcional)"
+  ],
+  "recipeInstructions": "1. En un bol mediano, mezcle todos los ingredientes excepto los bollos y los aderezos; mézclelos bien.\n2. Forme cuatro hamburguesas.\n3. Saltee, asa a la parrilla o hornea hasta que ya no quede rosado.\n4. Sirva sobre los bollos con pepino, tomate y aderezo de ensalada ranch, si lo desea.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-cacciatore-stew",
+  "name": "Estofado de Pollo al Estilo Cacciatore",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "garbanzos",
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 cebolla mediana, cortada en rodajas finas",
+    "1 pimiento verde mediano, cortado en trozos de 2 cm",
+    "3 pechugas de pollo deshuesadas y sin piel, cortadas en trozos de 2 cm",
+    "1 lata de 400 g de garbanzos, escurridos",
+    "1 frasco de 400 g de salsa para pasta",
+    "1 lata de 340 g de champiñones en trozos y tallos, escurridos"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en una olla de cocción lenta.\n2. Mezclar bien.\n3. Tapar y cocinar a fuego lento durante al menos 6 horas.",
+  "url": null
+}

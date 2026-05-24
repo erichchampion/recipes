@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "stir-fried-beef",
+  "name": "Bistec salteado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "3/4 lb de solomillo de res",
+    "1/4 taza de aceite de oliva",
+    "2 dientes de ajo, prensados",
+    "1 pimiento jalapeno, en rodajas",
+    "1 pimiento rojo, en rodajas",
+    "2 zanahorias, cortadas en juliana",
+    "1/2 repollo, cortado en floretes",
+    "1 papa, cortada en juliana",
+    "1/2 lb de setas, en rodajas",
+    "Cilantro",
+    "Perejil"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en un wok o sartén ancha a fuego medio.\n2. Añadir el ajo y el jalapeno; cocinar hasta que fragance, unos 30 segundos.\n3. Agregar tiras de res a la sartén y saltear hasta que estén doradas por todos lados.\n4. Retirar la carne con una cuchara perforada y mantenerla caliente.\n5. Añadir los pimientos, zanahorias, repollo, papa y setas a la misma sartén.\n6. Cocinar las verduras hasta que estén tiernas pero crujientes, unos 5 minutos.\n7. Devolver la carne a la sartén; cocinar por 2 minutos adicionales o hasta que la carne esté bien caliente.\n8. Servir caliente sobre tortillas de harina.",
+  "url": null
+}

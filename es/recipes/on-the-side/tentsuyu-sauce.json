@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tentsuyu-sauce",
+  "name": "Salsa Tentsuyu",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 taza de caldo claro",
+    "1/3 taza de mirin",
+    "1/3 taza de jerez dulce",
+    "1/3 taza de miel",
+    "1/3 taza de salsa de soja",
+    "1 cucharadita de glutamato monosódico (opcional)",
+    "1 trozo de rábano daikon de 2,5 cm",
+    "Mostaza (rallada o en polvo)",
+    "Jengibre rallado al gusto",
+    "Jugo de limón (opcional)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto la mostaza, el jengibre y el jugo de limón.\n2. Llevar a ebullición y luego retirar del fuego.\n3. Rallar el rábano daikon.\n4. Si se usa mostaza en polvo, hidratarla primero.\n5. Servir la salsa caliente en cuencos individuales.\n6. Colocar una porción de rábano rallado con mostaza encima de cada plato de tempura.\n7. Cada comensal mezclará la cantidad deseada de esta mezcla con su salsa.\n8. Añadir jugo de limón al gusto. Esta salsa se utiliza principalmente para acompañar tempura.",
+  "url": null
+}

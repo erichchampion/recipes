@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "this-is-chili",
+  "name": "Este...es Chili",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "entrada",
+    "mexicana",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de manteca (mantequilla o manteca vegetal)",
+    "5 tazas de cebolla picada",
+    "2 cucharadas de ajo picado",
+    "2 libras de carne molida (redonda o chorizo)",
+    "2 libras de carne de cerdo magra",
+    "70 onzas de tomates enlatados (escurridos)",
+    "24 onzas de puré de tomate",
+    "1 cucharadita de orégano seco",
+    "1 cucharadita de comino molido",
+    "1 hoja de laurel",
+    "3 tazas de frijoles pintos cocidos, enjuagados y escurridos",
+    "2 tazas de queso cheddar rallado (o cualquier otro queso fuerte)",
+    "4 tazas de cebolla morada picada finamente"
+  ],
+  "recipeInstructions": "1. Calentar la manteca en una sartén grande a fuego medio.\n2. Agregar las cebollas y el ajo; cocinar, revolviendo ocasionalmente, durante 4-5 minutos hasta que estén ablandadas pero no doradas.\n3. Incorporar la carne molida y la carne de cerdo; continuar cocinando hasta que ya no quede color rosado.\n4. Agregar los tomates enlatados (con jugo), el puré de tomate, el orégano, el comino, la hoja de laurel y los frijoles pintos.\n5. Llevar a ebullición, luego reducir el fuego y cocinar a fuego lento, cubierto, durante 2 horas.\n6. Descubrir y cocinar a fuego lento durante 1-2 horas adicionales hasta que se espese a la consistencia deseada.\n7. Apagar el fuego. Servir caliente, adornado con queso rallado y cebolla morada picada.",
+  "url": null
+}

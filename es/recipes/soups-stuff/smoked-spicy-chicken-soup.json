@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "smoked-spicy-chicken-soup",
+  "name": "Sopa de Pollo Picante ahumado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopa",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 pechuga de pollo entera ahumada",
+    "2 pimientos chipotle enteros",
+    "1 pimiento verde entero",
+    "1 cebolla roja entera",
+    "1 taza de arroz basmati",
+    "6 tazas de agua"
+  ],
+  "recipeInstructions": "1. Calentar una sartén a fuego medio.\n2. Añadir la cebolla picada y saltear durante 5 minutos.\n3. Cortar finamente el pollo ahumado y añadirlo a la sartén.\n4. Verter el agua, dejar hervir durante 3 minutos.\n5. Incorporar los pimientos chipotle y el arroz basmati.\n6. Tapar bien y cocinar a fuego lento hasta que el arroz esté hecho.",
+  "url": null
+}

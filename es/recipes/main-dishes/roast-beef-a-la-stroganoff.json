@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "roast-beef-a-la-stroganoff",
+  "name": "Bistec asado al estilo Stroganov",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de apio picado",
+    "1 cucharadita de salsa de soja",
+    "1 cebolla, picada finamente",
+    "1 1/2 tazas de caldo de carne",
+    "1 taza de crema agria",
+    "1/4 libra de setas, laminadas",
+    "1/2 taza de mantequilla",
+    "1/2 taza de harina",
+    "2 tazas de roast beef en rodajas, cocido"
+  ],
+  "recipeInstructions": "1. Cocinar el apio, la cebolla y las setas en la mantequilla hasta que estén tiernos.\n2. Incorporar la harina y la salsa de soja.\n3. Añadir el caldo; cocinar, removiendo hasta espesar.\n4. Mezclar la crema agria.\n5. Agregar el roast beef y calentar a fuego lento.\n6. Servir con arroz o fideos cocidos al vapor.",
+  "url": null
+}

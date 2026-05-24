@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "miso-soup-5",
+  "name": "Miso Soup",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "japanese",
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "4 cups Water",
+    "1/4 cup Miso (fermented soybean paste)"
+  ],
+  "recipeInstructions": "1. Boil water and add dashi.\n2. Add vegetable ingredients such as fresh daikon slices, tofu, or wakame seaweed (soaked for 15 minutes).\n3. Cook vegetables for 1 minute.\n4. Reduce heat to low and stir in miso gradually.\n5. Garnish with freshly shredded scallion before serving.",
+  "url": null
+}

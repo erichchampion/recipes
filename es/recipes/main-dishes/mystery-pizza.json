@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mystery-pizza",
+  "name": "Pizza Misterio",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "3/8 taza de queso ricota (parte desnatado)",
+    "1/4 taza de pasta de tomate",
+    "1/4 cucharadita de orégano",
+    "2 cucharadas de setas",
+    "3/4 onza de mozzarella",
+    "3 cucharadas de harina"
+  ],
+  "recipeInstructions": "1. En un bol pequeño, mezclar el ricota y la harina.\n2. Colocar la mezcla en el centro de una bandeja para hornear pequeña rociada con spray.\n3. Extender la mezcla en un círculo de 7 pulgadas, levantando los bordes.\n4. Hornear a 175 °C durante unos 20 minutos.\n5. En un bol pequeño aparte, combinar la pasta de tomate, el orégano y la salsa Worcestershire.\n6. Verter la salsa sobre la base.\n7. Cubrir con setas y queso mozzarella.\n8. Hornear durante 10 minutos adicionales a 175 °C.",
+  "url": null
+}

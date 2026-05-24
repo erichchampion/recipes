@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-cheese-2",
+  "name": "Queso de Cerveza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "3 libras de queso cheddar fuerte rallado",
+    "1 cebolla picada finamente",
+    "Cerveza antigua",
+    "Salsa Tabasco (5-6 gotas)",
+    "1/2 tarro de mostaza crema",
+    "Pimienta roja molida",
+    "Ajo al gusto"
+  ],
+  "recipeInstructions": "1. Mezcla la cebolla picada, el queso rallado, la salsa Tabasco, la mostaza crema, la pimienta roja y el ajo al gusto.\n2. Agrega gradualmente la cerveza antigua hasta obtener la consistencia deseada para un dip de queso.\n3. Sirve con galletas saladas, chips de nachos o apio.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pumpkin-fritters",
+  "name": "Fritas de Calabaza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "frituras",
+    "pasteles"
+  ],
+  "recipeIngredient": [
+    "1 huevo batido",
+    "2 tazas de calabaza enlatada",
+    "1/2 taza de harina",
+    "1/2 taza de leche",
+    "2 cucharadas de mantequilla derretida",
+    "Sal y pimienta al gusto",
+    "1 cucharadita de polvo de hornear"
+  ],
+  "recipeInstructions": "1. En un bol, bate juntos el huevo, la calabaza, la harina, la leche y la mantequilla derretida.\n2. Añade la sal, la pimienta y el polvo de hornear y mezcla bien.\n3. Vierte cucharadas de masa en aceite caliente profundo.\n4. Fríe los pastelitos hasta que estén dorados; escúrrelos sobre papel absorbente.\n5. Sirve con jamón o tocino crujiente.",
+  "url": null
+}

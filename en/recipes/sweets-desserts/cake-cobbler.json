@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cake-cobbler",
+  "name": "Cake Cobbler",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cobblers",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1/4 cup Margarine",
+    "3/4 cup Flour",
+    "1/4 tsp Salt",
+    "1 tsp Baking Powder",
+    "1 cup Sugar",
+    "1/2 cup Milk",
+    "1 can Fruit, Juice"
+  ],
+  "recipeInstructions": "1. Melt margarine in the bottom of an oblong cobbler pan.\n2. Empty the can of fruit and juice into the melted margarine, scattering evenly over the pan.\n3. Sift salt, baking powder, and flour together.\n4. Add sugar and milk to the sifted dry ingredients. Mix until smooth.\n5. Pour the batter over the fruit mixture.\n6. Bake at 375°F for 30-40 minutes.\n7. Sprinkle with cinnamon-sugar if desired and serve with nonfat dairy topping or ice cream.",
+  "url": null
+}

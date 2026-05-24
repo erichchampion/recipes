@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "dessert-nachos",
+  "name": "Nachos de Postre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres"
+  ],
+  "recipeIngredient": [
+    "12 galletas Graham",
+    "8 onzas (240 ml) de Cool Whip descongelado",
+    "1 taza de fresas cortadas en rodajas",
+    "1 taza de kiwi pelado y cortado en rodajas",
+    "1 taza de plátanos cortados en rodajas",
+    "Topping para postre de fresa"
+  ],
+  "recipeInstructions": "1. Romper las galletas Graham por la mitad.\n2. Marcar cada mitad diagonalmente con un cuchillo.\n3. Cortar en triángulos.\n4. Disponer la mitad de las galletas en una sola capa sobre una bandeja para servir.\n5. Extender uniformemente la mitad del Cool Whip sobre las galletas.\n6. Cubrir con la mitad de las frutas.\n7. Churrasquear con topping para postre.\n8. Repetir las capas y refrigerar hasta el momento de servir.",
+  "url": null
+}

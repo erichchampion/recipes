@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-loaf-recipe-for-legumes",
+  "name": "Basic Loaf Recipe for Legumes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "main dish",
+    "special diets",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "1 cup cooked legumes",
+    "1 cup bread crumbs (wheat germ or ground nuts)",
+    "1 cup liquid (soymilk, tomato juice, etc.)",
+    "Seasonings to taste - garlic, onions, etc."
+  ],
+  "recipeInstructions": "1. Mix all ingredients thoroughly.\n2. Place the mixture in a loaf pan.\n3. Bake at 350 degrees Fahrenheit in an oven until firm, about 30 minutes.",
+  "url": null
+}

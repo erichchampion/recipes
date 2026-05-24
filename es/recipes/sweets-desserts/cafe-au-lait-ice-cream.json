@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cafe-au-lait-ice-cream",
+  "name": "Helado de Café au Lait",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "2 huevos, batidos",
+    "1/2 taza de azúcar",
+    "1 1/2 tazas de leche",
+    "2 cucharadas de granulos de café instantáneo",
+    "1/2 cucharadita de extracto de vainilla",
+    "1/4 taza de marshmallows en miniatura",
+    "1 taza de media crema o nata para montar"
+  ],
+  "recipeInstructions": "1. En una cacerola mediana, combinar los huevos batidos, el azúcar y la leche.\n2. Cocinar y remover a fuego lento hasta que la mezcla espese y recubra la cuchara.\n3. Añadir los granulos de café; continuar removiendo hasta que se disuelvan.\n4. Incorporar la vainilla y los marshmallows hasta que estén completamente integrados.\n5. Dejar reposar 15 minutos para enfriar.\n6. Mezclar la media crema o nata para montar.\n7. Verter la mezcla en un recipiente para helado.\n8. Congelar según las instrucciones del fabricante, lo que normalmente da como resultado aproximadamente 1 litro de helado.",
+  "url": null
+}

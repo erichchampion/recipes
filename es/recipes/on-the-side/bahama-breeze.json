@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "bahama-breeze",
+  "name": "Brisa de las Bahamas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 oz de ron oscuro",
+    "1/2 oz de licor de plátano",
+    "1/2 oz de licor de albaricoque",
+    "1/2 oz de ron de coco",
+    "1/4 oz de granadina",
+    "1/4 oz de miel",
+    "1/2 oz de jugo de limón",
+    "1 oz de jugo de naranja",
+    "1 oz de jugo de piña"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un agitador con unos cubos de hielo.\n2. Agitar bien hasta enfriar.\n3. Colar la mezcla en un vaso alto lleno de hielo fresco.\n4. Decorar con rodajas de naranja, cerezas u otras guarniciones al gusto.",
+  "url": null
+}

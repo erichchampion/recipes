@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "fireside-coffee",
+  "name": "Fireside Coffee",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "coffee",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 cups Swiss Miss",
+    "2 cups Cremora",
+    "1 1/2 cups Sugar",
+    "1 cup Instant coffee",
+    "1 1/2 tablespoons Cinnamon",
+    "1/2 tablespoon Nutmeg"
+  ],
+  "recipeInstructions": "1. Mix all ingredients together in a large, airtight container.\n2. Use 3 to 4 heaping teaspoons per cup of hot water when brewing.",
+  "url": null
+}

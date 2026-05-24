@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "cherry-chocolate-cake",
+  "name": "Tarta de chocolate con cerezas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "3/4 taza de azúcar",
+    "3/4 taza de aceite vegetal",
+    "2 huevos",
+    "2 cucharaditas de extracto de vainilla",
+    "1 1/4 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de canela",
+    "1/2 cucharadita de sal",
+    "21 onzas de relleno de tartas de cereza",
+    "6 onzas de chispas de chocolate",
+    "1 taza de nueces picadas (opcional)"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcle la harina, el azúcar, el aceite, los huevos, la vainilla, el bicarbonato, la canela y la sal hasta obtener una masa homogénea.\n2. Incorpore el relleno de cereza, las chispas de chocolate y las nueces picadas (si se desea).\n3. Vierta la mezcla en un molde para pastel engrasado y enharinado.\n4. Hornee a 175 °C durante 1 a 1 hora y media.\n5. Deje enfriar durante 10 minutos en el molde.\n6. Espolvoree con azúcar glas.",
+  "url": null
+}

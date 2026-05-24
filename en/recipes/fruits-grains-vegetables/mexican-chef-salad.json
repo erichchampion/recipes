@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-chef-salad",
+  "name": "Mexican Chef Salad",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "beef",
+    "mexican",
+    "salads"
+  ],
+  "recipeIngredient": [
+    "1 lb extra lean ground beef",
+    "1 tbsp chili powder",
+    "1 can kidney beans, rinsed and drained",
+    "1 onion, chopped",
+    "2 tomatoes, chopped",
+    "1 head lettuce, torn",
+    "2 cups shredded cheddar cheese",
+    "1 avocado, chopped",
+    "1 bag tortilla chips, coarsely crushed",
+    "Dressing:",
+    "1/2 cup catsup",
+    "1/4 cup mayonnaise",
+    "1/4 cup sour cream",
+    "1 tbsp chili powder"
+  ],
+  "recipeInstructions": "1. Mix together dressing ingredients and chill.\n2. Cook ground beef until fully cooked.\n3. Drain the cooked beef and mix with 1 tablespoon of chili powder.\n4. In a large bowl, combine the remaining salad ingredients (lettuce, tomatoes, cheese, avocado).\n5. Pour the chilled dressing over the salad mixture.\n6. Toss all ingredients to ensure even distribution of dressing.\n7. Top the salad with crushed tortilla chips before serving.",
+  "url": null
+}

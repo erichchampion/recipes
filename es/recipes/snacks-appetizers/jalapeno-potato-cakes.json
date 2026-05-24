@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "jalapeno-potato-cakes",
+  "name": "Tortas de patata con jalapeño",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "caliente",
+    "patatas",
+    "guarniciones",
+    "tentempiés",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "5 patatas cocidas",
+    "4 cucharadas de pimientos jalapeno; picados",
+    "2 huevos",
+    "1 cucharadita de pimienta negra molida",
+    "1 cucharadita de sal",
+    "1 cucharada de aceite de elección",
+    "1 caviar, opcional"
+  ],
+  "recipeInstructions": "1. Cortar las patatas en juliana manteniendo la piel.\n2. Batir ligeramente los huevos.\n3. En un bol, mezclar todos los ingredientes y presionar para formar pasteles de 5 onzas.\n4. Saltear cada pastel en el aceite elegido hasta que esté dorado.\n5. Servir con crema agria sazonada o sin sazonar y espolvorear con caviar.",
+  "url": null
+}

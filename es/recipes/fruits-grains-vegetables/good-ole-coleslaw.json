@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "good-ole-coleslaw",
+  "name": "Buen viejo coleslaw",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 lb de col (preferiblemente col rojo y blanco)",
+    "1 zanahoria grande, rallada",
+    "1 cebolla pequeña, picada finamente",
+    "3/4 taza de mayonesa",
+    "1/4 taza de crema agria",
+    "3 cucharadas de vinagre",
+    "2 cucharaditas de mostaza dijon",
+    "1 cucharadita de azúcar",
+    "Sal y pimienta al gusto",
+    "2 cucharaditas de semillas de eneldo"
+  ],
+  "recipeInstructions": "1. Cortar la col en tiras finas con un cuchillo afilado o la hoja de rebanar de un procesador de alimentos o rallador.\n2. Colocar la col rallada en un bol junto con la zanahoria rallada y la cebolla picada.\n3. En un bol pequeño, batir juntos la mayonesa, la crema agria, el vinagre, la mostaza dijon, el azúcar, la sal y la pimienta al gusto.\n4. Verter la mezcla del paso 3 sobre las verduras en el bol del paso 2 y mezclar bien.\n5. Dejar reposar la ensalada de col en el refrigerador durante al menos una hora.\n6. Agregar las semillas de eneldo justo antes de servir.",
+  "url": null
+}

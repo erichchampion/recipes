@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-pancake-mix",
+  "name": "Mezcla básica para tortitas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "varios",
+    "mezclas"
+  ],
+  "recipeIngredient": [
+    "10 tazas de harina de uso común",
+    "2 1/2 tazas de leche en polvo sin grasa",
+    "1/2 taza de azúcar granulada",
+    "1/4 taza de polvo de hornear",
+    "2 cucharadas de sal"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande.\n2. Revolver hasta que esté bien combinado.\n3. Colocar la mezcla en un recipiente grande para almacenar, o dividirla en bolsas de almacenamiento individuales (1 1/2 tazas por bolsa).\n4. Almacenar en un lugar fresco y seco durante hasta 8 meses.\nRinde 13 tazas de mezcla seca.",
+  "url": null
+}

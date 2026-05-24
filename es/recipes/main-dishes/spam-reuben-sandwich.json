@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "spam-reuben-sandwich",
+  "name": "Sándwich Reuben con Spam",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 lata de chucrut, escurrido (8 oz)",
+    "1 taza de queso suizo rallado",
+    "1/4 taza de aderezo Thousand Island",
+    "8 rebanadas de pan de centeno",
+    "3 cucharadas de mantequilla o margarina ablandada",
+    "1 lata de carne de almuerzo SPAM, cortada en 8 rebanadas (12 oz)"
+  ],
+  "recipeInstructions": "1. En un bol pequeño, mezclar el chucrut, el queso suizo rallado y el aderezo Thousand Island.\n2. Untar mantequilla en un lado de cada rebanada de pan.\n3. Extender la mitad de la mezcla de chucrut sobre el lado sin untar de cuatro rebanadas de pan.\n4. Colocar dos rebanadas de SPAM encima de cada una de las cuatro rebanadas con chucrut.\n5. Cubrir cada sándwich con la mezcla de chucrut restante y espolvorear queso suizo por encima.\n6. Tapar cada sándwich con las rebanadas de pan restantes, con el lado untado hacia arriba.\n7. Calentar una sartén o plancha a fuego medio.\n8. Colocar los sándwiches sobre la superficie caliente y cocinar hasta que se derrita el queso y ambos lados estén dorados.",
+  "url": null
+}

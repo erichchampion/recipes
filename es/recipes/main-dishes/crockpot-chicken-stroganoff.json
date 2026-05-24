@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-chicken-stroganoff",
+  "name": "Estofado de Pollo al Estilo Stroganoff",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "6 pechugas de pollo sin hueso",
+    "1 recipiente grande de crema agria",
+    "1 lata de sopa de setas cremosas (o cualquier sopa cremosa)",
+    "1 sobre de mezcla de sopa seca de cebolla Lipton"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en la olla de cocción lenta.\n2. Cocinar a fuego lento durante 4 a 6 horas, o hasta que el pollo esté tierno.\n3. Servir sobre pasta cocida o arroz.",
+  "url": null
+}

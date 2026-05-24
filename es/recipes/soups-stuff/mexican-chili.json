@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-chili",
+  "name": "Chili mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "chili",
+    "olla de cocción lenta",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "15 1/2 oz de frijoles chili, calientes y picantes",
+    "15 1/2 oz de frijoles chili, calientes",
+    "28 oz de tomates, cortados en cubos",
+    "1 1/2 taza de apio, picado",
+    "1 taza de cebolla, picada",
+    "1/2 taza de pimiento verde, picado",
+    "4 oz de chiles verdes, escurridos, desvenados y picados",
+    "2 cucharadas de azúcar",
+    "1 hoja de laurel",
+    "1 1/2 cucharadita de sal",
+    "1 cucharadita de orégano seco, molido",
+    "1/2 cucharadita de polvo de ajo",
+    "1 pizca de pimienta"
+  ],
+  "recipeInstructions": "1. Combinar los frijoles, tomates sin escurrir, apio, cebolla, pasta de tomate, pimiento verde, chiles verdes, azúcar, hoja de laurel, sal, orégano, polvo de ajo y pimienta en una olla de cocción lenta.\n2. Dorar la carne molida en una sartén; escurrir y mezclar con la mezcla de tomate.\n3. Cocinar a fuego lento durante 8 a 10 horas.\n4. Retirar la grasa excesiva del chili.\n5. Retirar la hoja de laurel antes de servir.",
+  "url": null
+}

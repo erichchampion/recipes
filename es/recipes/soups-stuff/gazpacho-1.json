@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "gazpacho-1",
+  "name": "Gazpacho 1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "aperitivos",
+    "sopas",
+    "guisos/sopas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 calabacín, cortado en trozos",
+    "3 dientes de ajo, picados",
+    "1 pimiento verde pequeño, cortado en trozos",
+    "1/2 cucharadita de comino",
+    "1/4 cucharadita de polvo de chile",
+    "1/2 pepino, pelado y cortado en trozos",
+    "12 onzas (340 ml) de jugo V8 o zumo de tomate"
+  ],
+  "recipeInstructions": "1. Cortar finamente las verduras (calabacín, pimiento verde, cebolla) y picar el ajo.\n2. Agregar los vegetales cortados y las especias en una licuadora o procesador de alimentos y mezclar durante 10 segundos.\n3. Verter la mezcla en un bol y añadir el jugo, mezclando bien.\n4. Refrigerar hasta que esté frío antes de servir.",
+  "url": null
+}

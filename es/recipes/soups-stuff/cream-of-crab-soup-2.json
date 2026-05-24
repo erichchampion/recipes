@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "cream-of-crab-soup-2",
+  "name": "Sopa de Cangrejo Cremosa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "aperitivos",
+    "pescado",
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "1 lb carne de cangrejo",
+    "1/4 taza cebolla picada",
+    "1/4 cucharadita sal de apio",
+    "1 litro de leche",
+    "1 cubo de caldo de pollo",
+    "1 taza mantequilla",
+    "1 taza agua hirviendo",
+    "1 cucharada perejil picado",
+    "3 cucharadas harina"
+  ],
+  "recipeInstructions": "1. Disolver el cubo de caldo en agua hirviendo.\n2. Saltear la cebolla picada en mantequilla hasta que esté tierna.\n3. Incorporar la harina y la sal de apio a la mezcla.\n4. Añadir gradualmente las especias, luego la leche a la mezcla.\n5. Cocinar hasta espesar, removiendo constantemente.\n6. Agregar la carne de cangrejo y cocinar brevemente.\n7. Decorar con perejil antes de servir.",
+  "url": null
+}

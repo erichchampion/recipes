@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "waffles-8",
+  "name": "Wafflas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "plato principal",
+    "gofres"
+  ],
+  "recipeIngredient": [
+    "1 taza de leche",
+    "2 cucharadas de avena",
+    "2 cucharadas de mantequilla derretida",
+    "1 cucharadita de gluten de trigo",
+    "3/4 taza de harina integral",
+    "2 cucharaditas de polvo de hornear",
+    "2 cucharadas de yogur natural",
+    "1 huevo",
+    "1 cucharadita de azúcar",
+    "1/2 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Mezclar la leche con la avena en un bol hasta que se ablande.\n2. Incorporar la mantequilla derretida, la vainilla, el azúcar y el yogur.\n3. Batir el huevo por separado.\n4. Combinar el huevo con los ingredientes secos (gluten de trigo, harina, polvo de hornear).\n5. Mezclar gradualmente las mezclas húmeda y seca hasta que estén apenas combinadas.\n6. Verter la masa en una gofrera precalentada para hacer 3 gofres redondos al estilo belga.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "ground-beef-stroganoff",
+  "name": "Ground Beef Stroganoff",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "ground beef",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "1/2 cup onion, chopped",
+    "1 tablespoon butter",
+    "1 pound ground beef",
+    "1 tablespoon flour",
+    "4 tablespoons catsup",
+    "2 tablespoons Worcestershire sauce",
+    "2/3 cup sour cream",
+    "1/2 teaspoon salt",
+    "1/4 teaspoon pepper",
+    "egg noodles or rice"
+  ],
+  "recipeInstructions": "1. In a large skillet, saute onions in butter until they are browned.\n2. Add the ground beef to the skillet and cook until it is lightly browned as well.\n3. Stir in the flour, catsup, Worcestershire sauce, sour cream, salt, and pepper.\n4. Simmer the mixture for 20 minutes, stirring occasionally.\n5. Serve over egg noodles or rice.",
+  "url": null
+}

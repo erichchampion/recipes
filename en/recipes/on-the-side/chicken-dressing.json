@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-dressing",
+  "name": "Chicken & Dressing",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "breads",
+    "dressings",
+    "main dish",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 packages Cornbread mix",
+    "1 Dozen raw eggs",
+    "Chopped onion to taste",
+    "Salt and pepper to taste",
+    "Celery to taste",
+    "6 teaspoons Poultry seasoning",
+    "3 teaspoons Sage",
+    "2 Chickens, cooked and deboned"
+  ],
+  "recipeInstructions": "1. Bake the cornbread mix according to package directions. Allow it to cool.\n2. Crumble the baked cornbread.\n3. Add eggs, chopped onion, celery, salt, and pepper to taste to the crumbled cornbread.\n4. Stir in poultry seasoning and sage.\n5. Fold in the cooked and deboned chickens.\n6. Pour half of the chicken broth over the cornbread mixture.\n7. Mix well.\n8. Bake at 350 degrees Fahrenheit for 3 hours.",
+  "url": null
+}

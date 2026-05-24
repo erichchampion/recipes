@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "black-sauce",
+  "name": "Salsa Negra",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "barbecua",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de salsa Worcestershire",
+    "1 taza de vinagre blanco",
+    "2 cucharadas de azúcar moreno",
+    "2 cucharadas de jugo de limón fresco",
+    "1 cucharadita de pimienta molida",
+    "2 dientes de ajo, picados finamente",
+    "1/2 cucharadita de canela en polvo"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una cacerola.\n2. Calentar a fuego medio.\n3. Reducir el calor y dejar que la mezcla hierva a fuego lento durante unos 10 minutos.\n4. Servir la salsa caliente o a temperatura ambiente.",
+  "url": null
+}

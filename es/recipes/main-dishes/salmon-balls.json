@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "salmon-balls",
+  "name": "Bolas de salmón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "plato principal",
+    "carne",
+    "salmón",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "2 latas de salmón, escurrido",
+    "1/2 taza de arroz de grano largo",
+    "1/2 taza de zanahoria rallada",
+    "1/4 taza de cebolla picada",
+    "1 huevo",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimienta",
+    "1 lata de sopa de champiñones cremosos",
+    "1/2 taza de agua"
+  ],
+  "recipeInstructions": "1. Coloca el salmón escurrido y su jugo en un bol.\n2. Retira la piel y las huesos del salmón.\n3. Añade el arroz, la cebolla, el huevo, la sal y la pimienta al bol.\n4. Mezcla bien y forma pequeñas bolas.\n5. Coloca las bolas en un plato para hornear engrasado, dejando espacio para su expansión.\n6. Mezcla la sopa con el agua.\n7. Vierte la mezcla sobre las bolas de salmón.\n8. Tapa el plato y hornea a 350°F (175°C) durante 1 hora.",
+  "url": null
+}

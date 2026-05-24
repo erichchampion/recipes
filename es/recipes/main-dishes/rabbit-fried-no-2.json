@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "rabbit-fried-no-2",
+  "name": "Cone de conejo frito n.º 2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "juego",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 conejo, cortado en trozos",
+    "3 granos de pimienta por conejo",
+    "1 hoja de laurel por conejo",
+    "Sal al gusto",
+    "1/4 taza de harina por conejo",
+    "1/8 de barra de mantequilla"
+  ],
+  "recipeInstructions": "1. Cocinar los trozos de conejo en agua salada con granos de pimienta y hojas de laurel hasta que estén tiernos.\n2. Escurrir bien los trozos.\n3. Pasarlos por harina.\n4. Freír a fuego medio en mantequilla hasta que estén dorados por todos lados.",
+  "url": null
+}

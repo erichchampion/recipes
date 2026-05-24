@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-pie",
+  "name": "Pastel Mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "plato principal",
+    "dietas especiales",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de agua o aceite vegetal",
+    "1 cebolla mediana, picada",
+    "1 pimiento verde, picado",
+    "2 tazas de granos de maíz congelados",
+    "1 lata pequeña de chiles verdes, picados",
+    "1 taza de salsa de tomate",
+    "2 cucharaditas de polvo de chile",
+    "Sal y pimienta al gusto",
+    "4 tazas de frijoles rojos cocidos, machacados",
+    "1 1/2 tazas de maicena",
+    "1/2 taza de harina de trigo blanca sin blanquear",
+    "1/2 cucharadita de polvo de hornear",
+    "3 tazas de agua"
+  ],
+  "recipeInstructions": "1. Calentar el agua o aceite en una olla grande a fuego medio.\n2. Cocinar la cebolla durante 10 minutos. Agregar el pimiento verde, maíz, chiles verdes, salsa de tomate, polvo de chile y sal y pimienta; cocinar por 5 minutos más.\n3. Incorporar los frijoles machacados y cocinar a fuego lento durante 10 minutos. Retirar del fuego y reservar.\n4. Precalentar el horno a 175 °C (350 °F).\n5. En un cazo grande, mezclar la maicena, harina, polvo de hornear y agua. Cocinar a fuego medio hasta espesar, removiendo constantemente con un batidor para evitar grumos en la maicena.\n6. Extender la mitad de la mezcla de maicena uniformemente en una fuente para hornear antiadherente.\n7. Extender la mezcla de frijoles uniformemente sobre la capa de maicena.\n8. Agregar el resto de la mezcla de maicena encima, extendiéndola para cubrir los frijoles.\n9. Hornear durante 45 minutos o hasta que el pan de maíz sea dorado.",
+  "url": null
+}

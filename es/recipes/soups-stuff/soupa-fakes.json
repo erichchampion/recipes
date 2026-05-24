@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "soupa-fakes",
+  "name": "Sopa Falsa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "étnica",
+    "sopas",
+    "vegetariana"
+  ],
+  "recipeIngredient": [
+    "170 g de lentejas",
+    "1 zanahoria mediana, picada",
+    "4 dientes de ajo, cortados por la mitad",
+    "1/4 cebolla, picada",
+    "60 ml de aceite de oliva",
+    "190 g de tomates pelados enlatados",
+    "Sal marina",
+    "Pimienta negra"
+  ],
+  "recipeInstructions": "1. Cocinar las lentejas durante 5 minutos.\n2. Escurrir el agua y añadir 500 ml de agua fresca.\n3. Llevar a ebullición y dejar cocer a fuego lento durante 10 minutos.\n4. Añadir todos los demás ingredientes y cocinar a fuego lento hasta que todos los ingredientes estén tiernos (aproximadamente una hora).\n5. Servir cuando la sopa esté espesa.",
+  "url": null
+}

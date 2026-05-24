@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-chicken-mix",
+  "name": "Mezcla básica de pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "comidas preparadas para congelar",
+    "misceláneo",
+    "mezclas"
+  ],
+  "recipeIngredient": [
+    "6 libras de pechugas de pollo sin piel y sin hueso",
+    "1/4 taza de perejil fresco picado",
+    "1 libra de apio",
+    "1 libra de zanahorias",
+    "1 libra de cebollas",
+    "1,5 cucharaditas de orégano seco",
+    "Una pizca de sal",
+    "Una pizca de pimienta"
+  ],
+  "recipeInstructions": "1. Cocinar los terneros de pollo con perejil fresco, apio, zanahorias y cebollas.\n2. Añadir orégano seco, sal y pimienta al gusto.\n3. Continuar cocinando hasta que el pollo ya no sea rosado.\n4. Dividir en 6 porciones iguales para cenas individuales.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "orzo-with-parsley",
+  "name": "Orzo con perejil",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "acompañamientos",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "8 onzas de orzo (1 taza y 1/4)",
+    "1 cucharada de aceite vegetal",
+    "3 cucharadas de perejil picado",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Llevar a ebullición una olla grande con agua.\n2. Añadir el orzo y remover constantemente hasta que vuelva a hervir.\n3. Cocinar, removiendo con frecuencia, durante 8 a 10 minutos hasta que esté tierno pero firme al mordisco.\n4. Escurrir el orzo.\n5. Devolver el orzo a la olla.\n6. Mezclar el aceite, el perejil y la sal.",
+  "url": null
+}

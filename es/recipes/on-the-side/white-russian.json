@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-russian",
+  "name": "Ruso Blanco",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "bebidas alcohólicas",
+    "aperitivos",
+    "platos secundarios",
+    "vodka"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz de vodka",
+    "1 1/2 oz de Kahlua",
+    "1 1/2 oz de crema espesa",
+    "Hielo"
+  ],
+  "recipeInstructions": "1. Llena un vaso tipo rocks con hielo.\n2. Añade el vodka y el Kahlua al vaso.\n3. Remueve bien la mezcla.\n4. Flota la crema espesa en la parte superior vertiéndola lentamente sobre una cuchara colocada boca abajo.\n5. Sirve con un palillo de remover.",
+  "url": null
+}

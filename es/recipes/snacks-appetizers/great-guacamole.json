@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "great-guacamole",
+  "name": "Gran guacamole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 aguacate",
+    "12 cucharadas de jugo de limón (o 3 limas)",
+    "Una pizca de pimienta roja en hojuelas",
+    "1/2 cucharadita de comino en polvo",
+    "1/2 cucharadita de orégano seco"
+  ],
+  "recipeInstructions": "1. Cortar el aguacate por la mitad, retirar el hueso y extraer la pulpa con una cuchara. Colocarla en un bol.\n2. Machacar el aguacate con un tenedor hasta obtener una textura más o menos homogénea.\n3. Añadir el jugo de limón, las hojuelas de pimienta, el comino y el orégano al aguacate machacado.\n4. Mezclar bien hasta que todos los ingredientes estén integrados y la mezcla sea cremosa.\n5. Si no se va a consumir inmediatamente, devolver la pulpa de aguacate restante al bol, tapar bien y guardar en el refrigerador hasta su uso.\n6. Servir como dip con totopos de maíz, apio u otras verduras crudas.",
+  "url": null
+}

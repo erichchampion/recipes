@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-venetian-r-t",
+  "name": "Pollo Veneciano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "bajo en calorías",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "3 pechugas de pollo sin piel y sin hueso, o muslos",
+    "1/4 taza de salsa de soja (de bajo sodio)",
+    "2 cucharadas de vinagre de vino tinto",
+    "1/4 cucharadita de aceite de vegetal",
+    "1 diente de ajo grande, machacado",
+    "1/4 cucharadita de orégano seco"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar la salsa de soja, el vinagre de vino tinto, el aceite de vegetal, el ajo machacado y el orégano.\n2. Colocar el pollo en un plato para hornear poco profundo y verter la marinada sobre él, asegurándose de que todos los trozos estén cubiertos.\n3. Cubrir el plato con papel aluminio o plástico.\n4. Hornear a 190 °C (375 °F) durante 45 minutos.\n5. Retirar el papel aluminio y dar la vuelta al pollo.\n6. Continuar horneando durante 15 minutos adicionales, hasta que esté cocido y tierno.",
+  "url": null
+}

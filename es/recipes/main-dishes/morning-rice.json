@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "morning-rice",
+  "name": "Arroz de la mañana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 tazas de arroz marrón cocido",
+    "1/2 taza de leche de soja",
+    "2 cucharadas de miel",
+    "1 manzana, picada",
+    "1 cucharadita de canela",
+    "2 cucharadas de pasas",
+    "1/4 taza de piña triturada con jugo (opcional)"
+  ],
+  "recipeInstructions": "1. En un bol mediano, mezclar el arroz marrón cocido, la leche de soja, la miel, la manzana picada y la canela.\n2. Revolver bien hasta que todos los ingredientes estén distribuidos uniformemente.\n3. Incorporar las pasas.\n4. Si se usa, calentar la piña triturada con jugo en el microondas durante unos 30 segundos para deshacerla.\n5. Mezclar todo hasta combinarlo.",
+  "url": null
+}

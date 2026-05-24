@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "many-mushrooms-soup",
+  "name": "Sopa de Muchos Hongos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas/estofados",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 - Dorothy Cross TMPJ72B (marrón o común)",
+    "3 cucharadas de mantequilla",
+    "3 tazas de caldo de pollo",
+    "3 cucharadas de aceite",
+    "2 cucharadas de vino blanco",
+    "2 cucharadas de pasta de tomate",
+    "Perejil picado al gusto",
+    "Pimienta negra molida al gusto"
+  ],
+  "recipeInstructions": "1. Derretir la mantequilla y el aceite en una olla grande.\n2. Saltear el ajo y la cebolla a fuego lento durante 10 minutos.\n3. Añadir los hongos laminados (incluidos los ostioneros, morelos, porcini y enoki) y cocinar, tapado, durante 5 minutos.\n4. Incorporar el caldo, el vino blanco y la pasta de tomate.\n5. Dejar que la mezcla hierva a fuego lento durante 10 minutos adicionales.\n6. Terminar añadiendo perejil y pimienta negra molida.\n7. Servir.",
+  "url": null
+}

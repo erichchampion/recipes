@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecued-turkey-legs",
+  "name": "Piernas de pavo a la barbacoa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "rápido",
+    "olla de cocción lenta",
+    "pavo"
+  ],
+  "recipeIngredient": [
+    "4 muslos de pavo descongelados",
+    "sal y pimienta al gusto",
+    "1/4 taza de catup",
+    "1/4 taza de melaza",
+    "1/4 taza de vinagre",
+    "2 cucharadas de salsa Worcestershire",
+    "1/2 cucharadita de sal de humo de encino",
+    "1 cucharada de cebolla instantánea molida"
+  ],
+  "recipeInstructions": "1. Espolvorear los muslos de pavo con sal y pimienta.\n2. Colocar el pavo en una olla de cocción lenta grande.\n3. En un bol, batir juntos el catup, la melaza, el vinagre, la salsa Worcestershire, la sal de humo de encino y la cebolla instantánea molida.\n4. Verter la mezcla sobre el pavo.\n5. Tapar y cocinar a fuego lento durante 7-9 horas.",
+  "url": null
+}

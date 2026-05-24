@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "no-sauce-tomato-pizza-topping",
+  "name": "Pizza con Tomate sin Salsa como Ingrediente Superior",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aceite de oliva",
+    "4 tomates italianos en rodajas",
+    "1/2 taza de queso feta desmenuzado",
+    "1 taza de mozzarella rallada (opcional)",
+    "Orégano, albahaca o menta al gusto"
+  ],
+  "recipeInstructions": "1. Untar ligeramente la masa de pizza con aceite de oliva.\n2. Colocar en la masa las rodajas de tomate y el queso feta desmenuzado.\n3. Añadir la mozzarella rallada si se desea.\n4. Condimentar con orégano, albahaca o menta al gusto.",
+  "url": null
+}

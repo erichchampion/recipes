@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "flavorful-mac-and-cheese",
+  "name": "Macarrones con queso sabroso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "queso",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "7 onzas de macarrones en forma de elipse",
+    "8 onzas de queso americano procesado (con sabor mexicano suave o sin sabor)",
+    "1 1/2 tazas de jamón completamente cocido, picado",
+    "8 onzas de piña enlatada, escurrida",
+    "1/2 taza de pimiento verde picado",
+    "1/4 taza de cebolla finamente picada"
+  ],
+  "recipeInstructions": "1. Cocinar los macarrones según las instrucciones del paquete; escurrir.\n2. Mezclar la salsa de queso hasta que se combine con los macarrones.\n3. Agregar los ingredientes restantes.\n4. Transferir a un bol para servir y disfrutar inmediatamente.\nRinde: 4 porciones",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chutney-stuffed-eggs",
+  "name": "Huevos rellenos de chutney",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "6 huevos duros",
+    "3 cucharadas de mayonesa",
+    "1 cucharada de chutney escurrido y picado",
+    "1 cucharada de cebolla verde picada",
+    "2 cucharaditas de polvo de curry",
+    "1 cucharadita de mostaza dijon",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Cortar los huevos por la mitad a lo largo.\n2. Retirar las yemas en un bol pequeño.\n3. Machacar bien las yemas.\n4. Mezclar los ingredientes restantes (mayonesa, chutney, cebolla verde, polvo de curry, mostaza dijon, sal y pimienta).\n5. Combinar todo hasta que esté bien mezclado.\n6. Rellenar las claras con la mezcla.\n7. Decorar con cebolla verde picada al gusto.",
+  "url": null
+}

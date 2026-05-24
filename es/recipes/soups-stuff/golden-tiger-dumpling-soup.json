@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "golden-tiger-dumpling-soup",
+  "name": "Sopa de Dumplings Tigre Dorado",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "asiático",
+    "chino",
+    "étnico",
+    "sopa",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "4 tazas de caldo de sopa (o caldo de pollo)",
+    "1 taza de verduras chinas (Bak Choy o col china, cortadas en rodajas)",
+    "1/2 taza de chicharros de agua cortados",
+    "1/2 taza de setas cortadas",
+    "2 cebollas verdes, cortadas en rodajas",
+    "2 cucharadas de salsa de soja",
+    "1 cucharada de aceite de sésamo",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Llevar el caldo a ebullición.\n2. Agregar todos los ingredientes excepto los dumplings.\n3. Hervir durante 2 minutos.\n4. Añadir los dumplings y hervir otros 2 minutos.",
+  "url": null
+}

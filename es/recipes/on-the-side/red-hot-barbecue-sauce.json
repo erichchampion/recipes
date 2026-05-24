@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "red-hot-barbecue-sauce",
+  "name": "Salsa Barbacoa Roja Caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "barbecua",
+    "carne de res",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de melaza",
+    "1/4 taza de mostaza preparada",
+    "1/4 taza de azúcar moreno en cubos",
+    "3/4 taza de vinagre",
+    "1/2 taza de jugo de piña",
+    "1/4 taza de salsa Worcestershire",
+    "1/2 cucharadita de salsa Tabasco"
+  ],
+  "recipeInstructions": "1. Combinar la melaza, la mostaza y el azúcar moreno en un bol pequeño.\n2. Mezclar bien hasta que esté combinado.\n3. Agregar los ingredientes restantes; mezclar bien hasta que estén integrados.\n4. Esta mezcla rinde aproximadamente 2 tazas en total.",
+  "url": null
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "market-pasta-salad",
+  "name": "Ensalada de pasta del mercado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "8 oz de macarrones con forma de concha, medianos, crudos",
+    "2 tazas de floretes de brócoli",
+    "1/2 taza de cebolla picada (1 mediana)",
+    "2 tazas de calabacín o calabaza amarilla en rodajas de 1/4 de pulgada de grosor",
+    "1 pimiento rojo (mediano), cortado en tiras",
+    "1 taza de queso cheddar cortado en cubos de 1/2 pulgada",
+    "Salsa:",
+    "1/2 taza de aceite vegetal",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "3 cucharadas de jugo de limón",
+    "2 cucharadas de mostaza dijon",
+    "1 cucharada de salsa Worcestershire",
+    "1/2 cucharadita de ajo fresco picado finamente",
+    "2 cucharadas de queso parmesano recién rallado"
+  ],
+  "recipeInstructions": "1. Cocinar los macarrones según las instrucciones del paquete; escurrir.\n2. En un bol grande, mezclar todos los ingredientes de la ensalada excepto el queso.\n3. Agregar los macarrones calientes y mezclar bien.\n4. Refrigerar durante 10 minutos.\n5. Incorporar el queso.\n6. Mientras tanto, en un bol mediano, mezclar todos los ingredientes de la salsa excepto el queso parmesano.\n7. Verter la salsa sobre la ensalada y mezclar para cubrirla uniformemente.\n8. Espolvorear con queso parmesano.\nRinde: 6 porciones",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-ossobuco",
+  "name": "Pollo 'Ossobuco'",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "étnico",
+    "italiano",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "8 pechugas de pollo sin hueso",
+    "1/2 taza de mantequilla o margarina",
+    "8 tomates grandes, pelados y picados",
+    "3 cucharadas de perejil fresco picado",
+    "1/2 taza de harina",
+    "3/4 taza de vino blanco seco",
+    "2 dientes de ajo grandes, machacados",
+    "1 1/2 cucharaditas de ralladura de limón",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Empanizar las pechugas de pollo con harina sazonada con sal y pimienta.\n2. Derretir la mantequilla en una sartén grande; dorar el pollo por ambos lados.\n3. Añadir el vino blanco a la sartén y cocinar a fuego lento durante 10 minutos.\n4. Incorporar los tomates, el ajo, el perejil, la ralladura de limón, sal y pimienta.\n5. Tapar y dejar cocinar hasta que el pollo esté tierno.\n6. Espolvorear con ralladura de limón y perejil picado antes de servir.",
+  "url": null
+}

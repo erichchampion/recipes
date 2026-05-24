@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "slow-cook-spanish-rice",
+  "name": "Arroz español lento cocido",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 lb carne molida (de res o ternera)",
+    "2 cebollas medianas picadas",
+    "2 pimientos verdes picados",
+    "28 oz (800g) tomates triturados",
+    "8 oz (225g) salsa de tomate",
+    "1 taza agua",
+    "2 1/2 cucharaditas polvo de chile",
+    "2 1/2 cucharaditas sal",
+    "2 cucharaditas salsa Worcestershire",
+    "1 taza arroz crudo (medido y convertido)"
+  ],
+  "recipeInstructions": "1. Dorar la carne en una sartén y escurrir el exceso de grasa.\n2. Agregar todos los ingredientes a la olla de cocción lenta.\n3. Mezclar bien para combinar todos los ingredientes.\n4. Tapar y cocinar a fuego lento durante 6-8 horas, o a fuego alto durante 3 horas.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "party-punch",
+  "name": "Party Punch",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "apples",
+    "beverages",
+    "punch",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup Orange juice",
+    "2 quarts Ginger ale; chilled",
+    "1/4 cup Lemon juice",
+    "1 pint Cranberry juice cocktail",
+    "1 cup Pineapple juice",
+    "1 pint Apple cider"
+  ],
+  "recipeInstructions": "1. Combine all ingredients except ginger ale in a large punch bowl.\n2. Mix well until all flavors are combined.\n3. Just before serving, pour the mixture over ice in the punch bowl.\n4. Add the chilled ginger ale to the bowl.\n5. Serve and enjoy approximately 30 servings.",
+  "url": null
+}

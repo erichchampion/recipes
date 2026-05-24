@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheddar-fondue",
+  "name": "Fondue de Queso Cheddar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso",
+    "fondue",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 libra de queso cheddar rallado",
+    "2 cucharadas de harina",
+    "1 taza de leche",
+    "1 cucharadita de cebolla rallada",
+    "1 cucharadita de salsa Worcestershire",
+    "Una pizca de cayena",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "1. Mezcla el queso rallado con la harina hasta que el queso esté bien cubierto.\n2. En una olla para fondue, calienta la leche y la cebolla rallada hasta que casi hierva.\n3. Añade la mezcla de queso poco a poco, continuando a calentar y remover hasta que se derrita todo el queso.\n4. Agrega la salsa Worcestershire, cayena y sal al gusto.\n5. Mantén caliente sobre un quemador de alcohol.\n6. Sirve con cubos de pan francés.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "cider-snap",
+  "name": "Cider con crujiente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "bebidas con frutas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 tazas de sidra de manzana o jugo",
+    "4 g de caramelos de canela roja",
+    "4 rebanadas finas de manzana (opcional)"
+  ],
+  "recipeInstructions": "1. En una medida de 4 tazas, mezcle la sidra y los caramelos de canela.\n2. Cocine al microondas sin cubrir a potencia máxima durante 4 a 5 minutos o hasta que se disuelvan los caramelos y la sidra esté humeante, removiendo una vez.\n3. Sirva en tazas. Adorne con rebanadas de manzana si lo desea.",
+  "url": null
+}

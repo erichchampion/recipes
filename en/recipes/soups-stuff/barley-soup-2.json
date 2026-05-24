@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "barley-soup-2",
+  "name": "Barley Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups"
+  ],
+  "recipeIngredient": [
+    "2 pounds hamburger",
+    "3 quarts hot water",
+    "12 beef bouillon cubes",
+    "2 cups onion, diced",
+    "3 cups carrots, thinly sliced",
+    "1 quart tomatoes",
+    "1 cup barley"
+  ],
+  "recipeInstructions": "1. Brown the hamburger and drain off excess fat.\n2. Add remaining ingredients to a large pot.\n3. Bring to a boil, then reduce heat and simmer for 2 hours until tender.",
+  "url": null
+}

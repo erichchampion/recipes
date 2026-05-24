@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "double-apple-corn-muffins",
+  "name": "Muffins de Maíz con Dos Manzanas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "fruta",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina de uso general",
+    "1 taza de maíz molido amarillo",
+    "1/4 taza de azúcar",
+    "1 cucharadita de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "2 huevos ligeramente batidos",
+    "2/3 taza de puré de manzana",
+    "1/2 taza de leche",
+    "1/4 taza de aceite vegetal",
+    "1 manzana grande, pelada y picada finamente"
+  ],
+  "recipeInstructions": "1. Mezclar en un bol el maíz molido, el azúcar, el polvo de hornear y la sal.\n2. En otro bol, combinar los huevos, el puré de manzana, la leche y el aceite; mezclar con los ingredientes secos hasta que estén apenas húmedos.\n3. Incorporar la manzana picada a la masa y mezclar bien.\n4. Engrasar un molde para muffins y rellenarlo con la masa, llenando cada cavidad aproximadamente dos tercios.\n5. Hornear en horno precalentado a 200 °C durante 15 a 20 minutos, o hasta que estén dorados y cocidos por completo.",
+  "url": null
+}

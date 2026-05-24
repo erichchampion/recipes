@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-mushroom-broccoli-soup",
+  "name": "Mi sopa de setas y brócoli",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "6 cucharadas de aceite",
+    "4 cucharadas de mantequilla",
+    "2 cebollas",
+    "6 setas",
+    "3 cucharadas de harina",
+    "1 cucharadita de nuez moscada",
+    "10 tazas de caldo de pollo",
+    "3/4 taza de crema espesa",
+    "Sal y pimienta al gusto",
+    "1 manojo de brócoli"
+  ],
+  "recipeInstructions": "1. Pelar y picar las cebollas.\n2. Lavar y cortar las setas.\n3. En una sartén mediana, calentar el aceite y la mantequilla a fuego medio. Agregar las cebollas y las setas cortadas y cocinar durante 5 minutos hasta que se ablanden.\n4. Añadir la harina y remover bien para combinar con la mezcla de cebolla y setas.\n5. Verter gradualmente el caldo de pollo y llevar a ebullición suave.\n6. Incorporar la nuez moscada, la sal y la pimienta. Reducir el fuego y dejar hervir durante 8-10 minutos más.\n7. Agregar la crema espesa. Continuar hirviendo a fuego lento hasta que esté caliente pero sin ebullición.\n8. Añadir el brócoli cortado y cocinar durante un minuto o dos hasta que esté justo tierno.\n9. Servir caliente, con hierbas frescas como decoración si se desea.",
+  "url": null
+}

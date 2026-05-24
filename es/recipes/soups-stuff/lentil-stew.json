@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "lentil-stew",
+  "name": "Sopa de lentejas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "frijoles",
+    "sopas",
+    "sopas y estofados",
+    "estofados"
+  ],
+  "recipeIngredient": [
+    "1 libra de lentejas secas, enjuagadas, seleccionadas",
+    "2 litros de agua",
+    "2 tallos de apio entero, picados",
+    "1 cebolla mediana, picada",
+    "2 zanahorias enteras, picadas",
+    "1 diente de ajo, picado",
+    "1 hoja de laurel",
+    "1/4 cucharadita de tomillo",
+    "1/2 taza de vino tinto",
+    "1 lata de tomates enlatados"
+  ],
+  "recipeInstructions": "1. En una olla grande de sopa, combina todos los ingredientes excepto el vino y los tomates.\n2. Lleva a ebullición, luego reduce el calor a bajo y deja cocinar a fuego lento durante 1-1/2 horas.\n3. Añade el vino y los tomates, tapa y continúa cocinando a fuego lento durante 20-30 minutos más.",
+  "url": null
+}

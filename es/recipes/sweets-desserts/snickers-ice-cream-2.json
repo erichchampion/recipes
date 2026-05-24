@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "snickers-ice-cream-2",
+  "name": "Helado de Snickers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "chocolate",
+    "postres",
+    "congelado"
+  ],
+  "recipeIngredient": [
+    "12 oz de helado de vainilla",
+    "1/4 taza de mantequilla de maní crujiente",
+    "1 taza de crema batida",
+    "1 sobre de pudín de chocolate instantáneo"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta que estén bien combinados.\n2. Verter la mezcla en un molde cuadrado.\n3. Congelar hasta que esté firme, aproximadamente 6-8 horas o durante la noche.",
+  "url": null
+}

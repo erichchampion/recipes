@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "deb-s-chicken-stew",
+  "name": "Deb's Chicken Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "favorites",
+    "main dish",
+    "meats",
+    "poultry",
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "3 lb Chicken; cooked and cubed",
+    "1 large Onion; sauteed",
+    "1/2 lb Mushrooms",
+    "4 Carrots; sliced",
+    "6 cups Chicken broth",
+    "2 tbsp Sage",
+    "Salt and pepper to taste",
+    "Garlic powder",
+    "Parsley, chopped",
+    "Flour for thickening",
+    "1 lb Raddicchio; dry",
+    "1 package Frozen vegetables"
+  ],
+  "recipeInstructions": "1. In a large pot, simmer the cubed chicken, sautéed onion, mushrooms, and sliced carrots in the chicken broth until they reach the desired tenderness.\n2. Add the sage, salt, pepper, garlic powder, and chopped parsley to taste.\n3. If using noodles, cook them directly in the stew or separately according to package instructions.\n4. Add the frozen vegetables and continue cooking until hot.\n5. Thicken the stew with a bit of flour if necessary.",
+  "url": null
+}

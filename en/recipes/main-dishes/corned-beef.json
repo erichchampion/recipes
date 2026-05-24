@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "corned-beef",
+  "name": "Corned Beef",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "4 quarts hot water",
+    "2 cups coarse salt",
+    "1/4 cup sugar",
+    "2 tablespoons pickling spice",
+    "1 1/2 teaspoons saltpeter or sodium nitrate"
+  ],
+  "recipeInstructions": "1. Measure out 4 quarts of hot water and place it in a large container.\n2. Add the coarse salt to the water, ensuring all pieces are submerged.\n3. Stir in 1/4 cup of sugar until fully dissolved.\n4. Sprinkle 2 tablespoons of pickling spice over the top of the meat.\n5. Finally, add 1 1/2 teaspoons of saltpeter or sodium nitrate and stir gently to combine.",
+  "url": null
+}

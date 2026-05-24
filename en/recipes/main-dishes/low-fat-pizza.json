@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "low-fat-pizza",
+  "name": "Low-Fat Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "low-calorie",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "Large Tortilla",
+    "Tomato Sauce",
+    "Fresh Basil",
+    "Low-Fat Mozzarella (Shredded)"
+  ],
+  "recipeInstructions": "1. Place the tortilla in the pan.\n2. Top with tomato sauce, basil, and shredded mozzarella.\n3. Cover and heat until cheese is melted.",
+  "url": null
+}

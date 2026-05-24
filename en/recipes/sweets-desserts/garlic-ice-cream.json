@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "garlic-ice-cream",
+  "name": "Garlic Ice Cream",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "ice cream"
+  ],
+  "recipeIngredient": [
+    "3 cups whole milk",
+    "1/4 teaspoon garlic, freshly chopped",
+    "1 vanilla beans, split in half",
+    "1 cup heavy cream",
+    "1 1/2 cups granulated sugar",
+    "9 egg yolks"
+  ],
+  "recipeInstructions": "1. Put milk, garlic, and vanilla in a saucepan. Bring to a boil and remove from heat.\n2. In a mixing bowl, blend cream, sugar, and egg yolks.\n3. Strain the hot milk mixture into the egg and sugar mixture, stirring constantly.\n4. Return the combined mixture to the pan and stir continuously over moderate heat until it coats the back of a spoon (about 10-15 minutes). Cool in an ice bath.\n5. Add cream mixture.\n6. Freeze until firm.",
+  "url": null
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "surprise-muffins",
+  "name": "Muffins Sorpresa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "1,5 tazas de puré de manzana sin endulzar",
+    "1 huevo, ligeramente batido",
+    "2 cucharadas de aceite",
+    "1/4 taza de miel",
+    "1 taza de harina de trigo integral",
+    "1 cucharadita de polvo de hornear",
+    "1 cucharadita de bicarbonato de sodio",
+    "1/2 cucharadita de canela",
+    "1/4 cucharadita de nuez moscada",
+    "3/4 taza de uno de los siguientes:",
+    "Pasas",
+    "Manzana picada",
+    "Zanahoria rallada",
+    "Calabacín rallado",
+    "Arándanos"
+  ],
+  "recipeInstructions": "1. Mezclar los cuatro primeros ingredientes en un bol grande.\n2. Tamizar los ingredientes restantes y añádelos.\n3. Revolver hasta que esté apenas mezclado.\n4. Incorporar la fruta.\n5. Verter la masa en moldes para muffins engrasados ligeramente.\n6. Hornear durante 20 minutos a 175 °C.",
+  "url": null
+}

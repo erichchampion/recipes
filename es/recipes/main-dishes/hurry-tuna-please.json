@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "hurry-tuna-please",
+  "name": "¡Tuna Rápida, Por Favor!",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "1 lata grande (208 gramos) de atún blanco o ligero, escurrido",
+    "2 cucharadas de aceite vegetal",
+    "1 manzana, pelada y picada",
+    "1 pequeña cebolla, picada",
+    "1/2 cucharadita de polvo de curry",
+    "3 cucharadas de harina",
+    "1/2 taza de caldo de pollo (hecho con un cubo disuelto en una taza de agua)",
+    "1 paquete de fideos de huevo cocidos y escurridos",
+    "O 1 taza de arroz cocido"
+  ],
+  "recipeInstructions": "1. Saltear la manzana y la cebolla en un poco de aceite hasta que estén ligeramente cocidas.\n2. Agregar la harina y remover lentamente en la mezcla con leche y caldo para crear una salsa blanca granulosa (las grumos son de la manzana y las cebollas).\n3. Añadir el atún, desmenuzándolo a medida que se incorpora, y espolvorear con el curry. Mezclar bien.\n4. Servir sobre fideos calientes que tardan nueve minutos en cocinarse o arroz cocido.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pat-s-pasta",
+  "name": "Pasta de Pat",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "3/4 lb de rotini (pasta en forma de espiral)",
+    "6 cebolletas, cortadas en rodajas",
+    "1/2 cebolla roja, cortada en láminas finas",
+    "1 pimiento rojo dulce",
+    "1 pimiento verde dulce",
+    "1 pimiento amarillo dulce",
+    "10 aceitunas negras, cortadas en rodajas",
+    "1/4 taza de zumo de limón (o vinagre)",
+    "1/4 taza de aceite de oliva"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta en una olla grande con agua hirviendo y salada hasta que esté ligeramente tierna.\n2. Escurrir la pasta y mezclarla con las cebolletas, pimientos, aceitunas, zumo de limón (o vinagre) y aceite de oliva. Sazonar con sal y pimienta al gusto.\n3. Servir para 5-6 raciones.",
+  "url": null
+}

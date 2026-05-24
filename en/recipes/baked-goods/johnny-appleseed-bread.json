@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "johnny-appleseed-bread",
+  "name": "Johnny Appleseed Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads",
+    "fruits",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Apple juice (for Welbilt DAK machines add 3 tablespoons more)",
+    "1/2 cup Unsweetened applesauce",
+    "3 cups Bread flour",
+    "1 1/2 teaspoons Salt",
+    "1 1/2 tablespoons Butter or margarine",
+    "3 tablespoons Brown sugar",
+    "1/2 cup Granny Smith apple, cored, peeled and chopped",
+    "1/4 cup Raisins (optional)",
+    "1/2 teaspoon Ground cinnamon",
+    "1/4 teaspoon Ground nutmeg",
+    "1 1/2 teaspoons Active dry yeast"
+  ],
+  "recipeInstructions": "1. Place all ingredients in the bread pan.\n2. Select Light crust setting and press start.\n3. Allow to cool for 1 hour before slicing.\nThis recipe is found in \"Bread Machine Magic\" by Linda Rehberg and Lois Conway on page 94.",
+  "url": null
+}

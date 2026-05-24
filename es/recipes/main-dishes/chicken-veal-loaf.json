@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-veal-loaf",
+  "name": "Pastel de Pollo y Ternera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "pastel de carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "3 libras de pechugas de pollo deshuesadas y sin piel, molidas",
+    "1 libra de carne de ternera molida",
+    "2 claras de huevo",
+    "2 rebanadas de pan remojadas en agua o vino",
+    "2 dientes de ajo picados",
+    "2 cucharadas de salsa gourmet Yoshida",
+    "2 cucharadas de salsa de soja baja en sodio",
+    "1/2 cucharadita de sal",
+    "1/8 cucharadita de pimienta",
+    "1 1/2 cucharaditas de condimento italiano"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande hasta combinarlos bien.\n2. Colocar la mezcla en un molde para panecillo.\n3. Hornear a 175 °C durante 1 hora.",
+  "url": null
+}

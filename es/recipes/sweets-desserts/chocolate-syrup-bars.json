@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-syrup-bars",
+  "name": "Barras de Sirope de Chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "1/4 taza de manteca",
+    "12 onzas de sirope de chocolate",
+    "4 huevos",
+    "1 cucharadita de extracto de vainilla",
+    "1 taza de harina, más 1 cucharada",
+    "1/2 cucharadita de polvo de hornear",
+    "1/2 taza de nueces, opcional"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta que queden bien integrados.\n2. Verter la mezcla en un molde para hornear de 9x13 pulgadas engrasado.\n3. Hornear a 175 °C durante 25 minutos o hasta que esté hecho.",
+  "url": null
+}

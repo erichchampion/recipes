@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "special-quick-cookies",
+  "name": "Special Quick Cookies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 cup sugar",
+    "1 cup white corn syrup",
+    "1 cup peanut butter",
+    "6 cups Special K cereal"
+  ],
+  "recipeInstructions": "1. Bring 1 cup of sugar and 1 cup of white corn syrup to a boil.\n2. Remove from heat and stir in the peanut butter until fully dissolved.\n3. Add the Special K cereal and mix well.\n4. Drop spoonfuls of the mixture onto wax paper.\n5. Allow to cool before eating.",
+  "url": null
+}

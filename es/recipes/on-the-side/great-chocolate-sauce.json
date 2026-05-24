@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "great-chocolate-sauce",
+  "name": "Salsa de Chocolate Excelente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "postres",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de cacao en polvo sin azúcar",
+    "1/2 taza de azúcar moreno",
+    "3/4 taza de leche",
+    "1/2 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. En una cacerola, mezclar el cacao y el azúcar.\n2. Añadir la leche a la mezcla.\n3. Calentar a fuego medio hasta que hierva, removiendo constantemente durante 5 minutos o hasta que espese.\n4. Dejar enfriar la salsa.\n5. Incorporar el extracto de vainilla.\n6. Servir a temperatura ambiente.",
+  "url": null
+}

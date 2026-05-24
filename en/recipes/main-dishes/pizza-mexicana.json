@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-mexicana",
+  "name": "Pizza Mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "mexican",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 can Vegetarian Refried Beans",
+    "1 Pre-baked pizza/bread crust -12-inch",
+    "1 cup Rosarita Picante Sauce Mild",
+    "1/2 cup Monterey Jack cheese - shredded",
+    "1/2 cup Cheddar cheese, shredded",
+    "1 can Sliced black olives, drained - 2-1/4 oz. can",
+    "12 Nacho sliced Jalapeno pepper - drained",
+    "1/4 cup Sliced tomato",
+    "Chopped cilantro"
+  ],
+  "recipeInstructions": "1. Evenly spread beans over top of pizza/bread crust.\n2. Top with remaining ingredients in order given, EXCEPT tomato and cilantro.\n3. Bake at 450-degrees F for 15 minutes or until cheese is melted.\n4. Top with tomatoes and cilantro.\n5. Makes 4 servings. Additional toppings: sour cream, diced green onions, guacamole and Rosarita salsa.",
+  "url": null
+}

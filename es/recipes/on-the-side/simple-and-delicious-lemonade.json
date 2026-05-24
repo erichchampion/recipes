@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-and-delicious-lemonade",
+  "name": "Limonada sencilla y deliciosa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "limonada",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "3 1/4 tazas de agua fría",
+    "1/2 taza de zumo de limón fresco",
+    "Azúcar al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.",
+  "url": null
+}

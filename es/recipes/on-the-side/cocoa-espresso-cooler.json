@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "cocoa-espresso-cooler",
+  "name": "Refrescante de Cacao y Espresso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 tazas de café expreso frío",
+    "2 tazas de chocolate frío (2-3 cucharaditas de cacao en polvo sin endulzar disueltas en 1 taza de leche)",
+    "1 cucharadita de extracto de vainilla",
+    "1 taza de crema batida endulzada"
+  ],
+  "recipeInstructions": "1. Mezcla el café expreso, el chocolate y la vainilla.\n2. Vierte sobre hielo en vasos altos.\n3. Cubre con 2 cucharadas de crema batida.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "egg-drop-soup-2",
+  "name": "Sopa de huevo #2",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas chinas",
+    "sopas y estofados"
+  ],
+  "recipeIngredient": [
+    "3 tazas de caldo de pollo",
+    "1 cucharada de sal",
+    "Una pizca de pimienta blanca",
+    "1 cebolleta verde, picada",
+    "2 huevos, ligeramente batidos"
+  ],
+  "recipeInstructions": "1. Calentar el caldo de pollo, la sal y la pimienta blanca en una olla de 2 litros hasta que hierva.\n2. Añadir las cebolletas picadas.\n3. Verter lentamente la mezcla de huevos en el caldo hirviendo, removiendo constantemente con un tenedor para formar hebras de huevo.",
+  "url": null
+}

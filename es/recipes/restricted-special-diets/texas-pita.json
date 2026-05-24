@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "texas-pita",
+  "name": "Pita de Texas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "plato principal",
+    "dieta McDougall",
+    "dietas especiales",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas Cebolla amarilla, picada",
+    "1/2 taza Zanahoria, pelada y rallada",
+    "3/4 taza Pimiento verde, picado",
+    "2 cucharaditas Polvo de chile",
+    "1 cucharada Ajo, machacado",
+    "1 cucharadita Cilantro fresco, picado",
+    "1/2 cucharadita Tomillo",
+    "1/2 cucharadita Cumin molido",
+    "1/2 cucharadita Sal marina",
+    "1/2 cucharadita Pimienta negra",
+    "1 taza Maíz entero, fresco o congelado",
+    "1 taza Frijoles pintos cocidos",
+    "5 Pitas de trigo integral, cortadas por la mitad",
+    "10 Hojas de lechuga, picadas",
+    "10 Rodajas de tomate, de 1/4 de pulgada de grosor"
+  ],
+  "recipeInstructions": "1. En una sartén antiadherente a fuego medio, saltea las verduras (excepto el maíz) y las especias durante unos 5 minutos.\n2. Añade el maíz y los frijoles cocidos a la sartén. Continúa cocinando hasta que los frijoles y el maíz estén calientes.\n3. Coloca la pita con su lado inferior hacia arriba. Agrega una rodaja de tomate, la mitad del relleno y la lechuga. Sirve caliente.",
+  "url": null
+}

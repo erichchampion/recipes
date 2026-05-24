@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-liqueur-2",
+  "name": "Licor de Naranja 2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "licores",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/5 de litro de buen brandy de California",
+    "1 1/2 cucharaditas de extracto puro de naranja Wagner's",
+    "1 taza de miel",
+    "1/2 cucharadita de glicerina",
+    "Un pequeño pellizco de canela",
+    "Un pequeño pellizco de cilantro en polvo"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un frasco grande y agitar bien.\n2. Dejar reposar durante un mes.\n3. Clarificar mediante sifonado del líquido claro.\n4. (Opcional) Si no se dispone de Wagner's, sustituir por otro extracto puro que no contenga ingredientes artificiales.",
+  "url": null
+}

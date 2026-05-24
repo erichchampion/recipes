@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "all-bran-bread",
+  "name": "All Bran Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "Egg",
+    "Salt (1/2 tsp)",
+    "Sugar (1/2 cup)",
+    "Molasses (1/4 cup)",
+    "All bran (1 1/2 cups)",
+    "Flour (1 1/2 cups)",
+    "Sour milk (1 1/2 cups)",
+    "Baking soda (1 tsp)"
+  ],
+  "recipeInstructions": "1. Beat the egg and add salt, sugar, and molasses.\n2. Add sour milk and all bran to the mixture. Mix until most of the moisture is absorbed.\n3. Add flour and baking soda. Stir until combined.\n4. Pour the batter into a greased loaf pan.\n5. Bake in an oven preheated to 350°F for 1 hour. Optionally, you can use sweet milk instead of sour milk (in which case reduce the baking soda to 1/2 tsp) and increase the amount of baking powder to 1 tsp.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-stew-2-3",
+  "name": "Beef Stew #2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "potatoes",
+    "carrots",
+    "onions",
+    "celery",
+    "beef  -- or chicken",
+    "1 can cream of mushroom soup",
+    "1 can tomato soup",
+    "1 can water"
+  ],
+  "recipeInstructions": "1. Cut vegetables into bite-sized pieces, mainly potatoes, carrots, onions, and celery.\n2. Purchase the least expensive piece of beef or chicken and cut it into bite-sized pieces, removing most of the fat and marbling.\n3. Place all ingredients in a crock pot with 1 can of Golden Cream of Mushroom Soup and 1 can of plain tomato soup. Add about half to one can of cold water.\n4. Cook for 5-8 hours on slow or medium heat.\n5. Seasonings may be added after the first cooking, such as pepper.",
+  "url": null
+}

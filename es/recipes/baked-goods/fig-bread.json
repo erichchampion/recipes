@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "fig-bread",
+  "name": "Pan de higo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "fruta"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de higos",
+    "1/2 taza de pasas",
+    "2 cucharadas de manteca",
+    "1 taza de miel",
+    "1 huevo",
+    "2 1/2 tazas de harina",
+    "1/2 cucharadita de sal",
+    "1 cucharadita de polvo de hornear",
+    "1/2 cucharadita de bicarbonato de sodio",
+    "3/4 taza de leche dulce",
+    "1/4 taza de leche agria",
+    "1 taza de nueces"
+  ],
+  "recipeInstructions": "1. Cortar los higos y las pasas en trozos pequeños.\n2. Batir la manteca con la miel y el huevo hasta obtener una mezcla cremosa.\n3. Mezclar juntos los ingredientes secos. Reservar un poco de harina para combinar con las frutas y nueces.\n4. Alternar la adición de la leche (dulce y agria) e incorporar gradualmente la mezcla de frutos y nueces.\n5. Hornear en horno moderado a 175 °C durante 1 hora y 10 minutos.",
+  "url": null
+}

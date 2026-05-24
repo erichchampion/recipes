@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-loaf-recipe-for-legumes",
+  "name": "Receta básica de pan para legumbres",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "plato principal",
+    "dietas especiales",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 taza de legumbres cocidas",
+    "1 taza de migas de pan (germen de trigo o nueces molidas)",
+    "1 taza de líquido (leche de soja, jugo de tomate, etc.)",
+    "Especias al gusto - ajo, cebolla, etc."
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta que queden bien integrados.\n2. Verter la mezcla en un molde para pan.\n3. Hornear a 350 grados Fahrenheit en el horno hasta que esté firme, aproximadamente 30 minutos.",
+  "url": null
+}

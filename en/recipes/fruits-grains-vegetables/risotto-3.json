@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "risotto-3",
+  "name": "Risotto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "rice"
+  ],
+  "recipeIngredient": [
+    "1 cup Rice, uncooked",
+    "1/2 cup Onion, chopped",
+    "2 Bouillon cubes",
+    "1/4 cup Parmesan cheese",
+    "2 cups Boiling water",
+    "1/4 tsp Saffron",
+    "2 tbsp Butter"
+  ],
+  "recipeInstructions": "1. Heat butter in a deep skillet.\n2. Saute onion until it begins to soften.\n3. Add rice and saute, stirring frequently, until the edges of the grains are slightly translucent.\n4. Stir in saffron.\n5. Dissolve bouillon cubes in boiling water.\n6. Pour the dissolved bouillon into the skillet with the rice mixture.\n7. Cover tightly and simmer over low heat for about 20 minutes or until the rice is tender.\n8. Stir in Parmesan cheese just before serving.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "pollo-rellenos",
+  "name": "Pollo Rellenos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "hot",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "4 each chicken breast (boneless)",
+    "1 cup chicken broth",
+    "3/4 cup golden raisins",
+    "1 small onion; minced",
+    "1/2 tsp cinnamon",
+    "1 pinch cloves; ground",
+    "1/2 tbsp salt",
+    "1 tsp chimaja",
+    "1 tbsp red chile caribe",
+    "1 chopped spinach"
+  ],
+  "recipeInstructions": "1. Make a stuffing by mixing the golden raisins, minced onion, cloves, cinnamon, salt, chimaja, and chopped spinach.\n2. Stuff the chicken breasts with the mixture.\n3. Bake at 350°F for 1 hour or until tender. Baste with broth a couple of times during baking.",
+  "url": null
+}

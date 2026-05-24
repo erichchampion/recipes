@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "busy-day-pasta",
+  "name": "Pasta para un día ocupado",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "1/2 libra de espagueti",
+    "8 onzas de salsa o salsa picante",
+    "3 cucharadas de aceite de oliva",
+    "1 1/2 tazas de queso Jack rallado"
+  ],
+  "recipeInstructions": "1. Cocinar el espagueti según las instrucciones del paquete hasta que esté al dente.\n2. Escurrir la pasta y mezclarla con aceite de oliva para cubrirla uniformemente.\n3. Añadir la salsa o salsa picante y el queso Jack rallado.\n4. Mezclar todo hasta que quede bien combinado.\n5. Servir caliente y disfrutar.",
+  "url": null
+}

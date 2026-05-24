@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "beverwyks",
+  "name": "Beverwyks",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3 tazas de harina",
+    "1 cucharadita de clavo molido",
+    "1 cucharadita de canela",
+    "1 cucharadita de especias mixtas",
+    "1 taza de pasas cortadas",
+    "1 taza de mantequilla ablandada",
+    "1 1/2 tazas de azúcar",
+    "3 huevos batidos"
+  ],
+  "recipeInstructions": "1. Batir la mantequilla y el azúcar con los huevos hasta que estén bien combinados.\n2. Añadir gradualmente el resto de los ingredientes a la mezcla.\n3. Agregar más harina si es necesario para que la masa se pueda extender fácilmente.\n4. Extender la masa hasta alcanzar un grosor de 1/4 de pulgada y cortar en formas variadas.\n5. Hornear a 175°C durante 8-12 minutos, o hasta que estén ligeramente dorados.",
+  "url": null
+}

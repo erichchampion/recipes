@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "lisa-s-mexican-burgers",
+  "name": "Hamburguesas mexicanas de Lisa",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "plato principal",
+    "carne",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de salsa",
+    "1 cucharadita de cebolla picada",
+    "1/2 cucharadita de comino",
+    "1/2 cucharadita de orégano",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "Lechuga",
+    "Tomate"
+  ],
+  "recipeInstructions": "1. Montar los ingredientes en hamburguesas y panecillos asados.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "spiced-nuts",
+  "name": "Nueces especiadas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "caramelos",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de leche enlatada",
+    "2 cucharadas de agua",
+    "1 taza de azúcar",
+    "1 1/2 cucharaditas de canela",
+    "1/2 cucharadita de nuez moscada (en polvo)",
+    "1/2 cucharadita de clavos (en polvo)",
+    "Una pizca de sal",
+    "2 tazas de frutos secos variados"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto los frutos secos.\n2. Llevar la mezcla a ebullición, removiendo constantemente hasta que alcance el punto de bola blanda.\n3. Retirar del fuego y mezclar rápidamente los frutos secos.\n4. Verter la mezcla sobre una bandeja para hornear enmantequillada, extendiendo los frutos secos lo más posible.",
+  "url": null
+}

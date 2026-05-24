@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-ginger-sauce",
+  "name": "Salsa de limón jengibre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "carne",
+    "salsa",
+    "salsas",
+    "guarniciones",
+    "salteado"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de zumo de limón fresco",
+    "2 cucharadas de miel",
+    "1 cucharada de jerez seco",
+    "1 cucharadita de jengibre fresco rallado",
+    "1 diente de ajo, picado finamente",
+    "1 cucharadita de almidón de maíz"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Remover hasta que queden bien combinados.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "marinated-chicken",
+  "name": "Pollo marinado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de salsa de soja de bajo sodio",
+    "1 1/2 cucharadas de jugo de limón",
+    "1 1/2 tazas de jugo de naranja",
+    "1 diente de ajo, pelado y picado",
+    "3 onzas de miel",
+    "1/4 taza de cebolletas picadas",
+    "1 1/2 cucharadas de vinagre de sidra",
+    "1 1/2 libras de pechugas de pollo sin hueso y sin piel"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes excepto el pollo en un bol de vidrio; mezcla bien.\n2. Añade el pollo a la mezcla.\n3. Tapa y refrigera durante 1 hora.\n4. Retira el pollo y hornea hasta que esté cocido por completo.\n5. Deja enfriar el pollo.\n6. Corta en cubos de 1/2 pulgada.",
+  "url": null
+}

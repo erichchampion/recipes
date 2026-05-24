@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "focaccio-bread",
+  "name": "Pan de focaccia",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 taza de agua",
+    "1 cucharadita y media de sal",
+    "2 cucharadas de aceite de oliva",
+    "2 cucharadas de azúcar",
+    "2 cucharadas de leche en polvo instantánea",
+    "1 cucharadita de condimento italiano",
+    "3 tazas de harina de pan",
+    "1 cucharadita y media de levadura rápida"
+  ],
+  "recipeInstructions": "1. Coloca los ingredientes en el pan del panificador según las instrucciones del fabricante.\n2. Utiliza el ciclo de pan blanco con una corteza ligera.",
+  "url": null
+}

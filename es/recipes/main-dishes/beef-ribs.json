@@ -1,0 +1,17 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-ribs",
+  "name": "Costillas de ternera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "8 libras de costillas (de la parte superior del lomo)"
+  ],
+  "recipeInstructions": "1. Si se desea, marinar las costillas antes de cocinarlas.\n2. Colocar las costillas sobre una rejilla en una bandeja para hornear.\n3. Untar generosamente salsa barbacoa sobre las costillas, asegurándose de cubrirse completamente.\n4. Hornear a 180-200 °C durante 45 minutos, bastando con frecuencia con la salsa.\n5. Continuar horneando hasta que las costillas estén tiernas y bien cocidas.",
+  "url": null
+}

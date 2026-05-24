@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "basil-tomatoes",
+  "name": "Tomates de albahaca",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "tomates",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 tomates medianos en rodajas",
+    "2 cucharadas de aceite de oliva",
+    "1 cucharadita de albahaca seca",
+    "1 cucharadita de vinagre",
+    "Una pizca de sal",
+    "Una pizca de pimienta negra",
+    "Una pizca de polvo de ajo"
+  ],
+  "recipeInstructions": "1. En un bol, mezcla el aceite de oliva, el vinagre, la albahaca, la sal y la pimienta.\n2. Agrega las rodajas de tomate a la mezcla y revuelve hasta que estén bien cubiertas.\n3. Espolvorea el polvo de ajo sobre los tomates.\n4. Refrigera durante al menos 2 horas antes de servir.",
+  "url": null
+}

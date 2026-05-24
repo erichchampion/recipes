@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "martini",
+  "name": "Martini",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz Gin",
+    "1/2 oz Dry vermouth",
+    "1 Green olive",
+    "Cracked ice"
+  ],
+  "recipeInstructions": "Fill a mixing glass with cracked ice. Pour in gin and dry vermouth. Stir the mixture until well chilled, then strain into a chilled martini glass. Garnish with an olive.",
+  "url": null
+}

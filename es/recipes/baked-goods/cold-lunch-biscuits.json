@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cold-lunch-biscuits",
+  "name": "Biscuitos para el almuerzo frío",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 litro de leche",
+    "3/4 taza de manteca",
+    "1 cucharadita de azúcar blanco",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de crema de tártaro",
+    "Harina suficiente para hacer una masa firme"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes y amasar bien hasta formar una masa firme.\n2. Dar forma a la masa en pequeñas galletas.\n3. Hornear a 180°C durante unos 20 minutos, o hasta que estén ligeramente doradas.\nSe conservan durante varias semanas en un recipiente hermético.",
+  "url": null
+}

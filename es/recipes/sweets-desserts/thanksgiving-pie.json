@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "thanksgiving-pie",
+  "name": "Pastel de Acción de Gracias",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "americano",
+    "productos horneados",
+    "panadería",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "3 huevos",
+    "1 taza de jarabe de maíz oscuro",
+    "1/2 taza de azúcar",
+    "1/4 taza de mantequilla derretida",
+    "1 taza de calabaza (enlatada o cocida)",
+    "1 cucharadita de extracto de vainilla",
+    "1 taza de nueces pecanas picadas",
+    "Masa de tarta de 9 pulgadas sin hornear"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 °F (175 °C).\n2. Batir los huevos hasta que estén bien combinados.\n3. Incorporar lentamente el jarabe, el azúcar, la mantequilla, la calabaza y la vainilla hasta obtener una mezcla homogénea.\n4. Distribuir las nueces pecanas en la base de la masa de la tarta.\n5. Verter cuidadosamente la mezcla de calabaza sobre las nueces.\n6. Hornear durante 1 hora o hasta que un cuchillo insertado a 1 pulgada del borde salga limpio.\n7. Enfriar y servir con crema batida.",
+  "url": null
+}

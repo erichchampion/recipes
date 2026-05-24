@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "chinese-egg-drop-soup",
+  "name": "Sopa de huevo chino",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "asiático",
+    "chino",
+    "étnico",
+    "sopa"
+  ],
+  "recipeIngredient": [
+    "3 tazas de caldo de pollo",
+    "2 huevos batidos",
+    "5 hojas de espinaca"
+  ],
+  "recipeInstructions": "1. Verter el caldo de pollo en una cacerola y llevarlo a ebullición a fuego medio-alto.\n2. Verter lentamente los huevos batidos en el caldo hirviendo, removiendo constantemente con una cuchara o un batidor.\n3. Agregar la espinaca en rodajas a la sopa y continuar cocinando hasta que esté caliente.\n4. Servir caliente.",
+  "url": null
+}

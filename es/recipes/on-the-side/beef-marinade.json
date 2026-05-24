@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-marinade",
+  "name": "Marinada de carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "carne de res",
+    "marinadas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de aceite vegetal",
+    "1 cucharadita de condimento italiano",
+    "2 cucharadas de vinagre de vino tinto",
+    "1 1/2 cucharaditas de mezcla de pimienta sazonada",
+    "500 g de solomillo o cubos de ternera"
+  ],
+  "recipeInstructions": "1. Mezclar el aceite vegetal, el condimento italiano, el vinagre de vino tinto y la mezcla de pimienta sazonada en un recipiente de vidrio.\n2. Añadir los cubos de solomillo o ternera a la marinada y remover para cubrir uniformemente.\n3. Marinar durante 20-30 minutos.\n4. Broilar o asar a la parrilla los cubos de solomillo o ternera marinado hasta alcanzar el punto de cocción deseado.",
+  "url": null
+}

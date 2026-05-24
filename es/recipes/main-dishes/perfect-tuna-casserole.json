@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "perfect-tuna-casserole",
+  "name": "Cazuela de atún perfecta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "pescado",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lata de sopa de apio con crema (400 ml)",
+    "1/4 taza de leche",
+    "1 lata de atún, escurrido (200 g)",
+    "2 huevos duros, cortados en rodajas",
+    "1 taza de guisantes cocidos",
+    "1/2 taza de patatas fritas, ligeramente trituradas"
+  ],
+  "recipeInstructions": "1. Mezclar la sopa y la leche en un molde para hornear de 1 litro engrasado; agregar el atún, los huevos y los guisantes.\n2. Hornear a 180°C durante 25 minutos, removiendo ocasionalmente.\n3. Cubrir con las patatas fritas y hornear durante 5 minutos adicionales o hasta que esté caliente.",
+  "url": null
+}

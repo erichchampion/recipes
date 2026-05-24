@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "tuna-luau",
+  "name": "Tuna Luau",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "entrada",
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco",
+    "atún"
+  ],
+  "recipeIngredient": [
+    "2 latas de atún, escurrido y desmenuzado",
+    "1 lata de trozos de piña (reserva el líquido) (9 onzas)",
+    "2 cucharadas de azúcar moreno",
+    "1 1/2 cucharaditas de almidón de maíz",
+    "1 cucharadita de MSG o jugo de limón",
+    "3 cucharadas de vinagre de sidra",
+    "2 cucharaditas de mostaza preparada",
+    "3/4 taza de agua",
+    "1 pimiento verde, cortado en tiras",
+    "Arroz cocido"
+  ],
+  "recipeInstructions": "1. Coloca el atún en una sartén.\n2. Añade el líquido de la piña, el azúcar, el almidón de maíz, el MSG, el vinagre y la mostaza, y el agua.\n3. Cocina, removiendo hasta que espese.\n4. Reduce el fuego y cocina a fuego lento durante 10 minutos.\n5. Agrega los trozos de piña y las tiras de pimiento verde, y cocina a fuego lento otros 10 minutos.\n6. Sirve sobre arroz caliente.",
+  "url": null
+}

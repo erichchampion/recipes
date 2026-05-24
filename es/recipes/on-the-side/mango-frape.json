@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mango-frape",
+  "name": "Mango Frape",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "desayuno",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 mango grande (cortado en trozos)",
+    "1/2 taza de yogur (ver nota)",
+    "1 taza de leche desnatada fría",
+    "1/2 taza de hielo",
+    "Menta para decorar"
+  ],
+  "recipeInstructions": "1. Corta 1 mango grande en trozos.\n2. Mezcla 1/2 taza de yogur con 1 taza de leche desnatada fría y 1/2 taza de hielo.\n3. Coloca todos los ingredientes en una licuadora y enciende hasta obtener una mezcla homogénea, sin activar la función \"pulverizar\".\n4. Vierte la mezcla en vasos altos y decora con menta.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-supreme-ice-cream",
+  "name": "Banana Supreme Ice Cream",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "ice cream"
+  ],
+  "recipeIngredient": [
+    "1 cup banana pulp",
+    "2 eggs",
+    "1 1/2 cups milk",
+    "1/8 teaspoon salt",
+    "1/8 teaspoon nutmeg",
+    "2 cups heavy cream",
+    "1 tablespoon lemon juice",
+    "1 1/2 cups confectioner's sugar",
+    "1 tablespoon powdered gelatin",
+    "2 tablespoons cold water"
+  ],
+  "recipeInstructions": "1. Beat the eggs and sugar until light in texture.\n2. Add salt, nutmeg, milk, and dissolved gelatin to the egg mixture.\n3. Crush bananas using a fork until they form a fine pulp. Stir in lemon juice.\n4. Mix in the crushed bananas and lemon juice with the egg mixture.\n5. Whip the cream separately and fold it into the mixture.\n6. Pour the mixture into a container and freeze until firm.\nMakes 2 quarts.",
+  "url": null
+}

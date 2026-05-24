@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "joe-s-special",
+  "name": "Joe's Special",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "ground beef",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "1/2 lb Spinach, chopped or",
+    "10 oz Pkg frozen, chopped spinach (thawed)",
+    "1 T Olive oil",
+    "1 T Butter",
+    "1 lb Ground beef",
+    "1 small Onion, diced",
+    "1/2 t Dried basil, crushed",
+    "1/4 t Dried marjoram, crushed",
+    "1/4 t Dried oregano, crushed",
+    "1 t Salt",
+    "1/4 t Black pepper",
+    "4 Eggs"
+  ],
+  "recipeInstructions": "1. If using frozen spinach, place it in a strainer and drain well.\n2. Heat olive oil and butter in a large, heavy skillet.\n3. Add ground beef to the skillet and cook, stirring occasionally, until browned and crumbly.\n4. Add diced onion and cook until tender but not browned.\n5. Stir in dried basil, marjoram, oregano, salt, and black pepper.\n6. Stir in the drained spinach and cook until the liquid from the spinach has evaporated.\n7. Beat the eggs and add them to the meat mixture. Cook, stirring constantly, until the eggs are set.",
+  "url": null
+}

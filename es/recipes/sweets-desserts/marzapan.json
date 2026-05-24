@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "marzapan",
+  "name": "Marzapán",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "caramelos",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "250 g de azúcar",
+    "500 g de almendras molidas",
+    "200 g de azúcar glas (10 veces más fino)",
+    "2 huevos batidos",
+    "1 cucharada de zumo de limón (reál)",
+    "1 cucharadita de esencia de almendra"
+  ],
+  "recipeInstructions": "1. Mezclar el azúcar con las almendras en un bol.\n2. Añadir los huevos, el zumo de limón y la esencia de almendra.\n3. Amasar hasta formar una bola.\n4. Darle forma de bola a la masa y colocarla sobre una superficie cubierta con azúcar glas.\n5. Amasar a mano hasta que quede suave.\n6. Usar para decorar pasteles y crear glaseado en finas rayas.",
+  "url": null
+}

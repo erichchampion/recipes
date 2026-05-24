@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "yam-apple-casserole",
+  "name": "Casserola de Yama y Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 papas dulces medianas",
+    "1 manzana para hornear grande",
+    "1/4 taza de puré de manzana",
+    "1/2 taza de agua"
+  ],
+  "recipeInstructions": "1. Pelar las papas dulces y cortarlas en láminas finas.\n2. Retirar el corazón de la manzana y cortarla en láminas finas (o pelarla si se prefiere).\n3. Alternar capas de manzanas y papas dulces en un molde para hornear cuadrado.\n4. Mezclar el puré de manzana con el agua y verter sobre los ingredientes en el molde.\n5. Espolvorear con canela al gusto.\n6. Cubrir y hornear a 400 °F durante 40 minutos.\n7. Servir caliente o frío.",
+  "url": null
+}

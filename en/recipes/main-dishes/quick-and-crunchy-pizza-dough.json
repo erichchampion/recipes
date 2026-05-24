@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-and-crunchy-pizza-dough",
+  "name": "Quick and Crunchy Pizza Dough",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "dough",
+    "main dish",
+    "pizza",
+    "quick"
+  ],
+  "recipeIngredient": [
+    "2 cups Flour",
+    "2 tsp Baking Powder",
+    "Salt (optional)",
+    "1/4 cup Oil",
+    "2/3 cup Milk"
+  ],
+  "recipeInstructions": "1. Mix all ingredients until a dough forms.\n2. Knead the dough on a floured surface until smooth and elastic, about 5 minutes.\n3. Form into a ball and let rest for 10-15 minutes.\n4. Roll out the dough to desired thickness on your pizza pan or stone.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-fruitwich",
+  "name": "Sándwich de queso y fruta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "manzana",
+    "queso",
+    "fruta",
+    "niños",
+    "plato principal",
+    "nueces",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de queso crema a temperatura ambiente",
+    "1/8 taza de cacahuetes sin sal, picados",
+    "1/2 manzana, pelada y en rodajas",
+    "2 gotas de jugo de limón",
+    "2 rebanadas de pan con pasas y dátiles"
+  ],
+  "recipeInstructions": "1. Mezclar el queso crema y las nueces en un bol.\n2. Espolvorear las rodajas de manzana con jugo de limón para evitar que se oxiden.\n3. Colocar una rebanada de pan con la mezcla de queso y nueces, y cubrir con las rodajas de manzana.\n4. Tapar con otra rebanada de pan y envolver bien.",
+  "url": null
+}

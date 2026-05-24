@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-brie",
+  "name": "Brie al horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 rebanada de brie (tamaño cualquiera)",
+    "uvas rojas sin semillas",
+    "azúcar morena"
+  ],
+  "recipeInstructions": "1. Corta el brie por la mitad (en forma de mariposa para obtener dos mitades).\n2. Coloca el brie con la parte cortada hacia arriba en una bandeja para hornear.\n3. Corta suficientes uvas rojas a lo largo para cubrir ligeramente las dos mitades de brie. Dispone las mitades de uva sobre el brie, con la parte cortada hacia abajo.\n4. Espolvorea generosamente con azúcar morena.\n5. Hornea a 180°C hasta que el brie se ablande y comience a derretirse.\n6. Sirve con pan francés o galletas.",
+  "url": null
+}

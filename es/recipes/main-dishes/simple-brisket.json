@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-brisket",
+  "name": "Bistec de pecho simple",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "4 libras de brascero fresco (hasta 5 libras)",
+    "1 sobre de 1,5 oz de mezcla de sopa seca de cebolla",
+    "1 lata de 4 onzas de setas, escurridas"
+  ],
+  "recipeInstructions": "Servir para 8 a 10 personas\nRetirar todo el grasa excesiva del brascero. Mezclar la mezcla de sopa de cebolla con las setas y su líquido.\nColocar el brascero en una olla de cocción lenta con el lado graso hacia arriba, cortándolo si es necesario para que quepa.\nExtender la mezcla de sopa de cebolla sobre la parte superior del brascero, humedeciéndolo bien.\nCubrir y cocinar a fuego lento durante 10 a 14 horas.\nRetirar el brascero y cortarlo en rebanadas finas en contra del grano. Servir con los jugos de carne vertidos sobre las rebanadas.",
+  "url": null
+}

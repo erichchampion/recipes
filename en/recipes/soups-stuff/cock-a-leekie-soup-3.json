@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "cock-a-leekie-soup-3",
+  "name": "Cock-a-Leekie Soup",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chicken",
+    "soups",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "3 lb chicken, boneless",
+    "4 cups water",
+    "1 carrot, sliced",
+    "1 celery stalk, sliced",
+    "1/2 cup barley",
+    "2 tsp chicken bouillon, dry",
+    "2 tsp salt",
+    "1/4 tsp pepper",
+    "1 bay leaf",
+    "1 1/2 cups leeks, sliced with tops"
+  ],
+  "recipeInstructions": "1. Heat all ingredients except leeks to boiling.\n2. Reduce heat, cover, and simmer for 30 minutes.\n3. Add leeks and heat to boiling.\n4. Reduce heat, cover, and simmer for 10-15 minutes.",
+  "url": null
+}

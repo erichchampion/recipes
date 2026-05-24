@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "coffee-mocha-punch",
+  "name": "Punche de Café Mocha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "diabético",
+    "ponche",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "Café fuerte (4 tazas, frío)",
+    "Helado de chocolate (1 litro)",
+    "Helado de vainilla (1 litro)",
+    "Crema batida (1 taza, muy fría)",
+    "Sal (1/4 cucharadita)",
+    "Azúcar granulada (1/2 taza)",
+    "Extracto de almendras (1/4 cucharadita)",
+    "Vainilla (1/2 cucharadita)",
+    "Nuez moscada molida (1/4 cucharadita)",
+    "Canela en polvo (opcional, 1/4 cucharadita)"
+  ],
+  "recipeInstructions": "1. Verter el café frío en un bol de punch.\n2. Añadir trozos de helado de chocolate y vainilla del tamaño de una nuez.\n3. Batir la crema con sal, azúcar, extracto de almendras y vainilla hasta que formen picos suaves.\n4. Mezclar suavemente la crema batida con la mezcla de punch.\n5. Espolvorear nuez moscada (y canela en polvo opcional) sobre cada ración.",
+  "url": null
+}

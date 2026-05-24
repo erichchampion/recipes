@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-hot-dogs",
+  "name": "Perros calientes de pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "4 bollos de perrito caliente",
+    "4 perritos calientes",
+    "12 lonchas de queso mozzarella",
+    "1 tarro de salsa de pizza",
+    "Queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. Cortar cada bollo y perrito caliente por la longitud.\n2. Colocar los bollos en una bandeja para hornear.\n3. Espolvorear queso mozzarella sobre los bollos.\n4. Colocar los perritos calientes cortados sobre los bollos.\n5. Extender la salsa de pizza uniformemente sobre los perritos calientes.\n6. Espolvorear queso parmesano sobre la salsa y los perritos calientes.\n7. Grillar hasta que el queso burbujee y los perritos calientes estén calientes.",
+  "url": null
+}

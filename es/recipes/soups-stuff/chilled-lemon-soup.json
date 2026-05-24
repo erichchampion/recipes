@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chilled-lemon-soup",
+  "name": "Sopa de limón fría",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "aperitivos",
+    "frutas",
+    "sopas",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 1/2 litros de caldo de verduras",
+    "1/2 litro de sidra seca",
+    "2 onzas de arroz moreno de grano corto",
+    "Sal y pimienta al gusto",
+    "2 limones, el jugo exprimido y la cáscara rallada",
+    "2 cucharadas de cebolleta picada",
+    "4 rebanadas finas de limón para decorar"
+  ],
+  "recipeInstructions": "1. Calentar a fuego lento en una olla tapada el caldo, la sidra, el arroz, sal y pimienta junto con la cáscara de limón durante 40 minutos.\n2. Triturarlo todo hasta obtener una mezcla homogénea y devolverlo a la olla.\n3. Incorporar el jugo de limón y calentar suavemente sin dejar que hierva.\n4. Dejar enfriar y retirar cualquier grasa que pueda aparecer en la superficie.\n5. Refrigerar hasta que esté fría.\n6. Al servir, espolvorear con cebolleta picada y decorar con una rebanada de limón.",
+  "url": null
+}

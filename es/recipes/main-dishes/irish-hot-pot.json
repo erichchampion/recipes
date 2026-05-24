@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "irish-hot-pot",
+  "name": "Olla irlandesa caliente",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "Irlanda",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "6 patatas medianas peladas y cortadas en rodajas finas",
+    "2 cebollas medianas cortadas en rodajas finas",
+    "3 zanahorias ralladas y cortadas en rodajas finas",
+    "1/4 taza de arroz cocido (no instantáneo)",
+    "1 lata (400g) de guisantes con líquido",
+    "200 g de salchichas o 200 g de carne molida, al gusto",
+    "1 lata (400g) de sopa de tomate diluida con agua",
+    "Sal y pimienta blanca al gusto"
+  ],
+  "recipeInstructions": "1. En una cacerola de 4 cuartos engrasada, capa las patatas, cebollas y zanahorias.\n2. Sazona cada capa con sal y pimienta mientras avanzas.\n3. Espolvorea el arroz sobre las capas.\n4. Añade los guisantes con su líquido.\n5. Cubre con salchichas o carne molida.\n6. Vierte la sopa diluida de manera uniforme sobre todos los ingredientes.\n7. Hornea, cubierto, a 375°F durante 1 hora.\n8. Retira la tapa y gira las salchichas.\n9. Continúa horneando destapado por una hora adicional.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-delicious",
+  "name": "Chicken Delicious",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "6 Whole Chicken Breasts, Boned and Halved",
+    "10.5 oz Canned Condensed Cream of Mushroom Soup",
+    "10.5 oz Canned Condensed Cream of Celery Soup",
+    "1 Lemon, Juice",
+    "Salt and Pepper",
+    "2/3 Cup Dry Sherry",
+    "1/4 Cup Parmesan Cheese, Grated",
+    "Celery Salt",
+    "Cooked Rice (Hot)",
+    "1 Teaspoon Paprika"
+  ],
+  "recipeInstructions": "1. Rinse the chicken breasts.\n2. Pat dry.\n3. Season with lemon juice, salt, pepper, celery salt, and paprika.\n4. Place in the slow cooker.\n5. Mix the condensed cream of mushroom and cream of celery soups with the sherry.\n6. Pour over the chicken breasts.\n7. Sprinkle with Parmesan cheese.\n8. Cover.\n9. Cook on LOW for 8 to 10 hours.\n10. Serve over hot, fluffy rice.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "gazpacho-z",
+  "name": "Gazpacho Z",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas/estofados",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 pequeña calabacín",
+    "1 pimiento verde pequeño",
+    "1 cebolla pequeña",
+    "1 pepino",
+    "1 tomate grande",
+    "3 dientes de ajo",
+    "1/2 cucharadita de comino",
+    "1/4 cucharadita de polvo de chile",
+    "4 cucharadas de aceite de oliva",
+    "12 onzas de V8 o jugo de tomate"
+  ],
+  "recipeInstructions": "1. Cortar finamente las verduras y el ajo (o procesarlos en un procesador de alimentos o licuadora durante 10 segundos).\n2. Mezclar las verduras picadas y las especias con el jugo.\n3. Refrigerar hasta servir.",
+  "url": null
+}

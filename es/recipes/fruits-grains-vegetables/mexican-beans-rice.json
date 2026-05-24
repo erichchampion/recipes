@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-beans-rice",
+  "name": "Frijoles y arroz mexicanos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frijoles",
+    "plato principal",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "10 ml de aceite de girasol (2 cucharaditas)",
+    "1 cebolla grande (pelada y picada)",
+    "1 chile verde (sin semillas y picado)",
+    "225 g de arroz de grano largo (8 onzas)",
+    "2 tomates (pelados, sin semillas y picados)",
+    "750 ml de caldo de verduras (1 taza y media)",
+    "100 g de frijoles pintos o rojos (cocidos)",
+    "Pimienta negra molida"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en una sartén antiadherente a fuego medio y cocinar la cebolla hasta que esté tierna, aproximadamente 5 minutos.\n2. Añadir el chile verde y el arroz a la sartén; remover y cocinar durante 2 minutos más, hasta que el arroz se vuelva translúcido.\n3. Picar los tomates y agregarlos a la mezcla con el arroz. Verter el caldo de verduras, llevar a ebullición y luego tapar y reducir el fuego para simular a baja temperatura durante 10 minutos.\n4. Incorporar los frijoles cocidos y la pimienta negra; si es necesario, agregar agua para obtener la consistencia deseada. Continuar cocinando durante 5 minutos más.\n5. Retirar del fuego y servir.",
+  "url": null
+}

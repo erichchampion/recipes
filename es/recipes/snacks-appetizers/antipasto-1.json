@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "antipasto-1",
+  "name": "Antipasto #1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "ensaladas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "Lechuga iceberg",
+    "1 lata (14 oz) de atún italiano, en aceite de oliva",
+    "1 frasco pequeño de pimientos rojos asados, en vinagre y aceite",
+    "1 frasco pequeño de pimientos verdes asados, en vinagre y aceite",
+    "Tomates, cortados en gajos",
+    "Aceitunas negras sin hueso",
+    "Aceitunas verdes con pimiento",
+    "Queso provolone en rodajas",
+    "Jamón importado en rodajas",
+    "Salami de Génova en rodajas",
+    "Mortadela en rodajas",
+    "Pepperoni (en rodajas gruesas)"
+  ],
+  "recipeInstructions": "1. Coloca la lechuga en una fuente, dejando un espacio central lo suficientemente grande para alojar la lata de atún.\n2. Escurre el aceite de la lata sobre la lechuga y coloca el atún en el centro.\n3. Divide la fuente en secciones y coloca medio trozo de queso en cada sección.\n4. Sobre el queso, coloca una rodaja enrollada de cada tipo de embutido.\n5. Vierte el líquido del frasco de pimientos rojos sobre todo y dispone aleatoriamente los pimientos, aceitunas y tomates alrededor de la fuente.\n6. Sazona con sal y pimienta al gusto.\n7. Añade un chorrito de aceite de oliva encima.",
+  "url": null
+}

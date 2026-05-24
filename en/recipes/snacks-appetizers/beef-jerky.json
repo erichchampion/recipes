@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-jerky",
+  "name": "Beef Jerky",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "beef",
+    "meats",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1 Flank steak",
+    "1 Clove garlic, minced",
+    "1/2 cup Honey",
+    "1 Pinch pepper",
+    "4 tbsp Lemon juice",
+    "1/2 cup Soy sauce",
+    "1 Pinch salt"
+  ],
+  "recipeInstructions": "1. Put the flank steak in the freezer for about half an hour, just until firm.\n2. Slice the steak across the grain into strips that are about 1/4-inch thick.\n3. In a bowl, combine the remaining ingredients and marinate the steak strips for at least 2 hours.\n4. Place the marinated slices on a rack in a pan.\n5. Dry the slices in an oven set to 150 degrees Fahrenheit for 12 hours.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "ground-beef-curry",
+  "name": "Curry de carne molida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "carne molida",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 cebolla pequeña, picada",
+    "1 diente de ajo, picado finamente",
+    "1 cucharada y media de mantequilla o margarina",
+    "500g de carne picada",
+    "1 1/4 cucharadita de jengibre en polvo",
+    "1/2 cucharadita de cúrcuma en polvo",
+    "200ml de leche (no desnatada)",
+    "2 cucharadas de harina"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una sartén grande a fuego medio.\n2. Añade la cebolla picada y el ajo picado, removiendo hasta que estén dorados.\n3. Agrega la carne picada a la sartén y revuelve con un tenedor hasta que esté completamente dorada.\n4. Espolvorea la harina, la sal, el jengibre en polvo y la cúrcuma sobre la mezcla de carne de forma uniforme.\n5. Vierte lentamente la leche mientras remueves continuamente hasta que la salsa espese.\n6. Reduce el fuego a bajo y deja cocinar a fuego lento durante 25 minutos, removiendo ocasionalmente.\n7. Sirve sobre macarrones con mantequilla caliente o arroz al vapor.",
+  "url": null
+}

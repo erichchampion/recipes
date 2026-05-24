@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "hawaiian-punch-liqueur",
+  "name": "Licor de Punch Hawaiano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "licores",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 oz de concentrado de ponche tropical rojo hawaiano",
+    "10 oz de vodka o brandy",
+    "2 oz de jarabe de azúcar"
+  ],
+  "recipeInstructions": "1. Mezclar bien el concentrado y el licor en un bol grande.\n2. Añadir el jarabe de azúcar a la mezcla.\n3. Colar la mezcla a través de un paño de queso para eliminar cualquier partícula de pulpa de fruta.\n4. Servir inmediatamente.",
+  "url": null
+}

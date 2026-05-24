@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-and-fish",
+  "name": "Tomate y Pescado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de filetes de pescado",
+    "1 tomate, picado",
+    "1 cucharada de zumo de limón",
+    "1 cucharada de cebolla, picada finamente",
+    "1/8 cucharadita de albahaca seca",
+    "1/4 taza de agua",
+    "1/4 cucharadita de eneldo seco",
+    "1 cucharada de mantequilla"
+  ],
+  "recipeInstructions": "1. Precalentar la bandeja para hornear con broil.\n2. Mezclar el tomate picado, la cebolla y la albahaca en un bol y reservar.\n3. Untar los filetes de pescado con aceite y sazonar con sal y pimienta al gusto.\n4. Colocar la mezcla de tomate sobre cada filete.\n5. Derretir la mantequilla en una sartén a fuego medio-alto.\n6. Cocinar y remover la cebolla hasta que esté tierna.\n7. Colocar los filetes de pescado en la sartén.\n8. Verter el zumo de limón y el agua sobre el pescado.\n9. Dejar cocinar a fuego lento hasta que el pescado esté completamente cocido (aproximadamente 10 minutos).",
+  "url": null
+}

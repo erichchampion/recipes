@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mollie-s-spaghetti",
+  "name": "Spaguetis de Mollie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carnes",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "450g carne picada de hamburguesa",
+    "1 diente de ajo picado",
+    "1 cucharadita de albahaca fresca picada",
+    "1 lata de tomates (400g)",
+    "2 latas de puré de tomate (60g cada una)",
+    "1 champiñón pequeño, cortado en trozos",
+    "300g espaguetis",
+    "1 cucharadita de sal",
+    "250ml agua"
+  ],
+  "recipeInstructions": "1. Dorar la carne picada en una sartén y escurrir el exceso de grasa.\n2. Añadir el ajo picado, la albahaca, los tomates, el puré de tomate y los champiñones a la sartén. Mezclar bien.\n3. Tapar y cocinar a fuego lento durante 14-20 minutos, removiendo ocasionalmente.\n4. Cocinar los espaguetis en agua con sal hasta que estén al dente.\n5. Antes de servir, añadir hierbas italianas, orégano y cebolla al gusto.",
+  "url": null
+}

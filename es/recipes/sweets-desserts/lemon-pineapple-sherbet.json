@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-pineapple-sherbet",
+  "name": "Sorbete de Limón y Piña",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "frutas",
+    "sorbete"
+  ],
+  "recipeIngredient": [
+    "2 tazas de yogur griego estilo suizo de piña",
+    "1 lata (400 g) de piña triturada, escurrida",
+    "1/4 taza de concentrado de limonada congelada, descongelado",
+    "1/4 taza de azúcar"
+  ],
+  "recipeInstructions": "1. En un recipiente de licuadora, mezclar el yogur, la piña, el concentrado de limonada y el azúcar.\n2. Licuar a velocidad alta durante 1 minuto o hasta obtener una textura suave y que se disuelva el azúcar.\n3. Verter la mezcla en un molde cuadrado de 20 cm.\n4. Congelar hasta que esté firme, removiendo ocasionalmente.\n5. Retirar del refrigerador 20 minutos antes de servir.",
+  "url": null
+}

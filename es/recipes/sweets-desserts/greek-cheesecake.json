@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "greek-cheesecake",
+  "name": "Tarta de queso griega",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pastel",
+    "pasteles",
+    "queso",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "Masa de galleta corta (Receta #22)",
+    "Queso feta: 1/2 libra",
+    "Ricotta fresca: 1/2 libra",
+    "Queso suizo (suave): 1/2 libra",
+    "Miel: 1/2 taza",
+    "Huevos (tamaño grande): 5",
+    "Para la cobertura:",
+    "Miel: 2 cucharadas",
+    "Canela en polvo: 1 cucharadita"
+  ],
+  "recipeInstructions": "1. Ralla finamente el queso suizo.\n2. Precalienta el horno a 325°F (160°C).\n3. Escurre y pasa el queso feta y la ricotta por un colador en un bol.\n4. En un bol grande, bate los quesos y la miel hasta obtener una mezcla suave.\n5. Añade los huevos uno a uno, batiendo bien después de cada adición.\n6. Vierte la mezcla sobre la base preparada.\n7. Para la cobertura, vierte miel sobre el pastel y espolvorea con canela.\n8. Hornea durante unos 55 minutos o hasta que esté cuajado. Deja enfriar a temperatura ambiente y luego refrigera.",
+  "url": null
+}

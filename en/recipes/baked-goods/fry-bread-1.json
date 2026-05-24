@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fry-bread-1",
+  "name": "Fry Bread 1",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "mexican"
+  ],
+  "recipeIngredient": [
+    "2 1/2 cups Flour",
+    "2 1/2 teaspoons Baking Powder",
+    "1/2 teaspoon Salt",
+    "3/4 cup Half Warm Water and Half Milk",
+    "Oil"
+  ],
+  "recipeInstructions": "1. Mix all ingredients except oil, setting aside for half an hour.\n2. Knead pieces of dough in hands until round and thin like a tortilla.\n3. Fry in hot oil until bread puffs up and turns golden brown.",
+  "url": null
+}

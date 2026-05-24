@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "custard-pie-2",
+  "name": "Tarta de crema",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "Masa de tarta de 23 cm",
+    "4 huevos",
+    "1/2 taza de azúcar",
+    "1/4 cucharadita de sal",
+    "3 tazas de leche",
+    "1 cucharadita de vainilla"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 225°C (450 °F). Cepillar la masa de tarta sin hornear con clara de huevo y reservar.\n2. Calentar la leche hasta que esté hirviendo, luego agregar el azúcar, la sal, los huevos y la vainilla. Mezclar bien.\n3. Verter la mezcla en la masa de tarta preparada.\n4. Hornear durante 10 minutos a 225°C (450 °F).\n5. Reducir la temperatura a 150°C (300°F) y hornear durante otros 45-50 minutos.",
+  "url": null
+}

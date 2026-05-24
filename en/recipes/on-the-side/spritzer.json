@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "spritzer",
+  "name": "Spritzer",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 oz White wine, chilled",
+    "6 oz Club soda",
+    "Ice cubes"
+  ],
+  "recipeInstructions": "1. Fill a highball glass with ice cubes.\n2. Add white wine to the glass.\n3. Fill the glass with club soda.\n4. Stir gently.",
+  "url": null
+}

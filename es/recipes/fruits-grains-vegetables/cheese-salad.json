@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-salad",
+  "name": "Ensalada de Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "queso",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de piña triturada",
+    "1 sobre de gelatina de limón",
+    "1 cucharada de gelatina sin sabor",
+    "2 cucharadas de agua fría",
+    "Jugo de 1 limón",
+    "1/4 taza de pimiento picado",
+    "1/2 taza de nueces picadas",
+    "1 tallo de apio picado",
+    "6 malvaviscos cortados en cuartos",
+    "1 taza de crema batida",
+    "6 onzas de queso crema",
+    "1/8 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Escurrir el jugo de la piña y agregar agua hasta obtener 2 tazas. Calentar hasta que hierva.\n2. Verter sobre la gelatina de limón y la gelatina sin sabor remojada en agua fría. Remover hasta disolver.\n3. Añadir el jugo de limón y la sal, mezclando bien.\n4. Enfriar hasta que esté parcialmente firme.\n5. Incorporar a la mezcla la piña con queso crema, pimiento, nueces y apio.\n6. Agregar los malvaviscos.\n7. Mezclar la crema batida.\n8. Verter en un molde engrasado y enfriar durante 12 horas a temperatura ambiente.",
+  "url": null
+}

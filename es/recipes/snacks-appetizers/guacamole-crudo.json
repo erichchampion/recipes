@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "guacamole-crudo",
+  "name": "Guacamole crudo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "condimentos",
+    "salsas",
+    "mexicano",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "2 aguacates grandes, firmes y maduros",
+    "2 cucharadas de jugo de limón",
+    "1 cebolla mediana, picada finamente",
+    "1 manojo de cilantro, picado sin el tallo",
+    "1 taza de tomate fresco, sin semillas y cortado en cubos de 1/4 de pulgada",
+    "4 cucharadas de salsa picante de chile, o al gusto",
+    "1/2 cucharadita de sal de ajo"
+  ],
+  "recipeInstructions": "1. Pelar los aguacates y eliminar cualquier semilla.\n2. Cortar los aguacates en cubos de 1/4 de pulgada y mezclar con jugo de limón.\n3. Agregar la cebolla picada, el cilantro, los tomates, la salsa picante de chile y la sal de ajo a los dados de aguacate.\n4. Mezclar todos los ingredientes suavemente, teniendo cuidado de no aplastar los aguacates.\n5. Tapar y refrigerar hasta que se vaya a servir.",
+  "url": null
+}

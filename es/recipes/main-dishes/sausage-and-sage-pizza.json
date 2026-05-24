@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "sausage-and-sage-pizza",
+  "name": "Pizza de salchicha y tomillo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "pizza",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "3 salchichas italianas dulces o picantes (o una combinación de ambas), sin piel",
+    "1 taza generosa de queso mozzarella rallado",
+    "Masa de pizza de 30 cm",
+    "5 cucharadas de queso parmesano rallado",
+    "1 cucharadita de tomillo fresco picado",
+    "1 cucharadita de tomillo seco",
+    "Jugo de medio limón"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 220 °C.\n2. Desmenuzar la carne de salchicha en trozos pequeños.\n3. Cocinar brevemente en el microondas o saltear (3 a 5 minutos) para escurrir el exceso de grasa; escurrir sobre papel absorbente.\n4. Espolvorear uniformemente la mozzarella sobre la masa de pizza, luego distribuir la carne de salchicha uniformemente sobre la masa.\n5. Espolvorear el parmesano, seguido del tomillo, uniformemente sobre la carne.\n6. Hornear la pizza con los toppings hasta que esté dorada, aproximadamente 10 minutos.\n7. Antes de servir, exprimir el jugo de limón sobre la pizza.\nRinde una pizza de 30 cm.",
+  "url": null
+}

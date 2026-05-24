@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "salami-and-parmesan",
+  "name": "Salami y Parmesano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "queso",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1/2 libra de salami, cortado en 8 cubos",
+    "2 huevos, batidos",
+    "4 cucharadas de queso Parmesano rallado",
+    "Aceite de nuez para freír"
+  ],
+  "recipeInstructions": "1. Sumergir los cubos de salami en los huevos batidos.\n2. Rodar cada cubo en el queso Parmesano para cubrir uniformemente.\n3. Calentar una sartén profunda con aceite de nuez hasta que esté caliente.\n4. Freír los cubos de salami revestidos durante 30 segundos.\n5. Escurrir sobre papel absorbente y servir caliente.",
+  "url": null
+}

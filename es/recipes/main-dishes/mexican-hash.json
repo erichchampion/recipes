@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-hash",
+  "name": "Hash mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americana",
+    "estofados",
+    "étnica",
+    "carnes",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1 cebolla picada",
+    "8 oz de salsa de tomate en lata",
+    "16 oz de paquete de papas fritas precocidas",
+    "3 tomates",
+    "3 cucharadas de polvo de chile",
+    "1 cucharada de salsa Worcestershire",
+    "1 cucharada de azúcar moreno",
+    "1 1/2 tazas de queso rallado"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida y la cebolla hasta que la cebolla esté tierna.\n2. Incorporar la salsa de tomate, el polvo de chile, la salsa Worcestershire y el azúcar moreno. Reducir a fuego lento hasta espesar.\n3. Mientras tanto, preparar las papas fritas colocando en un molde para pastel o una bandeja de 9x9x2 pulgadas.\n4. Cubrir las papas fritas con la mezcla de carne.\n5. Cortar los tomates en rodajas y colocarlos sobre las papas fritas.\n6. Espolvorear el queso rallado uniformemente sobre los tomates.\n7. Grillar hasta que el queso se derrita y burbujee.",
+  "url": null
+}

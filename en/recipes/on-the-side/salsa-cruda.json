@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "salsa-cruda",
+  "name": "Salsa Cruda",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condiments",
+    "dressings",
+    "mcdougall",
+    "salsas",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "3 Tomatoes; chopped fine",
+    "1 medium Onion; chopped fine",
+    "1/8 cup Jalapeno pepper; chopped fin",
+    "1/4 cup Coriander; fresh",
+    "1/4 cup Green chili peppers; chopped"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a bowl.\n2. Mix well until combined.\n3. Serve at room temperature.\n4. Serve on burritos or tostadas, with chips, or fresh vegetables.\nWARNING: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-salmon",
+  "name": "Salmón sencillo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "salmón",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite de oliva",
+    "4 cebolletas, enteras",
+    "1 filete o lomo de salmón",
+    "(opcional)",
+    "1 gota de limón"
+  ],
+  "recipeInstructions": "1. Verter el aceite de oliva en una sartén pesada de tamaño medio a fuego medio.\n2. Lavar y cortar las cebolletas por la base y añadirlas a la sartén.\n3. Sazonar el salmón con sal y pimienta y colocarlo en la sartén.\n4. Freír hasta que el salmón tenga una costra y esté cocido (aproximadamente 10 minutos, dependiendo del grosor), pero sin sobrecocinarlo. Comprobar la cocción insertando un cuchillo pequeño en el centro; la carne debe haber cambiado de rosa oscuro a rosa claro.\n5. Espolvorear con eneldo si se desea.\n6. Transferir a un plato y servir con gota de limón.\nRinde una porción.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "reuben-sandwiches",
+  "name": "Sándwiches Reuben",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "Carne de cornado, hervida",
+    "Pan de centeno",
+    "Mantequilla",
+    "Chucrut",
+    "Salsa mil islas",
+    "Queso suizo"
+  ],
+  "recipeInstructions": "1. Corta el pan de centeno en rebanadas.\n2. Unta mantequilla en un lado de cada rebanada.\n3. Coloca una capa de carne de cornado sobre una rebanada de pan untada con mantequilla.\n4. Añade chucrut y salsa mil islas sobre la carne de cornado.\n5. Cubre con lonchas de queso suizo.\n6. Tapa con otra rebanada de pan, con la parte untada hacia abajo.\n7. Asa a la plancha o al horno hasta que el queso se derrita y burbujee.",
+  "url": null
+}

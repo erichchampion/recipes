@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "crazy-pizza",
+  "name": "Crazy Pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "italian",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lbs Ground beef",
+    "1 cup Chopped green pepper",
+    "1/2 cup Chopped onion",
+    "1 can Mushrooms, sliced, drained",
+    "1 can Pizza sauce",
+    "1 cup Grated mozzarella cheese",
+    "1 cup Flour",
+    "1 tsp Salt",
+    "1 tsp Italian seasoning",
+    "1/2 tsp Pepper",
+    "2 Eggs",
+    "2/3 cup Milk"
+  ],
+  "recipeInstructions": "1. Brown the ground beef and green pepper together, then drain any excess grease.\n2. Mix the flour, salt, Italian seasoning, and pepper in a separate bowl.\n3. Add eggs and milk to the dry ingredients, stirring until well combined.\n4. Pour the batter into a greased pizza pan.\n5. Tilt the pan so that the batter covers the bottom evenly.\n6. Arrange the chopped onions and mushrooms over the batter.\n7. Bake at 425°F for 20 minutes or until the crust is golden brown.\n8. Remove from the oven, then add the pizza sauce and grated cheese.\n9. Return to the oven for an additional 10 minutes, or until the cheese melts.\n10. Optionally, add other toppings as desired.",
+  "url": null
+}

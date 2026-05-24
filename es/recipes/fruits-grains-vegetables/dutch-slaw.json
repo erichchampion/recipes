@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "dutch-slaw",
+  "name": "Repa holandesa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 taza de repollo",
+    "1 huevo",
+    "2 cucharadas de vinagre",
+    "1 cucharadita de azúcar",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Ralla el repollo finamente.\n2. Coloca el repollo rallado en una sartén y espolvorea con sal.\n3. Tapa la sartén y cocina a fuego lento hasta que el repollo esté muy tierno.\n4. Bate el huevo y mézclalo con el azúcar, la sal, la pimienta y el vinagre.\n5. Vierte la mezcla sobre el repollo cocido.\n6. Calienta durante 5 minutos.\n7. Sirve inmediatamente.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "savory-crunch",
+  "name": "Savory Crunch",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "casseroles"
+  ],
+  "recipeIngredient": [
+    "Soft Crumbs form bread slices",
+    "1 tablespoon butter",
+    "1 tablespoon minced parsley"
+  ],
+  "recipeInstructions": "1. Toss the crumbs and butter together in a frypan over medium heat until brown.\n2. Remove from heat and add parsley.\n3. Sprinkle on top of casserole before baking in oven.",
+  "url": null
+}

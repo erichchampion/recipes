@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "black-bread-1",
+  "name": "Pan negro #1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 kg de harina de centeno",
+    "1 litro de leche tibia",
+    "1 cucharadita de sal",
+    "10 gramos de levadura de panadero"
+  ],
+  "recipeInstructions": "1. Disolver la levadura en una pequeña cantidad de leche tibia.\n2. Añadir un poco de harina de centeno a la mezcla de levadura y dejar reposar hasta que empiece a inflarse ligeramente.\n3. Agregar gradualmente el resto de la leche tibia, la sal y la harina de centeno a la mezcla de levadura. Mezclar bien.\n4. Dejar reposar la masa hasta que haya doblado su tamaño.\n5. Dar forma a la masa en un pan y colocarlo en un molde para hornear engrasado.\n6. Hornear durante dos horas a temperatura baja.",
+  "url": null
+}

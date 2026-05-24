@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-house-punch-2",
+  "name": "Punch de Casa de Pescado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "batido",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de zumo de limón",
+    "6 onzas de azúcar granulada fina",
+    "1,5 litros de ron Jamaica Gold",
+    "750 ml de coñac",
+    "1 taza de brandy de durazno",
+    "1 bloque de hielo grande",
+    "1 pinta de soda club (refrigerada)",
+    "8 cuartos de jarra de cóctel (refrigerada)"
+  ],
+  "recipeInstructions": "1. Mezclar el zumo de limón y el azúcar en un bol. Remover hasta que se disuelva el azúcar.\n2. En un recipiente de 4 litros, combinar la mezcla de zumo de limón y azúcar con el ron, el coñac y el brandy de durazno. Remover bien.\n3. Refrigerar hasta que esté frío, preferiblemente durante la noche.",
+  "url": null
+}

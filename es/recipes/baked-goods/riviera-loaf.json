@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "riviera-loaf",
+  "name": "Pan de la Riviera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 hogaza - 200 g de pan italiano o francés",
+    "2 cucharadas de aceitunas maduras, picadas",
+    "2 cucharadas de aceitunas rellenas de pimiento",
+    "2 cucharadas de tomates secos al sol, escurridos y picados (reserva 1 cucharada del aceite)",
+    "1 cucharada de perejil fresco, picado",
+    "2 dientes de ajo, finamente picados",
+    "1 taza - 200 g de mozzarella rallada"
+  ],
+  "recipeInstructions": "1. Precalienta el horno a 200 °C.\n2. Corta el pan por la mitad horizontalmente y colócalas con las partes cortadas hacia arriba en una bandeja para hornear sin engrasar.\n3. Mezcla las aceitunas, los tomates (con el aceite reservado), el perejil y el ajo. Extiende la mezcla sobre las partes cortadas del pan.\n4. Espolvorea cada mitad con 100 g de queso.\n5. Hornea durante 8-10 minutos o hasta que el queso se derrita.",
+  "url": null
+}

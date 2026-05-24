@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-corn-bread-2",
+  "name": "Pan de maíz mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "carne molida",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de carne molida",
+    "1 1/2 tazas de masa de maíz para cocinar sin levadura",
+    "1 lata (400g) de maíz cremoso amarillo",
+    "2 huevos",
+    "2 cucharadas de pimiento verde, picado",
+    "2 cucharadas de cebolla, picada",
+    "3 chiles jalapeños",
+    "1 taza de crema agria",
+    "2/3 taza de aceite para cocinar",
+    "1 1/2 tazas de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Dorar la carne y escurrir sobre papel absorbente.\n2. Mezclar todos los ingredientes restantes en un bol grande, añadiendo la carne dorada.\n3. Verter la mezcla en un molde grande o dos moldes pequeños engrasados.\n4. Hornear a 180°C durante 1 hora o hasta que esté dorado.",
+  "url": null
+}

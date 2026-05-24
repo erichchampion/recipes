@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "string-cheese-loaf",
+  "name": "String Cheese Loaf",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "cheese",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1 loaf French Bread",
+    "3 ounces cream cheese",
+    "1/4 cup shredded Mozzarella cheese",
+    "1/4 cup chopped onions",
+    "2 tablespoons softened butter",
+    "1/2 teaspoon garlic salt"
+  ],
+  "recipeInstructions": "1. Cut the bread at an angle into 1-inch slices, but do not cut all the way through to the bottom.\n2. Spread the mixture evenly between the slices.\n3. Wrap in foil and grill 5-6 inches from coals until the cheese is melted.\n4. Unwrap and grill for an additional 5 minutes.",
+  "url": null
+}

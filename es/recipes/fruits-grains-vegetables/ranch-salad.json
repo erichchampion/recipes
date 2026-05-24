@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "ranch-salad",
+  "name": "Ensalada de ranch",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 cabeza de coliflor mediana, dividida en floretes",
+    "1 manojo de brócoli, dividido en 6 piezas pequeñas",
+    "4 tomates, cortados en cuartos",
+    "4 zanahorias, cortadas finamente",
+    "4 cebollas verdes con los tallos, cortadas finamente",
+    "1 taza de apio picado",
+    "6 rebanadas de tocino cocido, desmenuzadas",
+    "4 onzas de queso cheddar rallado",
+    "8 onzas de aderezo para ensalada de queso azul",
+    "8 onzas de aderezo ranch"
+  ],
+  "recipeInstructions": "1. Mezclar las verduras, el tocino y el queso en un bol grande para ensalada.\n2. En un bol aparte, combinar el aderezo de queso azul y el aderezo ranch.\n3. Verter el aderezo sobre la ensalada y mezclar suavemente.\n4. Refrigerar antes de servir.",
+  "url": null
+}

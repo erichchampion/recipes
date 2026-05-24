@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "bierflip-german",
+  "name": "Voltereta de cerveza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "bebidas",
+    "étnico",
+    "alemán"
+  ],
+  "recipeIngredient": [
+    "1 1/8 litro de cerveza",
+    "8 onzas de azúcar",
+    "Una pizca de sal",
+    "Una pizca de canela",
+    "4 huevos",
+    "1 1/2 tazas de leche o crema",
+    "1/2 taza de ron"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un cazo alto y batir con una batidora hasta que forme espuma.\n2. Servir inmediatamente.",
+  "url": null
+}

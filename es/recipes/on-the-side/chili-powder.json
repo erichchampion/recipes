@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-powder",
+  "name": "Polvo de chile",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "especias",
+    "acompañamientos",
+    "condimentos"
+  ],
+  "recipeIngredient": [
+    "1 taza de pimientos chiles secos",
+    "3/4 taza de copos de pimiento rojo picante molido",
+    "1/4 taza de comino en polvo",
+    "2 cucharadas de polvo de ajo",
+    "1 cucharada de orégano seco",
+    "1 cucharada de cayena o más al gusto"
+  ],
+  "recipeInstructions": "1. Retirar los tallos y la mayoría de las semillas de los pimientos chiles.\n2. Triturar los pimientos groseramente.\n3. Agregar todos los ingredientes a una licuadora y mezclar hasta obtener un polvo fino.\n4. Dejar reposar el polvo de chili antes de retirar la tapa de la licuadora.",
+  "url": null
+}

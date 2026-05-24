@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "sucre-a-la-creme",
+  "name": "Azúcar a la crema",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulce",
+    "postres",
+    "sirope"
+  ],
+  "recipeIngredient": [
+    "1 taza de jarabe de arce",
+    "3 tazas de azúcar morena clara",
+    "1 taza de azúcar blanca",
+    "2 cucharadas de polvo de hornear",
+    "1 taza de leche",
+    "1 taza de crema de 35% o",
+    "2 tazas de crema de 15%",
+    "1 cucharada de mantequilla",
+    "2 cucharaditas de extracto de vainilla",
+    "nueces al gusto"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes excepto los últimos tres en una sartén grande.\n2. Cocina a fuego medio, removiendo constantemente. El jarabe se hinchará al principio de la cocción, pero pronto se asentará.\n3. El caramelo estará listo cuando un termómetro de caramelizar alcance los 240 °F o cuando una gota en agua fría permanezca suave. Deja enfriar el caramelo.\n4. Añade la mantequilla, la vainilla y las nueces al gusto, y remueve hasta obtener una textura cremosa.\n5. Extiende la mezcla en un molde engrasado.",
+  "url": null
+}

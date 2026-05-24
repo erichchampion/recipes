@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-russian",
+  "name": "White Russian",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "drinks",
+    "side dishes",
+    "vodka"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz Vodka",
+    "1 1/2 oz Kahlua",
+    "1 1/2 oz Heavy cream",
+    "Ice cubes"
+  ],
+  "recipeInstructions": "1. Fill a rocks glass with ice.\n2. Add vodka and Kahlua to the glass.\n3. Stir the mixture well.\n4. Float the heavy cream on top by slowly pouring it over a spoon held bottom-side up.\n5. Serve with a stir stick.",
+  "url": null
+}

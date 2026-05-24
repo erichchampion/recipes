@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "guacamole-burgers",
+  "name": "Hamburguesas de guacamole",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "carne molida",
+    "plato principal",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de aguacate maduro, machacado",
+    "3/4 taza de tomate picado",
+    "1 cucharada de cebolla finamente picada",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de polvo de chile al gusto (hasta 3/4 cucharadita)",
+    "Una pizca de pimentón rojo",
+    "1 diente de ajo machacado",
+    "2 cucharadas de zumo de limón",
+    "1 libra de carne molida"
+  ],
+  "recipeInstructions": "1. Mezcla el aguacate, tomate picado, cebolla, sal, polvo de chile (al gusto), pimentón rojo y zumo de limón en un bol. Mezcla bien.\n2. Forma la carne molida en 4 hamburguesas.\n3. Asa las hamburguesas a fuego medio-alto durante unos 5 minutos por cada lado, hasta que alcancen el punto de cocción deseado.\n4. Coloca cada hamburguesa sobre la mitad de un panecillo inglés tostado.\n5. Cubre cada hamburguesa con una cucharada de la mezcla de aguacate y coloca la otra mitad del panecillo encima.\n6. Sirve con totopos de maíz y el aguacate restante como acompañamiento.",
+  "url": null
+}

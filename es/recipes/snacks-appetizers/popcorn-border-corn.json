@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "popcorn-border-corn",
+  "name": "Palomitas de maíz con borde",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "tentempié",
+    "acción de gracias"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de maíz sin estallar (8 tazas de palomitas)",
+    "1 taza de queso Monterey Jack rallado",
+    "2 cucharadas de polvo de chile",
+    "2 cucharadas de pimentón dulce",
+    "2 cucharadas de comino molido"
+  ],
+  "recipeInstructions": "1. Estallar el maíz.\n2. Mezclar las especias con el queso rallado.\n3. Espolvorear la mezcla de especias y queso uniformemente sobre el maíz sin estallar.\n4. Remover el maíz hasta que esté bien cubierto con la especia.",
+  "url": null
+}

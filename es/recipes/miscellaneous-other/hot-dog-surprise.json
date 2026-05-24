@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-dog-surprise",
+  "name": "Sorpresa de Perro Caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "comida para el coche",
+    "niños",
+    "misceláneo",
+    "rápido"
+  ],
+  "recipeIngredient": [
+    "10 perros calientes",
+    "Queso americano (o una marca artesanal de Wisconsin cheddar) cortado en dedos del largo del perro caliente",
+    "10 lonchas de tocino"
+  ],
+  "recipeInstructions": "1. Cortar un corte profundo en cada salchicha y rellenar con los dedos de queso.\n2. Envolver diagonalmente con el tocino para sellar individualmente.\n3. Cocinar durante unos 45 minutos, o hasta que el queso se haya derretido y el tocino esté crujiente.\nEstos son excelentes para rellenar esos espacios extraños en el motor donde no cabe un pavo o un lechón.",
+  "url": null
+}

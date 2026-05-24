@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-apple-pie-2",
+  "name": "Tarta de Manzana con Jamón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "tartas de cena",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "4 lb de jamón cocido, picado finamente",
+    "5 manzanas verdes, picadas",
+    "2 cebollas, picadas finamente",
+    "1 cucharadita de salvia",
+    "2 cucharadas de mezcla de especias para verduras",
+    "1 cubo de caldo (disuelto en 1 taza de agua)",
+    "4 papas cocidas y machacadas",
+    "3 cucharadas de mantequilla derretida"
+  ],
+  "recipeInstructions": "1. En un molde para hornear profundo, alterna capas de jamón y manzanas.\n2. Espolvorea cada capa con cebolla y especias.\n3. Humedece cada capa con caldo.\n4. Cubre la última capa con papas machacadas gruesas.\n5. Unta las puntas de papa con mantequilla derretida.\n6. Hornea a 180 °C durante 1 1/2 a 2 horas, hasta que el jamón esté bien caliente y las puntas de papa estén doradas.",
+  "url": null
+}

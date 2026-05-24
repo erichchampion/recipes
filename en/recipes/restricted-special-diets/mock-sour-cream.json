@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-sour-cream",
+  "name": "Mock Sour Cream",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetic",
+    "special diets"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cups Cottage cheese, well-drained",
+    "1 tablespoon Lemon juice",
+    "2 tablespoons Dry buttermilk",
+    "1/2 teaspoon Salt (omit for low-sodium diet)"
+  ],
+  "recipeInstructions": "1. Place all ingredients in a food processor.\n2. Process until thick and smooth.\n3. Refrigerate until needed.\nServing size: 1/4 cup\nNutritional information: 46 calories; 3 grams carbohydrate; 8 grams protein; negligible fat",
+  "url": null
+}

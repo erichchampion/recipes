@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fancy-fast-chicken",
+  "name": "Pollo Rápido Elegante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "3 pechugas de pollo",
+    "6 lonchas de queso suizo",
+    "1/4 libra de setas laminadas (opcional)",
+    "1 lata de sopa de pollo con crema",
+    "1/2 taza de vino blanco",
+    "2 tazas de pan rallado Pepperidge Farm",
+    "2 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. Separar, deshuesar y descascar las pechugas de pollo.\n2. Colocar el pollo en un molde para hornear de vidrio rectangular de 9x13 pulgadas ligeramente engrasado.\n3. Tapar cada pieza con una loncha de queso suizo.\n4. Si se usan setas, colocarlas sobre el queso suizo.\n5. Mezclar la sopa y el vino blanco.\n6. Verter la mezcla sobre el pollo.\n7. Extender la mezcla de pan rallado por encima.\n8. Rocíar la mantequilla derretida por encima.\n9. Hornear a 180°C durante 45 a 60 minutos.",
+  "url": null
+}

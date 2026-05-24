@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-chicken-buddhist",
+  "name": "Pollo Falso (Budista)",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "asiático",
+    "pollo",
+    "chino",
+    "étnico",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de caldo de pollo básico",
+    "2 cucharadas de salsa de soja clara",
+    "1 cucharada de azúcar",
+    "1 cucharada de aceite de sésamo oriental",
+    "1 cucharadita de sal",
+    "8 hojas de tofu seco, remojadas hasta ablandar",
+    "Aceite de maní para freír"
+  ],
+  "recipeInstructions": "1. Llevar a ebullición el caldo de pollo, la salsa de soja, el azúcar, el aceite de sésamo y la sal.\n2. Dejar enfriar la mezcla.\n3. Doblar las hojas de tofu seco en rectángulos (aproximadamente 4 x 8 pulgadas).\n4. Apilar las hojas una encima de otra, añadiendo la mezcla de caldo entre cada capa.\n5. Enrollar las hojas apiladas en un loa rectangular y envolver en un paño de cocina.\n6. Al vapor el rollo envuelto sobre una rejilla sobre agua hirviendo durante 20 minutos.\n7. Retirar el paño y freír el rollo en aceite profundo hasta que esté dorado.\n8. Escurrir y cortar en rodajas diagonales de 1/2 pulgada.\nDe \"La Cocina Regional de China\" por Margaret Gin y Alfred E. Castle.",
+  "url": null
+}

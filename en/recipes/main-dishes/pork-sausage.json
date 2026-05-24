@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "pork-sausage",
+  "name": "Pork Sausage",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "meat",
+    "meats",
+    "sausages"
+  ],
+  "recipeIngredient": [
+    "3 lb PORK SHOULDER",
+    "4 tbsp MINCED ONION",
+    "4 tsp SAGE",
+    "2 tsp SAVORY",
+    "3 tsp SALT",
+    "1 cup CHOPPED PARSLEY",
+    "2 tsp CHERVIL",
+    "0.5 tsp MARJORAM",
+    "1 dash ALLSPICE",
+    "6 tbsp WATER",
+    "1 egg",
+    "3 tbsp SHORTENING"
+  ],
+  "recipeInstructions": "1. Chill pork for about 20 minutes (makes grinding easier).\n2. Combine all ingredients except water and egg.\n3. Sprinkle mix over the pork.\n4. Grind the pork.\n5. Add water and egg.\n6. Mix in a mixer with flat beater for 1 minute on stir speed.\n7. Refrigerate until ready to use.",
+  "url": null
+}

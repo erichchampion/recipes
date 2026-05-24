@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "vinegar-pie",
+  "name": "Tarta de Vinagre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "2 cucharadas de harina sin blanquear",
+    "1 taza de agua fría",
+    "5 cucharadas de vinagre",
+    "2,5 cucharadas de mantequilla",
+    "4 huevos grandes, batidos"
+  ],
+  "recipeInstructions": "1. Mezcla el azúcar y la harina en un bol.\n2. Añade gradualmente el agua fría, el vinagre, la mantequilla y los huevos batidos a la mezcla.\n3. Vierte la masa en una cacerola y cocina a fuego medio hasta que espese.\n4. Vierte el relleno cocido sobre una base de tarta preparada.\n5. Hornea a 190 °C (375 °F) hasta que la corteza sea dorada.",
+  "url": null
+}

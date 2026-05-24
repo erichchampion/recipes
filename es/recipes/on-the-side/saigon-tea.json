@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "saigon-tea",
+  "name": "Té de Saigón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "aperitivos",
+    "té"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de té",
+    "4 tazas de agua hirviendo recién hecha",
+    "gajos de limón",
+    "12 clavos enteros",
+    "12 granos de pimienta de Jamaica",
+    "1 palo de canela de 2 pulgadas"
+  ],
+  "recipeInstructions": "1. Coloca el té en una olla caliente.\n2. Añade el agua.\n3. Agrega los clavos, la pimienta de Jamaica y la canela.\n4. Deja reposar durante 5 minutos.\n5. Cuela y sirve sobre hielo en vasos altos.\n6. Adorna con limón.\nRinde para 4 personas.",
+  "url": null
+}

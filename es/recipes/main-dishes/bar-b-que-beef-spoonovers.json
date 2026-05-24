@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "bar-b-que-beef-spoonovers",
+  "name": "Sopa de ternera Bar-b-Que",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne picada magra",
+    "1/2 taza de cebolla picada",
+    "1/2 taza de pimiento verde picado",
+    "1 taza de salsa de tomate, o ketchup",
+    "1 cucharada de salsa Worcestershire",
+    "1 cucharadita de sal, o al gusto",
+    "1/4 cucharadita de pimienta, o al gusto",
+    "4 bollos de hamburguesa"
+  ],
+  "recipeInstructions": "1. Cocinar la carne picada con la cebolla y el pimiento verde en una sartén hasta que se dore ligeramente.\n2. Retirar la sartén del fuego y dejar escurrir cualquier grasa excesiva.\n3. Añadir salsa de tomate (o ketchup) y salsa Worcestershire a la sartén. Mezclar bien.\n4. Sazonar con sal y pimienta al gusto.\n5. Mezclar todo y dejar que la mezcla se cocine a fuego lento durante 15 minutos.\n6. Servir la mezcla sobre los bollos de hamburguesa.",
+  "url": null
+}

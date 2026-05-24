@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fritters",
+  "name": "Frituras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "frituras"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina tamizada",
+    "1 cucharadita de sal",
+    "1 cucharadita de polvo de hornear",
+    "2 huevos",
+    "1/4 taza de leche",
+    "1 cucharada de manteca derretida",
+    "mantequilla o aceite para freír"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar la harina, la sal y el polvo de hornear.\n2. En otro bol, batir los huevos con la leche y añadir la manteca derretida.\n3. Combinar las dos mezclas suavemente poco a poco.\n4. Con una cuchara o una cucharadita, verter pequeñas porciones de masa en la mantequilla o aceite caliente a 180 °C (365 °F).\n5. Freír hasta que estén doradas y cocidas en el centro, aproximadamente 4-5 minutos.\n6. Retirar del aceite con una cuchara perforada y escurrir sobre papel absorbente.\nOpcional:\n1 taza de maíz entero cocido para fritas de maíz\n1 taza de manzanas para fritas de manzana\n1 taza de camarones cocidos y picados para fritas de camarón",
+  "url": null
+}

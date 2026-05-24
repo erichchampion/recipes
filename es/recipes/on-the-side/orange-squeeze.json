@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-squeeze",
+  "name": "Expresión de Naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "2 tazas de zumo de naranja fresco",
+    "1 taza de zumo de limón fresco",
+    "1/4 taza de zumo de lima fresco",
+    "1 taza de piña triturada",
+    "1 taza de fresas machacadas",
+    "1 1/4 tazas de azúcar",
+    "1 taza de agua caliente",
+    "2 tazas de té frío"
+  ],
+  "recipeInstructions": "1. Mezclar los jugos, la piña y las fresas machacadas.\n2. Hervir el azúcar con agua para hacer un jarabe.\n3. Añadir el jarabe y el té a los jugos; remover hasta que esté bien mezclado.\n4. Servir sobre hielo. Esta receta sirve para 8-10 personas.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "sloppy-ziti",
+  "name": "Ziti deshilados",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "pasta",
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "1 libra de ziti",
+    "8 onzas de carne molida extra magra",
+    "1 zanahoria",
+    "1 cebolla",
+    "1 pimiento verde",
+    "1 cucharada de polvo de chile",
+    "6 onzas de puré de tomate",
+    "12 onzas de agua",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Dorar la carne en una sartén, luego escurrir el exceso de grasa con un colador.\n2. Picar finamente las verduras (zanahoria, cebolla, pimiento verde) en procesador de alimentos y añadirlas a la carne en una cacerola de tamaño medio.\n3. Saltear la mezcla a fuego bajo hasta que las verduras estén tiernas, unos 5 minutos.\n4. Incorporar el polvo de chile, el puré de tomate y el agua; dejar cocinar a fuego lento durante unos 10 minutos.\n5. Sazonar con sal y pimienta al gusto.\n6. Cocinar los ziti al dente (hasta que estén cocidos pero aún firmes) en agua hirviendo.\n7. Escurrir los ziti y mezclar bien con la salsa.",
+  "url": null
+}

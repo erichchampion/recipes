@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "another-falafel-recipe",
+  "name": "Otra receta de falafel",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "orientales",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de garbanzos cocidos y escurridos",
+    "1 cebolla picada",
+    "1/4 taza de perejil picado",
+    "3 dientes de ajo machacados",
+    "1 cucharada de caldo de garbanzo",
+    "1/2 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de cilantro molido",
+    "1 cucharadita de comino en polvo",
+    "Sal y pimienta al gusto",
+    "1 cucharada de harina de uso común, más adicional para empanar las albóndigas",
+    "Aceite para freír",
+    "Pitas, parte superior cortada",
+    "Ensalada de tomate y cebolla",
+    "Una pizca de harissa (opcional)"
+  ],
+  "recipeInstructions": "------------------------\nHarissa:\n1/2 libra de chiles rojos, sin tallo, sin semillas y picados\n6 dientes de ajo pelados\n1 cucharadita de semillas de eneldo\n1 cucharadita de sal\n1 1/2 cucharaditas de pimienta\n1 1/2 cucharaditas de comino molido\n1 cucharadita de cilantro molido\nAceite de oliva\nColoca los garbanzos cocidos en una licuadora. Agrega la cebolla, el perejil, el ajo, el caldo, el bicarbonato, las especias, la sal y la pimienta. Procesa hasta obtener una consistencia suave. Vierte en un bol de vidrio y refrigera hasta que esté firme, entre 20 y 30 minutos.\nForma 12 albóndigas. Espolvorea ligeramente con harina y fríe en aceite caliente, dándoles la vuelta frecuentemente, hasta que estén doradas y crujientes. Escurre sobre papel absorbente. Coloca una albóndiga en una pita, añade la ensalada y un poco de harissa si lo deseas.\nHarissa:\nColoca los chiles y el ajo en un procesador y procesa hasta obtener una textura gruesa. Agrega los ingredientes restantes excepto el aceite de oliva y procesa hasta obtener una consistencia suave. Para almacenar, coloca en un tarro pequeño, cubre con una fina capa de aceite de oliva y refrigera hasta su uso. Rinde 1 taza.",
+  "url": null
+}

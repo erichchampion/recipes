@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "round-steak-italiano",
+  "name": "Solomillo Italiano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de vacuno",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de solomillo",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de orégano",
+    "400 g de salsa de espagueti"
+  ],
+  "recipeInstructions": "1. Cortar el solomillo en 5 o 6 trozos para servir.\n2. Condimentar cada trozo con sal y orégano.\n3. Colocar la carne en una olla de cocción lenta.\n4. Verter la salsa de espagueti sobre los trozos de carne.\n5. Cocinar a fuego lento durante 7 a 9 horas.\n6. Servir con pasta, permitiendo que se escurra y se sirva la salsa por encima.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cold-gaspacho",
+  "name": "Cold Gaspacho",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 Green pepper, diced",
+    "4 Tomatoes, diced",
+    "1 Onion, diced",
+    "3 Garlic cloves, minced",
+    "3 cups Water",
+    "1/4 cup Wine",
+    "3 tsp Lemon juice",
+    "1 Scallion, diced fine"
+  ],
+  "recipeInstructions": "1. Puree all ingredients, except scallion, in a blender.\n2. Add a little more water if the mixture is too spicy.\n3. Strain the mixture through a fine-mesh sieve, discarding any vegetable pieces that did not puree fully.\n4. Chill the mixture overnight.\n5. Serve chilled in glasses or bowls with diced scallion floating on top.",
+  "url": null
+}

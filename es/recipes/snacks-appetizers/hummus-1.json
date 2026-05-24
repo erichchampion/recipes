@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "hummus-1",
+  "name": "Hummus número 1",
+  "recipeCuisine": "Africa & Middle East",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "ajo",
+    "cocina del medio oriente",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "31 onzas (2 latas) de garbanzos",
+    "1/3 taza de zumo de limón o al gusto",
+    "6 cucharadas de tahini (pasta de semillas de girasol)",
+    "Al gusto de sal y pimienta negra molida"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes, excepto las guarniciones, en una licuadora o procesador de alimentos.\n2. Mezclar hasta obtener una pasta suave y cremosa.\n3. Ajustar el sabor con más zumo de limón o sal si lo deseas.\n4. Debe tener la consistencia de un puré cremoso.\n5. Diluir con líquido de garbanzos o agua si es necesario.\n6. Servir en un bol atractivo.\n7. Decorar con un chorro de aceite de oliva y espolvorear perejil.\n8. Acompañar con triángulos de pan pita y verduras crudas.",
+  "url": null
+}

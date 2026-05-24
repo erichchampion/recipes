@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "gloria-s-punch",
+  "name": "Gloria's Punch",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "punch",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 large cans frozen orange juice, prepared as directed",
+    "2 large cans frozen pink lemonade, prepared as directed",
+    "2 large cans frozen unsweetened grape juice, prepared as directed",
+    "2 large cans frozen Five Alive fruit punch, prepared as directed",
+    "2 liters gingerale",
+    "2 oranges sliced"
+  ],
+  "recipeInstructions": "1. Mix the juices and gingerale together.\n2. Float orange slices on top.",
+  "url": null
+}

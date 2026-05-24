@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mushroom-and-onion-spaghetti",
+  "name": "Mushroom and Onion Spaghetti",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "easy",
+    "main dish",
+    "pasta",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "3 oz Mushrooms, sliced",
+    "3 oz Onions, sliced",
+    "3 oz Tomato, chopped",
+    "1/2 tsp Basil",
+    "1/4 tsp Oregano",
+    "1/2 tsp Salt",
+    "2 tbsp Olive oil",
+    "6 oz Spaghetti, cooked"
+  ],
+  "recipeInstructions": "1. Heat olive oil in a pan over medium heat.\n2. Add mushrooms, onions, and tomato; stir occasionally.\n3. Sprinkle basil, oregano, and salt over the vegetables.\n4. Cook for 5 minutes or until the vegetables are tender.\n5. Combine with spaghetti and toss gently to coat evenly.\n6. Serve warm.",
+  "url": null
+}

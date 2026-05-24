@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-beef-ribbons",
+  "name": "Ribos de ternera picantes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecua",
+    "carne de vacuno",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 lb de solomillo, sin grasa",
+    "Aderezo:",
+    "1 taza de cilantro picado",
+    "1 cucharada de jengibre fresco pelado y picado",
+    "4 dientes de ajo picados",
+    "4 cucharadas de aceite de sésamo",
+    "2 cucharadas de salsa picante",
+    "2 cucharadas de salsa de soja",
+    "1 cucharada de vinagre de arroz",
+    "El jugo de 1 lima entera",
+    "Una pizca de azúcar (opcional)",
+    "8 brochetas"
+  ],
+  "recipeInstructions": "1. Cortar la carne de res en tiras largas, de aproximadamente 0,3 cm de grosor.\n2. Mezclar todos los ingredientes del aderezo en un bol.\n3. Añadir las tiras de carne al aderezo y marinar en el refrigerador durante al menos 1 hora.\n4. Enhebrar 1 o más tiras de carne en cada brocheta.\n5. Asar a la parrilla o al horno, dando la vuelta ocasionalmente (2-3 minutos por lado) hasta alcanzar el punto deseado de cocción.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mozzarella-and-sun-dried-tomato-bread",
+  "name": "Pan de mozzarella y tomate seco al sol",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "queso",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras (680 gramos) levadura seca activa",
+    "2 1/2 cucharaditas (12,5 gramos) harina de pan",
+    "1 cucharada de azúcar",
+    "1 1/2 cucharaditas de sal",
+    "1 1/2 cucharadas de aceite de oliva",
+    "1/3 taza de tomates secos al sol picados",
+    "1/2 taza de agua",
+    "1/3 taza de queso mozzarella cortado en cubos"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes excepto el queso mozzarella a la máquina de pan, en el orden recomendado por el fabricante.\n2. Procesar en el ciclo de pan blanco o básico.\n3. En la señal sonora, añadir el queso mozzarella (o al final del primer amasado).",
+  "url": null
+}

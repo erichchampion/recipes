@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-patties",
+  "name": "Mexican Patties",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat",
+    "mexican"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground beef",
+    "1 cup Pretzel crumbs",
+    "1/2 cup Chopped onion",
+    "4 oz Can green chiles, deseeded and chopped",
+    "2 tbsp Chorizo sausage, chopped",
+    "1 tbsp Chili seasoning",
+    "2 Cloves garlic, crushed",
+    "8 oz Monterey Jack Cheese",
+    "2 Green peppers"
+  ],
+  "recipeInstructions": "1. Preheat oven to 375°F.\n2. Combine all ingredients, except cheese and the 2 green peppers, in a medium bowl until well blended.\n3. Form meatballs, each containing a 1-inch cube of Jack cheese at the center.\n4. Cut the green peppers into quarters and remove seeds.\n5. Place each meatball into the center of a pepper.\n6. Bake for 20-30 minutes.\nServes 4-6.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "ground-beef-stew",
+  "name": "Ground Beef Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meats",
+    "slow cooker",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "3 Potatoes, cubed",
+    "4 Med-carrots, sliced",
+    "1 small Onion, chopped",
+    "1 can Peas, drained",
+    "1 lb Ground beef",
+    "Salt",
+    "1 can Tomato soup",
+    "1 can Warm water"
+  ],
+  "recipeInstructions": "1. Layer the ingredients in a crock pot without mixing: start with potatoes, then carrots.\n2. Add onions, peas, ground beef, and salt.\n3. Evenly spread tomato soup over all layers.\n4. Pour warm water on top.\n5. Cook for 7 hours.\n6. Stir before serving.",
+  "url": null
+}

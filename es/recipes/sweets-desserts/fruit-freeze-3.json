@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-freeze-3",
+  "name": "Congelado de Frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "fruta",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "2 tazas de plátano machacado",
+    "2 tazas de jugo de naranja",
+    "1 lata de piña triturada en jugo, escurrida",
+    "2 cucharadas de zumo de limón",
+    "10 fresas, opcional"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta obtener una textura suave.\n2. Verter la mezcla en un molde cuadrado de 9 pulgadas.\n3. Colocar el molde en el congelador y congelar durante unas 2 horas, o hasta que esté firme.\n4. Una vez congelado, retirar del molde y batir el contenido con un tenedor para romper cualquier cristalización grande.\n5. Congelar nuevamente la mezcla antes de servir.",
+  "url": null
+}

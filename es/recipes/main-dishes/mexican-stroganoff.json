@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-stroganoff",
+  "name": "Stroganoff mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "2 libras de solomillo, en trozos pequeños",
+    "1 taza de cebolla, finamente picada",
+    "2 dientes de ajo, picados",
+    "2 cucharadas de aceite de cocina",
+    "2 tazas de agua o 1 taza de vino tinto y 1/2 taza de agua",
+    "1/2 taza de salsa picante",
+    "1 cucharadita de pimentón dulce",
+    "1 cucharadita de comino en polvo",
+    "2 cucharaditas de sal sazonada",
+    "1 cucharadita de salsa de soja",
+    "200 g de setas enlatadas, escurridas",
+    "1/4 taza de salsa verde de chile (opcional)"
+  ],
+  "recipeInstructions": "1. Dorar la carne, la cebolla y el ajo en aceite en una olla grande.\n2. Escurrir el contenido de la olla.\n3. Agregar los ingredientes restantes (agua o vino, salsa picante, pimentón, comino, sal sazonada, salsa de soja, setas y salsa verde de chile) a la carne y cocinar a fuego lento, tapado, durante 1 hora o hasta que la carne esté tierna.\n4. Calentar la mezcla de carne antes de servir.\n5. Mezclar el crema agria con la harina y añadirla a la carne 5-10 minutos antes de servir.\n6. Servir sobre fideos o arroz.",
+  "url": null
+}

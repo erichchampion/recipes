@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-bars",
+  "name": "Barras para el desayuno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 tazas de avena",
+    "1 1/2 tazas de harina de trigo integral",
+    "1 taza de jugo de manzana",
+    "1/4 taza de germen de trigo",
+    "1 taza de frutos secos secos y picados",
+    "3/4 cucharadita de canela",
+    "6 cucharadas de azúcar moreno",
+    "1/2 cucharadita de sal",
+    "1/2 taza de sustituto de grasa (ver instrucciones)"
+  ],
+  "recipeInstructions": "Precalentar el horno a 375°F. Engrasar un molde rectangular de 9x13 pulgadas con Pam. Mezclar todos los ingredientes, extender uniformemente sobre la base del molde y espolvorear con canela adicional. Hornear durante 30 minutos. Dejar enfriar antes de retirar o se desmoronarán. Para un sustituto de grasa, usar 1/2 taza de arándanos congelados descongelados en un poco de agua con azúcar, plátanos machacados, frambuesas machacadas, o puré de unas peras en salsa. ¡Ser creativo!",
+  "url": null
+}

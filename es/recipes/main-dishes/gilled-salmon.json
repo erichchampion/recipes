@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "gilled-salmon",
+  "name": "Salmón Asado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "salmón",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "6 filetes de salmón medianos",
+    "1/3 taza de aceite de oliva",
+    "4 dientes de ajo, picados",
+    "1/2 taza de perejil picado",
+    "1/4 cucharadita de hierba de dil (secas)",
+    "1 cucharada de sal",
+    "1 taza de migas de pan finas",
+    "1/4 taza de mantequilla o margarina ablandada"
+  ],
+  "recipeInstructions": "1. Coloca los filetes de salmón en una bandeja para hornear bien engrasada.\n2. Combina y mezcla el aceite, el ajo picado, el perejil, la hierba de dil y la sal en una licuadora.\n3. Incorpora las migas de pan y reserva.\n4. Unta mantequilla sobre cada filete.\n5. Asa a una distancia de 4 pulgadas del calor durante 8 minutos o hasta que el pescado se desmenuce fácilmente con un tenedor.\n6. Extiende aproximadamente 2 cucharadas de la mezcla de ajo sobre cada filete de salmón.\n7. Devuelve a la parrilla y asa durante 1-2 minutos o hasta que esté ligeramente dorado.",
+  "url": null
+}

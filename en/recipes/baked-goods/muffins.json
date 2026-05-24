@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "muffins",
+  "name": "Muffins",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "muffins"
+  ],
+  "recipeIngredient": [
+    "2 1/2 cup All-purpose flour",
+    "3 1/2 tsp Baking powder",
+    "1/2 tsp Salt",
+    "2 tbsp Sugar",
+    "1 cup Milk",
+    "1 Egg",
+    "1 cup Raisins or chopped berries",
+    "-ÿÿOther fruit"
+  ],
+  "recipeInstructions": "1. Preheat oven to 350°F.\n2. Mix flour, baking powder, salt, and sugar together in a large bowl.\n3. In another bowl, beat milk and egg until smooth.\n4. Add the milk and egg mixture to the dry ingredients, stirring until just combined.\n5. Stir in raisins or chopped berries (and any other fruit).\n6. Grease a muffin tin with butter and flour each cup.\n7. Pour batter into the prepared muffin cups.\n8. Bake for 25 minutes, or until a toothpick inserted into the center comes out clean.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "yogurt-dressing",
+  "name": "Yogurt Dressing",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "dressings",
+    "salads",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup Plain yogurt",
+    "2 tbsp Honey",
+    "1 tbsp Mustard",
+    "1 tsp Cider vinegar",
+    "1/4 tsp Salt",
+    "1/4 tsp Pepper"
+  ],
+  "recipeInstructions": "1. In a small bowl, mix all ingredients until well combined.",
+  "url": null
+}

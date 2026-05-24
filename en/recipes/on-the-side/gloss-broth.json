@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "gloss-broth",
+  "name": "Gloss Broth",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condiments",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/2 cup vegetable stock",
+    "1 teaspoon balsamic vinegar",
+    "1/8 teaspoon turmeric",
+    "dash of salt",
+    "1 teaspoon Arrowroot starch or cornstarch dissolved in 1 tablespoon of vegetable stock (slurry)"
+  ],
+  "recipeInstructions": "1. Combine all ingredients except the slurry in a small saucepan.\n2. Bring to a boil over medium heat.\n3. Stir in the starch slurry and cook until thickened, less than 1 minute.",
+  "url": null
+}

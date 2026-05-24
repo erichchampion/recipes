@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "herbal-ice-tea",
+  "name": "Té helado herbal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "bebidas",
+    "diabético",
+    "dietas especiales"
+  ],
+  "recipeIngredient": [
+    "1 litro de agua filtrada",
+    "3 bolsitas de té herbal con sabor (como menta o fresa)",
+    "azúcar al gusto"
+  ],
+  "recipeInstructions": "1. Coloca las bolsitas de té en un recipiente grande con 1 litro de agua filtrada.\n2. Deja que el té se infusione durante la noche a temperatura ambiente.\n3. Retira las bolsitas de té y añade azúcar al gusto, removiendo bien.\n4. Agrega cubitos de hielo hasta alcanzar el tamaño de ración deseado.",
+  "url": null
+}

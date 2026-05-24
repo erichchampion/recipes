@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbeque-sauce-mexican",
+  "name": "Salsa Barbacoa Mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3/8 taza de jarabe de caramelo oscuro",
+    "3/8 taza de café fuerte",
+    "1/4 taza de ketchup",
+    "1/4 taza de vinagre de sidra",
+    "1/4 taza de salsa Worcestershire",
+    "6 cucharaditas de polvo de chile",
+    "2 cucharadas de aceite de maíz",
+    "2 cucharaditas de mostaza en polvo",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de salsa picante"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Remover bien hasta que esté completamente incorporado.\n3. Dejar reposar la mezcla durante al menos una hora para que se mezclen los sabores, o más tiempo para un sabor más intenso.",
+  "url": null
+}

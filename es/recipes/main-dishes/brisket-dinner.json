@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "brisket-dinner",
+  "name": "Cena de brisket",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "5 libras de brisket, cortado",
+    "1 cebolla grande, picada",
+    "1 zanahoria grande, picada",
+    "2 cucharaditas de sal",
+    "1 hoja de laurel",
+    "1 1/2 cucharaditas de tomillo",
+    "1 taza de agua",
+    "1 libra de cebolletas pequeñas, peladas",
+    "6 zanahorias medianas, cortadas en trozos de 1/4 de pulgada"
+  ],
+  "recipeInstructions": "1. Cortar el brisket por la mitad o enrollarlo para que quepa en la olla de cocción lenta.\n2. Agregar la cebolla picada, la zanahoria picada, la hoja de laurel, el tomillo, la sal y el agua a la olla.\n3. Tapar y cocinar a fuego lento durante 8 a 10 horas.\n4. Cuando la carne esté tierna, levantarla suavemente del caldo con una espátula y mantenerla caliente.\n5. Agregar las cebolletas y las zanahorias al caldo en la olla de cocción lenta.\n6. Tapar y cocinar a fuego alto durante 1 a 2 horas.\n7. Retirar los vegetales del caldo con una cuchara perforada y disponerlos alrededor de la carne.",
+  "url": null
+}

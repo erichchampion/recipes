@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-tart-1",
+  "name": "Tarta de Manzana 1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas",
+    "pasteles"
+  ],
+  "recipeIngredient": [
+    "Masa de tarta sin hornear de 23 cm",
+    "3 cucharadas de azúcar",
+    "7 manzanas grandes",
+    "2 cucharadas y media de mantequilla",
+    "3 cucharadas de harina",
+    "1/4 taza de agua fría",
+    "Canela"
+  ],
+  "recipeInstructions": "1. Mezclar la harina con 3 cucharadas de azúcar en el fondo de la masa de la tarta.\n2. Rellenar con mitades y trozos de manzana (aproximadamente 7 manzanas grandes).\n3. Espolvorear con el azúcar y la canela restantes.\n4. Distribuir la mantequilla en puntos y verter el agua.\n5. Hornear a 180 °C durante una hora.",
+  "url": null
+}

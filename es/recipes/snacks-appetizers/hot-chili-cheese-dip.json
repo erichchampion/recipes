@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-chili-cheese-dip",
+  "name": "Dip de chile picante con queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempies"
+  ],
+  "recipeIngredient": [
+    "1 cebolla mediana, picada",
+    "2 dientes de ajo, picados finamente",
+    "2 cucharadas de aceite de cocina",
+    "3 tomates, pelados y picados",
+    "1/2 cucharadita de polvo de chili",
+    "1/4 cucharadita de salsa picante en polvo",
+    "1/2 taza de queso cheddar rallado",
+    "1 cucharada de almidón de maíz"
+  ],
+  "recipeInstructions": "1. En una sartén mediana, saltea la cebolla y el ajo en aceite hasta que estén tiernos pero no dorados.\n2. Añade los tomates, el polvo de chili y la salsa picante. Hierve sin cubrir durante 10 minutos.\n3. Mezcla el almidón de maíz con 1 cucharada de agua fría; incorpora a la mezcla de tomate y cocina, revolviendo constantemente hasta espesar y burbujear.\n4. Agrega el queso y revuelve hasta que se derrita.\n5. Sirve caliente con totopos de tortilla.",
+  "url": null
+}

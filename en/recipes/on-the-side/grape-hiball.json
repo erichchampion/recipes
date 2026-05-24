@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "grape-hiball",
+  "name": "Grape Hiball",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "grape hi-ball",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "3 lemons, juice",
+    "1.5 pints water",
+    "1 tablespoon grape hi-ball",
+    "1 cup sugar"
+  ],
+  "recipeInstructions": "1. Mix lemon juice with other ingredients.\n2. Pour into a pitcher filled with ice.\n3. Stir until combined.\n4. Let stand for 10 minutes before serving.",
+  "url": null
+}

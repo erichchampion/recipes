@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-orange-julius",
+  "name": "Mock Orange Julius",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "non-alcoholic",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "6 oz Orange Juice Frozen - CONCENTRATE",
+    "1 cup Milk",
+    "1 cup Water",
+    "1/4 cup Sugar",
+    "1 Egg",
+    "1/2 cup Coconut milk",
+    "8 Ice cubes"
+  ],
+  "recipeInstructions": "1. Add the orange juice frozen concentrate, milk, water, sugar, egg, coconut milk, and ice cubes to the blender.\n2. Blend until all ingredients are well combined and the mixture is frothy, approximately 2 minutes.\n3. Serve immediately while still foamy for best flavor and texture.",
+  "url": null
+}

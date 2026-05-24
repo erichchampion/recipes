@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-salad-bowl",
+  "name": "Bowl de Ensalada Mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "8 tazas de lechuga mixta, en trozos pequeños",
+    "1/4 taza de cebolla verde, picada",
+    "1/4 taza de pimiento verde, cortado en tiras finas",
+    "1/4 taza de aceitunas maduras, cortadas en rodajas y sin hueso",
+    "2 tomates grandes, cortados en gajos"
+  ],
+  "recipeInstructions": "1. Lavar y secar bien la lechuga mixta.\n2. Picar finamente las cebollas verdes.\n3. Cortar el pimiento verde en tiras finas.\n4. Eliminar los huesos de las aceitunas y cortarlas en rodajas finas.\n5. Cortar los tomates en gajos.\n6. Mezclar todos los ingredientes en un bol grande para ensalada y remover suavemente para combinar.",
+  "url": null
+}

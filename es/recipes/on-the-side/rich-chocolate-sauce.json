@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "rich-chocolate-sauce",
+  "name": "Salsa de chocolate rica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "6 onzas de chocolate amargo",
+    "6 onzas de chocolate semiamargo",
+    "1 taza de crema espesa",
+    "1/2 taza de café",
+    "1 cucharada de coñac"
+  ],
+  "recipeInstructions": "1. Derrite el chocolate en un baño maría, removiendo constantemente hasta que esté suave.\n2. Mezcla el chocolate derretido con la crema espesa y revuelve bien.\n3. Añade el café preparado al gusto.\n4. Incorpora el coñac y mezcla suavemente hasta combinarlo.",
+  "url": null
+}

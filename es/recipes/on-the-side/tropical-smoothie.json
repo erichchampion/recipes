@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tropical-smoothie",
+  "name": "Batido Tropical",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "bebidas sin alcohol",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 1/2 tazas de jugo de piña sin endulzar",
+    "1 taza de fresas cortadas en rodajas",
+    "1 plátano cortado en rodajas",
+    "o",
+    "mango cortado en cubos",
+    "o",
+    "papaya cortada en cubos"
+  ],
+  "recipeInstructions": "1. Si se usa mango o papaya, asegúrese de que estén maduros.\n2. Pelar y cortar la fruta.\n3. Enfriar bien el jugo de piña.\n4. Combinar todos los ingredientes en una licuadora. Mezclar hasta obtener una consistencia espesa y suave.\n5. Servir en un vaso adornado con una fresa entera y quizás un ramito de menta.",
+  "url": null
+}

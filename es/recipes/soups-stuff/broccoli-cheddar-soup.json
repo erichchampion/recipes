@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "broccoli-cheddar-soup",
+  "name": "Sopa de brócoli y queso cheddar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de cebolla picada",
+    "1/4 taza de mantequilla o margarina",
+    "1/4 taza de harina de uso común",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "3/4 taza de caldo de pollo",
+    "1 1/2 tazas de leche",
+    "1 taza de brócoli picado",
+    "1/2 taza de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. En una cacerola, saltea la cebolla en mantequilla hasta que esté tierna.\n2. Añade harina, sal y pimienta; cocina y revuelve hasta obtener una textura suave y burbujeante.\n3. Vierte el caldo y la leche de golpe; cocina y revuelve hasta que la mezcla hierva y espese.\n4. Agrega el brócoli y deja cocinar a fuego lento, revolviendo constantemente, hasta que esté caliente.\n5. Retira del fuego y añade el queso, removiendo hasta que se derrita.",
+  "url": null
+}

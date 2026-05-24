@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "paella-2",
+  "name": "Paella",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "la zen de cocinar"
+  ],
+  "recipeIngredient": [
+    "2 libras de pollo para freír, cortado en 8 trozos",
+    "1 cucharadita de sal",
+    "1 cucharadita de pimienta negra",
+    "1 cucharadita de jugo de limón",
+    "2 dientes de ajo, picados",
+    "6 cucharadas de aceite de canola",
+    "2 salchichas italianas, cocidas y en rodajas",
+    "1 taza de cebolla, picada",
+    "1 taza de pimiento verde, picado",
+    "2 tazas de arroz sin cocer",
+    "1/2 taza de salsa de tomate",
+    "3 1/2 tazas de agua hirviendo",
+    "o caldo de pescado o pollo",
+    "1/2 cucharadita de azafrán",
+    "1 taza de guisantes congelados",
+    "1/2 libra de escamares crudos",
+    "3 pimientos rojos medianos, en rodajas"
+  ],
+  "recipeInstructions": "1. Lavar y secar el pollo.\n2. Preparar una pasta con la sal, pimienta, jugo de limón, ajo y 2 cucharadas de aceite de canola. Untar sobre los trozos de pollo.\n3. Calentar el resto del aceite en una sartén profunda grande y dorar el pollo.\n4. Añadir las salchichas, cebollas y pimiento verde. Cocinar a fuego lento durante 10 minutos, removiendo con frecuencia.\n5. Incorporar el arroz; cocinar durante 5 minutos.\n6. Mezclar la salsa de tomate, agua o caldo, y azafrán. Cubrir y cocinar a fuego medio durante 20 minutos.\n7. Remover ocasionalmente durante la cocción.\n8. Añadir los guisantes, escamares y pimientos; cubrir y cocinar durante 5 minutos adicionales.\n9. Decorar con las rodajas de pimiento rojo.",
+  "url": null
+}

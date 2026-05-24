@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "buffalo-burgers",
+  "name": "Hamburguesas de Buffalo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgueros",
+    "plato principal",
+    "carnes",
+    "varios"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida de búfalo",
+    "1/4 cucharadita de pimienta negra",
+    "1 cucharadita de salsa Worcestershire",
+    "4 cucharadas de ketchup",
+    "1 cucharadita de sal",
+    "1 cucharadita de mostaza",
+    "2 cucharaditas de rábano picante"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande hasta que estén bien integrados.\n2. Formar la mezcla en hamburguesas y asarlas a fuego medio durante unos 3-4 minutos por cada lado, o hasta que estén cocidas completamente.\n3. Servir en panecillos al gusto.\nNota: La multitud adolescente que probó estas hamburguesas pidió segundas raciones, lo que indica que las disfrutaron. La carne de búfalo es magra y se seca fácilmente, por lo que es mejor cocinarla a fuego lento sin exposición directa a la llama.",
+  "url": null
+}

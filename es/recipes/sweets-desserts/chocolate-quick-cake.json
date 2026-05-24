@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-quick-cake",
+  "name": "Pastel de chocolate rápido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina",
+    "1 taza de azúcar",
+    "1 cucharadita de polvo de hornear",
+    "1/2 taza de mantequilla",
+    "16 onzas de jarabe de chocolate",
+    "1 cucharadita de extracto de vainilla",
+    "4 huevos"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 grados Fahrenheit.\n2. En un bol grande, mezclar todos los ingredientes a velocidad baja hasta que los ingredientes secos se humedezcan y luego aumentar a velocidad media hasta obtener una mezcla suave.\n3. Verter la masa en dos moldes para torta redonda de 8 pulgadas, bien engrasados, o en un molde rectangular de 9x13 pulgadas.\n4. Hornear durante 25 minutos para las capas o 30 minutos para el molde grande, hasta que un palillo insertado en el centro salga limpio.\n5. Dejar enfriar antes de cubrir con la crema de su elección.",
+  "url": null
+}

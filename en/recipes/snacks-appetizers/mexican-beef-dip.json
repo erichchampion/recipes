@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-beef-dip",
+  "name": "Mexican Beef Dip",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "american",
+    "appetizers",
+    "cheese",
+    "ethnic",
+    "ground beef",
+    "mexican"
+  ],
+  "recipeIngredient": [
+    "2 1/2 pounds Ground beef",
+    "1 Onion, chopped",
+    "8 ounces Mozzarella cheese, shredded",
+    "8 ounces Cheddar cheese, shredded",
+    "1 pound Velveeta cheese, chunked",
+    "1 package Taco seasoning",
+    "1 can Picante sauce",
+    "Garlic salt to taste"
+  ],
+  "recipeInstructions": "1. Brown the ground beef and drain off excess fat.\n2. Mix the cooked beef with taco seasoning.\n3. Combine all ingredients into a casserole dish.\n4. Bake at 350°F for 30 minutes.\n5. Serve with nacho chips.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "feta-cheese-dressing",
+  "name": "Salsa de queso feta",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "etnico",
+    "griego",
+    "aderezo para ensalada",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "1 taza de queso feta desmenuzado",
+    "1 taza de mayonesa",
+    "1/2 cucharadita de polvo de ajo",
+    "1/4 taza de vinagre de vino",
+    "1/2 cucharadita de orégano seco",
+    "2 cucharadas de salsa de soja",
+    "2 cucharadas de aceite de oliva"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un procesador de alimentos con una cuchilla metálica.\n2. Procesar durante 5 segundos.\n3. Acompaña con la mayoría de las ensaladas.",
+  "url": null
+}

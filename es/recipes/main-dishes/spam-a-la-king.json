@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "spam-a-la-king",
+  "name": "Spam a la King",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1/3 taza de pimiento verde picado",
+    "3 cucharadas de mantequilla o margarina",
+    "3 cucharadas de harina",
+    "1/4 cucharadita de sal",
+    "1/8 cucharadita de pimienta molida",
+    "1 taza de agua",
+    "1 taza de crema para cocinar",
+    "1 cubo de caldo de pollo",
+    "12 onzas de SPAM en cubos",
+    "4 onzas de champiñones laminados, escurridos",
+    "1/4 taza de pimiento rojo picado",
+    "Capas de masa de hojaldre, arroz o tostadas."
+  ],
+  "recipeInstructions": "1. En una sartén grande, saltear el pimiento verde picado en mantequilla hasta que esté tierno.\n2. Agregar gradualmente la harina, la sal y la pimienta hasta obtener una mezcla suave.\n3. Incorporar el agua, la crema para cocinar y el cubo de caldo.\n4. Cocinar a fuego lento, removiendo hasta que la mezcla hierva y espese.\n5. Añadir los cubos de SPAM, los champiñones laminados y el pimiento rojo picado.\n6. Continuar cocinando y removiendo durante 3 minutos adicionales.\n7. Servir sobre capas de masa de hojaldre, arroz o tostadas.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "lobster-parisienne",
+  "name": "Lobster Parisienne",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "ethnic",
+    "french",
+    "main dish",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "6 Lobster tails, cooked/chilled",
+    "6 tbsp Mayonnaise",
+    "1 tsp Prepared Mustard",
+    "1 tsp Lemon Juice",
+    "1 tsp Tarragon Wine Vinegar",
+    "1 tbsp Finely Minced Chives",
+    "1 tbsp Finely Minced Parsley",
+    "Salt to taste",
+    "Pepper to taste"
+  ],
+  "recipeInstructions": "1. Remove lobster meat from tails. Reserve tails. Chop meat into bite-sized pieces. Combine remaining ingredients and blend well. Add chopped lobster, blending with a fork, and refrigerate until chilled.\n2. To serve, stuff lobster tails with chilled lobster mixture. Serve as the first course on lettuce-lined small plates.",
+  "url": null
+}

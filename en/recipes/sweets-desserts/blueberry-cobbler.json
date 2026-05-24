@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "blueberry-cobbler",
+  "name": "Blueberry Cobbler",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cobblers",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 cup Flour",
+    "1 cup Sugar",
+    "1 cup Milk",
+    "1 tablespoon Vanilla",
+    "1 Egg",
+    "1 stick of Butter",
+    "16 ounces Blueberries"
+  ],
+  "recipeInstructions": "1. Melt the butter in a 9x13 inch baking dish.\n2. In a large mixing bowl, combine all ingredients except the blueberries.\n3. Mix well and pour into the prepared baking dish.\n4. Add the blueberries on top without stirring them in.\n5. Bake at 350 degrees Fahrenheit until done.",
+  "url": null
+}

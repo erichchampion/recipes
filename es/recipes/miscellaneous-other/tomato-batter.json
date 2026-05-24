@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-batter",
+  "name": "Batido de Tomate",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "bateras",
+    "étnico",
+    "italiano"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de harina",
+    "1/2 taza de leche",
+    "1/2 taza de tomates picados (escurridos)",
+    "1/2 cebolla picada",
+    "2 ramitas de perejil picadas",
+    "1/4 cucharadita de sal",
+    "1/8 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. En un bol, bate la harina y la leche hasta obtener una masa suave.\n2. Añade los tomates picados, la cebolla, el perejil, la sal y la pimienta, y mezcla bien hasta combinar todos los ingredientes.\n3. La salsa debe ser suficiente para cubrir una pieza de pollo.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-oven-fried-chicken",
+  "name": "Simple Oven-Fried Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "3 lb Chicken, cut up",
+    "1/2 lb Butter",
+    "1/2 tsp Salt",
+    "1/4 tsp Pepper",
+    "2 cups Fine bread crumbs",
+    "2 tbsp Cornstarch"
+  ],
+  "recipeInstructions": "1. Rinse and pat-dry chicken pieces.\n2. Melt the butter in a saucepan.\n3. Mix together salt, pepper, bread crumbs, and cornstarch thoroughly.\n4. Dip each piece of chicken into the melted butter, then into the bread crumb mixture.\n5. Place the chicken pieces skin-side down in a shallow baking pan.\n6. Bake at 350 degrees for 45 minutes.\n7. Turn each piece skin-side up and continue cooking for another 25 minutes, or until well-browned and easily pierced with a fork.\n8. Serve immediately.",
+  "url": null
+}

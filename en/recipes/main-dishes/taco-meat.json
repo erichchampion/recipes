@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-meat",
+  "name": "Taco Meat",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat",
+    "mexican"
+  ],
+  "recipeIngredient": [
+    "2 pounds ground beef",
+    "1 chopped onion",
+    "cumin",
+    "salt",
+    "tomato sauce"
+  ],
+  "recipeInstructions": "1. Brown the ground beef and onion together in a large pan over medium heat until the meat is thoroughly cooked through, about 8-10 minutes.\n2. Add a few dashes of cumin and salt to taste.\n3. Stir in enough tomato sauce to coat the meat lightly, ensuring it's well combined.\n4. Package the mixture into three quart-size zip lock bags for easy storage and use in burritos, tacos, or taco salads.",
+  "url": null
+}

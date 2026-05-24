@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegan-pasta-al-pesto",
+  "name": "Pasta Vegana al Pesto",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "pasta",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de hojas de espinaca picadas",
+    "3 dientes de ajo, picados",
+    "1/2 taza de perejil fresco picado",
+    "1 cucharada de miso claro",
+    "1 cucharadita de albahaca seca",
+    "1/4 taza de piñones tostados",
+    "1 cucharada de aceite de oliva extra virgen"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en una licuadora y mezcla hasta obtener una pasta suave.\n2. Mezcla el pesto con la pasta caliente de tu elección.",
+  "url": null
+}

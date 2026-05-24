@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-oatmeal",
+  "name": "Avena rápida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "bajo en calorías",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de avena rápida",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. Verter el agua en una cacerola.\n2. Añadir la avena rápida al agua y llevar a ebullición.\n3. Remover ocasionalmente hasta que la avena esté cocida, aproximadamente un minuto.\n4. Retirar del fuego y tapar.\n5. Dejar reposar unos minutos.\n6. Remover antes de servir.\n7. Se puede añadir fruta seca durante la cocción si se desea.\n8. Opcionalmente, espolvorear con nuez moscada, jengibre o canela, o cualquier combinación de estas especias.",
+  "url": null
+}

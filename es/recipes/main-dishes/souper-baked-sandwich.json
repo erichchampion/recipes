@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "souper-baked-sandwich",
+  "name": "Sándwich al horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "quesos/huevos",
+    "carne molida",
+    "plato principal",
+    "bocadillos",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de carne molida magra",
+    "1/4 taza de cebolla; picada",
+    "1/2 cucharadita de sal",
+    "1/2 taza de apio; picado",
+    "4 tazas de cubos de pan con hierbas; no mezclados",
+    "2 huevos grandes",
+    "350 g de sopa de champiñones enlatada (10 3/4 oz)",
+    "1 taza de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 175°C.\n2. Cocinar y remover la carne, la cebolla y el apio en una sartén grande hasta que la carne esté dorada. Escurrir el exceso de grasa.\n3. Añadir la sal.\n4. Disponer los cubos de pan con hierbas en un molde para hornear engrasado (de 20x20 cm o de 23x15 cm).\n5. Cubrir con la mezcla de carne.\n6. Batir la leche, los huevos, la sopa y la mostaza juntos. Verter sobre la carne.\n7. Espolvorear el queso encima.\n8. Hornear destapado hasta que un cuchillo insertado en el centro salga limpio (aproximadamente 30 a 40 minutos).\n9. Dejar enfriar 5 minutos antes de cortar en cuadrados y servir.",
+  "url": null
+}

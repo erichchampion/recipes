@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "firehouse-quiche",
+  "name": "Tarta de bomberos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "queso",
+    "tartas de cena",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "3 tazas de calabacín rallado",
+    "1 cebolla pequeña picada",
+    "1 paquete de Bisquick",
+    "4 huevos",
+    "1/2 taza de aceite vegetal",
+    "1/2 taza de queso parmesano rallado",
+    "1/2 cucharadita de perejil seco",
+    "1/2 cucharadita de orégano seco",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra molida"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180°C.\n2. En un bol grande, mezclar todos los ingredientes hasta combinarlos bien.\n3. Verter la mezcla en una bandeja para tarta engrasada.\n4. Hornear durante 30 minutos o hasta que esté dorada.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-cheesecake",
+  "name": "Tarta de queso falsa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pastel",
+    "postres",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 lb tofu",
+    "1 1/2 cucharadas zumo de limón",
+    "1/4 cucharadita sal",
+    "1/4 taza miel",
+    "1/4 taza aceite vegetal",
+    "1 1/2 cucharaditas extracto de vainilla",
+    "1/2 taza azúcar",
+    "Base de galletas graham horneada de 9 pulgadas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375 grados F (190 grados C).\n2. Mezclar el tofu, zumo de limón, sal, miel, extracto de vainilla y azúcar en un procesador de alimentos o licuadora hasta obtener una textura suave y cremosa.\n3. Verter la mezcla en la base de galletas graham horneada.\n4. Hornear durante 40 minutos.\n5. Enfriar antes de servir.\nPor ración: 376 cal; 10 g proteína, 41 g carbohidratos, 21 g grasa (48%).",
+  "url": null
+}

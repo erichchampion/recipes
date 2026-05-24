@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "pumpkin-crunch",
+  "name": "Crujiente de Calabaza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 lata de calabaza (450 g)",
+    "13 onzas de leche evaporada",
+    "3 huevos, ligeramente batidos",
+    "1 1/2 cucharaditas de canela",
+    "1/2 cucharadita de nuez moscada",
+    "1/4 cucharadita de jengibre",
+    "1/4 cucharadita de clavo de olor",
+    "1 taza de azúcar",
+    "1/2 cucharadita de sal",
+    "1 sobre de mezcla para pastel amarillo",
+    "1 taza de nueces pecanas, picadas",
+    "3/4 taza de margarina derretida"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto los últimos tres y batir bien.\n2. Verter la mezcla de calabaza en un molde rectangular engrasado de 9x13 cm.\n3. Espolvorear la mezcla de pastel amarillo y 1 taza de nueces picadas sobre la parte superior de la mezcla de calabaza.\n4. Churrar la margarina derretida sobre todo.\n5. Hornear a 175 °C durante 50 minutos.",
+  "url": null
+}

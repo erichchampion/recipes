@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "bran-bread-2",
+  "name": "Bran Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "D German IV pg 35",
+    "1 medium loaf",
+    "1 1/8 cups Water",
+    "2 1/3 tablespoons Fruit juice concentrate",
+    "3 tbsp Honey",
+    "1/3 teaspoon Salt",
+    "3/4 teaspoon Baking soda",
+    "1/2 cup Oat bran",
+    "1 1/2 teaspoons -3 T Bluten (assumed to be a typo, likely \"flour\")",
+    "3 cups Whole wheat flour",
+    "1 1/2 tablespoons Yeast"
+  ],
+  "recipeInstructions": "1. Preheat the oven.\n2. Mix all ingredients together until well combined.\n3. Shape the dough into a loaf and place it in an ungreased baking dish.\n4. Bake at 350°F for approximately 45 minutes or until golden brown.\n5. Remove from oven and let cool before serving.",
+  "url": null
+}

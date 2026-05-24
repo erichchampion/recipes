@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pork-pull-gc",
+  "name": "Porc desmenuzado (GC)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "asado",
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "5 libras de paleta de cerdo",
+    "sal al gusto",
+    "pimienta negra molida al gusto",
+    "--adobo--",
+    "1 litro de vinagre de sidra",
+    "3 chiles chipotles, picados",
+    "4 dientes de ajo, finamente picados",
+    "2 cucharadas de pimienta negra",
+    "2 cucharadas de sal"
+  ],
+  "recipeInstructions": "1. Para el adobo: Mezclar todos los ingredientes y dejar reposar durante la noche.\n2. Para el cerdo desmenuzado: Sazonar la paleta de cerdo con sal y pimienta negra al gusto.\n3.  Asar el cerdo sobre madera de hickory a 225-250 °F (107-121 °C) durante 8 a 10 horas hasta que esté completamente cocido.\n4. Dejar enfriar ligeramente el cerdo, luego desmenuzarlo con un tenedor.\n5. Chopar ligeramente la carne desmenuzada y verter el adobo sobre ella.\n6. Dejar reposar el cerdo desmenuzado durante 1 hora.\n7. Mezclar bien el cerdo desmenuzado.\nServir con col de Jack y pan blanco suave.",
+  "url": null
+}

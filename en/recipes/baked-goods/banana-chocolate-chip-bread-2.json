@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-chocolate-chip-bread-2",
+  "name": "Banana Chocolate Chip Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cups All-purpose flour",
+    "2/3 cup Sugar",
+    "1 teaspoon Baking powder",
+    "1/2 teaspoon Baking soda",
+    "1/2 teaspoon Salt",
+    "1/3 cup Vegetable oil",
+    "2 large Eggs, lightly beaten",
+    "Extra-large",
+    "1/4 cup Sour cream",
+    "1 teaspoon Vanilla",
+    "2/3 cup Mashed banana",
+    "1/3 cup Chocolate chips (chopped)"
+  ],
+  "recipeInstructions": "1. Place all ingredients except the banana and chocolate chips in the bread machine pan.\n2. Press start and select the cake cycle.\n3. After the first knead, add the mashed banana and chocolate chips.\n4. Press start again to finish baking.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chipotle-brown-ale",
+  "name": "Cerveza marrón chipotle",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "7 lb de malta oscura",
+    "Sirope de extracto",
+    "1/2 lb de malta cristalina",
+    "1/4 lb de malta negra patentada",
+    "2 oz de lúpulos Fuggles (para ebullición)",
+    "1/2 oz de lúpulos Fuggles o Cascade",
+    "Lúpulos (finalización): 4 chiles chipotle (partidos por la mitad)",
+    "1 sobre de levadura de cerveza",
+    "3/4 taza de azúcar de maíz"
+  ],
+  "recipeInstructions": "1. Combinar la malta cristalina y negra patentada con 3 galones de agua fría. Llevar a ebullición.\n2. Colar los granos una vez que hierva.\n3. Añadir el sirope de extracto, los lúpulos Fuggles en ebullición y los chiles chipotle. Hervir durante 45-60 minutos.\n4. Durante los últimos 5-10 minutos, añadir los lúpulos Fuggles o Cascade para finalización.\n5. Verter agua caliente en el fermentador con agua fría. Dejar enfriar.\n6. Transferir la levadura a la mezcla enfriada.\n7. Fermentar durante 2 semanas.\n8. Añadir azúcar de maíz y embotellar.",
+  "url": null
+}

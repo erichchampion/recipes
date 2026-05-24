@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-cheesecake",
+  "name": "Mock Cheesecake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cake",
+    "desserts",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "1 lb Tofu",
+    "1 1/2 tbsp Lemon juice",
+    "1/4 tsp Salt",
+    "1/4 cup Honey",
+    "1/4 cup Vegetable oil",
+    "1 1/2 tsp Vanilla",
+    "1/2 cup Sugar",
+    "Baked 9-inch graham cracker crust"
+  ],
+  "recipeInstructions": "1. Preheat oven to 375 degrees F.\n2. Combine tofu, lemon juice, salt, honey, vanilla, and sugar in a food processor or blender.\n3. Process until smooth and creamy.\n4. Pour the mixture into the baked pie crust.\n5. Bake for 40 minutes.\n6. Cool before serving.\nPer serving: 376 cal; 10g protein, 41g carbs, 21g fat (48%).",
+  "url": null
+}

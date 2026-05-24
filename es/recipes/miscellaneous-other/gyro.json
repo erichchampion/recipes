@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "gyro",
+  "name": "Gyro",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "etnica",
+    "griega"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne picada de cerdo",
+    "1 lb de carne picada de cordero",
+    "1 cucharadita de sal",
+    "Pimienta negra molida al gusto",
+    "6 dientes de ajo machacados",
+    "El jugo de 1 limón",
+    "1 cucharadita de orégano",
+    "2 cucharadas de ouzo"
+  ],
+  "recipeInstructions": "1. Mezclar y moldear la carne en un pincho metálico.\n2. Asar hasta que esté cocida por completo.\n3. Servir en pan pita, adornado con tzatziki, tomates picados, cebolla en rodajas, perejil picado, y una pizca de orégano.",
+  "url": null
+}

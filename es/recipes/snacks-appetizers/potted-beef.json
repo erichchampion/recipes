@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "potted-beef",
+  "name": "Carne enlatada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "carnes",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "8 oz de carne magra cocida",
+    "3 cucharadas de jerez",
+    "4 oz de mantequilla",
+    "Sal",
+    "2 cucharaditas de mostaza de Meaux",
+    "Pimienta"
+  ],
+  "recipeInstructions": "1. Cortar la carne cocida finamente con una procesadora de alimentos.\n2. Mezclar la mitad de la mantequilla en la carne picada.\n3. Incorporar la mostaza, el jerez y sal y pimienta al gusto.\n4. Rellenar platos individuales con la mezcla.\n5. Derrir la mantequilla restante y verter sobre la carne en vasitos.\n6. Enfriar durante 1 hora o hasta que esté lista para servir.\n7. Servir con tostadas calientes o ensalada.",
+  "url": null
+}

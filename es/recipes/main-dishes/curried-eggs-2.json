@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "curried-eggs-2",
+  "name": "Huevos al curry",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "huevos",
+    "almuerzo",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "4 huevos duros pequeños, pelados y tibios",
+    "1/4 taza de mantequilla",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimentón dulce",
+    "1/2 cucharadita de pimienta negra",
+    "1/2 cucharadita de polvo de curry"
+  ],
+  "recipeInstructions": "1. Pinche los huevos en varios lugares con un tenedor.\n2. Derrita la mantequilla en una sartén pequeña.\n3. Añada los huevos a la mantequilla derretida.\n4. Cocine hasta que estén ligeramente dorados, revolviendo los huevos constantemente en la mantequilla.\n5. Espolvoree la sal y las especias sobre los huevos.\n6. Agite la sartén para cubrir los huevos uniformemente.\n7. Apague el fuego y transfiera los huevos a un plato de servir.",
+  "url": null
+}

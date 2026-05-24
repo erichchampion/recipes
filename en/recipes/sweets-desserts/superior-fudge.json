@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "superior-fudge",
+  "name": "Superior Fudge",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "candies and fudge",
+    "candy",
+    "desserts",
+    "fudge"
+  ],
+  "recipeIngredient": [
+    "2 Packages Chocolate Chips",
+    "1/2 Cup Walnuts, Chopped",
+    "1/4 Cup Butter, Cut Into Pieces",
+    "1/2 Teaspoon Salt",
+    "1/2 Teaspoon Vanilla",
+    "1/4 Teaspoon Peppermint Extract",
+    "2 Cups Sugar",
+    "1 Cup Evaporated Milk",
+    "12 Large Marshmallows, cut into halves"
+  ],
+  "recipeInstructions": "1. In a bowl, combine the chocolate chips, chopped walnuts, butter pieces, salt, vanilla, and peppermint extract.\n2. In a saucepan, mix together the sugar, marshmallows, and evaporated milk. Bring to a rolling boil over medium heat.\n3. Reduce heat and cook for 5 minutes, stirring constantly with a wooden spoon until thickened.\n4. Pour the mixture over the chocolate chip mixture in a bowl and stir well to combine.\n5. Spread the mixture into a buttered 8x8 inch dish.\n6. Allow the fudge to set completely before cutting into squares.\nWARNING: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-salad",
+  "name": "Pasta Salad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "grains",
+    "pasta",
+    "rice",
+    "salads",
+    "vegetable"
+  ],
+  "recipeIngredient": [
+    "8 ounces bow tie pasta",
+    "3/4 cup frozen green peas, thawed",
+    "1/2 cup bell peppers, chopped",
+    "1/2 cup onions, chopped",
+    "3 cups frozen broccoli cuts, thawed and cooked",
+    "12 ounces tuna in water, drained and flaked",
+    "----Dressing----",
+    "1 teaspoon olive oil",
+    "2 tablespoons white vinegar",
+    "1/2 teaspoon hot sauce",
+    "2 teaspoons honey",
+    "2 teaspoons salt",
+    "1/2 teaspoon garlic powder",
+    "1/2 teaspoon ginger",
+    "1/2 teaspoon black pepper"
+  ],
+  "recipeInstructions": "1. Cook bow tie pasta according to package directions; drain and cool.\n2. Add the peas, bell peppers, onions, broccoli, and tuna to the cooled pasta.\n3. In a mixing bowl, combine vinegar, hot sauce, honey, salt, garlic powder, ginger, and black pepper.\n4. Pour the dressing over the pasta mixture.\n5. Toss lightly.\n6. Cover and chill until ready to serve.",
+  "url": null
+}

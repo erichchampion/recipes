@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "slow-cook-sweet-and-sour-pork",
+  "name": "Cerdo dulce y ácido en olla de cocción lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cebolla",
+    "cerdo",
+    "olla de cocción lenta",
+    "vegetal"
+  ],
+  "recipeIngredient": [
+    "2 lb de cerdo en cubos",
+    "3 cucharadas de salsa de soja",
+    "1/4 taza de vinagre",
+    "1 cebolla pequeña, en rodajas",
+    "2 tomates, cortados en rodajas",
+    "2 cucharadas de almidón de maíz",
+    "1/4 cucharadita de jengibre molido",
+    "1/4 taza de azúcar moreno compactado",
+    "2 pimientos verdes, cortados en tiras"
+  ],
+  "recipeInstructions": "1. En una olla para cocción lenta, mezcle el cerdo en cubos con almidón de maíz.\n2. Agregue los ingredientes restantes excepto los pimientos verdes y los tomates.\n3. Cocine a fuego lento durante 8 horas.\n4. Incorpore los pimientos verdes y los tomates.\n5. Cocine a fuego alto durante 10 minutos.",
+  "url": null
+}

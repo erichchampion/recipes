@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mai-tai",
+  "name": "Mai Tai",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 ounces rum",
+    "1 ounce curacao",
+    "1/2 lime, juice of",
+    "1/2 ounce grenadine",
+    "1/2 ounce almond flavored syrup",
+    "1/2 teaspoon powdered sugar",
+    "crushed ice"
+  ],
+  "recipeInstructions": "1. Shake together all ingredients except the crushed ice.\n2. Pour into a glass filled with crushed ice.\n3. Decorate with a tiny paper umbrella.",
+  "url": null
+}

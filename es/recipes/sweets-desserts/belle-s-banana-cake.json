@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "belle-s-banana-cake",
+  "name": "Pastel de Plátano de Belle",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "plátanos",
+    "pasteles",
+    "postres",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "Mantequilla (1/4 taza)",
+    "Azúcar (1 taza)",
+    "Huevos (2 unidades)",
+    "Crema agria (1/4 taza)",
+    "Polvo de hornear (1 cucharadita)",
+    "Bicarbonato de sodio (1 cucharadita)",
+    "Extracto de vainilla (1 cucharadita)"
+  ],
+  "recipeInstructions": "1. Batir la mantequilla con el azúcar hasta obtener una mezcla suave.\n2. Incorporar los huevos y la crema agria, batiendo bien después de cada adición.\n3. Tamizar el polvo de hornear y el bicarbonato de sodio sobre la mezcla.\n4. Mezclar el extracto de vainilla.",
+  "url": null
+}

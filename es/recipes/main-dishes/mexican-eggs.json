@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-eggs",
+  "name": "Huevos mexicanos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "3 tortillas de maíz, cortadas en tiras de 2 pulgadas",
+    "3 cucharadas de caldo de pollo sin grasa",
+    "1/2 taza de cebolla picada",
+    "1 lata (400g) de tomates enlatados, escurridos y picados",
+    "1 taza de carne de pavo blanco desmenuzado y cocido, sin piel",
+    "1/2 taza de tiras de pimiento verde",
+    "1 1/2 tazas de sustituto de huevos",
+    "1 taza de queso mozzarella o jack rallado sin grasa"
+  ],
+  "recipeInstructions": "1. En una sartén grande, cocina las tortillas en el caldo de pollo hasta que estén doradas. Retira y reserva.\n2. Añade la cebolla a la sartén y cocina hasta que esté tierna.\n3. Escurre los tomates y reserva el líquido. Vierte el líquido reservado en la sartén; tapa y calienta a fuego alto durante 3 minutos, removiendo ocasionalmente.\n4. Incorpora los tomates, el pavo y el pimiento; calienta hasta que todo esté caliente.\n5. Reduce el fuego a bajo. Añade las tortillas y el sustituto de huevos a la sartén; tapa y cocina durante 4-6 minutos o hasta que los huevos estén cuajados.\n6. Espolvorea con queso; tapa y calienta un minuto más o hasta que el queso se derrita. Sirve inmediatamente.",
+  "url": null
+}

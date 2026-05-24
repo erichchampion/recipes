@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "hard-hat-chili",
+  "name": "Chili con Sombrero",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "sopas",
+    "texas"
+  ],
+  "recipeIngredient": [
+    "3 libras de carne magra, ver nota",
+    "4 oz de polvo de chile (Gebhardt's)",
+    "2 cucharadas de comino molido",
+    "1 cucharada de orégano mexicano molido",
+    "1 cucharada de polvo de ajo",
+    "2 cucharaditas de pimentón cayena",
+    "1/8 cucharadita de sal de humo de hickory (Spice Islands)",
+    "8 oz de salsa de tomate en lata",
+    "1 cucharadita de sal de apio",
+    "5 cucharadas de cebolla (minzada deshidratada)"
+  ],
+  "recipeInstructions": "1. Cortar la carne en trozos pequeños y dorarla.\n2. Escurrir el exceso de grasa.\n3. Cubrir la carne con agua.\n4. Agregar la cebolla y el ajo.\n5. Llevar a ebullición lenta durante 30 minutos.\n6. Incorporar el resto de los ingredientes.\n7. Reducir el fuego y cocinar hasta que la carne esté tierna (aproximadamente 1 hora y media).",
+  "url": null
+}

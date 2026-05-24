@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "salisbury-steak",
+  "name": "Salisbury Steak",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "8 oz. ground chuck",
+    "1 tbsp. finely chopped yellow onion",
+    "1 tbsp. finely chopped green onion",
+    "1 small clove garlic (run through press)",
+    "1 tsp. paprika",
+    "1 tbsp. finely chopped parsley",
+    "salt and pepper to taste"
+  ],
+  "recipeInstructions": "1. Mix all ingredients thoroughly.\n2. Form the mixture into a patty.\n3. Grill over wood or charcoal fire, turning once. Ensure the patty is well-browned on the outside and still moist inside but just past the pink stage.\n4. If cooking on the stove, fry in a little olive oil.",
+  "url": null
+}

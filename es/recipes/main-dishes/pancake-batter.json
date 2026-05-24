@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pancake-batter",
+  "name": "Batido para panqueques",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "tortitas"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina de uso común",
+    "1 cucharadita de sal",
+    "2 cucharaditas de azúcar",
+    "2 cucharaditas de polvo de hornear",
+    "1 taza de leche",
+    "2 huevos grandes",
+    "3 cucharadas de mantequilla derretida"
+  ],
+  "recipeInstructions": "1. En un bol grande, combina la harina, la sal y el azúcar. Mezcla bien.\n2. En otro bol, bate los huevos, la leche y la mantequilla derretida hasta que estén bien integrados.\n3. Agrega gradualmente la mezcla de huevos al bol de la harina, removiendo continuamente hasta que se combine solo un poco.\n4. Tapa la masa y refrigera durante al menos 30 minutos o hasta por la noche.\n5. Antes de cocinar, ajusta la consistencia de la masa añadiendo leche si es necesario.",
+  "url": null
+}

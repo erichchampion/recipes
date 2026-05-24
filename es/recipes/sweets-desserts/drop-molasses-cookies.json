@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "drop-molasses-cookies",
+  "name": "Galletas de melaza caída",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de melaza (ligeras)",
+    "1 taza de azúcar moreno",
+    "3/4 taza de manteca",
+    "1 huevo",
+    "1 cucharadita de jengibre",
+    "1 cucharadita de canela",
+    "2 cucharaditas de bicarbonato de sodio",
+    "2 tazas de buttermilk",
+    "4 1/4 tazas de harina"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes, añadiendo solo la cantidad suficiente de harina para obtener una masa firme.\n2. Dejar reposar la masa durante la noche.\n3. Hornear a 375°F durante aproximadamente 15 minutos.",
+  "url": null
+}

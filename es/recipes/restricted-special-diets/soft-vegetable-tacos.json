@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "soft-vegetable-tacos",
+  "name": "Tacos de verduras suaves",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "plato principal",
+    "dietas especiales",
+    "tex-mex",
+    "vegano",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "8 Tortillas de harina",
+    "2 tazas de pico de gallo",
+    "2 tazas de setas frescas, laminadas",
+    "1 taza de brotes de alfalfa",
+    "1/4 taza de semillas de sésamo",
+    "1 taza de salsa picante (o al gusto)",
+    "2 tazas de guacamole (opcional)"
+  ],
+  "recipeInstructions": "1. Lavar y laminar las setas.\n2. Doblar las tortillas de harina en formas de taco.\n3. Rellenar cada tortilla con setas laminadas, pico de gallo, brotes de alfalfa y guacamole (si se desea).\n4. Decorar con semillas de sésamo y salsa picante al gusto.\nRinde para 8 tacos.",
+  "url": null
+}

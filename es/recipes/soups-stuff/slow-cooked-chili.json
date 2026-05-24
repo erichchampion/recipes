@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "slow-cooked-chili",
+  "name": "Chili asado lento",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne molida",
+    "2 latas de 400 g de frijoles rojos, enjuagados y escurridos",
+    "2 latas de 400 g de tomates troceados, sin escurrir",
+    "1 lata de 200 g de salsa de tomate",
+    "2 cebollas medianas, picadas",
+    "1 pimiento verde, picado",
+    "2 dientes de ajo, picados",
+    "2 cucharadas de polvo de chili",
+    "2 cucharaditas de sal (opcional)",
+    "1 cucharadita de pimienta",
+    "Queso cheddar rallado (opcional)"
+  ],
+  "recipeInstructions": "1. En una sartén, dora la carne molida y escurre el exceso de grasa.\n2. Transfiere la carne a una olla de cocción lenta.\n3. Añade los frijoles rojos, los tomates troceados (con su jugo), la salsa de tomate, las cebollas, el pimiento verde, el ajo, el polvo de chili, la sal (si se usa) y la pimienta a la olla de cocción lenta.\n4. Tapa y cocina a fuego lento durante 8-10 horas o a temperatura alta durante 4 horas.\n5. Sirve raciones individuales con queso cheddar rallado si lo deseas.",
+  "url": null
+}

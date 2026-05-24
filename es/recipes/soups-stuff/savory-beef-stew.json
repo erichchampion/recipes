@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "savory-beef-stew",
+  "name": "Estofado de Carne Sabroso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de aceite de oliva",
+    "2 zanahorias, cortadas en dados",
+    "2 tallos de apio, picados",
+    "1 cebolla, picada",
+    "1 lata (28 onzas) de tomates triturados",
+    "3/4 taza de caldo de carne",
+    "1/2 cucharadita de tomillo seco",
+    "1/4 cucharadita de sal",
+    "2 libras de carne de guiso de aguja",
+    "2 nabos, cortados en dados",
+    "1 zanahoria grande, picada",
+    "2 dientes de ajo, picados finamente",
+    "3/4 taza de vino tinto",
+    "1/4 cucharadita de romero seco",
+    "1 paquete (10 onzas) de sucotash congelado",
+    "1/8 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. En una olla grande, calentar el aceite a fuego medio-alto.\n2. Cubrir la carne con harina y freír en el aceite hasta que esté dorada, revolviendo ocasionalmente. Retirar y reservar.\n3. Añadir las zanahorias, el apio, la cebolla, el caldo de carne, el tomillo y la sal a la olla. Saltear durante 5 minutos.\n4. Devolver la carne a la olla.\n5. Agregar los tomates, los nabos, la zanahoria, el ajo, el vino tinto, el romero y el sucotash. Llevar a ebullición.\n6. Reducir el fuego, tapar y dejar cocinar hasta que la carne esté tierna, aproximadamente 45 minutos.\n7. Incorporar la pimienta y cocinar hasta que se caliente todo.\n8. Servir sobre arroz o fideos.",
+  "url": null
+}

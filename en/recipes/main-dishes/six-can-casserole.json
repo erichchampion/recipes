@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "six-can-casserole",
+  "name": "Six Can Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 can Mushrooms (small)",
+    "1 can Evaporated milk (small)",
+    "1 can Chow mein noodles (large)",
+    "1 can Cream of chicken soup",
+    "1 can Cream of celery soup",
+    "2 cans Boned chicken (small)"
+  ],
+  "recipeInstructions": "1. Mix all ingredients together and add a dash of garlic powder.\n2. Cover with 1 cup shredded Cheddar cheese.\n3. Bake at 350 degrees for 45 minutes.",
+  "url": null
+}

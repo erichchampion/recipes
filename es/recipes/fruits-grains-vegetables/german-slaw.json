@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "german-slaw",
+  "name": "Ensalada alemana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pimientos",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 cabeza grande de col - picada",
+    "1 pimiento verde grande",
+    "3/4 taza de aceite",
+    "1/2 cucharadita de semillas de mostaza",
+    "1/2 cucharadita de sal",
+    "1 cebolla grande - picada",
+    "1/2 taza de azúcar",
+    "1 taza de vinagre de vino",
+    "1/8 cucharadita de pimienta negra",
+    "1/8 cucharadita de semillas de apio"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar el vinagre, el aceite, las semillas de mostaza, las semillas de apio, la sal y la pimienta.\n2. Capar la col, la cebolla y el pimiento verde en el bol.\n3. Espolvorear la mitad del azúcar sobre las capas.\n4. Hacer otra capa añadiendo los vegetales restantes.\n5. Espolvorear el resto del azúcar encima.\n6. Verter la mezcla hirviendo sobre los vegetales en capas.\n7. Tapar el recipiente y refrigerar durante al menos 5 horas, o de un día para otro.\n8. Antes de servir, remover suavemente la ensalada.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "paradise-salad",
+  "name": "Ensalada Paraíso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "postres",
+    "gelatina",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 sobre de Gelatina de Limón",
+    "1 taza de Queso Fresco",
+    "1 taza de Agua Caliente",
+    "2 tazas de Piña en Almíbar (escurrida)",
+    "1 taza de Crema Ácida"
+  ],
+  "recipeInstructions": "1. Disolver la gelatina en el agua caliente y dejar enfriar.\n2. Agregar la crema ácida y mezclar hasta obtener una textura suave.\n3. Incorporar el queso fresco y 1 taza de la piña escurrida.\n4. Verter la mezcla en un molde para litro y refrigerar hasta que cuaje.\n5. Una vez firme, desmoldar y servir sobre lechuga.\n6. Decorar con rodajas de naranja o la piña restante escurrida.",
+  "url": null
+}

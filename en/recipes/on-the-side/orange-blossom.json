@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-blossom",
+  "name": "Orange Blossom",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 oz Gin",
+    "1/2 oz Triple sec",
+    "2 oz Orange juice",
+    "Cracked ice"
+  ],
+  "recipeInstructions": "1. Fill a mixing glass with ice.\n2. Add gin, triple sec, and orange juice to the mixing glass.\n3. Shake well until chilled.\n4. Strain the mixture into a chilled cocktail glass.",
+  "url": null
+}

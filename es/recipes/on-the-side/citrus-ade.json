@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "citrus-ade",
+  "name": "Citrus-Adito",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "frutas",
+    "limónada",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "5 limones",
+    "5 limas",
+    "5 naranjas",
+    "3 litros de agua",
+    "1 1/2 tazas de azúcar"
+  ],
+  "recipeInstructions": "1. Exprimir el jugo de cuatro limones, limas y naranjas.\n2. Verter el jugo en un recipiente de un galón.\n3. Cortar en rodajas finas el resto de la fruta para decorar.\n4. Añadir agua y azúcar al jugo; mezclar bien.\n5. Guardar en la nevera.\n6. Servir sobre hielo con rodajas de fruta.",
+  "url": null
+}

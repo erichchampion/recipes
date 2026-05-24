@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-tarte",
+  "name": "Apple Tarte",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies",
+    "tarts"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Butter",
+    "1/3 cup Sugar",
+    "1 cup Flour",
+    "8 oz Cream Cheese",
+    "1/2 tsp Vanilla",
+    "1/4 cup Sugar",
+    "1 Egg",
+    "1/3 cup Almonds, sliced",
+    "=== apple filling ===",
+    "1/4 cup Sugar",
+    "1/2 tsp Cinnamon",
+    "4 cups Apple, sliced"
+  ],
+  "recipeInstructions": "Cream together butter and 1/3 cup sugar. Add flour and press into a 10-inch springform pan to form crust.\nIn another bowl, cream together cream cheese, vanilla, 1/4 cup sugar, and egg. Spread over the crust.\nToss sugar, cinnamon, and apples in a plastic bag until well combined, then spread over the cream mixture.\nSprinkle almonds over the apples. Bake at 450°F for 10 minutes, then reduce heat to 375°F and bake an additional 40 minutes.",
+  "url": null
+}

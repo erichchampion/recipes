@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-connection",
+  "name": "Conexión Francesa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "bebidas secundarias",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 oz de brandy",
+    "1 oz de amaretto",
+    "1 oz de licor Triple Sec"
+  ],
+  "recipeInstructions": "1. Llena un vaso con hielo.\n2. Añade el brandy y el amaretto al vaso.\n3. Revuelve suavemente hasta que esté combinado.\n4. Vierte un chorro de licor Triple Sec encima.\n5. Sirve.",
+  "url": null
+}

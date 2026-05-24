@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "blueberry-muffins",
+  "name": "Muffins de arándanos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "muffins"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de mantequilla",
+    "1 taza de azúcar",
+    "1 taza de leche",
+    "1 huevo",
+    "1 3/4 tazas de harina tamizada",
+    "2 1/2 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "1 taza de arándanos",
+    "1 cucharada de harina"
+  ],
+  "recipeInstructions": "1. Batir la mantequilla y el azúcar hasta obtener una mezcla suave.\n2. Agregar la leche y el huevo, y batir hasta que esté bien combinado.\n3. Tamizar juntos la harina, el polvo de hornear y la sal. Incorporar a la mezcla hasta humedecerla ligeramente.\n4. Mezclar los arándanos con 1 cucharada de harina, luego incorporarlos suavemente a la masa.\n5. Enmantequillar un molde para magdalenas y rellenar cada cavidad con aproximadamente dos tercios de la masa.\n6. Hornear a 200 °C (400 °F) durante 20 minutos.\nRinde: 15 magdalenas",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "brady-bunch-party-pizza",
+  "name": "Brady Bunch Party Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breads",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 cup Tomato sauce",
+    "15 oz Ready made pizza crust",
+    "1/4 lb Pepperoni; slice or chop",
+    "1/4 lb Salami; slice or chop",
+    "1/4 lb Mild italian sausage; cook - drain",
+    "1/2 cup Black olives; slice",
+    "1 cup Mozzarella; grate",
+    "1 tbsp Fresh basil; mince",
+    "6 tbsp Parmesan; grate",
+    "1 tbsp Olive oil"
+  ],
+  "recipeInstructions": "1. Preheat oven to 400°F.\n2. Spread sauce over crust.\n3. Top with all remaining ingredients except Parmesan and olive oil.\n4. Sprinkle cheese on top.\n5. Drizzle pizza with oil.\n6. Bake for 20 to 25 minutes, or until crust is brown.",
+  "url": null
+}

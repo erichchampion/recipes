@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-con-pavo",
+  "name": "Chili con Pavo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "sopas",
+    "tex-mex",
+    "pavo"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de aceitunas verdes al estilo español",
+    "500 g de carne picada de pavo o 500 g de salchicha de pavo molida",
+    "1 cebolla grande; picada",
+    "1 chile jalapeño fresco; sin semillas, pelado y picado",
+    "1 cucharada de aceite de ensalada",
+    "3 cucharadas de polvo de chili",
+    "280 g de chiles verdes enlatados; picados",
+    "400 g de tomates enlatados",
+    "2 latas de frijoles rojos (a cada 15 oz)",
+    "1/8 cucharadita de clavo molido"
+  ],
+  "recipeInstructions": "En una olla de 4-5 litros a fuego alto, combinar la carne de pavo, la cebolla, el jalapeño y el aceite. Revolver con frecuencia hasta que la carne esté desmenuzada y dorada, aproximadamente 20 minutos. Incorporar el polvo de chili, los chiles verdes, los tomates (desmenuzar con una cuchara) y sus jugos, los frijoles y su líquido, el clavo y las aceitunas. Dejar cocinar destapado para mezclar los sabores, aproximadamente 15 minutos. Servir en cuencos; ofrecer toppings al gusto.",
+  "url": null
+}

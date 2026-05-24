@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "low-temperature-pasteurization-treatment",
+  "name": "Tratamiento de pasteurización a baja temperatura",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "misceláneo",
+    "encurtidos",
+    "conservas",
+    "conservación"
+  ],
+  "recipeIngredient": [
+    "Agua tibia (entre 40°C y 60°C)"
+  ],
+  "recipeInstructions": "1. Coloca los frascos en un cocedor lleno hasta la mitad con agua tibia.\n2. Vierte agua caliente hasta que alcance al menos 1 cm por encima de los frascos.\n3. Calienta el agua hasta alcanzar y mantener una temperatura entre 90°C y 93°C durante 30 minutos.\n4. Verifica que la temperatura del agua sea de al menos 90°C utilizando un termómetro de caramelo o gelatina durante todo el periodo de 30 minutos.\n5. Evita temperaturas superiores a 93°C, ya que podrían hacer que los encurtidos se vuelvan demasiado blandos.\n6. Utiliza solo cuando la receta lo especifique.",
+  "url": null
+}

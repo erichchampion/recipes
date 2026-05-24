@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "mango-sorbet",
+  "name": "Sorbete de mango",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "frutas",
+    "helado vegetal",
+    "vegano"
+  ],
+  "recipeIngredient": [
+    "2 tazas de puré de mango",
+    "2 cucharadas de jarabe simple",
+    "2 cucharadas de jugo de limón"
+  ],
+  "recipeInstructions": "1. El jarabe simple se prepara mezclando 1 taza de agua y 1 taza de azúcar.\n2. Cuela el puré de mango a través de un chino (cuchara fina).\n3. Añade el jarabe simple y el jugo de limón al puré de mango colado.\n4. Utiliza una máquina de helados para batir y enfriar hasta que esté congelado.\nEl jarabe simple se elabora con partes iguales de agua y azúcar.",
+  "url": null
+}

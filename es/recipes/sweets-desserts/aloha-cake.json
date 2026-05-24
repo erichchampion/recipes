@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "aloha-cake",
+  "name": "Pastel Aloha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pastel",
+    "pasteles",
+    "postres",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "1 lata de relleno de tarta de cerezas",
+    "400 g de piña enlatada, triturada y escurrida",
+    "1 caja de mezcla para pastel blanco o amarillo",
+    "1 taza de coco rallado",
+    "1 taza de nueces picadas",
+    "1 taza de mantequilla derretida"
+  ],
+  "recipeInstructions": "1. En un molde rectangular engrasado de 23x33 cm, combina todos los ingredientes en el orden indicado.\n2. No mezcles.\n3. Hornea durante 1 hora a 180 °C.",
+  "url": null
+}

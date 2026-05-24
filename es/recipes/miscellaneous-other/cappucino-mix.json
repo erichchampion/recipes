@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cappucino-mix",
+  "name": "Mezcla de Cappuccino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "desayuno",
+    "variado",
+    "mezclas"
+  ],
+  "recipeIngredient": [
+    "1 taza de emulsionante de café, en polvo",
+    "1 taza de mezcla de leche con chocolate, en polvo",
+    "2/3 taza de granulado de café instantáneo",
+    "1/2 taza de azúcar",
+    "1/2 cucharadita de canela",
+    "1/4 cucharadita de nuez moscada"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol hasta que queden bien combinados.\n2. Transferir la mezcla a un recipiente hermético para su almacenamiento.\nPara servir:\n1. Medir 1 cucharada y 1 cucharadita de la mezcla en una taza.\n2. Añadir 1 taza de agua hirviendo a la taza.\n3. Remover la mezcla hasta que se disuelva por completo.",
+  "url": null
+}

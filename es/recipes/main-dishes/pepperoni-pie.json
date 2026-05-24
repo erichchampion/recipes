@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pepperoni-pie",
+  "name": "Pastel de pepperoni",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "tartas de cena",
+    "huevos",
+    "italiano",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 tazas de pepperoni, picado",
+    "2 tazas de leche",
+    "2 huevos, batidos",
+    "1/2 libra de mozzarella, en cubos",
+    "1 1/2 tazas de harina"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes y verter en un molde engrasado de 30x45 cm.\n2. Hornear a 400 grados durante 30 minutos o hasta que esté cuajado.\n3. Cortar en 8 porciones y servir como aperitivo o primer plato.",
+  "url": null
+}

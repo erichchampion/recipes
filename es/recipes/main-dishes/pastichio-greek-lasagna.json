@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pastichio-greek-lasagna",
+  "name": "Pastichio (Lasaña griega)",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "griego",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 lb de ziti",
+    "1 lb de carne picada",
+    "3/4 lb de queso feta desmenuzado",
+    "2 cucharadas de queso parmesano rallado",
+    "6 huevos batidos",
+    "1 1/2 barras de mantequilla o margarina",
+    "2 cucharadas de crema de queso",
+    "2 cucharadas de pasta de tomate",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta"
+  ],
+  "recipeInstructions": "1. Cocinar a medio vapor el ziti y escurrir.\n2. Dorar la carne picada en una sartén con media barra de mantequilla y pasta de tomate. Añadir sal y pimienta.\n3. Incorporar al fuego los ingredientes restantes (excepto los huevos) y dejar enfriar completamente la mezcla.\n4. Mezclar los huevos.\n5. Engrasar un molde para hornear de 13x9 pulgadas y verter en él la mezcla con el ziti.\n6. Hornear a 350 grados durante 60 minutos o hasta que esté ligeramente dorada.",
+  "url": null
+}

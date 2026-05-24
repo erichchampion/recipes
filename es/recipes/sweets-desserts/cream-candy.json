@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cream-candy",
+  "name": "Caramelo cremoso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "caramelos",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de azúcar",
+    "1/4 taza de mantequilla",
+    "1 taza de coco rallado",
+    "1 taza de crema",
+    "1/4 taza de jarabe blanco",
+    "1/2 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Calentar a fuego medio el azúcar, la mantequilla, la crema y el jarabe hasta que la mezcla alcance el punto de bola blanda al probarla en agua fría.\n2. Retirar del fuego y agregar el coco rallado y la vainilla.\n3. Mezclar con una cuchara hasta que la masa se enfríe un poco.\n4. Verter en un molde engrasado de 20x20 cm.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "kentucky-fried-chicken",
+  "name": "Kentucky Fried Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "miscellaneous",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1 young chicken",
+    "1 1/2 cups sifted flour",
+    "1/2 teaspoon salt",
+    "1 dash pepper",
+    "1 1/2 teaspoons baking soda",
+    "1 egg",
+    "1/2 cup milk"
+  ],
+  "recipeInstructions": "1. Season and cook the chicken until done.\n2. Dry the chicken pieces thoroughly.\n3. Mix the sifted flour, salt, pepper, and baking powder together in a bowl.\n4. In another bowl, beat the egg and add milk to create a batter.\n5. Combine the liquid mixture with the dry ingredients until just combined.\n6. Dip each piece of chicken into the batter.\n7. Fry the chicken pieces until they are browned on all sides.",
+  "url": null
+}

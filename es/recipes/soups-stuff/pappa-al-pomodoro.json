@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "pappa-al-pomodoro",
+  "name": "Papa al pomodoro",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "aperitivos",
+    "étnico",
+    "italiano",
+    "sopas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 lb de tomates pera, picados",
+    "28 onzas de tomates italianos enlatados, escurridos y picados",
+    "1 1/2 lb de pan italiano viejo, cortado en cubos",
+    "5 dientes de ajo",
+    "1 parte blanca de cebolla mediana, bien lavada y picada",
+    "1 cebolla mediana, finamente picada",
+    "Una pizca de pimienta roja",
+    "3 1/2 tazas de caldo de verduras",
+    "8 hojas de albahaca",
+    "2/3 taza de aceite de oliva"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una olla pesada y remover bien.\n2. Tapar y dejar cocer a fuego lento durante 45 a 60 minutos, removiendo ocasionalmente para evitar que se pegue.\n3. Retirar del fuego y dejar reposar, tapado, durante 1 hora. La mezcla debe estar muy espesa.\n4. Antes de servir, remover bien la sopa para desmenuzar todos los trozos de pan.\n5. Servir en cuencos individuales y espolvorear con un poco más de aceite de oliva virgen extra y sal y pimienta al gusto.\n6. Servir a temperatura ambiente o calentar.",
+  "url": null
+}

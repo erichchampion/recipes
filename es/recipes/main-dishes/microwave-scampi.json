@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "microwave-scampi",
+  "name": "Scambi al microondas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "microondas",
+    "marisco",
+    "gambas"
+  ],
+  "recipeIngredient": [
+    "24 camarones medianos",
+    "1/3 taza de margarina",
+    "1/2 limón",
+    "1 diente de ajo",
+    "1 cebolleta"
+  ],
+  "recipeInstructions": "1. Derretir la margarina en un plato apto para microondas.\n2. Picar finamente el ajo y cortar la cebolleta en trozos pequeños.\n3. Microondar la margarina, el ajo picado y la cebolleta durante 30 segundos a potencia máxima.\n4. Dejar reposar durante 1 minuto.\n5. Agregar los camarones y el zumo de la mitad del limón.\n6. Microondar durante 4 minutos a potencia máxima, removiendo y dando la vuelta a los camarones unas cuantas veces.\nServir con arroz pilaf.",
+  "url": null
+}

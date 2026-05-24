@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "salmon-pate-1",
+  "name": "Pate de Salmón #1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "mariscos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "8 onzas de queso crema",
+    "1 cucharadita de rábano picante",
+    "1 cucharada de jugo de limón",
+    "1 taza de salmón cocido",
+    "2 cucharaditas de cebolla picada finamente",
+    "2 cucharadas de perejil fresco picado",
+    "1/4 cucharadita de humo líquido"
+  ],
+  "recipeInstructions": "1. Si se utiliza salmón fresco, omita el humo líquido.\n2. Mezcle todos los ingredientes en un bol hasta obtener una textura suave y bien combinada.\n3. Transfiera la mezcla a un bol para servir.\n4. Cubra y refrigere hasta que esté listo para servir.\n5. Adorne con ramitas de perejil.\n6. Sirva con pan de centeno o galletas saladas. Rinde 2 tazas.",
+  "url": null
+}

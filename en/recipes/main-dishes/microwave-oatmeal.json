@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "microwave-oatmeal",
+  "name": "Microwave Oatmeal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "cereals",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1/2 cup steel cut oatmeal",
+    "1 cup water",
+    "1/4 cup dried fruit (optional)"
+  ],
+  "recipeInstructions": "1. Place the steel cut oatmeal in a quart-sized glass measuring bowl or similar container that can hold at least a liter of liquid.\n2. Combine the oatmeal with 1 cup of water and add optional dried fruit if desired.\n3. Stir the mixture to ensure even distribution of ingredients.\n4. Cook for 10 minutes at 80% power in a 600-watt microwave.\nNote: The oatmeal may boil over if cooked at full power (100%). Adjust the power percentage and cooking time as needed to prevent overflow.",
+  "url": null
+}

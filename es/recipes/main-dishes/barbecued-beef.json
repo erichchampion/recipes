@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecued-beef",
+  "name": "Carne a la barbacoa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "3 libras de solomillo de ternera sin hueso",
+    "1 1/2 tazas de ketchup",
+    "2 cucharadas de mostaza estilo Dijon",
+    "1/4 taza de azúcar moreno",
+    "1/4 taza de vinagre de vino tinto",
+    "2 cucharadas de salsa Worcestershire",
+    "1 cucharadita de saborizante líquido ahumado",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1/4 cucharadita de polvo de ajo"
+  ],
+  "recipeInstructions": "Servir para 12 personas\nColoca el solomillo en la olla de cocción lenta. Combina los ingredientes restantes en un bol mezclador.\nVierte la mezcla de salsa barbacoa sobre el solomillo. Cubre y cocina a fuego lento durante 8-10 horas o a fuego alto durante 4-5 horas.\nRetira el solomillo de la olla de cocción lenta y desmenuza la carne. Coloca la carne desmenuzada de nuevo en la olla de cocción lenta.\nRemueve la carne para que quede uniformemente cubierta con la salsa. Sirve la carne sobre panecillos para hamburguesa y añade más salsa barbacoa al gusto.",
+  "url": null
+}

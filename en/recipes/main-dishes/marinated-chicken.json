@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "marinated-chicken",
+  "name": "Marinated Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "3/4 cup low-sodium soy sauce",
+    "1 1/2 ounces lemon juice",
+    "1 1/2 cups orange juice",
+    "1 garlic clove, pared and minced",
+    "3 ounces honey",
+    "1/4 cup scallions, minced",
+    "1 1/2 ounces cider vinegar",
+    "1 1/2 pounds boneless, skinless chicken breasts"
+  ],
+  "recipeInstructions": "1. Place all ingredients except the chicken in a glass bowl; combine.\n2. Add the chicken to the mixture.\n3. Cover and refrigerate for 1 hour.\n4. Remove the chicken and broil until it is cooked through.\n5. Let the chicken cool.\n6. Cut into 1/2-inch cubes.",
+  "url": null
+}

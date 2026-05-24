@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cream-of-lentil-soup",
+  "name": "Sopa de lentejas cremosas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "legumbres",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 lb de lentejas secas",
+    "1 cebolla mediana, picada",
+    "1 diente de ajo, picado finamente",
+    "1 zanahoria mediana, pelada y picada",
+    "1 tallo de apio grande, picado",
+    "3 tazas de agua",
+    "1 taza de crema espesa",
+    "Sal al gusto",
+    "Pimienta negra molida al gusto"
+  ],
+  "recipeInstructions": "1. Remojar las lentejas secas en 6 tazas de agua durante la noche. Escurrir antes de cocinar.\n2. Colocar las lentejas remojadas, la cebolla picada, el ajo picado, la zanahoria y el apio en una olla de cocción lenta.\n3. Añadir 3 tazas de agua a la olla.\n4. Tapar la olla de cocción lenta y cocinar a fuego lento durante 8-10 horas.\n5. Incorporar la crema espesa, sazonar con sal y pimienta al gusto.",
+  "url": null
+}

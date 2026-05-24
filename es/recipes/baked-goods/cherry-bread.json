@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cherry-bread",
+  "name": "Pan de cereza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla",
+    "3/4 taza de azúcar",
+    "2 huevos",
+    "1 cucharada de soda para cerezas",
+    "1/2 cucharadita de sal",
+    "2 tazas de harina tamizada",
+    "1 cucharada de suero de leche",
+    "1 cucharada de extracto de vainilla",
+    "10 onzas de tarro de cerezas Maraschino, picadas y escurridas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 grados.\n2. Enmantequillar y enharinar un molde para pan de 9x5x3 pulgadas.\n3. En un bol grande, mezclar la mantequilla, el azúcar y los huevos con un batidor hasta obtener una consistencia cremosa.\n4. Agregar la soda para cerezas, la sal, la harina, el suero de leche y el extracto de vainilla. Mezclar a velocidad baja hasta que se combine todo.\n5. Incorporar las cerezas Maraschino picadas.\n6. Hornear durante 60 minutos.",
+  "url": null
+}

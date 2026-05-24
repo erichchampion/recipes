@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "swiss-spaghetti",
+  "name": "Espaguetis suizos",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "2 tazas de tomates enlatados",
+    "4 cucharadas de mantequilla",
+    "1 cebolla mediana, picada",
+    "1 pimiento verde, picado",
+    "1 1/2 cucharaditas de sal",
+    "1/2 cucharadita de pimienta",
+    "3/4 lb de queso suizo, cortado en cubos",
+    "1 lb de espaguetis cocidos",
+    "1/2 taza de queso suizo rallado"
+  ],
+  "recipeInstructions": "1. En una sartén, derrita la mantequilla y saltee la cebolla y el pimiento verde durante unos 5 minutos.\n2. Añada la carne molida y cocine a fuego alto hasta que esté dorada.\n3. Incorpore los tomates, la sal y la pimienta a la sartén.\n4. Cubra y reduzca el fuego a bajo para cocinar a fuego lento durante 1 hora.\n5. Mezcle los cubos de queso suizo y continúe cocinando durante 5 minutos adicionales.\n6. Agregue los espaguetis cocidos y mezcle hasta que se combinen.\n7. Sirva con queso suizo rallado espolvoreado por encima.",
+  "url": null
+}

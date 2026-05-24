@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-chicken-parmesan",
+  "name": "Pollo al horno Parmesano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "5 cucharadas de mantequilla sin sal derretida",
+    "1 cucharada de mostaza en polvo o mostaza de Dijon",
+    "3/4 taza de migas de pan secas",
+    "1/2 taza de queso parmesano fresco rallado",
+    "2 cucharadas de perejil fresco picado",
+    "1 cucharadita de albahaca seca"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 200 °C.\n2. Engrasar ligeramente un molde para hornear de 9 x 15 cm.\n3. En un bol poco profundo, mezclar la mantequilla con la mostaza.\n4. En otro bol, combinar las migas de pan, el queso parmesano, el perejil y la albahaca.\n5. Sumergir los trozos de pollo primero en la mezcla de mostaza y luego en la mezcla de migas de pan. Colocarlos en el molde con la piel hacia arriba.\n6. Hornear al descubierto durante 45 minutos.\nSirve para 6 personas",
+  "url": null
+}

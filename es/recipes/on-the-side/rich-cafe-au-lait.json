@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "rich-cafe-au-lait",
+  "name": "Café au lait rico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "cafés",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de café de goteo o mocha molido fino",
+    "4 tazas de agua hirviendo",
+    "1 taza de crema batida",
+    "Azúcar al gusto"
+  ],
+  "recipeInstructions": "1. Coloca los granos de café en el cesto de una cafetera francesa.\n2. Vierte el agua hirviendo, poco a poco, sobre los granos de café.\n3. Continúa vertiendo hasta que todo el agua haya pasado por los granos.\n4. Lleva la crema a ebullición.\n5. Para servir, combina 1/2 taza de café y 1/2 taza de crema en una taza.\n6. Añade azúcar si se desea, removiendo bien.\n7. Sirve inmediatamente.\nRinde: 8 tazas",
+  "url": null
+}

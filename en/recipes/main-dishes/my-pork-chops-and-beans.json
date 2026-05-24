@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-pork-chops-and-beans",
+  "name": "My Pork Chops and Beans",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "pork",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "4 Pork chops, loin or shoulder",
+    "30 oz Beans in tomato sauce",
+    "1 medium Onion, minced",
+    "1/2 tsp Salt",
+    "6 tbsp Ketchup"
+  ],
+  "recipeInstructions": "1. Brown the pork chops lightly.\n2. Mix the beans and remaining ingredients (onion, salt, ketchup) together.\n3. Place the mixture in a 9 inch square pan or casserole dish.\n4. Top with the browned pork chops.\n5. Bake for 1 - 1 1/2 hours at 350°F.",
+  "url": null
+}

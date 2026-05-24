@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "graham-bread",
+  "name": "Pan de Graham",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "fácil"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina de Graham",
+    "1 taza de harina integral",
+    "1/2 taza de azúcar",
+    "1 cucharadita de sal",
+    "2 cucharaditas de bicarbonato de sodio",
+    "2 tazas de buttermilk"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 400 °F (200 °C).\n2. Tamizar juntos los ingredientes secos (harina de Graham, harina integral, azúcar, sal y bicarbonato de sodio).\n3. Agregar el buttermilk y mezclar bien hasta obtener una masa homogénea.\n4. Verter la masa en un molde para pan engrasado.\n5. Colocar el molde en el horno.\n6. Bajar la temperatura a 350 °F (175 °C).\n7. Hornear durante 1 hora.",
+  "url": null
+}

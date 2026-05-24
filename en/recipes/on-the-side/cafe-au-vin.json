@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cafe-au-vin",
+  "name": "Cafe Au Vin",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup Cold strong French roast coffee",
+    "2 tablespoons Granulated sugar",
+    "1 teaspoon Cinnamon",
+    "2 ounces Tawny port",
+    "1/2 tablespoon Grated orange peel"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a blender cup and mix at high speed.\n2. Pour into chilled wine glasses.\nNutritional analysis per serving: 70 calories; 0.006 grams total fat (0% of calories from fat); 0 milligrams cholesterol; 4.54 milligrams sodium.",
+  "url": null
+}

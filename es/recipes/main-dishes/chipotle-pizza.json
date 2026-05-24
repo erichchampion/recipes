@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chipotle-pizza",
+  "name": "Pizza de Chipotle",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "condimentos",
+    "plato principal",
+    "mexicano",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de puré de chile chipotle (de una lata de chipotles en adobo)",
+    "1 cucharada de jugos de chipotle (del tarro)",
+    "1 diente de ajo, picado",
+    "2 cucharadas de aceite de oliva",
+    "3 cucharadas de queso parmesano rallado",
+    "1/2 taza de queso mozzarella rallado"
+  ],
+  "recipeInstructions": "\"Los chiles chipotle\" son un ingrediente mexicano, pimientos jalapeños ahumados en vinagre. Son muy picantes. Una pequeña cantidad es suficiente.\n1. Mezcla el chile chipotle, los jugos, el ajo y el aceite de oliva.\n2. Estira la masa de pizza en un círculo de 10 pulgadas; colócala en una bandeja para hornear.\n3. Extiende la mezcla de chipotle sobre la masa, luego espolvorea con los quesos rallados.\n4. Hornea durante unos 20 minutos.\n5. Corta en triángulos.",
+  "url": null
+}

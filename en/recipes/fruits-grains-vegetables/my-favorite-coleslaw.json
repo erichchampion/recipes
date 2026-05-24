@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-favorite-coleslaw",
+  "name": "My Favorite Coleslaw",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "salads",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "1 cabbage head",
+    "1 onion - minced",
+    "2 tbsp salad vinegar",
+    "1/4 cup sour cream",
+    "1/4 cup mayonnaise",
+    "1 tbsp sugar",
+    "1/2 tsp salt",
+    "1/4 tsp black pepper",
+    "(optional) paprika",
+    "(optional) green bell peppers, slivered",
+    "(optional) red bell peppers, slivered",
+    "1/2 tsp dry mustard (optional)",
+    "1/4 tsp celery seed (optional)"
+  ],
+  "recipeInstructions": "1 Shred cabbage into very thin strands. Sprinkle evenly with vinegar, minced onion, fresh ground black pepper, and sugar. Place in an airtight bowl or plastic bag and refrigerate for at least 1 hour.\n2 Mix together sour cream, mayonnaise, dry mustard (if using), salt, green bell peppers (if using), red bell peppers (if using), and celery seeds (if using).\n3 Add the dressing mixture to the chilled cabbage and gently stir or shake everything together. Refrigerate for at least 2 hours before serving for best flavor.",
+  "url": null
+}

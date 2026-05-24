@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "fajitas",
+  "name": "Fajitas",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "étnico",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1/4 cucharadita de romero",
+    "1/2 cucharadita de tomillo",
+    "1 1/2 tazas de aceite de maíz",
+    "1 taza de zumo de limón o 1/2 limón y 1/2 vinagre de manzana",
+    "1 cebolla verde picada (1 tabla)",
+    "2 cucharaditas de sal",
+    "1 diente de ajo machacado",
+    "1 cucharadita de orégano",
+    "Pimienta al gusto",
+    "6 libras de carne para fajitas (falda, solomillo o costilla de res)",
+    "20 tortillas de harina"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto la carne en un bol y remover bien.\n2. Agregar la carne a la marinada y refrigerar durante al menos 24 horas, volteando la mezcla al menos 4 o 6 veces para mejores resultados.\n3. Cuando esté listo para cocinar, asar a la parrilla sobre brasas de encina hasta que esté cocido completamente, de 5 a 8 minutos por cada lado. Para mejores resultados, apuntar a un punto medio-poco hecho.\n4. Retirar la carne a una tabla de cortar y cortarla en tiras de medio centímetro contra el grano.\n5. Utilizar cualquier marinada restante para barnizar mientras se cocina.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-sorbet",
+  "name": "Sorbete de chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "etc.",
+    "helado",
+    "sorbete"
+  ],
+  "recipeIngredient": [
+    "1 taza de cacao",
+    "3/4 taza de azúcar",
+    "2 1/2 tazas de agua",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el extracto de vainilla en una cacerola.\n2. Calentar a fuego medio, removiendo con frecuencia, hasta que la mezcla hierva.\n3. Apagar el fuego y añadir el extracto de vainilla.\n4. Dejar enfriar la mezcla completamente.\n5. Congelar según las instrucciones de su heladera.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "minted-potatoes",
+  "name": "Patatas con menta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "patatas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "6 tazas de patatas blancas o rojas",
+    "1 cucharada de margarina suave",
+    "1/2 taza de menta fresca picada",
+    "1 cucharada de jugo de limón fresco"
+  ],
+  "recipeInstructions": "1. Cortar las patatas en cuartos y rodajas.\n2. En una olla grande, hervir las patatas en agua hasta que estén tiernas, aproximadamente 10 minutos.\n3. Escurrir las patatas.\n4. En una sartén grande, derretir la margarina y saltear la menta con jugo de limón durante 1 minuto.\n5. Añadir las patatas y mezclar para cubrirlas.\n6. Recalentar y servir.",
+  "url": null
+}

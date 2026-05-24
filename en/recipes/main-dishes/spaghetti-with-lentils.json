@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-with-lentils",
+  "name": "Spaghetti with Lentils",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "2 tbsp Oil",
+    "1 small Onion, chopped",
+    "1 clove Garlic, minced",
+    "1/2 cup Dry lentils",
+    "1 large Can tomatoes",
+    "6 oz Tomato paste",
+    "1 cup Water",
+    "1/2 tsp Basil",
+    "1/2 tsp Oregano",
+    "1/4 tsp Thyme",
+    "1/4 tsp Salt",
+    "1/4 cup Red wine",
+    "8 oz Cooked spaghetti"
+  ],
+  "recipeInstructions": "1. Heat oil in a Dutch oven over medium heat.\n2. Add onions and garlic; sauté until tender.\n3. Stir in the remaining ingredients, except the cooked spaghetti.\n4. Bring the mixture to a boil, then reduce heat and simmer.\n5. Simmer for 1 hour, stirring occasionally.\n6. Serve the lentil mixture over the cooked spaghetti.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "turkey-fruit-salad",
+  "name": "Ensalada de pavo con frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "fruta",
+    "aves de corral",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mayonesa",
+    "2 cucharadas de miel",
+    "1/8 cucharadita de jengibre molido",
+    "2 tazas de pavo cocido en cubos",
+    "11 onzas de naranjas mandarina escurridas",
+    "1 taza de manzana picada",
+    "1 taza de uvas cortadas por la mitad",
+    "8 1/4 onzas de trozos de piña escurridos",
+    "1/2 taza de nueces pecanas tostadas"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar la mayonesa, la miel y el jengibre.\n2. Incorporar el pavo, las naranjas mandarina, la manzana picada, las uvas y la piña.\n3. Refrigerar durante 1 hora.\n4. Espolvorear con nueces pecanas tostadas antes de servir.",
+  "url": null
+}

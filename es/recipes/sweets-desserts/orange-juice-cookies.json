@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-juice-cookies",
+  "name": "Galletas de Jugo de Naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "Crema:",
+    "1 taza azúcar",
+    "1/4 taza Crisco",
+    "2 1/2 tazas harina",
+    "1/2 cucharadita sal",
+    "1/2 taza mantequilla",
+    "2 huevos",
+    "1/2 cucharadita bicarbonato de sodio",
+    "3/4 taza jugo de naranja",
+    "Glaseado:",
+    "2 1/2 tazas azúcar glas",
+    "1/4 taza mantequilla derretida"
+  ],
+  "recipeInstructions": "Crema: Mezcla todos los ingredientes hasta obtener una masa homogénea. Extiéndela sobre una bandeja para galletas engrasada y hornea a 400°F durante 10 minutos.\nGlaseado: Agrega pequeñas cantidades de jugo de naranja hasta lograr la consistencia deseada para el glaseado. Unta el glaseado sobre las galletas enfriadas.",
+  "url": null
+}

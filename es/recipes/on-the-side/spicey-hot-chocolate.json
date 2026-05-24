@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicey-hot-chocolate",
+  "name": "Cocido caliente picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de azúcar",
+    "1/4 taza de cacao en polvo",
+    "3 cucharadas de café instantáneo en polvo",
+    "1/2 cucharadita de canela molida",
+    "1 taza de leche, calentada"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un vaso.\n2. Calentar la leche hasta que esté tibia y con vapor.\n3. Añadir el azúcar, cacao, café instantáneo y canela al vaso con la leche caliente.\n4. Remover hasta que quede bien mezclado.\n5. Servir inmediatamente. Decorar con una cucharada de crema batida y un palo de canela si se desea.",
+  "url": null
+}

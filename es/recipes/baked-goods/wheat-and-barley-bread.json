@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "wheat-and-barley-bread",
+  "name": "Pan de trigo y cebada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 1/8 tazas de agua",
+    "1 1/2 tazas de harina de pan",
+    "1 1/2 tazas de harina integral de trigo",
+    "1/2 taza de harina de cebada",
+    "1 1/2 cucharaditas de sal",
+    "1 1/2 cucharadas de mantequilla o margarina",
+    "1 1/2 cucharadas de leche en polvo sin grasa",
+    "2 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en la máquina de pan según las instrucciones del fabricante.\n2. Inicia el ciclo de la máquina.",
+  "url": null
+}

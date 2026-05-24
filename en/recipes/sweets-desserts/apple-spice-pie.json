@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-spice-pie",
+  "name": "Apple Spice\"pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "fruits",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "Wrapper:",
+    "Pie crust",
+    "Puff pastry",
+    "White bread",
+    "Filling:",
+    "2 tablespoons Applesauce",
+    "Pumpkin pie spice to taste",
+    "3/4 teaspoon Brown sugar, packed",
+    "3 teaspoons Flour",
+    "1 1/2 tablespoons Chopped walnuts",
+    "1/2 teaspoon Brown sugar, packed",
+    "3/4 teaspoon Flour",
+    "2 teaspoons Pumpkin pie spice"
+  ],
+  "recipeInstructions": "1. Mix applesauce, pumpkin pie spice, brown sugar, flour, chopped walnuts, and pumpkin pie spice together.\n2. Fill the wrapper with the mixture.\n3. Cook for 3 - 4 minutes.",
+  "url": null
+}

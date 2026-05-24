@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "paris-pastry-cheesecake",
+  "name": "Cheesecake de Pastel de París",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pastel",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de crema agria",
+    "5 onzas de queso crema",
+    "1/2 taza de azúcar",
+    "1 huevo",
+    "1 base de galleta Graham de 23 cm",
+    "1 caja de fresas",
+    "4 onzas de crema batida azucarada"
+  ],
+  "recipeInstructions": "1. Mezclar la crema agria, el queso crema, el azúcar y el huevo en un procesador de alimentos o batidora hasta obtener una textura suave.\n2. Verter la mezcla sobre la base de galleta Graham preparada.\n3. Hornear a 175 °C durante 15 minutos.\n4. Enfriar varias horas, o preferiblemente toda la noche.\n5. Decorar con rodajas de fruta y crema batida antes de servir.",
+  "url": null
+}

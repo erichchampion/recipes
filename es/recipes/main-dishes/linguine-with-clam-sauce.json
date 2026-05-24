@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "linguine-with-clam-sauce",
+  "name": "Linguini con salsa de almejas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "350 g de linguini",
+    "2 cucharadas de aceite de oliva",
+    "1 diente de ajo grande, picado finamente",
+    "1 pequeña cebolla, picada",
+    "1 lata de 250 g de almejas molidas con su líquido",
+    "2 cucharadas de perejil fresco picado (opcional)",
+    "1 cucharadita de jugo de limón",
+    "Una pizca de salsa picante"
+  ],
+  "recipeInstructions": "1. Cocinar el linguini según las instrucciones del paquete, asegurándose de que quede al dente.\n2. Mientras se cocina la pasta, calentar el aceite en una sartén a fuego medio.\n3. Saltear el ajo y la cebolla hasta que estén suaves pero sin dorar.\n4. Agregar las almejas con su líquido, el perejil (si se usa), el jugo de limón y la salsa picante. Calentar durante 1-2 minutos.\n5. Escurrir el linguini; colocar en un plato y verter la salsa de almejas encima.\n6. Espolvorear con queso parmesano rallado al gusto.\n7. Servir inmediatamente, con 2 porciones como máximo.",
+  "url": null
+}

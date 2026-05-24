@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "spanish-omelet-2",
+  "name": "Omelette española",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "étnica",
+    "plato principal",
+    "española"
+  ],
+  "recipeIngredient": [
+    "3 tazas de patatas",
+    "1/2 taza de cebolla picada (1 cebolla mediana)",
+    "3/4 cucharadita de sal",
+    "1/4 cucharadita de pimentón rojo en hojuelas (opcional)",
+    "2 cucharadas de aceite vegetal",
+    "6 huevos grandes batidos",
+    "1/3 taza de leche",
+    "1/2 cucharadita de sal",
+    "1/8 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Pelar y cortar finamente las patatas. Dos patatas grandes deben dar aproximadamente 3 tazas cortadas.\n2. Triturar el pimentón rojo (opcional).\n3. Calentar el aceite vegetal en una sartén a fuego medio.\n4. Añadir la cebolla picada a la sartén y saltear hasta que esté transparente.\n5. Verter los huevos batidos, la leche, la sal y la pimienta. Mezclar suavemente.\n6. Cocinar la tortilla a fuego lento hasta que esté cuajada pero aún húmeda.\n7. Doblar la tortilla por la mitad y servir caliente.",
+  "url": null
+}

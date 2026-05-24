@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-pie-5",
+  "name": "Chocolate Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1 cup Sugar",
+    "4 Tablespoons Flour",
+    "2 Tablespoons Cocoa",
+    "2 Egg Yolks",
+    "1 1/2 Cups Milk",
+    "1/2 Teaspoon Margarine",
+    "1/2 Teaspoon Vanilla Extract"
+  ],
+  "recipeInstructions": "1. Mix together sugar, flour, and cocoa.\n2. Gradually add enough milk to moisten the dry ingredients.\n3. Stir in the egg yolks.\n4. Add the remaining milk and mix well.\n5. Cook over a double boiler until thickened.\n6. Add margarine and vanilla extract.\n7. Pour into a baked pie shell.\n8. Top with meringue or cool whip.",
+  "url": null
+}

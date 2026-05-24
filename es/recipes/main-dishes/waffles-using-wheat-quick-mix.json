@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "waffles-using-wheat-quick-mix",
+  "name": "Waffles (Usando Mezcla Rápida de Trigo)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "plato principal",
+    "gofres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de mezcla de trigo rápido",
+    "2 tazas de agua",
+    "1 huevo",
+    "2 cucharadas de aceite"
+  ],
+  "recipeInstructions": "1. Mezclar la mezcla de trigo, el agua, el huevo y el aceite hasta obtener una masa homogénea.\n2. Verter la masa en una gofrera precalentada.\n3. Cocinar según las instrucciones de la gofrera.\n4. Rinde 2 gofres grandes.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-dip",
+  "name": "Dip de queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempié",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 1/8 libras de queso crema, ablandado",
+    "8 radices",
+    "1 zanahoria grande",
+    "1 cebolla pequeña",
+    "1 pimiento verde",
+    "1 diente de ajo",
+    "Sal y pimienta al gusto",
+    "Leche"
+  ],
+  "recipeInstructions": "1. Ralla o corta finamente todas las verduras (utilizo procesador de alimentos) y mézclalas con el queso crema ablandado. Añade sal, pimienta y leche hasta obtener la consistencia deseada.\n2. Refrigera durante la noche y sirve con patatas fritas, galletas o como dip para verduras, etc.",
+  "url": null
+}

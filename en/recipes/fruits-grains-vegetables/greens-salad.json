@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "greens-salad",
+  "name": "Greens Salad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "salads"
+  ],
+  "recipeIngredient": [
+    "1 cup Regular, light or cholesterol-free mayonnaise",
+    "1/2 cup Plain yogurt",
+    "1 tsp Fresh lemon juice",
+    "1/2 tsp Sugar",
+    "1 cup Chopped mixed greens:",
+    "Parsley, fresh dill, celery leaves, scallion tops, chopped green pepper",
+    "1 Anchovy fillet (optional)",
+    "Salt to taste (do not use salt with anchovy)",
+    "Pepper to taste"
+  ],
+  "recipeInstructions": "1. For the dressing: Puree mayonnaise, yogurt, lemon juice, sugar, mixed greens, salt, and pepper in a blender or food processor. Add anchovy if desired. Cover and refrigerate until flavors are well blended.\n2. For the salad: Combine chicory, curly lettuce, baby spinach leaves, watercress, and ribbons of kale.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-batter",
+  "name": "Batido de pescado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "misceláneo",
+    "mezclas",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "3 libras de filetes de pescado",
+    "2 tazas de harina de uso común",
+    "3 tazas de mezcla para tortitas",
+    "3 tazas de agua con gas",
+    "1 cucharada de polvo de cebolla",
+    "1 cucharada de sal sazonada"
+  ],
+  "recipeInstructions": "1. Sumergir los trozos de pescado ligeramente y uniformemente en la harina.\n2. Sacudir el exceso de harina y dejar que se sequen sobre papel de horno durante unos 5 minutos.\n3. Batir la mezcla para tortitas con el agua con gas hasta obtener una consistencia similar a la de la leche, líquida pero no demasiado fina ni demasiado espesa.\n4. Incorporar el polvo de cebolla y la sal sazonada a la masa.\n5. Sumergir los filetes enharinados en la masa y freírlos en aceite pesado a 180°C durante unos 4 minutos por cada lado.\n6. Colocarlos sobre una bandeja para hornear precalentada a 175°C hasta que todos los trozos estén cocidos.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "multi-grain-bread-abm",
+  "name": "Pan de múltiples cereales ABM",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1/2 cucharadita levadura",
+    "2 tazas harina",
+    "3/4 taza harina de trigo",
+    "3/4 taza germen de trigo",
+    "3/4 taza avena",
+    "3/4 taza leche en polvo",
+    "2 cucharadas semillas de girasol",
+    "2 cucharadas gluten",
+    "2 cucharadas azúcar",
+    "1/2 cucharadita sal",
+    "1 huevo"
+  ],
+  "recipeInstructions": "1. Combinar agua hirviendo con el trigo bulgur, la millet, el jarabe de maíz y el aceite.\n2. Enfriar la mezcla hasta alcanzar la temperatura ambiente.\n3. Llevar todos los ingredientes restantes a la temperatura ambiente.\n4. Verter los ingredientes enfriados en una máquina panificadora en el orden indicado.\n5. Añadir la mezcla de granos.\n6. Establecer el control de horneado en medio.\n7. Seleccionar pan blanco y presionar Start.",
+  "url": null
+}

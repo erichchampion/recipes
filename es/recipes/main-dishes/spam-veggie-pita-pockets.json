@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "spam-veggie-pita-pockets",
+  "name": "Bolsillos de pita con spam y verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne de cerdo",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 lata de carne para almuerzo Spam, en cubos (7 onzas)",
+    "1 taza de brócoli picado",
+    "1 taza de coliflor picada",
+    "1 tomate, picado",
+    "1 zanahoria, pelada y picada",
+    "1/3 taza de pepino picado",
+    "1/3 taza de cebolla finamente picada",
+    "1/2 taza de aderezo para ensalada italiana",
+    "4 panes de pita, cortados por la mitad"
+  ],
+  "recipeInstructions": "En un bol, combina el Spam, brócoli, coliflor, tomate, zanahoria, pepino y cebolla. Mezcla con el aderezo. Cubre y refrigera durante varias horas. Rellena los bolsillos de pita con la mezcla de ensalada.",
+  "url": null
+}

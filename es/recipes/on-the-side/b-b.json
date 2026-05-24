@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "b-b",
+  "name": "Desayuno y Cena (B&B)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1/2 oz de Benedictino",
+    "1/2 oz de brandy"
+  ],
+  "recipeInstructions": "Vierta el Benedictino en un vaso para cordiales. Flote cuidadosamente el brandy sobre el superior vertiéndolo lentamente sobre una cucharadita volcada al revés. Tenga cuidado de no mezclar los ingredientes.",
+  "url": null
+}

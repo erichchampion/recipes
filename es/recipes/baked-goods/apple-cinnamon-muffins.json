@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-cinnamon-muffins",
+  "name": "Muffins de Manzana y Canela",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "avena",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "2 1/4 tazas de cereal de avena integral",
+    "1/4 taza de azúcar moreno (en bloque)",
+    "1 cucharadita de canela",
+    "1 cucharadita de polvo de hornear",
+    "1/4 taza de nueces (picadas), opcional",
+    "1/2 taza de pasas",
+    "1/2 taza de leche desnatada",
+    "3/4 taza de jugo concentrado de manzana congelado",
+    "2 claras de huevo grandes",
+    "2 cucharadas de aceite vegetal",
+    "1 manzana mediana, picada"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar la avena integral, el azúcar moreno, la canela y el polvo de hornear.\n2. En otro bol o procesador de alimentos, batir juntos la leche desnatada, el jugo concentrado de manzana congelado, las claras de huevo y el aceite vegetal hasta que estén bien combinados.\n3. Agregar gradualmente los ingredientes húmedos a los secos, removiendo hasta que estén integrados.\n4. Incorporar las nueces picadas (si se usan) y la manzana.\n5. Distribuir la masa uniformemente en moldes para muffins engrasados con spray antiadherente.\n6. Hornear a 200 °C durante 15-17 minutos, o hasta que un palillo insertado en el centro de un muffin salga limpio.\n7. Servir calientes.",
+  "url": null
+}

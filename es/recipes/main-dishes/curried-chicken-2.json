@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "curried-chicken-2",
+  "name": "Pollo curry",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "platos de una sola olla",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de polvo de curry",
+    "1 cucharadita de comino",
+    "3/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra molida",
+    "un pellizco de clavos de olor",
+    "2 cucharadas de agua",
+    "1 diente de ajo picado",
+    "1 cucharadita de pasta de tomate (opcional)"
+  ],
+  "recipeInstructions": "1. En un bol, mezcla el polvo de curry, comino, sal y pimienta.\n2. Añade el ajo picado y la pasta de tomate (si se usa) a la mezcla de especias.\n3. Incorpora el agua hasta obtener una mezcla homogénea.\n4. Vierte la mezcla sobre trozos o pedazos de pollo.\n5. Cubre el pollo y déjalo marinar durante al menos 30 minutos, o varias horas si lo prefieres.\n6. Antes de cocinar, desecha el exceso de marinada y cocina el pollo a tu gusto (asado, a la parrilla o salteado).",
+  "url": null
+}

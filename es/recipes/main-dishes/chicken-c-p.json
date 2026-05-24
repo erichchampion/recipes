@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-c-p",
+  "name": "Pollo C/p",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pollo",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "Zanahorias, cortadas en rodajas finas (1-2 unidades)",
+    "Apio, cortado en rodajas finas (1-2 tallos)",
+    "Cebolla, cortada en rodajas",
+    "Pechuga de pollo cortada en trozos (o 2 pechugas si prefieres solo carne blanca)",
+    "Un sobre de caldo de pollo o ternera (G-Washington u otro caldo en polvo)",
+    "Pimienta",
+    "Ajo en polvo"
+  ],
+  "recipeInstructions": "1. Coloca las verduras en la olla de cocción lenta.\n2. Pon el pollo encima de las verduras.\n3. Espolvorea con caldo y especias.\n4. Añade 1/4 taza de agua.\n5. Cocina a fuego lento durante 8 horas. ¡Delicioso pollo asado!",
+  "url": null
+}

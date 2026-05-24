@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chickenless-gravy",
+  "name": "Salsa sin pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "2 tazas de agua hirviendo",
+    "2 cucharadas de aceite vegetal",
+    "3 cucharadas de levadura nutricional",
+    "1 cubo de caldo de verduras",
+    "1/2 taza de setas, picadas",
+    "1/2 taza de cebolla, picada",
+    "Sal de cebolla al gusto",
+    "Harina de uso común sin blanquear"
+  ],
+  "recipeInstructions": "1. En una olla grande, calienta a fuego lento todos los ingredientes excepto la harina durante aproximadamente 5 minutos.\n2. Añade la harina, una cucharada a la vez, batiendo constantemente hasta alcanzar la consistencia deseada.\n3. Mantén caliente.",
+  "url": null
+}

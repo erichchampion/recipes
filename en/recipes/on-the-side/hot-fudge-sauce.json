@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-fudge-sauce",
+  "name": "Hot Fudge Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "3 squares bitter chocolate",
+    "1/8 teaspoon salt",
+    "1 tablespoon butter",
+    "1 teaspoon vanilla extract",
+    "1 1/2 cups sugar",
+    "1/2 cup boiling water"
+  ],
+  "recipeInstructions": "1. Melt the chocolate in the top of a double boiler.\n2. Add the butter, sugar, and salt to the melted chocolate.\n3. Stir in the boiling water until well combined.\n4. Allow the mixture to boil for 3-4 minutes.\n5. Remove from heat and stir in the vanilla extract.\n6. Serve immediately.",
+  "url": null
+}

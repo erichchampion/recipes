@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "caribou-burgers",
+  "name": "Caribou Burgers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "game",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground caribou",
+    "4 oz Ground pork",
+    "Salt",
+    "Fresh ground black pepper",
+    "1/2 medium Onion, chopped",
+    "Bread crumbs or other cereal optional",
+    "Your favorite burger spices",
+    "Herbs and condiments to taste",
+    "1 Egg, to bind the ingredients"
+  ],
+  "recipeInstructions": "Because caribou has little fat content, add some pork for juiciness.\nCombine all ingredients while handling as minimally as possible. Preheat grill or broiler.\nBrush burgers with vegetable oil and cook on the grill for about 4 minutes, turning once and cooking to desired doneness. Serve on rolls with your preferred condiments.",
+  "url": null
+}

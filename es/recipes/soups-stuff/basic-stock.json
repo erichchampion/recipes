@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-stock",
+  "name": "Caldo básico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "caldos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 kg de trozos de pollo",
+    "1 1/2 kg de costillas de cerdo",
+    "15 tazas de agua",
+    "3 (a 4) jengibre frescos, sin pelar y machacados",
+    "3 (a 4) cebolletas, atadas en un nudo",
+    "3 cucharadas (a 4 cucharadas) de vino de arroz chino o jerez seco"
+  ],
+  "recipeInstructions": "1. Retirar toda grasa excesiva del pollo y las costillas.\n2. Cortarlos en trozos grandes con un cuchillo afilado.\n3. Colocar el pollo y el cerdo en una olla grande o sartén con agua.\n4. Añadir jengibre, nudos de cebolleta, y llevar a ebullición.\n5. Retirar la espuma con un colador.\n6. Reducir el fuego y hervir destapado durante 2-3 horas.\n7. Colar el caldo, descartando los sólidos.\n8. Devolver el líquido a ebullición y añadir vino o jerez.\n9. Hervir durante 2-3 minutos.\n10. Refrigerar cuando esté frío; conservar hasta 4-5 días.\n11. Alternativamente, congelar en pequeños recipientes y descongelar según sea necesario.",
+  "url": null
+}

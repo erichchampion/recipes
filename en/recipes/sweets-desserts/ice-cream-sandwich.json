@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "ice-cream-sandwich",
+  "name": "Ice Cream Sandwich",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "ice cream"
+  ],
+  "recipeIngredient": [
+    "1 tbsp Crunchy peanut butter",
+    "2 Graham cracker squares",
+    "1/2 cup Whole Wheat vanilla ice milk"
+  ],
+  "recipeInstructions": "1. Spread peanut butter on one Graham cracker square.\n2. Top with vanilla ice milk.\n3. Place another Graham cracker square on top.\nEach Serving ñ 1 Fat, 1 Fruit, 1/2 Milk, 1 Bread.",
+  "url": null
+}

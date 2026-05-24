@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "deep-fried-cod",
+  "name": "Deep Fried Cod",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "fish",
+    "main dish",
+    "meat",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "1 Pound frozen cod",
+    "Batter:",
+    "1 Egg",
+    "3/4 Cup flour",
+    "1/2 Cup water",
+    "1 Teaspoon salt",
+    "1 Tablespoon sesame seed"
+  ],
+  "recipeInstructions": "1. Mix the batter ingredients together until smooth.\n2. Cut cod fillets into serving sizes.\n3. Dip each piece of cod into the batter, ensuring pieces are dry so the batter sticks.\n4. Deep fry in 1-inch of oil for 10 to 15 minutes on each side or until golden brown.\n5. Serve 3 to 4 adults.",
+  "url": null
+}

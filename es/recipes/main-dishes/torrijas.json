@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "torrijas",
+  "name": "Torrijas",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "brunch",
+    "lácteos",
+    "plato principal",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "4 rebanadas de pan duro",
+    "1 cucharada de ron o coñac (opcional)",
+    "1/4 taza de aceite",
+    "3/4 taza de leche",
+    "1 huevo batido",
+    "Mezcla de azúcar y canela"
+  ],
+  "recipeInstructions": "1. En un bol poco profundo y plano, mezclar la leche con el ron o coñac (si se usa).\n2. Humedecer cada rebanada de pan por separado.\n3. Sumergir cada rebanada humedecida en el huevo batido.\n4. Freír como se hace con los panqueques.\n5. Servir caliente espolvoreado con la mezcla de azúcar y canela.",
+  "url": null
+}

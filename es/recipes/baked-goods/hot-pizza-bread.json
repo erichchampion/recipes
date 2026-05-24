@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-pizza-bread",
+  "name": "Pan de pizza caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 barra de pan francés",
+    "1 taza de salsa Prego para pasta",
+    "1 taza de pepperoni en rodajas",
+    "1/2 taza de pimientos rojos y verdes en tiras",
+    "1/2 taza de queso parmesano Kraft 100% rallado",
+    "1 taza de queso mozzarella Kraft rallado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 400 °F (200 °C).\n2. Cortar la barra de pan francés en rodajas de 1 pulgada, cortando solo tres cuartos a través del pan.\n3. Extender la salsa de pasta en cada lado del pan.\n4. Introducir el pepperoni y las tiras de pimiento en cada corte.\n5. Espolvorear con queso parmesano y mozzarella.\n6. Envolver el pan relleno en papel de aluminio.\n7. Hornear durante 15 minutos.",
+  "url": null
+}

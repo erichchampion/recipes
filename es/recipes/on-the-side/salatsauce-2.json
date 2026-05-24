@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "salatsauce-2",
+  "name": "Salsa para ensalada #2",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "alemana",
+    "ensaladas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cucharaditas de sal",
+    "1 1/2 cucharaditas de mostaza preparada",
+    "1/4 cucharadita de pimienta negra",
+    "1 diente de ajo (grande o machacado)",
+    "1/4 taza de vinagre de tarragon",
+    "3/4 taza de aceite de oliva"
+  ],
+  "recipeInstructions": "1. Mezcla los cuatro primeros ingredientes y añade el ajo, el vinagre y la sal.\n2. Revuelve hasta que se disuelva la sal.\n3. Añade gradualmente el aceite de oliva, removiendo constantemente. Alternativamente, agita todos los ingredientes en una botella hasta que estén bien mezclados.",
+  "url": null
+}

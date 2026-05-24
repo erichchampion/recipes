@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "herb-cheese-2",
+  "name": "Queso con Hierbas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "2 paquetes (90 g) de queso crema, ablandado",
+    "2 cucharaditas de cebolla nueva",
+    "2 cucharaditas de eneldo",
+    "1 diente de ajo, picado",
+    "1/4 taza de mayonesa",
+    "1 cucharadita de mostaza de Dijon"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar el queso crema ablandado con todas las hierbas y especias.\n2. Amasar suavemente hasta obtener una mezcla homogénea.\n3. Transferir la mezcla a un recipiente para servir y refrigerar hasta el momento de servir.\n4. Servir con galletas saladas.",
+  "url": null
+}

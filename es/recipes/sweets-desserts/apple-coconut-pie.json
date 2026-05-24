@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-coconut-pie",
+  "name": "Tarta de Manzana y Coco",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "3 1/2 tazas de manzanas verdes, cortadas en láminas finas",
+    "3/4 taza de azúcar",
+    "2 cucharadas de harina de trigo",
+    "1/2 cucharadita de sal",
+    "3 1/2 onzas de coco rallado",
+    "1 cucharadita de extracto de vainilla",
+    "2 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 175 °C (350 °F).\n2. En un bol grande, mezclar las manzanas con el azúcar, la harina y la sal hasta que estén bien combinadas.\n3. Añadir los copos de coco y el extracto de vainilla; remover suavemente.\n4. Verter la mezcla en un molde para tarta forrado con papel pergamino.\n5. Distribuir la mantequilla en pequeños puntos sobre la mezcla.\n6. Hornear durante 45 minutos o hasta que esté dorada.\n7. Apagar el horno y dejar enfriar antes de servir.",
+  "url": null
+}

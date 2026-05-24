@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-tofu-vegetables",
+  "name": "Verduras con tofu simple",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "plato principal",
+    "acompañamientos",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 cebollas medianas, cortadas en cubos",
+    "1 pimiento verde mediano, cortado en cubos",
+    "1/2 libra de setas, cortadas por la mitad",
+    "1 libra de tofu cortado en cubos",
+    "1/2 taza de semillas de girasol",
+    "1 taza de agua",
+    "1 cucharada de albahaca",
+    "1 cucharada de salvia"
+  ],
+  "recipeInstructions": "1. En una sartén caliente con aceite, sofríe las cebollas hasta que se ablanden.\n2. Añade el pimiento verde, las setas, el tofu en cubos, las semillas de girasol, el agua y las hierbas (albahaca y salvia).\n3. Deja cocinar a fuego lento la mezcla hasta que las verduras estén tiernas.\n4. Sirve sobre arroz cocido.",
+  "url": null
+}

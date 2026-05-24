@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-dressing",
+  "name": "French Dressing",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "dressings",
+    "salads",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Salad Oil",
+    "2 tbsp Vinegar",
+    "2 tbsp Lemon Juice",
+    "2 tsp Sugar",
+    "1/2 tsp Salt",
+    "1/2 tsp Dry Mustard",
+    "1/2 tsp Paprika",
+    "1 dash Cayenne Pepper"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a blender container.\n2. Blend until the ingredients are well combined.\n3. Chill the dressing.\n4. Shake the dressing just before serving.\nMakes 3/4 cup.",
+  "url": null
+}

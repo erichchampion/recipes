@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "rocky-road",
+  "name": "Rocky Road",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "candies",
+    "candy",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "16 oz Milk chocolate bars",
+    "3 cups Tiny marshmallows",
+    "3/4 cup Chopped walnuts"
+  ],
+  "recipeInstructions": "1. Melt the milk chocolate bars.\n2. Stir in the marshmallows and chopped walnuts until combined.\n3. Pour the mixture into an 8x8x2-inch greased pan.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "curry-vinaigrette",
+  "name": "Vinaigrette de Curry",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "salsas",
+    "guarniciones",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de vinagre (de vino blanco)",
+    "2 cucharadas de aceite de oliva",
+    "2 cucharadas de jugo de limón",
+    "1 cucharadita de polvo de curry",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de azúcar",
+    "1/4 cucharadita de ajo picado",
+    "1/4 cucharadita de tomillo seco",
+    "1/8 cucharadita de pimienta negra molida"
+  ],
+  "recipeInstructions": "1. En un bol o frasco pequeño, mezclar todos los ingredientes.\n2. Agitar o remover bien hasta que quede todo integrado.\n3. Da para aproximadamente 1/2 taza.",
+  "url": null
+}

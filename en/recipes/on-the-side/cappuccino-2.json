@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cappuccino-2",
+  "name": "Cappuccino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "coffee",
+    "nuts",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "Coffee",
+    "Cream",
+    "Ground Nutmeg",
+    "Cinnamon",
+    "Sugar."
+  ],
+  "recipeInstructions": "1. Brew coffee and mix with cream to taste.\n2. Stir in ground nutmeg, cinnamon, and sugar according to preference. Enjoy with your guests who can customize their own spice additions such as sugar, orange peels, cinnamon sticks, whole or grated nutmeg, powdered chocolate, and any other creative ideas they have.",
+  "url": null
+}

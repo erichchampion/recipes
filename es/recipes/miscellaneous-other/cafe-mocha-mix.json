@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "cafe-mocha-mix",
+  "name": "Mezcla de Café Mocha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "desayuno",
+    "variado",
+    "mezclas"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de granulas de café expreso instantáneo",
+    "1/4 taza de cacao sin azúcar",
+    "1/4 taza de emulsionante de café en polvo",
+    "6 cucharadas de azúcar glas"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol pequeño.\n2. Batir hasta que esté completamente combinado.\n3. Almacenar la mezcla en un recipiente hermético.\nPara servir:\n1. En una taza, añadir 1 a 2 cucharadas de la mezcla.\n2. Verter 3/4 taza de agua hirviendo sobre la mezcla.\n3. Remover hasta que la mezcla se disuelva por completo y se combine con el agua caliente.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "stuffed-steaks",
+  "name": "Steakas rellenos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "ciervo"
+  ],
+  "recipeIngredient": [
+    "1 1/2 rebanadas de pan del día anterior",
+    "1/2 cucharadita de sal",
+    "2 cucharaditas de pimiento verde picado finamente",
+    "2 cucharaditas de cebolla picada",
+    "2 cucharaditas de apio picado finamente",
+    "Sal",
+    "Harina",
+    "2 filetes de solomillo de 1 pulgada de grosor (de ciervo o alce)",
+    "2 cucharadas de margarina o mantequilla",
+    "1/2 taza de agua"
+  ],
+  "recipeInstructions": "1. Preparar un aderezo mezclando el pan (desmenuzado), la sal, el pimiento verde, la cebolla y el apio.\n2. Sazonar los filetes con sal y espolvorear con harina.\n3. Cortar incisiones en cada filete hasta la mitad de su grosor y rellenarlas con el aderezo.\n4. Dorar los filetes en la margarina o mantequilla usando una sartén a presión.\n5. Añadir 1/2 taza de agua y cocinar a 10 PSI durante unos 20 minutos.",
+  "url": null
+}

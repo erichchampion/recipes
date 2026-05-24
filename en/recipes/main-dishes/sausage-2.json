@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "sausage-2",
+  "name": "Sausage 2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "meats",
+    "sausages"
+  ],
+  "recipeIngredient": [
+    "1 1/2 kg ground pork (shoulder cut)",
+    "1 1/2 kg ground beef (brisket, round, or sirloin)",
+    "2 tsp dried sage",
+    "2 tsp crushed red pepper",
+    "2 tsp paprika",
+    "2 tsp ground cumin",
+    "2 tsp dried sweet basil",
+    "2 tsp aniseed",
+    "2 tsp dried oregano",
+    "dash salt and ground black pepper"
+  ],
+  "recipeInstructions": "1. Mix the meats with the spices. For sausage links, attach 6 cm sausage casings to the stuffer nozzle on a hand meat grinder. Stuff the casings to the desired length, cut the links, and secure the ends with string.\n2. Barbecue at 225°F (110°C) for 2 hours or slow-smoke at 185°F (85°C) for 4 hours. For sausage patties, form the meat mixture into a roll and cover with wax paper. Slice the roll into patties and peel off the wax paper. Patties can be fried or grilled.\nDifficulty: moderate - patience needed\nPrecision: measure ingredients",
+  "url": null
+}

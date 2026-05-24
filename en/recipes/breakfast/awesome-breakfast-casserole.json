@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "awesome-breakfast-casserole",
+  "name": "Awesome Breakfast Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "casseroles",
+    "favorites",
+    "main dish",
+    "potatoes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Hash browns; frozen",
+    "1 lb Bacon or sausage",
+    "3 Eggs",
+    "2 oz Velveeta",
+    "2 oz Cheddar; shredded",
+    "1 can Cream of Potato soup",
+    "Salt and Pepper"
+  ],
+  "recipeInstructions": "1. Cook the hash browns with onion until crisp.\n2. Fry the meat.\n3. Mix in a 13 X 9 pan with the cheeses, soup, beaten eggs, salt, and pepper.\n4. Bake at 350°F for 30 to 50 minutes.",
+  "url": null
+}

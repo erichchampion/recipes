@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "no-fat-white-bread",
+  "name": "Pan de harina blanca sin grasa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "sin grasa"
+  ],
+  "recipeIngredient": [
+    "2/3 taza de agua",
+    "1 huevo grande",
+    "1 cucharadita de azúcar",
+    "1/8 cucharadita de sal",
+    "2 tazas de harina de pan",
+    "1 cucharadita de levadura"
+  ],
+  "recipeInstructions": "1. Mezclar el agua, el huevo, el azúcar y la sal en un bol.\n2. Añadir la harina de pan y la levadura a los ingredientes húmedos.\n3. Amasar hasta formar una masa.\n4. Seguir las instrucciones de su máquina para amasar y hornear.\n5. Esta receta da para un pan pequeño.\n6. Configurar el ciclo para pan blanco y elegir el ajuste de corteza ligera.",
+  "url": null
+}

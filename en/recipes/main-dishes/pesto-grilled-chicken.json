@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pesto-grilled-chicken",
+  "name": "Pesto Grilled Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "entree",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1 cup olive oil",
+    "1 cup fresh basil leaves",
+    "2 garlic cloves",
+    "1/2 cup parmesan cheese",
+    "1/4 cup pine nuts",
+    "1/4 teaspoon salt",
+    "6 chicken leg quarters"
+  ],
+  "recipeInstructions": "1. Combine the olive oil, basil leaves, garlic cloves, pine nuts, parmesan cheese, and salt in a food processor.\n2. Process until smooth.\n3. Pour the pesto mixture over the chicken parts.\n4. Cover and marinate at room temperature for 30 minutes, or chill overnight.\n5. Remove from the marinade and drain well.\n6. Grill for 30-60 minutes, turning and basting often.\n7. Serve hot, warm, or chilled.",
+  "url": null
+}

@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "crawfish-chili",
+  "name": "Chili de langostinos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "cajún",
+    "guiso de chile",
+    "pescado",
+    "carne molida",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne picada magra",
+    "3 cucharadas de polvo de chile",
+    "2 lb de colas de cangrejo",
+    "1 lata (8 oz) de salsa de tomate",
+    "1 cucharadita de ajo finamente picado",
+    "1 taza de vino blanco seco",
+    "1 taza de agua",
+    "1 cucharadita de jugo de limón o lima",
+    "1 taza de cebolla picada",
+    "1 cucharadita de pimienta cayena",
+    "1 lata de grasas de tocino",
+    "1 cucharadita de perejil seco"
+  ],
+  "recipeInstructions": "1. Dorar la carne en las grasas de tocino.\n2. Mezclar todos los ingredientes con la carne y llevar a ebullición.\n3. Reducir el fuego y cocinar a fuego lento durante unas horas.",
+  "url": null
+}

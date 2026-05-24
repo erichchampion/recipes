@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "curry-delight",
+  "name": "Delicia de curry",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "frutas",
+    "carne molida",
+    "plato principal",
+    "carne",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne molida magra",
+    "1 taza de cebolla; picada",
+    "1 lata grande de tomates; triturados",
+    "1 manzana; sin corazón y picada",
+    "1 cucharadita de polvo de curry",
+    "2 cucharaditas de caldo de carne instantáneo",
+    "1-1 1/2 cucharaditas de sal",
+    "2 1/2 tazas de agua"
+  ],
+  "recipeInstructions": "Cocinar la carne y la cebolla en una olla holandesa hasta que la carne esté marrón. Retirar el exceso de grasa.\nAñadir los tomates (escurridos) y los ingredientes restantes excepto los cacahuetes, desmenuzando los tomates al añadirlos.\nLlevar a ebullición, luego reducir el fuego y cocinar a fuego lento cubierto, removiendo ocasionalmente, hasta que el arroz esté tierno (aproximadamente 30-45 minutos). Añadir agua si es necesario.\nAdornar con cacahuetes picados antes de servir.\nPara servir al horno: Transferir la mezcla a un recipiente para hornear de 3 cuartos sin engrasar. Cubrir y hornear a 175°C, removiendo ocasionalmente hasta que el arroz esté tierno (aproximadamente 45-55 minutos). Adornar con cacahuetes antes de servir.",
+  "url": null
+}

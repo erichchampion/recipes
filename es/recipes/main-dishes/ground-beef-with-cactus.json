@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "ground-beef-with-cactus",
+  "name": "Carne molida con cactus",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "14 onzas de cactus en frasco, escurrido",
+    "1/2 taza de cebolla picada",
+    "14 onzas de tomates picados con chiles"
+  ],
+  "recipeInstructions": "1. Cocinar la carne molida hasta que esté completamente caliente y dorada.\n2. Escurrir cualquier grasa excesiva de la sartén.\n3. Añadir la cebolla picada a la sartén y cocinar hasta que se ablande.\n4. Mezclar el cactus escurrido y los tomates picados con chiles.\n5. Reducir la mezcla a fuego lento durante unos 20 minutos, removiendo ocasionalmente.",
+  "url": null
+}

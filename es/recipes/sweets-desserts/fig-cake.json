@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "fig-cake",
+  "name": "Tarta de higo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de azúcar",
+    "1/2 taza de mantequilla",
+    "1 taza de leche",
+    "4 claras de huevo",
+    "1 taza de higos picados",
+    "3 cucharadas de melaza",
+    "3 tazas de harina",
+    "3/4 cucharadita de sal",
+    "4 cucharaditas de polvo de hornear",
+    "1 cucharadita de sabor a limón",
+    "1 cucharadita de canela"
+  ],
+  "recipeInstructions": "1. Batir la mantequilla con el azúcar.\n2. Añadir la leche.\n3. En un bol aparte, tamizar la harina, la sal, el polvo de hornear y el sabor a limón.\n4. Incorporar gradualmente los ingredientes tamizados a la mezcla anterior.\n5. Mezclar suavemente las claras de huevo batidas.\n6. Agregar la harina restante, la canela, la melaza y los higos picados (pasados por 2 cucharadas de harina).\n7. Verter la masa en un molde para bizcocho engrasado y enharinado, alternando capas claras y oscuras.\n8. Hornear a temperatura media (375 °F) durante unos 55 minutos.",
+  "url": null
+}

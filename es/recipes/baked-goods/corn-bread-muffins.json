@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "corn-bread-muffins",
+  "name": "Muffins de pan de maíz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "2 huevos batidos",
+    "1 taza de leche entera",
+    "3/4 taza de harina de uso común",
+    "1 1/2 tazas de miga de maíz amarilla tamizada",
+    "4 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "3 cucharadas de azúcar granulada",
+    "4 cucharadas de grasa o aceite"
+  ],
+  "recipeInstructions": "1. En un bol, combina los huevos batidos y la leche.\n2. Añade gradualmente la harina y la miga de maíz tamizada a la mezcla de huevo y leche.\n3. En otro bol, mezcla el polvo de hornear, la sal y el azúcar granulada.\n4. Incorpora los ingredientes secos a la mezcla húmeda y remueve hasta que estén justo combinados.\n5. Engrasa un molde para muffins con grasa o aceite.\n6. Vierte la masa en las copas del molde para muffins preparado.\n7. Hornea a 180 °C durante 25-30 minutos, o hasta que un palillo insertado en el centro de un panecillo salga limpio.",
+  "url": null
+}

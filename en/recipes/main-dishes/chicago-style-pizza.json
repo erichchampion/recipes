@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicago-style-pizza",
+  "name": "Chicago Style Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1.5 lb Ground beef",
+    "0.5 cup Chopped onion",
+    "0.06 US can of tomato paste (6 oz)",
+    "2 tbsp Parmesan cheese",
+    "0.01 tsp Oregano",
+    "1.25 ts Salt",
+    "0.05 tsp Pepper",
+    "10 Refrigerated biscuits",
+    "0.02 cups Mushroom stems and pieces, drained",
+    "1 Tomato, sliced",
+    "1 cup Mozzarella cheese, grated"
+  ],
+  "recipeInstructions": "1. Grease a 9-inch pan.\n2. Brown the ground beef and onion in a skillet.\n3. Drain the beef.\n4. Stir in tomato paste, Parmesan cheese, oregano, salt, and pepper.\n5. Simmer while preparing the crust.\n6. Separate biscuits.\n7. Arrange biscuits in a prepared pan and press over the bottom and up the sides to form the crust.\n8. Spoon the hot meat mixture into the crust.\n9. Arrange mushrooms, tomato slices, 2 tbsp Parmesan cheese, and Mozzarella cheese on top.\n10. Bake at 350°F for 20 to 25 minutes or until the crust is a deep golden brown.",
+  "url": null
+}

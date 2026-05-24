@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-chicken-mix",
+  "name": "Basic Chicken Mix",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "freezer meals",
+    "miscellaneous",
+    "mixes"
+  ],
+  "recipeIngredient": [
+    "6 pounds skinless boneless Chicken breast tenders",
+    "1/4 cup fresh parsley, chopped",
+    "1 pound celery",
+    "1 pound carrots",
+    "1 pound onions",
+    "1.5 teaspoons dried basil",
+    "1 dash salt",
+    "1 dash pepper"
+  ],
+  "recipeInstructions": "1. Cook the chicken tenders with fresh parsley, celery, carrots, and onions.\n2. Add dried basil, salt, and pepper to taste.\n3. Continue cooking until the chicken is no longer pink.\n4. Divide into 6 equal portions for individual dinners.",
+  "url": null
+}

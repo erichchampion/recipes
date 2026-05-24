@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-on-a-stick",
+  "name": "Plátano en un palito",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "desayunos para niños",
+    "aperitivos",
+    "bocadillos"
+  ],
+  "recipeIngredient": [
+    "1 plátano",
+    "2 palitos de artesanía",
+    "Yogur con sabor a vainilla",
+    "Migas de galleta o migas de bizcocho, trituradas"
+  ],
+  "recipeInstructions": "1. Cortar el plátano por la mitad a lo largo.\n2. Insertar un palito de artesanía en cada extremo plano de las mitades del plátano.\n3. Untar las mitades de plátano con yogur.\n4. Cubrirlos con migas.",
+  "url": null
+}

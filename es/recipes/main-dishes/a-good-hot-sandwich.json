@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "a-good-hot-sandwich",
+  "name": "Un buen sándwich caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 taza de queso americano en cubos",
+    "3 huevos cocidos duros, picados",
+    "1 lata de Spam, en cubos",
+    "2 cucharadas de pimiento verde picado",
+    "2 cucharadas de cebolla picada",
+    "2 cucharadas de aceitunas verdes picadas",
+    "2 cucharadas de pepinillos dulces picados",
+    "1/2 taza de mayonesa"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar el queso americano en cubos, los huevos cocidos duros picados, el Spam en cubos, el pimiento verde, la cebolla, las aceitunas verdes y los pepinillos dulces.\n2. Agregar la mayonesa a la mezcla y remover hasta que todos los ingredientes estén bien combinados.\n3. Cortar los panecillos por la mitad y colocar la mezcla en cada media parte.\n4. Envolver cada sándwich con papel de aluminio.\n5. Precalentar el horno a 163 °C (325 °F).\n6. Colocar los sándwiches envueltos en una bandeja para hornear y hornear durante 30 minutos, o hasta que estén calientes al tacto.",
+  "url": null
+}

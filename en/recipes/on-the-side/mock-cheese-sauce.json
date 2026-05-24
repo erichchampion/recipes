@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-cheese-sauce",
+  "name": "Mock Cheese Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "sauces",
+    "side dishes",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "1 lb Tofu",
+    "1/2 cup Nutritional yeast flakes",
+    "1/2 cup Raw cashews",
+    "1 cup Rice, nut, or soy milk",
+    "2 tbsp Margarine or butter",
+    "1 tbsp Lemon juice",
+    "1 tbsp Honey or sugar",
+    "1 tbsp Mustard",
+    "1/2 tsp Salt"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a blender and blend on high until smooth.\n2. Transfer the mixture to a saucepan and heat over low to medium heat, stirring occasionally, until heated through.\n3. Serve the sauce over your favorite vegetables or use it as desired (e.g., pizza topping, bread spread, quiche filling, lasagna layer, fondue ingredient).",
+  "url": null
+}

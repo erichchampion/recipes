@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberries-and-cream",
+  "name": "Fresas y crema",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "1 litro de fresas",
+    "1 litro de nata para montar",
+    "1/4 taza de azúcar"
+  ],
+  "recipeInstructions": "1. Coloca las fresas en un bol.\n2. Bate la nata hasta que empiece a espesarse.\n3. Añade el azúcar gradualmente mientras sigues batiendo la nata.\n4. Continúa batiendo hasta que la mezcla esté muy espesa.\n5. Usa una bolsa de pastelería para montar la crema batida sobre las fresas.",
+  "url": null
+}

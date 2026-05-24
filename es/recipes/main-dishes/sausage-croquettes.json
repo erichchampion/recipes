@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "sausage-croquettes",
+  "name": "Croquetas de salchicha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne de salchicha",
+    "4 huevos",
+    "1 taza de mantequilla",
+    "1 taza de leche",
+    "Pan rallado o migas de pan"
+  ],
+  "recipeInstructions": "1. Agregar pan rallado o migas de pan a un bol hasta que la mezcla esté lo suficientemente espesa como para mantener la forma.\n2. Mezclar la carne de salchicha, los huevos, la mantequilla y la leche hasta que estén bien combinados.\n3. Dar forma a la mezcla en croquetas oblongas.\n4. Espolvorear las croquetas con pan rallado adicional.\n5. Freír las croquetas en manteca hasta que estén doradas.",
+  "url": null
+}

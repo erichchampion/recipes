@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "colonial-bread-abm",
+  "name": "Pan de la época colonial",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1/2 cucharadita de levadura",
+    "3 tazas y media de harina (para pan)",
+    "1/3 taza de melaza",
+    "1 cucharadita de sal",
+    "3 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. Verter harina de maíz en un bol y verter agua hirviendo encima, removiendo hasta obtener una masa suave. Dejar enfriar durante 30 minutos.\n2. Mezclar los ingredientes restantes en la panificadora y añadir la mezcla de harina de maíz enfriada.\n3. Ajustar el control de horneado a \"12 en punto\". Seleccionar \"pan blanco\" y presionar Start (Comenzar).",
+  "url": null
+}

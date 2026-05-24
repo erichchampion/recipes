@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "sausage-corn-muffins",
+  "name": "Muffins de salchicha y maíz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina de uso general",
+    "3/4 taza de maicena",
+    "2 cucharaditas de polvo de hornear",
+    "2 cucharadas de azúcar",
+    "1/2 cucharadita de sal",
+    "1 3/4 tazas de leche",
+    "1 huevo batido",
+    "1/2 libra de salchicha de porco en trozos"
+  ],
+  "recipeInstructions": "1. Mezclar los cinco primeros ingredientes en un bol grande.\n2. Incorporar el resto de los ingredientes.\n3. Verter la masa en un molde para muffins engrasado, llenando cada espacio hasta las dos terceras partes.\n4. Hornear a 425°F durante 25 minutos o hasta que estén dorados.",
+  "url": null
+}

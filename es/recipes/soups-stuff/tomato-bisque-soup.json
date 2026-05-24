@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-bisque-soup",
+  "name": "Sopa de bisque de tomate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 litro de tomates enlatados (o 4 tomates frescos pelados)",
+    "1 cucharadita de bicarbonato sódico",
+    "2 cucharadas de harina (o sustituto del butter)",
+    "Leche (cantidad al gusto)",
+    "Sal y pimienta al gusto",
+    "Butter (opcional, a gusto)"
+  ],
+  "recipeInstructions": "1. Calentar la leche y mezclarla con la harina hasta obtener una mezcla homogénea.\n2. Llevar los tomates a ebullición (si son frescos, picarlos primero). Añadir el bicarbonato sódico y observar cómo forma espuma.\n3. Incorporar inmediatamente la mezcla de leche, sal, pimienta y butter al gusto.",
+  "url": null
+}

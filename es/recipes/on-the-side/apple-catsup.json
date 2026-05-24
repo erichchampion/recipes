@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-catsup",
+  "name": "Cataplas de manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "hierbas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "4 tazas de puré de manzana sin endulzar",
+    "1 cucharadita de jengibre",
+    "1 cucharadita de canela",
+    "1 clavo de olor",
+    "1 cucharadita de mostaza",
+    "1 cucharadita de sabor a cebolla",
+    "2 cucharaditas de sal",
+    "2 tazas de vinagre",
+    "1 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una olla grande.\n2. Calentar a fuego lento y remover ocasionalmente hasta que la mezcla espese.\n3. Retirar del fuego y dejar enfriar antes de usar.",
+  "url": null
+}

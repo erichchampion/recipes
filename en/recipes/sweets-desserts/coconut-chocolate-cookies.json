@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "coconut-chocolate-cookies",
+  "name": "Coconut Chocolate Cookies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 package chocolate cake mix",
+    "1 cup flaked coconut",
+    "2 eggs",
+    "1/2 cup oil"
+  ],
+  "recipeInstructions": "1. Mix all ingredients until combined.\n2. Grease a 15x10x1-inch pan.\n3. Pour the mixture into the prepared pan.\n4. Bake for 15-20 minutes at 350°F (175°C).\n5. Allow to cool, then cut into bars.",
+  "url": null
+}

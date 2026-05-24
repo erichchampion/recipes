@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "spiced-apples",
+  "name": "Spiced Apples",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "fruit"
+  ],
+  "recipeIngredient": [
+    "1 cup sugar",
+    "1/4 teaspoon ground nutmeg",
+    "2 apples",
+    "1/2 teaspoon ground cinnamon",
+    "1/2 cup water"
+  ],
+  "recipeInstructions": "1. Combine the sugar, cinnamon, and nutmeg in a saucepan.\n2. Add the water and bring to a boil for 1 minute.\n3. Peel and core the apples, then slice them into halves.\n4. Add a few slices at a time to the syrup, making sure they are covered.\n5. Cook until the apples are tender.\n6. Drain on wax paper and chill.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "venison-stew-3-2",
+  "name": "Venison Stew #3",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "2 lb stew meat",
+    "6 carrots",
+    "6 potatoes",
+    "2 tbsp oil",
+    "1 tsp Worcestershire sauce",
+    "1 medium onion",
+    "2 bay leaves",
+    "1 tsp salt",
+    "1 tsp sugar",
+    "1/2 tsp pepper",
+    "1/2 tsp paprika",
+    "1 dash allspice"
+  ],
+  "recipeInstructions": "1. Brown the cubed meat in the oil.\n2. Add two cups of water, then the rest of the ingredients (onion, Worcestershire sauce, spices).\n3. Cover and simmer for 1 1/2 hours.\n4. Remove bay leaves.\n5. Add carrots and potatoes.\n6. Cook another 30-45 minutes or until tender.",
+  "url": null
+}

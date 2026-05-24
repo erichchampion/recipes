@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "anise-tea",
+  "name": "Anise Tea",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "side dishes",
+    "tea"
+  ],
+  "recipeIngredient": [
+    "1 tablespoon Dried anise leaves or",
+    "2 teaspoons Fresh anise leaves",
+    "1 cup Boiling water",
+    "1 tablespoon Honey",
+    "1 Lemon slice (optional)"
+  ],
+  "recipeInstructions": "1. Place the dried anise leaves in a cup.\n2. Pour boiling water over the leaves.\n3. Let steep for 5 to 8 minutes.\n4. Stir in honey.\n5. Serve with a lemon slice.",
+  "url": null
+}

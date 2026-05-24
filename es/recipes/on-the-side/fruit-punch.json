@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-punch",
+  "name": "Batido de frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "batido",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 docena de naranjas",
+    "1 docena de limones",
+    "4 paquetes de Kool-Aid Fresa",
+    "4 paquetes de Kool-Aid Naranja",
+    "1 lata grande de jugo de piña",
+    "4 galones de agua",
+    "12 tazas de azúcar"
+  ],
+  "recipeInstructions": "1. Congela parte de la mezcla para hacer cubos de hielo para servir.\n2. Mezcla 4 tazas de agua y 12 tazas de azúcar en un recipiente grande. Calienta hasta que el azúcar se disuelva, luego déjalo enfriar a temperatura ambiente.\n3. Añade los paquetes de Kool-Aid cocidos (ambas fresa y naranja) a la mezcla de sirope enfriada.\n4. Vierte el jugo de piña.\n5. Chilla la mezcla a fondo.\n6. Sirve sobre hielo vertiéndolo en vasos y añadiendo cubos de hielo al gusto.",
+  "url": null
+}

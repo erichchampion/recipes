@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-cognac-ketchup",
+  "name": "Ketchup de cognac picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "condimentos",
+    "salsa",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de ketchup",
+    "1/2 taza de salsa picante",
+    "1/4 taza de cognac Courvoisier",
+    "2 cucharadas de mantequilla dulce",
+    "1 cucharada de vinagre balsámico",
+    "1/4 cucharadita de canela",
+    "1/3 cucharadita de salsa Tabasco"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un cazo pequeño.\n2. Calentar a fuego lento y dejar cocinar durante 15 minutos, removiendo ocasionalmente.\n3. Retirar del fuego y dejar enfriar ligeramente.\n4. Verter la mezcla en un bol pequeño.\n5. Refrigerar hasta que esté frío.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "naked-apple-pie",
+  "name": "Tarta de manzana desnuda",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "frutas",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 huevo",
+    "1/2 taza de azúcar moreno",
+    "1/2 taza de azúcar granulado",
+    "1 cucharadita de vainilla",
+    "Una pizca de sal",
+    "1/2 taza de harina",
+    "1 cucharadita de polvo de hornear",
+    "2 manzanas medianas (peladas y cortadas en rodajas)",
+    "1/2 taza de nueces picadas"
+  ],
+  "recipeInstructions": "1. En un bol mediano, bate el huevo. Añade el azúcar moreno, el azúcar granulado, la vainilla, la sal, la harina y el polvo de hornear. Mezcla bien hasta que todos los ingredientes estén integrados de manera uniforme.\n2. Incorpora las manzanas y las nueces hasta que estén bien combinadas.\n3. Vierte la mezcla en un molde para tarta engrasado de 23 cm.\n4. Hornea a 180 °C durante 30 minutos.\n5. Sirve con crema batida o helado.",
+  "url": null
+}

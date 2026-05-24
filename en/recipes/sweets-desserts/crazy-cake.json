@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "crazy-cake",
+  "name": "Crazy Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cups Flour",
+    "1 cup Sugar",
+    "3 tablespoons Cocoa Powder",
+    "1/2 teaspoon Salt",
+    "1 teaspoon Baking Soda",
+    "1 tablespoon Vinegar",
+    "6 tablespoons Oil",
+    "1 teaspoon Vanilla Extract",
+    "1 cup Cold Water"
+  ],
+  "recipeInstructions": "1. In a large bowl, mix the flour, sugar, cocoa powder, salt, and baking soda.\n2. Make three holes in the mixture: pour vinegar into one hole, oil into another, and vanilla extract into the third.\n3. Pour cold water over the entire mixture and stir until well combined.\n4. Transfer the batter to an 8-inch square pan.\n5. Bake at 350°F for 25 minutes.\n6. Dust the top with powdered sugar before serving.",
+  "url": null
+}

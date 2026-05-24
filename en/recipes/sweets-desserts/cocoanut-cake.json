@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cocoanut-cake",
+  "name": "Cocoanut Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "cakes",
+    "chocolate",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "3 cups Flour",
+    "3 teaspoons Baking powder",
+    "1/2 teaspoon Salt",
+    "1/2 cup Butter",
+    "4 Egg whites",
+    "1 1/2 cups Sugar (white)",
+    "1 cup Coconut",
+    "1 cup Water",
+    "1 teaspoon Lemon flavoring"
+  ],
+  "recipeInstructions": "1. Cream the butter and sugar until light and fluffy.\n2. Add the coconut, flour mixture (sifted with baking powder and salt), and water alternately to the butter mixture, mixing gently after each addition.\n3. Fold in the egg whites last, stirring just until combined.\n4. Pour the batter into a greased cake pan.\n5. Bake at 350°F for the recommended time, or until a toothpick inserted into the center comes out clean.",
+  "url": null
+}

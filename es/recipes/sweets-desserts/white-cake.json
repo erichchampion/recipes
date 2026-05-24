@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-cake",
+  "name": "Pastel blanco",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "1/2 taza de manteca",
+    "4 claras de huevo",
+    "1 cucharadita de extracto de almendras",
+    "2 tazas de harina de repostería",
+    "3 cucharaditas de polvo de hornear",
+    "1/4 cucharadita de sal",
+    "1/2 taza de leche",
+    "O",
+    "1/4 taza de leche evaporada diluida con",
+    "1/4 taza de agua"
+  ],
+  "recipeInstructions": "1. Batir el azúcar y la manteca hasta obtener una mezcla cremosa.\n2. Cernir juntos la harina, el polvo de hornear y la sal.\n3. Agregar los ingredientes cernidos alternativamente con la leche a la mezcla batida. Batir bien.\n4. Incorporar el extracto de almendras.\n5. Mezclar suavemente las claras de huevo batidas al punto de nieve.\n6. Verter la masa en moldes para pastel engrasados.\n7. Hornear en horno moderado (375 °F) durante unos 20 minutos.",
+  "url": null
+}

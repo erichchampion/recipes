@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-salad-recipe",
+  "name": "Receta de Ensalada de Patatas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "aperitivos",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "10 patatas medianas, cortadas en cubos y cocidas",
+    "1/2 pimiento verde, cortado en cubos",
+    "2 tallos de apio, cortados en cubos",
+    "3 cebolletas, picadas",
+    "1/2 taza de aceite de oliva",
+    "1 cucharadita de pimentón húngaro",
+    "1 cucharadita de albahaca",
+    "1 cucharadita de sal",
+    "1 cucharadita de orégano",
+    "1 cucharadita de ajo en polvo",
+    "1 pimiento rojo seco"
+  ],
+  "recipeInstructions": "1. Deja que las patatas se enfríen completamente en la nevera o, preferiblemente, déjalas reposar durante la noche.\n2. Mezcla los vegetales cortados con las patatas.\n3. Bate el aceite de oliva con las especias y hierbas hasta que estén bien combinadas.\n4. Vierte la mezcla sobre las patatas y mezcla suavemente.\n5. Refrigera hasta que esté lista para servir.",
+  "url": null
+}

@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "smoked-turkey-delight",
+  "name": "Delicia de pavo ahumado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "ensaladas",
+    "pavo"
+  ],
+  "recipeIngredient": [
+    "1 taza de mayonesa",
+    "2 cucharadas de jugo de limón",
+    "2 cucharadas de crema batida",
+    "1 1/2 cucharaditas de sal",
+    "1 cucharada de condimento hickory de Wright",
+    "1/4 cucharadita de polvo de curry",
+    "1 cucharadita de pimienta negra",
+    "4 tazas de pavo ahumado en cubos",
+    "1 taza de uvas sin semillas",
+    "2/3 taza de chícharos cortados",
+    "2/3 taza de nueces picadas finamente",
+    "1/2 taza de apio cortado en rodajas finas"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes del aderezo en un bol y reservar.\n2. En otro bol, combinar todos los demás ingredientes para la ensalada.\n3. Verter el aderezo sobre la mezcla de pavo y mezclar suavemente.",
+  "url": null
+}

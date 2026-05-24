@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "turkey-soup-continental-2",
+  "name": "Sopa de pavo continental",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de mantequilla o margarina",
+    "2 cucharadas de cebolla finamente picada",
+    "1 taza de pavo cocido",
+    "2 tazas de papas cortadas en dados",
+    "1 taza de apio cortado en dados",
+    "2 tazas de caldo de pavo",
+    "1 taza de maíz cremoso",
+    "2 tazas de crema semidesnatada",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimentón dulce",
+    "1/4 cucharadita de jengibre molido",
+    "1/8 cucharadita de pimienta negra",
+    "2 cucharadas de perejil picado"
+  ],
+  "recipeInstructions": "1. En una olla grande, saltear la cebolla en mantequilla derretida.\n2. Añadir el pavo, las papas, el apio y el caldo.\n3. Dejar cocinar a fuego lento hasta que las verduras estén tiernas pero crujientes.\n4. Incorporar el maíz, la crema y las especias.\n5. Calentar bien, removiendo ocasionalmente.\n6. Decorar con perejil y servir con pan tostado crujiente.",
+  "url": null
+}

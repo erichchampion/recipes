@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "whipped-frosting",
+  "name": "Glaseado batido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "tarta",
+    "postres",
+    "glaseado"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de harina (2 cucharadas soperas)",
+    "1/2 taza de leche",
+    "1/2 taza de azúcar",
+    "1 barra de mantequilla",
+    "1 cucharadita de vainilla"
+  ],
+  "recipeInstructions": "1. Calentar la leche y la harina a fuego medio, removiendo constantemente hasta espesar.\n2. Retirar del fuego y dejar enfriar completamente.\n3. En un bol aparte, batir el azúcar, la mantequilla y la vainilla durante 4 minutos.\n4. Añadir gradualmente la mezcla de leche y harina a la mezcla de azúcar.\n5. Batir durante 4 minutos adicionales hasta obtener una textura suave.\n6. Extender la crema sobre el pastel enfriado.",
+  "url": null
+}

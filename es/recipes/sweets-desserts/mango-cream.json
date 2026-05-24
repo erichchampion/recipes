@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "mango-cream",
+  "name": "Crema de mango",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "lácteos",
+    "postres",
+    "fruta"
+  ],
+  "recipeIngredient": [
+    "2 mangos grandes",
+    "2 cucharadas de jugo de limón o lima",
+    "1/4 taza de jarabe de azúcar",
+    "1 taza de crema batida"
+  ],
+  "recipeInstructions": "1. Cortar la pulpa del mango en trozos.\n2. Procesar la pulpa de mango con jugo de limón y jarabe de azúcar hasta obtener una mezcla suave y espesa.\n3. Verter la puré de mango en una máquina de helados.\n4. Congelar según las instrucciones del fabricante.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "best-banana-bread",
+  "name": "El mejor pan de plátano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla",
+    "1 taza de azúcar",
+    "2 huevos, batidos",
+    "4 plátanos, finamente machacados",
+    "1 1/2 tazas de harina",
+    "1 cucharadita de bicarbonato de sodio",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Batir la mantequilla y el azúcar hasta que queden suaves.\n2. Agregar los huevos y los plátanos machacados a la mezcla. Mezclar bien.\n3. Cernir la harina, el bicarbonato de sodio y la sal en un bol separado.\n4. Añadir gradualmente los ingredientes cernidos a la mezcla de mantequilla, removiendo suavemente.\n5. Incorporar el extracto de vainilla.\n6. Verter la masa en un molde para pan engrasado y enharinado.\n7. Hornear a 350 °F durante 60 minutos.\n8. Dejar enfriar antes de servir. Se conserva bien en el refrigerador. Rendimiento: 1 pan.",
+  "url": null
+}

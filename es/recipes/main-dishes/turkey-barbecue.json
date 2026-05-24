@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "turkey-barbecue",
+  "name": "Barbacoa de pavo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "pavo"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de agua",
+    "1/4 taza de cebolla, picada",
+    "1/4 taza de pimiento verde, picado",
+    "1 libra de carne molida de pavo",
+    "1/4 taza de vinagre de sidra",
+    "2 cucharadas de azúcar moreno",
+    "1 cucharadita de mostaza en polvo (seca)",
+    "1 cucharadita de comino molido",
+    "1 cucharadita de pimentón dulce",
+    "1 cucharadita de salsa Worcestershire",
+    "1/4 cucharadita de pimienta negra",
+    "1 lata de 8 onzas de salsa de tomate",
+    "8 panes Kaiser, cortados por la mitad"
+  ],
+  "recipeInstructions": "1. Calentar el agua en una sartén de 10 pulgadas a fuego medio.\n2. Cocinar la cebolla y el pimiento verde en el agua durante unos 2 minutos, revolviendo ocasionalmente, hasta que estén crujientes y tiernos.\n3. Añadir la carne de pavo y cocinar durante otros 4-5 minutos, revolviendo ocasionalmente, hasta que ya no sea rosada.\n4. Incorporar los ingredientes restantes (excepto los panes).\n5. Reducir el fuego y cubrir. Dejar cocinar a fuego lento unos 20 minutos, revolviendo ocasionalmente, hasta que esté caliente.\n6. Rellenar los panes con la mezcla de pavo.",
+  "url": null
+}

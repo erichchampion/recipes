@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cooked-chicken",
+  "name": "Cooked Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "2 pounds chicken breasts or parts (up to 3 lbs)",
+    "4 cups water",
+    "2 tablespoons chopped parsley",
+    "2 teaspoons garlic powder",
+    "1 bay leaf",
+    "1 tablespoon minced onion",
+    "1 teaspoon seasoning salt"
+  ],
+  "recipeInstructions": "1. Place all ingredients in a Crock-Pot.\n2. Cook on Low for 6 to 8 hours, or on High for 3 to 4 hours.\n3. Remove chicken from the cooking liquid and debone if necessary.\n4. Discard the bay leaf.\n5. Chop the chicken meat for use in casseroles or other dishes.",
+  "url": null
+}

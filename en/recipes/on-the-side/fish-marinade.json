@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-marinade",
+  "name": "Fish Marinade",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "american",
+    "cajun",
+    "ethnic",
+    "sauces"
+  ],
+  "recipeIngredient": [
+    "2 cups Chablis wine",
+    "2 tablespoons Lemon juice",
+    "2 teaspoons Salt",
+    "2 tablespoons Creole mustard",
+    "1/2 teaspoon Ground cayenne pepper"
+  ],
+  "recipeInstructions": "1. Mix all ingredients together and stir well.\n2. Use as a marinade for fish, then use the remaining mixture as a basting sauce when cooking the fish.",
+  "url": null
+}

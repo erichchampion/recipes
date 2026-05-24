@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "farm-style-stew",
+  "name": "Estofado de Estilo Campesino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "1,5 kg de carne de res para estofar, cortada en cubos de 1 pulgada",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "1/2 cucharadita de pimentón dulce",
+    "1/2 cucharadita de sal sazonada",
+    "4 calabacines medianos, cortados en rodajas de 1 pulgada",
+    "2 tazas de agua caliente",
+    "2 cucharadas de salsa para filete",
+    "1 lata (400 g) de maíz entero, escurrido",
+    "3 cucharadas de almidón de maíz",
+    "3 cucharadas de agua fría"
+  ],
+  "recipeInstructions": "1. Espolvorea la carne con sal, pimienta, pimentón y sal sazonada.\n2. Coloca la carne en una olla de cocción lenta con los calabacines; vierte el agua caliente y la salsa para filete encima.\n3. Tapa y cocina a fuego lento durante 7-9 horas hasta que la carne esté tierna.\n4. Cambia la configuración a alto.\n5. Añade el maíz.\n6. Disuelve el almidón de maíz en agua fría; agrégalo a la mezcla de carne.\n7. Cocina a fuego alto durante 15-20 minutos.",
+  "url": null
+}

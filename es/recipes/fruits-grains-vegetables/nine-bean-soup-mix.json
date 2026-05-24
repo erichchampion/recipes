@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "nine-bean-soup-mix",
+  "name": "Mezcla de sopa de nueve frijoles",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "americano",
+    "frijoles",
+    "miscelánea",
+    "mezclas"
+  ],
+  "recipeIngredient": [
+    "1 libra de frijoles alubias grandes",
+    "1 libra de limas blancas",
+    "1 libra de frijoles negros",
+    "1 libra de frijoles rojos (pinto)",
+    "1 libra de guisantes verdes",
+    "1 libra de lentejas",
+    "1 libra de garbanzos",
+    "1 libra de cebada"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes en un bol muy grande.\n2. Divide la mezcla en partes iguales en 9 bolsas, con aproximadamente 2 tazas por bolsa.",
+  "url": null
+}

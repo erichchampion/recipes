@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegan-cole-slaw",
+  "name": "Ensalada de col vegana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 manzana Granny Smith, sin pelar, descorazada y cortada en cubos",
+    "2 tazas de colinas (roja o verde) cortadas en tiras",
+    "Una buena cantidad de pasas",
+    "1/4 cucharadita de semillas de apio",
+    "2 cucharadas de vinagre de manzana",
+    "1 cucharada de miel",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Mezcla las manzanas, el colin y las pasas en un bol; haz un movimiento suave para combinar.\n2. En un recipiente aparte, combina el vinagre de manzana, la miel, las semillas de apio, la sal y la pimienta.\n3. Vierte el aderezo sobre las verduras y mezcla suavemente hasta que queden bien cubiertas.\n4. Sirve inmediatamente o refrigera durante unos 30 minutos antes de servir.",
+  "url": null
+}

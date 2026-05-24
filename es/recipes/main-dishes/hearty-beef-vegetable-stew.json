@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "hearty-beef-vegetable-stew",
+  "name": "Estofado abundante de carne y verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carnes",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 cucharaditas de especia Old Bay",
+    "1,5 kg de carne de res tipo chuck, desmenuzada",
+    "4 patatas, cortadas en trozos",
+    "3 zanahorias, en rodajas",
+    "1/2 cebolla, en rodajas",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. Espolvorea 1 cucharadita de la especia Old Bay sobre la carne.\n2. Espolvorea el resto de la especia sobre las verduras.\n3. Coloca todos los ingredientes en una olla de cocción lenta y cocina a temperatura alta durante seis horas.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-chopped-chicken",
+  "name": "Pollo picante troceado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "10 onzas de pechuga de pollo cocida",
+    "2 cebolletas picadas",
+    "3 cebollas verdes picadas",
+    "1 pimiento verde (jalapeno o serrano), cortado en rodajas",
+    "2 cucharadas de jugo de limón",
+    "1 cucharada de salsa de soja clara",
+    "Una pizca de polvo de chile (de color rojo seco)",
+    "10 hojas de menta",
+    "5 hojas de cilantro"
+  ],
+  "recipeInstructions": "1. Cortar la pechuga de pollo en trozos pequeños.\n2. Mezclar todos los ingredientes excepto el adorno en un bol.\n3. Espolvorear con hojas de menta y cilantro picadas.\n4. Servir con arroz blanco.",
+  "url": null
+}

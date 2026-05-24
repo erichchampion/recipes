@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "blueberry-sauce",
+  "name": "Blueberry Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "sauces"
+  ],
+  "recipeIngredient": [
+    "10 oz Blueberries, fresh or frozen",
+    "1/2 cup Water",
+    "1/2 cup Granulated sugar",
+    "1 tbsp Cornstarch",
+    "1 tbsp Lemon juice"
+  ],
+  "recipeInstructions": "1. Combine all ingredients together in a saucepan.\n2. Stir well to ensure all the cornstarch is dissolved.\n3. Heat and stir over medium heat until boiling.\n4. Reduce heat to low and simmer gently for about 5 minutes until berries release their juices.\n5. Serve warm or cold.",
+  "url": null
+}

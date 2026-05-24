@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "bean-casserole",
+  "name": "Guiso de Frijoles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "frijoles",
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lb de hamburguesa molida",
+    "1/2 lb de tocino",
+    "1 cebolla grande",
+    "1 lata de frijoles lima",
+    "1 lata de frijoles horneados",
+    "1 lata de frijoles negros",
+    "1/2 taza de azúcar moreno",
+    "1/2 taza de ketchup",
+    "2 cucharadas de vinagre",
+    "1 cucharadita de mostaza preparada"
+  ],
+  "recipeInstructions": "1. Preparar los ingredientes: dorar la hamburguesa y cocinar el tocino.\n2. Picar finamente la cebolla.\n3. Mezclar todos los frijoles en un bol.\n4. Combinar el azúcar moreno, el ketchup, el vinagre y la mostaza.\n5. Verter la mezcla sobre los frijoles y mezclar bien.\n6. Hornear a 180°C (325°F) durante 1 hora y media hasta que esté caliente.",
+  "url": null
+}

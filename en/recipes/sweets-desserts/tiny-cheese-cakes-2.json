@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "tiny-cheese-cakes-2",
+  "name": "Tiny Cheese Cakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cake",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 whole vanilla wafer cookie",
+    "2 packages (8 oz each) cream cheese, no fat",
+    "3/4 cup sugar",
+    "2 eggs or egg substitute"
+  ],
+  "recipeInstructions": "1. Place a vanilla wafer cookie in the bottom of a paper muffin cup liner.\n2. Mix together the cream cheese, sugar, and eggs (or egg substitute).\n3. Garnish with red cherry or green and red candied cherries for Christmas if desired.\n4. Pour the mixture into the muffin cups.\n5. Bake at 375 degrees Fahrenheit for 15 minutes.\nWARNING: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

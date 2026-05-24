@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-split-bread",
+  "name": "Banana Split Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads",
+    "chocolate"
+  ],
+  "recipeIngredient": [
+    "1 pkg Yeast",
+    "3 cups Better for Bread flour",
+    "2 tbsp Gluten",
+    "2 tbsp Sugar",
+    "1 tsp Salt",
+    "1/8 tsp Baking soda",
+    "1/3 cup Instant nonfat dry milk",
+    "1/3 cup Walnuts, broken",
+    "1 Egg",
+    "2 tbsp Vegetable oil",
+    "1 tsp Vanilla",
+    "4 oz Banana, 1 medium sliced",
+    "10 Strawberries, frozen/thawed",
+    "1/3 cup Crushed pineapple, liquid drained",
+    "1/3 cup Pineapple juice, heated from fresh pineapple",
+    "1/2 cup Chocolate chips",
+    "4 cups Maraschino cherries, liquid drained"
+  ],
+  "recipeInstructions": "1. Place all ingredients (EXCEPT CHOCOLATE CHIPS AND CHERRIES) into the inner pan in the order listed.\n2. Select white bread and push \"Start.\"\n3. Add the chocolate chips and cherries when the Auto Bakery \"beeps,\" 88 minutes into the cycle.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "salami",
+  "name": "Salami",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "aperitivos",
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes",
+    "salchichas"
+  ],
+  "recipeIngredient": [
+    "5 libras de carne de hamburguesa",
+    "5 cucharaditas de condimento para carnes Morton Tender Quick",
+    "2 cucharadas de semillas de mostaza",
+    "3 cucharaditas de pimienta negra molida gruesa",
+    "2 cucharaditas de humo líquido de hickory",
+    "3 cucharaditas de sal de ajo"
+  ],
+  "recipeInstructions": "1. Mezclar bien con las manos y refrigerar durante 24 horas.\n2. Mezclar nuevamente y volver a refrigerar durante otras 24 horas.\n3. Al tercer día, mezclar y dar forma a los rollos con un diámetro aproximado de 3 pulgadas.\n4. Hornear en la rejilla inferior del horno a 175 °F (79 °C) durante 8 horas, dándoles la vuelta cada 2 horas.\n5. Alternativamente, se puede utilizar 3 libras de carne de hamburguesa y 2 libras de carne de lomo (sin grasa).",
+  "url": null
+}

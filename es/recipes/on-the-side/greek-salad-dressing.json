@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "greek-salad-dressing",
+  "name": "Aderezo para ensalada griega",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "ensaladas",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 oz de queso feta, desmenuzado",
+    "1 cucharadita de mostaza dijon",
+    "2 cucharadas de perejil picado",
+    "1 cebolla verde, en rodajas",
+    "1 cucharada de zumo de limón",
+    "1 cucharadita de ajo picado",
+    "2 cucharadas de aceite de oliva"
+  ],
+  "recipeInstructions": "1. En una licuadora, mezcle todos los ingredientes hasta obtener una consistencia homogénea.",
+  "url": null
+}

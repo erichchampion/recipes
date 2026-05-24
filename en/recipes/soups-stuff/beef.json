@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef",
+  "name": "Beef",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "1 pound beef (cubed)",
+    "5 large carrots (peeled and chopped)",
+    "4 medium potatoes (peeled and diced)",
+    "1 medium onion (peeled)",
+    "1 can tomato soup",
+    "4 bay leaves",
+    "4 beef bouillon cubes",
+    "salt and pepper"
+  ],
+  "recipeInstructions": "1. Place all ingredients into a crockpot.\n2. If you prefer, chop the onion before adding it; my boyfriend dislikes onions, so I leave them whole to maintain flavor but can remove them later.\n3. Fill the remaining space in the pot with water and stir.\n4. Turn on high heat and let cook for 6 to 8 hours.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "smoothie",
+  "name": "Batido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 plátano congelado",
+    "1/4 taza de arándanos y frambuesas mezclados congelados",
+    "2 cucharadas de puré de manzana",
+    "2 cucharadas de concentrado de jugo de naranja y piña congelado",
+    "1/4 taza escaso de leche de soja ligera con vainilla"
+  ],
+  "recipeInstructions": "1. Agregar el plátano congelado a la licuadora.\n2. Agregar los arándanos y frambuesas mezclados congelados.\n3. Agregar el puré de manzana.\n4. Agregar el concentrado de jugo de naranja y piña congelado.\n5. Agregar la leche de soja ligera con vainilla.\n6. Licuar hasta obtener una textura suave.",
+  "url": null
+}

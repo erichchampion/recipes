@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "sauce-for-grilled-fish",
+  "name": "Salsa para pescado a la parrilla",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pescado",
+    "italiano",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 huevos, cocidos y picados",
+    "1/2 taza de aceite de oliva",
+    "4 filetes de anchoa",
+    "7 gotas de jugo de limón"
+  ],
+  "recipeInstructions": "1. Pica las yemas de huevo y los filetes de anchoa por separado.\n2. Mezcla en un mortero la yema de huevo picada con los filetes de anchoa.\n3. Machaca hasta obtener una pasta suave.\n4. Añade el aceite de oliva poco a poco, batiendo continuamente, hasta que la salsa adquiera una textura cremosa.\n5. Incorpora el jugo de limón.\n6. Sirve sobre pescado a la parrilla o hervido.",
+  "url": null
+}

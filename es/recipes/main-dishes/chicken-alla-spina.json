@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-alla-spina",
+  "name": "Pollo Alla Spina",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "italiano",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "Pollo entero, cortado en trozos para servir",
+    "Aceite para freír",
+    "3 cebollas grandes",
+    "Sal y pimienta al gusto",
+    "1 cucharada de orégano",
+    "4 onzas (120 ml) de vino tinto"
+  ],
+  "recipeInstructions": "1. Dorar el pollo en aceite y reservar.\n2. Saltear ligeramente las cebollas en el mismo aceite.\n3. Colocar el pollo en una bandeja para hornear, cubrir con las cebollas y espolvorear sal, pimienta y orégano de manera uniforme sobre todo.\n4. Cubrir la bandeja y hornear a 180 °C durante 30 minutos.\n5. Verter el vino sobre todo, luego hornear por 30 minutos adicionales, removiendo ocasionalmente para aflojar la salsa.\nServir con una hogaza de pan italiano.",
+  "url": null
+}

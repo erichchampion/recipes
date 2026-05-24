@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "crispy-chicken-casserole",
+  "name": "Casserola de Pollo Crujiente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "pollo",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 tazas de pollo cocido, picado",
+    "1 taza de apio finamente picado",
+    "2 cucharadas de cebolla picada",
+    "1/2 taza de nueces picadas groseramente",
+    "3 huevos duros, en rodajas",
+    "1 lata de sopa de pollo con crema",
+    "3/4 taza de mayonesa o aderezo para ensalada",
+    "1 cucharada de jugo de limón",
+    "1/4 cucharadita de pimienta",
+    "2 tazas de patatas fritas, trituradas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 450 °F (230 °C).\n2. En un bol grande, mezclar todos los ingredientes excepto las patatas fritas.\n3. Revolver bien hasta que los ingredientes estén distribuidos uniformemente.\n4. Verter la mezcla en un molde para hornear de 2 cuartos engrasado.\n5. Cubrir con las patatas fritas.\n6. Hornear durante 15-20 minutos o hasta que esté hecho.",
+  "url": null
+}

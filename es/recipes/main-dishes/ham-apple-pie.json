@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-apple-pie",
+  "name": "Pastel de manzana con jamón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "tartas de cena",
+    "plato principal",
+    "carnes",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "4 lb de jamón cocido, picado finamente",
+    "1 cubo de caldo (disuelto en agua)",
+    "5 manzanas verdes, picadas",
+    "2 cebollas, picadas finamente",
+    "1 cucharadita de salvia",
+    "1 cucharada de mezcla de especias para verduras"
+  ],
+  "recipeInstructions": "1. En un plato hondo para hornear, alterna capas de jamón y manzanas.\n2. Espolvorea cada capa con cebolla y especias.\n3. Humedece cada capa con caldo.\n4. Cubre la última capa con puré de papas.\n5. Cepilla las puntas de las papas con mantequilla derretida.\n6. Hornea a 180 °C durante 1 hora y media a 2 horas hasta que el jamón esté bien caliente y las puntas de las papas estén doradas.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cafe-mexicano-4",
+  "name": "Cafe' Mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "american",
+    "beverages",
+    "ethnic",
+    "mexican"
+  ],
+  "recipeIngredient": [
+    "1 oz Coffee liqueur",
+    "1/2 oz Brandy",
+    "1 tbsp Chocolate syrup",
+    "1 dash Ground cinnamon",
+    "1 cup Hot coffee",
+    "1 cup Sweetened whipped cream"
+  ],
+  "recipeInstructions": "1. Pour coffee liqueur into a coffee cup or mug.\n2. Add brandy to the same container.\n3. Stir in chocolate syrup and ground cinnamon.\n4. Fill the mug with hot coffee, leaving some room at the top.\n5. Top with sweetened whipped cream.\nEnjoy your Cafe' Mexicano!",
+  "url": null
+}

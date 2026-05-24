@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "roast-chicken-ii",
+  "name": "Pollo asado II",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "italiano",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "4 lb de pollo para asar",
+    "2 dientes de ajo, picados",
+    "Sal/pimienta",
+    "4 cucharadas de mantequilla o aceite de oliva",
+    "1/2 taza de vinagre de vino tinto",
+    "5 papas, cortadas en cuartos",
+    "1/2 taza de pasas",
+    "1/2 taza de queso Romano rallado",
+    "1/2 taza de piñones",
+    "2 cucharaditas de albahaca"
+  ],
+  "recipeInstructions": "1. Cortar el pollo en trozos para servir y lavar y secar bien.\n2. Untar la bandeja para hornear con mantequilla.\n3. Disponer las papas alrededor del borde de la bandeja; agregar el pollo, colocándolo con la piel hacia abajo.\n4. Espolvorear con sal, pimienta, perejil, ajo picado, pasas, queso Romano, piñones y albahaca.\n5. Poner trocitos de mantequilla sobre el pollo.\n6. Rocíar con vinagre.\n7. Hornear en horno precalentado a 180 °C durante 1 hora.",
+  "url": null
+}

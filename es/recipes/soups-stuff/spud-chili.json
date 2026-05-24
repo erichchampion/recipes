@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "spud-chili",
+  "name": "Chili de patatas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "frijoles",
+    "chile",
+    "plato principal",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 cebolla grande, picada",
+    "2 cucharadas de aceite",
+    "4 dientes de ajo, picados",
+    "1 pimiento jalapeño, sin semillas y picado",
+    "1 cucharadita de polvo de chile",
+    "1 cucharadita de comino en polvo",
+    "1 cucharadita de allspice molido",
+    "1 cucharadita de albahaca seca",
+    "1/2 cucharadita de orégano seco",
+    "2 latas de 400 g de tomates triturados",
+    "3 tazas de caldo de verduras",
+    "3 patatas, peladas y cortadas en cubos",
+    "1 pimiento rojo, picado finamente",
+    "2 latas de 400 g de frijoles pintos, enjuagados y escurridos",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. En una olla holandesa, saltea la cebolla en el aceite a fuego alto hasta que esté dorada.\n2. Añade el ajo, el jalapeño, el polvo de chile, el comino, el allspice, la albahaca y el orégano. Saltea, removiendo con frecuencia, unos 2 minutos.\n3. Agrega los tomates con su jugo y el caldo de verduras, desmenuzando las migas doradas del fondo de la sartén.\n4. Lleva a ebullición.\n5. Añade las patatas y el pimiento rojo; vuelve a llevar a ebullición.\n6. Cocina, sin cubrir, a fuego medio durante 15 minutos, removiendo ocasionalmente.\n7. Agrega los frijoles y cocina otros 10-15 minutos.\n8. Sazona con sal y pimienta al gusto.",
+  "url": null
+}

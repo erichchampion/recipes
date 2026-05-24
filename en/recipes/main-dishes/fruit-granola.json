@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-granola",
+  "name": "Fruit Granola",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "cereals",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "4 cups Rolled oats",
+    "1 3/4 cups Rolled wheat flakes",
+    "1 cup Sunflower seeds",
+    "1 cup Chopped nuts (almonds, walnuts, pecans or a combination)",
+    "1/3 cup Toasted sesame seeds",
+    "1/3 cup Sunflower oil",
+    "1/4 cup Honey",
+    "1/2 cup Raisins",
+    "1/2 cup Dried apricots",
+    "1/2 cup Dried peaches",
+    "1/2 cup Dried apples"
+  ],
+  "recipeInstructions": "1. Preheat oven to 400°F.\n2. Blend oats, wheat flakes, sunflower seeds, chopped nuts (almonds, walnuts, pecans or a combination), sesame seeds, oil, and honey in a large bowl until combined.\n3. Transfer the mixture to a large roasting pan and spread it evenly.\n4. Bake for about 15 minutes, stirring occasionally, until lightly browned at the edges.\n5. Let cool completely before stirring in the fruit.\n6. Store in an airtight container.",
+  "url": null
+}

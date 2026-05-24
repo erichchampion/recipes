@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruitballs",
+  "name": "Bolas de fruta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de cerezas",
+    "1/4 lb de nueces",
+    "1/4 lb de coco rallado",
+    "1/4 lb de almendras",
+    "1/4 lb de dátiles"
+  ],
+  "recipeInstructions": "1. Triturar todos los ingredientes en una procesadora de alimentos.\n2. Añadir un huevo batido.\n3. Formar bolas pequeñas con la mezcla.\n4. Rodar las bolas en azúcar blanco.",
+  "url": null
+}

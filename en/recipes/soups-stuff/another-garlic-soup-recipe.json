@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "another-garlic-soup-recipe",
+  "name": "Another Garlic Soup Recipe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "appetizers",
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "1 cup Garlic, peeled and minced",
+    "1 tbsp Onion, chopped",
+    "2 tbsp Olive oil",
+    "2/3 cup Tomatoes, chopped",
+    "1 quart Stock",
+    "Pepper",
+    "Croutons"
+  ],
+  "recipeInstructions": "1. Combine garlic and onion in a bowl.\n2. Heat olive oil in a large pot.\n3. Add garlic and onion to the pot and sauté until soft, but not browned.\n4. Add chopped tomatoes and stir well into the mixture.\n5. After a few minutes, add stock and pepper, stirring continuously.\n6. Simmer for 15 minutes.\n7. Season with salt if desired (optional).\n8. Serve with croutons.",
+  "url": null
+}

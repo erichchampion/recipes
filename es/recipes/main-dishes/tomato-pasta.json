@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-pasta",
+  "name": "Pasta de tomate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "3 tazas de harina sin blanquear (pasada por el colador)",
+    "1/2 cucharadita de sal",
+    "2 huevos grandes",
+    "2 cucharadas de pasta de tomate",
+    "1 1/2 cucharaditas de aceite de oliva virgen extra"
+  ],
+  "recipeInstructions": "1. Montar la máquina de pasta con la matriz deseada para la forma de pasta.\n2. Colocar la harina en la máquina de pasta.\n3. Girar la máquina a MIX y combinar lentamente los ingredientes líquidos (huevos, pasta de tomate, aceite de oliva) con la harina en la máquina.\n4. Girar la máquina a EXTRUIR y cortar la masa a la longitud deseada.\n5. Cocinar durante 2 minutos o hasta que esté seca, luego cocinar la pasta seca unos 10 minutos.\n6. Servir con salsa de tomate-alfredo.",
+  "url": null
+}

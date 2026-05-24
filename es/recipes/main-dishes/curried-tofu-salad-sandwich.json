@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "curried-tofu-salad-sandwich",
+  "name": "Sándwich de ensalada de tofu curri",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "comida ligera",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de mayonesa baja en grasa",
+    "1 cucharadita de mostaza dijon",
+    "1/2 cucharadita de cúrcuma",
+    "1/2 cucharadita de polvo de curry",
+    "8 onzas (aprox. 225 g) de tofu firme, bajo en grasa y bien escurrido",
+    "1/2 taza de zanahorias ralladas",
+    "1 cucharadita de cebolla finamente picada",
+    "Sal y pimienta al gusto",
+    "2 grandes panes pita integrales cortados por la mitad"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar la mayonesa, la mostaza dijon, la cúrcuma y el polvo de curry.\n2. Incorporar suavemente el tofu, las zanahorias ralladas y la cebolla picada.\n3. Añadir sal y pimienta al gusto y remover hasta combinar todos los ingredientes.\n4. Refrigerar la mezcla durante unos 30 minutos.\n5. Rellenar con la mezcla los bolsillos de los panes pita y servir.",
+  "url": null
+}

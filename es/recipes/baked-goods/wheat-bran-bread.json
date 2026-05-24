@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "wheat-bran-bread",
+  "name": "Pan de salvado de trigo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 taza de buttermilk",
+    "1 1/2 tazas de harina de pan",
+    "1/2 taza de salvado de avena",
+    "1/2 taza de harina de trigo integral",
+    "1 cucharadita de sal",
+    "2 cucharadas de azúcar moreno",
+    "1 cucharada de mantequilla",
+    "1 1/2 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "1. Verter todos los ingredientes en el pan de la máquina en el orden recomendado por el fabricante.\n2. Si su máquina tiene un ajuste para harina integral, úselo.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-dessert-fondue",
+  "name": "Fondú de postre de chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "chocolate"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de mantequilla o margarina",
+    "1 taza de malvaviscos en miniatura",
+    "1/3 taza de crema batida",
+    "200 g de bombones de chocolate con almendras",
+    "2 cucharadas de leche"
+  ],
+  "recipeInstructions": "1. Romper el chocolate en trozos.\n2. Untar el interior de la olla de cocción lenta con mantequilla.\n3. Colocar los trozos de chocolate, los malvaviscos y la leche en la olla.\n4. Tapar y calentar a fuego lento durante 15 minutos, removiendo ocasionalmente hasta que se derrita y quede suave.\n5. Añadir gradualmente la crema batida al gusto.\n6. Continuar calentando a fuego lento durante 30 minutos adicionales.\n7. Servir con trozos de bizcocho para bocados, malvaviscos o fruta.",
+  "url": null
+}

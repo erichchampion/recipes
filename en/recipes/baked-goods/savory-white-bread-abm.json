@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "savory-white-bread-abm",
+  "name": "Savory White Bread ABM",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 package Active Dry Yeast",
+    "3 cups Flour",
+    "1/4 cup Instant Non-Fat Dry Milk",
+    "1 tbsp Sugar",
+    "1 tsp Salt",
+    "3/4 cup Water",
+    "2 tablespoons Olive Oil",
+    "1 Egg"
+  ],
+  "recipeInstructions": "1. Place all the ingredients in the order listed in an automatic bread machine.\n2. Select \"White Bread\" setting.\n3. Press \"Start.\"",
+  "url": null
+}

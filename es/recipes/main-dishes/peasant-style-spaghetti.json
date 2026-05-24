@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "peasant-style-spaghetti",
+  "name": "Spagueti estilo campesino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de ajo picado",
+    "1 libra de tomates, pelados y cortados en trozos",
+    "1 cucharada de aceite de oliva",
+    "5 onzas de prosciutto, picado",
+    "1/2 cucharadita de pimienta negra",
+    "1/4 cucharadita de orégano molido",
+    "12 onzas de espagueti cocido y escurrido",
+    "Perejil picado",
+    "Queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. En una sartén grande, calienta el aceite a fuego medio-alto.\n2. Añade el ajo y los tomates; sofríe hasta que estén tiernos, aproximadamente 5 minutos.\n3. Incorpora el prosciutto, la pimienta negra y el orégano.\n4. Reduce el fuego a bajo y deja que hierva a fuego lento durante 2-3 minutos hasta que todos los ingredientes se mezclen bien.\n5. Escurre el espagueti y añádelo a la sartén con la salsa.\n6. Revuelve todo junto y espolvorea con perejil picado.\n7. Sirve caliente, con queso parmesano rallado por encima.",
+  "url": null
+}

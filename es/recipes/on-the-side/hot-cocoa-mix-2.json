@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-cocoa-mix-2",
+  "name": "Mezcla de cacao caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "chocolate",
+    "varios",
+    "mezclas"
+  ],
+  "recipeIngredient": [
+    "1 taza Cremora (crema vegetal)",
+    "1 taza leche desnatada en polvo",
+    "3/4 taza azúcar (o más, hasta 1 taza)",
+    "1/2 taza cacao sin azúcar",
+    "1/4 taza café instantáneo (para versión Mocha)",
+    "1 cucharadita de canela molida (para versión mexicana)"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar la cremora y la leche desnatada en polvo.\n2. Añadir el azúcar gradualmente hasta alcanzar 1 taza.\n3. Incorporar el cacao sin azúcar a la mezcla.\n4. Para una versión Mocha, agregar el café instantáneo.\n5. Para una versión mexicana, espolvorear canela molida sobre la mezcla.",
+  "url": null
+}

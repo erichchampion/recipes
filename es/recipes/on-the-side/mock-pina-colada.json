@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-pina-colada",
+  "name": "Mock Piña Colada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 lata (8 onzas) de piña triturada, escurrida",
+    "2 1/2 tazas de helado o yogur congelado a la vainilla, suavizado",
+    "1 cucharadita de extracto de ron",
+    "1 cucharadita de extracto de coco",
+    "1 cucharadita de azúcar en polvo",
+    "cubos de hielo"
+  ],
+  "recipeInstructions": "1. Mezclar los primeros cinco ingredientes en un recipiente de licuadora eléctrica.\n2. Añadir cubos de hielo hasta alcanzar aproximadamente 4 tazas; procesar hasta obtener una textura suave.\n3. Detener y raspar los lados si es necesario.\n4. Servir inmediatamente.\n5. Rinde para 4 tazas.",
+  "url": null
+}

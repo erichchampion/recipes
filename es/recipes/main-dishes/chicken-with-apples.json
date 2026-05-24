@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-with-apples",
+  "name": "Pollo con Manzanas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "francés",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "4 lb de pollo cortado en trozos",
+    "2 cucharadas de mantequilla",
+    "2 cucharadas de aceite",
+    "1/3 taza de brandy",
+    "4 manzanas peladas, sin corazón y cortadas en rodajas",
+    "2 cebollas picadas",
+    "1 taza de sidra de manzana o jugo de manzana",
+    "para un toque especial, usar calvados",
+    "1 taza de crema agria",
+    "1 cucharada de harina",
+    "2 cucharadas de perejil picado",
+    "1 cucharadita de tomillo",
+    "1/2 cucharadita de pimentón dulce",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. En una cacerola, calienta la mantequilla y el aceite, y dora el pollo; sazona con sal y pimienta si lo deseas.\n2. Calienta el brandy en un cazo, enciéndelo y viértelo sobre el pollo. Deja que la llama se apague por sí sola.\n3. Añade las manzanas y la cebolla.\n4. Mezcla la sidra, la crema agria, la harina y las hierbas; bate hasta obtener una mezcla suave y vierte sobre los ingredientes de la cacerola.\n5. Hornea, cubierto, a 180 °C durante 1 hora, o hasta que el pollo esté tierno. Si lo prefieres, puedes usar 2 tazas de sidra o jugo de manzana; simplemente omite la crema agria y utiliza 2 cucharadas de harina. También puedes probarlo sin tomillo, usando 1/4 cucharadita cada uno de nuez moscada, canela y clavo molido.\n6. Sirve con: pan francés, rúcula o ensalada de espinacas.",
+  "url": null
+}

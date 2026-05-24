@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "swordfish-marinade",
+  "name": "Swordfish Marinade",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "miscellaneous",
+    "seafood",
+    "swordfish"
+  ],
+  "recipeIngredient": [
+    "2 tablespoons Soy Sauce",
+    "2 tablespoons Orange Juice",
+    "1 tablespoon Olive Oil",
+    "1 tablespoon Tomato Paste",
+    "1 tablespoon Parsley Leaves, minced",
+    "1 garlic clove, minced",
+    "1/2 tablespoon Lemon Juice",
+    "1/4 teaspoon Oregano",
+    "1/4 teaspoon Pepper"
+  ],
+  "recipeInstructions": "1. Whisk together all the marinade ingredients.\n2. Place swordfish in a bowl or resealable plastic bag and pour in the marinade. Turn to coat thoroughly.\n3. Let marinate for at least 1 hour, up to overnight.\n4. Preheat grill to medium-high heat.\n5. Grill swordfish until cooked through, about 6-8 minutes per side, depending on thickness.",
+  "url": null
+}

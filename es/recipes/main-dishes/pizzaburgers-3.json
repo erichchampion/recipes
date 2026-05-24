@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizzaburgers-3",
+  "name": "Pizzaburgers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "carne molida",
+    "plato principal",
+    "carnes",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne de hamburguesa",
+    "12 oz de salsa de tomate",
+    "1 lb de queso mozzarella en cubos",
+    "6 oz de aceitunas verdes rellenas, picadas"
+  ],
+  "recipeInstructions": "1. Dorar la carne de hamburguesa.\n2. Añadir la salsa de tomate y las especias (sal, pimienta y orégano) al gusto. Reducir a fuego lento hasta espesar.\n3. Dejar enfriar la mezcla.\n4. Incorporar las aceitunas picadas a la mezcla.\n5. Dividir la mezcla equitativamente entre los panes de hamburguesa.\n6. Envolver los panes en papel de aluminio o plástico.\n7. Refrigerar hasta el momento de servir.\n8. Calentar en microondas o horno antes de servir.\nRinde para 14 a 16 panes.",
+  "url": null
+}

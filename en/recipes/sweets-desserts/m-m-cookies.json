@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "m-m-cookies",
+  "name": "M&m Cookies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 package Yellow cake mix",
+    "2 Eggs",
+    "1/2 cup Oil",
+    "3/4 cup Water",
+    "3/4 lb M&M's",
+    "1/2 cup Nuts, optional",
+    "1/2 cup Coconut, optional"
+  ],
+  "recipeInstructions": "1. Mix together the cake mix, eggs, oil, and water in a large bowl.\n2. Add the M&Ms and any additional ingredients (nuts or coconut) to the mixture.\n3. Spread the batter onto an ungreased cookie sheet.\n4. Bake at 350 degrees Fahrenheit for 6 to 8 minutes, being careful not to overbake.\n5. Remove from the oven and let cool on the baking sheet before transferring to a wire rack to cool completely.",
+  "url": null
+}

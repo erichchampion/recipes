@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "mint-julep",
+  "name": "Mint Julep",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 1/2 ounces bourbon",
+    "7 sprigs mint",
+    "1/2 ounce simple syrup"
+  ],
+  "recipeInstructions": "1. Place six mint sprigs in a Collins glass.\n2. Add simple syrup and muddle the sprigs and syrup well.\n3. Add 1-1/2 ounces of bourbon.\n4. Stir the mixture.\n5. Fill the glass with ice cubes.\n6. Add the remaining bourbon.\n7. Stir well and garnish with an orange slice, a lemon slice, and the final sprig of mint.",
+  "url": null
+}

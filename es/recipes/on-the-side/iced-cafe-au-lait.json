@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "iced-cafe-au-lait",
+  "name": "Café con leche helado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 1/4 tazas de café recién preparado frío",
+    "2 tazas de leche",
+    "2 tazas de hielo triturado",
+    "Azúcar (opcional)"
+  ],
+  "recipeInstructions": "1. Mezcla el café frío y la leche en un jarro grande o vaso para servir.\n2. Añade el hielo triturado a la mezcla.\n3. Revuelve hasta que esté bien combinado.\n4. Si lo deseas, añade azúcar y sigue removiendo hasta que espume.",
+  "url": null
+}

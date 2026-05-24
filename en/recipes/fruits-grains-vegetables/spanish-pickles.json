@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "spanish-pickles",
+  "name": "Spanish Pickles",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pickles"
+  ],
+  "recipeIngredient": [
+    "1 lb Brown sugar",
+    "1/2 oz Turmeric",
+    "2 tbsp White mustard seed",
+    "1 tbsp Celery seed",
+    "1 tbsp Cinnamon",
+    "6 Green peppers",
+    "6 Red peppers",
+    "6 large Onions",
+    "6 Cucumbers",
+    "2 Heads cabbage",
+    "1/2 Peck green tomatoes",
+    "1/2 Peck ripe tomatoes",
+    "2 quarts Vinegar"
+  ],
+  "recipeInstructions": "1. Chop all vegetables.\n2. Sprinkle the chopped vegetables with salt and let stand overnight.\n3. Drain the vegetables.\n4. Add the remaining ingredients to the vegetables.\n5. Cook slowly until the vegetables are tender.",
+  "url": null
+}

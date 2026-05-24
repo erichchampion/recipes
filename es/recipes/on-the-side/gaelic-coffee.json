@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "gaelic-coffee",
+  "name": "Café gaélico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "café",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 medida de whisky (jigger)",
+    "2 tazas de café negro caliente (casi el doble de la cantidad de whisky)",
+    "Azúcar al gusto",
+    "2 cucharadas de crema doble"
+  ],
+  "recipeInstructions": "1. Añade una medida de whisky y azúcar al gusto en tu taza.\n2. Vierte el café negro caliente, asegurándote de que sea casi el doble de la cantidad de whisky utilizado.\n3. Mezcla bien hasta combinar.\n4. Cubre con crema doble usando una cuchara.\n5. Calienta suavemente la cuchara y vierte cuidadosamente la crema sobre la parte posterior de la cuchara.\n6. Sirve inmediatamente.",
+  "url": null
+}

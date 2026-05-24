@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "kedgeree",
+  "name": "Kedgeree",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "2 huevos, cocidos y pelados, picados finamente",
+    "1 1/2 tazas de bacalao Finnan Haddie (enjuagado, deshuesado y sin piel)",
+    "3 tazas de arroz basmati cocido (se puede usar arroz basmati marrón)",
+    "3/4 taza de crema espesa",
+    "1 1/2 cucharaditas de polvo de curry (o al gusto)",
+    "1/2 cucharadita de nuez moscada rallada",
+    "Alegre molido de pimienta negra",
+    "3 cucharadas de jugo de limón",
+    "Gajos de limón"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180°C.\n2. Mezclar en un bol grande los huevos, el pescado y el arroz; combinar suavemente.\n3. Calentar la crema espesa en una cacerola pequeña, removiendo hasta que las especias se integren. Agregar el polvo de curry y la nuez moscada.\n4. Verter la mezcla de crema sobre la mezcla de arroz, agregar pimienta y jugo de limón; combinar con delicadeza.\n5. Probar por salinidad; ajustar la sazón si es necesario (el pescado ahumado debería estar lo suficientemente salado como para requerir poca o ninguna sal adicional).\n6. Transferir el Kedgeree a un plato para hornear y calentar en el horno solo hasta que esté bien caliente.\n7. Servir sobre un plato, rodeado de huevos revueltos suaves, decorado con gajos de limón.\nNota: Para refrescar el bacalao Finnan Haddie, remojarlo en leche fría durante una hora, luego escurrirlo y cocinarlo en leche fresca; esto endulzará el pescado y reducirá su salinidad.",
+  "url": null
+}

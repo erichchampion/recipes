@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-chicken-spread",
+  "name": "Salsa de Pollo Básica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "salsas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de pollo cocido y desmenuzado",
+    "1/2 taza de mayonesa",
+    "sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Coloca el pollo desmenuzado en un procesador de alimentos.\n2. Añade la mayonesa, la sal y la pimienta al procesador.\n3. Procesa los ingredientes hasta que queden finamente picados y bien mezclados.\n4. Cubre la mezcla y refrigera durante al menos unas horas, preferiblemente toda la noche.",
+  "url": null
+}

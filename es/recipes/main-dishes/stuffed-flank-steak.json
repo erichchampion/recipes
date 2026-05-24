@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "stuffed-flank-steak",
+  "name": "Lomo relleno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "diabético",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 kilo de lomo",
+    "1 taza de migas de pan integral suave",
+    "1/4 taza de cebolla picada",
+    "1/4 taza de apio picado",
+    "1/4 taza de zanahoria picada",
+    "1/4 taza de tomate picado",
+    "1 cucharadita de perejil seco",
+    "1/2 cucharadita de tomillo en polvo",
+    "Una pizca de pimienta",
+    "2 cucharadas de agua"
+  ],
+  "recipeInstructions": "1. Golpear el lomo para ablandarlo.\n2. Cortar un bolsillo en el centro del lomo.\n3. Mezclar los ingredientes restantes y combinar bien.\n4. Rellenar el lomo con la mezcla y asegurar la abertura con brochetas.\n5. Broilar a 3-4 pulgadas de distancia del calor durante 3-4 minutos por cada lado, o más tiempo al gusto.\n6. Cortar en rebanadas finas diagonalmente contra el grano para servir.",
+  "url": null
+}

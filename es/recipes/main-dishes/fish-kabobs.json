@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-kabobs",
+  "name": "Brochetas de pescado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "16 trozos de piña",
+    "450 g de bacalao o pescado blanco magro, cortado en cubos",
+    "3 tomates firmes, cortados en wedges",
+    "3 cebollas, cortadas en trozos",
+    "16 champiñones con sus gorros",
+    "2 pimientos verdes, cortados en trozos"
+  ],
+  "recipeInstructions": "Mezclar 60 ml de vinagre, 120 ml de aceite de oliva, 1 cucharadita de sal, un toque de pimienta cayena, 1/4 cucharadita de pimienta negra y 1/4 cucharadita de mostaza en polvo para hacer la marinada. Marinar el pescado durante al menos una hora. Alternar los cubos de pescado marinado con los trozos de fruta y verdura en brochetas. Cepillar las brochetas con el resto de la marinada. Colocarlas a 4 pulgadas sobre las brasas en la parrilla. Cocinar hasta que los bordes del pescado empiecen a curlarse.",
+  "url": null
+}

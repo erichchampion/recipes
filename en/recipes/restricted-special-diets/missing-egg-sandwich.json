@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "missing-egg-sandwich",
+  "name": "Missing Egg Sandwich",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "sandwiches",
+    "special diets",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "1/2 lb Firm tofu, mashed",
+    "1 Green onion, finely chopped",
+    "2 tbsp Eggless mayonnaise",
+    "1 tbsp Pickle relish",
+    "1 t Mustard",
+    "1/4 tsp Ground cumin",
+    "1/4 tsp Turmeric",
+    "1/4 tsp Garlic powder",
+    "Pinch of salt"
+  ],
+  "recipeInstructions": "1. In a bowl, combine the mashed tofu and green onion.\n2. Add the eggless mayonnaise, pickle relish, mustard, ground cumin, turmeric, garlic powder, and salt to the bowl.\n3. Mix thoroughly until all ingredients are well combined.\n4. Serve on whole wheat bread with tomato and lettuce.",
+  "url": null
+}

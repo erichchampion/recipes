@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "steak-ale-marinade",
+  "name": "Marinada de Bistec y Cerveza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pollo",
+    "marinadas",
+    "carnes",
+    "diversos",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de ketchup",
+    "2/3 taza de jugo de tomate",
+    "1/4 taza de vino tinto (o zumo de uva morada)",
+    "1/2 taza de salsa de soja",
+    "1/2 taza de jugo de piña",
+    "1/4 taza de vino blanco (o zumo de uva blanca)"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes para el bistec y marinar en la nevera durante un máximo de 24 horas.\n2. Mezclar por separado los ingredientes para pollo o cerdo y marinar en la nevera durante un máximo de 24 horas.\n3. Añadir una pizca de salsa Worcestershire a la marinada de bistec.",
+  "url": null
+}

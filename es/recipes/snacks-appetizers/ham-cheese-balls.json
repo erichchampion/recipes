@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-cheese-balls",
+  "name": "Bolas de jamón y queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1/4 lb de jamón molido finamente",
+    "1/4 lb de queso crema",
+    "2 cucharadas de salsa Worcestershire",
+    "1 cucharada de ketchup",
+    "1 cucharadita de pimienta negra",
+    "1 cucharada de jugo de limón",
+    "1/8 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta que queden bien combinados.\n2. Formar la mezcla en pequeñas bolas, con un diámetro aproximado de 1-2 pulgadas.\n3. Rodar cada bola en cebollinos picados.\n4. Servir las bolas de jamón y queso en palillos dentales.\n5. Rinde aproximadamente 30 bolas.",
+  "url": null
+}

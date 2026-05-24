@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-hash-browns",
+  "name": "Hash browns al horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "patatas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "8 hamburguesas de patata congeladas",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de polvo de ajo",
+    "1 taza de nata para montar",
+    "1 taza de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Coloca las hamburguesas de patata en un molde para hornear engrasado de 30 x 20 x 2 cm.\n2. Espolvorea las hamburguesas con sal y polvo de ajo.\n3. Vierte la nata sobre las hamburguesas.\n4. Hornea al descubierto a 180°C durante 50 minutos.\n5. Espolvorea el queso cheddar rallado uniformemente sobre las patatas.\n6. Hornea durante otros 5-10 minutos o hasta que las patatas estén tiernas y el queso esté derretido.",
+  "url": null
+}

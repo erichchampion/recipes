@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "herb-seasoning",
+  "name": "Herb Seasoning",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "desserts",
+    "side dishes",
+    "spices"
+  ],
+  "recipeIngredient": [
+    "1 tablespoon Garlic powder",
+    "1 teaspoon Ground thyme",
+    "1 teaspoon Onion powder",
+    "1 teaspoon Black pepper",
+    "1 teaspoon Ground basil",
+    "1 teaspoon Ground parsley",
+    "1 teaspoon Ground sage",
+    "Optional ingredients:",
+    "1 teaspoon Ground marjoram",
+    "1 teaspoon Ground mace",
+    "1/2 teaspoon Cayenne pepper",
+    "1 teaspoon Ground savory"
+  ],
+  "recipeInstructions": "1. Combine all the ingredients in a bowl.\n2. Stir thoroughly to ensure even distribution of flavors.\n3. Use this seasoning as a salt substitute when cooking.",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-pudding-2",
+  "name": "Pudín de Frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "postres",
+    "budines",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 taza de pasas",
+    "1 taza de manteca (cortada en trozos)",
+    "1 taza de melaza",
+    "1 taza de leche",
+    "1 cucharadita de sal",
+    "1 cucharadita de bicarbonato",
+    "Disuelto en:",
+    "1/4 taza de agua hirviendo",
+    "1/2 cucharadita de canela",
+    "1/2 cucharadita de nuez moscada",
+    "1/2 cucharadita de jengibre",
+    "1/4 cucharadita de clavos",
+    "1 taza de harina"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar las pasas, la manteca, la melaza, la leche, la sal y el bicarbonato.\n2. En un recipiente aparte, disolver el bicarbonato en agua hirviendo con canela, nuez moscada, jengibre y clavos.\n3. Verter la mezcla disuelta sobre los ingredientes secos y remover hasta que esté bien combinado.\n4. Engrasar un molde adecuadamente y verter la masa en él.\n5. Tapar herméticamente y al vapor durante 3 horas.\n6. Servir con salsa de pudín de azúcar moreno.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-macaroon-drink",
+  "name": "Bebida de macarrones de naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 tazas de zumo de naranja",
+    "2 tazas de hielo triturado",
+    "1/2 taza de crema de coco",
+    "3/4 cucharadita de extracto de almendra"
+  ],
+  "recipeInstructions": "1. Mezclar el zumo de naranja, el hielo triturado, la crema de coco y el extracto de almendra en una licuadora.\n2. Licuar todos los ingredientes hasta obtener una textura suave.\n3. Servir inmediatamente.",
+  "url": null
+}

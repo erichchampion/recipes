@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "coppermountain-quiche",
+  "name": "Cuquica de Coppermountain",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "tartas de cena",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "--CRUSTA--",
+    "1/2 taza de mantequilla",
+    "4 onzas de queso crema",
+    "1 taza de harina",
+    "--RELLENO--",
+    "3 huevos",
+    "10 onzas de espinacas cocidas",
+    "2 cucharadas de harina",
+    "1 taza de queso suizo rallado",
+    "1 taza de queso cheddar rallado",
+    "1 taza de setas en rodajas",
+    "5 rebanadas de tocino, desmenuzadas",
+    "1/2 taza de mayonesa",
+    "1/2 taza de leche",
+    "4 onzas de queso crema"
+  ],
+  "recipeInstructions": "1. Mezclar la mantequilla, el queso crema y la harina con un cortapastas hasta obtener migas.\n2. Presionar la mezcla en un molde para quiche y refrigerar.\n3. Espolvorear las espinacas con harina.\n4. En un bol aparte, mezclar todos los demás ingredientes con trozos de queso crema.\n5. Verter el relleno en la corteza de quiche.\n6. Hornear a 180°C durante 1 hora.\n7. Se puede sustituir las espinacas por brócoli y el tocino por jamón (1 taza), si se desea.",
+  "url": null
+}

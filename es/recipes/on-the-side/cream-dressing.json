@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cream-dressing",
+  "name": "Salsa cremosa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "aderezo para ensalada",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1/2 cucharadita de sal",
+    "1 cucharada de harina",
+    "1 cucharadita de mostaza en polvo",
+    "1 cucharada de azúcar",
+    "2 cucharadas de mantequilla",
+    "2 yemas de huevo",
+    "3/4 taza de crema",
+    "1/4 taza de vinagre"
+  ],
+  "recipeInstructions": "1. En el fondo de un baño maría, mezclar la harina, la sal, la mostaza y el azúcar.\n2. Añadir la mantequilla y remover hasta que se combine todo.\n3. Incorporar las yemas de huevo batiendo continuamente hasta obtener una mezcla homogénea.\n4. Agregar gradualmente la crema y luego el vinagre, removiendo constantemente.\n5. Cocinar sobre agua hirviendo hasta espesar la salsa.\n6. Colar si es necesario.\n7. Enfriar antes de servir frío.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "crystal-honey-lager",
+  "name": "Crystal Honey Lager",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beers",
+    "beverages",
+    "side dishes",
+    "specialty beers"
+  ],
+  "recipeIngredient": [
+    "3 1/2 lbs Malt Extract Powder-Light",
+    "2 1/2 lbs honey",
+    "1 1/2 oz Cascade Hops, boiling",
+    "1/2 oz Cascade Hops, finishing",
+    "1 pkg Lager yeast",
+    "3/4 cup corn sugar, bottling"
+  ],
+  "recipeInstructions": "1. Combine the malt extract, honey, and boiling hops with 1.5 gallons of water.\n2. Boil the mixture for 60 minutes.\n3. Add the finishing hops during the final 2 to 4 minutes of boiling.\n4. Sparge the remaining liquid into cold water.\n5. Cool the mixture before pitching the yeast.\n6. Bottle once fermentation is complete.",
+  "url": null
+}

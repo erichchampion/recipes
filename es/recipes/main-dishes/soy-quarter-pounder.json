@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "soy-quarter-pounder",
+  "name": "Cuarto de libra vegetariana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgueras",
+    "plato principal",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "2 tazas de soja cocida",
+    "1/4 taza de tofu",
+    "1/3 taza de germen de trigo o migas de pan",
+    "1/2 taza de apio picado",
+    "1 taza de zanahoria rallada",
+    "1 cucharada de salsa Worcestershire (vegetariana o tamari)",
+    "1 cucharadita de ajo picado",
+    "3/4 taza de cebolla picada",
+    "1 cucharadita de sal marina"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 200°C.\n2. Triturar la soja cocida groseramente en una licuadora o procesador de alimentos.\n3. Mezclar la soja triturada con los ingredientes restantes.\n4. Dar forma a la mezcla en hamburguesas.\n5. Hornear las hamburguesas sobre una bandeja para hornear ligeramente engrasada durante 20 minutos, dándoles la vuelta una vez, o asar durante 5 minutos por cada lado.",
+  "url": null
+}

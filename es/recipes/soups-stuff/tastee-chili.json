@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tastee-chili",
+  "name": "Chili Saboroso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "sobrasas",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de Tastees (restos)",
+    "2 1/2 tazas de jugo de tomate",
+    "1 lata de tomates enlatados",
+    "1 cebolla mediana",
+    "1 lata de frijoles pintos escurridos",
+    "1 lata de frijoles rojos (kidney) escurridos",
+    "1 lata de frijoles navios escurridos",
+    "2 cucharadas de polvo de chile (aprox. una cucharadita generosa)",
+    "1 diente de ajo picado"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una olla grande.\n2. Llevar a ebullición.\n3. Reducir el fuego y dejar cocinar a fuego lento durante 1-2 horas hasta alcanzar la consistencia deseada.",
+  "url": null
+}

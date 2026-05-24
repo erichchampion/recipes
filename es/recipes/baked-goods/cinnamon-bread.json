@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "cinnamon-bread",
+  "name": "Pan de canela",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "panes rápidos"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de azúcar moreno",
+    "1 cucharada de canela",
+    "1/4 taza de mantequilla",
+    "1 taza de azúcar",
+    "2 huevos",
+    "1 cucharadita de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "1 cucharadita de extracto de vainilla",
+    "2 tazas de harina",
+    "1 taza de leche agria"
+  ],
+  "recipeInstructions": "1. Mezclar el azúcar morena y la canela y reservar.\n2. Batir la mantequilla con el azúcar, luego agregar los huevos. Incorporar alternativamente los ingredientes secos y la leche agria; mezclar bien.\n3. Verter la mitad de la masa en un molde para pan. Espolvorear la mitad de la mezcla de canela sobre ella y añadir el resto de la masa. Espolvorear el resto de la mezcla de canela para crear un efecto marmolado.\n4. Hornear a 175 °C durante 45 a 60 minutos.",
+  "url": null
+}

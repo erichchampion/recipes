@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-sherry",
+  "name": "Pollo con Salsa de Jerez",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "6 muslos de pollo",
+    "1/2 cucharadita de albahaca seca",
+    "Una pizca de orégano",
+    "Aceite de oliva",
+    "1 diente de ajo picado",
+    "2 tazas de salsa de tomate",
+    "Sal y pimienta al gusto",
+    "3/4 taza de jerez seco"
+  ],
+  "recipeInstructions": "1. Untar los trozos de pollo con aceite de oliva y colocarlos en una bandeja para hornear.\n2. Hornear en el horno precalentado a 400 °F durante 8 minutos, hasta que la piel se dore ligeramente.\n3. Mientras tanto, mezclar la salsa de tomate, el jerez, la albahaca, el orégano, el ajo, la sal y la pimienta en un bol.\n4. Verter la mezcla sobre el pollo.\n5. Reducir la temperatura del horno a 375 °F.\n6. Hornear durante unos 35 minutos, con un rociador de salsa ocasionalmente.\n7. Servir para 3-4 personas.",
+  "url": null
+}

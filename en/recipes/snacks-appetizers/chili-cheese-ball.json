@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-cheese-ball",
+  "name": "Chili Cheese Ball",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "cheese",
+    "mexican",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1 package Chili seasoning",
+    "2 packages Cream cheese (8 oz each)",
+    "3 tbsp Salsa",
+    "Shredded Monterey Jack",
+    "Chopped nuts"
+  ],
+  "recipeInstructions": "1. Beat chili seasoning, cream cheese, and salsa together until well combined.\n2. Shape the mixture into a ball and chill in the refrigerator until firm.\n3. Once chilled and shaped, roll the ball in shredded cheese and/or chopped nuts.",
+  "url": null
+}

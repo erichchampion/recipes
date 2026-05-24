@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "arizona-ice-cream",
+  "name": "Helado de Arizona",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "3 tazas de azúcar",
+    "3 naranjas - zumo de",
+    "3 limones - zumo de",
+    "3 tazas de nata para montar",
+    "3 tazas de leche"
+  ],
+  "recipeInstructions": "1. Echar 3 tazas de azúcar en un bol grande.\n2. Verter el zumo de 3 naranjas y 3 limones sobre el azúcar.\n3. Dejar reposar la mezcla durante unos 15 minutos.\n4. Remover hasta que todos los ingredientes estén bien combinados.\n5. Añadir la nata para montar y la leche, y remover nuevamente para asegurar una buena mezcla.\n6. Transferir la mezcla a una máquina de helados y congelar según las instrucciones del fabricante.",
+  "url": null
+}

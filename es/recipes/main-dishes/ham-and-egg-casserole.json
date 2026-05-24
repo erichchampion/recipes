@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-and-egg-casserole",
+  "name": "Casserola de Jamón y Huevo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "queso",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "6 huevos duros",
+    "1/4 taza de apio picado",
+    "1 cucharada de mayonesa",
+    "1 cucharadita de mostaza preparada",
+    "6 rebanadas de jamón",
+    "1 lata de sopa de setas cremosas",
+    "1/3 taza de leche",
+    "1/2 taza de queso cheddar rallado",
+    "1/4 taza de chips de patata triturados",
+    "aceitunas rellenas en rodajas (opcional)"
+  ],
+  "recipeInstructions": "1. Corta los huevos duros por la mitad y retira las yemas.\n2. Machaca las yemas con el apio, la mayonesa y la mostaza.\n3. Rellena las claras de huevo con la mezcla machacada.\n4. Une las mitades para formar dos huevos completos.\n5. Envolver cada huevo en una rebanada de jamón.\n6. Coloca los rollos de jamón en un molde para hornear con sus lados abiertos hacia abajo.\n7. En un bol aparte, mezcla la sopa y la leche.\n8. Vierte la mezcla de sopa de manera uniforme sobre los rollos de jamón.\n9. Espolvorea el queso cheddar rallado y los chips de patata triturados sobre la parte superior.\n10. Coloca rodajas de aceitunas rellenas, si se desea.\n11. Hornea a 350°F hasta que esté caliente y el queso se haya derretido.",
+  "url": null
+}

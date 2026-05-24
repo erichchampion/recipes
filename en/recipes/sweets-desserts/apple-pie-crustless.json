@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-pie-crustless",
+  "name": "Apple Pie - Crustless",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "fruits",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "2 cups Tart apples, sliced",
+    "1 stick butter, melted",
+    "1 cup Sugar",
+    "1 Egg",
+    "1 cup Flour",
+    "1/2 cup Walnuts",
+    "Cinnamon to taste",
+    "Nutmeg to taste"
+  ],
+  "recipeInstructions": "1. Slice the apples into a greased pie plate.\n2. Make a batter with the remaining ingredients.\n3. Pour the batter over the apples.\n4. Bake for 45 minutes at 350 degrees Fahrenheit.",
+  "url": null
+}

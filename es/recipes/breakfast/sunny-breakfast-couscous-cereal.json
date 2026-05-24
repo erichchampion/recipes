@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "sunny-breakfast-couscous-cereal",
+  "name": "Cereal de desayuno soleado con cuscús",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de agua",
+    "1/4 taza de jugo de naranja",
+    "1/2 taza de cuscús",
+    "1 cucharadita de ralladura de naranja",
+    "1 cucharada de miel",
+    "1 cucharada de jugo de manzana (concentrado congelado)",
+    "Una pizca de canela"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un plato cerámico apto para microondas de 1 litro.\n2. Tapar y calentar en el microondas a potencia máxima hasta que el líquido se absorba y el cuscús esté tierno, aproximadamente 5-6 minutos.\n3. Dejar reposar, tapado, durante un minuto más.",
+  "url": null
+}

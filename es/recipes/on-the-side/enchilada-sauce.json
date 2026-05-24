@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "enchilada-sauce",
+  "name": "Salsa para enchiladas",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "estadounidense",
+    "enchilada",
+    "étnico",
+    "de cuatro estrellas",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "2 tazas de salsa de tomate o 1 lata grande + 4 tazas de agua",
+    "3 cucharadas de polvo de ajo",
+    "3 cucharadas de polvo de cebolla",
+    "3 cucharadas de polvo de chile",
+    "3 cucharadas de almidón de maíz"
+  ],
+  "recipeInstructions": "1. En una cacerola, mezcle la salsa de tomate (o tomates enlatados y agua), el polvo de ajo, el polvo de cebolla, el polvo de chile y el almidón de maíz.\n2. Revuelva constantemente hasta que la mezcla hierva y espese, aproximadamente 7 minutos.",
+  "url": null
+}

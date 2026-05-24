@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "boboli-breakfast-pizza",
+  "name": "Boboli Breakfast Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "boboli",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "2 small Bobolis",
+    "2 Eggs",
+    "Sliced Tomatoes",
+    "Ham",
+    "Swiss Cheese"
+  ],
+  "recipeInstructions": "1. Top each boboli with a lightly scrambled egg.\n2. Add sliced tomatoes, ham, and Swiss cheese in that order.\nThe Pizza Bobboli wrapper provides guidance for time and temperature.",
+  "url": null
+}

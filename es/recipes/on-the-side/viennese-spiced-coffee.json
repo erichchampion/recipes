@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "viennese-spiced-coffee",
+  "name": "Café especiado vienés",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1/3 taza de café instantáneo",
+    "3 cucharadas de azúcar",
+    "8 clavos enteros",
+    "3 centímetros de palo de canela",
+    "3 tazas de agua"
+  ],
+  "recipeInstructions": "1. Mezclar el café instantáneo, el azúcar, los clavos enteros, el palo de canela y el agua en una taza grande.\n2. Tapar y llevar a ebullición a fuego medio.\n3. Retirar del fuego y dejar reposar cubierto durante unos 5 minutos.\n4. Colar la mezcla en tazas individuales.\n5. Añadir una cucharada de crema batida a cada taza y espolvorear ligeramente con canela.\n6. Servir inmediatamente, adornado con palos de canela si se desea.\nRinde de 4 a 6 porciones.",
+  "url": null
+}

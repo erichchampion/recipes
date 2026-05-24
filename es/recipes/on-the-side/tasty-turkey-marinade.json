@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "tasty-turkey-marinade",
+  "name": "Marinada de pavo deliciosa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "marinas",
+    "aves de corral",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de zumo de naranja",
+    "3/4 taza de salsa de soja",
+    "1/4 taza de miel",
+    "4 dientes de ajo machacados",
+    "1/2 taza de cebolla verde picada",
+    "2 cucharaditas de pimienta negra molida",
+    "2 cucharaditas de jengibre molido",
+    "4 libras de pavo crudo, sin hueso, sin piel (pecho, chuletas, lomo o filete)"
+  ],
+  "recipeInstructions": "1. Mezclar el zumo de naranja, la salsa de soja, la miel, el ajo machacado, la cebolla verde picada, la pimienta negra y el jengibre molido en un bol.\n2. Colocar el pavo en el adobo, asegurándose de que quede bien cubierto.\n3. Dejar marinar el pavo durante 1 hora.\n4. Asar el pavo marinado a fuego medio hasta que esté cocido por completo.\n5. Durante la cocción, barnizar el pavo con el adobo restante.\n6. Servir el pavo asado y desechar el adobo sobrante.",
+  "url": null
+}

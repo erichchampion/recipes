@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-mac-casserole-2",
+  "name": "Estofado de Pollo y Macarrones",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "pollo",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "3 pechugas de pollo deshuesadas y sin piel, cocidas y cortadas en cubos",
+    "200 g de macarrones en forma de elipse, cocidos y escurridos",
+    "200 g de brócoli congelado, cocido y escurrido",
+    "8 onzas (225 g) de crema agria sin grasa",
+    "1 lata de sopa cremosa de pollo con bajo contenido de grasa",
+    "1 lata de sopa de brócoli condensada",
+    "Sal y pimienta al gusto",
+    "2 tazas de queso Cheddar bajo en grasa rallado"
+  ],
+  "recipeInstructions": "1. Cocinar el pollo en agua hirviendo hasta que esté hecho. Retirar del agua.\n2. Cocinar los macarrones en el agua cocida del pollo; escurrir. Añadir el brócoli.\n3. Mezclar la crema agria y las sopas juntas. Incorporar el pollo, los macarrones y el brócoli.\n4. Transferir a un molde engrasado de 20x30 cm. Espolvorear con queso rallado.\n5. Hornear a 180°C durante 45 minutos o hasta que burbujee y se caliente por completo.",
+  "url": null
+}

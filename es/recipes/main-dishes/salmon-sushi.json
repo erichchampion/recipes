@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "salmon-sushi",
+  "name": "Sushi de Salmón",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "asiático",
+    "étnico",
+    "japonés",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "2 1/4 partes de vinagre",
+    "2 partes de sal"
+  ],
+  "recipeInstructions": "1. Retire el centro del filete, desde atrás hacia adelante.\n2. Marine el salmón durante un día en una mezcla de sal y vinagre al 5% hasta que la superficie del pescado esté \"cocida\" (similar a un ceviche).\n3. Congele durante la noche.\n4. Corte en rodajas finas y sirva.",
+  "url": null
+}

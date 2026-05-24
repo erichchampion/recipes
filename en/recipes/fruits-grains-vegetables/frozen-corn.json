@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "frozen-corn",
+  "name": "Frozen Corn",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "corn",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "4 quarts corn, cut off cob",
+    "3 cups water",
+    "4 teaspoons salt",
+    "1 tablespoon sugar",
+    "4 ounces butter"
+  ],
+  "recipeInstructions": "1. Combine the corn, water, salt, sugar, and butter in a large pot.\n2. Bring to a boil.\n3. Boil for 5 minutes.",
+  "url": null
+}

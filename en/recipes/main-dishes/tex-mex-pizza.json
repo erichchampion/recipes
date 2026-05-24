@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "tex-mex-pizza",
+  "name": "Tex-Mex Pizza",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "1 (12-inch) pizza dough",
+    "2 large Tomatoes, diced",
+    "1 tbsp Chopped jalapeno pepper",
+    "4 Green onions, chopped",
+    "2 Cloves garlic, minced",
+    "2 cup Cheddar cheese, shredded",
+    "2 tbsp Grated parmesan cheese",
+    "1 Avocado, chopped",
+    "1/4 cup Sour cream",
+    "1/4 cup Chopped parsley"
+  ],
+  "recipeInstructions": "1. Spoon tomatoes over pizza dough, leaving a 1/2-inch border.\n2. Top with jalapenos, garlic and onion.\n3. Sprinkle with cheeses and season with salt and pepper to taste.\n4. Bake in a 500 degree oven for 10 to 14 minutes until the bottom of the crust is golden brown.\n5. Top with avocado, a dollop of sour cream and parsley. Pass extra sour cream.",
+  "url": null
+}

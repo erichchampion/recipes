@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "parsley-potato-soup",
+  "name": "Sopa de perejil y patata",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "aperitivos",
+    "sopas",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 cebolla mediana, picada",
+    "1 cucharadita de aceite de oliva",
+    "2 tazas de patatas cortadas en dados",
+    "1 taza de lechugas (solo la parte blanca), en rodajas",
+    "4 tazas de caldo",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta blanca",
+    "2 cucharadas de cebollino fresco picado",
+    "1/4 taza de perejil fresco picado"
+  ],
+  "recipeInstructions": "1. En una olla grande, combina todos los ingredientes excepto la sal, la pimienta, el cebollino y el perejil.\n2. Tapa la olla y lleva a ebullición.\n3. Reduce el fuego y deja cocinar a fuego lento durante 30 minutos.\n4. Refresca ligeramente, luego licúa la sopa.\n5. Sazona con sal y pimienta.\n6. Adorna con cebollino y perejil.",
+  "url": null
+}

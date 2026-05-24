@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "sherry-mayonnaise",
+  "name": "Mayonesa de jerez",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "encurtidos",
+    "ensaladas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 huevo entero",
+    "2 yemas de huevo",
+    "1 cucharada de mostaza dijon",
+    "1/4 taza de vinagre de jerez, sal y pimienta al gusto",
+    "2 tazas de aceite de maíz"
+  ],
+  "recipeInstructions": "1. Mezclar los huevos, la mostaza y el vinagre en el bol de un procesador de alimentos con una cuchilla de acero. Sazonar con sal y pimienta al gusto.\n2. Procesar durante 1 minuto.\n3. Con el motor en marcha, agregar lentamente el aceite de maíz en un chorro constante.\n4. Cuando se haya incorporado todo el aceite, apagar el motor, raspar los lados del bol, probar la mayonesa y ajustar la sazón si es necesario.\n5. Transferir a un recipiente para almacenar, tapar y refrigerar hasta su uso.",
+  "url": null
+}

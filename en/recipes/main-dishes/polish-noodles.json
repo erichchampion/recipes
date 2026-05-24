@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "polish-noodles",
+  "name": "Polish Noodles",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta",
+    "pork"
+  ],
+  "recipeIngredient": [
+    "1/4 cup Sweet butter",
+    "8 oz Sour cream",
+    "1 lb Ham, cubed",
+    "16 oz Ripened tomatoes, chopped",
+    "2 cups Elbow macaroni",
+    "1 oz Maggi Seasoning",
+    "or 1 tbsp Soy sauce",
+    "1/2 tsp Salt, optional",
+    "1/2 tsp Pepper"
+  ],
+  "recipeInstructions": "1. Brown butter in a Dutch oven.\n2. Add remaining ingredients except onions, salt (if using), and pepper. Mix well.\n3. Simmer uncovered for 10 minutes.\n4. Add onions and cook an additional 5 minutes.\n(Note: Cook macaroni al dente to avoid overcooking. Use light sour cream if desired.)",
+  "url": null
+}

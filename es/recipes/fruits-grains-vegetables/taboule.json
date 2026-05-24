@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "taboule",
+  "name": "Tabule",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 taza de trigo bulgur fino",
+    "3/4 taza de cebolla picada",
+    "1/2 taza de cebolletas picadas (incluidos los tallos)",
+    "1 1/2 cucharaditas de perejil",
+    "1 cucharadita de albahaca",
+    "1/2 taza de menta fresca, finamente picada",
+    "1/2 taza de zumo de limón",
+    "3/4 taza de aceite",
+    "2 tomates en rodajas"
+  ],
+  "recipeInstructions": "1. Cubrir el bulgur con agua; dejar reposar durante 1 hora para que se ablande.\n2. Escurrir el bulgur y secarlo en una sartén a fuego bajo, removiendo ocasionalmente.\n3. Añadir los ingredientes restantes (perejil, albahaca, menta, zumo de limón, aceite y tomates) a la sartén.\n4. Mezclar bien hasta que todos los ingredientes estén combinados.\n5. Enfriar durante al menos 1 hora antes de servir.",
+  "url": null
+}

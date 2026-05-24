@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "lus-breakfast",
+  "name": "Desayuno lusio",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz marrón cocido",
+    "1/3 taza de avena en hojuelas",
+    "2 cucharadas de pasas secas",
+    "(opcional: almendras laminadas o semillas de girasol)",
+    "2 melocotones, cortados en gajos"
+  ],
+  "recipeInstructions": "1. Hervir 1 taza de agua y añadir el arroz cocido.\n2. Remover hasta que se caliente (aproximadamente 2 minutos).\n3. Transferir a un bol y añadir los gajos de melocotón.\n4. Añadir opcionalmente 1/2 taza de yogur sin grasa (vainilla) o 1/2 taza de leche de soja.\n5. Este método calienta arroz refrigerado sobrante y añade melocotones fríos refrigerados para un desayuno delicioso y rico en fibra para llevar.",
+  "url": null
+}

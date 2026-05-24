@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "ginger-honey-roast-chicken",
+  "name": "Pollo asado con jengibre y miel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "étnico",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 pollo mediano",
+    "1 cucharadita de sal",
+    "1 cucharadita de pimienta negra molida",
+    "1 trozo de jengibre fresco, picado",
+    "1/4 taza de salsa de soja",
+    "1/4 taza de miel",
+    "1/4 taza de aceite vegetal",
+    "1 chile fresco, picado",
+    "1 cucharadita de jengibre molido"
+  ],
+  "recipeInstructions": "1. Frotar el pollo con sal y pimienta.\n2. Rellenar el pollo con el jengibre picado.\n3. Colocar el pollo en una bandeja para hornear y meterlo al horno.\n4. Preparar la salsa de asado mezclando el aceite, la salsa de soja, la miel, el chile picado y el jengibre molido.\n5. Untar el pollo cuando esté al 80% de cocción.\n6. Continuar untando con frecuencia durante las etapas finales de cocción para evitar que la miel se queme.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-on-rye",
+  "name": "Pizza en centeno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "comida para niños",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "8 oz de salsa de tomate",
+    "1/4 cucharadita de albahaca",
+    "1/8 cucharadita de orégano",
+    "5 o 6 rebanadas de pan de centeno tostado",
+    "8 oz de mozzarella en rodajas",
+    "Queso parmesano"
+  ],
+  "recipeInstructions": "1. Mezcla la salsa de tomate, la albahaca y el orégano.\n2. Extiende la mezcla sobre 5 o 6 rebanadas de pan de centeno tostado.\n3. Reparte las rodajas de mozzarella de forma uniforme sobre las pizzas.\n4. Espolvorea queso parmesano sobre las pizzas.\n5. Coloca las pizzas debajo del grill hasta que estén burbujeantes.\n6. Para variar, añade cebolla, pepperoni y, a veces, gambas enlatadas sobre la pizza.",
+  "url": null
+}

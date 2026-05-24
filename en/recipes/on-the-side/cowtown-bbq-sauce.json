@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "cowtown-bbq-sauce",
+  "name": "Cowtown BBQ Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condiments",
+    "favorite",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 1/4 pints ketchup",
+    "1 1/2 cups sugar",
+    "1/4 cup apple cider vinegar",
+    "2 tablespoons molasses",
+    "1 tablespoon Dijon mustard",
+    "2 teaspoons worcestershire sauce",
+    "1 teaspoon liquid smoke flavoring",
+    "1 1/2 teaspoons salt",
+    "1 teaspoon black pepper",
+    "1/4 teaspoon onion powder",
+    "1 teaspoon garlic powder",
+    "1 splash whiskey"
+  ],
+  "recipeInstructions": "1. Combine all ingredients except the whiskey in a large pot.\n2. Place the pot over medium heat and simmer, stirring occasionally, for 1 hour.\n3. Carefully add the splash of whiskey (or brandy) to the sauce.\n4. Continue cooking for an additional 30 minutes, ensuring not to burn the mixture.",
+  "url": null
+}

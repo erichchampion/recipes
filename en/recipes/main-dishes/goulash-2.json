@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "goulash-2",
+  "name": "Goulash",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 pound Ground Beef",
+    "1 small onion",
+    "1 jar, medium Ragu (Sausage & peppers)",
+    "1 package elbow spaghetti",
+    "1 cup water"
+  ],
+  "recipeInstructions": "1. Brown the meat and onion; drain excess fat.\n2. Cook the spaghetti in a saucepan until done, then drain.\n3. Add the meat, Ragu, and water to the cooked spaghetti.\n4. Simmer for 20-25 minutes.\n5. Serve with cornbread.",
+  "url": null
+}

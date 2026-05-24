@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-frosting",
+  "name": "Chocolate Frosting",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "cakes",
+    "chocolate",
+    "desserts",
+    "frosting"
+  ],
+  "recipeIngredient": [
+    "3/4 cup Sugar",
+    "1/2 cup Milk",
+    "1 tablespoon Butter",
+    "1 teaspoon Vanilla",
+    "2 squares Chocolate"
+  ],
+  "recipeInstructions": "1. Combine sugar, milk, butter, and vanilla in a bowl until smooth.\n2. Add chocolate and mix until fully incorporated.\n3. Allow to cool before spreading on cake or using as desired.",
+  "url": null
+}

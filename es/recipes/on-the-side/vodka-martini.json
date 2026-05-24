@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "vodka-martini",
+  "name": "Martini de vodka",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz de vodka",
+    "1/2 oz de vermut seco",
+    "1 aceituna verde",
+    "Hielo picado"
+  ],
+  "recipeInstructions": "Llenar un vaso mezclador con hielo picado. Verter el vodka y el vermut seco. Remover hasta que esté bien combinado, luego colar en un vaso martini frío. Adornar con una aceituna verde.",
+  "url": null
+}

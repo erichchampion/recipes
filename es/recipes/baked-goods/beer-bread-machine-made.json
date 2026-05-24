@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-bread-machine-made",
+  "name": "Pan de cerveza hecho en máquina",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "bebidas",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 sobre de levadura",
+    "1 taza de harina de centeno",
+    "2 1/2 tazas de harina de trigo",
+    "2 cucharadas de germen de trigo",
+    "1 cucharadita de sal",
+    "1 taza de cerveza a temperatura ambiente y sin gas",
+    "2 cucharadas de melaza",
+    "2 cucharaditas de ralladura de naranja",
+    "6 cucharadas de puré de manzana sin endulzar",
+    "1/4 taza de agua tibia (120°F)"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en el pan de la máquina de pan en el orden indicado.\n2. Selecciona la opción \"corte delgado\" y arranca la máquina.",
+  "url": null
+}

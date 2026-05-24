@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-chicken-salad",
+  "name": "Ensalada de Pollo Picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "plato principal",
+    "aves de corral",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "4 tazas De pollo picado frío",
+    "2/3 taza De almendras finamente picadas",
+    "1 cucharadita De sal",
+    "1 taza De queso cheddar rallado",
+    "3/4 taza De sopa de pollo en polvo",
+    "1 1/2 tazas De patatas fritas trituradas",
+    "2 cucharadas De zumo de limón",
+    "3/4 taza De mayonesa",
+    "1/2 cucharadita De glutamato monosódico (MSG)",
+    "2 tazas De apio picado",
+    "2 pimientos rojos, finamente cortados"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el queso, las patatas fritas y las almendras.\n2. Colocar la mezcla en un plato rectangular grande.\n3. Cubrir con queso, patatas fritas y pimientos picados.\n4. Dejar reposar durante la noche en el refrigerador.\n5. Hornear a 400°F (200°C) durante 20-25 minutos.",
+  "url": null
+}

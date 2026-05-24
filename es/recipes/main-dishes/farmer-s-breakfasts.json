@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "farmer-s-breakfasts",
+  "name": "Desayunos de granjero",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "queso",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de mantequilla",
+    "3 patatas medianas, peladas y cortadas en rodajas finas",
+    "4 cebollas verdes, cortadas",
+    "1/2 pimiento verde dulce, picado",
+    "2 tazas de jamón picado",
+    "Sal y pimienta al gusto",
+    "4 huevos grandes batidos",
+    "4 onzas de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. En una sartén, derrita la mantequilla a fuego medio.\n2. Saltee las verduras, el jamón y las especias durante 3 minutos.\n3. Cubra y cocine a fuego lento hasta que las patatas estén tiernas, aproximadamente 30 minutos.\n4. Vierta los huevos sobre las verduras. No mezcle.\n5. Cubra y cocine hasta que los huevos estén cuajados, unos 10 minutos.\n6. Espolvoree con queso. Caliente solo hasta que el queso se derrita.\n7. Corte en wedges y sirva.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "economy-waffles",
+  "name": "Economy Waffles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "waffles"
+  ],
+  "recipeIngredient": [
+    "2 Egg yolks",
+    "1/2 cup Milk (sweet)",
+    "1/2 tsp Salt",
+    "1 tsp Baking powder",
+    "1 cup Flour",
+    "1 tbsp Butter, melted - or substitute"
+  ],
+  "recipeInstructions": "1. Beat the egg yolks.\n2. Mix in milk, salt, flour, and baking powder together with melted butter.\n3. Add stiffly beaten egg whites.\n4. Cook on a waffle iron until golden brown and crispy.",
+  "url": null
+}

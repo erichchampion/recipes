@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "salmon-steaks",
+  "name": "Salmon Steaks",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecue",
+    "fish",
+    "main dish",
+    "meat",
+    "salmon",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "4 salmon steaks",
+    "1/4 cup oil",
+    "2 tablespoons lemon juice",
+    "2 tablespoons soy sauce",
+    "1/2 tablespoon ginger"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a bowl.\n2. Place the mixture over the salmon steaks and marinate for 30 minutes.\n3. Turn the steaks and marinate them again for another 30 minutes.\n4. Grill the steaks for 10 minutes, turning them once.\n5. Brush the marinade onto the steaks and cook for an additional 10 minutes.",
+  "url": null
+}

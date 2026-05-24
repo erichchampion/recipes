@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "reel-cuisine",
+  "name": "Cocina en Reels",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "Pimiento amarillo, cortado en dados",
+    "Pimiento rojo, cortado en dados",
+    "Pimiento verde, cortado en dados",
+    "Espárragos, cortados en trozos de 2 pulgadas",
+    "Cebollas, rebanadas",
+    "Maíz, cortado en rodajas de 1/4 de pulgada",
+    "Cebolla roja, cortada en láminas finas",
+    "Langosta de Maine, pelada y desvenada",
+    "Gambas, peladas y desvenadas"
+  ],
+  "recipeInstructions": "Marinar los siete primeros vegetales en aceite de oliva con sal y pimienta al gusto. Colocar cada vegetal en un pincho y asar hasta que estén cocidos.\nMarinar la langosta y las gambas en la marinada de langosta.\nMezclar todos los elementos asados con salsa de sandía (receta a continuación) y servir en platos.\nSalsa de Sandía:\nLimón, cortado en rodajas de 1/4 de pulgada\nPepino, pelado sin semillas y cortado en dados de 1/2 pulgada\nSandía, sin semillas y cortada en dados de 1/2 pulgada\nCebolleta, cortada finamente\nCilantro, picado\nChili jalapeño, sin semillas y picado\nAzúcar\nRefrigerar tapado durante 30 minutos.",
+  "url": null
+}

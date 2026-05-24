@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "velvet-hammer",
+  "name": "Martillo de terciopelo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 oz de crema",
+    "1/2 oz de licor blanco de cacao",
+    "1/2 oz de Triple Sec",
+    "Hielo picado"
+  ],
+  "recipeInstructions": "Llenar un vaso mezclador con hielo. Añadir la crema, el licor blanco de cacao y el Triple Sec. Agitar bien hasta enfriar. Colar en un vaso de cóctel frío sobre hielo picado.",
+  "url": null
+}

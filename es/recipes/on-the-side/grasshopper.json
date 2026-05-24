@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "grasshopper",
+  "name": "Saltamontes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "aperitivos",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/2 oz de crema de menta",
+    "1/2 oz de crema de cacao blanca",
+    "2 oz de nata para montar",
+    "Hielo picado"
+  ],
+  "recipeInstructions": "1. Llenar un vaso mezclador con hielo picado.\n2. Añadir la crema de menta, la crema de cacao y la nata al vaso mezclador.\n3. Agitar bien hasta enfriar.\n4. Colar en un vaso de cóctel frío.\n5. Decorar con virutas de chocolate.",
+  "url": null
+}

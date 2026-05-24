@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-oatmeal",
+  "name": "Avena con Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "plato principal",
+    "microondas"
+  ],
+  "recipeIngredient": [
+    "1/3 taza de jugo de manzana sin endulzar",
+    "1/3 taza de agua",
+    "1/8 cucharadita de nuez moscada",
+    "1/2 manzana firme, pelada y picada finamente",
+    "Una pizca de sal",
+    "1/3 taza de avena",
+    "1/4 cucharadita de canela"
+  ],
+  "recipeInstructions": "1. Coloca el jugo de manzana sin endulzar y el agua en un vaso medidor apto para microondas.\n2. Añade la manzana picada, la nuez moscada y una pizca de sal al vaso.\n3. Microondas durante 2,5 minutos.\n4. En un bol de servicio apto para microondas, agrega la avena.\n5. Vierte la mezcla de manzana sobre la avena.\n6. Microondas los ingredientes combinados durante 1 minuto más para una avena rápida, o 3 minutos para una avena regular.\nNotas: Ajusta las especias según tu gusto. Las mitades de manzana se pueden guardar, envueltas en papel film, a temperatura ambiente hasta su uso. Se recomiendan manzanas Granny Smith o Macintosh para esta receta.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cabbage-soup-1",
+  "name": "Sopa de col #1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "microrondas",
+    "sopas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 lata (48 onzas) de jugo de tomate",
+    "1 cebolla picada",
+    "3 tazas de agua",
+    "6 cubos de caldo de carne",
+    "1 repollo cortado en tiras",
+    "1 hoja de laurel",
+    "4 zanahorias cortadas en rodajas"
+  ],
+  "recipeInstructions": "1. En una olla grande, mezcle el jugo de tomate, el agua, el col, las zanahorias, la cebolla, los cubos de caldo y la hoja de laurel.\n2. Lleve a ebullición a fuego medio.\n3. Cocine a fuego lento durante 1 hora.\n4. Retire la hoja de laurel antes de servir.",
+  "url": null
+}

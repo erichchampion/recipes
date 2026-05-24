@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-patties",
+  "name": "Chicken Patties",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "2 cups Cooked chicken",
+    "1 Egg",
+    "1 Onion",
+    "1 tsp Salt",
+    "1 tsp Pepper",
+    "1 cup Matzo meal"
+  ],
+  "recipeInstructions": "1. Grind the cooked chicken and onion together.\n2. Add the egg and seasonings to the mixture.\n3. Form patties from the mixture.\n4. Dip the patties into the matzo meal.\n5. Fry the patties until fully cooked.",
+  "url": null
+}

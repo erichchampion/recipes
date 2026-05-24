@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-salad",
+  "name": "Ensalada sencilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "baja en calorías",
+    "ensaladas",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "2 calabacines, cortados en cubos",
+    "2 calabacines amarillos, cortados en cubos",
+    "3 cebollas verdes, picadas",
+    "2 tomates tipo Roma, cortados en cubos",
+    "1/4 taza de tomates secos al sol, picados (sin aceite)",
+    "3 cucharadas de vinagre de sidra",
+    "1/2 cucharadita de orégano (usé seco; pero fresco sería mejor)",
+    "Sal y pimienta al gusto."
+  ],
+  "recipeInstructions": "1. Cortar los calabacines y los calabacines amarillos en cubos.\n2. Picar las cebollas verdes, los tomates tipo Roma y los tomates secos al sol.\n3. En un bol grande, mezclar todos los ingredientes cortados.\n4. Añadir 3 cucharadas de vinagre de sidra, 1/2 cucharadita de orégano, sal y pimienta al gusto.\n5. Mezclar bien hasta que esté todo combinado.\n6. Esta ensalada se puede comer sola, pero también se puede servir sobre pasta o arroz si se desea.",
+  "url": null
+}

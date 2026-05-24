@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-porridge",
+  "name": "Porridge en olla de cocción lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayunos",
+    "plato principal",
+    "cocinero lento"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de trigo partido",
+    "3/4 taza de avena (no instantánea ni rápida)",
+    "3 tazas de agua",
+    "1/2 taza de pasas",
+    "1/4 taza de germen de trigo",
+    "1/2 taza de manzana rallada",
+    "1/4 cucharadita de canela",
+    "Leche",
+    "Miel"
+  ],
+  "recipeInstructions": "1. En una olla de cocción lenta, mezcla el trigo partido, la avena, el agua, las pasas, el germen de trigo, la manzana rallada y la canela.\n2. Configura la olla a temperatura baja y cocina el porridge durante la noche.\n3. Sirve el porridge en cuencos y acompáñalo con leche y miel.",
+  "url": null
+}

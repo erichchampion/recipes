@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "cooked-salad-dressing",
+  "name": "Aderezo para ensalada cocido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "aderezos para ensaladas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de azúcar",
+    "3 cucharadas de harina",
+    "1/2 cucharadita de mostaza",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimentón dulce",
+    "1/8 cucharadita de pimienta blanca",
+    "2 huevos batidos",
+    "1/2 taza de vinagre",
+    "1/2 taza de agua",
+    "1/4 taza de mantequilla derretida"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes secos hasta que estén bien integrados.\n2. Batir los huevos en la parte superior de un bañomaria y agregar gradualmente los ingredientes secos.\n3. Añadir lentamente el vinagre y el agua, batiendo continuamente para evitar grumos.\n4. Continuar batiendo hasta que el aderezo espese y adquiera una textura suave, aproximadamente 10 minutos.\n5. Incorporar la mantequilla derretida y mezclar bien.\n6. Dejar enfriar antes de guardar en la nevera para usar en ensaladas de patatas, verduras o frutas mixtas.",
+  "url": null
+}

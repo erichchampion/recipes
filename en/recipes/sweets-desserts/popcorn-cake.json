@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "popcorn-cake",
+  "name": "Popcorn Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "4 quarts popped corn",
+    "1/2 pound gum drops",
+    "1/2 pound peanuts",
+    "1 pound marshmallows",
+    "1/2 cup melted margarine",
+    "1/2 cup corn oil"
+  ],
+  "recipeInstructions": "1. Melt the marshmallows, margarine, and corn oil together.\n2. Pour the mixture over the popcorn, nuts, and gumdrops.\n3. Mix everything together well.\n4. Transfer the mixture to a bundt cake pan or angel food cake pan.\n5. Allow it to cool completely.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-popcorn",
+  "name": "Chili con palomitas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "palomitas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de mantequilla derretida",
+    "1/2 cucharadita de polvo de chili",
+    "1/8 cucharadita de sal",
+    "1/8 cucharadita de ajo en polvo",
+    "1/8 cucharadita de pimentón dulce",
+    "6 tazas de palomitas de maíz infladas"
+  ],
+  "recipeInstructions": "1. Mezclar los cuatro primeros ingredientes y verter sobre las palomitas de maíz calientes.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "honey-dressing",
+  "name": "Aderezo de miel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "ensaladas",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de vinagre",
+    "1 taza de mayonesa",
+    "1 cucharadita de mostaza preparada",
+    "1 cucharadita de azúcar",
+    "1 cucharadita de cebolla picada",
+    "1/2 taza de miel",
+    "1/4 cucharadita de perejil picado",
+    "Sal y pimienta al gusto",
+    "1/2 taza de aceite"
+  ],
+  "recipeInstructions": "1. Mezclar el vinagre, la mayonesa y la mostaza hasta obtener una consistencia suave.\n2. Añadir gradualmente el azúcar, la cebolla picada, la miel y el perejil, sazonando con sal y pimienta al gusto.\n3. Incorporar lentamente el aceite hasta que esté bien mezclado.\n4. Da para 2 tazas.",
+  "url": null
+}

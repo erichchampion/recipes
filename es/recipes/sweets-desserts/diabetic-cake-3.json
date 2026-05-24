@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "diabetic-cake-3",
+  "name": "Tarta para diabéticos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres",
+    "diabético"
+  ],
+  "recipeIngredient": [
+    "1 taza de agua",
+    "2 huevos grandes",
+    "1 taza de pasas",
+    "endulzante artificial al gusto",
+    "1 taza de puré de manzana sin azúcar",
+    "3/4 taza de aceite",
+    "1 cucharadita de bicarbonato de sodio",
+    "1/4 cucharadita de canela",
+    "1/2 cucharadita de nuez moscada",
+    "1 cucharadita de extracto de vainilla",
+    "1/2 cucharadita de sal",
+    "1 1/2 tazas de harina"
+  ],
+  "recipeInstructions": "1. Cocinar las pasas hasta que estén suaves.\n2. Escurrir el agua de las pasas cocidas y mezclar con el puré de manzana, huevos, endulzante y aceite.\n3. Incorporar el bicarbonato de sodio, la harina, la canela, la nuez moscada, la vainilla y la sal hasta obtener una mezcla homogénea.\n4. Hornear a 175 °C durante 20-25 minutos en un molde cuadrado de 20 cm o redondo de 23 cm.",
+  "url": null
+}

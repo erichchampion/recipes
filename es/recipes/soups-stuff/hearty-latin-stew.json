@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "hearty-latin-stew",
+  "name": "Estofado latino sustancioso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "frijoles",
+    "favoritos familiares",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz integral",
+    "1/2 taza de bulgur",
+    "400g de garbanzos enlatados",
+    "160g de pimientos chiles enlatados, picados",
+    "80g de judías verdes",
+    "120g de maíz",
+    "400g de tomates triturados enlatados",
+    "1 cucharadita de polvo de chile o 2 cucharaditas de salsa picante"
+  ],
+  "recipeInstructions": "1. Cocinar el arroz integral y el bulgur juntos.\n2. En una olla grande, calentar las judías verdes, los pimientos chiles, el polvo de chile (o salsa picante) y la salsa picante.\n3. Incorporar el resto de los ingredientes. Reducir el fuego y cocinar a fuego lento durante 15-30 minutos.",
+  "url": null
+}

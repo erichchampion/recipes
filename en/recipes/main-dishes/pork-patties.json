@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pork-patties",
+  "name": "Pork Patties",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "meat",
+    "pork"
+  ],
+  "recipeIngredient": [
+    "1 Pound Ground Pork, lean",
+    "1 1/2 Teaspoons Salt",
+    "1/2 Teaspoon Dried Sage",
+    "1/4 Teaspoon Ground Nutmeg",
+    "1/4 Teaspoon Pepper",
+    "1/4 Teaspoon Dried Thyme",
+    "1 Pinch Ground Ginger",
+    "2 Tablespoons Water"
+  ],
+  "recipeInstructions": "1. In a bowl, combine all ingredients and mix well.\n2. Shape the mixture into six patties.\n3. Fry the patties in a skillet until they are browned and cooked throughout.\n4. Yield: 6 servings.",
+  "url": null
+}

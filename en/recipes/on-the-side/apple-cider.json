@@ -1,0 +1,17 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-cider",
+  "name": "Apple Cider",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "apples",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "Apples (wind-fall or crabapples), washed and cored"
+  ],
+  "recipeInstructions": "1. Wash the apples and core them.\n2. Grind through a cider press to extract the juice.\n3. Strain the juice to remove any solids.\n4. Boil the strained juice for five minutes.\n5. Seal the container with a lid to preserve the apple cider.",
+  "url": null
+}

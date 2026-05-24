@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "soy-sauce-poke",
+  "name": "Poke con Salsa de Soja",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "asiático",
+    "étnico",
+    "hawaiano",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1 libra de filete de ahi (tuna amarilla) o aku (tuna skipjack)",
+    "1/2 taza de salsa de soja",
+    "1 cucharadita de aceite de sésamo",
+    "1/4 taza de cebolla picada",
+    "1/4 taza de cebollino picado",
+    "1/2 taza de alga nori picada",
+    "1/2 cucharadita de jengibre fresco rallado",
+    "2 pimientos rojos hawaianos, sin semillas y picados"
+  ],
+  "recipeInstructions": "1. Cortar el pescado en cubos de 1/2 pulgada.\n2. En un bol, mezclar el pescado con los ingredientes restantes; combinar bien.\n3. Refrigerar antes de servir.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-ravioli",
+  "name": "Raviolis de mentira",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne molida",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 diente de ajo grande, picado finamente",
+    "1 lata de puré de tomate",
+    "2 cebollas medianas, picadas finamente",
+    "3/4 cucharadita de romero",
+    "1 taza de agua",
+    "3/4 cucharadita de orégano",
+    "2 libras de carne molida",
+    "1 taza de queso parmesano",
+    "1 lata de salsa de tomate",
+    "1 taza de perejil picado",
+    "1 libra de macarrones en forma de mariposa",
+    "2 tazas de pan rallado"
+  ],
+  "recipeInstructions": "1. Mezclar en un bol el ajo picado, el puré de tomate, las cebollas picadas, el romero, el agua y el orégano con la carne molida.\n2. Incorporar 1/3 taza de queso parmesano y 1/3 taza de perejil hasta que esté bien mezclado.\n3. Cocinar la pasta según las instrucciones del paquete y escurrir bien.\n4. En otro bol, mezclar aceite de oliva, el perejil restante, espinacas picadas, pan rallado, 1/3 taza de queso parmesano, huevos batidos, sal de ajo y tomillo molido.\n5. Extender una capa de pasta en un plato para hornear.\n6. Cubrir con una capa de la mezcla de espinacas.\n7. Añadir otra capa de la mezcla de carne encima.\n8. Repetir las capas hasta que se terminen todos los ingredientes, terminando con la salsa de tomate.\n9. Espolvorear con el queso parmesano y perejil restantes por encima.\n10. Hornear a 350 °F durante 20-30 minutos, o hasta que esté caliente y ligeramente dorado.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheeseball",
+  "name": "Pelota de queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "8 onzas de queso crema",
+    "2 1/2 onzas de carne enlatada o jamón picado",
+    "1/3 taza de cebolletas picadas",
+    "Sal de condimento Lawry's",
+    "Salsa Worcestershire"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcle el queso crema y la carne picada o jamón.\n2. Añada las cebolletas picadas, la sal de condimento Lawry's y la salsa Worcestershire a la mezcla. Revuelva hasta que todos los ingredientes estén bien integrados.\n3. Forme la mezcla en una bola.\n4. Coloque la bola en un recipiente con tapa y refrigere hasta el momento de servir.\n5. Sirva con galletas saladas.",
+  "url": null
+}

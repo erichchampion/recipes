@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "abc-vegetables-n-chili",
+  "name": "Verduras ABC y Chili",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "sopas",
+    "sopas y estofados"
+  ],
+  "recipeIngredient": [
+    "1 lb de pechuga de pollo molida sin piel",
+    "1/2 taza de cebolla picada",
+    "1/2 taza de pimientos rojos picados",
+    "3 tazas de agua",
+    "15 oz de salsa de tomate",
+    "15 oz de tomates enlatados, escurridos",
+    "2 cucharadas de polvo de chili",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "2 tazas de vegetales mixtos congelados, descongelados",
+    "1 taza de pasta alfabética sin cocinar"
+  ],
+  "recipeInstructions": "1. En una olla, combina el pollo, la cebolla y los pimientos rojos. Cocina a fuego medio-alto, removiendo ocasionalmente, hasta que el pollo ya no esté rosado.\n2. Añade el agua, la salsa de tomate, los tomates enlatados, el polvo de chili, la sal y la pimienta negra. Continúa cocinando, removiendo ocasionalmente, hasta que el chili hierva.\n3. Agrega los vegetales mixtos y la pasta. Reduce el fuego a medio-bajo. Cocina, removiendo con frecuencia, hasta que se mezclen los sabores, 20 minutos.",
+  "url": null
+}

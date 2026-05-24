@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-dogs",
+  "name": "Perros calientes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "aperitivos",
+    "dietas especiales",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 lata de garbanzos (1 lb)",
+    "3 rebanadas de pan blanco, sin corteza",
+    "1 sustituto de huevo equivalente a 2 huevos",
+    "1/2 cucharadita de ajo picado",
+    "1/4 cucharadita de pimentón rojo molido",
+    "1 1/4 cucharaditas de sal",
+    "1/4 cucharadita de pimienta negra",
+    "Aceite para freír en profundidad"
+  ],
+  "recipeInstructions": "1. En una licuadora, tritura los garbanzos y el pan hasta que queden bien combinados.\n2. Mezcla el sustituto de huevo, el ajo, el pimentón, la sal y la pimienta hasta que estén completamente integrados.\n3. Forma la mezcla en rollos de longitud finger y refrigera durante 1 hora para que la masa se asiente.\n4. Calienta el aceite en una freidora profunda a 370 °F (180 °C).\n5. Coloca cuidadosamente los rollos de perro caliente en el aceite caliente.\n6. Fríe hasta que estén dorados, luego escurre sobre toallas de papel.\n7. Sirve con mostaza o salsa picante. Rinde aproximadamente 20 porciones.",
+  "url": null
+}

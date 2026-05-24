@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "carolina-casserole",
+  "name": "Carolina Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "casseroles",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground Beef",
+    "1 can Niblets Corn",
+    "1 cup Onions, chopped",
+    "1 can Tomato Puree",
+    "1 can Tomato Sauce",
+    "1 can Red Beans",
+    "1 tbsp Chilli Powder"
+  ],
+  "recipeInstructions": "1. Brown beef and onions together in a large skillet.\n2. Add remaining ingredients to the skillet.\n3. Stir well and cover the pan.\n4. Simmer for 35-45 minutes, stirring occasionally.\n5. Season to taste with salt and pepper as desired.",
+  "url": null
+}

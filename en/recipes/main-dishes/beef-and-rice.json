@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-and-rice",
+  "name": "Beef and Rice",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "2 lbs chuck roast, cubed",
+    "salt and pepper to taste",
+    "2 teaspoons garlic powder",
+    "1 can cream of mushroom soup",
+    "1 can creamy onion soup",
+    "2 cans water",
+    "6 servings hot cooked rice"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a large roaster or Dutch oven.\n2. Mix well.\n3. Bake at 350°F for 3 hours, or until beef is tender.\n4. Serve over hot, cooked rice.",
+  "url": null
+}

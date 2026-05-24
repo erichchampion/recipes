@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "super-good-spareribs",
+  "name": "Super Good Spareribs",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "bar-b-q",
+    "main dish",
+    "meat",
+    "pork",
+    "ribs"
+  ],
+  "recipeIngredient": [
+    "1 cup Brown sugar",
+    "2 tbsp Cornstarch",
+    "1/2 tsp Garlic powder",
+    "1 cup Water",
+    "3 tbsp Soy sauce"
+  ],
+  "recipeInstructions": "1. Mix together in a saucepan and heat to boiling, stirring until thickened.\n2. Place spareribs in a roaster with 1 cup of water, cover, and cook for 1 hour at 350°F or until tender.\n3. Pour the sauce over the ribs and bake for another 20 minutes, basting often.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "roast-duckling-milan",
+  "name": "Pato asado al estilo milanés",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "étnica",
+    "italiana",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 pavo joven, descongelado y cortado en cuartos",
+    "1/4 cucharadita de pimienta negra",
+    "1 cucharada de orégano seco",
+    "1/2 cucharadita de albahaca seca",
+    "4 cucharadas de mostaza dijon",
+    "1/3 taza de queso parmesano rallado",
+    "1/3 taza de vermut seco",
+    "1/4 taza de perejil picado (para decorar)"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 200 °C.\n2. Con un cuchillo afilado, marcar la piel de los cuartos de pavo.\n3. Colocar los cuartos de pavo, con la piel hacia arriba, sobre una rejilla en una bandeja para hornear sin tapa.\n4. Espolvorear con pimienta, orégano y albahaca.\n5. Hornear durante 1 hora.\n6. Retirar el pavo de la rejilla.\n7. Escurrir el líquido de la bandeja.\n8. Colocar los cuartos de pavo nuevamente en la bandeja, sin la rejilla.\n9. Untar mostaza sobre los cuartos de pavo y espolvorear con queso parmesano.\n10. Verter el vermut en la bandeja y hornear a 200 °C durante 45 minutos o hasta que esté tierno.\n11. Decorar con perejil picado.",
+  "url": null
+}

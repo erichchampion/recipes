@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-chicken-spread",
+  "name": "Basic Chicken Spread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "dips",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "2 cups chopped cooked chicken",
+    "1/2 cup mayonnaise",
+    "salt and freshly ground pepper"
+  ],
+  "recipeInstructions": "1. Place the chopped cooked chicken in a food processor.\n2. Add the mayonnaise, salt, and freshly ground pepper to the food processor.\n3. Process the ingredients until they are coarsely chopped and well blended.\n4. Cover the mixture and refrigerate for at least several hours, preferably overnight.",
+  "url": null
+}

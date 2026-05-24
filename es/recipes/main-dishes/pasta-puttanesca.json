@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-puttanesca",
+  "name": "Pasta Puttanesca",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "etnía",
+    "italiana",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de aceite de oliva",
+    "1 diente de ajo grande, pelado",
+    "6 filetes de anchoa enlatada, escurridos",
+    "3 cucharaditas de alcaparras",
+    "1/8 cucharadita de pimentón rojo molido",
+    "20 aceitunas negras Kalamata, sin hueso",
+    "1 pequeña manojada de hojas de albahaca fresca",
+    "28 onzas de tomates plum, escurridos, desmenuzados con la mano",
+    "1/2 taza de perejil finamente picado",
+    "12 onzas de espagueti o 1 libra de pasta fresca",
+    "Parmesano o Pecorino rallado"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva a fuego lento en una sartén grande. Añadir el ajo y las anchoas machacadas, remover hasta que casi se disuelvan, unos 5 minutos.\n2. Incorporar las alcaparras, el pimentón y las aceitunas; cocinar durante 1 minuto. Agregar la albahaca y los tomates; llevar a ebullición lenta. Reducir el fuego y dejar hervir a fuego lento durante 10-12 minutos. Si la salsa parece demasiado seca, añadir un poco del jugo reservado. Retirar del fuego y mezclar el perejil.\n3. Verter la salsa sobre la pasta cocida. Servir con Parmesano rallado al lado.",
+  "url": null
+}

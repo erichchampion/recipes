@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-creole",
+  "name": "Pollo Creole",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aceite",
+    "1 pimiento verde, picado",
+    "1 taza de arroz cocido",
+    "Una pizca de nuez moscada molida",
+    "1 diente de ajo, picado finamente",
+    "1 taza y media de cebolla picada",
+    "2 tazas de pollo cocido, cortado en dados",
+    "2 tazas de salsa de espagueti",
+    "Una pizca de salsa picante"
+  ],
+  "recipeInstructions": "1. En una sartén grande, calienta el aceite a fuego medio.\n2. Añade la cebolla y el pimiento verde. Cocina, removiendo ocasionalmente, durante 8 a 10 minutos o hasta que las verduras estén tiernas.\n3. Incorpora los ingredientes restantes.\n4. Tapa y deja cocinar a fuego lento durante 30 a 45 minutos, hasta que espese.\n5. Sirve con pan crujiente y una ensalada.",
+  "url": null
+}

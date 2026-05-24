@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "garlic-broth",
+  "name": "Caldo de Ajo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "aperitivos",
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "2 cabezas de ajo sin pelar, separadas",
+    "1 hoja de laurel desmenuzada",
+    "6 cucharadas de agua",
+    "1/2 taza de perejil fresco picado",
+    "1/2 cucharadita de salvia",
+    "1/2 cucharadita de polvo de curry",
+    "Un pellizco de azafrán",
+    "1 cebolla pelada, cortada en cuartos",
+    "2 tallos de apio, cortados en tercios"
+  ],
+  "recipeInstructions": "1. Envolver el ajo y la hoja de laurel en un paño de lino.\n2. Colocar todos los ingredientes en una olla de sopa.\n3. Cubrir y llevar a ebullición.\n4. Reducir el fuego y dejar cocer a fuego lento durante 25 minutos.\n5. Retirar del fuego y dejar enfriar ligeramente.\n6. Retirar el ajo y la hoja de laurel.\n7. Licuar el caldo y las verduras en una licuadora.\n8. Sazonar al gusto y servir.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "melty-cheese",
+  "name": "Queso derretido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de papa cocida, pelada y picada",
+    "2 tazas de agua",
+    "2 oz de tarro de pimientos",
+    "1 cucharadita de sal (opcional)",
+    "1/2 cucharadita de polvo de cebolla",
+    "1/4 taza de levadura nutricional",
+    "3 cucharadas de almidón de maíz",
+    "2 cucharadas de jugo de limón"
+  ],
+  "recipeInstructions": "1. Licúa las papas con suficiente agua para cubrirlas hasta obtener una mezcla suave.\n2. Agrega los ingredientes restantes y licúa nuevamente hasta que quede suave.\n3. Vierte la mezcla en una sartén pesada.\n4. Cocina a fuego medio-alto, revolviendo constantemente durante 7 u 8 minutos aproximadamente.\n5. La mezcla espesará hasta alcanzar la consistencia de queso para nachos.\n6. Sirve inmediatamente, ya que el \"queso\" se solidificará al enfriarse.",
+  "url": null
+}

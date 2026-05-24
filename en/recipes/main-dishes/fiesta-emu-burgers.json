@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fiesta-emu-burgers",
+  "name": "Fiesta Emu Burgers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "main dish",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground Emu",
+    "Taco seasoning mix",
+    "4 Hamburger buns",
+    "Sour cream",
+    "Cheddar cheese",
+    "Tomatoes",
+    "Lettuce"
+  ],
+  "recipeInstructions": "1. Mix ground emu with taco seasoning. Form into 4 patties.\n2. Cook over very hot grill or in skillet over high heat for 4 to 5 minutes per side.\n3. Spread buns with sour cream, if desired. Add emu patties, cheese, lettuce and tomatoes, if desired.",
+  "url": null
+}

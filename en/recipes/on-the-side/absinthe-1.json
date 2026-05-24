@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "absinthe-1",
+  "name": "Absinthe 1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "liqueurs",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 Pint Vodka",
+    "2 Teaspoons Crumbled Wormwood",
+    "2 Teaspoons Anise Seed",
+    "1/2 Teaspoon Fennel Seed",
+    "4 Cardamom Pods",
+    "1 Teaspoon Marjoram Leaves",
+    "1/2 Teaspoon Ground Coriander",
+    "2 Teaspoons Chopped Angelica Root",
+    "1 2/3 Cups Sugar Syrup"
+  ],
+  "recipeInstructions": "1. Place the vodka in a large jar with a tightly fitted top.\n2. Add the wormwood and shake well.\n3. Let the wormwood steep for 48 hours, then strain it out.\n4. Work the fennel and anise seeds and contents of the cardamom pods with a motor for a few minutes.\n5. Add these along with the marjoram, coriander, and angelica to the vodka mixture and shake well.\n6. Let steep in a warm but not hot place for one week.\n7. Filter the contents through cheesecloth.\n8. Add the sugar syrup.",
+  "url": null
+}

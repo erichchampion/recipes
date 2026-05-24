@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "classic-guacamole",
+  "name": "Classic Guacamole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "dips",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "4 avocados -- seed, peel",
+    "2 tablespoons lemon juice",
+    "1 clove garlic -- crushed",
+    "1 tomato -- finely chopped",
+    "1/4 cup onion -- finely chopped",
+    "1/4 teaspoon ground cumin",
+    "4 drops hot pepper sauce",
+    "Tortilla chips"
+  ],
+  "recipeInstructions": "1. Using a fork, coarsely mash the avocado with lemon juice and garlic.\n2. Stir in the remaining ingredients until well blended.\n3. Garnish as desired and serve with tortilla chips.",
+  "url": null
+}

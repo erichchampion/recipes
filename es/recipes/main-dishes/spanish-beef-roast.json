@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "spanish-beef-roast",
+  "name": "Asado de ternera español",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "4 lb de rodillo de ternera asado",
+    "1 lata grande de tomates enteros",
+    "1 tarro de aceitunas españolas con su jugo",
+    "1/2 taza de agua"
+  ],
+  "recipeInstructions": "1. Dorar el rodillo de ternera en una olla grande.\n2. Añadir todos los ingredientes a la olla.\n3. Llevar a ebullición, luego tapar y cocinar a fuego lento hasta que la carne se desmenuce.",
+  "url": null
+}

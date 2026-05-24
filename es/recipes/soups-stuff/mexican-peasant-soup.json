@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-peasant-soup",
+  "name": "Sopa Campesina Mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "americana",
+    "étnica",
+    "mexicana",
+    "sopa",
+    "cocina de fogón"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de cebolla, picada",
+    "3/4 taza de apio, picado",
+    "1/2 taza de pimiento verde, picado",
+    "1 diente de ajo, picado finamente",
+    "1/4 cucharadita de pimienta molida",
+    "1/4 cucharadita de polvo de chile",
+    "unas gotas de salsa Tabasco (al gusto)",
+    "2 tazas de caldo vegetal",
+    "16 onzas de frijoles refritos",
+    "Tortitas de maíz, para acompañar (opcional)",
+    "Queso cheddar rallado (opcional)"
+  ],
+  "recipeInstructions": "1. Picar la cebolla, el apio y el pimiento verde.\n2. Picar finamente el ajo.\n3. En una olla, mezclar las verduras picadas, el ajo, la pimienta molida, el polvo de chile y la salsa Tabasco.\n4. Verter el caldo vegetal y los frijoles refritos en la olla.\n5. Calentar a fuego lento hasta que hierva.\n6. Remover hasta que todo esté bien caliente.\n7. Servir con tortitas de maíz o queso cheddar rallado por encima, si se desea.",
+  "url": null
+}

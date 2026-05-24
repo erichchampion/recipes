@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fiesta-emu-burgers",
+  "name": "Hamburguesas de Emú Fiesta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgueros",
+    "plato principal",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida de emú",
+    "Mezcla de condimento para tacos",
+    "4 panecillos para hamburguesa",
+    "Crema agria (opcional)",
+    "Queso cheddar rallado",
+    "Tomates",
+    "Lechuga"
+  ],
+  "recipeInstructions": "1. Mezclar la carne de emú con la mezcla de condimento para tacos. Formar 4 hamburguesas.\n2. Cocinar a la parrilla a fuego muy alto o en una sartén sobre fuego alto durante 4 a 5 minutos por lado.\n3. Untar los panecillos con crema agria, si se desea. Agregar las hamburguesas de emú, queso, lechuga y tomates, si se desea.",
+  "url": null
+}

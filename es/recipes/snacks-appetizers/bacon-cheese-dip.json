@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "bacon-cheese-dip",
+  "name": "Dip con tocino y queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "quesos/huevos",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de crema agria",
+    "1/4 libra de queso Roquefort",
+    "3 onzas de queso crema",
+    "1/4 cucharadita de salsa Tabasco",
+    "4 rebanadas de tocino, cocidas y crujientes",
+    "1 diente de ajo, picado finamente",
+    "1/4 cucharadita de semillas de apio"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en una licuadora eléctrica.\n2. Licuar hasta obtener una textura suave.\n3. Transferir a un recipiente para servir y enfriar.\n4. Servir con papas fritas o galletas saladas.\n5. Rinde: 1 1/2 a 2 tazas.",
+  "url": null
+}

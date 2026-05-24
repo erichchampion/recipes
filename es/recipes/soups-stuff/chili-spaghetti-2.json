@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-spaghetti-2",
+  "name": "Spagueti con chili",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "plato principal",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1 taza de cebolla picada",
+    "1/2 taza de pimiento verde picado",
+    "1 diente de ajo picado",
+    "8 oz de salsa de tomate",
+    "1/2 taza de agua",
+    "2 cucharaditas de polvo de chili",
+    "1 cucharadita de comino molido",
+    "1 cucharadita de granos de caldo",
+    "1/2 cucharadita de orégano molido",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra",
+    "1/2 lb de espaguetis, cocidos y escurridos",
+    "Queso rallado (Cheddar o Monterey Jack)"
+  ],
+  "recipeInstructions": "1. En una sartén grande, dora la carne con la cebolla, el pimiento y el ajo.\n2. Escurre el exceso de grasa de la sartén.\n3. Añade los ingredientes restantes excepto los espaguetis y el queso.\n4. Deja cocinar a fuego lento, tapado, durante 10 minutos, removiendo ocasionalmente.\n5. Coloca los espaguetis en un plato.\n6. Vierte la salsa de chili sobre los espaguetis.\n7. Espolvorea con queso rallado al gusto.",
+  "url": null
+}

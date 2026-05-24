@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "grilled-lamb-burgers",
+  "name": "Grilled Lamb Burgers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecue",
+    "burgers",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1/4 cup bulgur wheat",
+    "1 pound ground lamb",
+    "2 cups snipped parsley",
+    "2 tablespoons finely chopped onion",
+    "2 tablespoons dry red wine",
+    "1 clove garlic, minced",
+    "1/8 teaspoon dried mint, crushed",
+    "1/4 teaspoon ground allspice",
+    "1/2 teaspoon salt"
+  ],
+  "recipeInstructions": "1. Soak bulgur wheat in warm water for 1 hour, then drain well.\n2. Combine the drained bulgur with ground lamb, parsley, onion, red wine, garlic, mint, and allspice.\n3. Mix until all ingredients are well incorporated.\n4. Shape into patties.\n5. Grill over medium coals for 16-18 minutes, or until cooked through.\n6. Serve with pita bread, lettuce, cucumber, and yogurt.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "polo-loco-marinade-ii",
+  "name": "Marinada para Polo Loco II",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pollo",
+    "marinadas",
+    "mexicano",
+    "guarniciones",
+    "vinos"
+  ],
+  "recipeIngredient": [
+    "1 taza de vinagre blanco",
+    "1 taza de aceite de oliva",
+    "1/2 taza de vino blanco (o vermut)",
+    "Ajo al gusto",
+    "1 cucharadita de sal",
+    "1 cucharadita de orégano",
+    "1/2 cucharadita de tomillo",
+    "1/4 cucharadita de Tabasco",
+    "1 cucharada de perejil picado (o cilantro)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Marinar las mitades de pollo durante al menos una hora.",
+  "url": null
+}

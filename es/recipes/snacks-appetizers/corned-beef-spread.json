@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "corned-beef-spread",
+  "name": "Salsa de carne curada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "salsas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de carne curada cocida",
+    "1 cucharadita de mostaza",
+    "2 cucharaditas de rábano picante",
+    "2 cucharaditas de eneldo fresco picado",
+    "1/2 taza de mayonesa",
+    "sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar la carne curada, mostaza, rábano, eneldo, mayonesa, sal y pimienta en un procesador de alimentos.\n2. Pulsar los ingredientes hasta que estén bien combinados sin llegar a formar una pasta.\n3. Cubrir la mezcla y refrigerar durante al menos 2 horas, preferiblemente toda la noche.",
+  "url": null
+}

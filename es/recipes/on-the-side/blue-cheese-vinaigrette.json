@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "blue-cheese-vinaigrette",
+  "name": "Vinaigrette de Queso Azul",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "francesa",
+    "salsa",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 diente de ajo",
+    "1/4 taza de queso azul (aproximadamente 50 gramos)",
+    "1/4 taza de vinagre de vino blanco",
+    "1/2 taza de aceite de oliva",
+    "1/2 cucharadita de sal kosher",
+    "1/4 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Machaca el ajo en el fondo de un bol grande para ensalada utilizando un tenedor o la parte posterior de una cuchara.\n2. Incorpora los ingredientes restantes y mezcla bien hasta que estén completamente combinados.\n3. Sirve a temperatura ligeramente fría o a temperatura ambiente.",
+  "url": null
+}

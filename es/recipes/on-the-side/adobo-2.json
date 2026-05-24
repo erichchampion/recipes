@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "adobo-2",
+  "name": "Adobo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "4 chiles ancho",
+    "2 cucharaditas de ajo picado",
+    "1/4 cucharadita de comino en polvo",
+    "1/2 cucharadita de orégano seco",
+    "1/4 cucharadita de tomillo seco",
+    "1/4 cucharadita de canela en polvo",
+    "3 cucharadas de vinagre",
+    "1/2 taza de jugo de naranja",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Remojar los chiles ancho en agua caliente durante 1 hora. Escurrir y reservar el agua.\n2. Retirar las semillas de los chiles.\n3. Mezclar en una licuadora los chiles sin semillas, el ajo, el comino, el orégano, el tomillo, la canela, el vinagre, el jugo de naranja y la sal.\n4. Licuar hasta obtener una consistencia suave, añadiendo un poco del agua reservada si es necesario.\n5. Transferir la mezcla a un bol.",
+  "url": null
+}

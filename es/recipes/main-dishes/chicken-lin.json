@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-lin",
+  "name": "Pollo Lin",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 pollo entero, cortado en trozos",
+    "1 lata de chiles enteros Ortega",
+    "1/2 taza de queso Parmesano rallado",
+    "1 cebolla mediana, en rodajas",
+    "1 diente de ajo, picado finamente",
+    "1 litro de salsa de espagueti de su elección",
+    "1 cucharadita de condimento de limón y pimienta",
+    "1 cucharadita de eneldo seco",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en una sartén para pollo.\n2. Microondas durante 22 minutos, o hasta que el pollo esté cocido y tierno.\n3. Sirve con arroz, fideos o pasta.",
+  "url": null
+}

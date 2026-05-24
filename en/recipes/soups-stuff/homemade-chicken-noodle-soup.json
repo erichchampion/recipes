@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "homemade-chicken-noodle-soup",
+  "name": "Homemade Chicken Noodle Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chicken",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "4 cups chicken stock",
+    "2 cups diced chicken",
+    "1/2 cup sliced celery",
+    "1/2 cup sliced green onion",
+    "1/2 teaspoon salt",
+    "1/2 teaspoon poultry seasoning",
+    "1/4 teaspoon pepper",
+    "2 cups uncooked noodles",
+    "2 tablespoons flour",
+    "2 cups milk"
+  ],
+  "recipeInstructions": "1. Add chicken, celery, onion, and seasoning to the stock.\n2. Bring to a boil.\n3. Add noodles. Cover and cook until noodles are almost tender (5 to 10 minutes).\n4. Mix flour with a small amount of milk until smooth. Add remaining milk. Stir into soup.\n5. Cook until desired thickness is reached.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-popcorn-mix",
+  "name": "Sweet Popcorn Mix",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "6 cups Popped popcorn",
+    "2 cups Cocoa puffs cereal",
+    "2 tablespoons Margarine, melted",
+    "1 tablespoon Sugar",
+    "1/4 teaspoon Cinnamon"
+  ],
+  "recipeInstructions": "1. Mix popcorn and cereal in a large bowl.\n2. Drizzle with melted margarine; toss to coat.\n3. Mix sugar and cinnamon.\n4. Sprinkle on popcorn mixture; toss to coat.",
+  "url": null
+}

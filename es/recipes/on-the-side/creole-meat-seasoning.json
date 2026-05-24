@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "creole-meat-seasoning",
+  "name": "Condimento de Carne Criolla",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "especias",
+    "guarniciones",
+    "condimentos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de sal",
+    "3/4 taza de ajo en polvo",
+    "3/4 taza de pimienta negra",
+    "1/2 taza de pimentón cayena",
+    "1/2 taza de comino"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Revisar y mezclar bien hasta obtener una combinación uniforme.",
+  "url": null
+}

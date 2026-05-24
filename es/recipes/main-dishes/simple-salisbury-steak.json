@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-salisbury-steak",
+  "name": "Steak Salisbury sencillo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "Sopa de setas (1 lata)",
+    "Carne molida (1 libra)",
+    "Pan rallado seco (1/3 taza)",
+    "Huevo (batido) (1 huevo)",
+    "Cebolla (1/4 taza, picada finamente)",
+    "Setas (1 1/2 tazas, laminadas)"
+  ],
+  "recipeInstructions": "1. En un bol, mezcle la sopa, la carne, el pan rallado, el huevo batido y la cebolla.\n2. Molde la mezcla firmemente en 6 hamburguesas.\n3. Cocine las hamburguesas en una sartén a fuego medio-alto hasta que estén doradas por ambos lados.\n4. Retire cualquier grasa excesiva con una cuchara.\n5. Agregue la sopa restante y las setas a la sartén; devuelva las hamburguesas a la sartén.\n6. Reduzca el fuego a bajo y cubra. Deje cocinar durante 20 minutos, o hasta que estén bien cocidas, dando la vuelta a las hamburguesas ocasionalmente.",
+  "url": null
+}

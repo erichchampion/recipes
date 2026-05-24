@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "biscohos",
+  "name": "Biscotitos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "6 tazas de harina",
+    "1/2 cucharadita de sal",
+    "1 cucharadita de polvo de hornear",
+    "1 cucharadita de canela",
+    "2 cucharaditas de semillas de anís",
+    "1 cucharadita de clavo molido",
+    "1 taza de azúcar",
+    "1 libra de manteca (Crisco)",
+    "2 huevos"
+  ],
+  "recipeInstructions": "1. Batir la manteca y el azúcar hasta que queden ligeros y esponjosos.\n2. Agregar los huevos uno a uno, mezclando bien después de cada adición.\n3. Incorporar gradualmente los ingredientes secos (mezcla de harina) a los ingredientes húmedos, removiendo hasta combinarlos ligeramente.\n4. Formar bolas pequeñas de masa del tamaño de una cucharadita.\n5. Colocar las bolas de masa en una bandeja para hornear engrasada y aplastar ligeramente con el pulgar.\n6. Hornear en horno precalentado a 175 °C (350 °F) durante 15-20 minutos, o hasta que estén dorados.\n7. Espolvorear con azúcar y canela mientras los galletitos aún estén calientes.",
+  "url": null
+}

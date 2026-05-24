@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "rick-s-favorite-pizza-toppings",
+  "name": "Los mejores ingredientes para la pizza de Rick",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 tarro de salsa para pizza rápida, tradicional",
+    "8 onzas de queso mozzarella, rallado finamente",
+    "8 onzas de queso muenster, rallado finamente",
+    "8 onzas de queso provolone, rallado finamente",
+    "8 onzas de queso cheddar suave, rallado finamente",
+    "1/3 taza de queso parmesano, rallado",
+    "8 onzas de rebanadas de pepperoni, o",
+    "1 libra de carne de salchicha J.C. Potter suave",
+    "1/2 pimiento verde, picado",
+    "1/2 cebolla, picada",
+    "8 onzas de setas escurridas"
+  ],
+  "recipeInstructions": "1. Desmenuzar la salchicha en una sartén mediana y cubrir con 2 pulgadas de agua.\nCubrir la sartén y hervir suavemente la salchicha a fuego bajo,\ndesmenuzándola ocasionalmente con un tenedor. Una vez cocida, escurrir la salchicha,\nenjuagarla bien y escurrirla nuevamente. Reservar.\n2. Mezclar todos los quesos en un bol grande.\n3. Espolvorear unas cuantas cucharadas de queso sobre la masa de pizza preparada.\n4. Cubrir la pizza con 1 y 1/2 tarros de salsa para pizza rápida.\n5. Espolvorear más queso encima, luego agregar la salchicha (o pepperoni),\npimiento verde, cebolla y setas.\n6. Hornear según la receta de la masa.",
+  "url": null
+}

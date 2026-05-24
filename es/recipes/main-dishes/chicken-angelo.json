@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-angelo",
+  "name": "Pollo Angelo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "pollo",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "3 pechugas de pollo enteras",
+    "1/3 taza de vino blanco seco",
+    "1 cebolla pequeña",
+    "1 taza de setas laminadas",
+    "6 corazones de artichoke, cortados en cuartos",
+    "1/2 taza de caldo de pollo",
+    "2 dientes de ajo picados",
+    "1 cucharada de perejil fresco picado",
+    "1/4 taza de mantequilla",
+    "Una pizca de orégano",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Deshuesar las pechugas de pollo y cortarlas en cuartos.\n2. Empanizar en harina, sacudiendo el exceso.\n3. Calentar 1/4 taza de mantequilla en una sartén grande a fuego medio.\n4. Dorar los trozos de pollo por todos lados.\n5. Agregar orégano, caldo, setas, corazones de artichoke y perejil.\n6. Saltear a fuego alto hasta que la salsa espese, removiendo constantemente.\n7. Servir inmediatamente.",
+  "url": null
+}

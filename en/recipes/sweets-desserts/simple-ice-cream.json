@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-ice-cream",
+  "name": "Simple Ice Cream",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "ice cream",
+    "ice creams & frozen desserts"
+  ],
+  "recipeIngredient": [
+    "2 eggs",
+    "2/3 cup sugar",
+    "2 cups whipping cream",
+    "2 cups fruit either pureed, chopped, or mashed (bananas, peaches, any kind of berry, cherries, etc)",
+    "1 teaspoon vanilla extract (or try some almond extract if you are using cherries or peaches)"
+  ],
+  "recipeInstructions": "1. With an electric mixer, beat the eggs and sugar until they form a thick, light-yellow mixture.\n2. Add the pureed fruit, cream, and flavorings to the egg mixture and stir until well blended.\n3. Process in either a conventional ice cream freezer or in one of the non-electric ice cream makers that you chill in your freezer before using.\nYIELD: about 1 quart",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-cakes",
+  "name": "Hot Cakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breads",
+    "breakfast",
+    "main dish",
+    "pancakes"
+  ],
+  "recipeIngredient": [
+    "1 cup flour",
+    "1 tbsp sugar",
+    "1 tsp salt",
+    "1 tsp baking soda",
+    "1 cup sour milk",
+    "1 tbsp melted fat",
+    "1 egg yolk",
+    "1 egg white, beaten stiff and folded in last"
+  ],
+  "recipeInstructions": "1. Mix all ingredients together in the order listed.\n2. Ensure you have one of each ingredient.\n3. Combine them carefully to avoid any mistakes.",
+  "url": null
+}

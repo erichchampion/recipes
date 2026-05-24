@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-gaufrette",
+  "name": "Gaufre francesa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de crema batida",
+    "1 taza de harina",
+    "3/4 taza de azúcar glas",
+    "2 cucharaditas de vainilla",
+    "1/4 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Bate la crema hasta que comience a espesarse.\n2. Incorpora los demás ingredientes.\n3. Hornea según las indicaciones para pizzelles.",
+  "url": null
+}

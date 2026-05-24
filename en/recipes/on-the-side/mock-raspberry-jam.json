@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-raspberry-jam",
+  "name": "Mock Raspberry Jam",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condiments",
+    "jams",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "5 cups Green tomatoes",
+    "4 cups Sugar",
+    "6 oz Raspberry Jello (2 packages)"
+  ],
+  "recipeInstructions": "1. Process the green tomatoes in a blender or food processor.\n2. Add sugar to the blended tomatoes and boil for 20 minutes, skimming as necessary.\n3. Add the raspberry Jello and stir until dissolved.\n4. Pour the mixture into sterilized jars.\n5. Store in the refrigerator. This jam can also be frozen.",
+  "url": null
+}

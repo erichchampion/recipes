@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "lisa-s-oriental-burgers",
+  "name": "Hamburguesas Orientales de Lisa",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "plato principal",
+    "carne",
+    "oriental"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de almidón de maíz",
+    "2 cucharas de jerez",
+    "4 cucharas de salsa de soja",
+    "1 diente de ajo picado",
+    "1 cucharadita de jengibre molido",
+    "Cebolletas picadas"
+  ],
+  "recipeInstructions": "1. En una sartén, mezcle todos los ingredientes excepto las cebolletas durante unos 5 minutos hasta que la salsa espese.\n2. Coloque la mezcla de salsa y cebolletas sobre hamburguesas a la parrilla y panecillos.",
+  "url": null
+}

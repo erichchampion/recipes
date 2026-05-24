@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "boudin-blanc-i-sausage-making-cookbook",
+  "name": "Boudin Blanco",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "embutidos"
+  ],
+  "recipeIngredient": [
+    "2 1/2 kg de paleta de cerdo, molida finamente",
+    "2 1/2 kg de pechuga de pollo, molida finamente",
+    "2 cucharadas de sal",
+    "3 cucharaditas de pimienta blanca",
+    "3 cucharaditas de cuatres especias",
+    "20 huevos",
+    "6 cucharadas de harina de arroz",
+    "6 tazas de leche"
+  ],
+  "recipeInstructions": "1. Mezclar la harina de arroz con la leche hasta obtener una mezcla homogénea sin grumos.\n2. Seguir la receta de cuatres especias como se indica.\n3. Combinar todos los ingredientes en un bol grande, mezclando suavemente hasta que estén bien integrados.",
+  "url": null
+}

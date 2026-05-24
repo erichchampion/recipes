@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-milk-corn-bread",
+  "name": "Pan de maíz con leche dulce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "2 tazas de maicena",
+    "1 1/2 tazas de leche",
+    "4 cucharadas de mantequilla derretida",
+    "1 cucharadita de sal",
+    "1 taza de harina blanca",
+    "2 huevos batidos",
+    "2 cucharadas de azúcar",
+    "3 cucharaditas de polvo de hornear"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta combinarlos bien.\n2. Verter la mezcla en un molde para hornear.\n3. Untar la parte superior con mantequilla derretida.\n4. Hornear a temperatura moderada (350-400 °F) durante 25 minutos.",
+  "url": null
+}

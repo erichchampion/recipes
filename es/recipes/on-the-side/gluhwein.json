@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "gluhwein",
+  "name": "Vino caliente glúten libre",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "alemana",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de vino tinto",
+    "1 pequeño trozo de cáscara de limón",
+    "5 cucharaditas de azúcar blanco, o al gusto",
+    "1 varita de canela",
+    "1 clavo entero"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una cacerola.\n2. Calentar a fuego suave hasta que el azúcar se disuelva y la mezcla esté a punto de hervir.\n3. Verter en un bol de vidrio caliente.\n4. Envolver el bol con un paño y servir inmediatamente.",
+  "url": null
+}

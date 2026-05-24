@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "safari-supper",
+  "name": "Cena de safari",
+  "recipeCuisine": "Africa & Middle East",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "fruta",
+    "plato principal",
+    "carne",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 1/2 kg de carne molida magra",
+    "1 cebolla; cortada en rodajas, mediana",
+    "1 taza de arroz blanco sin cocer",
+    "2 1/2 tazas de agua",
+    "2 cucharaditas de caldo de pollo instantáneo",
+    "1 cucharadita de polvo de curry",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de jengibre",
+    "1/4 cucharadita de canela",
+    "3 cucharadas de mantequilla de maní gruesa",
+    "1 cucharada de miel",
+    "1/2 taza de pasas"
+  ],
+  "recipeInstructions": "1. Cocine y revuelva la carne y la cebolla en una sartén grande hasta que la cebolla esté tierna y la carne esté marrón.\n2. Escurra el exceso de grasa.\n3. Incorpore los ingredientes restantes: caldo de pollo, polvo de curry, sal, jengibre, canela, mantequilla de maní, miel y pasas.\n4. Para cocinar en sartén:\n- Caliente la mezcla hasta que hierva.\n- Reduzca el fuego y deje hervir cubierto, revolviendo ocasionalmente, hasta que el arroz esté tierno (aproximadamente 35 minutos). Añada agua si es necesario.\n5. Para hornear:\n- Transfiera la mezcla a un refractario engrasado de 2 cuartos.\n- Cubra y hornee a 180 °C, revolviendo ocasionalmente, hasta que el arroz esté tierno (aproximadamente 50-60 minutos). Añada agua si es necesario.",
+  "url": null
+}

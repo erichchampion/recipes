@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "grits",
+  "name": "Grits",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "cereals",
+    "main dish",
+    "soul food"
+  ],
+  "recipeIngredient": [
+    "3 cups water",
+    "1 1/2 cups grits (white, not instant)",
+    "1 tablespoon salt"
+  ],
+  "recipeInstructions": "1. Heat the water to boiling in a large saucepan over medium heat.\n2. Gradually pour in the grits while stirring continuously to prevent lumps.\n3. Add the salt and reduce the heat to low (allow one or two bubbles to form at a time).\n4. Cook, stirring constantly, until the grits are tender. This should take about 10 minutes.\n5. The finished texture of the grits should be similar to oatmeal—neither runny nor stiff.\n6. If the grits become too thick during cooking, stir in a small amount of hot water.",
+  "url": null
+}

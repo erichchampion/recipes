@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fig-squares",
+  "name": "Cuadritos de Higo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "caramelos",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de higos",
+    "1/3 taza de jengibre cristalizado",
+    "1 taza de azúcar en polvo",
+    "2 cucharadas de jugo de limón",
+    "1 taza de coco tostado",
+    "1/4 cucharadita de sal",
+    "3/4 taza de nueces"
+  ],
+  "recipeInstructions": "1. Mezclar los higos, nueces, sal y jengibre.\n2. Procesar la mezcla en una picadora a velocidad media.\n3. Agregar el jugo de limón a la mezcla procesada.\n4. Amasar la mezcla sobre una superficie espolvoreada con azúcar en polvo hasta obtener una pasta.\n5. Estirar la pasta con un rodillo y cortarla en cuadrados de 1 pulgada.\n6. Disponer los cuadrados en capas de tres, espolvoreando coco tostado entre cada capa.",
+  "url": null
+}

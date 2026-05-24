@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "meadow-muffins",
+  "name": "Muffins de prado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "desayuno",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "7,5 oz de copos de avena con pasas (por peso)",
+    "1 taza de azúcar",
+    "1,25 tazas de harina",
+    "0,125 tazas de bicarbonato de sodio",
+    "0,0625 tazas de sal",
+    "2 tazas de buttermilk",
+    "0,5 taza de mantequilla derretida",
+    "2 huevos"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes secos en un bol hasta que estén bien integrados.\n2. Agregar gradualmente el buttermilk, mezclando solo hasta combinarse y dejar reposar durante 20 minutos para ablandar la avena.\n3. Incorporar la mantequilla derretida y los huevos batidos. Mezclar suavemente sin sobremezclar la masa.\n4. Hornear a 190 °C (375 °F) durante 15-18 minutos o hasta que estén dorados.",
+  "url": null
+}

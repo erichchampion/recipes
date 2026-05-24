@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-cool-whip",
+  "name": "Mock Cool Whip",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "glaseado",
+    "coberturas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de leche desnatada",
+    "1/2 taza de polvo de leche sin grasa",
+    "1/8 cucharadita de cremor tártaro",
+    "4 cucharaditas de jugo de limón",
+    "2 cucharaditas de azúcar (opcional)",
+    "1/2 cucharadita de extracto de vainilla (opcional)"
+  ],
+  "recipeInstructions": "1. Coloca la leche desnatada en un bol metálico pequeño y congélalo. Deja que se mantenga hasta que comiencen a formarse cristales de hielo, lo que llevará unos 15 minutos.\n2. Retira el bol del congelador y añade el polvo de leche sin grasa y el cremor tártaro. Bate la mezcla a velocidad alta con un batidor eléctrico hasta que adquiera textura espumosa.\n3. Añade lentamente 1 cucharadita de jugo de limón, batiendo continuamente hasta que la mezcla empiece a espesarse. Agrega otra cucharadita de jugo de limón y, si lo deseas, el azúcar. Continúa batiendo hasta que la mezcla forme picos suaves.\n4. Incorpora las 2 cucharaditas restantes de jugo de limón y sigue batiendo hasta que se formen picos firmes. Si lo deseas, incorpora el extracto de vainilla y sirve inmediatamente como cobertura para postres o utiliza según sea necesario.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "oyster-corn-chowder-wip",
+  "name": "Cazuela de maíz con almejas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "mariscos",
+    "sopas",
+    "guisos/sopas"
+  ],
+  "recipeIngredient": [
+    "1 taza de pasta orzo cocida",
+    "3 tazas de caldo de pollo claro",
+    "1/4 taza de perejil fresco picado",
+    "1/2 taza de cebolletas picadas",
+    "1/4 taza de prosciutto picado",
+    "Sal y pimienta blanca al gusto",
+    "1 1/2 tazas de maíz (fresco o congelado)",
+    "2 cucharadas de mantequilla sin sal",
+    "2 tazas de crema ligera (opcional)"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta orzo según las instrucciones del paquete y reservar.\n2. En una sartén grande, combinar el caldo de pollo, perejil, cebolletas, prosciutto, sal y pimienta. Reducir a fuego lento hasta que las cebolletas estén tiernas, aproximadamente 2 minutos.\n3. Agregar el maíz, la mantequilla, la crema (si se usa) y las almejas con su licor a la sartén. Continuar cocinando a fuego lento durante 3 a 5 minutos más.\n4. Incorporar la pasta orzo cocida y servir de inmediato.\n5. Tostar el maíz en una sartén seca hasta que esté tostado y dorado, luego retirarlo del fuego antes de servir.",
+  "url": null
+}

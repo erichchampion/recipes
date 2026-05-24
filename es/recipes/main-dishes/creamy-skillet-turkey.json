@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "creamy-skillet-turkey",
+  "name": "Pavo cremoso en sartén",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "pavo"
+  ],
+  "recipeIngredient": [
+    "3 tazas de pavo, pollo o jamón cocido, cortado en cubos",
+    "1/2 cucharadita de tomillo (opcional)",
+    "2 cucharadas de aceite",
+    "1 lata de sopa cremosa de setas condensada",
+    "1/2 taza de leche",
+    "1 lata de guisantes verdes Del Monte, escurridos"
+  ],
+  "recipeInstructions": "1. Calentar el pavo y el tomillo en aceite en una sartén durante 3 minutos.\n2. Mezclar la sopa con la leche; verter en la sartén junto con los vegetales. Calentar hasta que esté bien caliente.\n3. Servir sobre espaguetis, puré de papas o bizcochos calientes, si se desea.",
+  "url": null
+}

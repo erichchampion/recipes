@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "scrambled-eggs-italian",
+  "name": "Scrambled Eggs Italian",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "eggs",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "2 tablespoons Olive oil",
+    "1 tablespoon Chopped fresh basil Garlic",
+    "bread",
+    "12 Eggs",
+    "1 tablespoon Grated Parmesan cheese"
+  ],
+  "recipeInstructions": "1. Heat olive oil in a heavy skillet over medium heat until very hot.\n2. Beat the eggs with basil and cheese.\n3. Scramble them quickly and lightly.\n4. Serve on slices of toasted Italian garlic bread.",
+  "url": null
+}

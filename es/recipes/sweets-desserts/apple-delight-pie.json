@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-delight-pie",
+  "name": "Tarta de Delicia de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "frutas",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de manzanas cocidas (o más para pasteles más grandes)",
+    "Azúcar al gusto",
+    "Canela al gusto",
+    "1 taza de harina para todo uso sin tamizar",
+    "1 taza de azúcar",
+    "1/2 taza de margarina, sin ablandar"
+  ],
+  "recipeInstructions": "1. Vierta las manzanas cocidas, endulzadas y especiadas al gusto, en un molde para pastel.\n2. Mezcle a mano la harina, el azúcar y la margarina hasta obtener una mezcla gruesa.\n3. Espolvoree la mezcla sobre las manzanas.\n4. Hornee a 180°C (350°F) hasta que esté dorado.",
+  "url": null
+}

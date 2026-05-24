@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "mushroom-rice-2",
+  "name": "Arroz con setas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "granos",
+    "plato principal",
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "3 tazas de arroz marrón cocido",
+    "1 taza de setas cortadas en trozos",
+    "1 cebolla verde picada",
+    "1/4 taza de margarina"
+  ],
+  "recipeInstructions": "1. Derrite la margarina.\n2. Saltea las setas a fuego medio hasta que estén tiernas.\n3. Añade la cebolla verde y saltea brevemente.\n4. Incorpora el arroz cocido y sazona con sal y pimienta al gusto.\n5. Calienta todo junto.",
+  "url": null
+}

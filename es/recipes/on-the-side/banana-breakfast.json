@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-breakfast",
+  "name": "Desayuno de Plátano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "quesos/huevos",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 huevo",
+    "1 taza de leche",
+    "1 plátano pequeño",
+    "1 cucharada de miel",
+    "1 bola de helado"
+  ],
+  "recipeInstructions": "1. Rompa los huevos y colóquelos en un bol.\n2. Añada la leche al bol con los huevos y batir hasta que esté bien combinado.\n3. Pelar el plátano y cortarlo en rodajas.\n4. Vierta la miel sobre las rodajas de plátano.\n5. Coloque una bola de helado encima de las rodajas de plátano.\n6. Sirva inmediatamente y disfrute de su Desayuno de Plátano.",
+  "url": null
+}

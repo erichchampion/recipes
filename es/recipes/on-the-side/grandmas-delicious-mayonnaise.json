@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "grandmas-delicious-mayonnaise",
+  "name": "Mayonesa Deliciosa de la Abuela",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "ensaladas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3 huevos, batidos bien",
+    "1/2 taza de azúcar",
+    "1/2 cucharadita de mostaza",
+    "1 taza de crema",
+    "1/2 taza de vinagre",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Añadir gradualmente el azúcar, la mostaza y la crema a los huevos batidos.\n2. Incorporar lentamente el vinagre a la mezcla.\n3. Cocinar al baño María hasta que espese.\n4. Retirar del fuego y añadir la sal cuando la mezcla se haya enfriado.",
+  "url": null
+}

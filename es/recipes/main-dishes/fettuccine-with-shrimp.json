@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "fettuccine-with-shrimp",
+  "name": "Fettuccine con Gambas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiana",
+    "plato principal",
+    "pasta",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de aceite de oliva",
+    "500 g de gambas medianas crudas",
+    "4 tomates grandes - sin semillas y cortados en trozos gruesos",
+    "1/2 taza de albahaca fresca - picada",
+    "1/3 taza de aceitunas negras - rebanadas y deshuesadas",
+    "3 dientes de ajo - picados finamente",
+    "Cebolletas - picadas finamente",
+    "Sal y pimienta negra recién molida",
+    "500 g de fettuccine, cocido al dente",
+    "Queso Romano rallado"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una sartén grande y pesada a fuego medio-alto.\n2. Agregar las gambas y cocinar hasta que adquieran un tono rosado, aproximadamente 3 minutos, removiendo con frecuencia.\n3. Incorporar los tomates, la albahaca, las aceitunas, el ajo y las cebolletas.\n4. Sazonar con sal y pimienta al gusto.\n5. Cocinar hasta que la salsa se caliente por completo.\n6. Escurrir la pasta en un bol para servir.\n7. Verter la salsa sobre la pasta y mezclar bien.\n8. Espolvorear con queso Romano rallado.\n9. Servir inmediatamente.",
+  "url": null
+}

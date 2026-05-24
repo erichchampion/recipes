@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "espresso-italiana",
+  "name": "Espresso Italiano",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "italiana",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "6 tazas de café (usar grana fresca)",
+    "1 pizca de nuez moscada (rallada al momento)",
+    "1 espiral de cáscara de limón",
+    "1/2 cucharadita de semillas de anís",
+    "1/2 cucharadita de licor de aniseta"
+  ],
+  "recipeInstructions": "1. Utilizar café expreso italiano de tostado oscuro.\n2. En cada una de 6 tazas pequeñas, añadir el café.\n3. Verter la mezcla en cada taza.\n4. Servir inmediatamente.\n5. Acompañar con macarrones envueltos en papel.\nRinde para 6 personas.",
+  "url": null
+}

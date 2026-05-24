@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-rice",
+  "name": "Arroz para el desayuno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "mcdougall"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz integral largo",
+    "1 taza de jugo de manzana sin azúcar",
+    "1 taza de agua",
+    "1/2 taza de pasas",
+    "1/2 cucharadita de canela en polvo"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una cacerola.\n2. Llevar a ebullición, luego cubrir y reducir el fuego.\n3. Cocinar durante 40 minutos, removiendo ocasionalmente.\n4. Retirar del fuego y dejar reposar durante 10 minutos antes de servir.\nEsta receta también se puede preparar en olla de cocción lenta. Colocar todos los ingredientes en la olla y cocinar a fuego lento durante 8 a 10 horas.",
+  "url": null
+}

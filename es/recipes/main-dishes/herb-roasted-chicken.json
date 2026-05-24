@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "herb-roasted-chicken",
+  "name": "Pollo asado con hierbas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 pollo de 4 a 5 libras",
+    "1/4 taza de mantequilla - ablandada",
+    "1 cucharadita de romero - molido",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "2 cucharadas de perejil - picado",
+    "1 cucharadita de ajo - finamente picado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 grados.\n2. Atar las alas y las patas al cuerpo del pollo.\n3. En un bol pequeño, mezclar todos los ingredientes de la marinada de hierbas.\n4. Untar la mezcla sobre el pollo.\n5. Colocar el pollo, con la pechuga hacia arriba, sobre una rejilla en una sartén para asar.\n6. Hornear durante 2 a 2 1/2 horas o hasta que un tenedor lo penetre fácilmente.",
+  "url": null
+}

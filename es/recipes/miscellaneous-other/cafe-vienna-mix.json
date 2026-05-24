@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cafe-vienna-mix",
+  "name": "Mezcla Café Viena",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "bebidas",
+    "varios",
+    "mezclas",
+    "no probado"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de café instantáneo",
+    "2/3 taza de azúcar",
+    "2/3 taza de leche desnatada en polvo",
+    "1/2 cucharadita de canela"
+  ],
+  "recipeInstructions": "1. Mezclar el café instantáneo, el azúcar, la leche desnatada y la canela en un bol.\n2. Revolver hasta que todos los ingredientes estén bien combinados.\n3. Verter la mezcla en una licuadora.\n4. Licuar hasta obtener un polvo fino y uniforme.\n5. Utilizar 2 cucharaditas de esta mezcla por cada taza de agua caliente al preparar su bebida.",
+  "url": null
+}

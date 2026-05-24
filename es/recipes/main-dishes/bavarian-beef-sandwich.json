@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "bavarian-beef-sandwich",
+  "name": "Sándwich de carne bávara",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "8 oz (paquete) de queso crema suave",
+    "1/4 taza de crema agria",
+    "2 cucharadas de rábano picante",
+    "12 rebanadas de pan de centeno o",
+    "6 bollos grandes",
+    "Lechuga",
+    "Rebanadas de carne asada",
+    "6 rodajas de cebolla roja"
+  ],
+  "recipeInstructions": "1. Mezclar el queso crema ablandado, la crema agria y el rábano picante en un bol hasta obtener una consistencia homogénea.\n2. Extender la mezcla de queso crema sobre medio de las rebanadas de pan o bollos.\n3. Colocar las rebanadas de carne asada, lechuga y cebolla roja sobre el queso crema.\n4. Tapar con la otra mitad del pan o bollo.\n5. Opcionalmente, añadir más queso crema para un sabor extra.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-dip-2",
+  "name": "Dip de taco",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "encurtidos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "8 oz de queso crema",
+    "1 sobre de mezcla para taco",
+    "Pequeña cantidad de crema agria",
+    "2 cucharadas de salsa de taco (picante)",
+    "2 cucharadas de leche",
+    "Queso cheddar",
+    "Lechuga, picada en trozos pequeños",
+    "Tomates, cortados en cubos"
+  ],
+  "recipeInstructions": "1. Mezclar el queso crema, la crema agria, la mezcla para taco, la salsa de taco y la leche.\n2. Extender la mezcla en un plato para servir.\n3. Cubrir con queso cheddar rallado.\n4. Añadir encima la mitad de una lechuga picada.\n5. Espolvorear con los tomates cortados en cubos pequeños.\n6. Refrigerar durante al menos 1 hora antes de servir.\n7. Servir con tortillas o chips de nachos.",
+  "url": null
+}

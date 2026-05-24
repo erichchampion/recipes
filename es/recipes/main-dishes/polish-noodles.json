@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "polish-noodles",
+  "name": "Pasta polaca",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de mantequilla dulce",
+    "200 g crema agria",
+    "500 g jamón, cortado en cubos",
+    "400 g tomates maduros, picados",
+    "2 tazas de macarrones con forma de codillo",
+    "1 cucharadita de condimento Maggi o 1 cucharada de salsa de soja",
+    "1/2 cucharadita de sal (opcional)",
+    "1/2 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Dorar la mantequilla en una olla holandesa.\n2. Añadir el resto de los ingredientes, excepto las cebollas, la sal (si se usa) y la pimienta. Mezclar bien.\n3. Cocinar a fuego lento sin tapar durante 10 minutos.\n4. Agregar las cebollas y cocinar por 5 minutos adicionales.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "oat-breakfast",
+  "name": "Oat Breakfast",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "cereals",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "2-3 portions",
+    "1 1/3 Cup Water",
+    "1 Cup Steel-Cut Oats",
+    "1 tsp Blackstrap Molasses",
+    "1/2 cup Dried Currants",
+    "1/4 cup Crushed Pineapple",
+    "1 tsp Cinnamon",
+    "1 tsp Nutmeg",
+    "2 tsp Brown Sugar"
+  ],
+  "recipeInstructions": "1. Boil water, oats, molasses, currants, and sugar.\n2. Reduce the flame to low.\n3. Add the remaining ingredients (cinnamon, nutmeg, brown sugar) and stir occasionally.\n4. Cook until all liquid has been absorbed, which should take about 15-20 minutes.\n5. Serve hot.\nFor a creamy texture, mix in some pumpkin puree after removing from heat.",
+  "url": null
+}

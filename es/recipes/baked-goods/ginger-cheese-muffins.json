@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "ginger-cheese-muffins",
+  "name": "Muffins de queso con jengibre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "3 cucharaditas de polvo de hornear",
+    "1/4 cucharadita de bicarbonato de sodio",
+    "1/2 cucharadita de jengibre en polvo",
+    "1/4 cucharadita de sal",
+    "1 huevo, batido",
+    "1/2 taza de leche",
+    "1/2 taza de melaza",
+    "4 cucharadas de manteca derretida",
+    "3/4 taza de queso rallado"
+  ],
+  "recipeInstructions": "1. Cernir la harina y la sal; agregar el jengibre, el bicarbonato de sodio y el polvo de hornear.\n2. En un bol separado, batir juntos el huevo, la leche y la melaza.\n3. Mezclar gradualmente los ingredientes húmedos con los secos hasta que estén combinados.\n4. Incorporar la manteca derretida y el queso rallado hasta que queden distribuidos uniformemente.\n5. Llenar los moldes para muffins a 2/3 de su capacidad con la masa.\n6. Hornear a 200 °C durante 10-15 minutos.",
+  "url": null
+}

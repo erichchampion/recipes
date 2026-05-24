@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "herb-omelet",
+  "name": "Herb Omelet",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "cheese",
+    "eggs",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "3 Eggs",
+    "1 tablespoon Butter",
+    "1 tablespoon Basil, chopped",
+    "1 tablespoon Thyme, chopped",
+    "1 tablespoon Marjoram, chopped",
+    "1 tablespoon Parsley, snipped",
+    "1 tablespoon Chive, snipped"
+  ],
+  "recipeInstructions": "1. Prepare the omelet as you normally would for a French omelet.\n2. Sprinkle the chopped basil, thyme, marjoram, parsley, and chives just before folding the omelet.",
+  "url": null
+}

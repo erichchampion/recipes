@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-bread-2",
+  "name": "Spicy Bread",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "german"
+  ],
+  "recipeIngredient": [
+    "300 grams flour, wheat",
+    "350 grams flour, rye",
+    "700 grams leaven",
+    "20 grams salt",
+    "20 grams yeast, fresh",
+    "300 milliliters water, 40°C",
+    "10 grams Herbs of Provence"
+  ],
+  "recipeInstructions": "1. Pour the flour into a pot and mix well with the herbs.\n2. Add the salt and yeast at opposite ends of the pot.\n3. Gradually add water while stirring.\n4. Incorporate the leaven.\n5. Knead for 5 minutes until smooth.\n6. Cover and let rest for 30 minutes.\n7. Knead again and shape as desired.\n8. Cover and let rest for another 60 minutes, allowing it to double in volume.\n9. Bake in a preheated oven at 225°C for 70 minutes.\n- If using single herbs like thyme instead of Herbs of Provence, the baking time remains the same.\n- Dividing the dough into two parts will reduce the baking time to approximately 50 minutes.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "iced-jazzberry-java",
+  "name": "Jazzberry Java con Hielo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 paquete de fresas congeladas (10 onzas)",
+    "1/2 taza de azúcar granulada",
+    "1/2 taza de agua",
+    "10 tazas de café frío",
+    "1 litro de media crema",
+    "1 taza de crema batida endulzada",
+    "10 ramitas de menta",
+    "10 fresas enteras"
+  ],
+  "recipeInstructions": "1. Triturar las fresas congeladas, el azúcar y el agua en una licuadora hasta obtener una textura suave.\n2. Colar la mezcla en un bol grande para eliminar las partículas sólidas.\n3. Añadir el café frío y la media crema al bol. Mezclar bien para combinar los ingredientes.\n4. Verter la mezcla en vasos de 12 onzas parcialmente llenos de hielo triturado.\n5. Cubrir cada vaso con crema batida endulzada, ramitas de menta y fresas enteras.",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "mojo-potatoes",
+  "name": "Patatas Mojo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "guiso",
+    "patatas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "6 patatas grandes, cortadas en wedges",
+    "1/2 cucharadita de tomillo",
+    "1/2 cucharadita de albahaca",
+    "1/2 cucharadita de orégano",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra",
+    "1 1/2 cucharaditas de pimentón dulce",
+    "1/4 cucharadita de pimentón picante",
+    "1/2 cucharadita de polvo de chile",
+    "1 1/2 tazas de harina",
+    "1 huevo",
+    "1/3 taza de leche",
+    "1/4 taza de aceite de oliva"
+  ],
+  "recipeInstructions": "Precalentar el horno a 200°C.\nMezclar las especias con la harina. Batir el huevo con la leche. Sumergir los wedges en la mezcla de leche y espolvorear con la harina. Colocarlos sobre una bandeja para hornear y rociar con aceite de oliva. Hornear durante 20-25 minutos o hasta que estén doradas y tiernas. Servir calientes.",
+  "url": null
+}

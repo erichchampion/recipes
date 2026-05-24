@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "lewis-coney-island-hot-dogs",
+  "name": "Lewis' Coney Island Hot Dogs",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "american",
+    "ground beef",
+    "main dish",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "1/4 pound ground beef, lean",
+    "6 ounces tomato paste",
+    "1 1/2 cups water",
+    "1/4 cup pickle relish",
+    "1 tablespoon instant minced onion",
+    "1 tablespoon mustard",
+    "3 teaspoons chili powder",
+    "1 teaspoon sugar",
+    "12 hot dogs, heated",
+    "12 hot dog buns, toasted"
+  ],
+  "recipeInstructions": "1. In a medium saucepan, cook the ground beef until it loses its red color and crumbles with a fork.\n2. Add the remaining ingredients (except for the hot dogs and buns) to the saucepan.\n3. Simmer everything together for about 30 minutes.",
+  "url": null
+}

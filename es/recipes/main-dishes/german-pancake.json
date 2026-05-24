@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "german-pancake",
+  "name": "Tortitas alemanas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "alemán",
+    "plato principal",
+    "crepes"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de harina",
+    "1/2 taza de leche",
+    "2 huevos, batidos ligeramente",
+    "Una pizca de nuez moscada"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes hasta obtener una masa suave.\n2. Derretir 4 cucharadas de mantequilla en un molde para pastel de 23 cm (de vidrio es lo ideal).\n3. Verter la mezcla en el molde y hornear a 220 °C en horno precalentado.\n4. Hornear durante 15-20 minutos o hasta que esté dorado.\n5. Exprimir jugo de limón generosamente sobre el panqueque, luego espolvorear con azúcar en polvo.\n6. Cortar en cuartos y servir caliente. También se puede servir con fruta fresca o enlatada espolvoreada sobre el panqueque. ¡Buen provecho!",
+  "url": null
+}

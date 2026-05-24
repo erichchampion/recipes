@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "spinach-soup",
+  "name": "Spinach Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "2 packages Spinach, frozen",
+    "1/4 cup Onions, chopped",
+    "1/3 cup Flour, sifted",
+    "1 tbsp Salt",
+    "1/4 cup Peanut oil",
+    "1/4 tsp Pepper",
+    "1 dash Nutmeg",
+    "6 cups Milk",
+    "1 cup Water"
+  ],
+  "recipeInstructions": "1. Cook the frozen chopped spinach in unsalted water according to package directions and drain.\n2. Heat the peanut oil in a large saucepan. Add the onions and sauté until transparent (5 minutes).\n3. Remove from heat. Blend in the flour, salt, pepper, and nutmeg.\n4. Gradually add milk while stirring constantly.\n5. Stir in the cooked spinach. Cook over medium-high heat for about 15 minutes, stirring often to prevent scorching.",
+  "url": null
+}

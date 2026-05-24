@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-ground-beef",
+  "name": "Tomate con Carne Molida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "carne molida",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aceite",
+    "1 cebolla grande, picada",
+    "1 pimiento verde, picado",
+    "1 1/2 libras de carne molida",
+    "1 zanahoria, picada",
+    "1 lata de sopa de tomate, sin diluir",
+    "1 cucharadita de sal",
+    "1 cucharadita de sal de ajo",
+    "1/4 cucharadita de pimienta negra molida"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en una sartén grande a fuego medio.\n2. Añadir la cebolla y el pimiento verde; saltear hasta que estén ligeramente dorados, aproximadamente 5 minutos.\n3. Incorporar la carne molida y la zanahoria a la sartén; cocinar durante un minuto más.\n4. Mezclar la sopa de tomate y las especias (sal, sal de ajo y pimienta).\n5. Reducir el fuego y dejar que la mezcla hierva durante unos 5 minutos o más, removiendo ocasionalmente, hasta que esté bien combinada.\n6. Verter sobre los fideos cocidos y servir con los niños.",
+  "url": null
+}

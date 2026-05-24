@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "neptune-gazpacho",
+  "name": "Gazpacho de Neptuno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "mariscos",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "Jugo de tomate (2 tazas)",
+    "Jugo de almeja (1 taza)",
+    "Pepino (pelado, sin semillas y cortado en cubos) - 1 pepino",
+    "Cebolletas (cortadas finamente) - 3 cebolletas",
+    "Aceite de oliva virgen (2 cucharadas)",
+    "Vinagre de vino tinto (2 cucharadas)",
+    "Azúcar (1 cucharada)",
+    "Eneldo fresco (picado) - 1 manojo",
+    "Ajo (machacado y picado) - 1 diente de ajo",
+    "Queso crema (4 onzas, congelado y duro) - rallar groseramente",
+    "Aguacate (pelado, sin hueso y cortado en cubos) - 1 aguacate",
+    "Salsa Tabasco (1/2 cucharadita)",
+    "Gamberitos (cocidos) - 3/4 taza"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar todos los ingredientes excepto los gamberitos.\n2. Mezclar suavemente los ingredientes.\n3. Colocar la sopa en el refrigerador y enfriar durante la noche.\n4. Servir la sopa en cuencos fríos y decorar con los gamberitos flotando encima.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-bread-1",
+  "name": "Banana Bread#1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bananas",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "1/2 cup shortening",
+    "1 cup sugar",
+    "1 cup sour milk",
+    "2 eggs",
+    "3 ripe bananas, crushed well",
+    "2 cups flour",
+    "1 teaspoon baking soda",
+    "1/4 cup chopped nuts"
+  ],
+  "recipeInstructions": "1. Cream the shortening and add sugar. Beat until creamy.\n2. Add sour milk, then mix thoroughly.\n3. Stir in the beaten eggs and mashed bananas.\n4. Fold in the flour and baking soda.\n5. Mix in the chopped nuts.\n6. Pour batter into a greased loaf pan.\n7. Bake slowly in an oven preheated to 350°F (175°C).\n8. Remove from oven when done.",
+  "url": null
+}

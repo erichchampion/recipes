@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tournedos-coliseum",
+  "name": "Tournedos al estilo Coliseo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americana",
+    "cajún",
+    "étnica",
+    "carnes",
+    "vinos"
+  ],
+  "recipeIngredient": [
+    "Especias para carne criolla",
+    "Salsa béarnesa",
+    "Vino tinto (Marchand de Vin)",
+    "4 filetes de lomo, de 1 pulgada de grosor",
+    "3 cucharadas de mantequilla",
+    "3/4 taza de zanahorias, blanqueadas y cortadas en rodajas",
+    "3/4 taza de guisantes al vapor"
+  ],
+  "recipeInstructions": "1. Espolvorear los filetes con especias para carne criolla.\n2. Saltear los filetes en mantequilla hasta que estén cocinados justo por debajo del punto deseado.\n3. Retirar los filetes y mantenerlos calientes.\n4. Servir dos tournedos por ración, uno con salsa béarnesa y el otro con salsa Marchand de Vin.\n5. Decorar con rodajas de zanahorias blanqueadas y guisantes al vapor.",
+  "url": null
+}

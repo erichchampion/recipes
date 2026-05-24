@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "ruby-punch-bowl",
+  "name": "Bowl de cóctel de rubí",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "vacaciones",
+    "batido",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de agua",
+    "2 tazas de azúcar (o menos, al gusto)",
+    "2-4 varas de canela, de 3-4 pulgadas de largo",
+    "2 cucharaditas de clavos enteros",
+    "1/8 cucharadita de sal",
+    "2 botellas (750 ml) de Borgoña u otro vino tinto de mesa",
+    "2 tazas de cóctel de arándanos fríos",
+    "1 litro de sidra de manzana fría",
+    "Hielo",
+    "Rodajas finas de limón o lima"
+  ],
+  "recipeInstructions": "1. En una cacerola, llevar a ebullición el agua, el azúcar, las especias y la sal.\n2. Reducir el fuego y dejar hervir a fuego lento durante 10 minutos. Colar y desechar las especias.\n3. Dejar enfriar completamente el jarabe.\n4. Combinar el jarabe especiado con el vino, el cóctel de arándanos y la sidra de manzana.\n5. Verter la mezcla en un bol de punch, agregar hielo y decorar con rodajas de limón o lima.",
+  "url": null
+}

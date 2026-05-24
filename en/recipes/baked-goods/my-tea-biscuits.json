@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-tea-biscuits",
+  "name": "My Tea Biscuits",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "biscuits",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "2 cups Biscuit mix",
+    "1 Egg",
+    "4 tablespoons Sugar",
+    "2 tablespoons Margarine",
+    "Milk to make 1/2 cup"
+  ],
+  "recipeInstructions": "1. Add milk to egg to make 1/2 cup.\n2. In a bowl, combine the biscuit mix, sugar, and margarine.\n3. Add just enough liquid to make a soft dough.\n4. Stir briskly until combined.\n5. Turn out onto a floured surface.\n6. Knead for 8-10 turns.\n7. Roll out to a thickness of 1/2 inch.\n8. Cut out with cutters.\n9. Place the biscuits on an ungreased baking sheet.\n- For soft side biscuits, place them close together.\n- For crusty biscuits, place them apart.\n10. Bake at 450°F for 8 to 10 minutes.",
+  "url": null
+}

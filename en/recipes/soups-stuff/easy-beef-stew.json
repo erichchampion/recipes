@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-beef-stew",
+  "name": "Easy Beef Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "meats",
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "2 cans vegetable broth",
+    "1 can chopped mushrooms",
+    "8 potatoes, quartered",
+    "1 can early peas (optional)",
+    "1 can carrots",
+    "1.5 lbs beef stew meat",
+    "1 onion, chopped",
+    "1 garlic clove, chopped",
+    "0.5 tsp Cajun seasoning",
+    "1 bay leaf",
+    "Optional: 0.5 cup sherry or red wine",
+    "2 cans golden mushroom soup",
+    "0.5 cup water"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in the crock pot in the order listed above.\n2. Cook on high for 5 hours, or cook on low for 6.5 hours.\n3. Serve over noodles or rice.",
+  "url": null
+}

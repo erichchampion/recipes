@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "spanish-chicken",
+  "name": "Pollo español",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento"
+  ],
+  "recipeIngredient": [
+    "3 lb de piezas de pollo (sin piel es mejor)",
+    "Sal, pimienta y pimentón al gusto",
+    "Sal de ajo (opcional)",
+    "1 lata de puré de tomate (6 oz)",
+    "3/4 taza de cerveza (o vino blanco)",
+    "3/4 taza de aceitunas rellenas (cortadas por la mitad)"
+  ],
+  "recipeInstructions": "1. Lavar y cortar el pollo en trozos. Sazonar con sal, pimienta, pimentón y sal de ajo si se desea.\n2. Colocar el pollo sazonado en una olla de cocción lenta.\n3. Mezclar el puré de tomate con la cerveza en un bol.\n4. Verter la mezcla sobre el pollo en la olla de cocción lenta.\n5. Añadir las aceitunas rellenas cortadas por la mitad a la olla.\n6. Tapar y cocinar a fuego lento durante 7 a 9 horas.\n7. Servir caliente sobre arroz o fideos. Esta receta se puede duplicar para una olla de cocción lenta de 5 cuartos.",
+  "url": null
+}

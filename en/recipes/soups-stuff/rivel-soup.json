@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "rivel-soup",
+  "name": "Rivel Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups"
+  ],
+  "recipeIngredient": [
+    "2 cups Flour",
+    "1/2 teaspoon Salt",
+    "1 Egg, well beaten",
+    "1 cup Chicken Broth",
+    "1 cup Beef Broth",
+    "1 cup Crushed Corn"
+  ],
+  "recipeInstructions": "1. Combine the flour, salt, and beaten egg in a bowl and mix together with your fingers until the mixture is crumbly.\n2. Pour this mixture into the broth, add the corn, and cook for about 10 minutes. The rivels will look like boiled rice when cooked.",
+  "url": null
+}

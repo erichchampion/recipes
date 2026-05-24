@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fresh-fruit-soup",
+  "name": "Sopa de frutas frescas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de azúcar",
+    "3 cucharadas de maicena",
+    "1/8 cucharadita de sal",
+    "1 taza de agua",
+    "1 1/4 tazas de vino rosado",
+    "1 1/2 tazas de zumo de arándanos",
+    "3 tazas de frutas frescas"
+  ],
+  "recipeInstructions": "1. Mezcla el azúcar, la maicena y la sal en una cacerola de 3 cuartos.\n2. Añade el agua y el vino rosado. Calienta a ebullición, removiendo constantemente.\n3. Hierve y remueve durante un minuto. Retira del fuego.\n4. Incorpora el zumo de arándanos. Cubre ligeramente y refrigera hasta que esté fría.\n5. Mezcla las frutas frescas. Sirve con crema agria o nata montada si lo deseas.",
+  "url": null
+}

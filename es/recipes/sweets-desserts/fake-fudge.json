@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fake-fudge",
+  "name": "Falsa fudge",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "caramelo",
+    "postres",
+    "fudge"
+  ],
+  "recipeIngredient": [
+    "1 libra de azúcar glas",
+    "1/4 taza de cacao Hershey",
+    "1/2 taza (un palo) de mantequilla",
+    "Un toque de sal",
+    "Unas cucharadas de leche"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en un bol grande apto para microondas.\n2. Microondas a potencia máxima hasta que la mantequilla se derrita.\n3. Bate la mezcla con una batidora eléctrica hasta obtener una textura suave.\n4. Añade 1 cucharadita de extracto de vainilla y cualquier otro sabor (por ejemplo, nueces).\n5. Vierte la mezcla en un molde engrasado.\n6. Deja que el caramelo se enfríe hasta que esté firme antes de servir.",
+  "url": null
+}

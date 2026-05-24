@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "packaged-steak-supper-2",
+  "name": "Cena de lomo en paquete",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "plato principal",
+    "carnes",
+    "dietas especiales"
+  ],
+  "recipeIngredient": [
+    "3 onzas de filete de minuto de carne de res",
+    "1 pequeña patata",
+    "2 cucharadas de zanahoria (en rodajas)",
+    "2 cucharadas de cebolla (en rodajas)",
+    "2 cucharadas de apio (en rodajas)",
+    "2 rebanadas grandes de tomate",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Coloca el filete sobre un trozo grande de papel de aluminio.\n2. Superpone las verduras en el orden indicado: zanahoria, cebolla y apio.\n3. Añade sal y pimienta al gusto.\n4. Envuelve con cuidado en el papel de aluminio, sellando bien los extremos.\n5. Hornea a 175 °C durante 1 hora.\nMICROONDE:\n1. Coloca el filete envuelto en papel film.\n2. Cocina a potencia máxima durante 10 minutos.",
+  "url": null
+}

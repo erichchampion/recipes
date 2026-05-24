@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "sassy-bars",
+  "name": "Barras Picantes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla o margarina",
+    "1 taza de azúcar",
+    "1 taza de puré de manzana",
+    "1 cucharadita de bicarbonato de sodio",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de nuez moscada",
+    "1/2 cucharadita de canela",
+    "1 taza de pasas",
+    "2 tazas de harina"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180°C.\n2. Batir la mantequilla con el azúcar; agregar el puré de manzana. Mezclar el bicarbonato, la sal, la nuez moscada y la canela.\n3. Pasas por harina, luego añadir la harina y las pasas a la masa.\n4. Hornear en una bandeja para hornear engrasada de 20x30 cm durante 20-25 minutos a 180°C.\n5. Enfriar completamente en la bandeja.\n6. Cubrir con un glaseado de azúcar glas y cortar en barras.\nRinde: 36 piezas.",
+  "url": null
+}

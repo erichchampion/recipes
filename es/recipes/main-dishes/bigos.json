@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "bigos",
+  "name": "Bigos",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "étnica",
+    "polaca"
+  ],
+  "recipeIngredient": [
+    "1/2 kg de carne de cerdo",
+    "1/2 kg de ternera",
+    "1/2 kg de cordero",
+    "1/2 kg de carne de res",
+    "1/2 kg de ciervo (opcional)",
+    "1 cebolla grande, picada",
+    "1/2 kg de setas cocidas",
+    "1/4 kg de tocino",
+    "1/2 kg de salchicha polaca en trozos pequeños",
+    "1 litro de chucrut"
+  ],
+  "recipeInstructions": "1. Enjuagar el chucrut y cocinarlo hasta que esté tierno.\n2. Cortar el tocino y freírlo en una sartén.\n3. Añadir la cebolla picada y la carne a la sartén, continuando la cocción hasta que la carne esté ligeramente dorada.\n4. Agregar agua o caldo vegetal y llevar a ebullición suave.\n5. Reducir el fuego y añadir la salchicha polaca.\n6. Incorporar el chucrut y cocinar hasta que se mezclen todos los sabores.\n7. Sazonar con sal y pimienta al gusto.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-saute-sudado",
+  "name": "Sudado de pescado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1 taza de tomate picado",
+    "1/4 taza de cebolla picada",
+    "3 dientes de ajo picados",
+    "3 hojas de laurel",
+    "1 cucharadita de tomillo",
+    "1/2 cucharadita de orégano",
+    "1/2 cucharadita de sal, o al gusto",
+    "2 cucharadas de aceite de maíz",
+    "1/4 taza de agua",
+    "2 libras de pescado entero o filetes (escrod, bacalao, fletán)"
+  ],
+  "recipeInstructions": "1. Freír el tomate, la cebolla, el ajo, las hojas de laurel, el tomillo, el orégano y la sal en el aceite en una sartén grande a fuego moderado durante 3 minutos.\n2. Añadir el agua y dejar cocinar durante 2 minutos más.\n3. Agregar el pescado entero o filetes a la sartén. Tapar y cocinar a fuego lento durante 15 minutos, dando la vuelta al pescado una vez.\n4. Si se ha acumulado demasiado líquido, retirar la tapa y cocinar a fuego lento por un minuto o dos más para espesar la salsa.\n5. Servir caliente.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "bread-master-recipe",
+  "name": "Bread (Master Recipe)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "1 Cake compressed yeast               1 Tablespoon Melted shortening",
+    "OR 1/2  cake dry yeast          1 1 1/2 cups Lukewarm water",
+    "1 Teaspoon Sugar                               5    To 5 1/4 cups flour",
+    "1 1/2 Teaspoons Salt"
+  ],
+  "recipeInstructions": "1. Soften the yeast in the lukewarm water.\n2. Add sugar, salt, and melted shortening to the yeast mixture.\n3. Gradually add flour, mixing thoroughly after each addition until the dough is stiff enough to knead.\n4. Turn the dough onto a lightly floured surface and knead until smooth and elastic.\n5. Cover with a warm, damp cloth and let rise in a warm place until doubled in bulk (overnight if using dry yeast).\n6. Punch down the dough, cover again, and let it double slightly.\n7. Shape into loaves and place in well-oiled pans.\n8. Cover and let rise in a warm place until doubled in bulk.\n9. Bake at 450°F for 15 minutes, then reduce to 410-425°F and continue baking for the remainder of time (total about 40-45 minutes).\n10. Baking takes approximately 4-4.5 hours from start to finish, yielding 2 medium-sized loaves.",
+  "url": null
+}

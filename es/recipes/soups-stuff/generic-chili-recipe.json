@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "generic-chili-recipe",
+  "name": "Receta de Chili Genérico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "carnes",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite",
+    "2 libras de carne de chili",
+    "1 cebolla grande, picada en trozos medianos",
+    "2 dientes de ajo, picados finamente",
+    "2 cucharaditas de comino",
+    "2 cucharadas de polvo de chili",
+    "3 tazas de tomates enlatados con jugo",
+    "12 onzas de cerveza",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Calentar el aceite (elegir una variedad de bajo punto de humo) en una olla pesada a fuego medio-alto.\n2. Agregar la carne, la cebolla y el ajo. Cocinar hasta que esté dorada.\n3. Incorporar el comino, el polvo de chili, la sal y la pimienta.\n4. Triturar los tomates y añadirlos a la carne junto con su jugo.\n5. Verter la cerveza.\n6. Reducir el fuego y dejar cocinar destapado durante 1-2 horas, añadiendo más cerveza o agua si es necesario.\nSi no se dispone de carne de chili, se puede usar carne de guiso o sopa.\nAlgunos prefieren usar cerveza plana en lugar de fresca.",
+  "url": null
+}

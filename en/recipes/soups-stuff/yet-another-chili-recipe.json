@@ -1,0 +1,37 @@
+{
+  "@type": "Recipe",
+  "identifier": "yet-another-chili-recipe",
+  "name": "Yet Another Chili Recipe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "main dish",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 pound Ground Beef",
+    "1 pound Ground Pork",
+    "1 pound Steak",
+    "1 Bell Pepper",
+    "3 Medium Onions",
+    "1 Bunch Green Onions",
+    "3 Celery Stalks",
+    "2 cans Kidney Beans",
+    "Jalapeno Peppers to taste",
+    "1 teaspoon Tobasco Sauce",
+    "2 ounces Chili Powder",
+    "1/4 teaspoon Cayenne Pepper",
+    "1 teaspoon Cumin",
+    "Garlic to taste",
+    "1 dash Paprika",
+    "1 tablespoon Sage",
+    "1 tablespoon Oregano",
+    "1 can Canadian Beer",
+    "1 shot Tequila",
+    "16 ounce Can of Tomatoes, blended",
+    "1 small can Tomato Paste"
+  ],
+  "recipeInstructions": "1. Melt butter in a large pan and sauté onions until soft. Add chopped bell pepper, celery, and green onion. Cook vegetables.\n2. Stir in peppers, spices (tobasco, chili powder, cayenne, cumin), beer, and tequila. Mix well.\n3. Brown ground beef and pork separately in olive oil. Add to the pot. Do not use fat from meat.\n4. Add steak pieces once browned. Reduce heat and let mixture simmer without lid for at least 2 hours.\n5. Near completion, adjust spices as desired. Stir in beans about an hour before finishing.",
+  "url": null
+}

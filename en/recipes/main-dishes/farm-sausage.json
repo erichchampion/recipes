@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "farm-sausage",
+  "name": "Farm Sausage",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "sausages"
+  ],
+  "recipeIngredient": [
+    "2 pounds lean ground pork, at room temperature",
+    "1/3 cup onion, finely chopped",
+    "2 teaspoons finely minced fresh parsley",
+    "1 teaspoon rubbed sage",
+    "1 teaspoon dried basil (optional)",
+    "1 teaspoon dried marjoram (optional)",
+    "1 teaspoon chili powder",
+    "1 teaspoon black pepper",
+    "1/2 teaspoon ground red pepper",
+    "1/4 teaspoon dried thyme (optional)"
+  ],
+  "recipeInstructions": "1. In a large bowl, mix all ingredients together with your hands if needed.\n2. On wax paper, shape the mixture into two logs that are 6 inches long and 2 inches in diameter.\n3. Wrap the logs tightly in plastic wrap or foil and refrigerate for at least 8 hours.\n4. To serve, cut the logs into rounds about 1/2 inch thick and fry them in a heavy skillet over medium-low heat for 3 to 4 minutes on each side, or until cooked through.\n5. Drain on paper towels and serve immediately.\nNotes:\nAn alternative method is to shape the mixture into large marble-sized balls. If desired, freeze them first. To serve, bake the frozen sausages in a preheated oven set to 325°F (starting from cold) for 20 minutes.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "belgian-loaf",
+  "name": "Pan de Bélgica",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "1 taza de pasas",
+    "1 taza de leche",
+    "0,113 libras de manteca",
+    "1 huevo",
+    "1 taza de harina",
+    "0,5 cucharaditas de sal",
+    "0,5 cucharaditas de polvo de hornear",
+    "0,5 cucharaditas de bicarbonato de sodio"
+  ],
+  "recipeInstructions": "1. En una cacerola, mezcle los cuatro primeros ingredientes y lleve a ebullición.\n2. Deje enfriar la mezcla.\n3. Agregue el huevo y luego incorpore gradualmente los ingredientes secos, mezclando bien con la segunda taza de harina.\n4. Hornee a 175 °C durante 45 minutos.",
+  "url": null
+}

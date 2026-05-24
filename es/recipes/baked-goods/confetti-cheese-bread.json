@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "confetti-cheese-bread",
+  "name": "Pan de queso con confeti",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de margarina",
+    "1/3 taza de queso cheddar rallado",
+    "1/4 taza de pimiento verde picado",
+    "2 cucharadas de pimiento rojo picado",
+    "1 cucharadita de cebolla instantánea molida",
+    "2 cucharadas de trozos de tocino (opcional)",
+    "1 lata de bizcochos en polvo o al estilo campestre (latas de 10 unidades)"
+  ],
+  "recipeInstructions": "1. Derretir la margarina.\n2. Agregar el resto de los ingredientes, excepto los bizcochos. Mezclar bien.\n3. Dividir la masa en 10 porciones.\n4. Cortar cada porción en cuartos.\n5. Enrollar los cuartos en la mezcla de queso y colocarlos en un molde para pastel engrasado de 8 pulgadas.\n6. Hornear a 400 °F durante 20 minutos.",
+  "url": null
+}

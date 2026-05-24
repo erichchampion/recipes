@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "magic-fruit-cake",
+  "name": "Pastel mágico de frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "1 taza de carne molida (15 onzas)",
+    "1 taza de leche Eagle Brand (latas)",
+    "1 taza de harina",
+    "1/2 taza de cerezas rojas",
+    "1/2 taza de cerezas verdes",
+    "1 huevo",
+    "1 taza de nueces picadas",
+    "1/2 cucharadita de bicarbonato de sodio",
+    "1/2 cucharadita de polvo de hornear"
+  ],
+  "recipeInstructions": "1. Mezcla bien todos los ingredientes.\n2. Vierte la masa en un molde para pastel engrasado y enharinado.\n3. Hornea a 350 °F durante 1 hora y 15 minutos. (La masa puede parecer líquida, pero no añadas harina extra).",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "habitant-pea-soup",
+  "name": "Sopa de guisantes con habitante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de guisantes amarillos en grano",
+    "8 tazas de agua",
+    "2 libras de tocino ahumado (hocks)",
+    "1 cebolla grande, picada",
+    "1/2 taza de apio fresco, picado",
+    "1/2 cucharadita de tomillo",
+    "1/4 cucharadita de salvia veraniega",
+    "3 cucharadas de perejil fresco, picado",
+    "Pimienta negra",
+    "Sal"
+  ],
+  "recipeInstructions": "1. Remojar los guisantes durante la noche.\n2. Escurrir los guisantes remojados y colocarlos en una olla grande con el agua, el tocino, la cebolla, el apio y las especias.\n3. Llevar a ebullición.\n4. Reducir el fuego y tapar. Cocinar a fuego lento durante tres horas, removiendo ocasionalmente.\n5. Los guisantes estarán listos cuando estén suaves y cremosos. Sazonar con pimienta negra y sal al gusto.",
+  "url": null
+}

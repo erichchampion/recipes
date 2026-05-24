@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-nuggets",
+  "name": "Nuggetos de Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla",
+    "1 taza de harina de uso general",
+    "2 tazas de queso cheddar fuerte rallado",
+    "1/4 cucharadita de pimienta cayena"
+  ],
+  "recipeInstructions": "1. Mezclar la mantequilla y la harina hasta que estén bien combinadas.\n2. Agregar el queso cheddar rallado y mezclar hasta formar una masa.\n3. Incorporar la pimienta cayena a la mezcla.\n4. Formar la masa en bolitas pequeñas del tamaño de una pasas.\n5. Colocar las bolitas sobre una bandeja para hornear sin engrasar.\n6. Hornear en horno precalentado a 190 °C (375°F) durante unos 10 minutos.\n7. Rinde aproximadamente 36 quesadillas.",
+  "url": null
+}

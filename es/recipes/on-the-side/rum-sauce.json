@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "rum-sauce",
+  "name": "Salsa de ron",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "tartas",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "3/4 taza de agua",
+    "1/2 cucharadita de canela",
+    "2 cucharadas de maicena",
+    "1/4 taza de agua fría",
+    "1/2 taza de ron"
+  ],
+  "recipeInstructions": "1. Combinar en una cacerola de tamaño medio el azúcar, el agua y la canela.\n2. Llevar a ebullición a fuego medio-alto, removiendo constantemente.\n3. Hervir durante 5 minutos.\n4. Mezclar lentamente en un bol pequeño las 2 cucharadas de maicena con el agua fría.\n5. Incorporar la mezcla al azúcar caliente.\n6. Cocinar y remover hasta espesar.\n7. Añadir el ron y dejar enfriar un poco.\n8. Servir caliente con pastel o pie.",
+  "url": null
+}

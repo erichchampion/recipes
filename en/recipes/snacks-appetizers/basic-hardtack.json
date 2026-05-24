@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-hardtack",
+  "name": "Basic Hardtack",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "2 cups Flour",
+    "1/2 tablespoon Salt (optional)",
+    "1/2 tablespoon Sugar (optional)",
+    "1/2 cup Water"
+  ],
+  "recipeInstructions": "1. Mix flour, salt (if using), sugar (if using), and water until a dough forms.\n2. Using hands or a rolling pin, flatten the dough on a floured cloth.\n3. Roll the dough to a thickness of 1/4 inch.\n4. If desired, score the dough with a knife.\n5. Bake on a cookie sheet in an oven set to 350 degrees Fahrenheit for 30 minutes.\n6. Break into pieces as needed.",
+  "url": null
+}

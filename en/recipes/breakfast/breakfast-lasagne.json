@@ -1,0 +1,35 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-lasagne",
+  "name": "Breakfast Lasagne",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "cheese",
+    "italian",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 package Lasagne Noodles",
+    "1 lb Ricotta Cheese",
+    "2 Eggs",
+    "6 tbsp Unsalted Butter",
+    "6 tbsp Flour",
+    "3 cups Milk",
+    "1/2 tsp Dry Mustard",
+    "1/4 tsp Nutmeg",
+    "1 pinch Salt",
+    "2 tbsp Red Wine",
+    "1 1/2 tsp Tomato Paste",
+    "1 tbsp Olive Oil",
+    "4 Cloves Garlic",
+    "1 lb Cooked Ham, thinly sliced",
+    "1/2 lb Gruyere Cheese, grated",
+    "1/2 lb Mozarella Cheese, grated",
+    "1/4 lb Parmesan Cheese, freshly grated",
+    "Fresh Parsley - chopped"
+  ],
+  "recipeInstructions": "1. Prepare noodles according to package directions.\n2. Mix ricotta cheese with eggs.\n3. Prepare white sauce: melt butter in a medium saucepan, add flour, stirring until smooth. Add milk slowly using a whisk. Cook slowly until the sauce is smooth and thickened. Add dry mustard, nutmeg, and salt. Stir in red wine and half of the Parmesan cheese.\n4. In a small pan, sauté garlic in oil. Remove garlic, then add oil to the sauce.\n5. Stir in tomato paste.\n6. Layer ingredients into a 13 X 9 X 2 lasagne pan, starting with a thin layer of sauce. Next, add a layer of noodles followed by the ricotta cheese and egg mixture, the ham, the Gruyere and Mozarella cheeses.\n7. Repeat layers, starting with noodles, until finished, ending with sauce and Parmesan cheese.\n8. Sprinkle with parsley.\n9. Bake at 350°F for 35 to 45 minutes in a preheated oven. Let stand for 10 minutes before serving.",
+  "url": null
+}

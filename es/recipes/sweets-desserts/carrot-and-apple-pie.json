@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "carrot-and-apple-pie",
+  "name": "Tarta de Zanahoria y Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "frutas",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 taza de zanahorias jóvenes, peladas y cortadas en rodajas finas",
+    "1 1/2 tazas de manzanas crudas en rodajas",
+    "1 cucharadita de ralladura de naranja",
+    "1 taza de azúcar",
+    "3 cucharadas de harina",
+    "1/8 cucharadita de canela",
+    "1/8 cucharadita de nuez moscada",
+    "1/2 taza de pasas sin semillas"
+  ],
+  "recipeInstructions": "1. Cocinar las zanahorias en agua con sal hasta que estén apenas tiernas.\n2. Mezclar todos los ingredientes suavemente.\n3. Colocar la mezcla en un molde para pastel forrado con masa y espolvorear con 1 cucharadita de harina.\n4. Hacer puntos con 1 cucharadita de mantequilla.\n5. Cubrir con masa.\n6. Hornear durante unos 30 minutos en horno muy caliente (425 °F), o hasta que las manzanas estén tiernas.",
+  "url": null
+}

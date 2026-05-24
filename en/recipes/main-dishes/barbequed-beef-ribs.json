@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbequed-beef-ribs",
+  "name": "Barbequed Beef Ribs",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecue",
+    "beef",
+    "main dish",
+    "meat",
+    "ribs"
+  ],
+  "recipeIngredient": [
+    "3 pounds Beef short ribs",
+    "1/2 cup Chopped onions",
+    "1 tablespoon Margarine",
+    "1/2 teaspoon Pepper",
+    "4 teaspoons Sugar",
+    "1 teaspoon Dry mustard",
+    "1 teaspoon Salt",
+    "1 teaspoon Paprika",
+    "4 teaspoons Worcestershire sauce",
+    "1/2 cup Catsup",
+    "1/4 cup White vinegar",
+    "1/4 cup Water"
+  ],
+  "recipeInstructions": "1. Brown ribs.\n2. Saute onions in margarine and add remaining ingredients. Simmer for 30 minutes.\n3. Baste ribs with sauce and bake at 350 degrees Fahrenheit for 2 hours. Drain off fat, baste again, and bake at 300 degrees Fahrenheit for an additional hour.",
+  "url": null
+}

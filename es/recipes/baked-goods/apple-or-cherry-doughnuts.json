@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-or-cherry-doughnuts",
+  "name": "Donas de manzana o cereza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "repostería"
+  ],
+  "recipeIngredient": [
+    "3 onzas de mantequilla",
+    "2 onzas de azúcar",
+    "1 cucharadita de vainilla",
+    "1/2 cucharadita de canela",
+    "2 yemas de huevo",
+    "9 onzas de harina",
+    "1/2 taza de leche",
+    "2 cucharaditas de polvo de hornear",
+    "2 cucharadas de brandy de cereza (o jugo de manzana)",
+    "2 claras de huevo",
+    "9 onzas de cerezas escurridas o 9 onzas de rodajas de manzana"
+  ],
+  "recipeInstructions": "1. Batir la mantequilla, el azúcar, la vainilla y la canela hasta obtener una mezcla cremosa.\n2. Mezclar el polvo de hornear con la harina y combinarlo con la leche y el brandy de cereza, alternando con la mezcla de mantequilla.\n3. Batir las claras de huevo hasta que estén firmes y mezclarlas con la masa.\n4. Añadir las cerezas o rodajas de manzana escurridas a la masa.\n5. Calentar aceite en una freidora profunda y freír cucharadas de masa hasta que estén doradas.\n6. Escurrir sobre papel absorbente y espolvorear con azúcar.",
+  "url": null
+}

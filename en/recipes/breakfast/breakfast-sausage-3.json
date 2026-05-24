@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-sausage-3",
+  "name": "Breakfast Sausage",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "turkey"
+  ],
+  "recipeIngredient": [
+    "5 lbs turkey, ground",
+    "2 1/2 tablespoons salt",
+    "1 1/2 teaspoons white pepper",
+    "1 tablespoon sage",
+    "1/2 teaspoon ginger",
+    "1 1/2 teaspoons nutmeg",
+    "1 1/2 teaspoons thyme",
+    "1 cup cold water"
+  ],
+  "recipeInstructions": "1. Mix the spices with cold water first.\n2. Add the turkey to the mixture.\n3. Blend everything together using your hands until fully combined.\n4. Cook the mixture in smaller portions and freeze as needed.",
+  "url": null
+}

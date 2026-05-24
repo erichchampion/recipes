@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cookies-made-from-cake-mix",
+  "name": "Galletas hechas con mezcla de bizcocho",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 sobre de mezcla para bizcocho",
+    "Pasas (opcional)",
+    "Nueces o coco rallado (opcional)",
+    "2 huevos",
+    "1/2 taza de aceite vegetal"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol hasta obtener una masa homogénea.\n2. Con una cuchara, tomar porciones de la masa y colocarlas sobre una bandeja para hornear sin engrasar, dejando espacio entre cada galleta de unos 2 cm.\n3. Hornear a 180 °C durante 8 a 10 minutos.\n4. Retirar del horno y dejar enfriar antes de servir.",
+  "url": null
+}

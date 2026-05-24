@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "caramel-bread-pudding",
+  "name": "Pudín de pan con caramelo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "postres",
+    "budines",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "6 rebanadas de pan del día anterior, cortadas en trozos de 1/2 pulgada",
+    "1 taza de agua caliente",
+    "1 taza de azúcar moreno",
+    "4 huevos, batidos ligeramente",
+    "2 tazas de leche tibia",
+    "1/2 taza de azúcar",
+    "1/2 cucharadita de extracto de vainilla",
+    "1/2 cucharadita de canela en polvo",
+    "1/8 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Coloca el pan en un molde para hornear engrasado de 2 cuartos.\n2. Combina el agua y el azúcar moreno; viértelo sobre el pan.\n3. Mezcla los ingredientes restantes y viértelos sobre el pan.\n4. Hornea a 175 °C durante 50-60 minutos, o hasta que un cuchillo insertado en el centro salga limpio.\n5. Sirve caliente o frío.",
+  "url": null
+}

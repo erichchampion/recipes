@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-bread-2",
+  "name": "White Bread",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "1 pint Milk",
+    "2 tablespoons Lard",
+    "1 tablespoon Sugar",
+    "1 tablespoon Salt",
+    "Flour"
+  ],
+  "recipeInstructions": "1. Scald the milk and let it cool with water until tepid.\n2. Dissolve 2 compressed yeast cakes in 1/2 cup lukewarm water and 1 tablespoon sugar.\n3. Combine the yeast mixture with 1 pint of lukewarm water.\n4. Gradually add flour to the mixture and knead into a large loaf until it is smooth but not too stiff.\n5. Cover and let rise for 2 hours.\n6. Knead down once more, cover, and let rise for another hour.\n7. Shape into loaves and let rise for an additional hour, or until doubled in bulk.\n8. Bake at 425°F for 15 minutes, then reduce to 350°F for the remainder of the time.\nWill make 2 or 3 loaves. You can use water instead of milk, and add 3 medium-sized boiled and mashed potatoes if preferred.",
+  "url": null
+}

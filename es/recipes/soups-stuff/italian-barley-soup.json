@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-barley-soup",
+  "name": "Sopa de cebada italiana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "granos",
+    "bajo en calorías",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 1/2 litros de caldo",
+    "2 tazas de agua",
+    "3/4 taza de cebada",
+    "1 taza de apio picado",
+    "1 taza de zanahoria rallada",
+    "1 taza de cebolla picada",
+    "4 dientes de ajo machacados",
+    "1/2 taza de vino tinto",
+    "1 cáscara de limón (1\"x1/2\")",
+    "Pimienta y sal al gusto",
+    "1/2 cucharadita de albahaca",
+    "1/4 cucharadita de orégano",
+    "1/2 taza de perejil fresco",
+    "2 hojas de laurel",
+    "1/2 cucharadita de romero",
+    "2 tomates picados",
+    "4 cucharadas de pasta de tomate",
+    "Queso parmesano o romano rallado"
+  ],
+  "recipeInstructions": "1. Llevar a ebullición el caldo y el agua.\n2. Añadir la cebada y reducir el fuego.\n3. Incorporar las verduras, el vino, la cáscara de limón, la pimienta y la sal; cocinar a fuego lento, tapado, durante 2 horas, removiendo con frecuencia para evitar que la cebada se pegue al fondo.\n4. Agregar las hierbas, los tomates y la pasta de tomate. Seguir cocinando a fuego lento, tapado, durante otra hora.\n5. Servir con un puñado de queso parmesano o romano rallado. Sirve para 8 personas.",
+  "url": null
+}

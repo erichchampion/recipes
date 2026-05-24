@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-coctail-dessert",
+  "name": "Postre de Cóctel de Frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 huevos",
+    "1 taza de azúcar",
+    "1 taza de harina",
+    "1 cucharadita de bicarbonato de sodio",
+    "Una pizca de sal",
+    "1 lata de 28 onzas de cóctel de frutas, escurrido",
+    "1 cucharadita de extracto de almendras",
+    "1/2 taza de azúcar moreno",
+    "1/2 taza de nueces picadas",
+    "Crema batida"
+  ],
+  "recipeInstructions": "1. Mezclar los huevos y el azúcar en un bol hasta que queden bien integrados.\n2. Añadir la harina, el bicarbonato de sodio y la sal; remover hasta obtener una masa suave.\n3. Incorporar el cóctel de frutas y el extracto de almendras.\n4. Verter la mezcla en un molde engrasado de 11 x 7 pulgadas (28 x 20 cm).\n5. Espolvorear uniformemente el azúcar moreno y las nueces picadas sobre la superficie.\n6. Hornear a 175 °C durante 1 hora y 20 minutos, o hasta que esté cuajado.\n7. Servir caliente o frío con crema batida.\nRinde para 8-10 personas.",
+  "url": null
+}

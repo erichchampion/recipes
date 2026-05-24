@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "blarney-stone-cocktail",
+  "name": "Cóctel Piedra de Blarney",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas alcohólicas",
+    "aperitivos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "2 onzas de whisky irlandés",
+    "1/2 cucharadita de sustituto de absenta",
+    "1/3 cucharadita de Cointreau",
+    "1/4 cucharadita de cerezas maraschino",
+    "1 gota de amargo",
+    "piel de naranja",
+    "oliva"
+  ],
+  "recipeInstructions": "1. Agitar bien con hielo roto y colar en un vaso cóctel de 3 onzas.\n2. Retorcer la piel de naranja sobre la bebida para decorar.\n3. Servir con una oliva.",
+  "url": null
+}

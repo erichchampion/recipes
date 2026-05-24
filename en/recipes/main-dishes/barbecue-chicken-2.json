@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecue-chicken-2",
+  "name": "Barbecue Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "1 whole chicken, cut into pieces",
+    "1 can (15 oz) condensed tomato soup",
+    "3/4 cup onion, chopped",
+    "1/4 cup vinegar",
+    "3 tbsp brown sugar",
+    "1 tbsp Worcestershire sauce",
+    "1/2 tsp salt",
+    "1/4 tsp sweet basil",
+    "1/4 tsp thyme"
+  ],
+  "recipeInstructions": "1. Place chicken in a slow cooker.\n2. Combine all other ingredients and pour over the chicken.\n3. Cover tightly and cook on low for 6 to 8 hours.",
+  "url": null
+}

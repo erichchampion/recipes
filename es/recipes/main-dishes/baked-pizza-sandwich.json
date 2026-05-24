@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-pizza-sandwich",
+  "name": "Sándwich de pizza horneada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "carne molida",
+    "plato principal",
+    "pizza",
+    "sándwiches",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida magra",
+    "15 oz de salsa de tomate (o salsa de pizza)",
+    "1 cucharadita de orégano seco",
+    "2 tazas de mezcla para bizcocho",
+    "1 huevo grande",
+    "8 oz de queso (utiliza un paquete de 8 oz de lonchas de queso americano o mozzarella)",
+    "1/4 taza de queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 200°C.\n2. Cocinar y remover la carne en una sartén grande hasta que esté dorada. Escurrir el exceso de grasa.\n3. Incorporar la mitad de la salsa de tomate y el orégano al mezclar con la carne.\n4. Llevar a ebullición, luego reducir el fuego y cocinar a fuego lento sin cubrir durante 10 minutos.\n5. Mezclar la mezcla para bizcocho, el huevo y la leche. Reservar 3/4 taza de masa.\n6. Extender la masa restante en un molde para hornear engrasado de 20x20x2 cm.\n7. Verter la salsa de tomate sobre la masa, extendiéndola uniformemente.\n8. Capar con una capa de queso, luego añadir la carne, champiñones y el resto del queso.\n9. Espolvorear la masa reservada sobre el queso.\n10. Espolvorear el queso parmesano rallado por encima.\n11. Hornear sin cubrir hasta que esté dorado (20-25 minutos).\n12. Dejar enfriar 5 minutos antes de cortar en cuadrados y servir.",
+  "url": null
+}

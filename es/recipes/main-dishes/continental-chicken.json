@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "continental-chicken",
+  "name": "Pollo Continental",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 paquete (2-1/4 oz.) de carne seca (utilizo carne Buddig)",
+    "6 pechugas de pollo deshuesadas",
+    "6 lonchas de tocino magro y ahumado",
+    "10 onzas de sopa de champiñones con crema",
+    "1/4 taza de crema agria",
+    "1/4 taza de harina"
+  ],
+  "recipeInstructions": "1. Coloca la carne seca al fondo de una olla de cocción lenta engrasada.\n2. Envuelve cada pechuga de pollo deshuesada con una tira de tocino y colócala sobre la carne seca (a menudo no uso el tocino).\n3. Mezcla la sopa y la crema agria.\n4. Vierte la mezcla sobre el pollo.\n5. Tapa y cocina a fuego lento durante 6 a 9 horas, o a alto durante 3 a 4 horas.",
+  "url": null
+}

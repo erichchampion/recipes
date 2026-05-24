@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-mushrooms",
+  "name": "Pollo y setas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 lb de pollo",
+    "1 lb de setas, laminadas",
+    "2 dientes de ajo, picados",
+    "1 cebolla, laminada",
+    "6 cucharadas de aceite de oliva",
+    "1 cucharada de mantequilla",
+    "1/2 taza de jerez",
+    "1/4 cucharadita de albahaca molida",
+    "1/2 cucharadita de tomillo molido",
+    "Una pizca de sal",
+    "Una pizca de pimienta"
+  ],
+  "recipeInstructions": "1. Cortar el pollo en trozos para servir, lavar y secar con papel de cocina.\n2. Sazonar con sal y pimienta.\n3. En una sartén grande, calentar la mantequilla, el ajo y 2/3 del aceite de oliva a fuego medio.\n4. Dorar el pollo por ambos lados durante unos 10 minutos.\n5. Reducir el fuego y continuar cocinando el pollo durante otros 25 minutos.\n6. En una sartén separada, calentar 2 cucharadas de aceite de oliva.\n7. Saltear la cebolla hasta que esté transparente, unos 5 minutos.\n8. Añadir las setas y 2 cucharadas de agua; cocinar a fuego lento durante 10 minutos.\n9. Incorporar las cebollas salteadas con setas al pollo.\n10. Tapar y cocinar el pollo a fuego lento durante 15 minutos adicionales.\n11. Verter el jerez y calentar brevemente hasta que hierva, unos 1 minuto, antes de servir caliente.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "a-basic-pumpkin-pie",
+  "name": "Una tarta de calabaza básica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "panadería",
+    "postres",
+    "frutas",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 huevos grandes, ligeramente batidos",
+    "1 libra de calabaza cocida",
+    "3/4 taza de azúcar",
+    "1/2 cucharadita de sal",
+    "1 cucharadita de canela en polvo",
+    "1 3/4 cucharaditas de jengibre molido",
+    "1/4 cucharadita de clavos de olor molidos",
+    "1/8 cucharadita de nuez moscada molida",
+    "1 1/2 tazas de leche evaporada",
+    "1 masa de tarta profunda congelada, de 9 pulgadas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 425°F (220°C) y precalentar una bandeja para hornear al mismo tiempo.\n2. Colocar la masa de tarta en la bandeja para hornear precalentada.\n3. Verter el relleno de calabaza en la masa.\n4. Hornear la tarta durante 15 minutos.\n5. Reducir la temperatura del horno a 350°F (175°C).\n6. Hornear durante 40-50 minutos más, o hasta que un cuchillo insertado en el centro salga limpio.\n7. Dejar enfriar completamente.",
+  "url": null
+}

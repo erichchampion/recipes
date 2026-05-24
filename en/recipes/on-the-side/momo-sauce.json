@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "momo-sauce",
+  "name": "Momo Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "appetizers",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 tbsp Ghee",
+    "1 t Minced ginger",
+    "1 t Minced garlic",
+    "1/2 cup Diced onion",
+    "1/2 tsp Garam masala",
+    "1/8 tsp Turmeric",
+    "1/2 tsp Chili powder",
+    "1 cup Diced tomatoes",
+    "1 cup Water",
+    "1/2 tsp White vinegar",
+    "1 t Soy sauce",
+    "1/4 tsp Salt",
+    "1/4 tsp Pepper",
+    "Green onions, chopped",
+    "2 each Sprigs cilantro, chopped"
+  ],
+  "recipeInstructions": "1. Heat the ghee in a pot.\n2. Add ginger, garlic, and onion; stir-fry for 1 minute.\n3. Add garam masala, turmeric, and chili powder; stir-fry for 30 seconds.\n4. Add diced tomatoes and stir-fry for 3 minutes.\n5. Pour in water and bring to a boil.\n6. Reduce heat and simmer for 5 minutes.\n7. Stir in white vinegar, soy sauce, salt, and pepper.\n8. Mix well and garnish with chopped green onions and cilantro.\n9. Serve hot.",
+  "url": null
+}

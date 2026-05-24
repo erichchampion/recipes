@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-tropical-soup",
+  "name": "Sopa Tropical de Fresa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "3 tazas de fresas",
+    "1 taza de cerezas congeladas",
+    "4 tazas de jugo de fresa congelado (diluido)",
+    "2 cucharadas de miel de clover",
+    "1/2 taza de jugo de lima fresco",
+    "1/2 taza de vino blanco dulce",
+    "1/2 taza de crema ligera",
+    "2 cucharadas de almidón de maíz",
+    "2 cucharadas de agua fría",
+    "1/2 taza de crema agria"
+  ],
+  "recipeInstructions": "1. Mezcla el almidón de maíz con 2 cucharadas de agua fría.\n2. Calienta a fuego lento el jugo de fresa, la miel, el jugo de lima y el vino blanco en una sartén hasta que la mezcla espese. Revuelve ocasionalmente mientras se enfría.\n3. Añade las fresas y la crema a la mezcla enfriada y licúa hasta obtener una textura suave.\n4. Cuela a través de un colador fino.\n5. Mezcla las cerezas descongeladas.\n6. Añade un chorro de crema agria a cada porción.",
+  "url": null
+}

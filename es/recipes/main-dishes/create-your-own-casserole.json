@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "create-your-own-casserole",
+  "name": "Crea tu propia lasaña",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de jamón enlatado, picado",
+    "1 taza de pollo o pavo cocido, picado",
+    "1 taza de carne de guiso enlatada",
+    "1 taza de carne de res, cordero o cerdo cocida",
+    "1 taza de huevos duros cocidos",
+    "1 taza de salchichas",
+    "1 taza de queso",
+    "1 taza de atún o salmón enlatado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F (175°C).\n2. En un bol grande, mezclar todos los ingredientes.\n3. Revolver bien hasta que todo esté distribuido uniformemente.\n4. Transferir la mezcla a un molde para hornear engrasado.\n5. Hornear en el horno precalentado durante 25-30 minutos o hasta que esté caliente y burbujeante.\n6. Apagar el calor y dejar enfriar unos minutos antes de servir.",
+  "url": null
+}

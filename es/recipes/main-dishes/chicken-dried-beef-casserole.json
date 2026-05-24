@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-dried-beef-casserole",
+  "name": "Cazuela de Pollo y Carne Secas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 tarro de carne seca, 75 g.",
+    "8 pechugas de pollo deshuesadas",
+    "1 lata de sopa de setas",
+    "4 rebanadas de tocino, cortadas por la mitad",
+    "250 ml de crema agria",
+    "1 lata de sopa de pollo con crema"
+  ],
+  "recipeInstructions": "1. Enrolla medio trozo de tocino alrededor de cada pechuga de pollo, colocando el extremo abierto hacia abajo.\n2. Coloca los pechugas de pollo envueltos en un plato para hornear forrado con la carne seca.\n3. Mezcla las sopas y la crema agria.\n4. Vierte la mezcla sobre los pechugas de pollo.\n5. Hornea a 150 °C durante 3 horas. Sirve con arroz o fideos.",
+  "url": null
+}

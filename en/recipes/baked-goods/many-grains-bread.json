@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "many-grains-bread",
+  "name": "Many Grains Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "1 1/8 cup Water",
+    "1/2 cup Whole wheat flour",
+    "2 cups Bread flour",
+    "1/2 cup Quick oats",
+    "3/4 cup 7 grain cereal",
+    "2 tbsp Powdered buttermilk",
+    "2 tbsp Sugar",
+    "2 tbsp Honey",
+    "2 tbsp Margarine",
+    "2 packages Yeast",
+    "1 tsp Salt"
+  ],
+  "recipeInstructions": "1. Combine all the ingredients in a large bowl.\n2. Form the dough into a loaf and place it in a greased pan.\n3. Set the oven to light crust and white bread cycle settings.\n4. Bake until done, turning off when ready.",
+  "url": null
+}

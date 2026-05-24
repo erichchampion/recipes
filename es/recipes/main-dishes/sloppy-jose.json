@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "sloppy-jose",
+  "name": "Sloppy José",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de cebolla, picada",
+    "1/2 taza de pimiento verde, picado",
+    "2 1/2 cucharaditas de jalapeño fresco picado",
+    "1 cucharadita de ajo picado",
+    "2 cucharadas de aceite de oliva",
+    "1 libra de carne molida magra",
+    "1/4 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra recién molida",
+    "1 cucharadita de comino",
+    "1 taza de ketchup",
+    "1 taza de tomate fresco picado o enlatado",
+    "4 panecillos para hamburguesa"
+  ],
+  "recipeInstructions": "1. En una sartén grande, saltear las cebollas, el pimiento verde, el jalapeño y el ajo en aceite de oliva hasta que la cebolla se vuelva transparente.\n2. Agregar la carne molida a la sartén y cocinar, removiendo ocasionalmente, hasta que la carne esté ligeramente dorada.\n3. Escurrir cualquier grasa excesiva del preparado de carne.\n4. Incorporar la sal, la pimienta negra y el comino, cocinando durante 1 minuto más, removiendo constantemente para asegurar una distribución uniforme de las especias.\n5. Añadir el ketchup y los tomates, tapar la sartén y reducir a fuego lento hasta que la salsa espese.\n6. Servir la mezcla sobre panecillos para hamburguesa tostados.",
+  "url": null
+}

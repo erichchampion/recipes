@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mochi-cake",
+  "name": "Tarta de Mochi",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 lb de mochiko",
+    "2 1/2 tazas de azúcar",
+    "2 cucharaditas de polvo de hornear",
+    "1/2 taza de mantequilla o margarina derretida",
+    "3 tazas de leche fresca",
+    "5 huevos batidos",
+    "2 cucharaditas de extracto de limón",
+    "1 cucharadita de extracto de vainilla",
+    "1 taza de coco rallado"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar el mochiko, el azúcar y el polvo de hornear.\n2. Añadir la mantequilla derretida, la leche, los huevos batidos, el extracto de limón, la vainilla y el coco rallado. Mezclar bien hasta que todos los ingredientes estén completamente combinados.\n3. Verter la masa en un molde rectangular de 9 x 13 pulgadas.\n4. Hornear durante 1 hora a 350°F (175°C).\n5. Dejar enfriar por completo antes de servir.",
+  "url": null
+}

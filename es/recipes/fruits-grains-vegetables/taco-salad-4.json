@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-salad-4",
+  "name": "Ensalada de Tacos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "carne molida",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida, dorada y escurrida",
+    "1 cabeza de lechuga",
+    "1 pimiento verde, picado",
+    "1 tomate, picado",
+    "1 cebolla pequeña, picada",
+    "8 onzas de queso cheddar rallado",
+    "8 onzas de aderezo Catalina",
+    "16 onzas de Doritos"
+  ],
+  "recipeInstructions": "1. Cocinar la carne molida hasta que esté dorada y escurrir el exceso de grasa.\n2. Lavar y picar la lechuga.\n3. Picar el pimiento verde, el tomate y la cebolla en trozos pequeños.\n4. Rallar el queso cheddar.\n5. Mezclar en un bol los vegetales picados (excepto los Doritos), el queso rallado y el aderezo Catalina hasta que estén bien combinados.\n6. Justo antes de servir, desmenuzar los Doritos y mezclarlos con la ensalada.",
+  "url": null
+}

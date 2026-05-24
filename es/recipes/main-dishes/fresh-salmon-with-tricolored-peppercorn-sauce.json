@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "fresh-salmon-with-tricolored-peppercorn-sauce",
+  "name": "Salmón fresco con salsa de granos de pimienta tricolor",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "frutas",
+    "hierbas",
+    "plato principal",
+    "carne",
+    "salmón",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "1/2 limón fresco",
+    "Filetes o lomo de salmón (para 4 personas)",
+    "1/3 palita de mantequilla",
+    "1 cucharada de mostaza dijon",
+    "1 cucharada de jugo de limón fresco",
+    "1 cucharada de granos de pimienta tricolor finamente molidos",
+    "1 cucharada de eneldo fresco picado"
+  ],
+  "recipeInstructions": "1. Exprimir el jugo de medio limón sobre el salmón y cocinar a la parrilla o al horno. No sobrecocinar.\n2. Derretir la mantequilla; mezclar con mostaza y jugo de limón.\n3. Cuando el salmón esté listo, espolvorear uniformemente con los granos de pimienta molidos y agregar el eneldo. Verter la salsa de mantequilla derretida sobre todo.\n4. Servir inmediatamente.",
+  "url": null
+}

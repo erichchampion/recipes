@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburgers-in-the-freezer",
+  "name": "Hamburguesas en el congelador",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "comidas preparadas para congelar",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "4 panes de hamburguesa",
+    "2 bolsas congeladoras, una de un litro y otra de un galón"
+  ],
+  "recipeInstructions": "1. Formar la carne molida en cuatro hamburguesas de 4 onzas (un cuarto de libra) cada una.\n2. Colocar las hamburguesas y los 4 panes de hamburguesa en compartimentos separados de las bolsas congeladoras de un litro y un galón, respectivamente.\n3. Para preparar: no descongelar las hamburguesas antes de cocinarlas.\n4. Cocinar las hamburguesas congeladas en una sartén o asarlas a la parrilla.",
+  "url": null
+}

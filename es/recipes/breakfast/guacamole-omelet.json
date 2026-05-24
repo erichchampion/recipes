@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "guacamole-omelet",
+  "name": "Omeleta de guacamole",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "queso/huevos",
+    "huevos",
+    "plato principal",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "1/2 aguacate; pelado",
+    "1/2 cucharadita zumo de limón",
+    "Una pizca de sal con sabor",
+    "3 gotas de salsa picante",
+    "1 tomate pequeño; cortado en cubos",
+    "2 huevos",
+    "1 cucharada agua",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Machaca el aguacate hasta obtener una textura gruesa en un bol pequeño.\n2. Añade zumo de limón, sal con sabor, salsa picante y los cubos de tomate. Mezcla bien.\n3. Bate los huevos con agua, sal y pimienta en otro bol hasta que estén combinados.\n4. Calienta una sartén antiadherente o para omeletas a fuego medio.\n5. Vierte la mezcla de huevo en la sartén caliente, moviéndola suavemente para distribuir el líquido uniformemente.\n6. Cuando los bordes empiecen a cuajarse (aproximadamente 2-3 segundos), dobla la omeleta por la mitad con una espátula ancha.\n7. Cubre la mitad de la omeleta con la mezcla de aguacate.\n8. Dobla el otro lado y continúa cocinando durante otros 30 segundos, o hasta que los huevos estén completamente cuajados.",
+  "url": null
+}

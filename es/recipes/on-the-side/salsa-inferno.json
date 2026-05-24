@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "salsa-inferno",
+  "name": "Salsa Infernal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "4 tazas de tomate, pelado y picado",
+    "1 taza de chiles verdes, picados",
+    "1/2 taza de cebolla, picada finamente",
+    "2 cucharadas de ajo, picado",
+    "1/2 taza de cebolletas, picadas",
+    "1/2 taza de chile jalapeño, picado",
+    "1 cucharadita de salsa tabasco",
+    "3 cucharadas de vinagre blanco",
+    "3/4 cucharadita de sal",
+    "3 onzas de puré de tomate"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en una cacerola pesada.\n2. Lleva a ebullición a fuego medio-alto.\n3. Reduce el calor a bajo y deja que hierva a fuego lento hasta alcanzar la consistencia deseada.\n4. Procesa durante 10 minutos, removiendo ocasionalmente.",
+  "url": null
+}

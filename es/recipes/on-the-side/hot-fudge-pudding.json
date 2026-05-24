@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-fudge-pudding",
+  "name": "Pudín de Chocolate Caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "plato principal",
+    "postres",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina",
+    "2 cucharadas de manteca derretida",
+    "2 cucharaditas de polvo de hornear",
+    "1 taza de azúcar moreno",
+    "1/4 cucharadita de sal",
+    "1/4 taza de cacao en polvo",
+    "2 cucharadas de azúcar",
+    "1 taza y 3/4 de agua caliente",
+    "1/2 taza de leche"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar la harina con el polvo de hornear.\n2. Agregar la sal, el azúcar moreno y el cacao en polvo a la mezcla de harina.\n3. Incorporar la manteca derretida hasta obtener una consistencia homogénea.\n4. Verter gradualmente el agua caliente y la leche, removiendo continuamente.\n5. Verter la mezcla en un molde rectangular engrasado de 20x20 cm.\n6. Espolvorear con azúcar moreno y cacao en polvo por encima.\n7. Hornear a 180°C durante 45 minutos o hasta que esté firme.\n8. Dejar enfriar completamente antes de servir.",
+  "url": null
+}

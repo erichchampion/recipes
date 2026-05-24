@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-dressing-2",
+  "name": "Pollo y relleno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo cocidas",
+    "1 lata de sopa de pollo cremoso",
+    "1 lata de sopa de apio cremoso",
+    "1/3 taza de leche evaporada",
+    "1 paquete de 225 g de relleno de pan de maíz preparado",
+    "3/4 taza de mantequilla",
+    "2 tazas de caldo de pollo",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cortar el pollo en trozos pequeños y colocarlo en un plato para horno profundo.\n2. Calentar las sopas, la leche, la sal y la pimienta hasta que estén bien mezcladas. Verter la mezcla sobre el pollo.\n3. En una sartén separada, derretir la mantequilla, agregar el relleno y el caldo de pollo.\n4. Cubrir con el relleno.\n5. Hornear en un horno precalentado a 175 °C durante 25 minutos o hasta que burbujee.",
+  "url": null
+}

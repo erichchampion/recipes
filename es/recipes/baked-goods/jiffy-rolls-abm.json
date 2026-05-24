@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "jiffy-rolls-abm",
+  "name": "Rollos Rápidos ABM",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pan",
+    "máquina de pan"
+  ],
+  "recipeIngredient": [
+    "1/2 cucharadita de levadura",
+    "3 tazas y media de harina",
+    "1/4 taza de azúcar",
+    "1/4 cucharadita de sal",
+    "1/4 taza de mantequilla",
+    "2 huevos",
+    "1 taza de leche",
+    "1/4 taza de agua tibia"
+  ],
+  "recipeInstructions": "1. Llevar todos los ingredientes a temperatura ambiente.\n2. Agregar los ingredientes en orden a una máquina panificadora.\n3. Seleccionar \"pan blanco, manual\" y presionar Start.\n4. Cuando la máquina emita un pitido al final del segundo ciclo de amasado, retirar la masa.\n5. Si se desea, refrigerar la mezcla durante la noche para usarla al día siguiente.\n6. Colocar la masa en moldes en la forma deseada.\n7. Dejar levar la masa nuevamente.\n8. Hornear a 175 °C (350 °F) durante 15 minutos para rodillos en forma de hoja de clavel, o 30 minutos para rodillos circulares en un molde.",
+  "url": null
+}

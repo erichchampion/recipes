@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "amish-cake",
+  "name": "Pastel Amish",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres",
+    "étnico",
+    "glaseados"
+  ],
+  "recipeIngredient": [
+    "Tarta Amish",
+    "2 huevos",
+    "2 tazas de azúcar",
+    "1 piña grande triturada",
+    "2 tazas de harina",
+    "1 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de extracto de vainilla",
+    "1 taza de nueces picadas"
+  ],
+  "recipeInstructions": "Utilice un molde rectangular engrasado y enharinado de 30x45 cm. Hornee a 180 °C durante 30 minutos o hasta que esté hecho. Glaseado (topping):\nMezcle todos los ingredientes del glaseado juntos. Bata hasta obtener una consistencia suave y extienda sobre la tarta completamente enfriada.",
+  "url": null
+}

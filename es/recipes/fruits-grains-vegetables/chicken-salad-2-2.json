@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-salad-2-2",
+  "name": "Ensalada de Pollo #2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "3 tazas de pollo cocido, cortado en cubos",
+    "1 libra de espárragos, al vapor",
+    "1/2 piña, cortada en cubos y al vapor (O en rodajas)",
+    "1 lata (400 g) de trozos de piña, escurridos",
+    "2 tomates, en rodajas",
+    "1 lechuga iceberg, desmenuzada",
+    "1 taza de aceitunas verdes",
+    "1 cucharada de perejil picado",
+    "1 cucharada de albahaca"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Añadir el aderezo de su elección y mezclar bien.",
+  "url": null
+}

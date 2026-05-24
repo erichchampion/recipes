@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "boboli-breakfast-pizza",
+  "name": "Pizza de desayuno Boboli",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "platos principales",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "2 pequeños Bobolis",
+    "2 huevos",
+    "Tomates en rodajas",
+    "Jamón",
+    "Queso suizo"
+  ],
+  "recipeInstructions": "1. Coloca un huevo ligeramente escalfado sobre cada Boboli.\n2. Añade en este orden: tomates en rodajas, jamón y queso suizo.",
+  "url": null
+}

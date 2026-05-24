@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-bbq-chicken",
+  "name": "Pollo a la barbacoa en olla de cocción lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "aves de corral",
+    "salsas",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "Trozos de pollo (la cantidad que necesites)",
+    "Cebolla, cortada en trozos",
+    "1 botella de salsa barbacoa"
+  ],
+  "recipeInstructions": "1. Coloca el pollo en la base del cocinador lento.\n2. Añade las cebollas y la salsa barbacoa.\n3. Cocina a temperatura baja durante aproximadamente 8-10 horas.",
+  "url": null
+}

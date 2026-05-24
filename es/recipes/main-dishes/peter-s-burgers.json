@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "peter-s-burgers",
+  "name": "Hamburguesas de Peter",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida (93% magra)",
+    "1 huevo",
+    "1 cucharadita de sal",
+    "1 cucharadita de pimienta negra",
+    "1 cebolla mediana picada",
+    "1 cucharadita de salsa picante (aproximadamente 5 sacudidas)",
+    "1 cucharada de salsa Worcestershire",
+    "2 cucharadas de glaseado teriyaki",
+    "1/4 taza de avena cruda",
+    "1 diente de ajo picado"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta que queden bien integrados.\n2. Formar la mezcla en cuatro hamburguesas.\n3. Broilar o asar a la parrilla al gusto.",
+  "url": null
+}

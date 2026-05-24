@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "spanich-rice-2",
+  "name": "Arroz Español 2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne molida",
+    "plato principal",
+    "arroz",
+    "olla de cocción lenta",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne molida o de res",
+    "2 cebollas medianas picadas",
+    "2 pimientos verdes picados",
+    "1 lata de tomates (de 400 g)",
+    "1 lata de salsa de tomate (de 200 ml)",
+    "1 taza de agua",
+    "2 1/2 cucharaditas de polvo de chili",
+    "2 1/2 cucharaditas de sal",
+    "1 cucharadita de salsa Worcestershire",
+    "1 taza de arroz crudo"
+  ],
+  "recipeInstructions": "1. Dorar la carne en una sartén y escurrir el exceso de grasa.\n2. Agregar todos los ingredientes a la olla de cocción lenta (Crock-POT).\n3. Mezclar bien, cubrir y cocinar a fuego lento durante 6 a 8 horas (o a fuego alto durante 3 horas).",
+  "url": null
+}

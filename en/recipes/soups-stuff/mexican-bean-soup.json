@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-bean-soup",
+  "name": "Mexican Bean Soup",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "mexican",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 lb ground beef",
+    "1 medium yellow onion, chopped fine",
+    "1 package taco seasoning",
+    "1 package ranch dressing",
+    "1 can diced tomatoes",
+    "1 can whole kernel corn",
+    "1 can pinto beans",
+    "1 can kidney beans",
+    "1 can black beans (or ranch beans)"
+  ],
+  "recipeInstructions": "1. Brown the ground beef with onions in a large pot over medium heat until fully cooked.\n2. Drain excess fat, if necessary.\n3. Stir in taco seasoning and ranch dressing.\n4. Add diced tomatoes, whole kernel corn, pinto beans, and kidney beans.\n5. Pour in black beans (or ranch beans) and season with salt and pepper to taste.\n6. Simmer the soup gently until all ingredients are heated through and flavors are well combined.\n7. Serve hot and garnish with fresh cilantro if desired.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-rice",
+  "name": "Arroz con Limón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de caldo de pollo enlatado",
+    "1 diente de ajo, ligeramente machacado",
+    "1 taza de arroz basmati, enjuagado",
+    "1 cucharada de ralladura de limón finamente rallada",
+    "2 cucharadas de perejil fresco picado",
+    "1/2 cucharadita de eneldo seco",
+    "2 cucharadas de mantequilla sin sal",
+    "Pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Calentar el caldo y el ajo en una cacerola hasta que hierva.\n2. Añadir el arroz, cubrir y dejar cocer a fuego lento hasta que se absorba el líquido, aproximadamente 20 minutos. Apagar el fuego.\n3. Retirar del calor. Incorporar la ralladura de limón y dejar reposar cubierto durante 5 minutos.\n4. Eliminar el ajo. Mezclar suavemente el perejil y la mantequilla. Sazonar con pimienta al gusto.",
+  "url": null
+}

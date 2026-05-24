@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cottage-pudding-i",
+  "name": "Pudín de Cottage I",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "postres",
+    "budines",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina tamizada",
+    "1 cucharadita de polvo de hornear",
+    "1/4 cucharadita de sal",
+    "1/2 taza de mantequilla",
+    "1/2 taza de azúcar",
+    "1 huevo, ligeramente batido",
+    "1 cucharadita de extracto de vainilla",
+    "3/4 taza de leche"
+  ],
+  "recipeInstructions": "Este es un postre muy sencillo. Servir caliente con salsa de custard o crema batida.\nPrecalentar el horno a 175 °C. Tamizar los ingredientes secos juntos.\nBatir la mantequilla y el azúcar hasta que estén ligeros, incorporar el huevo. Mezclar la vainilla y la leche. Agregar la harina y la leche alternativamente a la mezcla de huevo. Verter en un molde para hornear engrasado de 20x20 cm y hornear durante 50 minutos. Cortar en cuadrados.",
+  "url": null
+}

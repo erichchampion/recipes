@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "meal-in-one-stir-fry",
+  "name": "Meal-in-One Stir-Fry",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1 small onion, chopped",
+    "2 tbsp vegetable oil",
+    "10 oz canned chunk chicken, drained and flaked",
+    "4 oz canned sliced mushrooms, drained",
+    "8 1/2 oz canned green peas, drained",
+    "3 cups cooked rice",
+    "2 oz diced pimientos (optional)",
+    "1 tsp ground black pepper"
+  ],
+  "recipeInstructions": "1. Cook the onion in a large skillet until transparent.\n2. Add the chicken, mushrooms, peas, rice, pimientos (if using), and pepper; stir well.\n3. Heat thoroughly until all ingredients are evenly heated.",
+  "url": null
+}

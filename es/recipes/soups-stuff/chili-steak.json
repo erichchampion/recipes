@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-steak",
+  "name": "Chili de carne con steak",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "sopas",
+    "carne de res",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "3 lb solomillo o carne de res redonda, de 1 pulgada",
+    "1 cucharadita sal",
+    "1/2 cucharadita pimienta",
+    "2 dientes ajo machacados",
+    "3 cucharadas manteca",
+    "1/2 taza pimiento verde picado",
+    "1/2 taza cebolla picada",
+    "1 1/2 tazas salsa Texas Red o original",
+    "1/2 taza café negro fuerte"
+  ],
+  "recipeInstructions": "1. Cortar la carne en seis porciones.\n2. Mezclar sal, pimienta y ajo machacado; sazonar ambos lados de la carne con la mezcla.\n3. Dejar reposar en un recipiente (de vidrio o cerámica) durante unos 60 minutos.\n4. Secar las carnes y freírlas en manteca hasta que estén doradas, darles la vuelta una vez. Retirarlas del sartén.\n5. Cocinar el pimiento verde y la cebolla en el mismo sartén hasta que estén suaves; agregar el chile y el café.\n6. Devolver las carnes al sartén; llevar a ebullición.\n7. Reducir el fuego, tapar y cocinar durante 45 minutos.\n8. Servir con arroz. Rinde para 6 porciones.",
+  "url": null
+}

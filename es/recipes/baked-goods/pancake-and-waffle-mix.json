@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pancake-and-waffle-mix",
+  "name": "Mezcla para panqueques y gofres",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "panes",
+    "varios",
+    "mezclas"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina de centeno",
+    "1 taza de harina integral",
+    "2 tazas de harina de uso general",
+    "1/2 taza de maíz molido amarillo",
+    "1/3 taza de azúcar",
+    "2 cucharadas de polvo de hornear",
+    "2 1/2 cucharaditas de sal",
+    "1/2 cucharadita de bicarbonato de sodio"
+  ],
+  "recipeInstructions": "1. Cernir las harinas, el maíz molido, el azúcar, el polvo de hornear, la sal y el bicarbonato en un bol. Utilizar un colador con malla ancha para obtener mejores resultados.\n2. Mezclar todos los ingredientes a fondo con un batidor grande durante al menos 30 segundos.\n3. Dividir la mezcla por igual entre tres bolsas de plástico o recipientes.\n4. Si queda alguna mezcla después de dividirla, distribuirla uniformemente en los recipientes.\n5. Almacenar los recipientes a temperatura ambiente.",
+  "url": null
+}

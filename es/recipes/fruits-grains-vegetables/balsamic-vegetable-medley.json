@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "balsamic-vegetable-medley",
+  "name": "Mezcla de verduras con vinagre balsámico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 patata, cortada en cubos",
+    "1 zanahoria, cortada en rodajas",
+    "1 cabeza de brócoli, cortada en trozos",
+    "1/2 cebolla dulce, picada finamente",
+    "3-4 dientes de ajo, picados",
+    "1/4 taza de vinagre balsámico",
+    "Pimienta negra al gusto",
+    "Albahaca seca al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar al vapor la patata, la zanahoria y el brócoli hasta que estén tiernos, aproximadamente 15-20 minutos.\n2. Mientras tanto, saltear la cebolla, el ajo y las especias en el vinagre balsámico.\n3. Mezclar las verduras al vapor con la mezcla de vinagre hasta que estén bien cubiertas.\n4. Servir.",
+  "url": null
+}

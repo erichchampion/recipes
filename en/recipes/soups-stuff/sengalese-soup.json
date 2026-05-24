@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "sengalese-soup",
+  "name": "Sengalese Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 cup Chicken soup",
+    "1 cup Sour cream",
+    "1 cup Chicken broth",
+    "1/4 tablespoon Curry powder",
+    "1/4 tablespoon Tabasco sauce",
+    "1 cucumber, shredded",
+    "1 salt"
+  ],
+  "recipeInstructions": "1. Combine all the ingredients in a bowl.\n2. Serve chilled.",
+  "url": null
+}

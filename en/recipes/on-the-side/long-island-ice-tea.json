@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "long-island-ice-tea",
+  "name": "Long Island Ice Tea",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "Equal parts:",
+    "Mr. Boston Rum",
+    "Mr. Boston Gin",
+    "Mr. Boston Vodka",
+    "Mr. Boston Triple Sec",
+    "Lemon Juice",
+    "Orange Juice"
+  ],
+  "recipeInstructions": "1. Mix in a highball glass over ice.\n2. Add a dash of cola.\n3. You may substitute any kind of rum, gin, vodka, and triple sec as desired.\n4. Please drink responsibly and do not drive under the influence.",
+  "url": null
+}

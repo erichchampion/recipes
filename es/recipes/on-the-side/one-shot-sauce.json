@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "one-shot-sauce",
+  "name": "Salsa de un solo paso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 libra de mantequilla",
+    "1/2 taza de cebolla finamente picada",
+    "2 dientes de ajo, picados finamente",
+    "1/2 taza de whisky",
+    "1/4 taza de salsa Worcestershire",
+    "1 cucharadita de pimienta negra",
+    "1 1/2 cucharaditas de mostaza en polvo",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de Tabasco"
+  ],
+  "recipeInstructions": "1. Derretir la mantequilla en una sartén a fuego bajo.\n2. Añadir la cebolla y el ajo, removiendo hasta que estén suaves.\n3. Agregar gradualmente los ingredientes restantes, mezclando continuamente hasta que estén bien combinados.",
+  "url": null
+}

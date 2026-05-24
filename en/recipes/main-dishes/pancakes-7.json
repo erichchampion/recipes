@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pancakes-7",
+  "name": "Pancakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "pancakes"
+  ],
+  "recipeIngredient": [
+    "4 egg whites",
+    "1 tablespoon molasses",
+    "1 teaspoon vanilla extract",
+    "2 tablespoons wheat flour",
+    "1 teaspoon cinnamon",
+    "2 teaspoons sugar",
+    "1/4 cup oatmeal"
+  ],
+  "recipeInstructions": "1. Mix all ingredients thoroughly until you have a batter-like consistency.\n2. Cook the mixture as desired.",
+  "url": null
+}

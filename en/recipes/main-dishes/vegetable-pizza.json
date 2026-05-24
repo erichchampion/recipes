@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetable-pizza",
+  "name": "Vegetable Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "appetizers",
+    "brunch",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "2 packages Crescent rolls",
+    "1 cup Mayonnaise",
+    "2 packages Hidden Valley Ranch salad dressing",
+    "1 cup Broccoli, finely chopped",
+    "1 cup Cauliflower, finely chopped",
+    "1 cup Carrots, grated",
+    "1 cup Cheddar cheese, grated",
+    "1 cup Tomatoes, chopped"
+  ],
+  "recipeInstructions": "1. Pat the Crescent rolls into a pizza pan.\n2. Bake for 7-10 minutes, or until golden brown.\n3. Mix softened cream cheese with mayonnaise and dried salad dressing.\n4. Spread the cream cheese mixture on the cooked dough.\n5. Top with vegetables and cheese.\n6. Press down lightly.\n7. Chill for at least 1 hour.\n8. Cut into pieces.",
+  "url": null
+}

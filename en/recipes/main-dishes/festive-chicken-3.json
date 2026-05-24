@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "festive-chicken-3",
+  "name": "Festive Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "2 cups chicken, cooked and chopped",
+    "1 box wild rice, cooked",
+    "1 medium onion, chopped",
+    "1/2 cup mayonnaise",
+    "1 can French green beans or 1 package broccoli, cooked",
+    "1 can celery soup",
+    "1/2 cup water chestnuts (optional)",
+    "2 tablespoons chopped pimiento (optional)"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a greased baking dish.\n2. Bake for 45 minutes to 1 hour at 350 degrees.",
+  "url": null
+}

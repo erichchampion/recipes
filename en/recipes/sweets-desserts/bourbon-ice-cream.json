@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "bourbon-ice-cream",
+  "name": "Bourbon Ice Cream",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "beverages",
+    "desserts",
+    "ice cream"
+  ],
+  "recipeIngredient": [
+    "4 Eggs",
+    "3/4 cup Sugar",
+    "1/4 cup Bourbon",
+    "14 oz Eagle Milk",
+    "6 cups Half & Half",
+    "1 Mint Sprig"
+  ],
+  "recipeInstructions": "1. Beat eggs at medium speed, gradually add sugar.\n2. Add bourbon and Eagle milk; mix well.\n3. Pour mixture into a freezer can for a 1-gallon ice cream freezer.\n4. Freeze according to directions.\n5. Let ripen at least one hour.\n6. Serve with mint sprig.",
+  "url": null
+}

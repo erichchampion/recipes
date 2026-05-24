@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-b-b-q-d-flank-steak",
+  "name": "Costilla de ternera a la barbacoa con cerveza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecua",
+    "carne de res",
+    "plato principal",
+    "carne",
+    "bistec"
+  ],
+  "recipeIngredient": [
+    "2 latas de caldo",
+    "2/3 taza de salsa de soja",
+    "1/2 taza de cebolla verde picada",
+    "6 cucharadas de jugo de limón",
+    "4 cucharadas de azúcar moreno",
+    "1 diente de ajo machacado",
+    "2 costillas grandes de ternera",
+    "2 tazas de cerveza"
+  ],
+  "recipeInstructions": "1. Mezclar los primeros seis ingredientes en un bol.\n2. Verter esta mezcla sobre las costillas y colocarlas en un recipiente.\n3. Verter la cerveza sobre todo y marinar durante 24 horas.\n4. Asar a la barbacoa las costillas hasta alcanzar el punto de cocción deseado.\n5. Para servir, cortar las costillas en rodajas finas en contra del grano.",
+  "url": null
+}

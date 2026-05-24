@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "marchand-de-vin",
+  "name": "Marchand De Vin",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "sauces",
+    "side dishes",
+    "wines"
+  ],
+  "recipeIngredient": [
+    "1 cup Ham, finely diced",
+    "1 cup Mushrooms, fresh, finely diced",
+    "1 cup Onions, green, finely chopped",
+    "2 oz Butter",
+    "3 cups Demi-Glace",
+    "1 1/2 cups Wine, red"
+  ],
+  "recipeInstructions": "1. See recipe for Demi-Glace.\n2. Saute the ham, mushrooms and green onions in butter.\n3. Add demi-glace and wine, reduce by one-quarter and strain.",
+  "url": null
+}

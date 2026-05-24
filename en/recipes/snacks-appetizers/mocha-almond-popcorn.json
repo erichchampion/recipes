@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "mocha-almond-popcorn",
+  "name": "Mocha Almond Popcorn",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "popcorn",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Strong coffee",
+    "1/2 cup White corn syrup",
+    "1/4 cup Butter",
+    "1 cup Brown sugar",
+    "1 tablespoon Cocoa powder",
+    "1 cup Popped popcorn",
+    "1 cup Chopped, toasted almonds"
+  ],
+  "recipeInstructions": "1. In a heavy saucepan, combine the coffee, corn syrup, butter, brown sugar, and cocoa.\n2. Cook over moderate heat until the mixture reaches 280°F on a candy thermometer.\n3. Pour the hot mixture over the popped popcorn and chopped, toasted almonds.",
+  "url": null
+}

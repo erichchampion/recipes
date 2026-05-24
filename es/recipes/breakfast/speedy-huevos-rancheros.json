@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "speedy-huevos-rancheros",
+  "name": "Huevos Rancheros Rápidos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "huevos",
+    "plato principal",
+    "rápido"
+  ],
+  "recipeIngredient": [
+    "8 lomos de tocino, picados",
+    "3 latas (400 g cada una) de tomates mexicanos en cubos",
+    "1 cebolla mediana, picada",
+    "1 lata (400 g) de chiles verdes picados, escurridos",
+    "10 huevos",
+    "1/2 taza de queso Colby rallado",
+    "Tortillas de harina o maíz, calentadas (opcional)"
+  ],
+  "recipeInstructions": "1. En una sartén, cocinar el tocino hasta que esté crujiente; escurrir.\n2. Incorporar los tomates, la cebolla y los chiles. Cocinar a fuego lento sin cubrir hasta que la cebolla esté tierna.\n3. Hacer 10 huecos en la mezcla de tomate; romper un huevo en cada hueco.\n4. Cubrir y cocinar a fuego bajo durante 15-20 minutos o hasta que las yemas estén cuajadas.\n5. Espolvorear con queso y cubrir. Cocinar hasta que el queso se derrita, aproximadamente 1 minuto. Servir con tortillas si se desea.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "homemade-ice-cream",
+  "name": "Homemade Ice Cream",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "diabetic",
+    "ice cream"
+  ],
+  "recipeIngredient": [
+    "13 oz Evaporated milk",
+    "2 tbsp Sugar replacement",
+    "1 1/2 cups Whole milk",
+    "1 tbsp Vanilla extract",
+    "3 Eggs - well beaten"
+  ],
+  "recipeInstructions": "1. Combine evaporated milk and sugar replacement in a bowl. Beat until the sugar is dissolved.\n2. Add whole milk and vanilla extract, then beat well.\n3. Gradually add the eggs to the mixture, beating vigorously to incorporate.\n4. Pour the mixture into an ice cream maker and freeze according to the manufacturer's instructions.",
+  "url": null
+}

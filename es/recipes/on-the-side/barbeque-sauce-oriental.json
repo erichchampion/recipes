@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbeque-sauce-oriental",
+  "name": "Salsa Barbacoa - Oriental",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "asiático",
+    "barbacoa",
+    "chino",
+    "étnico"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de ketchup",
+    "1/2 taza de jarabe de maíz",
+    "1/4 taza de salsa de soja",
+    "2 dientes de ajo",
+    "1/2 cucharadita de semillas de anís",
+    "1/2 cucharadita de canela molida",
+    "1/4 cucharadita de pimienta negra",
+    "1/8 cucharadita de clavos molidos"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Remover bien hasta obtener una mezcla homogénea.\n3. Dejar reposar la salsa durante al menos una hora para que se mezclen los sabores antes de usarla.",
+  "url": null
+}

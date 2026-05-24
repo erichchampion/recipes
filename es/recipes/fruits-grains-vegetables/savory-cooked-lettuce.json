@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "savory-cooked-lettuce",
+  "name": "Lechuga Cocida Salada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "6 rebanadas de tocino",
+    "3 cuartos de lechuga picada",
+    "2 cucharadas de vinagre",
+    "sal",
+    "jugo de cebolla"
+  ],
+  "recipeInstructions": "1. Cocinar el tocino en una sartén pesada hasta que esté marrón y crujiente, luego retirarlo del grasa.\n2. Añadir la lechuga picada a la grasa caliente y remover hasta que se marchite.\n3. Incorporar el vinagre y el tocino roto en trozos pequeños, añadir sal al gusto y jugo de cebolla si se desea.\n4. Servir inmediatamente.",
+  "url": null
+}

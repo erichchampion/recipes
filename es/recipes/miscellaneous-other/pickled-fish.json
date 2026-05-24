@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pickled-fish",
+  "name": "Pescado encurtido",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "comida estadounidense",
+    "étnica",
+    "plato principal de pescado",
+    "marisco mexicano"
+  ],
+  "recipeIngredient": [
+    "2 lb filetes de pescado (frescos o congelados)",
+    "1/2 taza de vinagre",
+    "4 oz chiles verdes (1 taza, picados)",
+    "1 cucharada de cáscara de naranja (rallada finamente)",
+    "1/4 taza de jugo de naranja",
+    "1/4 taza de cebolla (picada, 1 pequeña)",
+    "2 hojas de laurel",
+    "2 dientes de ajo (picados)"
+  ],
+  "recipeInstructions": "1. Enjuagar los chiles verdes y retirar las semillas antes de picarlos.\n2. Mezclar el vinagre, la cáscara de naranja, el jugo de naranja, la cebolla picada, el ajo picado, las hojas de laurel y los chiles verdes picados en un frasco.\n3. Verter suficiente líquido para cubrir la mezcla y sellar el frasco herméticamente.\n4. Refrigerar durante al menos 24 horas antes de servir.\n5. Decorar con rodajas finas de naranja antes de servir.",
+  "url": null
+}

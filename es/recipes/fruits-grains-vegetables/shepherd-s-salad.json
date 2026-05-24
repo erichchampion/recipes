@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "shepherd-s-salad",
+  "name": "Ensalada de Pastor",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "aperitivos",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "3 tomates maduros grandes, cortados en cubos",
+    "2 pepinos pequeños, en rodajas",
+    "1 cebolla pequeña, picada",
+    "3 cebolletas finas, picadas",
+    "1 pimiento verde grande, cortado en cubos",
+    "1 chile verde picante, picado finamente",
+    "1 taza de perejil fresco picado",
+    "1 cucharada de vinagre",
+    "Sal",
+    "Aliño de aceite y limón"
+  ],
+  "recipeInstructions": "1. En un bol, combina los tomates, pepinos, cebolla, cebolletas, pimiento verde y chile verde.\n2. Añade el perejil y mezcla bien.\n3. Vierte el aliño de aceite y limón y sazona con sal y vinagre al gusto. Mezcla hasta que todos los ingredientes estén uniformemente cubiertos.",
+  "url": null
+}

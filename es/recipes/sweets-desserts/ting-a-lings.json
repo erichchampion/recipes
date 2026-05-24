@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "ting-a-lings",
+  "name": "Ting a Lings",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de chips de chocolate",
+    "1 taza de chips de caramelo",
+    "1 taza de cacahuetes",
+    "1 1/2 tazas de fideos chow mein"
+  ],
+  "recipeInstructions": "1. Derrite juntos los chips de chocolate y caramelo.\n2. Añade los cacahuetes y los fideos chow mein a la mezcla derretida.\n3. Revuelve hasta que todos los ingredientes estén bien combinados.\n4. Coloca la mezcla sobre papel de horno, extendiéndola en cucharadas individuales.",
+  "url": null
+}

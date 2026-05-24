@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "bangkok-chicken",
+  "name": "Pollo de Bangkok",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "3 pechugas de pollo sin hueso",
+    "3 cucharadas de harina",
+    "1 cucharada de sal",
+    "4 cucharadas de aceite de oliva",
+    "1 cebolla mediana, picada",
+    "3 rebanadas de jamón cocido (o más), picadas",
+    "2 dientes de ajo, picados finamente",
+    "1 taza de cerveza (no oscura)",
+    "1/2 libra de camarones grandes",
+    "1/2 cucharadita de pimentón dulce",
+    "1 cucharada de perejil seco",
+    "1/2 cucharadita de salsa Tabasco (opcional)"
+  ],
+  "recipeInstructions": "1. Mezclar la harina y la sal; pasar las pechugas de pollo por la mezcla.\n2. En una sartén grande, sellar el pollo en aceite de oliva y retirarlo.\n3. Combinar la cebolla, el jamón y el ajo en la misma sartén a fuego bajo hasta que la cebolla esté tierna. No dejar que el ajo se pegue a la sartén. Retirar el mezcla.\n4. Escurrir todo el aceite de la sartén excepto 1 cucharada. Agregar la harina restante de pasar el pollo y remover vigorosamente para asegurar una buena mezcla.\n5. Devolver la mezcla de jamón a la sartén.\n6. Limpiar y desvenar los camarones. Al jamón, añadir la cerveza, los camarones, perejil, pimentón y salsa Tabasco; mezclar bien.\n7. Incorporar el pollo nuevamente a la sartén. Tapar y cocinar a fuego lento durante 20 minutos.\n8. Servir con arroz o pan de ajo.",
+  "url": null
+}

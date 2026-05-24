@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "a-simple-dressing",
+  "name": "Una aderezo simple",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "aderezos para ensaladas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de vinagre",
+    "1/4 taza de aceite",
+    "1/2 limón, jugo de",
+    "1 cebolla pequeña, picada finamente",
+    "1/3 taza de ketchup",
+    "2/3 taza de azúcar",
+    "1/2 cucharadita de pimentón dulce",
+    "1 cucharadita (aproximadamente) de sal"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Batir la mezcla con un batidor de mano o una batidora hasta que quede bien combinada.\n3. Alternativamente, verter los ingredientes en un frasco, cerrar herméticamente y agitar vigorosamente.\n4. Este aderezo es ideal para lechuga y tomates frescos.",
+  "url": null
+}

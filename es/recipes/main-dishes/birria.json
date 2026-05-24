@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "birria",
+  "name": "Birria",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americano",
+    "étnico",
+    "carnes",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "1 Kilo (2.2 lbs.) de costilla de res en trozos.",
+    "6 dientes de ajo",
+    "1 cebolla",
+    "3 hojas de laurel",
+    "Una pizca de comino",
+    "Chiles guajillo al gusto",
+    "Sal",
+    "Pimienta"
+  ],
+  "recipeInstructions": "1. Cocinar la carne con el ajo y la cebolla en agua suficiente para cubrirlos.\n2. Tostar, vaciar y remojar los chiles (aproximadamente 5 minutos). Colar el líquido de chile en la olla con la carne.\n3. Agregar 3 pequeñas hojas de laurel, comino, sal y pimienta. Continuar cocinando hasta que la carne esté bien hecha.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-pasta-salad",
+  "name": "Ensalada de pasta al estilo taco",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "mexicano",
+    "pasta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de macarrones en forma de elipse",
+    "1 lb de pechuga de pollo sin piel, cocida y desmenuzada",
+    "1/2 taza de cebolla picada",
+    "1/2 taza de pimientos rojos picados",
+    "1 sobre de mezcla para aderezo taco",
+    "3/4 taza de agua",
+    "1 taza de queso cheddar bajo en grasa, rallado",
+    "1 taza de queso mozzarella bajo en grasa, rallado",
+    "8 onzas de salsa taco",
+    "1/2 lechuga iceberg, picada",
+    "1 taza de totopos de maíz, triturados"
+  ],
+  "recipeInstructions": "1. Cocine la pasta en agua hirviendo hasta que esté al dente. Escurra y enfríe.\n2. Coloque la pasta fría en un bol grande.\n3. En una sartén a fuego medio, cocine el pollo, la cebolla y los pimientos hasta que el pollo no tenga rastro de rosa.\n4. Agregue la mezcla para aderezo taco y el agua a la sartén. Revuelva y lleve a ebullición.\n5. Reduzca el fuego y deje cocinar a fuego lento, sin tapar, durante 10 minutos.\n6. Incorpore la mezcla de carne y queso a la pasta; mezcle suavemente.\n7. Añada la salsa taco y mezcle con cuidado.",
+  "url": null
+}

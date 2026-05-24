@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-hut-sauce-and-toppings",
+  "name": "Pizza Hut Sauce and Toppings",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "miscellaneous",
+    "pizza",
+    "sauces",
+    "wrv"
+  ],
+  "recipeIngredient": [
+    "10 1/2 oz canned tomato soup",
+    "1 tbsp dry oregano leaves",
+    "1/2 tsp garlic salt",
+    "TOPPINGS",
+    "8 oz shredded mozzarella",
+    "8 oz shredded Meunster",
+    "1/3 cup grated Parmesan",
+    "8 oz sliced pepperoni",
+    "8 oz canned mushrooms, drained"
+  ],
+  "recipeInstructions": "1. Prepare the sauce by combining the tomato soup, oregano, and garlic salt in a bowl.\n2. Shred the mozzarella, Meunster, and Parmesan cheeses.\n3. Slice the pepperoni thinly.\n4. Drain the mushrooms well.",
+  "url": null
+}

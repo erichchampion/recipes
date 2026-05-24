@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-milk-2",
+  "name": "Rice Milk",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "dairy",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "4 cups water",
+    "1 cup cooked brown rice",
+    "1 tsp vanilla"
+  ],
+  "recipeInstructions": "1. Place all ingredients in a blender and process until smooth.\n2. Refrigerate.\n3. For smoother results, let sit for 30 minutes, then pour the milk into another container, leaving sediment behind.",
+  "url": null
+}

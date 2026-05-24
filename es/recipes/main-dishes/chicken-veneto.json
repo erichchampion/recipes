@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-veneto",
+  "name": "Pollo Veneto",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "italiano",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 kg Tomates maduros",
+    "1 Pollo (de 3 a 3,5 kg)",
+    "Harina para empanar",
+    "4 cucharadas de aceite de oliva",
+    "1 Cebolla, cortada por la mitad y en rodajas",
+    "1 Apio, cortado en rodajas",
+    "1/2 taza de vino blanco seco",
+    "1/2 cucharadita de orégano fresco picado (o 1/4 cucharadita de orégano seco)",
+    "Sal y pimienta al gusto",
+    "2 cucharadas de vinagre balsámico",
+    "1/4 kg de setas frescas, cortadas en rodajas"
+  ],
+  "recipeInstructions": "1. Retire el núcleo de los tomates y corte una cruz en el extremo opuesto. Colóquelos en agua hirviendo durante unos segundos para aflojar las pieles. Pele, corte por la mitad a lo largo y exprima las semillas. Corte y reserve.\n2. Lave y seque el pollo; córtelo en trozos, descartando el cuello, la espalda y los extremos de las alas. Empane ligeramente en harina.\n3. Caliente el aceite de oliva en una sartén grande y doré el pollo por ambos lados.\n4. Agregue la cebolla y el apio a la sartén y cocine durante 2 minutos.\n5. Añada el vino blanco, el orégano fresco (o seco), los tomates, la sal y la pimienta. Cubra y deje cocinar a fuego lento durante 30 minutos, dando la vuelta al pollo una vez.\n6. Incorpore el vinagre balsámico y las setas. Cocine durante otros 5 a 10 minutos.\n7. Compruebe la sazón y sirva con arroz cocido caliente.\n8. Rinde para 4 personas.",
+  "url": null
+}

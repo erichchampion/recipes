@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "russian-quallude",
+  "name": "Ensalada Rusa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "lácteos",
+    "guarniciones",
+    "vodka"
+  ],
+  "recipeIngredient": [
+    "1 oz de vodka",
+    "1 oz de licor Frangellico",
+    "1 oz de leche"
+  ],
+  "recipeInstructions": "1. Llena un vaso alto de 8 onzas con hielo.\n2. Añade el vodka, el licor Frangellico y completa el vaso con leche.\n3. Revuelve suavemente hasta que esté bien mezclado.\n4. Sirve inmediatamente.",
+  "url": null
+}

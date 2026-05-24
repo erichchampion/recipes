@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-hummus",
+  "name": "Hummus fácil",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "salsas",
+    "aperitivos",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 lata de garbanzos (15 onzas)",
+    "2 dientes de ajo",
+    "3 cucharadas de zumo de limón",
+    "4 cucharadas de tahini (pasta de semillas de sésamo)"
+  ],
+  "recipeInstructions": "1. Escurrir la mitad del líquido de la lata de garbanzos.\n2. Introducir todos los ingredientes en una batidora y mezclar a velocidad alta, con paradas ocasionales, hasta obtener una textura suave y cremosa.\n3. Servir como un delicioso dip o untable para sándwiches.\n4. Decorar con aceite de oliva virgen extra y menta fresca.",
+  "url": null
+}

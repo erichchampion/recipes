@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-with-oil-and-garlic-sauce",
+  "name": "Pasta con salsa de aceite y ajo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de pasta cruda",
+    "1/3 taza de aceite de oliva",
+    "4 dientes de ajo",
+    "1/2 cucharadita de albahaca fresca picada",
+    "1/4 taza de perejil fresco picado",
+    "1/2 taza de queso parmesano"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta hasta que esté al dente, luego mantenerla caliente.\n2. Calentar el aceite en una sartén de 10 pulgadas a fuego bajo. Añadir el ajo y cocinar lentamente y con suavidad hasta que adquiera un color dorado claro. Retirar del fuego y mezclar el perejil y la albahaca.\n3. Agregar la pasta caliente a la sartén y mezclar para cubrirla uniformemente.\n4. Servir inmediatamente con queso parmesano.",
+  "url": null
+}

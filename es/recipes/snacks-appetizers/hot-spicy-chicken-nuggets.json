@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-spicy-chicken-nuggets",
+  "name": "Nuggets de Pollo Calientes y Picantes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "pollo",
+    "aves de corral",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "8 oz crema suave de la marca PHILADELPHIA",
+    "1/2 taza de salsa",
+    "2 cucharadas de leche",
+    "1/2 cucharadita de comino molido",
+    "1/2 cucharadita de polvo de cebolla",
+    "1/2 cucharadita de polvo de ajo",
+    "3/8 cucharadita de pimienta cayena",
+    "2 paquetes (10.5 oz cada uno) de nuggets de pollo congelados"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto los nuggets de pollo en un bol pequeño hasta que queden bien integrados.\n2. Enfriar durante 2 horas.\n3. Preparar los nuggets de pollo según las instrucciones del paquete.\n4. Servir con la salsa.",
+  "url": null
+}

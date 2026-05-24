@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "vege-burgers",
+  "name": "Hamburguesas vegetales",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgueros",
+    "de tu jardín (programa de televisión)",
+    "plato principal",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1/2 cebolla, picada",
+    "2 cucharadas de mantequilla",
+    "1 costilla de apio, picada",
+    "1 zanahoria, picada",
+    "1 taza de nueces molidas (nueces o pecanas)",
+    "1/2 taza de migas de pan sazonadas",
+    "1/2 taza de arroz cocido",
+    "2 huevos",
+    "Sal",
+    "Pimienta"
+  ],
+  "recipeInstructions": "1. En una sartén grande, saltea la cebolla picada en mantequilla hasta que se vuelva transparente.\n2. Añade el apio y la zanahoria picados a la sartén. Continúa cocinando hasta que las verduras estén tiernas.\n3. Deja que la mezcla se enfríe por completo.\n4. Mezcla los ingredientes restantes: nueces molidas, migas de pan sazonadas, arroz cocido, huevos, sal y pimienta.\n5. Forma la mezcla en hamburguesas.\n6. Asa las hamburguesas hasta que comiencen a dorarse.",
+  "url": null
+}

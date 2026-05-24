@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "onion-relish",
+  "name": "Relish de cebolla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "conservas",
+    "conservación",
+    "encurtidos",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 libra de cebollas",
+    "2 cucharadas de mantequilla sin sal",
+    "2 cucharaditas de azúcar",
+    "2 cucharadas de vinagre de vino tinto",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Cortar las cebollas en gajos finos.\n2. Calentar la mantequilla en una sartén grande a fuego medio.\n3. Añadir las cebollas a la sartén y saltear hasta que estén doradas, aproximadamente entre 10 y 15 minutos.\n4. Espolvorear con azúcar.\n5. Incorporar el vinagre, la sal y la pimienta.\n6. Servir con chuletas de ternera.",
+  "url": null
+}

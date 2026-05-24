@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "sesame-fish",
+  "name": "Pescado de sésamo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "hierbas",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1 lb de merluza, bacalao, trucha o lenguado",
+    "1/4 cucharadita de sal",
+    "2 cucharadas de mantequilla",
+    "2 cucharadas de aceite",
+    "1 cucharada de semillas de sésamo",
+    "1 limón, cortado por la mitad",
+    "1 cucharada de albahaca fresca picada",
+    "o 1 cucharadita de albahaca seca",
+    "2 cucharadas de perejil fresco picado"
+  ],
+  "recipeInstructions": "Si los filetes de pescado son grandes, córtelos en 4 trozos. Espolvoree ambos lados con sal. Calienta la mantequilla y el aceite en una sartén de 10 pulgadas a fuego medio hasta que esté caliente. Cocina el pescado durante unos 10 minutos, dándolo la vuelta con cuidado, hasta que esté dorado por ambos lados. Retira el pescado y mantenlo caliente. Cocina y revuelve las semillas de sésamo en la misma sartén a fuego medio durante unos 5 minutos, o hasta que estén doradas; retíralas del fuego. Exprime el jugo de limón sobre las semillas de sésamo. Añade la albahaca. Vierte la mezcla sobre el pescado. Espolvorea con perejil.",
+  "url": null
+}

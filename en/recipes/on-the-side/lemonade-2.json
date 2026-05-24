@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemonade-2",
+  "name": "Lemonade",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "lemonade",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "3 lemons",
+    "3 cups sugar",
+    "4 cups boiling water",
+    "1/2 ounce citric acid",
+    "1/2 ounce tartaric acid",
+    "1 ounce epsom salts"
+  ],
+  "recipeInstructions": "1. Grate the lemons and squeeze to extract the juice.\n2. In a large pitcher, combine the lemon juice, sugar, citric acid, tartaric acid, and Epsom salts.\n3. Slowly add 4 cups of boiling water while stirring until all the solids are dissolved.\n4. Allow the mixture to cool to room temperature.\n5. Strain the liquid into another container to remove any remaining pulp or solids.\n6. Bottle the lemonade in a sealed container for storage.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "maple-syrup-muffins",
+  "name": "Muffins de jarabe de arce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de leche",
+    "1 huevo",
+    "1 3/4 tazas de harina",
+    "2 1/2 cucharaditas de polvo de hornear",
+    "1/4 cucharadita de sal",
+    "1 taza de sirope de arce",
+    "1/4 taza de mantequilla derretida"
+  ],
+  "recipeInstructions": "1. Bate el huevo con la leche en un bol.\n2. Cifica juntos la harina, el polvo de hornear y la sal.\n3. Añade gradualmente los ingredientes cificados a la mezcla de huevo y leche, alternando con el sirope de arce.\n4. Incorpora la mantequilla derretida.\n5. Vierte la masa en un molde para muffins engrasado.\n6. Hornea durante 25 minutos a 325°F (160°C).",
+  "url": null
+}

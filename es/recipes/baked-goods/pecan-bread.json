@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pecan-bread",
+  "name": "Pan de nueces pecanas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 paquete de levadura",
+    "2 tazas y media de harina integral",
+    "1 taza y media de leche",
+    "1 cucharadita de sal",
+    "1 cucharada de aceite de maíz",
+    "1 taza de pecanes tostados picados"
+  ],
+  "recipeInstructions": "1. Coloca la levadura, la harina integral, la leche, la sal y el aceite de maíz en la panificadora.\n2. Añade los pecanes tostados picados a la panificadora.\n3. Procesa en el ciclo de pan blanco.\n4. Se puede sustituir cualquier otro tipo de nuez por los pecanes si se prefiere.\n5. Si es necesario, añade harina poco a poco, con moderación.\n6. La harina de avena puede utilizarse como conservante para aumentar la vida útil del pan.",
+  "url": null
+}

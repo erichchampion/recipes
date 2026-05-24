@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "planters-punch",
+  "name": "Punch de Plantadores",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "batidos",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 oz de ron oscuro",
+    "1/2 oz de granadina",
+    "2 oz de jugo de naranja",
+    "2 cucharadas de jugo de limón fresco",
+    "1 cucharadita de azúcar en polvo",
+    "3 oz de soda club",
+    "Hielo picado",
+    "Hielo en cubitos",
+    "1 cereza al maraschino",
+    "1 rebanada de naranja"
+  ],
+  "recipeInstructions": "Llenar un vaso mezclador con hielo picado. Agregar el ron, la granadina, el jugo de naranja, el jugo de limón y el azúcar en polvo. Agitar bien hasta que esté combinado. Colar en un vaso Collins lleno de hielo en cubitos. Completar con soda club. Adornar con una cereza y una rebanada de naranja.",
+  "url": null
+}

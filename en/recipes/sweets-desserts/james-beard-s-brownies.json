@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "james-beard-s-brownies",
+  "name": "James Beard's Brownies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "brownies",
+    "cakes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "4 oz Semi sweet chocolate",
+    "2 Eggs",
+    "1 cup Maple syrup -OR-",
+    "2 cups Brown sugar",
+    "1 cup Flour (sift)",
+    "1 tsp Vanilla",
+    "1/2 tsp Salt",
+    "1/2 cup Walnuts (chop)"
+  ],
+  "recipeInstructions": "1. Combine all ingredients, except walnuts and blend until smooth.\n2. Add walnuts and pour batter into a greased and floured 9x11\" pan.\n3. Bake at 325°F for 30 minutes. Do not overbake.",
+  "url": null
+}

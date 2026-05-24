@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "fresh-pesto-pasta",
+  "name": "Pasta con pesto fresco",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "3 dientes de ajo, laminados",
+    "2 cucharadas de aceite de oliva",
+    "2 tazas de hojas de albahaca fresca",
+    "1/4 taza de agua",
+    "1 cucharada de miso claro",
+    "1 cucharada de jugo de limón",
+    "6 cucharadas de piñones tostados",
+    "9 onzas de pasta de trigo duro (durum) seca",
+    "1 pimiento rojo dulce, cortado en láminas"
+  ],
+  "recipeInstructions": "1. Saltear el ajo en aceite de oliva.\n2. Añadir la albahaca, 1/4 taza de agua, miso, jugo de limón y piñones a una licuadora o procesador de alimentos.\n3. Mezclar hasta obtener una consistencia suave, añadiendo más agua si se prefiere más líquido.\n4. Cocinar la pasta al dente según las instrucciones del paquete.\n5. Escurrir la pasta.\n6. Servir la salsa pesto sobre la pasta, espolvorear con piñones y decorar con láminas de pimiento rojo.",
+  "url": null
+}

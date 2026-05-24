@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "unusual-banana-bread",
+  "name": "Unusual Banana Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bananas",
+    "breads",
+    "quick breads"
+  ],
+  "recipeIngredient": [
+    "1/2 cup shortening (Crisco)",
+    "1/2 cup sugar",
+    "2 eggs",
+    "2 cups flour",
+    "1 teaspoon baking soda",
+    "1/8 teaspoon salt",
+    "3 medium bananas, mashed",
+    "3/4 cup nuts",
+    "3/4 cup chopped maraschino cherries",
+    "1/4 cup chocolate chips"
+  ],
+  "recipeInstructions": "1. Cream together the shortening and sugar.\n2. Add eggs and mix well.\n3. Sift dry ingredients (flour, baking soda, and salt) and add to the creamed mixture.\n4. Stir in the remaining ingredients: mashed bananas, nuts, chopped maraschino cherries, and chocolate chips.\n5. Pour the batter into a greased loaf pan.\n6. Bake for 45 minutes at 350 degrees Fahrenheit.",
+  "url": null
+}

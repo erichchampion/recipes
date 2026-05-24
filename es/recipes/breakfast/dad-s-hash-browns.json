@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "dad-s-hash-browns",
+  "name": "Patatas fritas de papá",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "patatas"
+  ],
+  "recipeIngredient": [
+    "6 papas enteras",
+    "1/4 taza de aceite",
+    "1 cebolla grande Vidalia",
+    "1 cucharadita de polvo de ajo, al gusto",
+    "1 cucharadita de polvo de cebolla, al gusto",
+    "1/2 cucharadita de pimienta cayena, al gusto",
+    "1/2 taza de salsa barbacoa"
+  ],
+  "recipeInstructions": "1. Cortar las papas en cubos de tamaño bocado.\n2. Calentar el aceite en una sartén de hierro fundido grande a fuego medio.\n3. Agregar los cubos de papa y cocinar, revolviendo ocasionalmente, hasta que estén casi hechos (bien doradas y crujientes).\n4. Añadir las cebollas picadas y las especias secas, luego cocinar durante otros 5 minutos.\n5. Incorporar la salsa barbacoa y cocinar por un minuto o dos adicionales.",
+  "url": null
+}

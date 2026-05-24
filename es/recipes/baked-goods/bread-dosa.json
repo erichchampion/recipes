@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "bread-dosa",
+  "name": "Dosa de pan",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "asiático",
+    "panadería",
+    "panes",
+    "étnico",
+    "indio"
+  ],
+  "recipeIngredient": [
+    "1 taza de migas de pan",
+    "1/4 taza de arroz",
+    "1/4 taza de lentejas verdes (moong dal)",
+    "1 cebolla mediana, picada finamente",
+    "2 chiles verdes, picados",
+    "Un trozo pequeño de jengibre, picado",
+    "Un puñado de cilantro fresco, picado",
+    "1/2 cucharadita de semillas de comino",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "1. En un bol, remoja el arroz y las lentejas en agua abundante durante varias horas.\n2. Escurre y mezcla hasta obtener una pasta fina.\n3. Añade leche o agua para espesar la masa. Incorpora el resto de ingredientes.\n4. Cocina 2 cucharadas de masa en una sartén caliente engrasada, extendiéndola en círculos delgados.\n5. Da la vuelta al dosa una vez para dorar ambos lados.\n6. Sirve caliente con chutney.",
+  "url": null
+}

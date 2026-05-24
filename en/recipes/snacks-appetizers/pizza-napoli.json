@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-napoli",
+  "name": "Pizza Napoli",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "meats",
+    "pies",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "Ready to bake pizza crust",
+    "3 cups Canned plum tomatoes",
+    "1 cup Mozzarella cheese",
+    "3/4 cup Grated parmesan cheese",
+    "1/2 lb Thin strips of prosciutto or ham",
+    "3 T Olive oil"
+  ],
+  "recipeInstructions": "1. Brush the pizza crust with olive oil.\n2. Cut the tomatoes into chunks and spread them on top of the crust.\n3. Sprinkle mozzarella cheese evenly over the tomatoes.\n4. Arrange the pieces of prosciutto or ham (about one inch square) on top.\n5. Sprinkle grated parmesan cheese evenly over everything.\n6. Season with salt and pepper to taste.\n7. Bake at 450 degrees Fahrenheit for 10 minutes.",
+  "url": null
+}

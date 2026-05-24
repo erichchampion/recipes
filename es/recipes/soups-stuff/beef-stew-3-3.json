@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-stew-3-3",
+  "name": "Estofado de Carne #3",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne de res, en cubos",
+    "3 zanahorias, cortadas en trozos grandes",
+    "4 papas, cortadas en octavas",
+    "1 cebolla grande, picada",
+    "2 paquetes de salsa marrón",
+    "Sal al gusto",
+    "Pimienta al gusto",
+    "Agua",
+    "Harina",
+    "Aceite"
+  ],
+  "recipeInstructions": "1. Cubra la carne con harina y dórela ligeramente en aceite (o colóquela en una bandeja para hornear con la capa de harina y dórela en el horno; esto ahorra tiempo y evita freír en aceite).\n2. Coloque la carne en una olla para guisos, añada los trozos de zanahoria, papa y cebolla.\n3. Vierta suficiente agua para cubrir todo y coloque la olla en el horno a 175 °C durante 2,5 horas.\n4. Después de aproximadamente 1,5 horas de cocción, agregue los paquetes de salsa marrón seca (no es necesario mezclarla con agua adicional; debería haber suficiente agua en la olla).\n5. Mezcle bien la salsa y continúe cocinando hasta que esté lista para servir.\n6. Sirva con panecillos y una ensalada verde.",
+  "url": null
+}

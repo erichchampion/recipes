@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "art-s-mock-crabmeat-casserole",
+  "name": "Cazuela de imitación de carne de cangrejo de Art",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "pescado",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 taza de mayonesa",
+    "1 taza de crema agria",
+    "2 cucharadas de perejil picado",
+    "1 cebolla pequeña (picada)",
+    "1 pimiento verde (picado)",
+    "1 cucharadita de polvo de curry",
+    "6 huevos duros (picados)",
+    "400 g de cangrejo falso",
+    "Paprika al gusto"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar la mayonesa y la crema agria.\n2. Añadir el perejil, la cebolla y el pimiento verde; remover bien.\n3. Incorporar el polvo de curry y los huevos duros picados, mezclando suavemente.\n4. Agregar el cangrejo falso y mezclar hasta que quede distribuido uniformemente.\n5. Transferir la mezcla a un molde para hornear engrasado de 1,5 litros.\n6. Espolvorear con paprika.\n7. Hornear a 180°C durante 40-50 minutos.\n8. Servir sobre arroz caliente.",
+  "url": null
+}

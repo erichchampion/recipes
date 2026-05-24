@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "cream-corn",
+  "name": "Maíz cremoso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "maíz",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de mantequilla",
+    "2 cucharadas de harina",
+    "1 taza de leche",
+    "1 1/2 tazas de maíz congelado",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una olla a fuego medio.\n2. Agrega la harina gradualmente y mezcla bien con la mantequilla derretida.\n3. Vierte la leche lentamente, batiendo continuamente hasta que la mezcla espese.\n4. Vierte la mezcla en un procesador de alimentos y añade la mitad del maíz congelado.\n5. Tritura el contenido y devuélvelo a la olla.\n6. Añade el resto del maíz congelado y calienta hasta que el maíz esté caliente.\n7. Si la mezcla está demasiado espesa, ajusta añadiendo leche al gusto.",
+  "url": null
+}

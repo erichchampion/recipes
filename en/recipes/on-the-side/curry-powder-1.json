@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "curry-powder-1",
+  "name": "Curry Powder#1",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condiments",
+    "indian",
+    "side dishes",
+    "spices"
+  ],
+  "recipeIngredient": [
+    "2 tbsp Cumin seeds",
+    "2 tbsp Fenugreek leaves",
+    "1 1/2 tsp Mustard seeds",
+    "1 tbsp Black peppercorns",
+    "1/2 cup Coriander seeds",
+    "1 tbsp Poppy seeds",
+    "1 tbsp Ground ginger",
+    "1 1/2 tsp Hot chili powder",
+    "1/4 cup Ground turmeric"
+  ],
+  "recipeInstructions": "1. Using a blender, process the cumin, fenugreek, mustard, peppercorns, coriander, and poppy seeds until finely ground.\n2. Add the remaining spices (ground ginger, hot chili powder, and ground turmeric) to the blender and process again until well combined.\n3. Store in an airtight container for up to 3 months.",
+  "url": null
+}

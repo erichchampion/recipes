@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "low-fat-pizza",
+  "name": "Pizza baja en grasa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "baja en calorías",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "Una tortilla grande",
+    "Salsa de tomate",
+    "Albahaca fresca",
+    "Mozzarella baja en grasa (rallada)"
+  ],
+  "recipeInstructions": "1. Coloca la tortilla en una sartén.\n2. Extiende la salsa de tomate, la albahaca y la mozzarella rallada sobre la tortilla.\n3. Tapa y calienta hasta que el queso se derrita.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-cup",
+  "name": "Taza de frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de concentrado de limonada congelada",
+    "1 manzana mediana, sin corazón, cortada en cubos",
+    "1 naranja mediana, pelada, dividida en secciones y cortada en cubos",
+    "1 melocotón mediano, sin hueso, cortado en cubos",
+    "1 plátano mediano, pelado, en rodajas",
+    "1/2 taza de uvas sin semillas, cortadas por la mitad",
+    "1/2 taza de arándanos",
+    "2 cucharadas de nueces picadas finamente"
+  ],
+  "recipeInstructions": "1. Coloca el concentrado de limonada congelada en un bol grande.\n2. Añade las frutas preparadas al bol y mezcla suavemente.\n3. Refrigera la mezcla.\n4. Adorna cada ración con nueces picadas.\nNota: Se pueden retirar las pieles de la manzana y el melocotón si se prefiere.\nCalorías por 2/3 taza de servicio: Aproximadamente 95\nFuente: ALIMENTACIÓN -- por el Departamento de Agricultura de los Estados Unidos",
+  "url": null
+}

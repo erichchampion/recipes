@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-rubs",
+  "name": "Adobos mexicanos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "estadounidense",
+    "étnico",
+    "mexicano",
+    "marinadas"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de polvo de chile picante",
+    "1 cucharadita de comino molido",
+    "1 cucharadita de orégano seco",
+    "1 cucharadita de polvo de ajo",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de clavo de olor molido"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Untar las especias sobre pollo, ternera, cerdo y pescado.\n3. Hornear o asar a la parrilla.",
+  "url": null
+}

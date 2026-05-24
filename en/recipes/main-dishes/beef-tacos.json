@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-tacos",
+  "name": "Beef Tacos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "ground beef",
+    "main dish",
+    "meat",
+    "mexican"
+  ],
+  "recipeIngredient": [
+    "1 lb Ground beef",
+    "1 tsp Salt",
+    "1 clove Garlic (optional)",
+    "1 package Taco shells",
+    "1 cup Green chili or taco sauce"
+  ],
+  "recipeInstructions": "1. Cook the ground beef in a pan until browned, breaking it up with a spatula as needed.\n2. Add salt to taste and minced garlic if desired.\n3. Spoon a heaping tablespoon of meat mixture into each taco shell.\n4. Stuff the shells with lettuce, tomato, and cheese.\n5. Serve with additional green chili or taco sauce on the side.\n6. Top each taco with sour cream or guacamole for extra flavor.",
+  "url": null
+}

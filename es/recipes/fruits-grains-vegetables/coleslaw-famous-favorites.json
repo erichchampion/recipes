@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "coleslaw-famous-favorites",
+  "name": "Ensalada de col/Favoritos famosos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 botella de aderezo italiano (8 onzas)",
+    "3 cucharadas de jugo de limón",
+    "1/4 taza de aceite de maíz",
+    "1 cucharadita de perejil picado seco",
+    "1/4 cucharadita de hojas de orégano seco",
+    "Una pizca de salsa Tabasco",
+    "1 cucharadita de polvo de cebolla",
+    "1 col mediana, finamente picada",
+    "1 pequeña zanahoria, rallada"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande.\n2. Añadir la col y la zanahoria; remover suavemente para que queden bien cubiertas.\n3. Refrigerar durante al menos 4 horas antes de servir.",
+  "url": null
+}

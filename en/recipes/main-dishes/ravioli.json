@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "ravioli",
+  "name": "Ravioli",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "none",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "Flaked smoked salmon",
+    "Grated Fontina cheese (just a wee bit)",
+    "Butter (1/4 cup)",
+    "All-purpose sifted flour (1/4 cup)",
+    "Salt (1 t)",
+    "White pepper (1/8 tsp)",
+    "Milk (2 cups)",
+    "Fresh dill (dried can be used as well)"
+  ],
+  "recipeInstructions": "1. Prepare and cook the raviolis.\n2. Melt butter in a saucepan, remove from heat, and add flour, salt, and white pepper, stirring constantly.\n3. Slowly add milk while stirring continuously until smooth.\n4. Return the mixture to the stove and bring to a boil, stirring often.\n5. Simmer for 1 minute once boiling, then stir in chopped dill (use your judgment on quantity).\n6. Serve over warm raviolis, garnished with a sprig of fresh dill if available.",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-cacciatoria",
+  "name": "Chicken Cacciatoria",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "italian",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1 Chicken, cut up",
+    "1 clove Garlic, peeled",
+    "1/4 cup Flour",
+    "2 tsp Salt",
+    "1/8 tsp Pepper",
+    "1/4 cup Oil",
+    "28 cans Tomatoes",
+    "6 Pearl onions, peeled",
+    "6 Tomato paste",
+    "2 tsp Sugar",
+    "1 Bay leaf"
+  ],
+  "recipeInstructions": "1. Rub chicken with minced garlic.\n2. Combine flour, 1 tsp salt, and pepper in a large paper bag; shake chicken pieces until coated.\n3. Heat oil in a Dutch oven.\n4. Brown chicken in batches on all sides; drain on absorbent paper.\n5. Pour off any remaining oil from the pan.\n6. Return chicken to the Dutch oven.\n7. Add garlic, tomatoes, tomato paste, onions, sugar, 1 tsp salt, and bay leaf.\n8. Cover and baste occasionally with sauce from the pan.\n9. Simmer until chicken is tender, about 1 hour.\n10. Serves 4",
+  "url": null
+}

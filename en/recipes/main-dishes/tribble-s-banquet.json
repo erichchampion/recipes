@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "tribble-s-banquet",
+  "name": "Tribble's Banquet",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "poultry",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "Chicken Breast or other part (per sandwich)",
+    "Sliced Swiss cheese (1 oz per sandwich)",
+    "Sliced Corn Beef (1 oz per sandwich)",
+    "Rye bread (2 slices per sandwich)",
+    "Seasoned salt to taste",
+    "COLE SLAW (ENOUGH FOR 4 SANDWICHES):",
+    "Cabbage, shredded (3 cups)",
+    "Carrots, shredded (3/4 cup)",
+    "Green onions, sliced (1/4 cup)",
+    "Mayonnaise (1/3 cup)",
+    "Lemon juice (1 tbsp)",
+    "Seasoned salt to taste"
+  ],
+  "recipeInstructions": "1. Cook and chill the chicken ahead of time.\n2. Make the coleslaw by mixing shredded cabbage, carrots, and green onions in a large bowl. Add mayonnaise, lemon juice, and seasoned salt, then mix well.\n3. To make the sandwiches: Place a slice of Swiss cheese and a slice of corned beef on a slice of rye bread. Remove meat from bones of 1 chicken piece and spread over the corned beef. Sprinkle with seasoned salt, add coleslaw (2-3 tablespoons), and top with a second slice of bread.\n4. Cut each sandwich in half and serve with a pickle.",
+  "url": null
+}

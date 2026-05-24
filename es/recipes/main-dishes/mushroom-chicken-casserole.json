@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mushroom-chicken-casserole",
+  "name": "Estofado de Champiñones y Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 tazas de arroz cocido",
+    "1/2 taza de leche",
+    "2 tazas de pollo cocido; picado",
+    "1 taza de champiñones; escurridos",
+    "1 pimiento; en rodajas",
+    "1/2 taza de queso; rallado"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el queso en un bol y combinar bien.\n2. Verter la mezcla en un plato para hornear engrasado.\n3. Hornear a 180°C durante 27 minutos.\n4. Espolvorear con queso y hornear durante 3 minutos adicionales.",
+  "url": null
+}

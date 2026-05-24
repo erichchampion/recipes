@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "calzones",
+  "name": "Calzones",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breads",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "Crust:",
+    "1 1/4 cups beer, warmed",
+    "1 teaspoon salt",
+    "2 tablespoons sugar",
+    "1 tablespoon olive oil",
+    "3 cups bread flour",
+    "2 teaspoons yeast",
+    "Filling:",
+    "4 Roma tomatoes, chopped",
+    "3 cloves garlic, minced",
+    "fresh basil -- chopped",
+    "1 chicken breast, cooked and chopped",
+    "parmesan cheese -- shredded",
+    "feta cheese -- crumbled"
+  ],
+  "recipeInstructions": "1. Choose your favorite method for making dough.\n2. While the dough is being prepared, combine the tomatoes, garlic, and basil in a bowl.\n3. Divide the dough into two balls. Roll one ball into a circle approximately 12 inches in diameter.\n4. On half of the rolled-out crust, layer parmesan cheese, chicken, tomato mixture, and crumbled feta.\n5. Fold the crust over the filling and seal the edges carefully.\n6. Repeat steps 3-5 with the remaining dough.\n7. Preheat your oven to 350°F (175°C).\n8. Bake the calzones for about 15-20 minutes or until golden brown.\n9. Brush the tops of the calzones with melted butter before serving.\nThis makes two good-sized calzones.",
+  "url": null
+}

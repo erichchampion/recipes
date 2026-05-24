@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fudge-pie",
+  "name": "Fudge Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "2 chocolate squares (unsweetened)",
+    "1/4 lb butter",
+    "1 1/2 cups sugar",
+    "1 teaspoon vanilla",
+    "1 tablespoon flour",
+    "4 eggs",
+    "Pinch of salt"
+  ],
+  "recipeInstructions": "1. Melt the chocolate and butter together.\n2. Beat the eggs, then add the sugar and a pinch of salt.\n3. Add the melted chocolate mixture to the egg mixture.\n4. Stir in the flour and vanilla extract.\n5. Pour the batter into a greased pie pan.\n6. Bake at 350°F (175°C) for 25 minutes.\n7. Reduce the temperature to 250°F (120°C) and bake for an additional 15-20 minutes.\nNote: Ensure all ingredients are at room temperature before mixing. Use a thermometer to check that the oven has reached the correct temperature.",
+  "url": null
+}

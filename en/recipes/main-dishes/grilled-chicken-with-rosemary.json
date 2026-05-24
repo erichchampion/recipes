@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "grilled-chicken-with-rosemary",
+  "name": "Grilled Chicken with Rosemary",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "3 1/2 lb Chicken (cut in half)",
+    "2 tbsp Fresh rosemary",
+    "3 Garlic cloves (peeled, crushed)",
+    "1 Lemon juice",
+    "1/4 cup Olive oil",
+    "Salt",
+    "Pepper"
+  ],
+  "recipeInstructions": "1. Place the chicken in a large bowl with the remaining ingredients.\n2. Toss together until all is coated. Allow to marinate for 1 hour.\n3. Grill the chicken over medium-low heat, about 25 minutes per side.\n4. Brush the chicken with the remaining marinade while grilling.\n5. The chicken is done when you pierce the bottom of a thigh and the juices run clear.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fiddle-s-banana-bread",
+  "name": "Pan de plátano de Fiddle",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "3 plátanos maduros grandes",
+    "2 tazas de harina para todo uso",
+    "1 taza de azúcar",
+    "1/2 taza de aceite vegetal",
+    "2 huevos, batidos ligeramente",
+    "1/2 taza de nueces picadas (opcional)"
+  ],
+  "recipeInstructions": "1. Machacar los plátanos con un tenedor.\n2. Mezclar la harina y el azúcar en un bol aparte.\n3. Incorporar la mezcla de harina a los plátanos machacados, junto con el aceite y los huevos.\n4. Agregar las nueces picadas si se desea.\n5. Verter la masa en un molde para pan engrasado y enharinado.\n6. Hornear durante 1 hora a 325°F (160°C) hasta que esté dorado.\n7. Servir frío con crema de queso.",
+  "url": null
+}

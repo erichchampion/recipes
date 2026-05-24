@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "toffee-delight",
+  "name": "Delicia de caramelo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "caramelos",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "Galletas tipo digestivas trituradas (2 tazas)",
+    "Mantequilla (3 paquetes)",
+    "Azúcar (2 cucharadas)",
+    "Pudin instantáneo de vainilla francesa (1 paquete)",
+    "Leche (1 taza)",
+    "Helado Butter Brickle (1 litro)",
+    "Crema batida (paquete de 9 onzas)",
+    "Barras Heath (4 o 5, rotas en trozos pequeños)"
+  ],
+  "recipeInstructions": "1. Mezclar las galletas trituradas, la mantequilla y el azúcar; presionar la mezcla en un molde rectangular de 30x40 cm.\n2. Batir el pudin instantáneo con la leche hasta que esté bien combinado, luego agregar el helado y verter sobre la base de galletas en el molde.\n3. Extender la crema batida uniformemente sobre la capa del postre.\n4. Espolvorear las barras Heath por encima, si se desea.",
+  "url": null
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-mint",
+  "name": "Chocolate Menta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "Bola:",
+    "2 tazas de harina sin blanquear",
+    "1 1/2 tazas de azúcar granulada",
+    "3 cucharaditas de polvo de hornear",
+    "1 cucharadita de sal",
+    "3/4 taza de agua fría",
+    "1/2 taza de puré de manzana (a temperatura ambiente)",
+    "1/2 cucharadita de extracto de menta",
+    "7 claras de huevo batidas",
+    "Mentas en trozos",
+    "Glaseado:",
+    "3 tazas de crema batida (refrigerada)",
+    "1 1/2 tazas de azúcar glas (cernido)",
+    "3/4 taza de polvo de cacao (cernido)",
+    "1 1/2 cucharaditas de extracto de menta"
+  ],
+  "recipeInstructions": "Precalentar el horno a 175 °C. Preparar los moldes con spray antiadherente y harina.\nEn un bol, mezclar la harina, el azúcar, el polvo de hornear y la sal.\nEn otro bol, combinar el agua, el puré de manzana, el extracto de menta y las claras batidas.\nDividir la masa entre los moldes preparados.\nHornear hasta que la superficie se vuelva firme al tocarla ligeramente, aproximadamente 50-55 minutos dependiendo del tamaño del molde.",
+  "url": null
+}

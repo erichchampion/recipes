@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-napoli",
+  "name": "Spaghettis napolitanos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato ligero",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite de maíz (o el aceite que prefiera)",
+    "1 cebolla grande, cortada en gajos finos",
+    "1 diente de ajo, picado",
+    "2 pimientos verdes medianos, cortados en trozos",
+    "1 pimiento rojo mediano, cortado en trozos",
+    "2 y 1/2 tazas de champiñones laminados (8 onzas)",
+    "1 lata de tomates troceados con su jugo",
+    "1 y 1/2 cucharaditas de albahaca seca",
+    "1/4 cucharadita de pimienta negra",
+    "8 onzas de espagueti o fideos de huevo",
+    "2 cucharadas de queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. En una sartén grande, caliente el aceite a fuego medio-alto.\n2. Añada la cebolla y el ajo; saltee durante 1 minuto.\n3. Incorpore los pimientos verdes y rojos, así como los champiñones; saltee durante 2 minutos.\n4. Agregue los tomates con su jugo, la albahaca y la pimienta; lleve a ebullición.\n5. Reduzca el fuego a bajo y deje cocinar a fuego lento durante 5 minutos.\n6. Mezcle con los fideos y espolvoree con queso parmesano. Rinde para 4 porciones.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-rice",
+  "name": "Arroz sencillo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "Arroz cocido",
+    "1 cebolla picada",
+    "1 taza de repollo picado",
+    "2 cucharadas de azúcar moreno",
+    "1 cucharada de aceite",
+    "1 cucharada de margarina",
+    "Salsa de soja o salsa picante"
+  ],
+  "recipeInstructions": "Esta receta es tan sencilla que no hay reglas estrictas sobre las cantidades de los ingredientes. Simplemente ajusta a tu gusto personal. Cocina el arroz como lo haces normalmente, pero añade un poco de salsa de soja al agua (yo prefiero unas gotas de salsa picante). Pica la cebolla y el repollo y fríelos en una pequeña cantidad de aceite. Añade el azúcar moreno, la margarina y la cebolla. Remueve durante unos minutos y luego mézclalo con el arroz cocido.",
+  "url": null
+}

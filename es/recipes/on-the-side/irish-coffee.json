@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "irish-coffee",
+  "name": "Café irlandés",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "aperitivos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz de whisky irlandés",
+    "8 oz de café caliente",
+    "Una pizca de crema de menta",
+    "Una cereza al marasquino",
+    "Topping de postre, presurizado",
+    "1 cucharadita de azúcar moreno; o al gusto"
+  ],
+  "recipeInstructions": "Verter el whisky irlandés en una taza para café. Llenar con café negro y remover hasta que se disuelva el azúcar moreno.\nEsparcir una cantidad generosa de topping de postre (el tipo en lata presurizada es más fácil de usar) sobre el café.\nGotear crema de menta sobre la crema batida para formar rayas verdes.\nColocar la cereza encima.\nServir inmediatamente.",
+  "url": null
+}

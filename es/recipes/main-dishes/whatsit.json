@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "whatsit",
+  "name": "¿Qué es eso?",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de carne molida",
+    "1 cebolla grande, rallada",
+    "1 paquete de fideos, pequeño",
+    "1 lata de sopa de setas",
+    "1/2 lb de queso tipo hoop, rallado",
+    "Sal",
+    "1 lata de sopa de tomate"
+  ],
+  "recipeInstructions": "1. Dorar la carne y la cebolla lentamente mientras se cocinan los fideos.\n2. Cuando todos los ingredientes estén cocidos, añadir el queso a la mezcla de carne.\n3. Mezclar bien los fideos hasta que el queso se derrita.\n4. Incorporar las sopas y mezclar ligeramente.\n5. Verter el contenido en un molde para hornear.\n6. Cubrir con migas de galleta.\n7. Hacer puntos con mantequilla y dorar antes de servir.",
+  "url": null
+}

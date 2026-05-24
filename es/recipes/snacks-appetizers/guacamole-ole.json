@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "guacamole-ole",
+  "name": "Guacamole antiguo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "mexicano",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "6 aguacates maduros, pelados, sin hueso y machacados",
+    "2 tomates maduros, picados finamente",
+    "1/4 cucharadita de sal",
+    "1/4 taza de cilantro fresco picado",
+    "2 cebolletas verdes, cortadas en rodajas finas (solo las partes blancas)",
+    "1 cucharada de jugo de limón",
+    "1 pimiento jalapeño picado (sin semillas, opcional)"
+  ],
+  "recipeInstructions": "1. Este aperitivo perfecto para fiestas combina los sabores de la cocina mexicana y californiana en un dip refrescante.\n2. Mezcla el aguacate, el cilantro, las cebolletas, los tomates, el jugo de limón y la sal; mezcla bien.\n3. Tapa y refrigera.\n4. Sirve con tus chips favoritos.",
+  "url": null
+}

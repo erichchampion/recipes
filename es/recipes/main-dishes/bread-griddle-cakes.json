@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "bread-griddle-cakes",
+  "name": "Tortas de plancha de pan",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "tortitas"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de miga de pan; seca y fina",
+    "2 huevos",
+    "1 1/2 tazas de leche; escaldada",
+    "1/2 taza de harina",
+    "2 cucharadas de mantequilla",
+    "4 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Mezcla la leche y la mantequilla con la miga de pan y deja reposar hasta que los croutons estén suaves.\n2. Añade los huevos batidos, luego la harina, la sal y el polvo de hornear.\n3. Cocina como lo harías con otras tostadas.",
+  "url": null
+}

@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "layered-mexican-dish",
+  "name": "Plato mexicano en capas",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americana",
+    "étnica",
+    "plato principal",
+    "carnes",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "1 lata de frijoles refritos",
+    "1 lata de guacamole",
+    "1 cebolla picada",
+    "2 aguacates (enjuagados con jugo de limón)",
+    "1 pequeña cantidad de crema agria",
+    "1 sobre de mezcla para tacos",
+    "2 cucharadas de mayonesa",
+    "6 onzas de queso Monterey Jack rallado",
+    "6 onzas de queso cheddar rallado",
+    "1 lata de aceitunas negras pequeñas (picadas)",
+    "2 tomates picados",
+    "2 cebollas verdes picadas"
+  ],
+  "recipeInstructions": "1. Extender los frijoles refritos de manera uniforme en el fondo de un plato.\n2. Añadir el guacamole encima de los frijoles.\n3. Colocar la cebolla picada sobre el guacamole.\n4. Disponer rodajas de aguacate encima, asegurándose de que queden distribuidas uniformemente.\n5. Mezclar la crema agria con la mezcla para tacos y extender la mezcla sobre los aguacates.\n6. Añadir mayonesa a la mezcla.\n7. Rallar por separado el queso Monterey Jack y el queso cheddar, y disponerlas en capas sobre la mezcla de crema agria.\n8. Espolvorear las aceitunas negras picadas uniformemente sobre los quesos.\n9. Finalmente, colocar los tomates picados y las cebollas verdes en la capa superior.",
+  "url": null
+}

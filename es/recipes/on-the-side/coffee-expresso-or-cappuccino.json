@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "coffee-expresso-or-cappuccino",
+  "name": "Café, Espresso o Capuchino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "bebidas 999",
+    "café",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 litro de agua",
+    "1 cápsula/molde de café"
+  ],
+  "recipeInstructions": "1. Llene la máquina con agua fría hasta el nivel correspondiente al número de tazas deseadas.\n2. No cubra el orificio del válvula de seguridad con agua.\n3. Llene el cesto de infusión hasta el borde con café. Para 9 tazas, retire el reductor del cesto y llénelo por completo. Para 3 o 6 tazas, utilice el reductor de la siguiente manera: tallo largo mirando hacia abajo para 3 tazas; tallo corto mirando hacia abajo para 6 tazas.\n4. Retire el exceso de café molido del borde y el anillo O del cesto.\n5. Cierre y apriete la perilla lo más posible.\n6. Cierre la válvula de vapor.\n7. Coloque una jarra debajo de la válvula de vapor para recoger el café.\n8. El café comenzará a gotear lentamente después de 3-10 minutos, apareciendo inicialmente muy oscuro. A medida que continúe la infusión, el chorro se volverá fuerte y constante, y el color del café se aclarará.\n9. Cuando el café deje de gotear y haga ruido, cierre la válvula de café y retire la jarra.\nPara cappuccino:\n1. Cierre la válvula de vapor para permitir que se acumule vapor.\n2. Coloque crema o leche en una taza.\n3. Abra la válvula de vapor para espumar la leche.",
+  "url": null
+}

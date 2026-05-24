@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "bob-marley",
+  "name": "Bob Marley",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 oz de ron oscuro o Tia María",
+    "1 oz de jugo de piña"
+  ],
+  "recipeInstructions": "Receta de: Joe Robertson\nTiempo de preparación: 0:02\nVerter el ron o la Tia María en un vaso para refresco. Flotar el jugo de piña encima al sostener una cucharadita boca abajo sobre el vaso y verter lentamente el jugo de piña.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-cookies",
+  "name": "Fruit Cookies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "2 Eggs; well beaten",
+    "2 cups Brown sugar",
+    "1 cup Melted shortening",
+    "3 tablespoons Sour milk",
+    "1 and 1/2 cups Raisins",
+    "2 teaspoons Cinnamon",
+    "1 teaspoon Nutmeg",
+    "1/2 teaspoon Allspice",
+    "3 and 1/2 cups Cake flour",
+    "1 teaspoon Baking powder",
+    "1/4 teaspoon Baking soda"
+  ],
+  "recipeInstructions": "1. Add sugar to eggs. Beat thoroughly.\n2. Add shortening and sour milk, mixing well.\n3. Sift flour, baking soda, spices (cinnamon, nutmeg, allspice), and baking powder into a separate bowl.\n4. Mix in the raisins.\n5. Drop mixture by teaspoonfuls onto a well-oiled baking sheet.\n6. Bake in a hot oven (400°F) for 12-15 minutes.",
+  "url": null
+}

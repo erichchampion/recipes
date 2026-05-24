@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-ice-cream-sugar-free",
+  "name": "Banana Ice Cream-Sugar Free",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts",
+    "diabetic",
+    "fruits",
+    "ice cream"
+  ],
+  "recipeIngredient": [
+    "1 medium banana",
+    "1 cup 1% milk",
+    "7 packets Equal",
+    "2 tablespoons egg substitute"
+  ],
+  "recipeInstructions": "1. Peel and slice the banana.\n2. Place all ingredients in a blender.\n3. Blend until smooth.\n4. Pour into a container and freeze according to manufacturer's directions.",
+  "url": null
+}

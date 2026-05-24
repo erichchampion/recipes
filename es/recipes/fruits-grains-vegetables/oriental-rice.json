@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "oriental-rice",
+  "name": "Arroz Oriental",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "asiático",
+    "chino",
+    "étnico",
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite",
+    "1 taza de cebolletas picadas groseramente",
+    "1 bolsa de arroz cocido (tipo \"boil-in-bag\")",
+    "1 cucharada de salsa de soja china",
+    "8 onzas (latas) de brotes de bambú en rodajas, escurridos",
+    "2 tazas de camarones, jamón o pollo cocido (o una combinación)",
+    "10 onzas (paquetes) de guisantes verdes congelados",
+    "2 cucharaditas de mantequilla"
+  ],
+  "recipeInstructions": "1. En un wok u olla grande, calienta el aceite a fuego medio-alto.\n2. Añade las cebolletas y cocina durante 30 segundos, removiendo hasta que se marchiten.\n3. Agrega todos los ingredientes excepto la mantequilla al wok.\n4. Cocina y revuelve todo junto durante 2 minutos.\n5. Retira del fuego.\n6. Incorpora la mantequilla y mezcla bien.",
+  "url": null
+}

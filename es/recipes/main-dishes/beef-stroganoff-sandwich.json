@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-stroganoff-sandwich",
+  "name": "Sándwich de Estofado de Carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne molida",
+    "1/2 taza de cebolla picada",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de polvo de ajo",
+    "1/2 cucharadita de pimienta molida",
+    "2 hogazas de pan francés",
+    "2 tazas de crema agria",
+    "2 tomates, sin semillas y picados",
+    "1 pimiento verde, picado",
+    "3 tazas de queso cheddar rallado",
+    "Mantequilla"
+  ],
+  "recipeInstructions": "1. En una sartén, dora la carne molida y la cebolla. Escurre el exceso de grasa.\n2. Añade la sal, el polvo de ajo y la pimienta a la sartén. Cocina hasta que desprenda aroma.\n3. Corta cada hogaza de pan francés por la mitad longitudinalmente. Unta mantequilla en ambas mitades.\n4. Coloca las mitades untadas en una bandeja para hornear.\n5. Retira la mezcla de carne del fuego; incorpora la crema agria.\n6. Extiende la mezcla de carne sobre una rebanada de pan.\n7. Espolvorea con tomates picados, pimiento verde y queso cheddar rallado.\n8. Coloca la otra rebanada de pan encima del relleno.\n9. Hornea a 175 °C durante 20 minutos, o hasta que el queso se derrita. Para un pan más crujiente, hornea más tiempo.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-sauce-2",
+  "name": "Salsa para pizza #2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "1 lata de puré de tomate",
+    "1/4 taza de cebolla cruda (picada)",
+    "1 lata de salsa de tomate",
+    "1 diente de ajo (picado)",
+    "3 tazas de agua",
+    "2 tazas de orégano",
+    "3 tazas de aceite de cocina",
+    "1 taza de azúcar moreno"
+  ],
+  "recipeInstructions": "1. Mezcla el puré de tomate, la cebolla picada, la salsa de tomate, el ajo picado, el agua, el orégano, el aceite de cocina y el azúcar moreno en una olla de 2 cuartos.\n2. Cocina a fuego medio durante 30-40 minutos, hasta que hierva.\nRinde suficiente salsa para 5 pizzas de 12 pulgadas.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fancy-beans",
+  "name": "Frijoles elegantes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frijoles",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de aceite de oliva",
+    "1 diente de ajo, picado",
+    "1 bolsa (450 g) de judías verdes congeladas, descongeladas y escurridas",
+    "1/4 taza de vinagre blanco",
+    "1 cucharadita de hojas de menta secas",
+    "1/4 cucharadita de sal",
+    "1/8 cucharadita de pimienta negra",
+    "1/4 taza de nueces picadas",
+    "100 g de queso feta desmenuzado"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una sartén grande a fuego medio.\n2. Añadir el ajo picado y saltear durante 1 minuto.\n3. Incorporar las judías verdes, el vinagre blanco, la menta seca, la sal y la pimienta. Cocinar, removiendo ocasionalmente, durante 6-7 minutos hasta que las judías estén tiernas.\n4. Transferir la mezcla a un plato para servir.\n5. Espolvorear con nueces picadas y queso feta desmenuzado.",
+  "url": null
+}

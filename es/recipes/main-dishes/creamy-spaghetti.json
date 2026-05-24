@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "creamy-spaghetti",
+  "name": "Spaguetis cremosos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "pasta",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "8 oz de espagueti tipo fusilli",
+    "3 oz de queso crema",
+    "1/2 taza de queso parmesano rallado",
+    "3/4 taza de leche evaporada",
+    "1/4 taza de cebolla verde picada",
+    "2 latas de atún, escurrido y desmenuzado",
+    "Sal y pimienta al gusto",
+    "1/4 taza de mantequilla",
+    "Perejil picado"
+  ],
+  "recipeInstructions": "1. Cocinar el espagueti según las instrucciones del paquete.\n2. Mientras tanto, dejar que el queso crema se ablande a temperatura ambiente en un bol pequeño.\n3. En otro bol, mezclar el queso crema ablandado con los ingredientes restantes (leche evaporada, queso parmesano, cebolla verde, atún, sal y pimienta) hasta obtener una textura suave.\n4. Cuando el espagueti esté cocido, escurrirlo y mezclarlo con la mantequilla.\n5. Montar los espaguetis en platos y cubrir con la mezcla de queso crema y atún.\n6. Espolvorear generosamente cada porción con perejil picado.",
+  "url": null
+}

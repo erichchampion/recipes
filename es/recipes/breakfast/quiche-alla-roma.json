@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "quiche-alla-roma",
+  "name": "Quiche Romana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "tartas de cena",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "Sal",
+    "Pimienta",
+    "1 masa de tarta (de 23 cm)",
+    "2 huevos, batidos suavemente",
+    "1/4 cucharadita de mostaza dijon",
+    "1/4 taza de cebolla finamente picada",
+    "1 taza de queso cheddar rallado",
+    "Tomates en rodajas finas",
+    "Pimiento verde cortado en tiras delgadas",
+    "1 cucharada de orégano",
+    "1/4 libra de salami genovés en lonchas finas (opcional)"
+  ],
+  "recipeInstructions": "Precalentar el horno a 350 °F (175 °C).\nMezclar los huevos, sal, pimienta, mostaza, cebolla y queso en un bol. Verter la mezcla en la base de la tarta.\nDisponer los tomates, las tiras de pimiento y el salami (si se usa) sobre la mezcla. Espolvorear con orégano.\nHornear durante 35-40 minutos hasta que la masa esté cocida y el huevo cuajado.",
+  "url": null
+}

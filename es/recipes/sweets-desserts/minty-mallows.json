@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "minty-mallows",
+  "name": "Mallowas menta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "caramelo",
+    "chocolate",
+    "postres",
+    "menta"
+  ],
+  "recipeIngredient": [
+    "14 onzas de leche condensada azucarada",
+    "1 1/2 tazas de chips de chocolate con menta (Nestlé)",
+    "2 tazas de malvaviscos (miniatura)",
+    "1 taza de nueces (cortadas groseramente)"
+  ],
+  "recipeInstructions": "1. Calentar a baño María la leche condensada y los chips de chocolate, revolviendo hasta que se derritan y la mezcla esté suave.\n2. En un bol grande, mezclar los malvaviscos con las nueces.\n3. Incorporar la mezcla de chocolate y remover bien.\n4. Extender la mezcla en una bandeja cuadrada de 9 pulgadas forrada con papel aluminio.\n5. Refrigerar hasta que esté firme, aproximadamente 20 minutos.",
+  "url": null
+}

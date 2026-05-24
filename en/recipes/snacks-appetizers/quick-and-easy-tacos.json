@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-and-easy-tacos",
+  "name": "Quick and Easy Tacos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "mexican",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1 cup Velvetta Salsa Dip",
+    "1/2 lb Ground Beef, cooked and drained",
+    "10 Taco Shells",
+    "1 cup Lettuce",
+    "3/4 cup Tomato"
+  ],
+  "recipeInstructions": "1. Stir Velveta cheese spread into the cooked meat.\n2. Fill taco shells with the meat mixture.\n3. Top each shell with lettuce and tomato.",
+  "url": null
+}

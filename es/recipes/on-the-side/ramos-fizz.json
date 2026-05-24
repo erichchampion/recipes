@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "ramos-fizz",
+  "name": "Ramos Fizz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 oz de ginebra",
+    "1/2 oz de crema dulce",
+    "1 1/2 oz de jugo de limón fresco",
+    "1 clara de huevo",
+    "1 cucharadita de azúcar en polvo",
+    "2 gotas de zumo de naranja (o agua de flor de naranja)",
+    "4 oz de soda club; o para llenar hielo agrietado"
+  ],
+  "recipeInstructions": "Llenar un vaso mezclador con hielo agrietado. Añadir ginebra, crema, jugo de limón, clara de huevo, azúcar en polvo y zumo de naranja. Agitar bien y colar en un vaso Collins frío. Cubrir con soda club.",
+  "url": null
+}

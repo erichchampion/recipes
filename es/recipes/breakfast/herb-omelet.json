@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "herb-omelet",
+  "name": "Omeleta de hierbas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "queso",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "3 huevos",
+    "1 cucharada de mantequilla",
+    "1 cucharada de albahaca picada",
+    "1 cucharada de tomillo picado",
+    "1 cucharada de orégano picado",
+    "1 cucharada de perejil picado",
+    "1 cucharada de cebolleta picada"
+  ],
+  "recipeInstructions": "1. Prepara la omeleta como lo harías normalmente para una omeleta francesa.\n2. Espolvorea la albahaca, el tomillo, el orégano, el perejil y la cebolleta justo antes de doblar la omeleta.",
+  "url": null
+}

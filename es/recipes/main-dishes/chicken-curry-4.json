@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-curry-4",
+  "name": "Curry de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "2 pollos",
+    "1/2 litro de yogur",
+    "2 cucharadas de cilantro",
+    "2 cucharadas de cúrcuma",
+    "2 cucharaditas de comino",
+    "8 chiles",
+    "1 cucharadita de semillas de fenogreco",
+    "1 diente de ajo picado",
+    "1 cebolla picada",
+    "1 trozo de jengibre picado"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes de la marinada: yogur, cilantro, cúrcuma, comino, chiles, semillas de fenogreco, ajo y jengibre.\n2. Marinar los pollos en la mezcla durante la noche.\n3. Estofar los pollos marinado en líquido hasta que estén tiernos.\n4. Alternativamente, escurrir el exceso de líquido y asar los pollos en el horno.",
+  "url": null
+}

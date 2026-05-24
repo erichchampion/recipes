@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "bread-recipe",
+  "name": "Bread Recipe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "6 cups Flour",
+    "1 package Dry yeast",
+    "1/2 cup Milk",
+    "3 tbsp Sugar",
+    "2 tsp Salt",
+    "3 tbsp Butter or margarine"
+  ],
+  "recipeInstructions": "1. Heat the milk, butter, and water to about 130°F.\n2. Add this mixture to 2 cups of flour and the remaining dry ingredients. Mix for about 2 minutes at medium speed until you have a batter.\n3. Gradually add approximately 3 more cups of flour with a large spoon until you have a soft dough, adding additional flour as needed.\n4. Knead on a lightly floured surface for about 10 minutes until the dough is smooth and elastic.\n5. Form the dough into a ball and place in a lightly greased bowl. Let rise for 1 hour or until doubled.\n6. When doubled, punch down the dough and fold the edges into the center. Cover and let rest for 15 minutes.\n7. Shape into loaves and place in lightly greased pans to double again.\n8. Preheat the oven to 400°F. Bake for about 25–30 minutes.\nThis makes a nice tasty bread but I would like it to be not as dense. Consider:\n1. More or less kneading.\n2. Using less flour.\n3. Baking at a slightly higher temperature.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-pork-chop-dinner",
+  "name": "Cena fácil de chuletón de cerdo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo",
+    "rápido"
+  ],
+  "recipeIngredient": [
+    "4 chuletas de cerdo",
+    "1 lata de caldo de pollo",
+    "1 cebolla, picada",
+    "2 dientes de ajo, picados",
+    "2 cucharadas de aceite de oliva"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una sartén hasta que esté caliente.\n2. Dorar las chuletas de cerdo por ambos lados.\n3. Añadir al sartén el caldo de pollo, la cebolla y el ajo.\n4. Reducir el fuego a bajo y cocinar a fuego lento durante unos 40 minutos.\n5. Las chuletas deben estar tiernas y no secas.",
+  "url": null
+}

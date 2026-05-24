@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-2",
+  "name": "Pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 large prepared pizza crust (or substitute favorite crust)",
+    "1 can S&W pasta sauce",
+    "1 14-ounce can beans (S&W Pinquinto beans or similar)",
+    "Powdered garlic",
+    "Oregano",
+    "Fresh ground black pepper",
+    "Cumin",
+    "1 medium yellow onion, sliced",
+    "1 cup mushrooms, sliced",
+    "1 ounce dried tomatoes",
+    "1 ounce nutritional yeast"
+  ],
+  "recipeInstructions": "1. In a medium bowl, combine the pasta sauce and beans. Stir to mix. Add spices to taste.\n2. Sauté the onion and mushrooms in your favorite method until nearly done. Add dried tomatoes 30 seconds before finishing.\n3. Preheat oven to 400°F (200°C).\n4. Spread the sautéed onions, mushrooms, and dried tomatoes onto the pizza crust.\n5. Pour the sauce/beans over the toppings and spread to cover.\n6. Sprinkle nutritional yeast evenly over the sauce.\n7. Bake for 11 minutes in the preheated oven. If using a prebaked crust, the bake time will be shorter.\n8. Serve.",
+  "url": null
+}

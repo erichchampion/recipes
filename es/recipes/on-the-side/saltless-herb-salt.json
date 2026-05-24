@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "saltless-herb-salt",
+  "name": "Sal de hierbas sin sal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "especias",
+    "guarniciones",
+    "condimentos"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de albahaca",
+    "2 cucharadas de semillas de apio",
+    "2 cucharadas de eneldo",
+    "1 1/2 cucharadas de salvia",
+    "1 cucharada de tomillo",
+    "1 cucharada de orégano",
+    "1 cucharadita de kelp",
+    "1/2 cucharadita de hojas de saúco"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Moler la mezcla hasta obtener un polvo fino.",
+  "url": null
+}

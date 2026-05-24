@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "impossible-chocolate-pie",
+  "name": "Tarta de chocolate imposible",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "fácil",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 Huevos",
+    "1 taza de Leche",
+    "1/4 taza de Manteca",
+    "1 cucharadita de Extracto de vainilla",
+    "2 onzas de Chocolate derretido",
+    "1 taza de Azúcar morena",
+    "1/2 taza de Bisquick"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F (175°C).\n2. Colocar en una licuadora los huevos, la leche, la manteca, el extracto de vainilla, el chocolate derretido, el azúcar morena y el Bisquick.\n3. Licuar durante 1 minuto hasta obtener una mezcla homogénea.\n4. Verter la mezcla en un molde para pastel.\n5. Hornear durante 30 minutos o hasta que al insertar un cuchillo salga limpio.\n6. Dejar enfriar completamente y cubrir con crema batida.",
+  "url": null
+}

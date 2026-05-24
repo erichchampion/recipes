@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-spiced-tea",
+  "name": "Té especiado caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "diabético",
+    "guarniciones",
+    "té"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de té caliente preparado",
+    "1 sobre de Equal",
+    "2 cucharadas de jugo de naranja",
+    "1 rama de canela",
+    "Una rodaja de naranja para decorar"
+  ],
+  "recipeInstructions": "1. Vierta el té caliente preparado en una taza.\n2. Añada el contenido de 1 sobre de Equal y revuelva hasta que se disuelva.\n3. Incorpore el jugo de naranja.\n4. Revuelva suavemente con la rama de canela para combinar los ingredientes.\n5. Decore con una rodaja de naranja.",
+  "url": null
+}

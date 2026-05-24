@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "great-grilled-flounder",
+  "name": "Pescado a la parrilla perfecto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "mariscos",
+    "asar/brasar-sf",
+    "plato principal",
+    "carne",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "2 libras de filete de bacalao",
+    "1/2 taza de aceite de oliva",
+    "1/4 taza de jugo de limón",
+    "2 cucharaditas de sal",
+    "1/2 cucharadita de salsa Worcestershire",
+    "1/2 cucharadita de especias cajún"
+  ],
+  "recipeInstructions": "1. Coloca el pescado en una parrilla engrasada.\n2. Mezcla los ingredientes restantes y marina el pescado.\n3. Asa, dando la vuelta y marinando ocasionalmente, durante 10 minutos por pulgada de grosor o hasta que el pescado esté desmenuzable y ya no sea transparente en el centro.",
+  "url": null
+}

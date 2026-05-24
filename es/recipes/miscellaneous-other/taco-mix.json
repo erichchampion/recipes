@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-mix",
+  "name": "Mezcla para tacos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "misceláneo",
+    "mezclas"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de cebolla instantánea picada",
+    "1 cucharadita de sal",
+    "1 cucharadita de polvo de chile",
+    "1/2 cucharadita de comino molido",
+    "1/2 cucharadita de pimiento rojo seco en polvo o cayena",
+    "1/2 cucharadita de ajo instantáneo picado",
+    "1/4 cucharadita de orégano seco en hojas"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Colocar la mezcla en una bolsa de plástico para sándwiches y sellar.\n3. Repetir la receta para hacer tantas bolsas como se deseen.",
+  "url": null
+}

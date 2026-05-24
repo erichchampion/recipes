@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "waffles-toastmaster",
+  "name": "Wafflas - Toastmaster",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "favoritos familiares",
+    "plato principal",
+    "gofres"
+  ],
+  "recipeIngredient": [
+    "1 3/4 tazas de harina de uso común",
+    "2 cucharaditas de polvo de hornear",
+    "1 cucharada de azúcar",
+    "1/2 cucharadita de sal",
+    "3 yemas de huevo batidas",
+    "3 claras de huevo batidas firmemente",
+    "1 1/2 tazas de leche",
+    "1/3 taza de aceite (vegetal o de girasol)"
+  ],
+  "recipeInstructions": "1. Medir los ingredientes secos en un bol de mezcla.\n2. Combinar las yemas de huevo con la leche. Incorporar a la mezcla seca.\n3. Añadir el aceite.\n4. Doblar cuidadosamente las claras de huevo. No sobremezclar.\n5. Verter la masa en la plancha de gofres por 2/3 tazas.\n6. Cerrar la plancha y hornear según las instrucciones del fabricante.",
+  "url": null
+}

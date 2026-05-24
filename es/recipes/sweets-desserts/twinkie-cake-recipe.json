@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "twinkie-cake-recipe",
+  "name": "Receta de pastel de Twinkie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pastel",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 sobre de bizcocho de chocolate",
+    "2 huevos",
+    "2 tazas de leche",
+    "1 sobre de pudín instantáneo de chocolate",
+    "Relleno:",
+    "1 taza de leche",
+    "5 cucharadas de harina",
+    "1 taza de azúcar",
+    "1/2 cucharadita de sal",
+    "1/2 taza de Crisco",
+    "1/2 taza de mantequilla",
+    "1 cucharadita de extracto de vainilla",
+    "Glaseado:",
+    "Preparar el glaseado con un sobre de glaseado de fudge oscuro. Se puede añadir una pizca de polvo de hornear al glaseado para obtener un mejor resultado."
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes y hornear el bizcocho según las indicaciones del paquete. Dejar enfriar, luego dividirlo por la mitad.\n2. Para el relleno:\n- Mezclar la leche y la harina en una cacerola hasta espesar. Enfriar la mezcla.\n- Batir la mezcla con un batidor eléctrico hasta que esté esponjosa.\n- Incorporar los demás ingredientes (azúcar, sal, Crisco, mantequilla y vainilla) uno a uno, batiendo bien después de cada adición.\n3. Extender el relleno entre las capas del bizcocho.\n4. Para el glaseado:\n- Preparar el glaseado siguiendo las instrucciones del paquete.\n- Cubrir todo el bizcocho con el glaseado.\n- Dejar reposar el bizcocho al menos 6 horas antes de servir para que los sabores se intensifiquen.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "possee-stew",
+  "name": "Estofado de Posse",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "1 lata de tomates enlatados estofados",
+    "1 lata de frijoles Chile (estilo Ranch o Bush's chile beans)",
+    "1 lata de maíz",
+    "1 lata de hominy",
+    "1 pequeña lata de chiles verdes picados"
+  ],
+  "recipeInstructions": "1. Abrir todas las latas y transferir el contenido, incluyendo el líquido, a una olla grande.\n2. Calentar la mezcla hasta que esté caliente por completo.\n3. Ajustar el nivel de picante utilizando diferentes variedades de tomates enlatados si se desea.\n4. Agregar cebolla y ajo picados para un sabor extra.\n5. Opcionalmente, incorporar carne molida para completar la receta.",
+  "url": null
+}

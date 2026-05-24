@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-cake",
+  "name": "Cheese Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cake",
+    "cakes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 cup Sugar",
+    "2 T Flour",
+    "1 lb Cream cheese",
+    "4 Eggs",
+    "1 cup Half & half",
+    "1 tsp Vanilla",
+    "1 Pastry"
+  ],
+  "recipeInstructions": "1. Line a deep pan with pastry.\n2. Mix flour and sugar together; add the cream cheese and mix thoroughly.\n3. Beat eggs slightly, add the cream and vanilla and combine with first mixture.\n4. Pour into pastry shell, which has been baked at 400°F until starting to brown.\n5. Remove only long enough to pour in filling.\n6. Reduce heat to 325°F and bake for 40 minutes.",
+  "url": null
+}

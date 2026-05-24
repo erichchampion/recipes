@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "roquefort-canapes",
+  "name": "Canapés de Roquefort",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "buen libro de amigos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de mostaza de Dijon estilo granulado",
+    "1/4 libra de queso Roquefort, desmenuzado",
+    "1/4 taza de perejil fresco picado",
+    "2 cucharadas de mayonesa",
+    "24 tapas de setas enteras",
+    "o 24 tomates cereza huecos",
+    "Perejil fresco picado",
+    "Piñones"
+  ],
+  "recipeInstructions": "1. Mezclar suavemente la mostaza, el queso Roquefort, el perejil y la mayonesa.\n2. Rellenar las tapas de setas o los tomates con la mezcla.\n3. Decorar con perejil fresco picado y piñones.",
+  "url": null
+}

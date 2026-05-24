@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cucumber-salsa",
+  "name": "Salsa de pepino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "encimadas",
+    "salsas",
+    "guarniciones",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 taza de crema agria láctea",
+    "1 taza de yogur natural",
+    "1/4 taza de perejil picado",
+    "1/4 taza de cilantro fresco picado",
+    "1 cucharadita de comino molido",
+    "1/2 cucharadita de sal",
+    "2 pepinos medianos"
+  ],
+  "recipeInstructions": "1. Pelar los pepinos.\n2. Retirar las semillas.\n3. Rallar groseramente los pepinos.\n4. Mezclar todos los ingredientes en un bol.\n5. Tapar y refrigerar durante aproximadamente 2 horas hasta que esté fría.\nRinde unas 3 tazas de salsa.",
+  "url": null
+}

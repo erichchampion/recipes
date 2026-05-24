@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomatoes-vinaigrette",
+  "name": "Ensalada de Tomates Vinagreta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "diabetico",
+    "ensaladas",
+    "verdura"
+  ],
+  "recipeIngredient": [
+    "1 taza de tomates en rodajas (2 medianos)",
+    "1 taza de pepino en láminas finas (1 mediano)",
+    "1/2 taza de cebolla en rodajas",
+    "1/4 taza de vinagre de vino",
+    "1/8 cucharadita de semillas de apio",
+    "1/4 cucharadita de tomillo molido",
+    "1/4 cucharadita de orégano molido",
+    "1/4 cucharadita de hoja de laurel desmenuzada",
+    "1/8 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Alternar capas de verduras en un plato de vidrio poco profundo.\n2. Mezclar el vinagre con las hierbas y especias, remover bien, y verter sobre las verduras.\n3. Tapar y refrigerar durante varias horas o toda la noche.\n4. Escurrir y servir sobre lechuga picada.\n5. Decorar con 2 cucharaditas de perejil picado.",
+  "url": null
+}

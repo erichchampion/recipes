@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "spice-beer-cake",
+  "name": "Pastel de Cerveza Especiada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "bebidas",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3 tazas de harina",
+    "2 tazas de azúcar morena, compacta",
+    "2 cucharaditas de bicarbonato de sodio",
+    "2 cucharadas de sal",
+    "1 cucharadita de canela",
+    "1/2 cucharadita de jengibre",
+    "1/2 cucharadita de clavo de olor",
+    "1 taza de cerveza"
+  ],
+  "recipeInstructions": "1. Cernir juntos los ingredientes secos.\n2. Crema la manteca o shortening con el azúcar morena; añade los huevos.\n3. Mezcla las frutas y nueces con 2 cucharadas de la mezcla de harina.\n4. Alterna la mezcla de harina con la cerveza, añadiendo la mezcla de frutas y nueces.\n5. Vierte en un molde para pastel de tubo engrasado y enharinado de 10 pulgadas y hornea a 350 °F durante 1 hora, o hasta que esté hecho.\nAlternativamente, vierte en un molde rectangular engrasado y enharinado de 9x13 pulgadas y hornea a 350 °F durante 45 minutos a 1 hora, o hasta que esté hecho.",
+  "url": null
+}

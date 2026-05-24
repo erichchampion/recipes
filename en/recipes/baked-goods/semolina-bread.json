@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "semolina-bread",
+  "name": "Semolina Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 cup buttermilk",
+    "1 egg beaters",
+    "1 tbsp butter or applesauce",
+    "2.5 cups semolina flour",
+    "1 tsp salt",
+    "1.5 tsp yeast"
+  ],
+  "recipeInstructions": "1. Add the ingredients in the order specified by your bread machine's settings.\n2. Select the regular cycle setting on your bread machine.\n3. Allow the machine to complete the baking process.\n4. Once finished, remove the pan from the machine and let it cool before slicing.",
+  "url": null
+}

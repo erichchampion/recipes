@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "monastery-herbal-sausage",
+  "name": "Salchicha Herbal Monástica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "embutidos"
+  ],
+  "recipeIngredient": [
+    "400 gramos de carne de cerdo magra",
+    "400 gramos de carne de vacuno magra",
+    "200 gramos de tocino verde o grasa de cerdo sin piel",
+    "1 cucharadita de sal",
+    "2 cucharaditas de mostaza en polvo",
+    "Pimienta blanca",
+    "1 cucharadita de tomillo",
+    "1 cucharadita de orégano",
+    "5 pimientos rojos secos",
+    "Un pellizco de canela"
+  ],
+  "recipeInstructions": "1. Triturar la carne de cerdo, la carne de vacuno y la grasa a través de un disco de 8 mm.\n2. Mezclar las hierbas y las especias en un bol.\n3. Espolvorear la mezcla sobre la masa de carne y mezclar todo a mano durante 5-10 minutos.\n4. Colocar un embudo en la picadora y rellenar los sacos de cerdo.\n5. Enrollar en rollos del largo deseado.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "gumbo",
+  "name": "Gumbo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento",
+    "vegano"
+  ],
+  "recipeIngredient": [
+    "1 cebolla entera picada",
+    "3 dientes de ajo",
+    "1 pimiento verde en dados",
+    "2 tazas de tomates en dados",
+    "4 tazas de caldo de verduras",
+    "1 taza de judías lima cocidas",
+    "1 taza de granos de maíz frescos, o congelados",
+    "1 1/2 tazas de okra en rodajas",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de guindilla"
+  ],
+  "recipeInstructions": "1. En una sartén grande, saltear la cebolla picada y el pimiento verde con ajo picado en agua hasta que estén tiernos.\n2. Retirar los dientes de ajo de la mezcla.\n3. Añadir todos los ingredientes a una olla lenta y cocinar a temperatura alta durante 6 horas, o a temperatura baja entre 8-10 horas.\n4. Servir el gumbo caliente. Está listo para disfrutar después del trabajo, sabiendo que todo está preparado con antelación. Las judías lima pueden precocinarse en la olla lenta durante la noche, solo requiriendo añadir los ingredientes restantes antes de servir.",
+  "url": null
+}

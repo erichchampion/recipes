@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pancake-mix-3",
+  "name": "Mezcla para panqueques",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "diversos",
+    "mezclas"
+  ],
+  "recipeIngredient": [
+    "12 tazas de harina de uso común",
+    "3/4 taza de azúcar",
+    "4 tazas de leche en polvo",
+    "2 cucharadas de sal",
+    "3/4 taza de polvo de hornear"
+  ],
+  "recipeInstructions": "1. Mezclar bien todos los ingredientes y almacenar la mezcla en un recipiente hermético.\n2. Para preparar las tortitas, combinar:\n1. 1 1/2 tazas de la mezcla\n2. 1 taza de agua\n3. 1 huevo batido\n4. 2 cucharadas de aceite de ensalada",
+  "url": null
+}

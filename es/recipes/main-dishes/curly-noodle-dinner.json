@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "curly-noodle-dinner",
+  "name": "Cena con fideos rizados",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carnes",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "1 paquete de fideos ramen con sabor a carne",
+    "400 g de tomates enlatados estofados (escurridos)",
+    "200 g de maíz enlatado (escurrido)"
+  ],
+  "recipeInstructions": "1. Dorar la carne y escurrir el exceso de grasa.\n2. Mezclar los fideos cocidos, las especias del paquete de ramen, los tomates estofados y el maíz.\n3. Llevar a ebullición, luego reducir el calor y dejar cocinar hasta que los fideos estén tiernos.",
+  "url": null
+}

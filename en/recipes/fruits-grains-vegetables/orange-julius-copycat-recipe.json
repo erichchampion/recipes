@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-julius-copycat-recipe",
+  "name": "Orange Julius Copycat Recipe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "beverages",
+    "fruits",
+    "miscellaneous",
+    "shrimp"
+  ],
+  "recipeIngredient": [
+    "1 cup orange juice",
+    "1 cup water",
+    "2 eggs",
+    "3/4 tsp vanilla extract",
+    "1/4 cup granulated sugar",
+    "1 cup ice (heaping)"
+  ],
+  "recipeInstructions": "1. Combine all of the ingredients in a blender set on high speed.\n2. Blend for exactly one minute.",
+  "url": null
+}

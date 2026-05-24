@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-hollandaise-sauce",
+  "name": "Salsa holandesa falsa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mayonesa",
+    "2 cucharadas de jugo de limón",
+    "4 cucharadas de mantequilla o margarina",
+    "2 yemas de huevo",
+    "Una pizca de pimienta cayena",
+    "Una pizca de sal"
+  ],
+  "recipeInstructions": "1. Mezcla la mayonesa y el jugo de limón en el fondo de un baño maría.\n2. Coloca sobre agua a fuego lento y cocina, removiendo constantemente, durante 3 minutos, o hasta que esté tibia, pero no caliente.\n3. Añade la mantequilla y las yemas de huevo. Cocina, removiendo constantemente, durante 1 minuto, o hasta que la mezcla espese lo suficiente para cubrir una cuchara.\n4. Ten cuidado, si la mezcla se calienta demasiado, las yemas cuajarán.\n5. Retira el baño maría y incorpora la pimienta cayena y la sal.",
+  "url": null
+}

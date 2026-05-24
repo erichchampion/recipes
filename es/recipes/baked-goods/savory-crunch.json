@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "savory-crunch",
+  "name": "Crujido Sabroso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "Pan rallado suave",
+    "1 cucharada de mantequilla",
+    "1 cucharada de perejil picado"
+  ],
+  "recipeInstructions": "1. Saltear los pan rallados con la mantequilla en una sartén a fuego medio hasta que se doren.\n2. Retirar del fuego y añadir el perejil.\n3. Espolvorear sobre un guiso antes de hornearlo.",
+  "url": null
+}

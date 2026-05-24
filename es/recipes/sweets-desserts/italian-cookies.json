@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-cookies",
+  "name": "Galletas italianas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de mantequilla",
+    "3 cucharadas de azúcar glas",
+    "1 cucharadita de extracto de almendras",
+    "2 tazas de harina",
+    "1 taza de almendras laminadas"
+  ],
+  "recipeInstructions": "1. Batir juntos la mantequilla, el azúcar glas y el extracto de almendras hasta que esté bien combinado.\n2. Agregar gradualmente la harina y las almendras laminadas a la mezcla. Mezclar hasta que todos los ingredientes estén incorporados y formen una masa.\n3. Dar forma a la masa en pequeñas bolas y colocarlas sobre una bandeja para hornear forrada con papel pergamino.\n4. Hornear a 175 °C (350 °F) durante 20 minutos, o hasta que estén doradas.\n5. Retirar del horno y dejar enfriar ligeramente antes de rodar cada galleta en azúcar glas.",
+  "url": null
+}

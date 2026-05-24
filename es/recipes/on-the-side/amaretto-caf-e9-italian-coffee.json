@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "amaretto-caf-e9-italian-coffee",
+  "name": "Café con Amaretto",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "café",
+    "bebidas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 taza de café negro",
+    "1 onza de amaretto",
+    "Nata montada",
+    "1 cereza al marrasquino"
+  ],
+  "recipeInstructions": "1. Llena una taza de café o un vaso con café caliente.\n2. Añade el amaretto y remueve.\n3. Cubre con nata montada y coloca una cereza al marrasquino encima.\n4. Sirve con una cucharadita.",
+  "url": null
+}

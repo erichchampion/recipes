@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-burgers",
+  "name": "Hamburguesas italianas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 1/4 libras de carne picada magra",
+    "1 paquete de espinacas congeladas picadas, descongeladas y escurridas",
+    "2 dientes de ajo finamente picados",
+    "3 cucharadas de queso parmesano rallado",
+    "1/2 taza de salsa de spaghetti embotellada",
+    "1/2 taza de migas de pan italiano",
+    "1/2 taza de queso mozzarella sin grasa rallado",
+    "8 panes para hamburguesa"
+  ],
+  "recipeInstructions": "1. Mezclar la carne, las espinacas, el ajo, el parmesano, la salsa y las migas en un bol. Dividir la mezcla en 8 porciones iguales.\n2. Broilar o asar a la parrilla a 4 pulgadas de distancia del calor durante 6 minutos por cada lado o hasta que esté cocido completamente. Cubrir con 2 cucharadas de queso mozzarella rallado. Broilar hasta que se derrita el queso. Servir en los panes.",
+  "url": null
+}

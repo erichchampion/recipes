@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "paella-a-la-alicantina",
+  "name": "Paella al estilo Alicantino",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "étnica",
+    "cerdo",
+    "española"
+  ],
+  "recipeIngredient": [
+    "7 cucharadas de aceite de oliva virgen extra",
+    "3 pimientos verdes medianos, picados",
+    "3 dientes de ajo, pelados y picados",
+    "3 tomates maduros, pelados y picados",
+    "8 alcachofas jóvenes y tiernas, cortadas en trozos",
+    "1 kg de arroz",
+    "Azafrán",
+    "Pimienta dulce (pimentón dulce español)",
+    "1 litro de agua",
+    "1 kg de carne de cerdo, cortada en cubos"
+  ],
+  "recipeInstructions": "1. Salar.\n2. Calentar el aceite en una paellera grande y saltear los pimientos verdes a fuego rápido para evitar que se quemen. Retirar y reservar.\n3. En el mismo aceite, freír el arroz hasta que esté medio hecho, sin remover. Reducir el fuego y cocinar a fuego lento hasta que el arroz esté terminado. El arroz debe quedar seco, con los granos sueltos.\n4. Añadir el ajo, los tomates, las alcachofas, el azafrán y la pimienta dulce al arroz y continuar cocinando a fuego lento hasta que todos los ingredientes estén bien integrados.\n5. Verter el agua y la carne de cerdo en la paellera, mezclar bien y dejar cocinar a fuego medio-bajo durante unos 20 minutos, o hasta que el arroz esté tierno y la carne bien cocida.",
+  "url": null
+}

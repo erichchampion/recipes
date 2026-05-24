@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pineapple-cranberry-bread",
+  "name": "Pineapple Cranberry Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "2 teaspoons Yeast",
+    "3 cups Flour",
+    "1 cup Oats",
+    "1/2 teaspoon Salt",
+    "2 tablespoons Butter",
+    "2/3 cup Crushed pineapple",
+    "1 cup Cranberry juice",
+    "-----OPTIONAL INGREDIENTS-----",
+    "Chopped nuts",
+    "Dried cranberries"
+  ],
+  "recipeInstructions": "1. Add all ingredients to the bread machine.\n2. Turn on the machine to begin mixing and baking.",
+  "url": null
+}

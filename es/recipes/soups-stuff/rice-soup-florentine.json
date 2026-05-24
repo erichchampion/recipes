@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-soup-florentine",
+  "name": "Sopa de arroz florentina",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "entrantes",
+    "plato principal",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz marrón de cocción rápida",
+    "1/4 cucharadita de sal marina",
+    "1 1/2 tazas de agua",
+    "1/2 taza de apio picado",
+    "1 taza de cebolletas en rodajas finas",
+    "4 cucharaditas de ajo fresco picado",
+    "5 cucharaditas de polvo de caldo vegetal",
+    "1/2 cucharadita de pimienta negra molida",
+    "1 cucharada de aceite de oliva",
+    "1 taza de espinacas congeladas cortadas (descongeladas)"
+  ],
+  "recipeInstructions": "1. Cocinar el arroz marrón con una pizca de sal en 1 1/2 tazas de agua hirviendo durante 10 minutos. Retirar del fuego y reservar.\n2. En una sartén grande, saltear el apio, las cebolletas, el ajo, el caldo, la sal restante y la pimienta en aceite de oliva hasta que las verduras estén tiernas, aproximadamente 10 minutos.\n3. Añadir las espinacas, el arroz cocido (y cualquier agua no absorbida por el arroz), y 3 tazas de agua adicionales. Calentar a fuego lento y servir caliente.",
+  "url": null
+}

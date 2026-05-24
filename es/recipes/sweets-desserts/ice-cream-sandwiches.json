@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "ice-cream-sandwiches",
+  "name": "Helados en panecillos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "meriendas",
+    "aperitivos para niños"
+  ],
+  "recipeIngredient": [
+    "2 bolas de helado de vainilla",
+    "4 cuadrados de galletas Graham o galletas similares"
+  ],
+  "recipeInstructions": "1. Ablandar ligeramente el helado si está muy frío.\n2. Colocar una bola de helado ablandado entre dos galletas Graham o galletas.\n3. Presionar suavemente para asegurar que todos los ingredientes estén bien sellados.\n4. Envolver el sándwich en papel film y colocarlo en el congelador.\n5. Dejar reposar los sándwiches hasta que estén completamente firmes antes de servir.",
+  "url": null
+}

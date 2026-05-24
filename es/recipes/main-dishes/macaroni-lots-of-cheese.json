@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "macaroni-lots-of-cheese",
+  "name": "Macarrones y mucho queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "queso/huevos",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de macarrones tipo \"elbow\"",
+    "2 cucharadas de mantequilla",
+    "Una pizca de pimienta cayena",
+    "Sal y pimienta negra al gusto",
+    "1/3 taza de leche",
+    "Un huevo batido",
+    "2 cucharaditas de mostaza marrón",
+    "1/2 lb de queso Cheddar fuerte, rallado",
+    "1/2 lb de queso Cheddar amarillo suave, rallado"
+  ],
+  "recipeInstructions": "1. Cocinar los macarrones en agua con sal hasta que estén tiernos, entre 8 y 10 minutos. Escurrir.\n2. En un plato para horno grande, mezclar los macarrones con la mantequilla, la pimienta cayena y la sal y pimienta al gusto.\n3. En un bol aparte, mezclar la leche con el huevo y la mostaza. Verter esta mezcla sobre los macarrones y remover bien.\n4. Mezclar juntos los dos quesos y combinar la mitad con los macarrones. Reservar el resto del queso.\n5. Hornear a 175°C durante 10 minutos.\n6. Agregar la mitad del queso reservado y mezclar bien. Hornear por 5 minutos adicionales.\n7. Incorporar el resto del queso y hornear durante 10 minutos más.\n8. Servir en 4 porciones.",
+  "url": null
+}

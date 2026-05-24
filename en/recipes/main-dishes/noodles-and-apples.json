@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "noodles-and-apples",
+  "name": "Noodles and Apples",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "fruits",
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "3 cups Cooked noodles",
+    "3/4 cup Raisins",
+    "3 tablespoons Butter",
+    "1/2 teaspoon Nutmeg",
+    "3 tablespoons Grated Swiss cheese",
+    "1/4 teaspoon Cloves",
+    "3 cups Sliced green apples",
+    "3 tablespoons Molasses"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a well-oiled medium casserole dish.\n2. Cover and bake at 350 degrees for 30 minutes.\n3. Bake uncovered for an additional 15 minutes or until slightly browned.",
+  "url": null
+}

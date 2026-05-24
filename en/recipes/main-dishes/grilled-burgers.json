@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "grilled-burgers",
+  "name": "Grilled Burgers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1/4 cup sour cream",
+    "2 tsp dried parsley flakes",
+    "1 tsp dried thyme",
+    "1 tsp salt",
+    "1/2 tsp pepper",
+    "2 1/2 lb ground beef",
+    "10 hamburger buns, split",
+    "lettuce leaves -- optional",
+    "sliced tomato -- optional",
+    "onion"
+  ],
+  "recipeInstructions": "1. In a large bowl, combine the sour cream, dried parsley flakes, dried thyme, salt, and pepper. Mix gently.\n2. Gradually add the ground beef to the mixture and stir until all ingredients are well combined.\n3. Shape the mixture into 10 patties.\n4. Grill the burgers, uncovered, over medium coals for 4-5 minutes on each side until the meat is no longer pink.\n5. Serve the burgers on buns with lettuce, tomato, and onion if desired.",
+  "url": null
+}

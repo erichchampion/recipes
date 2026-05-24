@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "crock-pot-soup",
+  "name": "Sopa en olla de cocción lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento",
+    "sopas y estofados"
+  ],
+  "recipeIngredient": [
+    "2-3 libras de carne de asado de cadera, cortada en trozos pequeños",
+    "5 papas medianas, picadas",
+    "5 zanahorias, picadas",
+    "1 cebolla grande, picada",
+    "Un tallo de apio, picado",
+    "1 lata de tomates Rotel",
+    "1 lata pequeña de maíz",
+    "1 lata pequeña de judías verdes",
+    "Sal y pimienta"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en la olla de cocción lenta.\n2. Cocinar a fuego alto hasta que la mezcla empiece a hervir.\n3. Reducir el calor a bajo y cocinar durante varias horas, o todo el día.\n4. Servir con pan de maíz caliente.",
+  "url": null
+}

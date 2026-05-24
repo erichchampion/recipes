@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-rice-pudding",
+  "name": "Arroz con Banana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "postres",
+    "favoritos familiares",
+    "budines",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "3 tazas de leche desnatada",
+    "1 taza de arroz de grano corto",
+    "3 plátanos machacados",
+    "1/2 cucharadita de nuez moscada",
+    "1 1/2 cucharadas de azúcar moreno",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 grados.\n2. Mezclar todos los ingredientes hasta que queden bien combinados y verter en un recipiente para hornear de 1 1/2 litros.\n3. Hornear durante 1 a 1 1/2 horas, removiendo ocasionalmente, hasta que el arroz esté tierno.",
+  "url": null
+}

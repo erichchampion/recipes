@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-loaf-2",
+  "name": "Pan de frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina para todo uso",
+    "1 cucharadita de polvo de hornear",
+    "1 cucharada de azúcar",
+    "1 1/2 tazas de pasas",
+    "1 huevo, o 2",
+    "Leche - para mezclar"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes juntos.\n2. Añadir el huevo y la leche para obtener una consistencia de caída.\n3. Hornear en un horno bastante caliente durante 45 minutos.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-chicken-salad",
+  "name": "Ensalada de Pollo Italiana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pollo",
+    "italiano",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 Pollo entero, cocido",
+    "1 taza Cebollas, picadas groseramente",
+    "2 cucharadas Vinagre de vino",
+    "1 cucharadita Orégano",
+    "1/2 taza Aceitunas negras, deshuesadas y trituradas",
+    "1 taza Apio, picado groseramente",
+    "1/2 taza Aceitunas rellenas, en rodajas",
+    "4 cucharadas Aceite de oliva",
+    "1 cucharadita Azúcar",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Escurrir el pollo y reservar el caldo para otro uso.\n2. Deshuesar y quitar la piel del pollo. Desmenuzar la carne.\n3. Saltear las cebollas y el apio en aceite de oliva durante un corto tiempo.\n4. Añadir la carne desmenuzada y mezclar bien con todos los demás ingredientes hasta que se calienten.\n5. Servir frío o caliente.",
+  "url": null
+}

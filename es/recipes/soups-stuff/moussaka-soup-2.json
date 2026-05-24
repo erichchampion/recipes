@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "moussaka-soup-2",
+  "name": "Sopa de Moussaka",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "plato principal",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 berenjena pequeña",
+    "4 cucharadas de aceite de oliva",
+    "8 tazas de caldo de cordero (ver Receta 9)",
+    "1/2 taza de cordero cocido, cortado en cubos",
+    "1/4 cucharadita de sal",
+    "1/2 cucharadita de orégano seco en hojas",
+    "2 tomates grandes, picados",
+    "1/2 taza de guisantes congelados"
+  ],
+  "recipeInstructions": "1. Pelar la berenjena y cortarla en cubos de 0,5 cm.\n2. Calentar el aceite de oliva en una cacerola de 2,5 litros y dorar la berenjena.\n3. Añadir el caldo de cordero, el cordero, la sal y el orégano a la cacerola.\n4. Llevar a ebullición.\n5. Reducir el fuego, tapar y dejar cocer a fuego lento durante 5 minutos o hasta que la berenjena esté muy tierna.\n6. Agregar los tomates y los guisantes.\n7. Cocinar durante 2 minutos más.\n8. Servir caliente con queso parmesano rallado como adorno.",
+  "url": null
+}

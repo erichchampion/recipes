@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "rich-chocolate-sauce",
+  "name": "Rich Chocolate Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "6 ounces bittersweet chocolate",
+    "6 ounces semisweet chocolate",
+    "1 cup heavy cream",
+    "1/2 cup coffee",
+    "1 tablespoon cognac"
+  ],
+  "recipeInstructions": "1. Melt the chocolates in a double boiler, stirring constantly until smooth.\n2. Combine the melted chocolate with the heavy cream and stir well.\n3. Stir in the brewed coffee to taste.\n4. Add the cognac and mix gently until combined.",
+  "url": null
+}

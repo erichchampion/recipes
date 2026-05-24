@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-chocolate-pudding-recipe",
+  "name": "Receta de Fácil Pudín de Chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "dulces",
+    "budines",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 oz de chocolate sin azúcar",
+    "3 cucharadas de maicena",
+    "3/4 taza de azúcar (o más, al gusto)",
+    "2 tazas de leche (con un 2% de grasa es ideal, no descremada)",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. En una cacerola, mezclar todos los ingredientes excepto la vainilla.\n2. Calentar a fuego medio y remover constantemente hasta que espese y empiece a hervir.\n3. Añadir la vainilla y cocinar removiendo durante un par de minutos más.\n4. Enfriar en el refrigerador sin tapar durante unas horas.",
+  "url": null
+}

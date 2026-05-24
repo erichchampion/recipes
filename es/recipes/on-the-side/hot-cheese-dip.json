@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-cheese-dip",
+  "name": "Dip de queso caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "huevos/queso",
+    "microondas",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "7 oz (200 g) de almejas picadas en lata, escurridas",
+    "1/4 taza de pimiento verde, finamente picado",
+    "4 cebollas verdes, finamente picadas",
+    "2 gotas de salsa Tabasco",
+    "10 oz (280 g) de queso picante en crema",
+    "Sal de ajo al gusto."
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un recipiente para microondas profundo y de 1 1/2 cuartos, resistente al calor y no metálico.\n2. Calentar, sin cubrir, en el microondas durante 5 minutos o hasta que el queso se derrita. Revolver al final de cada minuto.\n3. Servir muy caliente con totopos crujientes para mojar.",
+  "url": null
+}

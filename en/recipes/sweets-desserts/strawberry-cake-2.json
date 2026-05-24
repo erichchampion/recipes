@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-cake-2",
+  "name": "Strawberry Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "White Cake Mix",
+    "Eggs (4)",
+    "Strawberries (Fresh or Frozen, 1/2 cup)",
+    "Oil (2/3 cup)",
+    "Strawberry Jello (0.3 ounce package)",
+    "Hot Water (1/2 cup)"
+  ],
+  "recipeInstructions": "1. Preheat oven to 350°F.\n2. Dissolve strawberry jello in hot water and mix with remaining ingredients.\n3. Bake in tube pan for about 1 hour.",
+  "url": null
+}

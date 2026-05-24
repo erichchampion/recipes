@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "club-burrito",
+  "name": "Club Burrito",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meats",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "1 slice Deli-Style Turkey",
+    "1 slice Deli-Style Ham",
+    "1 slice Swiss Cheese",
+    "1 Soft Flour Tortilla",
+    "Shredded Lettuce",
+    "Sprouts"
+  ],
+  "recipeInstructions": "1. Place the tortilla on the outside of a plate.\n2. Layer the cheese, ham, and turkey on top of the tortilla.\n3. Add shredded lettuce and sprouts in the center.\n4. Secure any additional vegetables, if desired.\n5. Roll up the burrito carefully.\n6. Use a toothpick to secure the roll in place.",
+  "url": null
+}

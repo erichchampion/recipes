@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "another-bean-salad",
+  "name": "Another Bean Salad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "salads",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "1 cup Sugar",
+    "1/2 teaspoon Salt",
+    "1 cup Vinegar",
+    "16 ounces Green beans, can, drained",
+    "16 ounces Yellow beans, can, drained",
+    "16 ounces Lima beans, can, drained",
+    "16 ounces Garbanzo beans, can, drained",
+    "16 ounces Red kidney beans, drained",
+    "1 green pepper, slivered",
+    "4 celery stalks, sliced",
+    "3 onions, medium, sliced thin"
+  ],
+  "recipeInstructions": "1. Combine sugar, salt, and vinegar in a pan. Bring to a boil for 1 minute.\n2. Cool the mixture.\n3. Toss all other ingredients together.\n4. Pour the vinegar mixture over the vegetables.\n5. Marinate for 24 hours in the refrigerator, stirring occasionally.",
+  "url": null
+}

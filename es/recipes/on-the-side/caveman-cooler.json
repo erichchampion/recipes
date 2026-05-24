@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "caveman-cooler",
+  "name": "Refrigerio del Cavernario",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 litro de jugo de arándanos",
+    "1 litro de agua con gas de jengibre",
+    "1 taza de refresco de frutas tropicales",
+    "1 taza de zumo de naranja"
+  ],
+  "recipeInstructions": "1. Enfriar todos los ingredientes.\n2. Mezclar en una jarra para cócteles justo antes de servir.",
+  "url": null
+}

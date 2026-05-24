@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaetzle",
+  "name": "Spaetzle",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de harina",
+    "3/4 taza de agua",
+    "2 huevos batidos",
+    "1/2 cucharadita de sal",
+    "1 cubo de caldo de pollo",
+    "3 cucharadas de mantequilla",
+    "1 cucharada de perejil picado",
+    "1/4 taza de queso parmesano"
+  ],
+  "recipeInstructions": "1. Mezclar la harina, el agua, los huevos y la sal en un bol grande hasta obtener una masa suave.\n2. Añadir gradualmente el caldo al agua hirviendo, removiendo continuamente.\n3. Presionar la mitad de la masa a través de un colador con agujeros grandes hacia el agua hirviendo.\n4. Cocinar los spaetzle hasta que floten en la superficie del agua. Retirar con una cuchara ranurada y repetir con el resto de la masa.\n5. Saltear los spaetzle cocidos con mantequilla y perejil. Agregar el queso parmesano y mezclar bien.",
+  "url": null
+}

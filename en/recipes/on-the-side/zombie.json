@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "zombie",
+  "name": "Zombie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 oz Light rum",
+    "1 oz Dark rum",
+    "1/2 oz Grenadine",
+    "1/2 oz Triple sec",
+    "1 oz Apricot brandy",
+    "2 oz Orange juice",
+    "2 oz Sour mix, bottled",
+    "1 Rose's lime juice",
+    "1 dash 151-proof rum",
+    "1 Lemon slice",
+    "Cracked ice",
+    "Ice cubes"
+  ],
+  "recipeInstructions": "Fill a mixing glass with cracked ice. Add light and dark rums, grenadine, triple sec, apricot brandy, orange juice, and sour mix. Shake well and strain into a Collins or highball glass filled with ice cubes. Top with a dash of 151-proof rum and garnish with a lemon slice.",
+  "url": null
+}

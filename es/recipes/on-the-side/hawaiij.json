@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "hawaiij",
+  "name": "Receta: Hawaíi",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "especias",
+    "guarniciones",
+    "condimentos"
+  ],
+  "recipeIngredient": [
+    "5 cucharaditas de pimienta negra molida",
+    "5 cucharadas de comino en polvo",
+    "2 cucharadas de semillas de cardamomo molidas",
+    "3 cucharaditas de cúrcuma en polvo",
+    "2 cucharaditas de semillas de cilantro molidas"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta obtener una combinación homogénea.\n2. Conservar la mezcla en un frasco cerrado herméticamente, alejado de la luz directa.",
+  "url": null
+}

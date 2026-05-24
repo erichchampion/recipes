@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "lettuce-hamburger-relish",
+  "name": "Relish de hamburguesa con lechuga",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "encimados",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "3 tazas de lechuga picada",
+    "1 taza de mayonesa",
+    "1 taza de mostaza",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar la lechuga picada, la mayonesa, la mostaza, la sal y la pimienta hasta obtener una combinación homogénea.\n2. Extender la mezcla sobre los hamburgues antes de servir.",
+  "url": null
+}

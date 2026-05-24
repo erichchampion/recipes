@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "kheema",
+  "name": "Kheema",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cerdo",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 lb de cordero, sin grasa y cortado en cubos pequeños",
+    "1 cebolla picada",
+    "1 rama de canela de 2 pulgadas",
+    "6 vainas de cardamomo",
+    "6 clavos",
+    "1 1/2 cucharadas de ajo picado",
+    "2 cucharaditas de jengibre picado",
+    "1/2 cucharadita de cúrcuma",
+    "2 tomates picados",
+    "2 cucharadas de mantequilla",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "1. Moler los clavos, la canela y el cardamomo a forma de polvo.\n2. Calentar la mantequilla en una sartén pesada y freír la cebolla hasta que esté marrón.\n3. Añadir el jengibre, el ajo, la cúrcuma y las especias. Remover y cocinar juntos durante 1 minuto.\n4. Incorporar la carne y mezclar bien. Cubrir y bajar el fuego a bajo.\n5. Cocinar durante unos 30 minutos sin añadir agua.\n6. Cuando esté hecho, añadir los tomates y la sal al gusto. Cubrir y cocinar un poco más.\n7. Servir sobre arroz.",
+  "url": null
+}

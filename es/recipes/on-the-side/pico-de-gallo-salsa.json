@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pico-de-gallo-salsa",
+  "name": "Pico de gallo salsa",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "mexicano",
+    "salsas",
+    "salsa",
+    "guarniciones",
+    "especias"
+  ],
+  "recipeIngredient": [
+    "2 tazas",
+    "6 chiles serrano o jalapeño, sin tallos ni semillas, picados finamente",
+    "1 cebolla grande, picada finamente",
+    "2 tomates medianos, picados finamente",
+    "3 dientes de ajo, picados finamente",
+    "1/4 taza de cilantro fresco, picado",
+    "1/4 taza de aceite de oliva",
+    "3 cucharadas de vinagre de vino tinto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Revolver bien hasta que todos los componentes estén distribuidos uniformemente.\n3. Dejar reposar la mezcla a temperatura ambiente antes de servir.",
+  "url": null
+}

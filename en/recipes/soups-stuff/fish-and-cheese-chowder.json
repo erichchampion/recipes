@@ -1,0 +1,17 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-and-cheese-chowder",
+  "name": "Fish and Cheese Chowder",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "fish",
+    "seafood",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 lb fish fillets, fresh or frozen"
+  ],
+  "recipeInstructions": "1. Dice the fish and set aside.\n2. Combine all ingredients in a large pot.\n3. Bring to a simmer, stirring occasionally.\n4. Cook until the chowder thickens and the fish is cooked through.\n5. Serve hot and turn off the heat.",
+  "url": null
+}

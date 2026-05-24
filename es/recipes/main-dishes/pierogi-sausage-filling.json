@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pierogi-sausage-filling",
+  "name": "Relleno de pierogi con salchicha",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "étnica",
+    "pasta",
+    "polaca"
+  ],
+  "recipeIngredient": [
+    "10 onzas de salchicha kielbasa, sin piel",
+    "1/2 taza de queso rallado",
+    "1/2 taza de setas picadas",
+    "1/4 taza de pan rallado fino y seco",
+    "1 huevo"
+  ],
+  "recipeInstructions": "1. Retira la piel de la salchicha kielbasa.\n2. Ralla el queso.\n3. Pica las setas.\n4. Combina en un bol los pan rallado, el queso rallado, las setas picadas y el huevo batido.",
+  "url": null
+}

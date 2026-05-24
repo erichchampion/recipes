@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "au-gratin-potatoes-and-ham",
+  "name": "Patatas gratinadas con jamón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "3 tazas de patatas, peladas y cortadas en rodajas",
+    "1/2 cebolla mediana, picada groseramente",
+    "3/4 taza de jamón cocido, cortado en cubos",
+    "1/2 taza de queso americano, rallado",
+    "1/2 lata de sopa de champiñones cremoso",
+    "1/4 taza de leche",
+    "Una pizca de tomillo"
+  ],
+  "recipeInstructions": "1. En una olla lenta, capa la mitad de las rodajas de patata, la cebolla picada, los cubos de jamón y el queso rallado.\n2. Repite las capas con los ingredientes restantes.\n3. En un bol pequeño, mezcla la sopa de champiñones cremoso, la leche y el tomillo.\n4. Vierte la mezcla sobre los ingredientes en capas en la olla lenta.\n5. Tapa y cocina a temperatura alta durante 1 hora.\n6. Reduce el calor a bajo y continúa cocinando entre 6 y 8 horas, o hasta que las patatas estén tiernas.",
+  "url": null
+}

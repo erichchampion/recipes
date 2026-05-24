@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-vegetable-curry",
+  "name": "Curry de Pollo y Verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "carnes",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "500 g de carne de muslo de pollo",
+    "1 gran patata cocida cortada en trozos",
+    "2 tazas de mezcla de verduras",
+    "1 cebolla grande picada",
+    "2 cucharadas de ghee o aceite vegetal",
+    "1 lata de crema de coco",
+    "1 plátano maduro cortado en rodajas",
+    "2 cucharadas de jugo de limón",
+    "Una pizca de azúcar",
+    "1 cucharada de almidón de maíz disuelta en agua",
+    "2 cubos de caldo de pollo",
+    "1 cucharada de jengibre picado",
+    "2 cucharadas de polvo de curry de buena calidad",
+    "2 cucharaditas de semillas de comino",
+    "2 cucharadas de cilantro picado"
+  ],
+  "recipeInstructions": "1. Cortar el pollo en trozos pequeños y saltear con la cebolla y el polvo de curry en aceite hasta que esté ligeramente dorado.\n2. Añadir la crema de coco, jugo de limón, almidón de maíz, cubos de caldo a la sartén. Llevar a ebullición.\n3. Cocinar a fuego lento durante 10 minutos.\n4. Blanquear las verduras crudas en agua hirviendo durante unos minutos, escurrir y agregar al curry junto con la patata, semillas de comino, jengibre y plátano.\n5. Sazonar con sal y pimienta.\n6. Servir espolvoreado con cilantro. Nota: Este no es un curry tradicional fijiano-indio, ya que los indios rara vez usan crema de coco en sus curries.",
+  "url": null
+}

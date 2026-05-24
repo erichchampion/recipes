@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "exchanges-for-special-foods-vegetarian",
+  "name": "Exchanges for Special Foods (Vegetarian)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "diabetic",
+    "hints",
+    "miscellaneous"
+  ],
+  "recipeIngredient": [
+    "Brewer's yeast - 3 tablespoons = 1 bread exchange",
+    "Carob flour - 1/8 cup = 1 bread exchange",
+    "Kefir - 1 cup = 1 milk exchange + 1 fat exchange",
+    "Miso - 3 tablespoons = 1 bread exchange + 1/2 lean meat exchange",
+    "Sea vegetables, cooked - 1/2 cup = 1 vegetable exchange",
+    "Soy flour - 1/4 cup = 1 lean meat exchange + 1/2 bread exchange",
+    "Soy grits, raw - 1/8 cup = 1 lean meat exchange",
+    "Soy milk - 1 cup = 1 milk exchange + 1 fat exchange",
+    "Tahini - 1 teaspoon = 1 fat exchange",
+    "Tempeh - 4 ounces = 1 bread exchange + 2 protein exchanges",
+    "Wheat germ - 3 tablespoons = 1/2 bread exchange"
+  ],
+  "recipeInstructions": "For vegetarians, treat legumes as 1/2 protein and 1 bread exchange rather than just a bread exchange. Consider using low-fat, high-fiber recipes to ensure balanced nutrition.",
+  "url": null
+}

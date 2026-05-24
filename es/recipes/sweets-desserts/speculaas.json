@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "speculaas",
+  "name": "Speculaas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "galletas",
+    "holandés",
+    "étnico"
+  ],
+  "recipeIngredient": [
+    "4 tazas de harina de uso común",
+    "1 taza de mantequilla",
+    "1 1/2 tazas de azúcar moreno",
+    "1 cucharadita de sal",
+    "4 cucharaditas de polvo de hornear",
+    "1 cucharadita de canela",
+    "1 pizca de clavos",
+    "1 pizca de nuez moscada",
+    "1 pizca de jengibre",
+    "1 pizca de pimienta negra",
+    "Leche"
+  ],
+  "recipeInstructions": "Los speculaas son galletas tradicionales holandesas que se hornean en la víspera de San Nicolás (5 de diciembre).\nPrecalentar el horno a 325 °F.\nMezclar todos los ingredientes excepto las almendras y la cáscara de fruta confitada en un bol hasta que estén bien combinados.\nAñadir gradualmente la leche, removiendo hasta que la mezcla forme una masa firme que se pueda extender.\nExtender la masa en hojas finas. Opcionalmente, presionar almendras blanqueadas y fruta confitada picada encima.\nCortar las hojas en rectángulos de aproximadamente 2 x 4 pulgadas.\nTransferir a una bandeja para hornear engrasada.\nHornear hasta que estén ligeramente dorados.",
+  "url": null
+}

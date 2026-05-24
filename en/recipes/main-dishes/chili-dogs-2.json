@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-dogs-2",
+  "name": "Chili Dogs",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "bean",
+    "main dish",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "6 hot dog buns",
+    "6 fat-free hot dogs, cooked",
+    "----Chili Sauce----",
+    "1/2 teaspoon olive oil",
+    "1/2 pound ground chicken breast, skinless",
+    "1/2 cup onions, chopped",
+    "1 clove garlic, minced",
+    "15.5 ounces dark red kidney beans, drained",
+    "8 ounces no-salt-added tomato sauce",
+    "2 teaspoons chili powder",
+    "----Toppings----",
+    "1/2 cup fat-free cheddar cheese, grated",
+    "1/2 cup onions, chopped"
+  ],
+  "recipeInstructions": "1. In a skillet, heat oil over medium heat.\n2. Add chicken, 1/2 cup onions, and garlic. Cook until the chicken is no longer tender and vegetables are tender.\n3. Stir in kidney beans, tomato sauce, and chili powder. Simmer for 15 minutes.\n4. Place hot dogs in buns.\n5. Top with sauce.\n6. Sprinkle cheese and remaining onions over each hot dog.",
+  "url": null
+}

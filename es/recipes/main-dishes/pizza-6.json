@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-6",
+  "name": "Pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "étnico",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 sobre de levadura para panadero",
+    "2 tazas y media de harina de uso general",
+    "1 taza de agua tibia",
+    "1/4 cucharadita de azúcar",
+    "2 cucharaditas de sal",
+    "2 cucharadas de aceite de oliva"
+  ],
+  "recipeInstructions": "1. Disolver la levadura y el azúcar en 1/4 taza de agua tibia. Tapar y dejar reposar durante 15 minutos.\n2. En un bol grande, mezclar la harina, la sal, la mezcla de levadura disuelta y el resto del agua. Amasar hasta obtener una masa suave. Volcar sobre una superficie enharinada y amasar durante unos 10 minutos hasta que sea elástica y suave.\n3. Colocar la masa en un bol engrasado, girando para cubrir todos los lados con grasa. Tapar y dejar levar en un lugar cálido hasta que doble su tamaño (aproximadamente 45 minutos).\n4. Desinflar la masa y dividirla en dos mitades. Formar cada mitad en una bola.\n5. Estirar cada bola de masa para ajustarla a dos bandejas para pizza de 30 cm.\n6. Cubrir las pizzas con los ingredientes deseados.\n7. Colocar las bandejas en la rejilla inferior del horno precalentado a 200 °F (400 °F) y hornear durante 10-15 minutos.",
+  "url": null
+}

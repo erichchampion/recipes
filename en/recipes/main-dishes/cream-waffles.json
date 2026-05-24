@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cream-waffles",
+  "name": "Cream Waffles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "waffles"
+  ],
+  "recipeIngredient": [
+    "2 cups Sour cream",
+    "2 eggs; beaten separately",
+    "2 cups Flour",
+    "1 teaspoon Baking soda",
+    "1/2 teaspoon Salt",
+    "1 tablespoon Cornmeal (optional)"
+  ],
+  "recipeInstructions": "1. Mix the beaten egg yolks with the sour cream.\n2. Sift the dry ingredients and combine them with the first mixture.\n3. Add the stiffly beaten egg whites to the mixture.\n4. Bake immediately on a hot waffle iron.",
+  "url": null
+}

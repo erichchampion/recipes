@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-cheese-burgers",
+  "name": "Hamburguesas de Chili con Queso",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgueros",
+    "queso",
+    "plato principal",
+    "carnes",
+    "especias"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de carne molida",
+    "1 cucharadita de polvo de chile",
+    "3/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "6 rebanadas de queso cheddar; (2 x 2 pulgadas)",
+    "1/4 taza de cebolla; picada finamente, 1 pequeña",
+    "1 cucharadita de salsa Worcestershire",
+    "1/4 cucharadita de sal de ajo",
+    "1/4 cucharadita de salsa de chile rojo",
+    "2 cucharadas de chiles verdes; enlatados, picados",
+    "Una pizca de pimienta cayena roja"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto las rebanadas de queso y los chiles.\n2. Formar la mezcla en 12 hamburguesas delgadas, cada una con un diámetro aproximado de 3 1/2 pulgadas.\n3. Colocar 1 rebanada de queso y 1 cucharadita de chiles sobre cada una de las 6 hamburguesas.\n4. Cubrir con las 6 hamburguesas restantes, sellando los bordes firmemente.\n5. Asar a la parrilla o a la plancha a 4 pulgadas del fuego, dando la vuelta una vez, hasta alcanzar el punto deseado de cocción, aproximadamente entre 10 y 15 minutos.",
+  "url": null
+}

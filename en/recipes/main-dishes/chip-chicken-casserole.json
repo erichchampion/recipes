@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chip-chicken-casserole",
+  "name": "Chip Chicken Casserole",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "chicken",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "3 cups cooked chicken, chopped",
+    "2 cups celery, chopped",
+    "1 cup blanched almonds",
+    "2 tablespoons onion, grated",
+    "2 tablespoons lemon juice",
+    "1/2 cup sour cream",
+    "1 can cream of chicken soup",
+    "1 cup shredded cheese",
+    "1 cup crushed potato chips"
+  ],
+  "recipeInstructions": "1. Combine the cooked chicken, celery, almonds, and onion in a bowl.\n2. In a separate bowl, blend together the lemon juice, sour cream, and cream of chicken soup until smooth.\n3. Stir the blended mixture into the chicken mixture.\n4. Sprinkle shredded cheese over the top, then add crushed potato chips.\n5. Bake at 350°F for 30 minutes.",
+  "url": null
+}

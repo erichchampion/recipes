@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-salad",
+  "name": "Simple Salad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "low-calorie",
+    "salads",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "2 Zucchini, diced",
+    "2 Yellow squash, diced",
+    "3 Green onions, diced",
+    "2 Roma tomatoes, diced",
+    "1/4 cup Sun-dried tomatoes, diced (not oil soaked)",
+    "3 tbsp Cider vinegar",
+    "1/2 tsp Oregano (I used dry; but fresh would be better)",
+    "Salt and Pepper to taste."
+  ],
+  "recipeInstructions": "1. Dice the zucchini and yellow squash.\n2. Dice the green onions, Roma tomatoes, and sun-dried tomatoes.\n3. In a large bowl, combine all the diced ingredients.\n4. Add 3 tablespoons of cider vinegar, 1/2 teaspoon of oregano, salt, and pepper to taste.\n5. Mix everything together until well combined.\n6. This salad is meant to be eaten plain, but you can also serve it over pasta or rice if desired.",
+  "url": null
+}

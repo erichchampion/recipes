@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "good-cookies",
+  "name": "Buenás galletas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres",
+    "huevos"
+  ],
+  "recipeIngredient": [
+    "1 taza de Bisquick",
+    "1 huevo",
+    "1 sobre de pudín instantáneo de limón",
+    "110 ml de aceite"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta que queden bien combinados.\n2. Tomar pequeñas porciones de masa y aplanarlas con un vaso.\n3. Hornear a 180 °C (356 °F) durante 10 minutos, o hasta que estén ligeramente doradas.\nDificultad: muy fácil\nPrecisión: medir los ingredientes con exactitud.",
+  "url": null
+}

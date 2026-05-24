@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "parkin",
+  "name": "Parkin",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "británico",
+    "pasteles",
+    "étnico"
+  ],
+  "recipeIngredient": [
+    "500 gramos de avena fina",
+    "2 cucharaditas de polvo de hornear",
+    "120 gramos de manteca",
+    "2 cucharaditas de jengibre molido",
+    "1 cucharadita de especias mixtas",
+    "250 gramos de jarabe dorado"
+  ],
+  "recipeInstructions": "1. Mezcla la manteca con la avena y añade las especias y el polvo de hornear.\n2. Calienta el jarabe y mézclalo con la avena hasta obtener una masa espesa.\n3. Engrasa un molde plano para hornear, vierte la masa de parkin.\n4. Hornea durante 1 a 1 hora y 15 minutos a 300°F (gas mark 2).",
+  "url": null
+}

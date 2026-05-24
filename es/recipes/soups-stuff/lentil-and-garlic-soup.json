@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "lentil-and-garlic-soup",
+  "name": "Sopa de lentejas y ajo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "7 tazas de caldo de pollo",
+    "2 tazas de lentejas secas",
+    "2 tomates, pelados y cortados en cuartos",
+    "4 dientes de ajo, picados grosseramente",
+    "2 cebollas, cortadas en cuartos",
+    "2 cucharaditas de comino en polvo"
+  ],
+  "recipeInstructions": "1. En una olla grande, llevar el caldo a ebullición.\n2. Agregar las lentejas, tomates, ajo y cebollas.\n3. Cubrir parcialmente la olla y cocinar a fuego lento durante 45 minutos o hasta que las lentejas estén tiernas.\n4. Transferir la sopa a una licuadora y mezclar hasta obtener una consistencia suave.\n5. Devolver la sopa licuada a la olla.\n6. Sazonar con comino, sal y pimienta al gusto.",
+  "url": null
+}

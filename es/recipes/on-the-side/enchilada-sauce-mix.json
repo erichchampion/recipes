@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "enchilada-sauce-mix",
+  "name": "Mezcla para salsa de enchiladas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "platos secundarios",
+    "especias",
+    "mezclas de especias"
+  ],
+  "recipeIngredient": [
+    "1 cucharadita de sal",
+    "1 cucharadita de polvo de chile",
+    "1/2 cucharadita de azúcar",
+    "1/2 cucharadita de comino molido",
+    "1/4 cucharadita de orégano",
+    "2 cucharaditas de cebolla picada finamente",
+    "1 cucharadita de chile seco en polvo",
+    "1 cucharadita de maicena",
+    "1/2 cucharadita de ajo picado",
+    "1 cucharadita de pimentón"
+  ],
+  "recipeInstructions": "Mezclar todos los ingredientes hasta combinarlos bien.\nUtilizar la cantidad deseada al preparar las enchiladas.",
+  "url": null
+}

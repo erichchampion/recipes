@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-shakes",
+  "name": "Batidos de frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "frutas",
+    "niños",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 plátano mediano",
+    "1/2 taza de fresas cortadas por la mitad",
+    "1/2 taza de piña o mango cortado en trozos",
+    "3/4 taza de zumo de naranja",
+    "1 taza de hielo"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en una licuadora.\n2. Tritura hasta obtener una textura muy suave y espesa.",
+  "url": null
+}

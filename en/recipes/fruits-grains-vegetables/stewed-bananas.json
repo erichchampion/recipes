@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "stewed-bananas",
+  "name": "Stewed Bananas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "bananas",
+    "fruits"
+  ],
+  "recipeIngredient": [
+    "4 bananas",
+    "1 1/2 oz butter",
+    "sugar",
+    "cinnamon"
+  ],
+  "recipeInstructions": "1. Peel the bananas and cut them in half lengthwise.\n2. Heat a pan over medium heat and add the butter.\n3. Add the banana pieces to the pan and cook until they are golden brown.\n4. Sprinkle with sugar and cinnamon, then serve warm.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "lentils-mexican-style",
+  "name": "Lentejas al estilo mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frijoles",
+    "plato principal",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 taza de lentejas, sin cocinar",
+    "2 tazas de agua",
+    "1 taza de salsa de tomate",
+    "1 cebolla, picada",
+    "1 taza de maíz enlatado, escurrido",
+    "Sal, pimienta y especias al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar las lentejas en agua durante 30 minutos.\n2. Escurrir el exceso de líquido.\n3. Mezclar todos los ingredientes.\n4. Reducir a fuego lento durante 30 minutos o hasta que las lentejas estén tiernas.\n5. Servir sobre pasta o arroz.",
+  "url": null
+}

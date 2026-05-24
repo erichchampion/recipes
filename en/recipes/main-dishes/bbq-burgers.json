@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "bbq-burgers",
+  "name": "BBQ Burgers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "main dish",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Walnuts",
+    "3/4 cup Cooked rice",
+    "1/2 onion, chopped",
+    "2 tbsp Oil",
+    "1 tbsp Vegetarian \"bacon\" bits",
+    "1/2 tbsp Barbecue sauce",
+    "Salt, pepper to taste",
+    "Dash garlic powder",
+    "Flour"
+  ],
+  "recipeInstructions": "1. Process walnuts in a food processor and transfer to a bowl.\n2. Process cooked rice and add it to the bowl with the walnuts.\n3. Saute onion in oil until tender, then add it along with the rest of the ingredients (vegetarian \"bacon\" bits, barbecue sauce, salt, pepper, garlic powder) except flour.\n4. Mix in enough flour to form patties.\n5. Refrigerate for one hour.\n6. Fry the patties in a little oil for several minutes, turning occasionally.\n7. Serve on buns with barbecue sauce and pickles.",
+  "url": null
+}

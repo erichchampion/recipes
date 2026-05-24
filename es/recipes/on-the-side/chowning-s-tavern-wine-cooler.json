@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chowning-s-tavern-wine-cooler",
+  "name": "Enfriador de vino de Chowning's Tavern",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 ración",
+    "3/4 taza de limonada",
+    "1/4 taza de vino tinto seco",
+    "Un ramito de menta",
+    "Una cereza al marasquino"
+  ],
+  "recipeInstructions": "1. Verter la limonada sobre hielo triturado.\n2. Añadir lentamente el vino tinto seco a la mezcla.\n3. Decorar con un ramito de menta y una cereza al marasquino.\n4. Servir inmediatamente para disfrutar de una bebida refrescante en días calurosos.",
+  "url": null
+}

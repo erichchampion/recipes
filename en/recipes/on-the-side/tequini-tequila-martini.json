@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "tequini-tequila-martini",
+  "name": "Tequini (Tequila Martini)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz Tequila",
+    "1/2 oz Dry vermouth",
+    "1 dash Bitters",
+    "1 small Chili pepper"
+  ],
+  "recipeInstructions": "1. Fill a mixing glass with ice.\n2. Pour in tequila and dry vermouth.\n3. Stir the mixture until well combined, or alternatively, shake it briefly.\n4. Strain into a chilled martini glass.\n5. Add a dash of bitters to taste.\n6. Garnish with a small chili pepper if desired.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "anne-s-drink",
+  "name": "Bebida de Anne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos/salchicha",
+    "bebidas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "3 fresas grandes y frescas (3 a 4)",
+    "1/2 taza de yogur natural",
+    "2 cucharadas de miel (2 a 3)",
+    "Una pizca de canela",
+    "3 cubos de hielo",
+    "2 cucharadas de agua"
+  ],
+  "recipeInstructions": "1. Triturar todos los ingredientes en una licuadora.\n2. Consumir la mezcla.\nPuedes sustituir tu fruta favorita (o combinación de frutas) por las fresas.\nTambién puedes rallar un poco de nuez moscada en la mezcla si lo deseas.",
+  "url": null
+}

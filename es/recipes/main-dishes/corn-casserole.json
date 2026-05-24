@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "corn-casserole",
+  "name": "Cazuela de Maíz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 tazas de queso cheddar rallado",
+    "2 latas de chiles verdes picados",
+    "1 cucharadita de polvo de hornear",
+    "1 diente de ajo picado",
+    "1/4 taza de aceite",
+    "2 latas de maíz estilo crema",
+    "3/4 taza de maicena",
+    "1/2 cebolla picada",
+    "3/4 taza de leche",
+    "3 huevos batidos"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar el queso cheddar rallado, los chiles verdes picados, el polvo de hornear, el ajo picado, el aceite, el maíz estilo crema, la maicena y la cebolla picada.\n2. Incorporar la leche y los huevos batidos hasta obtener una mezcla homogénea.\n3. Verter la mezcla en un molde para hornear engrasado.\n4. Hornear a 180 °C durante 40-45 minutos, o hasta que la cassola esté cuajada y ligeramente dorada en la parte superior.",
+  "url": null
+}

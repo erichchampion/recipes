@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "monkey-tails",
+  "name": "Cola de mono",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "chocolate",
+    "postres",
+    "niños",
+    "varios"
+  ],
+  "recipeIngredient": [
+    "3 plátanos grandes",
+    "2 cucharadas de jugo de naranja",
+    "6 onzas de chispas de chocolate",
+    "1 cucharada de Crisco",
+    "6 palitos para helados"
+  ],
+  "recipeInstructions": "1. Triturar los plátanos hasta obtener una mezcla suave.\n2. Añadir el jugo de naranja y triturar nuevamente.\n3. Incorporar las chispas de chocolate y el Crisco, mezclando bien.\n4. Verter la mezcla en moldes para helados.\n5. Congelar hasta que esté sólido.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cran-orange-punch",
+  "name": "Ponche de Arándano y Naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "diabético",
+    "ponche",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de jugo de arándanos",
+    "6 onzas de jugo de naranja sin azúcar",
+    "2 tazas de limonada dietética descongelada",
+    "1/4 taza de sustituto de azúcar (al gusto)"
+  ],
+  "recipeInstructions": "1. Mezclar el jugo de arándanos, el jugo de naranja y el sustituto de azúcar en un bol grande.\n2. Revolver bien hasta que todos los ingredientes estén completamente integrados.\n3. Refrigerar la mezcla durante al menos 30 minutos para permitir que se mezclen los sabores.\n4. Justo antes de servir, agregar la limonada dietética a la mezcla de jugo de frutas.\n5. Servir sobre hielo triturado.",
+  "url": null
+}

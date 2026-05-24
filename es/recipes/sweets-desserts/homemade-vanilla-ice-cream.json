@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "homemade-vanilla-ice-cream",
+  "name": "Helado de vainilla casero",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 litros de nata para montar (half and half)",
+    "1/2 litro de crema de batir (whipping cream)",
+    "1 1/2 tazas de azúcar",
+    "4 cucharaditas de extracto de vainilla",
+    "Un pellizco de sal"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande hasta que el azúcar se disuelva.\n2. Verter la mezcla en una máquina de helados y batir según las instrucciones del fabricante.\n3. Transferir el helado a un recipiente apto para congelador.\n4. Dejar solidificar completamente antes de servir.",
+  "url": null
+}

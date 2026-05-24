@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "texas-whoppers",
+  "name": "Texas Whoppers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "4 Frank (salchichas)",
+    "1/2 taza de frijoles rojos, escurridos",
+    "1 cebolla pequeña",
+    "2 cucharadas de pimiento verde",
+    "1 cucharadita de salsa picante",
+    "2 cucharadas de pepinillos dulces",
+    "1/4 taza de crema agria",
+    "1/4 taza de queso cheddar rallado",
+    "4 panecillos grandes, cortados por la mitad"
+  ],
+  "recipeInstructions": "1. Cortar las salchichas en trozos pequeños.\n2. Mezclar en un bol los frijoles rojos, la cebolla, el pimiento verde y los pepinillos.\n3. Incorporar la crema agria y la salsa picante hasta obtener una mezcla homogénea.\n4. Refrigerar la mezcla durante unos 30 minutos.\n5. Extender la mezcla sobre la mitad inferior de un panecillo.\n6. Espolvorear queso cheddar rallado sobre el relleno.\n7. Cubrir con la otra mitad del panecillo para formar un sándwich.\n8. Servir con pepinillos en vinagre.",
+  "url": null
+}

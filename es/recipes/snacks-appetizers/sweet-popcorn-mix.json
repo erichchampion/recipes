@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-popcorn-mix",
+  "name": "Mezcla de palomitas dulces",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "6 tazas de palomitas de maíz infladas",
+    "2 tazas de cereal con copos de chocolate",
+    "2 cucharadas de margarina derretida",
+    "1 cucharada de azúcar",
+    "1/4 cucharadita de canela"
+  ],
+  "recipeInstructions": "1. Mezclar las palomitas de maíz y el cereal en un bol grande.\n2. Verter la margarina derretida sobre la mezcla; remover para cubrirlas uniformemente.\n3. Combinar el azúcar y la canela.\n4. Espolvorear la mezcla de palomitas y remover para cubrirlas con la especia.",
+  "url": null
+}

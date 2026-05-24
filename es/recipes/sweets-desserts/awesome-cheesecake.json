@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "awesome-cheesecake",
+  "name": "Cheesecake impresionante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pastel",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "16 oz de queso crema",
+    "1 litro (500 ml) de crema agria",
+    "5 huevos",
+    "1 taza de azúcar",
+    "3 cucharadas de zumo de limón",
+    "1 cucharadita de extracto de vainilla (o almendra)"
+  ],
+  "recipeInstructions": "1. Batir el queso crema hasta que quede suave.\n2. Añadir gradualmente la crema agria, luego los huevos, uno a la vez, mezclando bien después de cada adición.\n3. Incorporar el azúcar, el zumo de limón y el extracto de vainilla hasta que esté combinado.\n4. Verter la masa en un molde para pastel con base de galletas Graham preparado.\n5. Hornear a 180°F (325°F) durante 1 hora.\n6. Apagar el horno; no abrir la puerta durante otra hora.\n7. Si se utiliza un horno con función de limpieza automática, abrir ligeramente la puerta y mantenerla abierta durante la hora restante.\n8. Retirar del horno y dejar enfriar completamente en el refrigerador durante unas 8 horas antes de servir.\n9. Cubrir con fruta fresca como relleno de cerezas o fresas, luego añadir crema batida.",
+  "url": null
+}

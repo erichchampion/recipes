@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pancakes-10",
+  "name": "Pancakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breads",
+    "breakfast",
+    "main dish",
+    "pancakes"
+  ],
+  "recipeIngredient": [
+    "3 cups Flour",
+    "1 Egg",
+    "1 tablespoon Sugar",
+    "4 teaspoons Baking powder",
+    "1 teaspoon Salt"
+  ],
+  "recipeInstructions": "1. Sift the dry ingredients together twice.\n2. Mix with a wooden spoon until combined.\n3. Add the egg, shortening, and milk to make a smooth batter.\n4. Makes light, thick pancakes.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "grilled-pork-tenderloin",
+  "name": "Lomo de cerdo a la parrilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb lomo de cerdo, sin grasa ni tendones",
+    "1/4 taza de vino blanco seco",
+    "1/4 taza de aceite de oliva",
+    "2 cucharadas de jugo de limón",
+    "1 1/2 cucharaditas de miel",
+    "1/2 cucharadita de tomillo",
+    "Pimienta negra molida al gusto"
+  ],
+  "recipeInstructions": "1. Precalentar la parrilla.\n2. Cortar el lomo de cerdo en medallones de 1 pulgada cruzadamente. Darles la vuelta y aplastar hasta que tengan 0,5 cm de grosor con el lado plano de un cuchillo o un rodillo.\n3. En un bol mediano, batir juntos el vino blanco, el aceite de oliva, el jugo de limón, la miel, el tomillo y la pimienta. Cubrir los medallones de cerdo con la marinada. Darles la vuelta y marinar a temperatura ambiente durante 15 minutos, o hasta dos horas en el refrigerador.\n4. Cuando las brasas estén listas, colocar los medallones, con el lado inferior hacia abajo, sobre la parrilla. Cocinar a fuego medio aproximadamente 3 minutos, o hasta que los jugos suban a la superficie. Darles la vuelta y cocinar del otro lado entre 3 y 4 minutos, o hasta que ya no sea rosado. Servir de inmediato.",
+  "url": null
+}

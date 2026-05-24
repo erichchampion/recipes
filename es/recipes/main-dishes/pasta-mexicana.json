@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-mexicana",
+  "name": "Pasta Mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "tex-mex",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de espagueti verde fino",
+    "1 1/2 tazas de tomates en cubos",
+    "1 taza de pepino en palitos",
+    "1 aguacate mediano, pelado, sin semillas y cortado en rodajas finas en sentido transversal",
+    "1 taza de salsa",
+    "1 cucharada de aceite de oliva extra virgen",
+    "1/2 cucharadita de orégano seco",
+    "1/4 cucharadita de comino molido",
+    "1/4 cucharadita de polvo de chile",
+    "Cayena al gusto",
+    "1/4 taza de cilantro picado"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta según las instrucciones del paquete. Enjuagar bajo agua fría y colocar en un bol poco profundo y grande.\n2. Agregar los tomates, el pepino y el aguacate al bol con la pasta.\n3. Mezclar la salsa, el aceite de oliva, el orégano, el polvo de chile y la cayena al gusto. Verter sobre la pasta y mezclar bien para distribuir uniformemente las verduras.",
+  "url": null
+}

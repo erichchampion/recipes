@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-skillet-gumbo",
+  "name": "Ham Skillet Gumbo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "american",
+    "cajun",
+    "creole",
+    "ethnic",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 cup Dice cooked ham",
+    "1 cup Chopped green bell pepper",
+    "1 cup Chopped onions",
+    "1 package Cut okra (10 oz)",
+    "1 can Tomatoes (15 oz)",
+    "1 cup Chicken broth",
+    "1 cup Water",
+    "1 teaspoon Salt",
+    "1/4 teaspoon Black or cayenne pepper",
+    "1 cup Uncooked rice"
+  ],
+  "recipeInstructions": "1. Combine all ingredients except rice in a large, heavy skillet; bring to a boil.\n2. Cover and simmer for 10 minutes.\n3. Stir in rice and simmer, covered, for 20 minutes longer, or until rice is tender.",
+  "url": null
+}

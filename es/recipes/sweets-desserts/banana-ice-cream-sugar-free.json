@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-ice-cream-sugar-free",
+  "name": "Helado de Plátano sin Azúcar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "diabético",
+    "frutas",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "1 plátano mediano",
+    "1 taza de leche desnatada del 1%",
+    "7 sobrecargas de Equal",
+    "2 cucharadas de sustituto de huevo"
+  ],
+  "recipeInstructions": "1. Pelar y cortar el plátano en rodajas.\n2. Colocar todos los ingredientes en una licuadora.\n3. Mezclar hasta obtener una consistencia suave.\n4. Verter en un recipiente y congelar según las instrucciones del fabricante.",
+  "url": null
+}

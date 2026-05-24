@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "meat-loaf-with-chili-sauce",
+  "name": "Pastel de carne con salsa chili",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chili",
+    "plato principal",
+    "carne",
+    "carnes",
+    "ciervo"
+  ],
+  "recipeIngredient": [
+    "4 rebanadas de pan fresco",
+    "1/2 taza de agua",
+    "2 libras de carne molida de alce o ciervo",
+    "1 cebolla mediana",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "2 huevos",
+    "1 taza de salsa picante"
+  ],
+  "recipeInstructions": "1. Remojar el pan en agua hasta que se ablande.\n2. Mezclar los ingredientes restantes con el pan remojado y combinar bien.\n3. Presionar la mezcla en un molde para hornear.\n4. Cubrir con salsa picante.\n5. Hornear a 175 °C durante 45 minutos.",
+  "url": null
+}

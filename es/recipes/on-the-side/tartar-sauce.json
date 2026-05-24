@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tartar-sauce",
+  "name": "Salsa tártara",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "2 huevos",
+    "1 cucharada de caparras, picadas finamente",
+    "1/2 cucharada de pepinillos, picados finamente",
+    "1 cucharada de perejil, picado finamente",
+    "1 cucharadita de mostaza",
+    "1 cucharadita de jugo de limón",
+    "1 cucharada de mayonesa",
+    "Pimienta blanca molida al gusto"
+  ],
+  "recipeInstructions": "1. Machaca las yemas de los huevos cocidos.\n2. Mezcla el resto de los ingredientes. Ajusta la sazón según sea necesario.\n3. Asegúrate de que la salsa tenga una consistencia firme antes de servir.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-soup",
+  "name": "Hamburger Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "hamburger soups beef",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Lean Ground Beef",
+    "1 medium Onion, Chopped",
+    "1 cup Carrots, Sliced",
+    "1 cup Celery, Sliced",
+    "1 cup Cabbage, Sliced",
+    "6 oz Tomato Paste (or 1 cup)",
+    "2 tablespoons Worcestershire Sauce",
+    "3 cups Beef Bouillon (or Stock)"
+  ],
+  "recipeInstructions": "1. Brown the hamburger in a skillet and drain thoroughly.\n2. Add chopped onion, sliced carrots, celery, and cabbage to the skillet.\n3. Stir together tomato paste, Worcestershire sauce, and beef bouillon or stock.\n4. Transfer the mixture to a crock pot, adding the browned hamburger.\n5. Cover and cook on low for 8-10 hours, or high for 3-4 hours.",
+  "url": null
+}

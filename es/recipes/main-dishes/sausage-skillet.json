@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "sausage-skillet",
+  "name": "Sartén de salchicha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "embutidos"
+  ],
+  "recipeIngredient": [
+    "4 papas rojas, cortadas en cubos de 1/2 pulgada",
+    "1 cebolla, picada",
+    "1 pimiento rojo, cortado en tiras",
+    "4 salchichas estilo italiano, cortadas en cubos de 1/4 de pulgada"
+  ],
+  "recipeInstructions": "1. En una sartén, cubre las papas y las salchichas con agua. Lleva a ebullición, luego reduce el fuego y cocina a fuego lento, cubierto, hasta que las salchichas estén completamente cocidas, aproximadamente 20 minutos.\n2. Escurre el agua. Agrega los vegetales a la sartén con las papas y las salchichas.\n3. Cocina a fuego lento durante 10 minutos, removiendo ocasionalmente.\n4. Sirve inmediatamente.",
+  "url": null
+}

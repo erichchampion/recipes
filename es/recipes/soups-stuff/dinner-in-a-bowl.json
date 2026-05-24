@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "dinner-in-a-bowl",
+  "name": "Cena en un bol",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "plato principal",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "4 morcillas de jamón",
+    "1/2 lb (250 g) de salchicha italiana dulce",
+    "1/2 lb (250 g) de salchicha alemana",
+    "Agua",
+    "4 papas medianas - cortadas en cuartos",
+    "4 zanahorias medianas - en trozos grandes",
+    "1 pequeña col - cortada en cuartos",
+    "1 cebolla grande, en rodajas",
+    "2 cucharaditas de perejil seco",
+    "2 hojas de laurel",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de tomillo seco",
+    "Pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Coloca las morcillas y las salchichas en una olla grande y cubre con agua.\n2. Hierve a fuego lento durante 1 hora.\n3. Retira las morcillas, desecha los huesos y corta la carne en trozos pequeños.\n4. Añade el resto de los ingredientes a la olla y cocina a fuego lento hasta que las verduras estén tiernas.\n5. Retira las hojas de laurel antes de servir el guiso en cuencos de sopa.",
+  "url": null
+}

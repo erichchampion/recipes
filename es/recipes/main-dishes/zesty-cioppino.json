@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "zesty-cioppino",
+  "name": "Cioppino Picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla",
+    "2 cebollas medianas, picadas",
+    "1 diente de ajo, picado finamente",
+    "1/2 taza de perejil fresco picado",
+    "2 latas de tomates enteros (400 g)",
+    "2 latas de caldo de pollo (235 ml)",
+    "1 cucharadita de orégano seco",
+    "1 cucharadita de albahaca seca",
+    "1 hoja de laurel",
+    "Sal y pimienta al gusto",
+    "2 tazas de vino blanco seco",
+    "1 1/2 libras de camarones grandes, pelados y desvenados",
+    "2 cangrejos Dungeness cocidos, limpios y partidos en trozos",
+    "1 1/2 libras de escamadas o trozos de bacalao o merluza sin hueso"
+  ],
+  "recipeInstructions": "1. Derretir la mantequilla en una olla grande.\n2. Añadir las cebollas, el ajo y el perejil. Saltear hasta que las cebollas estén suaves.\n3. Incorporar los tomates con su jugo, el caldo de pollo, el orégano, la albahaca, la hoja de laurel, la sal, la pimienta y el vino.\n4. Tapar y dejar cocinar a fuego lento durante 25-30 minutos.\n5. Agregar los camarones, el cangrejo y las escamadas al estofado hirviendo.\n6. Devolver a ebullición, tapar y dejar cocinar a fuego lento durante 5-7 minutos o hasta que las escamadas estén opacas.\n7. Servir el Cioppino caliente directamente desde la olla en grandes cuencos de sopa. Sirve para 8-10 personas.",
+  "url": null
+}

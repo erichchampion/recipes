@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-tacos",
+  "name": "Tacos de pescado",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "bajo en calorías",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de leche desnatada",
+    "3/4 taza de migas de pan con ajo y hierbas",
+    "8 onzas de filetes de pescado firme (red snapper, bacalao, etc.)",
+    "Espray vegetal antiadherente",
+    "8 tortillas de maíz",
+    "1 taza de col rallada",
+    "1 tomate en rodajas"
+  ],
+  "recipeInstructions": "1. Vierta la leche en un plato poco profundo y las migas de pan en otro.\n2. Recubra cada filete de pescado primero con leche y luego con migas de pan, asegurándose de que queden completamente cubiertos por todos lados.\n3. Coloque los filetes recubiertos en una bandeja para hornear engrasada con espray vegetal.\n4. Hornee a 175 °C durante 10 minutos o hasta que el pescado esté cocido.\n5. Caliente las tortillas de maíz en el horno y colóquelas sobre cada tortilla con un filete de pescado, rodajas de col y tomate.\n6. Sirva con salsa tártara, salsa picante y cilantro fresco si lo desea.\nRinde: 8 tacos",
+  "url": null
+}

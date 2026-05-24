@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pumpkin-burgers",
+  "name": "Hamburguesas de Calabaza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgueros",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb carne molida",
+    "1 cebolla mediana, picada",
+    "360 g tarro de salsa chili",
+    "1/2 taza puré de calabaza cocida",
+    "1 cucharadita sal",
+    "1 cucharadita pimienta negra",
+    "1 cucharadita especias para pastel de calabaza",
+    "1 lata de sopa de tomate condensada"
+  ],
+  "recipeInstructions": "1. Mezcla la carne molida con la cebolla en un bol y dórala ligeramente, desmenuzándola con un tenedor.\n2. Añade los ingredientes restantes al bol.\n3. Tapa y deja cocinar a fuego lento durante unos 20 minutos.\n4. Descubre y continúa cocinando a fuego lento durante 15 minutos adicionales hasta que la mezcla espese.\n5. Sirve sobre panecillos.",
+  "url": null
+}

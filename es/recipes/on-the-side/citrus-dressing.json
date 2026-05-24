@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "citrus-dressing",
+  "name": "Aderezo de cítricos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "ensaladas",
+    "salsas",
+    "guarniciones",
+    "vegano"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de zumo de naranja",
+    "6 cucharadas de mostaza",
+    "1 taza de aceite de oliva",
+    "Sal y pimienta al gusto",
+    "Lechuga mixta"
+  ],
+  "recipeInstructions": "1. Verter el zumo de naranja, la mostaza y el aceite de oliva en una licuadora.\n2. Mezclar hasta obtener una consistencia suave.\n3. Añadir sal y pimienta, y mezclar nuevamente para combinar bien.\n4. Servir sobre lechuga mixta fresca.",
+  "url": null
+}

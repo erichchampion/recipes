@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "ritz-apple-pie",
+  "name": "Ritz Apple Pie)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "20 Ritz Crackers",
+    "2 cups Water",
+    "1 1/4 cup Sugar",
+    "2 tsp Cream of Tartar",
+    "1 tsp Cinnamon",
+    "1/4 tsp Nutmeg",
+    "2 tsp Butter"
+  ],
+  "recipeInstructions": "1. Combine water, sugar, cream of tartar in a saucepan and bring to a boil.\n2. Drop in crackers whole and continue boiling until transparent, about 8-10 minutes.\n3. Pour into an unbaked pie shell and sprinkle with cinnamon and nutmeg.\n4. Dot with butter.\n5. Cover with top crust.\n6. Cut slits in the crust to let steam out.\n7. Bake at 425°F for 30-40 minutes.",
+  "url": null
+}

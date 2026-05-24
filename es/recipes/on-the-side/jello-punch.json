@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "jello-punch",
+  "name": "Punch de gelatina",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "batido",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "9 tazas de azúcar",
+    "9 tazas de agua",
+    "6 sobrecitas de gelatina Jell-O",
+    "6 tazas de agua hirviendo",
+    "6 tazas de agua fría",
+    "3 latas (48 onzas) de jugo de piña",
+    "3 botellas (24 onzas cada una) de jugo de limón",
+    "1.5 oz de extracto de almendras",
+    "3 botellas (32 onzas cada una) de gaseosa de jengibre"
+  ],
+  "recipeInstructions": "1. Mezclar el azúcar y el agua en un bol grande hasta que el azúcar se disuelva por completo.\n2. En otro bol grande, disolver la gelatina en 6 tazas de agua hirviendo, luego agregar 6 tazas de agua fría.\n3. Incorporar la mezcla al solución de azúcar y agua.\n4. Añadir el jugo de piña, el jugo de limón y el extracto de almendras a la mezcla.\n5. Antes de servir, verter lentamente la gaseosa de jengibre y mezclar bien.",
+  "url": null
+}

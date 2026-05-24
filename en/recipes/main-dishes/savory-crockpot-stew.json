@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "savory-crockpot-stew",
+  "name": "Savory Crockpot Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "2 pounds beef stew meat, cut into pieces",
+    "1/4 cup flour",
+    "1 teaspoon paprika",
+    "1/2 teaspoon black pepper",
+    "1 bay leaf",
+    "1 clove garlic",
+    "3 potatoes, diced",
+    "1 stalk celery, sliced",
+    "2 onions, chopped",
+    "1 teaspoon soy sauce",
+    "12 ounces beef stock"
+  ],
+  "recipeInstructions": "1. In a slow cooker, stir together the flour, paprika, and black pepper to coat the meat.\n2. Add the remaining ingredients and mix well.\n3. Cover and cook on high heat for 4 to 6 hours, or on medium heat for 6 to 8 hours, or on low heat for 10 to 12 hours.\n4. Remove the garlic clove and bay leaf before serving.",
+  "url": null
+}

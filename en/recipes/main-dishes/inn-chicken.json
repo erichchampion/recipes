@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "inn-chicken",
+  "name": "Inn Chicken",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "4 Chicken breasts, skinless,",
+    "boned",
+    "2 cloves Garlic, minced",
+    "1 cup Sour cream",
+    "2 tablespoons Lemon juice",
+    "1/2 teaspoon Paprika",
+    "1 tablespoon Tabasco sauce",
+    "1 cup Breadcrumbs",
+    "1/2 cup Butter"
+  ],
+  "recipeInstructions": "1. Melt butter in a baking dish.\n2. Combine garlic, sour cream, lemon juice, paprika, and tabasco in a bowl.\n3. Place chicken breasts in the mixture and marinate overnight in the refrigerator.\n4. Roll each chicken breast in breadcrumbs.\n5. Place the breaded chicken in the prepared baking dish.\n6. Drizzle with melted butter.\n7. Bake at 350°F for 1 hour.",
+  "url": null
+}

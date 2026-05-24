@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "turkey-hash",
+  "name": "Hash de pavo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "queso",
+    "diabético",
+    "bajo en calorías",
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "pavo"
+  ],
+  "recipeIngredient": [
+    "1/4 taza cebolla picada",
+    "1 1/2 tazas papas cocidas y cortadas en cubos",
+    "2 cucharaditas margarina baja en calorías",
+    "2/3 taza guisantes verdes cocidos",
+    "1 taza pavo cocido sin piel cortado en cubos",
+    "1/4 taza queso americano bajo en grasa rallado",
+    "1/3 taza pimentón"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla en la margarina hasta que esté tierna.\n2. Agregar el pavo, sopa, papas y guisantes a la sartén.\n3. Transferir la mezcla a un recipiente para hornear antiadherente de 1 litro.\n4. Cubrir con queso rallado y pimentón.\n5. Hornear a 175 °C durante 30 minutos.",
+  "url": null
+}

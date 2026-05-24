@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-fazool",
+  "name": "Pasta Fazol",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de frijoles rojos",
+    "6 tazas de agua",
+    "2 cucharadas de aceite de oliva",
+    "1 taza de cebolla picada",
+    "1/2 taza de apio picado",
+    "3/4 taza de zanahorias picadas",
+    "1 lata de tomates triturados (1 taza)",
+    "Sal y pimienta al gusto",
+    "2 tazas de pasta cocida"
+  ],
+  "recipeInstructions": "1. Escurrir y cocinar los frijoles rojos en agua hasta que estén tiernos.\n2. En una olla grande, agregar los frijoles cocidos y el líquido restante, luego añadir el aceite de oliva, la cebolla, el apio, las zanahorias, los tomates triturados y las especias.\n3. Llevar la mezcla a ebullición, reducir el fuego y dejar hervir a fuego lento durante 45 minutos o hasta que las verduras estén tiernas.\n4. Incorporar la pasta cocida y servir.",
+  "url": null
+}

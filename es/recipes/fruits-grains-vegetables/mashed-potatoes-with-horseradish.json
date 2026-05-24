@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mashed-potatoes-with-horseradish",
+  "name": "Patatas asadas con rábano picante",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "alemán",
+    "patatas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "5 patatas medianas",
+    "1 taza de agua hirviendo",
+    "1/2 cucharadita de sal",
+    "2 cucharadas de mantequilla",
+    "1 pizca de pimienta negra molida",
+    "1/2 taza de crema agria",
+    "2 cucharaditas de rábano picante",
+    "2 cucharaditas de perejil fresco picado"
+  ],
+  "recipeInstructions": "1. Pelar y cortar las patatas en cuartos.\n2. Cocinar en agua hirviendo con sal en una sartén mediana hasta que estén tiernas, luego escurrir.\n3. Machacar las patatas, añadiendo 1 cucharada de mantequilla y la pimienta.\n4. Incorporar la crema agria, el rábano picante y el perejil picado. Batir hasta obtener una consistencia suave.\n5. Servir en un bol, espolvorear con 1 cucharada de mantequilla derretida y servir.",
+  "url": null
+}

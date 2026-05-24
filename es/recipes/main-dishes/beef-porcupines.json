@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-porcupines",
+  "name": "Porcupines de ternera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 libra de hamburguesa",
+    "1/2 taza de arroz cocido",
+    "1 cebolla picada",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1 huevo",
+    "8 onzas de salsa marinara",
+    "1/8 taza de aceite de ensalada",
+    "8 onzas de caldo de carne",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. Mezclar la mitad de la salsa marinara con todos los ingredientes, excepto el caldo, el aceite y el agua. Formar albóndigas.\n2. Freír las albóndigas en aceite hasta que estén ligeramente doradas.\n3. Añadir el resto de la salsa marinara, el caldo y el agua. Cocinar a fuego lento durante 40 minutos, con la sartén tapada. Alternativamente, hornear a 180 °C durante 40 minutos.",
+  "url": null
+}

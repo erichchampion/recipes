@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "light-rye-bread",
+  "name": "Light Rye Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread",
+    "breads",
+    "low-calorie",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 lb Loaf (8-10 servings)",
+    "3/4 cup Water",
+    "1 1/2 tbsp Honey",
+    "3/4 tsp Salt",
+    "3/4 cup Whole wheat flour",
+    "3/4 cup Unbleached flour",
+    "1/2 cup Rye flour",
+    "2 tbsp Gluten flour",
+    "2 tsp Cornmeal",
+    "1 tsp Caraway seeds",
+    "1 1/2 ts Active dry yeast"
+  ],
+  "recipeInstructions": "1. Place all ingredients in the bread pan in the order listed.\n2. If your machine's manual recommends dry ingredients first, reverse the order.\n3. Select Basic Wheat Cycle and Light setting (or equivalent) on your machine.\n4. Press Start.\nNote: Bread flour can be used instead of unbleached flour.\nMost recipes in this book call for some amount of canola oil, which can be omitted.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-potato-pie",
+  "name": "Sweet Potato Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1 large sweet potato",
+    "4 tablespoons butter",
+    "1/2 cup light brown sugar",
+    "1/2 cup milk",
+    "3 egg yolks",
+    "1/4 teaspoon salt, or to taste",
+    "1/8 teaspoon grated nutmeg, or to taste",
+    "1/2 teaspoon cinnamon, or to taste",
+    "1/4 teaspoon ground cloves, or to taste",
+    "1/2 teaspoon vanilla extract",
+    "Prepared pie crust (see below)"
+  ],
+  "recipeInstructions": "1. Preheat the oven to 350°F (175°C).\n2. Peel and boil the sweet potatoes until tender.\n3. Drain the boiled sweet potatoes and mash them with butter, sugar, milk, egg yolks, salt, nutmeg, cinnamon, ground cloves, and vanilla extract until smooth.\n4. Stir in the egg whites until fully incorporated.\n5. Pour the mixture into a prepared pie crust and bake for 45-50 minutes or until set.\n6. Turn off the oven and let cool on a wire rack.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hobo-dinner",
+  "name": "Hobo Dinner",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "ground beef",
+    "main dish",
+    "meat",
+    "outdoor cooking"
+  ],
+  "recipeIngredient": [
+    "1/4 pound ground beef",
+    "1 potato, sliced",
+    "1 carrot, sliced",
+    "2 tablespoons chopped onion",
+    "1 sheet heavy-duty aluminum foil (18-in x 13-in)",
+    "Salt and pepper -- to taste"
+  ],
+  "recipeInstructions": "1. Shape the ground beef into a patty.\n2. Place the patty in the center of the foil with the sliced potato, carrot, and onion.\n3. Sprinkle salt and pepper over the ingredients if desired.\n4. Fold the edges of the foil around the contents to seal well.\n5. Place the sealed foil packet on a baking sheet.\n6. Bake at 350°F for 45 minutes.\n7. Carefully open the foil after baking.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-salad",
+  "name": "Ensalada de Plátano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frutas",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "10 plátanos",
+    "1/2 taza de maní molido",
+    "1 cucharada de vinagre",
+    "2 cucharadas de agua",
+    "1 huevo, batido bien",
+    "2/3 taza de azúcar",
+    "1/2 taza de mantequilla o margarina"
+  ],
+  "recipeInstructions": "1. En un baño maría, mezcle el vinagre, el agua, la mantequilla, el huevo y el azúcar.\n2. Calente a fuego medio hasta que espese. Revuelva con frecuencia para evitar que se pegue.\n3. Deje enfriar y vierta la mezcla sobre rodajas de plátano.\n4. Espolvoree con maní molido.",
+  "url": null
+}

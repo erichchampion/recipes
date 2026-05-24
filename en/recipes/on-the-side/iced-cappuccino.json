@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "iced-cappuccino",
+  "name": "Iced Cappuccino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "coffee",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/2 ounce chopped ice",
+    "2 ounces Bailey's Irish Cream",
+    "5 ounces double-strength coffee, cooled",
+    "1 ounce half-and-half",
+    "2 teaspoons sugar",
+    "whipped cream (optional)",
+    "ground cinnamon (optional)"
+  ],
+  "recipeInstructions": "1. Combine all ingredients except whipped cream and cinnamon in a blender.\n2. Process for 10 seconds.\n3. Pour into a 10-ounce glass filled with finely chopped ice.\n4. Top with a dollop of whipped cream and a dusting of cinnamon.\nMakes 1 serving.",
+  "url": null
+}

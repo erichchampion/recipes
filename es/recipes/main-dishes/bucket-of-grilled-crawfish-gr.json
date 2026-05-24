@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "bucket-of-grilled-crawfish-gr",
+  "name": "Olla de cangrejos a la parrilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "asado",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "15 libras de cangrejos",
+    "4 mazos de maíz",
+    "15 papas rojas pequeñas, cortadas por la mitad",
+    "4 limones, cortados por la mitad",
+    "10 libras de alga marina"
+  ],
+  "recipeInstructions": "1. Construye un fuego y cúbrelo con rocas de arenisca.\n2. Cubre las rocas con alga marina.\n3. Coloca una malla de alambre sobre la alga.\n4. Agrega los cangrejos y las papas encima de la malla.\n5. Cubre con maíz y mitades de limón.\n6. Espolvorea más alga marina por encima.\n7. Si la alga se seca durante la cocción, vierte agua del océano sobre ella.",
+  "url": null
+}

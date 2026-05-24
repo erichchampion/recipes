@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "summer-spaghetti",
+  "name": "Espaguetis de verano",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de aceite de oliva virgen extra",
+    "1/4 taza de cebolla finamente picada",
+    "1 cucharada de ajo picado",
+    "1 1/2 libras de tomates maduros, pelados y cortados groseramente",
+    "1/2 cucharadita de sal",
+    "1/3 taza de albahaca fresca picada",
+    "1/4 cucharadita de pimienta blanca",
+    "4 cucharadas de queso Parmesano o Romano rallado",
+    "8 onzas de espagueti, linguini o penne"
+  ],
+  "recipeInstructions": "1. Calentar una olla grande con agua para cocinar la pasta.\n2. En una sartén de 2 a 3 cuartos a fuego medio, combinar el aceite y las cebollas. Tapar y dejar cocer hasta que las cebollas estén suaves pero no marrones.\n3. Añadir el ajo y cocinar durante 2 minutos sin tapar.\n4. Incorporar los tomates, la albahaca, la sal y la pimienta. Aumentar el fuego a alto.\n5. Cuando la salsa comience a hervir, retirar del fuego y tapar.\n6. Cocinar la pasta al dente y escurrir (pero no demasiado seca). Devolver la pasta a la olla y añadir un poco de salsa y 2 cucharadas de queso rallado. Mezclar bien.\n7. Servir inmediatamente, añadiendo más salsa y el resto del queso si se desea.",
+  "url": null
+}

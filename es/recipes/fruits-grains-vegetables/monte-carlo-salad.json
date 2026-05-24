@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "monte-carlo-salad",
+  "name": "Ensalada de Montecarlo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "comida",
+    "tradicional",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 paquete de lechuga (escarola, lechuga hoja, rúcula y endivias curadas) - 10 oz.",
+    "3 oz. de rebanadas de salami seco italiano, en cuartos",
+    "6.5 oz. de corazones de alcachofas marinados en tarro, escurridos y cortados por la mitad",
+    "2 1/4 oz. de aceitunas negras en lata, escurridas",
+    "4 oz. de queso feta desmenuzado",
+    "1/4 taza (hasta 1/3 taza) de aderezo de vinagreta de hierbas italianas"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar suavemente las lechugas, el salami, los corazones de alcachofas, las aceitunas y casi todo el queso feta.\n2. Mezclar con el aderezo de ensalada.\n3. Decorar con el resto del queso feta.",
+  "url": null
+}

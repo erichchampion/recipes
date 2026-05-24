@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemonade",
+  "name": "Lemonade",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "lemonade",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 tablespoons Fresh lemon juice",
+    "1 1/2 cups Sugar syrup--See NOTE",
+    "1 cup Water",
+    "-(carbonated water is",
+    "sometimes refreshing)"
+  ],
+  "recipeInstructions": "FOR COLD LEMONADE, combine the lemon juice, sugar syrup, and water in a glass and stir. Add ice to chill. Float lemon slices.\nNOTE: To make sugar syrup, boil equal parts of sugar and water until the sugar dissolves. Remove from heat and let cool before using. Store any unused syrup in a covered container in the refrigerator.",
+  "url": null
+}

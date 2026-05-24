@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-chicken-casserole-2",
+  "name": "Cazuela de Pollo Mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "plato principal",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "4 lb de pollo cocido",
+    "1 lata de sopa de champiñones Crema",
+    "1 lata de sopa de pollo Crema",
+    "1 lata de Tomates Rotel",
+    "1/2 taza de caldo de pollo",
+    "2 cucharaditas de sal",
+    "1 cucharadita de pimienta negra",
+    "1 paquete de chips de maíz",
+    "2 cebollas picadas finamente",
+    "3 tazas de queso fuerte rallado"
+  ],
+  "recipeInstructions": "1. Cortar el pollo en trozos pequeños.\n2. Mezclar las sopas, los tomates, el caldo de pollo, la sal y la pimienta negra en un bol.\n3. Colocar los chips de maíz en el fondo de un recipiente para hornear de 3 cuartos.\n4. Alternar capas de pollo, mezcla de tomate, cebolla y queso.\n5. Hornear a 175°C durante 45 minutos. (El plato se puede congelar antes de hornear).",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "indian-potatoes",
+  "name": "Patatas indias",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "asiático",
+    "étnico",
+    "indio",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "450 g de patatas, peladas y cortadas en trozos pequeños",
+    "1 coliflor, cortada en floretes",
+    "2 cucharaditas de aceite",
+    "1 cucharadita de cúrcuma",
+    "0,5 cucharaditas de semillas de comino",
+    "Pimienta negra molida",
+    "100 g de setas"
+  ],
+  "recipeInstructions": "1. Cocinar las patatas al vapor durante 5 minutos.\n2. Añadir la coliflor y cocinar durante otros 4 minutos. Escurrir.\n3. Calentar el aceite en un wok.\n4. Incorporar las especias y cocinar durante aproximadamente un minuto.\n5. Agregar las verduras y cocinar durante 5 minutos o hasta que estén tiernas.",
+  "url": null
+}

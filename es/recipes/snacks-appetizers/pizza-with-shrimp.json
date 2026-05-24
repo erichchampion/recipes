@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-with-shrimp",
+  "name": "Pizza con Gambas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "pescado",
+    "mariscos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 base de pizza lista para hornear",
+    "10 gambas medianas, peladas y sin colas",
+    "1 pimiento rojo, sin semillas y cortado en tiras finas",
+    "10 brócolis, floretes separados",
+    "10 tomates cereza, cortados por la mitad",
+    "6 onzas de mozzarella, en rodajas",
+    "1 cucharadita de aceite de oliva",
+    "1/4 taza de tomates secos al sol, picados finamente"
+  ],
+  "recipeInstructions": "1. Cocinar el brócoli al vapor durante 5 minutos. Inmediatamente, sumergirlo en agua helada para detener la cocción y mantener su color.\n2. Untar la base de pizza con aceite de oliva. Extender los tomates cereza y cubrir con mozzarella.\n3. Disponer las gambas, el brócoli, el pimiento rojo, los tomates secos al sol y las aceitunas sobre la pizza.\n4. Hornear a 200 °C durante 10 minutos.",
+  "url": null
+}

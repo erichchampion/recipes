@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-fritters",
+  "name": "Espaguetis fritos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "fritatas",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/2 libra de espagueti cocidos",
+    "3 huevos batidos bien",
+    "1/4 taza de queso italiano rallado",
+    "4 tallos de perejil fresco, picados finamente",
+    "1 cucharada de sal de ajo",
+    "1 cucharadita de orégano",
+    "1 cucharadita de sal",
+    "Una pizca de pimienta",
+    "Aceite para freír"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcle todos los ingredientes.\n2. Vierta la mezcla en una sartén caliente con aceite, dejando espacio entre cada frita.\n3. Cocine hasta que se dore un lado.\n4. Voltee las fritas y cocine hasta que estén doradas por el otro lado.\n5. Sirva calientes.",
+  "url": null
+}

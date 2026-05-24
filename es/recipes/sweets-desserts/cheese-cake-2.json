@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-cake-2",
+  "name": "Tarta de queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pastel",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "250 g de queso crema",
+    "2 huevos",
+    "3/4 taza de azúcar en polvo C & H (sin tamizar)",
+    "1 cucharadita de vainilla",
+    "2 tazas de crema agria",
+    "Base de migas (para un molde de 23 cm)"
+  ],
+  "recipeInstructions": "1. Ablandar el queso crema y batir hasta obtener una textura suave.\n2. Añadir los huevos, el azúcar y la vainilla; mezclar bien hasta obtener una consistencia cremosa y lisa.\n3. Incorporar la crema agria suavemente.\n4. Verter la mezcla sobre la base de migas preparada.\n5. Hornear a 180 °C durante 30 minutos.\n6. Apagar el horno, dejar la puerta entreabierta y enfriar el pastel en el interior durante 1-1/2 horas.\n7. Servir frío.\nBase de migas:\nDerretir 2 cucharadas de mantequilla en un molde para tartas colocado en el horno. Mezclar 1/4 taza de azúcar granulada C & H y 16 galletas Graham trituradas finamente. Amasar y presionar uniformemente sobre la base y los lados del molde para tartas.",
+  "url": null
+}

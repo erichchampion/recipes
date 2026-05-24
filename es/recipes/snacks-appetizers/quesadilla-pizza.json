@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "quesadilla-pizza",
+  "name": "Quesadilla Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "pizza",
+    "tentempié"
+  ],
+  "recipeIngredient": [
+    "2 Tortillas de harina (de 6-7 pulgadas)",
+    "1/4 taza de queso Cheddar rallado",
+    "Aceite de oliva",
+    "1/4 taza de salsa para pizza Contadina",
+    "1/4 cucharadita de comino en polvo",
+    "2 cucharadas de frijoles refritos",
+    "1 cucharada de chiles verdes secos",
+    "1 cucharada de cebolla verde picada",
+    "1 cucharada de aceitunas cortadas",
+    "1 cucharada de queso Monterey Jack rallado"
+  ],
+  "recipeInstructions": "1. Espolvorear una tortilla con el queso Cheddar.\n2. Cubrir con la segunda tortilla.\n3. Untar ligeramente con aceite de oliva.\n4. Colocar sobre una bandeja para hornear precalentada a 450°F (232°C).\n5. Hornear durante 4 minutos.\n6. En un bol pequeño, mezclar la salsa para pizza y el comino.\n7. Extender la mezcla sobre la tortilla.\n8. Verter los frijoles refritos; espolvorear con chiles, cebolla verde, aceitunas y queso Monterey Jack.\n9. Devolver al horno y hornear durante 3 minutos más o hasta que el queso se derrita.\n10. Cortar en triángulos.",
+  "url": null
+}

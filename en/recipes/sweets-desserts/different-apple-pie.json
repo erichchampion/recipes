@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "different-apple-pie",
+  "name": "Different Apple Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Sugar",
+    "1/2 cup Orange juice",
+    "1/2 stick Margarine",
+    "4 Delicious Apples",
+    "1/2 cup Sugar",
+    "3 tbsp Flour"
+  ],
+  "recipeInstructions": "1. Combine the first four ingredients in a saucepan and cook until mixture thickens.\n2. Add sugar and flour, mixing well.\n3. Pour into an unbaked pie shell.\n4. Bake for 30 minutes at 425 degrees Fahrenheit.",
+  "url": null
+}

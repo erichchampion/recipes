@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-tuna-dish",
+  "name": "Mi plato de atún",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "pasta",
+    "marisco",
+    "atún"
+  ],
+  "recipeIngredient": [
+    "8 onzas de fideos (paquete de 16 onzas)",
+    "1 lata de atún",
+    "3 cucharadas de mayonesa",
+    "9 gotas de salsa picante",
+    "1/2 cucharadita de polvo de ajo",
+    "1/2 cucharadita de pimienta negra",
+    "1/2 cucharadita de orégano",
+    "Un pellizco de polvo de cebolla",
+    "1 cebolleta, picada"
+  ],
+  "recipeInstructions": "1. Cocinar los fideos según las instrucciones del paquete.\n2. Escurrir el agua de la olla de fideos.\n3. Enfriar los fideos enjuagándolos con agua fría y escurriendo bien.\n4. Mezclar 3 cucharadas generosas de mayonesa con los fideos.\n5. Combinar la mezcla de fideos y mayonesa con el atún enlatado.\n6. Añadir 9 gotas de salsa picante a la mezcla.\n7. Incorporar el resto de ingredientes.",
+  "url": null
+}

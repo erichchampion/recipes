@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-sausage-1",
+  "name": "Salsicha Italiana 1",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "carne",
+    "embutidos"
+  ],
+  "recipeIngredient": [
+    "5 lb de carne de cerdo molida gruesa",
+    "6 dientes de ajo, prensados",
+    "1 cucharadita de pimentón rojo molido",
+    "1 cucharadita de semillas de eneldo",
+    "1/2 cucharadita de tomillo",
+    "2 hojas de laurel, trituradas",
+    "1 cucharadita de sal",
+    "2 cucharaditas de pimienta negra",
+    "1/2 cucharadita de nuez moscada",
+    "1/2 cucharadita de cilantro en polvo",
+    "1 cucharada de pimentón dulce",
+    "1 taza de agua fría"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande y combinar bien.\n2. Rellenar la mezcla en casings de cerdo utilizando una máquina embutidora o un embutidor manual.\n3. Cocinar las salchichas freíndolas a fuego medio hasta que estén completamente cocidas, o hornearlas en un horno precalentado a 190°C (375°F) durante unos 20-25 minutos, o hasta que la temperatura interna alcance los 71°C (160°F).\n4. Apagar el calor y dejar reposar las salchichas unos minutos antes de servir.",
+  "url": null
+}

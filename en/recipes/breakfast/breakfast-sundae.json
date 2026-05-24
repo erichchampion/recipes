@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-sundae",
+  "name": "Breakfast Sundae",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "breakfast",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "1 small container nonfat yogurt",
+    "3 different types of fruit, sliced (such as bananas, strawberries, grapes)",
+    "Granola or Grapenuts cereal",
+    "Raisins"
+  ],
+  "recipeInstructions": "1. Spoon yogurt into a sundae dish or bowl.\n2. Layer with the sliced fruit.\n3. Add granola or Grapenuts cereal.\n4. Sprinkle raisins on top.\n5. Serve.",
+  "url": null
+}

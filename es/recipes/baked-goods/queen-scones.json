@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "queen-scones",
+  "name": "Scones de la Reina",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "desayuno",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "2 1/4 tazas de harina integral",
+    "2 cucharaditas de polvo de hornear",
+    "Un pellizco de sal",
+    "3 cucharadas de azúcar",
+    "1/4 taza de aceite",
+    "1/2 taza de pasas",
+    "1/2 taza de tofu suave o medio",
+    "1/2 taza de agua"
+  ],
+  "recipeInstructions": "1. Mezclar en un bol grande la harina integral, el polvo de hornear, la sal y el azúcar.\n2. Amasar hasta que se integren los ingredientes.\n3. Incorporar el aceite y las pasas.\n4. En otro bol, mezclar el tofu con el agua hasta obtener una textura suave.\n5. Verter la mezcla líquida sobre los ingredientes secos y remover hasta combinarlos.\n6. Extender la masa sobre una superficie enharinada hasta formar un grosor de aproximadamente 1/2 pulgada.\n7. Cortar los scones con un cuchillo o un cortapastas.\n8. Colocar los scones sobre una bandeja para hornear ligeramente engrasada.\n9. Hornear a 425°F (220°C) durante 15 minutos, o hasta que adquieran un color dorado.",
+  "url": null
+}

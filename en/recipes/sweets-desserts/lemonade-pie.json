@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemonade-pie",
+  "name": "Lemonade Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "fruits",
+    "party",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1 large Cool Whip",
+    "1 small Lemonade (pink or regular)",
+    "Rind - 1 lemon"
+  ],
+  "recipeInstructions": "1. Mix together the cooled whip, lemonade, and rind.\n2. Pour the mixture into a baking dish lined with graham cracker pie crust.\n3. Place in refrigerator for at least 12 hours to set up.\n4. If it doesn't set up well, freeze for about half an hour.\n5. Serve with a sprig of mint on top for garnish.",
+  "url": null
+}

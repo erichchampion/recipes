@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-medley",
+  "name": "Mezcla Mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "americana",
+    "étnica",
+    "plato principal",
+    "mexicana",
+    "vegetariana"
+  ],
+  "recipeIngredient": [
+    "3 oz de espárragos, cortados en trozos de 1/2 pulgada",
+    "3 oz de floretes de coliflor, cortados en trozos pequeños",
+    "3 oz de apio, picado",
+    "3 oz de frijoles rojos cocidos",
+    "1 1/2 oz de nueces, picadas finamente",
+    "2 cucharadas de aceite de girasol",
+    "2/3 cucharadita de eneldo fresco picado",
+    "1/3 cucharadita de polvo de chile",
+    "1/4 cucharadita de albahaca",
+    "1/4 cucharadita de semillas de apio",
+    "1/2 cucharadita de ajo picado",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Cocinar al vapor el espárrago y la coliflor durante aproximadamente 10 minutos.\n2. Mezclar con el apio. Dejar aparte.\n3. En una licuadora, colocar los frijoles, las nueces y los ingredientes restantes.\n4. Licuar hasta obtener una consistencia suave.\n5. Verter esta salsa sobre la mezcla de espárrago y coliflor.\n6. Servir a temperatura ambiente.",
+  "url": null
+}

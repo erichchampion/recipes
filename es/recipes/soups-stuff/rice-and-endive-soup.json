@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-and-endive-soup",
+  "name": "Sopa de arroz y endivias",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "aperitivos",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz crudo",
+    "1 1/2 tazas de cebolla picada",
+    "2 tallos de apio, cortados en rodajas",
+    "2 pequeñas zanahorias, peladas y cortadas en media luna",
+    "3 cucharadas de aceite de oliva",
+    "3 tazas de caldo de verduras",
+    "28 onzas (794 g) de tomates enteros enlatados, triturados",
+    "1 cabeza de endivo rizado, picado",
+    "1/2 taza de perejil fresco picado",
+    "1 1/2 cucharaditas de albahaca fresca picada",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar el arroz según las instrucciones del paquete.\n2. Mientras tanto, saltear la cebolla, el apio y las zanahorias en aceite de oliva hasta que estén tiernos.\n3. Añadir el caldo de verduras y los tomates a la olla. Dejar hervir a fuego lento durante unos 15 minutos.\n4. Incorporar el arroz cocido. Agregar el perejil y la albahaca, y sazonar con sal y pimienta al gusto.\n5. Servir.",
+  "url": null
+}

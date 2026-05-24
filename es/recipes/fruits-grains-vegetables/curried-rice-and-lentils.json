@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "curried-rice-and-lentils",
+  "name": "Arroz y lentejas curry",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 tazas de lentejas; enjuagadas",
+    "4 tazas de agua",
+    "1/2 taza de mantequilla (menos si se prefiere)",
+    "2 tazas de zanahorias; ralladas",
+    "2 tazas de cebolla; finamente picada",
+    "2 dientes de ajo; finamente picados",
+    "6 cucharadas de harina",
+    "2 tazas de puré de manzana",
+    "1 cucharadita de polvo de curry",
+    "1/4 taza de jugo de limón"
+  ],
+  "recipeInstructions": "1. Cocinar las lentejas en el agua durante 30 minutos, luego escurrir.\n2. Derretir la mantequilla y agregar zanahoria, cebolla y ajo, salteando durante un minuto.\n3. Incorporar harina, puré de manzana, polvo de curry y 2 tazas de agua a la mezcla.\n4. Reducir el fuego y cocinar a fuego lento durante 30 minutos.\n5. Agregar jugo de limón, lentejas y arroz cocido.\n6. Calentar bien antes de servir.",
+  "url": null
+}

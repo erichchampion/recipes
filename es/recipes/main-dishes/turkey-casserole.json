@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "turkey-casserole",
+  "name": "Cazuela de pavo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guiso",
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 tazas de pavo o pollo cocido",
+    "1 1/3 tazas de arroz cocido",
+    "1 taza de mayonesa",
+    "1 taza de apio picado",
+    "1 lata de sopa de pollo cremoso",
+    "sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcle el pavo cocido, el arroz, la mayonesa, el apio y la sopa de pollo hasta que quede bien combinado.\n2. Transfiera la mezcla a un recipiente para hornear engrasado.\n3. Espolvoree los migas de pan con mantequilla uniformemente sobre la parte superior del cocido.\n4. Hornee a 175 °C durante aproximadamente 20-30 minutos, o hasta que esté caliente y ligeramente dorado por encima.\n5. Apague el calor una vez terminado.",
+  "url": null
+}

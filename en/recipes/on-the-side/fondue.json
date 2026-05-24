@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fondue",
+  "name": "Fondue",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "appetizers",
+    "cheese",
+    "cheese/eggs",
+    "fondue",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 envelope Lipton Onion Soup",
+    "2 cups Tomato juice",
+    "4 teaspoons Lemon juice",
+    "1 lb American cheese, shredded",
+    "French bread, cut into bite-sized pieces"
+  ],
+  "recipeInstructions": "1. In a medium saucepan, combine the onion soup, tomato juice, and lemon juice.\n2. Heat slowly over low heat.\n3. When the mixture begins to simmer, add small portions of cheese and stir constantly until melted.\n4. Continue to add cheese gradually, stirring constantly, making sure each addition is fully melted.\n5. Remove the saucepan from heat and transfer the mixture to a fondue pot, chafing dish, or heated casserole.\n6. Spear cubes of bread, then dip and stir into the fondue.",
+  "url": null
+}

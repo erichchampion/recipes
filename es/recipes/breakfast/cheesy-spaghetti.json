@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheesy-spaghetti",
+  "name": "Spaghettis con queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "4 huevos",
+    "1 sobre de mezcla de sopa de cebolla",
+    "leche",
+    "250 g de espagueti",
+    "125 g de Velveeta"
+  ],
+  "recipeInstructions": "1. Cocinar el espagueti hasta que esté al dente.\n2. Mientras se cocina la pasta, mezclar 4 huevos y 1 sobre de mezcla de sopa de cebolla.\n3. Añadir suficiente leche a la mezcla de huevo y sopa para obtener una consistencia similar a la de los huevos revueltos.\n4. Una vez cocida la pasta, incorporarla a la mezcla de huevo y sopa, removiendo hasta que esté bien combinada.\n5. Transferir la mezcla a un molde engrasado de 9x13 cm.\n6. Hornear a 180°C (350°F) hasta que el plato esté firme.",
+  "url": null
+}

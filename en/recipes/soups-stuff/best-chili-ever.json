@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "best-chili-ever",
+  "name": "Best Chili Ever",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "ground beef",
+    "main dish",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 tbsp Oil",
+    "2 Onions",
+    "4 Large Garlic Cloves",
+    "2 1/2 lb Ground Beef",
+    "5 tbsp Chili Powder",
+    "1 tbsp Paprika",
+    "1 tsp Oregano",
+    "1 can Tomato Juice (46 oz)",
+    "2 cans Kidney Beans",
+    "1 tbsp Salt"
+  ],
+  "recipeInstructions": "1. Heat oil in a large pan over medium heat.\n2. Brown onions and beef for about 5 minutes, stirring occasionally.\n3. Add garlic and cook for an additional minute.\n4. Stir in chili powder, paprika, oregano, tomato juice, kidney beans, and salt.\n5. Reduce heat to low and simmer for one hour, stirring occasionally.",
+  "url": null
+}

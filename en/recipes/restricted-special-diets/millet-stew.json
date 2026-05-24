@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "millet-stew",
+  "name": "Millet Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "mcdougall",
+    "slow cooker",
+    "soups",
+    "special diets",
+    "stews",
+    "vegan",
+    "vegetarian"
+  ],
+  "recipeIngredient": [
+    "1 cup Millet",
+    "4 cups Water",
+    "2 Onions, wedged",
+    "2 Potatoes, chunked",
+    "2 Carrots, chunked",
+    "1 cup Celery, chunked",
+    "1/2 lb Mushrooms, chopped",
+    "2 Bay leaves",
+    "1/2 tsp Basil",
+    "1/2 tsp Thyme"
+  ],
+  "recipeInstructions": "1. Toast millet in a dry skillet for about 5 minutes, stirring constantly to avoid burning.\n2. Add all ingredients to a slow cooker and cook for 4 hours on high or 8 hours on low.",
+  "url": null
+}

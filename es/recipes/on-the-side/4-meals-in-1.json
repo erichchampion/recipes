@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "4-meals-in-1",
+  "name": "4 Comidas en 1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "carne de vacuno",
+    "familiar",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "Salsa de espagueti",
+    "Carne molida",
+    "Rodillo de ternera",
+    "1 lata de frijoles chili"
+  ],
+  "recipeInstructions": "1. Prepara una ración doble de salsa de espagueti con carne molida.\n2. Añade un rodillo de ternera grande, previamente dorado, a la salsa en cocción hasta que el rodillo esté hecho. Envuelve en papel de aluminio y deja enfriar.\n3. Retira una porción de la salsa con carne y añade una lata de frijoles chili. Congela para preparar chili.\n4. Retira otra porción de salsa y congela para hacer hamburguesas.\n5. La salsa restante se sirve con espagueti.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-sandwiches",
+  "name": "Sándwiches mexicanos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carnes",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "3 libras de carne molida",
+    "1 cebolla, picada",
+    "12 onzas de queso Longhorn rallado",
+    "15 onzas de salsa de tomate",
+    "4 onzas de aceitunas maduras picadas",
+    "4 onzas de salsa",
+    "24 panecillos duros"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida con las cebollas y escurrir el exceso de grasa.\n2. Agregar los ingredientes restantes (salsa de tomate, aceitunas, salsa) a la mezcla de carne.\n3. Retirar el pan del centro de cada rollo y rellenarlo con la mezcla de carne.\n4. Envolver cada rollo en papel de aluminio.\n5. Hornear a 175°C durante 30 minutos.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "third-bread",
+  "name": "Third Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "Package Yeast",
+    "3/4 cup Rye flour",
+    "3 cups Bread flour",
+    "3/4 cup Yellow cornmeal",
+    "1 1/2 tsp Salt",
+    "1/2 cup Honey",
+    "1 1/2 cups Very warm water"
+  ],
+  "recipeInstructions": "1. Place the yeast, rye flour, bread flour, yellow cornmeal, salt, honey, and very warm water in the order listed into the pan.\n2. Select white bread on your machine and press \"Start\".\n3. If not otherwise noted, ensure all ingredients are at room temperature before proceeding.\n4. After the second kneading phase, remove the dough from the machine and divide it into two equal portions.\n5. Place each portion in small loaf pans and cover them.\n6. Allow the dough to rise until it has doubled in size, which should take about 45 minutes to 1 hour.\n7. Bake at 350°F for 35-40 minutes.",
+  "url": null
+}

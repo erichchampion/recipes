@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "crispy-snack",
+  "name": "Crispy Snack",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "popcorn",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "3 quarts Unsalted popped popcorn",
+    "1/4 cup Margarine, melted",
+    "1/2 can French fried onions",
+    "1/4 cup Bacon bits",
+    "Salt to taste"
+  ],
+  "recipeInstructions": "1. Toss the popped corn with melted butter.\n2. Stir in the French fried onions and bacon bits.\n3. Sprinkle with salt.\n4. Place on a jelly-roll pan or baking sheet.\n5. Heat the oven to 250°F.\n6. Bake for 5 minutes, then serve hot.",
+  "url": null
+}

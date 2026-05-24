@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-rolls",
+  "name": "Rolos de pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "tentempié"
+  ],
+  "recipeIngredient": [
+    "1 lb de masa de pan italiano congelada [descongelada]",
+    "8 oz de crema suave Philadelphia con hierbas y ajo",
+    "1 1/2 tazas de queso mozzarella desmenuzado bajo contenido de humedad Kraft",
+    "3/4 taza de pepperoni [picado]",
+    "1/3 taza de pimiento verde [finamente picado]",
+    "1 cucharada de aceite de oliva",
+    "1/2 cucharadita de condimento italiano"
+  ],
+  "recipeInstructions": "1. Estirar la masa hasta formar un rectángulo de 15\" x 20 pulgadas sobre una superficie enharinada.\nExtender el queso crema sobre la masa, dejando aproximadamente 1 pulgada sin cubrir cerca de los bordes.\n2. Espolvorear el queso mozzarella, pepperoni y pimiento verde de manera uniforme sobre el queso crema.\nEnrollar la masa desde los lados largos, presionando los bordes para sellarlos.\nUnir el aceite de oliva en la parte superior e inferior y espolvorear con condimento italiano.\n3. Cubrir y dejar reposar en un lugar cálido durante 1 hora.\nPrecalentar el horno a 350 °F (175 °C).\n4. Hornear de 30 a 35 minutos o hasta que esté dorado.\nCortar en rodajas y servir.",
+  "url": null
+}

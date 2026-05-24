@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "carrot-bisque",
+  "name": "Carrot Bisque",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "5 slices bacon, chopped",
+    "1 pound carrots, peeled and chopped",
+    "6 green onions, chopped",
+    "1 cup mushrooms, chopped",
+    "3 stalks celery, chopped",
+    "2 sprigs fresh thyme",
+    "1 bay leaf",
+    "4 cups chicken broth",
+    "1 cup water",
+    "1 cup heavy cream",
+    "salt and freshly ground pepper"
+  ],
+  "recipeInstructions": "1. In a stock pot over medium-high heat, sauté the bacon until crisp. Add carrots, green onions, mushrooms, and celery. Cook, uncovered, for 5 minutes. Add thyme, bay leaf, chicken broth, and water. Bring to a boil. Reduce heat, cover, and simmer for 50 minutes.\n2. Remove the bay leaf. Place the soup in a food processor and process until smooth. Return the mixture to the pot over low heat. Add cream, salt, and pepper to taste. Heat until warm.",
+  "url": null
+}

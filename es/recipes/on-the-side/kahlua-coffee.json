@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "kahlua-coffee",
+  "name": "Café con Kahlua",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "6 tazas de café caliente",
+    "1 taza de sirope de chocolate",
+    "1/4 taza de Kahlua",
+    "1/8 cucharadita de canela en polvo",
+    "Crema batida"
+  ],
+  "recipeInstructions": "1. Mezclar el café caliente, el sirope de chocolate, la Kahlua y la canela en un recipiente grande.\n2. Revolver bien hasta que todos los ingredientes estén completamente integrados.\n3. Servir inmediatamente.\n4. Colocar crema batida sobre cada porción.\n5. Rinde: 7 1/2 tazas.",
+  "url": null
+}

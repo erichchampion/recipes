@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "turkey-chowder",
+  "name": "Sopa de pavo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "diabetico",
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "olla de cocción lenta",
+    "sopas/estofados",
+    "pavo"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de cebolla; picada",
+    "5 tazas de caldo de pavo o pollo",
+    "1 taza de apio; en rodajas",
+    "2 papas; peladas, cortadas en cubos",
+    "2 cucharadas de margarina",
+    "2 cucharadas de harina",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra molida",
+    "1 cucharadita de tomillo seco"
+  ],
+  "recipeInstructions": "1. En una olla grande, saltea la cebolla y el apio en margarina hasta que estén tiernos.\n2. Añade la harina, la sal, la pimienta y el tomillo. Mezcla bien.\n3. Vierte gradualmente el caldo, removiendo constantemente para evitar grumos.\n4. Agrega las papas y los zanahorias. Lleva la mezcla a ebullición lenta, luego tapa y cocina a fuego bajo durante 15 minutos o hasta que las verduras estén tiernas.\n5. Incorpora el calabacín, el jugo de manzana y el pavo cocido. Continúa cocinando a fuego lento durante 10 minutos adicionales.",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-dogs-2",
+  "name": "Perros calientes con chili",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "frijol",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "6 bollos de perrito caliente",
+    "6 perritos calientes magros, cocidos",
+    "----Salsa Chili----",
+    "1/2 cucharadita de aceite de oliva",
+    "1/2 libra de pechuga de pollo sin piel, picada",
+    "1/2 taza de cebolla, picada",
+    "1 diente de ajo, picado",
+    "15,5 onzas de frijoles rojos oscuros, escurridos",
+    "8 onzas de salsa de tomate sin sal añadida",
+    "2 cucharaditas de polvo de chili",
+    "----Toppings----",
+    "1/2 taza de queso cheddar magro, rallado",
+    "1/2 taza de cebolla, picada"
+  ],
+  "recipeInstructions": "1. En una sartén, calienta el aceite a fuego medio.\n2. Agrega el pollo, 1/2 taza de cebolla y ajo. Cocina hasta que el pollo ya no esté rosado y las verduras estén tiernas.\n3. Incorpora los frijoles, la salsa de tomate y el polvo de chili. Reduce el fuego y deja cocinar a fuego lento durante 15 minutos.\n4. Coloca los perritos calientes en los bollos.\n5. Vierte la salsa encima.\n6. Espolvorea queso y cebolla restante sobre cada perrito caliente.",
+  "url": null
+}

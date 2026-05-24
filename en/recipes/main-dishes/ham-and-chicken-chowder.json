@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-and-chicken-chowder",
+  "name": "Ham and Chicken Chowder",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "6 cups Chicken stock",
+    "2 cups Cooked ham, diced",
+    "2 cups Potatoes, cubed",
+    "8 small Onions",
+    "1 cup Corn",
+    "1 cup Cut green beans",
+    "1 cup Lima beans",
+    "1 cup Canned tomatoes",
+    "2 Stalks celery with leaves, chopped",
+    "1 tablespoon Parsley, minced",
+    "1 teaspoon Salt",
+    "1/2 teaspoon Pepper",
+    "1 Bay leaf"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a crockpot.\n2. Cover and cook on LOW for 6 to 8 hours, or on HIGH for 3 to 4 hours.\n3. Serve in heated soup bowls garnished with chopped fresh parsley.",
+  "url": null
+}

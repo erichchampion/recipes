@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mango-smoothie",
+  "name": "Batido de mango",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "de bajo calorías",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 mango maduro, pelado, sin hueso, cortado (aproximadamente 1 taza y 1/4)",
+    "3/4 taza de leche desnatada, fría",
+    "1/4 taza de yogur griego sin grasa con sabor a vainilla",
+    "3/4 cucharadita de extracto de vainilla",
+    "3 cubos de hielo",
+    "Un pellizco de sal",
+    "Hojas de menta fresca"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes excepto la menta en una licuadora.\n2. Mezclar hasta obtener una textura suave y cremosa.\n3. Decorar con hojas de menta.",
+  "url": null
+}

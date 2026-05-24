@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "s-mores",
+  "name": "S'mores",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "camping",
+    "miscellaneous"
+  ],
+  "recipeIngredient": [
+    "Marshmallows",
+    "Hershey bars",
+    "Graham crackers",
+    "Matches or lighter",
+    "Hangers"
+  ],
+  "recipeInstructions": "1. Prepare a large graham cracker by breaking it in half.\n2. Place one Hershey bar on the half of the graham cracker covered with chocolate.\n3. Insert a marshmallow (or 2) onto matches or lighters.\n4. Hold the marshmallow over the fire until it is lightly golden and roasted, taking care not to catch it on fire.\n5. When the marshmallow is fully roasted, place it on top of the Hershey bar.\n6. Place the other half of the graham cracker on top of the marshmallow.\n7. Press down gently and enjoy your delicious s'more!",
+  "url": null
+}

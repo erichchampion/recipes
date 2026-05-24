@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "recipe-using-fresh-apricot",
+  "name": "Receta con apricots frescos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "manzana",
+    "ternera",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 libra de solomillo de res - ver nota",
+    "1 libra de ciruelas frescas - sin hueso, cortadas en cuartos",
+    "3/4 taza de cebolla roja dulce - picada",
+    "2 cucharadas de vinagre de arroz",
+    "2 cucharadas de azúcar",
+    "1/2 cucharadita de polvo de cinco especias"
+  ],
+  "recipeInstructions": "1. Retirar la grasa excesiva del solomillo.\n2. Broilar el solomillo a 4 pulgadas de distancia del calor, durante 5 a 7 minutos por lado para un punto medio o hasta el grado de cocción deseado. Mantener caliente.\n3. En una cacerola mediana, combinar los ingredientes restantes. Llevar a ebullición y reducir a fuego lento durante 5 minutos, removiendo constantemente.\n4. Cortar el solomillo en rebanadas finas en contra del grano.\n5. Verter el chutney de ciruelas sobre las rebanadas de solomillo y servir.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "malt-shoppe-pie",
+  "name": "Tarta de Malt Shoppe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "favoritos",
+    "helado",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 base de galleta Graham, de chocolate",
+    "1 litro de yogur helado de vainilla bajo en grasa, suavizado (o helado)",
+    "1 envase de Cool Whip de 250 ml, descongelado",
+    "200 g de Whoppers (bolas de malta) trituradas"
+  ],
+  "recipeInstructions": "1. Mezclar el yogur y la crema batida hasta que quede bien integrado.\n2. Reservar la mitad de las bolas de malta trituradas y mezclar el resto en la mezcla de yogur.\n3. Verter la mezcla en la base de galleta.\n4. Cubrir con las bolas de malta reservadas.\n5. Congelar durante 4 horas.",
+  "url": null
+}

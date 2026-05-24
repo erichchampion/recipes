@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "sausage-3",
+  "name": "Salsicha 3",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "embutidos"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne de cerdo magra picada gruesa",
+    "1 kg de semillas de anís picadas",
+    "2 hojas de laurel, machacadas",
+    "1 cucharadita de perejil seco",
+    "3 dientes de ajo, machacados",
+    "1/8 cucharadita de pimentón rojo seco picante",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "65 ml de agua"
+  ],
+  "recipeInstructions": "1. Mezclar cuidadosamente todos los ingredientes y dejar reposar durante 1 hora. Mezclar nuevamente.\n2. Rellenar en embutidos o freír sin rellenar.\nDificultad: moderada - se requiere paciencia.\nPrecisión: medir los ingredientes.",
+  "url": null
+}

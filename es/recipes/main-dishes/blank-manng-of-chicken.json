@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "blank-manng-of-chicken",
+  "name": "Manzana de pollo vacía",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "británico",
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "3 libras de pollo para hervir",
+    "1 cebolla pelada",
+    "1 guirnalda de hierbas aromáticas",
+    "Condimento al gusto",
+    "8 onzas de arroz de grano corto",
+    "2 onzas de mantequilla",
+    "2 onzas de azúcar glas",
+    "2 onzas de almendras molidas",
+    "2 onzas de almendras enteras blanqueadas",
+    "Mantequilla o aceite para freír",
+    "Sal",
+    "Perejil fresco",
+    "Leche de almendras (remojar 2 libras de almendras en 2 tazas de agua y 1 cucharadita de azúcar hasta extraer todo el sabor, aproximadamente 12 horas. Colar)",
+    "2 pintas de agua",
+    "8 onzas de almendras molidas en polvo",
+    "1 cucharadita de azúcar glas"
+  ],
+  "recipeInstructions": "1. Preparar la leche de almendras remojando las almendras en agua y azúcar durante aproximadamente 12 horas, luego colar.\n2. Colocar el pollo en una olla grande, cubrir con agua hirviendo, agregar la cebolla, la guirnalda de hierbas y el condimento. Tapar y llevar a ebullición.\n3. Cocinar hasta que el pollo esté tierno (aproximadamente 1 hora y media a 2 horas), dependiendo del tamaño. Retirar del caldo, descartar la piel y las huesos, cortar en trozos pequeños y mantener calientes.\n4. Cocinar el arroz en la leche de almendras utilizando algo de caldo para lograr el nivel de líquido deseado. Escurrir sin secar; debe quedar húmedo.\n5. Devolver el arroz a la olla y agregar los trozos de pollo, la mantequilla, el azúcar glas, las almendras molidas. Sazonar bien.\n6. Freír ligeramente las almendras enteras en aceite o grasa hasta que estén doradas. Espolvorear con un poco de sal.\n7. Servir el arroz en un plato caliente, decorado con almendras fritas y perejil.",
+  "url": null
+}

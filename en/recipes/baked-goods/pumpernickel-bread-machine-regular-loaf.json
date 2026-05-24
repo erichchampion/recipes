@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pumpernickel-bread-machine-regular-loaf",
+  "name": "Pumpernickel Bread (Machine) - Regular Loaf",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "3/4 cup Water",
+    "2 T Cornmeal",
+    "1 cup White bread flour",
+    "1 T + 2t Cocoa, powdered",
+    "2 1/2 T Molasses",
+    "1/4 t Instant coffee",
+    "1 t Salt",
+    "1 1/4 T Sugar",
+    "1 1/2 t Yeast, fast rise or machine"
+  ],
+  "recipeInstructions": "1. Combine water, cornmeal, sugar, yeast, and salt in a large bowl. Mix until smooth.\n2. Add the bread flours and mix until no dry flour remains.\n3. Stir in the cocoa, molasses, coffee, caraway seeds, and butter (or oil).\n4. Place dough into your machine with the kneading pan or cycle.\n5. Let rise for 30 minutes at room temperature.\n6. Punch down the dough and form it into a loaf on a baking sheet.\n7. Cover and let proof until doubled in size, about 1 hour.\n8. Preheat oven to 400°F (200°C) with rack in center of the oven.\n9. Bake for 25 minutes.\n10. Remove from the machine and cool on a wire rack.\nWARNING: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

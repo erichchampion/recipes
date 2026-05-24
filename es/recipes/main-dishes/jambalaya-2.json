@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "jambalaya-2",
+  "name": "Jambayala",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "granos",
+    "sobras",
+    "plato principal",
+    "carne",
+    "pasta",
+    "aves de corral",
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "1/2 cucharadita de aceite de oliva",
+    "3 tazas de pavo (pecho ligero), sin piel, cocido y cortado en cubos",
+    "1/2 taza de cebolla picada",
+    "1/2 taza de pimiento rojo picado",
+    "1 diente de ajo picado",
+    "28 onzas de tomates triturados",
+    "1 taza de agua",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra",
+    "3/4 taza de arroz de grano largo"
+  ],
+  "recipeInstructions": "1. En una sartén, calentar el aceite de oliva a fuego medio.\n2. Agregar el pavo, la cebolla, el pimiento y el ajo a la sartén.\n3. Cocinar hasta que el pavo ya no esté rosado y las verduras estén tiernas.\n4. Incorporar los tomates triturados, el agua, la sal, la pimienta y el arroz.\n5. Tapar y cocinar a fuego lento durante unos 35 minutos o hasta que el arroz esté hecho.",
+  "url": null
+}

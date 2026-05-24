@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "icebox-cake",
+  "name": "Icebox Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 lb Graham crackers",
+    "1 lb English walnuts",
+    "1 lb Marshmallows",
+    "1 lb Dates",
+    "1/2 pint Cream"
+  ],
+  "recipeInstructions": "1. Crush the marshmallows and dates together.\n2. Add half a pint of cream to the mixture.\n3. Mix until well combined, then roll into a loaf shape.\n4. Chill until ready to serve.\n5. Slice and serve with whipped cream.",
+  "url": null
+}

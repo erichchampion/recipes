@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "tequini-tequila-martini",
+  "name": "Tequini (Martini de Tequila)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz de tequila",
+    "1/2 oz de vermut seco",
+    "Una pizca de amargo",
+    "Un pequeño chile"
+  ],
+  "recipeInstructions": "1. Llenar un vaso mezclador con hielo.\n2. Verter la tequila y el vermut seco.\n3. Remover la mezcla hasta que esté bien combinada, o bien, agitarla brevemente.\n4. Colar en un vaso de martini frío.\n5. Añadir una pizca de amargo al gusto.\n6. Decorar con un pequeño chile si se desea.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "freezer-lasagna",
+  "name": "Freezer Lasagna",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "freezer meals",
+    "main dish",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "Spaghetti sauce",
+    "Lasagna noodles",
+    "Mozzarella cheese",
+    "Ricotta cheese",
+    "Parmesan cheese"
+  ],
+  "recipeInstructions": "1. Preheat oven to 350°F (175°C).\n2. Lay out lasagna noodles on a baking sheet and place in freezer until firm.\n3. Drain excess moisture from noodles, then transfer to an aluminum casserole pan.\n4. Alternate layers of spaghetti sauce, ricotta cheese, mozzarella cheese, and Parmesan cheese until the top is reached.\n5. Top with additional mozzarella cheese before placing in the freezer.\n6. Store in the freezer for up to 3 months.",
+  "url": null
+}

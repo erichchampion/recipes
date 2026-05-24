@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-pie",
+  "name": "Apple Pie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "desserts",
+    "pies"
+  ],
+  "recipeIngredient": [
+    "1 2 crust pie shell",
+    "3/4 cup sugar",
+    "1/4 cup flour",
+    "1 tsp cinnamon",
+    "1/4 tsp nutmeg",
+    "6 cups sliced apples",
+    "1 tbsp lemon juice",
+    "2 tbsp margarine"
+  ],
+  "recipeInstructions": "1. Thaw pastry according to directions.\n2. Mix sugar, flour, and spices in a bowl.\n3. Combine the sugar mixture with apples and lemon juice.\n4. Fill the pastry shell with the apple mixture.\n5. Dot the top of the filling with butter.\n6. Place the top pastry over the filling.\n7. Seal and flute the edges of the crust.\n8. Slash the top crust in several places to allow steam to escape.\n9. Bake on the lower oven rack at 450°F for 10 minutes.\n10. Lower the temperature to 350°F and bake for an additional 40-50 minutes, or until the crust is golden brown.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-sour-cream-2",
+  "name": "Mock Sour Cream",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condiments",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup nonfat cottage cheese",
+    "2 tablespoons lemon juice",
+    "2 tablespoons fat-free mayonnaise",
+    "1/4 cup nonfat buttermilk",
+    "zest of 1/2 lemon (optional, to my taste)"
+  ],
+  "recipeInstructions": "1. Combine all ingredients in a blender.\n2. Blend until smooth and well combined.\n3. Use in place of sour cream in recipes as desired.",
+  "url": null
+}

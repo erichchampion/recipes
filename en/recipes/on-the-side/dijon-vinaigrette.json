@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "dijon-vinaigrette",
+  "name": "Dijon Vinaigrette",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condiments",
+    "dressings",
+    "french",
+    "sauce",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 tablespoon dijon mustard",
+    "1 tablespoon white wine vinegar",
+    "1 tablespoon marjoram",
+    "1/2 teaspoon kosher salt",
+    "3 tablespoons extra virgin olive oil",
+    "1/4 teaspoon black pepper"
+  ],
+  "recipeInstructions": "1. Combine the ingredients.\n2. Whisk vigorously to mix well.\n3. Serve at room temperature.",
+  "url": null
+}

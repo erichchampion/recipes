@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hershey-brownies",
+  "name": "Brownies de Hershey",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "brownie",
+    "chocolate",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "1 barra de mantequilla sin sal",
+    "4 huevos",
+    "1 lata de sirope de Hershey",
+    "1 taza de harina",
+    "Nueces al gusto"
+  ],
+  "recipeInstructions": "1. Batir el azúcar y la mantequilla hasta que estén bien combinados.\n2. Agregar los huevos uno a uno, batiendo bien después de cada adición.\n3. Incorporar el sirope y la harina hasta que esté justo mezclado.\n4. Mezclar las nueces, si se usan.\n5. Extender la masa sobre una bandeja para hornear engrasada y enharinada.\n6. Hornear durante 30 minutos a 175 °C (350 °F).\n7. Cubrir con glaseado o espolvorear con azúcar glas antes de servir.",
+  "url": null
+}

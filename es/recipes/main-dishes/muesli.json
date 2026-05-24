@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "muesli",
+  "name": "Muesli",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "plato principal",
+    "frutos secos"
+  ],
+  "recipeIngredient": [
+    "1 lb de avena laminada",
+    "1 lb de copos de cebada",
+    "4 oz de frutos secos mixtos, picados",
+    "4 oz de frutas secas, picadas"
+  ],
+  "recipeInstructions": "1. Coloca la avena en un bol.\n2. Añade los ingredientes restantes y mezcla hasta obtener una mezcla uniforme.\n3. Conserva en un recipiente hermético.\n4. Sirve con leche de soja y endulza con sirope de arce o azúcar moreno si lo deseas.\n5. Adorna con rodajas de fruta fresca de temporada.",
+  "url": null
+}

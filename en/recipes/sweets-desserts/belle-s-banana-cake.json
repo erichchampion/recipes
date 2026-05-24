@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "belle-s-banana-cake",
+  "name": "Belle's Banana Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "bananas",
+    "cakes",
+    "desserts",
+    "fruits"
+  ],
+  "recipeIngredient": [
+    "Margarine (1/4 lb)",
+    "Sugar (1 cup)",
+    "Eggs (2)",
+    "Sour cream (1/4 cup)",
+    "Baking powder (1 tsp)",
+    "Baking soda (1 tsp)",
+    "Vanilla extract (1 t)"
+  ],
+  "recipeInstructions": "1. Cream together margarine and sugar until smooth.\n2. Add eggs and sour cream, beating well after each addition.\n3. Sift baking powder and baking soda into the mixture.\n4. Mix in vanilla extract.",
+  "url": null
+}

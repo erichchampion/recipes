@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-dogs",
+  "name": "Chili Dogs",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "2 Frankfurters",
+    "2 Frankfurter Buns, Split",
+    "1/3 cup Chili With Beans",
+    "Optional: Fresh Onion, Chopped"
+  ],
+  "recipeInstructions": "1. Microwave Frankfurters uncovered on high (100%) until warm, about 30 to 45 seconds.\n2. Place one Frankfurter in each bun on a serving plate; spoon chili onto the Frankfurters.\n3. Microwave uncovered until chili is hot, about 1 to 1 1/2 minutes.\n4. If preparing just one Chili Dog, microwave uncovered for 30 to 45 seconds.\n5. To make Coney Dogs, sprinkle fresh chopped onion on the top of the heated chili before serving.",
+  "url": null
+}

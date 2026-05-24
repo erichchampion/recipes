@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-parcels",
+  "name": "Fish Parcels",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "fish",
+    "grilling",
+    "main dish",
+    "meat",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "4 Fish fillets",
+    "2 ounces Butter",
+    "4 Spring onions; chopped",
+    "2 teaspoons Dill weed",
+    "2 tablespoons Lemon juice",
+    "4 tablespoons Double cream",
+    "Salt & Pepper"
+  ],
+  "recipeInstructions": "1. Cut two squares of doubled foil large enough to wrap around the fish.\n2. Grease one side of each piece of foil, then arrange 2 fish fillets in the middle of each and top with equal amounts of the remaining ingredients, adding salt and pepper to taste.\n3. Bring the edges of the foil to the middle and join together to seal tightly.\n4. Place the fish parcels under a hot grill (broiler) for about 10 minutes.\n5. Turn off the heat and leave for 5 minutes before serving.",
+  "url": null
+}

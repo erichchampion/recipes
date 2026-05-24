@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-style-cube-steaks",
+  "name": "Pizza Style Cube Steaks",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "beef",
+    "italian",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1 Cube steak",
+    "1/2 teaspoon Lemon zest",
+    "1/4 teaspoon Dill weed",
+    "1/4 teaspoon Rosemary",
+    "1 slice Tomato, sliced",
+    "1 tablespoon Salad oil",
+    "Salt and pepper to taste",
+    "1/4 teaspoon Oregano",
+    "1 slice Provolone cheese"
+  ],
+  "recipeInstructions": "1. Brush the cube steak with salad oil and lemon zest.\n2. Broil on one side for 5 minutes until browned.\n3. Turn the steak and sprinkle with herbs (dill weed, rosemary).\n4. Broil for another 5 minutes on the other side.\n5. Turn off the broiler and top with cheese and tomato slices.\n6. Serve on toast.",
+  "url": null
+}

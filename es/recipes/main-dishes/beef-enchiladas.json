@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-enchiladas",
+  "name": "Enchiladas de carne",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida cocida",
+    "1 cebolla picada",
+    "2 latas de pimientos chiles picados",
+    "1 diente de ajo picado",
+    "2 tazas de salsa de tomate",
+    "½ cucharadita de sal",
+    "1 huevo batido",
+    "½ lb de queso cheddar rallado",
+    "12 tortillas suaves",
+    "Aceite de oliva",
+    "Salsa roja",
+    "2 cucharadas de aceite"
+  ],
+  "recipeInstructions": "1. Calentar 1/2 cm de aceite en una sartén y freír las tortillas durante unos 15 segundos por cada lado. Retirar y escurrir el exceso de aceite.\n2. En otra sartén, calentar 2 cucharadas de aceite. Saltear la cebolla hasta que esté tierna. Añadir los pimientos chiles, el ajo, la salsa de tomate, la sal y la pimienta. Incorporar la carne molida. Cocinar a fuego lento sin cubrir durante 10 minutos.\n3. Mojar las tortillas en el huevo, rellenar con la mezcla de salsa, enrollar y colocar en un molde para hornear ligeramente engrasado. Verter salsa roja sobre las tortillas, espolvorear con queso rallado y hornear al descubierto a 350°F durante 15 minutos.",
+  "url": null
+}

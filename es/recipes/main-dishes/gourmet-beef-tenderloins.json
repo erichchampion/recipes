@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "gourmet-beef-tenderloins",
+  "name": "Lomos de ternera gourmet",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "asado",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "4 lomos de ternera:",
+    "de 1,5 a 2 pulgadas de grosor",
+    "aproximadamente 6-8 onzas cada uno",
+    "-----RELLENO DE QUESO CON AJO Y Hierbas -----",
+    "7 oz de queso crema con ajo y hierbas",
+    "2 cucharadas de nata para cocinar",
+    "1/2 cucharadita de pimienta negra molida",
+    "2,5 oz de setas laminadas, escurridas"
+  ],
+  "recipeInstructions": "1. Calentar la parrilla.\n2. Cuando esté lista para cocinar, colocar los lomos en una parrilla de gas a fuego medio o sobre brasas a 4-6 pulgadas de la leña media.\n3. Cocinar durante 14-25 minutos, dependiendo del punto deseado, dando la vuelta una vez.\n4. En un cacerol pequeño, mezclar el queso cremoso, la nata y la pimienta; batir bien.\n5. Cocinar a fuego medio hasta que el queso se derrita y la mezcla esté suave, removiendo constantemente.\n6. Incorporar las setas y calentar, removiendo constantemente.\n7. Servir sobre los lomos.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "turkey-waldorf-sandwich",
+  "name": "Sándwich de pavo Waldorf",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches",
+    "pavo"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de mayonesa BEST FOODS",
+    "1/3 taza de apio picado",
+    "1/3 taza de nueces picadas",
+    "1 cucharadita de jugo de limón",
+    "Lechuga",
+    "3/4 libra de lonchas de pavo",
+    "Rodajas de manzana"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar la mayonesa, el apio picado, las nueces picadas y el jugo de limón.\n2. Colocar dos rebanadas de pan tostado.\n3. Superponer la lechuga, las lonchas de pavo, las rodajas de manzana y la mezcla de mayonesa sobre una rebanada de pan.\n4. Tapar con la otra rebanada para completar el sándwich.",
+  "url": null
+}

@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "ratatouille-lasagna",
+  "name": "Lasaña de Ratatouille",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal",
+    "pasta",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 berenjena; en rodajas de 1/4 cm",
+    "2 calabacines; en rodajas de 1/4 cm",
+    "2 calabacines amarillos; en rodajas de 1/4 cm",
+    "2 tazas de tomate triturado; pelado, sin semillas y cortado en dados",
+    "1 taza de pimiento rojo; cortado en dados",
+    "1 taza de cebolla amarilla; cortada en dados",
+    "2 cucharadas de ajo; picado",
+    "2 cucharadas de perejil fresco; picado",
+    "2 cucharadas de albahaca fresca; picada",
+    "2 cucharadas de orégano fresco; picado",
+    "1 taza de queso parmesano rallado",
+    "4 cucharaditas de aceite de oliva",
+    "Sal y pimienta negra al gusto"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180°C.\n2. Colocar la berenjena en un colador, espolvorear con aproximadamente 1 cucharada de sal y dejar escurrir durante 30 minutos. Enjuagar y secar bien las rodajas.\n3. En un bol, mezclar los tomates, cebolla, pimiento y ajo.\n4. En otro bol, combinar el aceite de oliva, hierbas frescas y la mitad del queso parmesano.\n5. Engrasar un molde para hornear de 20x30 cm.\n6. Cubrir el fondo con una capa de rodajas de berenjena, superponiendo ligeramente.\n7. Verter un poco del aceite herbado y sazonar con sal y pimienta.\n8. Agregar capas alternas de calabacín, calabacín amarillo, espolvoreando cada capa con sal y pimienta.\n9. Repetir hasta terminar con una capa de verduras, rociando con el resto del aceite y la mezcla de hierbas.\n10. Cubrir con el queso parmesano restante.\n11. Hornear durante 40 minutos o hasta que las verduras estén tiernas y la parte superior ligeramente dorada. Dejar enfriar un poco antes de cortar y servir.",
+  "url": null
+}

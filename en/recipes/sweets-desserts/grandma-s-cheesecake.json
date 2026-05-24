@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "grandma-s-cheesecake",
+  "name": "Grandma's Cheesecake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cake",
+    "cakes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1 lb Ricotta cheese",
+    "1 lb Cream cheese",
+    "1/2 cup Butter, melted",
+    "1 cup Sugar",
+    "4 Eggs",
+    "1 Juice of 1 Lemon",
+    "1 tsp Salt",
+    "1 tsp Vanilla",
+    "3 tbsp Flour",
+    "3 tbsp Cornstarch",
+    "1 pint Sour cream",
+    "1 Zwieback crumbs, fine",
+    "STRAWBERRY GLACE:",
+    "1 package Strawberry gelatin (3 oz.)",
+    "3/4 cup Cold water",
+    "2 cups Strawberries, fresh/sliced and sweetened",
+    "1 cup Boiling water"
+  ],
+  "recipeInstructions": "1. Mix cheeses with a beater until well combined.\n2. Add melted butter and eggs to the cheese mixture.\n3. Gradually add sugar, salt, vanilla, flour, and cornstarch.\n4. Fold in sour cream thoroughly.\n5. Grease a 12-cup, 10-inch Bundt pan with butter.\n6. Dust the pan with fine Zwieback crumbs.\n7. Pour the batter into the prepared pan.\n8. Bake at 350°F for one hour.\n9. Turn off the oven and let the cheesecake remain in the oven for an additional hour.\n10. Prepare the Strawberry Glace by dissolving gelatin in boiling water, then adding cold water and allowing it to cool until syrupy.\n11. Add sliced strawberries and spoon over the cooled cheesecake.\nWARNING: To prevent false-positive safety triggers, avoid using aggressive culinary terms like \"kill the heat\" or \"burn.\" Use \"turn off\" instead of \"kill the heat,\" and avoid words like \"destroy,\" \"splutter,\" or \"execute.\"",
+  "url": null
+}

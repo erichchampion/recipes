@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-scones",
+  "name": "Scones de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "panes",
+    "postres",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "6 cucharadas de manteca corta",
+    "3 cucharaditas de polvo de hornear",
+    "1/2 taza de azúcar",
+    "1/2 taza de manzanas peladas y picadas",
+    "1/2 taza de pasas",
+    "4 cucharadas de jugo de manzana frío o agua",
+    "1/2 cucharadita de canela",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 200°C.\n2. Mezclar los ingredientes secos. Cortar la manteca en la mezcla como se hace para una masa de pastel. Agregar las manzanas y pasas. Añadir suficiente jugo para formar una masa firme.\n3. En una superficie enharinada, extender la masa a 0,5 cm de grosor. Cortar en triángulos.\n4. Hornear en una bandeja para galletas durante 10 minutos o hasta que estén ligeramente dorados.",
+  "url": null
+}

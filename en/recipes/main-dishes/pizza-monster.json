@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-monster",
+  "name": "Pizza Monster",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "Boboli Italian Bread Shell (12\")",
+    "Boboli Pizza Sauce Pouch (5 oz)",
+    "Hormel Pre-Sliced Pepperoni (8 oz)",
+    "Shredded Mozzarella Cheese (1/4 cup)",
+    "Green pepper strips",
+    "Mushrooms (3)",
+    "Black olive"
+  ],
+  "recipeInstructions": "1. Spread Boboli Pizza Sauce on the Boboli Italian Bread Shell.\n2. Place Hormel Pre-Sliced Pepperoni on the sauce.\n3. Sprinkle shredded mozzarella cheese over the pepperoni.\n4. Arrange green pepper strips and mushrooms to create a monster face on top of the pizza.\n5. Bake on an ungreased baking sheet at 450°F for 8-10 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+  "url": null
+}

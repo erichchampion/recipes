@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "peanut-butter-pancakes",
+  "name": "Tortitas de mantequilla de maní",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "plato principal",
+    "crepes"
+  ],
+  "recipeIngredient": [
+    "2 tazas de mezcla para tortitas",
+    "2 tazas de leche",
+    "2 huevos",
+    "6 cucharadas de mantequilla de maní"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol hasta obtener una masa suave.\n2. Verter la masa en una sartén o parrilla precalentada y engrasada ligeramente.\n3. Cocinar las tortitas hasta el tamaño y la textura deseados.",
+  "url": null
+}

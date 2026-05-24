@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-tequila",
+  "name": "Pollo Tequila",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "pasta",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 taza de caldo de pollo fuerte",
+    "9 onzas de tomates enteros, escurridos",
+    "3 dientes de ajo, picados",
+    "2 pechugas de pollo sin hueso",
+    "1/2 taza de tequila",
+    "2 jugos de limón de dos limas",
+    "Una pizca generosa de pimienta cayena",
+    "1 cucharada de polvo de chile",
+    "1 cucharadita de comino",
+    "1/2 cucharadita de cilantro molido",
+    "Sal al gusto",
+    "Aceite de oliva"
+  ],
+  "recipeInstructions": "1. Cocinar las pechugas de pollo en el caldo hasta que estén tiernas. Retirar y cortar en cubos. Reservar el caldo.\n2. Calentar aceite de oliva en una sartén. Agregar el ajo y saltear durante aproximadamente 1 minuto.\n3. Añadir los tomates (tritúralos) y los ingredientes restantes a la sartén. Mezclar bien.\n4. Cocinar, cubierto, a fuego lento durante 30 minutos.\n5. Devolver el pollo a la sartén y calentar hasta que esté caliente por completo.\n6. Mezclar con fideos cocidos. Si la salsa se espesa demasiado, agregar más caldo de pollo según sea necesario.\n7. Espolvorear con queso parmesano y decorar con hojas de albahaca o perejil fresco.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolaty-pudding-cake",
+  "name": "Pastel de tarta de chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "tarta",
+    "tartas",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina de trigo blanco sin blanquear",
+    "1 taza de azúcar",
+    "1/2 taza de cacao en polvo",
+    "2 cucharaditas de polvo de hornear",
+    "1/2 taza de leche de soja (o leche de arroz o almendras)",
+    "2 cucharadas de aceite vegetal",
+    "1/2 taza de nueces picadas",
+    "1 1/4 tazas de agua caliente"
+  ],
+  "recipeInstructions": "Precalentar el horno a 350 °F. Engrasar ligeramente un molde cuadrado de 9 pulgadas.\nEn un bol grande, mezclar la harina, 1/2 taza de azúcar, 1/4 taza de cacao y el polvo de hornear.\nAgregar la leche de soja y las nueces picadas.\nExtender la mezcla de pastel en el molde y espolvorear con la mitad restante del azúcar (1/2 taza) y 1/4 taza de cacao.\nVerter el agua caliente sobre toda la masa del pastel.\nHornear durante 35 a 40 minutos, o hasta que el pastel esté firme y la salsa de chocolate burbujee.",
+  "url": null
+}

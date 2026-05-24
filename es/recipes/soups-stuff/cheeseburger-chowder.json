@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheeseburger-chowder",
+  "name": "Cazuela de Hamburguesa con Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "2 papas medianas, peladas y cortadas en cubos",
+    "1/2 taza de cebolla picada",
+    "1/2 taza de apio picado",
+    "2 cucharadas de pimiento verde picado",
+    "1 cucharadita de base de carne",
+    "1/2 cucharadita de sal",
+    "2 1/2 tazas de leche",
+    "3 cucharadas de harina",
+    "1 taza de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida en una olla grande y escurrir el exceso de grasa.\n2. Incorporar la cebolla, el apio, el pimiento verde, la base de carne y la sal.\n3. Añadir 1 1/2 tazas de agua a la olla y llevar a ebullición.\n4. Tapar y cocinar las verduras hasta que estén tiernas, aproximadamente entre 15 y 20 minutos.\n5. En un bol aparte, mezclar media taza de leche con tres cucharadas de harina.\n6. Incorporar lentamente la mezcla de harina a la olla con el resto de la leche, removiendo constantemente.\n7. Continuar cocinando y removiendo hasta que la salsa espese y burbujee.\n8. Añadir el queso cheddar rallado a la sopa y remover hasta que se derrita por completo.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-supper-dish",
+  "name": "Easy Supper Dish",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "casseroles",
+    "main dish"
+  ],
+  "recipeIngredient": [
+    "2 tablespoons butter",
+    "1 cup macaroni",
+    "2 cups tomato juice",
+    "1/2 pound ground beef",
+    "1 small onion",
+    "1 teaspoon salt",
+    "1/4 teaspoon pepper",
+    "grated cheese"
+  ],
+  "recipeInstructions": "1. Melt the butter in a frying pan.\n2. Add the macaroni and tomato juice, bring to boil.\n3. Stir in the ground beef and onion.\n4. Add salt and pepper; cook for 20 minutes.\n5. Sprinkle with grated cheese on top and let melt.",
+  "url": null
+}

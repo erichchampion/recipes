@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-frostea",
+  "name": "Froze de frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "aperitivos",
+    "té"
+  ],
+  "recipeIngredient": [
+    "1 taza de agua hirviendo",
+    "1 bolsa de té familiar Lipton",
+    "1 taza de azúcar o miel",
+    "2 tazas de piña fresca cortada en trozos, o 1 taza de fresas sin tallo",
+    "1 banana cortada en rodajas",
+    "3 tazas de cubitos de hielo"
+  ],
+  "recipeInstructions": "1. En una tetera, vierte el agua hirviendo sobre la bolsa de té y cubre. Deja infusionar durante 5 minutos.\n2. Retira la bolsa de té y deja que se enfríe un poco.\n3. En una licuadora, combina el té infundido, el azúcar o miel, la piña (o fresas) y la banana. Añade los cubitos de hielo uno a uno y mezcla hasta obtener una consistencia helada.\n4. Sirve inmediatamente.",
+  "url": null
+}

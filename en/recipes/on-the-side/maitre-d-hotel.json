@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "maitre-d-hotel",
+  "name": "Maitre D/Hotel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "dressings",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1/4 cup Butter",
+    "1 tbsp Lemon juice",
+    "1/2 tsp Salt",
+    "1/2 tsp Cayenne",
+    "Chopped parsley"
+  ],
+  "recipeInstructions": "1. Mix all ingredients together and use over veggies, steak, chicken or fish.",
+  "url": null
+}

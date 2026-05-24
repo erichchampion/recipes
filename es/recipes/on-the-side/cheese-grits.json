@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-grits",
+  "name": "Gritas de queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso",
+    "aperitivo",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de grutos",
+    "2 tazas de agua",
+    "1 cucharadita de sal",
+    "2 huevos, separados en yemas y claras",
+    "1 taza de queso cheddar rallado",
+    "1 cucharada de salsa Worcestershire",
+    "1/4 taza de mantequilla derretida",
+    "Pimienta cayena al gusto",
+    "1/4 taza de pan rallado"
+  ],
+  "recipeInstructions": "1. Cocinar los grutos en agua salada hasta que espesen.\n2. Batir las yemas de huevo. Añadir lentamente la mantequilla.\n3. Incorporar los quesos, la salsa Worcestershire y la pimienta cayena.\n4. Mezclar esta mezcla con los grutos cocidos.\n5. Batir las claras de huevo hasta que estén firmes.\n6. Mezclar suavemente las claras con la mezcla de grutos.\n7. Transferir a un molde para horno engrasado.\n8. Espolvorear con pan rallado.\n9. Hornear a 175 °C durante 45 minutos.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "blender-pesto",
+  "name": "Pesto en licuadora",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pasta",
+    "pesto",
+    "arroz",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 tazas de hojas de albahaca fresca, empaquetadas",
+    "1/2 taza de aceite de oliva",
+    "2 cucharadas de piñones",
+    "2 dientes de ajo, pelados",
+    "1 cucharadita de sal",
+    "1/2 taza de queso parmesano rallado",
+    "2 cucharadas de queso romano rallado",
+    "3 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. Coloca la albahaca, el aceite de oliva, los piñones, los dientes de ajo y la sal en la licuadora o procesador de alimentos (yo uso el procesador de alimentos) y mezcla a velocidad alta.\n2. Detén la mezcla ocasionalmente y raspa los ingredientes hacia abajo con un espátula de goma.\n3. Cuando los ingredientes estén bien mezclados, vierte en un bol y bate a mano los quesos rallados. Esto resulta en una textura más interesante y un mejor sabor que mezclar el queso en la licuadora.\n4. Bate la mantequilla ablandada (a temperatura ambiente).\n5. Antes de servir sobre la pasta, añade una cucharada o dos de agua caliente en la que se haya cocido la pasta.",
+  "url": null
+}

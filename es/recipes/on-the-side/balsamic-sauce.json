@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "balsamic-sauce",
+  "name": "Salsa de vinagre balsámico",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "italiano",
+    "salsas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 taza de vinagre balsámico",
+    "4 dientes de ajo; laminados",
+    "2 ramitas de romero fresco",
+    "2 cucharadas de mantequilla; opcional"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes excepto la mantequilla en una cacerola.\n2. Lleva a ebullición a fuego medio.\n3. Disminuye el calor y deja cocinar a fuego lento hasta que se reduzca a la mitad, aproximadamente 10 minutos.\n4. La salsa estará lista cuando cubra la parte posterior de una cuchara.\n5. Añade la mantequilla opcional y mezcla bien.",
+  "url": null
+}

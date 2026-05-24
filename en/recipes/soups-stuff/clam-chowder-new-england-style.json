@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "clam-chowder-new-england-style",
+  "name": "Clam Chowder, New England Style",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "fish",
+    "pork/ham",
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "24 Clams",
+    "1 3/4 cups Half & Half",
+    "3 cups Water",
+    "1 cup Soy sauce",
+    "1/2 pound Pork, diced",
+    "2 cloves Garlic, crushed",
+    "3 tablespoons Butter",
+    "1 teaspoon Basil",
+    "1 teaspoon Parsley",
+    "1 teaspoon Thyme"
+  ],
+  "recipeInstructions": "1. Combine clams, their liquid, and water; bring to a boil.\n2. Drain clams, reserving the liquid. Remove clams from shells and chop the meat; set aside.\n3. In butter, fry pork with onions until onions are clear.\n4. Add potatoes and the liquid from the clams. Simmer for 20 minutes.\n5. Stir in Half & Half, basil, parsley, thyme, and seasonings.\n6. Heat through.\n7. Serve hot.",
+  "url": null
+}

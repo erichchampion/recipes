@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "bananas-mexicana",
+  "name": "Bananas Mexicanas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "plátanos",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "6 plátanos",
+    "1/2 taza de jugo de naranja",
+    "1/4 taza de azúcar morena",
+    "2 cucharadas de mantequilla",
+    "1 taza de coco rallado"
+  ],
+  "recipeInstructions": "1. Pelar los plátanos y dividirlos a lo largo.\n2. Disponer las mitades de plátano en un plato para hornear engrasado.\n3. Mezclar el jugo de naranja y el azúcar morena.\n4. Verter la mezcla sobre los plátanos.\n5. Hacer puntos con la mantequilla sobre los plátanos.\n6. Espolvorear uniformemente el coco rallado sobre todo.\n7. Hornear a 200 °C durante 10 a 15 minutos, o hasta que el coco esté crujiente y dorado.",
+  "url": null
+}

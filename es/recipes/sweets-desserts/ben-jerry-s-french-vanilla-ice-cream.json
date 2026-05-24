@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "ben-jerry-s-french-vanilla-ice-cream",
+  "name": "Helado de vainilla francesa de Ben & Jerry",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "2 huevos grandes",
+    "3/4 taza de azúcar",
+    "2 tazas de nata para montar",
+    "1 taza de leche",
+    "2 cucharaditas de extracto de vainilla"
+  ],
+  "recipeInstructions": "1) Batir los huevos en un bol hasta que estén ligeros y espumosos, 1 a 2 minutos. Incorporar el azúcar poco a poco, batiendo continuamente, y seguir batiendo durante unos 1 minuto más hasta que esté completamente mezclado.\n2) Verter la nata, la leche y el extracto de vainilla y mezclar bien.\n3) Transferir la mezcla a una máquina de helados y congelar según las instrucciones del fabricante. Rinde 1 litro.",
+  "url": null
+}

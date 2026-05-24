@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "the-bee-cheese",
+  "name": "The Bee Cheese",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "appetizers",
+    "cheese",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "10 oz Sharp cheese, grated",
+    "10 oz Butter, softened",
+    "2 tbsp Sherry",
+    "1 tbsp Horseradish",
+    "0.5 tsp Garlic salt"
+  ],
+  "recipeInstructions": "1. Blend all ingredients together well.\n2. Pack the mixture into a crock.\n3. Serve with crackers.\n4. This recipe is best if made several days in advance before serving.",
+  "url": null
+}

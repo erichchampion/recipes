@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cold-gazpacho",
+  "name": "Gazpacho frío",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 pimiento verde cortado en cubos",
+    "4 tomates cortados en cubos",
+    "1 cebolla cortada en cubos",
+    "3 dientes de ajo picados",
+    "3 tazas de agua",
+    "1/4 taza de vino",
+    "3 cucharaditas de zumo de limón",
+    "1 cebolleta finamente picada"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes, excepto la cebolleta, en una licuadora hasta obtener una puré suave.\n2. Prueba y ajusta la sazón, añadiendo más agua si está demasiado picante.\n3. Cuela la mezcla a través de un colador fino o un paño de cocina, desechando las partes sólidas que no se hayan licuado completamente.\n4. Refrigera durante la noche.\n5. Sirve frío en vasos o cuencos y decora con trozos de cebolleta flotando en la superficie.",
+  "url": null
+}

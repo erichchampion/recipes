@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tex-mex-chicken-n-rice",
+  "name": "Pollo y arroz Tex-Mex",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 tazas de arroz blanco cocido",
+    "1 lata de tomates troceados (28 onzas)",
+    "1 lata de puré de tomate (6 onzas)",
+    "3 tazas de agua caliente",
+    "1 sobre de mezcla para guiso de pollo taco (1,04 oz.)",
+    "4 pechugas de pollo sin piel y deshuesadas, cortadas en cubos",
+    "2 cebollas medianas, picadas",
+    "1 lata de chiles verdes troceados (4 onzas)",
+    "3/4 cucharadita de pimienta ajo"
+  ],
+  "recipeInstructions": "1. En una olla eléctrica para cocción lenta de 5 cuartos, combina todos los ingredientes excepto los chiles verdes y la pimienta ajo.\n2. Tapa y cocina a temperatura baja durante 4 a 4,5 horas, o hasta que el arroz esté tierno y el pollo esté cocido; evita sobrecocinar ya que esto hará que el arroz quede gomoso.\n3. Incorpora los chiles verdes y la pimienta ajo. Sirve inmediatamente.",
+  "url": null
+}

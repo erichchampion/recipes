@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-rotel-style",
+  "name": "Chili al estilo Rotel",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "sopas",
+    "suroeste"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne molida",
+    "1 cebolla mediana, picada",
+    "1 pimiento verde, picado",
+    "2 latas de dados de tomate Rotel con chiles verdes (10 oz)",
+    "1 lata de puré de tomate (15 oz)",
+    "1 lata de salsa de tomate (8 oz)",
+    "1 sobre de condimento para chili (1 1/4 oz)"
+  ],
+  "recipeInstructions": "1. Cocinar la carne molida, la cebolla y el pimiento verde en una olla grande hasta que la carne esté dorada.\n2. Escurrir el exceso de grasas.\n3. Agregar los ingredientes restantes; tapar y dejar cocinar a fuego lento durante 20 minutos, removiendo ocasionalmente.\n4. Rinde para 8 porciones.",
+  "url": null
+}

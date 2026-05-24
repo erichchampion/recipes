@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-macaroni-pie",
+  "name": "Pastel de macarrones al horno lento",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento"
+  ],
+  "recipeIngredient": [
+    "8 onzas (macarrones cocidos)",
+    "3 tazas de queso rallado",
+    "1 lata (400 ml) de leche evaporada",
+    "1 1/2 tazas de leche dulce",
+    "2 huevos",
+    "1/4 taza de margarina",
+    "1 cucharadita de azúcar",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar los macarrones cocidos con el resto de los ingredientes en un bol grande.\n2. Verter la mezcla en una olla para cocción lenta engrasada.\n3. Cocinar a fuego medio durante 3 1/2 horas, removiendo ocasionalmente.",
+  "url": null
+}

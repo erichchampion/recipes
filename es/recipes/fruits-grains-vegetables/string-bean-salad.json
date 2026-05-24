@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "string-bean-salad",
+  "name": "Ensalada de Judías Verdes",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "tailandés"
+  ],
+  "recipeIngredient": [
+    "1 lb de judías verdes, blanqueadas y cortadas",
+    "2 chiles verdes, picados en juliana",
+    "2 chiles rojos, picados en juliana",
+    "1/2 lb de tofu, prensado y cortado en cubos",
+    "1/2 taza de leche de coco",
+    "2 cucharadas de salsa de soja",
+    "4 cucharadas de jugo de limón",
+    "2 cucharadas de azúcar",
+    "2 cucharadas de salsa picante"
+  ],
+  "recipeInstructions": "1. Coloca las judías en un gran plato de servir.\n2. Dispones los chiles verdes y rojos, y los cubos de tofu encima.\n3. En un bol pequeño, mezcla la leche de coco, la salsa de soja, el jugo de limón, el azúcar y la salsa picante.\n4. Justo antes de servir, vierte el aderezo sobre la ensalada.",
+  "url": null
+}

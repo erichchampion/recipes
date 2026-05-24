@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "many-grains-bread",
+  "name": "Pan de Muchos Granos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 1/8 tazas de agua",
+    "1/2 taza de harina de trigo integral",
+    "2 tazas de harina de pan",
+    "1/2 taza de avena instantánea",
+    "3/4 taza de cereal de 7 granos",
+    "2 cucharadas de polvo de buttermilk",
+    "2 cucharadas de azúcar",
+    "2 cucharadas de miel",
+    "2 cucharadas de margarina",
+    "2 sobre de levadura",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande.\n2. Dar forma a la masa en un pan y colocarlo en un molde engrasado.\n3. Establecer el horno en modo corteza ligera y ciclo de pan blanco.\n4. Hornear hasta que esté listo, apagar cuando alcance el punto adecuado.",
+  "url": null
+}

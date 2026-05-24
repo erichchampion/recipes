@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "scotch-teas",
+  "name": "Té Escocés",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla o margarina",
+    "1 taza de azúcar moreno (C&H), apretadamente compactado",
+    "2 tazas de avena rápida",
+    "1/4 cucharadita de sal",
+    "1 cucharadita de polvo de hornear"
+  ],
+  "recipeInstructions": "1. Combinar la mantequilla y el azúcar moreno en una sartén. Cocinar y remover hasta que la mantequilla se derrita.\n2. Retirar del fuego. Incorporar los ingredientes restantes; mezclar bien.\n3. Verter en un molde cuadrado de 8 pulgadas engrasado.\n4. Hornear a 175 °C durante 25 minutos.\n5. Enfriar, luego cortar en 24 barras.\nNota: Las galletas parecerán suaves al hornearse, pero se endurecerán al enfriarse.",
+  "url": null
+}

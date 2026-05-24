@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cup-cheese",
+  "name": "Cup Cheese",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "cheese",
+    "dairy",
+    "miscellaneous",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "Thick milk (soured milk)",
+    "Salt",
+    "Baking soda",
+    "Cream",
+    "Butter (1/2 lb)",
+    "Egg"
+  ],
+  "recipeInstructions": "1. Thick milk is soured milk.\n2. Scald thick milk by baking at 350°F for a few minutes; allow to remain long enough to set the curds. Drain off the water, put curds in an earthen vessel and keep at a moderately warm temperature (about 75°F).\n3. Each day for a week, add new baked curds.\n4. At the end of a week, pour curds into a heated pan and let simmer very slowly; bring to a slow boil without stirring.\n5. Add a pinch of salt, baking soda dissolved in cream, and butter (1/2 lb). Stir the mixture and continue boiling for 15 minutes.\n6. Add beaten eggs and pour mixture into small cheese cups.",
+  "url": null
+}

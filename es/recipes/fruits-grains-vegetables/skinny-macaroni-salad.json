@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "skinny-macaroni-salad",
+  "name": "Ensalada de macarrones ligera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pasta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 taza de tomates pelados y picados",
+    "2 cucharadas de vinagre balsámico",
+    "1/4 taza de cebolla roja picada",
+    "2 cucharadas de aceite de oliva",
+    "2 cucharadas de albahaca fresca picada",
+    "1/8 cucharadita de pimienta negra molida",
+    "2 dientes de ajo picados",
+    "2 tazas de pasta penne, elbos o similar cocida"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto la pasta en un bol de vidrio.\n2. Tapar y dejar reposar a temperatura ambiente durante 1 hora.\n3. Antes de servir, incorporar la pasta.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "burrito-filling",
+  "name": "Relleno de burrito",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americana",
+    "vacuna",
+    "étnica",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "4 cucharadas de aceite",
+    "14,5 onzas de caldo de carne enlatado",
+    "3,5 a 4 libras de carne de guiso",
+    "4 onzas de chiles verdes enlatados",
+    "12 onzas de jugo de verduras enlatado",
+    "3 dientes de ajo picados"
+  ],
+  "recipeInstructions": "1. Rallar queso cheddar.\n2. Dorar la carne en aceite y escurrir el exceso de grasa.\n3. Agregar los ingredientes restantes, excepto el queso.\n4. Reducir a fuego lento durante 2 a 3 horas.\n5. Una vez cocido, desmenuzar la carne con un tenedor y escurrir el líquido en exceso.\n6. Servir sobre tortillas con queso cheddar rallado por encima.",
+  "url": null
+}

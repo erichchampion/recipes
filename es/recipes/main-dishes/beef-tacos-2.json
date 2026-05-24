@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-tacos-2",
+  "name": "Tacos de carne",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americana",
+    "étnica",
+    "plato principal",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "1 cebolla picada",
+    "Sal al gusto",
+    "1 diente de ajo picado (opcional)",
+    "Paquetes de tortillas para tacos",
+    "1 taza de salsa verde o salsa para tacos"
+  ],
+  "recipeInstructions": "1. Cocinar la carne molida y la cebolla picada en una sartén a fuego medio hasta que la carne esté dorada, unos 5-7 minutos.\n2. Añadir sal al gusto.\n3. Si se desea, incorporar el ajo picado durante los últimos minutos de cocción.\n4. Repartir la mezcla de carne uniformemente entre las tortillas para tacos.\n5. Cubrir cada tortilla con lechuga, rodajas de tomate y queso.\n6. Servir con salsa verde o salsa para tacos adicional al lado.\n7. Opcionalmente, coronar con crema agria o guacamole para un sabor extra.",
+  "url": null
+}

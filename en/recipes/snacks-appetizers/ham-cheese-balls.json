@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-cheese-balls",
+  "name": "Ham & Cheese Balls",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "cheese",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "1/4 lb Finely ground ham",
+    "1/4 lb Cream cheese",
+    "2 tbsp Worcestershire sauce",
+    "1 tbsp Catsup",
+    "1 tsp Pepper",
+    "1 tbsp Lemon juice",
+    "1/8 tsp Salt"
+  ],
+  "recipeInstructions": "1. Blend all ingredients thoroughly until combined.\n2. Form the mixture into small balls, about 1-2 inches in diameter.\n3. Roll each ball in chopped chives.\n4. Serve the ham and cheese balls on toothpicks.\n5. Makes approximately 30 balls.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "sausage-1",
+  "name": "Salsicha 1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "embutidos"
+  ],
+  "recipeIngredient": [
+    "3/4 de casings de cerdo medio",
+    "2 kg de lomo de cerdo magro",
+    "500 g de grasa de cerdo",
+    "5 cucharaditas de sal grueso (sal kosher, sin yodo)",
+    "3 cucharaditas de pimienta negra fresca, molida grossamente",
+    "2 ajos, picados finamente",
+    "2 1/2 cucharaditas de semillas de eneldo",
+    "1 cucharadita de semillas de anís",
+    "Pimienta roja molida al gusto"
+  ],
+  "recipeInstructions": "1. Preparar las casings lavándolas con agua y remojándolas en una solución salina.\n2. Moler la carne de cerdo y la grasa juntas a través del disco de molienda gruesa.\n3. Mezclar los ingredientes restantes (sal, pimienta, ajo, semillas de eneldo, semillas de anís) con la carne molida y la grasa hasta que estén bien combinados.\n4. Rellenar la mezcla en las casings usando un rellenador de salchichas o una aguja, formando enlaces de unos 8-10 cm de largo.\n5. Refrigerar las salchichas y consumirlas en un plazo de tres días, o envolverlas individualmente y congelarlas para su uso posterior.\nNota: Para un sabor adicional, considere mezclar aproximadamente 1 cucharada de albahaca seca y 1 cucharada de orégano italiano seco antes de rellenar.",
+  "url": null
+}

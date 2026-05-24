@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegi-spaghetti",
+  "name": "Spaguetis de verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 pimiento verde mediano, picado",
+    "1 calabacín mediano, cortado en cubos",
+    "1 cebolla pequeña, picada",
+    "8 onzas de setas frescas, laminadas",
+    "2/3 taza de queso parmesano rallado",
+    "1 frasco grande de salsa para espaguetis (o prepara tu propia receta)",
+    "1/4 taza de aceitunas en rodajas",
+    "1 cucharadita de orégano",
+    "1 cucharadita de sal de ajo",
+    "1 paquete de espinacas en forma de pasta"
+  ],
+  "recipeInstructions": "1. Agrega todos los ingredientes excepto las espinacas cocidas a una olla de cocción lenta.\n2. Cocina a fuego medio durante 6-8 horas, removiendo ocasionalmente.\n3. Vierte la salsa sobre las espinacas cocidas y sirve.",
+  "url": null
+}

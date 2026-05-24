@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "deep-dish-pizza-no-1",
+  "name": "Pizza profunda número 1",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "italiano",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina de uso común",
+    "1 cucharadita de sal",
+    "1 taza de agua tibia",
+    "3 cucharadas de aceite de oliva, más para untar"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar la harina y la sal.\n2. Añadir gradualmente el agua tibia y el aceite de oliva a los ingredientes secos. Remover hasta formar una masa.\n3. Amasar la masa sobre una superficie enharinada durante unos 10 minutos, o hasta que sea suave y elástica.\n4. Colocar la masa en un bol engrasado, cubrir con papel film y dejar levar en un lugar cálido durante aproximadamente 1 hora, o hasta que doble su tamaño.\n5. Precalentar el horno a 220 °F (425°C).\n6. Presionar la masa levada en una sartén profunda para pizza engrasada.\n7. Extender una capa de salsa de tomate sobre la base.\n8. Agregar los toppings y queso deseados.\n9. Hornear durante 20-25 minutos, o hasta que la corteza sea dorada y burbujeante.\n10. Retirar del horno y dejar enfriar ligeramente antes de cortar y servir.",
+  "url": null
+}

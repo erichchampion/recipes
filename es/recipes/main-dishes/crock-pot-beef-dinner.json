@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "crock-pot-beef-dinner",
+  "name": "Cena de ternera en olla de cocción lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne de res tipo chuck u otra corte",
+    "1 cebolla, en rodajas",
+    "2 dientes de ajo, picados",
+    "2 zanahorias, en rodajas",
+    "2 tallos de apio, picados",
+    "300 g de tomates enlatados estofados",
+    "1 sobre de sopa Lipton con cebolla y setas",
+    "1 cucharadita de Kitchen Bouquet",
+    "1 cucharada de salsa Worcestershire",
+    "1 lata de setas (opcional)"
+  ],
+  "recipeInstructions": "1. Agregar la cebolla, el ajo, las zanahorias y el apio a la olla de cocción lenta.\n2. Colocar la carne sobre los vegetales.\n3. Mezclar la salsa Worcestershire, Kitchen Bouquet y el sobre de sopa seca.\n4. Verter los tomates estofados sobre la mezcla.\n5. Cocinar a fuego bajo durante 7 horas.\n6. Agregar las setas y cocinar por otra hora aproximadamente.\n7. Retirar la carne.\n8. Si se desea una salsa más espesa, mezclar 2 cucharadas de harina y poner la olla a fuego alto removiendo durante un minuto.\n9. Servir con arroz o fideos (o agregar papas cortadas en trozos con los vegetales).",
+  "url": null
+}

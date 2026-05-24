@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-chicken-and-rice",
+  "name": "Mexican Chicken and Rice",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "mexican",
+    "poultry",
+    "rice"
+  ],
+  "recipeIngredient": [
+    "1 lb chicken breast (boneless & skinless)",
+    "2 tablespoons oil",
+    "1 can chicken broth",
+    "1 can tomato sauce",
+    "1 package taco mix seasoning",
+    "1 can corn (drained)",
+    "1 1/2 cups minute rice",
+    "cheese",
+    "chips",
+    "sour cream"
+  ],
+  "recipeInstructions": "1. Cook and stir the chicken in hot oil until browned.\n2. Add the chicken broth, tomato sauce, and taco mix seasoning to the skillet. Bring the mixture to a boil.\n3. Reduce heat, cover, and simmer for 5 minutes.\n4. Stir in the corn and bring the mixture back to a full boil.\n5. Stir in the minute rice and remove from heat. Cover.\n6. Let stand for 5 minutes before serving with cheese, chips, and sour cream.",
+  "url": null
+}

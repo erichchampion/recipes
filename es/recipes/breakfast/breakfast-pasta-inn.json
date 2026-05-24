@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-pasta-inn",
+  "name": "Pasta para el desayuno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "4 onzas de espagueti",
+    "1 huevo",
+    "2 cucharadas de mantequilla",
+    "1/4 taza de queso rallado a elección",
+    "Pepperoni, jamón",
+    "O tocino desmenuzado (opcional)"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta en una olla con agua hirviendo hasta que esté tierna.\n2. Escurrir y devolver la pasta a la sartén.\n3. Batir el huevo en un bol pequeño y verterlo sobre la pasta caliente junto con la mantequilla y la mayor parte del queso.\n4. Calentar a fuego lento, removiendo hasta que el huevo se cuaje sobre la pasta y el queso se derrita.\n5. Agregar pepperoni, jamón o tocino desmenuzado si se desea.\n6. Espolvorear más queso rallado sobre cada porción.",
+  "url": null
+}

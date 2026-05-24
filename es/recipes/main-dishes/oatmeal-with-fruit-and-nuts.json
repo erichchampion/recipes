@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "oatmeal-with-fruit-and-nuts",
+  "name": "Avena con frutas y nueces",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "bajo en calorías",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "3 tazas de agua",
+    "1/2 cucharadita de canela en polvo",
+    "1/4 cucharadita de sal",
+    "1 taza de avena regular laminada",
+    "1 manzana mediana, picada",
+    "1/4 taza de dátiles enteros sin hueso",
+    "2 cucharadas de almendras laminadas",
+    "2 2/3 tazas de leche desnatada"
+  ],
+  "recipeInstructions": "1. En una cacerola mediana, mezclar el agua, la canela y la sal.\n2. Llevar a ebullición; añadir la avena y remover.\n3. Cocinar durante 5 minutos, removiendo ocasionalmente.\n4. Dejar reposar, cubierto, hasta alcanzar la consistencia deseada.\n5. Dividir la avena entre 4 cuencos para servir.\n6. Adornar cada cuenco con manzana picada, dátiles, almendras y azúcar moreno.\n7. Verter la leche en los cuencos para servir.",
+  "url": null
+}

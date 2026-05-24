@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "moose-stroganoff",
+  "name": "Estofado de Alce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "juego",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "2 lb de solomillo de alce en cubos,",
+    "Grasa para freír",
+    "Sal",
+    "Pimienta",
+    "2 latas de sopa de setas Crema de",
+    "1 lata de leche, 10 oz",
+    "1/4 taza de cebolla picada"
+  ],
+  "recipeInstructions": "1. Dorar el solomillo en grasa en una sartén hasta alcanzar el punto deseado de cocción. Sazonar con sal y pimienta.\n2. Mezclar el solomillo, la sopa de setas Crema, la leche y la cebolla en un recipiente para hornear.\n3. Hornear a 175 °C durante 1 hora.\n4. Servir sobre arroz cocido si se desea.",
+  "url": null
+}

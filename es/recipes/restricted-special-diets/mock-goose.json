@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-goose",
+  "name": "Pavo falso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "dietas especiales",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 lb de patatas, cortadas en cubos",
+    "1 lb de manzanas para cocinar, cortadas en cubos",
+    "1 lb de cebollas, cortadas en cubos",
+    "9 oz de queso, cortado en cubos",
+    "2 cucharadas de perejil fresco picado",
+    "Sal y pimienta al gusto",
+    "4 oz de mezcla de embutido de cebolla y perejil",
+    "2 oz de queso rallado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a gas mark 5 (190°C/375°F).\n2. Mezclar en un bol grande las patatas, manzanas, cebollas, queso y perejil hasta que estén bien combinados y sazonados con sal y pimienta.\n3. Verter la mezcla en un plato para hornear engrasado y cubrir con papel de aluminio o papel pergamino engrasado.\n4. Hornear durante unos 30 minutos hasta que las frutas y verduras estén tiernas.\n5. Mientras tanto, mezclar los ingredientes del topping (mezcla de embutido y queso rallado).\n6. Al final del tiempo de cocción, retirar el plato del horno, espolvorear generosamente la mezcla de topping sobre él y devolverlo al horno.\n7. Aumentar la temperatura a gas mark 9 (240°C/475°F) y hornear durante 10 minutos adicionales o hasta que esté ligeramente dorado.\n8. Servir con una ensalada mixta y pan integral crujiente.",
+  "url": null
+}

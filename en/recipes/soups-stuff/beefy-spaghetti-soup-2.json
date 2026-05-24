@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "beefy-spaghetti-soup-2",
+  "name": "Beefy Spaghetti Soup",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "ground beef",
+    "pasta",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1/2 lb Ground beef (crumbled)",
+    "1 medium Onion",
+    "1 clove Garlic, minced",
+    "4 cups Beef stock",
+    "1 tablespoon Olive oil",
+    "1 can Sliced mushrooms",
+    "1 can Tomato sauce",
+    "1 cup Frozen green beans",
+    "1 1/2 cups Broken spaghetti (uncooked)",
+    "1 teaspoon Parsley flakes",
+    "3/4 teaspoon Salt",
+    "1/8 teaspoon Pepper",
+    "1 Bay leaf",
+    "1/2 teaspoon Oregano"
+  ],
+  "recipeInstructions": "1. In a large casserole dish, combine the ground beef, onion, garlic, and olive oil.\n2. Microwave at high until the meat is no longer pink, stirring once during cooking.\n3. Drain excess fat if necessary.\n4. Add the remaining ingredients to the dish.\n5. Cover and microwave at high for 20 to 25 minutes, stirring occasionally, until the spaghetti is cooked through.",
+  "url": null
+}

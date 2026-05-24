@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "tempura-batter",
+  "name": "Batido de tempura",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "étnico",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de caldo de almeja",
+    "1/4 taza de sake",
+    "1/2 cucharadita de azúcar",
+    "2 1/2 tazas de harina tamizada",
+    "2 tazas de agua fría",
+    "1 litro de aceite vegetal"
+  ],
+  "recipeInstructions": "1. Mezclar la masa, omitiendo el aceite.\n2. Sumergir alimentos como camarones, langosta, almejas y verduras (por ejemplo, brócoli, guisantes) en la masa.\n3. Freír los alimentos en aceite caliente hasta que estén ligeramente dorados.",
+  "url": null
+}

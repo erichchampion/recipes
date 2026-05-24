@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "harvest-punch",
+  "name": "Punch de la Cosecha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "batido",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 lata (6 onzas) de jugo de naranja congelado descongelado",
+    "1 lata (6 onzas) de concentrado de limonada descongelado",
+    "1 lata (6 onzas) de concentrado de jugo de piña descongelado",
+    "10 tazas de agua",
+    "6 clavos enteros",
+    "2 palos de canela"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en una olla de 4 cuartos.\n2. Calentar a fuego lento durante 10 a 15 minutos.\n3. Retirar los clavos y las varas de canela y desecharlos.\n4. Servir caliente. Si se desea, servir el punch en una calabaza vaciada.",
+  "url": null
+}

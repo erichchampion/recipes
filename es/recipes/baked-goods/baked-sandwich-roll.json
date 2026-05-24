@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-sandwich-roll",
+  "name": "Rollo de sándwich horneado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pan",
+    "panes",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 barra de masa madre congelada, descongelada",
+    "1 libra de pastrami de pavo ahumado, cortado finamente",
+    "1/2 libra de pavo ahumado, cortado finamente",
+    "1/2 libra de queso mozzarella, cortado finamente",
+    "mostaza picante",
+    "aderezo italiano",
+    "yema de huevo batida"
+  ],
+  "recipeInstructions": "1. En una superficie ligeramente enharinada, estire la masa descongelada hasta formar un rectángulo de aproximadamente 15x20 pulgadas.\n2. Extienda la mostaza picante de manera uniforme sobre toda la superficie de la masa enrollada.\n3. Coloque capas de pastrami, queso y pavo sobre la mostaza, alternándolas.\n4. Espolvoree el aderezo italiano de forma irregular sobre las rebanadas de pavo.\n5. Enrolle el rectángulo en estilo rollo de pastel, sellando los bordes.\n6. Unte la parte superior con yema de huevo batida.\n7. Hornee a 350°F durante 20 a 30 minutos, o hasta que esté dorado. Si se dora demasiado rápido, cubra con papel de aluminio.\n8. Deje enfriar ligeramente antes de cortar en rebanadas de 2 pulgadas.",
+  "url": null
+}

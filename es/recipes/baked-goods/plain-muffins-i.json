@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "plain-muffins-i",
+  "name": "Muffins simples I",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "muffins"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "3 cucharadas de polvo de hornear",
+    "4 cucharadas de azúcar",
+    "1/2 cucharadita de sal",
+    "3 cucharadas de manteca derretida",
+    "1 huevo, batido bien",
+    "1 taza de leche"
+  ],
+  "recipeInstructions": "1. Cernir la harina y mezclarla con el polvo de hornear y la sal.\n2. Batir el huevo, la manteca, la leche y el azúcar en un bol separado.\n3. Agregar los ingredientes secos a la mezcla húmeda y remover hasta combinarlos justo.\n4. Enmantequillar moldes para muffins y llenar cada cavidad con aproximadamente 2/3 de la masa.\n5. Hornear en horno precalentado (425°F) durante 15-20 minutos.\n6. Servir 10 porciones.",
+  "url": null
+}

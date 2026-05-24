@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "libby-s-famous-pumpkin-pie-recipe",
+  "name": "Receta de Pastel de Calabaza Famoso de Libby",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 huevos, ligeramente batidos",
+    "1 lata (400 g) de puré de calabaza sólido de Libby",
+    "1/2 taza de azúcar",
+    "1/2 cucharadita de sal",
+    "1 cucharada de canela en polvo",
+    "1/2 cucharadita de jengibre molido",
+    "1/4 cucharadita de clavo de olor molido",
+    "1 lata (340 ml) de leche evaporada",
+    "1 masa de tarta sin hornear de 23 cm"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 220 °C.\n2. Mezclar los ingredientes del relleno en el orden indicado: puré de calabaza, azúcar, sal, canela, jengibre y clavo. Batir hasta que quede bien combinado.\n3. Verter la mezcla en la masa de tarta preparada.\n4. Hornear a 220 °C durante 15 minutos.\n5. Reducir la temperatura a 180 °C y continuar horneando durante 45 minutos adicionales o hasta que un cuchillo insertado en el centro del relleno salga limpio.\n6. Retirar del horno y dejar enfriar completamente.\n7. Decorar con crema batida antes de servir.",
+  "url": null
+}

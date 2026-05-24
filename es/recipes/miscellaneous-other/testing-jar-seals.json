@@ -1,0 +1,16 @@
+{
+  "@type": "Recipe",
+  "identifier": "testing-jar-seals",
+  "name": "Pruebas de sellado de tarros",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "misceláneo",
+    "conservación"
+  ],
+  "recipeIngredient": [
+    "Después de enfriar los tarros durante 12 a 24 horas, quitar las bandas de goma y probar los sellos con una de las siguientes opciones:"
+  ],
+  "recipeInstructions": "Opción 1: Presionar el centro de la tapa con un dedo o el pulgar. Si la tapa rebota cuando sueltas el dedo, la tapa no está sellada.\nOpción 2: Golpear la tapa con la parte inferior de una cucharadita. Si produce un sonido apagado, la tapa no está sellada. Si hay alimento en contacto con la parte inferior de la tapa, también producirá un sonido apagado. Si el tarro está correctamente sellado, emitirá un sonido agudo y resonante.\nOpción 3: Sostener el tarro a nivel de los ojos y mirar a través de la tapa. La tapa debe tener una forma cóncava (curvada ligeramente hacia abajo en el centro). Si el centro de la tapa es plano o abultado, puede no estar sellada.",
+  "url": null
+}

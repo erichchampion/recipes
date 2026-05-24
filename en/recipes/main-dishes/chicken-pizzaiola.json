@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-pizzaiola",
+  "name": "Chicken Pizzaiola",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "italian",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb Chicken breast, boneless and skinless",
+    "1/4 cup Olive oil",
+    "Salt & pepper",
+    "1 t Oregano",
+    "1/2 t Parsley",
+    "28 oz Can plum tomatoes, crushed",
+    "2 each Garlic cloves, sliced"
+  ],
+  "recipeInstructions": "1. In a large frying pan with a tight-fitting lid, brown the chicken in oil on both sides, seasoning with salt and pepper.\n2. Combine all other ingredients and pour over the browned chicken breast.\n3. Cover and cook over low heat for 45 minutes, adding water if needed.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-tortilla-bake",
+  "name": "Omelette de pollo al horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "3 tazas de pollo desmenuzado cocido",
+    "2 latas (4 onzas cada una) de chiles verdes picados",
+    "1 taza de caldo de pollo",
+    "1 lata (350 g) de sopa de champiñones condensada sin diluir",
+    "1 lata (350 g) de sopa de pollo condensada sin diluir",
+    "1 pequeña cebolla finamente picada",
+    "12 tortillas de maíz",
+    "2 tazas de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar el pollo, los chiles, el caldo, las sopas y la cebolla; reservar.\n2. Calentar las tortillas en el microondas según las instrucciones del paquete.\n3. Extender la mitad de las tortillas en una fuente para hornear de 20x30 cm, recortándolas si es necesario.\n4. Cubrir con la mitad de la mezcla de pollo y la mitad del queso.\n5. Repetir las capas.\n6. Hornear al descubierto a 180°C durante 30 minutos.",
+  "url": null
+}

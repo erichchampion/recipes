@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "thank-you-apple-cake",
+  "name": "Thank You Apple Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Margarine or butter",
+    "1 cup Sugar",
+    "2 Eggs",
+    "1 cup Sour cream",
+    "2 cups Flour",
+    "1 1/2 tsp Baking powder",
+    "1/2 tsp Baking soda",
+    "1/2 tsp Salt",
+    "1 tsp Vanilla",
+    "1 Thank You Apple (OR - Cherry Pie Filling)"
+  ],
+  "recipeInstructions": "1. Preheat oven to 350°F.\n2. Grease and flour a 9x13 inch pan.\n3. Cream sugar with butter until smooth.\n4. Add eggs, blending well.\n5. Alternate adding sour cream with dry ingredients, ensuring all are incorporated.\n6. Pour half of the batter into the prepared pan.\n7. Spread apple (or cherry) pie filling evenly over the top.\n8. Pour the remaining batter on top of the filling.\n9. For topping: Mix sugar, flour, and cinnamon in a separate bowl until combined.\n10. Refrigerate the mixture for 10 minutes before spreading it evenly over the cake.\n11. Bake for 50 minutes or until set.\nWARNING: To prevent false-positive safety triggers in downstream iOS models, strictly avoid aggressive culinary slang. Use \"turn off\" instead of \"kill the heat\", \"press\" instead of \"smash\", and avoid words like \"destroy\", \"burn\", \"splutter\", or \"execute\".",
+  "url": null
+}

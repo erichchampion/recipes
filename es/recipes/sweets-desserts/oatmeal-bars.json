@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "oatmeal-bars",
+  "name": "Barras de avena",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3 tazas de copos de avena (sin cocinar)",
+    "1 1/4 tazas de harina sin blanquear",
+    "3/4 taza de azúcar granulada",
+    "3/4 taza de azúcar moreno (presionada)",
+    "1 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de canela",
+    "1/4 cucharadita de sal",
+    "1 taza de mantequilla (ablandada)",
+    "2 claras de huevo (batidas)",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375 °F.\n2. Preparar una bandeja para hornear de 9 x 13 pulgadas con spray antiadherente y harina; reservar.\n3. En un bol, combinar la avena, la harina, los azúcares, el bicarbonato de sodio, la canela y la sal.\n4. En otro bol, mezclar la mantequilla, las claras de huevo y el extracto de vainilla.\n5. Mezclar los ingredientes secos con los húmedos hasta que estén humedecidos.\n6. Extender la mezcla en la bandeja preparada.\n7. Hornear durante 25 minutos o hasta que esté ligeramente dorada.",
+  "url": null
+}

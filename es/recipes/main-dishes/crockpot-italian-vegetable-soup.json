@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-italian-vegetable-soup",
+  "name": "Sopa italiana de verduras en olla de cocción lenta",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 lata de maíz (400 g)",
+    "1 lata de mezcla de calabacín y calabaza italianos (360 g)",
+    "1 lata de tomates enteros triturados (800 g)",
+    "1 lata de salsa de tomate (360 g)",
+    "150 g de carne de hamburguesa picada",
+    "2 cucharadas de orégano fresco picado",
+    "Unas hojas de albahaca (al gusto)",
+    "Una pizca de ajo en polvo",
+    "3 hojas de laurel",
+    "2 patatas grandes, peladas y cortadas en rodajas"
+  ],
+  "recipeInstructions": "1. Dorar la carne de hamburguesa en una sartén a fuego medio hasta que ya no quede rosada.\n2. Escurrir el exceso de grasa de la sartén.\n3. Transferir todos los ingredientes a la olla de cocción lenta.\n4. Cocinar a temperatura baja durante 6-8 horas, o hasta que las verduras estén tiernas.\n5. Servir caliente, con perejil fresco picado como decoración opcional.",
+  "url": null
+}

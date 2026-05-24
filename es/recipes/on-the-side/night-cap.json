@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "night-cap",
+  "name": "Capotada nocturna",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "aperitivos",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 oz de ron",
+    "1 cucharadita de azúcar",
+    "4 oz de leche tibia",
+    "Una pizca de canela"
+  ],
+  "recipeInstructions": "1. Vierte el ron en una taza de café.\n2. Añade el azúcar y la leche tibia y remueve hasta que esté bien combinado.\n3. Espolvorea una pizca de canela encima para un sabor extra.",
+  "url": null
+}

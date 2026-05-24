@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "cappuccino-muffins-2",
+  "name": "Muffins de Cappuccino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de harina de repostería",
+    "1 1/4 tazas de harina sin blanquear",
+    "1/2 taza de polvo de cacao",
+    "1/4 taza de azúcar moreno",
+    "1 cucharadita de polvo de hornear",
+    "1 cucharadita de café molido finamente",
+    "1/2 cucharadita de sal",
+    "6 cucharadas de mantequilla ablandada",
+    "1 taza de crema agria",
+    "1 taza de media crema",
+    "2 huevos",
+    "Ralladura de 2 naranjas - picada finamente",
+    "3/4 taza de chocolate amargo finamente picado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180°C.\n2. Tamizar juntos los ingredientes secos.\n3. Mezclar la mantequilla, crema agria, media crema y huevos hasta obtener una textura suave.\n4. Incorporar los ingredientes secos, ralladura de naranja y chocolate, hasta que estén apenas húmedos.\n5. Rellenar 12 moldes para muffins y hornear hasta que las coronas estén firmes, aproximadamente 15 minutos.",
+  "url": null
+}

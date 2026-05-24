@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "jerry-s-after-dinner-coffee",
+  "name": "Café después de la cena de Jerry",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas alcohólicas",
+    "bebidas",
+    "café",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 taza de café instantáneo fuerte caliente",
+    "1/2 oz de licor Creme De Cacao",
+    "1/2 oz de Kahlua o Tia Maria",
+    "1 cucharadita de brandy"
+  ],
+  "recipeInstructions": "1. Mezclar el café, el creme de cacao y la Kahlua (o Tia Maria).\n2. Flotar el brandy sobre la mezcla.\n3. Añadir una cucharada de crema batida y servir.\n4. Para mejores resultados, preparar cada taza individualmente.",
+  "url": null
+}

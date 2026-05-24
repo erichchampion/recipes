@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "seafood-pizza",
+  "name": "Pizza de mariscos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 oz de salsa pesto",
+    "1 oz de salsa para pizza",
+    "1 oz de alcaparras",
+    "1 oz de aceitunas kalamata",
+    "2 filetes de anzovino entero",
+    "1 oz de ajo",
+    "3 gambas enteras cocidas",
+    "3 escamareas enteras cocidas",
+    "2 oz de carne de cangrejo",
+    "1 oz de queso parmesano",
+    "3 oz de queso mozzarella ahumado",
+    "Una pizca de perejil",
+    "Una pizca de ralladura de limón",
+    "Una pizca de pimienta roja molida"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 500°F con una piedra para pizza.\n2. Mezclar la salsa pesto y la salsa para pizza.\n3. Extender la salsa combinada sobre la masa de pizza.\n4. Cubrir con los ingredientes restantes: carne de cangrejo, queso mozzarella, gambas cocidas, escamareas cocidas, filetes de anzovino, alcaparras, aceitunas, ajo, perejil, ralladura de limón y pimienta roja molida.\n5. Colocar sobre la piedra para pizza en el horno y hornear hasta que esté dorado.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "blackberry-muffins",
+  "name": "Muffins de mora",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "muffins"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla (1 barra)",
+    "2 huevos",
+    "1 1/8 tazas de azúcar",
+    "3 tazas de harina, divididas",
+    "3 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "Una pizca de bicarbonato de sodio",
+    "1 taza de leche",
+    "1 cucharada de extracto de vainilla",
+    "2 tazas de moras frescas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 400 °F (200 °C). Engrasar 2 moldes para muffins de 12 cupos o usar papel pergamino.\n2. En un bol grande, batir la mantequilla con el azúcar y agregar los huevos. Reservar 3 cucharadas de la mezcla de harina. Combinar el resto de la harina con el polvo de hornear, la sal y el bicarbonato de sodio. Mezclar la leche y la vainilla. Alternar la adición de la leche y la mezcla de harina a la mezcla de mantequilla, huevos y azúcar. Espolvorear las moras con la harina reservada y mezclarlas suavemente en la masa. Llenar cada cupo de muffin hasta 3/4 de su capacidad y espolvorear azúcar encima si se desea. Hornear durante 15-20 minutos o hasta que estén listos.",
+  "url": null
+}

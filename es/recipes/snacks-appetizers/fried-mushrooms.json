@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fried-mushrooms",
+  "name": "Setas fritas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "8 oz de setas",
+    "1/2 taza de harina",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de mostaza en polvo",
+    "1/4 cucharadita de pimentón dulce",
+    "1/2 taza de leche líquida"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcla la harina, la sal, la mostaza y el pimentón.\n2. Reserva.\n3. Vierte la leche líquida en un bol pequeño.\n4. Sumerge cada trozo de setas en la leche.\n5. Cubre las setas con la mezcla de harina sacudiéndolas para eliminar el exceso.\n6. Fríe las setas hasta que estén doradas.",
+  "url": null
+}

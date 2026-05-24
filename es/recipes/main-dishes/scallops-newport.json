@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "scallops-newport",
+  "name": "Escamas de Newport",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "4 onzas de escamas de mar",
+    "4 onzas de setas",
+    "2 onzas de espinacas frescas",
+    "2 onzas de salmón ahumado",
+    "2 onzas de salsa beurre blanc (salsa blanca con mantequilla)"
+  ],
+  "recipeInstructions": "1. Saltear las escamas hasta que estén listas.\n2. Añadir las setas, espinacas y salmón ahumado a la sartén con las escamas.\n3. Mezclar todo junto.\n4. Verter la salsa beurre blanc.\n5. Revolver bien y servir.",
+  "url": null
+}

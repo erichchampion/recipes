@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "curried-lentil-soup",
+  "name": "Sopa de lentejas curry",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas rápidas"
+  ],
+  "recipeIngredient": [
+    "4 tazas de agua caliente",
+    "1 lata (400 g) de tomates triturados",
+    "3 papas medianas, peladas y cortadas en dados",
+    "3 zanahorias medianas, cortadas en rodajas finas",
+    "1 cebolla grande, picada",
+    "1 tallo de apio, picado",
+    "1 taza de lentejas secas",
+    "2 dientes de ajo, picados",
+    "2 hojas de laurel",
+    "4 cucharaditas de polvo de curry",
+    "1 1/2 cucharaditas de sal (opcional)"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes al lento cocedor.\n2. Mezclar bien para combinar.\n3. Tapar y cocinar a fuego bajo durante 8 horas o hasta que las verduras estén tiernas.\n4. Retirar las hojas de laurel antes de servir.",
+  "url": null
+}

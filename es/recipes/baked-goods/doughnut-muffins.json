@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "doughnut-muffins",
+  "name": "Muffins de Donas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "desayuno",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "2 1/2 cucharadas de manteca",
+    "1/2 taza de azúcar",
+    "2 huevos",
+    "1/2 cucharadita de nuez moscada",
+    "6 cucharadas de leche",
+    "2 tazas de harina",
+    "2 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "1/2 taza de oleo derretido (Oleo)",
+    "2 cucharaditas de canela",
+    "1/2 taza de azúcar (para espolvorear)"
+  ],
+  "recipeInstructions": "1. Batir la manteca y el azúcar hasta que queden ligeros y esponjosos.\n2. Agregar los huevos sin batir, batiendo bien.\n3. En un bol separado, mezclar la harina, el polvo de hornear, la sal y la nuez moscada.\n4. Incorporar alternativamente a la mezcla anterior con la leche.\n5. Verter la masa en moldes para muffins engrasados.\n6. Hornear a 400 °F durante 15 minutos.\n7. Retirar del molde mientras aún esté caliente.\n8. Mientras aún estén calientes, sumergir cada muffin en el oleo derretido y rodar en canela y azúcar.",
+  "url": null
+}

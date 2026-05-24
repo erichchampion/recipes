@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "screwdriver",
+  "name": "Screwdriver",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz de vodka",
+    "6 oz de jugo de naranja",
+    "Hielo"
+  ],
+  "recipeInstructions": "Llenar un vaso alto con hielo. Verter el vodka. Completar el vaso con jugo de naranja. Remover suavemente hasta que esté combinado.",
+  "url": null
+}

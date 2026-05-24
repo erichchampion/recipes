@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "one-roast",
+  "name": "Un asado único",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 asado - cualquier tipo de carne",
+    "1 botella de tu salsa barbacoa favorita",
+    "1 lata de Coca-Cola",
+    "1 cebolla - cortada en rodajas o picada (opcional)"
+  ],
+  "recipeInstructions": "1. Si el asado es muy graso, retira la grasa excesiva para reducir la cantidad de aceite.\n2. Opcionalmente, sella el asado para realzar su sabor, pero no es necesario.\n3. Coloca la carne en una olla de cocción lenta.\n4. Añade las cebollas cortadas a la olla.\n5. Mezcla la Coca-Cola y la salsa barbacoa en un bol o sobre una bandeja.\n6. Vierte la mezcla sobre la carne en la olla de cocción lenta.\n7. Configura la olla a fuego bajo.\n8. Cocina durante varias horas, según lo deseado.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-pizza-dessert",
+  "name": "Postre de pizza de manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "postres",
+    "frutas",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "8 oz de masa de pan congelada; descongelada (1/2 barra congelada)",
+    "8 oz de queso crema; suavizado",
+    "1/4 taza de azúcar",
+    "1 huevo",
+    "1 cucharadita de vainilla",
+    "4 manzanas; peladas y cortadas en rodajas finas",
+    "2/3 taza de azúcar",
+    "1/4 taza de harina",
+    "1 cucharadita de canela"
+  ],
+  "recipeInstructions": "----------------------------------RELLENO----------------------------------\n1/3 taza de harina\n1/3 taza de azúcar moreno\n2 cucharadas de mantequilla; suavizada\n1/2 taza de almendras laminadas\nExtender la masa de pan sobre una bandeja para pizza profunda de 12 pulgadas, previamente engrasada. Cuando esté completamente descongelada, presionar la masa contra el fondo y los lados del molde. Dejar reposar durante 15 minutos.\nMezclar el queso crema, 1/4 taza de azúcar, el huevo y la vainilla hasta obtener una textura suave. Extender sobre la base de la masa. Mezclar las manzanas, 2/3 taza de azúcar, 1/4 taza de harina y canela. Distribuir uniformemente sobre la mezcla de queso crema.\nEn un bol pequeño, mezclar la harina y el azúcar moreno. Cortar la mantequilla hasta obtener migas. Agregar las almendras. Espolvorear uniformemente sobre las manzanas.\nHornear a 175 °C durante unos 40 minutos, o hasta que esté dorada.\nServir caliente o fría con crema batida, merengue o helado.",
+  "url": null
+}

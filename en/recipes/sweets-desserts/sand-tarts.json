@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "sand-tarts",
+  "name": "Sand Tarts",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cookies",
+    "desserts",
+    "tarts"
+  ],
+  "recipeIngredient": [
+    "1 cup butter",
+    "1/4 cup powdered sugar",
+    "1 teaspoon vanilla extract",
+    "3/4 cup chopped nuts",
+    "2 cups all-purpose flour",
+    "powdered sugar for rolling dough"
+  ],
+  "recipeInstructions": "1. Cream the butter and powdered sugar until smooth.\n2. Add vanilla extract and mix well.\n3. Stir in chopped nuts and flour until combined.\n4. Roll into 1-inch wide crescents on a floured surface.\n5. Place the crescents about an inch apart on a greased baking sheet.\n6. Bake at 375°F for 20 minutes or until lightly golden.\n7. Allow to cool slightly before rolling each tart in powdered sugar.",
+  "url": null
+}

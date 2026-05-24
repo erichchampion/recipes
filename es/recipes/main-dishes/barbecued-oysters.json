@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecued-oysters",
+  "name": "Ostras a la parrilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "1 Dozen ostras frescas grandes",
+    "3 Cucharadas de líquido de ostra",
+    "2 Cucharadas de pasta de tomate",
+    "1 Cucharada de salsa picante",
+    "1 Cucharada de jugo de limón",
+    "1/2 cucharadita de salsa Worcestershire",
+    "1/4 cucharadita de rábano preparado",
+    "1/8 cucharadita de sal de cebolla",
+    "1/4 cucharadita de sal",
+    "3 Cucharadas de migas de galleta con sabor a panceta"
+  ],
+  "recipeInstructions": "1. Coloca las ostras en una sola capa en un plato de hornear poco profundo.\n2. Combina el líquido de ostra, la pasta de tomate, la salsa picante, el jugo de limón, la salsa Worcestershire, el rábano y la sal en una cacerola a fuego medio durante 20 minutos.\n3. Vierte la salsa sobre las ostras.\n4. Pincha las ostras con un tenedor para permitir que la salsa penetre.\n5. Espolvorea con migas de galleta.\n6. Hornea a 175 °C durante 25 minutos.",
+  "url": null
+}

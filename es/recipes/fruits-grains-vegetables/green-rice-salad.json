@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "green-rice-salad",
+  "name": "Ensalada de arroz verde",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz",
+    "ensaladas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "8 oz de arroz de grano largo",
+    "2 oz de brotes de fenogreco",
+    "1 manojo de rúcula",
+    "2 cucharadas de perejil fresco picado",
+    "2 cucharadas de cebolleta fresca picada",
+    "4 cucharadas de aceite de oliva",
+    "2 cucharadas de vinagre de vino",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar el arroz en agua hirviendo con sal durante 12 minutos, o hasta que esté justo tierno.\n2. Enjuagar bien bajo agua fría y escurrir completamente.\n3. Dejar enfriar el arroz a temperatura ambiente.\n4. Colocar el arroz en un bol de servir y mezclar con los brotes de fenogreco.\n5. Añadir las hojas de rúcula, perejil y cebolleta.\n6. En un bol pequeño, mezclar el aceite de oliva, vinagre de vino, sal y pimienta.\n7. Verter el aderezo sobre la ensalada y mezclar bien para combinar todos los ingredientes de manera uniforme.",
+  "url": null
+}

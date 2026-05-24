@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-white-bread",
+  "name": "Pan de trigo blanco básico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 taza de agua",
+    "1/4 taza de mantequilla",
+    "1 huevo entero",
+    "2 cucharadas de azúcar",
+    "1 cucharadita de sal",
+    "3 tazas de harina de pan",
+    "1/4 taza de leche desnatada en polvo",
+    "2 1/4 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Coloca los líquidos (agua, mantequilla y huevo) en la máquina del pan.\n2. Añade el endulzante (azúcar) a la máquina del pan.\n3. Incorpora la sal a la máquina del pan.\n4. Vierte los ingredientes secos (harina de pan, leche desnatada en polvo).\n5. Finalmente, agrega la levadura a la máquina del pan.\n6. Mezcla y amasa según las configuraciones de tu máquina del pan.\n7. Apaga la máquina del pan una vez que el horneado esté completo.",
+  "url": null
+}

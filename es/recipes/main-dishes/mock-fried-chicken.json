@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-fried-chicken",
+  "name": "Pollo frito falso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de suero de leche",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra molida",
+    "1/4 cucharadita de nuez moscada molida",
+    "3,5 kg de pollo deshuesado, cortado en trozos",
+    "1 taza de migas de pan finas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 200 °C.\n2. Mezclar el suero de leche, la sal, la pimienta y la nuez moscada en un bol grande hasta combinarlos bien.\n3. Añadir los trozos de pollo uno a uno, girándolos para que queden bien cubiertos con la mezcla de suero de leche.\n4. Colocar las migas de pan en un bol poco profundo.\n5. Pasear cada trozo de pollo cubierto en las migas de pan, asegurándose de que quede uniformemente cubierto.\n6. Disponer el pollo sobre una bandeja para hornear forrada con papel aluminio.\n7. Hornear hasta que la cobertura esté crujiente y el jugo salga claro al pinchar un muslo con un tenedor (aproximadamente 50 minutos).\n8. Servir caliente o a temperatura ambiente.",
+  "url": null
+}

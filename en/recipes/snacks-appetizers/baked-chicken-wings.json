@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-chicken-wings",
+  "name": "Baked Chicken Wings",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "chicken",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "30 chicken wing drumettes",
+    "1/4 cup soy sauce",
+    "1/4 cup dry sherry",
+    "1 clove garlic, minced",
+    "2 teaspoons freshly grated ginger",
+    "1 1/2 teaspoons sugar",
+    "1 green onion, chopped",
+    "1 tablespoon sesame oil",
+    "paprika to taste"
+  ],
+  "recipeInstructions": "1. Combine all ingredients except chicken and paprika in a bowl.\n2. Marinate the chicken for about 30 minutes to 1 hour.\n3. Place the chicken in a single layer in a greased baking dish.\n4. Sprinkle generously with paprika.\n5. Bake at 375°F for 35 to 40 minutes, or until wings are browned and tender.",
+  "url": null
+}

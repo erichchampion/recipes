@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "magic-wands",
+  "name": "Varitas Mágicas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "caramelos",
+    "postres",
+    "niños"
+  ],
+  "recipeIngredient": [
+    "1 taza de chips de chocolate, semiamargo",
+    "12 palitos de pretzel",
+    "3 onzas de chocolate blanco",
+    "Colorante alimentario rojo y amarillo",
+    "Decoración de chispas de colores variadas",
+    "Seda para enredar"
+  ],
+  "recipeInstructions": "1. Derrite el chocolate blanco utilizando un baño maría o el microondas.\n2. Agrega el colorante rojo y amarillo hasta obtener el tono deseado.\n3. Sumergir los palitos de pretzel en el chocolate derretido, cubriéndolos uniformemente.\n4. Coloca los palitos sobre papel pergamino o papel para hornear para que se solidifiquen.\n5. Espolvorea con decoración de chispas de colores una vez que estén completamente sólidos.\n6. Una vez totalmente fríos, corta longitudes de seda y átala alrededor de cada palo como decoración.",
+  "url": null
+}

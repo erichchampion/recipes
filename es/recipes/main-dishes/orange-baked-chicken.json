@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-baked-chicken",
+  "name": "Pollo al horno con naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "3 pechugas de pollo, sin piel y cortadas por la mitad",
+    "1/4 taza de cebolla picada",
+    "1/2 cucharadita de pimentón dulce",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de romero seco",
+    "1/4 cucharadita de pimienta negra molida",
+    "2 cucharadas de harina",
+    "2 tazas de jugo de naranja"
+  ],
+  "recipeInstructions": "1. Coloca las mitades de pollo en una bandeja para hornear plana, con la pechuga hacia arriba, sin superponerlas.\n2. Espolvorea el pollo con cebolla y especias.\n3. En un bol aparte, mezcla la harina con 1/2 taza de jugo de naranja.\n4. Añade el resto del jugo de naranja a la mezcla y viértelo sobre el pollo.\n5. Hornea sin cubrir, asando ocasionalmente, a 180 °C durante 1 hora o hasta que esté tierno.\n6. Sirve el pollo sobre fideos o arroz en un plato caliente.\n7. Mezcla los jugos de la sartén y viértelos sobre el pollo.",
+  "url": null
+}

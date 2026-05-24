@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-pepperoni",
+  "name": "Pollo Pepperoni",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "italiano",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1/2 libra de pasta",
+    "1/2 barra de pepperoni",
+    "1/3 taza de harina",
+    "1 libra de pechuga de pollo sin hueso",
+    "400 gramos de salsa de tomate",
+    "Pimienta fresca",
+    "Orégano",
+    "Albahaca",
+    "Tomillo",
+    "Polvo de ajo",
+    "Polvo de cebolla"
+  ],
+  "recipeInstructions": "1. Cortar el pepperoni en cubos de 6 mm. Cocinar en una sartén a fuego medio hasta eliminar la mayor parte de la grasa. Retirar y reservar.\n2. Cortar el pollo en trozos pequeños.\n3. Sazonar la harina y mezclar con los trozos de pollo hasta que estén cubiertos.\n4. Dorar en la grasa del pepperoni (y aceite de oliva si es necesario). Retirar y reservar.\n5. Mezclar la salsa de tomate y el resto de la harina en una sartén.\n6. Añadir el pollo y el pepperoni a la sartén. Verter 1/3 - 1/2 taza de agua para cubrir la carne. Dejar cocinar a fuego lento durante 30-45 minutos o hasta que el pollo esté tierno.\n7. Servir sobre una cama de pasta.",
+  "url": null
+}

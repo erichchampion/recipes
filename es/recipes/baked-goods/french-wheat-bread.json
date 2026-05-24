@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-wheat-bread",
+  "name": "Pan de trigo francés",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 1/8 tazas de agua tibia",
+    "2 1/2 tazas de harina de pan blanco",
+    "1/2 taza de harina de trigo integral",
+    "2 1/4 cucharaditas de azúcar",
+    "1 1/2 cucharaditas de sal",
+    "1 1/2 cucharadas de mantequilla",
+    "3 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "1. Mezclar en un bol grande el agua, la levadura, el azúcar y la sal.\n2. Añadir gradualmente las harinas mientras se amasa hasta formar una masa irregular.\n3. Amasar la masa sobre una superficie ligeramente enharinada durante unos 10 minutos hasta que quede suave y elástica.\n4. Colocar la masa en un bol engrasado, cubrir con papel film y dejar levar en un lugar cálido durante aproximadamente una hora o hasta que doble su tamaño.\n5. Desgasificar la masa, darle forma de hogaza y colocarla sobre una bandeja para hornear engrasada.\n6. Cubrir ligeramente con papel film y dejar reposar durante 10 minutos.\n7. Precalentar el horno a 375°F (190°C) y hornear el pan hasta que esté dorado y suene hueco al golpearlo (aproximadamente 30-35 minutos).\n8. Sacar del horno, apagar la temperatura y dejar enfriar completamente sobre una rejilla antes de cortar.",
+  "url": null
+}

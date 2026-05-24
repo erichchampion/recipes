@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tea-cakes",
+  "name": "Pasteles de té",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "6 Huevos",
+    "4 Tazas de Azúcar",
+    "4 Cucharaditas de Extracto de Vainilla",
+    "1 1/2 Tazas de Buttermilk",
+    "1 Cucharadita de Bicarbonato de Sodio",
+    "8 Tazas de Harina para Todo Uso"
+  ],
+  "recipeInstructions": "1. Batir la manteca y el azúcar hasta que estén cremosos.\n2. Agregar los huevos uno a uno, batiendo bien después de cada adición.\n3. Mezclar el bicarbonato de sodio con el buttermilk y la harina para todo uso por separado.\n4. Combinar los ingredientes secos con los húmedos.\n5. Formar la mezcla en bolas grandes y suaves.\n6. Estirar las bolas hasta que tengan 1/8 de pulgada de grosor.\n7. Cortar formas con un cortador enharinado.\n8. Hornear hasta que estén ligeros y dorados.",
+  "url": null
+}

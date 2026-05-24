@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "swordfish-kebobs",
+  "name": "Kebabs de atún rojo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "marisco",
+    "bacalao",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "Marinada:",
+    "3 cucharadas de aceite de oliva",
+    "1 diente de ajo, picado finamente",
+    "2 cucharadas de cilantro picado",
+    "2 cucharadas de jugo de limón",
+    "Sal y pimienta al gusto",
+    "700 g de pez espada, cortado en trozos de 1 1/2 cm",
+    "8 tomates cherry",
+    "200 g de trozos de piña enlatada, reservar 1/4 taza de jugo",
+    "1 pimiento verde, sin semillas, cortado en cuadrados de 1 cm",
+    "1 cebolla roja, pelada, cortada en trozos de 1 cm"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes de la marinada con el jugo de piña reservado en un bol grande. Añadir los trozos de pez espada y dejar marinar durante 15 minutos.\n2. Remojar 8 brochetas de bambú en agua durante 15 minutos.\n3. Alternar los trozos de pez espada y el resto de ingredientes en las brochetas.\n4. Barbacoa o asar las brochetas a la parrilla durante 8-10 minutos, girándolas para un cocinado uniforme.\n5. Basar con la marinada restante durante los últimos minutos de cocción.",
+  "url": null
+}

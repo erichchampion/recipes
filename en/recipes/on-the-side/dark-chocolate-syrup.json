@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "dark-chocolate-syrup",
+  "name": "Dark Chocolate Syrup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condiments",
+    "desserts",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cups SUGAR",
+    "1 cup COCOA",
+    "1 cup WATER",
+    "1 teaspoon VANILLA"
+  ],
+  "recipeInstructions": "1. Mix sugar, cocoa, and water in a deep saucepan.\n2. Cover and cook over low heat for 15 minutes, stirring often to prevent burning.\n3. Remove from heat, cool, and stir in vanilla.\n4. Chill several hours before use.",
+  "url": null
+}

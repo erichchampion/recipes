@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "swiss-fondue-2-2",
+  "name": "Fondo suizo #2",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "platos secundarios",
+    "queso",
+    "fondue",
+    "aperitivos",
+    "queso/huevos"
+  ],
+  "recipeIngredient": [
+    "4 tazas (1 libra) de queso suizo añejo rallado",
+    "1/4 taza de harina de uso común",
+    "1 diente de ajo partido por la mitad",
+    "2 tazas de Sauterne",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de salsa Worcestershire",
+    "Una pizca de nuez moscada molida"
+  ],
+  "recipeInstructions": "1. Mezclar el queso y la harina.\n2. Frotar el interior de una sartén con el ajo. Deseche el ajo.\n3. Añadir el Sauterne y calentar hasta que salgan burbujas.\n4. A fuego lento, agregar el queso en porciones de 1/2 taza, removiendo hasta que se derrita después de cada adición.\n5. Incorporar la sal, la salsa Worcestershire y la nuez moscada.\n6. Transferir a una olla para fondue y servir con cubos de pan francés.",
+  "url": null
+}

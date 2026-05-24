@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "campers-pizza-pie-2",
+  "name": "Pizza de Campista",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "8 rebanadas de pan",
+    "1/2 cucharada de salsa de pizza",
+    "1 taza de queso mozzarella rallado",
+    "4 lonchas de pepperoni",
+    "1 cucharada de mantequilla"
+  ],
+  "recipeInstructions": "1. Extender 1/2 cucharada de salsa de pizza sobre una rebanada de pan.\n2. Espolvorear queso mozzarella rallado sobre la salsa.\n3. Colocar 2 lonchas de pepperoni sobre el queso.\n4. Verter 1 cucharada de mantequilla sobre la otra mitad de pan.\n5. Unir las dos mitades del pan para formar un sándwich, con el queso y el pepperoni en el medio.\n6. Colocar el sándwich en una plancha para pasteles.\n7. Cocinar a fuego medio hasta que el pan esté tostado, aproximadamente 2-3 minutos por cada lado.",
+  "url": null
+}

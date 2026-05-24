@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "economy-waffles-2",
+  "name": "Waffles económicos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "gofres"
+  ],
+  "recipeIngredient": [
+    "2 huevos (yemas)",
+    "1/2 taza de leche dulce",
+    "1/2 cucharadita de sal",
+    "1 cucharada de polvo de hornear",
+    "1 taza de harina",
+    "1 cucharada de mantequilla derretida - o sustituto"
+  ],
+  "recipeInstructions": "1. Bate las yemas de huevo en un bol.\n2. Añade la leche, la sal, la harina y el polvo de hornear a las yemas de huevo y mezcla todo junto.\n3. Incorpora suavemente las claras de huevo batidas hasta que estén bien combinadas.\n4. Cocina la masa en una gofrera hasta que sea dorada y crujiente.",
+  "url": null
+}

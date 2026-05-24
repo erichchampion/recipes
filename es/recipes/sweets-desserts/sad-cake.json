@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "sad-cake",
+  "name": "Pastel Triste",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3 huevos",
+    "1 libra de azúcar moreno",
+    "1 cucharadita de extracto de vainilla",
+    "2 tazas de mezcla para galletas",
+    "1 taza de nueces picadas",
+    "1 taza de coco rallado"
+  ],
+  "recipeInstructions": "1. Batir los huevos hasta que estén lisos.\n2. Añadir gradualmente el azúcar moreno y batir hasta obtener una textura cremosa.\n3. Incorporar el resto de ingredientes y mezclar bien.\n4. Verter la mezcla en un molde engrasado y enharinado de 9 x 13 x 2 pulgadas.\n5. Hornear a 175 °C durante el tiempo necesario para que el pastel esté hecho.",
+  "url": null
+}

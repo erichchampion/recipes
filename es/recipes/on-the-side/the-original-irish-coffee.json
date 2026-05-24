@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "the-original-irish-coffee",
+  "name": "El Café Irlandés Original",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "café",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 taza de café, recién preparado",
+    "3 cubos de azúcar",
+    "3 cucharadas de whisky irlandés (1 jigger)"
+  ],
+  "recipeInstructions": "1. Vierte el café en una taza grande.\n2. Añade el azúcar y remueve hasta que se disuelva.\n3. Incorpora el whisky y mezcla bien.\n4. Cubre con crema batida y sirve.",
+  "url": null
+}

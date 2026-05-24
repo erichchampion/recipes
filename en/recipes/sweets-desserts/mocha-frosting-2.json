@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mocha-frosting-2",
+  "name": "Mocha Frosting",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "cakes",
+    "chocolate",
+    "desserts",
+    "frosting"
+  ],
+  "recipeIngredient": [
+    "1 pint Whipping Cream",
+    "1 cup Milk",
+    "1 package Instant Chocolate Pudding",
+    "1 1/2 tablespoons Instant Coffee"
+  ],
+  "recipeInstructions": "1. Whip the cream until stiff peaks form.\n2. Make the instant pudding using the 1 cup milk.\n3. Add the coffee to the pudding mixture.\n4. Gently fold the pudding into the whipped cream until combined.\n5. Frost as desired.",
+  "url": null
+}

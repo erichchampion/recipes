@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "kapusniak-polish-sauerkraut-soup",
+  "name": "Sopa de chucrut polaco",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "español",
+    "polaco",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 lb de costillas de cerdo ahumadas",
+    "1 litro de agua",
+    "1 cebolla bien dorada",
+    "1 litro de jugo de chucrut",
+    "1/4 taza de azúcar",
+    "1/4 taza de crema",
+    "1 huevo",
+    "1 cucharada de harina",
+    "3/4 taza de leche"
+  ],
+  "recipeInstructions": "1. Cocinar la carne en agua hasta que esté bien tierna.\n2. Añadir la cebolla, el jugo de chucrut y el azúcar a la carne cocida.\n3. En un bol aparte, batir el huevo y mezclar con harina, leche y crema.\n4. Agregar gradualmente la mezcla batida del paso 3 a la sopa.\n5. Llevar la sopa a ebullición.\n6. Servir con dumplings de papa.",
+  "url": null
+}

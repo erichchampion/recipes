@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemonade-2",
+  "name": "Limonada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "limonada",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "3 limones",
+    "3 tazas de azúcar",
+    "4 tazas de agua hirviendo",
+    "1/2 onza de ácido cítrico",
+    "1/2 onza de ácido tartárico",
+    "1 onza de sales de Epsom"
+  ],
+  "recipeInstructions": "1. Rallar los limones y exprimir el jugo.\n2. En un jarro grande, mezclar el jugo de limón, azúcar, ácido cítrico, ácido tartárico y sales de Epsom.\n3. Añadir lentamente las 4 tazas de agua hirviendo mientras se remueve hasta que se disuelvan todos los sólidos.\n4. Dejar enfriar la mezcla a temperatura ambiente.\n5. Colar el líquido en otro recipiente para eliminar cualquier pulpa o sólido restante.\n6. Conservar la limonada en un contenedor cerrado.",
+  "url": null
+}

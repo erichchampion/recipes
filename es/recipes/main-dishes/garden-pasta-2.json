@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "garden-pasta-2",
+  "name": "Pasta del Jardín",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato ligero",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "5 tomates, picados",
+    "2 tallos de apio, picados",
+    "2 zanahorias, picadas",
+    "1 cebolla mediana, picada",
+    "8 cebolletas, picadas",
+    "1 paquete de Equal (edulcorante)",
+    "1 cucharadita de albahaca seca",
+    "1/4 cucharadita de ajo en polvo",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de orégano seco",
+    "1/2 cucharada de aceite vegetal o de ensalada",
+    "500 g de espagueti"
+  ],
+  "recipeInstructions": "1. Coloca los vegetales picados en una olla y cubre con agua.\n2. Lleva a ebullición, luego reduce el fuego a medio y deja cocinar a fuego lento durante 10 minutos.\n3. Agrega las especias (albahaca, ajo en polvo, sal, orégano).\n4. Tapa la olla y reduce el fuego a medio-bajo; continúa cocinando durante otros 5 minutos.\n5. Incorpora el aceite vegetal o de ensalada, tapa y cocina a fuego bajo hasta que las zanahorias estén tiernas, aproximadamente 30 minutos.\n6. Escurre el espagueti y mézclalo con la salsa preparada.",
+  "url": null
+}

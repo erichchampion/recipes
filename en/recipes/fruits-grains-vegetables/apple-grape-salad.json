@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-grape-salad",
+  "name": "Apple & Grape Salad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "fruit",
+    "fruits",
+    "salads"
+  ],
+  "recipeIngredient": [
+    "2 cups Apples, cubed",
+    "1 cup Grapes, halved",
+    "1/2 cup Celery, chopped",
+    "1/4 cup Walnuts, chopped",
+    "1 tablespoon Lemon juice",
+    "1/3 cup Sour cream",
+    "1/3 cup Plain yogurt"
+  ],
+  "recipeInstructions": "1. In a large bowl, combine the apples, grapes, celery, walnuts, and lemon juice.\n2. In a separate small bowl, mix the sour cream and plain yogurt.\n3. Gently fold the yogurt and sour cream mixture into the fruit mixture.\n4. Refrigerate until ready to serve. If desired, serve on lettuce-lined plates.",
+  "url": null
+}

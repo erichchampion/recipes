@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "warm-beer-soup",
+  "name": "Sopa de Cerveza Caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 taza de cerveza",
+    "1 taza de leche",
+    "1 yema de huevo",
+    "1 cucharada de azúcar",
+    "2 clavos enteros",
+    "Una pizca de canela",
+    "1/2 cucharadita de cáscara de limón",
+    "1 cucharada de harina",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Llevar la cerveza a ebullición, luego agregar los clavos, el azúcar, la canela y la cáscara de limón.\n2. Calentar la leche hasta que hierva, mezclar con la harina, la sal y añadir la mezcla de cerveza.\n3. Incorporar la yema de huevo.\n4. Servir como una sopa nutritiva.",
+  "url": null
+}

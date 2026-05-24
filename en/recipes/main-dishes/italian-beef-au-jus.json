@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-beef-au-jus",
+  "name": "Italian Beef Au Jus",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "main dish",
+    "meat",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "6 pounds Rump Roast, Trimmed",
+    "2 packages Au Jus Gravy Packet",
+    "2 packages Dry Italian Dressing Mix",
+    "2 cans beef broth"
+  ],
+  "recipeInstructions": "1. Place the meat in a crockpot.\n2. Combine the remaining ingredients (Au Jus Gravy Packet, Dry Italian Dressing Mix, and beef broth) and pour over the beef.\n3. Cook on low for 8 hours.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "ramen-pasta-salad",
+  "name": "Ensalada de Pasta Ramen",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pasta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "3 paquetes de fideos ramen sin cocinar",
+    "3 tazas de col finamente rallada",
+    "1/2 taza de apio cortado en láminas finas",
+    "1/2 taza de queso cheddar rallado",
+    "1/2 taza de zanahoria picada",
+    "1/4 taza de aceite vegetal",
+    "2 cucharadas de vinagre blanco",
+    "2 cucharaditas de azúcar",
+    "2 cucharaditas de sal sazonada",
+    "1/2 cucharadita de mostaza en polvo",
+    "1/4 cucharadita de pimienta blanca",
+    "Pimienta roja (al gusto)"
+  ],
+  "recipeInstructions": "1. Cocinar los fideos ramen según las instrucciones del paquete, pero sin añadir los sobrecitos de especias; escurrir.\n2. En un bol grande, mezclar los fideos cocidos con la col, el apio, el queso cheddar y la zanahoria picada.\n3. En un bol pequeño, batir juntos el aceite vegetal, el vinagre blanco, el azúcar, la sal sazonada, la mostaza en polvo y la pimienta blanca para hacer el aderezo.\n4. Verter el aderezo sobre la mezcla de fideos y mezclar suavemente para cubrir uniformemente.\n5. Refrigerar la ensalada durante al menos 1 hora.\n6. Antes de servir, mezclar la ensalada nuevamente y espolvorear con pimienta roja para decorar.",
+  "url": null
+}

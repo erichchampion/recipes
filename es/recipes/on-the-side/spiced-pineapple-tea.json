@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "spiced-pineapple-tea",
+  "name": "Té de piña especiado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "acompañamientos",
+    "té"
+  ],
+  "recipeIngredient": [
+    "2 tazas de agua",
+    "2 tazas de jugo de piña",
+    "1 cucharadita de clavos enteros",
+    "2 palitos de canela",
+    "1 limón, cortado por la mitad y en rodajas"
+  ],
+  "recipeInstructions": "1. Calentar el agua y el jugo de piña en una cacerola hasta que hierva.\n2. Añadir los clavos enteros, palitos de canela y rodajas de limón a la cacerola.\n3. Reducir el fuego a medio-bajo y dejar hervir a fuego lento durante 10 minutos.\n4. Retirar las especias antes de servir caliente.",
+  "url": null
+}

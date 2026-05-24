@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "dorothy-s-goulash",
+  "name": "Goulash de Dorothy",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 cebolla grande",
+    "2 cucharadas de mantequilla",
+    "1 libra de carne molida",
+    "1 taza de macarrones",
+    "1 taza de sopa de tomate",
+    "3/4 taza de agua",
+    "sal y pimienta"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una sartén a fuego medio.\n2. Agrega la cebolla a la sartén y sofríe hasta que esté suave y translúcida, aproximadamente 5 minutos.\n3. Incorpora la carne molida a la sartén y sazona con sal y pimienta.\n4. Cocina la carne molida hasta que esté dorada y completamente cocida, desmenuzándola si es necesario, unos 8-10 minutos.\n5. Mezcla los macarrones en la mezcla de carne hasta combinarlos bien.\n6. Vierte la sopa de tomate y el agua, removiendo para combinar todo completamente.\n7. Lleva la mezcla a ebullición, luego cubre la sartén y cocina a fuego lento durante 15 minutos.\n8. Sirve con ensalada de lechuga y pan de maíz.",
+  "url": null
+}

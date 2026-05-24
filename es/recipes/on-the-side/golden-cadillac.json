@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "golden-cadillac",
+  "name": "Cadillac dorado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "cócteles",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 oz de Galliano",
+    "1 oz de White Creme de Cacao",
+    "2 oz de crema espesa",
+    "Hielo picado"
+  ],
+  "recipeInstructions": "Llenar un vaso mezclador con hielo picado. Añadir Galliano, White Creme de Cacao y crema espesa. Agitar bien hasta enfriar. Colar en un vaso cóctel frío y servir.",
+  "url": null
+}

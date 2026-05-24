@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "phil-s-pancakes",
+  "name": "Tortitas de Phil",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "sin especificar",
+    "tortitas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de leche (calentada)",
+    "1 cucharada de mantequilla",
+    "2 tazas de harina",
+    "Una pizca de sal"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol hasta que se combinen, sin sobremezclar.\n2. Verter la masa en una sartén antiadherente.\n3. Cocinar a fuego medio durante 2-3 minutos por cada lado, o hasta que estén dorados y cocidos por completo. No es necesario añadir aceite adicional.",
+  "url": null
+}

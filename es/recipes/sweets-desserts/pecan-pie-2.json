@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pecan-pie-2",
+  "name": "Tarta de nueces pecanas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 base de tarta sin hornear",
+    "1/2 taza de mantequilla o margarina",
+    "1/2 taza de azúcar",
+    "1/4 taza de jarabe de arce con sabor a maple",
+    "3/4 taza de jarabe de maíz blanco",
+    "3 huevos batidos",
+    "1 cucharadita de extracto de vainilla",
+    "1 taza de nueces pecan"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180 °C.\n2. Batir la mantequilla y el azúcar hasta obtener una mezcla suave.\n3. Incorporar el jarabe de arce y el jarabe de maíz a la mezcla. Agregar los huevos y la vainilla, batiendo bien.\n4. Verter la masa en la base de tarta preparada.\n5. Espolvorear las nueces pecan sobre el relleno (o picarlas y mezclar con el relleno antes de verter).\n6. Hornear durante 1 hora a 180 °C, o hasta que esté cuajado.",
+  "url": null
+}

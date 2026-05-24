@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-breakfast",
+  "name": "Banana Breakfast",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "beverages",
+    "cheese/eggs",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "Eggs - 1 each",
+    "Milk - 1 cup",
+    "Banana - small",
+    "Honey - 1 tbsp",
+    "Ice Cream - 1 scoop"
+  ],
+  "recipeInstructions": "1. Crack the eggs and place them in a bowl.\n2. Add milk to the bowl with the eggs and whisk until combined.\n3. Peel the banana and slice it into rounds.\n4. Drizzle honey over the sliced bananas.\n5. Scoop ice cream on top of the banana slices.\n6. Serve immediately and enjoy your Banana Breakfast.",
+  "url": null
+}

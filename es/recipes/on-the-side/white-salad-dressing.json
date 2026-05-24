@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-salad-dressing",
+  "name": "Aderezo para ensalada blanca",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "ensaladas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "Yema de huevo, bien batida (3)",
+    "Nata (1 taza)",
+    "Harina (1 cucharadita)",
+    "Vinagre (1/2 taza)",
+    "Azúcar (1 cucharadita)",
+    "Mostaza en polvo (1 cucharadita)",
+    "Sal (1 cucharadita)",
+    "Aceite de oliva (2 cucharadas)"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes secos juntos.\n2. Agregar lentamente el vinagre y el aceite de oliva a la mezcla seca.\n3. Incorporar la nata y las yemas de huevo batidas.\n4. Cocinar al baño María hasta que espese.",
+  "url": null
+}

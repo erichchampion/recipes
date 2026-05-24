@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-pork-roast",
+  "name": "Asado de cerdo mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cocinador lento"
+  ],
+  "recipeIngredient": [
+    "2 cebollas medianas picadas",
+    "2 zanahorias peladas y en rodajas",
+    "4,5 libras (2 kg) de lomo o solomillo de cerdo",
+    "2 cucharaditas de sal",
+    "1/2 cucharadita de hojas de orégano fresco",
+    "1/2 cucharadita de semillas de comino",
+    "1/2 cucharadita de polvo de cilantro",
+    "2 tazas (500 ml) de agua"
+  ],
+  "recipeInstructions": "1. Coloca las cebollas picadas y las zanahorias en la olla de cocción lenta.\n2. Frota el lomo de cerdo con las especias: sal, orégano, semillas de comino y polvo de cilantro.\n3. Coloca el cerdo sazonado encima de las verduras.\n4. Vierte el agua en la olla de cocción lenta.\n5. Tapa y cocina a fuego lento durante 8 a 12 horas.\n6. Una vez hecho, desmenuza el lomo de cerdo.\n7. Sirve el cerdo desmenuzado en tortillas calientes con salsa picante para tacos.",
+  "url": null
+}

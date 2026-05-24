@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "sausage-n-apples",
+  "name": "Salsichas y Manzas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "carne",
+    "embutidos"
+  ],
+  "recipeIngredient": [
+    "1 libra de salchicha molida",
+    "1 diente de ajo machacado",
+    "2 cucharadas de cebolla picada",
+    "8 manzanas medianas verdes",
+    "1/4 taza de azúcar morena",
+    "8 rebanadas de tocino"
+  ],
+  "recipeInstructions": "1. En una sartén, saltea la salchicha, el ajo y la cebolla hasta que la salchicha esté dorada.\n2. Retira el corazón a las manzanas y rellénalas con la mezcla de salchicha.\n3. Coloca las manzanas rellenas en un plato para hornear.\n4. Espolvorea azúcar morena uniformemente sobre cada manzana.\n5. Coloca rebanadas de tocino encima de las manzanas.\n6. Hornea a 175 °C durante unos 40 minutos, o hasta que las manzanas estén tiernas.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "beefburger-stroganoff",
+  "name": "Estofado de hamburguesa de carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "bacon",
+    "carne de res",
+    "carne molida",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de carne molida",
+    "3 rebanadas de tocino, picadas",
+    "1 pequeña cebolla, picada",
+    "2 cucharadas de harina",
+    "1/4 cucharadita de pimentón dulce",
+    "1 cucharadita de sal",
+    "1 lata de sopa de setas cremosas",
+    "2 cucharadas de vino tinto seco",
+    "1 taza de crema agria",
+    "6 a 8 bollos de hamburguesa tostados y untados con mantequilla"
+  ],
+  "recipeInstructions": "1. En una sartén grande, dore la carne y el tocino hasta que ya no sea rosado. Escurra.\n2. Transfiera la mezcla de carne a una olla de cocción lenta.\n3. Añada la cebolla picada, la harina, el pimentón y la sal a la olla de cocción lenta.\n4. Incorpore la sopa sin diluir y el vino.\n5. Cubra y cocine a fuego lento durante 4-5 horas.\n6. Mezcle la crema agria.\n7. Sirva la mezcla sobre los bollos tostados.",
+  "url": null
+}

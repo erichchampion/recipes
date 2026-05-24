@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-pot-roast-2",
+  "name": "Italian Pot Roast",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "beef",
+    "italian",
+    "main dish",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "1 Rump roast (4-5 lbs.)",
+    "1 teaspoon Salt",
+    "2 tablespoons Cooking oil",
+    "2 cloves Garlic, minced",
+    "1/2 teaspoon Dried basil",
+    "1 tablespoon Dried parsley flakes",
+    "1/2 teaspoon Pepper",
+    "2 Carrots, sliced",
+    "1 Whole Onion, quartered",
+    "2 whole Cloves",
+    "1 can Tomato puree (15 oz.)",
+    "1/2 cup Water or red wine",
+    "1/2 teaspoon Beef bouillon granules",
+    "Cooked egg noodles"
+  ],
+  "recipeInstructions": "1. Rub the roast with salt.\n2. In a Dutch oven, brown the roast in oil.\n3. Add all remaining ingredients except noodles.\n4. Bring to a boil; reduce heat and simmer, covered, for 2-3 hours or until meat is tender.\n5. Discard onion.\n6. Remove roast; cut into slices.\n7. Serve over noodles with gravy.\n8. Yield: 8-10 servings.",
+  "url": null
+}

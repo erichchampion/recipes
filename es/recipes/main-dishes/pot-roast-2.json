@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pot-roast-2",
+  "name": "Asado de olla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "4 libras de carne de res para asar",
+    "1 sobre de mezcla de sopa seca Lipton con cebolla",
+    "1 lata de sopa de champiñones cremosos Campbell's",
+    "1 lata de agua",
+    "3 tallos de apio mediano, cortados en cuartos o mitades",
+    "3 zanahorias medianas",
+    "8 papas medianas, cortadas en cuartos"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes excepto las papas en una olla a presión.\n2. Cocina a fuego lento durante aproximadamente dos horas.\n3. Aumenta el calor a medio-bajo y añade las papas y unos 250 ml de agua adicional.\n4. Continúa cocinando durante otras tres horas hasta que la carne esté tierna.\nO:\n1. Mezcla todos los ingredientes, incluyendo las papas, en una olla de cocción lenta.\n2. Cocina a fuego alto hasta que todo esté tierno.",
+  "url": null
+}

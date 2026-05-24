@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "turkey-spaghetti-sauce",
+  "name": "Salsa de espagueti de pavo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pollo",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de cebolla picada",
+    "1 diente de ajo, picado finamente",
+    "1 cucharada de aceite de oliva",
+    "28 onzas de tomates enlatados, picados",
+    "6 onzas de pasta de tomate",
+    "1 cucharadita de albahaca seca",
+    "1 cucharadita de tomillo seco",
+    "3 tazas de pavo cocido desmenuzado",
+    "Espagueti o macarrones cocidos"
+  ],
+  "recipeInstructions": "1. En una sartén grande, saltear la cebolla y el ajo en aceite de oliva hasta que estén ligeramente dorados.\n2. Añadir los tomates picados, la pasta de tomate, la albahaca y el tomillo al recipiente.\n3. Incorporar el pavo cocido desmenuzado y cocinar durante 20-25 minutos, mientras se preparan los espaguetis o macarrones.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-bean-soup",
+  "name": "Sopa de frijoles mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "mexicano",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1 cebolla amarilla mediana, picada finamente",
+    "1 sobre de aderezo para tacos",
+    "1 sobre de aderezo ranch",
+    "1 lata de tomates picados",
+    "1 lata de maíz entero",
+    "1 lata de frijoles pintos",
+    "1 lata de frijoles rojos",
+    "1 lata de frijoles negros (o frijoles rancheros)"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida con las cebollas en una olla grande a fuego medio hasta que esté completamente cocida.\n2. Escurrir el exceso de grasa, si es necesario.\n3. Incorporar el aderezo para tacos y el aderezo ranch.\n4. Añadir los tomates picados, el maíz entero, los frijoles pintos y los frijoles rojos.\n5. Verter los frijoles negros (o frijoles rancheros) y sazonar con sal y pimienta al gusto.\n6. Dejar que la sopa se caliente a fuego lento hasta que todos los ingredientes estén bien combinados y calientes.\n7. Servir caliente y espolvorear con cilantro fresco si se desea.",
+  "url": null
+}

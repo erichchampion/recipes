@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "prosciutto-and-pineapple",
+  "name": "Prosciutto y Piña",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivo",
+    "aperitivos",
+    "italiano",
+    "tentempié"
+  ],
+  "recipeIngredient": [
+    "1 taza de trozos de piña",
+    "2 cucharadas de jugo de limón fresco",
+    "8 rebanadas de prosciutto",
+    "1 palillo de dientes"
+  ],
+  "recipeInstructions": "1. Pelar, cortar la parte superior y quitar el corazón de la piña.\n2. Cortar la piña en trozos.\n3. Espolvorear los trozos con jugo de limón.\n4. Dejar reposar durante 10-30 minutos.\n5. Cortar el prosciutto en tiras.\n6. Envolver los trozos de piña con las tiras de prosciutto.\n7. Segurar con un palillo de dientes.\n8. Servir ligeramente frío.",
+  "url": null
+}

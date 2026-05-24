@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetable-baked-fish",
+  "name": "Vegetable Baked Fish",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "fish",
+    "main dish",
+    "meat",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "1/2 cup Zucchini, sliced",
+    "1 Green pepper, sliced",
+    "1 Tomato, sliced",
+    "1 Onion, sliced",
+    "1 lb Fish fillet",
+    "1/4 tsp Salt",
+    "1/8 tsp Pepper",
+    "1/4 cup Water",
+    "1 tbsp Butter",
+    "1/8 tsp Paprika"
+  ],
+  "recipeInstructions": "1. Place half of the vegetables in a baking dish.\n2. Season the fish with salt and pepper.\n3. Place the seasoned fish on top of the vegetables.\n4. Cover with the remaining vegetables.\n5. Add water, dot with butter, and sprinkle with paprika.\n6. Bake at 350°F for 20-25 minutes.",
+  "url": null
+}

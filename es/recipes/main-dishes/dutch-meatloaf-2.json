@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "dutch-meatloaf-2",
+  "name": "Pastel de carne holandés",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de carne molida",
+    "1 1/2 cucharaditas de sal",
+    "1 taza de pan rallado",
+    "1/4 cucharadita de pimienta",
+    "8 onzas de salsa de tomate con cebolla",
+    "2 cucharadas de azúcar moreno",
+    "2 cucharadas de mostaza",
+    "1 huevo",
+    "1 cucharada de vinagre"
+  ],
+  "recipeInstructions": "1. Mezcla la carne, el pan rallado, la mitad de la salsa de tomate, el huevo, la sal y la pimienta en un bol grande.\n2. Forma la mezcla en un molde de panecillo.\n3. En un bol aparte, combina los ingredientes restantes con la otra mitad de la salsa de tomate.\n4. Vierte la mezcla sobre el pastelero.\n5. Hornea a 180 °C durante 75 minutos.",
+  "url": null
+}

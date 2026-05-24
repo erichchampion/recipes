@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-bean-stew",
+  "name": "Estofado de Frijoles Mexicanos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "plato principal",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "1 lata de frijoles pintos escurridos y enjuagados",
+    "2 cucharadas de Mezcla de especias mexicanas (5 cucharaditas de comino, 5 cucharaditas de polvo de chile, 2,5 cucharaditas de pimienta negra, 3 cucharadas de cebolla picada, 3 cucharadas de ajo picado, 1,25 cucharadita de sal)",
+    "2 zanahorias cortadas en trozos de 2 pulgadas",
+    "1/2 calabacín cortado en trozos de 2 pulgadas",
+    "2 latas de salsa de tomate de bajo contenido de sodio"
+  ],
+  "recipeInstructions": "1. Combinar los frijoles pintos, la mezcla de especias, las verduras (zanahorias y calabacín) y la salsa de tomate en una olla grande.\n2. Añadir agua suficiente para lograr la consistencia deseada.\n3. Llevar a ebullición y cubrir. Cocinar durante 30-60 minutos.\n4. Mezcla de especias mexicanas: En un frasco cerrado, mezclar partes iguales de comino, polvo de chile, pimienta negra, cebolla, ajo y sal. Usar 3 cucharadas de esta mezcla por taza de frijoles secos.",
+  "url": null
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "crock-beef-stew",
+  "name": "Crock Beef Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "slow cooker",
+    "soups",
+    "stews"
+  ],
+  "recipeIngredient": [
+    "2 pounds stew meat, cut into 1 1/2 inch cubes",
+    "1/2 cup flour",
+    "2 tablespoons oil",
+    "1 bay leaf",
+    "1 tablespoon Worcestershire sauce",
+    "1 onion, chopped",
+    "1 cup beef bouillon",
+    "1/4 teaspoon pepper",
+    "2 teaspoons salt",
+    "1 teaspoon sugar",
+    "6 carrots, sliced",
+    "1 cup sliced celery",
+    "4 potatoes, cut into chunks",
+    "12 small pearl onions",
+    "4 cups water"
+  ],
+  "recipeInstructions": "1. Coat the meat with flour and set aside.\n2. Heat oil in a skillet over medium heat.\n3. Brown the meat until well-coated on all sides.\n4. Transfer the browned meat to the crockpot.\n5. Combine beef, Worcestershire sauce, bay leaf, onion, bouillon, salt, pepper, sugar, and vegetables in the crockpot.\n6. Pour water over everything into the crockpot.\n7. Cook on low for 8-10 hours.\n8. Stir with a spoon to thicken the stew.\n9. Cook on high heat for an additional 15 minutes.\n10. Remove the bay leaf before serving.",
+  "url": null
+}

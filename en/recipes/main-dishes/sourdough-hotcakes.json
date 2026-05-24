@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "sourdough-hotcakes",
+  "name": "Sourdough Hotcakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "pancakes"
+  ],
+  "recipeIngredient": [
+    "1/4 cup Water",
+    "1/4 cup Flour",
+    "2 cups Sourdough Starter",
+    "1/4 cup Flour",
+    "2 Eggs",
+    "1/4 teaspoon Salt",
+    "2 tablespoons Sugar",
+    "2 tablespoons Oil",
+    "1/4 teaspoon Baking Soda (add more if very sour)"
+  ],
+  "recipeInstructions": "1. In a large bowl, mix the water and flour for the starter.\n2. In another bowl, combine the sourdough starter, remaining flour, eggs, salt, sugar, and oil.\n3. Gradually add the dry ingredients to the wet ingredients from step 1, stirring until combined.\n4. Just before using the griddle, stir in the baking soda.\n5. Pour batter onto a hot griddle to cook.\n6. Makes 4 large pancakes (about 6-inch diameter) per serving.",
+  "url": null
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-favorite-cookie",
+  "name": "Mi galleta favorita",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar moreno, claro o oscuro",
+    "1/2 taza de azúcar",
+    "2 barras de mantequilla",
+    "3 cucharadas de manteca vegetal",
+    "1 cucharadita de sal",
+    "4 huevos",
+    "1 1/2 cucharaditas de bicarbonato de sodio",
+    "3 1/2 tazas de harina de uso común",
+    "1/4 taza de leche",
+    "2 tazas de trozos de nuez pecana",
+    "200 g de trozos de chocolate blanco",
+    "200 g de trozos de chocolate con leche",
+    "200 g de trozos de chocolate semiamargo",
+    "1 taza de chips de chocolate pequeños"
+  ],
+  "recipeInstructions": "1. Batir juntos los azúcares, la mantequilla, la manteca vegetal y la sal.\n2. Añadir los huevos uno a uno, batiendo después de cada adición.\n3. En un bol separado, mezclar la harina con el bicarbonato de sodio.\n4. Alternar la mezcla de harina y leche con la mezcla de mantequilla; mezclar solo hasta que empiece a formar una masa.\n5. Combinar los trozos de nuez pecana, chocolate y chips de chocolate.\n6. Incorporar a la masa.\n7. Con una cuchara grande, extender la masa sobre una bandeja para galletas engrasada.\n8. Presionar las galletas.\n9. Hornear a 175 °C durante 15 minutos o hasta que estén doradas. Si se usa una bandeja oscura, reducir la temperatura entre 15 y 20 °C.\n10. No sobrehornear. Servir calientes. Rinde para 35 (2 onzas) galletas.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "eastern-burger",
+  "name": "Eastern Burger",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "main dish",
+    "sandwiches"
+  ],
+  "recipeIngredient": [
+    "1 pound ground pork, about 80% lean",
+    "1 teaspoon ground black pepper",
+    "1/4 teaspoon salt",
+    "2 teaspoons soy sauce",
+    "2 tablespoons dry sherry",
+    "1 tablespoon grated ginger root"
+  ],
+  "recipeInstructions": "1. Mix together the ground pork and seasonings.\n2. Shape into 4 burgers, each about 3/4-inch thick.\n3. Place the burgers over moderately hot coals in a kettle-style grill.\n4. Grill for 5 minutes on one side, then turn the burgers and continue grilling for an additional 4-5 minutes on the other side.\n5. Serve immediately on sandwich buns if desired.\nCuisine: Asian\nSource: National Pork Producers Council",
+  "url": null
+}

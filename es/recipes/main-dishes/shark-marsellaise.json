@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "shark-marsellaise",
+  "name": "Marisco Marsella",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "francés",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "2 lb de filetes de tiburón",
+    "3 cucharadas de aceite",
+    "1 cebolla, picada",
+    "1 cucharada de perejil picado",
+    "1 diente de ajo, picado",
+    "1/2 taza de vino blanco seco",
+    "3 tomates, cortados en cubos (frescos y firmes)",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en un plato apto para horno a fuego medio.\n2. Añadir la cebolla, el perejil, el ajo, los tomates, la sal y la pimienta al plato.\n3. Colocar los filetes de tiburón sobre los vegetales.\n4. Llevar la mezcla a ebullición.\n5. Reducir el fuego y dejar cocinar a fuego lento durante 15 minutos.\n6. Agregar el vino blanco y volver a llevar a ebullición.\n7. Precalentar el horno a 350 °F (175 °C).\n8. Transferir el plato al horno precalentado y hornear durante 10 minutos, o hasta que el pescado se desmenuce fácilmente con un tenedor.\n9. Retirar el plato del horno.\n10. Colar la salsa a través de un colador y llevarla a ebullición.\n11. Verter la salsa sobre los filetes.",
+  "url": null
+}

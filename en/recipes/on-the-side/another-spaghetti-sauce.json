@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "another-spaghetti-sauce",
+  "name": "Another Spaghetti Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "freezer meals",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "5 pounds ground beef",
+    "2 onions (chopped)",
+    "2 large jars Prego Original spaghetti sauce",
+    "1 large can diced tomatoes",
+    "b basil (to taste)",
+    "o oregano (to taste)",
+    "g garlic (to taste)",
+    "s salt (to taste)"
+  ],
+  "recipeInstructions": "1. Cook the meat and onion together until done.\n2. Add the remaining ingredients, stirring occasionally.\n3. Simmer for 30 minutes.",
+  "url": null
+}

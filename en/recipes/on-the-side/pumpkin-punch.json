@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pumpkin-punch",
+  "name": "Pumpkin Punch",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "punch",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 part apple cider",
+    "2 parts ginger ale",
+    "1 part rum"
+  ],
+  "recipeInstructions": "1. Pour the mixture into a hollowed-out pumpkin.\n2. Add small pieces of floating pumpkin.",
+  "url": null
+}

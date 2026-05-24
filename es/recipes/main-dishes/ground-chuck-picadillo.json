@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "ground-chuck-picadillo",
+  "name": "Picadillo de Carne Molida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de carne molida",
+    "1 1/2 tazas de cebolla picada",
+    "2 dientes de ajo picados",
+    "el jugo de 2 limas",
+    "1 lata (8 onzas) de salsa de tomate",
+    "1/2 taza de aceitunas verdes en rodajas",
+    "1/3 taza de pasas",
+    "1 cucharadita de comino molido",
+    "1 cucharadita de canela"
+  ],
+  "recipeInstructions": "1. En una sartén antiadherente a fuego alto, cocine la carne molida hasta que empiece a dorarse y se desmenuzar.\n2. Retire la carne cocida con una cuchara perforada y reserve.\n3. Reduzca el fuego a medio. Agregue las cebollas y el ajo a la misma sartén y cocine hasta que estén suaves.\n4. Incorpore el jugo de lima, la salsa de tomate, las aceitunas verdes, las pasas, el comino molido y la canela.\n5. Deje que la mezcla hierva a fuego lento durante 20 minutos. Sazone con sal y pimienta al gusto.\n6. Sirva caliente, en porciones para 4 personas.",
+  "url": null
+}

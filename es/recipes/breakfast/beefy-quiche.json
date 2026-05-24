@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "beefy-quiche",
+  "name": "Tarta de carne picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "guisos",
+    "tartas de cena",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "Masa para masa de tarta de 23 cm",
+    "500 g de carne molida",
+    "1/2 taza de cebolla picada",
+    "6 huevos batidos",
+    "1 lata de sopa de tomate condensada"
+  ],
+  "recipeInstructions": "1. Forrar un molde para tarta de 23 cm con la masa, recortar el exceso y hacer un borde.\n2. Cocinar la carne molida con la cebolla hasta que esté dorada. Dejar enfriar ligeramente.\n3. Mezclar los huevos con la sopa de tomate. Incorporar la mezcla de carne y cebolla hasta que esté bien combinada.\n4. Verter la mezcla en la masa preparada.\n5. Hornear a 180 °C durante 30-35 minutos, o hasta que esté dorada.\n6. Servir caliente.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fireside-punch",
+  "name": "Ponche de Fuego",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "batido",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "6 tazas de sidra de manzana",
+    "12 onzas de concentrado de limonada congelada en lata",
+    "1 taza de azúcar granulada",
+    "1 taza de licor de durazno",
+    "1 taza de ron"
+  ],
+  "recipeInstructions": "1. En una olla holandesa, mezcle los tres primeros ingredientes y lleve a ebullición.\n2. Retire del fuego; agregue el licor de durazno y el ron, y mezcle bien.\n3. Sirva caliente.\nRinde:\n12 porciones de 6 onzas cada una.",
+  "url": null
+}

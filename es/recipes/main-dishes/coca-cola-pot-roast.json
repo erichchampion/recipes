@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "coca-cola-pot-roast",
+  "name": "Rost de carne con Coca-Cola",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "3 lb de carne de res",
+    "2 cucharadas de aceite",
+    "1 lata de tomates",
+    "1 lata de Coca-Cola",
+    "1 cebolla picada",
+    "1 sobre de salsa para espagueti",
+    "1 ½ cucharaditas de sal",
+    "1/2 cucharadita de sal de ajo"
+  ],
+  "recipeInstructions": "1. Dorar la carne en el aceite durante 10 minutos por cada lado; retirarla y colocarla en una olla de cocción lenta.\n2. Escurrir la grasa.\n3. Desmenuzar los tomates con su jugo; agregar el resto de los ingredientes, removiendo hasta disolver el sobre de salsa para espagueti.\n4. Verter sobre la carne. Tapar y cocinar a fuego lento hasta que la carne esté tierna.\n5. Espesar la salsa; servir sobre rebanadas de carne.",
+  "url": null
+}

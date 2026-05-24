@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-pasta-rabe",
+  "name": "Mi pasta rabe",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de aceite de oliva",
+    "4 dientes de ajo grandes, picados",
+    "1 cebolla mediana, picada",
+    "1 taza de setas, laminadas",
+    "4 tazas de rabe (rappini)",
+    "9 onzas de pasta fresca (lingüini), cocida",
+    "3/4 taza de queso parmesano o romano"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una sartén grande a fuego medio. Añadir el ajo y la cebolla; saltear hasta que fragante y las cebollas sean translúcidas.\n2. Agregar las setas a la sartén; cocinar hasta que liberen su humedad y se ablanden, aproximadamente 5 minutos.\n3. Lavar el rabe cuidadosamente; picarlo en trozos pequeños. Al vapor el rabe en agua hirviendo durante 5 minutos o hasta que esté justo tierno.\n4. Escurrir el rabe al vapor y añadirlo a la sartén con la mezcla de ajo.\n5. Incorporar la linguini cocida a la sartén y remover suavemente para combinar.\n6. Espolvorear queso parmesano o romano rallado sobre la pasta y mezclar bien.\n7. Ajustar la sazón si es necesario. Servir caliente.\n8-9. Servir la pasta cálida, decorada con queso rallado adicional si se desea.",
+  "url": null
+}

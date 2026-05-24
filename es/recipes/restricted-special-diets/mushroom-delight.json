@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "mushroom-delight",
+  "name": "Delicia de setas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "plato principal",
+    "dietas especiales",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aceite vegetal",
+    "1-2 cucharaditas de encurtido de eneldo (picado finamente)",
+    "1 cucharada de zumo de limón",
+    "1 cucharada de vinagre de vino",
+    "1/4 cucharadita de sal",
+    "1/2 cucharadita de pimienta molida gruesa",
+    "1/2 cucharadita de mostaza en polvo",
+    "1/8 de cucharadita de polvo de ajo o 1 diente de ajo",
+    "250-300 g de setas frescas (laminadas finas)",
+    "6 hojas de lechuga",
+    "2 cucharadas de perejil fresco picado"
+  ],
+  "recipeInstructions": "1. En un tarro pequeño, mezclar todos los ingredientes excepto las setas, la lechuga y el perejil.\n2. Tapar el tarro y agitar bien para mezclar el aderezo uniformemente.\n3. Verter el aderezo sobre las setas y mezclar suavemente para que queden bien cubiertas.\n4. Servir sobre hojas de lechuga y decorar con perejil picado.",
+  "url": null
+}

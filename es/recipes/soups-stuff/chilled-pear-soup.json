@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chilled-pear-soup",
+  "name": "Sopa de pera fría",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas/estofados",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "8 peras, peladas, sin corazón, cortadas en dados",
+    "2 tazas de agua",
+    "1/4 cucharadita de sal marina",
+    "4 cucharadas de jarabe de arroz integral",
+    "1/2 cucharadita de jengibre pelado, picado finamente",
+    "1/2 cucharadita de jengibre en polvo",
+    "1/4 cucharadita de extracto de anís (opcional)",
+    "Hojas de menta fresca",
+    "Fresas para decorar"
+  ],
+  "recipeInstructions": "1. Mezcla las peras, el agua y la sal marina en una olla grande. Lleva a ebullición a fuego medio.\n2. Vierte gradualmente el jarabe de arroz integral y el jengibre picado (y el extracto de anís si se usa). Reduce el fuego y deja cocinar a fuego lento durante 3 minutos más.\n3. Deja que la mezcla se enfríe completamente.\n4. Licúa la mezcla fría hasta obtener una textura suave.\n5. Refrigera durante al menos 1 hora antes de servir.\n6. Decora con hojas de menta fresca o fresas en rodajas antes de servir.",
+  "url": null
+}

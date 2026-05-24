@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "divinity-surprise-cookies",
+  "name": "Galletas Sorpresa de Divinidad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3 claras de huevo, a temperatura ambiente",
+    "1 taza de azúcar",
+    "1 cucharadita de extracto de vainilla",
+    "240 g de chispas de chocolate",
+    "Varias gotas de colorante alimentario (opcional)"
+  ],
+  "recipeInstructions": "1. Bate las claras de huevo hasta obtener picos firmes.\n2. Añade el azúcar gradualmente mientras sigues batiendo las claras.\n3. Incorpora la vainilla y las chispas de chocolate.\n4. Extiende cucharadas de masa a 2 cm de distancia sobre una bandeja para hornear forrada con papel pergamino.\n5. Hornea durante 30 minutos a 150 °C (300 °F).\n6. Deja enfriar sobre el papel pergamino.",
+  "url": null
+}

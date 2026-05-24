@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "perfect-pastry",
+  "name": "Pastel perfecto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de manteca corta",
+    "1/4 taza de mantequilla",
+    "1 cucharadita de sal",
+    "3 tazas de harina",
+    "1/2 taza de agua fría"
+  ],
+  "recipeInstructions": "1. Batir la manteca y la mantequilla hasta obtener una textura suave.\n2. Incorporar la sal y la harina, mezclando bien hasta combinar.\n3. Añadir gradualmente el agua fría, removiendo continuamente hasta formar una masa.\n4. Apagar el fuego y amasar la masa hasta formar una bola.\n5. Colocar la masa en un lugar limpio y dejarla reposar durante 30 minutos antes de usarla.",
+  "url": null
+}

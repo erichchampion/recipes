@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-salad-3",
+  "name": "Pasta Salad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "appetizers",
+    "pasta",
+    "salads"
+  ],
+  "recipeIngredient": [
+    "2/3 cup Rotini noodles",
+    "1/2 cup Frozen mixed vegetables",
+    "1/4 cup Grated mozzarella cheese",
+    "2 tbsp Mayonnaise",
+    "1 tbsp Chopped basil or parsley",
+    "1/2 tsp Dried oregano"
+  ],
+  "recipeInstructions": "1. Cook pasta in a pot of boiling salted water until tender.\n2. Drain and rinse the pasta with cold water, ensuring it is well-drained.\n3. Add the vegetables and cheese to the drained pasta.\n4. Stir in the mayonnaise, basil or parsley, and oregano until combined.",
+  "url": null
+}

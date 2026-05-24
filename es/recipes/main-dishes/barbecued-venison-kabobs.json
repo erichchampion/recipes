@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecued-venison-kabobs",
+  "name": "Brochetas de venado a la barbacoa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "juego",
+    "plato principal",
+    "carne",
+    "ciervo"
+  ],
+  "recipeIngredient": [
+    "3 libras de solomillo de ciervo, cortado en cubos de 1,5 cm de grosor",
+    "1 libra de champiñones frescos con sus tapas",
+    "1 taza de vino tinto seco",
+    "2 pimientos verdes, cortados en trozos de 1 cm y escurridos al vapor",
+    "18 pequeñas patatas (del tamaño de un huevo), escurridas al vapor",
+    "18 tomates cherry"
+  ],
+  "recipeInstructions": "1. Mezclar la carne, los champiñones y el vino en un recipiente poco profundo. Cubrir y marinar en la nevera durante 2-3 horas.\n2. Escurrir la carne y los champiñones de la marinada.\n3. Alternar los vegetales y la carne en brochetas.\n4. Asar a fuego medio durante 10-15 minutos, o hasta alcanzar el punto de cocción deseado.",
+  "url": null
+}

@@ -1,0 +1,35 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-hearty-soup",
+  "name": "My Hearty Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "meats",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "-----------------------------------STOCK-----------------------------------",
+    "3 quarts Water",
+    "3 Bay leaves",
+    "Poultry seasoning, as desired",
+    "Herbs, as desired",
+    "2 Garlic cloves, minced OR 1 teaspoon minced garlic (bottled)",
+    "2 Large Onions, coarsely chopped",
+    "2 Celery stalks, in chunks",
+    "3 pounds Meat (chicken, turkey, rabbit, etc.)",
+    "Black peppercorns, a few",
+    "SOUP",
+    "Noodles or pasta as desired",
+    "3 Carrots, diced",
+    "2 Celery stalks, diced",
+    "1 Spanish onion, diced",
+    "1 cup Green beans, frozen",
+    "1 cup Potatoes, cubed",
+    "1 cup Mushrooms, sliced",
+    "Salt and pepper, to taste",
+    "Tobasco sauce, to taste"
+  ],
+  "recipeInstructions": "1. Put water in a large stock pot and add meat.\n2. Add the remaining ingredients.\n3. Bring to a boil and, if possible, place a diffuser under the pot and keep the heat just below a simmer. This is similar to a crockpot, but my crockpot is too small.\n4. Continue cooking for 4 to 8 hours, or until the meat is tender.\n5. Remove the meat and allow it to cool.\n6. Strain the stock and chill if necessary to remove any fat.\n7. After removing the fat, return it to the pot.\n8. Strip the meat from the bone and skin.\n9. Bring to a boil and add soup vegetables and pasta to the strained stock.\n10. Reduce to a simmer and cook until the vegetables are done.\n11. Add the meat and thicken if desired.\n12. Serve with fresh rolls or bread.",
+  "url": null
+}

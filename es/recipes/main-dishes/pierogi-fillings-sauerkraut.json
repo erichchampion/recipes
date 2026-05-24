@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pierogi-fillings-sauerkraut",
+  "name": "Rellenos de pierogi, chucrut",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "étnica",
+    "pasta",
+    "polaca"
+  ],
+  "recipeIngredient": [
+    "2 lb chucrut",
+    "1 cebolla grande (cortada en rodajas finas)",
+    "Azúcar al gusto",
+    "Sal y pimienta al gusto",
+    "1/2 lb tocino picado (opcional) o 1/2 lb panceta salada picada (opcional)",
+    "1/2 lb mantequilla (opcional)",
+    "Repollo fresco rallado (opcional)",
+    "Setas picadas (opcional)"
+  ],
+  "recipeInstructions": "1. Enjuagar el chucrut y escurrirlo bien.\n2. En una sartén cubierta, cocinar el chucrut con las cebollas a fuego lento durante unos 20 minutos, removiendo ocasionalmente. Añadir la mantequilla, el tocino o la panceta, la sal, la pimienta, el azúcar (y las setas si se desea).\n3. Dejar que la mezcla se enfríe completamente.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "mandelbrot",
+  "name": "Mandelbrote",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 1/2 tazas de harina",
+    "1/2 cucharadita de sal",
+    "2 cucharaditas de polvo de hornear",
+    "3 huevos grandes",
+    "1 taza de azúcar",
+    "3 cucharadas de aceite de maní",
+    "1/4 taza de jugo de naranja o limón",
+    "1 cucharadita de extracto de vainilla puro",
+    "1 cucharadita de canela",
+    "1 taza de almendras blanqueadas picadas",
+    "(Opcional) Fruta seca"
+  ],
+  "recipeInstructions": "Mezclar la harina, la sal y el azúcar. Batir los huevos hasta que estén espesos, luego agregar el azúcar, el aceite, el jugo de limón y la vainilla mientras se bate continuamente. Añadir gradualmente la mezcla de harina, seguido de las almendras y la fruta seca opcional, formando una masa suave. Espolvorear ligeramente con canela mezclada con 1 cucharada de azúcar sobre hogazas aplanadas.\nEnmantequillar una bandeja para hornear y dar forma a dos hogazas, de aproximadamente 2 pulgadas de alto. Hornear a 350°F durante unos 30 a 40 minutos hasta que estén ligeramente dorados o un probador de pastel salga limpio. Enfriar y cortar en trozos de 3 pulgadas. Tostar ligeramente un lado en el horno bajo el grill, luego apagar y tostar el otro lado.",
+  "url": null
+}

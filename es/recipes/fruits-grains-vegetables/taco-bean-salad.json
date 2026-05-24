@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-bean-salad",
+  "name": "Ensalada de Frijoles al Estilo Taco",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "plato principal",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "3 tazas de frijoles pintos cocidos (escurridos)",
+    "2 cucharadas de aceite de oliva crudo",
+    "1 cebolla pequeña, picada",
+    "1 pimiento verde, picado",
+    "1 tomate, picado",
+    "2 cucharaditas de polvo de chile",
+    "1/2 cucharadita de comino molido",
+    "1/4 cucharadita de pimienta cayena (opcional)",
+    "1/4 cucharadita de orégano",
+    "1/4 cucharadita de sal marina (opcional)",
+    "1 tallo de apio, picado finamente",
+    "1/2 taza de crema agria o yogur natural",
+    "1 cucharadita de salsa Tabasco (opcional)"
+  ],
+  "recipeInstructions": "1. Remojar los frijoles durante la noche.\n2. Cocinar hasta que estén tiernos y escurrir.\n3. Mezclar todos los ingredientes en un bol y combinar bien.\n4. Servir con lechuga y totopos de maíz.",
+  "url": null
+}

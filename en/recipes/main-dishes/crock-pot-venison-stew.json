@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "crock-pot-venison-stew",
+  "name": "Crock Pot Venison Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "game",
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "2 lb Venison cubes",
+    "2 tbsp Oil",
+    "3 Stalks celery, diced",
+    "1/2 cup Chopped onion",
+    "2 Cloves garlic, minced",
+    "1 tbsp Parsley, chopped",
+    "1/2 cup Water",
+    "1/2 cup Dry red wine",
+    "1 cup Tomato sauce",
+    "Salt and pepper to taste",
+    "Oregano",
+    "Basil"
+  ],
+  "recipeInstructions": "1. Brown the venison in oil.\n2. Place celery and onion at the bottom of the crock pot.\n3. Add browned meat and remaining ingredients.\n4. Cook on low for 7-10 hours, stirring occasionally.",
+  "url": null
+}

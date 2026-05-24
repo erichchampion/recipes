@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "jammy-muffins",
+  "name": "Muffins jugosos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "magdalenas",
+    "rápido"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite vegetal refinado",
+    "1/4 taza de miel cruda",
+    "2 tazas de mezcla para muffins de centeno entero (Arrowhead Mills)",
+    "1 huevo batido o sustituto de huevo",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. Prepara la mezcla para muffins de centeno entero según las instrucciones del paquete.\n2. Antes de hornear, coge 1 cucharadita de mermelada de manzana (o tu sabor favorito) y colócala en el centro de cada muffin sin hornear.\n3. Hornea a 180 °C durante 25-30 minutos.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-con-elote",
+  "name": "Chili con maíz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "ajo",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 cebolla picada",
+    "1 diente de ajo",
+    "1 cucharada de aceite",
+    "1 pimiento verde picado",
+    "1 cucharadita de polvo de chile",
+    "1 cucharadita de comino",
+    "1 taza de tomate picado",
+    "1 taza de maíz escurrido",
+    "4 tazas de frijoles (reniegues, pintos o negros)",
+    "1 cucharadita de orégano",
+    "1 1/2 cucharaditas de sal"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla y el diente de ajo en aceite hasta que la cebolla esté tierna.\n2. Machacar el diente de ajo.\n3. Agregar los pimientos verdes y las especias; saltear durante 2-3 minutos más.\n4. Incorporar los tomates y el maíz.\n5. Triturar 2 tazas de frijoles y añadir al recipiente junto con los frijoles restantes, la sal y el orégano.\n6. Reducir el fuego y cocinar a fuego lento durante 30 minutos más.\n7. (Opcional) Si se desea menos picante, agregar más polvo de chile o pimienta cayena.",
+  "url": null
+}

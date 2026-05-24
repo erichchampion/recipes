@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "rock-roll-clams",
+  "name": "Almejas Rock & Roll",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "etnica",
+    "plato principal",
+    "carne",
+    "marisco"
+  ],
+  "recipeIngredient": [
+    "450 gramos de almejas",
+    "1 cucharadita de ajo picado",
+    "6 chiles en tiras",
+    "1 cucharada de pasta de chile con aceite de sésamo",
+    "1 1/2 cucharadas de salsa de pescado",
+    "1/2 cucharadita de azúcar",
+    "30 hojas de menta",
+    "4 cucharadas de caldo de verduras"
+  ],
+  "recipeInstructions": "1. Lavar las almejas en agua fría; no abrirlas.\n2. Calentar el aceite y saltear el ajo y la pasta de chile hasta que fragance.\n3. Añadir las almejas, luego la salsa de pescado y el azúcar; mezclar bien.\n4. Agregar la menta y el caldo, tapar y cocinar hasta que las almejas se abran.",
+  "url": null
+}

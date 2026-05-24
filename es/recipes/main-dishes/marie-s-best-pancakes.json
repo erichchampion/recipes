@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "marie-s-best-pancakes",
+  "name": "Los mejores panqueques de Marie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "brunch",
+    "plato principal",
+    "crepes"
+  ],
+  "recipeIngredient": [
+    "1 Huevo",
+    "1 1/4 tazas de buttermilk o leche agria",
+    "2 cucharadas de manteca ablandada",
+    "1 1/4 tazas de harina (cernida)",
+    "1 cucharadita de azúcar",
+    "1 cucharadita de polvo para hornear",
+    "1/2 cucharadita de bicarbonato de sodio",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de extracto de vainilla (o 1 cucharada)",
+    "1 cucharada de jarabe de arce"
+  ],
+  "recipeInstructions": "1. Calentar lentamente una plancha mientras se mezcla la masa.\n2. Batir el huevo hasta que esté bien incorporado.\n3. Agregar todos los demás ingredientes al huevo batido, removiendo hasta obtener una mezcla suave.\n4. Verter la masa sobre la plancha caliente.\n5. Los panqueques serán dulces y esponjosos.\n6. Ajustar las cantidades de extracto de vainilla y jarabe de arce al gusto.",
+  "url": null
+}

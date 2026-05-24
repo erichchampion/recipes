@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-apple-bread",
+  "name": "Pan de manzana rápido",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "cajún",
+    "rápido"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de manteca corta",
+    "1 taza de azúcar",
+    "1/4 cucharadita de sal",
+    "1 cucharadita de vainilla",
+    "2 huevos",
+    "2 cucharadas de leche",
+    "1 taza de manzanas cortadas en trozos, sin pelar",
+    "1/4 taza de nueces picadas",
+    "2 tazas de harina tamizada",
+    "1 cucharadita de polvo de hornear",
+    "1/4 cucharadita de canela"
+  ],
+  "recipeInstructions": "1. Batir la manteca, azúcar, sal y vainilla hasta obtener una mezcla ligera y esponjosa.\n2. Agregar los huevos y batir bien.\n3. Incorporar la leche, las manzanas y las nueces picadas.\n4. Mezclar la harina, el polvo de hornear y la canela, y añadir a la masa hasta que esté bien combinada.\n5. Verter la masa en un molde para pan engrasado.\n6. Hornear a 180 °C durante unos 50 minutos.",
+  "url": null
+}

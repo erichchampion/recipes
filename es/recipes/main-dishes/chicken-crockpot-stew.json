@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-crockpot-stew",
+  "name": "Estofado de Pollo en Olla de Cocción Lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "3 cuartos de pollo sin piel, cortados en trozos",
+    "1/3 taza de agua",
+    "1 lata (8 onzas) de sopa de champiñones cremosos",
+    "Sal y pimienta al gusto",
+    "3 papas medianas, cortadas en cubos",
+    "2 cebollas medianas, cortadas en cubos",
+    "1 taza de maíz congelado",
+    "1 lata de salsa de tomate"
+  ],
+  "recipeInstructions": "1. Cortar el pollo en trozos.\n2. En una olla de cocción lenta, mezclar la sopa de champiñones con agua.\n3. Agregar el pollo, sal y pimienta.\n4. Cocinar a fuego alto durante 1 hora.\n5. Añadir las papas, cebollas, maíz y salsa de tomate.\n6. Cocinar a fuego bajo durante 8 horas o a fuego alto durante 4 horas.\n7. Servir caliente con galletas saladas.",
+  "url": null
+}

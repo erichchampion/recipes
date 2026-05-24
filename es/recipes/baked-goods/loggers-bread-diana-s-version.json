@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "loggers-bread-diana-s-version",
+  "name": "Pan de los leñadores, versión de Diana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina de trigo integral",
+    "1/2 taza de harina de avena",
+    "1 1/2 tazas de harina de pan",
+    "3 cucharadas de puré de manzana",
+    "1 cucharadita de margarina",
+    "3 cucharadas de leche en polvo",
+    "2 cucharaditas de azúcar moreno",
+    "1 cucharadita de miel",
+    "1 cucharadita de melaza",
+    "3/4 cucharadita de sal",
+    "1 taza de agua",
+    "1 cucharada de levadura"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes a la máquina panificadora y seleccionar el ciclo de masa.\n2. Formar rollos durante el ciclo de masa.",
+  "url": null
+}

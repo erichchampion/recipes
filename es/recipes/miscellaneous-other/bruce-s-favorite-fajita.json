@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "bruce-s-favorite-fajita",
+  "name": "Fajitas favoritas de Bruce",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "estadounidense",
+    "étnico",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "1 lb de solomillo de ternera",
+    "1/2 taza de aceite de ensalada",
+    "1/2 taza de jerez",
+    "1 cucharadita de polvo de chile",
+    "1 cucharadita de ajo picado",
+    "2 cucharadas de comino",
+    "8 tortillas de harina de 6 pulgadas",
+    "2 tazas de lechuga picada",
+    "1 lb de queso Monterey Jack rallado",
+    "6 cebollas verdes picadas",
+    "Salsa para tacos"
+  ],
+  "recipeInstructions": "1. Marina el solomillo en aceite, jerez, polvo de chile, ajo y comino durante varias horas. Refrigera durante la noche para obtener mejores resultados.\n2. Asa o cocina a la parrilla el solomillo y córtalo en rebanadas finas en contra del grano.\n3. Calienta las tortillas. Coloca varias rebanadas de carne en cada una, añade lechuga, queso, cebolla y tu salsa para tacos favorita. Enrolla y come como un burrito.",
+  "url": null
+}

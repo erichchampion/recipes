@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-sauce",
+  "name": "Salsa para pasta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "400 g de puré de tomate de bajo en sodio",
+    "400 g de salsa de tomate de bajo en sodio",
+    "6 g de pasta de tomate sin sal añadida",
+    "Pimienta roja molida al gusto",
+    "1/8 cucharadita de nuez moscada",
+    "1/2 cucharadita de albahaca",
+    "1 cucharada de perejil seco",
+    "3 dientes de ajo picados",
+    "1/2 cucharadita de pimienta negra",
+    "2 cebolletas picadas",
+    "1/2 taza de vino blanco"
+  ],
+  "recipeInstructions": "1. En una cacerola, mezcle todos los ingredientes.\n2. Reduzca a fuego lento durante 15-20 minutos.\n3. Añada pimienta roja al gusto justo antes de servir.\n4. Sirva sobre pasta.",
+  "url": null
+}

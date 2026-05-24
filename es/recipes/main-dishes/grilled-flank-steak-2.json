@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "grilled-flank-steak-2",
+  "name": "Steak de flank a la parrilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 taza de salsa de soja",
+    "1/2 taza de azúcar moreno",
+    "1/2 taza de jugo de piña sin endulzar",
+    "1/2 taza de aderezo para ensalada italiana",
+    "1/2 taza de vinagre de vino tinto",
+    "1/2 taza de salsa Worcestershire",
+    "1 cucharadita de sal",
+    "1 cucharadita de polvo de ajo",
+    "1,5 kg de costillas (flank steak)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes para crear la marinada.\n2. Colocar las costillas en una bolsa de plástico con cierre o un recipiente y verter la marinada sobre la carne, asegurándose de que quede bien cubierta. Refrigerar durante la noche para permitir el desarrollo de los sabores.\n3. Precalentar la parrilla a fuego alto.\n4. Retirar las costillas de la marinada y colocarlas en la parte caliente de la parrilla. Cocinar de 5 a 10 minutos por cada lado, dependiendo del punto de rareza deseado.\n5. Cortar la carne en rebanadas finas en contra del grano. Servir inmediatamente.",
+  "url": null
+}

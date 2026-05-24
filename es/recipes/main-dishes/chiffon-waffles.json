@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chiffon-waffles",
+  "name": "Waffles de chiffón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "plato principal",
+    "gofres"
+  ],
+  "recipeIngredient": [
+    "1/3 taza de margarina suave",
+    "2 cucharaditas de azúcar",
+    "2 huevos, separados",
+    "1 1/2 tazas de harina",
+    "2 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "1 taza de leche"
+  ],
+  "recipeInstructions": "1. Mezclar la margarina y las yemas de huevo hasta obtener una consistencia homogénea.\n2. Tamizar juntos la harina, el polvo de hornear, el azúcar y la sal.\n3. Incorporar alternativamente a la mezcla de margarina y leche, batiendo bien después de cada adición.\n4. Batir las claras de huevo hasta que formen picos firmes.\n5. Incorporar las claras batidas a la masa con movimientos envolventes.\n6. Cocinar en una gofrera caliente y engrasada hasta que deje de salir vapor.",
+  "url": null
+}

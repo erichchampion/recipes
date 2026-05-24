@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fresh-apple-cake",
+  "name": "Fresh Apple Cake",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "baked goods",
+    "cakes",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "2 cups Sugar",
+    "1 cup Vegetable Oil",
+    "1 tablespoon Vanilla",
+    "2 cups Self-Rising Flour, unsifted",
+    "2 medium Apples, chopped",
+    "3 Whole Eggs",
+    "1 cup Pecans, chopped"
+  ],
+  "recipeInstructions": "1. Beat the eggs in a large bowl.\n2. Gradually add sugar, vegetable oil, and vanilla to the eggs, mixing well.\n3. Stir in the self-rising flour until just combined.\n4. Fold in the chopped apples and pecans.\n5. Pour the batter into a greased 9x13 inch baking pan.\n6. Bake at 350°F for 1 hour in a preheated oven.\n7. Turn off the heat and let cool before serving.",
+  "url": null
+}

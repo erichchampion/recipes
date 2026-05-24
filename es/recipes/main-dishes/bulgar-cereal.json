@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "bulgar-cereal",
+  "name": "Cereal búlgaro",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 taza de bulgur",
+    "2 tazas de agua",
+    "1 cucharadita de canela",
+    "1/4 taza de pasas"
+  ],
+  "recipeInstructions": "1. Coloca el bulgur en una cacerola.\n2. Añade el agua y la canela, mezcla bien.\n3. Lleva a ebullición a fuego alto.\n4. Reduce el fuego a bajo y cocina a fuego lento durante 10 minutos, removiendo ocasionalmente.\n5. Retira del fuego y agrega las pasas.\n6. Sirve caliente como cereal o deja enfriar completamente antes de almacenar.",
+  "url": null
+}

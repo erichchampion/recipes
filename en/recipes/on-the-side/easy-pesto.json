@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-pesto",
+  "name": "Easy Pesto",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "italian",
+    "pesto",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup Chopped basil leaves (cleaned and dried)",
+    "3 Cloves Garlic",
+    "1/2 cup Pine nuts or walnuts",
+    "1/2 cup Parmesan cheese, grated",
+    "1/2 cup Good quality olive oil"
+  ],
+  "recipeInstructions": "1. In a blender, combine the chopped basil, garlic, pine nuts or walnuts, and Parmesan cheese.\n2. Slowly add the olive oil while the blender is running.\n3. The pesto should make about 1 1/2 cups.",
+  "url": null
+}

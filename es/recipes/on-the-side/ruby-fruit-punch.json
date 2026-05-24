@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "ruby-fruit-punch",
+  "name": "Ponche de Frutas Rubí",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "batido",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de azúcar",
+    "1/2 taza de agua",
+    "1 botella (4/5 litros) de vino rosado",
+    "2 1/2 tazas de zumo de naranja",
+    "1/4 taza de zumo de limón",
+    "10 oz de fresas congeladas, descongeladas y picadas",
+    "28 oz de agua con gas",
+    "Rodajas de limón"
+  ],
+  "recipeInstructions": "1. En una cacerola grande, mezclar el azúcar y el agua. Calentar a fuego alto hasta que hierva.\n2. Reducir el fuego a bajo y cocinar a fuego lento durante 5 minutos. Dejar enfriar.\n3. En un bol para ponche, combinar el vino rosado, el zumo de naranja, el zumo de limón, el jarabe de azúcar frío y las fresas picadas.\n4. Justo antes de servir, añadir el agua con gas.\n5. Decorar con rodajas de limón.",
+  "url": null
+}

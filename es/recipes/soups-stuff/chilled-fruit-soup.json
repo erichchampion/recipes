@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "chilled-fruit-soup",
+  "name": "Sopa fría de frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "postres",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de ciruelas pasas, deshuesadas y picadas",
+    "1 taza de albaricoques secos, picados",
+    "1 taza de pasas",
+    "1/4 taza de tapioca",
+    "2 litros de agua",
+    "1 taza de vino Sauterne",
+    "1 taza de azúcar",
+    "1 rama de canela entera",
+    "1 cucharadita de clavos enteros",
+    "1/2 cucharadita de cardamomo molido",
+    "3 manzanas, peladas, sin corazón y cortadas en cubos",
+    "1 limón entero, cortado en rodajas",
+    "1/4 cucharadita de sal",
+    "1/2 taza de cerezas sin hueso"
+  ],
+  "recipeInstructions": "1. Remojar la fruta seca y la tapioca en agua durante 2-3 horas.\n2. Mezclar los ingredientes restantes (excepto las cerezas) con el remojado y llevar a ebullición.\n3. Dejar hervir a fuego lento durante 20-30 minutos.\n4. Añadir las cerezas.\n5. Retirar la rama de canela y los clavos.\n6. Enfriar antes de servir.",
+  "url": null
+}

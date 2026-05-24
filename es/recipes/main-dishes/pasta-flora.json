@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-flora",
+  "name": "Pasta Flora",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "postres",
+    "griega",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "3 tazas de harina",
+    "1 cucharadita de polvo de hornear",
+    "1 taza de mantequilla derretida",
+    "1 yema de huevo",
+    "1/3 taza de azúcar",
+    "1/2 taza de coñac",
+    "2 cucharaditas de ralladura de limón",
+    "1 1/2 tazas de mermelada de albaricoque"
+  ],
+  "recipeInstructions": "1. Cernir la harina con el polvo de hornear y mezclarla.\n2. Agregar la mantequilla, la yema de huevo, el azúcar, el coñac y la ralladura de limón; amasar hasta obtener una masa suave.\n3. Dividir la masa en dos partes.\n4. Estirar una parte en una masa gruesa y colocarla en un molde cuadrado.\n5. Desprender un trozo de la otra mitad y enrollarlo entre las palmas para ajustarlo alrededor de la masa del fondo; presionar suavemente los bordes con agua y dar forma con los dedos.\n6. Extender la mermelada sobre la base de masa.\n7. Enrollar el resto de la masa en tiras gruesas, aproximadamente del grosor de un dedo meñique, y colocarlas sobre la mermelada en un patrón entrelazado.\n8. Unir los bordes con un poco de agua.\n9. Hornear a 300°F durante 30 a 40 minutos.\n10. Enfriar y cortar en cuadrados.",
+  "url": null
+}

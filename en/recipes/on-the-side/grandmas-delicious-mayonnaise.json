@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "grandmas-delicious-mayonnaise",
+  "name": "Grandmas Delicious Mayonnaise",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condiments",
+    "salads",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "3 eggs, well beaten",
+    "1/2 cup sugar",
+    "1/2 teaspoon mustard",
+    "1 cup cream",
+    "1/2 cup vinegar",
+    "1/2 teaspoon salt"
+  ],
+  "recipeInstructions": "1. Gradually add the sugar, mustard, and cream to the beaten eggs.\n2. Slowly incorporate the vinegar into the mixture.\n3. Cook over a double boiler until thickened.\n4. Remove from heat and stir in the salt when the mixture has cooled.",
+  "url": null
+}

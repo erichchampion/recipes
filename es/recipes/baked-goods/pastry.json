@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pastry",
+  "name": "Pastel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de manteca vegetal",
+    "1/4 taza de agua hirviendo",
+    "1 cucharada de leche",
+    "2 tazas de harina tamizada",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Coloca la manteca vegetal en un bol mediano.\n2. Añade el agua hirviendo y la leche al bol.\n3. Desmenuza la manteca con un tenedor hasta que esté bien combinada con el agua y la leche.\n4. Inclina el bol y bate la mezcla rápidamente con el tenedor, haciendo movimientos en forma de cruz por todo el bol, hasta que la masa sea suave y espesa como la crema batida. Debe mantener picos suaves al levantar el tenedor.\n5. Cierna la harina y la sal sobre la mezcla de manteca.\n6. Incorpora la harina y la sal a la mezcla con movimientos circulares vigorosos para formar una masa que se pegue y quede adherida al bol.\n7. Retira la masa del bol y amásala hasta obtener una superficie lisa y redonda.\n8. Divide la masa en dos bolas.\n9. Estira la masa y corta para una base de pastel de 2 crostas.",
+  "url": null
+}

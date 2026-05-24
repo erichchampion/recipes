@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hash-brown-medley",
+  "name": "Mezcla de hash brown",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "bajo en calorías",
+    "plato principal",
+    "papas"
+  ],
+  "recipeIngredient": [
+    "4 patatas, peladas o sin pelar",
+    "1 pimiento verde, picado",
+    "1 cebolla, cortada en cubos",
+    "4 dientes de ajo, laminados",
+    "1 taza de agua",
+    "2 tazas de maíz descongelado o fresco",
+    "1 tomate grande, cortado en dados"
+  ],
+  "recipeInstructions": "1. Coloca las patatas, el pimiento verde, la cebolla y el ajo en una sartén antiadherente con 1/2 taza de agua.\n2. Cocina, removiendo, a fuego medio durante 5 minutos.\n3. Añade la otra mitad de agua y cubre.\n4. Continúa cocinando durante otros 10 minutos, removiendo ocasionalmente.\n5. Agrega el maíz y el tomate.\n6. Cocina, removiendo, por 5 minutos adicionales.",
+  "url": null
+}

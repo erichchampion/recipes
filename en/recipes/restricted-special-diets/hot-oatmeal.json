@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-oatmeal",
+  "name": "Hot Oatmeal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "breakfast",
+    "diabetic",
+    "special diets"
+  ],
+  "recipeIngredient": [
+    "1 cup hot water",
+    "2/3 cup oatmeal",
+    "1 tbsp raisins",
+    "1/2 tsp cinnamon",
+    "1 tbsp sunflower seeds",
+    "1/4 cup milk or yogurt (low-fat)"
+  ],
+  "recipeInstructions": "1. Mix the oatmeal and hot water in a small pan.\n2. Cook gently for 5-6 minutes, stirring occasionally.\n3. Stir in the raisins, cinnamon, and sunflower seeds.\n4. Serve with the milk or yogurt on top.",
+  "url": null
+}

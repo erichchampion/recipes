@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-stuff",
+  "name": "Pollo Relleno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de pechuga de pollo, cortada en tiras o en pechugas deshuesadas",
+    "4 rebanadas de queso suizo, para cubrir",
+    "1 caja de sopa de apio sin sal",
+    "1 caja de sopa de setas sin sal",
+    "1 paquete de mezcla para relleno",
+    "1 taza de vino rosado o rubí"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375°F (si se usa un plato de vidrio, a 350°F).\n2. Mezclar las sopas y el vino en un bol.\n3. Colocar las pechugas de pollo en el plato para hornear. Si se usan tiras, formarles un tamaño similar al de la pechuga.\n4. (Opcional) Añadir una rebanada de jamón encima del pollo.\n5. Extender el queso uniformemente sobre el pollo.\n6. Cubrir todo con la mezcla para relleno.\n7. Verter la mezcla de sopa sobre todo para humedecer el relleno.\n8. Tapar y hornear durante 35-45 minutos.\n9. Servir con una ensalada César.\nVariación: Después de cocinar durante 20 minutos, retirar del horno y colocar brócoli en floretes sobre el relleno. Cubrir y devolver al horno para terminar la cocción.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-beer-burgers",
+  "name": "Hamburguesas de Cerveza al Horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne molida",
+    "1 cucharadita de pimienta de Dijon",
+    "1 cucharada de salsa Tabasco",
+    "1 diente de ajo machacado",
+    "1/3 taza de salsa picante",
+    "1/2 sobre de mezcla de sopa de cebolla seca",
+    "1/2 taza de cerveza"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 400 °F (200 °C).\n2. Mezclar la carne, la pimienta, la salsa Tabasco, el ajo, la salsa picante, la mezcla de sopa de cebolla y 1/4 taza de cerveza en un bol. Formar 6 hamburguesas.\n3. Hornear durante 10 minutos hasta que estén doradas. Barnizar con los 1/4 taza restantes de cerveza.\n4. Continuar horneando entre 10 y 15 minutos más, o hasta que estén bien cocidas.",
+  "url": null
+}

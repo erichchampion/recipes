@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "terry-s-taco-dip",
+  "name": "Dip de Tacos de Terry",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "salsas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 lata de frijoles refritos",
+    "Pimienta chili al gusto",
+    "Salsa Tabasco al gusto",
+    "8 oz de queso crema",
+    "1 taza de crema agria",
+    "1 sobre de mezcla para tacos",
+    "Lechuga picada",
+    "Queso cheddar rallado",
+    "Tomates picados",
+    "Aceitunas negras en rodajas"
+  ],
+  "recipeInstructions": "1. Calentar los frijoles refritos en el microondas durante 2 minutos. Mezclar con pimienta chili y salsa Tabasco hasta obtener una consistencia suave.\n2. Batir juntos el queso crema, la crema agria y la mezcla para tacos.\n3. Agregar la lechuga picada.\n4. Cubrir con queso cheddar rallado, tomates picados y aceitunas negras.",
+  "url": null
+}

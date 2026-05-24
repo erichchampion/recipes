@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "summer-sausage",
+  "name": "Summer Sausage",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "meat",
+    "poultry",
+    "sausages"
+  ],
+  "recipeIngredient": [
+    "2 lb Ground beef",
+    "1/4 tsp Coarse pepper",
+    "2 tbsp Curing salt (kosher salt)",
+    "1/4 tsp Garlic salt",
+    "1 tbsp Liquid smoke",
+    "1/4 tsp Mustard seed",
+    "1/4 tsp Onion salt"
+  ],
+  "recipeInstructions": "1. Mix all ingredients well.\n2. Form into 2 rolls and wrap tightly in foil.\n3. Refrigerate for 24 hours.\n4. Bake over a broiler pan with water at 350°F for 1 1/2 hours.\n5. Remove from foil after baking.\n6. Serve hot or cold.",
+  "url": null
+}

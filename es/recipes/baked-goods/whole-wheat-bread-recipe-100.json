@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "whole-wheat-bread-recipe-100",
+  "name": "Receta de Pan Integral (100%)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "trigo integral"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de agua",
+    "3 tazas de harina integral molida de trigo entero",
+    "3/8 taza de gluten de trigo",
+    "3 cucharadas de miel",
+    "2 cucharaditas de sal",
+    "4 cucharaditas de levadura seca activa"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar la harina integral, el gluten y la sal.\n2. En el panificador de su máquina de hacer pan, verter agua tibia (37°C).\n3. Espolvorear la levadura sobre el agua.\n4. Añadir la miel al agua y remover con una espátula.\n5. Verter la mezcla de ingredientes secos en el panificador.\n6. Con una espátula, doblar suavemente la harina desde cada esquina del bol hacia adentro.\n7. Colocar el panificador en la máquina de hacer pan.\n8. Seleccionar la opción \"Pan\" en el menú de su máquina.\n9. Elegir la configuración de color deseada (claro o oscuro).\n10. Presionar el botón \"Iniciar\" y asegurar la configuración.",
+  "url": null
+}

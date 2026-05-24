@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-fluff-pie",
+  "name": "Tarta de Mousse de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "frutas",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de puré de manzana endulzado",
+    "2 huevos",
+    "2 cucharadas de jugo de limón",
+    "1 cucharada de harina",
+    "Unas hebras de sal"
+  ],
+  "recipeInstructions": "1. Mezclar en un bol el puré de manzana, el jugo de limón, la sal, la harina y las yemas de huevo bien batidas.\n2. Cocinar sobre agua caliente hasta que espese y sea suave.\n3. Incorporar cuidadosamente las claras de huevo batidas a punto de nieve.\n4. Verter la mezcla en una base de masa quebrada previamente horneada.\n5. Hornear en horno precalentado a 425°F (220°C) hasta que la corteza esté dorada y el relleno firme.",
+  "url": null
+}

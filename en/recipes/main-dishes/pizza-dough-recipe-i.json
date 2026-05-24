@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-dough-recipe-i",
+  "name": "Pizza Dough Recipe I",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desserts",
+    "dough",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 1/3 cup Water at 45°C (110°F)",
+    "1 tbsp Sugar",
+    "1 tbsp Yeast",
+    "2 tbsp Vegetable oil (olive preferred)",
+    "1 tsp Salt",
+    "1 Egg",
+    "4 cups Flour"
+  ],
+  "recipeInstructions": "1. Proof the yeast in warm water and sugar.\n2. Add the rest of the ingredients and knead until an elastic dough is formed.\n3. Allow the dough to rise once until doubled in size.\n4. Beat down the dough, roll it out onto pans, and let rest for 15 minutes before topping.\n5. If time is limited, skip the first rise with minimal impact on quality.",
+  "url": null
+}

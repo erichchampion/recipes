@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheesy-noodle-omelet",
+  "name": "Omeleta de fideos con queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "queso/huevos",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "8 huevos",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "2 tazas de pasta cocida",
+    "1 taza de queso cheddar rallado",
+    "2 cucharadas de pimiento verde picado",
+    "1 cucharada de pimiento rojo picado"
+  ],
+  "recipeInstructions": "1. En un recipiente para microondas profundo y resistente al calor de 2 cuartos, bate los huevos con la sal y la pimienta.\n2. Añade la pasta cocida, el queso cheddar, el pimiento verde y el pimiento rojo. Mezcla bien.\n3. Calienta en el microondas, cubierto, durante 3 minutos, removiendo después de cada minuto de cocción.\n4. Deja reposar 2 a 3 minutos a temperatura ambiente. Corta en wedges y sirve.",
+  "url": null
+}

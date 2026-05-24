@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-devonshire-clotted-cream-tdn",
+  "name": "Crema de leche falsa de Devonshire",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "británico",
+    "postres",
+    "étnico",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "3 oz de queso crema",
+    "1 taza de crema espesa o nata para montar",
+    "1 cucharadita de azúcar en polvo",
+    "1/2 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una licuadora o procesador de alimentos.\n2. Procesar hasta obtener una consistencia espesa y suave, utilizando el procesador de alimentos si es posible.\n3. Servir con mermelada sobre scones calientes.\n4. Conservar en la nevera.",
+  "url": null
+}

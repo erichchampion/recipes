@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "waffles-4",
+  "name": "Waffles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "breakfast",
+    "main dish",
+    "waffles"
+  ],
+  "recipeIngredient": [
+    "2 eggs",
+    "3 cups milk (sour)",
+    "3 3/4 cups flour",
+    "1 tablespoon sugar",
+    "4 teaspoons baking powder",
+    "1 1/2 teaspoons baking soda",
+    "1 teaspoon salt",
+    "2 tablespoons melted butter"
+  ],
+  "recipeInstructions": "1. Combine the ingredients in a large bowl until well mixed.\n2. Pour the batter into a preheated waffle iron.\n3. Cook on the waffle iron until crisp and brown.\n4. Turn off the heat when finished cooking.",
+  "url": null
+}

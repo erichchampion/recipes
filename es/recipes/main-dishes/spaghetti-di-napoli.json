@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-di-napoli",
+  "name": "Spaghettis de Nápoles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/2 libra de espagueti, cocido según las instrucciones del paquete",
+    "3/4 libra de pechuga de pollo sin piel y deshuesada, cortada en tiras",
+    "1 tarro de salsa para pasta Classico con tomate y albahaca",
+    "1 paquete de mezcla de verduras congeladas",
+    "Queso parmesano rallado (opcional)"
+  ],
+  "recipeInstructions": "1. Rocía una sartén antiadherente grande con spray de cocina vegetal.\n2. Calienta la sartén a fuego medio-alto.\n3. Cocina y revuelve las tiras de pollo hasta que estén bien doradas.\n4. Añade la salsa para pasta y las verduras congeladas a la sartén.\n5. Tapa; reduce el fuego y deja cocinar a fuego lento durante 10 minutos o hasta que las verduras estén tiernas.\n6. Adorna con queso parmesano rallado si lo deseas.",
+  "url": null
+}

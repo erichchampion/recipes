@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "korean-bbq-beef",
+  "name": "Carne de BBQ coreano",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecua",
+    "carne de vacuno",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "2 lb de punta de solomillo de res; cortada en trozos",
+    "1/2 taza de salsa de soja",
+    "6 cucharadas de azúcar",
+    "6 cebolletas",
+    "2 dientes de ajo; picados finamente",
+    "4 cucharadas de aceite de sésamo",
+    "1 cucharada de semillas de sésamo"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol y marinar durante al menos 2 horas.\n2. Cocinar la carne a la parrilla como brochetas o saltear en una sartén.\n3. Si no se encuentran las punta de solomillo, se puede usar bistec de falda, que tiene un sabor similar.\n4. Para añadir picante, sustituir el aceite de sésamo por aceite de chile y agregar pimentón cayena.\n5. El azúcar ayuda a caramelizar la carne; se puede usar azúcar de caña, pero puede no caramelozarse tan bien.",
+  "url": null
+}

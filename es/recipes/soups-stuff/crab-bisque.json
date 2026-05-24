@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "crab-bisque",
+  "name": "Sopa de Cangrejo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de mantequilla",
+    "1 cebolla pequeña, picada finamente",
+    "1 cucharada de perejil fresco, picado finamente",
+    "1 1/2 tazas de carne de cangrejo, picada",
+    "2 cucharadas de harina",
+    "2 tazas de caldo de pollo",
+    "2 tazas de crema ligera",
+    "Una pizca de pimienta cayena",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "1. Derretir la mantequilla en una sartén a fuego medio.\n2. Añadir la cebolla y cocinar a fuego lento hasta que esté dorada, aproximadamente 5 minutos.\n3. Incorporar la carne de cangrejo y el perejil, y cocinar a fuego muy bajo, removiendo constantemente, durante 4 minutos.\n4. Agregar la harina y mezclar bien. Cocinar durante 3 minutos más.\n5. Verter el caldo de pollo y llevar a ebullición suave. Reducir el fuego y dejar cocer a fuego lento durante 20 minutos, con la tapa parcialmente puesta.\n6. Incorporar la crema y la pimienta cayena. Calentar hasta que esté caliente y sazonar con sal al gusto. Servir en porciones de 5 tazas.",
+  "url": null
+}

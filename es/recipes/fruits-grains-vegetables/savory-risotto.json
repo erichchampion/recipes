@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "savory-risotto",
+  "name": "Risotto sabroso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "4 cucharadas de margarina",
+    "1 cebolla mediana, picada",
+    "1/2 taza de apio en rodajas",
+    "1/4 taza de pimiento verde picado",
+    "1 taza de arroz",
+    "1/2 taza de vino blanco seco",
+    "1 3/4 tazas de caldo de pollo",
+    "1 pizca de tomillo",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. En una sartén, saltea la cebolla, el apio y el pimiento verde en la margarina durante 5 minutos.\n2. Añade el arroz y cocina, removiendo constantemente, hasta que el arroz se vuelva transparente.\n3. Incorpora el vino, el caldo, la sal y el tomillo. Lleva a ebullición.\n4. Tapa la olla y deja cocinar a fuego lento durante 30 minutos, o hasta que el arroz esté listo.",
+  "url": null
+}

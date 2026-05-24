@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "salmon-sushi",
+  "name": "Salmon Sushi",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "asian",
+    "ethnic",
+    "japanese",
+    "seafood"
+  ],
+  "recipeIngredient": [
+    "2 1/4 parts vinegar",
+    "2 parts salt"
+  ],
+  "recipeInstructions": "1. Filet out the middle portion from back to front.\n2. Marinate for one day in a mixture of salt and 5% vinegar until the surface of the fish is \"cooked\" (like seviche).\n3. Freeze overnight.\n4. Slice thin and serve.\nNote: I didn't get the proportions of salt and vinegar, but it's assumed to be very similar to what I use for pickling fish.",
+  "url": null
+}

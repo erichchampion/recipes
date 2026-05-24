@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "buttermilk-oat-bread",
+  "name": "Pan de avena con buttermilk",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 libra de harina de pan",
+    "1 taza de suero de leche",
+    "4 cucharadas de mantequilla",
+    "3 cucharadas de melaza",
+    "1 1/2 cucharaditas de sal",
+    "1 taza de avena",
+    "2 tazas de harina de pan",
+    "1 1/2 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en la máquina de pan.\n2. Seleccionar el ciclo \"Pan dulce\" en la configuración más ligera.\n3. Seguir las instrucciones del fabricante para el tiempo y temperatura de horneado.",
+  "url": null
+}

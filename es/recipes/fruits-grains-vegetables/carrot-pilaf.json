@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "carrot-pilaf",
+  "name": "Arroz de Zanahoria",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "cazuelas",
+    "pilares",
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "1 taza de zanahorias ralladas",
+    "1/2 taza de cebolla picada",
+    "1 cucharada de mantequilla",
+    "1 taza de arroz de grano largo sin cocinar",
+    "200 gramos de caldo de pollo (4 tazas)",
+    "1 cucharadita de pimienta limón"
+  ],
+  "recipeInstructions": "1. En una sartén, saltea las zanahorias ralladas y la cebolla picada en la mantequilla hasta que estén tiernas.\n2. Añade el arroz cocido y remueve para que se impregne uniformemente con la mantequilla.\n3. Incorpora el caldo de pollo y la pimienta limón; lleva a ebullición.\n4. Reduce el fuego, tapa y deja cocer a fuego lento durante 20 minutos o hasta que el arroz esté tierno.",
+  "url": null
+}

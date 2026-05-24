@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "special-chicken",
+  "name": "Pollo Especial",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "aves de corral",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 pollo, sin piel y cortado en trozos",
+    "200 g de mermelada de albaricoque (de bajo contenido en azúcar)",
+    "200 g de aderezo francés (bajo en grasa)",
+    "1 sobre de mezcla de sopa de cebolla seca"
+  ],
+  "recipeInstructions": "1. Coloca el pollo en la olla de cocción lenta.\n2. Mezcla bien todos los ingredientes restantes.\n3. Vierte la mezcla sobre el pollo.\n4. Tapa y cocina a fuego lento durante 7-9 horas.",
+  "url": null
+}

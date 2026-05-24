@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "crunchy-salsa",
+  "name": "Salsa crujiente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 tomates rojos y maduros",
+    "1/2 pepino",
+    "1/4 cebolla roja",
+    "2 cucharadas de cilantro picado",
+    "1 pimiento jalapeño",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "1. Corta en cubos los tomates, el pepino y la cebolla roja.\n2. Pica finamente el cilantro.\n3. Retira las semillas del jalapeño si prefieres menos picante.\n4. Mezcla todos los ingredientes en un bol.\n5. Sazona con sal al gusto.\n6. Sirve inmediatamente o guarda en la nevera para más tarde.",
+  "url": null
+}

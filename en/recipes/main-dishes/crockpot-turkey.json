@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-turkey",
+  "name": "Crockpot Turkey",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "slow cooker",
+    "turkey"
+  ],
+  "recipeIngredient": [
+    "1 cup chicken broth",
+    "Pam cooking spray",
+    "1 small turkey breast; frozen",
+    "Salt and pepper to taste",
+    "Carrots, chunked (optional)",
+    "Potatoes, chunked (optional)",
+    "Onions, chunked (optional)"
+  ],
+  "recipeInstructions": "1. Place the turkey breast in the pot.\n2. Pour the chicken broth over the turkey.\n3. Add salt and pepper to taste.\n4. If desired, add vegetables such as carrots, potatoes, or onions around and under the turkey.\n5. Cook on LOW for 8-10 hours, turning off when ready.",
+  "url": null
+}

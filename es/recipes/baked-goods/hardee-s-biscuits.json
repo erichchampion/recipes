@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "hardee-s-biscuits",
+  "name": "Biscuitos Hardee's",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "galletas",
+    "panes",
+    "varios"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina para todo uso",
+    "1 cucharada de azúcar (o Sweet'N Low)",
+    "1 taza de leche",
+    "1/3 taza de mayonesa"
+  ],
+  "recipeInstructions": "1. Mezclar la harina, el azúcar, la leche y la mayonesa en un bol hasta obtener una masa suave.\n2. Dividir la masa en partes iguales entre 10 moldes para muffins o cupcakes forrados con papel.\n3. Hornear a 175 °C durante unos 25-30 minutos, o hasta que estén doradas y doblen su tamaño.",
+  "url": null
+}

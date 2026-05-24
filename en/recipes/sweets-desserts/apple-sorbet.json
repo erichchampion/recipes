@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-sorbet",
+  "name": "Apple Sorbet",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "apples",
+    "desserts",
+    "ice cream",
+    "sorbet"
+  ],
+  "recipeIngredient": [
+    "5 large Tart apples; peeled,",
+    "-cored and diced (Gravensteins, Jonathans, Spartans are all great)",
+    "1 Lemon; juice",
+    "1/2 cup Sugar",
+    "1 1/2 cups Apple cider",
+    "2 tablespoons Apple brandy or Calvados (optional)"
+  ],
+  "recipeInstructions": "1. Process the diced apples with lemon juice in a food processor using the steel blade until smooth.\n2. Add sugar, apple cider, and/or liquor to the mixture. Continue processing until everything is well blended.\n3. Freeze the mixture in an ice cream maker according to the manufacturer's instructions.",
+  "url": null
+}

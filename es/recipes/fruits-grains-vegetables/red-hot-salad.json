@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "red-hot-salad",
+  "name": "Ensalada Red Hot",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "candies",
+    "fruta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "6 oz de Gelatina Cherry (2 paquetes)",
+    "4 oz de Candy Red Hots (también conocidos como Cinnamon Imperials)",
+    "3 tazas de agua hirviendo",
+    "20 oz de Piña, triturada y escurrida",
+    "2 tazas de Puré de Manzana"
+  ],
+  "recipeInstructions": "1. Disolver la gelatina y los Red Hots en el agua hirviendo.\n2. Dejar enfriar la mezcla a temperatura ambiente.\n3. Incorporar la piña triturada y el puré de manzana.\n4. Verter la mezcla en un molde engrasado de 8 tazas.\n5. Refrigerar antes de servir.",
+  "url": null
+}

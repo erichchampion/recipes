@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-connection",
+  "name": "French Connection",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "beverages",
+    "drinks",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "2 oz Brandy",
+    "1 oz Amaretto",
+    "1 Triple sec"
+  ],
+  "recipeInstructions": "1. Fill a rocks glass with ice.\n2. Add brandy and amaretto to the glass.\n3. Stir gently until combined.\n4. Top with a splash of triple sec.\n5. Serve.",
+  "url": null
+}

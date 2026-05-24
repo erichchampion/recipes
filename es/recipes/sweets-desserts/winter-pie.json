@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "winter-pie",
+  "name": "Pastel de Invierno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de azúcar",
+    "1 cucharada de maicena",
+    "1/2 cucharadita de canela",
+    "1/4 cucharadita de clavos molidos",
+    "1/4 cucharadita de nuez moscada",
+    "1/4 cucharadita de sal",
+    "1 taza de pasas sin semillas",
+    "1/2 taza de zanahoria finamente rallada",
+    "1/2 taza de agua caliente",
+    "1 taza de manzanas cortadas en trozos gruesos"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar el azúcar, la maicena y las especias (canela, clavos, nuez moscada y sal). Añadir la zanahoria rallada y las pasas.\n2. Agregar lentamente el agua caliente a la mezcla hasta obtener la consistencia deseada.\n3. Colocar la mezcla en un molde para tarta con dos bases.\n4. Hornear a 180°C durante 25 minutos.",
+  "url": null
+}

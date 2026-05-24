@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "hello-dolly-cookies",
+  "name": "Galletas Hello Dolly",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "8 cucharadas de mantequilla",
+    "1 taza de migas de galleta Graham",
+    "1 taza de chips de chocolate",
+    "1 taza de nueces picadas",
+    "1 lata de leche condensada Eagle Brand"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una bandeja para hornear de 13x9 cm.\n2. Extiende las migas de galleta Graham de manera uniforme sobre el fondo de la bandeja.\n3. Cubre con una capa de chips de chocolate.\n4. Esparce las nueces picadas en otra capa.\n5. Vierte la leche condensada por encima.\n6. No mezcles en ningún momento.\n7. Hornea a 180°C durante 30 minutos.\n8. Deja enfriar y corta en cuadrados.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "harvest-rice",
+  "name": "Arroz de la Cosecha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz",
+    "platos secundarios",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 taza de zanahorias cortadas en rodajas",
+    "1 cucharada de aceite vegetal",
+    "1 taza de cebolletas cortadas, con las puntas",
+    "2 tazas de manzanas sin corazón y picadas (sin pelar)",
+    "3 tazas de arroz marrón cocido",
+    "1/2 cucharadita de sal",
+    "1/2 taza de pasas sin semillas",
+    "1 cucharada de semillas de sésamo"
+  ],
+  "recipeInstructions": "1. En una sartén grande, cocina las zanahorias cortadas en rodajas en aceite a fuego medio durante unos 5 minutos.\n2. Añade las cebolletas y las manzanas picadas a la sartén. Continúa cocinando de 3 a 5 minutos más.\n3. Incorpora el arroz marrón cocido, la sal, las pasas y las semillas de sésamo. Cocina hasta que todos los ingredientes estén bien calientes.",
+  "url": null
+}

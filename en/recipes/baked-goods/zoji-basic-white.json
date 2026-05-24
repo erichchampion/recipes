@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "zoji-basic-white",
+  "name": "Zoji Basic White",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "bread machine",
+    "breads",
+    "machine"
+  ],
+  "recipeIngredient": [
+    "1 1/4 cups buttermilk",
+    "2 tablespoons applesauce",
+    "2 tablespoons sugar",
+    "1 tablespoon salt",
+    "3 cups bread flour",
+    "1 package yeast"
+  ],
+  "recipeInstructions": "1. Put all ingredients into the machine.\n2. Select the white setting.",
+  "url": null
+}

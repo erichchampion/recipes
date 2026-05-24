@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-fagioli-pasta-fazool",
+  "name": "Pasta Fagioli (Pasta Fazool)",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "etnica",
+    "italiana",
+    "pasta",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "Judías rojas",
+    "Guisantes negros",
+    "Cebollas",
+    "Ajo",
+    "Pimienta negra",
+    "Trozos de jamón",
+    "1 lata mediana de tomates",
+    "Pasta ditilini"
+  ],
+  "recipeInstructions": "1. Saltear las cebollas, el ajo y los trozos de jamón en aceite de maní.\n2. Agregar las judías y dejar cocinar a fuego lento durante 45 minutos a 1 hora.\n3. Cocinar la pasta ditilini según las instrucciones del paquete.\n4. Incorporar el fazool (frijoles refritos) y servir.\n5. Acompañar con pan de ajo.",
+  "url": null
+}

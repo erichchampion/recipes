@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "happle-bagel-sandwich",
+  "name": "Sándwich de bagel con manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "comida para niños",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1/2 bagel",
+    "1 rebanada de manzana (preferiblemente verde)",
+    "1 rebanada de queso",
+    "Horno",
+    "Canela"
+  ],
+  "recipeInstructions": "1. Toma una rebanada redonda de manzana.\n2. Coloca la rebanada de manzana sobre una rebanada de queso y luego sobre un bagel.\n3. Hornea el sándwich en un horno precalentado a 350 grados Fahrenheit durante 5-10 minutos.\n4. Vigila para evitar que se queme.\n5. Cuando el queso empiece a derretirse, retira el sándwich del horno. ¡Disfruta!",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "four-cheese-pizza",
+  "name": "Four-Cheese Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cheese",
+    "main dish",
+    "pies",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 10-inch pizza crust",
+    "4 tsp Olive oil",
+    "1/2 cup Mozzarella, shredded",
+    "1/2 cup Fontina cheese, shredded",
+    "1/2 cup Provolone cheese, shredded",
+    "1 large Tomato, core, sliced",
+    "2 tbsp Parmesan, fresh grated",
+    "2 tbsp Fresh basil, chopped"
+  ],
+  "recipeInstructions": "1. Place pre-baked pizza crust on a perforated pizza pan.\n2. Brush with oil.\n3. Combine mozzarella, fontina, and provolone cheeses; sprinkle half over the crust.\n4. Arrange tomato in a single layer over the cheese, overlapping slightly if necessary.\n5. Sprinkle remaining cheese mixture over the tomato, then sprinkle with Parmesan.\n6. Place on a greased grill set to medium-high heat. Cover and cook for about 12 minutes or until the crust is crisp and the cheese has melted. Rotate the pan once during cooking.\n7. Sprinkle with fresh basil before serving.",
+  "url": null
+}

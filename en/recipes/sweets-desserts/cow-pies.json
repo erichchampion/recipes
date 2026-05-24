@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "cow-pies",
+  "name": "Cow Pies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "chocolate",
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "2 cups (12 oz) milk chocolate chips",
+    "1 tablespoon shortening",
+    "1/2 cup raisins",
+    "1/2 cup slivered almonds"
+  ],
+  "recipeInstructions": "1. In a double boiler over simmering water, melt the chocolate chips and shortening, stirring until smooth.\n2. Remove from the heat; stir in raisins and almonds.\n3. Drop by tablespoonfuls onto waxed paper. Chill until ready to serve.",
+  "url": null
+}

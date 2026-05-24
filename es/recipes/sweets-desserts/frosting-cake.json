@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "frosting-cake",
+  "name": "Glaseado de pastel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 caja de mezcla para pastel Duncan Hines amarillo",
+    "4 huevos",
+    "1 taza de aceite",
+    "1 taza de agua",
+    "1 lata de glaseado Cremoso Deluxe de Pillsbury con coco y nueces pecanas",
+    "1/2 taza de nueces pecanas picadas"
+  ],
+  "recipeInstructions": "1. Mezcla la mezcla para pastel, huevos, aceite y agua en un bol grande hasta que esté bien combinado.\n2. Añade las nueces pecanas picadas y remueve hasta distribuirlas uniformemente.\n3. Rocía un molde para pastel tipo bundt con spray antiadherente y espolvorea con harina para evitar que se pegue.\n4. Coloca el molde en la rejilla superior del horno precalentado a 175 °C (350 °F).\n5. Hornea durante 45 a 60 minutos, o hasta que un palillo insertado en el centro salga limpio.\n6. Saca el pastel del molde mientras aún esté caliente y déjalo enfriar completamente antes de glasearlo.",
+  "url": null
+}

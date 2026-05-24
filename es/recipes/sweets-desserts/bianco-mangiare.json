@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "bianco-mangiare",
+  "name": "Bianco Comer",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "postres",
+    "étnico",
+    "italiano"
+  ],
+  "recipeIngredient": [
+    "1 pastel de esponja de 23 cm",
+    "1/2 taza de azúcar",
+    "1/3 taza de almidón de maíz",
+    "1 litro de leche",
+    "1 cucharadita de extracto de vainilla",
+    "1 cucharadita de canela",
+    "1 taza de sprinkles de chocolate",
+    "1 taza de nueces picadas",
+    "1/2 taza de cerezas maraschino picadas",
+    "1/2 taza de salsa de chocolate (opcional)"
+  ],
+  "recipeInstructions": "1. Cortar el pastel en rebanadas de 0,5 cm.\n2. Colocar una capa en el fondo de un molde para pastel de 23 cm. Reservar.\n3. En una cacerola, mezclar el azúcar y el almidón de maíz. Cocinar a fuego medio, añadiendo la leche gradualmente mientras revuelve hasta que la mezcla hierva y espese.\n4. Retirar del fuego y agregar el extracto de vainilla y la canela.\n5. Verter la mitad del pudín sobre la capa de pastel. Espolvorear con chocolate y nueces.\n6. Añadir otra capa de pastel, luego verter el resto del pudín y espolvorear con el chocolate y las nueces restantes.\n7. Cubrir con cerezas picadas.\n8. Refrigerar hasta servir.\n9. Servir frío sobre platos fríos con salsa de chocolate, si se desea.",
+  "url": null
+}

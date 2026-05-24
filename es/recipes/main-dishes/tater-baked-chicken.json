@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tater-baked-chicken",
+  "name": "Pollo asado con patatas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave",
+    "rápido"
+  ],
+  "recipeIngredient": [
+    "2 pechugas de pollo",
+    "1/2 taza de queso parmesano (rallado fresco)",
+    "1/2 taza de copos de patata instantáneos",
+    "Yogur natural (sin sabor) para cubrir las pechugas",
+    "Espray antiadherente Pam para la sartén"
+  ],
+  "recipeInstructions": "1. Untar yogur sobre las piezas de pollo, con o sin piel.\n2. Empanizar en un mezcla de queso parmesano y copos de patata.\n3. Hornear a 180°C durante unos 30 minutos, dando la vuelta después de 15 minutos.",
+  "url": null
+}

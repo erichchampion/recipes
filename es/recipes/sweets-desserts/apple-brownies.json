@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-brownies",
+  "name": "Brownies de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "brownie",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 barra de margarina",
+    "1 1/2 tazas de azúcar",
+    "3 manzanas cortadas en trozos",
+    "3/4 taza de nueces",
+    "2 huevos",
+    "1 1/2 tazas de harina",
+    "3/4 cucharadita de bicarbonato de sodio",
+    "3/4 cucharadita de polvo de hornear",
+    "3/4 cucharadita de canela"
+  ],
+  "recipeInstructions": "1. Batir la margarina y el azúcar hasta que queden bien combinados.\n2. Agregar los huevos a la mezcla y mezclar bien.\n3. Añadir gradualmente la harina, el bicarbonato de sodio, el polvo de hornear y la canela, mezclando hasta obtener una textura suave.\n4. Incorporar las manzanas cortadas y las nueces.\n5. Verter la masa en un molde para hornear engrasado.\n6. Hornear a 375°F durante 40 minutos.\n7. Apagar el horno y dejar enfriar los brownies antes de servir.",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-dish",
+  "name": "Chicken Dish",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "chicken",
+    "main dish",
+    "meat",
+    "poultry"
+  ],
+  "recipeIngredient": [
+    "1 Chicken, baked and de-boned",
+    "1 can Campbells cream of chicken soup",
+    "1/3 cup mayonnaise",
+    "1 cup sour cream",
+    "1 medium onion, chopped",
+    "2 stalks celery, sliced 1/8 inch thick",
+    "1 dozen mushrooms, sliced",
+    "1 can waterchestnuts, drained",
+    "1 can Pillsbury cresent rolls",
+    "1 cup Monterey Jack cheese, shredded",
+    "3 teaspoons butter, melted",
+    "1/2 cup pine nuts or sliced almonds"
+  ],
+  "recipeInstructions": "1. Cream together the mayonnaise, soup, and sour cream.\n2. Add the chicken and vegetables (onion, celery, mushrooms, waterchestnuts).\n3. Microwave on high for 6 minutes.\n4. Pour the mixture into a 9x13 baking dish.\n5. Spread the Pillsbury crescent rolls over the top to make a crust.\n6. Top with shredded cheese, drizzle butter over the top, and sprinkle with pine nuts or sliced almonds.\n7. Bake at 350 degrees Fahrenheit for 30-40 minutes until cooked and browned.\n8. Cool for 5 minutes.\n9. Slice down the middle and then three additional cuts to make a total of eight pieces.\n10. Serves 4 people (2 slices each).",
+  "url": null
+}

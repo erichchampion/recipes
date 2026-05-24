@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-muffins-3",
+  "name": "Muffins básicos 3",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "bajo en calorías",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina integral",
+    "2 cucharaditas de polvo de hornear",
+    "1/4 taza de miel",
+    "2 tazas de agua o leche vegetal",
+    "2 cucharadas de puré de manzana",
+    "1/2 cucharadita de vainilla",
+    "1/2 cucharadita de canela",
+    "1/2 cucharadita de nuez moscada",
+    "1/4 cucharadita de jengibre",
+    "1/4 cucharadita de clavo de olor",
+    "1/4 cucharadita de allspice"
+  ],
+  "recipeInstructions": "Mezclar los ingredientes secos. Combinar los ingredientes húmedos. Incorporar hasta que estén ligeramente humedecidos. Verter en moldes para muffins engrasados o antiadherentes. Hornear a 350°F durante 30 minutos.",
+  "url": null
+}

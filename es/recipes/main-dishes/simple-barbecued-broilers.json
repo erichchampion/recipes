@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-barbecued-broilers",
+  "name": "Brochetas a la barbacoa sencilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbacoa",
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "Brochetas de pollo, cortadas por la mitad a lo largo (2 libras cada una)",
+    "Mayonesa (1 taza)",
+    "Miel (2 cucharadas)",
+    "Cebolla picada (2 cucharadas)",
+    "Pimentón dulce (1 cucharadita)",
+    "Pimienta negra molida (1/4 cucharadita)",
+    "Sal (1/4 cucharadita)"
+  ],
+  "recipeInstructions": "1. Mezcla la mayonesa, miel, cebolla picada, pimentón, pimienta y sal en un bol. Deja reposar la mezcla a temperatura ambiente durante 30 minutos.\n2. Con un pincel de cocina, unta cada brocheta por dentro y por fuera con el aderezo de mayonesa sazonado.\n3. Coloca las brochetas con la piel hacia abajo en la rejilla del asador, a unos 10 pulgadas de distancia de la fuente de calor.\n4. Asa y pincela frecuentemente durante los primeros 20 minutos.\n5. Da la vuelta al pollo, pechuga hacia arriba, y continúa asando y pincelando por otros 25 minutos, o hasta que la pechuga se pueda perforar fácilmente con un tenedor y esté dorada.",
+  "url": null
+}

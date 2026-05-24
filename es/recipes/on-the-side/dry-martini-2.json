@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "dry-martini-2",
+  "name": "Martini seco 2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3 oz de ginebra",
+    "1 oz de vermut seco",
+    "2 aceitunas"
+  ],
+  "recipeInstructions": "1. Llena un vaso mezclador con hielo.\n2. Añade la ginebra y el vermut seco al vaso mezclador.\n3. Revuelve suavemente hasta que esté bien frío, aproximadamente 30 segundos.\n4. Cuela en un vaso de martini frío lleno de hielo.\n5. Adorna con una aceituna en un palillo de cóctel.\n6. Sirve inmediatamente.",
+  "url": null
+}

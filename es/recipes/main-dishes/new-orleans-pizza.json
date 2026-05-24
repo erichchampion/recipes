@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "new-orleans-pizza",
+  "name": "Pizza de Nueva Orleans",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "4 oz de queso Monterey Jack rallado",
+    "1/2 taza de crema agria",
+    "4 oz de salchicha andouille cocida, cortada en 12 rebanadas finas"
+  ],
+  "recipeInstructions": "NOTA: La andouille es una salchicha picante de Luisiana. Puedes sustituirla por cualquier salchicha con ajo.\n1. Coloca una piedra para pizza en la rejilla inferior del horno. Precalienta a 400°F (si usas un molde metálico, no precalientes el molde).\n2. Mezcla el queso y la crema agria en un bol.\n3. Extiende la mitad de la mezcla hasta 1/4 de pulgada del borde de 2 bases de pizza de 12 pulgadas.\n4. Coloca 6 rebanadas de salchicha sobre cada pizza.\n5. Transfiere las pizzas a la piedra para pizza.\n6. Hornea durante 15 minutos, o hasta que la corteza esté dorada.",
+  "url": null
+}

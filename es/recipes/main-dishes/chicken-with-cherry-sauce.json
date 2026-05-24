@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-with-cherry-sauce",
+  "name": "Pollo con Salsa de Cerezas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo sin hueso ni piel",
+    "1/2 cucharadita de granos de pimienta negra molidos",
+    "1/2 cucharadita de semillas de cilantro molidas",
+    "2 cucharadas de aceite de oliva",
+    "1 cucharada de azúcar",
+    "2 cucharadas de zumo de limón fresco",
+    "1/4 taza de vino blanco",
+    "2 cucharadas de brandy de cerezas (opcional)",
+    "1/2 taza de cerezas sin hueso y sin carpulas"
+  ],
+  "recipeInstructions": "1. Frota las pechugas de pollo con los granos de pimienta y las semillas de cilantro.\n2. Calienta el aceite en una sartén a fuego medio.\n3. Añade las pechugas de pollo y saltea hasta que estén doradas y cocidas por completo, aproximadamente 5 minutos por cada lado. Retira del fuego.\n4. Agrega el azúcar, el zumo de limón y el vino blanco a la sartén. Reduce hasta formar una salsa espesa.\n5. Vierte el brandy (si se usa) y deja que hierva junto con la salsa hasta que espese ligeramente.\n6. Incorpora las cerezas.\n7. Devuelve el pollo y los jugos a la sartén para calentar todo junto antes de servir. Sirve para 4 personas.",
+  "url": null
+}

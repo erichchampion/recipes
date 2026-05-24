@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "pesto-and-pasta",
+  "name": "Pesto y pasta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/4 libra de pasta Rotelle",
+    "6 cucharadas de pesto",
+    "2 tazas de salsa de tomate",
+    "1/4 taza de crema"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta Rotelle según las instrucciones del paquete.\n2. Escurrir la pasta cocida y transferirla a un plato para servir.\n3. Añadir 3 cucharadas de pesto a la pasta y mezclar hasta que esté bien cubierta.\n4. En una sartén, combinar el resto del pesto con la salsa de tomate. Remover hasta que esté completamente mezclado.\n5. Agregar la crema gradualmente a la mezcla y remover bien para asegurar que todo esté combinado.\n6. Verter la salsa sobre la pasta y servir.",
+  "url": null
+}

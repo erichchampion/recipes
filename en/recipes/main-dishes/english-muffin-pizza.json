@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "english-muffin-pizza",
+  "name": "English Muffin Pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italian",
+    "main dish",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "6 English Muffins",
+    "4 oz Sliced Pepperoni",
+    "6 oz Monterey Jack Cheese",
+    "6 oz Pizza Sauce",
+    "Sliced Olives",
+    "Chopped Onion",
+    "Diced Green Pepper"
+  ],
+  "recipeInstructions": "1. Place the English muffin halves on a cookie sheet.\n2. Spread each half with enough pizza sauce to cover generously.\n3. Put 3-4 slices of pepperoni on each half.\n4. Place a generous portion of shredded cheese on top of each pizza.\n5. Place in a preheated oven at 350°F for approximately 15 minutes.\n6. Serve hot.",
+  "url": null
+}

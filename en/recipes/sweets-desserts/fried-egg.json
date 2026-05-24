@@ -1,0 +1,17 @@
+{
+  "@type": "Recipe",
+  "identifier": "fried-egg",
+  "name": "Fried Egg",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desserts"
+  ],
+  "recipeIngredient": [
+    "2 cups Milk",
+    "2 tbsp Buttermilk",
+    "4 Peach Halves"
+  ],
+  "recipeInstructions": "1. Pour milk into a jar.\n2. Add 2 tbsp buttermilk to the milk.\n3. Stir well and set aside for 24 hours. It will thicken.\n4. To make dessert, place a couple of spoonfuls onto a plate and flatten slightly.\n5. Place a peach half on top of this, hence the name \"fried egg.\"",
+  "url": null
+}

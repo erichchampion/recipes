@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "blueberry-sauce-2",
+  "name": "Blueberry Sauce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "breakfast",
+    "fruits",
+    "sauces",
+    "side dishes"
+  ],
+  "recipeIngredient": [
+    "1 cup Unsweetened pineapple juice",
+    "4 tsp Cornstarch",
+    "1 cup Blueberries, thawed or fresh"
+  ],
+  "recipeInstructions": "1. Place the juice in a saucepan with the cornstarch.\n2. Cook, stirring until thickened.\n3. Add the blueberries.\n4. Heat through and serve warm.",
+  "url": null
+}

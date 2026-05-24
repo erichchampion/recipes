@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-lentil-stew",
+  "name": "Simple Lentil Stew",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "august",
+    "soups",
+    "stews",
+    "vegetables"
+  ],
+  "recipeIngredient": [
+    "1/2 lb Lentils",
+    "1 Onion, chopped small",
+    "1 Carrot, cut into chunks",
+    "1 Potato, cut into chunks",
+    "2 tbsp Margarine",
+    "1 tbsp Flour",
+    "Water",
+    "Thyme",
+    "Salt",
+    "Black pepper"
+  ],
+  "recipeInstructions": "1. Heat the margarine in a deep saucepan.\n2. Fry the onion, carrot, and potato until soft.\n3. Stir in the flour.\n4. Add the lentils and enough water to generously cover them.\n5. Cook the lentils until tender, adding more water as needed to keep the stew thick (the lentils will expand and absorb water).\n6. While cooking, add thyme, salt, and pepper to taste (thyme should be the dominant spice).",
+  "url": null
+}

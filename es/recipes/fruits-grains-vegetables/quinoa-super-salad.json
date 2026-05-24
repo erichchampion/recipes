@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "quinoa-super-salad",
+  "name": "Ensalada Super de Quinoa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "granos",
+    "ensaladas",
+    "tomates"
+  ],
+  "recipeIngredient": [
+    "5 tazas de quinoa cocida (receta básica)",
+    "1 taza de zanahorias picadas",
+    "3/4 taza de perejil picado",
+    "1 taza de semillas de girasol",
+    "4 dientes de ajo picados o al gusto",
+    "1/4 taza de aceite de oliva o menos",
+    "1/4 taza de salsa de soja o tamari (Prueba con aminos Bragg)",
+    "1/2 taza de jugo de limón"
+  ],
+  "recipeInstructions": "1. Cocinar la quinoa.\n2. Dejar enfriar.\n3. Añadir las zanahorias, perejil, semillas de girasol y ajo a la quinoa.\n4. Mezclar bien.\n5. Combinar los líquidos, verter sobre la quinoa y mezclar.\n6. Decorar con rodajas de tomate y aceitunas.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-corn",
+  "name": "Maíz mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "guarniciones",
+    "dietas especiales",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de mantequilla (o margarina) derretida",
+    "1 cucharadita de sal",
+    "2 tazas de maíz fresco, cortado del cobro",
+    "1 taza de cebolla frita francesa",
+    "1/4 taza de pimiento verde, picado",
+    "1/4 taza de pimiento rojo, picado",
+    "1/4 cucharadita de orégano"
+  ],
+  "recipeInstructions": "1. Combinar los primeros cinco ingredientes en una sartén pesada.\n2. Tapar y cocinar a fuego medio durante 7 minutos, removiendo ocasionalmente.\n3. Añadir las cebollas fritas francesas, tomates y orégano.\n4. Cocinar, sin tapar, durante 2 minutos o hasta que los tomates estén bien calientes.",
+  "url": null
+}

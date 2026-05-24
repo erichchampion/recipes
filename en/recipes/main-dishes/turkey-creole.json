@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "turkey-creole",
+  "name": "Turkey Creole",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "main dish",
+    "slow cooker"
+  ],
+  "recipeIngredient": [
+    "1 large onion, diced",
+    "1 1/2 bell peppers, diced",
+    "3/4 cup celery, diced",
+    "24 ounces stewed tomatoes",
+    "4 1/2 teaspoons chili powder",
+    "3/4 teaspoon salt (to taste)",
+    "4 cups cooked turkey, cut up",
+    "6 cups cooked rice"
+  ],
+  "recipeInstructions": "1. Place all ingredients except the rice in a crockpot.\n2. Cook for most of the day on low or high setting as desired.\n3. Serve the mixture over the cooked rice.",
+  "url": null
+}

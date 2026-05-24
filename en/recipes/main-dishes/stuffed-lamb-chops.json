@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "stuffed-lamb-chops",
+  "name": "Stuffed Lamb Chops",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "lamb",
+    "main dish",
+    "meat",
+    "meats"
+  ],
+  "recipeIngredient": [
+    "4 lamb chops (thick)",
+    "4 tablespoons butter",
+    "1 minced garlic clove",
+    "2 tablespoons chopped parsley",
+    "1 dash salt",
+    "1 dash pepper"
+  ],
+  "recipeInstructions": "1. Make a pocket in the thickest part of the chop.\n2. Cream together remaining ingredients, adding salt and pepper to taste.\n3. Insert mixture into the pocket; secure chops with toothpicks.\n4. Broil for 8 minutes for rare, 14 minutes for medium rare, or 18 minutes for medium.\nVariations: Omit parsley, add tarragon or rosemary.",
+  "url": null
+}

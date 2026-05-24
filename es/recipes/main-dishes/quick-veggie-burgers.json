@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-veggie-burgers",
+  "name": "Hamburguesas Veganas Rápidas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgueros",
+    "plato principal",
+    "ovo-lácteo",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "10 oz de verduras mixtas congeladas",
+    "1 clara de huevo",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra",
+    "1/2 taza de setas frescas picadas",
+    "1/2 taza de pan rallado",
+    "1 cebolla mediana, en rodajas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 grados F (175 °C).\n2. Cocinar al vapor las verduras hasta que estén tiernas. Dejar enfriar.\n3. Picar finamente las verduras cocidas y mezclar con la clara de huevo, la sal, la pimienta, las setas y el pan rallado.\n4. Formar la mezcla en hamburguesas.\n5. Colocar las hamburguesas, con rodajas de cebolla encima, sobre una bandeja para hornear engrasada ligeramente.\n6. Hornear, dándoles la vuelta una vez, hasta que estén doradas y crujientes por ambos lados, aproximadamente 45 minutos.",
+  "url": null
+}

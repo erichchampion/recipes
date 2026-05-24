@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "rotel-dip",
+  "name": "Dip de Rotel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne de hamburguesa",
+    "1 lb de salchicha",
+    "1 cebolla grande, picada finamente",
+    "1 lb de queso Jalapeno",
+    "1 lb de Velveeta",
+    "1 lata de tomates Ro-Tel",
+    "1 lata de sopa de pollo Crema"
+  ],
+  "recipeInstructions": "1. Dorar la carne de hamburguesa y la salchicha juntas; reservar.\n2. Saltear las cebollas; reservar.\n3. Derretir el queso Jalapeno y la Velveeta.\n4. Agregar los tomates Ro-Tel y la sopa de pollo Crema a la mezcla de quesos derretidos.\n5. Incorporar la carne de hamburguesa dorada, la salchicha y las cebollas salteadas a la salsa de queso.\n6. Calentar hasta que burbujee.\n7. Servir con totopos.",
+  "url": null
+}

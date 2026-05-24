@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "scalloped-chicken",
+  "name": "Pollo escalado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "carnes",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de aceite vegetal",
+    "1/2 taza de harina",
+    "1 cucharadita de sal",
+    "4 tazas de caldo de pollo",
+    "3 tazas de pollo cocido picado",
+    "2 tazas de migas de pan gruesas",
+    "1 taza de macarrones cocidos",
+    "2 huevos duros en rodajas",
+    "Migas con mantequilla"
+  ],
+  "recipeInstructions": "1. Calentar el aceite vegetal en una sartén grande a fuego medio.\n2. Añadir la harina y la sal, remover constantemente hasta que la mezcla esté bien combinada.\n3. Agregar gradualmente el caldo de pollo, removiendo continuamente para evitar grumos.\n4. Cocinar la salsa durante 5 minutos o hasta que espese.\n5. Incorporar el pollo picado, las migas y los macarrones a la salsa.\n6. En un plato para hornear engrasado, capas alternas de rodajas de huevo duro, mezcla de pollo-macarrones y más de la mezcla de pollo-macarrones.\n7. Espolvorear las migas con mantequilla uniformemente sobre la capa superior.\n8. Hornear en horno precalentado a 350°F (175°C) durante aproximadamente 1 hora o hasta que esté dorado.",
+  "url": null
+}

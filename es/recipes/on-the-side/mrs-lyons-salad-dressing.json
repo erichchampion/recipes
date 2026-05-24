@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mrs-lyons-salad-dressing",
+  "name": "Salsa para ensalada de la Sra. Lyons",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "ensaladas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "2 cucharadas de harina",
+    "2 cucharaditas de mostaza en polvo",
+    "2 huevos",
+    "1 taza de leche entera",
+    "1 cucharada de mantequilla (tamaño de un huevo)",
+    "1/2 taza de vinagre",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Mezclar el azúcar, la harina, la mostaza en polvo, los huevos y la mantequilla en una cacerola a fuego lento.\n2. Calentar hasta que la mezcla esté bien combinada.\n3. Añadir lentamente la leche, removiendo continuamente.\n4. Incorporar el vinagre y la sal.\n5. Cocinar a fuego lento hasta que la salsa espese ligeramente, sin llegar a hervir.",
+  "url": null
+}

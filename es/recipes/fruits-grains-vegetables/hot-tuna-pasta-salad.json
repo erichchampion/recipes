@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-tuna-pasta-salad",
+  "name": "Ensalada de atún y pasta caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pasta",
+    "ensaladas",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mayonesa",
+    "1/4 taza de zumo de limón",
+    "1 cucharada de mostaza de Dijon",
+    "1 gran ensalada de atún blanco",
+    "1/2 libra de macarrones medianos con concha",
+    "10 onzas de brócoli congelado picado, descongelado",
+    "2 tazas de zanahorias en rodajas y cocidas",
+    "2 cucharaditas de salsa de soja",
+    "1/8 cucharadita de jengibre",
+    "1/8 cucharadita de albahaca"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta según las instrucciones del paquete.\n2. Cocinar el brócoli según las indicaciones del paquete.\n3. En un bol, mezclar la mayonesa, el zumo de limón, la mostaza, la salsa de soja, el jengibre y la albahaca.\n4. Mezclar la pasta cocida, la ensalada de atún, el brócoli descongelado y las zanahorias en rodajas con el aderezo hasta que esté bien combinado.\n5. Servir suavemente caliente.",
+  "url": null
+}

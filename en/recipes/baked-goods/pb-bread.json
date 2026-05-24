@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pb-bread",
+  "name": "PB Bread",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "baked goods",
+    "breads"
+  ],
+  "recipeIngredient": [
+    "2 cups Flour",
+    "2/3 cup Peanut Butter",
+    "1/2 cup Sugar",
+    "1 cup Milk",
+    "3 tsp Baking Powder",
+    "1 tsp Salt"
+  ],
+  "recipeInstructions": "1. Sift together the flour, baking powder, salt, and sugar.\n2. Add the peanut butter to the milk and mix well.\n3. Combine this wet mixture with the dry ingredients and beat thoroughly.\n4. Bake in a greased loaf pan in a slow oven (300 - 350 F) for 45 - 50 minutes.\n5. The bread is better when it is at least one day old.",
+  "url": null
+}

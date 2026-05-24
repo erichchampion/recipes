@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "sw-omlette",
+  "name": "Omletas de SW",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "Ninguno"
+  ],
+  "recipeInstructions": "1. Batir 3 huevos en un bol.\n2. Verter la mezcla en una sartén para tortilla de 20 cm de diámetro.\n3. Cocinar a fuego alto, removiendo continuamente hasta que la base empiece a cuajar.\n4. Retirar del fuego y colocar bajo el grill hasta que los huevos ya no estén líquidos.\n5. Añadir napolitas, salsa y queso.\n6. Devolver al grill hasta que el queso se derrita.\n7. Doblar por la mitad y servir.",
+  "url": null
+}

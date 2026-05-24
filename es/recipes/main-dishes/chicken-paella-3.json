@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-paella-3",
+  "name": "Paella de Pollo #3",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave de corral"
+  ],
+  "recipeIngredient": [
+    "2 libras de piezas de pollo",
+    "2 cucharadas de aceite",
+    "2 latas de caldo de pollo",
+    "2 dientes de ajo pequeños, picados",
+    "2/3 taza de arroz regular crudo",
+    "1/2 taza de tomates enlatados picados",
+    "1/2 taza de pimiento verde picado"
+  ],
+  "recipeInstructions": "1. Dorar el pollo en una sartén con aceite.\n2. Retirar el exceso de grasa de la sartén.\n3. Añadir el caldo de pollo y el ajo a la sartén.\n4. Cubrir y cocinar a fuego lento durante 15 minutos.\n5. Incorporar los ingredientes restantes (arroz, tomates y pimiento verde).\n6. Cubrir y continuar cocinando a fuego lento durante otros 25 minutos, hasta que se absorba el líquido.\n7. Revolver ocasionalmente durante la cocción.\n8. Servir para 4 personas.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "aioli-2",
+  "name": "Aioli",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "aderezo para ensalada",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "4 dientes de ajo machacados",
+    "2 yemas de huevo",
+    "1/8 cucharadita de sal",
+    "1 taza de aceite de oliva",
+    "1 cucharadita de vinagre",
+    "1 cucharadita de zumo de limón fresco"
+  ],
+  "recipeInstructions": "1. Batir los huevos hasta que estén muy espesos y de color limón.\n2. Añadir el ajo machacado y la sal a los huevos batidos.\n3. Incorporar lentamente el aceite de oliva, gota a gota, hasta que se haya incorporado aproximadamente la mitad.\n4. Mezclar el vinagre y el zumo de limón una vez que la mezcla empiece a espesarse.\n5. Continuar batiendo mientras se añade lentamente el resto del aceite de oliva hasta formar una emulsión espesa.",
+  "url": null
+}

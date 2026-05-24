@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "delicious-dirt",
+  "name": "Delicioso \"Suelo\"",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "Mezcla de bizcocho Devil's Food sin azúcar",
+    "8 onzas de queso crema bajo en grasa",
+    "1/8 libra de margarina",
+    "3 1/2 tazas de leche desnatada",
+    "2 paquetes de pudín instantáneo chocolate sin azúcar",
+    "12 onzas de crema batida sin azúcar",
+    "20 onzas de galletas marrones oscuras sin azúcar"
+  ],
+  "recipeInstructions": "1. Hornear la mezcla de bizcocho Devil's Food sin azúcar según las instrucciones del paquete y dejar enfriar por completo.\n2. En un bol, combinar el queso crema bajo en grasa (o Neufchatel), margarina, leche desnatada y los paquetes de pudín chocolate sin azúcar hasta obtener una consistencia suave y espesa.\n3. Incorporar la mezcla de crema batida sin azúcar a la preparación anterior.\n4. Triturar las galletas marrones oscuras sin azúcar hasta obtener migas finas.",
+  "url": null
+}

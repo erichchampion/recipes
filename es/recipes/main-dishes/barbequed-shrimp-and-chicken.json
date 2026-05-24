@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbequed-shrimp-and-chicken",
+  "name": "Cangrejos y pollo a la parrilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 cucharadita de ajo picado",
+    "1/2 cucharadita de polvo de cebolla",
+    "1/2 cucharadita de comino molido",
+    "1/4 taza de mantequilla derretida",
+    "500 g de camarones medianos",
+    "1 kg de pechuga de pollo sin hueso"
+  ],
+  "recipeInstructions": "1. Pelar los camarones y cortar el pollo en cubos de 1 pulgada.\n2. Mezclar en un bol el ajo picado, el polvo de cebolla, el comino molido y la mantequilla derretida para hacer el adobo.\n3. Marinar los camarones y el pollo mientras se prepara la parrilla.\n4. Enhebrar los camarones y el pollo en brochetas separadas.\n5. Colocar las brochetas a unos 5 cm sobre las brasas calientes. Cocinar durante aproximadamente 5 minutos por cada lado para los camarones y 0 minutos (sin tiempo de cocción) para el pollo, dando la vuelta una o dos veces durante la parrilla.\n6. Bañar con frecuencia con el adobo restante mientras se cocina.",
+  "url": null
+}

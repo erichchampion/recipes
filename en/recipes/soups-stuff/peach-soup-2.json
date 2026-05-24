@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "peach-soup-2",
+  "name": "Peach Soup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "desserts",
+    "soups",
+    "soups/stews"
+  ],
+  "recipeIngredient": [
+    "5 Large peaches, sliced",
+    "1 cup White wine",
+    "4 cups Water",
+    "1/4 cup Orange or peach liqueur",
+    "1 cup Whipping cream",
+    "1/4 teaspoon Nutmeg (optional)",
+    "1 tablespoon Arrowroot"
+  ],
+  "recipeInstructions": "1. Combine the peaches, water, and lemon juice in a saucepan; simmer for 15 minutes.\n2. Puree the mixture with maple syrup and arrowroot in a blender.\n3. Add the wine and liqueur to the purée.\n4. Pour in half of the cream; mix thoroughly.\n5. Chill for 1 hour.\n6. Whip the remaining cream and dollop on top of each serving.\n7. Sprinkle with nutmeg if desired.",
+  "url": null
+}

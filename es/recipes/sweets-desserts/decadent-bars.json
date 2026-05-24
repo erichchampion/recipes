@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "decadent-bars",
+  "name": "Barras Decadentes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 libra de mantequilla",
+    "1 taza de azúcar moreno",
+    "1 yema de huevo",
+    "2 tazas de harina tamizada",
+    "1 libra de chips de chocolate",
+    "1 taza de nueces o pecanas picadas"
+  ],
+  "recipeInstructions": "Receta de Lori Evans\nDerretir los chips de chocolate en un baño maría o en el microondas. Extender sobre las galletas aún calientes. Espolvorear con nueces. Cortar en cuadrados mientras aún estén calientes.",
+  "url": null
+}

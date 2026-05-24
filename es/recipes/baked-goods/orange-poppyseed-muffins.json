@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-poppyseed-muffins",
+  "name": "Muffins de naranja con semillas de amapola",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "desayuno",
+    "magdalenas"
+  ],
+  "recipeIngredient": [
+    "3 tazas de harina",
+    "2 1/4 tazas de azúcar",
+    "1 1/2 cucharaditas de polvo de hornear",
+    "1 1/2 cucharaditas de sal",
+    "1/4 taza de semillas de amapola",
+    "3 huevos",
+    "1 taza de crema agria",
+    "1/2 taza de aceite vegetal",
+    "1 1/2 tazas de jugo de naranja",
+    "2 cucharaditas de extracto de naranja"
+  ],
+  "recipeInstructions": "1. Mezclar la harina, el azúcar, el polvo de hornear, la sal y las semillas de amapola en un bol grande.\n2. Batir los huevos, la crema agria, el aceite, el jugo de naranja y el extracto en otro bol.\n3. Agregar gradualmente los ingredientes secos a la mezcla húmeda hasta que estén combinados.\n4. Distribuir la masa uniformemente en 24 moldes para muffins engrasados.\n5. Hornear a 175 °C durante 25-30 minutos o hasta que estén dorados.",
+  "url": null
+}

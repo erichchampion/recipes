@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "out-of-bounds-candy-bars",
+  "name": "Barras de caramelo fuera de control",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "caramelo",
+    "postres",
+    "diabético"
+  ],
+  "recipeIngredient": [
+    "1 1/4 taza de coco sin azúcar",
+    "1/2 taza de leche desnatada",
+    "2 cucharaditas de gelatina sin sabor",
+    "1 cucharadita de almidón de maíz",
+    "1 cucharadita de extracto de vainilla",
+    "1 receta de chocolate para sumergir semiamargo"
+  ],
+  "recipeInstructions": "1. Combinar 1/4 taza de coco, la leche, la gelatina y el almidón de maíz en una licuadora.\nLicuar hasta obtener una mezcla suave.\n2. Verter en un cazo pequeño y cocinar a fuego medio hasta que espese ligeramente.\n3. Retirar del fuego y agregar el extracto de vainilla.\n4. Incorporar el resto del coco.\n5. Dar forma a la mezcla en 8 barras y dejar enfriar y solidificar por completo.\n6. Sumergir en chocolate.",
+  "url": null
+}

@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "green-pea-soup",
+  "name": "Green Pea Soup",
+  "recipeCuisine": "Africa & Middle East",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "african",
+    "soups"
+  ],
+  "recipeIngredient": [
+    "1 onion, chopped",
+    "2 tbsp oil",
+    "1/2 tsp ginger, grated",
+    "1/2 tsp garlic, minced",
+    "2 tsp salt",
+    "6 whole peppercorns, crushed",
+    "1 tsp turmeric",
+    "2 tsp coriander",
+    "2 tsp cumin",
+    "2 chili peppers, crushed",
+    "1/2 tsp chili powder",
+    "4 whole cloves",
+    "1 stick cinnamon",
+    "2 cardamom pods",
+    "1 cup green split peas, dried",
+    "2 tomatoes, diced",
+    "5 cups stock",
+    "1 tsp garam masala",
+    "2 shallots, chopped (optional)"
+  ],
+  "recipeInstructions": "1. In a large soup pot, fry the onions in the oil until light brown.\n2. Stir in the spices and toss in the peas and tomatoes.\n3. Cook for 5 minutes over moderate heat.\n4. Add stock, bring to a boil, cover, and simmer until the peas are tender (at least an hour).\n5. Before serving, stir in the garam masala and fish out the cinnamon stick and cloves.\n6. Garnish with shallots.",
+  "url": null
+}

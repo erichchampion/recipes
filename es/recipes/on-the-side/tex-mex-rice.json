@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tex-mex-rice",
+  "name": "Arroz Tex-Mex",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "americana",
+    "étnica",
+    "mexicana",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de cebolla, picada",
+    "2 cucharadas de aceite de oliva",
+    "1 taza de arroz crudo",
+    "1/4 cucharadita de pimienta negra",
+    "2 dientes de ajo",
+    "2 1/2 tazas de caldo de pollo",
+    "1 1/2 cucharaditas de comino en polvo",
+    "1 pimiento rojo"
+  ],
+  "recipeInstructions": "1. Picar el ajo finamente.\n2. Quitar las semillas del pimiento rojo y cortarlo en dados.\n3. En una olla holandesa, calentar el aceite a fuego medio.\n4. Agregar la cebolla picada, el ajo y el arroz crudo a la olla. Cocinar hasta que la cebolla esté tierna y el arroz ligeramente dorado.\n5. Verter el caldo de pollo y remover para combinar. Llevar a ebullición.\n6. Incorporar el comino y la pimienta negra. Tapar herméticamente y reducir el fuego a bajo.\n7. Dejar cocinar durante 20 minutos.\n8. Retirar del fuego. Agregar los dados de pimiento rojo. Tapar y dejar reposar cubierto hasta que se absorba todo el líquido, aproximadamente 5 minutos.",
+  "url": null
+}

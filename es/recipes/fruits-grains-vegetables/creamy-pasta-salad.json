@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "creamy-pasta-salad",
+  "name": "Ensalada de pasta cremosa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pasta",
+    "ensaladas",
+    "vegano",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1/4 taza mayonesa sin huevos",
+    "2 cucharadas jugo de limón",
+    "2 tazas de pasta cocida (bocaditos, rotini o con forma de cono pequeño)",
+    "4 cebolletas; picadas",
+    "6 onzas de corazones de artichoke en tarro (escurridos y rebanados)",
+    "1 1/2 cucharaditas de albahaca fresca o seca",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Mezcla la mayonesa sin huevos y el jugo de limón con la pasta.\n2. Añade las cebolletas, los corazones de artichoke, la albahaca y la sal a la mezcla.\n3. Revuelve bien hasta que todos los ingredientes estén distribuidos uniformemente.\n4. Si la ensalada está seca, añade más mayonesa y/o jugo de limón.",
+  "url": null
+}

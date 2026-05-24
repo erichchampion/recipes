@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "meat-pasties",
+  "name": "Embutidos de carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivo",
+    "aperitivos",
+    "carnes",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 1/4 kg de harina",
+    "3 3/4 tazas de manteca vegetal",
+    "280 ml de agua",
+    "5 cucharaditas de sal",
+    "1 1/2 lb de lomo de cerdo (picado)",
+    "3 lb de aguja (picada)",
+    "16 papas (picadas)",
+    "5 zanahorias (picadas)",
+    "2 cebollas (picadas)",
+    "1 nabo (rallado)",
+    "Una pequeña cantidad de sebo (rallado)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes de la masa y dividirlos en aproximadamente 20 porciones.\n2. Estirar cada porción de masa, colocar la mezcla de relleno en el centro, añadir una pequeña mancha de mantequilla encima, doblar los bordes y sellar presionando el borde enrollado.\n3. Hornear a 190°C (374°F) durante una hora. Se pueden servir calientes solos o con salsa, o fríos como sándwich. También se congelan bien.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "salmon-oysters",
+  "name": "Salmón Ostra",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "pescado",
+    "mariscos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 litro de salmón enlatado o recién cocido (preferiblemente sockeye)",
+    "2 huevos",
+    "1 cucharada de cebolla finamente picada",
+    "1/2 taza de harina o mezcla de galletas de harina",
+    "1 cucharadita de polvo de hornear",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Escurrir el jugo del salmón y reservarlo.\n2. Picar finamente el salmón, eliminando cualquier piel oscura.\n3. Añadir los huevos batidos y el jugo de salmón reservado a la carne picada.\n4. Mezclar la harina, la sal, la pimienta y el polvo de hornear hasta que quede bien combinado.\n5. Tomar cucharadas de la mezcla (o enfriar y darles forma de ostras oblongas) e introducirlos en aceite caliente.\n6. Dar la vuelta a las ostras regularmente hasta que ambos lados estén dorados.\n7. Servir con patatas fritas, coleslaw y salsa tártara.",
+  "url": null
+}

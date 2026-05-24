@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "antipasti-buon-appetito",
+  "name": "Antipasti - ¡Buen provecho!",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "étnico",
+    "italiano"
+  ],
+  "recipeIngredient": [
+    "Pimientos rojos",
+    "Aceitunas",
+    "Setas marinadas",
+    "Artichocos",
+    "Queso Parmesano",
+    "Tostada de ajo",
+    "Pan italiano fresco"
+  ],
+  "recipeInstructions": "1. Asa los pimientos rojos, prepara las aceitunas, las setas marinadas y los artichocos.\n2. Corta un trozo de queso Parmesano.\n3. Sirve los ingredientes preparados sobre una bandeja con tostada de ajo o pan italiano fresco.",
+  "url": null
+}

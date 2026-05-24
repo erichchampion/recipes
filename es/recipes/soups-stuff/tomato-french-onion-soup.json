@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-french-onion-soup",
+  "name": "Sopa de cebolla francesa con tomate",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "4 cebollas medianas, picadas",
+    "2 cucharadas de mantequilla o margarina",
+    "1 lata de tomates enlatados (400 g)",
+    "1 cucharadita de especias italianas",
+    "1 lata de caldo de carne condensado (355 ml)",
+    "2 tazas de agua",
+    "1/4 taza de jerez seco",
+    "4 rebanadas de pan francés tostado",
+    "1 1/4 tazas de queso suizo rallado",
+    "1/4 taza de queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. En una olla grande, cocine la cebolla en la mantequilla hasta que esté tierna.\n2. Escurra los tomates, reservando el líquido. Picar los tomates; agregarlos a las cebollas con el líquido reservado, 2 tazas de agua, el caldo y el jerez. Llevar a ebullición, escurriendo la espuma.\n3. Reducir el fuego y dejarlo hervir a fuego lento durante 10 minutos.\n4. Verter la sopa en cuatro cuencos aptos para hornear, colocar encima el pan tostado y los quesos, y gratinar hasta que el queso esté derretido y dorado.",
+  "url": null
+}

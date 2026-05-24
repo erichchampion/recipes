@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "curry-dip-2",
+  "name": "Curry Dip",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "appetizers",
+    "dips",
+    "snacks"
+  ],
+  "recipeIngredient": [
+    "2 cups mayonnaise",
+    "2 teaspoons curry powder",
+    "2 teaspoons white onion, chopped",
+    "2 teaspoons garlic salt",
+    "2 teaspoons horseradish",
+    "2 teaspoons tarragon vinegar"
+  ],
+  "recipeInstructions": "1. Mix all ingredients together well.\n2. Chill before serving with raw vegetables.",
+  "url": null
+}
