@@ -153,3 +153,30 @@ RecipeSource on archive.org:
 https://web.archive.org/web/20200108184829/https://www.recipesource.com/
 
 *The certificate has long since expired — but the recipes endure.*
+
+---
+
+## Origen
+
+*Una biblioteca construida a mano, una publicación a la vez.**
+
+En 1993, mientras estudiaba en Berkeley, Jennifer Snider descubrió
+los grupos de noticias de Usenet y la curiosa costumbre que tenían ciertos
+extraños de publicar las recetas de sus abuelas. Empezó a guardarlas. Dos
+años después, la colección apareció en la web como SOAR — el
+Archivo de Recetas en Línea, Buscable, y más tarde se convirtió en
+RecipeSource. Rosemary & Thyme es, en cierto sentido, la
+tercera vida del archivo: cada receta reescrita con cuidado por un
+pequeño modelo de lenguaje, calificada por calidad, ordenada por región
+y tipo, y encuadernada de nuevo para un estante del tamaño de un teléfono.
+
+Con profundo agradecimiento a Jennifer Snider, y a cada cocinero
+que alguna vez pulsó “enviar.”
+
+**Visita el archivo original**
+
+RecipeSource en archive.org:
+https://web.archive.org/web/20200108184829/https://www.recipesource.com/
+
+*El certificado caducó hace tiempo — pero las recetas perduran.*
+
