@@ -79,6 +79,53 @@ def clean_string_fields(obj):
     return obj
 
 
+def _is_nonempty_str(v):
+    return isinstance(v, str) and v.strip() != ""
+
+
+def _is_nonempty_str_list(v):
+    return (
+        isinstance(v, list)
+        and len(v) > 0
+        and all(_is_nonempty_str(item) for item in v)
+    )
+
+
+RECIPE_FIELD_VALIDATORS = {
+    "name":               ("str",  _is_nonempty_str),
+    "keywords":           ("list", _is_nonempty_str_list),
+    "recipeIngredient":   ("list", _is_nonempty_str_list),
+    "recipeInstructions": ("str",  _is_nonempty_str),
+}
+
+TIP_FIELD_VALIDATORS = {
+    "title":   ("str", _is_nonempty_str),
+    "content": ("str", _is_nonempty_str),
+}
+
+
+def validate_translation(source_payload, translated, validators):
+    """Return True iff `translated` is a usable translation of `source_payload`.
+
+    - `translated` must be a dict.
+    - Every key present in `source_payload` must be present in `translated`
+      and pass its validator predicate.
+    - For list-valued fields, len(translated[k]) must equal len(source_payload[k]).
+    """
+    if not isinstance(translated, dict):
+        return False
+    for key, source_value in source_payload.items():
+        if key not in validators:
+            continue
+        kind, predicate = validators[key]
+        value = translated.get(key)
+        if not predicate(value):
+            return False
+        if kind == "list" and len(value) != len(source_value):
+            return False
+    return True
+
+
 def translate_recipe(entry, dest_lang, retries=3):
     payload = {k: entry[k] for k in RECIPE_TRANSLATE_FIELDS if k in entry}
     prompt = (
@@ -96,14 +143,7 @@ def translate_recipe(entry, dest_lang, retries=3):
         try:
             translated = json.loads(sanitize_json_response(raw))
             translated = clean_string_fields(translated)
-            # Validate expected keys are present and types are correct
-            if not isinstance(translated.get("name"), str):
-                continue
-            if not isinstance(translated.get("keywords"), list):
-                continue
-            if not isinstance(translated.get("recipeIngredient"), list):
-                continue
-            if not isinstance(translated.get("recipeInstructions"), str):
+            if not validate_translation(payload, translated, RECIPE_FIELD_VALIDATORS):
                 continue
             result = dict(entry)
             result.update(translated)
@@ -129,9 +169,7 @@ def translate_tip(entry, dest_lang, retries=3):
         try:
             translated = json.loads(sanitize_json_response(raw))
             translated = clean_string_fields(translated)
-            if not isinstance(translated.get("title"), str):
-                continue
-            if not isinstance(translated.get("content"), str):
+            if not validate_translation(payload, translated, TIP_FIELD_VALIDATORS):
                 continue
             result = dict(entry)
             result.update(translated)
@@ -263,7 +301,13 @@ def main():
                 skip += 1
                 continue
 
-            entry = json.loads(src_path.read_text(encoding='utf-8'))
+            try:
+                entry = json.loads(src_path.read_text(encoding='utf-8'))
+            except (OSError, json.JSONDecodeError) as e:
+                fail += 1
+                print(f"{tag} recipes  {i}/{total}  FAIL  {label}  (source read/parse: {e})  (ok={ok}, skip={skip}, fail={fail})")
+                continue
+
             result = translate_recipe(entry, dest_lang)
 
             if result is None:
@@ -294,7 +338,13 @@ def main():
                 skip += 1
                 continue
 
-            entry = json.loads(src_path.read_text(encoding='utf-8'))
+            try:
+                entry = json.loads(src_path.read_text(encoding='utf-8'))
+            except (OSError, json.JSONDecodeError) as e:
+                fail += 1
+                print(f"{tag} tips     {i}/{total}  FAIL  {label}  (source read/parse: {e})  (ok={ok}, skip={skip}, fail={fail})")
+                continue
+
             result = translate_tip(entry, dest_lang)
 
             if result is None:
