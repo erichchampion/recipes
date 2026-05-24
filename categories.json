@@ -1,0 +1,90 @@
+{
+  "recipes": [
+    {
+      "id": "baked-goods",
+      "recipeCategory": "Baked Goods"
+    },
+    {
+      "id": "breakfast",
+      "recipeCategory": "Breakfast"
+    },
+    {
+      "id": "fruits-grains-vegetables",
+      "recipeCategory": "Fruits, Grains & Vegetables"
+    },
+    {
+      "id": "holiday-foods",
+      "recipeCategory": "Holiday Foods"
+    },
+    {
+      "id": "main-dishes",
+      "recipeCategory": "Main Dishes"
+    },
+    {
+      "id": "miscellaneous-other",
+      "recipeCategory": "Miscellaneous & Other"
+    },
+    {
+      "id": "on-the-side",
+      "recipeCategory": "On the Side"
+    },
+    {
+      "id": "restricted-special-diets",
+      "recipeCategory": "Restricted & Special Diets"
+    },
+    {
+      "id": "snacks-appetizers",
+      "recipeCategory": "Snacks & Appetizers"
+    },
+    {
+      "id": "soups-stuff",
+      "recipeCategory": "Soups & Stuff"
+    },
+    {
+      "id": "sweets-desserts",
+      "recipeCategory": "Sweets & Desserts"
+    }
+  ],
+  "tips": [
+    {
+      "id": "baking",
+      "category": "Baking"
+    },
+    {
+      "id": "cooking-fundamentals",
+      "category": "Cooking Fundamentals"
+    },
+    {
+      "id": "cooking-methods",
+      "category": "Cooking Methods"
+    },
+    {
+      "id": "cooking-techniques",
+      "category": "Cooking Techniques"
+    },
+    {
+      "id": "desserts",
+      "category": "Desserts"
+    },
+    {
+      "id": "ingredients",
+      "category": "Ingredients"
+    },
+    {
+      "id": "meal-components",
+      "category": "Meal Components"
+    },
+    {
+      "id": "nutrition",
+      "category": "Nutrition"
+    },
+    {
+      "id": "preservation",
+      "category": "Preservation"
+    },
+    {
+      "id": "specialized-techniques",
+      "category": "Specialized Techniques"
+    }
+  ]
+}
