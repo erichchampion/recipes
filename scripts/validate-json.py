@@ -23,8 +23,20 @@ def load_category_map(categories_path):
 def find_locales(root):
     return [
         d for d in sorted(root.iterdir())
-        if d.is_dir() and (d / 'recipes.json').exists() and (d / 'tips.json').exists()
+        if d.is_dir() and (d / 'recipes').is_dir() and (d / 'tips').is_dir()
     ]
+
+
+def load_json_or_report(path):
+    """Read+parse a JSON file. Return (data, error_message_or_None)."""
+    try:
+        return json.loads(path.read_text(encoding='utf-8')), None
+    except FileNotFoundError:
+        return None, f"missing file: {path.relative_to(ROOT)}"
+    except json.JSONDecodeError as e:
+        return None, f"invalid JSON in {path.relative_to(ROOT)}: {e}"
+    except OSError as e:
+        return None, f"cannot read {path.relative_to(ROOT)}: {e}"
 
 
 def report(ok, message):
@@ -35,7 +47,17 @@ def report(ok, message):
 def validate_recipes(locale_dir, recipe_map):
     errors = 0
     source = locale_dir / 'recipes.json'
-    combined = json.loads(source.read_text(encoding='utf-8'))['@graph']
+    data, err = load_json_or_report(source)
+    if err is not None:
+        report(False, err)
+        return 1
+    if not isinstance(data, dict) or '@graph' not in data:
+        report(False, f"{source.relative_to(ROOT)}: expected object with '@graph' key")
+        return 1
+    combined = data['@graph']
+    if not isinstance(combined, list):
+        report(False, f"{source.relative_to(ROOT)}: '@graph' must be a list")
+        return 1
 
     # Check for duplicate identifiers in combined file
     ids_seen = {}
@@ -58,8 +80,12 @@ def validate_recipes(locale_dir, recipe_map):
     split_by_id = {}
     dupe_files = []
     for path in split_files:
-        entry = json.loads(path.read_text(encoding='utf-8'))
-        ident = entry.get('identifier')
+        entry, err = load_json_or_report(path)
+        if err is not None:
+            report(False, err)
+            errors += 1
+            continue
+        ident = entry.get('identifier') if isinstance(entry, dict) else None
         if ident in split_by_id:
             dupe_files.append(ident)
         split_by_id[ident] = (path, entry)
@@ -144,7 +170,13 @@ def validate_recipes(locale_dir, recipe_map):
 def validate_tips(locale_dir, tip_map):
     errors = 0
     source = locale_dir / 'tips.json'
-    combined = json.loads(source.read_text(encoding='utf-8'))
+    combined, err = load_json_or_report(source)
+    if err is not None:
+        report(False, err)
+        return 1
+    if not isinstance(combined, list):
+        report(False, f"{source.relative_to(ROOT)}: expected a JSON list at top level")
+        return 1
 
     # Check for duplicate ids in combined file
     ids_seen = {}
@@ -165,8 +197,12 @@ def validate_tips(locale_dir, tip_map):
     split_by_id = {}
     dupe_files = []
     for path in split_files:
-        entry = json.loads(path.read_text(encoding='utf-8'))
-        tip_id = entry.get('id')
+        entry, err = load_json_or_report(path)
+        if err is not None:
+            report(False, err)
+            errors += 1
+            continue
+        tip_id = entry.get('id') if isinstance(entry, dict) else None
         if tip_id in split_by_id:
             dupe_files.append(tip_id)
         split_by_id[tip_id] = (path, entry)

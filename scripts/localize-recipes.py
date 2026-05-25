@@ -128,6 +128,8 @@ def validate_translation(source_payload, translated, validators):
 
 def translate_recipe(entry, dest_lang, retries=3):
     payload = {k: entry[k] for k in RECIPE_TRANSLATE_FIELDS if k in entry}
+    if not payload:
+        return None
     prompt = (
         f'You are a professional translator. Translate the following recipe fields into {dest_lang}.\n'
         f'Return only valid JSON with the exact same structure — no markdown, no code fences, no commentary.\n'
@@ -155,6 +157,8 @@ def translate_recipe(entry, dest_lang, retries=3):
 
 def translate_tip(entry, dest_lang, retries=3):
     payload = {k: entry[k] for k in TIP_TRANSLATE_FIELDS if k in entry}
+    if not payload:
+        return None
     prompt = (
         f'You are a professional translator. Translate the following cooking tip fields into {dest_lang}.\n'
         f'Return only valid JSON with the exact same structure — no markdown, no code fences, no commentary.\n'

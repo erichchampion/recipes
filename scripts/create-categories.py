@@ -1,5 +1,6 @@
 import json
 import re
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).parent.parent
@@ -12,6 +13,15 @@ def main():
     tips_path = ROOT / 'en' / 'tips.json'
     categories_path = ROOT / 'categories.json'
 
+    for path in (recipes_path, tips_path):
+        if not path.exists():
+            print(
+                f"Error: {path.relative_to(ROOT)} not found. "
+                f"Run `python scripts/combine-json.py` first to build combined files.",
+                file=sys.stderr,
+            )
+            sys.exit(1)
+
     with open(recipes_path, encoding='utf-8') as f:
         recipes_data = json.load(f)
 
@@ -21,8 +31,11 @@ def main():
     recipe_categories = sorted({entry['recipeCategory'] for entry in recipes_data['@graph']})
     tip_categories = sorted({entry['category'] for entry in tips_data})
 
-    with open(categories_path, encoding='utf-8') as f:
-        cats_data = json.load(f)
+    try:
+        with open(categories_path, encoding='utf-8') as f:
+            cats_data = json.load(f)
+    except FileNotFoundError:
+        cats_data = {}
 
     cats_data['recipes'] = [
         {'id': slugify(cat), 'recipeCategory': cat}

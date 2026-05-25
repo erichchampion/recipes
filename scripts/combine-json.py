@@ -17,7 +17,7 @@ def load_reverse_maps(categories_path):
 def find_locales(root):
     return [
         d for d in sorted(root.iterdir())
-        if d.is_dir() and (d / 'recipes.json').exists() and (d / 'tips.json').exists()
+        if d.is_dir() and (d / 'recipes').is_dir() and (d / 'tips').is_dir()
     ]
 
 
