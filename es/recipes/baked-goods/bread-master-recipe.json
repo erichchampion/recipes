@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "bread-master-recipe",
+  "name": "Pan (Receta Base)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 sobre de levadura fresca comprimida               1 cucharada de manteca derretida",
+    "O 1/2 sobre de levadura seca           1 1/2 tazas de agua tibia",
+    "1 cucharadita de azúcar                                5 a 5 1/4 tazas de harina",
+    "1 1/2 cucharaditas de sal"
+  ],
+  "recipeInstructions": "1. Disolver la levadura en el agua tibia.\n2. Agregar el azúcar, la sal y la manteca derretida a la mezcla de levadura.\n3. Añadir harina poco a poco, mezclando bien después de cada adición hasta que la masa esté lo suficientemente firme para amasar.\n4. Colocar la masa sobre una superficie ligeramente enharinada y amasar hasta que quede suave y elástica.\n5. Cubrir con un paño húmedo y cálido, dejar levar en un lugar cálido hasta que doble su volumen (durante la noche si se usa levadura seca).\n6. Desinflar la masa, cubrir nuevamente y dejarla doblar ligeramente.\n7. Darle forma de hogazas y colocarlas en moldes engrasados.\n8. Cubrir y dejar levar en un lugar cálido hasta que doble su volumen.\n9. Hornear a 450°F durante 15 minutos, luego reducir la temperatura a 410-425°F y continuar horneando por el tiempo restante (aproximadamente 40-45 minutos).\n10. El tiempo total de horneado es de aproximadamente 4-4.5 horas desde el inicio hasta la finalización, dando como resultado 2 hogazas medianas.",
+  "url": null
+}

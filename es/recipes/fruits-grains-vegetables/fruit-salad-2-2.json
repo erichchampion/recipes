@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-salad-2-2",
+  "name": "Ensalada de Frutas 2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frutas",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 Melón cantalupo cortado en cubos",
+    "1 Melón honeydew cortado en cubos",
+    "2 Canastas de fresas cortadas",
+    "2 Naranjas peladas y en rodajas",
+    "1/2 Cubo de sandía (opcional)",
+    "1 taza de uvas sin semillas",
+    "4 Peras cortadas en cubos",
+    "1 Limón exprimido O",
+    "1 taza de yogur, cualquier sabor de fruta"
+  ],
+  "recipeInstructions": "1. Mezclar todos los trozos de fruta a mano.\n2. Exprimir el jugo de un limón sobre la mezcla de frutas.\n3. Alternativamente, incorporar 1 taza de yogur.\n4. Para una ocasión especial: mezclar 1/8 taza de jarabe de arce puro con 1 onza de vodka y verter sobre la ensalada.",
+  "url": null
+}

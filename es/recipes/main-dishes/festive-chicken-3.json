@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "festive-chicken-3",
+  "name": "Pollo Festivo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "2 tazas de pollo cocido y picado",
+    "1 caja de arroz salvaje cocido",
+    "1 cebolla mediana picada",
+    "1/2 taza de mayonesa",
+    "1 lata de judías verdes francesas o 1 paquete de brócoli cocido",
+    "1 lata de sopa de apio",
+    "1/2 taza de chichos de agua (opcional)",
+    "2 cucharadas de pimiento picado (opcional)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un molde para hornear engrasado.\n2. Hornear durante 45 minutos a 1 hora a 350 grados.",
+  "url": null
+}

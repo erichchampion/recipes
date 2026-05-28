@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "margarita-2",
+  "name": "Margarita",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 oz de tequila",
+    "1/2 oz de triple sec",
+    "1 oz de jugo de limón",
+    "sal"
+  ],
+  "recipeInstructions": "1. Humedecer el borde de un vaso para cóctel con la cáscara de un limón o lima.\n2. Remojar el borde en sal.\n3. Agitar todos los ingredientes excepto la sal con hielo.\n4. Colar en el vaso con borde salado.",
+  "url": null
+}

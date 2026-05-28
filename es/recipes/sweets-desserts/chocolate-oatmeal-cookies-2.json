@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-oatmeal-cookies-2",
+  "name": "Galletas de Avena con Chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "panadería",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de azúcar",
+    "1/2 taza de leche enlatada (Carnation)",
+    "1 barra de margarina",
+    "2 cucharadas de cacao",
+    "1/2 taza de mantequilla de maní",
+    "2 1/2 tazas de avena rápida",
+    "1 cucharadita de extracto de vainilla",
+    "1 hoja grande de papel pergamino"
+  ],
+  "recipeInstructions": "1. Mezcla el azúcar, la leche, la margarina y el cacao en una olla grande.\n2. Hierve a fuego alto durante 2 minutos.\n3. Retira del fuego y agrega la mantequilla de maní, la avena y la vainilla.\n4. Revuelve bien hasta integrar todos los ingredientes.\n5. Con una cuchara, extiende la masa sobre el papel pergamino.",
+  "url": null
+}

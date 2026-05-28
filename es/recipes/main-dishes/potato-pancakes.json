@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-pancakes",
+  "name": "Tortitas de Papa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "papas"
+  ],
+  "recipeIngredient": [
+    "4 cucharadas de harina de avena (o copos de avena en polvo)",
+    "1 taza de papas ralladas",
+    "4 cucharadas de cebolla seca picada (o 1/4 taza de cebolla fresca)",
+    "un pellizco de sal y pimienta negra molida al gusto"
+  ],
+  "recipeInstructions": "1. Mezcla la harina de avena con suficiente agua para formar una masa de tortitas.\n2. Agrega las cebollas, papas, sal y pimienta a la masa.\n3. Rocía una sartén antiadherente con Pam y colócala sobre fuego medio.\n4. Cubre ligeramente la sartén con un papel toalla.\n5. Vierte la masa en la sartén para formar 3 o 4 tortitas grandes.\n6. Cocina por el primer lado hasta que el fondo sea dorado marrón con algunos puntos más oscuros (mirar ocasionalmente).\n7. Voltea las tortitas y cocina los otros lados durante el mismo tiempo.\nServir con puré de manzana natural sin endulzar.",
+  "url": null
+}

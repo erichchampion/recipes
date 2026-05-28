@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "steak-and-gravy",
+  "name": "Bistec con salsa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "salsas",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 a 2 1/2 lb bistec",
+    "Sal",
+    "Pimienta",
+    "Harina",
+    "1 sobre de mezcla para salsa de cebolla",
+    "1 lata de sopa de champiñones con crema",
+    "2 tazas de agua"
+  ],
+  "recipeInstructions": "1. Sazonar el bistec con sal y pimienta.\n2. Remojar el bistec en harina, sacudiendo cualquier exceso.\n3. Freír el bistec hasta que esté dorado por todos lados.\n4. Transferir el bistec a una olla de cocción lenta.\n5. Agregar agua, sopa de champiñones con crema y mezcla para salsa de cebolla a la olla de cocción lenta.\n6. Cubrir y cocinar a fuego lento durante 6 a 8 horas.\n7. Servir con puré de papas o arroz.",
+  "url": null
+}

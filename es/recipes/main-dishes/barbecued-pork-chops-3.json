@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecued-pork-chops-3",
+  "name": "Chops de Cerdo a la Barbacoa",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 libra de chops de cerdo",
+    "3 cucharadas de jugo de limón",
+    "1 cucharada de azúcar morena",
+    "1/3 taza de ketchup",
+    "1/4 taza de agua"
+  ],
+  "recipeInstructions": "1. Utiliza carne magra, desgrasada.\n2. Dora los chops en una sartén seca y escurre la grasa.\n3. Combina los ingredientes restantes y viértelos sobre la carne.\n4. Tapa y reduce a fuego lento durante 20 minutos.\n5. Retira la tapa y continúa cocinando a fuego lento por 10 minutos adicionales.\n6. La salsa espesará mientras se cocina. Agrega agua si la salsa se espesa demasiado.",
+  "url": null
+}

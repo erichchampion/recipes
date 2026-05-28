@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-pizza-2",
+  "name": "Pizza Blanca",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiana",
+    "plato principal",
+    "tartas",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "Base de pizza, de 30 cm",
+    "2 cucharadas de aceite de oliva",
+    "4 cucharaditas de ajo; picado finamente",
+    "2 cucharadas de albahaca fresca; O",
+    "2 cucharaditas de albahaca seca",
+    "2 tomates medianos; cortados en rodajas finas",
+    "1/4 libra de mozzarella; rallada, al gusto",
+    "1/4 libra de provolone; rallado, al gusto",
+    "1/4 taza de romano; rallado",
+    "2 cucharaditas de orégano seco; O",
+    "1 cucharada de orégano fresco"
+  ],
+  "recipeInstructions": "1. Estirar la masa hasta formar un círculo de 30 cm.\n2. Untar la base con aceite de oliva y espolvorear con ajo y albahaca.\n3. Disponer las rodajas de tomate sobre la base y cubrir con mozzarella, provolone y queso romano rallado.\n4. Hornear en horno precalentado a alta temperatura (de 200°C a 220°C) durante 12 a 15 minutos o hasta que el queso se haya derretido y la base esté ligeramente dorada.\n5. Espolvorear con orégano. Para mejores resultados, hornear sobre papel pergamino directamente sobre piedra para pizza o baldes del horno.\n6. Se recomienda usar masa neapolitana (harina, levadura, agua, sal y melaza); masa fina y crujiente, pero lo suficientemente suave como para doblarla con los dedos.",
+  "url": null
+}

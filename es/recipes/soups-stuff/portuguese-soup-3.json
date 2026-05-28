@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "portuguese-soup-3",
+  "name": "Sopa Portuguesa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "6 tazas de caldo de pollo - O caldo enlatado",
+    "1 lb de chorizo (ahumado, picado)",
+    "1 lb de papas (de cocción rápida, peladas, picadas)",
+    "1 lata de frijoles rojos (escurridos)",
+    "1 lata de tomates (picados)",
+    "1/2 repollo (verde, mediano, cortado groseramente)",
+    "1 cebolla mediana (picada)",
+    "1 zanahoria grande (picada)",
+    "1/2 pimiento verde (picado)",
+    "3 dientes de ajo (picados)"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en una olla grande.\n2. Llevar a ebullición y remover ocasionalmente.\n3. Reducir el fuego y cocinar a fuego lento hasta que espese, removiendo ocasionalmente, aproximadamente 2 horas.\n4. Sazonar con pimienta.\n5. La sopa se puede preparar con anticipación hasta en 2 días; refrigerar. Calentar antes de servir.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-stroganoff-2",
+  "name": "Estofado de Carne de Res",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "500 gramos de bistec de falda en cubos",
+    "2 tazas de caldo de res",
+    "1/2 taza de setas en rodajas",
+    "1/2 taza de cebolla picada",
+    "200 gramos de crema agria sin grasa",
+    "200 gramos de fideos"
+  ],
+  "recipeInstructions": "1. Cocinar la carne, las setas y la cebolla en una olla de cocción lenta durante 5 horas.\n2. Retirar la mezcla a una sartén, utilizando solo 1 taza de líquido; descartar el resto.\n3. Preparar los fideos según las instrucciones del paquete, omitiendo sal y aceite.\n4. Agregar la crema agria a la mezcla de carne y llevar a ebullición.\n5. Servir sobre los fideos.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cajun-spice",
+  "name": "Especias Cajun",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "platos secundarios",
+    "especias"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de sal marina",
+    "1 cucharada de polvo de ajo",
+    "1 cucharada de polvo de cebolla",
+    "1 cucharada de tomillo seco",
+    "1 cucharada de orégano seco",
+    "1 cucharada de pimentón picante",
+    "2 cucharaditas de pimienta negra",
+    "2 cucharaditas de pimienta blanca",
+    "1 cucharadita de pimentón"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes en un bol y guárdalos en un recipiente hermético.\n2. Para cocinar pescado, pollo o bistecs, calienta una sartén pesada a fuego alto.\n3. Unta ligeramente el alimento con aceite de oliva y cúbrelo uniformemente con la mezcla de especias cajun.\n4. Saltea durante 1 minuto por lado o hasta que alcance el punto de cocción deseado.",
+  "url": null
+}

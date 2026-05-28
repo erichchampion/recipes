@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-omelet-2",
+  "name": "Omelette básica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 huevos",
+    "2 cucharadas de leche",
+    "1/8 cucharadita de sal",
+    "un pellizco de pimienta",
+    "2 cucharaditas de mantequilla",
+    "1/8 cucharadita de tomillo seco"
+  ],
+  "recipeInstructions": "1. En un bol pequeño, bate juntos los huevos, la leche, la sal y la pimienta.\n2. Derrite la mantequilla en otro bol pequeño en el microondas durante 15 segundos.\n3. Vierte la mezcla de huevos en un bol poco profundo y cúbrelo apretadamente con papel film.\n4. Cocina al máximo en el horno de microondas durante 45 segundos.\n5. Con una espátula de goma o un tenedor, mueve suavemente los huevos cocidos hacia el centro del bol.\n6. Continúa cocinando cubierto al máximo en el microondas por un minuto adicional.\n7. Deja reposar la omelette, cubierta, durante al menos 1½ minutos antes de servir.\n8. Despega el huevo del plato con una espátula de goma. Si es necesario, devuélvelo al horno para cocinarlo otros 30 segundos.",
+  "url": null
+}

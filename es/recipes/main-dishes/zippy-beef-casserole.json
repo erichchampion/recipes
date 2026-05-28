@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "zippy-beef-casserole",
+  "name": "Guiso Rápido de Carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "queso/huevos",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "500g de carne molida",
+    "200g de macarrones sin cocinar en forma de elipse",
+    "1 lata de sopa de champiñones condensada",
+    "240ml de leche",
+    "60ml de ketchup",
+    "1/2 taza de queso cheddar fuerte rallado",
+    "1/4 taza de pimiento verde picado",
+    "2 cucharadas de cebolla instantánea molida",
+    "1 cucharadita de sal",
+    "1 taza de chips de papa triturados"
+  ],
+  "recipeInstructions": "Precalentar el horno a 350°F. Cocinar y revolver la carne hasta que esté marrón; escurrir el exceso de grasa. Cocinar los macarrones según las instrucciones del paquete; escurrir. En un guiso sin engrasar de 2 cuartos, mezclar todos los ingredientes excepto los chips de papa. Tapar y hornear durante 40 minutos. Descubrir y espolvorear con chips de papa triturados. Hornear por 5 minutos adicionales. Sirve para 4-6 personas.",
+  "url": null
+}

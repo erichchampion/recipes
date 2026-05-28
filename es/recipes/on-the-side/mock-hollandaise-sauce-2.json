@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-hollandaise-sauce-2",
+  "name": "Salsa Holandesa Simulada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "Jugo de 1 limón",
+    "2 cucharadas de Manteca",
+    "1 taza de Mayonesa"
+  ],
+  "recipeInstructions": "1. Derrite la manteca en una sartén a fuego bajo.\n2. Agrega el jugo de limón, sal y pimienta blanca a la manteca derretida.\n3. Incorpora la mayonesa poco a poco hasta que esté bien mezclada.\n4. Calienta suavemente la mezcla hasta que esté tibia.\n5. Sirve inmediatamente sobre verduras.\n6. Espolvorea con pimentón.",
+  "url": null
+}

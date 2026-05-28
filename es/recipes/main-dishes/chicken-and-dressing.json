@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-dressing",
+  "name": "Pollo y Relleno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "6 lb de pan duro, cortado en cubos",
+    "1 litro de perejil picado",
+    "1 litro de apio picado",
+    "2 lb de mantequilla derretida",
+    "2 cuartos de pollo",
+    "1 cucharada de salvia",
+    "1 cucharada de sal",
+    "1 cucharada de pimienta",
+    "1 cucharadita de hojas de laurel machacadas",
+    "2 2/4 cuartos de caldo",
+    "1 litro de cebolla picada"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Hornear en bandejas grandes a 350 grados durante 1 a 1 1/2 horas.\n3. Esta receta rinde 50 porciones de 1/2 taza, pero yo prefiero al menos 25 porciones de 1 taza. Randy Rigg",
+  "url": null
+}

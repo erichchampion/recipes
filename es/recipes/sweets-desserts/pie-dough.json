@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pie-dough",
+  "name": "Masa para Pastel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tarta",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "3 tazas de harina de todo uso",
+    "1 1/2 tazas de manteca sin sal",
+    "Sal al gusto",
+    "Agua helada según sea necesario"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezclar la harina y la sal.\n2. Cortar la manteca en la mezcla hasta que quede similar a migas gruesas.\n3. Agregar gradualmente agua helada, revolviendo con un tenedor hasta que la masa se una.\n4. Dividir la masa en dos porciones y formar bolas.\n5. Envolver cada bola en papel film y refrigerar por al menos 1 hora antes de estirarla para hacer bases de tartas.",
+  "url": null
+}

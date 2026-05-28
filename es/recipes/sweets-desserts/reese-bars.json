@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "reese-bars",
+  "name": "Barras de Reese",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 paquete de galletas Graham trituradas",
+    "1 taza de azúcar en polvo",
+    "1 taza de manteca de maní",
+    "2 barras de mantequilla derretida",
+    "12 onzas de chispas de chocolate"
+  ],
+  "recipeInstructions": "1 Mezcla bien los cuatro primeros ingredientes y presiona en un molde de 13 x 9 pulgadas.\n2 Derrite las chispas de chocolate y extiéndelas sobre la mezcla de galletas Graham.\n3 Refrigera hasta que se asiente, luego corta en cuadrados antes de servir.",
+  "url": null
+}

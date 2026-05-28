@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "profiterolis",
+  "name": "Profiteroles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "aperitivos",
+    "productos horneados",
+    "pasteles"
+  ],
+  "recipeIngredient": [
+    "1 taza de agua",
+    "1 taza de harina",
+    "1 cucharada de mantequilla",
+    "sal",
+    "3 huevos enteros"
+  ],
+  "recipeInstructions": "1. Llevar a ebullición el agua, la sal y la mantequilla en una olla grande.\n2. Agregar gradualmente la harina todo de una vez, removiendo enérgicamente hasta que la masa forme una bola y se desprenda de los lados del recipiente.\n3. Retirar del fuego y dejar enfriar ligeramente.\n4. Incorporar cada huevo uno a la vez hasta que esté completamente integrado.\n5. Colocar cucharaditas de pasta choux en una bandeja para hornear engrasada.\n6. Hornear a 175 °C (350 °F) durante 30 minutos, luego reducir la temperatura a 130 °C (250 °F) y hornear por 15 minutos adicionales.\nFin de la receta.",
+  "url": null
+}

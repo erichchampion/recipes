@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "filled-cookies-2",
+  "name": "Galletas rellenas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de manteca",
+    "3 huevos",
+    "1 cucharadita de bicarbonato de sodio",
+    "2 tazas de azúcar morena",
+    "4 tazas de harina",
+    "2 cucharadas de agua fría",
+    "----rellenado----",
+    "1 taza de pasas",
+    "1 taza de azúcar",
+    "1 taza de agua",
+    "1 cucharada de harina"
+  ],
+  "recipeInstructions": "Relleno: Hervir y enfriar. Colocar entre las galletas antes de hornear.\nNota: Mezclar los ingredientes para la masa mientras el relleno se enfría. Estirar, cortar, untar con el relleno. Hornear en horno moderado a 350°F.",
+  "url": null
+}

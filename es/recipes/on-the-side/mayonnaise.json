@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mayonnaise",
+  "name": "Mayonesa",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "americana",
+    "cajún",
+    "étnica",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "Yemas de huevo 2",
+    "Sal 1 cucharadita",
+    "Ajo picado 1 diente",
+    "Cebolla verde picada 1/2 taza",
+    "Salsa Tabasco 1 cucharadita",
+    "Jugo de limón 1/2 (aproximadamente 1/4 taza)",
+    "Aceite vegetal 2 tazas"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes excepto el aceite en una licuadora con la tapa central removida o en un procesador de alimentos con una cuchilla de plástico.\n2. Licuar o procesar durante 2 minutos.\n3. Verter lentamente el aceite por un chorro fino sobre la superficie o por el tubo de alimentación hasta que esté completamente incorporado.\n4. Licuar o procesar durante otros 30 segundos.",
+  "url": null
+}

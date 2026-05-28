@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "egg-tacos",
+  "name": "Tacos de Huevo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "8 capas de taco",
+    "8 huevos",
+    "1/2 taza de leche",
+    "sal y pimienta al gusto",
+    "2 tazas de lechuga picada",
+    "2 tomates, picados",
+    "1 taza de queso rallado Monterey Jack o Cheddar.",
+    "salsa y crema agria (opcional)"
+  ],
+  "recipeInstructions": "1. Calentar las capas de taco según las instrucciones del paquete.\n2. En un bol, batir juntos los huevos, la leche, la sal y la pimienta hasta que estén bien combinados.\n3. Calentar una sartén antiadherente de tamaño mediano a fuego medio-alto hasta que esté lo suficientemente caliente como para chisporrotear una gota de agua.\n4. Verter la mezcla de huevo en la sartén y reducir inmediatamente el calor a medio-bajo.\n5. Revolver suavemente la mezcla de huevo con una espátula a lo largo del fondo y los lados de la sartén para formar grandes, suaves grumos.\n6. Cocinar los huevos hasta que se espesen y no quede líquido visible, pero aún estén húmedos, aproximadamente 1 minuto.\n7. Dividir la mezcla de huevo entre las capas de taco.\n8. Adornar al gusto con lechuga, tomate, queso, salsa y crema agria.",
+  "url": null
+}

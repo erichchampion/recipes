@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "un-tomato-ketchup",
+  "name": "Ketchup de Tomate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 taza de zanahorias cocidas",
+    "1/4 taza de remolacha cocida",
+    "1/4 taza de agua",
+    "1/4 taza de jugo de limón",
+    "1 cucharada de endulzante (por ejemplo, azúcar o miel)",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de polvo de cebolla",
+    "1/4 cucharadita de polvo de ajo",
+    "1/8 cucharadita de orégano"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes hasta obtener una consistencia suave.\n2. Prueba y ajusta la sazón si es necesario.",
+  "url": null
+}

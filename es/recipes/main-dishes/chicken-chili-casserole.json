@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-chili-casserole",
+  "name": "Omelet de Pollo y Chiles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aceite",
+    "1 cebolla mediana, picada",
+    "2 dientes de ajo, machacados",
+    "1 taza de pollo cocido, cortado en cubos",
+    "8 onzas de maíz congelado",
+    "2 onzas de aceitunas negras, en rodajas",
+    "2/3 taza de chiles verdes picados",
+    "1/4 cucharadita de pimienta roja en copos",
+    "4 pimientos grandes",
+    "1 taza de queso Jack rallado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 175 °C.\n2. Saltear la cebolla y el ajo en aceite hasta que estén suaves.\n3. Apagar el fuego y mezclar el pollo, el maíz, las aceitunas, los chiles y la pimienta roja.\n4. Cortar la parte superior de los pimientos y cortarlos a lo largo, eliminando las semillas y las membranas.\n5. Disponer los pimientos cortados alrededor del borde del molde para horno.\n6. Agregar el queso a la mezcla de pollo y mezclar inmediatamente.\n7. Hornear durante 45 minutos.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "waffles-2",
+  "name": "Waffles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "gofres"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de avena (o 1 taza de copos de avena)",
+    "1/2 taza de maicena",
+    "1 taza de harina integral",
+    "2 cucharaditas de polvo de hornear",
+    "1 cucharada de sustituto de huevo",
+    "1 cucharada de puré de ciruelas secas (ver receta a continuación)",
+    "1 cucharadita de especias para pastel de calabaza",
+    "2 tazas de líquido (agua, jugo, leche de soja, etc.)"
+  ],
+  "recipeInstructions": "1. Medir los ingredientes secos: avena, maicena, harina integral, polvo de hornear y especias para pastel de calabaza.\n2. Preparar el sustituto de huevo según las instrucciones del paquete.\n3. En un bol grande, agregar el puré de ciruelas secas (ver receta abajo) y mezclar incorporando 1 cucharada de él por cada 1 cucharada de grasa requerida en la receta.\n4. Agregar gradualmente los ingredientes líquidos (agua, jugo, leche de soja, etc.) a los secos mientras se revuelve hasta que estén apenas combinados.\n5. Calentar una gofrera según las instrucciones del fabricante.\n6. Verter la masa sobre la gofrera caliente y cocinar hasta que esté dorada y crujiente.\n7. Servir tibio con sirope de arce, fruta o jarabe de fruta, según el gusto.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "corn-bread-6",
+  "name": "Pan de Maíz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "pan de maíz"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina de maíz",
+    "1 taza de harina común",
+    "4 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "1 cucharadita de azúcar",
+    "1 taza de leche",
+    "1 huevo batido",
+    "2 cucharadas de mantequilla derretida"
+  ],
+  "recipeInstructions": "1. Mezcla los ingredientes secos.\n2. Agrega la leche gradualmente y bate hasta combinar.\n3. Incorpora el huevo y la mantequilla derretida; mezcla bien.\n4. Vierte en un molde para hornear engrasado y caliente.\n5. Hornea de 15 a 20 minutos en horno precalentado a 400-500 grados.",
+  "url": null
+}

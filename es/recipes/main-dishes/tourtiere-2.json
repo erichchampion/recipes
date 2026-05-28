@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "tourtiere-2",
+  "name": "Tourtiere",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "2 lb de cerdo",
+    "1 1/2 tazas de cebolla",
+    "1 cucharadita de jengibre",
+    "1/4 cucharadita de clavos",
+    "1/4 cucharadita de canela",
+    "1/2 taza de agua",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Cocinar por 30 minutos.\n3. Agregar 1 taza de pan rallado.",
+  "url": null
+}

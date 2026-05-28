@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cornbread",
+  "name": "Pan de Maíz",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de harina de maíz",
+    "1 taza de harina de trigo integral",
+    "4 cucharaditas de polvo de hornear",
+    "3/4 cucharadita de sal",
+    "1/4 taza de miel (o usa melaza, ¡también está buena!)",
+    "3/4 taza de leche desnatada, soja o arroz, o agua",
+    "2 cucharadas de puré de manzana",
+    "1 huevo (o 1/4 taza de sustituto de huevo) batido"
+  ],
+  "recipeInstructions": "Mezcla la harina de maíz, la harina, el polvo de hornear y la sal. Agrega los ingredientes restantes; mezcla bien con una cuchara. Vierte en un molde redondo antiadherente de 9 pulgadas (o rocía un molde de vidrio redondo de 9 pulgadas con spray desmoldante de \"aceite y harina\"). Hornea a 180 °C durante 25 minutos, o hasta que sea dorado.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-pizza-4",
+  "name": "Pasta Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 lb de macarrones en forma de codillo o cualquier otra pasta",
+    "1 cucharada de condimento italiano",
+    "2 dientes de ajo machacados",
+    "1/2 cucharadita de pimentón rojo",
+    "1 lata (8 oz) de salsa de tomate",
+    "1/4 taza de queso Parmesano sin grasa",
+    "1 lata (15 oz) de tomates cocidos",
+    "2 tazas de verduras mixtas: apio, cebollas, pimientos rojo y verde, calabacín, zanahorias o espinacas",
+    "1/2 taza de guisantes",
+    "1 taza de queso mozzarella sin grasa rallado"
+  ],
+  "recipeInstructions": "Precalentar el horno a 400°F. En una olla con agua hirviendo, cocinar la pasta hasta que quede ligeramente al dente; escurrir. Colocar la pasta en un molde para hornear de 9\" x 13\" rociado con spray antiadherente; mezclar con condimento italiano, ajo machacado, pimentón rojo, salsa de tomate y queso Parmesano. Verter los tomates cocidos sobre el toping, luego capasar los ingredientes restantes, terminando con el queso mozzarella.",
+  "url": null
+}

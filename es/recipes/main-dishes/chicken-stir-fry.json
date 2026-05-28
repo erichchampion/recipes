@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-stir-fry",
+  "name": "Pollo Salteado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo sin hueso y sin piel",
+    "2 zanahorias grandes, cortadas en rodajas finas",
+    "2 pimientos verdes, picados",
+    "1 pimiento rojo, picado (opcional)",
+    "2 cucharadas de aceite vegetal",
+    "1 1/2 tazas de caldo de pollo",
+    "2 cucharadas de salsa de soja baja en sodio",
+    "2 cucharadas de almidón de maíz",
+    "2 cucharadas de agua caliente"
+  ],
+  "recipeInstructions": "1. Cortar el pollo semifrio en trozos pequeños y reservar.\n2. Calentar una sartén con aceite a fuego medio-alto.\n3. Saltear el pollo hasta que esté dorado por todos lados (aproximadamente 3 minutos).\n4. Agregar las zanahorias, pimientos y cualquier verdura opcional a la sartén y espolvorear con salsa de soja.\n5. Saltear las verduras hasta que estén tiernas (aproximadamente 3-5 minutos).\n6. Mezclar el almidón de maíz con agua caliente en un bol separado.\n7. Verter la mezcla en el caldo de pollo caliente en la sartén.\n8. Tapar y vaporizar los vegetales salteados y el pollo durante unos 2-3 minutos.\n9. Retirar la tapa y cocinar, revolviendo hasta que la salsa espese (aproximadamente 2 minutos más).\n10. Cubrir con toppings deseados como nueces o coco.\n11. Servir sobre arroz cocido caliente.",
+  "url": null
+}

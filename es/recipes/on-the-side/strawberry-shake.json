@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-shake",
+  "name": "Batido de Fresas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "aperitivos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 taza de fresas frescas",
+    "3/4 taza de leche desnatada",
+    "1/2 taza de yogur bajo en grasa",
+    "1 cucharada de azúcar moreno ligero",
+    "1/2 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Enjuagar y quitar el pedúnculo a las fresas. Si se usan fresas congeladas, descongelarlas y escurrirlas.\n2. Agregar todos los ingredientes en un bol de licuadora.\n3. Licuar hasta obtener una consistencia suave.\n4. Servir inmediatamente.",
+  "url": null
+}

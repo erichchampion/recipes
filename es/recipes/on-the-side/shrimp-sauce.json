@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "shrimp-sauce",
+  "name": "Salsa de Camarones",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pescado",
+    "salsas",
+    "mariscos",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 taza de salsa picante",
+    "1 taza de mayonesa",
+    "1/4 taza de encurtido de pepinillos",
+    "1 huevo duro picado",
+    "1/2 cucharadita de mostaza preparada",
+    "1/2 cucharadita de cebolla rallada",
+    "1 cucharada de jugo de limón"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Enfriar la mezcla hasta el momento de servir.\n3. Servir con camarones al horno o a la parrilla.",
+  "url": null
+}

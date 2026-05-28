@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-polaf-salad-2",
+  "name": "Ensalada de Arroz Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pollo",
+    "arroz",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de pollo cocido y picado",
+    "1/2 taza de apio en rodajas",
+    "1 1/2 tazas de arroz moreno cocido",
+    "1 taza de garbanzos cocidos",
+    "1/2 taza de pimiento verde picado",
+    "1/4 taza de aceitunas verdes sin hueso en rodajas",
+    "1/4 taza de cebolla verde picada",
+    "1/4 taza de perejil picado"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes y combinarlos.\n2. Enfriar durante 1 hora.\n3. Justo antes de servir, verter el aderezo de su elección sobre la ensalada.\n4. Mezclar y servir.",
+  "url": null
+}

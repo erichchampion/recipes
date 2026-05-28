@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "cabbage-salad",
+  "name": "Ensalada de Col",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 cabeza de col, picada finamente",
+    "1 cebolla grande, picada finamente o rallada",
+    "1 pepinillo en vinagre grande, rallado (1 a 2)",
+    "1 lata de atún en aceite, (1 a 2)",
+    "Mayonesa suficiente para mantener la ensalada húmeda"
+  ],
+  "recipeInstructions": "1. Pica finamente la col y la cebolla.\n2. Ralla uno o dos pepinillos y una lata de atún y mézclalos en el mismo recipiente.\n3. Agrega mayonesa hasta que la ensalada esté húmeda al punto deseado.\n4. Antes de servir, tritura una bolsa de papas fritas y mézclalas con cuidado.\n5. Opcionalmente, puedes añadir crema agria y chips de cebolla para un sabor extra.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pumpkin-pie-3",
+  "name": "Pastel de Calabaza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "pasteles"
+  ],
+  "recipeIngredient": [
+    "2 tazas de calabaza",
+    "1 1/2 tazas de leche",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de jengibre",
+    "1 cucharadita de canela",
+    "1 taza de azúcar morena",
+    "3 huevos enteros",
+    "1 1/2 cucharadas de almidón de maíz",
+    "1/4 cucharadita de clavos",
+    "1 base de pastel (sin hornear)"
+  ],
+  "recipeInstructions": "1. Cortar la calabaza por la mitad, retirar las semillas y asar hasta que esté suave, luego pelar.\n2. Licuar la calabaza.\n3. En un tazón grande, mezclar la calabaza licuada con los huevos batidos, azúcar, sal, almidón de maíz y especias.\n4. Agregar gradualmente leche escaldada a la mezcla y mezclar bien.\n5. Verter la mezcla en una base de pastel sin hornear.\n6. Espolvorear canela encima.\n7. Hornear a 200°C durante 10 minutos, luego reducir el calor a 180°C y continuar horneando por 30 minutos.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-stroganoff-5",
+  "name": "Estofado de Carne de Res",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "2 libras de lomo de res, cortado en cubos",
+    "1 taza de crema agria",
+    "3 cucharadas de salsa de soja",
+    "3 cucharadas de ketchup",
+    "1 cucharadita de pimentón dulce",
+    "1 lata de setas, escurridas",
+    "1 cebolla grande, en rodajas",
+    "2 cucharadas de harina"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla en mantequilla hasta que esté transparente. Retirar del sartén.\n2. Dorar la carne en la misma sartén.\n3. Devolver las cebollas a la sartén.\n4. Incorporar 2 cucharadas de harina.\n5. Agregar las setas, el ketchup, el pimentón y la crema agria.\n6. Sazonar con sal y pimienta al gusto.\n7. Mezclar bien.\n8. Reducir el fuego y cocinar hasta que la carne esté tierna.\n9. Servir sobre arroz o fideos cocidos. Si la mezcla de carne parece muy espesa, agregar un poco de leche para alcanzar la consistencia deseada.",
+  "url": null
+}

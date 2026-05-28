@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-chicken-2",
+  "name": "Pollo al horno",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "italiano",
+    "plato principal",
+    "carne",
+    "aves"
+  ],
+  "recipeIngredient": [
+    "8 pechugas de pollo sin hueso",
+    "1/2 taza de vino blanco o rosado",
+    "1/2 taza de harina",
+    "sal",
+    "pimienta",
+    "1/2 cucharadita de romero",
+    "1/2 cucharadita de orégano",
+    "1/2 cucharadita de tomillo",
+    "1 cucharadita de pimentón dulce",
+    "4 hojas de albahaca fresca picadas",
+    "2 tazas de tomates picados",
+    "1 taza de caldo de pollo",
+    "1/2 taza de jugo de limón",
+    "1/2 cucharadita de canela en polvo",
+    "1/2 taza de aceite de oliva",
+    "1/2 cucharadita de ajo en polvo"
+  ],
+  "recipeInstructions": "1. Mezcla la harina con sal, romero, orégano, tomillo, pimienta y pimentón dulce.\n2. Espolvorea la mezcla de especias sobre el pollo y dóralo en aceite de oliva y mantequilla.\n3. Coloca el pollo en un refractario y agrega los tomates, vino, caldo de pollo, ajo en polvo, albahaca fresca, canela y jugo de limón.\n4. Hornea a 180°C (375°F) durante 15 minutos o hasta que el pollo esté tierno y dorado.",
+  "url": null
+}

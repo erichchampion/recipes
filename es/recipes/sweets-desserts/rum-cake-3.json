@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "rum-cake-3",
+  "name": "Pastel de Ron",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "150 gramos de harina de trigo sin blanquear",
+    "25 gramos de cacao en polvo",
+    "2 cucharaditas de polvo de hornear",
+    "100 ml de aceite de maíz",
+    "100 ml de leche",
+    "2 yemas de huevo, separadas",
+    "150 gramos de azúcar morena suave",
+    "1/4 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Tamizar y mezclar los ingredientes secos: harina, cacao, polvo de hornear y sal.\nBatir juntos el aceite de maíz, la leche y las yemas de huevo. Combinar las dos mezclas para formar una masa.\n2. Batir las claras de huevo hasta que formen picos firmes. Incorporarlas suavemente a la mezcla de masa.\n3. Verter la masa en un molde para pastel engrasado de 20 cm. Hornear a 180°C durante 40 minutos.\n4. Una vez frío el pastel, preparar el topping calentando azúcar y agua en una cacerola a fuego bajo hasta que hierva durante 5 minutos. Retirar del fuego, agregar ron y verter sobre el pastel. Si se sirve como pudín, acompañarlo con crema batida.",
+  "url": null
+}

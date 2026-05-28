@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-spicy-chicken",
+  "name": "Pollo Caliente y Picante^",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves"
+  ],
+  "recipeIngredient": [
+    "2 pechugas de pollo, cortadas en tiras",
+    "1/2 taza de caldo de pollo",
+    "1 cucharadita de jengibre rallado",
+    "1 diente de ajo, picado finamente",
+    "3 chiles rojos secos de Szechuan, picados finamente",
+    "1/2 taza de guisantes de nieve, sin las hebras",
+    "1 cucharada de salsa de soja baja en sodio",
+    "1 cucharada de vino seco de arroz",
+    "10 setas shiitake",
+    "1 cucharadita de almidón de maíz o fécula de arrowroot",
+    "3 cucharadas de agua fría",
+    "2 cebolletas, cortadas en trozos de 1 pulgada"
+  ],
+  "recipeInstructions": "1. Cocinar el jengibre, ajo y chiles en el caldo a fuego medio en un wok o sartén grande.\n2. Agregar el pollo, revolviendo constantemente, y cocinar por 3-4 minutos.\n3. Incorporar los guisantes de nieve, salsa de soja, vino seco y setas. Continuar cocinando otros 2-3 minutos.\n4. Mezclar el almidón de maíz con el agua fría en un bol aparte.\n5. Agregar la mezcla al wok y cocinar hasta que espese.\n6. Incorporar las cebolletas y calentar todo junto.\n7. Servir sobre arroz marrón.",
+  "url": null
+}

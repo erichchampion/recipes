@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "sock-it-to-me-cake",
+  "name": "Pastel 'Sock It to Me'",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "mezcla de pastel Butter cake de Duncan Hines",
+    "aceite",
+    "azúcar",
+    "extracto de vainilla",
+    "huevos (uno a la vez)",
+    "crema agria",
+    "nueces picadas",
+    "canela",
+    "azúcar morena"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 325 grados F.\n2. Verter la mitad de la masa en un molde para pastel tipo bundt engrasado y enharinado.\n3. Mezclar el azúcar, la canela y las nueces picadas.\n4. Verter la masa restante sobre la mezcla de azúcar.\n5. Hornear durante 1 hora.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "shrimp-n-rice-salad",
+  "name": "Ensalada de Camarones y Arroz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "diabetico",
+    "pescado",
+    "arroz",
+    "ensaladas",
+    "vegetales"
+  ],
+  "recipeIngredient": [
+    "1 lb de camarones; cocidos, pelados y desvenados",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "2 tazas de arroz cocido",
+    "1/4 taza de apio; cortado en rodajas finas",
+    "1/4 taza de aceitunas rellenas; cortadas",
+    "1/4 taza de pimientos verdes; picados",
+    "1/4 taza de pimientos rojos; picados",
+    "1/4 taza de cebolla; picada finamente"
+  ],
+  "recipeInstructions": "1. Mezclar los primeros 10 ingredientes en un bol grande y remover suavemente.\n2. Enfriar bien.\n3. Servir sobre hojas de lechuga.\n4. Decorar con gajos de tomate y hojas de apio.\n5. Acompañar con aderezo francés.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-custard-pie-2",
+  "name": "Tarta de Crema de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "frutas",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 yemas de huevo",
+    "1 taza de azúcar",
+    "2 cucharadas de mantequilla",
+    "2 tazas de manzanas (peladas y en rodajas)",
+    "1 cucharadita de vainilla",
+    "1 masa para tarta (de 23 cm)"
+  ],
+  "recipeInstructions": "1. En un baño maría, combina las yemas de huevo con el azúcar.\n2. Añade la mantequilla, las manzanas y la vainilla; mezcla bien.\n3. Coloca sobre agua hirviendo en el baño maría, removiendo constantemente hasta que espese.\n4. Vierte la mezcla en la masa para tarta.\n5. Hornea a 180°C durante 20 minutos.",
+  "url": null
+}

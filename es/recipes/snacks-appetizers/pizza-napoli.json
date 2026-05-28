@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-napoli",
+  "name": "Pizza Napoli",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "carne",
+    "tartas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "masa de pizza lista para hornear",
+    "3 tazas de tomates enlatados tipo pera",
+    "1 taza de queso mozzarella",
+    "3/4 taza de queso parmesano rallado",
+    "1/2 libra de tiras finas de prosciutto o jamón",
+    "3 cucharadas de aceite de oliva"
+  ],
+  "recipeInstructions": "1. Untar la masa de pizza con aceite de oliva.\n2. Cortar los tomates en trozos y extendérlos sobre la masa.\n3. Espolvorear el queso mozzarella uniformemente sobre los tomates.\n4. Disponer las piezas de prosciutto o jamón (aproximadamente cuadrados de un centímetro) encima.\n5. Espolvorear el queso parmesano rallado uniformemente por encima de todo.\n6. Sazonar con sal y pimienta al gusto.\n7. Hornear a 450 grados Fahrenheit durante 10 minutos.",
+  "url": null
+}

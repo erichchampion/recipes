@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-satay",
+  "name": "Satay de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves"
+  ],
+  "recipeIngredient": [
+    "450 g de pechugas de pollo sin piel ni hueso",
+    "1/2 cucharadita de sambal oelek (pasta de chile picante)",
+    "1 cucharadita de jengibre fresco rallado",
+    "30 ml de jugo de limón",
+    "50 ml de salsa de soja oscura",
+    "30 ml de miel",
+    "15 ml de mantequilla de maní",
+    "110 ml de agua"
+  ],
+  "recipeInstructions": "1. Cortar el pollo en trozos de 2,5 cm y ensartar en 15 brochetas de bambú un número igual de trozos. Reservar.\n2. En una sartén grande o cacerola, mezclar sambal oelek, jengibre rallado, jugo de limón, salsa de soja oscura, miel, mantequilla de maní y agua. Llevar a ebullición, removiendo constantemente, luego reducir el fuego y agregar las brochetas de pollo sin amontonarlas. Cocinar a fuego lento durante 10 minutos, pincelando ocasionalmente las brochetas. Retirar del fuego y transferirlas a una bandeja para hornear con bordes. Repetir con el resto de las brochetas.\n3. Dejar que la salsa hierva en la cacerola hasta reducirla a unos 170 ml. Verter sobre el pollo, cubriendo cada brocheta. Tapar y refrigerar hasta enfriar. Servir frío. Para decorar, si se desea, agregar cerezas y perejil italiano picado.",
+  "url": null
+}

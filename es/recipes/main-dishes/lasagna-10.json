@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "lasagna-10",
+  "name": "Lasaña",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "diabetico",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 taza de cebolla picada",
+    "1 taza de champiñones laminados",
+    "1/2 taza de pimientos verdes picados",
+    "1 cucharadita de perejil seco",
+    "1/2 cucharadita de albahaca",
+    "1/2 cucharadita de orégano",
+    "1/2 cucharadita de comino en polvo",
+    "5 onzas de queso mozzarella rallado",
+    "1 diente de ajo picado",
+    "1 taza de zanahorias picadas",
+    "3 tazas de tomates triturados",
+    "1/4 cucharadita de romero seco",
+    "3 onzas de queso romano rallado",
+    "1 1/3 tazas de requesón"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla y el ajo hasta que estén suaves.\n2. Agregar los champiñones, zanahorias y pimientos a la sartén. Cocinar hasta que las verduras estén tiernas.\n3. Incorporar los tomates, perejil, albahaca, orégano, comino, romero y pimienta. Reducir el fuego y cocinar por 15 minutos.\n4. Mezclar juntos los quesos: mozzarella, romano rallado y requesón.\n5. Disponer 8 tallos de lasaña cocidos en un molde para hornear.\n6. Extender la mitad de la salsa sobre los tallos.\n7. Espolvorear con queso.\n8. Repetir capas con los ingredientes restantes.\n9. Hornear a 375°F por 30 minutos.",
+  "url": null
+}

@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-tacos-2",
+  "name": "Tacos de Pescado",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americano",
+    "étnico",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "1 manojo de cilantro (sin tallos)",
+    "4 dientes de ajo",
+    "2-3 jalapeños (sin semillas)",
+    "1/2 taza de nueces",
+    "1/4 taza de aceite de oliva",
+    "1/2 taza de agua",
+    "jugo de un limón",
+    "sal y pimienta al gusto",
+    "1 1/2 tazas de queso Monterey Jack rallado",
+    "tortillas de maíz",
+    "col morada",
+    "hojas de cilantro",
+    "pico de gallo (tomates, cebollas, jalapeños, limón, cilantro, sal, pimienta)",
+    "Pescado fresco y suave (trucha, bacalao, mahi-mahi, bagre, etc.), salteado, frito o a la parrilla"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes excepto el pescado fresco en una licuadora y procesa hasta obtener una mezcla suave.\n2. Extiende las tortillas de maíz sobre una superficie limpia.\n3. Unta la mezcla licuada uniformemente sobre cada tortilla.\n4. Agrega col morada en rodajas, hojas de cilantro, pico de gallo y porciones del pescado cocinado o preparado.\n5. Enrolla cada tortilla firmemente para formar un taco.\n6. Sirve inmediatamente.",
+  "url": null
+}

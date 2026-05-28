@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "papaya-salsa",
+  "name": "Salsa de Papaya",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "encurtidos",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "2 tomates plum, cortados en cubos",
+    "1 papaya, pelada y cortada en cubos",
+    "2 cucharadas de vinagre de manzana",
+    "1 cucharada de miel",
+    "1 chile jalapeño, sin semillas y picado",
+    "1 cucharada de jugo de limón"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un tazón.\n2. Revolver hasta combinarse bien.\n3. Servir 2 tazas.",
+  "url": null
+}

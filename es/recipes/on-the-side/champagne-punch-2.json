@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "champagne-punch-2",
+  "name": "Punch de Champán",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "punch",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de azúcar granulada",
+    "2 tazas de jugo de limón fresco",
+    "1 botella de 750 ml de vino blanco seco",
+    "1 botella de 750 ml de champán",
+    "2 botellas grandes de agua con gas",
+    "1/4 taza de licor de naranja",
+    "1 piña, cortada en cuartos y rallada"
+  ],
+  "recipeInstructions": "1. En un bol grande para punch, combina la azúcar granulada, el jugo de limón, el vino blanco, el champán, el agua con gas y la piña rallada.\n2. Mezcla bien hasta que todos los ingredientes estén completamente combinados.\n3. Agrega hielo a la mezcla y decora con trozos adicionales de piña y frutas frescas como fresas.\n4. Deja enfriar la mezcla antes de servir en vasos pequeños.",
+  "url": null
+}

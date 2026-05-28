@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mushroom-strognoff",
+  "name": "Stroganoff de Setas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "plato principal",
+    "dieta especial",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de setas",
+    "1/8 cucharadita de sal",
+    "1/8 cucharadita de pimienta",
+    "1/3 cebolla, en cuartos",
+    "1 1/3 cucharadas de mantequilla",
+    "2/3 taza de harina",
+    "1/3 taza de caldo de verduras",
+    "1/3 cucharadita de mostaza dijon",
+    "1/8 taza de crema agria, a temperatura ambiente"
+  ],
+  "recipeInstructions": "1. Derrite 2 cucharadas de mantequilla en una sartén y agrega la harina. Revuelve hasta que esté suave.\n2. Mezcla gradualmente el caldo de verduras, calentando mientras revuelves hasta espesarse.\n3. Agrega la mostaza y retira del fuego.\n4. En otra sartén, derrite la mantequilla restante y saltea las setas y cebollas durante 5 minutos hasta que la cebolla comience a ablandarse.\n5. Añade las setas a la salsa y deja cocinar a fuego lento durante 15 minutos.\n6. Retira del fuego, mezcla la crema agria y luego agrega las cebollas.\nSirve con arroz.",
+  "url": null
+}

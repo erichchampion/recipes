@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "tropical-chicken-salad-2",
+  "name": "Ensalada de Pollo Tropical",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pollo",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de carne blanca de pollo desmenuzada",
+    "1/4 taza de pasas blancas (opcional)",
+    "2 manzanas peladas y picadas",
+    "3 cucharadas de chutney picado",
+    "2 cucharaditas de polvo de curry",
+    "3/4 taza de mayonesa",
+    "1/2 taza de coco rallado"
+  ],
+  "recipeInstructions": "1. Cocinar y cortar el pollo en cubos.\n2. En un bol, mezclar el chutney, el polvo de curry y la mayonesa.\n3. Combinar todos los demás ingredientes en un bol separado.\n4. Incorporar la mezcla de curry, chutney y mayonesa a la mezcla de pollo.\n5. Servir sobre hojas de rúcula o lechuga, con rodajas de aguacate.",
+  "url": null
+}

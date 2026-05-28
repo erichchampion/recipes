@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-bread-2",
+  "name": "Pan de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "fruta"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de manteca corta",
+    "1 taza de azúcar",
+    "2 huevos",
+    "1 cucharadita de bicarbonato de sodio",
+    "2 cucharadas de leche agria",
+    "2 tazas de harina",
+    "1 cucharadita de sal",
+    "1 cucharadita de vainilla",
+    "2 tazas de manzanas picadas finamente",
+    "1/2 taza de nueces"
+  ],
+  "recipeInstructions": "1. Batir juntos la manteca, el azúcar y los huevos.\n2. Disolver el bicarbonato de sodio en la leche agria (o mezclar 1 cucharadita de vinagre con 2 cucharaditas de leche como sustituto).\n3. Combinar la mezcla de leche agria con los ingredientes batidos.\n4. Agregar la harina restante, la sal, la vainilla, las manzanas picadas finamente y las nueces a la masa y mezclar hasta combinarlos.\n5. Verter la masa en un molde para pan engrasado.\n6. Preparar el topping mezclando 2 cucharadas de mantequilla, 2 cucharadas de harina, 2 cucharadas de azúcar y 1 cucharadita de canela.\n7. Colocar el molde en un horno precalentado a 350 grados Fahrenheit y hornear durante 1 hora.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-pecan-pie",
+  "name": "Tarta de Pecán con Chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "chocolate",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "3 huevos, ligeramente batidos",
+    "1 taza de jarabe de maíz Karo claro o oscuro",
+    "1 taza de azúcar",
+    "2 cucharadas de mantequilla derretida",
+    "4 onzas de chocolate semiamargo",
+    "1 cucharadita de extracto de vainilla",
+    "1 1/2 tazas de mitades de nueces pecán",
+    "1 base de tarta sin hornear de 23 cm"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcle los primeros seis ingredientes hasta que estén bien combinados.\n2. Agregue las nueces pecán y revuelva.\n3. Vierta la mezcla en la base de la tarta.\n4. Hornee en un horno a 175 °C durante 50 a 55 minutos, o hasta que un cuchillo insertado en el centro salga limpio.\n5. Deje enfriar.",
+  "url": null
+}

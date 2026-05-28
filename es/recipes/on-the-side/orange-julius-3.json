@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-julius-3",
+  "name": "Julius de Naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "desayuno",
+    "comidas ligeras"
+  ],
+  "recipeIngredient": [
+    "2 tazas de jugo de naranja",
+    "3 cucharadas de leche en polvo",
+    "1 cucharada de sirope de maíz",
+    "1 cucharada de azúcar",
+    "1/2 cucharadita de extracto de vainilla",
+    "3/4 taza de hielo triturado"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes a una licuadora y mezclar hasta obtener una consistencia suave.\n2. Verter la mezcla en vasos fríos y servir inmediatamente.",
+  "url": null
+}

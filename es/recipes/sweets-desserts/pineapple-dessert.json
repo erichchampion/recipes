@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pineapple-dessert",
+  "name": "Postre de Piña",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 contenedor grande de Cool Whip",
+    "1 lata grande (20 onzas) de piña triturada, escurrida.",
+    "1 lata de leche evaporada endulzada",
+    "1/2 taza de jugo de limón",
+    "1 taza de nueces picadas",
+    "2 bases de pastel de galleta Graham"
+  ],
+  "recipeInstructions": "1. Mezclar la piña y la leche evaporada hasta que esté bien combinada.\n2. Incorporar el Cool Whip hasta obtener una mezcla homogénea.\n3. Agregar el jugo de limón y mezclar con las nueces picadas.\n4. Verter la mezcla en dos bases de pastel de galleta Graham preparadas.\n5. Refrigerar durante aproximadamente 4 horas antes de servir.",
+  "url": null
+}

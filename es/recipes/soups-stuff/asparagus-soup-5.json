@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "asparagus-soup-5",
+  "name": "Sopa de Espárragos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "2 libras de espárragos, cortados en rodajas diagonales de 1 pulgada",
+    "1 cubo de caldo vegetal o de carne",
+    "1 taza de crema",
+    "2 cucharadas de tomillo",
+    "2 cucharadas de albahaca",
+    "1 diente de ajo, prensado",
+    "1 cucharada de salsa de soja"
+  ],
+  "recipeInstructions": "1. Saltear las verduras en mantequilla durante 5 minutos.\n2. Añadir agua y el cubo de caldo; dejar hervir a fuego lento durante 5 minutos.\n3. Incorporar los ingredientes restantes y dejar hervir a fuego lento durante 10 minutos más.\n4. Servir.",
+  "url": null
+}

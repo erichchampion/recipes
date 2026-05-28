@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-crusts",
+  "name": "Masa para Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "máquina de panificar",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 paquete de levadura",
+    "3 tazas de harina",
+    "1 taza de agua",
+    "1 cucharadita de aceite de oliva",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Coloca la levadura, la harina, el agua, el aceite de oliva y la sal en una máquina de panificar y ejecuta el ciclo de masa.\n2. Retira la masa y extiéndela sobre una superficie enharinada.\n3. Cubre la masa con un paño de cocina limpio durante 10 a 15 minutos.\n4. Estira la masa sobre una superficie enharinada.\n5. Transfiere la masa estirada a una sartén o piedra para pizza espolvoreada con maicena.\n6. Unta un poco de aceite de oliva sobre la masa donde se colocará la salsa.\n7. Agrega los ingredientes deseados, asegurándote de que las carnes cocidas y escurridas como la hamburguesa y la salchicha se coloquen en la pizza antes que el queso.\n8. Hornea a 190°C durante 20 a 25 minutos hasta que el queso se derrita y comience a dorarse.",
+  "url": null
+}

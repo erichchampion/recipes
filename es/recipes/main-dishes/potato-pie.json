@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-pie",
+  "name": "Pastel de Papas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "tartas para la cena",
+    "platos principales",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "3 papas medianas, cortadas en trozos",
+    "1/4 taza de agua",
+    "1/2 cucharadita de sal",
+    "1/8 cucharadita de pimienta negra",
+    "1 cucharada de aceite vegetal",
+    "1/2 cucharadita de pimentón dulce",
+    "1 cebolla, picada finamente",
+    "1 taza de guisantes congelados",
+    "1 cabeza de brócoli, cortada en floretes",
+    "1 pimiento verde, picado",
+    "4 zanahorias medianas, cortadas en rodajas",
+    "1/2 cucharadita de albahaca seca",
+    "1 taza de tomates frescos picados",
+    "1 manojo de col rizada o acelga, picada",
+    "1 cucharada de sal",
+    "1 cucharada de aceite vegetal"
+  ],
+  "recipeInstructions": "1. Cocinar las papas al vapor o hervirlas hasta que estén tiernas. Machacarlas y agregar agua, sal, pimienta y aceite.\n2. Dejar enfriar un poco.\n3. Saltear la cebolla en el aceite vegetal por unos minutos. Añadir el brócoli, pimiento, zanahorias, guisantes, tomates, albahaca y sal. Llevar a ebullición. Tapar y cocinar a fuego lento hasta que las verduras estén tiernas, aproximadamente 15 minutos.\n4. Agregar la col rizada o acelga y cocinar por 5 minutos más.\n5. Colocar las verduras en un molde para hornear mediano. Cubrir con el puré de papas y espolvorear con pimentón dulce.\n6. Hornear a 180°C (350°F) durante 10-15 minutos y servir.",
+  "url": null
+}

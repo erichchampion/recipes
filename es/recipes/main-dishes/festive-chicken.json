@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "festive-chicken",
+  "name": "Pollo Festivo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "8 lonchas de tocino",
+    "4 pechugas de pollo con hueso en mitades",
+    "1 taza de salsa de soja",
+    "1/2 taza de azúcar",
+    "4 dientes de ajo finamente picados",
+    "3 cucharaditas de jengibre molido",
+    "1/4 cucharadita de pimentón dulce",
+    "4 gotas de salsa picante"
+  ],
+  "recipeInstructions": "1. Envolver dos lonchas de tocino alrededor de cada pechuga de pollo y colocar en un plato para hornear poco profundo.\n2. En un tazón pequeño, mezclar la salsa de soja y el azúcar. Agregar los ingredientes restantes.\n3. Verter la mezcla sobre el pollo, revolviendo para cubrir uniformemente.\n4. Cubrir con papel film y refrigerar por varias horas o durante la noche.\n5. Escurrir y reservar la marinada.\n6. Hornear a 180°C durante 50-60 minutos o hasta que el pollo esté cocido, bañándolo ocasionalmente con la marinada.",
+  "url": null
+}

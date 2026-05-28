@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-sauce-2-2",
+  "name": "Salsa de Tomate",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "guarniciones",
+    "salsas",
+    "salsas y aderezos"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de cebolla picada",
+    "2 dientes de ajo picados",
+    "2 cucharadas de aceite de oliva",
+    "sal y pimienta al gusto",
+    "8 a 10 tomates pelados, sin semillas y picados (hasta 8)",
+    "5 hojas de albahaca",
+    "un pellizco de orégano"
+  ],
+  "recipeInstructions": "1. Cocinar la cebolla en el aceite hasta que esté suave.\n2. Agregar el ajo y cocinar por 1 minuto.\n3. Incorporar los tomates, sal y pimienta; llevar a ebullición.\n4. Añadir azúcar; reducir el fuego y cocinar a fuego lento durante 1 hora, revolviendo ocasionalmente y agregando un poco de agua si es necesario.\n5. Mezclar el orégano y la albahaca una vez que la salsa esté fuera del fuego.",
+  "url": null
+}

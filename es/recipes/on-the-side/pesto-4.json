@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pesto-4",
+  "name": "Pesto",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "granos",
+    "pasta",
+    "pesto",
+    "arroz",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "5 cucharaditas de albahaca seca",
+    "3 cucharaditas de perejil seco",
+    "1/2 taza de queso parmesano sin grasa",
+    "1 diente de ajo partido por la mitad",
+    "1/4 taza de nueces",
+    "1/4 cucharadita de sal",
+    "1/4 taza de aceite de oliva"
+  ],
+  "recipeInstructions": "1. En un procesador de alimentos, combina la albahaca, perejil, queso parmesano, ajo, nueces y sal.\n2. Tapa y procesa con varias pulsaciones hasta que esté mezclado.\n3. Con la máquina en marcha lenta, añade gradualmente el aceite y procesa hasta obtener una consistencia similar a la mantequilla blanda.",
+  "url": null
+}

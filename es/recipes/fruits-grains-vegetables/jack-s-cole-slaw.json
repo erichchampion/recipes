@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "jack-s-cole-slaw",
+  "name": "Ensalada de Col de Jack",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensalada",
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3/4 de cabeza pequeña de col; rallada",
+    "1 pimiento rojo; en juliana",
+    "1 pimiento amarillo; en juliana",
+    "2 cucharadas de eneldo fresco",
+    "1 cucharadita de semillas de eneldo",
+    "1 cucharadita de polvo de chipotle",
+    "1/2 taza de mayonesa",
+    "sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande.\n2. Revolver bien para asegurar una distribución uniforme de los ingredientes.\n3. Sazonar con sal y pimienta, ajustando al gusto.\n4. Enfriar la mezcla hasta que esté lista para servir.",
+  "url": null
+}

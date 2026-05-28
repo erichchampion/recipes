@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "paella-3",
+  "name": "Paella",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "étnica",
+    "plato principal",
+    "carne",
+    "pollo"
+  ],
+  "recipeIngredient": [
+    "1 pollo",
+    "2 hojas de laurel",
+    "1/2 cucharadita de ajo en polvo",
+    "1 cucharadita de perejil",
+    "1 paquete de camarones (congelados, tipo Veg Box)",
+    "1/4 taza de aceite",
+    "2 tazas de arroz Uncle Ben's",
+    "1 cebolla picada",
+    "1/8 cucharadita de azafrán",
+    "5 tazas de agua (agua de camarones + agua del grifo)",
+    "1 lata de salsa de tomate",
+    "polvo de ajo al gusto"
+  ],
+  "recipeInstructions": "1. Cortar el pollo en trozos y colocarlo en una sartén para cocinar. Cubrir con agua, agregar hojas de laurel, ajo en polvo y perejil. Cocinar hasta que esté hecho. Retirar la piel y las huesos, luego cortarlo en trozos pequeños y devolverlo al caldo.\n2. Colocar los camarones en la sartén y cubrirlos con agua. Cocinar hasta que estén hechos. Retirar los camarones del agua (retener el agua), pelarlos y desvenar. Colar el agua de los camarones en una taza medidora para su uso posterior.\n3. Utilizar una paellera o sartén eléctrica; calentar el aceite. Agregar la cebolla y saltear hasta que esté transparente. Añadir el arroz y dorarlo ligeramente. Incorporar los ingredientes restantes: trozos de pollo, caldo de pollo y camarones. Llevar a ebullición y reducir el fuego hasta que se absorba todo el agua.",
+  "url": null
+}

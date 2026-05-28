@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-salad",
+  "name": "Ensalada de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "fruta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "6 manzanas, peladas y cortadas en cubos",
+    "un recipiente de 4 onzas de yogur de fresa",
+    "1 naranja Navel",
+    "1 mandarina",
+    "1 tangelo",
+    "1 naranja Valencia"
+  ],
+  "recipeInstructions": "1. Coloca los cubos de manzana en un bol grande.\n2. En un bol aparte, vierte el yogur de fresa.\n3. Exprime el jugo de las naranjas (puedes sustituir por otros tipos) en la mezcla de yogur, añadiéndolo gradualmente hasta alcanzar la consistencia deseada.\n4. Vierte la mezcla de yogur sobre las manzanas.\n5. Refrigera y sirve.",
+  "url": null
+}

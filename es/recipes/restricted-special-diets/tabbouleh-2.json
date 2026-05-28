@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "tabbouleh-2",
+  "name": "Tabbouleh",
+  "recipeCuisine": "Africa & Middle East",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "África",
+    "étnico",
+    "hierbas",
+    "Oriente Medio",
+    "vegetales",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "2/3 taza de trigo partido",
+    "1/2 taza de menta fresca picada",
+    "2 tazas de perejil picado",
+    "1 taza de tomates picados",
+    "3/4 taza de aceite de oliva",
+    "1/2 taza de jugo de limón recién exprimido",
+    "1 taza de cebolletas verdes picadas (con las partes blanca y verde)",
+    "sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Remojar el trigo partido en agua fría durante 24 horas.\n2. Escurrir bien el trigo.\n3. Mezclar todos los ingredientes en un bol grande.\n4. Servir sobre lechuga iceberg crujiente.",
+  "url": null
+}

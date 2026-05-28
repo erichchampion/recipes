@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "polenta-pizza-2",
+  "name": "Pizza de Polenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "4 tazas de polenta",
+    "1 taza de agua",
+    "2 cucharadas de aceite de oliva",
+    "1 pimiento rojo, picado",
+    "1 pimiento verde, picado",
+    "1 pimiento amarillo, picado",
+    "1 cebolla, picada",
+    "1 taza de salsa de espagueti",
+    "4 tazas de queso mozzarella rallado",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar la polenta según las instrucciones del paquete, removiendo con frecuencia.\n2. En una sartén grande, calentar el aceite de oliva a fuego medio. Agregar pimiento rojo, verde, amarillo y cebolla. Saltear hasta que las verduras estén tiernas.\n3. Verter la polenta cocida en un molde cuadrado de hornear engrasado de 9 pulgadas o una fuente Pyrex. Extender uniformemente.\n4. Incorporar la salsa de espagueti y espolvorear con queso mozzarella. Condimentar con sal y pimienta.\n5. Hornear a 375°F (190°C) durante 20-25 minutos, o hasta que el queso se derrita y burbujee.\n6. Retirar del horno y dejar enfriar un poco antes de cortar y servir. ¡Disfrutar!",
+  "url": null
+}

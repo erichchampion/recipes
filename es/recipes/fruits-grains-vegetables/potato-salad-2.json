@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-salad-2",
+  "name": "Ensalada de Papas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 libras de papas cocidas",
+    "2 huevos cocidos",
+    "1 pimiento verde picado",
+    "1 cebolla picada (pequeña)",
+    "1/2 taza de aceite para ensalada",
+    "1/3 taza de vinagre de vino",
+    "1/4 cucharadita de orégano",
+    "1/2 cucharadita de eneldo seco",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta"
+  ],
+  "recipeInstructions": "1. Pelar y cortar las papas en cubos.\n2. Picar los huevos.\n3. Picar el pimiento verde y picar finamente la cebolla.\n4. En un frasco pequeño, mezclar el aceite para ensalada, vinagre de vino, orégano, eneldo seco, sal y pimienta hasta que esté bien combinado.\n5. Verter el aderezo sobre la mezcla de papas.\n6. Refrigerar durante varias horas antes de servir.",
+  "url": null
+}

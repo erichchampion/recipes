@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "turkey-soup",
+  "name": "Sopa de Pavo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "3 cebollas grandes, picadas finamente",
+    "3 costillas de apio, picadas finamente",
+    "2 zanahorias, peladas y cortadas",
+    "1/2 libra de mantequilla",
+    "1 1/2 tazas de harina",
+    "3 cuartos de caldo de pavo",
+    "1 litro de crema",
+    "sal y pimienta",
+    "1/4 taza de pavo cocido, picado finamente",
+    "1/4 taza de arroz cocido"
+  ],
+  "recipeInstructions": "1. Cocinar las cebollas, el apio y las zanahorias en un poco de agua durante 20 minutos, o hasta que estén tiernas. Reservar.\n2. En una olla grande y pesada, derretir la mantequilla. Mezclar bien la harina.\n3. Calentar el caldo de pavo y la crema; agregar gradualmente a la mezcla de mantequilla y harina, removiendo hasta que desaparezcan los grumos.\n4. Agregar las verduras, el líquido de cocción y las especias. Remover y cocinar a fuego lento durante 10 minutos.\n5. Probar y ajustar la sazón si es necesario.\n6. Agregar el pavo y el arroz cocidos. Servir en bolos grandes.",
+  "url": null
+}

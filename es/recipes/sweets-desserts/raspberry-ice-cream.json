@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "raspberry-ice-cream",
+  "name": "Helado de Frambuesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "10 onzas de frambuesas congeladas (descongeladas)",
+    "4 huevos",
+    "1 taza de azúcar",
+    "2 cucharaditas de jugo de limón",
+    "2 tazas de crema para batir"
+  ],
+  "recipeInstructions": "1. Licúa las frambuesas descongeladas en una licuadora o procesador de alimentos.\n2. Vierte la puré en un colador fino. Usa la parte posterior de una cuchara para presionarlo a través del colador en un tazón grande, descartando las semillas. Reserva.\n3. Bate los huevos y el azúcar en una licuadora o procesador hasta que queden suaves.\n4. Mezcla la mezcla de huevo, jugo de limón y crema para batir con la puré de frambuesa hasta que esté bien combinada.\n5. Vierte la mezcla en un recipiente para helado.\n6. Congela según las instrucciones del fabricante para tu máquina específica de helados. Rinde 2 cuartos.",
+  "url": null
+}

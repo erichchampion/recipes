@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza",
+  "name": "Pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "pasta",
+    "pizza",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de hamburguesa; dorar y escurrir",
+    "16 oz (o más) de mozzarella; rallar",
+    "1 cebolla; picar",
+    "1 paquete de pepperoni en rodajas",
+    "2/3 de caja de fideos rigatoni; cocinar",
+    "1 lata de sopa de champiñones cremosos",
+    "1 lata de champiñones",
+    "2 tarros de salsa de pizza"
+  ],
+  "recipeInstructions": "1. Alternar capas en la olla de cocción lenta de la siguiente manera: hamburguesa, fideos, queso, sopa, champiñones, cebolla, salsa y pepperoni.\n2. Calentar durante 4 horas a fuego bajo en la olla.",
+  "url": null
+}

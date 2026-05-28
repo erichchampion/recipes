@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "savoury-rice",
+  "name": "Arroz Sabroso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz",
+    "verduras londontowne"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz (crudo)",
+    "1 taza de caldo de sopa de pollo",
+    "4 oz de mantequilla o margarina",
+    "1/2 taza de cebolla picada",
+    "1/2 taza de apio picado",
+    "1 cucharadita de sal",
+    "1 taza de caldo de sopa de consomé de carne"
+  ],
+  "recipeInstructions": "1. Derretir la mantequilla en una sartén y cocinar las cebollas y el apio hasta que se vuelvan translúcidos.\n2. En un plato para hornear, colocar capas alternas de arroz con la mezcla de cebolla y apio y champiñones.\n3. Añadir sal y pimienta al gusto.\n4. Verter el caldo de pollo sobre las capas.\n5. Colocar el plato cubierto en un horno precalentado a 350°F (175°C) y hornear por 45 minutos o hasta que se absorba el líquido.\n6. Si el arroz parece seco, agregar una pequeña cantidad de agua.",
+  "url": null
+}

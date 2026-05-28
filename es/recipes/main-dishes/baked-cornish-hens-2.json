@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-cornish-hens-2",
+  "name": "Pollos asados cornudos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "pollo"
+  ],
+  "recipeIngredient": [
+    "4 pollos cornudos",
+    "1/2 taza de mantequilla",
+    "2 cucharadas de jugo de limón",
+    "1 cucharadita de romero",
+    "2 dientes de ajo, prensados"
+  ],
+  "recipeInstructions": "1. Untar los pollos con mantequilla.\n2. Mezclar los ingredientes restantes y usar para untar los pollos.\n3. Hornear a 350 grados Fahrenheit por 1 hora, untando cada 10 minutos con la mezcla de limón.\n4. Si se sirve con arroz, verter la mezcla de limón restante sobre el arroz.",
+  "url": null
+}

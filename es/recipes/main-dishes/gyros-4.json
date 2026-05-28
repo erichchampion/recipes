@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "gyros-4",
+  "name": "Gyros",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "étnico",
+    "griego",
+    "carne",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida de cordero o res",
+    "2 cucharadas de agua",
+    "1 cucharada de jugo de limón",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de comino en polvo",
+    "1/2 cucharadita de orégano seco en hojas",
+    "1/4 cucharadita de pimienta negra",
+    "2 dientes de ajo; machacados",
+    "1 cebolla pequeña; picada",
+    "2 cucharadas de aceite vegetal",
+    "4 panes pita de 6 pulgadas",
+    "2 tazas de lechuga; picada"
+  ],
+  "recipeInstructions": "Mezclar la carne molida con el agua, jugo de limón, sal, comino, orégano, pimienta, ajo y cebolla. Formar en 4 hamburguesas delgadas.\nCocinar las hamburguesas en aceite a fuego medio, dando vuelta frecuentemente hasta que estén cocidas por completo, aproximadamente 10-12 minutos.\nCortar cada pan pita por la mitad alrededor del borde con un cuchillo; separarlos para formar bolsillos.\nColocar una hamburguesa en cada bolsillo y cubrir con lechuga. \nPreparar el aderezo mezclando yogur, menta picada y azúcar. Agregar pepino. Extender el aderezo sobre la lechuga y colocar rodajas de tomate encima.",
+  "url": null
+}

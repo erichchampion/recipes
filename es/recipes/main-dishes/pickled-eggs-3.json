@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pickled-eggs-3",
+  "name": "Huevos Encurtidos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "huevos",
+    "plato principal",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 docena de huevos duros cocidos",
+    "2 latas de remolachas",
+    "1 taza de azúcar",
+    "1 taza de vinagre"
+  ],
+  "recipeInstructions": "1. Agregar vinagre y azúcar al jugo de las remolachas.\n2. Calentar la mezcla hasta que hierva.\n3. Colocar las remolachas y los huevos en un frasco grande.\n4. Verter el jugo de remolacha sobre todos los ingredientes.\n5. Refrigerar durante la noche.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "herb-seasoning",
+  "name": "Condimento de Hierbas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "postres",
+    "guarniciones",
+    "especias"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de polvo de ajo",
+    "1 cucharadita de tomillo molido",
+    "1 cucharadita de polvo de cebolla",
+    "1 cucharadita de pimienta negra",
+    "1 cucharadita de albahaca molida",
+    "1 cucharadita de perejil molido",
+    "1 cucharadita de salvia molida",
+    "Ingredientes opcionales:",
+    "1 cucharadita de orégano molido",
+    "1 cucharadita de nuez moscada molida",
+    "1/2 cucharadita de pimienta cayena",
+    "1 cucharadita de eneldo molido"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes en un bol.\n2. Revuelve bien para asegurar una distribución uniforme de sabores.\n3. Utiliza este condimento como sustituto del sal cuando cocines.",
+  "url": null
+}

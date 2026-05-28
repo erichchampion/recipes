@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-pressure-cooker-pot-roast-2",
+  "name": "Mi Estofado en Olla de Presión",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "Estofado de Res",
+    "1/2 taza Cebolla picada",
+    "3 cucharadas Aceite",
+    "1 cucharadita Sal",
+    "1 taza Jugo de Tomate",
+    "1/4 cucharadita Polvo de Ajo",
+    "0.13 cucharadita Pimienta",
+    "1/2 cucharadita Sal",
+    "1/2 taza Apio",
+    "1 taza Agua",
+    "1/2 cucharadita Salsa Worcestershire"
+  ],
+  "recipeInstructions": "1. Dorar la carne en el aceite.\n2. Agregar la cebolla, jugo de tomate, sal, pimienta y polvo de ajo al recipiente. Revolver.\n3. Cocinar a presión durante 15 minutos por libra de carne.\n4. Añadir sal, salsa Worcestershire y agua.\n5. Cocinar a presión por 15 minutos adicionales.\n6. Espesar la salsa y servir.",
+  "url": null
+}

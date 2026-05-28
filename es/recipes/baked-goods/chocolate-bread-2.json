@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-bread-2",
+  "name": "Pan de Chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "chocolate",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 paquete de levadura",
+    "3 tazas de harina de pan",
+    "1/2 taza de azúcar",
+    "1/4 taza de cacao sin endulzar",
+    "1 huevo, sin batir",
+    "1/4 taza de mantequilla o margarina",
+    "1 cucharadita de extracto de vainilla",
+    "1 taza de leche tibia"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en la máquina de pan y presionar el botón para mezclar.\n2. Si se usan dos moldes para panes en lugar de una máquina de pan, combinar todos los ingredientes en un bol grande.\n3. Amasar la masa hasta que esté suave, luego colocarla en moldes para panes engrasados.\n4. Hornear a 175°C (350°F) durante 30-35 minutos, o hasta que un palillo insertado en el centro salga limpio.\n5. Dejar enfriar ligeramente antes de sacar del molde y servir caliente con crema de queso.",
+  "url": null
+}

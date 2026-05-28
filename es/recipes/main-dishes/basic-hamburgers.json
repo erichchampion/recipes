@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-hamburgers",
+  "name": "Hamburguesas Básicas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burguer",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de Carne molida",
+    "1/4 taza de Cebolla, picada finamente",
+    "1 cucharadita de Sal",
+    "1 cucharadita de Salsa Worcestershire",
+    "1/4 cucharadita de Pimienta negra",
+    "Variaciones:",
+    "1 cucharada de Rábano picante",
+    "1 cucharada de Mostaza preparada",
+    "1 cucharada de Cebollinos picados",
+    "2 cucharadas de Queso azul desmenuzado",
+    "2 cucharadas de Semillas de sésamo",
+    "1/4 taza de Aceitunas maduras, picadas",
+    "1/4 taza de Encurtido de dil o 1/4 taza de Relish de pepinillos",
+    "1/4 taza de Nueces picadas"
+  ],
+  "recipeInstructions": "Mezclar todos los ingredientes. Dar forma a la mezcla en 6 hamburguesas, cada una de aproximadamente 3/4 de pulgada de grosor. A la parrilla o asar las hamburguesas a 4 pulgadas de distancia del calor, dar vuelta una vez, hasta el punto deseado de cocción, entre 10 y 15 minutos.",
+  "url": null
+}

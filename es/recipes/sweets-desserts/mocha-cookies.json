@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "mocha-cookies",
+  "name": "Galletas Mocha",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de Manteca",
+    "3/4 taza de Azúcar",
+    "1/4 taza de Azúcar Morena Compacta",
+    "1 Huevo",
+    "1 1/2 tazas de Harina",
+    "2 cucharadas de Polvo de Café (sin cristales)",
+    "1 cucharadita de Polvo de Hornear",
+    "1/2 cucharadita de Sal",
+    "1/2 cucharadita de Canela",
+    "2 cucharaditas de Extracto de Vainilla",
+    "1 taza de Nueces Picadas Finamente",
+    "12 onzas de Chispas de Chocolate Semisumas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F. Cremar la manteca. Agregar ambos azúcares y batir bien. Incorporar el huevo y mezclar bien. Añadir la harina, el polvo de café, el polvo de hornear, la sal, la canela, la vainilla y la mitad de las nueces. Mezclar bien. Envolver la masa en papel parafina y enfriar minuciosamente en el refrigerador (al menos dos horas).\n2. Retirar la masa del refrigerador. Con cucharaditas, formar bolas con la masa usando las palmas de las manos y colocarlas a 2 pulgadas de distancia sobre una bandeja para galletas sin engrasar. Hornear durante 12-15 minutos.\n3. Retirar la bandeja del horno y trabajar rápidamente: colocar 3-4 chispas de chocolate en el centro de cada galleta caliente. Cuando el chocolate se ablande, extenderlo sobre la parte superior y espolvorear con las nueces restantes. Retirar a una rejilla para enfriar.",
+  "url": null
+}

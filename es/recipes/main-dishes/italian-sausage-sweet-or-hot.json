@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-sausage-sweet-or-hot",
+  "name": "Salchicha Italiana (Dulce o Picante)",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiana",
+    "plato principal",
+    "carne",
+    "cerdo/jamón",
+    "salchichas"
+  ],
+  "recipeIngredient": [
+    "5 lb de carne de cerdo molida gruesa",
+    "5 dientes de ajo prensados",
+    "1 1/3 cucharaditas de sal",
+    "1 1/3 cucharaditas de pimentón",
+    "1 taza de agua fría",
+    "1/16 cucharadita de pimienta negra molida gruesa"
+  ],
+  "recipeInstructions": "1. Para la salchicha picante, agrega 2 cucharaditas de pimientos rojos triturados.\n2. Combina todos los ingredientes y mezcla bien.\n3. Rellena la mezcla en casings de cerdo o forma hamburguesas.",
+  "url": null
+}

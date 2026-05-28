@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pumpkin-pancakes",
+  "name": "Tortas de Calabaza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "tortas"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina de trigo común",
+    "2 cucharaditas de polvo de hornear",
+    "2 cucharadas de azúcar morena",
+    "1/4 cucharadita de canela en polvo",
+    "1/4 cucharadita de jengibre molido",
+    "1 cucharada de mantequilla de manzana",
+    "2 claras de huevo grandes",
+    "1 taza de leche descremada",
+    "1/2 taza de puré de calabaza"
+  ],
+  "recipeInstructions": "1. Cernir los ingredientes secos en un bol grande.\n2. Incorporar la leche, la calabaza y la mantequilla de manzana.\n3. En un bol aparte, batir las claras de huevo hasta formar picos firmes.\n4. Mezclar suavemente las claras batidas con la masa.\n5. Verter 1/3 taza de masa por cada torta en una plancha o sartén caliente.\n6. Dorar y dar vuelta a las tortas cuando estén listas.",
+  "url": null
+}

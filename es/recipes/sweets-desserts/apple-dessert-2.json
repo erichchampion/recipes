@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-dessert-2",
+  "name": "Postre de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de Harina",
+    "1 barra de Manteca",
+    "6 manzanas, frescas, peladas, sin corazón, en rodajas",
+    "1 taza de Azúcar",
+    "1 cucharadita de Canela en Polvo",
+    "1 litro de Crema Semiespesa (Half and Half)",
+    "2 Huevos",
+    "1 cucharadita de Maicena"
+  ],
+  "recipeInstructions": "1. Mezclar la harina con la manteca y presionar en un molde para hornear engrasado.\n2. En un bol aparte, combinar las manzanas, el azúcar y la canela.\n3. Extender la mezcla de manzana sobre la base de masa.\n4. Espolvorear con trocitos pequeños de manteca.\n5. Cubrir con papel aluminio.\n6. Hornear a 175°C durante 1 hora.\n7. Retirar del horno y quitar el papel aluminio.\n8. En un bol aparte, batir juntos la Crema Semiespesa, los huevos y la maicena hasta obtener una mezcla suave.\n9. Verter sobre las manzanas calientes.\n10. Devolver al horno y hornear durante 15-20 minutos más hasta que esté dorado.",
+  "url": null
+}

@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbequed-beef-ribs",
+  "name": "Costillas de res a la barbacoa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecue",
+    "res",
+    "plato principal",
+    "carne",
+    "costillas"
+  ],
+  "recipeIngredient": [
+    "3 libras de costillas de res cortas",
+    "1/2 taza de cebolla picada",
+    "1 cucharada de margarina",
+    "1/2 cucharadita de pimienta negra",
+    "4 cucharaditas de azúcar morena",
+    "1 cucharadita de mostaza en polvo",
+    "1 cucharadita de sal",
+    "1 cucharadita de pimentón dulce",
+    "4 cucharaditas de salsa Worcestershire",
+    "1/2 taza de catup (ketchup)",
+    "1/4 taza de vinagre blanco",
+    "1/4 taza de agua"
+  ],
+  "recipeInstructions": "1. Dorar las costillas.\n2. Saltear la cebolla en la margarina y agregar los ingredientes restantes. Reducir a fuego lento durante 30 minutos.\n3. Untar las costillas con la salsa y hornear a 350 °F (175 °C) durante 2 horas. Escurrir la grasa, untar nuevamente y hornear a 300 °F (150 °C) por una hora adicional.",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "hawaiian-chicken",
+  "name": "Pollo Hawaiano",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves"
+  ],
+  "recipeIngredient": [
+    "1 pollo entero cortado en trozos",
+    "sal",
+    "pimienta",
+    "harina",
+    "aceite vegetal",
+    "8 onzas de jugo de piña",
+    "1/2 taza de azúcar",
+    "2 cubos de caldo de pollo",
+    "1/3 taza de vinagre",
+    "1 cucharada de salsa de soja",
+    "2 cucharadas de almidón de maíz",
+    "1 lata de trozos de piña"
+  ],
+  "recipeInstructions": "1. Condimentar los trozos de pollo con sal y pimienta.\n2. Cubrir el pollo con harina, sacudiendo el exceso.\n3. Calentar el aceite en una sartén grande a fuego medio.\n4. Agregar el pollo a la sartén por lotes y cocinar hasta que esté dorado por todos lados, aproximadamente 5 minutos por lado.\n5. En un bol, mezclar el jugo de piña, azúcar, caldo de pollo, vinagre y salsa de soja.\n6. Incorporar el almidón de maíz hasta que se disuelva.\n7. Verter la mezcla líquida sobre los trozos de pollo, cubriéndolos uniformemente.\n8. Reducir el fuego a bajo y cocinar a fuego lento sin tapar durante 20-25 minutos o hasta que el pollo esté bien cocido.\n9. Agregar los trozos de piña y volver a cocinar a fuego lento por 5 minutos adicionales.\n10. Apagar el fuego y servir con la salsa de piña.",
+  "url": null
+}

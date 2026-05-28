@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecue-chicken-2",
+  "name": "Pollo a la Barbacoa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 pollo entero, cortado en pedazos",
+    "1 lata (400 g) de sopa de tomate condensada",
+    "3/4 taza de cebolla picada",
+    "1/4 taza de vinagre",
+    "3 cucharadas de azúcar morena",
+    "1 cucharada de salsa Worcestershire",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de albahaca dulce",
+    "1/4 cucharadita de tomillo"
+  ],
+  "recipeInstructions": "1. Coloca el pollo en una olla de cocción lenta.\n2. Mezcla todos los demás ingredientes y viértelos sobre el pollo.\n3. Cubre bien y cocina a fuego bajo durante 6 a 8 horas.",
+  "url": null
+}

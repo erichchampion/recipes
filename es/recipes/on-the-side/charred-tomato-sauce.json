@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "charred-tomato-sauce",
+  "name": "Salsa de Tomates Asados",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "4 tomates plátanos maduros, cortados groseramente",
+    "3-4 dientes de ajo, picados",
+    "1/2 taza de tiras de albahaca fresca",
+    "1/2 taza de perejil italiano picado",
+    "1/2 cucharadita de mostaza dijon",
+    "1/4 taza de aceite de oliva virgen extra",
+    "Salsa picante al gusto",
+    "2 cucharaditas de vinagre balsámico",
+    "1/2 cucharadita de jugo de limón",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Coloca los tomates y el ajo picados en una sartén muy caliente sin aceite.\n2. Sella rápidamente hasta que estén asados, aproximadamente 5 minutos.\n3. Agrega los ingredientes restantes y mezcla bien a fuego lento durante uno o dos minutos.",
+  "url": null
+}

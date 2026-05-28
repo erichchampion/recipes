@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-potatoe-casserole",
+  "name": "Cazuela de Batata Dulce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "plato principal",
+    "vegetales"
+  ],
+  "recipeIngredient": [
+    "2 latas grandes de yams",
+    "1 taza de azúcar",
+    "1/2 taza de mantequilla derretida",
+    "2 huevos enteros batidos",
+    "1 cucharadita de extracto de vainilla",
+    "1/3 taza de leche",
+    "1/2 taza de azúcar morena compacta",
+    "1/4 taza de harina",
+    "2 1/4 cucharadas de mantequilla derretida",
+    "1/2 taza de nueces pecanas picadas"
+  ],
+  "recipeInstructions": "1. Mezclar los primeros seis ingredientes y verter en una cazuela de 2 cuartos.\n2. Espolvorear con la cobertura.\n3. Hornear durante 30-40 minutos a 350 grados Fahrenheit.\nCOBERTURA: Mezclar juntos los últimos cuatro ingredientes.",
+  "url": null
+}

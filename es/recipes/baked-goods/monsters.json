@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "monsters",
+  "name": "Monstruos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "donas"
+  ],
+  "recipeIngredient": [
+    "Azúcar (1/4 taza)",
+    "Agua tibia (1/4 taza)",
+    "Levadura (1 sobre)",
+    "Huevos (2 grandes)",
+    "Leche escaldada, enfriada a temperatura ambiente (1 taza)",
+    "Sal (1 cucharadita)",
+    "Aceite de cocina (1/4 taza)",
+    "Harina (suficiente para una masa espesa y pegajosa)",
+    "Opcional:",
+    "Uvas pasas (1 taza)",
+    "Canela (1/2 cucharadita)"
+  ],
+  "recipeInstructions": "1. Mezcla el azúcar, la levadura y 1/4 taza de agua tibia en un bol.\n2. Deja reposar la mezcla hasta que esté burbujeante, aproximadamente 5 minutos.\n3. Agrega los huevos, leche escaldada enfriada, sal, aceite y suficiente harina para formar una masa espesa y pegajosa.\n4. Deja reposar la masa por unos 10 minutos.\n5. Vierte cucharadas de la masa en aceite caliente y fríe como se haría con las donas.\n6. Si lo deseas, rodéalas en azúcar glas o azúcar granulada.\n7. Opcionalmente, agrega uvas pasas (1 taza) y canela (1/2 cucharadita) a la masa antes de freír.",
+  "url": null
+}

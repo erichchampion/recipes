@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "impossible-breakfast-quiche",
+  "name": "Tarta de desayuno imposible",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "3 Huevos",
+    "1/2 taza de Bisquick",
+    "1/2 taza de Mantequilla",
+    "1 1/2 tazas de Leche",
+    "1/4 cucharadita de Sal",
+    "1 cucharadita de Pimienta negra",
+    "1/2 taza de Salchicha",
+    "4 oz de Queso, rallado"
+  ],
+  "recipeInstructions": "1. Cocinar y desmenuzar la salchicha.\n2. Precalentar el horno a 350°F (175°C).\n3. Mezclar todos los ingredientes excepto el queso y la carne en una licuadora durante 15 segundos.\n4. Espolvorear la mezcla licuada con queso y carne sobre un molde para hornear.\n5. Hornear durante 45 minutos.\n6. Dejar enfriar durante 5 minutos antes de servir.",
+  "url": null
+}

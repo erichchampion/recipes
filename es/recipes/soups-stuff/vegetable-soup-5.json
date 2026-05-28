@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetable-soup-5",
+  "name": "Sopa de Verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "diabetico",
+    "sopas",
+    "sopas y guisos"
+  ],
+  "recipeIngredient": [
+    "Caldo de pollo (casero, de res, vegetal o de pavo): 4 tazas",
+    "Tomates enlatados: 2 tazas",
+    "Cebolla picada: 1/2 taza",
+    "Apio cortado finamente: 1/2 taza",
+    "Pimientos rojos cortados groseramente: 1/2 taza",
+    "Sal: 1/2 cucharadita",
+    "Jugo de limón fresco: 2 cucharadas",
+    "Granos de pimienta (enteros): 5",
+    "Salsa picante: 1/2 cucharadita",
+    "Pasta (formas alfabéticas): 1/2 taza"
+  ],
+  "recipeInstructions": "1. En una olla de 3 a 4 cuartos, combina todos los ingredientes excepto la pasta.\n2. Lleva la mezcla a ebullición.\n3. Tapa y cocina a fuego lento durante 1 hora, revolviendo ocasionalmente para desmenuzar los tomates en pedazos pequeños.\n4. Agrega la pasta y cocina por 5-7 minutos adicionales hasta que esté lista.",
+  "url": null
+}

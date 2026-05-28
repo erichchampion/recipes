@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pumpernickel-bread-4",
+  "name": "Pan de Pumpernickel",
+  "recipeCuisine": "Africa & Middle East",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de levadura",
+    "2 tazas de harina blanca",
+    "1 taza de harina de centeno",
+    "1 cucharadita de semillas de eneldo",
+    "1/4 taza de melaza",
+    "1 cucharadita de cacao en polvo",
+    "1 taza de café fuerte en lugar de agua"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F (175°C).\n2. Mezclar la levadura, harina, semillas de eneldo y cacao en polvo.\n3. Agregar la melaza y el café, removiendo hasta formar una masa.\n4. Dar forma a la masa en un panecillo y colocarlo en una bandeja para hornear engrasada.\n5. Usar configuración de pan blanco con configuración de corteza a las 10:00.",
+  "url": null
+}

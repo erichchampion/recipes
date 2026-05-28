@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-fajitas",
+  "name": "Fajitas de Pollo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "avícola",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "6 pechugas de pollo sin hueso y sin piel",
+    "1/2 taza de jugo de limón",
+    "3 cucharadas de aceite vegetal",
+    "3 cucharadas de vinagre de vino",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimienta blanca, o pimienta de limón",
+    "1 cucharadita de polvo de ajo",
+    "2 cebollas grandes dulces, en rodajas",
+    "4 pimientos rojos y verdes, en rodajas",
+    "guacamole",
+    "salsa",
+    "12 tortillas de harina"
+  ],
+  "recipeInstructions": "1. Espolvorea sal, pimienta y polvo de ajo sobre el pollo de manera uniforme.\n2. Mezcla jugo de limón, aceite vegetal y vinagre de vino hasta que el pollo quede completamente cubierto.\n3. Marina por 1 hora.\n4. Asa las pechugas de pollo enteras o córtalas en trozos y saltea.\n5. Sirve con pimientos y cebollas asados, salsa y guacamole sobre tortillas de harina calientes.",
+  "url": null
+}

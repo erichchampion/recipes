@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "ground-beef-stroganoff-2",
+  "name": "Estofado de Carne Molida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne",
+    "plato principal",
+    "fueros",
+    "estofados"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "1/2 taza de cebolla picada",
+    "un toque de polvo de ajo",
+    "un toque de pimienta",
+    "1/4 cucharadita de pimentón",
+    "1 lata de sopa de champiñones cremosos",
+    "1 taza de crema agria",
+    "Nudos de fideos con mantequilla caliente"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida y las cebollas en una sartén.\n2. Escurrir el exceso de grasa.\n3. Agregar las especias a la mezcla de carne.\n4. Incorporar la sopa y cocinar a fuego bajo, sin tapar, durante 20 minutos, revolviendo con frecuencia.\n5. No hervir la mezcla.\n6. Justo antes de servir, añadir la crema agria y verter sobre los nudos de fideos con mantequilla caliente.\nRinde para 4 personas.",
+  "url": null
+}

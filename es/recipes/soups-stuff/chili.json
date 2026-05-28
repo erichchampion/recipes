@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili",
+  "name": "Chili",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "plato principal",
+    "mexicano",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 cucharaditas de aceite",
+    "1 cebolla picada",
+    "1 libra de carne molida (opcional para no vegetarianos)",
+    "3 libras (2 latas) de tomates triturados enlatados",
+    "3 libras (2 latas) de frijoles chili enlatados",
+    "2 cucharaditas de polvo de chili",
+    "1/4 taza de queso nacho rallado"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla y/o la carne en el fondo de una olla.\n2. Agregar el resto de los ingredientes, excepto el queso.\n3. Mezclar todo y cocinar por al menos una hora.\n4. Poner el queso encima como decoración.",
+  "url": null
+}

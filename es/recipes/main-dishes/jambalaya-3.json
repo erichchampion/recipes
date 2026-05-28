@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "jambalaya-3",
+  "name": "Jambalaya",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pollo",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "3 Cebollas, picadas",
+    "1 Zanahoria, en rodajas",
+    "1 Diente de ajo, picado finamente",
+    "1/2 cucharadita de Orégano",
+    "1/2 cucharadita de Albahaca",
+    "1 cucharadita de Sal",
+    "1/8 cucharadita de Pimienta Negra",
+    "400 g de Tomates cortados en cubos",
+    "500 g de Camarones pelados y crudos",
+    "2 Tazas de Arroz cocido"
+  ],
+  "recipeInstructions": "1. En la olla de cocción lenta, combina el pollo con las cebollas, zanahorias, ajo, orégano, albahaca, sal y pimienta.\n2. Agrega los tomates cortados en cubos.\n3. Cocina a temperatura baja durante 4-5 horas.\n4. Añade los camarones y el arroz.\n5. Cocina a temperatura alta durante 30-40 minutos hasta que los camarones estén cocidos.",
+  "url": null
+}

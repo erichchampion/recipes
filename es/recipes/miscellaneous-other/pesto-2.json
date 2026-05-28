@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pesto-2",
+  "name": "Pesto",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "étnico",
+    "italiano"
+  ],
+  "recipeIngredient": [
+    "1 taza de brócoli cocido",
+    "1/2 taza de jugo de limón",
+    "2 tazas de hojas de albahaca fresca picadas",
+    "4 dientes de ajo picados",
+    "Agua (según sea necesario para la consistencia)"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en una licuadora y mezcla hasta obtener una textura suave.\n2. Agrega agua gradualmente para lograr la consistencia deseada.\n3. Utiliza la salsa pesto en platos de pasta o como aderezo para verduras asadas.",
+  "url": null
+}

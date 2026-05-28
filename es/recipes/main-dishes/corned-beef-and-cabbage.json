@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "corned-beef-and-cabbage",
+  "name": "Carne de res curada y repollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "olla de cocción lenta",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 zanahorias, cortadas en trozos de 5 cm",
+    "4 libras de solomillo de carne de res curada",
+    "3 cebollas medianas, en cuartos",
+    "1 taza de agua",
+    "1/2 repollo pequeño, cortado en wedges"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes (excepto el repollo) en la olla de cocción lenta en el orden indicado.\n2. Cubre y cocina a fuego bajo durante 8 a 10 horas.\n3. Añade los wedges de repollo al líquido, presionándolos para que se humedezcan.\n4. Cambia el fuego a alto y cocina por 2 a 3 horas adicionales.",
+  "url": null
+}

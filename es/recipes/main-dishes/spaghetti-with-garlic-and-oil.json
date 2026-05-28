@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-with-garlic-and-oil",
+  "name": "Espagueti con Ajo y Aceite",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "G. Granaroli XBRG76A",
+    "1/4 taza de aceite de oliva",
+    "1/4 palo de mantequilla",
+    "3 cucharadas de ajo picado",
+    "2 cucharadas de perejil fresco picado",
+    "1/2 taza de vino blanco",
+    "sal y pimienta al gusto",
+    "16 onzas de espagueti delgado (cocido según las instrucciones)",
+    "queso rallado para servir"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en aceite de oliva a fuego bajo.\n2. Agrega el ajo y sofríe por 5 minutos a fuego bajo.\n3. Añade el vino blanco y reduce por 5 minutos más.\n4. Mezcla con el espagueti cocido, adorna con perejil.\n5. Sirve caliente con queso rallado al lado. Se sirve con pan crujiente y ensalada.",
+  "url": null
+}

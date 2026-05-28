@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-gazpacho-2",
+  "name": "Gazpacho Clásico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "3 libras de tomates maduros, pelados, sin semillas y picados",
+    "1/2 libra de pepino, pelado, sin semillas y picado",
+    "1 taza de apio picado",
+    "1/2 taza de pimiento rojo picado",
+    "1/2 taza de cebolla roja picada",
+    "1 cucharadita de ajo picado",
+    "1 cucharadita de chile jalapeño picado",
+    "3 cucharadas de vinagre de vino tinto",
+    "1/4 taza de aceite de oliva de calidad",
+    "12 onzas de jugo de tomate",
+    "Sal, pimienta y comino molido al gusto",
+    "3 cucharadas de cilantro picado",
+    "1 lima, cortada en rodajas",
+    "6 rebanadas de pan francés tostado"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el pan y las limas en una licuadora o procesador de alimentos.\n2. Licuar hasta obtener una consistencia suave.\n3. Transferir a un bol grande y refrigerar durante 4 horas.\n4. Preparar el aderezo con el pan y las rodajas de lima restantes.",
+  "url": null
+}

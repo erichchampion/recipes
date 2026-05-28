@@ -1,0 +1,36 @@
+{
+  "@type": "Recipe",
+  "identifier": "minestrone-soup",
+  "name": "Sopa Minestrone",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "cerdo",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de frijoles blancos secos, remojados en",
+    "1 cucharada de aceite de oliva",
+    "1/8 lb de panceta salada, cortada en cubos pequeños",
+    "1 diente de ajo, picado finamente",
+    "1 cebolla pequeña, picada",
+    "1 puerro, cortado en dados",
+    "1 cucharada de perejil picado",
+    "1 cucharada de albahaca picada",
+    "1 cucharadita de pasta de tomate",
+    "3 tomates, pelados, desvenados y picados",
+    "3 tallos de apio, picados",
+    "2 zanahorias, en rodajas",
+    "2 papas, cortadas en dados",
+    "1/4 repollo pequeño, rallado",
+    "1 nabo pequeño, pelado y cortado en dados",
+    "2 calabacines, cortados en dados",
+    "1 1/2 cuartos de agua",
+    "sal al gusto",
+    "1/2 cucharadita de pimienta molida fresca",
+    "1 taza de macarrones o ditali",
+    "6 cucharadas de queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. Cocinar los frijoles en 3 cuartos de agua durante unos 60 minutos hasta que estén tiernos.\n2. En una olla grande, calentar el aceite de oliva y agregar la panceta salada, el ajo, las cebollas, el puerro, el perejil y la albahaca. Dorar ligeramente.\n3. Añadir la pasta de tomate mezclada con un poco de agua y cocinar durante 5 minutos.\n4. Incorporar los tomates, el apio, las zanahorias, las papas, el nabo, el repollo, los calabacines, el agua restante, la sal, la pimienta y los frijoles.\n5. Cocinar a fuego lento durante 45 a 60 minutos hasta que todas las verduras estén tiernas.\n6. Agregar los macarrones y cocinar durante 10 minutos adicionales o hasta que la pasta esté hecha.\n7. Ajustar las especias si es necesario y servir caliente, adornada con queso parmesano rallado.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pepperoni-pizza-dip",
+  "name": "Dip de Pizza con Pepperoni",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "queso",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "200g de queso crema, ablandado",
+    "1/2 taza de crema agria",
+    "1 cucharadita de orégano seco",
+    "1/3 cucharadita de polvo de ajo",
+    "1/3 taza de salsa de pizza",
+    "1/2 taza de pepperoni picado",
+    "1/4 taza de cebolla verde picada",
+    "1/2 taza de queso mozzarella rallado"
+  ],
+  "recipeInstructions": "1. Mezcla el queso crema, la crema agria, el orégano y el polvo de ajo hasta obtener una consistencia suave.\n2. Extiende la mezcla en un plato para pizza de 23 cm (9 o 10 pulgadas).\n3. Vierte la salsa de pizza sobre el queso.\n4. Espolvorea con pepperoni y cebolla verde.\n5. Hornea a 175°C durante 10 minutos.\n6. Cubre con queso mozzarella rallado.\n7. Hornea por 5 minutos adicionales o hasta que el queso se derrita y dore ligeramente.\n8. Sirve caliente.",
+  "url": null
+}

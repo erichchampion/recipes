@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-pudding",
+  "name": "Pudín de Chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "postres",
+    "pudines",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "8 dl leche (3 tazas)",
+    "1 dl maicena (0.4 taza)",
+    "1 dl cacao en polvo (0.4 taza)",
+    "1 cucharada azúcar",
+    "1 huevo",
+    "1 cucharadita extracto de vainilla",
+    "azúcar"
+  ],
+  "recipeInstructions": "1. Mezclar la leche, la maicena, el cacao en polvo, el azúcar y el huevo en una olla pesada.\n2. Cocinar a fuego medio hasta espesar.\n3. Añadir extracto de vainilla al gusto.\n4. Verter agua fría en un molde.\n5. Verter la mezcla en el molde.\n6. Dejar enfriar completamente.\n7. Dar la vuelta al molde sobre un plato para servir.\nNo estoy segura si usan lo que llamamos azúcar de vainilla. Es azúcar glas con extracto o una vaina de vainilla. También se puede usar extracto de vainilla en su lugar.",
+  "url": null
+}

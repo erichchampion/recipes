@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-salsa",
+  "name": "Salsa Mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 tomates rojos maduros",
+    "1/2 cebolla",
+    "1 diente de ajo",
+    "1/4 pimiento verde",
+    "2 cucharadas de cilantro picado",
+    "1 chile jalapeño (o tantos como desees)",
+    "sal al gusto (prueba con sal de ajo también)",
+    "1/2 jugo de limón (o 1/4 de jugo de lima)"
+  ],
+  "recipeInstructions": "1. Corta en cubos los tomates, la cebolla y el pimiento verde.\n2. Pica finamente el ajo y corta el cilantro.\n3. Exprime el jugo de medio limón (o un cuarto de lima).\n4. Mezcla todos los ingredientes en un bol.\n5. Ajusta la sazón al gusto.\n6. Sirve con chips sin grasa o úsala sobre papas, arroz u otros alimentos refrigerados.",
+  "url": null
+}

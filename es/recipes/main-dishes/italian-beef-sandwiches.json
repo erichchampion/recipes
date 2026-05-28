@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-beef-sandwiches",
+  "name": "Sándwiches de Carne Italiana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 3-4 lb de asado de falda sin hueso, desmenuzado",
+    "3 cucharadas de albahaca seca",
+    "3 cucharadas de orégano seco",
+    "1 taza de agua",
+    "1 sobre de mezcla de sopa de cebolla seca",
+    "10 panecillos italianos o bollos para sándwich"
+  ],
+  "recipeInstructions": "1. Coloca el asado en una olla de cocción lenta.\n2. Combina la albahaca, el orégano y el agua; viértelo sobre el asado.\n3. Espolvorea con la mezcla de sopa.\n4. Tapa y cocina a fuego bajo durante 7-8 horas o hasta que la carne esté tierna.\n5. Retira la carne; desmenúzala con un tenedor y mantenla caliente.\n6. Cuela el caldo y retira cualquier grasa.\n7. Sirve la carne desmenuzada en los panecillos. Usa el caldo para mojar si lo deseas.",
+  "url": null
+}

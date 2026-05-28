@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "roasted-pheasant",
+  "name": "Pavo asado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "entrada",
+    "caza",
+    "plato principal",
+    "carne",
+    "pollo"
+  ],
+  "recipeIngredient": [
+    "1 pavo",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta blanca",
+    "1 hoja de laurel",
+    "1 cucharada de ajo (picado)",
+    "1/2 taza de hojas de apio",
+    "1/4 de limón (en rodajas)",
+    "1/4 libra de tocino en lonchas",
+    "1/4 taza de mantequilla sin sal",
+    "1 taza de cebolla picada",
+    "1 taza de setas",
+    "1 taza de caldo de pollo"
+  ],
+  "recipeInstructions": "1. Condimenta el pavo con sal y pimienta por dentro y por fuera.\n2. Coloca una hoja de laurel, ajo, hojas de apio y rodajas de limón en la cavidad del ave.\n3. Enhebra las patas y alas con hilo de algodón.\n4. Coloca el pavo boca arriba en una bandeja para hornear.\n5. Extiende lonchas de tocino sobre el pecho.\n6. Humedece un trozo de tela de queso con mantequilla derretida y colócalo sobre las lonchas de tocino.\n7. Dispón las cebollas y setas alrededor del pavo.\n8. Humedece el pavo con caldo de pollo.\n9. Hornea a 350°F durante 80-90 minutos, asando ocasionalmente, hasta que esté tierno.\n10. Retira la tela de queso y el hilo de algodón antes de servir.",
+  "url": null
+}

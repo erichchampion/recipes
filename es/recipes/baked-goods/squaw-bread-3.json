@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "squaw-bread-3",
+  "name": "Pan de Squaw",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de leche",
+    "1/2 taza de agua",
+    "2 cucharadas de aceite",
+    "1 1/2 cucharaditas de miel",
+    "2 cucharadas de pasas",
+    "2 cucharadas de azúcar moreno",
+    "1 1/2 tazas de harina de pan",
+    "1 1/4 tazas de harina integral",
+    "3/4 taza de harina de centeno",
+    "1 cucharadita de sal",
+    "2 cucharaditas de levadura seca activa Red Star"
+  ],
+  "recipeInstructions": "1. En una licuadora, mezcle la leche, el agua, el aceite, la miel, las pasas y el azúcar moreno a velocidad alta.\n2. Combine la mezcla licuada con los ingredientes restantes en un molde para pan.\n3. Seleccione la configuración de corteza ligera y presione Start.\n4. Una vez finalizado el ciclo de horneado, retire el pan del molde.\n5. Colóquelo sobre una rejilla y déjelo enfriar durante 1 hora antes de cortarlo.",
+  "url": null
+}

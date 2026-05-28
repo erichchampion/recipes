@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-potato-casserole-2",
+  "name": "Omelet de Patatas con Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "omelets",
+    "platos principales",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "4 tazas de patatas; cortadas en cubos y cocidas",
+    "200 g de yogur natural",
+    "1 taza de queso cottage",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "1/4 cucharadita de eneldo seco",
+    "1 taza de queso cheddar; rallado"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes excepto el queso cheddar en un bol.\n2. Vierte la mezcla en un molde para hornear de 23 cm.\n3. Cubre con el queso cheddar.\n4. Hornea a 180 °C durante 25 a 30 minutos.",
+  "url": null
+}

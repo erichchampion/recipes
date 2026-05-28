@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-almond-coffee",
+  "name": "Café de Almendras con Chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1/3 taza de café molido",
+    "1/4 cucharadita de nuez moscada fresca molida",
+    "1/2 cucharadita de extracto de chocolate",
+    "1/2 cucharadita de extracto de almendras",
+    "1/4 taza de almendras tostadas picadas"
+  ],
+  "recipeInstructions": "1. Procesa la nuez moscada y el café en una licuadora.\n2. Agrega el extracto de chocolate y el extracto de almendras.\n3. Licúa por 10 segundos adicionales.\n4. Transfiere a un bol y mezcla las almendras tostadas picadas.\n5. Guarda en el refrigerador.\n6. Para preparar, coloca la mezcla en el filtro de una cafetera automática con goteo.\n7. Añade 6 tazas de agua y prepara (usando un percolador).",
+  "url": null
+}

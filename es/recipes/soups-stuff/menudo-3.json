@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "menudo-3",
+  "name": "Menudo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopa",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 libras de tripas, cortadas en cuadrados de 1 pulgada",
+    "2 cucharaditas de sal",
+    "1 cucharadita de comino",
+    "1/2 cucharadita de pimienta negra",
+    "410 gramos de hominy enlatado",
+    "1 libra de costillas de cerdo crudas",
+    "4 dientes de ajo machacados",
+    "4 cucharadas de polvo de chile",
+    "1 cucharada de orégano",
+    "2 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. Lavar las tripas en agua caliente y luego hervirlas con sal en tres cuartos de agua durante dos a tres horas o hasta que la tripa esté tierna.\n2. En una olla separada, cocinar una libra de cerdo en agua durante una hora.\n3. En otra olla, mezclar mantequilla derretida, ajo, comino, pimienta negra, polvo de chile y orégano. Saltear durante dos a tres minutos.\n4. Combinar las tripas, costillas de cerdo y el caldo de ambas ollas con las especias y una lata de hominy. Llevar a ebullición y continuar hirviendo por cinco minutos.\n5. Servir con tortillas.\n6. Decorar el menudo con cebolla picada y unas gotas de jugo de limón.\nNota: Si la salsa parece demasiado líquida, puede ser necesario espesarla con una pasta de harina y agua.",
+  "url": null
+}

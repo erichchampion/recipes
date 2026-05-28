@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "bubble-squeak",
+  "name": "Bubble y Squeak",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 pat de mantequilla",
+    "1 cebolla mediana, picada finamente",
+    "2 tazas de col, hervida y rallada",
+    "2 tazas de papas machacadas"
+  ],
+  "recipeInstructions": "1 Calentar la mantequilla en una sartén grande y freír la cebolla a fuego bajo durante 5 minutos o hasta que se ablande.\n2 Agregar la col (que debe hervirse previamente durante 15 minutos) y revolver a fuego bajo durante 2 minutos.\n3 Incorporar las papas machacadas hasta que estén bien mezcladas.\n4 Presionar ligeramente la mezcla con la parte posterior de una cuchara para formar un panqueque grande.\n5 Cocinar durante 5 minutos hasta que esté ligeramente dorado. Darle la vuelta y dorar el otro lado durante 5 minutos.",
+  "url": null
+}

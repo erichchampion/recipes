@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "guacamole-mock",
+  "name": "Guacamole (\"Mock\")",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentemces"
+  ],
+  "recipeIngredient": [
+    "2 tazas de brócoli picado, cocido y frío",
+    "1/4 taza de crema agria ligera",
+    "1 cucharada de cebolla picada finamente",
+    "1 cucharada de mayonesa sin grasa",
+    "2 cucharadas de jugo de limón",
+    "1/4 cucharadita de polvo de chile",
+    "1 cucharadita de polvo de ajo"
+  ],
+  "recipeInstructions": "1. En un procesador de alimentos o licuadora, combina el brócoli, crema agria, mayonesa, cebolla, jugo de limón y polvo de chile.\n2. Mezcla hasta que quede bien combinado y refrigera por varias horas o durante la noche.\n6 porciones.",
+  "url": null
+}

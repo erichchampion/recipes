@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-e-fagiolle",
+  "name": "Pasta e Fagiolle",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carnes",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas Cebolla picada",
+    "1 libra Judías (verde o pintas)",
+    "1/4 taza Aceite de oliva",
+    "3 tazas Caldo de carne",
+    "3 cucharadas Zanahorias picadas",
+    "Pimienta",
+    "3 cucharadas Apio picado",
+    "6 onzas Macarrones en forma de tubo pequeños",
+    "2 chuletas de cerdo pequeñas o sustituto",
+    "2 cucharadas Queso parmesano"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla.\n2. Agregar apio, zanahorias y chuletas de cerdo a la sartén.\n3. Cocinar por 20 minutos, añadiendo tomates.\n4. Incorporar las judías precocidas y cocinar por 5 minutos adicionales.\n5. Añadir el caldo y llevar a ebullición.\n6. Para espesar, retirar la mitad de las judías y procesarlas en una licuadora.\n7. Ajustar el líquido y los macarrones si es necesario.\n8. Cocinar hasta que esté listo y agregar el queso justo antes de servir.",
+  "url": null
+}

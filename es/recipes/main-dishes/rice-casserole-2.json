@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-casserole-2",
+  "name": "Omelet de Verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "omelet",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "-huevos",
+    "-pimiento picado",
+    "-cebolla picada",
+    "-espinacas frescas",
+    "-champiñones cortados",
+    "-calabacín cortado en rodajas",
+    "-queso bajo en grasa rallado",
+    "-crema agria sin grasa o yogur natural"
+  ],
+  "recipeInstructions": "1. Bate los huevos en un tazón grande.\n2. Agrega la cebolla y el pimiento picados, las espinacas, los champiñones y el calabacín a los huevos batidos y mezcla bien.\n3. Calienta una sartén antiadherente a fuego medio-alto y vierte la mezcla de huevo.\n4. Cocina hasta que la parte inferior esté dorada y cuajada, aproximadamente 2-3 minutos.\n5. Espolvorea el queso rallado sobre la omelet y dobla a la mitad.\n6. Coloca la omelet en un plato y cubre con crema agria o yogur natural.\n7. Sirve inmediatamente.",
+  "url": null
+}

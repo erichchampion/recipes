@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-crust-2",
+  "name": "Masa de Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "máquina de pan",
+    "niños",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "3 tazas de Harina",
+    "1/4 taza de Maicena",
+    "1/4 taza de Aceite Vegetal",
+    "2 cucharadas de Aceite de Oliva",
+    "1 cucharadita de Sal",
+    "1 sobre de Levadura",
+    "1 taza de Agua"
+  ],
+  "recipeInstructions": "1. En un bol grande, combina la harina y la maicena.\n2. Agrega el aceite vegetal, aceite de oliva, sal, levadura y agua a los ingredientes secos.\n3. Mezcla todos los ingredientes hasta formar una masa.\n4. Amasa la masa sobre una superficie enharinada hasta que quede suave y elástica (aproximadamente 5-10 minutos).\n5. Coloca la masa en un bol engrasado, cubre con un paño húmedo y deja levar en un lugar cálido durante aproximadamente 1 hora o hasta que doble su tamaño.",
+  "url": null
+}

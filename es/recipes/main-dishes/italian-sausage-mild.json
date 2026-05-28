@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-sausage-mild",
+  "name": "Salchicha Italiana (Suave)",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiana",
+    "plato principal",
+    "carne",
+    "cerdo",
+    "salchichas"
+  ],
+  "recipeIngredient": [
+    "5 lb de lomo de cerdo; molido",
+    "5 cucharaditas de sal",
+    "5 cucharaditas de semillas de eneldo",
+    "1 1/2 cucharadas de pimentón picante molido",
+    "1 1/2 cucharadas de pimienta negra",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en un bol grande.\n2. Mezclar bien hasta que el cerdo esté sazonado uniformemente y humedecido por el agua.\n3. Rellenar la mezcla en casings de chicharrón o formar hamburguesas.\n4. Para cocinar, freír o hornear las salchichas según el deseo.",
+  "url": null
+}

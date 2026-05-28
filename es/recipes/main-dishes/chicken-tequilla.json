@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-tequilla",
+  "name": "Pollo Tequilero",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves"
+  ],
+  "recipeIngredient": [
+    "1 taza de caldo de pollo fuerte",
+    "9 onzas de tomates enteros (escurridos)",
+    "3 dientes de ajo picados",
+    "2 pechugas de pollo sin hueso",
+    "1/2 taza de tequila",
+    "1 jugo de dos limas",
+    "un toque generoso de pimienta cayena",
+    "1 cucharadita de polvo de chile",
+    "1 cucharadita de comino",
+    "1/2 cucharadita de cilantro molido",
+    "sal al gusto",
+    "aceite de oliva"
+  ],
+  "recipeInstructions": "1. Cocinar las pechugas de pollo en el caldo hasta que estén tiernas.\n2. Retirar y cortar el pollo en cubos; reservar, manteniendo el caldo.\n3. Saltear el ajo en aceite de oliva.\n4. Agregar los tomates (desmenuzándolos) e ingredientes restantes. Cocinar a fuego lento, cubierto, durante 30 minutos.\n5. Incorporar los cubos de pollo y recalentar.\n6. Mezclar con fideos cocidos.\n7. Si la salsa se espesa demasiado, agregar más caldo de pollo para lograr la consistencia deseada.\n8. Espolvorear con queso parmesano y decorar con hojas de albahaca o perejil.",
+  "url": null
+}

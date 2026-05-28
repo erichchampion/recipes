@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-mexicana",
+  "name": "Pizza Mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "mexicano",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 lata de Frijoles Refritos Vegetarianos",
+    "1 base de pizza/pan pre-horneada de 30 cm (12 pulgadas)",
+    "1 taza de Salsa Rosarita Picante Ligera",
+    "1/2 taza de Queso Monterey Jack rallado",
+    "1/2 taza de Queso Cheddar rallado",
+    "1 lata de Aceitunas negras en rodajas, escurridas - lata de 2-1/4 oz (60 ml)",
+    "12 rodajas de Pimiento Jalapeño en rodajas, escurridas",
+    "1/4 taza de Tomate en rodajas",
+    "Cilantro picado"
+  ],
+  "recipeInstructions": "1. Extiende los frijoles de manera uniforme sobre la base de pizza o pan.\n2. Coloca el resto de los ingredientes en orden, excepto el tomate y el cilantro, sobre los frijoles.\n3. Hornea a 450 °F (230 °C) durante 15 minutos o hasta que el queso se derrita.\n4. Añade los tomates y el cilantro encima.\n5. Sirve para 4 personas. Toppings adicionales: crema agria, cebolla verde picada, guacamole y salsa Rosarita.",
+  "url": null
+}

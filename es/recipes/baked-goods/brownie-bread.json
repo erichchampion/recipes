@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "brownie-bread",
+  "name": "Pan de Brownie",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "postre",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 taza de agua",
+    "2 cucharadas de agua",
+    "1/2 taza de polvo de cacao sin azúcar",
+    "2 1/2 cucharaditas de levadura seca activa",
+    "3 tazas de harina de pan",
+    "3/4 taza de azúcar",
+    "1 1/2 cucharaditas de sal",
+    "2 cucharadas de aceite",
+    "1 huevo",
+    "1 yema de huevo",
+    "1/2 taza de trozos de nuez"
+  ],
+  "recipeInstructions": "1. Llevar el agua a ebullición.\n2. Agregar el cacao y remover hasta que se disuelva por completo. Dejar enfriar a temperatura ambiente.\n3. En una taza medidora seca, mezclar la harina, azúcar, sal, aceite, huevo, yema de huevo y trozos de nuez.\n4. Verter la mezcla de cacao enfriada en el bol con los ingredientes secos.\n5. Seleccionar el programa de pan de pasas en tu máquina.\n6. Iniciar la máquina.\n7. En la señal sonora, agregar los trozos de nuez a la masa.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-sauce",
+  "name": "Salsa de Tomate",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "étnica",
+    "italiana",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "1 lata de tomates (28 oz)",
+    "1 rodaja de cebolla",
+    "2 dientes de ajo",
+    "al gusto pimienta negra",
+    "al gusto sal",
+    "2 cucharadas de mantequilla",
+    "1 cucharada de harina"
+  ],
+  "recipeInstructions": "1. En una olla, cocinar los tomates con la cebolla, el ajo, la pimienta y la sal durante 20 minutos.\n2. Retirar la cebolla y los dientes de ajo de la mezcla.\n3. Pasar los tomates por un colador o triturarlos en una licuadora para obtener la pulpa de tomate.\n4. Derretir la mantequilla en una olla.\n5. Agregar la harina y remover hasta que adquiera un color dorado y espumoso.\n6. Incorporar la pulpa de tomate y llevar a ebullición.\n7. Mantener caliente hasta el momento de servir.",
+  "url": null
+}

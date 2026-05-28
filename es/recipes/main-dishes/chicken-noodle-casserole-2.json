@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-noodle-casserole-2",
+  "name": "Cazuela de Pollo con Fideos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "plato principal",
+    "pollo"
+  ],
+  "recipeIngredient": [
+    "1 pollo pequeño cocido y deshuesado",
+    "1 cabeza de brócoli cocida hasta que esté tierna",
+    "1 paquete de fideos Romanoff, seguir las instrucciones del paquete",
+    "1 lata de sopa de champiñones cremosa"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 grados.\n2. Mezclar todos los ingredientes en un plato para hornear grande.\n3. Hornear durante aproximadamente 30 minutos o hasta que esté dorado.",
+  "url": null
+}

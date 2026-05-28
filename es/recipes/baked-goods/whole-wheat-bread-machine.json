@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "whole-wheat-bread-machine",
+  "name": "Pan Integral (Máquina)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "integral"
+  ],
+  "recipeIngredient": [
+    "2 1/2 cucharaditas de levadura seca",
+    "2 tazas y 1/4 de harina para pan",
+    "3/4 taza de harina integral",
+    "1 1/2 cucharaditas de sal",
+    "1 1/2 cucharaditas de azúcar",
+    "1 1/2 cucharadas de leche desnatada seca",
+    "1 1/2 tazas de manteca o mantequilla dulce",
+    "1 taza y 1/4 de agua tibia más 1 cucharada"
+  ],
+  "recipeInstructions": "1. Coloca la levadura seca en el recipiente interior.\n2. Agrega todos los ingredientes restantes, excepto el agua, al recipiente interior.\n3. Vierte cuidadosamente el agua tibia.\n4. Selecciona la opción de pan blanco en tu máquina.\n5. Presiona el botón Start (si usas el temporizador preestablecido, consulta el manual de instrucciones).\n6. Después de sacar el pan horneado del horno automático, córtalo a tu gusto.",
+  "url": null
+}

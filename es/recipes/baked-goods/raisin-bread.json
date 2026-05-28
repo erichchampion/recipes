@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "raisin-bread",
+  "name": "Pan con pasas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "2 cucharaditas de polvo para hornear",
+    "1/4 cucharadita de bicarbonato de sodio",
+    "3/4 cucharadita de sal",
+    "1/3 taza de azúcar",
+    "1 taza de pasas",
+    "1 taza de copos de cereal",
+    "1 huevo",
+    "1 1/2 tazas de buttermilk",
+    "4 cucharadas de manteca derretida"
+  ],
+  "recipeInstructions": "1. Pasas por harina un poco, luego tamiza los ingredientes secos juntos y añade las pasas y los copos de cereal.\n2. Bate el huevo ligeramente, luego agrega el buttermilk y la manteca derretida. Mezcla bien con la primera mezcla; no sobremezcles.\n3. Vierte la masa en un molde para pan engrasado y hornea a 175°C durante aproximadamente 1 hora.",
+  "url": null
+}

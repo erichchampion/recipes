@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "crab-burgers-2",
+  "name": "Hamburguesas de Cangrejo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "huevos/queso",
+    "pescado",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 huevos grandes",
+    "1 botella de ketchup o salsa BBQ al gusto",
+    "1 taza de carne de cangrejo",
+    "1/2 taza de queso cheddar medio, rallado",
+    "1/2 taza de cebolla verde mediana, picada",
+    "1 cucharadita de sal de apio",
+    "1 cucharadita de sal de cebolla",
+    "1 cucharadita de polvo de ajo",
+    "2 cucharadas de jugo de pepinillo dulce"
+  ],
+  "recipeInstructions": "1. Mezcla los huevos y el ketchup o salsa BBQ en un bol hasta combinarlos.\n2. Agrega la carne de cangrejo a la mezcla de huevos y revuelve hasta que todos los ingredientes estén bien incorporados.\n3. Dobla la mitad del queso cheddar rallado, la cebolla verde, la sal de apio, la sal de cebolla y el polvo de ajo.\n4. Sazona con jugo de pepinillo dulce adicional si lo deseas.\n5. Divide la mezcla en partes iguales entre las mitades de panecillos para hamburguesa.\n6. Coloca bajo el grill o parrilla hasta que las hamburguesas estén burbujeantes y ligeramente doradas.\n7. Sirve caliente.",
+  "url": null
+}

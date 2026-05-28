@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "guacamole-4",
+  "name": "Guacamole",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "mexicano",
+    "platos secundarios",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "4 o 5 aguacates grandes",
+    "1 tomate rojo mediano",
+    "1/2 cebolla mediana",
+    "1/2 taza de cilantro picado",
+    "1/2 taza de salsa verde básica",
+    "sal y pimienta",
+    "limón",
+    "queso blanco fresco para decorar"
+  ],
+  "recipeInstructions": "Salsa Verde Básica: Machaca 2 o 3 tomates verdes, un pedazo pequeño de cebolla y chiles serrano.\nPela los aguacates y machácalos con un tenedor, reservando el hueso. Mezcla el aguacate machacado con jugo de limón, tomate rojo cortado en cubos, cebolla picada y cilantro. Añade la salsa verde básica, sal y pimienta. Transfiere a un plato y coloca los huesos dentro para mantener su frescura; cubre con queso blanco fresco y sirve.",
+  "url": null
+}

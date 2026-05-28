@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-buttered-rum-2",
+  "name": "Ron con mantequilla caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "refrescos",
+    "comida de acompañamiento"
+  ],
+  "recipeIngredient": [
+    "2 oz de ron",
+    "6 oz de agua",
+    "2 cucharaditas de mantequilla",
+    "1 cucharadita de azúcar"
+  ],
+  "recipeInstructions": "Llevar el agua a ebullición. Colocar una cucharadita de azúcar en una taza para café y verter el agua hirviendo encima; revolver hasta que el azúcar se disuelva. Agregar el ron y la mantequilla y revolver hasta que la mantequilla se derrita.",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "dairy-beef-casserole-2",
+  "name": "Cazuela de Carne y Lácteos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne",
+    "cazuelas",
+    "queso/huevos",
+    "carne molida",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "500g de hamburguesa magra",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "1 taza de crema agria",
+    "1 cucharada de mantequilla",
+    "1/4 taza de cebolla; picada finamente",
+    "1/4 cucharadita de ajo",
+    "200g de macarrones; cocidos y escurridos",
+    "400g de salsa de tomate; 2 latas",
+    "1 taza de queso cheddar; medio, rallado"
+  ],
+  "recipeInstructions": "1. Dorar la hamburguesa en la mantequilla y agregar las cebollas y el ajo. Incorporar la salsa de tomate, sal y pimienta.\n2. Mezclar la crema agria, queso y cebolla morada.\n3. Agregar la mezcla a los macarrones y combinar bien.\n4. Alternar capas de la mezcla de carne y la mezcla de macarrones en una cazuela de 3 cuartos, comenzando y terminando con la mezcla de macarrones.\n5. Cubrir con queso cheddar.\n6. Hornear a 180°C por al menos 45 minutos y servir caliente.",
+  "url": null
+}

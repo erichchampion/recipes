@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecued-beef-ribs-2",
+  "name": "Costillas de res a la barbacoa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "res",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 lb de costillas de res sin hueso",
+    "1 taza de agua",
+    "1 lata (6 oz) de pasta de tomate",
+    "1 taza de ketchup",
+    "3/4 taza de azúcar morena compacta",
+    "1/2 taza de vinagre",
+    "2 cucharadas de mostaza preparada",
+    "1/2 cucharadita de sal",
+    "Arroz cocido; opcional"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes, excepto el arroz cocido, en una olla de cocción lenta.\n2. Mezclar bien.\n3. Cocinar a fuego lento durante 8 horas.\n4. Servir sobre arroz caliente, fideos, etc., si se desea.",
+  "url": null
+}

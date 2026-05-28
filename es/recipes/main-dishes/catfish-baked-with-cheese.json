@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "catfish-baked-with-cheese",
+  "name": "Pescado al horno con queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "6 filetes de pescado (aproximadamente 2 libras)",
+    "1/4 taza de harina",
+    "al gusto pimienta negra",
+    "1 huevo, ligeramente batido",
+    "8 cucharadas de mantequilla derretida",
+    "1/2 taza de queso parmesano fresco rallado",
+    "al gusto sal",
+    "1 cucharadita de pimentón",
+    "1 tabla de leche"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F.\n2. Secar bien los filetes de pescado.\n3. Mezclar el queso, la harina, la sal, la pimienta y el pimentón.\n4. Combinar el huevo y la leche en un plato plano.\n5. Sumergir los filetes en la mezcla de huevo y luego recubrirlos con la mezcla de queso. Disponer los filetes en una fuente para hornear en una sola capa, verter la mantequilla por encima. Espolvorear con las almendras.\n6. Hornear durante 20 minutos.",
+  "url": null
+}

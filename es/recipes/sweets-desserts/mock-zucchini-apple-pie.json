@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-zucchini-apple-pie",
+  "name": "Pastel de (Calabacín) Simulado con Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "------------------------------------MASA------------------------------------",
+    "4 tazas de calabacín; pelado, sin semillas y cortado en rodajas de 1/8 de pulgada",
+    "3/4 taza de azúcar",
+    "2 cucharadas de almidón de tapioca",
+    "5 cucharadas de jugo de limón",
+    "1/2 cucharadita de sal",
+    "2 cucharaditas de canela",
+    "1 cucharadita de nuez moscada",
+    "2 cucharadas de maicena",
+    "1/2 taza de pasas"
+  ],
+  "recipeInstructions": "----------------------------------Cobertura----------------------------------\n1/2 taza de margarina; ablandada\n1/2 taza de azúcar\n1/2 taza de harina\nMezclar todos los ingredientes de la masa y colocarlos en una costra de tartaleta sin hornear.\nCombinar los ingredientes de la cobertura y verter sobre la tarta.\nHornear a 375°F durante una hora. Hacer puntos en la parte superior de la tarta con margarina.",
+  "url": null
+}

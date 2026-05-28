@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "famous-taco-dip-2",
+  "name": "Dip de Tacos Famoso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 lata de dip de frijoles",
+    "1 lata de dip de aguacate congelado",
+    "1 paquete de mezcla para aderezo de tacos",
+    "4 cucharadas de crema agria",
+    "6 cucharadas de mayonesa",
+    "1 taza de queso cheddar rallado",
+    "1 taza de queso Monterey Jack rallado",
+    "6 cebollas verdes picadas",
+    "1 tomate picado",
+    "1 lata de aceitunas negras enlatadas (pequeñas), picadas"
+  ],
+  "recipeInstructions": "1. Mezcla la mezcla para aderezo de tacos, crema agria y mayonesa.\n2. Coloca los ingredientes restantes en capas sobre la mezcla.",
+  "url": null
+}

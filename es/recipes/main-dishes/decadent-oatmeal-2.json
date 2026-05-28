@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "decadent-oatmeal-2",
+  "name": "Decadente Avena",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 manzanas medianas (preferiblemente Granny Smith o Pippins)",
+    "150 g de pasas secas",
+    "150 g de uvas pasas",
+    "1 pinta de jugo de manzana",
+    "3 onzas de avena de cocción lenta",
+    "Canela",
+    "Nutmeg",
+    "Rind de limón",
+    "Azafrán"
+  ],
+  "recipeInstructions": "1. Despellejar las manzanas y cortarlas en trozos pequeños.\n2. Cortar las pasas secas.\n3. Combinar las manzanas picadas, pasas, uvas pasas y jugo de manzana en una olla.\n4. Llevar a ebullición a fuego alto.\n5. Dejar hervir durante 1 minuto.\n6. Agregar la avena y volver a llevar a ebullición.\n7. Cocinar por 5 minutos adicionales.\n8. Apagar el calor y tapar la olla por unos minutos.\n9. Servir caliente con rodajas de plátano.",
+  "url": null
+}

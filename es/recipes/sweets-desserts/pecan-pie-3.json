@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pecan-pie-3",
+  "name": "Tarta de Pecán",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 base de tarta sin hornear de 23 cm",
+    "5 huevos grandes",
+    "1 taza de azúcar granulada",
+    "1 taza de jarabe de maíz blanco",
+    "1/4 cucharadita de sal",
+    "1 cucharadita de extracto de vainilla",
+    "2 cucharadas de mantequilla derretida",
+    "1 taza de nueces pecán o nueces picadas"
+  ],
+  "recipeInstructions": "1. Bate los huevos en un bol hasta que estén bien combinados.\n2. Agrega gradualmente el azúcar, el jarabe de maíz, la sal, la vainilla y la mantequilla derretida a los huevos, removiendo después de cada adición.\n3. Incorpora las nueces pecán o nueces picadas.\n4. Vierte la mezcla en la base de la tarta.\n5. Hornea durante aproximadamente 1 hora a 180 °C.\n6. La crema se solidificará al terminar.",
+  "url": null
+}

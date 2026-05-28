@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fireside-coffee-3",
+  "name": "Café de Fuego",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "mezclas de bebidas",
+    "café",
+    "comidas acompañantes"
+  ],
+  "recipeIngredient": [
+    "2 tazas de mezcla de chocolate caliente (Swiss Miss)",
+    "2 tazas de crema vegetal seca sin lactosa (Cremora)",
+    "1 taza de polvo de leche malteada (Ovaltine)",
+    "1/2 taza de azúcar",
+    "1 taza de café instantáneo",
+    "1,5 cucharaditas de canela",
+    "0,5 cucharadita de nuez moscada"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Almacenar en un recipiente hermético.\n3. Usar 3 a 4 cucharadas generosas por taza de agua caliente.",
+  "url": null
+}

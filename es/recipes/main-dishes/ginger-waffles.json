@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "ginger-waffles",
+  "name": "Waffles de Jengibre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "waffles"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de harina",
+    "1/4 cucharadita de sal",
+    "1 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de polvo de hornear",
+    "Equivalente a 3 huevos batidos",
+    "1/2 taza de melaza",
+    "1 taza de suero de leche sin grasa",
+    "1/2 taza de puré de manzana",
+    "1 cucharadita de jengibre en polvo"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a la temperatura deseada.\n2. En un bol grande, tamizar juntos la harina, la sal, el bicarbonato de sodio y el polvo de hornear.\n3. Agregar los huevos batidos, la melaza, el suero de leche, el puré de manzana y el jengibre en polvo a los ingredientes secos. Mezclar hasta que esté bien combinado.\n4. Verter la masa en una plancha para waffles precalentada.\n5. Cocinar según las instrucciones del fabricante hasta que sea dorado y crujiente.\n6. Retirar de la plancha y servir inmediatamente.",
+  "url": null
+}

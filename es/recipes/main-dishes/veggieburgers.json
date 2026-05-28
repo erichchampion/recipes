@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "veggieburgers",
+  "name": "Hamburguesas de verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 latas de garbanzos escurridos y machacados (10 1/2 onzas cada una)",
+    "1 1/2 tazas de nueces picadas finamente",
+    "1 1/2 tazas de migas de pan integral",
+    "1 1/4 tazas de espinaca picada finamente",
+    "3/4 taza de zanahoria rallada",
+    "1/4 taza de pimiento verde picado",
+    "1/4 taza de pimiento rojo picado",
+    "6 cebolletas picadas",
+    "2 cucharadas de apio picado",
+    "1 cucharada de perejil fresco picado",
+    "1/4 cucharadita de pimienta negra",
+    "1/4 taza de mayonesa",
+    "2 cucharadas de mantequilla o margarina"
+  ],
+  "recipeInstructions": "1. Mezcla los garbanzos, nueces, migas de pan, espinaca, zanahoria, pimientos, cebolletas, apio, perejil y mayonesa en un bol grande.\n2. Forma la mezcla en 6 hamburguesas.\n3. Calienta la mantequilla en una sartén grande a fuego medio.\n4. Cocina las hamburguesas en la sartén hasta que estén doradas por ambos lados, aproximadamente 5-7 minutos por lado.",
+  "url": null
+}

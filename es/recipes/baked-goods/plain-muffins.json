@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "plain-muffins",
+  "name": "Muffins simples",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "muffins"
+  ],
+  "recipeIngredient": [
+    "2 tazas de Harina",
+    "4 cucharadas de Azúcar",
+    "3 cucharadas de Manteca derretida",
+    "1 taza de Leche",
+    "3 cucharaditas de Polvo de hornear",
+    "1/2 cucharadita de Sal",
+    "1 Huevo, batido bien"
+  ],
+  "recipeInstructions": "1. Cernir juntos la harina, el polvo de hornear y la sal.\n2. En un bol separado, batir el huevo y combinarlo con la manteca derretida, la leche y el azúcar hasta que quede suave.\n3. Agregar gradualmente los ingredientes secos a la mezcla húmeda, revolviendo solo hasta que se combinen.\n4. Llenar moldes para muffins 2/3 con la masa.\n5. Hornear en un horno caliente (425°F) durante 15-20 minutos.",
+  "url": null
+}

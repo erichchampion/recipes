@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "new-potato-salad",
+  "name": "Ensalada de Papas Nuevas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "12 papas nuevas rojas",
+    "3/4 taza de mayonesa",
+    "crema batida",
+    "1/2 cucharadita de sal",
+    "pimienta blanca al gusto",
+    "2 cucharaditas de eneldo fresco picado",
+    "2 dientes de ajo finamente picados"
+  ],
+  "recipeInstructions": "1. Hierve las papas con su piel hasta que estén ligeramente tiernas; enfría y córtalas en cuartos.\n2. Diluye un poco la mayonesa con crema batida. Agrega sal, pimienta blanca, eneldo y ajo. Sazóna al gusto y refrigera.",
+  "url": null
+}

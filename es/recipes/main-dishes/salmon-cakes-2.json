@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "salmon-cakes-2",
+  "name": "Pastelitos de Salmón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "salmón",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "1 lata {7.5 oz.} de salmón, escurrido y desmenuzado",
+    "1/3 taza de migas de galleta salada",
+    "1 huevo, ligeramente batido",
+    "2 cucharadas de cebolla picada",
+    "2 cucharadas de leche",
+    "1 cucharada de jugo de limón",
+    "2 cucharadas de mantequilla o margarina"
+  ],
+  "recipeInstructions": "1. En un tazón mediano, combina todos los ingredientes excepto la mantequilla.\nMezcla bien para asegurar una distribución uniforme de sabores y texturas.\n2. Forma la mezcla en 4 pastelitos usando las manos para facilitar el manejo.\n3. Derrite la mantequilla en una sartén a fuego medio.\n4. Saltea los pastelitos por ambos lados hasta que estén dorados y calientes al centro.",
+  "url": null
+}

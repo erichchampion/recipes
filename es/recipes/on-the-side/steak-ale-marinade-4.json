@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "steak-ale-marinade-4",
+  "name": "Marinada de Carne y Cerveza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "platos secundarios",
+    "marinadas",
+    "marinar",
+    "copia"
+  ],
+  "recipeIngredient": [
+    "Ketchup (1/2 taza)",
+    "Jugo de tomate (2/3 taza)",
+    "Vino tinto (1/4 taza, o uva púrpura)",
+    "Salsa de soja (1/2 taza)",
+    "Jugo de piña (1/2 taza)",
+    "Vino blanco (1/4 taza, o uva blanca)"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes para la marinada.\n2. Marinar las carnes hasta 24 horas en el refrigerador.\n3. Agregar un toque de salsa Worcestershire a la marinada.",
+  "url": null
+}

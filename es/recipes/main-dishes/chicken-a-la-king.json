@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-a-la-king",
+  "name": "Pollo a la King",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves"
+  ],
+  "recipeIngredient": [
+    "3 tazas de pollo cocido",
+    "2 tazas de crema espesa",
+    "1 taza de setas en rodajas",
+    "1 pimiento verde, en rodajas",
+    "1 pimiento rojo, picado",
+    "1 1/2 cucharadas de harina",
+    "1/2 taza de caldo de pollo",
+    "1/2 taza de jerez",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimentón dulce",
+    "1/4 cucharadita de pimienta cayena",
+    "4 yemas de huevo",
+    "3 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una sartén.\n2. Añade los pimientos verdes, las setas y el pimiento rojo a la sartén.\n3. Cocina a fuego lento durante 5 minutos.\n4. Incorpora la harina y mézclala bien con la mezcla.\n5. Agrega tres cuartos de la crema espesa y todo el caldo de pollo.\n6. Tapa y cocina a fuego bajo hasta que espese, removiendo constantemente.\n7. Añade el jerez, la sal, la pimienta cayena y el pimentón dulce.\n8. Bate las yemas de huevo y mézclalas con la crema espesa restante.\n9. Vierte lentamente esta mezcla en la salsa.\n10. Agrega el pollo cocido y caliéntalo suavemente sin llegar a hervir.\n11. Sirve sobre tostadas o en capas.",
+  "url": null
+}

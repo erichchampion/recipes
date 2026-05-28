@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "curried-eggs",
+  "name": "Huevos al Curry",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "6 huevos duros",
+    "4 cucharaditas de mantequilla",
+    "1 manzana, pelada, sin corazón y picada finamente",
+    "1 cebolla, picada",
+    "2 cucharaditas de polvo de curry",
+    "2 cucharaditas de harina",
+    "1 taza y media de leche",
+    "2 cucharaditas de perejil picado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F.\n2. Cortar los huevos en rodajas y colocarlos en un plato para hornear en capas dobles, ligeramente superpuestas. Reservar.\n3. Para preparar la salsa: Derretir la mantequilla en una sartén a fuego bajo. Agregar la manzana y la cebolla. Cocinar, revolviendo hasta que la cebolla esté tierna y la manzana se haya reducido a puré (10 minutos).\n4. Incorporar el polvo de curry, luego la harina y la sal. Revolver hasta que esté suave.\n5. Agregar lentamente la leche, revolviendo continuamente. Cocinar, revolviendo hasta que la salsa espese y sea suave.\n6. Verter la salsa sobre los huevos y colocar el plato en el horno.\n7. Hornear hasta que burbujee y esté caliente. Cubrir con perejil.\n8. Servir con chutney.",
+  "url": null
+}

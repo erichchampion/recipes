@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-cacciatore-3",
+  "name": "Pollo Cacciatore",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pollo",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "3 libras de piezas de pollo",
+    "1/4 taza de aceite",
+    "sal al gusto",
+    "pimienta al gusto",
+    "1 cucharadita de polvo de ajo",
+    "2 cucharaditas de condimento italiano",
+    "2 cucharaditas de polvo de cebolla",
+    "1 hoja de laurel",
+    "1 paquete de mezcla para salsa de espagueti",
+    "1 lata de tomates - 450 g",
+    "1/4 taza de vino blanco seco"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en una sartén a fuego medio.\n2. Dorar rápidamente las piezas de pollo, luego transferirlas a la olla de cocción lenta.\n3. En la misma sartén, combinar los ingredientes restantes y revolver hasta que estén bien mezclados y calientes.\n4. Devolver la mezcla a la olla de cocción lenta con el pollo.\n5. Tapar y cocinar a fuego bajo durante 7-8 horas.\n6. Servir sobre espagueti o arroz caliente.",
+  "url": null
+}

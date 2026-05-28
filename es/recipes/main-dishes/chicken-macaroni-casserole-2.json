@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-macaroni-casserole-2",
+  "name": "Omelet de Pollo y Macarrones",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 taza y media de macarrones sin cocinar",
+    "1 taza de queso cheddar rallado",
+    "1 taza y media de pollo o pavo cocido",
+    "4 onzas de setas escurridas",
+    "1 taza de sopa de champiñones",
+    "1 taza de leche",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de polvo de curry",
+    "1 taza de guisantes congelados"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F (175°C).\n2. Mezclar todos los ingredientes en un bol.\n3. Verter la mezcla en un recipiente para hornear de 1 taza y media sin engrasar.\n4. Cubrir con papel aluminio.\n5. Hornear durante 1 hora.",
+  "url": null
+}

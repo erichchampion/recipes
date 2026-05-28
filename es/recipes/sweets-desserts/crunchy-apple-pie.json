@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "crunchy-apple-pie",
+  "name": "Pastel de Manzana Crujiente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de manzanas picadas para cocinar",
+    "1/2 taza de azúcar morena compacta",
+    "1/2 taza de azúcar granulada",
+    "1/2 taza de harina",
+    "1 huevo (separar la yema de la clara)",
+    "1/2 cucharadita de vainilla",
+    "1/2 cucharadita de jugo de limón fresco exprimido",
+    "1/2 taza de pecanas picadas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F (175°C).\n2. Colocar el relleno de la tarta en una base sin hornear de 23 cm.\n3. En un bol pequeño, batir la yema del huevo con el azúcar, la harina, la vainilla, el jugo de limón y las pecanas hasta que esté bien combinado.\n4. En otro bol pequeño, batir la clara del huevo hasta que forme picos suaves.\n5. Incorporar suavemente las claras batidas a la mezcla de manzanas.\n6. Verter la mezcla en la base de la tarta.\n7. Hornear durante 30-45 minutos o hasta que las manzanas estén tiernas y doradas.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "sugar-cookies-10",
+  "name": "Galletas de Azúcar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "1 taza de azúcar glas",
+    "3/4 taza de mantequilla",
+    "3/4 taza de aceite para cocinar",
+    "2 huevos batidos",
+    "1 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de cremor tártaro",
+    "4 tazas de harina",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Mezclar los primeros cuatro ingredientes con una batidora hasta que queden bien combinados.\n2. Agregar gradualmente los ingredientes restantes a la mezcla y mezclar bien.\n3. Enfriar la masa por 6 horas.\n4. Estirar la masa sobre papel para hornear.\n5. Cortar en las formas deseadas con un cuchillo o cortador de galletas.\n6. Hornear a 175 °C durante 10-15 minutos, o hasta que estén doradas.",
+  "url": null
+}

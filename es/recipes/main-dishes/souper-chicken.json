@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "souper-chicken",
+  "name": "Sopa de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves"
+  ],
+  "recipeIngredient": [
+    "2 libras de piezas de pollo",
+    "1 lata de sopa de apio con crema (10.75 oz)",
+    "1/4 taza de harina",
+    "2 calabacines medianos, cortados en trozos de 1/2 pulgada",
+    "1 cucharadita de pimentón",
+    "1/2 cucharadita de orégano seco",
+    "1 diente de ajo picado",
+    "1 taza de tomates enlatados en gajos, escurridos"
+  ],
+  "recipeInstructions": "1. Enjuaga las piezas de pollo y sécalas con papel toalla.\n2. Mezcla la sopa de apio con la harina.\n3. Combina todos los ingredientes en una olla de cocción lenta; revuelve bien para que el pollo quede cubierto.\n4. Tapa y cocina a fuego lento durante 8-10 horas o a alto durante 4-5 horas.\nRinde para 4 personas.",
+  "url": null
+}

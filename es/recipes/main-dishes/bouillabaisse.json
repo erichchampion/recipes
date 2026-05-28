@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "bouillabaisse",
+  "name": "Bouillabaisse",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "étnico",
+    "pescado",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 cebolla grande picada",
+    "3 tallos de apio, con hojas picadas",
+    "2 dientes de ajo picados",
+    "1/2 taza de aceite de oliva",
+    "2 tazas de jugo de almeja",
+    "1/4 taza de perejil picado",
+    "2 tazas de tomates picados",
+    "2 cucharaditas de sal",
+    "1/2 cucharadita de tomillo",
+    "1 cucharada de pimentón dulce",
+    "1/2 taza de vino blanco seco",
+    "un pellizco de azafrán",
+    "una pizca de salsa picante"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes excepto el marisco en una olla de cocción lenta.\n2. Tapa y cocina a alta temperatura durante 2 a 4 horas.\n3. Agrega el pescado mixto (halibut), langostas o colas de langosta (opcional), carne de cangrejo (opcional) y camarones pelados y desvenados, así como almejas, mejillones o escamosas.\n4. Tapa y cocina a alta temperatura durante 1 a 3 horas adicionales.\n5. Sirve en cuencos grandes calientes, adornado con perejil fresco y pan crujiente a un lado.",
+  "url": null
+}

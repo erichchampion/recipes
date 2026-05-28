@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "vienna-coffee",
+  "name": "Café de Viena",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "comidas acompañantes"
+  ],
+  "recipeIngredient": [
+    "1 taza de café instantáneo",
+    "2 tazas de cacao instantáneo (Nestle's)",
+    "2 tazas de Creamora",
+    "1/2 taza de azúcar o 1 taza de azúcar en polvo",
+    "1 cucharadita de canela"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes hasta que queden bien integrados.\n2. Almacena la mezcla en un frasco cerrado herméticamente.\n3. Para servir, agrega dos cucharaditas de la mezcla a una taza con agua hirviendo.\n4. Corona con una cucharada de crema batida.",
+  "url": null
+}

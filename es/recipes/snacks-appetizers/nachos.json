@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "nachos",
+  "name": "Nachos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "americano",
+    "salsas",
+    "étnico",
+    "mexicano",
+    "restaurantes"
+  ],
+  "recipeIngredient": [
+    "8 oz de bolsa de totopos de maíz",
+    "1/2 taza de frijoles refritos",
+    "1/2 taza de salsa de queso",
+    "1/4 taza de pimientos jalapeños en rodajas",
+    "1/2 taza de aceitunas negras en rodajas",
+    "1/2 taza de cebolla picada",
+    "1/2 taza de tomates picados",
+    "2 tazas de queso cheddar rallado",
+    "2 tazas de queso jack rallado",
+    "1/2 taza de cebollinos picados",
+    "1/2 taza de crema agria",
+    "1/2 taza de guacamole (a su elección)",
+    "1/2 taza de salsa (a su elección)"
+  ],
+  "recipeInstructions": "Precalentar el horno a 400°F.\nEn un plato para hornear de 9 pulgadas, extender una capa uniforme de totopos. Verter la salsa de queso y los frijoles uniformemente sobre los totopos. Espolvorear con jalapeños, aceitunas, cebolla y tomates. Cubrir con el queso.\nHornear durante 5 minutos o hasta que el queso se derrita. Decorar con cebollinos. Servir con crema agria, guacamole y salsa.",
+  "url": null
+}

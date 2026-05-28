@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "minestrone-5",
+  "name": "Minestrone",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de apio picado finamente",
+    "1/2 taza de zanahoria picada finamente",
+    "3/4 taza (1 papa grande) cortada en trozos de 1 pulgada",
+    "1 diente de ajo picado",
+    "1 lata de 400 g de tomates, escurridos",
+    "1 taza de calabacín picado finamente",
+    "1/2 libra de frijoles verdes cortados en trozos de 1 pulgada",
+    "1/2 taza de espagueti roto",
+    "3 tazas de agua caliente",
+    "2 cucharaditas de polvo de caldo de carne instantáneo",
+    "1 cucharada de hojas de albahaca",
+    "1 cucharada de perejil en hojuelas"
+  ],
+  "recipeInstructions": "1. En una olla para guisos de 3 cuartos, combina todos los ingredientes.\n2. Tapa el recipiente.\n3. Microondas a potencia alta durante 25-35 minutos, revolviendo una o dos veces, hasta que las verduras estén tiernas.",
+  "url": null
+}

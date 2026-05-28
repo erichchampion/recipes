@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-in-a-pot",
+  "name": "Pollo en olla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "pollo asado",
+    "plato principal de pollo londontowne"
+  ],
+  "recipeIngredient": [
+    "2 pollos, cortados en cuartos",
+    "1/2 taza de aceite de oliva",
+    "1 cebolla grande, picada",
+    "1 diente de ajo, picado",
+    "1/2 cucharadita de sal",
+    "3/4 cucharadita de pimienta",
+    "1/2 taza de vino blanco seco",
+    "1 tomate mediano, picado (o 1/2 taza de tomates enlatados escurridos)"
+  ],
+  "recipeInstructions": "1. En una olla holandesa o una cacerola pesada, dora los 2 pollos cortados en cuartos en aceite de oliva hasta que estén dorados.\n2. Añade la cebolla, el ajo, la sal y la pimienta a la olla. Tapa y deja cocinar a fuego lento durante 30 minutos.\n3. Agrega el tomate (o los tomates enlatados) y el vino blanco, y tapa nuevamente.\n4. Continúa cocinando durante otros 30 minutos, o hasta que el pollo esté tierno.",
+  "url": null
+}

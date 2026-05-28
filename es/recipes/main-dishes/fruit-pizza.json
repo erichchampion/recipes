@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-pizza",
+  "name": "Pizza de Frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "postres",
+    "frutas",
+    "plato principal",
+    "tartas",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "14 oz de Leche Condensada Azucarada",
+    "Leche",
+    "1/2 taza de Crema Ácida",
+    "1/2 taza de Jugo de Limón",
+    "1 cucharadita de Extracto de Vainilla",
+    "1/2 taza de Mantequilla o Margarina Ablandada",
+    "1/4 taza de Azúcar Morena Compacta",
+    "1 taza de Harina para Todo Uso",
+    "1/4 taza de Avena sin Cocinar",
+    "1/4 taza de Nueces Picadas Finamente",
+    "3 a 4 Frutos del Kiwi, Pelados y Cortados en Rodajas Delgadas",
+    "8 oz de Piña en Rodajas al Natural, Escurrida",
+    "11 oz de Mandarinas al Natural, Escurridas",
+    "4 a 6 Fresas, Cortadas por la Mitad"
+  ],
+  "recipeInstructions": "1. Mezclar los cuatro primeros ingredientes en un bol pequeño, batiendo bien. Enfriar.\n2. Batir la mantequilla; agregar gradualmente el azúcar, batiendo bien a velocidad media de una batidora eléctrica.\n3. Incorporar la harina, la avena y las nueces; mezclar bien. Presionar la mezcla en un molde para pizza engrasado de 12 pulgadas.\n4. Pinchar la masa con un tenedor y hornear a 350°F durante 12 minutos o hasta que la corteza esté dorada.\n5. Enfriar. Extender uniformemente la mezcla de leche condensada sobre la corteza.\n6. Disponer las frutas sobre la mezcla de leche condensada.",
+  "url": null
+}

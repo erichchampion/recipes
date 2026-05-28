@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-roast",
+  "name": "Asado lento",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 a 3 papas, peladas y cortadas en rodajas finas",
+    "2 a 3 zanahorias, peladas y cortadas en rodajas finas",
+    "1 a 2 cebollas, peladas y rebanadas",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "3 a 4 libras de pechuga, solomillo o asado de res",
+    "1/2 taza de agua o caldo de res"
+  ],
+  "recipeInstructions": "1. Coloca las verduras en el fondo de la olla de cocción lenta.\n2. Condimenta la carne con sal y pimienta, luego añádela a la olla.\n3. Vierte el líquido.\n4. Tapa y cocina a fuego bajo durante 10 a 12 horas (a fuego alto: 5 a 6 horas).\n5. Retira la carne y las verduras con una espátula.\n6. Espesa la salsa para hacer un gravy si lo deseas.\n7. Sin verduras: condimenta el asado con sal, pimienta y cualquier otra especia favorita. No añadas líquido. Cocina según las indicaciones.",
+  "url": null
+}

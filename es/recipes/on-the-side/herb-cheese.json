@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "herb-cheese",
+  "name": "Queso con Hierbas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "200 g de queso crema",
+    "2 cucharaditas de perejil picado",
+    "1/2 cucharadita de cebolla en polvo",
+    "1/2 cucharadita de orégano seco",
+    "1/2 cucharadita de tomillo seco",
+    "una pizca de pimienta negra",
+    "2 pinceladas de polvo de ajo",
+    "4 cucharadas de mantequilla derretida"
+  ],
+  "recipeInstructions": "1. Machaca las hierbas con los dedos en un bol pequeño hasta que queden finamente picadas.\n2. Agrega los ingredientes restantes a las hierbas machacadas y mezcla bien hasta combinarlos.\n3. Refrigera durante varias horas antes de usar.\n4. Sirve con galletas saladas o extiende sobre pan para hacer un sándwich vegetariano con tomates, pepinos, champiñones y brotes.",
+  "url": null
+}

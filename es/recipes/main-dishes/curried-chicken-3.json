@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "curried-chicken-3",
+  "name": "Pollo al Curry",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "3 pechugas de pollo, cortadas por la mitad",
+    "3 cucharadas de harina de uso común",
+    "1 taza de cebolla picada",
+    "1 cucharada de agua",
+    "3 manzanas, peladas y cortadas en cubos",
+    "1/4 cucharadita de polvo de curry",
+    "1/8 cucharadita de jengibre molido",
+    "1/8 cucharadita de cúrcuma en polvo",
+    "1/2 cucharadita de sal",
+    "1/8 cucharadita de pimienta negra",
+    "1 taza de caldo de pollo",
+    "1/3 taza de pasas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 175°C (350°F).\n2. Enjuagar el pollo, secar con papel de cocina; empanizar en la harina.\n3. Rociar una sartén antiadherente grande con spray vegetal y calentar a fuego medio-alto.\n4. Agregar el pollo y cocinar hasta que se dore, dando la vuelta para dorar todos los lados.\n5. Colocar el pollo en un refractario mediano y poco profundo.\n6. En la sartén, cocinar la cebolla en 1 cucharada de agua a fuego bajo durante 5 minutos.\n7. Agregar las manzanas y cocinar por un minuto más.\n8. Verter la mezcla de cebolla sobre el pollo; espolvorear con las especias (polvo de curry, jengibre, cúrcuma, sal, pimienta).\n9. Verter el caldo sobre todo.\n10. Tapar y hornear a 175°C durante 55 minutos o hasta que esté tierno.\n11. Agregar las pasas y cocinar por 5 minutos adicionales.",
+  "url": null
+}

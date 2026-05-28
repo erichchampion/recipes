@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fried-rice",
+  "name": "Arroz Frito",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "3-4 tazas de arroz marrón cocido sobrante (refrigerado durante la noche)",
+    "1 cucharadita de jengibre picado",
+    "1 cucharadita de ajo picado",
+    "1 cebolla grande picada",
+    "1/2 libra de setas",
+    "1 zanahoria rallada",
+    "algunas cebolletas en rodajas",
+    "un puñado de guisantes congelados",
+    "otros vegetales compatibles cortados y refrigerados, al gusto",
+    "salsa de soja o tamari al gusto"
+  ],
+  "recipeInstructions": "1. En una sartén antiadherente grande, saltea el jengibre, el ajo, la cebolla, las setas y otros vegetales que requieran cocción previa durante unos 5 minutos.\n2. Transfiere la mezcla a un bol.\n3. Seca el fondo de la sartén y vuelvela a calentar a fuego medio-alto.\n4. Agrega el arroz y fríe seco hasta que parte de él se dore.\n5. Vuelve a agregar las verduras cocidas, las cebolletas y los guisantes.\n6. Espolvorea con salsa de soja o tamari al gusto y mezcla bien.\n7. Calienta bien y disfruta.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "slow-porridge-2",
+  "name": "Porridge lento",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "casseroles",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "5 tazas de agua",
+    "1 taza de avena; ver nota",
+    "0.5 taza de fruta seca",
+    "un toque de nuez moscada molida",
+    "un toque de macis molido",
+    "un toque de canela molida"
+  ],
+  "recipeInstructions": "Coloca el agua, la avena y la fruta seca en la olla de cocción lenta.\nRevuelve. Cocina a fuego bajo durante 8-10 horas. La mezcla debe tener la consistencia de una sopa espesa, por lo que no añadas leche en la mesa.\nAjusta la cantidad de agua necesaria si es necesario según el modelo de tu olla de cocción lenta.\nPara darle más sabor, espolvorea un poco de nuez moscada, macis o canela en cualquier combinación. También puedes probar con arroz integral, cebada, granos de centeno, avena entera o trigo sarraceno. Ten en cuenta que los granos partidos como la avena o el trigo partido pueden quedar demasiado blandos para algunos gustos.",
+  "url": null
+}

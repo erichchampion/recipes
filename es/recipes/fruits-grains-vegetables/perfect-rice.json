@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "perfect-rice",
+  "name": "Arroz Perfecto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz convertido",
+    "1 3/4 tazas de agua",
+    "sal",
+    "mantequilla, opcional",
+    "1/4 taza de queso cheddar fuerte o parmesano rallado"
+  ],
+  "recipeInstructions": "1. Coloca el arroz, el agua y la sal en una olla.\n2. Lleva la mezcla a ebullición sobre fuego medio.\n3. Tapa y reduce el calor a bajo hasta que el arroz esté tierno (aproximadamente 18 minutos).\n4. Si queda líquido sobrante, escurre el arroz con un colador.\n5. Retira la mitad del arroz cocido para otro día.\n6. Mezcla la mantequilla y el queso (y/o jamón) en el arroz restante.\n7. Ajusta la sazón al gusto.",
+  "url": null
+}

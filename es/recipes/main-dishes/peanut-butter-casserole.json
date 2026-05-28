@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "peanut-butter-casserole",
+  "name": "Cazuela de Mantequilla de Maní",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida de res",
+    "1 1/2 tazas de arroz cocido",
+    "3/4 taza de mantequilla de maní",
+    "1 taza de zanahorias en rodajas",
+    "3/4 taza de salsa de tomate",
+    "2 apios; picados",
+    "1 cebolla grande; picada",
+    "2 huevos",
+    "1/4 taza de pimientos verdes picados",
+    "1 cucharadita de sal",
+    "1 cucharadita de pimienta"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida con la cebolla picada.\n2. En un refractario, mezclar la mantequilla de maní y la salsa de tomate. Amasar bien.\n3. Incorporar el resto de los ingredientes.\n4. Hornear a 350°F durante aproximadamente 1 hora.",
+  "url": null
+}

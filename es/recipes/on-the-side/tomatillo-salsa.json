@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomatillo-salsa",
+  "name": "Salsa de Tomate Tico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "salsas mexicanas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "400 g de tomates tomatillos",
+    "1/4 taza de cebolla picada",
+    "1 cucharada de cilantro fresco picado",
+    "1 cucharada de tequila",
+    "1 cucharada de jugo de limón",
+    "1/2 cucharadita de chile rojo molido"
+  ],
+  "recipeInstructions": "1. Retira las cascas y tallos de los tomatillos. Colócalos en una licuadora junto con el resto de los ingredientes.\n2. Licúa a pulsos durante 10 segundos, hasta que todos los ingredientes estén finamente picados.\n3. Tapa y reserva.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-cordon-bleu-3-2",
+  "name": "Pollo Cordon Azul 3",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "favoritos",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "2 pechugas de pollo sin hueso",
+    "2 rebanadas de jamón",
+    "2 rebanadas de queso suizo",
+    "al gusto polvo de ajo",
+    "al gusto sal",
+    "al gusto pimienta negra molida",
+    "al gusto perejil picado",
+    "1/4 taza de migas de pan",
+    "1 cucharada de aceite de maní"
+  ],
+  "recipeInstructions": "1. Coloca 1 rebanada de jamón y 1 rebanada de queso en cada pechuga de pollo.\n2. Espolvorea perejil, polvo de ajo, sal y pimienta sobre el pollo.\n3. Enrolla cada pechuga de pollo y asegúralas con palillos dentales.\n4. Unta con aceite y rodéalas en migas de pan.\n5. Hornea en una sartén poco profunda engrasada a 175°C durante 35 minutos.",
+  "url": null
+}

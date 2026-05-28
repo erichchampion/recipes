@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "dips-for-fruit",
+  "name": "Dip para frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "dips",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "Dip de Piña Colada:",
+    "1/2 taza de yogur sin grasa natural",
+    "1/3 taza de piña triturada escurrida",
+    "2 cucharadas de coco rallado",
+    "1 cucharadita de azúcar",
+    "Dip de Crema de Albaricoque:",
+    "1/2 taza de yogur sin grasa o crema agria",
+    "1/3 taza de mermelada de albaricoque sin azúcar",
+    "1/8 cucharadita de extracto de almendras",
+    "Dip de Almendras con Miel:",
+    "2/3 taza de yogur natural sin grasa",
+    "3 cucharadas de almendras fileteadas tostadas (picadas finamente)",
+    "2 1/2 cucharadas de miel",
+    "Dip de Crema de Fresa:",
+    "1/2 taza de crema agria o yogur natural sin grasa",
+    "1/4 taza de mermelada de fresas sin azúcar"
+  ],
+  "recipeInstructions": "1. Combinar los ingredientes para cada dip en un bol.\n2. Mezclar bien hasta obtener una textura suave y cremosa.\n3. Servir con frutas frescas.",
+  "url": null
+}

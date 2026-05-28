@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "veal-casserole",
+  "name": "Guiso de Ternera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "guisos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "3 libras de ternera, cortadas en trozos",
+    "harina sazonada con hierbas (tomillo, orégano, sal, pimienta)",
+    "1 lata de consome de carne",
+    "1 lata de sopa de setas",
+    "3/4 taza de vino blanco (Sauterne)",
+    "1 cucharada de salsa Worcestershire",
+    "1 lata de setas en rodajas con jugo",
+    "2 tazas de macarrones finos"
+  ],
+  "recipeInstructions": "1. Espolvorear la ternera con la harina sazonada.\n2. Dorar bien en mantequilla.\n3. Agregar el consome, la sopa de setas, el vino, la salsa Worcestershire y las setas.\n4. Reducir hasta que la carne esté tierna (aproximadamente dos horas).\n5. Incorporar 2 tazas de macarrones finos hasta que estén suaves. (aproximadamente 20 minutos).\nRinde: 6 porciones",
+  "url": null
+}

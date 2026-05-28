@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "polish-sausage-3",
+  "name": "Salchicha Polaca",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "salchichas"
+  ],
+  "recipeIngredient": [
+    "6 lb de hombro de cerdo molido groseramente",
+    "3 cucharadas de sal",
+    "1 cucharadita de sal",
+    "3 cucharaditas de orégano",
+    "4 dientes de ajo",
+    "1½ cucharaditas de pimienta negra molida",
+    "2½ tazas de agua"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta que estén bien integrados.\n2. Rellenar la mezcla en embutidos.\n3. Atar la salchicha cada 4 pulgadas.\n4. Las salchichas se pueden congelar para su uso posterior.",
+  "url": null
+}

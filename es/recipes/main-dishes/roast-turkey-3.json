@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "roast-turkey-3",
+  "name": "Pavo asado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "pollo",
+    "pavo"
+  ],
+  "recipeIngredient": [
+    "1 pavo (media libra por porción)"
+  ],
+  "recipeInstructions": "1. Cuánto comprar: 1/2 lb por porción.\n2. Tiempo de descongelación: Un ave de 20 lbs tarda 3 días en el refrigerador o 12 horas en un recipiente con agua. Retirar las vísceras tan pronto como esté descongelado.\n3. Tiempo de asado: Pavo sin rellenar, a temperatura controlada de 325°F:\n- De 6 a 8 lbs: 2 3/4 a 3 1/2 horas\n- De 8 a 12 lbs: 3 1/4 a 4 horas\n- De 12 a 16 lbs: 3 1/2 a 4 horas\n- De 16 a 20 lbs: 4 a 6 horas\n- De 20 a 26 lbs: 5 1/2 a 7 1/2 horas\n4. Relleno: Añadir 25 minutos de tiempo de cocción para aves menores de 12 lbs.",
+  "url": null
+}

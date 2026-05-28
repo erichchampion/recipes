@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-walnut-pie",
+  "name": "Tarta de Nueces y Chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "1/4 taza de harina",
+    "2 huevos batidos",
+    "4 onzas de mantequilla derretida y enfriada",
+    "1 taza de nueces inglesas picadas",
+    "1 taza de chips de chocolate",
+    "1 cucharadita de extracto de vainilla",
+    "1 base de tarta de 23 cm sin hornear"
+  ],
+  "recipeInstructions": "1. Mezcla el azúcar y la harina.\n2. Agrega los huevos a la mezcla.\n3. Incorpora la mantequilla derretida.\n4. Dobla las nueces picadas, los chips de chocolate y la vainilla.\n5. Vierte la masa en la base de tarta previamente horneada.\n6. Hornea a 175 °C durante 30 minutos.\n7. Prueba con un palillo; si es necesario, hornea por más tiempo hasta que esté firme.\n8. La tarta debe estar ligeramente masticable.",
+  "url": null
+}

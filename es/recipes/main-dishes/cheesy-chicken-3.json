@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheesy-chicken-3",
+  "name": "Pollo con Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "6 pechugas de pollo sin hueso y sin piel",
+    "polvo de ajo",
+    "2 latas de sopa de pollo",
+    "1 lata de sopa de queso cheddar"
+  ],
+  "recipeInstructions": "1. Enjuagar el pollo y espolvorear con sal, pimienta y polvo de ajo.\n2. Mezclar las sopas sin diluir.\n3. Verter la mezcla sobre el pollo en una olla de cocción lenta.\n4. Cocinar a fuego bajo durante todo el día.\n5. Servir sobre arroz o fideos.",
+  "url": null
+}

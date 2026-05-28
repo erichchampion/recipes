@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "honey-chicken",
+  "name": "Pollo con Miel",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina sin blanquear",
+    "2 cucharadas de sal",
+    "1/4 cucharadita de pimienta negra",
+    "2 cucharaditas de pimentón",
+    "4 pechugas de pollo sin piel y deshuesadas"
+  ],
+  "recipeInstructions": "Precalentar el horno a 400°F. Preparar una bandeja para hornear de 9x13 pulgadas con spray para cocinar.\nEn un bol poco profundo, mezclar la harina, la sal, la pimienta y el pimentón; sumergir el pollo en la mezcla de harina.\nAgregar los trozos de pollo a la bandeja, luego hornear durante 30 minutos, con la piel hacia abajo, en una sola capa.\nMientras tanto, en un bol pequeño, mezclar los ingredientes de la salsa.\nDar la vuelta al pollo y cubrir con salsa. Hornear por 30 minutos adicionales, o hasta que el pollo esté tierno y no quede rastro de color rosado.\nVertir la salsa sobre el pollo nuevamente y servir.",
+  "url": null
+}

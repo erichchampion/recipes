@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "spinach-sauce",
+  "name": "Salsa de Espinacas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 paquete de espinacas congeladas, cocidas y escurridas de todo el agua",
+    "1/2 taza de caldo de verduras",
+    "3 dientes de ajo picados",
+    "1 cucharadita de polvo de cebolla",
+    "sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Coloca en una licuadora las espinacas cocidas y escurridas, el ajo picado, el polvo de cebolla, la sal y la pimienta.\n2. Agrega la mitad del caldo de verduras a la licuadora y mezcla hasta obtener una consistencia suave. Si es necesario, añade más caldo para lograr una textura más líquida.\n3. Vuelve a transferir la mezcla licuada a una cacerola y caliéntala hasta que esté caliente.\n4. Sirve sobre arroz o pasta.",
+  "url": null
+}

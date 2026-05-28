@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "golden-chicken-nuggets",
+  "name": "Nuggets de Pollo Dorados",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "pollo",
+    "aves de corral",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de migas de pan seco",
+    "1/4 taza de queso parmesano rallado",
+    "2 cucharaditas de condimento italiano",
+    "1 cucharadita de sal",
+    "6 pechugas de pollo sin hueso y sin piel",
+    "cortadas en cubos de 1 pulgada",
+    "1/2 taza de mantequilla o margarina derretida"
+  ],
+  "recipeInstructions": "1. Mezclar los primeros cuatro ingredientes.\n2. Sumergir cada trozo de pollo en la mantequilla, luego rodarlo en la mezcla de migas.\n3. Colocar los trozos en una sola capa sobre una bandeja para hornear sin engrasar.\n4. Hornear a 200 °C durante 12-15 minutos, o hasta que los jugos sean claros.\n5. Rendimiento: aproximadamente 4 docenas.",
+  "url": null
+}

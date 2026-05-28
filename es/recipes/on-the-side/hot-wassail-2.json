@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-wassail-2",
+  "name": "Wassel Caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "de bajo calorías",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "4 tazas de jugo de manzana sin azúcar",
+    "3 tazas de jugo de piña sin azúcar",
+    "2 tazas de jugo de cóctel de arándanos",
+    "1/4 cucharadita de nuez moscada molida",
+    "1 rama de canela",
+    "3 clavos enteros",
+    "rebanadas de limón"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en una olla grande.\n2. Colocar la olla a fuego bajo y dejar hervir durante 10 minutos, removiendo ocasionalmente para asegurar una distribución uniforme de sabores.\n3. Retirar del fuego y servir caliente.",
+  "url": null
+}

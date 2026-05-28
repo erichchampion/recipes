@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-chocolate-chip-bread-2",
+  "name": "Pan de Plátano con Chips de Chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de harina de todo uso",
+    "2/3 taza de azúcar",
+    "1 cucharadita de polvo de hornear",
+    "1/2 cucharadita de bicarbonato de sodio",
+    "1/2 cucharadita de sal",
+    "1/3 taza de aceite vegetal",
+    "2 huevos grandes, batidos ligeramente",
+    "1 yema extra grande",
+    "1/4 taza de crema agria",
+    "1 cucharadita de extracto de vainilla",
+    "2/3 taza de plátano machacado",
+    "1/3 taza de chips de chocolate (picados)"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes excepto el plátano y los chips de chocolate en el pan de la máquina de pan.\n2. Presiona iniciar y selecciona el ciclo de pastel.\n3. Después del primer amasado, agrega el plátano machacado y los chips de chocolate.\n4. Presiona iniciar nuevamente para terminar de hornear.",
+  "url": null
+}

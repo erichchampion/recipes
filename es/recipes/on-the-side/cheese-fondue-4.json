@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-fondue-4",
+  "name": "Fondue de Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso",
+    "fondue",
+    "plato principal",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de vino blanco",
+    "1/2 diente de ajo entero, machacado",
+    "1 libra de queso Gruyère rallado",
+    "2 cucharadas de almidón de maíz",
+    "2 cucharadas de kirsch",
+    "1/4 cucharadita de nuez moscada",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. En el fondo de un baño maría, calienta el vino hasta que apenas hierva.\n2. Añade el ajo al vino caliente.\n3. Pasa el queso Gruyère por almidón de maíz y añádelo al vino.\n4. Revuelve hasta que el queso se derrita completamente.\n5. Incorpora el kirsch y las especias (nuez moscada, sal) a la mezcla.\n6. Continúa revolviendo hasta que todo esté suave y bien combinado.\n7. Transfiere la mezcla a una olla para fondue y mantenla caliente sobre un mechero mientras se sirve.\nSirve con trozos de pan francés, rodajas de manzanas y peras, y zanahorias cortadas en cuartos para sumergir.",
+  "url": null
+}

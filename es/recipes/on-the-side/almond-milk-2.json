@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "almond-milk-2",
+  "name": "Leche de Almendras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "lácteos",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 litro de agua",
+    "1 taza de almendras remojadas",
+    "2 cucharadas de pasas",
+    "O",
+    "1 cucharadita de edulcorante"
+  ],
+  "recipeInstructions": "1. Coloca el agua, las almendras remojadas y el edulcorante elegido en una licuadora.\n2. Licúa a velocidad alta durante 2 minutos hasta obtener una consistencia suave.\n3. Sirve sobre granola o cereales.",
+  "url": null
+}

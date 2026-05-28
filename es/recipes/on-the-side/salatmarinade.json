@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "salatmarinade",
+  "name": "Aderezo Salado",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "alemán",
+    "ensaladas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 cucharadita de azúcar",
+    "1 cucharadita de pimentón",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de mostaza en polvo",
+    "1/2 cucharadita de semillas de apio molidas",
+    "1/4 cucharadita de pimienta negra",
+    "1/2 taza de vinagre de tarragona",
+    "3/4 taza de aceite de oliva"
+  ],
+  "recipeInstructions": "1. En un bol, combina todos los ingredientes excepto el aceite de oliva.\n2. Agrega gradualmente el aceite de oliva hasta que esté bien mezclado y emulsionado. También puedes agitar todos los ingredientes en una botella hasta que estén completamente combinados. El aderezo rendirá aproximadamente 1 taza y 1/4.",
+  "url": null
+}

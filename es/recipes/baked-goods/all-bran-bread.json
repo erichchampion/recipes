@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "all-bran-bread",
+  "name": "Pan de All Bran",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "Huevo",
+    "Sal (1/2 cucharadita)",
+    "Azúcar (1/2 taza)",
+    "Miel (1/4 taza)",
+    "All bran (1 1/2 tazas)",
+    "Harina (1 1/2 tazas)",
+    "Leche agria (1 1/2 tazas)",
+    "Bicarbonato de sodio (1 cucharadita)"
+  ],
+  "recipeInstructions": "1. Bate el huevo y añade la sal, el azúcar y la miel.\n2. Agrega la leche agria y el all bran a la mezcla. Mezcla hasta que se absorba la mayor parte de la humedad.\n3. Añade la harina y el bicarbonato de sodio. Revuelve hasta combinarlos.\n4. Vierte la masa en un molde para pan engrasado.\n5. Hornea en un horno precalentado a 175°C durante 1 hora. Opcionalmente, puedes usar leche dulce en lugar de leche agria (en cuyo caso reduce el bicarbonato de sodio a 1/2 cucharadita) y aumenta la cantidad de polvo de hornear a 1 cucharadita.",
+  "url": null
+}

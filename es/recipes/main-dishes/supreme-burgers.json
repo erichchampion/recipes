@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "supreme-burgers",
+  "name": "Hamburguesas Supreme",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgueres",
+    "carne molida",
+    "plato principal",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne molida",
+    "1.5 oz de mezcla de sopa de cebolla; 1 sobre",
+    "0.5 taza de migas de pan; secas",
+    "1 taza de crema agria",
+    "0.125 tsp de pimienta"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes en un bol grande.\n2. Forma la mezcla en 8 hamburguesas, cada una de aproximadamente 3/4 de pulgada de grosor.\n3. Asa a la parrilla o a la plancha las hamburguesas, manteniéndolas a 4 pulgadas de la fuente de calor. Voltea las hamburguesas una vez para lograr el punto deseado de cocción, lo cual tomará aproximadamente 10 a 15 minutos.",
+  "url": null
+}

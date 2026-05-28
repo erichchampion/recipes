@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "cannoli",
+  "name": "Cannoli",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "dulces",
+    "chocolate",
+    "étnico",
+    "italiano",
+    "masa"
+  ],
+  "recipeIngredient": [
+    "---------------------------------PARA LA MASA---------------------------------",
+    "1 1/3 tazas de harina",
+    "una pizca de sal",
+    "1/2 cucharadita de azúcar",
+    "1 cucharada de ralladura de naranja o limón",
+    "1 cucharada de mantequilla",
+    "vino Marsala",
+    "1 clara de huevo batida",
+    "aceite para freír"
+  ],
+  "recipeInstructions": "--------------------------------PARA EL RELLENO--------------------------------\n1 libra de queso ricota\n2 cucharadas de trozos de chocolate pequeño, o\nchocolate semiamargo rallado\n1 cucharada de cítricos confitados, o\nfrutas glaseadas\n2 cucharadas de azúcar\nMASA: Mezclar en un bol la harina, la sal, el azúcar, la ralladura y la mantequilla. Agregar gradualmente el vino Marsala cucharadita a cucharadita hasta que la masa esté firme. Enfriar durante 2 horas.\nEstirar la masa sobre una superficie ligeramente enharinada en un rectángulo grande. Cortar en cuadrados de 4 pulgadas. Envolver cada cuadrado alrededor de tubos de cannoli para que dos esquinas se doblen y otras dos apunten hacia afuera. Untar las esquinas que tocan con clara de huevo para asegurarlas. Freír en aceite caliente hasta dorar. Retirar del aceite, enfriar y rellenar. Da para 10 a 12 cannolis. Si no tienes tubos de cannoli, haz tubos de 5 cm de diámetro con papel aluminio y dobla la masa en consecuencia.\nRELLENO: Mezclar todos los ingredientes y rellenar los cannolis.",
+  "url": null
+}

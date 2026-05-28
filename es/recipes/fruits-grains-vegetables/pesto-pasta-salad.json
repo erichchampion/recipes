@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "pesto-pasta-salad",
+  "name": "Ensalada de Pasta al Pesto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pasta",
+    "ensaladas",
+    "tomates secos al sol",
+    "wrv"
+  ],
+  "recipeIngredient": [
+    "Waldino Van Geffen VGHC42A",
+    "12 oz de fusilli en forma de espiral o con forma de concha",
+    "aceite de oliva",
+    "vinagre de vino tinto",
+    "jugo de limón",
+    "pesto",
+    "tomates secos al sol en rodajas",
+    "guisantes frescos o congelados",
+    "zanahoria rallada",
+    "almendras tostadas"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcla el aceite de oliva, el vinagre de vino tinto, el jugo de limón y el pesto.\n2. Agrega la pasta fusilli y revuelve para mezclar bien.\n3. Incorpora los tomates secos al sol, los guisantes, la zanahoria rallada y las almendras tostadas.\n4. Sazona con sal y pimienta al gusto.",
+  "url": null
+}

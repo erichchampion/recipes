@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tex-mex-hash-2",
+  "name": "Hash Tex-Mex",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americano",
+    "étnico",
+    "plato principal",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "1 pimiento verde, picado",
+    "1/2 taza de arroz crudo",
+    "2 cucharaditas de sal",
+    "3 cebollas, en rodajas",
+    "1 lata de tomate entero (tamaño mediano)",
+    "1 cucharadita de polvo de chile",
+    "un toque de pimienta"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 grados.\n2. Saltear la carne molida en una sartén hasta que esté ligeramente dorada. Escurrir la grasa.\n3. Agregar las cebollas y los pimientos, cocinar hasta que la cebolla esté tierna.\n4. Incorporar el resto de los ingredientes y calentar hasta que estén cálidos.\n5. Verter en un refractario, cubrir y hornear durante 1 hora.",
+  "url": null
+}

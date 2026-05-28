@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-beef-au-jus-3",
+  "name": "Carne de Res Italiana al Jus",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "6 lb de lomo de res, sin cortar",
+    "2 paquetes de salsa gravé al jus",
+    "2 sobres de mezcla de aderezo italiano seco",
+    "2 latas de caldo de carne"
+  ],
+  "recipeInstructions": "1. Coloca la carne en una olla de cocción lenta.\n2. Combina los ingredientes restantes (paquete de salsa gravé al jus, mezcla de aderezo italiano seco y caldo de carne) en un bol hasta que estén bien mezclados.\n3. Vierte la mezcla sobre la carne.\n4. Cocina a fuego lento durante 8 horas.",
+  "url": null
+}

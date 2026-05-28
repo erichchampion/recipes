@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pita-bread-2",
+  "name": "Pan Pita",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 cucharaditas de levadura",
+    "1 taza de harina",
+    "2 tazas de harina de trigo integral",
+    "1 cucharada de miel",
+    "1 taza de masa madre",
+    "1 1/4 tazas de agua"
+  ],
+  "recipeInstructions": "1. Configura la máquina ABM para amasar y, cuando esté lista, agrega harina según sea necesario.\n2. Forma la masa en círculos utilizando un rodillo o una máquina para tortillas.\n3. Deja que las \"tortillas\" suban durante aproximadamente media hora.\n4. Coloca las tortillas infladas en una bandeja para galletas y hornea en un horno muy caliente.\n5. Cuando empiecen a inflarse, dales la vuelta.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-spread",
+  "name": "Crema para Tacos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "16 onzas de crema de queso a temperatura ambiente",
+    "16 onzas de crema agria",
+    "1 paquete de mezcla de condimento para tacos",
+    "salsa picante",
+    "1/2 cabeza de lechuga, picada finamente",
+    "2 tomates, picados finamente",
+    "queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Mezclar la crema de queso y la crema agria hasta obtener una consistencia suave y sin grumos.\n2. Agregar la mezcla de condimento para tacos al gusto (aproximadamente 1/2 paquete) y mezclar bien.\n3. Incorporar salsa picante al gusto y combinar por completo.\n4. Servir la mezcla en un plato para servir.\n5. Espolvorear con lechuga picada, tomates finamente cortados y queso cheddar rallado.\n6. Acompañar con totopos.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "egg-bread-2",
+  "name": "Pan de huevo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libra de pan redondo",
+    "3/4 taza de leche",
+    "2 huevos",
+    "3 tazas de harina de pan",
+    "1 1/2 cucharadita de sal",
+    "3 cucharadas de puré de manzana",
+    "1/4 taza de azúcar",
+    "1 1/2 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a temperatura moderada.\n2. Mezclar la leche, los huevos, el puré de manzana y el azúcar en un bol hasta que estén bien combinados.\n3. En otro bol, tamizar juntos la harina de pan, la sal y la levadura.\n4. Agregar gradualmente los ingredientes secos a la mezcla húmeda, removiendo hasta formar una masa suave.\n5. Volcar la masa sobre una superficie ligeramente enharinada y amasar hasta que quede lisa y elástica.\n6. Colocar la masa en un bol engrasado, cubrir con un paño limpio y dejarle subir en un lugar cálido hasta que doble su tamaño.\n7. Desinflar la masa y darle forma de pan redondo.\n8. Colocar el pan sobre una bandeja para hornear y hornearlo en el horno precalentado hasta que esté ligeramente dorado y cocido por dentro.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-2",
+  "name": "Spaghetti al horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 libra de espagueti",
+    "1/2 libra de queso (cheddar)",
+    "1/2 libra de jamón",
+    "2 tazas de leche",
+    "1 cucharada de harina o maicena",
+    "1 taza de salsa de tomate",
+    "1 lata de atún",
+    "1 mantequilla",
+    "1 cebolla",
+    "1 sal",
+    "1 pimienta negra",
+    "1 crema agria"
+  ],
+  "recipeInstructions": "1. Cocinar el espagueti y reservar.\n2. Derretir la mantequilla en una sartén y saltear las cebollas hasta que estén marrones.\n3. Mezclar la harina con 1 taza de leche en un bol aparte.\n4. Agregar la mezcla de harina a la sartén con las cebollas, luego añadir otra taza de leche y salsa de tomate.\n5. Cocinar hasta calentar, agregar sal, pimienta, atún y crema agria (0.70 libra).\n6. Colocar la salsa en el fondo de un recipiente rectangular.\n7. Capar espagueti, rebanadas de jamón, rebanadas de queso, más espagueti, salsa, jamón y queso encima.\n8. Espolvorear con queso rallado.\n9. Colocar trozos pequeños de mantequilla en la parte superior.\n10. Hornear hasta que el queso se derrita.",
+  "url": null
+}

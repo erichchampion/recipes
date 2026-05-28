@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "marinated-pork",
+  "name": "Cerdo Marinado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "carnes",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "4 lb de cerdo (costillas, chuletas u otra carne)",
+    "2 cucharaditas de sal",
+    "3 dientes de ajo machacados",
+    "2 cucharaditas de orégano hojas enteras",
+    "1 litro de salsa de chile rojo licuada"
+  ],
+  "recipeInstructions": "1. Espolvorear el cerdo con sal.\n2. Agregar el ajo y el orégano a la salsa de chile licuada.\n3. Verter la mezcla sobre la carne y marinar en el refrigerador por 6-8 horas o durante la noche.\n4. Cocinar lentamente en la estufa o en un horno precalentado a 175 °C durante aproximadamente 1 hora, hasta que la carne esté tierna.\n5. Se pueden marinar también rodajas gruesas de papas con la carne.",
+  "url": null
+}

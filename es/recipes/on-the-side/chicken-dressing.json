@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-dressing",
+  "name": "Pollo y Relleno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "panes",
+    "rellenos",
+    "plato principal",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "2 paquetes de mezcla para pan de maíz",
+    "1 docena de huevos crudos",
+    "Cebolla picada al gusto",
+    "Sal y pimienta al gusto",
+    "Apio al gusto",
+    "6 cucharaditas de condimento para aves",
+    "3 cucharaditas de salvia",
+    "2 pollos cocidos y deshuesados"
+  ],
+  "recipeInstructions": "1. Hornee la mezcla de pan de maíz según las instrucciones del paquete. Deje enfriar.\n2. Triture el pan de maíz horneado.\n3. Agregue los huevos, la cebolla picada, el apio, sal y pimienta al gusto a los migas de pan de maíz.\n4. Incorpore el condimento para aves y la salvia.\n5. Doble los pollos cocidos y deshuesados en la mezcla.\n6. Vierta la mitad del caldo de pollo sobre la mezcla de pan de maíz.\n7. Mezcle bien.\n8. Hornee a 350 grados Fahrenheit durante 3 horas.",
+  "url": null
+}

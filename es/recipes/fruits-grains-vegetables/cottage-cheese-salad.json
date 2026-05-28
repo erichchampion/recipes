@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cottage-cheese-salad",
+  "name": "Ensalada de Queso Fresco",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "entrantes",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "Copos de lechuga",
+    "2 tazas de queso fresco desmenuzado",
+    "1/4 taza de rábanos picados",
+    "2 cucharadas de cebolla verde o cebollín picado",
+    "2 cucharadas de mayonesa (opcional)",
+    "1 cucharadita de sal",
+    "1/8 cucharadita de pimienta negra",
+    "Pimienta roja en polvo"
+  ],
+  "recipeInstructions": "1. Coloca los copos de lechuga en un plato grande o en varios platos pequeños.\n2. En un bol, mezcla el queso fresco con los rábanos, la cebolla verde, la mayonesa (si se usa), la sal y la pimienta.\n3. Vierte la mezcla sobre los copos de lechuga o sírvela directamente en el bol.\n4. Espolvorea con pimienta roja en polvo.\n5. Sirve.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "tofu-burgers-2",
+  "name": "Hamburguesas de Tofu",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "plato principal",
+    "septiembre",
+    "verduras",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 lb de tofu (duro o blando)",
+    "2 tazas de avena en hojuelas",
+    "2 cucharadas de ketchup",
+    "2 cucharadas de mostaza preparada",
+    "2 cucharadas de salsa Worcestershire (vegetariana cuando la encuentre)",
+    "1 cebolla picada finamente",
+    "1 cucharadita de Marmite (a veces uso un poco más, pero es muy salado)",
+    "Mucho pimienta molida fresca"
+  ],
+  "recipeInstructions": "1. Desmenuzar el tofu en un bol grande y agregar los ingredientes restantes.\n2. Mezclar hasta alcanzar la consistencia deseada. Es posible que sea necesario mezclar a mano, presionando todo firmemente.\n3. Si la mezcla parece muy seca, agregar un poco más de ketchup hasta lograr la textura adecuada.\n4. Las hamburguesas se pueden asar a la parrilla, freír en un poco de margarina o aceite, o tostar bajo el grill.\n5. Servir en un panecillo o con otras verduras.",
+  "url": null
+}

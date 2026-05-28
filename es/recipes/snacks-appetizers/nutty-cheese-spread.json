@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "nutty-cheese-spread",
+  "name": "Crema de Queso con Nueces",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 cucharadita de sal",
+    "4 cucharadas de azúcar",
+    "4 cucharadas de vinagre",
+    "4 cucharadas de mantequilla",
+    "4 cucharadas de leche",
+    "4 huevos batidos",
+    "3 paquetes de 225 g de queso crema Philadelphia",
+    "3 frascos de pimiento rojo escurrido",
+    "2 tazas de nueces"
+  ],
+  "recipeInstructions": "1. Cocinar la sal, el azúcar, el vinagre, la mantequilla y la leche juntos hasta que espese.\n2. Agregar el queso crema a la mezcla caliente.\n3. Mezclar el pimiento rojo y las nueces.",
+  "url": null
+}

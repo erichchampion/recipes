@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "oatmeal-cookies",
+  "name": "Galletas de Avena",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 plátanos maduros",
+    "1/2 taza de puré de manzana",
+    "2 cucharadas de extracto de vainilla",
+    "1/2 taza de azúcar morena (o miel o sirope de arroz moreno)",
+    "1 taza aproximada de harina integral",
+    "1.5 cucharaditas de polvo de hornear",
+    "un toque de sal",
+    "1 cucharadita de canela",
+    "un toque de nuez moscada",
+    "3/4 taza de avena (tipo cereal regular)",
+    "2 cucharadas de pasas (opcional pero deliciosa)"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 175°C.\n2. Mezclar en una licuadora los plátanos, puré de manzana, extracto de vainilla y azúcar morena hasta obtener una consistencia cremosa.\n3. Tamizar juntos la harina integral, polvo de hornear, sal, canela y nuez moscada.\n4. Incorporar los ingredientes secos a la mezcla húmeda.\n5. Agregar la avena y las pasas (si se usan).\n6. Tomar cucharadas generosas de masa y colocarlas en una bandeja para hornear engrasada.\n7. Hornear por 20-30 minutos o hasta que estén ligeramente doradas. Verificar después de 15 minutos, ya que pueden tardar más sin aceite.",
+  "url": null
+}

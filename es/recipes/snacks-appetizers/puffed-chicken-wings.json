@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "puffed-chicken-wings",
+  "name": "Alas de Pollo Crujientes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "pollo",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "12 alas de pollo",
+    "-Ajo picado: 1 cucharadita",
+    "-Jengibre rallado: 1 cucharadita",
+    "-Sherry seco: 1/2 taza",
+    "-Aceite de sésamo: 2 cucharadas",
+    "-Maicena: 1/2 taza",
+    "-Harina: 1/2 taza",
+    "-Polvo de hornear: 1/4 cucharadita",
+    "-Huevo batido: 1 huevo"
+  ],
+  "recipeInstructions": "1. Marinar las alas durante al menos una hora.\n2. Mezclar los ingredientes secos (maicena, harina, polvo de hornear) en un bol. Incorporar el huevo y la leche hasta obtener una mezcla homogénea.\n3. Secar las alas con papel absorbente.\n4. Sumergir cada ala en la masa, dejando escurrir el exceso.\n5. Calentar el aceite en una freidora profunda o en una olla pesada a 175°C (350°F).\n6. Freír las alas por lotes de 3-4 durante 3-4 minutos hasta que estén doradas y crujientes.",
+  "url": null
+}

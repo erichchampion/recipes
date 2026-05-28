@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "bbq-crab-sandwich",
+  "name": "Sándwich de Cangrejo a la Barbacoa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal de queso, sándwiches, mariscos, vegetales",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 taza de cangrejo",
+    "1/2 taza de salsa de tomate",
+    "1/4 taza de aceitunas verdes rellenas, en rodajas",
+    "8 oz de queso cheddar, en cubos medianos",
+    "8 panecillos ingleses"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto los panecillos en un bol.\n2. Refrigerar por al menos 1 hora para que se mezclen los sabores.\n3. Extender la mezcla sobre las mitades de los panecillos ingleses.\n4. Broilar hasta que esté caliente y el queso se haya derretido.\n5. Servir inmediatamente.",
+  "url": null
+}

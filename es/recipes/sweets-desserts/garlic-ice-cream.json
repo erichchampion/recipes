@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "garlic-ice-cream",
+  "name": "Helado de Ajo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "3 tazas de leche entera",
+    "1/4 cucharadita de ajo fresco picado",
+    "1 vaina de vainilla, cortada por la mitad",
+    "1 taza de crema espesa",
+    "1 1/2 tazas de azúcar granulada",
+    "9 yemas de huevo"
+  ],
+  "recipeInstructions": "1. Calentar la leche, el ajo y la vainilla en una cacerola hasta que hierva y retirar del fuego.\n2. En un bol, mezclar la crema, el azúcar y las yemas de huevo.\n3. Verter la mezcla de leche caliente sobre la mezcla de huevo y azúcar, batiendo constantemente.\n4. Devolver la mezcla combinada a la cacerola y cocinar a fuego medio hasta que espese (aproximadamente 10-15 minutos). Enfriar en un baño de hielo.\n5. Agregar la mezcla de crema.\n6. Congelar hasta que esté firme.",
+  "url": null
+}

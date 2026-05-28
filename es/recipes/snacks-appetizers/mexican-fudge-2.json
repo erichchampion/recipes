@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-fudge-2",
+  "name": "Fudge Mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "queso/huevos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 lb de queso Monterey Jack",
+    "1 lb de queso Cheddar",
+    "1 lata de leche evaporada (450 ml)",
+    "2 huevos",
+    "3 cucharadas de harina"
+  ],
+  "recipeInstructions": "1. Ralla el queso y extiéndelo en un molde engrasado de 9 pulgadas por 13 pulgadas.\n2. Bate la leche, los huevos y la harina juntos.\n3. Vierte la mezcla sobre el queso rallado.\n4. Hornea durante 40 minutos a 350 grados F (175 grados C).\n5. Corta en cuadrados o diamantes y sirve caliente o frío.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "dutch-meatloaf-4",
+  "name": "Pastel de Carne al Estilo Holandés",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "pastel de carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de carne molida",
+    "2 cucharadas de azúcar morena",
+    "1 1/2 cucharaditas de sal",
+    "2 cucharadas de mostaza",
+    "1 taza de migas de pan",
+    "1 huevo",
+    "1/4 cucharadita de pimienta negra",
+    "24 onzas de salsa de tomate con cebolla"
+  ],
+  "recipeInstructions": "1. Mezcla la carne, las migas de pan, la mitad de la salsa de tomate, el huevo, la sal y la pimienta.\n2. Forma una hogaza.\n3. Combina los ingredientes restantes con la otra mitad de la salsa de tomate.\n4. Vierte sobre la carne.\n5. Hornea a 175 °C durante 75 minutos.",
+  "url": null
+}

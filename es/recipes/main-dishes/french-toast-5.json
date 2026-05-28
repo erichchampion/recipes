@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-toast-5",
+  "name": "Tostada Francesa",
+  "recipeCuisine": "Africa & Middle East",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "brunch",
+    "lácteos",
+    "judío",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "3 huevos",
+    "1/2 cucharadita de extracto de vainilla",
+    "1 cucharadita de ralladura de naranja",
+    "1/2 cucharadita de canela",
+    "1/4 taza de leche",
+    "6 rebanadas de challah, de aproximadamente 3/4 de pulgada de grosor",
+    "Manteca o margarina para engrasar la plancha",
+    "Aceite para freír"
+  ],
+  "recipeInstructions": "1. Batir los huevos en un bol hasta que estén bien combinados.\n2. Mezclar el extracto de vainilla, la ralladura de naranja, la canela y la leche.\n3. Sumergir cada rebanada de challah en la mezcla de huevo, permitiendo que se empape durante aproximadamente 15 minutos.\n4. Dar la vuelta a las rebanadas empapadas y dejarlas reposar unos momentos más.\n5. Calentar una plancha con manteca o margarina y aceite (aproximadamente 1 cucharada por rebanada).\n6. Freír el challah empapado por ambos lados hasta que esté dorado marrón.\n7. Servir caliente con jarabe de arce, miel o azúcar.",
+  "url": null
+}

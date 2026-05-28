@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "veg-couscous",
+  "name": "Couscous de Verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "10 onzas de couscous crudo",
+    "2 tazas de caldo de verduras",
+    "1/2 taza de cebolla picada",
+    "1 diente de ajo mediano machacado",
+    "3/4 taza de maíz",
+    "1 pimiento verde mediano",
+    "1/2 taza de champiñones en rodajas",
+    "3 tazas de puré de tomate",
+    "1 cucharadita de polvo de chile",
+    "1 cucharadita de vinagre balsámico"
+  ],
+  "recipeInstructions": "1. Calienta 1/4 taza de caldo en una cacerola a fuego medio.\n2. Agrega la cebolla y el ajo, y cocina por 5 minutos hasta que las verduras se vuelvan translúcidas.\n3. Incorpora el maíz, el pimiento verde y los champiñones, y cocina por 5 minutos adicionales.\n4. Mezcla el puré de tomate, el polvo de chile y el vinagre balsámico. Reduce el fuego a bajo y deja cocinar a fuego lento durante 15 minutos.\n5. En una olla separada, hierve el resto del caldo de verduras. Agrega el couscous y revuelve suavemente.\n6. Tapa la olla y déjalo reposar fuera del fuego por 5 minutos hasta que se absorba el líquido.\n7. Desmenuzar el couscous con un tenedor y coloca las verduras sobre el couscous.\n8. Servir caliente.",
+  "url": null
+}

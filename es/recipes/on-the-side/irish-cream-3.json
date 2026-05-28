@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "irish-cream-3",
+  "name": "Irish Cream",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 lata de leche condensada Eagle Brand",
+    "1 litro de crema espesa",
+    "2 huevos",
+    "1 1/2 tazas de whisky (o bourbon)",
+    "1/3 taza de ron",
+    "1 1/2 cucharadas de jarabe de chocolate Hershey's",
+    "1 1/2 cucharadas de extracto de vainilla",
+    "2 cucharaditas de café instantáneo",
+    "1/2 cucharadita de extracto de almendras"
+  ],
+  "recipeInstructions": "1. Mezcla la mitad de la mezcla en una licuadora durante 30 segundos.\n2. Agrega el resto de la mezcla y licúa hasta que esté combinada.\n3. Refrigera. Se conservará por aproximadamente un mes.",
+  "url": null
+}

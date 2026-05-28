@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "focaccia-emeril",
+  "name": "Focaccia (Emeril)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "importado"
+  ],
+  "recipeIngredient": [
+    "1 lote de masa de focaccia",
+    "2 cucharadas de aceite de oliva",
+    "2 cucharadas de hierbas mixtas picadas",
+    "1/4 taza de queso Parmesano rallado",
+    "Sal y pimienta"
+  ],
+  "recipeInstructions": "Precalentar el horno a 350 grados. Extender la masa sobre una bandeja para hornear engrasada y presionar depresiones con los dedos. Rocíar con el aceite, las hierbas y el queso, y sazonar. Hornear hasta que esté dorada y cocida por completo, y dejar enfriar.",
+  "url": null
+}

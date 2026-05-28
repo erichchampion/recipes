@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "seafood-gumbo-2",
+  "name": "Gumbo de Mariscos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "3 tazas de cebolla picada",
+    "2 tazas de pimiento verde picado",
+    "6 tomates medianos picados",
+    "1 taza de puré de tomate",
+    "1 1/2 cucharaditas de tomillo",
+    "1 1/2 cucharadas de ajo picado",
+    "4 hojas de laurel",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra molida",
+    "1 1/2 libras de okra cortada en trozos",
+    "2 litros de caldo de mariscos",
+    "2 libras de camarones cocidos, pelados y desvenados",
+    "24 ostras frescas escurridas",
+    "1 libra de carne de cangrejo desmenuzada sin cáscara",
+    "2 cucharadas de polvo de file"
+  ],
+  "recipeInstructions": "1. Mezcla la cebolla, los pimientos, los tomates y el puré de tomate en una olla pesada de 8 cuartos o olla holandesa. Cocina a fuego medio durante 10 minutos, removiendo ocasionalmente.\n2. Agrega el tomillo, el ajo, las hojas de laurel, la sal y la pimienta, mezcla bien y reduce el fuego para cocinar a fuego lento durante 10 minutos.\n3. Añade la okra. Cuando la okra adquiera un color brillante y esté cocida pero aún crujiente, incorpora el caldo. Lleva a ebullición rápida, luego reduce el fuego. Agrega los camarones, las ostras y la carne de cangrejo y cocina a fuego lento durante 15 minutos adicionales.\n4. Combina el polvo de file con 1 taza del caldo. Retira el gumbo del fuego y mezcla en la mezcla de file-caldo. Ajusta la sazón al gusto.",
+  "url": null
+}

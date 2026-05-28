@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "kuchen",
+  "name": "Kuchen",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 cada uno de levadura de pastel; suelta - ablandar",
+    "1/2 taza de azúcar",
+    "1 taza de manteca y mantequilla; mezcladas",
+    "1 taza de leche",
+    "4 tazas de harina",
+    "2 cucharaditas de sal",
+    "3 huevos; bien batidos",
+    "crema agria",
+    "azúcar",
+    "canela"
+  ],
+  "recipeInstructions": "1. Cernir la harina en una olla grande.\n2. Agregar el azúcar, la sal, la manteca y mantequilla derretidas, la leche, la levadura y los huevos a la mezcla de harina. Mezclar bien hasta combinar.\n3. Dejar reposar la masa para que suba una vez.\n4. Doblar suavemente la masa con una cuchara para evitar su caída, luego dejarla subir nuevamente.\n5. Verter la masa en moldes preparados.\n6. Justo antes de hornear, cubrir los topes de la masa en cada molde con crema agria mezclada con azúcar y canela.\n7. Hornear a 350°F por aproximadamente 40 minutos.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "macaroni-and-cheese-2",
+  "name": "Macarrones con Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "3 tazas de macarrones cocidos",
+    "1 cucharada de mantequilla derretida",
+    "2 tazas de leche evaporada",
+    "3 tazas de queso procesado fuerte rallado",
+    "1/4 taza de pimiento verde picado finamente",
+    "1/4 taza de cebolla picada",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta"
+  ],
+  "recipeInstructions": "1. Mezcla los macarrones cocidos con la mantequilla derretida.\n2. Agrega los ingredientes restantes a los macarrones.\n3. Vierte la mezcla en un Crock-Pot ligeramente engrasado.\n4. Tapa y cocina a fuego alto durante 2 a 3 horas, revolviendo ocasionalmente.",
+  "url": null
+}

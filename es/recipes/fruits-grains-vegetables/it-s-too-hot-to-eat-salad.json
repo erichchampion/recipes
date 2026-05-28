@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "it-s-too-hot-to-eat-salad",
+  "name": "Ensalada para un día de calor",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 taza de tomates picados",
+    "1/2 pimiento mediano, cortado en trozos gruesos",
+    "1/4 cebolla, picada finamente",
+    "1 mango, cortado en trozos gruesos",
+    "Al gusto de pimienta negra",
+    "Sal al gusto (opcional)"
+  ],
+  "recipeInstructions": "1. Picar los tomates, pimientos y cebollas como se indica.\n2. Cortar el mango en trozos gruesos.\n3. Mezclar todos los ingredientes con sal y pimienta al gusto.\n4. Refrigerar por al menos una hora o durante la noche para mejores resultados.",
+  "url": null
+}

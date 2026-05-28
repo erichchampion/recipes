@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-cake-6",
+  "name": "Pastel de Manzana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de manzanas en rodajas",
+    "4 cucharadas de azúcar",
+    "2 claras de huevo",
+    "4 cucharadas de agua hirviendo",
+    "1 taza de harina",
+    "1/2 cucharadita de sal",
+    "1 1/2 cucharaditas de polvo de hornear"
+  ],
+  "recipeInstructions": "1. Coloca las manzanas en rodajas en un molde para hornear.\n2. En un bol aparte, bate las 2 claras de huevo con 4 cucharadas de agua hirviendo, 1 taza de harina, 1/2 cucharadita de sal y 1 1/2 cucharaditas de polvo de hornear hasta que esté bien combinado.\n3. Vierte lentamente la masa sobre las manzanas en el molde.\n4. Hornea a 350°F durante unos 30 minutos, o hasta que un palillo insertado en el centro salga limpio.",
+  "url": null
+}

@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-napoli",
+  "name": "Pollo Napoli",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "carnes",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "Pollo de corral, sin piel y cortado (1 por persona)",
+    "Coliflor, en floretes (1/2 cada uno)",
+    "Papas, en rodajas (1/2 cada una)",
+    "Zanahorias, en rodajas (1/2 cada una)",
+    "Berenjena, en cubos (1/2 cada una)",
+    "Cebollas, en rodajas (2 cada una)",
+    "Pimiento rojo o verde, en rodajas (1 cada uno)",
+    "Apio, en rodajas (2 cada uno)",
+    "Sal (1/2 cucharadita)",
+    "Tomates enlatados (450 g)",
+    "Polvo de ajo (1/2 cucharadita)",
+    "Polvo de caldo de pollo (2 cucharaditas)",
+    "Agua (2 tazas y media)",
+    "Albahaca seca (2 cucharadas)"
+  ],
+  "recipeInstructions": "1. Coloca el pollo y los vegetales en un refractario de 4 cuartos.\n2. Espolvorea con sal.\n3. Añade los tomates, polvo de ajo, polvo de caldo de pollo y agua.\n4. Espolvorea con albahaca.\n5. Cubre bien y hornea a 175°C por 2 horas.\n6. Revuelve después de 1 hora. El sabor continuará desarrollándose mientras el refractario esté tapado.",
+  "url": null
+}

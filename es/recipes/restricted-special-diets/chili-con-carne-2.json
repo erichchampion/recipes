@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-con-carne-2",
+  "name": "Chili con Carne",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "frijoles",
+    "diabetológico",
+    "plato principal",
+    "carne",
+    "olla de cocción lenta",
+    "dietas especiales"
+  ],
+  "recipeIngredient": [
+    "2 tazas de carne molida",
+    "1 taza de cebolla picada finamente",
+    "1 diente de ajo picado finamente",
+    "2 cucharadas de polvo de chile",
+    "1 1/4 tazas de sopa de tomate condensada (sin diluir)",
+    "2 cucharadas de vinagre de malta",
+    "1/4 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida en una sartén caliente.\n2. Incorporar la cebolla y el ajo, cocinar hasta que la cebolla esté tierna.\n3. Agregar el polvo de chile y continuar cocinando unos minutos más.\n4. Verter la sopa de tomate condensada y el vinagre de malta.\n5. Mezclar bien y dejar cocinar a fuego lento durante unos 15 minutos, removiendo ocasionalmente.\n6. Sazonar con sal al gusto.",
+  "url": null
+}

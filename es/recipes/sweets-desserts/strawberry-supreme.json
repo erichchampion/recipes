@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-supreme",
+  "name": "Flan de Fresas Supremo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "Pastel de ángel",
+    "200g Crema de queso",
+    "4 tazas de fresas frescas o congeladas",
+    "1 taza de azúcar impalable",
+    "250g Crema batida",
+    "-----GLASEADO-----",
+    "1 taza de azúcar granulada",
+    "3 cucharadas de harina",
+    "2 gotas de extracto de almendras",
+    "1 taza de agua",
+    "3 cucharadas de gelatina de fresa",
+    "Colorante alimentario rojo, al gusto"
+  ],
+  "recipeInstructions": "1. Cortar el pastel de ángel y colocar en el fondo de un molde.\n2. Ablandar la crema de queso y mezclar con el azúcar impalable.\n3. Extender sobre el pastel de ángel.\n4. Distribuir uniformemente la crema batida sobre la capa de crema de queso.\n5. Colocar las fresas encima.\n6. Mezclar los ingredientes del glaseado hasta que quede suave.\n7. Cocinar a fuego bajo, revolviendo ocasionalmente, hasta espesarse.\n8. Dejar enfriar y verter sobre las fresas.\n9. Refrigerar el pastel.",
+  "url": null
+}

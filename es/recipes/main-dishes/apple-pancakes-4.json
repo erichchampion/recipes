@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-pancakes-4",
+  "name": "Tortas de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "tortas"
+  ],
+  "recipeIngredient": [
+    "2 manzanas medianas",
+    "1 huevo grande",
+    "3 cucharadas de azúcar",
+    "1/2 taza de harina para torta",
+    "3/4 taza de agua",
+    "1/4 taza de aceite",
+    "un pellizco de sal"
+  ],
+  "recipeInstructions": "1. Batir los huevos, el azúcar y el agua en un bol hasta que estén bien combinados.\n2. Pelar y cortar las manzanas en cubos.\n3. Agregar los cubos de manzana a la mezcla de huevo junto con la harina para torta y la sal.\n4. Mezclar todo hasta que todos los ingredientes estén bien incorporados.\n5. Calentar una pequeña cantidad de aceite en una sartén a fuego medio.\n6. Verter cucharadas de la masa en el aceite caliente, formando pequeñas tortas.\n7. Freír cada torta durante 2-3 minutos por cada lado o hasta que esté dorada.",
+  "url": null
+}

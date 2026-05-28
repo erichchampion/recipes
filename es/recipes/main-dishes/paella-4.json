@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "paella-4",
+  "name": "Paella",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "avícola",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "1 pollo de 2 libras (cortado en trozos)",
+    "1/4 taza de aceite de maní",
+    "1/4 taza de agua",
+    "1/2 taza de cebolla picada",
+    "1 diente de ajo machacado",
+    "2 tazas de arroz crudo",
+    "1/4 cucharadita de azafrán",
+    "4 tazas de caldo de pollo",
+    "1 libra de camarones cocidos",
+    "1/2 libra de salchicha italiana",
+    "15 almejas",
+    "1 taza de guisantes descongelados"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en una sartén grande.\n2. Agregar los trozos de pollo y dorarlos por todos lados.\n3. Añadir el agua, cubrir y reducir a fuego lento durante 30 minutos.\n4. Retirar el pollo y reservar.\n5. En la misma sartén, añadir la cebolla y el ajo; saltear hasta que estén transparentes.\n6. Incorporar el arroz y el azafrán; cocinar a fuego lento hasta que el arroz adquiera un tono marrón claro.\n7. Verter el caldo de pollo, llevar a ebullición, cubrir, reducir el fuego y dejar cocer durante unos 17 minutos.\n8. Agregar los guisantes.\n9. Disponer en capas el arroz, el pollo, los camarones, la salchicha y las almejas en un plato para horno engrasado.\n10. Hornear a 350°F durante 15-20 minutos. Si se usan almejas, hornear hasta que se abran.",
+  "url": null
+}

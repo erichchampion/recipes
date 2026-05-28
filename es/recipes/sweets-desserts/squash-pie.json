@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "squash-pie",
+  "name": "Pastel de Calabaza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 litro de calabaza cocida y escurrida",
+    "1 taza de azúcar morena",
+    "3 huevos",
+    "2 cucharaditas de melaza",
+    "1 cucharada de mantequilla",
+    "1 cucharadita de jengibre y canela en polvo",
+    "1/2 cucharadita de sal",
+    "1 litro de leche"
+  ],
+  "recipeInstructions": "1. Batir los huevos.\n2. Agregar los ingredientes restantes a los huevos batidos.\n3. Verter la mezcla en una base de tarta sin hornear.\n4. Hornear en horno precalentado a 180°C hasta que esté cuajado.",
+  "url": null
+}

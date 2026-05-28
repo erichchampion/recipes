@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbequed-pork-chops",
+  "name": "Chuletas de Cerdo a la Barbacoa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecue",
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "4 Chuletas de cerdo grandes",
+    "Condimento para barbacoa",
+    "Sal de ajo",
+    "Sal de apio",
+    "Pimentón",
+    "Salsa K.C. Masterpiece"
+  ],
+  "recipeInstructions": "1. Frotar las chuletas de cerdo con condimento para barbacoa, sal de ajo y sal de apio.\n2. Espolvorear pimentón y una pequeña cantidad de salsa K.C. Masterpiece sobre las brasas durante 20 minutos a fuego bajo.\n3. Aumentar el calor de la parrilla a medio-alto y cocinar las chuletas de cerdo por aproximadamente 40 minutos en total, bañando con la salsa K.C. Masterpiece restante durante los últimos minutos de cocción.",
+  "url": null
+}

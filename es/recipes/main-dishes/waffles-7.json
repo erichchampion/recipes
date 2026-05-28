@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "waffles-7",
+  "name": "Waffles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "gofres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de Harina",
+    "3 cucharaditas de Polvo de Hornear",
+    "1/4 cucharadita de Sal",
+    "2 cucharadas de Azúcar",
+    "2 yemas de Huevo",
+    "1 1/4 tazas de Leche",
+    "6 cucharadas de Aceite de Ensalada o Crisco derretido",
+    "2 claras de Huevo"
+  ],
+  "recipeInstructions": "1. Mezcla la harina, el polvo de hornear, la sal y el azúcar.\n2. Bate las yemas de huevo en un bol separado.\n3. Agrega la leche a las yemas de huevo poco a poco, batiendo constantemente.\n4. Combina los ingredientes húmedos con los secos hasta obtener una mezcla suave.\n5. Incorpora el aceite de ensalada o Crisco derretido.\n6. Bate las claras de huevo hasta formar picos firmes.\n7. Integra suavemente las claras de huevo en la masa.",
+  "url": null
+}

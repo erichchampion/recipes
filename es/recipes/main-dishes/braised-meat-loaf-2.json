@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "braised-meat-loaf-2",
+  "name": "Pastel de Carne Estofado",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americano",
+    "étnico",
+    "mexicano",
+    "plato principal de carne de cerdo y res"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "1 libra de jamón ahumado molido, cocido",
+    "1 libra de carne de cerdo molida",
+    "3 huevos grandes",
+    "3 cucharadas de sal",
+    "1.5 cucharaditas de pimienta negra",
+    "0.25 cucharadita de nuez moscada molida",
+    "1 taza de migas de pan secas",
+    "0.25 taza de mezcla instantánea de tortillas de maíz",
+    "0.25 taza de aceite vegetal"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol grande.\n2. Darle forma de pastel y colocarlo en un molde para hornear.\n3. Cubrir con papel aluminio y hornear a 325°F (160°C) durante 45 minutos.\n4. Retirar del horno y dejar enfriar ligeramente antes de servir.",
+  "url": null
+}

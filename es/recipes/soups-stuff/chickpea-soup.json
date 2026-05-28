@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "chickpea-soup",
+  "name": "Sopa de Garbanzos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "3 latas (16 onzas cada una) de garbanzos (chickpeas) escurridos",
+    "1 cebolla mediana picada",
+    "1 taza de agua",
+    "2 cubos de caldo de carne",
+    "1 lata (6 onzas) de pasta de tomate",
+    "1 cucharadita de orégano",
+    "1/4 cucharadita de pimienta",
+    "sal al gusto"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en una olla a fuego lento.\n2. Llevar a ebullición.\n3. Tapar y cocinar a fuego lento por 1 hora.\n4. Ajustar la sal al gusto.\n5. Servir con pan crujiente y ensalada.\nRinde: 4 porciones.",
+  "url": null
+}

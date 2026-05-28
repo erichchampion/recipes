@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "marinara-sauce-6",
+  "name": "Salsa Marinara",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite de oliva",
+    "2 dientes de ajo, picados finamente",
+    "1 cebolla pequeña, picada",
+    "400 gramos de tomates enlatados, cortados groseramente",
+    "60 gramos de pasta de tomate enlatada",
+    "1 cucharadita de azúcar",
+    "2 cucharaditas de albahaca seca",
+    "1 1/2 cucharaditas de sal"
+  ],
+  "recipeInstructions": "1. En una sartén mediana a fuego medio, calienta el aceite de oliva.\n2. Cocina el ajo y la cebolla hasta que estén tiernos, aproximadamente 5 minutos.\n3. Agrega los tomates, su jugo, la pasta de tomate, el azúcar, la albahaca y la sal. Mezcla bien.\n4. Reduce el fuego a bajo y deja cocinar a fuego lento, cubierto, durante unos 20 minutos o hasta que espese.",
+  "url": null
+}

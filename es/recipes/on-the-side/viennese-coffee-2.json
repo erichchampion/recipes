@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "viennese-coffee-2",
+  "name": "Café Vienés",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "3 tazas de café fuerte caliente recién preparado (Vienés o cualquier tostado oscuro, preferido)",
+    "Una pizca generosa de nuez moscada molida",
+    "Una pizca ligera de clavo molido",
+    "1 taza de crema espesa fría, opcional",
+    "1/4 taza de azúcar glas, opcional",
+    "Ramitas de canela y/o canela en polvo para servir"
+  ],
+  "recipeInstructions": "1. Mezcla la nuez moscada y el clavo en el café caliente y reparte entre 4 tazas o tés de café.\n2. Bate la crema, si se usa, hasta que esté espumosa. Agrega gradualmente el azúcar glas, batiendo hasta que quede firme.\n3. Coloca una generosa cucharada de la crema batida sobre cada taza de café.\n4. Inserta una ramita de canela en cada taza y/o espolvorea ligeramente con canela en polvo.\n5. Sirve inmediatamente.\nYIELD: 4 porciones",
+  "url": null
+}

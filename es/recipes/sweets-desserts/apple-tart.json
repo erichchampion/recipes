@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-tart",
+  "name": "Tarta de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "frutas",
+    "de bajo contenido calórico",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 claras de huevo",
+    "1/4 taza de azúcar",
+    "1/4 taza de leche desnatada",
+    "2 tazas de harina",
+    "1 cucharadita de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "2 cucharaditas de canela",
+    "3 manzanas grandes",
+    "2 cucharadas de azúcar morena",
+    "4 cucharadas de leche desnatada (o agua)",
+    "canela al gusto"
+  ],
+  "recipeInstructions": "Precalentar el horno a 400°F. En un tazón mezclador mediano, combinar el huevo, el azúcar y la leche. En un tazón separado, mezclar la harina, el polvo de hornear, la sal y las especias. Agregar gradualmente los ingredientes secos a la mezcla húmeda hasta formar una masa suave que se pueda manipular. Presionar la masa uniformemente en un molde para pastel antiadherente de 23 cm o 25 cm, cubriendo el fondo y los lados. Pelar y cortar las manzanas en rodajas. Disponerlas en capas superpuestas. Mezclar el azúcar morena, la leche y la canela, y verter sobre las manzanas. Hornear durante 20 minutos. Servir caliente. Para variar, sustituir cualquier fruta fresca de cocción rápida.",
+  "url": null
+}

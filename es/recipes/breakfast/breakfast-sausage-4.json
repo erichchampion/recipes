@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-sausage-4",
+  "name": "Salchicha para Desayuno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "5 cucharadas de sal",
+    "1 cucharada de pimienta roja molida",
+    "1 cucharada de pimienta negra",
+    "2 cucharadas de tomillo frotado",
+    "1 cucharadita de jengibre",
+    "1 cucharadita de nuez moscada",
+    "2 tazas de agua con hielo o jugo de tomate"
+  ],
+  "recipeInstructions": "1. Moler la carne a través de un disco de 3/16 y mezclar bien con los demás ingredientes.\n2. Rellenar las tripas, asegurándose de no dejarla a temperatura ambiente por demasiado tiempo.",
+  "url": null
+}

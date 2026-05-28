@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-soup",
+  "name": "Sopa de Hamburguesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopa de hamburguesas de carne",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de carne molida magra",
+    "1 cebolla mediana, picada",
+    "1 taza de zanahorias, en rodajas",
+    "1 taza de apio, en rodajas",
+    "1 taza de col, en rodajas",
+    "6 oz de pasta de tomate (o 1 taza)",
+    "2 cucharadas de salsa Worcestershire",
+    "3 tazas de caldo de carne (o stock)"
+  ],
+  "recipeInstructions": "1. Dorar la hamburguesa en una sartén y escurrir bien.\n2. Agregar la cebolla picada, las zanahorias, el apio y la col a la sartén.\n3. Mezclar la pasta de tomate, la salsa Worcestershire y el caldo de carne o stock.\n4. Transferir la mezcla a una olla de cocción lenta, añadiendo la hamburguesa dorada.\n5. Tapar y cocinar a fuego lento durante 8-10 horas, o a fuego alto por 3-4 horas.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "quesadillas",
+  "name": "Quesadillas",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "americano",
+    "aperitivos",
+    "étnico",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "12 Tortillas de maíz, gruesas",
+    "Relleno"
+  ],
+  "recipeInstructions": "1. Humedecer ligeramente el borde de la tortilla.\n2. Colocar una cucharada de relleno en la mitad de la tortilla, alejado del borde.\n3. Presionar la otra mitad de la tortilla sobre el relleno, presionando bien los bordes.\n4. Engrasar ligeramente una comal, sartén o plancha.\n5. Cocinar las quesadillas por ambos lados y luego cocinar la parte curva hasta que esté bien cocida por fuera con algunas manchas marrones en la masa.\n6. No calentar demasiado la comal; de lo contrario, las quesadillas se quemarán por fuera mientras permanecen crudas adentro.\n7. Servir inmediatamente. Se endurecen si se dejan reposar.",
+  "url": null
+}

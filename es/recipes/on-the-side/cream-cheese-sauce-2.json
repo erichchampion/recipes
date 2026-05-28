@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cream-cheese-sauce-2",
+  "name": "Salsa de Queso Crema",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso/huevos",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "200 g queso crema",
+    "1 cucharada salsa Tobasco",
+    "1 cucharadita jugo o polvo de cebolla",
+    "1 cucharadita sal de apio",
+    "1 cucharadita salsa Worcestershire"
+  ],
+  "recipeInstructions": "1. Agregar suficiente crema al queso crema para aflojar la mezcla.\n2. Sazonar al gusto con salsa Tobasco, jugo o polvo de cebolla, sal de apio y salsa Worcestershire.",
+  "url": null
+}

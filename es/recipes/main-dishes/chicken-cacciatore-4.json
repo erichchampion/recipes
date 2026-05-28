@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-cacciatore-4",
+  "name": "Pollo Cacciatore",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 cebolla grande, cortada en rodajas finas",
+    "3 libras de pollo, cortado en trozos",
+    "2 latas de puré de tomate (de 6 onzas cada una)",
+    "4 oz de setas, cortadas en rodajas",
+    "1 cucharadita de sal",
+    "2 dientes de ajo, picados finamente",
+    "1 a 2 cucharaditas de orégano",
+    "1/2 cucharadita de semillas de apio",
+    "1 hoja de laurel",
+    "1/2 taza de agua"
+  ],
+  "recipeInstructions": "1. Coloca las cebollas en el fondo de una olla de cocción lenta.\n2. Agrega los trozos de pollo encima de las cebollas.\n3. En un bol, mezcla juntos los ingredientes restantes: puré de tomate, setas, sal, ajo, orégano, semillas de apio y hoja de laurel. Vierte la mezcla sobre el pollo.\n4. Cocina a temperatura baja durante 7 a 9 horas o a temperatura alta durante 3 a 4 horas.\n5. Sirve sobre espagueti.",
+  "url": null
+}

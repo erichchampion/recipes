@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-cheese-bread-2",
+  "name": "Pan de Cerveza y Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "panadería",
+    "panes",
+    "queso"
+  ],
+  "recipeIngredient": [
+    "1 paquete de levadura",
+    "3 tazas de harina de pan",
+    "1 cucharada de azúcar",
+    "1 1/2 cucharaditas de sal",
+    "1 cucharada de mantequilla",
+    "10 onzas de cerveza a temperatura ambiente",
+    "4 onzas de queso americano procesado (2 rebanadas)",
+    "4 onzas de queso Jack u otro queso (cortado en cubos de 1/4 de pulgada)"
+  ],
+  "recipeInstructions": "1. Calentar la cerveza y el queso americano a fuego lento en una estufa o en el microondas.\n2. Revolver hasta que el queso se derrita pero no quede completamente suave.\n3. Agregar todos los ingredientes, asegurándose de elegir harina blanca y activar el proceso.",
+  "url": null
+}

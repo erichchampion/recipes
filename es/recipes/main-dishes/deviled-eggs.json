@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "deviled-eggs",
+  "name": "Huevos Rellenos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "3 huevos grandes cocidos",
+    "2 cucharadas de mayonesa o aderezo para ensalada",
+    "1/2 cucharadita de mostaza preparada",
+    "Una pizca de pimienta"
+  ],
+  "recipeInstructions": "1. Cortar los huevos a lo largo en mitades.\n2. Retirar las yemas y machacarlas con un tenedor.\n3. Mezclar los ingredientes restantes.\n4. Rellenar las claras de huevo con la mezcla de yema, apilándolas ligeramente.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-salsa-gr",
+  "name": "Salsa de Tomate (Gr)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "encurtidos",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "2 tomates maduros medianos, picados groseramente",
+    "2 cucharadas de cebolla roja finamente picada",
+    "1 cucharadita de jalapeño picado",
+    "1/4 taza de jugo de lima",
+    "1 cucharadita de polvo de chile ancho",
+    "1/4 taza de cilantro picado groseramente",
+    "sal y pimienta recién molida"
+  ],
+  "recipeInstructions": "1. Mezcla los tomates, cebollas, jalapeño, jugo de lima, polvo de chile y cilantro en un bol.\n2. Sazona al gusto con sal y pimienta.\nRendimiento: aproximadamente 1 taza",
+  "url": null
+}

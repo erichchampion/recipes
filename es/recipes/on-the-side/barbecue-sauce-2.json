@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecue-sauce-2",
+  "name": "Salsa Barbacoa",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "americana",
+    "cajún",
+    "étnica",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "3 tazas de cebolla picada",
+    "1/4 taza de miel",
+    "2 cucharadas de ajo picado",
+    "2 cucharadas de jugo de limón",
+    "1 cucharadita de sal",
+    "3 cucharadas de salsa Lea & Perrins",
+    "1/2 cucharadita de menta seca",
+    "1/2 cucharadita de humo líquido",
+    "1/2 cucharadita de salsa picante de Luisiana"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en una olla grande.\n2. Lleva a ebullición.\n3. Cocina, con la tapa puesta, a fuego bajo durante varias horas hasta que la mezcla espese y los sabores se mezclen.",
+  "url": null
+}

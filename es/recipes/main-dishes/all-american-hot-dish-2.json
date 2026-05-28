@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "all-american-hot-dish-2",
+  "name": "Plato Caliente Estadounidense",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "queso",
+    "plato principal",
+    "carne",
+    "carnes",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida magra",
+    "1/2 taza de cebolla picada, 1 mediana",
+    "8 onzas de maíz entero con granos enteros, 1 taza",
+    "8 onzas de salsa de tomate, 1 taza",
+    "1/4 taza de aceitunas maduras sin hueso y cortadas por la mitad",
+    "4 onzas de fideos sin cocinar, aproximadamente 2 tazas",
+    "2 tazas de agua",
+    "1 cucharadita de hojas de orégano",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "1 taza de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Cocinar y revolver la carne y la cebolla en una sartén grande hasta que la carne esté marrón. Escurrir el exceso de grasa.\n2. Incorporar el maíz sin escurrir y el resto de los ingredientes.\n3. Para cocinar en una sartén: Calentar la mezcla hasta que hierva, luego reducir el calor y cocinar a fuego lento, sin tapar, revolviendo ocasionalmente, hasta que los fideos estén tiernos (aproximadamente 20 minutos). Servir caliente.\n4. Para cocinar al horno: Verter la mezcla en un refrito de 2 cuartos sin engrasar. Tapar y hornear a 175 °C durante 30 minutos, revolviendo ocasionalmente. Desentarlar y hornear hasta que la mezcla se espese (aproximadamente 15 minutos). Servir caliente.",
+  "url": null
+}

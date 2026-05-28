@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "crepes-3",
+  "name": "Crepes",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "desayuno",
+    "crepes",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "Huevos, 3 cada uno",
+    "Harina, 1/4 taza más 1 cucharada",
+    "Leche, 1 1/2 tazas",
+    "Sal, 1 cucharadita",
+    "Mantequilla sin sal, 1 1/2 cucharadas"
+  ],
+  "recipeInstructions": "1. En un bol, combina los huevos y la harina.\n2. Agrega la leche a la mezcla, batiendo hasta obtener una consistencia suave.\n3. Incorpora la sal y la mantequilla.\n4. Calienta una sartén a fuego medio y cocina la masa, girando la sartén para extenderla uniformemente.",
+  "url": null
+}

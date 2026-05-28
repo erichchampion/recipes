@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "bread-and-butter-pickles",
+  "name": "Encurtidos de Pan y Mantequilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "encurtidos"
+  ],
+  "recipeIngredient": [
+    "5 pepinos medianos",
+    "3 cebollas medianas",
+    "1/4 taza de sal",
+    "1 taza de vinagre",
+    "1/2 cucharadita de semillas de apio",
+    "1 taza de agua",
+    "1/2 cucharadita de semillas de mostaza",
+    "3/4 taza de azúcar",
+    "1/2 cucharadita de jengibre",
+    "1/4 cucharadita de cúrcuma"
+  ],
+  "recipeInstructions": "1. Lavar los pepinos.\n2. Cortarlos en rodajas finas.\n3. Pelar y cortar las cebollas.\n4. Mezclar las cebollas cortadas con los pepinos.\n5. Agregar la sal a la mezcla.\n6. Dejar reposar por 2 horas.\n7. Escurrir la mezcla.\n8. Calentar el vinagre, agua, semillas de apio, semillas de mostaza, azúcar, jengibre y cúrcuma en una olla hasta hervir.\n9. Agregar los pepinos y cebollas a la mezcla caliente.\n10. Continuar hirviendo a fuego lento hasta que estén tiernos.\n11. Colocar los encurtidos calientes en frascos recién esterilizados.",
+  "url": null
+}

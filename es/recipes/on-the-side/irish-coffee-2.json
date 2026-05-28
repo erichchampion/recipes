@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "irish-coffee-2",
+  "name": "Café Irlandés",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "café",
+    "comida de acompañamiento"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de agua tibia",
+    "1 cucharada de cristales de café instantáneo",
+    "1/4 taza de whisky irlandés",
+    "azúcar morena al gusto",
+    "topping de postre"
+  ],
+  "recipeInstructions": "1. Vierte agua tibia en una taza.\n2. Agrega los cristales de café instantáneo a la taza y revuelve hasta que se disuelvan.\n3. Vierte el whisky irlandés y revuelve suavemente.\n4. Endulza con azúcar morena al gusto, removiendo bien.\n5. Opcionalmente, añade una pequeña cantidad de topping de postre o crema batida endulzada para un sabor y textura extra.",
+  "url": null
+}

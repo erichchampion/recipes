@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-casserole",
+  "name": "Omelette de Frijoles Rancheros",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "omelettes",
+    "frijoles rancheros",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de carne molida",
+    "1 cebolla grande",
+    "3 dientes de ajo",
+    "1 lata de tomates Rotel con chiles",
+    "1 lata de sopa de pollo condensada",
+    "1 lata de frijoles estilo Ranch",
+    "2 1/2 tazas de queso cheddar rallado",
+    "1 paquete de tortillas de maíz, rasgadas en pedazos"
+  ],
+  "recipeInstructions": "1. Cocinar la carne molida en una sartén con cebolla y ajo a fuego medio hasta que ya no esté rosada. Escurrir el exceso de grasa.\n2. Mezclar la carne cocida con las latas de tomates Rotel, sopa y frijoles.\n3. Precalentar el horno a 175°C (350°F).\n4. En un refractario, extender la mitad de las tortillas en el fondo.\n5. Colocar la mitad del relleno sobre las tortillas.\n6. Espolvorear la mitad del queso rallado encima.\n7. Repetir los pasos 4-6 con los ingredientes restantes.\n8. Hornear durante 30-35 minutos o hasta que esté caliente y burbujeante.\n9. Servir con lechuga picada, tomates, aceitunas negras, crema agria, rebanadas de jalapeño y salsa.",
+  "url": null
+}

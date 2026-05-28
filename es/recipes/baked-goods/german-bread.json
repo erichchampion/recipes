@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "german-bread",
+  "name": "Pan Alemán",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla",
+    "3/4 taza de azúcar",
+    "1 taza de levadura (disuelta en)",
+    "1/4 taza de agua, tibia",
+    "1 taza de leche hervida",
+    "2 huevos, batidos bien",
+    "2 1/2 tazas de harina de pan (cernida)",
+    "3 tazas de harina de pan (cernida)",
+    "1 1/4 tazas de migas de pan suave",
+    "3 cucharadas de azúcar morena claro",
+    "1 cucharadita de canela",
+    "1/4 cucharadita de sal",
+    "2 cucharadas de mantequilla derretida"
+  ],
+  "recipeInstructions": "1. Batir juntos la mantequilla y el azúcar.\n2. Agregar la leche hervida y mezclar bien.\n3. Cuando esté tibia, incorporar la levadura disuelta, los huevos y la harina (usando más harina si es necesario para hacer una masa firme).\n4. Batir la mezcla a fondo, cubrir y dejar levar en un lugar cálido durante aproximadamente 1-1/2 horas o hasta que se duplique de volumen.\n5. Cuando esté ligera, batir nuevamente a fondo.\n6. Engrasar un molde para tartas profundo y espolvorear ligeramente con harina.\n7. Rellenar los moldes para tartas con la masa usando una cuchara.\n8. Espolvorear la parte superior de los pasteles con la siguiente mezcla: combinar las migas de pan suaves con mantequilla derretida, azúcar, sal y canela, mezclar bien.\n9. Dejar levar los pasteles durante aproximadamente 20 minutos.\n10. Hornear a 400°F durante aproximadamente 20 minutos.",
+  "url": null
+}

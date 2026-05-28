@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fried-clams",
+  "name": "Calamares Fritos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "mariscos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "2 huevos batidos bien",
+    "1 litro de almejas, desascadas",
+    "1/2 taza de leche",
+    "1 taza de harina de maíz blanca",
+    "Sal",
+    "Vinagre",
+    "Pimienta blanca molida"
+  ],
+  "recipeInstructions": "1. Lavar las almejas a fondo después de desascarlas.\n2. Precalentar la freidora profunda a 375 grados.\n3. Batir los huevos en un bol grande junto con la leche, la sal y la pimienta.\n4. Sumergir las almejas en la mezcla de huevo.\n5. Recubrir las almejas con la harina de maíz.\n6. Freír en profundidad hasta que estén crujientes y doradas.\n7. Escurrir.\n8. Espolvorear con sal.\n9. Rociar ligeramente con vinagre.\n10. Servir calientes.",
+  "url": null
+}

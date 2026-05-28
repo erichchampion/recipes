@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "gumbo-2",
+  "name": "Gumbo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "1 litro de okra cortado en trozos pequeños",
+    "6 cucharadas de grasa de tocino",
+    "2 cebollas medianas picadas",
+    "2 tallos de apio picado",
+    "1 pimiento verde picado",
+    "1/4 taza de harina",
+    "2 tazas de tomates",
+    "4 cucharadas de salsa Worcestershire",
+    "1/8 cucharadita de clavo molido",
+    "1/2 cucharadita de polvo de chile",
+    "1 cucharada de sal",
+    "1 cucharadita de pimienta",
+    "1 cucharadita de orégano",
+    "1 cucharadita de tomillo",
+    "1/4 taza de perejil picado",
+    "1 litro de agua",
+    "1 1/2 libras de camarones pelados y desvenados"
+  ],
+  "recipeInstructions": "1. Freír la okra en grasa de tocino hasta que esté tierna.\n2. Agregar las cebollas, el apio y el pimiento verde a la sartén. Cocinar hasta que estén suaves.\n3. Incorporar la harina y cocinar a fuego lento, revolviendo constantemente, hasta que la mezcla burbujee y espese.\n4. Mezclar los tomates, la salsa Worcestershire, el clavo molido, el polvo de chile, la sal, la pimienta, el orégano, el tomillo, el perejil y el agua. Dejar hervir a fuego lento durante 1 a 2 horas.\n5. Agregar los camarones (o sustituir por otro marisco) y cocinar hasta que estén hechos.\n6. Servir sobre arroz.",
+  "url": null
+}

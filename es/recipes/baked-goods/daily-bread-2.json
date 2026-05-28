@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "daily-bread-2",
+  "name": "Pan diario",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 libra de pan redondo",
+    "3 cucharadas de salvado de Miller",
+    "1/4 taza de leche",
+    "3/8 taza de agua",
+    "1 huevo",
+    "2 tazas de harina de trigo integral",
+    "1 cucharadita de sal",
+    "1 cucharada de puré de manzana",
+    "3 cucharadas de miel",
+    "1/4 taza de semillas de girasol",
+    "2 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a la temperatura deseada.\n2. Mezclar todos los ingredientes secos (harina, sal, salvado, levadura) en un bol grande.\n3. En otro bol, batir juntos los ingredientes húmedos (leche, agua, puré de manzana, miel, huevo).\n4. Combinar las mezclas húmedas y secas hasta formar una masa.\n5. Amasar la masa sobre una superficie enharinada durante unos 10 minutos hasta que quede suave.\n6. Colocar la masa en un molde para pan engrasado y cubrir con un paño húmedo.\n7. Dejar levar la masa en un lugar cálido hasta que doble su tamaño, aproximadamente 1 hora.\n8. Precalentar el horno a la temperatura deseada (por ejemplo, 350 °F o 175 °C).\n9. Hornear el pan durante unos 30-35 minutos o hasta que esté dorado y la corteza sea ligera.\n10. Sacar del horno y dejar enfriar sobre una rejilla antes de cortar.",
+  "url": null
+}

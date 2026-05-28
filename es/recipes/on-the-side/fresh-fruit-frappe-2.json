@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fresh-fruit-frappe-2",
+  "name": "Frappe de Frutas Frescas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "comidas acompañantes"
+  ],
+  "recipeIngredient": [
+    "1 taza de melón cortado en cubos",
+    "1 taza de cantalupo o mielona cortada en cubos",
+    "1 taza de piña cortada en trozos",
+    "1 taza de mango cortado en cubos",
+    "1 taza de fresas cortadas por la mitad",
+    "1/4 taza de azúcar",
+    "1 taza de jugo de naranja",
+    "1 x hielo molido"
+  ],
+  "recipeInstructions": "1. Cortar el melón en cubos.\n2. Mezclar todos los ingredientes excepto el hielo en una licuadora.\n3. Llenar el recipiente de la licuadora aproximadamente a la mitad con la mezcla.\n4. Agregar hielo molido hasta llenar el recipiente por completo.\n5. Tapar y mezclar a velocidad alta hasta que quede suave y uniforme.\n6. Repetir con la mezcla restante.\n7. Servir inmediatamente, decorando con frutas si se desea.",
+  "url": null
+}

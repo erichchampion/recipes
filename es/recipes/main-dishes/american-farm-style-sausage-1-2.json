@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "american-farm-style-sausage-1-2",
+  "name": "Salchicha de Estilo Granja Americana 1",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "galletas",
+    "plato principal",
+    "carne",
+    "salchichas"
+  ],
+  "recipeIngredient": [
+    "3 libras de cerdo molido mediano",
+    "2 libras de carne de ternera molida mediana",
+    "1 cucharada de sal",
+    "1 cucharada de pimienta negra",
+    "1 cucharadita de nuez moscada molida",
+    "1 cucharadita de clavo de olor molido",
+    "1 cucharadita de macis molido",
+    "1 cucharadita de salvia molida",
+    "1/2 taza de migas de pan finas",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Rellenar la mezcla en casings de oveja o formar hamburguesas.",
+  "url": null
+}

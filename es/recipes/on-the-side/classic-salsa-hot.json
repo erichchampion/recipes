@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "classic-salsa-hot",
+  "name": "Salsa Clásica (Picante!)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "salsas picantes",
+    "acompañamientos",
+    "vegetariana"
+  ],
+  "recipeIngredient": [
+    "2 tazas de tomates, pelados y picados",
+    "2 cucharadas de cilantro, picado finamente",
+    "2 cucharadas de cebolla roja, picada finamente",
+    "1 cucharada de chiles picantes, picados",
+    "Miel o endulzante alternativo",
+    "Pimienta de chile",
+    "Sal",
+    "Vinagre de vino o jugo de limón"
+  ],
+  "recipeInstructions": "1. Mezcla los tomates, el cilantro, la cebolla y los chiles.\n2. Sazona al gusto con el endulzante, pimienta de chile, sal y vinagre.\n3. Rinde: 2 1/2 tazas.",
+  "url": null
+}

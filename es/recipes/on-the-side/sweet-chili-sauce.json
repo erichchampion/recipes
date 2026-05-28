@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-chili-sauce",
+  "name": "Salsa de Chili Dulce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "relajes",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "6 cebollas",
+    "30 tomates maduros",
+    "6 duraznos",
+    "6 peras",
+    "1 cucharada de sal",
+    "2 pimientos rojos",
+    "1 cucharadita de canela",
+    "2 tazas de apio",
+    "2 pimientos verdes",
+    "1 1/2 tazas de azúcar",
+    "1 1/2 tazas de vinagre",
+    "1 cucharadita de clavos",
+    "1 cucharadita de guayabano"
+  ],
+  "recipeInstructions": "1. Cortar en trozos las cebollas, el apio y los pimientos.\n2. Cortar en trozos los frutos (duraznos y peras).\n3. Mezclar todos los ingredientes en una olla grande.\n4. Cocinar a fuego lento, revolviendo con frecuencia hasta espesarse.\n5. Ajustar la dulzura añadiendo más vinagre y azúcar al gusto.",
+  "url": null
+}

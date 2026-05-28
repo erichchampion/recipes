@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mace-cake",
+  "name": "Pastel de Nuez Moscada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de Manteca (o 1/2 taza de mantequilla y 1/2 taza de Crisco)",
+    "2 tazas de Azúcar",
+    "5 Huevos",
+    "2 tazas de Harina tamizada",
+    "1/2 taza de Leche o Buttermilk",
+    "1/2 cucharadita de Sal",
+    "1 cucharada de Nuez Moscada",
+    "2 cucharaditas de Extracto de Vainilla"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 grados Fahrenheit.\n2. Enmantequillar y enharinar un molde para pastel tipo Bundt.\n3. Mezclar todos los ingredientes en un bol grande hasta que estén bien combinados.\n4. Verter la masa en el molde preparado.\n5. Hornear durante una hora, o hasta que al insertar un palillo en el centro salga limpio.\n6. Cubrir con glaseado o servir sin adornar.",
+  "url": null
+}

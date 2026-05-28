@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "cucumber-salad-5",
+  "name": "Ensalada de Pepino",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "aperitivos",
+    "india",
+    "ensaladas",
+    "vegano",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "Zanahoria pequeña (1)",
+    "Pepinos medianos (3)",
+    "Jugo de limón, 3 cucharadas",
+    "Pimienta negra, 2 cucharaditas",
+    "Polvo de chile, 0.5 cucharadita",
+    "Mantequilla o oleo, 1 cucharada",
+    "Sal, 0.125 cucharadita",
+    "Cilantro fresco, 1 cucharada"
+  ],
+  "recipeInstructions": "1. Pelar y rallar la zanahoria.\n2. Pelar y cortar los pepinos en rodajas.\n3. Mezclar el jugo de limón, pimienta negra, polvo de chile, mantequilla y sal.\n4. En un plato para ensalada, disponer las rodajas de pepino en dos capas.\n5. Verter el jugo de limón con especias sobre cada capa de pepinos.\n6. Espolvorear los trozos de zanahoria y cilantro encima de la última capa.",
+  "url": null
+}

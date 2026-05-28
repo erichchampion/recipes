@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "catsup-spices-b",
+  "name": "Especias para Catsup B",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "platos secundarios",
+    "especias"
+  ],
+  "recipeIngredient": [
+    "3 libras de pimienta blanca",
+    "1/2 libra de pimentón cayena",
+    "1/2 libra de guindilla",
+    "1/2 libra de clavos enteros",
+    "1 libra de semillas de apio"
+  ],
+  "recipeInstructions": "1. Moler los ingredientes utilizando un molinillo de especias o un mortero y un pilón.\n2. Mezclar las especias molidas en un bol hasta que queden bien combinadas.",
+  "url": null
+}

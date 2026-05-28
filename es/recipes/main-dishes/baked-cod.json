@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-cod",
+  "name": "Bacalao al horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "4 filetes de bacalao",
+    "sal sazonada",
+    "1 palo de mantequilla",
+    "1 limón",
+    "perejil"
+  ],
+  "recipeInstructions": "1. Coloca el bacalao en un refractario (preferiblemente descongelado).\n2. Espolvorea ligeramente la sal sazonada sobre el pescado.\n3. Exprime el jugo de medio limón y viértelo sobre el bacalao.\n4. Corta la mantequilla en trozos pequeños y colócalos encima del pescado, asegurándote de que cada trozo tenga 2 o 3 pedazos de mantequilla.\n5. Cubre el refractario con papel aluminio.\n6. Hornea a 350 °F (175 °C) durante 30 minutos.\n7. Retira del horno y espolvorea perejil sobre el bacalao antes de servir.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "sour-cream-sauce",
+  "name": "Salsa de Crema Ácida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1/2 litro de crema ácida",
+    "1 cucharada de jugo de limón",
+    "1/2 taza de mayonesa",
+    "1 cucharada de jugo de naranja",
+    "1 cucharadita de azúcar"
+  ],
+  "recipeInstructions": "1. En un bol, mezclar la crema ácida y la mayonesa hasta que se combinen.\n2. Disolver 1 cucharadita de azúcar en los jugos (de limón y naranja).\n3. Agregar los jugos a la mezcla de crema ácida y mayonesa.\n4. Esta salsa se destina a mezclar con ensaladas de frutas. Para usarla solo como cobertura, añadir 1 taza de crema batida.",
+  "url": null
+}

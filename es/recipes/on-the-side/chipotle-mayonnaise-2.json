@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "chipotle-mayonnaise-2",
+  "name": "Mayonesa Chipotle",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "salsa",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de mayonesa",
+    "3/4 taza de crema agria",
+    "1/8 cucharadita de orégano molido",
+    "2 chiles chipotle en salsa de adobo, escurridos"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en una procesadora de alimentos.\n2. Procesar hasta que esté bien mezclado.\n3. Cubrir y refrigerar por 60 minutos.\n4. Servir ligeramente fría.",
+  "url": null
+}

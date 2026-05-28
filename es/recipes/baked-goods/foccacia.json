@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "foccacia",
+  "name": "Focaccia",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 masa de pizza",
+    "2 onzas de aceite de oliva",
+    "un pellizco de sal",
+    "1 onza de ajo picado",
+    "1 y 1/2 onzas de aceitunas Kalamata sin hueso y picadas",
+    "un pellizco de romero picado"
+  ],
+  "recipeInstructions": "1. Estirar la masa de pizza en una superficie plana para formar un círculo de aproximadamente 10 pulgadas.\n2. Cubrir toda la superficie de la masa con aceite de oliva.\n3. Extender uniformemente el ajo y las aceitunas sobre la masa.\n4. Espolvorear romero y sal por encima.\n5. Hornear en una piedra para pizza en el horno hasta que esté dorado.\n6. Dejar enfriar antes de servir.",
+  "url": null
+}

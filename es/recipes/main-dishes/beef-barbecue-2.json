@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-barbecue-2",
+  "name": "Asado de Carne de Res",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "4 lb de aguja de res",
+    "1 cebolla grande, picada",
+    "1/2 taza de apio picado",
+    "2 cucharadas de vinagre",
+    "2 cucharadas de azúcar morena",
+    "3 cucharadas de salsa Worcestershire",
+    "4 cucharadas de jugo de limón",
+    "1 taza de ketchup",
+    "1 cucharadita de chile en polvo",
+    "1 1/2 tazas de agua"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Verter la mezcla sobre la carne.\n3. Cocinar a 350°F hasta que la carne esté lista (por lo general, unas tres horas).\n4. Desmenuzar la carne usando dos tenedores o una picadora de carne.\n5. Devolver la carne desmenuzada y la salsa al horno, si se desea, para permitir que la salsa absorba completamente.\n6. El plato se puede congelar para su uso posterior.",
+  "url": null
+}

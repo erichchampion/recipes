@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-piquant",
+  "name": "Pollo Picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "diabetico",
+    "plato principal",
+    "carne",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "3/4 lb de pechuga de pollo sin hueso y sin piel",
+    "1/4 taza de harina",
+    "sal y pimienta",
+    "1 cucharadita de aceite de oliva",
+    "1/4 taza de caldo de pollo sin grasa y bajo en sal",
+    "2 cucharadas de vinagre de vino rojo",
+    "1/4 taza de gherkin dulce picado",
+    "1 cucharada de alcaparras",
+    "1 diente de ajo machacado"
+  ],
+  "recipeInstructions": "1. Retirar la mayor cantidad posible de grasa del pollo.\n2. Sazonar la harina con sal y pimienta.\n3. Pasear el pollo en la harina sazonada, sacudiendo el exceso.\n4. Calentar el aceite de oliva en una sartén antiadherente a fuego medio-alto.\n5. Cuando el aceite esté muy caliente, dorar el pollo por ambos lados durante unos 2 minutos por lado.\n6. Agregar el caldo, vinagre, gherkin, alcaparras y ajo machacado a la sartén.\n7. Seguir salteando por 5 minutos adicionales o hasta que el pollo esté cocido completamente.\n8. Sazonar con sal y pimienta al gusto.\n9. Servir el pollo con la salsa encima.",
+  "url": null
+}

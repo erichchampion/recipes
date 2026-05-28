@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "calabaza-soup",
+  "name": "Sopa de Calabaza",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "americana",
+    "caribeña",
+    "étnica",
+    "sopas",
+    "vegetariana"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb calabaza de verano, pelada y sin semillas",
+    "1 pimiento verde, picado",
+    "1 diente de ajo, prensado",
+    "4 cebollinos, finamente picados",
+    "6 hojas de tomillo",
+    "4 granos enteros de guindilla, machacados",
+    "1 cucharadita de comino",
+    "1 cucharadita de fenogreco",
+    "1 tomate maduro grande, pelado y picado",
+    "1 taza de leche de coco",
+    "sal y pimienta",
+    "chili al gusto"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes excepto la sal, la pimienta y el chili con 6 tazas de agua en una olla.\n2. Hervir a fuego lento durante 1 hora.\n3. Colar el líquido en un bol y dejar enfriar los sólidos.\n4. Licuar los sólidos fríos.\n5. Devolver la puré a la olla con el líquido colado.\n6. Hervir a fuego lento, sin tapa, hasta que la mezcla se reduzca a una consistencia similar a un sirope.\n7. Agregar las especias mientras hierve.\n8. Servir caliente.",
+  "url": null
+}

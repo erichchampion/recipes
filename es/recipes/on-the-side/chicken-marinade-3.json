@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-marinade-3",
+  "name": "Marinada de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "marinadas",
+    "pollo",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de aceite vegetal",
+    "1 cucharadita de condimento italiano",
+    "2 cucharadas de vinagre de vino blanco",
+    "1/2 cucharadita de polvo de ajo",
+    "500 gramos de pechugas de pollo deshuesadas y sin piel, en mitades"
+  ],
+  "recipeInstructions": "1. Mezcla los cuatro primeros ingredientes en un plato de vidrio.\n2. Agrega el pollo a la marinada y gíralo para cubrirlo uniformemente.\n3. Marina durante 20-30 minutos.\n4. Asa a la parrilla o al horno el pollo marinado hasta que esté cocido.",
+  "url": null
+}

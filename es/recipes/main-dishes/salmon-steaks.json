@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "salmon-steaks",
+  "name": "Lomitos de Salmón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbacoa",
+    "pescado",
+    "plato principal",
+    "carne",
+    "salmón",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "4 lomitos de salmón",
+    "1/4 taza de aceite",
+    "2 cucharadas de jugo de limón",
+    "2 cucharadas de salsa de soja",
+    "1/2 cucharadita de jengibre"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes en un bol.\n2. Coloca la mezcla sobre los lomitos de salmón y marina durante 30 minutos.\n3. Voltea los lomitos y marina nuevamente por otros 30 minutos.\n4. Asa los lomitos durante 10 minutos, dándoles la vuelta una vez.\n5. Cepilla la marinada sobre los lomitos y cocina por 10 minutos adicionales.",
+  "url": null
+}

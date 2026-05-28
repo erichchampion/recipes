@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-crepes",
+  "name": "Crepes de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "pollo",
+    "huevos",
+    "plato principal",
+    "carne",
+    "avea"
+  ],
+  "recipeIngredient": [
+    "1 huevo",
+    "1/2 taza de leche",
+    "1/8 cucharadita de sal",
+    "1 cucharada de aceite de maíz",
+    "1/3 taza de harina integral de trigo",
+    "-----RELLENO-----",
+    "2 cucharadas de mantequilla",
+    "2 cucharadas de harina integral de trigo",
+    "1/2 taza de caldo de pollo",
+    "1/2 taza de leche",
+    "2 cucharadas de vino blanco seco",
+    "1/2 taza de setas cocidas",
+    "1/2 taza de queso suizo rallado",
+    "1/2 taza de pollo cocido",
+    "1/4 taza de perejil fresco picado"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes para los crepes en un bol.\n2. Vierte cucharadas de la masa en una sartén o plancha para crepes caliente engrasada.\n3. No sobrecargues la sartén, ya que la mezcla se extiende ampliamente.\n4. Después de 1 minuto, da la vuelta a los crepes y cocina el otro lado hasta que esté dorado.\n5. Apila los crepes cocidos cuando estés listo para armar.\nInstrucciones del relleno:\n1. Derrite la mantequilla en una cacerola mediana.\n2. Agrega la harina y revuelve durante 1 minuto.\n3. Añade gradualmente el caldo, la leche y el vino, mezclando hasta obtener una consistencia suave.\n4. En un bol aparte, combina los demás ingredientes del relleno.\n5. Incorpora el relleno a la salsa.\n6. Arma los crepes colocando aproximadamente 1/3 taza de relleno en el centro de cada crepe.\n7. Enrolla los crepes apretadamente y asegura los extremos.\n8. Sirve caliente. Da para 4 crepes rellenos, cada uno con 9 gramos de proteína.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-rice-2",
+  "name": "Arroz Picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "plato principal",
+    "arroz",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "225 g, 8 oz de arroz largo marrón",
+    "5 ml (1 cucharadita) de cúrcuma en polvo",
+    "1 rama de canela",
+    "1 hoja de laurel",
+    "4 vainas de cardamomo verde",
+    "6 granos de pimienta negra"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en una olla con suficiente agua y lleva a ebullición.\n2. Reduce el fuego a bajo, tapa y deja cocinar a fuego lento durante 35 minutos o hasta que el arroz esté tierno.",
+  "url": null
+}

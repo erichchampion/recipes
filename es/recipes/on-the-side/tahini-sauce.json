@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "tahini-sauce",
+  "name": "Salsa de Tahini",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "acompañamientos",
+    "vegetariana"
+  ],
+  "recipeIngredient": [
+    "2 dientes de ajo",
+    "1/4 taza de tahini (pasta de semillas de sésamo)",
+    "4 cucharadas de jugo de limón",
+    "1/2 cucharadita de sal",
+    "4 cucharadas de agua fría"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes a una licuadora.\n2. Licuar hasta obtener una consistencia suave y cremosa, aproximadamente 30 segundos a 1 minuto.\n3. Raspar los lados de la licuadora si es necesario.\n4. Apagar la licuadora y agregar el agua fría gradualmente mientras licua para lograr la textura deseada.",
+  "url": null
+}

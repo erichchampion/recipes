@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "one-pot-chicken-entree",
+  "name": "Entrada de Pollo a una Sartén",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave"
+  ],
+  "recipeIngredient": [
+    "Pecho de pollo sin piel ni hueso cortado en trozos (1 taza)",
+    "Zanahoria pelada y picada (2 tazas)",
+    "Agua o caldo de pollo casero sin sal (2 tazas)",
+    "Guisantes congelados (1/2 taza)",
+    "Macarrones cocidos u otra pasta (1/2 taza)"
+  ],
+  "recipeInstructions": "1. En una sartén, combina el pollo, las zanahorias y el agua.\n2. Lleva a ebullición a fuego lento y tapa.\n3. Cocina por 8 a 10 minutos.\n4. Agrega los guisantes y la pasta.\n5. Continúa cocinando por otros 4 a 5 minutos.\n6. Licúa la mezcla hasta que quede suave.\n7. Ajusta la consistencia con agua o caldo extra si es necesario.",
+  "url": null
+}

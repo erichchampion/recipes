@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-soup-3",
+  "name": "Sopa de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "diabetico",
+    "plato principal",
+    "olla de cocción lenta",
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "3 lb de pollo, cortado en trozos",
+    "1/2 taza de cebada cruda",
+    "9 tazas de agua",
+    "2 cucharadas de jugo de limón",
+    "1/2 taza de sal",
+    "1/2 cucharadita de pimienta negra molida",
+    "1/4 cucharadita de semillas de apio",
+    "1 1/2 tazas de judías verdes frescas, cortadas en trozos pequeños",
+    "1/2 taza de perejil picado"
+  ],
+  "recipeInstructions": "1. Coloca el pollo, el agua, las hojas de apio y una cebolla pequeña en una olla grande. Reserva los tallos de apio.\n2. Tapa la olla y lleva a ebullición. Reduce el fuego y deja cocinar a fuego lento durante 1 1/2 horas hasta que el pollo esté tierno. Retira el pollo y cuela el caldo en un bol. Enfría hasta que la grasa se asiente en la superficie. Retira la grasa.\n3. Desmenuza el pollo, retirando la piel y las huesos, y resérvalo. Pica los tallos de apio reservados y la cebolla.\n4. Vuelve a colocar el caldo en la olla. Añade los apios picados, la cebolla, el zanahoria, el perejil, la cebada, el jugo de limón y las especias. Tapa y deja cocinar a fuego lento durante 20 minutos.\n5. Incorpora las judías verdes y el pollo a la sopa y continúa cocinando durante 15 minutos más o hasta que las judías estén tiernas. Sirve cada ración con 1 1/2 tazas.",
+  "url": null
+}

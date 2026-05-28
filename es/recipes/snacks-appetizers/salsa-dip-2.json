@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "salsa-dip-2",
+  "name": "Salsa Dip",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "dips",
+    "mexicano",
+    "salsa",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "4 tomates (cortados/escurridos)",
+    "1 cucharada de aceite de oliva",
+    "2 paquetes de cebolla verde (cortada)",
+    "1 lata de aceitunas negras (cortadas)",
+    "1 lata de chiles verdes (cortados)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Refrigerar por al menos 1 hora, o mejor aún, durante la noche.\n3. Servir con totopos.",
+  "url": null
+}

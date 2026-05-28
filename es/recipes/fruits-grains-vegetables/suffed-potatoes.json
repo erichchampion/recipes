@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "suffed-potatoes",
+  "name": "Papas rellenas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "papas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "4 papas asadas",
+    "3 cucharadas de mantequilla",
+    "1 manojo de cebolletas picadas",
+    "2 tazas de anacardos",
+    "2 tomates picados",
+    "1 pimiento verde picado",
+    "2 dientes de ajo picados",
+    "2 tazas de queso cheddar picado"
+  ],
+  "recipeInstructions": "1. Asa las papas a 350 grados Fahrenheit durante aproximadamente 1 hora, hasta que estén suaves al insertar un tenedor.\n2. Corta cada papa por la mitad y retira el centro con una cuchara.\n3. Coloca el centro de las papas en una sartén con mantequilla, cebolletas, anacardos, tomates, pimiento verde y ajo.\n4. Saltea la mezcla durante 10 minutos.\n5. Rellena las pieles de papa con la mezcla salteada.\n6. Espolvorea queso encima y sirve inmediatamente.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-barley-chowder",
+  "name": "Sopa de Pollo y Trigo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "4 libras de pollo",
+    "2 tallos de apio",
+    "1 ramita de perejil",
+    "4 cuartos de agua",
+    "1 cucharadita de sal",
+    "1/2 taza de trigo sin cocinar",
+    "1/2 libra de tocino cocido y desmenuzado",
+    "2 zanahorias grandes, cortadas en cubos",
+    "Maíz congelado",
+    "Guisantes congelados",
+    "1 lata de leche evaporada",
+    "Pimienta al gusto",
+    "2 papas grandes, cortadas en cubos"
+  ],
+  "recipeInstructions": "1. En una olla grande, combina todos los ingredientes.\n2. Lleva la mezcla a ebullición.\n3. Disminuye el fuego y deja cocinar hasta que el pollo esté tierno.",
+  "url": null
+}

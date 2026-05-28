@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-smoothie-5",
+  "name": "Batido de Frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "entrantes"
+  ],
+  "recipeIngredient": [
+    "8 onzas de cóctel de frutas, enlatado y refrigerado",
+    "1 taza de leche",
+    "1/4 taza de leche en polvo sin grasa",
+    "1/2 cucharadita de extracto de vainilla",
+    "1/2 taza de cubos de hielo",
+    "Canela molida (al gusto)"
+  ],
+  "recipeInstructions": "1. En un recipiente para licuadora, combina el cóctel de frutas refrigerado y los ingredientes restantes.\n2. Tapa; licúa hasta que quede combinado.\n3. Agrega los cubos de hielo; tapa y licúa hasta obtener una textura suave.\n4. Espolvorea con canela adicional (para decorar), si lo deseas.\n5. Sirve inmediatamente.",
+  "url": null
+}

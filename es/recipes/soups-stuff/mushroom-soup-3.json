@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "mushroom-soup-3",
+  "name": "Sopa de Setas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopa",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de concentrado de sopa de setas",
+    "2 tazas de caldo de carne",
+    "sal al gusto",
+    "3 cucharadas de jerez, opcional"
+  ],
+  "recipeInstructions": "1. Mezcla el concentrado de sopa de setas con el caldo de carne en una olla grande.\n2. Coloca la olla a fuego medio y revuelve suavemente hasta que la mezcla hierva.\n3. Al hervir, reduce el fuego a bajo.\n4. Añade sal al gusto y deja que la sopa reduzca durante 30 minutos.\n5. Incorpora el jerez (si se usa) y déjalo cocinar a fuego lento por 5 minutos adicionales.",
+  "url": null
+}

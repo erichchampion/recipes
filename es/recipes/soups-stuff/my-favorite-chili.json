@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "my-favorite-chili",
+  "name": "Mi Chili Favorito",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "chili",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "3 cucharadas de polvo de chili",
+    "240 ml de jugo de verduras V-8",
+    "1/2 taza de cebolla picada",
+    "32 onzas de frijoles renos (escurridos y enjuagados)",
+    "400 g de tomates italianos (triturados)",
+    "400 g de tomates mexicanos (estofados)",
+    "Una pizca de salsa Worcestershire"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida hasta que esté completamente cocida.\n2. Escurrir el exceso de grasa de la carne por completo.\n3. Mezclar el polvo de chili y la cebolla picada, cocinar durante 2-3 minutos.\n4. Combinar los tomates y el jugo de verduras V-8 en una sartén grande y pesada con tapa.\n5. Agregar la carne dorada a la mezcla de tomate en la sartén.\n6. Reducir a fuego lento, revolviendo ocasionalmente, por aproximadamente 40 minutos.\n7. Añadir los frijoles renos escurridos y enjuagados al chili y seguir reduciendo a fuego lento durante 15-20 minutos adicionales.\n8. Retirar del fuego y dejar reposar el chili cubierto por hasta 1 hora para que se mezclen los sabores.\n9. Servir con una opción de crema agria, queso cheddar, cebolla verde picada o blanca, y galletas de queso caseras.",
+  "url": null
+}

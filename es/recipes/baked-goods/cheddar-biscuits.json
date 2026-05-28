@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheddar-biscuits",
+  "name": "Galletas de Cheddar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "panes",
+    "queso/huevos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de Harina Blanqueada, Cernida",
+    "1 taza de Queso Cheddar, Picante, Rallado",
+    "4 cucharaditas de Polvo de Hornear",
+    "1/2 cucharadita de Sal",
+    "2/3 taza de Manteca",
+    "2/3 taza de Leche"
+  ],
+  "recipeInstructions": "1. Mezcla la harina, el polvo de hornear y la sal en un bol.\n2. Agrega el queso cheddar rallado y mézclalo.\n3. Corta la manteca en los ingredientes secos hasta obtener una mezcla uniforme.\n4. Añade la leche gradualmente y mezcla rápidamente pero bien. La masa debe ser suave.\n5. Extiéndela sobre una superficie enharinada y amasa ligeramente durante unos segundos.\n6. Presiona hasta alcanzar 3/8 de pulgada de grosor.\n7. Corta en porciones y colócalas en una bandeja para hornear.\n8. Hornea en un horno precalentado a 450°F (230°C) durante unos 30 minutos o hasta que estén ligeramente doradas.\n9. Sirve calientes.",
+  "url": null
+}

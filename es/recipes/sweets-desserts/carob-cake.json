@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "carob-cake",
+  "name": "Pastel de Carob",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina blanca",
+    "1 1/4 tazas de harina integral",
+    "1 cucharadita de bicarbonato de sodio",
+    "1/4 cucharadita de sal",
+    "1/2 taza de polvo de carob (o cacao)",
+    "1/2 taza de azúcar",
+    "1/2 taza de aceite de maíz",
+    "3/4 taza de agua",
+    "1 1/4 tazas de miel o jarabe de arce",
+    "1 cucharadita de vinagre de manzana",
+    "2 cucharaditas de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Tamiza las harinas junto con el bicarbonato de sodio, la sal y el carob.\nIncorpora el azúcar.\n2. En un bol grande, mezcla el aceite, el agua, la miel (o jarabe de arce), el vinagre y la vainilla hasta que quede bien integrado.\n3. Engrasa y enharina dos moldes para pastel de 8 pulgadas. Divide la masa por igual entre los dos moldes.\n4. Hornea a 175 °C durante 20 minutos, o hasta que los pasteles estén listos.\n5. Deja enfriar durante unos 10 minutos, luego voltea sobre rejillas para enfriar completamente.",
+  "url": null
+}

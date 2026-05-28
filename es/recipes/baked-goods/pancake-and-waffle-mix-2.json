@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pancake-and-waffle-mix-2",
+  "name": "Mezcla para panqueques y gofres",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "panes",
+    "brunch",
+    "varios",
+    "mezclas"
+  ],
+  "recipeIngredient": [
+    "4 tazas de harina de uso general",
+    "2 tazas de maíz molido",
+    "3 cucharaditas de sal",
+    "4 cucharaditas de polvo para hornear",
+    "2/3 taza de corta líquida (la mitad para panqueques)",
+    "2 tazas de harina de centeno",
+    "1 taza de germen de trigo crudo",
+    "4 cucharaditas de bicarbonato"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta combinarlos bien. Esta mezcla se puede usar inmediatamente o almacenar en un lugar fresco para su uso futuro.\n2. Al preparar, mezclar partes iguales de la mezcla y leche (leche agria recomendada). Para panqueques, usar 1 huevo por cada 1-2 tazas de la mezcla. Para gofres, usar 1 huevo por taza de la mezcla.",
+  "url": null
+}

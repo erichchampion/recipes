@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "hummos",
+  "name": "Hummus",
+  "recipeCuisine": "Africa & Middle East",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "sin grasa",
+    "salsas",
+    "dieta especial",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 frijol cannelloni grande (garbanzo)",
+    "1/2 cebolla pequeña",
+    "1 diente de ajo o 2",
+    "comino - unas cucharaditas",
+    "cilantro - 1 cucharadita o 2",
+    "pimienta chili - 1 cucharada (o cayena)",
+    "jugo de limón",
+    "vinagre - 1 cucharadita",
+    "sal al gusto",
+    "perejil picado"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en la licuadora.\n2. Licuar hasta obtener una textura suave y cremosa, añadiendo más líquido si es necesario para lograr una consistencia más líquida.\n3. Ajustar la sazón probando y agregando sal o especias adicionales al gusto.\n4. Servir caliente con pan pita, verduras, o disfrutar frío como dip o untable.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "fireside-coffee-6",
+  "name": "Café de Fuego",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de Mezcla de Chocolate Caliente",
+    "1 taza de Café Instantáneo",
+    "1 cucharadita de Canela",
+    "2 tazas de Creamer (lácteo o vegetal)",
+    "1/2 taza de Azúcar (ajustable de 1/2 a 1 taza para una bebida más dulce)",
+    "1/2 cucharadita de Nuez Moscada"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcle juntos la mezcla de chocolate caliente, café instantáneo, canela, creamer y azúcar.\n2. Revuelva hasta que todos los ingredientes estén bien combinados.\n3. Para porciones individuales, vierta en tazas y agregue agua hirviendo a cada taza según lo deseado.\n4. Revuelva suavemente hasta que se mezcle con el líquido.\n5. Opcional: Agregue un toque festivo con crema batida y espolvoree con canela o nuez moscada adicional.",
+  "url": null
+}

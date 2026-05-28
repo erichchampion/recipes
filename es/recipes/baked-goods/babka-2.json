@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "babka-2",
+  "name": "Babka",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "étnica",
+    "fiestas"
+  ],
+  "recipeIngredient": [
+    "1 paquete de levadura",
+    "4 tazas de harina de pan",
+    "1/2 taza de azúcar (más 2 cucharadas)",
+    "1 cucharadita de sal",
+    "1/4 taza de agua tibia",
+    "1 taza de leche",
+    "1/4 libra de mantequilla",
+    "2 huevos",
+    "3/4 taza de pasas doradas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a la temperatura deseada.\n2. Mezclar la levadura con agua tibia en un bol hasta que se active.\n3. En otro bol, combinar la harina, el azúcar (1/2 taza) y la sal.\n4. Agregar la leche y la mantequilla derretida a la mezcla de levadura.\n5. Incorporar los huevos y las pasas.\n6. Formar la masa en forma de rollo y colocarla en una bandeja para hornear engrasada.\n7. Cubrir con papel plástico y dejar levar hasta que duplique su tamaño.\n8. Hornear según las instrucciones de la receta.\n9. Dejar enfriar completamente antes de cortar y servir.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "zombie-2",
+  "name": "Zombi",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 medida de ron oscuro",
+    "1 medida de ron claro",
+    "1 medida de brandy de albaricoque",
+    "1/2 medida de jugo de limón",
+    "1/2 medida de jugo de piña",
+    "1/2 medida de jugo de naranja"
+  ],
+  "recipeInstructions": "1 Colocar todos los ingredientes en una licuadora con hielo y mezclar hasta obtener una consistencia suave.\n2 Verter en un vaso grande o jarra y completar con hielo triturado.\n3 Decorar con rodajas de piña, naranja, limón, lima y un cerezo maraschino.",
+  "url": null
+}

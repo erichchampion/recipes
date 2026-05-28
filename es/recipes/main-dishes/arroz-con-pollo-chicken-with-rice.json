@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "arroz-con-pollo-chicken-with-rice",
+  "name": "Arroz con Pollo (Pollo con Arroz)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "avea"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz",
+    "1 cubo de caldo de pollo",
+    "1/8 cucharadita de hebras de azafrán",
+    "1 paquete de pollo deshidratado",
+    "1 taza de guisantes deshidratados",
+    "3 tazas de agua"
+  ],
+  "recipeInstructions": "1. En una olla de cocción, agregar 2 tazas de agua al arroz y llevar a ebullición.\n2. Tapar y cocinar a fuego lento durante 15 minutos.\n3. Mientras tanto, desmenuzar las hebras de azafrán en 1 cucharada de agua en un tazón aparte y dejar remojar.\n4. Aproximadamente a la mitad del tiempo de cocción del arroz (unos 10 minutos más), agregar el agua con azafrán, el caldo deshidratado, el pollo y los guisantes al pot.\n5. Tapar, llevar de nuevo a ebullición y cocinar a fuego lento hasta que el arroz esté listo, unos 7 minutos más. Añadir más agua si es necesario.\n6. Tiempo total de cocción: 20 a 25 minutos.",
+  "url": null
+}

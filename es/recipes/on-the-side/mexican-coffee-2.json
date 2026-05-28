@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-coffee-2",
+  "name": "Café Mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "mexicano",
+    "comidas de acompañamiento"
+  ],
+  "recipeIngredient": [
+    "1 taza de agua",
+    "3 cucharadas de café molido groseramente",
+    "1 rama pequeña de canela",
+    "azúcar morena oscura"
+  ],
+  "recipeInstructions": "1. Coloca el agua en una cacerola pesada y lleva a ebullición.\n2. Añade el café y revuelve bien.\n3. Agrega la rama de canela.\n4. Vuelve a llevar a ebullición; luego retira del fuego hasta que deje de burbujear.\n5. Retira del fuego, cuela en una taza.\n6. Endulza con azúcar morena oscura.",
+  "url": null
+}

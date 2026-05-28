@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "stuffed-red-snapper-2",
+  "name": "Pescado Rojo Relleno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "mariscos",
+    "pescado rojo"
+  ],
+  "recipeIngredient": [
+    "1 cebolla grande",
+    "2 cucharadas de aceite",
+    "1 pescado rojo (deshuesado y fileteado)",
+    "1 caja de Stove Top pan de maíz relleno"
+  ],
+  "recipeInstructions": "1. Prepara el relleno Stove Top según las instrucciones del paquete.\n2. Pica la cebolla y sofríe en 2 cucharadas de aceite hasta que esté tierna.\n3. Retira el sofrito de cebolla de la sartén y transfiérelo a un refractario.\n4. Coloca el filete de pescado sobre la cebolla en el refractario.\n5. Extiende el relleno preparado sobre el filete de pescado.\n6. Hornea a 180 °C durante 30 minutos.",
+  "url": null
+}

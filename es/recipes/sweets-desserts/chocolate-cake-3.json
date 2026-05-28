@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-cake-3",
+  "name": "Pastel de Chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "4 cucharadas de cacao en polvo",
+    "1/2 taza de agua hirviendo",
+    "1/4 taza de margarina",
+    "1 1/2 tazas de harina",
+    "3/4 taza de azúcar",
+    "1 huevo",
+    "1/4 cucharadita de sal",
+    "3 1/2 cucharaditas de polvo de hornear",
+    "1 cucharadita de extracto de vainilla",
+    "2/3 taza de leche o agua"
+  ],
+  "recipeInstructions": "1. Batir la margarina y el azúcar hasta obtener una mezcla suave.\n2. Agregar el huevo a la mezcla y mezclar bien.\n3. Alternar la adición de la mezcla de harina, polvo de hornear y sal con leche o agua.\n4. Incorporar por separado el cacao en polvo y el agua hirviendo.\n5. Verter la masa en un molde para pastel engrasado.\n6. Hornear durante 30 minutos a 350°F (175°C).\n7. Apagar el horno cuando el pastel esté listo.",
+  "url": null
+}

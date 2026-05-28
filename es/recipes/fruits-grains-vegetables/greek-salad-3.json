@@ -1,0 +1,36 @@
+{
+  "@type": "Recipe",
+  "identifier": "greek-salad-3",
+  "name": "Ensalada Griega",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de aceite de ensalada",
+    "2 cucharadas de vinagre",
+    "1 huevo",
+    "1/2 lata (2 onzas) de filetes de anchoa escurridos",
+    "1 tallo pequeño de apio",
+    "14 cebollinos pequeños",
+    "1 zanahoria mediana",
+    "3 radices",
+    "1 cucharadita de capers escurridos",
+    "1 diente pequeño de ajo machacado",
+    "1 1/2 cucharaditas de azúcar",
+    "1/2 cucharadita de orégano seco",
+    "1/2 cucharadita de pimentón dulce",
+    "1/4 cucharadita de sal",
+    "1/8 cucharadita de pimienta negra",
+    "Lechuga para ensalada",
+    "Queso feta",
+    "Flores de coliflor",
+    "Gajos de tomate",
+    "Anillos de pimiento verde",
+    "Cebollinos picados",
+    "Aceitunas maduras"
+  ],
+  "recipeInstructions": "1. En un recipiente de licuadora, combina el aceite de ensalada, vinagre, huevo, 1/2 de las filetes de anchoa, apio, cebollino pequeño, zanahoria, radices, capers, ajo, azúcar, orégano, pimentón dulce, sal y pimienta.\n2. Tapa y licúa a velocidad alta hasta que quede suave, aproximadamente 2 minutos.\n3. Sirve sobre la lechuga para ensalada con queso feta, flores de coliflor, gajos de tomate, anillos de pimiento verde, cebollinos picados y las anchoas restantes.",
+  "url": null
+}

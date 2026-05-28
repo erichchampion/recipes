@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-relish",
+  "name": "Mermelada de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "conservas",
+    "encurtidos",
+    "delicatessen",
+    "acompañamientos",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 libra de pasas",
+    "1 3/4 libras de manzanas picadas o ralladas",
+    "1 naranja picada",
+    "1 1/2 tazas de azúcar",
+    "1/2 taza de vinagre",
+    "1/4 cucharadita de clavos de olor",
+    "1/4 cucharadita de canela"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una olla grande.\n2. Llevar a ebullición a fuego medio-alto.\n3. Reducir el calor a bajo y revolver ocasionalmente hasta que la mezcla esté bien combinada, aproximadamente 30 minutos.\n4. Verter en frascos esterilizados y sellar herméticamente.",
+  "url": null
+}

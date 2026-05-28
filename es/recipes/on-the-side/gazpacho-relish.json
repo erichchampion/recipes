@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "gazpacho-relish",
+  "name": "Ensalada de Gazpacho",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "encurtidos",
+    "aperitivos",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de pimiento rojo picado",
+    "2 cucharadas de pepino picado",
+    "2 cucharadas de cebolla roja picada",
+    "2 cucharadas de tomate rojo picado",
+    "1 cucharadita de ajo picado",
+    "1 cucharada de jugo de limón",
+    "1 cucharada de aceite de oliva",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes en un bol.\n2. Refrigera durante 1 hora.\n3. Vierte la sopa en cuencos atractivos.\n4. Adorna cada porción con una cucharada generosa de encurtido, 1 crujiente y una rodaja de limón.\nRendimiento: 6 porciones",
+  "url": null
+}

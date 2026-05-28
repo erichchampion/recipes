@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "limeade",
+  "name": "Limeada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "bebidas",
+    "diabetico",
+    "dieta especial"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de jugo de lima recién exprimido (aproximadamente 6 limas)",
+    "4 tazas de agua fría (cuanto más fría, mejor)",
+    "1 1/2 tazas de NutraSweet® cucharaditas (tm)"
+  ],
+  "recipeInstructions": "1. Mezclar en un jarro el jugo de lima recién exprimido, el agua fría y el NutraSweet.\n2. Revolver hasta que quede bien mezclado.\n3. Refrigerar durante 30 minutos aproximadamente antes de servir.\n4. Servir sobre cubos de hielo, giros de rodajas de lima o ramitas de menta, si se desea.\n5. Para obtener una textura tipo helado, congelar la mezcla en un molde para cubos de hielo y servir con hielo triturado.\nRinde 6 porciones de aproximadamente 8 onzas cada una.",
+  "url": null
+}

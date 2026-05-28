@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "meat-loaf-camping",
+  "name": "Pastel de Carne (Camping)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "camping",
+    "varios",
+    "resorte"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de carne molida",
+    "3/4 taza de avena rápida",
+    "1 huevo",
+    "1/4 cucharadita de mostaza seca",
+    "1/4 taza de pimiento rojo picado",
+    "1 sobre de mezcla de sopa de cebolla",
+    "3/4 cucharadita de sal",
+    "0.13 cucharadita de orégano"
+  ],
+  "recipeInstructions": "1. En un bol grande, combina la carne molida, avena rápida, 1 huevo, mostaza seca, pimiento rojo, mezcla de sopa de cebolla, sal y orégano.\n2. Mezcla todos los ingredientes hasta que estén bien combinados.\n3. Transfiere la mezcla a una fuente para hornear.\n4. Coloca la fuente para hornear dentro de una olla holandesa.\n5. Hornea durante 1 hora, cubierto.",
+  "url": null
+}

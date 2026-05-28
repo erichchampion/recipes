@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "curried-omelette",
+  "name": "Omelette al Curry",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "queso/huevos",
+    "currys",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "Salsa:",
+    "Cebolla (50 g)",
+    "Aceite (50 ml)",
+    "Leche de coco (375 ml)",
+    "Pimienta de chile (1/2 cucharadita)",
+    "Pimentón (1 cucharadita)",
+    "Curcuma (1 cucharadita)",
+    "Polvo de curry (1 cucharadita)",
+    "Jugo de limón (1 cucharada)"
+  ],
+  "recipeInstructions": "1. Prepara los omelettes como se indica anteriormente, dóblalos en tres partes y déjalos a un lado.\n2. Prepara la salsa picando la cebolla.\n3. Calienta el aceite en una sartén y saltea la cebolla picada con hojas de curry durante 2 minutos.\n4. Agrega la leche de coco, pimienta de chile, pimentón, sal, curcuma y polvo de curry a la sartén.\n5. Cocina a fuego lento, revolviendo ocasionalmente hasta que la salsa espese.\n6. Retira del fuego, añade los omelettes y córtalos en rodajas.\n7. Espolvorea con jugo de limón.",
+  "url": null
+}

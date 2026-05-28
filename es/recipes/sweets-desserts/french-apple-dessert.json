@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-apple-dessert",
+  "name": "Postre de Manzana Francesa",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "fruta"
+  ],
+  "recipeIngredient": [
+    "6 tazas de manzanas verdes finas, peladas y cortadas en rodajas",
+    "1/4 cucharadita de canela en polvo",
+    "1/4 cucharadita de nuez moscada molida",
+    "1/4 taza de leche desnatada",
+    "2 cucharadas de margarina ablandada",
+    "3 claras de huevo o 1/2 taza de producto de huevo sin colesterol",
+    "1 taza de azúcar",
+    "1/4 taza de Bisquick Reducido en Grasa para Hornear",
+    "Crumble (cobertura):",
+    "1 taza de Bisquick Reducido en Grasa para Hornear",
+    "1/2 taza de nueces picadas",
+    "1/3 taza de azúcar morena compacta",
+    "3 cucharadas de margarina firme"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 175 °C (350 °F). Engrasar un molde para hornear rectangular de 23 x 33 cm (9 x 13 pulgadas).\nPreparar la mezcla de crumble y reservar.\nExtender las manzanas en el molde preparado.\n2. En una licuadora, mezclar los ingredientes restantes a velocidad alta durante 15 segundos.\nBatir la mezcla con un batidor manual o un batidor de alambre durante un minuto adicional\nhasta que quede suave. Verter sobre las manzanas y espolvorear con crumble.\n3. Hornear durante aproximadamente 55 minutos, o hasta que un cuchillo insertado en el centro salga limpio.\nDejar enfriar durante al menos 10 minutos antes de servir. Sirve para 12-15 personas.",
+  "url": null
+}

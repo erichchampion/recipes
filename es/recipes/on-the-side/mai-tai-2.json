@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "mai-tai-2",
+  "name": "Mai Tai",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "drinks",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 oz de ron",
+    "1 oz de ron oscuro",
+    "1 oz de crema de nueces o orgeat",
+    "-sirope",
+    "0.5 oz de triple sec",
+    "1.5 oz de mix agrio embotellado",
+    "1 gota de jugo de lima Rose's",
+    "1 gota de jugo de piña",
+    "hielo triturado",
+    "cubos de hielo"
+  ],
+  "recipeInstructions": "Llenar un vaso mezclador con hielo triturado. Agregar ron, crema de nueces, triple sec y mix agrio. Sacudir bien y colar en un vaso Collins lleno de cubos de hielo. Completar con una gota de jugo de lima Rose's y una gota de jugo de piña. Decorar con una rodaja de naranja y una cereza.",
+  "url": null
+}

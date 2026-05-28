@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-fondue",
+  "name": "Fondo mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "americano",
+    "étnico",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "2 lb de lomo magro cortado en cubos",
+    "1 cucharada de aceite",
+    "1/2 cebolla española picada finamente",
+    "1 diente de ajo machacado",
+    "1 lata de 400 g de tomates pelados",
+    "2 cucharadas de puré de tomate",
+    "1/2 cucharadita de polvo de chile",
+    "1 chile verde fresco sin semillas y picado",
+    "Sal y pimienta"
+  ],
+  "recipeInstructions": "1. Coloca la carne en un plato para servir, cortándola en cubos de 1 pulgada.\n2. Para preparar la salsa, calienta el aceite en una cacerola a fuego bajo. Añade la cebolla y el ajo, cocinándolos suavemente hasta que se ablanden.\n3. Incorpora los tomates con su jugo, el puré de tomate y el polvo de chile. Deja cocinar sin tapar durante 10 minutos.\n4. Retira del fuego y mezcla hasta obtener una textura suave. Vuelve a calentar y agrega el chile picado. Deja cocinar por 15 minutos adicionales.\n5. Sazona con sal y pimienta. Sirve la carne cocinada en aceite junto con la salsa.",
+  "url": null
+}

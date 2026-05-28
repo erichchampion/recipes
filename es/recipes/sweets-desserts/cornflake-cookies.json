@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cornflake-cookies",
+  "name": "Galletas de Corn Flakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de Manteca, a temperatura ambiente",
+    "1 taza de Azúcar blanca",
+    "1 Huevo, ligeramente batido",
+    "1 cucharadita de Extracto de vainilla",
+    "1 1/2 tazas de Harina todo uso",
+    "1 cucharadita de Crema de tártaro",
+    "1/2 cucharadita de Sal",
+    "1 cucharadita de Bicarbonato de sodio",
+    "5 tazas de Corn Flakes triturados"
+  ],
+  "recipeInstructions": "1. Batir la manteca hasta que quede suave.\n2. Agregar el azúcar y batir nuevamente hasta que quede ligera y esponjosa.\n3. Incorporar el huevo y la vainilla, mezclando bien después de cada adición.\n4. Agregar gradualmente la harina, el crema de tártaro, la sal y el bicarbonato de sodio hasta formar una masa.\n5. Doblar los Corn Flakes triturados.\n6. Colocar cucharadas de masa a unos 2 pulgadas de distancia sobre una bandeja para galletas sin engrasar.\n7. Hornear a 325°F durante 10 minutos.",
+  "url": null
+}

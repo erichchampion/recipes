@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-stock",
+  "name": "Caldo de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas y guisos",
+    "caldos"
+  ],
+  "recipeIngredient": [
+    "3 libras de contras, alas, cuellos y huesos de pollo (cualquier combinación)",
+    "2 cebollas peladas y cortadas por la mitad",
+    "2 clavos enteros",
+    "4 dientes de ajo sin pelar",
+    "1 costilla de apio cortada por la mitad",
+    "2 zanahorias cortadas por la mitad",
+    "1 cucharadita de sal",
+    "6 ramitas de perejil largas",
+    "12 granos de pimienta negra",
+    "1/2 cucharadita de tomillo seco desmenuzado",
+    "1 hoja de laurel"
+  ],
+  "recipeInstructions": "Si se usan alas, córtelas por el articulación en 3 pedazos. Coloca las partes de pollo en una olla con 14 tazas de agua fría. Lleva a ebullición y retira la espuma. Añade 1 taza de agua fría y vuelve a hervir. Reduce el fuego para mantener un hervor suave y agrega las cebollas con los clavos insertados, el ajo, el apio, las zanahorias, la sal, el perejil, los granos de pimienta, el tomillo y la hoja de laurel. Hierve a fuego lento, retirando la espuma si es necesario, por 3 horas. Cuela el caldo a través de un colador fino en un bol y enfría a temperatura tibia. Para un sabor más concentrado, hierve al descubierto hasta alcanzar la concentración deseada. Refrigera y retira la grasa.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-2",
+  "name": "Pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 masa de pizza grande preparada (o sustituya con su masa favorita)",
+    "1 lata de salsa de pasta S&W",
+    "1 lata de 400g de frijoles (S&W Pinquinto o similares)",
+    "ajo en polvo",
+    "orégano",
+    "pimienta negra molida fresca",
+    "comino",
+    "1 cebolla amarilla mediana, rebanada",
+    "1 taza de setas, rebanadas",
+    "1 oz de tomates secos",
+    "1 oz de levadura nutricional"
+  ],
+  "recipeInstructions": "1. En un bol mediano, mezcle la salsa de pasta y los frijoles. Revuelva para combinar. Agregue las especias al gusto.\n2. Saltee la cebolla y las setas a su método favorito hasta que estén casi hechas. Agregue los tomates secos 30 segundos antes de terminar.\n3. Precalente el horno a 400°F (200°C).\n4. Extienda las cebollas salteadas, setas y tomates secos sobre la masa de pizza.\n5. Vierta la salsa/frijoles sobre los toppings y extiéndala para cubrir.\n6. Espolvoree la levadura nutricional uniformemente sobre la salsa.\n7. Hornee durante 11 minutos en el horno precalentado. Si usa una masa prehorneada, el tiempo de horneado será más corto.\n8. Sirva.",
+  "url": null
+}

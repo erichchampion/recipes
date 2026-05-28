@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "broccoli-casserole",
+  "name": "Cazuela de Brócoli",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 paquetes de 10 onzas, brócoli congelado en espigas",
+    "1 paquete de 2 onzas., almendras laminadas",
+    "1 barra de queso ajo derretido",
+    "1 lata de sopa de champiñones",
+    "1 lata de sopa de pollo",
+    "Mantequilla para gratinar"
+  ],
+  "recipeInstructions": "1. Cocinar el brócoli en agua con sal hasta que esté apenas tierno.\n2. Escurrir y colocar en un molde para hornear.\n3. Espolvorear con almendras.\n4. En una sartén, cortar el queso ajo y mezclarlo con las sopas.\n5. Calentar hasta que el queso se derrita y verter sobre el brócoli.\n6. Hornear a 180 °C hasta que burbujee.\n7. Antes de servir, cubrir con migas de pan (pan rallado o cubos de pan tostado en una sartén con mantequilla derretida).\n8. Devolver al horno hasta que las migas estén doradas.",
+  "url": null
+}

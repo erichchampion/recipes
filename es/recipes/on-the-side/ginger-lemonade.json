@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "ginger-lemonade",
+  "name": "Limonada de Jengibre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "limonada",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "3 limones - zumo",
+    "1/2 taza de miel (o edulcorante de elección)",
+    "2 litros de agua",
+    "Jengibre fresco - pelar y rallar"
+  ],
+  "recipeInstructions": "1. Hervir el agua en la estufa.\n2. Pelar una rodaja de jengibre fresco de 2-3 cm y rallarlo sobre un colador fino.\n3. Exprimir el jengibre rallado para extraer el zumo, descartando la pulpa seca.\n4. Añadir el zumo de limón y jengibre a agua hirviendo cuando alcance el punto de ebullición.\n5. Dejar reposar durante 20 minutos.\n6. Mezclar la miel hasta que se disuelva (ajustar cantidad según preferencia).\n7. Servir fría - esta refrescante bebida es perfecta para días calurosos.",
+  "url": null
+}

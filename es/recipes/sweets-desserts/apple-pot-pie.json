@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-pot-pie",
+  "name": "Pastel de Manzana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "americano",
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "6 manzanas, para hornear",
+    "1/4 lb de manteca",
+    "4 tazas de harina",
+    "1/4 cucharadita de sal",
+    "1 cucharadita de canela",
+    "1/8 lb de mantequilla",
+    "agua"
+  ],
+  "recipeInstructions": "1. Preparar una masa con la manteca, la harina y la sal. Agregar agua suficiente para humedecer y mantenerla unida.\n2. Estirar la masa como masa de tarta y cortarla en cuadrados de 2 pulgadas.\n3. Lavar y pelar las manzanas. Cortarlas en octavos.\n4. Colocar capas alternas de manzanas y masa en una olla, espolvoreando cada capa de manzanas generosamente con azúcar y añadiendo un poco de canela.\n5. Cubrir con la capa superior de masa, pinchándola con mantequilla.\n6. Llenar la olla a la mitad con agua.\n7. Cocinar a fuego lento hasta que las manzanas estén suaves.\n8. Servir con leche o crema.",
+  "url": null
+}

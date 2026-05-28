@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "leek-soup",
+  "name": "Sopa de Cebolla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "4 tazas de cebollas rebanadas",
+    "3 tazas de papas peladas y picadas",
+    "6 tazas de caldo de pollo",
+    "1 taza de crema batida",
+    "3 cucharadas de jerez",
+    "Cilantro"
+  ],
+  "recipeInstructions": "1. Combinar los tres primeros ingredientes en una olla grande.\n2. Cocinar a fuego medio durante 20 minutos hasta que las papas estén tiernas.\n3. Transferir la mezcla a una licuadora y mezclar hasta obtener una consistencia suave.\n4. Devolver la mezcla licuada a la olla, incorporar la crema batida y el jerez.\n5. Calentar si se sirve caliente o enfriar antes de servir.\n6. Decorar con cilantro antes de servir.",
+  "url": null
+}

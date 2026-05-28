@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-deviled-eggs-2",
+  "name": "Huevos rellenos mexicanos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "aperitivos",
+    "lácteos",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "8 huevos; cocidos y cortados por la mitad",
+    "1/2 taza de queso cheddar",
+    "1/4 taza de mayonesa",
+    "1/4 taza de salsa",
+    "2 cucharadas de cebolla verde picada",
+    "1 cucharada de crema agria",
+    "sal"
+  ],
+  "recipeInstructions": "1. Machaca las yemas con el queso cheddar, la mayonesa, la salsa, la cebolla verde, la crema agria y la sal.\n2. Rellena los blancos uniformemente con la mezcla machacada.\n3. Sirve inmediatamente o refrigera hasta el momento de servir.",
+  "url": null
+}

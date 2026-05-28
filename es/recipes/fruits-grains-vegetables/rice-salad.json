@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-salad",
+  "name": "Ensalada de Arroz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "verduras",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "2 tazas de arroz cocido",
+    "2 tazas de granos de maíz (enlatado o congelado)",
+    "2 pimientos verdes, picados",
+    "1 1/2 tazas de frijoles rojos cocidos",
+    "1 cebolla pequeña, picada"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcla el arroz, el maíz, los pimientos, los frijoles y la cebolla.\n2. En un bol pequeño, bate 6 cucharadas de vinagre blanco destilado, 3 cucharadas de aceite vegetal, 2 cucharaditas de salsa de soja o tamari, 2 cucharaditas de mostaza en polvo y 1 cucharadita de rábano picante.\n3. Vierte el aderezo sobre la mezcla de arroz y revuelve bien para combinar.",
+  "url": null
+}

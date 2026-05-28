@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "mussakah",
+  "name": "Moussaka",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "étnica",
+    "griega",
+    "mediterránea",
+    "vegetariana"
+  ],
+  "recipeIngredient": [
+    "1 berenjena grande",
+    "1 cebolla grande, picada",
+    "5 tomates, pelados y en rodajas",
+    "1/2 taza de aceite de oliva",
+    "3 dientes de ajo machacados",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimienta",
+    "1/2 cucharadita de canela en rama",
+    "1/4 cucharadita de canela en polvo",
+    "3/4 taza de agua"
+  ],
+  "recipeInstructions": "1. Pelar la berenjena y cortarla en cubos de 1/2 pulgada.\n2. Espolvorear con sal, dejar reposar por 30 minutos y escurrir.\n3. Freír en aceite de oliva hasta que esté dorada y escurrir sobre papel absorbente.\n4. Saltear las cebollas y el ajo en aceite.\n5. Agregar los tomates y dejar cocinar unos minutos.\n6. Combinar la berenjena, las especias y el agua, y dejar cocinar a fuego lento por 20 minutos.\n7. Servir caliente o fría.",
+  "url": null
+}

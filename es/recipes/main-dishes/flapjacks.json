@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "flapjacks",
+  "name": "Flapjacks",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "panqueques"
+  ],
+  "recipeIngredient": [
+    "2 tazas de Harina",
+    "1 pizca de Sal del mar",
+    "1 1/2 tazas de Jugo de manzana o leche",
+    "2 cucharadas de Aceite",
+    "2 Huevos",
+    "1/2 taza de Miel",
+    "2 cucharaditas de Polvo de hornear",
+    "1 Manzana, rallada"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes, excepto la manzana rallada, con una batidora eléctrica.\n2. Agregar la manzana rallada y mezclar a mano.\n3. Verter en una sartén engrasada a fuego medio.\n4. Darle la vuelta cuando aparezcan burbujas y se endurezcan. Dorar por el otro lado.\n5. Servir inmediatamente con el aderezo de su elección. Nos gustan la miel y el jarabe de arce.",
+  "url": null
+}

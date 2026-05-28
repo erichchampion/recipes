@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-presto",
+  "name": "Pizza Presto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "queso",
+    "plato principal",
+    "carnes",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 capas grandes o 4 pequeñas de Boboli",
+    "1 cucharada de margarina o mantequilla",
+    "1 cebolla amarilla mediana, en rodajas",
+    "1 pimiento verde grande, cortado en tiras",
+    "1/4 libra de pepperoni, en rodajas",
+    "1/4 libra de carne molida cocida",
+    "2 onzas de aceitunas negras, sin hueso y en rodajas",
+    "1 1/2 cucharaditas de orégano",
+    "pimienta negra al gusto",
+    "1 onza de queso cheddar rallado",
+    "1 onza de queso mozzarella cortado en tiras finas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 450°F (230°C).\n2. Saltear la cebolla hasta que esté tierna.\n3. Agregar el pimiento verde y el pepperoni, revolviendo con frecuencia durante varios minutos.\n4. Retirar del fuego y añadir las aceitunas negras y la carne cocida.\n5. Mezclar todo junto con orégano y pimienta negra.\n6. Extender la mezcla sobre las capas de Boboli.\n7. Espolvorear queso rallado y mozzarella por encima.\n8. Hornear durante 6 a 8 minutos.\n9. Servir bien caliente.",
+  "url": null
+}

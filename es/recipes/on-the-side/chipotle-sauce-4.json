@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chipotle-sauce-4",
+  "name": "Salsa Chipotle",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "mexicana",
+    "salsa",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "4 chiles chipotle",
+    "1/2 taza de tocino cortado en dados",
+    "1/2 taza de cebolla picada",
+    "3 tazas de tomate triturado",
+    "1 taza de caldo de carne",
+    "1/4 taza de zanahoria cortada en cubos",
+    "1/4 taza de apio cortado en cubos",
+    "1/4 taza de cilantro picado",
+    "1/2 cucharadita de sal kosher",
+    "1/4 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Cubrir los chiles chipotle con agua caliente y dejarlos reposar durante 60 minutos.\n2. Escurrir los chiles y picarlos finamente.\n3. En una sartén mediana, saltear el tocino y la cebolla a fuego medio hasta que el tocino esté crujiente.\n4. Agregar los chiles picados y los ingredientes restantes a la sartén.\n5. Mezclar bien y cocinar hasta que se caliente todo.\n6. Servir caliente, tibio o a temperatura ambiente.",
+  "url": null
+}

@@ -1,0 +1,38 @@
+{
+  "@type": "Recipe",
+  "identifier": "layered-dinner-2",
+  "name": "Cena en capas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "6 papas, cortadas en rodajas",
+    "1 cebolla grande, cortada en rodajas",
+    "2 zanahorias, cortadas en rodajas",
+    "1 pimiento verde, cortado en rodajas",
+    "1 calabacín, cortado en rodajas",
+    "1 taza de maíz, congelado o fresco",
+    "1 taza de guisantes, congelados o frescos",
+    "++++++",
+    "Verduras opcionales:",
+    "setas",
+    "brócoli",
+    "frijoles verdes",
+    "+++++",
+    "Salsa:",
+    "2 1/2 tazas de salsa de tomate",
+    "1/4 taza de tamari bajo en sodio",
+    "1 cucharadita de tomillo molido",
+    "1 cucharadita de mostaza en polvo",
+    "1 cucharadita de albahaca",
+    "2 cucharaditas de polvo de chile",
+    "1/2 cucharadita de canela",
+    "1/8 cucharadita de salvia",
+    "2 cucharadas de perejil molido"
+  ],
+  "recipeInstructions": "1. Coloca en un refractario grande las verduras cortadas en el orden indicado.\n2. Mezcla los ingredientes de la salsa y viértela sobre las verduras.\n3. Cocina durante seis horas a temperatura alta o 12 horas a temperatura baja.\n(Sirve: 8)",
+  "url": null
+}

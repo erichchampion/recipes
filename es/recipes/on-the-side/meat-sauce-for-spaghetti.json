@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "meat-sauce-for-spaghetti",
+  "name": "Salsa de Carne para Espagueti",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "Aceite de oliva (3 cucharadas)",
+    "Carne molida (500g)",
+    "Cerdo molido (500g)",
+    "Cebolla picada (1)",
+    "Pimiento verde picado (1/2)",
+    "Dientes de ajo (3)",
+    "Tomates triturados (5 tazas)",
+    "Pasta de tomate (1/4 taza)",
+    "Comino molido (1 cucharadita)",
+    "Hojas de albahaca molidas (2 cucharaditas)",
+    "Clavo molido (1/2 cucharadita)",
+    "Hojas de laurel (3)",
+    "Caldo de pollo (2 tazas)",
+    "Sal (1/2 cucharadita)",
+    "Pimienta cayena (1/4 cucharadita)"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una sartén grande a fuego medio-alto.\n2. Agregar la carne molida, el cerdo, la cebolla, el pimiento verde y el ajo a la sartén. Cocinar hasta que esté dorado, aproximadamente 10 minutos.\n3. Con una cuchara perforada, retirar la mezcla de carne de la sartén y transferirla a una olla de 4 cuartos.\n4. Añadir los ingredientes restantes (tomates, pasta de tomate, comino, hojas de albahaca, clavo molido, hojas de laurel, caldo de pollo, sal y pimienta cayena) a la olla y mezclar bien.\n5. Llevar lentamente la mezcla a ebullición, reducir el fuego, tapar y cocinar a fuego lento durante 2 horas.",
+  "url": null
+}

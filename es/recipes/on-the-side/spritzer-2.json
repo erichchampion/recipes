@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "spritzer-2",
+  "name": "Spritzer",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "frutas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de puré de duraznos",
+    "hielo triturado",
+    "1 botella de vino blanco (50 ml)",
+    "12 onzas de soda de limón y lima"
+  ],
+  "recipeInstructions": "1. Repartir el puré de duraznos entre 4 vasos altos.\n2. Llenar cada vaso con hielo triturado.\n3. Agregar vino blanco y soda de limón y lima a cada vaso.\n4. Servir inmediatamente.\nRinde 4 porciones; cada porción contiene aproximadamente 200 calorías.",
+  "url": null
+}

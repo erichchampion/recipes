@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "mushroom-pate",
+  "name": "Pate de Setas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "tentempiés",
+    "vegetales"
+  ],
+  "recipeIngredient": [
+    "12 onzas de setas, picadas",
+    "1 cebolla, picada",
+    "4 onzas de mantequilla",
+    "4 cucharadas de jerez",
+    "Sal y pimienta",
+    "Perejil para decorar"
+  ],
+  "recipeInstructions": "1. Derretir la mitad de la mantequilla en una sartén y saltear las verduras durante unos minutos hasta que se ablanden.\n2. Incorporar el jerez y cocinar hasta que se evapore todo el líquido.\n3. Sazonar y dejar enfriar completamente.\n4. Añadir la mantequilla restante, mezclar todo en una procesadora de alimentos hasta obtener una textura suave.\n5. Servir en un plato y decorar con perejil.\n6. Servir con tostadas.",
+  "url": null
+}

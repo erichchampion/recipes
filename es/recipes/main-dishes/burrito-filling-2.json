@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "burrito-filling-2",
+  "name": "Relleno para Burrito",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americano",
+    "ternera",
+    "étnico",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "4 cucharadas de aceite",
+    "12 onzas de jugo de verduras enlatado",
+    "14.5 onzas de caldo de ternera enlatado",
+    "3 dientes de ajo picados",
+    "3.5 libras de carne de estofado de ternera",
+    "Queso Cheddar rallado",
+    "4 onzas de chiles verdes enlatados"
+  ],
+  "recipeInstructions": "1. Dorar la carne en el aceite y escurrir.\n2. Agregar los ingredientes restantes excepto el queso.\n3. Reducir a fuego lento por 2 a 3 horas.\n4. Desmenuzar la carne con un tenedor y escurrir el exceso de líquido.\n5. Servir en tortillas con queso.",
+  "url": null
+}

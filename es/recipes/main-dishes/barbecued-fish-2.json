@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecued-fish-2",
+  "name": "Pescado a la parrilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "1 cebolla pequeña; picada",
+    "1 cucharada de azúcar morena",
+    "1/4 taza de vinagre de manzana",
+    "2 cucharadas de ketchup",
+    "2 cucharadas de mostaza seca",
+    "1 cucharadita de salsa Worcestershire",
+    "1/4 cucharadita de clavo molido",
+    "1 cucharadita de polvo de chile",
+    "1/4 cucharadita de pimienta cayena",
+    "1 filete o 150g de filetes de pescado blanco firme"
+  ],
+  "recipeInstructions": "1 Combinar todos los ingredientes de la salsa en una olla.\n2 Llevar a ebullición a fuego medio hasta que se reduzca a un sirope fino.\n3 Colar el sirope y desechar los ingredientes cocidos.\n4 Enfriar el sirope.\n5 Colocar los filetes de pescado en un plato para hornear y verter un poco de sirope sobre cada pieza.\n6 Marinar en la nevera durante 1 hora.\n7 Cocinar el pescado a la parrilla a fuego alto, bañando con una cucharadita de salsa barbacoa en cada lado.",
+  "url": null
+}

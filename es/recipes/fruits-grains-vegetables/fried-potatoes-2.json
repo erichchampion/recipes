@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "fried-potatoes-2",
+  "name": "Papas fritas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "papas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 papa mediana",
+    "1 cucharada de margarina (o aceite vegetal)",
+    "especias al gusto (Pimienta Condimentada Schilling)",
+    "sal al gusto"
+  ],
+  "recipeInstructions": "1. Cortar la papa en trozos, de aproximadamente 0.6 cm x 1.2 cm.\n2. Derretir la margarina en una sartén sobre fuego o estufa.\n3. Agregar las papas, las especias y la sal a la margarina derretida.\n4. Revolver o dar vuelta a las papas regularmente (aproximadamente cada 5 minutos), ajustando según la temperatura de cocción, hasta que estén doradas.\n5. Retirar del fuego y servir inmediatamente. También se pueden servir frías.",
+  "url": null
+}

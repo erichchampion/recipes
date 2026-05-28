@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "egg-custard",
+  "name": "Crema de Huevo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "huevos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de leche escaldada",
+    "3 huevos grandes batidos",
+    "1 cucharadita de vainilla",
+    "1/4 taza de azúcar"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 325°F (163°C).\n2. En una cacerola mediana, escaldar la leche.\n3. En un bol aparte, batir juntos los huevos, la vainilla y el azúcar.\n4. Agregar lentamente algo de la leche caliente a la mezcla de huevo, batiendo constantemente.\n5. Verter la mezcla de crema en 4 tazas que contengan 6 onzas cada una, y colocarlas en una fuente para hornear de 8x8.\n6. Verter aproximadamente un centímetro de agua hirviendo alrededor de las tazas de crema.\n7. Espolvorear nuez moscada sobre la crema si se desea (opcional).\n8. Hornear en el centro del horno precalentado durante 35 minutos, hasta que esté cuajada y un cuchillo insertado en el centro salga limpio.\n9. Servir caliente o fría.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-chip-oatmeal-cookies",
+  "name": "Galletas de Avena con Chispas de Chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "chispas de chocolate",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de azúcar",
+    "1/2 taza de azúcar morena",
+    "3/4 taza de aceite",
+    "1 cucharadita de vainilla",
+    "1 huevo",
+    "1 taza de harina",
+    "1 taza de avena",
+    "1 cucharadita de polvo de hornear",
+    "1/4 cucharadita de sal",
+    "1 taza de chispas de chocolate"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375 grados.\n2. Mezclar en un bol los azúcares, el aceite, el huevo y la vainilla.\n3. Incorporar los ingredientes secos (harina, avena, polvo de hornear y sal).\n4. Agregar las chispas de chocolate y mezclarlas.\n5. Con una cuchara, colocar porciones sobre una bandeja para galletas sin engrasar.\n6. Hornear durante 10 minutos.\n7. Retirar del horno y dejar enfriar.",
+  "url": null
+}

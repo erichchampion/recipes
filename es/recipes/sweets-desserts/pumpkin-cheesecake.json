@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "pumpkin-cheesecake",
+  "name": "Cheesecake de Calabaza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "tarta",
+    "productos horneados"
+  ],
+  "recipeIngredient": [
+    "Base",
+    "1 taza de migas de galleta Graham",
+    "1 cucharada de azúcar",
+    "4 cucharadas de mantequilla derretida",
+    "Relleno",
+    "2 paquetes de 250g de queso crema, ablandado",
+    "3/4 taza de azúcar",
+    "1 lata de calabaza de 400g",
+    "1 1/4 cucharaditas de canela",
+    "1/2 cucharadita de jengibre molido",
+    "1/2 cucharadita de nuez moscada",
+    "1/4 cucharadita de sal",
+    "2 huevos",
+    "Cobertura",
+    "2 tazas de crema agria",
+    "2 cucharadas de azúcar",
+    "1 cucharadita de extracto de vainilla",
+    "Mitad de nuez pecana, opcional"
+  ],
+  "recipeInstructions": "Combinar los ingredientes de la base. Presionar en el fondo de un molde desmontable de 23 cm; enfriar.\nPara el relleno: batir el queso crema y el azúcar en un tazón grande hasta que esté bien mezclado. Incorporar la calabaza, las especias y la sal. Agregar los huevos uno a uno, batiendo bien después de cada adición. Verter sobre la base. Hornear a 180°C durante 50 minutos.\nMientras tanto, combinar la crema agria, el azúcar y la vainilla. Extender sobre el relleno; devolver al horno durante 5 minutos. Enfriar sobre una rejilla; enfriar durante la noche. Decorar cada rebanada con una mitad de nuez pecana.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "swiss-fondue",
+  "name": "Fondue Suiza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "huevos/queso",
+    "fondue",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de ajo picado",
+    "1 2/3 tazas de vino blanco seco",
+    "1 lb de queso Gruyere rallado groseramente",
+    "2 cucharaditas de almidón de maíz",
+    "1/4 taza de cereza (o más)",
+    "nuez moscada al gusto, rallada fresca",
+    "2 cubos de pan francés"
+  ],
+  "recipeInstructions": "1. Frotar el interior de una cacerola pesada con ajo picado.\n2. Agregar el vino blanco y calentar a fuego medio-bajo hasta que esté caliente.\n3. Añadir el queso Gruyere en puñados, revolviendo constantemente.\n4. Cocinar la mezcla, revolviendo, hasta que quede suave, manteniendo la temperatura justo por debajo del punto de ebullición.\n5. En un bol pequeño, mezclar el almidón de maíz con 1/4 taza de cereza.\n6. Incorporar bien y agregar a la mezcla de Gruyere con nuez moscada y pimienta al gusto.\n7. Calentar, revolviendo constantemente, hasta que comience a burbujear suavemente.\n8. No dejar que hierva. Transferir a una olla de fondue caliente y mantenerlo tibio sobre una llama baja.\n9. Si la fondue se espesa demasiado, agregar más cereza para diluirla.\n10. Enjuagar los cubos de pan con palas de fondue largas y sumergirlos en el queso.",
+  "url": null
+}

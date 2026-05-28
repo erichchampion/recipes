@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-candies",
+  "name": "Chocolates con cerezas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "caramelos",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 frascos de cerezas al marasquino",
+    "1 barra de mantequilla",
+    "1 lata de leche evaporada",
+    "8 onzas de chocolate semiamargo",
+    "1 libra de azúcar glas",
+    "2 cucharaditas de extracto de vainilla",
+    "1/4 de cuadrado de cera de parafina"
+  ],
+  "recipeInstructions": "1. Mezclar el azúcar, la mantequilla blanda, la vainilla y la leche evaporada hasta obtener una consistencia suave.\n2. Envolver cada cereza en la mezcla y refrigerar durante la noche para que los sabores se infundan.\n3. Derretir el chocolate y la cera de parafina juntos, sin omitir el paso de la cera.\n4. Sumergir las cerezas enfriadas en la mezcla de chocolate derretido.\n5. Guardar los chocolates con cerezas en un lugar fresco durante varios días para que cualquier exceso de humedad de las cerezas haga que el centro se ablande ligeramente. Es preferible mantenerlos en un ambiente fresco en lugar de refrigerarlos, ya que el frío puede causar que el chocolate se vuelva granulado. La cera de parafina ayuda a prevenir esto y añade un bonito brillo.",
+  "url": null
+}

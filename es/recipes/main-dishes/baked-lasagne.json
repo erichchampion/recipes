@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-lasagne",
+  "name": "Lasaña al horno",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne molida",
+    "1 cebolla picada",
+    "2 tazas de pasta de tomate",
+    "1 taza de salsa de tomate",
+    "12 láminas de lasaña",
+    "2 tazas de tomates enteros picados",
+    "1 ½ cucharaditas de orégano",
+    "1 ½ cucharaditas de condimento italiano",
+    "2 cucharadas de azúcar",
+    "1 diente de ajo picado (1/8 de cucharadita)",
+    "1/3 taza de queso parmesano rallado",
+    "3/4 libra de queso ricota",
+    "1 libra de queso mozzarella",
+    "1 taza de jugo de tomate"
+  ],
+  "recipeInstructions": "1. Dorar la carne con la cebolla y escurrir.\n2. Agregar salsa de tomate, pasta de tomate, tomates enteros, orégano, condimento italiano, ajo picado, azúcar (al gusto), queso parmesano. Cocinar a fuego lento por 1 hora.\n3. Colocar 3 láminas de lasaña cocidas en el fondo de un molde para hornear bajo.\n4. Extender la salsa sobre las láminas.\n5. Espolvorear con queso ricota, parmesano y mozzarella.\n6. Agregar capas adicionales de láminas, salsa y quesos.\n7. Verter jugo de tomate para liquificar.\n8. Hornear a 350°F por 45 minutos.",
+  "url": null
+}

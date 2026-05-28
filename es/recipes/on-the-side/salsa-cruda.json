@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "salsa-cruda",
+  "name": "Salsa Cruda",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "aderezos",
+    "mcdougall",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "3 Tomates; picados finamente",
+    "1 Cebolla mediana; picada finamente",
+    "1/8 taza de Chiles Jalapeños; picados finamente",
+    "1/4 taza de Cilantro; fresco",
+    "1/4 taza de Chiles Verdes; picados"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Revolver bien hasta que estén combinados.\n3. Servir a temperatura ambiente.\n4. Usar sobre burritos o tostadas, con chips o verduras frescas.",
+  "url": null
+}

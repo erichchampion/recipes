@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "bloody-mary-3",
+  "name": "Bloody Mary",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 onzas de vodka",
+    "3 onzas de jugo de tomate",
+    "1 limón, exprimido",
+    "1/2 cucharadita de salsa Worcestershire",
+    "3 gotas de salsa Tabasco",
+    "pimienta al gusto",
+    "sal al gusto"
+  ],
+  "recipeInstructions": "1. Verter el vodka, jugo de tomate, jugo de limón, salsa Worcestershire y salsa Tabasco en un agitador lleno de hielo.\n2. Agitar bien hasta enfriar.\n3. Colar la mezcla en un vaso antiguo con cubitos de hielo.\n4. Añadir pimienta y sal al gusto.\n5. Opcionalmente, decorar con una rodaja de limón.",
+  "url": null
+}

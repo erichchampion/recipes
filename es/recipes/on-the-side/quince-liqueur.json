@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "quince-liqueur",
+  "name": "Licor de Quince",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "licores",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "8 cucharadas de gelatina o mermelada de quince",
+    "1 quinta de vodka de 80 grados",
+    "jarabe de azúcar al gusto"
+  ],
+  "recipeInstructions": "1. Coloca la gelatina o mermelada de quince en un frasco con el vodka.\n2. Cierra el frasco y déjalo reposar durante tres semanas, agitándolo ocasionalmente.\n3. Pasadas las tres semanas, cuela la mezcla a través de un paño de queso para eliminar los sólidos.\n4. Prueba el licor y añade jarabe de azúcar en incrementos pequeños al gusto.\n5. Revuelve después de cada adición y prueba hasta lograr el nivel de dulzura deseado.",
+  "url": null
+}

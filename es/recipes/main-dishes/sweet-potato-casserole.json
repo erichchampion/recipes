@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-potato-casserole",
+  "name": "Cazuela de Batata Dulce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "plato principal",
+    "patatas"
+  ],
+  "recipeIngredient": [
+    "3 tazas de puré de batata dulce cocida",
+    "1 taza de azúcar",
+    "1/2 cucharadita de sal",
+    "2 huevos batidos",
+    "1/2 barra de margarina",
+    "1/2 taza de leche",
+    "1/2 cucharadita de extracto de vainilla",
+    "-----COBERTURA-----",
+    "1/3 barra de margarina",
+    "1/3 taza de harina",
+    "1 taza de nueces picadas",
+    "1 taza de azúcar morena"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes de la cazuela y verter en un refractario.\n2. Para la cobertura, derretir la margarina. Incorporar la harina, la leche y el azúcar morena.\n3. Extender la mezcla de cobertura sobre la mezcla de patatas.\n4. Hornear a 180 °C hasta que burbujee.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "dirt-pie",
+  "name": "Pastel de Tierra",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 paquete de Jello chocolate instantáneo",
+    "1 budín (para 4 porciones)",
+    "1 taza de leche fría",
+    "1 contenedor de Cool Whip descongelado (1L)",
+    "20 galletas tipo sándwich de chocolate, picadas",
+    "1½ tazas de malvaviscos Kraft miniatura",
+    "1 base de hojaldre de graham preparado, de 9 pulgadas",
+    "1 gusano de goma para decoración"
+  ],
+  "recipeInstructions": "1. Prepara el budín según las instrucciones del paquete, reduciendo la leche a 1 taza.\n2. Incorpora el topping de crema batida.\n3. Mezcla dos tercios de las galletas picadas y todos los malvaviscos.\n4. Vierte la mezcla en la base.\n5. Espolvorea las galletas restantes encima.\n6. Decora con gusanos de goma.\n7. Congela hasta que esté firme, aproximadamente 4 horas.\n8. Retira del congelador 10 minutos antes de servir para facilitar el corte.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "scones-5",
+  "name": "Scones",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "panes",
+    "desayuno"
+  ],
+  "recipeIngredient": [
+    "3 tazas de harina",
+    "2 tazas y 2 cucharadas",
+    "2 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "1/2 taza de mantequilla fría, cortada en 8 pedazos",
+    "7/8 taza de leche, 2/3 taza + 1 1/2 cucharadas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 400°F.\n2. Mezclar los ingredientes secos. Cortar la mantequilla hasta obtener migas del tamaño de guisantes grandes.\n3. Agregar la leche y mezclar solo hasta que la masa se una.\n4. Dividir la masa en dos piezas iguales. Dar forma a cada pieza en un círculo plano, con un grosor de aproximadamente 1 pulgada.\n5. Cortar cada círculo en cuartos con un cuchillo afilado.\n6. Hornear durante 15 minutos hasta que estén ligeramente dorados, pero sin quemarse.",
+  "url": null
+}

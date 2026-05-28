@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-noodle-soup",
+  "name": "Sopa de Pollo con Fideos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopa"
+  ],
+  "recipeIngredient": [
+    "1 taza de apio picado",
+    "1 taza de cebolla picada",
+    "1/4 taza de margarina",
+    "12 tazas de agua",
+    "1 taza de zanahoria picada",
+    "3 cucharadas de caldo de pollo",
+    "1/2 cucharadita de hojas de marjoram",
+    "1/4 cucharadita de pimienta negra",
+    "1 hoja de laurel",
+    "6 onzas de fideos de huevo (medianos)",
+    "4 cucharadas de perejil picado"
+  ],
+  "recipeInstructions": "1. En una olla holandesa grande, cocinar el apio y la cebolla en la mantequilla hasta que estén tiernos.\n2. Agregar los ingredientes restantes excepto los fideos y el perejil. Llevar a ebullición.\n3. Reducir el calor y cocinar a fuego lento cubierto durante 30 minutos.\n4. Retirar la hoja de laurel; agregar los fideos y el perejil.\n5. Cocinar por 10 minutos adicionales o hasta que los fideos estén tiernos, revolviendo ocasionalmente.",
+  "url": null
+}

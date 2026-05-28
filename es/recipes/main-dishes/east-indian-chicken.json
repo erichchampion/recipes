@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "east-indian-chicken",
+  "name": "Pollo al Estilo Indio Oriental",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de cebolla picada",
+    "1/4 cucharadita de polvo de ajo",
+    "1/2 taza de aceite vegetal",
+    "2 tazas de pollo cocido sin piel y cortado en cubos",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimienta",
+    "400 g de tomates enteros enlatados",
+    "1 cucharada de salsa Worcestershire",
+    "2 cucharadas de perejil picado",
+    "1/4 taza de pasas",
+    "2 tazas de arroz cocido"
+  ],
+  "recipeInstructions": "1. Cocinar la cebolla, la pimienta y el polvo de ajo en el aceite hasta que la cebolla esté tierna, aproximadamente 3 minutos.\n2. Agregar los ingredientes restantes, excepto el arroz, y cocinar a fuego lento durante 30 minutos.\n3. Servir sobre el arroz.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-dressing",
+  "name": "Aderezo Picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de vinagre de vino blanco",
+    "2 cucharadas de salsa de soja",
+    "1/2 cucharadita de jengibre molido",
+    "1 cucharadita de aceite de sésamo",
+    "1/8 cucharadita de pimentón en polvo",
+    "1 diente de ajo, picado finamente"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Revolver bien hasta que estén completamente combinados.",
+  "url": null
+}

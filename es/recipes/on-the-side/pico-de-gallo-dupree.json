@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "pico-de-gallo-dupree",
+  "name": "Pico de Gallo (Dupree)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "dupree",
+    "salsas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "3 tomates plátanos, picados groseramente",
+    "1/2 cebolla roja, picada finamente",
+    "4 cebollas verdes, picadas",
+    "1 zanahoria rallada, opcional",
+    "1/2 taza de aceitunas negras, picadas, opcional",
+    "2 chiles jalapeños, sin semillas y picados",
+    "6 dientes de ajo, pelados y picados",
+    "1 cucharada de perejil fresco picado",
+    "2 cucharadas de cilantro fresco picado",
+    "1/4 taza de jugo de lima fresco",
+    "1/4 taza de cáscara de lima rallada",
+    "Sal",
+    "Pimienta negra molida al gusto"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcla los tomates, la cebolla roja, las cebollas verdes, la zanahoria (si se usa), las aceitunas (si se usan), los chiles jalapeños, el ajo, el perejil, el cilantro, el jugo de lima y la cáscara de lima. Sazona con sal y pimienta al gusto.\n2. Deja reposar durante 2 horas antes de servir para que los sabores se integren.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-fudge-sauce",
+  "name": "Salsa de Caramelo Caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "3 cuadrados de chocolate amargo",
+    "1/8 cucharadita de sal",
+    "1 cucharada de mantequilla",
+    "1 cucharadita de extracto de vainilla",
+    "1 taza y media de azúcar",
+    "1/2 taza de agua hirviendo"
+  ],
+  "recipeInstructions": "1. Derrite el chocolate en el fondo de un baño maría.\n2. Agrega la mantequilla, el azúcar y la sal al chocolate derretido.\n3. Incorpora el agua hirviendo hasta que esté bien combinado.\n4. Deja hervir la mezcla durante 3-4 minutos.\n5. Retira del fuego y añade el extracto de vainilla.\n6. Sirve inmediatamente.",
+  "url": null
+}

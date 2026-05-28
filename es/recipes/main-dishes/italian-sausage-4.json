@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-sausage-4",
+  "name": "Salchicha Italiana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "étnica",
+    "italiana"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne de cerdo molida",
+    "1 cebolla mediana finamente picada",
+    "1 diente de ajo pequeño, machacado",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra molida",
+    "1/2 cucharadita de semillas de eneldo",
+    "1/4 cucharadita de pimentón dulce",
+    "1/8 cucharadita (o más) de tomillo seco",
+    "1/8 cucharadita de pimienta cayena molida"
+  ],
+  "recipeInstructions": "1. Mezcla la carne de cerdo, la cebolla y el ajo.\n2. Combina los ingredientes restantes en un bol aparte.\n3. Agrega la mezcla sazonada a la mezcla de carne.\n4. Forma la mezcla en hamburguesas, albóndigas o rellena las casings.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "meat-loaf-3",
+  "name": "Pastel de Carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "carne molida",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "1 huevo",
+    "1 taza de Rice Krispies",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "1 cucharada de cebolla finamente picada",
+    "3 cucharadas de azúcar morena",
+    "1/4 taza de ketchup",
+    "1/8 cucharadita de nuez moscada",
+    "1 cucharadita de mostaza en polvo"
+  ],
+  "recipeInstructions": "1. Mezcla la carne molida, el huevo, los Rice Krispies, la sal, la pimienta y la cebolla picada en un tazón grande. Amasa bien.\n2. En otro tazón, combina el azúcar morena, el ketchup, la nuez moscada y la mostaza hasta que estén integrados.\n3. Agrega 1/2 de esta mezcla de salsa a la mezcla de pastel de carne. Mezcla con cuidado.\n4. Coloca la mezcla de pastel de carne en un molde para hornear engrasado.\n5. Vierte el resto de la salsa sobre el pastel de carne y añade un poco de agua alrededor de los lados del molde.\n6. Hornea a 180 °C durante 1 hora, o hasta que esté cocido. Si es necesario, hornea por 30 minutos adicionales para asegurarte de que la carne esté completamente cocida.",
+  "url": null
+}

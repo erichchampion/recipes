@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-pie",
+  "name": "Tarta de Chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de harina (aproximada)",
+    "1 taza de azúcar",
+    "1 taza de leche evaporada grande",
+    "1/2 barra de margarina o mantequilla",
+    "1/4 taza de cacao en polvo",
+    "2 yemas de huevo",
+    "1 taza de leche",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Mezcla la harina, el cacao y el azúcar.\n2. Agrega las yemas de huevo a la mezcla.\n3. Añade la leche poco a poco hasta que los ingredientes secos y los huevos estén bien combinados.\n4. Incorpora la vainilla y la mantequilla.\n5. Cocina a fuego medio hasta espesar, revolviendo constantemente.\n6. Vierte sobre una base de tarta horneada.\n7. Cubre con merengue y dora.\n8. Rinde para 2-8 tartas de 23 cm de diámetro.",
+  "url": null
+}

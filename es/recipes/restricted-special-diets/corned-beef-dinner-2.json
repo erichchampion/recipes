@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "corned-beef-dinner-2",
+  "name": "Cena de Carne de Res Curada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "plato principal",
+    "carnes",
+    "dieta especial",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "4 lb de carne de res curada redonda",
+    "3 tazas de agua",
+    "6 papas, cortadas en trozos de 1 pulgada",
+    "6 cebollas",
+    "6 hojas de col (aproximadamente 4 oz cada una)",
+    "6 zanahorias, rebanadas"
+  ],
+  "recipeInstructions": "1. Coloca la carne curada en una olla holandesa y cúbrelas con agua fría.\n2. Lleva a ebullición sobre alta temperatura.\n3. Escurre la carne y agrega suficiente agua para cubrirla nuevamente.\n4. Vuelve a llevar a ebullición, luego reduce el calor a bajo.\n5. Cocina hasta que la carne esté casi tierna (aproximadamente 3 horas), escurriendo la mayor cantidad de grasa posible del agua de cocción.\n6. Agrega las papas, cebollas, hojas de col y zanahorias.\n7. Continúa cocinando hasta que las verduras estén cocidas y escúrrelas.\n8. Retira las verduras del agua y retira cualquier grasa restante de la carne.",
+  "url": null
+}

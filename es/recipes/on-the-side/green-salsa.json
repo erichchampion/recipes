@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "green-salsa",
+  "name": "Salsa Verde",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "salsas y aderezos",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "10 tomatillos, sin cáscaras",
+    "1 chile serrano",
+    "2 pimientos jalapeños, cortados a lo largo y sin semillas",
+    "1/2 cebolla, picada finamente",
+    "2 cucharadas de cilantro picado",
+    "2 cucharadas de jugo de limón",
+    "2 cucharadas de aceite de oliva",
+    "sal al gusto"
+  ],
+  "recipeInstructions": "1. Llevar a ebullición una olla con agua salada en la estufa.\n2. Agregar los tomatillos y chiles, tapar y cocinar por 2 minutos.\n3. Escurrir los tomatillos y chiles, luego colocarlos en un procesador de alimentos y puréar.\n4. Colar la mezcla en un bol y desechar las pieles.\n5. Incorporar la cebolla, el cilantro, el jugo de limón, el aceite de oliva y la sal. Mezclar bien.\n6. Enfriar antes de servir. Rinde 2 tazas.",
+  "url": null
+}

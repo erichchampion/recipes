@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pineapple-coleslaw",
+  "name": "Ensalada de Piña con Col",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "fruta",
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de crema agria láctea",
+    "1/2 taza de mayonesa",
+    "2 cucharaditas de azúcar",
+    "1 cucharada de cebolla picada finamente",
+    "1 cucharada de jugo de limón",
+    "2 tazas de col verde rallada",
+    "1 taza de manzana roja cortada en cubos",
+    "1 taza de zanahorias ralladas",
+    "3/4 taza de trozos de piña escurridos"
+  ],
+  "recipeInstructions": "1. En un bol pequeño, combina todos los ingredientes para el aderezo y mezcla bien.\n2. En un bol grande, combina todos los ingredientes de la ensalada y revuelve suavemente.\n3. Vierte el aderezo sobre la ensalada y mezcla bien.\n4. Tapa y refrigera para permitir que se mezclen los sabores.",
+  "url": null
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "turkey-stuffing",
+  "name": "Relleno de Pavo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "varios"
+  ],
+  "recipeIngredient": [
+    "4 Huevos",
+    "4 tazas de migas de pan",
+    "1/2 sobre de sopa de cebolla Lipton",
+    "1 taza de palomitas de maíz sin cocinar"
+  ],
+  "recipeInstructions": "1. Bate los huevos y mezcla con los demás ingredientes.\n2. Rellena el pavo con la mezcla.\n3. Hornea a 375 grados durante 3 horas.\n4. Apaga el calor cuando hayan pasado las 3 horas.",
+  "url": null
+}

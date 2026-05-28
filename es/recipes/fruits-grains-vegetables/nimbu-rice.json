@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "nimbu-rice",
+  "name": "Arroz Nimbu",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz",
+    "verduras",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz",
+    "2 cucharadas de aceite",
+    "1 cucharadita de semillas de mostaza",
+    "1 cucharadita de urad dal",
+    "1 cucharadita de chana dal",
+    "Un puñado de anacardos",
+    "Un puñado de pasas",
+    "Un pellizco de cúrcuma",
+    "1 taza de verduras mixtas",
+    "1 limón"
+  ],
+  "recipeInstructions": "1. Cocinar el arroz.\n2. Calentar el aceite y agregar las semillas de mostaza, urad dal, chana dal, anacardos, pasas, cúrcuma y verduras mixtas.\n3. Freír los ingredientes hasta que estén bien cocidos.\n4. Mezclar los ingredientes fritos con el arroz cocido.\n5. Exprimir el jugo de limón sobre el arroz y mezclar bien.",
+  "url": null
+}

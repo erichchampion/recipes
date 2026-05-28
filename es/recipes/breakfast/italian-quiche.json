@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-quiche",
+  "name": "Tarta Italiana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "aperitivos",
+    "tartas de cena",
+    "italiana",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "G. Granaroli XBRG76A",
+    "1 masa de tarta profunda congelada",
+    "5 huevos grandes",
+    "1/2 taza de ricota",
+    "1/2 taza de queso rallado",
+    "3 salchichas (deshuesadas, cocidas y escurridas bien)",
+    "sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Precalentar la masa de la tarta.\n2. Colocar las salchichas en la base de la masa.\n3. Batir los huevos con los quesos y las especias.\n4. Verter la mezcla sobre las salchichas.\n5. Hornear a 175°C durante 45 minutos o hasta que el centro esté casi firme.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "veggie-quiche",
+  "name": "Quiche de Verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "tartas para la cena",
+    "plato principal",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "8 yemas de huevo",
+    "8 oz yogur natural sin grasa",
+    "4 oz queso suizo picado",
+    "1 taza de trozos de verduras (brócoli, coliflor, setas, etc.)",
+    "1 cebolla pequeña",
+    "un chorrito de pimienta negra",
+    "cualquier hierba de su elección"
+  ],
+  "recipeInstructions": "1. Separe las claras de las yemas.\n2. Bata las claras hasta que estén firmes pero no secas; reserve.\n3. Mezcle el yogur, las yemas, el queso, las verduras, la cebolla, la pimienta y las hierbas en un bol; reserve.\n4. En una sartén grande, saltee la cebolla, las verduras y las hierbas hasta que estén tiernas.\n5. Agregue la mezcla de queso a la sartén con las verduras.\n6. Incorpore suavemente las claras batidas.\n7. Vierta el relleno en una base para tarta.\n8. Hornee a 175°C durante 45 minutos.",
+  "url": null
+}

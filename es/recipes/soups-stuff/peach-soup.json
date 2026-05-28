@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "peach-soup",
+  "name": "Sopa de Durazno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "postres",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "5 duraznos grandes, en rodajas",
+    "4 tazas de agua",
+    "2 cucharadas de jugo de limón",
+    "1/4 taza de jarabe de arce",
+    "1 cucharada de almidón de flecha",
+    "1 taza de vino blanco",
+    "1/4 taza de licor de naranja o durazno",
+    "1 taza de crema batida",
+    "1/4 cucharadita de nuez moscada (opcional)"
+  ],
+  "recipeInstructions": "1. Combinar los duraznos, agua y jugo de limón en una cacerola.\n2. Hervir a fuego lento durante 15 minutos.\n3. Licuar la mezcla con jarabe de arce y almidón de flecha en una licuadora.\n4. Agregar vino blanco y licor a la puré.\n5. Verter la mitad de la crema; mezclar bien.\n6. Enfriar durante 1 hora.\n7. Batir la crema restante y colocar sobre cada porción.\n8. Espolvorear con nuez moscada si se desea.",
+  "url": null
+}

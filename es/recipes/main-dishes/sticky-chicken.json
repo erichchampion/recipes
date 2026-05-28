@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "sticky-chicken",
+  "name": "Pollo pegajoso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "8 pechugas de pollo con hueso (160 g)",
+    "Salsa francesa o rusa (340 g)",
+    "Frambuesas en almíbar (250 g)",
+    "Mezcla de sopa de cebolla (1 sobre)"
+  ],
+  "recipeInstructions": "1. Coloca el pollo en una sartén que quepa las pechugas sin superponerse demasiado.\n2. Mezcla la salsa francesa o rusa, las frambuesas en almíbar y la mezcla de sopa de cebolla.\n3. Vierte la mezcla uniformemente sobre el pollo.\n4. Hornea a 180°C durante 1 hora.\n5. Revisa el pollo después de 45 minutos. Si se dora demasiado rápido, cubre con papel aluminio los últimos 15 minutos.\n6. Sirve con arroz.",
+  "url": null
+}

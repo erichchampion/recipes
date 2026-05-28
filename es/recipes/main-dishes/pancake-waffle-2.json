@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pancake-waffle-2",
+  "name": "Waffle de Panqueque",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "panqueques"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina integral",
+    "2 cucharaditas de polvo de hornear",
+    "2 cucharadas de puré de manzana",
+    "1 cucharada de melaza ligera sin sulfatos (o vómito de abeja)",
+    "1 taza de leche de soja baja en grasa (usé Edensoy vainilla, que tiene aproximadamente 18% de grasa)",
+    "1 taza de jugo de manzana"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcla los ingredientes secos: harina integral y polvo de hornear.\n2. En un bol separado o una taza medidora, combina los ingredientes húmedos: puré de manzana, melaza, leche de soja y jugo de manzana.\n3. Vierte la mezcla húmeda sobre los ingredientes secos y revuelve hasta que se combinen (sin grumos).\n4. Engrasa tu gofrera con spray para cocinar.\n5. Cocina la masa en la gofrera según las instrucciones del fabricante.\n6. Sirve caliente con fruta fresca y sirope de arce real, si lo deseas.",
+  "url": null
+}

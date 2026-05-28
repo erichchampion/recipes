@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "enchiladas-2",
+  "name": "Enchiladas",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americano",
+    "queso/huevos",
+    "étnico",
+    "plato principal",
+    "carne",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "1 cucharada (redondeada) de manteca",
+    "1 cucharada de harina",
+    "1 1/2 cucharadas de polvo de chile rojo",
+    "2 tazas de agua",
+    "Tortillas de maíz",
+    "Relleno (ver abajo)"
+  ],
+  "recipeInstructions": "Para hacer la salsa, derrite la manteca en una sartén. Agrega la harina; mezcla bien.\nIncorpora el polvo de chile y el agua. Lleva a ebullición, cocinando y revolviendo hasta espesarse. (Debería estar lo suficientemente espesa para sumergir las tortillas de maíz).\nRelleno: Cocina la carne molida hasta que esté marrón. Agrega cebolla picada, aguacate y sal; mezcla bien.\nSumérgelas en la salsa. Llena con la mezcla de carne y mucho queso. Enrolla y sirve bien caliente.\nTiempo de preparación: 15 minutos",
+  "url": null
+}

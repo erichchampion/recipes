@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "best-ever-meatloaf",
+  "name": "El mejor pastel de carne jamás hecho",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "2 huevos",
+    "2 cucharadas de sal",
+    "3 rebanadas de pan, desmenuzadas",
+    "1/2 taza de zanahoria rallada",
+    "500 g de carne molida magra",
+    "2/3 taza de leche",
+    "1/4 cucharadita de pimienta negra",
+    "1 cebolla picada finamente",
+    "1 taza de queso cheddar rallado (de buena calidad)"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes del pastel de carne y presiona la mezcla en un molde para hornear.\n2. Combina los ingredientes del glaseado y extiéndelo sobre el pastel de carne.\n3. Hornea durante 1 hora y 15 minutos a 180 °C (350 °F).\n4. Deja reposar 10 minutos antes de cortar.",
+  "url": null
+}

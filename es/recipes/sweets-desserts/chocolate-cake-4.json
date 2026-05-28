@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-cake-4",
+  "name": "Pastel de Chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "6 claras de huevo batidas",
+    "1 taza de azúcar granulada",
+    "1 cucharadita de extracto de vainilla puro",
+    "1 taza de crema de malvavisco",
+    "1/3 taza de polvo de cacao tamizado",
+    "3/4 taza de harina blanqueada",
+    "1/2 cucharadita de polvo de hornear",
+    "1/2 cucharadita de bicarbonato de sodio"
+  ],
+  "recipeInstructions": "Precalentar el horno a 325°F. Preparar un molde cuadrado de 8 pulgadas con spray para cocinar y harina; reservar.\nEn un tazón para mezclar, combinar claras de huevo, azúcar, vainilla y crema de malvavisco. En otro tazón,\ncombinar polvo de cacao, harina, polvo de hornear y bicarbonato de sodio. Mezclar los ingredientes secos con los\ningredientes húmedos hasta que estén mojados. Hornear durante 30 minutos.",
+  "url": null
+}

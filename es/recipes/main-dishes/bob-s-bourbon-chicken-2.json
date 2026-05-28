@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "bob-s-bourbon-chicken-2",
+  "name": "Pollo Bourbon de Bob",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "alcohol",
+    "pollo",
+    "plato principal",
+    "carne",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "1 taza de whisky bourbon",
+    "1/2 taza de azúcar morena oscuro",
+    "1 taza de ketchup",
+    "2 cucharadas de salsa Worcestershire",
+    "1/4 taza de vinagre blanco",
+    "3 dientes de ajo, picados finamente",
+    "1 cucharada de mostaza seca",
+    "sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. En un bol grande, bate juntos el bourbon, el azúcar morena, el ketchup, la salsa Worcestershire, el vinagre blanco, el ajo, la mostaza seca, la sal y la pimienta hasta que quede bien combinado.\n2. Coloca el pollo en un plato o contenedor poco profundo y vierte sobre él el glaseado, asegurándote de que cada trozo esté cubierto con una capa delgada.\n3. Precalienta la parrilla a fuego medio-alto.\n4. Coloca el pollo en la parrilla caliente y cocina durante 6-8 minutos por lado, ungiéndolo ocasionalmente con el glaseado restante del bol.\n5. Retira el pollo de la parrilla cuando esté cocido completamente y sírvelo inmediatamente.",
+  "url": null
+}

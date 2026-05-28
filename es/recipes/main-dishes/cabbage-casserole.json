@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "cabbage-casserole",
+  "name": "Cazuela de Col",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 cabeza de col mediana, picada",
+    "1 cebolla, picada",
+    "1 lata (400 g) de sopa de champiñones sin diluir",
+    "8 onzas de queso americano en cubos",
+    "sal y pimienta al gusto",
+    "1/4 taza de migas de pan o galletas"
+  ],
+  "recipeInstructions": "1. Cocinar la col en agua con sal hasta que esté tierna. Escurrir.\n2. Saltear la cebolla en agua o con un spray antiadherente.\n3. Agregar la sopa; mezclar bien.\n4. Incorporar el queso y calentar hasta que se derrita.\n5. Mezclar la col, la sal y la pimienta.\n6. Verter la mezcla en un recipiente para hornear de 2 cuartos sin engrasar.\n7. Espolvorear las migas sobre la cazuela.\n8. Hornear destapada a 175 °C por 20-30 minutos.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "good-cookies-2",
+  "name": "Buenas Galletas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres",
+    "huevos"
+  ],
+  "recipeIngredient": [
+    "1 taza de Bisquick",
+    "1 huevo",
+    "1 sobre de pudín instantáneo de limón",
+    "110 ml de aceite"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes y dejar reposar por un tiempo.\n2. Formar bolas, aplastar con un vaso y hornear a 180°C durante 10 minutos.\nDificultad: muy fácil. Precisión: medir los ingredientes.",
+  "url": null
+}

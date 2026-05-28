@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-pie",
+  "name": "Tarta de Fresas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "panadería",
+    "postres",
+    "frutas",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de manteca derretida",
+    "1 1/2 tazas de avena en hojuelas",
+    "1/2 taza de harina de uso común",
+    "2/3 taza de azúcar moreno"
+  ],
+  "recipeInstructions": "Precalentar el horno a 180°C.\nMezclar la manteca derretida, las avenas, la harina y el azúcar. Compactar firmemente tres cuartos de esta mezcla en un molde para hornear de 20 cm x 20 cm. Disponer las fresas sobre la parte superior. Mezclar el azúcar y la harina y espolvorear sobre las fresas. Agregar el resto de la mezcla de crumble y presionar suavemente. Hornear durante 30 minutos. Dejar enfriar ligeramente antes de servir. También se puede refrigerar y consumir fría. Esto hace que el relleno tenga una consistencia más siroposa.",
+  "url": null
+}

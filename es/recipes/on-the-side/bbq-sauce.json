@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "bbq-sauce",
+  "name": "Salsa BBQ",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de azúcar morena",
+    "2 cucharadas de pimentón",
+    "2 cucharaditas de sal",
+    "2 cucharaditas de mostaza en polvo",
+    "2 hojas de laurel",
+    "1/2 cucharadita de polvo de chile",
+    "1/4 cucharadita de pimienta cayena",
+    "1/4 taza de salsa Worcestershire",
+    "1/2 taza de vinagre de sidra",
+    "2 tazas de jugo de tomate",
+    "1/2 taza de catup (ketchup)",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una cacerola grande.\n2. Llevar la mezcla a ebullición a fuego alto.\n3. Reducir el calor y dejar cocinar a fuego lento hasta que espese ligeramente, aproximadamente 30 minutos.\n4. Retirar y desechar las hojas de laurel.",
+  "url": null
+}

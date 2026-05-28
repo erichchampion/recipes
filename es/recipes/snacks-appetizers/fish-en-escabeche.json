@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-en-escabeche",
+  "name": "Pescado en Escabeche",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "americano",
+    "étnico",
+    "aperitivos de pescado verduras mexicano",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "1 lb de filetes de pescado blanco firme",
+    "1/3 taza de jugo de limón",
+    "1/3 taza de jugo de lima",
+    "1/4 taza de aceite de oliva o aceite vegetal",
+    "1 cucharada de cilantro fresco, picado",
+    "1 cucharadita de orégano fresco, picado",
+    "3/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "12 aceitunas verdes rellenas (con relleno de pimiento)",
+    "2 chiles jalapeños (desvenados y picados)",
+    "1/4 taza de cebolla, finamente picada",
+    "1 diente de ajo, finamente picado",
+    "1 taza de tomate, desvenado y picado",
+    "1 aguacate, pelado y picado"
+  ],
+  "recipeInstructions": "1. El pescado debe ser rascio naranja, haddock o macerel, cortado en cubos de 1/2 pulgada.\n2. Si no se dispone de cilantro fresco, usar 1 cucharada de hojas de cilantro seco.\n3. Si no se dispone de orégano fresco, usar 1/4 cucharadita de hojas de orégano seco.",
+  "url": null
+}

@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-stew-2",
+  "name": "Guiso de Carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne",
+    "sopas",
+    "sopas y guisos",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de harina de trigo",
+    "sal",
+    "pimienta negra",
+    "2 libras de carne para guiso",
+    "3 cucharadas de aceite de oliva",
+    "1 cucharada de azúcar",
+    "2 tallos de apio, picados",
+    "4 ramitas de perejil, picadas",
+    "1 diente de ajo, picado finamente",
+    "1 hoja de laurel",
+    "2 tazas de tomates enlatados",
+    "4 tazas de caldo de carne",
+    "1 cucharada de pasta de tomate",
+    "4 zanahorias, peladas y cortadas en cuartos",
+    "3 papas, peladas y cortadas en cuartos",
+    "12 cebollas pequeñas blancas, peladas"
+  ],
+  "recipeInstructions": "1. Sazona la harina con sal y pimienta al gusto.\n2. Pasa la carne por la harina sazonada.\n3. En una olla grande para sopas, dora la carne en aceite de oliva caliente a fuego medio.\n4. Agrega el azúcar, el apio, el perejil, el ajo, la hoja de laurel, los tomates enlatados, el caldo de carne y la pasta de tomate a la olla.\n5. Lleva la mezcla a ebullición, luego reduce el fuego y deja que hierva a fuego lento durante una hora.\n6. Prueba y ajusta la sazón con sal, pimienta u hierbas adicionales según sea necesario.\n7. Agrega las zanahorias y papas, y continúa cocinando a fuego lento hasta que las verduras estén tiernas.\n8. Añade las cebollas y cocina a fuego lento hasta que estén tiernas.",
+  "url": null
+}

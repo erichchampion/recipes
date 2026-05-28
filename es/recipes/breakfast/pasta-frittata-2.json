@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-frittata-2",
+  "name": "Pasta Frittata",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "queso",
+    "huevos",
+    "italiano",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de espagueti finos, cocidos",
+    "1/3 taza de queso Parmesano",
+    "2 cucharadas de perejil italiano picado",
+    "1 cucharada de aceite de oliva",
+    "1/3 taza de queso Fontina picado",
+    "1/2 lb de espinaca, blanqueada",
+    "3 huevos, ligeramente batidos",
+    "sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. En un bol, mezcla todos los ingredientes excepto el aceite de oliva.\n2. Calienta una sartén grande antiadherente (de unos 10 pulgadas) a fuego medio.\n3. Agrega el aceite de oliva a la sartén cuando esté lo suficientemente caliente.\n4. Vierte la mezcla de huevos y extiéndela uniformemente en la sartén.\n5. Cocina a fuego medio durante unos 5 minutos, o hasta que se forme una costra dorada en la parte inferior de la frittata.\n6. Voltea cuidadosamente la frittata sobre un plato.\n7. Devuelve la frittata a la sartén y cocina por unos minutos más del otro lado hasta que esté completamente cuajada y ligeramente dorada.\n8. Corta en triángulos y sirve, opcionalmente con queso adicional si lo deseas.",
+  "url": null
+}

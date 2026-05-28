@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-nuggets-3",
+  "name": "Nuggetes de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "avícola",
+    "wrv"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina para todo uso",
+    "4 cucharaditas de sal sazonada",
+    "1 cucharada de pimentón",
+    "1 cucharada de condimento para aves",
+    "1 cucharada de mostaza en polvo",
+    "1/2 cucharadita de pimienta negra",
+    "8 pechugas de pollo sin piel ni hueso, aplastadas a 0.6 cm de grosor y cortadas en trozos de 3 cm",
+    "1/4 taza de aceite vegetal o de oliva"
+  ],
+  "recipeInstructions": "1. En una bolsa ziplock, combina los primeros seis ingredientes.\n2. Agrega el pollo en lotes y agita para cubrirlo uniformemente.\n3. Calienta el aceite en una sartén.\n4. Cocina el pollo, dándolo la vuelta con frecuencia, hasta que esté dorado y los jugos salgan claros, aproximadamente 6-8 minutos.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "bean-garlic-dip",
+  "name": "Dip de Frijoles y Ajo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempiés",
+    "untables"
+  ],
+  "recipeIngredient": [
+    "2 tazas de frijoles favas cocidos",
+    "1/4 taza de mayonesa de soya",
+    "1 diente de ajo, picado finamente",
+    "1 1/2 cucharaditas de chile en polvo rojo",
+    "1/4 cucharadita de sal",
+    "1 pimiento picante",
+    "tortillas chips"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto las tortillas chips.\n2. Tapar la mezcla y refrigerar por 1 hora.\n3. Servir con tortillas chips.",
+  "url": null
+}

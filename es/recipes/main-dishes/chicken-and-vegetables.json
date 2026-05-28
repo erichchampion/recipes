@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-vegetables",
+  "name": "Pollo y Verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "pollo",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo sin piel",
+    "verduras variadas cortadas",
+    "salsa Worcestershire",
+    "pimienta",
+    "4 dientes de ajo picados",
+    "1 cucharadita de sal",
+    "otras especias al gusto"
+  ],
+  "recipeInstructions": "1. Coloca las verduras en el fondo de la olla de cocción lenta.\n2. Pon el pollo encima de las verduras.\n3. Añade una pequeña cantidad de líquido (entre 60 ml y 120 ml, más si es necesario).\n4. Agrega el ajo picado, sal, salsa Worcestershire y pimienta al gusto.\n5. Cocina a fuego bajo durante aproximadamente 8 horas.\n6. Cambia a fuego alto.\n7. Ajusta las especias si es necesario.",
+  "url": null
+}

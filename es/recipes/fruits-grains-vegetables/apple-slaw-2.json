@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-slaw-2",
+  "name": "Ensalada de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "fruta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 manzanas, cortadas en rodajas finas",
+    "1 cebolla mediana, cortada en rodajas finas",
+    "2 cucharadas de jugo de limón",
+    "3 tazas de col rallada",
+    "1/4 taza de crema agria",
+    "1/4 taza de mayonesa",
+    "1 tallo de apio, picado",
+    "1 zanahoria, rallada"
+  ],
+  "recipeInstructions": "1. Espolvorear las rodajas de manzana con jugo de limón.\n2. Mezclar las rodajas de manzana con la col, el apio, la zanahoria y la cebolla.\n3. Combinar la crema agria, la mayonesa y la sal de apio en un tazón aparte.\n4. Echar la mezcla de aderezo sobre la mezcla de manzana y verduras.\n5. Servir inmediatamente. El jugo de limón evita que las manzanas se oxiden.",
+  "url": null
+}

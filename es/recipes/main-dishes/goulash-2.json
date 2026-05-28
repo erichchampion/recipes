@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "goulash-2",
+  "name": "Goulash",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "1 cebolla pequeña",
+    "1 tarro, medio Ragu (salchicha y pimientos)",
+    "1 paquete de espagueti en forma de codillo",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. Dorar la carne y la cebolla; escurrir el exceso de grasa.\n2. Cocinar la pasta en una olla hasta que esté lista, luego escurrirla.\n3. Agregar la carne, el Ragu y el agua a la pasta cocida.\n4. Reducir a fuego lento durante 20-25 minutos.\n5. Servir con pan de maíz.",
+  "url": null
+}

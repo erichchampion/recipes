@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cioccolata-cheesecake",
+  "name": "Cheesecake de Chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "tarta",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 libras de queso ricota",
+    "1/4 taza de crema espesa",
+    "4 huevos",
+    "1/4 taza de ron claro",
+    "1 cucharadita de sabor a chocolate",
+    "3 cucharadas de cacao sin endulzar",
+    "3/4 taza de azúcar",
+    "1 1/2 cucharaditas de azúcar glas"
+  ],
+  "recipeInstructions": "1. En un bol grande, bate el queso ricota, la crema espesa, el ron, el sabor a chocolate, el cacao y el azúcar hasta que quede muy suave y cremoso.\n2. Vierte la mezcla en un molde para pastel desmoldable de 9 pulgadas, previamente engrasado.\n3. Hornea en horno precalentado a 44°C durante 30 minutos.\n4. Reduce la temperatura a 325°F y continúa horneando por otra hora, o hasta que esté dorado.\n5. Transfiere a una rejilla y deja enfriar completamente.\n6. Una vez frío, retira los lados del molde desmoldable.\n7. Decora la parte superior del pastel con azúcar glas.\n8. Refrigera o sirve inmediatamente.",
+  "url": null
+}

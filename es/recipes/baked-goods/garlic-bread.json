@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "garlic-bread",
+  "name": "Pan con ajo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "panadería",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de aderezo italiano sin grasa",
+    "1/2 cucharadita de pimentón",
+    "4 dientes de ajo pelados",
+    "4 rebanadas de pan francés",
+    "1/4 taza de perejil picado"
+  ],
+  "recipeInstructions": "1. Precalentar la parrilla.\n2. Agregar el aderezo, pimentón y dientes de ajo a una licuadora.\n3. Licuar hasta que quede bien combinado.\n4. Extender la mezcla uniformemente en un lado de cada rebanada de pan.\n5. Espolvorear perejil sobre la mezcla.\n6. Parrillar las rebanadas hasta que estén ligeramente doradas, teniendo cuidado de no quemar el pan.",
+  "url": null
+}

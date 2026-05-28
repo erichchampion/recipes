@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "oatmeal-apple-muffins",
+  "name": "Muffins de Avena y Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "muffins"
+  ],
+  "recipeIngredient": [
+    "2 onzas de Batidos de huevo",
+    "1 taza de leche desnatada",
+    "3 cucharadas de aceite poliinsaturado",
+    "1 taza de harina de trigo integral",
+    "3 cucharaditas de polvo de hornear",
+    "1 taza de avena en hojuelas sin cocinar",
+    "1 taza de pasas",
+    "1 taza de manzanas peladas y picadas"
+  ],
+  "recipeInstructions": "Precalentar el horno a 200 °C. Engrasar los moldes para muffins. Mezclar las claras de huevo, la leche y el aceite en un bol. Agregar los ingredientes secos y mezclar hasta combinarlos. Incorporar las pasas y las manzanas. Verter la masa en los moldes; llenar cada uno aproximadamente tres cuartos. Hornear por 20 minutos o hasta que los centros parezcan secos.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "salsa-4",
+  "name": "Salsa",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 pepino",
+    "1 tomate",
+    "1/4 cebolla",
+    "algunos cebollines",
+    "algunas cilantro fresco",
+    "sal",
+    "pimienta"
+  ],
+  "recipeInstructions": "1. Pelar y picar finamente el pepino.\n2. Picar finamente el tomate y la cebolla.\n3. Cortar los cebollines y el cilantro en pedacitos pequeños.\n4. Mezclar todos los ingredientes.\n5. Sazonar con sal y pimienta al gusto.",
+  "url": null
+}

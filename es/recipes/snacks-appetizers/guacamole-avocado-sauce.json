@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "guacamole-avocado-sauce",
+  "name": "Guacamole (Salsa de Aguacate)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "2 aguacates grandes",
+    "1 tomate mediano, pelado, sin semillas y picado",
+    "1/2 cebolla pequeña blanca, picada finamente",
+    "2 chiles serrano enlatados, picados",
+    "Cilantro - picado finamente",
+    "Sal",
+    "Pimienta negra",
+    "Una pizca de azúcar granulada"
+  ],
+  "recipeInstructions": "1. Pelar y machacar los aguacates muy maduros.\n2. Mezclar bien con el resto de los ingredientes.\n3. Colocar en un plato para servir con un hueso de aguacate en el centro.\n4. Si no se va a usar inmediatamente, cubrir herméticamente con papel aluminio o plástico y refrigerar.\n5. Utilizar como salsa o aderezo para ensaladas. También es excelente para mojar.",
+  "url": null
+}

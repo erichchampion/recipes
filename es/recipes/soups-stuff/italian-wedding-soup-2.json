@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-wedding-soup-2",
+  "name": "Sopa de Boda Italiana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "étnica",
+    "italiana",
+    "carne",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "500 gramos de carne molida de res",
+    "250 gramos de carne molida de cerdo",
+    "1/4 taza de migas de pan con hierbas italianas",
+    "1 huevo",
+    "1 cucharada de perejil picado",
+    "sal y pimienta al gusto",
+    "4 tazas de caldo de pollo",
+    "2 tazas de hojas de espinaca cortadas en trozos",
+    "1/4 taza de queso Pecorino Romano rallado"
+  ],
+  "recipeInstructions": "1. Mezcla la carne molida, las migas de pan, el huevo, el perejil, la sal y la pimienta en un bol. Amasa bien y forma pequeñas albóndigas.\n2. Hornea las albóndigas en una bandeja para hornear durante 30 minutos a 180°C (350°F).\n3. Mientras tanto, hierve el caldo de pollo. Agrega la espinaca y cubre. Deja cocinar a fuego lento durante 5 minutos.\n4. Añade las albóndigas al caldo caliente. Deja que vuelva a hervir.\n5. Incorpora el queso Pecorino Romano rallado y sirve inmediatamente.",
+  "url": null
+}

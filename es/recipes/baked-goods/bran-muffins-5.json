@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "bran-muffins-5",
+  "name": "Muffins de Avena",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "muffins"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina blanca",
+    "2 tazas de avena",
+    "1/4 taza de harina de maíz",
+    "1 cucharadita de sal",
+    "1 1/4 tazas de leche desnatada",
+    "1/2 taza de melaza",
+    "1 cucharadita de bicarbonato de sodio (disuelto en agua)",
+    "1 taza de pasas (opcional)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Verter la mezcla en un molde para muffins forrado con papel pergamino o usando separadores antiadherentes.\n3. Hornear a 175°C durante 25 minutos.",
+  "url": null
+}

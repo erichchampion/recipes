@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-dressing-2",
+  "name": "Aderezo Italiano",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "ensaladas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 taza de aceite para ensalada",
+    "1/4 taza de vinagre",
+    "1 diente pequeño de ajo, picado finamente",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimienta blanca",
+    "1/2 cucharadita de sal de apio",
+    "1/4 cucharadita de pimienta cayena",
+    "1/4 cucharadita de mostaza en polvo",
+    "1 gota de salsa picante en botella"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes a un recipiente para licuadora.\n2. Licuar hasta que esté completamente combinado.\n3. Enfriar bien antes de servir.\n4. Agitar bien antes de usarlo sobre la ensalada.\nRinde 1 1/4 tazas.",
+  "url": null
+}

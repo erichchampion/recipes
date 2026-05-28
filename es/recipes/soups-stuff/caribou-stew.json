@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "caribou-stew",
+  "name": "Estofado de Caribú",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "juego",
+    "sopas",
+    "estofados"
+  ],
+  "recipeIngredient": [
+    "2 lb de Caribú (sin hueso)",
+    "Harina -- para empanizar",
+    "Sal y pimienta al gusto",
+    "Aceite -- para dorar la carne",
+    "1/2 taza de Vino Blanco",
+    "1/8 taza de Salsa Worcestershire",
+    "1 taza de Lentejas",
+    "4 pequeñas papas, cortadas en cuartos",
+    "1 zanahoria pelada y en rodajas",
+    "1 costilla de apio picada",
+    "1/2 taza de parruna o nabo cortado en cubos",
+    "1 pimiento jalapeño picado",
+    "2 pimientos bananeros medianos, cortados",
+    "1 hoja de laurel",
+    "Especias y hierbas al gusto"
+  ],
+  "recipeInstructions": "1. Empanizar la carne con harina sazonada y dorarla en una sartén con un poco de aceite.\n2. Transferir la carne a una olla grande o olla de cocción lenta.\n3. Agregar el resto de los ingredientes y suficiente agua para cubrir.\n4. Cocinar a fuego lento durante 2 horas, o 10 horas en la olla de cocción lenta.\n5. Ajustar las especias si es necesario y servir.",
+  "url": null
+}

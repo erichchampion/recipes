@@ -1,0 +1,37 @@
+{
+  "@type": "Recipe",
+  "identifier": "summertime-salad",
+  "name": "Ensalada de Verano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "Lechuga de tu elección",
+    "Champiñones frescos en rodajas",
+    "Zanahorias pequeñas cortadas",
+    "Cebolla verde picada",
+    "Rábanos en rodajas",
+    "Pimiento verde picado",
+    "Aguacate fresco",
+    "Corazones de alcachofas marinados",
+    "Crowns de alcachofas marinados",
+    "Champiñones marinados",
+    "Col rizada marinada",
+    "Espárragos marinados",
+    "Brotes de soja",
+    "Brotes de alfalfa",
+    "Tiras de tocino",
+    "Croutons",
+    "Pepino en rodajas",
+    "Calabacín en rodajas",
+    "Queso cheddar rallado",
+    "Queso parmesano rallado",
+    "Queso monterey jack rallado",
+    "Shrimp fresco o enlatado",
+    "Cangrejo fresco o enlatado"
+  ],
+  "recipeInstructions": "1. Elige tus ingredientes preferidos de la lista anterior.\n2. Mezcla todos los ingredientes seleccionados en un bol grande.\n3. Combina con tu aderezo favorito, si lo deseas.\n4. Experimenta dejando fuera la lechuga para una variante interesante de ensalada.",
+  "url": null
+}

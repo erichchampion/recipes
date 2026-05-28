@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "spam-ala-gary-2",
+  "name": "Spam Ala Gary",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 spam o Spam Lite picado",
+    "1 paquete de queso crema, 8 oz blando",
+    "1/2 cucharadita de sal de ajo",
+    "1/2 cucharadita de hierba de dil",
+    "1/4 cucharadita de pimentón",
+    "1 cucharada de crema agria",
+    "1/2 cucharadita de albahaca"
+  ],
+  "recipeInstructions": "1. Ablandar el queso crema hasta obtener una consistencia que se pueda mezclar. Agregar la crema agria. Mezclar bien.\n2. Incorporar el spam picado (o Spam Lite), y todas las especias. Ajustar la sal al gusto. Refrigerar por al menos 2 horas.\n3. Extender sobre galletas saladas, Doritos o la tapa del radiador de Gary Phelps.",
+  "url": null
+}

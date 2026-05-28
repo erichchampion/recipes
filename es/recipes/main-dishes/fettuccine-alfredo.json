@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "fettuccine-alfredo",
+  "name": "Fettuccine Alfredo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "12 onzas de fettuccine seco",
+    "2 tazas de leche de soja",
+    "4 dientes de ajo picados",
+    "6 cucharadas de queso vegano rallado",
+    "1/4 taza de perejil fresco picado",
+    "Pimienta negra molida al gusto",
+    "2 tazas de verduras cortadas y al vapor, como zanahorias, brócoli, guisantes, etc."
+  ],
+  "recipeInstructions": "1. Cocinar la pasta según las instrucciones del paquete, luego escurrir.\n2. En una sartén antiadherente grande, combinar la pasta cocida, leche de soja y ajo picado. Llevar a un hervor suave, revolviendo con frecuencia.\n3. Agregar el queso vegano rallado y continuar cocinando hasta que se derrita el queso y la salsa espese.\n4. Incorporar el perejil fresco picado y pimienta negra molida al gusto.\n5. Añadir las verduras al vapor y mezclar suavemente todo juntos.\n6. Servir inmediatamente. Rinde 4 porciones.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-salad-recipe-2",
+  "name": "Ensalada de Papas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "entrantes",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "10 papas medianas, cortadas en cubos y cocidas",
+    "1/2 pimiento verde, cortado en cubos",
+    "2 tallos de apio, cortados en cubos",
+    "3 cebolletas picadas",
+    "1/2 taza de aceite de oliva",
+    "1 cucharadita de pimentón húngaro",
+    "1 cucharadita de albahaca",
+    "1 cucharadita de sal",
+    "1 cucharadita de orégano",
+    "1 cucharadita de polvo de ajo",
+    "Un chorrito de pimienta roja"
+  ],
+  "recipeInstructions": "1. Deja que las papas se enfríen completamente en el refrigerador o, mejor aún, déjalas reposar durante la noche.\n2. Mezcla los vegetales cortados.\n3. Bate juntos el aceite con las especias y hierbas hasta que estén bien combinadas.\n4. Vierte sobre las papas y mezcla suavemente.\n5. Refrigera hasta que esté lista para servir.",
+  "url": null
+}

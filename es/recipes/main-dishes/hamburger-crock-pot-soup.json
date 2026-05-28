@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-crock-pot-soup",
+  "name": "Sopa de Hamburguesa en Olla de Cocción Lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "olla de cocción lenta",
+    "sopas y guisos"
+  ],
+  "recipeIngredient": [
+    "1 libra de hamburguesa molida",
+    "1 lata grande de jugo de tomate",
+    "1 taza de cebolla picada",
+    "1 taza de apio picado",
+    "1 taza de fideos o arroz",
+    "Sazonar con sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Desmenuzar la hamburguesa en trozos pequeños y colocarla en el fondo de la olla de cocción lenta.\n2. Agregar el jugo de tomate a la olla.\n3. Encender la olla a calor bajo y dejar hervir a fuego lento.\n4. Después de una hora, incorporar la cebolla y el apio picados.\n5. Dejar hervir a fuego lento durante 4-6 horas más.\n6. Antes de servir, añadir los fideos o arroz.\n7. Cambiar la olla a calor alto y cocinar por media hora adicional.\n8. Reducir el calor y servir.",
+  "url": null
+}

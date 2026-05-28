@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-primavera-4",
+  "name": "Pasta Primavera",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla salada",
+    "3 tazas de crema de 35%",
+    "2 cucharaditas de pimienta negra fresca",
+    "1/2 taza de salsa de tomate",
+    "2 yemas de huevo",
+    "2 cucharadas (cuchara) de crema",
+    "2 tazas de zanahorias, calabacín, brócoli",
+    "2 fettuccine"
+  ],
+  "recipeInstructions": "1. Derretir la mantequilla en una sartén grande.\n2. Agregar la crema y la pimienta. Llevar a un hervor suave.\n3. Incorporar la salsa de tomate y las verduras precocidas.\n4. Cocinar la pasta al dente, aún ligeramente firme al morderla.\n5. Batir las yemas de huevo con un tenedor y mezclarlas con la crema.\n6. Verter la mezcla en la salsa cremosa y la pasta para espesarla.\n7. Asegurarse de que la pasta esté completamente cubierta con la salsa.\n8. Servir con queso Parmesano.",
+  "url": null
+}

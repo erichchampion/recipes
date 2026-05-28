@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "marinated-tomatoes-5",
+  "name": "Tomates Marinados",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "alemán",
+    "tomates",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "4 tomates grandes",
+    "1 taza de aceite vegetal",
+    "1/4 taza de vinagre de vino",
+    "1/4 cucharadita de mostaza en polvo",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1 cucharada de albahaca picada",
+    "2 cucharadas de tomillo picado",
+    "1 cebolla pequeña picada"
+  ],
+  "recipeInstructions": "1. Pelar y cortar los tomates en rodajas.\n2. Colocar las rodajas de tomate en un bol para servir.\n3. Mezclar los ingredientes restantes y verter sobre los tomates.\n4. Revolver suavemente.\n5. Enfriar durante 1 hora o más antes de servir.",
+  "url": null
+}

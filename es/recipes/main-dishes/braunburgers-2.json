@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "braunburgers-2",
+  "name": "Hamburguesas Braunburgers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgueres",
+    "carne molida",
+    "plato principal",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "1/4 libra de salchicha braunschweiger",
+    "2 cucharadas de crema agria láctea",
+    "1/4 taza de cebolla finamente picada"
+  ],
+  "recipeInstructions": "La salchicha braunschweiger también es conocida como salchicha de hígado. Debido a las especias en la salchicha, no se necesita ninguna especia adicional. Mezcla todos los ingredientes juntos. Forma la mezcla en 5 hamburguesas, cada una de aproximadamente 1 cm de grosor. Asa o tuesta las hamburguesas a 4 pulgadas de distancia del calor, dándolas la vuelta una vez, hasta que alcancen el punto deseado de cocción, alrededor de 10 a 15 minutos.",
+  "url": null
+}

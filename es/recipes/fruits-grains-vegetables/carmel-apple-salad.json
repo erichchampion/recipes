@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "carmel-apple-salad",
+  "name": "Ensalada de Manzana Caramelizada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "fruta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 envase (240 ml) de crema batida congelada descongelada",
+    "1 paquete de mezcla instantánea de pudín de butterscotch seco",
+    "1 lata (240 ml) de piña triturada con jugo",
+    "3 tazas de manzanas picadas",
+    "1 taza de nueces tostadas secas",
+    "1 taza de malvaviscos"
+  ],
+  "recipeInstructions": "1. Mezclar la crema batida descongelada, el pudín de butterscotch y la piña triturada con su jugo.\n2. Agregar las manzanas picadas, nueces tostadas y malvaviscos a la mezcla.\n3. Refrigerar hasta que esté lista para servir.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fudge-pie",
+  "name": "Pastel de Fudge",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 tabletas de chocolate (sin endulzar)",
+    "1/4 lb mantequilla",
+    "1 1/2 tazas de azúcar",
+    "1 cucharadita de vainilla",
+    "1 cucharada de harina",
+    "4 huevos",
+    "Un pellizco de sal"
+  ],
+  "recipeInstructions": "1. Derretir el chocolate y la mantequilla juntos.\n2. Batir los huevos, luego agregar el azúcar y un pellizco de sal.\n3. Incorporar la mezcla de chocolate derretido a la mezcla de huevo.\n4. Mezclar la harina y la vainilla.\n5. Verter la masa en un molde para pastel engrasado.\n6. Hornear a 350°F (175°C) durante 25 minutos.\n7. Reducir la temperatura a 250°F (120°C) y hornear por 15-20 minutos adicionales.\nNota: Asegurarse de que todos los ingredientes estén a temperatura ambiente antes de mezclar. Usar un termómetro para verificar que el horno haya alcanzado la temperatura correcta.",
+  "url": null
+}

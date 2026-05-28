@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "critterless-chili",
+  "name": "Chili sin Carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "sopas",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "3 tazas de frijoles secos remojados y cocidos",
+    "3 cucharadas de polvo de chili",
+    "2 cebollas grandes picadas",
+    "2 cucharadas de comino",
+    "2 zanahorias grandes ralladas o picadas finamente",
+    "2 cucharaditas de pimentón ahumado",
+    "1 pimiento rojo picado",
+    "1 cucharada de albahaca fresca picada",
+    "6 dientes de ajo picados",
+    "1 cucharadita de tomillo seco",
+    "1 chile serrano sin semillas y picado",
+    "1/4 taza de tamari o salsa de soja",
+    "2 cucharadas de aceite de oliva",
+    "1 cucharadita de sal o al gusto",
+    "26 onzas de salsa de espagueti comercial"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una sartén grande a fuego medio-alto.\n2. Agregar las cebollas y el ajo; saltear durante 5 minutos hasta que estén fragantes.\n3. Incorporar las zanahorias, el comino y el pimentón; cocinar por 5 minutos adicionales.\n4. Añadir el pimiento rojo, la albahaca, el tomillo, el chile serrano y la sal al gusto.\n5. Mezclar el polvo de chili y el tamari.\n6. Incorporar los frijoles escurridos y la salsa de espagueti.\n7. Reducir el fuego a bajo y dejar cocinar a fuego lento durante 30 minutos, removiendo ocasionalmente.",
+  "url": null
+}

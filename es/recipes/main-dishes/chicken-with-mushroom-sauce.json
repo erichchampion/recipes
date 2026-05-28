@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-with-mushroom-sauce",
+  "name": "Pollo con Salsa de Setas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "baja en calorías",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "Pollo cortado y sin piel",
+    "1 lata de sopa de setas",
+    "1/2 lata de leche",
+    "1/2 taza de champiñones frescos",
+    "1/2 taza de jerez"
+  ],
+  "recipeInstructions": "1. Coloca el pollo en un refractario.\n2. Mezcla los ingredientes restantes y viértelos sobre el pollo.\n3. Cubre.\n4. Hornea a 180°C durante 45 minutos.",
+  "url": null
+}

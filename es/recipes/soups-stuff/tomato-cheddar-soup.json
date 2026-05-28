@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-cheddar-soup",
+  "name": "Sopa de Tomate y Cheddar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "Caldo de pollo, 4 tazas",
+    "Queso cheddar rallado, 3 tazas",
+    "Tomates enlatados grandes, 2",
+    "Albahaca, 1 cucharadita",
+    "Tomillo, 1/4 cucharadita",
+    "Térigo, 1/2 cucharadita",
+    "Pasta de tomate, lata de 6 onzas"
+  ],
+  "recipeInstructions": "1. Procesa los tomates en una procesadora de alimentos.\n2. Cuela los tomates para eliminar las semillas.\n3. Añade al caldo de pollo, queso cheddar rallado, albahaca, tomillo, térigo y pasta de tomate en una olla.\n4. Deja hervir a fuego lento durante 20 minutos, removiendo ocasionalmente para evitar que el queso se asiente en el fondo y se queme.\n5. Rinde aproximadamente 8 tazas.",
+  "url": null
+}

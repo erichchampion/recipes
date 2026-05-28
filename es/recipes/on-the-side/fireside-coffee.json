@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "fireside-coffee",
+  "name": "Café de Fogata",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de Swiss Miss",
+    "2 tazas de Cremora",
+    "1 1/2 tazas de azúcar",
+    "1 taza de café instantáneo",
+    "1 1/2 cucharaditas de canela",
+    "1/2 cucharadita de nuez moscada"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes en un contenedor grande y hermético.\n2. Utiliza 3 a 4 cucharadas generosas por taza de agua caliente al prepararlo.",
+  "url": null
+}

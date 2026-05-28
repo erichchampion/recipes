@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "ingredients-for-a-great-cake",
+  "name": "Ingredientes para un Pastel Excelente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 libra de Manteca, llevada a crema",
+    "1 libra de Harina",
+    "5/8 libra de Azúcar Blanco",
+    "1 1/3 libra de Pasas",
+    "1/8 litro de Perfume",
+    "Cáscara de 2 Naranjas",
+    "1/8 litro de Jengibre",
+    "1/8 litro de Agua de Rosa",
+    "8 2/3 Huevos, yemas separadas",
+    "1/8 libra de Limón"
+  ],
+  "recipeInstructions": "No se proporcionaron instrucciones. Tomado del LIBRO DE COCINA DE LA MADRE DESESPERADA -- una receta inglesa de 1763 de un libro de cocina cornish.",
+  "url": null
+}

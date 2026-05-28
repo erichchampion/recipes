@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "green-red-tomato-salad",
+  "name": "Ensalada de Tomates Verdes y Rojos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "aderezo para ensalada",
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 tomates verdes grandes",
+    "3 tomates rojos maduros grandes",
+    "1 cebolla roja mediana",
+    "3 cucharadas de albahaca fresca picada"
+  ],
+  "recipeInstructions": "1. Lavar bien todas las verduras.\n2. Cortar la cebolla en cubos y mezclar con los tomates cortados en cubos.\n3. Picar la albahaca y incorporarla a la mezcla.\n4. Servir inmediatamente o enfriar en el refrigerador por unas horas antes de servir.",
+  "url": null
+}

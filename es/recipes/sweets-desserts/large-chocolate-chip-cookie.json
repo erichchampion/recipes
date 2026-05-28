@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "large-chocolate-chip-cookie",
+  "name": "Galleta Grande con Chispas de Chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "chispas de chocolate",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 caja de mezcla para pastel amarillo",
+    "1/2 taza de aceite",
+    "2 cucharadas de agua",
+    "2 huevos, batidos",
+    "1 taza de chispas de chocolate"
+  ],
+  "recipeInstructions": "1. Combinar la mezcla para pastel, el aceite, el agua y los huevos batidos en un bol grande hasta que esté ligeramente mezclado.\n2. Incorporar las chispas de chocolate.\n3. Colocar la masa sobre una bandeja para hornear ligeramente engrasada o una piedra para pizza.\n4. Hornear a 175 °C durante 20 a 25 minutos, o hasta que esté dorada.",
+  "url": null
+}

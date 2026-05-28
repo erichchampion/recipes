@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-bianca-simple-crispy-pizza",
+  "name": "Pizza Bianca (Pizza Crujiente Simple)",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiana",
+    "plato principal",
+    "pizza",
+    "vegetariana"
+  ],
+  "recipeIngredient": [
+    "Masa de pizza casera",
+    "Aceite de oliva, 2 cucharadas",
+    "Sal, 2 cucharaditas",
+    "Ajos laminados finamente, 3 dientes",
+    "Romero fresco picado"
+  ],
+  "recipeInstructions": "1. Estirar cada redonda de masa de pizza sobre una superficie ligeramente enharinada usando un rodillo hasta formar un círculo de 30 cm de diámetro, con un grosor entre 3 mm y 6 mm.\n2. Voltear la masa mientras se estira para evitar que se contraiga.\n3. Colocar cada pieza en una bandeja para hornear engrasada o sobre una piedra para pizza.\n4. Hacer pequeños hoyos en la masa y rociar con aceite de oliva.\n5. Espolvorear con sal, ajo y romero.\n6. Precalentar el horno a 200°C (425°F).\n7. Hornear hasta que las costras estén doradas y crujientes, aproximadamente entre 20 y 25 minutos.",
+  "url": null
+}

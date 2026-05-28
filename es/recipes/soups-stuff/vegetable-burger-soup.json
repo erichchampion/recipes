@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetable-burger-soup",
+  "name": "Sopa de Hamburguesa de Verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "hamburguesas",
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de carne molida",
+    "2 tazas de agua",
+    "400 g de tomates estofados enlatados",
+    "8 oz de salsa de tomate",
+    "10 oz de mezcla congelada de verduras mixtas",
+    "1/4 taza de mezcla seca de sopa de cebolla",
+    "1 cucharadita de azúcar"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida en una olla grande.\n2. Escurrir el exceso de grasa.\n3. Incorporar el agua, los tomates estofados, la salsa de tomate, las verduras mixtas congeladas, la mezcla seca de sopa de cebolla y el azúcar.\n4. Llevar la mezcla a ebullición.\n5. Reducir el fuego y cocinar a fuego lento durante 20 minutos.",
+  "url": null
+}

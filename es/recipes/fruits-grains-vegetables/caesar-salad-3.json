@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "caesar-salad-3",
+  "name": "Ensalada César",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 diente de ajo, picado finamente",
+    "2 cucharadas de aceite de oliva",
+    "2 filetes de anchoa, picados",
+    "1 yema de huevo",
+    "2 dientes de ajo, picados",
+    "1 cucharadita de mostaza dijon",
+    "Jugo de 1 limón",
+    "Sal y pimienta al gusto",
+    "4 tazas de queso parmesano recién rallado",
+    "Croutons"
+  ],
+  "recipeInstructions": "1. En un procesador de alimentos, pica finamente el ajo.\n2. Agrega todos los ingredientes restantes excepto el aceite al procesador de alimentos.\n3. Mezcla hasta que esté bien combinado.\n4. Añade lentamente el aceite de oliva mientras mezcla.\n5. Continúa mezclando durante 2 minutos adicionales.\n6. Desmenuza la lechuga romana en trozos pequeños y mézclala con la mitad del aderezo.\n7. Espolvorea con queso parmesano, trocitos de tocino y croutons.\n8. Mezcla bien y sirve inmediatamente.\n9. Guarda cualquier aderezo restante en el refrigerador. Durará aproximadamente 5 días, pero es mejor prepararlo fresco cada noche para la cena.",
+  "url": null
+}

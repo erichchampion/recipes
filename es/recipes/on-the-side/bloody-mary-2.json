@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "bloody-mary-2",
+  "name": "Bloody Mary",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 onzas de vodka",
+    "1/2 taza de jugo de tomate",
+    "2 cucharaditas de jugo de limón fresco",
+    "salsa Worcestershire al gusto",
+    "tabasco al gusto",
+    "un tallo de apio para decorar",
+    "una rodaja de limón para decorar"
+  ],
+  "recipeInstructions": "1. Mezcla el vodka, jugo de tomate, jugo de limón, salsa Worcestershire, tabasco, 1 taza de cubitos de hielo y sal y pimienta al gusto en un agitador.\n2. Agita bien la mezcla.\n3. Cuela la mezcla en un vaso alto lleno de cubitos de hielo.\n4. Decora el Bloody Mary con el tallo de apio y la rodaja de limón.\nFuente: St. Pete's Times",
+  "url": null
+}

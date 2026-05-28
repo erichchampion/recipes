@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "antipasto",
+  "name": "Antipasto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "entrantes",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "2 pimientos verdes",
+    "2 tallos de apio",
+    "1 diente de ajo",
+    "1 florete de coliflor mediano",
+    "1 taza de atún (escurrido)",
+    "1 cucharada de azúcar granulada",
+    "1 cebolla mediana",
+    "3 zanahorias",
+    "1/2 libra de setas en rodajas",
+    "2 cucharadas de aceite",
+    "1 jugo de limón",
+    "un frasco de 450g de ketchup"
+  ],
+  "recipeInstructions": "1. Picar finamente los pimientos, la cebolla, el apio, las zanahorias, el ajo, las setas y la coliflor.\n2. Cocinar las verduras picadas en aceite caliente durante 5 minutos, revolviendo ocasionalmente hasta que estén bien cocidas.\n3. Verter la mezcla en frascos esterilizados, dejar enfriar completamente y luego refrigerar.\n4. Al servir, disponer el antipasto en un plato atractivo y rodearlo con galletas.",
+  "url": null
+}

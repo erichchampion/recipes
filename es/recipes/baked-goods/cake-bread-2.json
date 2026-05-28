@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cake-bread-2",
+  "name": "Pan de Tarta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de levadura",
+    "2/3 taza de mezcla para pastel",
+    "1 2/3 tazas de harina",
+    "1/3 cucharadita de sal",
+    "1 1 1/3 cucharadas de mantequilla",
+    "13/16 taza de agua"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F (175°C).\n2. En un bol grande, combinar la levadura y el agua. Dejar reposar durante unos 5 minutos hasta que esté espumoso.\n3. Agregar la mezcla para pastel, harina, sal y mantequilla a la mezcla de levadura. Mezclar bien hasta formar una masa.\n4. Transferir la masa a un molde para hornear engrasado y extender uniformemente.\n5. Hornear en el horno precalentado durante 30-35 minutos o hasta que esté dorado y firme al tacto.\n6. Retirar del horno y dejar enfriar sobre una rejilla antes de cortar y servir.",
+  "url": null
+}

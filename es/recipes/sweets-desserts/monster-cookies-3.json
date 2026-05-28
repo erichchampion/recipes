@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "monster-cookies-3",
+  "name": "Galletas Monstruo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "6 huevos",
+    "1 libra de azúcar morena",
+    "2 tazas de azúcar granulada",
+    "4 cucharadas de bicarbonato de sodio",
+    "1/2 libra de mantequilla",
+    "1 1/2 libras de manteca de maní",
+    "9 tazas de avena",
+    "1/2 libra de chips de chocolate",
+    "1/2 libra de M&M's",
+    "1/4 taza de nueces picadas (opcional)"
+  ],
+  "recipeInstructions": "1. En un bol grande, combina todos los ingredientes.\n2. Usa una cucharada para helado para formar bolas de masa.\n3. Aplana suavemente la masa en una bandeja para galletas.\n4. Hornea a 350 grados Fahrenheit durante 10 a 12 minutos.",
+  "url": null
+}

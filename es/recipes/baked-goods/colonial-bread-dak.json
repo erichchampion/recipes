@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "colonial-bread-dak",
+  "name": "Pan Colonial - DAK",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "maíz molido",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "PNewton vkbb14a",
+    "1 cucharada de Manteca (puré de manzanas)",
+    "1 cucharadita de Sal",
+    "1/3 taza de Melaza",
+    "1 1/2 tazas de Agua hirviendo",
+    "1/3 taza de Maíz molido amarillo",
+    "3 1/2 tazas de Harina de pan",
+    "1 sobre de Levadura"
+  ],
+  "recipeInstructions": "1. Coloca el maíz molido en un bol.\n2. Vierte cuidadosamente el agua hirviendo sobre el maíz molido, removiendo para asegurar una mezcla suave.\n3. Deja reposar para enfriar durante unos 30 minutos.\n4. Agrega la melaza, la sal y la manteca.\n5. Mezcla la mezcla de maíz molido con la harina de pan y la levadura en un ajuste ligero.",
+  "url": null
+}

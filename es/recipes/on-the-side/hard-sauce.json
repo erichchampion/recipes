@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "hard-sauce",
+  "name": "Salsa Espesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar glas",
+    "1 cucharadita de vainilla",
+    "1/2 taza de mantequilla",
+    "2 cucharadas de brandy o ron",
+    "1/8 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. En un bol, batir juntos el azúcar glas, la mantequilla, la sal y la vainilla hasta que estén bien integrados.\n2. Agregar gradualmente el brandy o ron a la mezcla, removiendo suavemente hasta obtener una consistencia cremosa.",
+  "url": null
+}

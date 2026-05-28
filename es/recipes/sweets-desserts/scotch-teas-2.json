@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "scotch-teas-2",
+  "name": "Scotch Teas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de margarina",
+    "2 tazas de azúcar morena",
+    "2 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "3 1/4 tazas de avena rápida"
+  ],
+  "recipeInstructions": "1. En una olla, combine la margarina y el azúcar morena. Cocine a fuego medio hasta que la mantequilla se derrita.\n2. Incorpore el polvo de hornear y la sal. Agregue la avena y mezcle bien.\n3. Vierta la mezcla en un molde para hornear engrasado de 13x9x2 pulgadas.\n4. Hornee a 175 °C durante 20-25 minutos.\n5. Corte en barras.",
+  "url": null
+}

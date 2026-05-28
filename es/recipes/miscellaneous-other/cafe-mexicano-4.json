@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cafe-mexicano-4",
+  "name": "Café Mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "americano",
+    "bebidas",
+    "étnico",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "1 oz de licor de café",
+    "1/2 oz de brandy",
+    "1 cucharada de jarabe de chocolate",
+    "1 pizca de canela molida",
+    "1 taza de café caliente",
+    "1 taza de crema batida con azúcar"
+  ],
+  "recipeInstructions": "1. Vierte el licor de café en una taza o tazón para café.\n2. Añade el brandy al mismo recipiente.\n3. Mezcla el jarabe de chocolate y la canela molida.\n4. Llena el tazón con café caliente, dejando algo de espacio en la parte superior.\n5. Cubre con crema batida con azúcar.\n¡Disfruta tu Café Mexicano!",
+  "url": null
+}

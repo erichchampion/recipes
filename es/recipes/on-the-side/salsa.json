@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "salsa",
+  "name": "Salsa",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "20 tomates medianos",
+    "1-4 pimientos jalapeños (picados y sin semillas)",
+    "2 pimientos rojos",
+    "2 pimientos verdes",
+    "4 cebollas",
+    "1/4 taza de sal o al gusto",
+    "1 1/2 cucharadas de jugo de limón"
+  ],
+  "recipeInstructions": "1. Cortar los vegetales.\n2. Hervir los vegetales picados hasta que espese, aproximadamente tres horas.\n3. Agregar 1/4 taza de almidón de maíz y hervir por 15 minutos adicionales.\n4. Ajustar la cantidad de pimientos jalapeños según el nivel de picante deseado y los gustos personales.\n5. Servir con arroz marrón o disfrutar como plato independiente.",
+  "url": null
+}

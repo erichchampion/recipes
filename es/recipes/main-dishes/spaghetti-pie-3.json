@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-pie-3",
+  "name": "Pastel de Espagueti",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "tartas para la cena",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 taza de espagueti cocido",
+    "1/2 taza de salsa de espagueti casera con ajo y albahaca",
+    "1/2 pimiento verde, cortado en rodajas y salteado ligeramente",
+    "1/2 pimiento rojo, cortado en rodajas y salteado ligeramente",
+    "1/4 taza de queso parmesano rallado fresco",
+    "1/2 taza de queso mozzarella rallado"
+  ],
+  "recipeInstructions": "1. Engrasa un molde para pastel de 9 pulgadas con spray para cocinar o aceite de oliva.\n2. Presiona el espagueti en el molde para formar la base.\n3. Cubre con salsa, pimientos y quesos.\n4. Hornea a 350 grados hasta que esté caliente.",
+  "url": null
+}

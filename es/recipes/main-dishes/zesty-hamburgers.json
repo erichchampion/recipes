@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "zesty-hamburgers",
+  "name": "Hamburguesas Picantes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida extra magra",
+    "4 cucharadas de rábano picante preparado",
+    "2 cucharaditas de mostaza Dijon",
+    "3 cucharadas de crema agria sin grasa, ver nota",
+    "1 cucharadita de pimentón",
+    "1/4 cucharadita de pimienta",
+    "1/8 cucharadita de sal, opcional",
+    "4 panecillos para hamburguesa, cortados por la mitad"
+  ],
+  "recipeInstructions": "1. En un bol, combina los primeros siete ingredientes; mezcla bien.\n2. Forma cuatro hamburguesas.\n3. Saltea, a la parrilla o hierve hasta que ya no sea rosada.\n4. Sirve en los panecillos.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "greens-galore",
+  "name": "Greens Galore",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "ensaladas",
+    "guarniciones",
+    "dietas especiales",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "10 tazas de col rizada, chard o mostaza (o una combinación de las anteriores), picada",
+    "2 cucharadas de aceite de oliva",
+    "Sal y pimienta al gusto",
+    "Jugo de 1/2 limón",
+    "Opcional: 2 cebollas medianas, laminadas"
+  ],
+  "recipeInstructions": "1. Lavar las verduras cuidadosamente y picarlas con sus tallos.\n2. En una olla grande, calentar el aceite de oliva a fuego medio.\n3. Agregar las cebollas (si se usan) y cocinar hasta que estén doradas.\n4. Incorporar las verduras picadas y añadir agua para cubrirlos. Cubrir la olla y cocinar a fuego medio, revolviendo ocasionalmente, hasta que las verduras estén tiernas.\n5. Sazonar con sal y pimienta al gusto.\n6. Espolvorear con jugo de limón si se desea.",
+  "url": null
+}

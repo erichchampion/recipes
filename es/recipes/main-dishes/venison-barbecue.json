@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "venison-barbecue",
+  "name": "Asado de Ciervo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "juego",
+    "plato principal",
+    "carne",
+    "carnes",
+    "ciervo"
+  ],
+  "recipeIngredient": [
+    "3 lb de lomo de ciervo",
+    "1 taza de ketchup",
+    "1 cucharadita de sal",
+    "2 cucharadas de salsa Worcestershire",
+    "1/4 taza de vinagre",
+    "1 cucharada de mantequilla",
+    "1/8 cucharadita de canela",
+    "3 rodajas de limón",
+    "1 cebolla, cortada finamente",
+    "1/8 cucharadita de pimienta de Jamaica"
+  ],
+  "recipeInstructions": "1. Dorar un lomo de ciervo de 3 libras en una sartén.\n2. Mezclar los ingredientes restantes (ketchup, sal, salsa Worcestershire, vinagre, mantequilla, canela, rodajas de limón y pimienta de Jamaica) en una cacerola. Llevar a ebullición, removiendo ocasionalmente para evitar que se queme. Reducir el fuego y cocinar durante 10 minutos.\n3. Cubrir el ciervo con la salsa y hornearlo a temperatura moderada (350 grados F.) de 1 1/2 a 2 horas, dando vuelta a la carne ocasionalmente.",
+  "url": null
+}

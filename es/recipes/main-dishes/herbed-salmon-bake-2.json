@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "herbed-salmon-bake-2",
+  "name": "Salmón con Hierbas al Horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 cubos de caldo de pollo",
+    "1 taza de agua hirviendo",
+    "1 lata de salmón (450 g), escurrido y desmenuzado",
+    "2 tazas de crotones de pan con aderezo",
+    "1 taza de queso cheddar rallado",
+    "2 huevos batidos",
+    "1/4 cucharadita de mostaza en polvo"
+  ],
+  "recipeInstructions": "1. Disuelve los cubos de caldo en el agua hirviendo.\n2. Combina todos los ingredientes en un bol grande; mezcla bien.\n3. Vierte la mezcla en una olla para hornear bien engrasada.\n4. Tapa y cocina a temperatura alta durante 2 a 4 horas, removiendo ocasionalmente.",
+  "url": null
+}

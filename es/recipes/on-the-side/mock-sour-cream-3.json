@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-sour-cream-3",
+  "name": "Crema agria falsa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 taza de queso cottage sin grasa",
+    "2 cucharadas de jugo de limón",
+    "2 cucharadas de mayonesa sin grasa",
+    "1/4 taza de suero de leche sin grasa",
+    "la ralladura de medio limón (por lo general omito esto, es lo suficientemente ácido sin él a mi gusto)"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en una licuadora.\n2. Licuar hasta que quede suave.\n3. Usar en recetas que requieran crema agria.",
+  "url": null
+}

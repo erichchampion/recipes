@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "crock-pot-stew-3",
+  "name": "Guiso en olla de cocción lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "olla de cocción lenta",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "2 latas de frijoles estilo ranch",
+    "2 latas de sopa minestrone",
+    "1 lata de tomates Rotel picados",
+    "500 gramos de carne molida"
+  ],
+  "recipeInstructions": "1. Dorar la carne hasta que esté bien cocida.\n2. Escurrir el exceso de grasa si es necesario.\n3. Agregar la carne dorada a la olla de cocción lenta.\n4. Incorporar los frijoles, la sopa minestrone y los tomates Rotel picados a la olla.\n5. Cocinar a fuego bajo durante 5-6 horas o hasta que esté tierno.",
+  "url": null
+}

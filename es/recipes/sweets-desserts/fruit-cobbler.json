@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-cobbler",
+  "name": "Pastel de Frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "cobblers",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "1 taza de harina cernida",
+    "1 cucharadita de polvo de hornear",
+    "1/4 cucharadita de sal",
+    "1 barra (o margarina) derretida",
+    "3/4 taza de leche"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes a mano.\n2. Calentar aproximadamente 1 litro de frutas endulzadas.\n3. Verter la mitad de la masa en un molde para hornear engrasado de 8 x 10 pulgadas.\n4. Agregar las frutas, luego verter el resto de la masa sobre las frutas.\n5. Hornear en el horno a 400 grados Fahrenheit por 45 minutos o hasta que esté dorado.",
+  "url": null
+}

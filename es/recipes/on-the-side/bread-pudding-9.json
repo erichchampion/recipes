@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "bread-pudding-9",
+  "name": "Budín de Pan",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "puddings",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 litro de bizcocho",
+    "o:",
+    "1 litro de pan duro",
+    "2 tazas de leche",
+    "1/2 taza de azúcar",
+    "2 huevos batidos bien",
+    "1/4 taza de pasas",
+    "1/4 cucharadita de nuez moscada"
+  ],
+  "recipeInstructions": "1. Batir los huevos y agregar el azúcar, la leche y la nuez moscada.\n2. Enmantequillar un molde para hornear.\n3. Disponer el bizcocho o el pan en el molde y verter el líquido sobre él.\n4. Dejar reposar hasta que el pan haya absorbido todo el líquido.\n5. Agregar las pasas.\n6. Hornear a 175°C durante 25 minutos.",
+  "url": null
+}

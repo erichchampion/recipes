@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "claret-cup",
+  "name": "Copo de Claret",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "postres",
+    "étnica",
+    "entrantes"
+  ],
+  "recipeIngredient": [
+    "1 lata de 6 onzas de concentrado de limonada congelada",
+    "1 lata de 355 ml de soda de toronja fría",
+    "3/4 taza de Cointreau o Curacao",
+    "1 botella de vino Claret frío",
+    "Cubos de hielo o molde"
+  ],
+  "recipeInstructions": "1. En un jarro grande o bol de punch, combina el concentrado de limonada congelada, la soda de toronja fría, Cointreau o Curacao y el vino Claret frío.\n2. Refrigera con cubos de hielo o molde.\n3. Sirve inmediatamente.\n4. Adorna con una rodaja de toronja rosa o gajos de naranja.",
+  "url": null
+}

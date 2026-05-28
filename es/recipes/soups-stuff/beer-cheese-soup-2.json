@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "beer-cheese-soup-2",
+  "name": "Sopa de Cerveza y Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas y guisos"
+  ],
+  "recipeIngredient": [
+    "8 tazas de leche",
+    "2 cucharadas de salsa Tabasco",
+    "4 cucharadas de salsa Worcestershire",
+    "4 cucharadas de base de pollo",
+    "16 onzas de Cheeze Whiz",
+    "6 cucharadas de almidón de maíz",
+    "1/3 taza de agua",
+    "1 taza de cerveza",
+    "pimienta cayena"
+  ],
+  "recipeInstructions": "1. Combinar la leche, salsa Tabasco, salsa Worcestershire y base de pollo en una olla grande. Llevar a ebullición, removiendo con frecuencia.\n2. Una vez que hierva, agregar el Cheeze Whiz y remover hasta que se incorpore por completo.\n3. Disolver el almidón de maíz en el agua antes de añadirlo a la mezcla de sopa. Remover bien.\n4. Incorporar la cerveza a la sopa y ajustar el calor si es necesario para espesar inmediatamente.\n5. Servir caliente, vertiendo en cuencos y espolvoreando pimienta cayena al gusto.",
+  "url": null
+}

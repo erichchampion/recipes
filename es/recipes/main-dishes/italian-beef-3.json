@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-beef-3",
+  "name": "Carne de Res Italiana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "5 libras de lomo de res",
+    "3 tazas de agua",
+    "3 cubos de caldo de res",
+    "1 cucharadita de marjoram",
+    "1 cucharadita de tomillo",
+    "1 cucharadita de orégano",
+    "un chorrito de salsa Tabasco",
+    "sal y pimienta al gusto",
+    "2 tazas de ajo picado",
+    "2 cucharadas de salsa Worcestershire",
+    "3/4 taza de pimiento verde picado"
+  ],
+  "recipeInstructions": "1. Sazonar el lomo de res con sal y pimienta.\n2. Colocar la carne en una rejilla dentro del horno precalentado a 325°F (160°C) y cocinar durante 40 minutos por libra o hasta alcanzar el punto deseado.\n3. En una sartén grande, agregar las grasas de la asada y los ingredientes restantes. Reducir a fuego lento durante 15 minutos.\n4. Incorporar la carne en rodajas a la salsa y marinar por al menos 5 horas, preferiblemente toda la noche.\n5. Antes de servir, calentar la mezcla a fuego medio sin llegar a ebullición.\n6. Servir sobre pan italiano o hogazas.",
+  "url": null
+}

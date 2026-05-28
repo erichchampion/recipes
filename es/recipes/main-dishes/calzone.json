@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "calzone",
+  "name": "Calzone",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "máquina de panificar",
+    "italiano",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 1/3 tazas - agua",
+    "2 cucharadas aceite de oliva",
+    "2/3 cucharadita sal",
+    "1/2 cucharadita orégano",
+    "4 tazas harina de pan",
+    "2 1/2 cucharaditas levadura",
+    "10 1/2 onzas espinacas congeladas picadas",
+    "polvo de ajo",
+    "2 cucharadas aceite de oliva",
+    "1 taza queso provolone rallado",
+    "1 taza queso mozzarella rallado"
+  ],
+  "recipeInstructions": "1. Retirar la masa de la máquina y estirarla en círculos de aproximadamente 8 pulgadas.\n2. Extender el relleno sobre la mitad del círculo, dejando un borde para cerrarlo.\n3. Doblar el lado sin rellenar sobre el relleno y sellar los bordes con los dedos o con un tenedor.\n4. Colocar sobre una bandeja para hornear engrasada ligeramente. Dejar reposar durante unos 30 minutos.\n5. Untar ligeramente con aceite de oliva y hornear a 500°F (250°C) durante 20-30 minutos, o hasta que esté inflado y dorado.\nMi relleno favorito:\nRELLENO DE ESPINACAS: Saltear las espinacas descongeladas en aceite de oliva y polvo de ajo hasta que se evapore todo el agua (apretar para sacar el exceso de líquido). Mezclar los quesos con las espinacas. Se puede sustituir el brócoli congelado picado por las espinacas.",
+  "url": null
+}

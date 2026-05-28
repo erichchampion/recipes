@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "fajita-nachos",
+  "name": "Fajita Nachos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "pollo"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de jugo de lima",
+    "2 cucharadas de aceite de oliva",
+    "1 1/2 tazas de cerveza",
+    "2 dientes de ajo",
+    "1 cucharadita de comino molido",
+    "1 cucharadita de cúrcuma molida",
+    "1 pimiento jalapeño, sin semillas y picado",
+    "1 libra de pechugas de pollo deshuesadas y sin piel (con la grasa eliminada)",
+    "32 onzas de frijoles pintos",
+    "sal",
+    "2 cebollas medianas, picadas",
+    "1/2 taza de queso cheddar bajo en grasa",
+    "1/2 taza de guacamole",
+    "15 tortillas de maíz, cortadas en triángulos"
+  ],
+  "recipeInstructions": "Para la salsa:\nCombina todos los ingredientes en un procesador de alimentos o licuadora y mezcla. Tapa y refrigera hasta que esté lista para usar.\nMarinada:\nCombina jugo de lima, 2 cucharadas de aceite de oliva, 1/2 taza de la cerveza, ajo, comino, cúrcuma y jalapeño en una bolsa de congelador. Reserva 3 cucharadas y añade el pollo. Cierra y gira la bolsa para cubrir el pollo. Refrigera por 2 horas o durante la noche, girando la bolsa ocasionalmente.\nFajitas:\nCombina la marinada reservada, frijoles y la cerveza restante en una cacerola. Cocina a fuego medio, removiendo y aplastando los frijoles hasta que se espesen ligeramente. Sazónalos al gusto con sal. En una sartén, añade el aceite restante a fuego medio. Añade las cebollas y cocina parcialmente tapada, revolviendo con frecuencia hasta que estén suaves y doradas. Si se prepara con antelación, cubre los frijoles y las cebollas por separado, recalentando cuando esté listo para usar.\nSaca el pollo de la bolsa y escurre cualquier exceso de marinada. Colócalo en una parrilla y tapa con la tapa de la parrilla. Cocina el pollo hasta que esté hecho, luego retíralo y córtalo en trozos pequeños.\nExtiende los frijoles sobre un círculo de 10 pulgadas en una sartén grande para pizza. Coloca las cebollas, pollo y queso encima. Coloca la sartén sobre la parrilla y tapa con la tapa. Cocina hasta que el queso se derrita. Coloca el guacamole y un poco de salsa encima. Envuelve algunos de los chips alrededor de los bordes. Sirve con los chips restantes y la salsa.",
+  "url": null
+}

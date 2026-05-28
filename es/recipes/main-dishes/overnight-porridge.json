@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "overnight-porridge",
+  "name": "Porridge de la noche",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de granos de bulghur",
+    "3 cucharadas de avena (de grano entero)",
+    "1/3 taza de fruta seca (dátiles y pasas)",
+    "1 cucharada de melaza",
+    "1 1/2 tazas de agua"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en un bol y reservar durante la noche.\n2. Por la mañana, colocar la mezcla en el microondas y cocinar durante 5 minutos (sin tapa).\n3. Esta receta sirve para 4 personas, pero se puede reducir a la mitad para 2 porciones.",
+  "url": null
+}

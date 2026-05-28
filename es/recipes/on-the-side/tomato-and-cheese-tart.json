@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-and-cheese-tart",
+  "name": "Tarta de Tomate y Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso",
+    "entrantes"
+  ],
+  "recipeIngredient": [
+    "1 hoja de masa hojaldre",
+    "6 huevos",
+    "1 taza de crema",
+    "2 cucharadas de mantequilla derretida",
+    "2 tazas de tomates, pelados, sin semillas y picados",
+    "1 taza de queso Parmesano o Suizo rallado",
+    "1 cucharadita de orégano fresco picado",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 180 °C.\n2. Estirar la masa hojaldre para cubrir un molde para tarta redondo de 25 cm de profundidad.\n3. Presionar los bordes y perforar el fondo con un tenedor.\n4. Batir ligeramente los huevos en un bol pequeño. Agregar la crema y mezclar bien.\n5. Incorporar la mantequilla derretida, los tomates, el queso, el orégano y sazonar al gusto.\n6. Verter la mezcla en la tarta y hornear durante 45 minutos a 1 hora, o hasta que esté firme.",
+  "url": null
+}

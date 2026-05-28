@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fried-calamari",
+  "name": "Calamares Fritos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "aperitivos",
+    "marino",
+    "plato principal",
+    "carne",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "12 calamarones",
+    "Harina, para enharinar",
+    "Aceite para freír",
+    "2 limones",
+    "Sal al gusto",
+    "Pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Retirar las estructuras esqueléticas de los calamares y raspar la piel con el lado plano de un cuchillo hasta llegar a la carne blanca. Cortar los calamares en trozos y enjuagar con agua fría.\n2. Escurrir y enharinar los calamares, sacudiendo el exceso.\n3. Freír cuidadosamente en aceite caliente hasta que estén dorados. No sobrecargar la sartén.\n4. Sazonar con jugo de limón, sal y pimienta.",
+  "url": null
+}

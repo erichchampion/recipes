@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "lasagne-2",
+  "name": "Lasaña",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de carne molida de res",
+    "1 taza de cebolla picada",
+    "2 dientes de ajo picados",
+    "2 cucharaditas de orégano seco",
+    "2 latas de sopa de tomate",
+    "1/2 taza de agua",
+    "2 cucharaditas de vinagre blanco",
+    "500 g de pasta para lasaña ancha",
+    "1 taza de queso cottage escurrido",
+    "500 g de mozzarella rallada"
+  ],
+  "recipeInstructions": "1. Dorar la carne, la cebolla y el ajo en una sartén grande.\n2. Agregar la sopa de tomate, el agua, el orégano y el vinagre a la sartén y mezclar bien.\n3. Cocinar las láminas de pasta en abundante agua hirviendo hasta que estén al dente.\n4. Montar la lasaña en una fuente para horno alternando capas de pasta, salsa y quesos.\n5. Hornear a temperatura media durante 30 minutos o hasta que esté burbujeante y dorada.\n6. Dejar reposar 15 minutos antes de servir.",
+  "url": null
+}

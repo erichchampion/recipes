@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "yogurt-muffins",
+  "name": "Muffins de Yogur",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "muffins",
+    "rápidos"
+  ],
+  "recipeIngredient": [
+    "2 Huevos, batidos ligeramente",
+    "1 taza de Yogur Natural",
+    "2 cucharadas de Aceite",
+    "1/4 taza de Miel o melaza",
+    "1 taza de Harina Integral de Trigo para Todo Uso",
+    "1/2 taza de Harina Integral de Garbanzo para Todo Uso",
+    "1/2 cucharadita de Sal Marina (opcional)",
+    "2 cucharaditas de Polvo de Hornear",
+    "1/4 taza de Pasas (opcional)",
+    "1/4 taza de Nueces picadas (opcional)"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375°F.\n2. Mezclar los ingredientes líquidos en un bol.\n3. Combinar los ingredientes secos y removerlos con los líquidos hasta que estén húmedos.\n4. Llenar moldes para muffins engrasados aproximadamente dos tercios de su capacidad.\n5. Hornear durante 20 minutos a 375°F o hasta que estén listos.",
+  "url": null
+}

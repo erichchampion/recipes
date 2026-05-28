@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-salad",
+  "name": "Ensalada de Tomate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "4 cucharadas de aceite de oliva",
+    "1 cucharadita de mostaza dijon",
+    "1 1/2 cucharadas de vinagre de vino tinto",
+    "Sal y pimienta negra recién molida",
+    "4 tomates medianos maduros, cortados en rodajas finas",
+    "Cebolla, perejil y albahaca picados",
+    "Aceitunas negras sin hueso en rodajas"
+  ],
+  "recipeInstructions": "1. En un bol pequeño, bate juntos el aceite de oliva, la mostaza dijon, el vinagre de vino tinto, la sal y la pimienta hasta que esté bien combinado.\n2. Arregla las rodajas de tomates en una fuente poco profunda.\n3. Vierte el aderezo sobre los tomates y decora con cebolla picada, perejil, albahaca y aceitunas negras.\n4. Sirve 4 porciones.",
+  "url": null
+}

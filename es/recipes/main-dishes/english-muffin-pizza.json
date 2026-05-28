@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "english-muffin-pizza",
+  "name": "Pizza de Muffin Inglés",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiana",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "6 Muffins Ingleses",
+    "4 oz de Pepperoni en rodajas",
+    "6 oz de Queso Monterey Jack",
+    "6 oz de Salsa de Pizza",
+    "Aceitunas en rodajas",
+    "Cebolla picada",
+    "Pimiento verde picado"
+  ],
+  "recipeInstructions": "1. Coloca las mitades de los muffins ingleses sobre una bandeja para hornear.\n2. Extiende cada mitad con suficiente salsa de pizza para cubrir generosamente.\n3. Añade 3-4 rodajas de pepperoni en cada mitad.\n4. Coloca una porción generosa de queso rallado sobre cada pizza.\n5. Hornea a 180°C durante aproximadamente 15 minutos.\n6. Sirve caliente.",
+  "url": null
+}

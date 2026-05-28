@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "honeyed-chicken",
+  "name": "Pollo con Miel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves"
+  ],
+  "recipeIngredient": [
+    "1 pollo de 4 libras cortado en piezas",
+    "1/2 limón por pieza",
+    "2 cucharadas de jengibre rallado",
+    "3 cucharadas de aceite de maní",
+    "1/4 taza de miel",
+    "una pizca de sal"
+  ],
+  "recipeInstructions": "1. Untar las piezas de pollo con jugo de limón.\n2. Espolvorear con la mitad del jengibre y la sal.\n3. En un bol, mezclar el aceite, la miel y el jengibre restante.\n4. Untar el pollo con la mezcla de miel.\n5. Hornear a 175°C (350°F) durante 1 hora y media a 2 horas, engrasando ocasionalmente con la mezcla de miel.",
+  "url": null
+}

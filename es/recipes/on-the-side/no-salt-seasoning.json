@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "no-salt-seasoning",
+  "name": "Condimento sin Sal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "hierbas",
+    "mezclas",
+    "acompañamientos",
+    "especias"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de polvo de cebolla",
+    "1 cucharada de polvo de rábano",
+    "1 cucharada de polvo de comino",
+    "1 cucharada de pimentón",
+    "1 cucharada de copos de perejil finamente molidos",
+    "1 cucharadita de tomillo en hojas",
+    "1 cucharadita de semillas de apio molidas",
+    "1 cucharadita de polvo de ajo",
+    "1/2 cucharadita de pimienta gruesa",
+    "1/2 cucharadita de mostaza seca"
+  ],
+  "recipeInstructions": "1. Medir todos los ingredientes.\n2. Combinarlos en un bol.\n3. Revolar hasta que queden bien mezclados.\n4. Transferirlos a una botella de especias limpia para su almacenamiento.",
+  "url": null
+}

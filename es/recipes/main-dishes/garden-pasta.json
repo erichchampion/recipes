@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "garden-pasta",
+  "name": "Pasta del Jardín",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 berenjena pequeña",
+    "1 calabacín pequeño",
+    "1 cebolla pequeña",
+    "4 dientes de ajo",
+    "2 tomates",
+    "manojada de brócoli en floretes",
+    "vino Marsala",
+    "vino tinto",
+    "vinagre balsámico",
+    "alecre marjorama",
+    "salvia",
+    "cebollinos",
+    "basilico",
+    "perejil"
+  ],
+  "recipeInstructions": "1. Hervir agua para la linguine.\n2. Picar la cebolla y saltearla en los vinos y vinagre.\n3. Picar el ajo y añadir después de 3 minutos.\n4. Incorporar todas las hierbas, verduras (excepto los tomates), y cocinar a fuego lento, añadiendo agua si es necesario. Cocinar la pasta mientras tanto.\n5. Cuando esté al gusto, agregar los tomates.\n6. Servir sobre la pasta. Cocinar la berenjena en el vino y vinagre le da un toque de dulzura sutil y una textura similar a las setas.",
+  "url": null
+}

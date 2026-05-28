@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-fondue-3",
+  "name": "Fondue de Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso",
+    "huevos",
+    "fondue",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "4 tazas de queso cheddar rallado",
+    "1/2 taza de cerveza",
+    "2 cucharaditas de salsa Worcestershire",
+    "1/2 cucharadita de mostaza en polvo",
+    "1/8 cucharadita de polvo de ajo",
+    "Una pizca de salsa Tabasco (o al gusto)",
+    "1 cucharada de maicena",
+    "2 cucharadas de jamón cocido en cubos"
+  ],
+  "recipeInstructions": "1. Ralla el queso cheddar.\n2. Agrega la cerveza gradualmente al queso rallado mientras mezclas hasta obtener una consistencia esponjosa.\n3. Incorpora salsa Worcestershire, mostaza, polvo de ajo y salsa Tabasco; mezcla bien.\n4. Coloca la mezcla sobre una llama baja en la estufa, revolviendo constantemente.\n5. Mezcla la maicena con agua y luego agrégala a la mezcla de queso.\n6. Cocina y revuelve hasta que espese y burbujee. Calienta antes de servir si se preparó con antelación.\n7. Sirve para 4 personas.",
+  "url": null
+}

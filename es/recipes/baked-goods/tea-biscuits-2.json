@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "tea-biscuits-2",
+  "name": "Galletas de Té",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "2 tazas de Harina, tamizada",
+    "4 cucharaditas de Polvo de Hornear",
+    "1/4 cucharadita de Sal",
+    "3 cucharadas de Mantequilla (hasta 5 cucharadas)",
+    "2/3 taza de Leche"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 450°F.\n2. Mezclar la harina, el polvo de hornear y la sal en un bol.\n3. Cortar la mantequilla hasta que la mezcla se parezca a guisantes pequeños.\n4. Agregar la leche y mezclar hasta que la masa se desprenda de los lados del bol.\n5. Colocar sobre una superficie enharinada y amasar por unos segundos.\n6. Hornear hasta dorar (12 minutos).",
+  "url": null
+}

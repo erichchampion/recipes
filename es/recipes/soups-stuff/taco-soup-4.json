@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-soup-4",
+  "name": "Sopa de Tacos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de carne molida",
+    "1 cebolla grande, picada",
+    "28 onzas de tomates con jugo",
+    "15 onzas de frijoles rojos enlatados",
+    "17 onzas de maíz entero con jugo",
+    "8 onzas de salsa de tomate",
+    "1 sobre de mezcla para taco",
+    "4 tazas de agua"
+  ],
+  "recipeInstructions": "1. Dorar la carne y la cebolla en una olla holandesa.\n2. Escurrir el exceso de grasa de la olla.\n3. Agregar los ingredientes restantes a la olla.\n4. Reducir a fuego lento y cocinar durante 1 hora.\n5. Servir con totopos o pan de maíz.",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-pepper-steak",
+  "name": "Bistec Picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "corte de carne"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de bistec de falda o redondo",
+    "1 taza de apio, cortado finamente",
+    "MARINADA:",
+    "1/3 taza de cebolla verde, cortada",
+    "1/3 taza de salsa de soja",
+    "1 cucharada de almidón de maíz",
+    "1 diente de ajo, prensado",
+    "3/4 taza de agua",
+    "1 cucharadita de pimentón",
+    "1/2 cucharadita de jengibre y pimienta molida",
+    "1/3 taza de aceite para saltear",
+    "1 taza de tomates, cortados en cubos",
+    "1 1/2 tazas de pimientos rojo, verde y amarillo, cortados en tiras"
+  ],
+  "recipeInstructions": "Retirar las semillas y membranas de los pimientos y cortarlos en tiras longitudinales. Cortar la carne contra el grano en tiras finas.\nCombinar la salsa de soja, ajo, pimentón, jengibre y 2/3 del aceite en un bol. Agregar las tiras de carne, mezclar bien y dejar marinar a temperatura ambiente por al menos 30 minutos.\nPreparar los vegetales mientras la carne se marina. Retirar la carne de la marinada y escurrirla, descartando el líquido.\nCalentar el aceite restante en un wok o sartén grande y pesada a fuego alto. Agregar la carne y mezclar hasta dorarla bien, aproximadamente 5-7 minutos. Si la carne no está lo suficientemente tierna, agregar un poco de agua y cocinar a fuego medio durante unos 20 minutos.\nRetirar la carne y reservar. Agregar todos los vegetales excepto los tomates al sartén. Cocinar, revolviendo constantemente, hasta que los vegetales estén tiernos-crujientes, aproximadamente 10 minutos.\nDevolver la carne al sartén. Mezclar el almidón de maíz con agua en un bol pequeño y agregar a la sartén, revolviendo constantemente. Continuar cocinando hasta espesarse.\nAgregar los tomates y sazonar con sal y pimienta al gusto. Calentar brevemente si es necesario.\nServir sobre arroz o fideos cocidos.",
+  "url": null
+}

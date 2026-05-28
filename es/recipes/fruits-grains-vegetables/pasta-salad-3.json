@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-salad-3",
+  "name": "Ensalada de Pasta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "aperitivos",
+    "pasta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2/3 taza de macarrones Rotini",
+    "1/2 taza de vegetales mixtos congelados",
+    "1/4 taza de queso mozzarella rallado",
+    "2 cucharadas de mayonesa",
+    "1 cucharada de albahaca o perejil picado",
+    "1/2 cucharadita de orégano seco"
+  ],
+  "recipeInstructions": "1. Cocinar la pasta en una olla con agua hirviendo y sal hasta que esté tierna.\n2. Escurrir y enjuagar la pasta con agua fría, asegurándose de que esté bien escurrida.\n3. Agregar los vegetales y el queso a la pasta escurrida.\n4. Mezclar la mayonesa, el albahaca o perejil, y el orégano hasta combinarlos.",
+  "url": null
+}

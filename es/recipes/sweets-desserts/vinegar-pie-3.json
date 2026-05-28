@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "vinegar-pie-3",
+  "name": "Tarta de Vinagre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 huevo",
+    "3 cucharadas de vinagre de sidra",
+    "1 cucharadita de extracto de limón",
+    "4 cucharadas de harina",
+    "1 taza de azúcar",
+    "1 taza de agua hirviendo",
+    "1 masa de tarta horneada"
+  ],
+  "recipeInstructions": "1. Mezcla el azúcar y la harina.\n2. Agrega el agua hirviendo a la mezcla.\n3. Cocina por 5 minutos.\n4. Incorpora el extracto de limón y el vinagre de sidra.\n5. Vierte el relleno en la masa de tarta horneada y deja enfriar.",
+  "url": null
+}

@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-napoli-2",
+  "name": "Pollo Napoli",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "carnes",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "Pollo asado, sin piel, cortado - 1/2 taza",
+    "Coliflor, en floretes - 1/2 taza",
+    "Papas, en rodajas - 1 taza",
+    "Zanahorias, en rodajas - 1 taza",
+    "Berenjena, en cubos - 1 taza",
+    "Pimiento rojo o verde, en rodajas - 1 taza",
+    "Cebollas, en rodajas - 1 taza",
+    "Apio, en rodajas - 1 taza",
+    "Pimienta - 1/2 cucharadita",
+    "Polvo de ajo - 1/2 cucharadita",
+    "Polvo de caldo de pollo - 2 cucharadas",
+    "Albahaca seca - 2 cucharaditas"
+  ],
+  "recipeInstructions": "1. Coloca el pollo y los vegetales en un recipiente para horno de 4 cuartos.\n2. Espolvorea con pimienta.\n3. Añade los tomates, el polvo de ajo, el polvo de caldo de pollo y agua.\n4. Espolvorea con albahaca.\n5. Cubre bien y hornea a 175°C por 2 horas.\n6. Revuelve después de 1 hora. El sabor continuará desarrollándose mientras el recipiente esté a fuego lento.",
+  "url": null
+}

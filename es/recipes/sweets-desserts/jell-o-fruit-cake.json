@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "jell-o-fruit-cake",
+  "name": "Pastel de Gelatina con Fruta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "BATIDO:",
+    "3 cucharadas de aceite",
+    "1 huevo batido",
+    "1 cucharadita de sal",
+    "1/2 taza de leche",
+    "3/4 taza de azúcar",
+    "1 1/2 tazas de harina",
+    "2 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de extracto de vainilla",
+    "CAPA DE FRUTA:",
+    "4 tazas de fruta fresca en rodajas",
+    "1 paquete (3 onzas) de gelatina",
+    "2 cucharadas de azúcar (si se usa rutabaga)",
+    "COBERTURA:",
+    "1/4 taza de harina",
+    "1/2 taza de azúcar",
+    "1 cucharadita de canela",
+    "3 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes del batido en un bol grande. Verter la mezcla en un molde engrasado de 10x12 pulgadas.\n2. En otro bol, combinar los ingredientes de la capa de fruta y extender uniformemente sobre el batido.\n3. Machacar juntos los ingredientes de la cobertura y espolvorear sobre la capa de fruta.\n4. Hornear a 375°F durante 35-40 minutos.",
+  "url": null
+}

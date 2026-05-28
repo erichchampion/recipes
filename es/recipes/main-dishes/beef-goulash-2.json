@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-goulash-2",
+  "name": "Goulash de Carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne, en cubos",
+    "3 cucharadas de aceite",
+    "1 taza de setas, en rodajas",
+    "1 cebolla pequeña, picada",
+    "1 lata de sopa de tomate",
+    "1/4 taza de agua",
+    "1 hoja de laurel",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "1 cucharadita de pimentón dulce",
+    "1/4 de taza de crema agria"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en una sartén y dorar la carne por todos lados.\n2. Colocar la carne en la olla de cocción lenta.\n3. Saltear las setas y la cebolla en una sartén durante unos minutos.\n4. Agregar los ingredientes restantes (excepto la crema agria y las cebollas) a la olla de cocción lenta.\n5. Verter la mezcla sobre la carne y mezclar bien.\n6. Cocinar durante 7-9 horas.\n7. Al momento de servir, añadir la crema agria por encima y servir con pasta o arroz.",
+  "url": null
+}

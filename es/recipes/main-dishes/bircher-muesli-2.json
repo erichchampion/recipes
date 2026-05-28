@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "bircher-muesli-2",
+  "name": "Bircher Muesli",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 manzana de tamaño mediano, cortada en trozos gruesos (roja o dorada)",
+    "1/2 taza de pasas",
+    "1 plátano, cortado en rodajas de 1/4 de pulgada",
+    "1 naranja, picada",
+    "1 taza de avena",
+    "1 yogur de frutas sin grasa (se puede usar leche desnatada o leche de soja)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Ajustar la cantidad de líquido para lograr la consistencia deseada y dejar reposar durante unos minutos.\n3. Cortar frutas frescas adicionales según el gusto (por ejemplo, fresas, duraznos, arándanos, nectarinas, mango, ciruelas, prunas, peras, cerezas sin hueso).\n4. Incorporar las frutas picadas y servir.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "asparagu-soup",
+  "name": "Sopa de Espárragos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas/estofados",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "Espárragos cortados en trozos de 1/2 pulgada",
+    "Agua",
+    "Sal",
+    "1 litro de leche; o parte crema",
+    "2 onzas de mantequilla",
+    "Pimienta"
+  ],
+  "recipeInstructions": "1. Cortar los espárragos en trozos de 1/2 pulgada.\n2. Hervir en agua con sal hasta que estén tiernos.\n3. Escurrir y agregar 1 litro de leche o una mezcla de leche y crema.\n4. Incorporar 2 onzas de mantequilla, sazonar con pimienta.\n5. Servir cuando esté lista. Esta sopa es deliciosa.",
+  "url": null
+}

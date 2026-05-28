@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "walnut-bread",
+  "name": "Pan de Nueces",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "Huevo",
+    "1 taza de Azúcar",
+    "1 taza de Leche",
+    "Sal",
+    "Polvo de hornear",
+    "Harina",
+    "Nueces"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 300 - 350 °F (horno lento).\n2. Mezclar todos los ingredientes juntos.\n3. Verter la mezcla en un molde para hornear y hornear durante 45 - 50 minutos, o hasta que esté listo.",
+  "url": null
+}

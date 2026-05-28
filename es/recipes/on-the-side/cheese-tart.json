@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-tart",
+  "name": "Tarta de Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso",
+    "entrantes"
+  ],
+  "recipeIngredient": [
+    "2 libras de espinacas suizas picadas (sin nervaduras)",
+    "1 base de tarta precocida de 30 cm",
+    "1 libra de ricota",
+    "1/2 libra de queso de granja",
+    "1/2 taza de albahaca fresca picada",
+    "4 huevos grandes",
+    "1/2 cucharadita de hilos de azafrán disueltos en agua hirviendo",
+    "4 cucharadas de mantequilla casi derretida"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 200 °C.\n2. Blanquear las espinacas en agua hirviendo durante un minuto; escurrir y exprimir el exceso de humedad. Transferir a un bol para mezclar.\n3. Agregar la albahaca, quesos y cuatro huevos al bol. Sazonar con sal y pimienta negra recién molida.\n4. Incorporar la mitad de la mezcla de azafrán y mantequilla ablandada.\n5. Rellenar la base de tarta precocida con la mezcla de queso.\n6. Hornear durante 15 minutos.\n7. Batir el huevo restante con el azafrán restante. Verter sobre la superficie de la tarta.\n8. Continuar horneando durante 20 minutos más o hasta que esté hinchada.",
+  "url": null
+}

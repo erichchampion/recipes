@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "egg-drop-soup-waring",
+  "name": "Sopa de huevo (Waring)",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "asiática",
+    "china",
+    "huevos",
+    "étnica",
+    "sopa",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 1/2 litros de caldo de pollo, o stock claro",
+    "2 cucharadas de almidón de maíz mezclado con agua fría",
+    "1/4 taza de agua fría",
+    "2 huevos, ligeramente batidos con un tenedor",
+    "2 cebolletas picadas, incluyendo los extremos verdes"
+  ],
+  "recipeInstructions": "1. Llevar el stock a ebullición.\n2. Verter lentamente la mezcla de almidón mientras se remueve el stock hasta que espese.\n3. Reducir el calor para que el stock hierva suavemente.\n4. Verter los huevos lentamente mientras se remueve la sopa.\n5. Tan pronto como se incorpore la última parte del huevo, apagar el calor.\nServir con cebolletas picadas encima.",
+  "url": null
+}

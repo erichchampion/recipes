@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-casserole-5",
+  "name": "Cazuela Mexicana",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americana",
+    "cazuelas",
+    "queso",
+    "étnica",
+    "carne molida",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1 cebolla mediana; picada",
+    "1 lata de sopa de champiñones",
+    "1 lata de sopa de pollo",
+    "1 lata de salsa para enchiladas",
+    "1 botella pequeña de salsa taco",
+    "1 bolsa de Doritos de queso",
+    "2 tazas de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Cocinar la carne molida y la cebolla en una sartén hasta que la carne esté dorada. Escurrir el exceso de grasa.\n2. Mezclar juntos la sopa de champiñones, la sopa de pollo, la salsa para enchiladas y la salsa taco.\n3. En un refractario, colocar la mitad de los Doritos de queso, seguido del mezcla de sopa/carne, y luego la mitad del queso cheddar rallado.\n4. Repetir las capas con los ingredientes restantes.\n5. Cubrir el refractario y hornear a 175°C por 30 minutos, o hasta que esté caliente y burbujeante.",
+  "url": null
+}

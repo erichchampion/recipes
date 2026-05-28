@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "maple-cream-pie",
+  "name": "Tarta de Crema de Arce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 lata de leche evaporada endulzada",
+    "2/3 taza de jarabe de arce",
+    "un pellizco de sal",
+    "1 masa de tarta precocida",
+    "crema batida"
+  ],
+  "recipeInstructions": "1. Mezclar la leche evaporada endulzada, el jarabe de arce y la sal en una cacerola.\n2. Calentar a fuego muy bajo, revolviendo constantemente, hasta que formen burbujas en el centro.\n3. Dejar enfriar un poco.\n4. Verter en la masa de tarta precocida.\n5. Cubrir con crema batida antes de servir.",
+  "url": null
+}

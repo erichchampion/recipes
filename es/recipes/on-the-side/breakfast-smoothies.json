@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-smoothies",
+  "name": "Batidos para el desayuno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de jugo de naranja",
+    "1 plátano",
+    "6-7 fresas congeladas",
+    "4-5 rebanadas de melocotón congelado",
+    "5-6 arándanos congelados",
+    "6-7 cubos de hielo",
+    "menta fresca (opcional)",
+    "un toque de nuez moscada (opcional)",
+    "1 cucharadita de miel (opcional)"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes excepto los cubos de hielo en la licuadora.\n2. Licúa hasta obtener una consistencia suave.\n3. Añade el hielo y licúa nuevamente.\n4. Vierte en un vaso.\n5. Espolvorea un toque de nuez moscada por encima y adorna con menta fresca si lo deseas.",
+  "url": null
+}

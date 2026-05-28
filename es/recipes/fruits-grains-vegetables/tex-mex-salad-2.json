@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "tex-mex-salad-2",
+  "name": "Ensalada Tex-Mex",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "carne de res",
+    "mexicano",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 cebolla picada",
+    "4 tomates picados",
+    "1 lechuga picada",
+    "1 taza y 1/4 de queso cheddar rallado",
+    "3/4 taza de aderezo italiano",
+    "1 lata (400g) de frijoles rojos",
+    "1 aguacate grande en rodajas",
+    "1 lata (75g) de aceitunas negras o verdes (opcional)"
+  ],
+  "recipeInstructions": "1. Mezcla la cebolla, los tomates, la lechuga y el queso con el aderezo italiano; reserva.\n2. Dora la carne en una sartén hasta que ya no esté rosada. Agrega los frijoles escurridos y condimento vegetal; reduce el fuego y cocina a fuego lento por 10 minutos.\n3. Mezcla la mezcla de carne cocida con la ensalada fría. Añade las fichas de tortilla trituradas y rodajas de aguacate.\n4. Decora con aceitunas negras, si lo deseas.",
+  "url": null
+}

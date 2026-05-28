@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "viennese-coffee",
+  "name": "Café Vienés",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "café",
+    "comidas acompañantes"
+  ],
+  "recipeIngredient": [
+    "1 ración para 1-1/2 cuartos",
+    "4 oz de chocolate semiamargo",
+    "1 cucharada de azúcar",
+    "1/4 taza de crema batida",
+    "4 tazas de café fuerte caliente",
+    "crema batida",
+    "ralladura de naranja"
+  ],
+  "recipeInstructions": "1. Derretir el chocolate en una sartén pesada a fuego bajo.\n2. Incorporar el azúcar y la crema batida.\n3. Batir el café poco a poco con un batidor, 1/2 taza a la vez; continuar batiendo hasta que quede espumoso.\n4. Cubrir con crema batida y espolvorear con ralladura de naranja.",
+  "url": null
+}

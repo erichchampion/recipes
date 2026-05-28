@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "egg-drop-soup",
+  "name": "Sopa de huevo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "china",
+    "étnica",
+    "judaica",
+    "de baja caloría",
+    "no regional"
+  ],
+  "recipeIngredient": [
+    "1 litro de caldo de pollo",
+    "3 cucharadas de almidón de maíz",
+    "1/2 taza de agua fría",
+    "1 huevo",
+    "2 cucharaditas de agua fría"
+  ],
+  "recipeInstructions": "1. Llevar el caldo de pollo a ebullición.\n2. Disolver el almidón de maíz en el agua fría.\n3. Agregar la mezcla de almidón de maíz al caldo hirviendo y remover constantemente hasta espesarse.\n4. Apagar el calor.\n5. Verter lentamente el huevo, removiendo continuamente en una sola dirección.",
+  "url": null
+}

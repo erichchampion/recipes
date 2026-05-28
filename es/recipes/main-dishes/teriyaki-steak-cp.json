@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "teriyaki-steak-cp",
+  "name": "Steak al estilo Teriyaki",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 libras de bistec redondo sin hueso",
+    "1 cucharadita de jengibre molido",
+    "1 cucharada de azúcar",
+    "2 cucharadas de aceite",
+    "1/2 taza de salsa de soja",
+    "1 diente de ajo machacado",
+    "3 cebolletas picadas",
+    "1 lata de verduras chinas (opcional)"
+  ],
+  "recipeInstructions": "1. Cortar el bistec en rebanadas de 1/8 de pulgada de grosor.\n2. En un bol pequeño, mezclar el azúcar, el aceite, la salsa de soja y el ajo machacado.\n3. Colocar la carne en la olla de cocción lenta y verter la mezcla de salsa sobre ella.\n4. Tapar y cocinar a fuego lento durante 6 a 8 horas.\n5. Aproximadamente 15 minutos antes de servir, agregar las verduras chinas si se desea.\n6. Servir con arroz.",
+  "url": null
+}

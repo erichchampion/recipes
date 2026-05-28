@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-loaf",
+  "name": "Pastel de Jamón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "jamón",
+    "plato principal",
+    "carne",
+    "carnes",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de jamón molido cocido",
+    "3/4 taza de avena Quaker sin cocinar (rápida o antigua)",
+    "1/2 taza de encurtido dulce",
+    "1/4 cucharadita de pimienta",
+    "1 cucharada de salsa Worcestershire",
+    "2 huevos",
+    "1 taza de leche"
+  ],
+  "recipeInstructions": "Para el pastel de jamón, combine todos los ingredientes hasta que estén bien mezclados. Dale forma de pastel en una fuente para hornear poco profunda. Hornee en un horno precalentado a temperatura moderada (350°F) durante aproximadamente 1 hora. Deje reposar por 5 minutos antes de rebanar.\nPara la salsa, combine crema batida y rábano picante. Sirva con el pastel de jamón.",
+  "url": null
+}

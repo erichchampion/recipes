@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "spaghetti-bread-2",
+  "name": "Pan de Espagueti",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "italiano",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 paquete de levadura",
+    "3 tazas de harina de pan",
+    "1 cucharada de azúcar",
+    "1 cucharadita de sal de ajo",
+    "1/3 taza de queso parmesano rallado",
+    "1 cucharada de aceite de oliva (Utilizar ingredientes a temperatura ambiente.)",
+    "1 1/2 tazas de agua tibia"
+  ],
+  "recipeInstructions": "Con los intensos sabores del queso parmesano, las hierbas italianas y el aceite de oliva, este es el compañero perfecto o plato principal para cenas italianas con o sin espagueti.",
+  "url": null
+}

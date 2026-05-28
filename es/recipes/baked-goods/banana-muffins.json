@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-muffins",
+  "name": "Muffins de Plátano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "muffins"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "2 cucharadas de bicarbonato de sodio",
+    "1/8 cucharadita de sal",
+    "1-3/4 cucharaditas de azúcar",
+    "1 huevo",
+    "1 taza de leche",
+    "3 cucharadas de aceite",
+    "3/4 taza de plátano machacado"
+  ],
+  "recipeInstructions": "1. En un bol grande, combina la harina, el polvo de hornear, el bicarbonato y la sal.\n2. En otro bol, bate juntos el huevo, la leche y el aceite hasta que estén bien mezclados.\n3. Vierte los ingredientes húmedos en los secos y revuelve hasta combinarlos ligeramente.\n4. Incorpora suavemente el plátano machacado.\n5. Engrasa dos moldes para muffins de 12 cupos con mantequilla o spray antiadherente.\n6. Llena cada copa aproximadamente a 2/3 con la masa.\n7. Hornea a 375°F (190°C) durante 35 minutos, o hasta que un palillo insertado en el centro salga limpio.\n8. Retira del horno y deja enfriar sobre rejillas durante 5 minutos antes de dar la vuelta sobre platos para servir.\n9. Sirve inmediatamente con mantequilla ablandada.",
+  "url": null
+}

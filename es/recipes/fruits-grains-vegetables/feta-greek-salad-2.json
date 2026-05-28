@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "feta-greek-salad-2",
+  "name": "Ensalada Griega de Feta",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "griega",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "Lechuga romana (1 unidad pequeña)",
+    "Tomates (3 unidades, cortados en trozos pequeños)",
+    "Cebolla (1 unidad, laminada finamente)",
+    "Pimiento verde (1 unidad, sin semillas y picado)",
+    "Pepino (1 unidad, pelado y cortado en rodajas)",
+    "Aceitunas negras (1 taza, estilo griego)",
+    "Queso feta (1/2 libra, en rodajas o trozos)"
+  ],
+  "recipeInstructions": "1. Refrescar todas las verduras, aceitunas y queso.\n2. Mezclar los ingredientes del aderezo: 1/4 taza de aceite de oliva, 2 cucharadas de vinagre, un toque de orégano, sal y pimienta al gusto.\nAl momento de servir, mezclar las verduras y aceitunas frescas. Cubrir con el queso feta y servir con el aderezo.",
+  "url": null
+}

@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-filling",
+  "name": "Relleno de Chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "4 oz de chocolate dulce alemán",
+    "3/4 taza de margarina o mantequilla",
+    "1/2 taza de almendras picadas tostadas"
+  ],
+  "recipeInstructions": "1. Derrite las barras de chocolate sobre agua caliente, dejando enfriar ligeramente.\n2. Agrega la margarina y mezcla hasta que esté bien combinada.\n3. Incorpora las almendras picadas tostadas hasta que queden distribuidas uniformemente.",
+  "url": null
+}

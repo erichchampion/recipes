@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pesto-7",
+  "name": "Pesto",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pesto",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "2 tazas de hojas de albahaca",
+    "5 dientes de ajo",
+    "1/4 taza de nueces",
+    "1/2 taza de queso parmesano",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra",
+    "1/4 taza de aceite de oliva"
+  ],
+  "recipeInstructions": "1. Coloca la albahaca, el ajo, las nueces, el queso parmesano, la sal y la pimienta en una licuadora.\n2. Procesa hasta obtener una consistencia suave.\n3. Con la licuadora encendida, añade lentamente el aceite de oliva.\n4. Continúa procesando hasta que esté suave.\n5. Transfiere el pesto a un bol y sirve.",
+  "url": null
+}

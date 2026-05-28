@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-herb-marinade",
+  "name": "Marinada de Limón y Hierbas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "marinadas",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de aceite de oliva",
+    "1/3 taza de jugo de limón fresco",
+    "1/3 taza de vermut seco",
+    "2 cucharadas de romero seco en hojuelas",
+    "1 cucharada de tomillo seco en hojuelas",
+    "1/2 cucharadita de azúcar",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimienta"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta que estén bien integrados.",
+  "url": null
+}

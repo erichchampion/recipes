@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-duck-2",
+  "name": "Pavo simulado",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americano",
+    "carne de res",
+    "canadiense",
+    "étnico"
+  ],
+  "recipeIngredient": [
+    "1 cebolla; picada",
+    "1/2 taza apio; picado",
+    "1/2 taza setas; picadas",
+    "- sal y pimienta al gusto",
+    "1 lb solomillo redondo",
+    "3/4 taza migas de pan secas",
+    "3/4 taza caldo de carne",
+    "1 cucharada mantequilla",
+    "1/2 taza aceite vegetal",
+    "1/2 cucharadita sabrosura, seca"
+  ],
+  "recipeInstructions": "1. Calentar una sartén antiadherente o una sartén de hierro fundido a fuego medio.\n2. Agregar la mantequilla y saltear la cebolla, el apio y las setas picados hasta que se ablanden.\n3. Retirar del fuego; mezclar las migas de pan, la sabrosura, el tomillo, la sal y la pimienta al gusto. Incorporar poco a poco el caldo de carne hasta humedecer.\n4. Golpear el solomillo para que quede con 1/4 de pulgada de grosor. Cortar en porciones para servir y sazonar con sal y pimienta adicionales.\n5. Colocar el relleno a un lado de cada trozo y enrollar apretadamente desde el extremo más ancho.\n6. Atar los rollos con hilo.\n7. Dorar los rollos en aceite en una sartén, luego agregar suficiente caldo para cubrirlos. Cocinar a fuego lento, dando vuelta ocasionalmente, por 1 hora, o hornear a 325°F (160°C) por 1 hora.\n8. Servir.",
+  "url": null
+}

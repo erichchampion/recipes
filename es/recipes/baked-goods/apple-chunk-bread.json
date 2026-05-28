@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-chunk-bread",
+  "name": "Pan con Trozos de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de leche",
+    "1 1/2 tazas de harina de pan",
+    "2 cucharadas de aceite vegetal",
+    "1 cucharadita de levadura",
+    "1 cucharada de azúcar",
+    "1/4 cucharadita de canela molida",
+    "2/3 de manzana mediana, pelada y picada",
+    "3/4 cucharadita de sal"
+  ],
+  "recipeInstructions": "Mezclar todos los ingredientes excepto la manzana en la máquina de pan. Pausar la máquina antes de la etapa final de levado. Mezclar 1/8 taza de azúcar con media cucharadita de canela y mezclar con las manzanas. Aplanar la masa en un rectángulo y espolvorear uniformemente con la mezcla de manzana. Enrollar la masa lo mejor posible y darla forma de montículo. Devolver la masa a la máquina y permitir que complete su levado y horneado. El pan queda excelente solo, tostado con mantequilla, o como base para budín de pan con pasas adicionales y una cobertura de azúcar con canela.",
+  "url": null
+}

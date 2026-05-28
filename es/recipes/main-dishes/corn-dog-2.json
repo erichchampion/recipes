@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "corn-dog-2",
+  "name": "Perro caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de maicena amarilla",
+    "6 salchichas Frankfurt",
+    "1/2 taza de harina",
+    "1 cucharada de azúcar",
+    "1 cucharadita de mostaza en polvo",
+    "1/2 cucharadita de sal",
+    "1 huevo batido ligeramente",
+    "1 cucharada de manteca derretida",
+    "6 brochetas o palillos"
+  ],
+  "recipeInstructions": "1. Mezcla la maicena, la harina, el azúcar, la mostaza en polvo y la sal en un bol grande hasta obtener una combinación homogénea.\n2. Agrega la leche, el huevo y la manteca derretida a los ingredientes secos y mezcla hasta obtener una masa suave.\n3. Coloca las salchichas en las brochetas o palillos.\n4. Sumerge cada salchicha en la masa de maicena para cubrirla uniformemente.\n5. Calienta aceite para freír en una freidora profunda o una cacerola pesada a 190°C (375°F).\n6. Introduce cuidadosamente las salchichas cubiertas en el aceite caliente usando pinzas o una espátula con agujeros.\n7. Fríe hasta que estén doradas, aproximadamente dos minutos.\n8. Retira los perros calientes del aceite con una cuchara ranurada y escúrrelos sobre papel absorbente.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mediterranean-chicken-2",
+  "name": "Pollo Mediterráneo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves"
+  ],
+  "recipeIngredient": [
+    "2 1/2 lb de pollo cortado en trozos",
+    "1/2 cucharadita de orégano",
+    "1/2 taza de migas de pan finas",
+    "1/2 cucharadita de tomillo",
+    "1/2 taza de queso parmesano rallado",
+    "2 cucharadas de albahaca en hojuelas",
+    "1/4 taza de mantequilla derretida",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta"
+  ],
+  "recipeInstructions": "1. Retira la piel del pollo.\n2. Mezcla todos los ingredientes excepto la mantequilla en un bol.\n3. Sumerge cada trozo de pollo en la mantequilla derretida y luego recóbrelo uniformemente con la mezcla de migas.\n4. Coloca los trozos de pollo en una fuente para hornear grande y poco profunda engrasada, sin que se toquen.\n5. Hornea a horno moderado (350 grados) hasta que el pollo esté tierno, aproximadamente 1 hora.\n6. Adorna con albahaca antes de servir.",
+  "url": null
+}

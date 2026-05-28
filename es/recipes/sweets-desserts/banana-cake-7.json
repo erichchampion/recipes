@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-cake-7",
+  "name": "Pastel de Plátano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "plátanos",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de azúcar",
+    "2/3 taza de manteca",
+    "2 huevos",
+    "1 taza de plátanos machacados",
+    "4 cucharadas de leche agria",
+    "2 tazas de harina tamizada",
+    "1 cucharadita de bicarbonato de sodio",
+    "1/4 cucharadita de sal",
+    "1 taza de nueces picadas",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Batir el azúcar y la manteca hasta obtener una mezcla suave.\n2. Agregar los huevos, los plátanos machacados y la leche agria a la mezcla. Mezclar bien.\n3. Tamizar juntos la harina, el bicarbonato de sodio y la sal, luego incorporarlos a los ingredientes húmedos.\n4. Incorporar las nueces picadas y el extracto de vainilla.\n5. Verter la masa en un molde para pastel engrasado y hornear a 175°C durante 30 minutos o hasta que un palillo insertado en el centro salga limpio.",
+  "url": null
+}

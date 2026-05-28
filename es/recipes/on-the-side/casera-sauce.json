@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "casera-sauce",
+  "name": "Salsa Casera",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "mexicana",
+    "salsa",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 taza de tomate picado",
+    "1/2 taza de cebolla",
+    "1 cucharada de ajo picado",
+    "1 cucharada de chiles jalapeños picados",
+    "1 cucharada de cilantro fresco",
+    "1 cucharada de jugo de limón fresco",
+    "1/2 cucharadita de orégano seco",
+    "1 cucharada de aceite vegetal"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol y combinar bien.\n2. Cubrir la mezcla y refrigerar por hasta 7 días.\n3. Servir a temperatura ambiente.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mornaise-sauce",
+  "name": "Salsa Mornay",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de Manteca",
+    "1/4 taza de Harina",
+    "2 tazas de Leche",
+    "1/2 cucharadita de Sal",
+    "1/8 cucharadita de Pimienta Negra",
+    "2 Yemas de Huevo",
+    "1 Cuchara de Crema de Batir",
+    "1/4 taza de Queso Suizo"
+  ],
+  "recipeInstructions": "1. En un bol apto para microondas, derrite la manteca.\n2. Agrega la harina y revuelve hasta obtener una mezcla suave (aproximadamente 1 minuto).\n3. Añade la leche gradualmente, revolviendo continuamente.\n4. Bate las yemas de huevo en un bol aparte.\n5. Incorpora la crema de batir.\n6. Combina lentamente la mezcla de salsa caliente con la mezcla de yemas de huevo.\n7. Agrega el queso suizo al final.",
+  "url": null
+}

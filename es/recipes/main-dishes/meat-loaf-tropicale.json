@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "meat-loaf-tropicale",
+  "name": "Pastel de Carne Tropical",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "frutas",
+    "carne molida",
+    "plato principal",
+    "carne",
+    "pastel de carne",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de carne molida magra",
+    "1 huevo (grande)",
+    "1 taza de plátanos maduros machacados",
+    "2 huevos grandes",
+    "1/2 taza de avena rápida",
+    "sal al gusto - media cucharadita",
+    "canela molida - un cuarto de cucharadita",
+    "comino en polvo - una octava de cucharadita",
+    "2 rebanadas de tocino",
+    "3 cucharadas de cebolla picada",
+    "marmelada de naranja"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 grados Fahrenheit.\n2. Mezclar todos los ingredientes excepto el tocino y la mermelada en un bol.\n3. Verter la mezcla en un molde para pastel sin engrasar, de 9 x 5 x 3 pulgadas.\n4. Colocar las rebanadas de tocino entrecruzadas sobre la mezcla de carne.\n5. Extender la mermelada uniformemente por todo el pastel.\n6. Hornear, sin cubrir, durante una a una hora y cuarto.\n7. Dejar escurrir el exceso de grasa antes de cortar.",
+  "url": null
+}

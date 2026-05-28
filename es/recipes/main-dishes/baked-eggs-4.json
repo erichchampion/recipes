@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-eggs-4",
+  "name": "Huevos al Horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 huevo grande",
+    "1/4 cucharadita de mostaza preparada",
+    "4 gotas de salsa Worcestershire",
+    "1/4 taza de brotes de frijol picados",
+    "2 cucharadas de cebolla picada",
+    "2 cucharadas de perejil picado",
+    "1/4 taza de queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Rompe el huevo en un molde para horno ligeramente engrasado.\n2. Bate el huevo para romper la yema.\n3. Agrega mostaza, salsa Worcestershire, brotes de frijol, cebolla y perejil; mezcla bien.\n4. Incorpora la mitad del queso.\n5. Cubre con el resto del queso.\n6. Coloca el molde en una sartén más grande con 1 pulgada de agua caliente.\n7. Hornea a 350°F durante 10-15 minutos o hasta que el huevo esté firme.",
+  "url": null
+}

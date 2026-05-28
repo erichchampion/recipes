@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-bread",
+  "name": "Pan de Plátano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1/3 taza de mantequilla",
+    "1 taza de azúcar",
+    "2 huevos",
+    "2 cucharadas de leche agria",
+    "1 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de polvo para hornear",
+    "1/2 cucharadita de sal",
+    "2 tazas de harina",
+    "3 plátanos",
+    "1 taza de nueces"
+  ],
+  "recipeInstructions": "1. Batir la mantequilla y el azúcar hasta que estén bien combinados.\n2. Agregar los huevos, uno a la vez, batiendo hasta obtener una mezcla suave.\n3. Incorporar alternativamente la leche agria con los ingredientes secos (harina, bicarbonato de sodio, polvo para hornear y sal).\n4. Doblar las bananas machacadas y las nueces.\n5. Verter la masa en un molde para pan engrasado o dividirla entre moldes para muffins forrados con papel pergamino.\n6. Hornear a 350°F durante aproximadamente una hora, hasta que un palillo insertado en el centro del pan salga limpio.\n7. Dejar enfriar antes de servir.",
+  "url": null
+}

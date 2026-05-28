@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-adobo",
+  "name": "Pollo Adobo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "5 lb de carne de pollo, cortada en trozos",
+    "1/2 taza de Shoyu (Salsa de soja)",
+    "10 dientes de ajo, picados finamente",
+    "3/4 taza de vinagre",
+    "4 hojas de laurel machacadas",
+    "2 cucharaditas de pimienta negra machacada"
+  ],
+  "recipeInstructions": "1. Enjuague bien el pollo después de cortarlo para asegurarse de que no queden fragmentos óseos.\n2. Combine el ajo, la hoja de laurel, la pimienta, el shoyu y el vinagre en un bol.\n3. Marinar el pollo durante 2 a 3 horas, volteando ocasionalmente.\n4. Cocine el pollo en la marinada hasta que esté tierno (20 a 30 minutos).\n5. Retire el pollo usando una cuchara perforada y cuele la marinada en un recipiente aparte.\n6. Caliente aceite en una sartén a fuego alto.\n7. Saltee los trozos de pollo en el aceite caliente hasta que estén dorados.\n8. Lleve la salsa restante a ebullición.\n9. Vierta la salsa hirviendo sobre el pollo y sirva.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "spinach-casserole-2",
+  "name": "Cazuela de Espinacas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 paquetes de espinacas congeladas picadas; descongelar",
+    "2 tazas de fideos medianos; cocinar",
+    "1/2 taza de cebolla; picar",
+    "1 taza de queso cheddar o suizo; rallar",
+    "1/4 taza de margarina",
+    "1/8 cucharadita de nuez moscada",
+    "1 lata de sopa de champiñones"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en una olla de cocción lenta.\n2. Cocinar a fuego alto durante 1 hora.\n3. Cambiar a fuego bajo y cocinar por 4 a 5 horas.",
+  "url": null
+}

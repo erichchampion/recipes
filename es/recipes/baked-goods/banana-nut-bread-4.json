@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-nut-bread-4",
+  "name": "Pan de Plátano con Nueces",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 Huevo",
+    "1 Taza de Azúcar",
+    "1/2 Taza de Mantequilla",
+    "3 Plátanos machacados",
+    "1 c.c. de Extracto de Vainilla",
+    "2 Tazas de Harina",
+    "1 c.c. de Bicarbonato de Sodio",
+    "1/2 Taza de Nueces (opcional)",
+    "1/2 Taza de Pasas (opcional)"
+  ],
+  "recipeInstructions": "1. Mezcla el huevo, azúcar, mantequilla, plátanos machacados y vainilla.\n2. Agrega la harina y el bicarbonato de sodio.\n3. Incorpora las nueces y pasas si se desea.\n4. Vierte la masa en un molde para pan o moldes para muffins (también se puede usar un molde para bundt).\n5. Hornea a 175 °C durante aproximadamente 1 hora hasta que esté listo. Apaga el horno y deja enfriar antes de sacar del molde.",
+  "url": null
+}

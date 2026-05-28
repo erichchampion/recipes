@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-bread",
+  "name": "Pan de Naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "Cascas de naranja (2 cada una)",
+    "Agua (1 1/2 tazas)",
+    "Azúcar (1 taza)",
+    "Huevo (1 bien batido)",
+    "Leche (1 taza)",
+    "Harina (3 tazas)",
+    "Polvo de hornear (3 cucharaditas)"
+  ],
+  "recipeInstructions": "1. Hiervir las cascas de naranja en agua con sal durante 10 minutos.\n2. Escurrir y picar finamente las cascas de naranja.\n3. Agregar las cascas de naranja picadas, el agua y el azúcar a una olla. Cocinar hasta que espese y esté tierno.\n4. Mezclar el huevo batido, la leche, la harina y el polvo de hornear.\n5. Verter la masa en un molde para hornear engrasado.\n6. Hornear en horno moderado (350°F - 400°F) durante 45 minutos.\nNOTA: Horno moderado es 350 - 400 F.",
+  "url": null
+}

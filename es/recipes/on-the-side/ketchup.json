@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "ketchup",
+  "name": "Ketchup",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "pimientos",
+    "acompañamientos",
+    "tomates"
+  ],
+  "recipeIngredient": [
+    "4 litros de tomates maduros",
+    "2 cebollas",
+    "5 tallos de apio",
+    "2 pimientos verdes dulces",
+    "3 tazas de azúcar granulada",
+    "2 tazas de vinagre de manzana",
+    "1/4 cucharadita de clavos molidos",
+    "1/2 cucharadita de guindilla",
+    "1/2 cucharadita de canela",
+    "3 cucharadas de sal"
+  ],
+  "recipeInstructions": "1. Retirar los extremos superiores de los tomates y los pimientos.\n2. Enjuagar todos los vegetales a fondo.\n3. Cocinar juntos los tomates, cebollas, apio y pimientos hasta que estén suaves y triturados.\n4. Forzar la mezcla a través de un prensador de alimentos o un colador muy fino para extraer el jugo.\n5. Colocar la mezcla filtrada en una olla de sopa y agregar los ingredientes restantes (azúcar, vinagre, clavos, guindilla, canela y sal).\n6. Hervir durante 10 minutos.\n7. Verter en frascos calientes y esterilizados. Da para aproximadamente 6 pintas.",
+  "url": null
+}

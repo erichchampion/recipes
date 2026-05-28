@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-con-carne-p-c",
+  "name": "Chili con Carne (Para presión)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "carne molida",
+    "olla de presión",
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "Carne molida, 1 1/2 lb",
+    "Cebolla picada, 1 taza",
+    "Pimiento verde picado, 1/2 taza",
+    "Grasas o grasas de escurrido, 1/4 taza",
+    "Frijoles rojos enlatados, 2 tazas",
+    "Apio picado, 1 taza",
+    "Tomates enlatados, 2 tazas",
+    "Sal, 2 cucharaditas",
+    "Pimienta, 1/2 cucharadita",
+    "Azúcar, 1 cucharadita",
+    "Comino molido, 2 cucharaditas",
+    "Ajo picado, 1/2 taza"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida hasta que esté bien cocida en las grasas derretidas en una olla de presión.\n2. Agregar el pimiento verde y la cebolla a la olla y saltear.\n3. Machacar 1 taza de frijoles rojos y añadir a la olla junto con los demás ingredientes.\n4. Cocinar a presión a 15 libras durante 15 minutos.\n5. Liberar inmediatamente la presión.\n6. Dejar que el chili hierva a fuego lento sin presión hasta alcanzar la consistencia deseada.\n7. Servir para 4 a 6 personas.",
+  "url": null
+}

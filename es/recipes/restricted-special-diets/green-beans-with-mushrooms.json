@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "green-beans-with-mushrooms",
+  "name": "Frijoles Verdes con Setas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "platos secundarios",
+    "dieta especial",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 lb de frijoles verdes frescos, en trozos de 1 pulgada",
+    "1 cucharadita de azúcar",
+    "3 tazas de agua hirviendo con sal",
+    "3 oz de setas rebanadas enlatadas",
+    "1 cucharadita de sal",
+    "1/2 taza de mantequilla derretida"
+  ],
+  "recipeInstructions": "1. Coloca los frijoles verdes en una olla con agua hirviendo y salada.\n2. Añade la sal y el azúcar al agua.\n3. Tapa y deja cocinar a fuego lento por 30 minutos. Escurre los frijoles.\n4. En un sartén aparte, sofríe las setas en mantequilla hasta que estén calientes.\n5. Agrega las setas salteadas a los frijoles verdes escurridos.",
+  "url": null
+}

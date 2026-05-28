@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-hash-2",
+  "name": "Hash de Hamburguesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "casseroles",
+    "plato principal",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de carne molida",
+    "6 papas medianas, cortadas en cubos",
+    "1 cebolla mediana",
+    "sal y pimienta"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida en una sartén a fuego medio hasta que esté completamente cocida.\n2. Escurrir el exceso de grasa de la sartén con una cuchara ranurada o espátula.\n3. Agregar los cubos de papas a la sartén, asegurándose de que queden parcialmente sumergidos en agua.\n4. Añadir suficiente agua para cubrir las papas y la carne por aproximadamente un centímetro.\n5. Colocar la cebolla entera en la olla para poderla sacar fácilmente cuando las papas estén cocidas.\n6. Sazonar con sal y pimienta al gusto.",
+  "url": null
+}

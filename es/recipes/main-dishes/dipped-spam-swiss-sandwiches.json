@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "dipped-spam-swiss-sandwiches",
+  "name": "Sándwiches de Spam con Queso Suizo Empanizados",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 lata de carne para almuerzo SPAM, cortada en 12 rebanadas (12 onzas)",
+    "6 rebanadas de queso suizo (1 onza cada una)",
+    "12 rebanadas de pan blanco",
+    "3 huevos",
+    "6 cucharadas de leche",
+    "3 cucharadas de mantequilla o margarina",
+    "Crema de fresa para untar suave"
+  ],
+  "recipeInstructions": "1. Coloca el SPAM y el queso en capas sobre 6 rebanadas de pan; cubre con las rebanadas restantes de pan.\n2. En un tazón poco profundo, bate los huevos y la leche juntos.\n3. Sumerge ambos lados de cada sándwich en la mezcla de huevo.\n4. Cocina los sándwiches en una plancha o sartén a fuego medio hasta que estén dorados y el queso se haya derretido. Voltea una vez.\n5. Sirve con crema de fresa.",
+  "url": null
+}

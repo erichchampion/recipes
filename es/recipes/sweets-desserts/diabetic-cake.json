@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "diabetic-cake",
+  "name": "Pastel para Diabéticos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres",
+    "diabético"
+  ],
+  "recipeIngredient": [
+    "1 taza de Agua",
+    "2 Huevos Jumbo",
+    "1 taza de Pasas",
+    "Endulzante artificial igual a 1 taza de azúcar",
+    "1 taza de Puré de Manzana sin azúcar",
+    "3/4 taza de Aceite",
+    "1 cucharadita de Bicarbonato de Sodio",
+    "1/4 cucharadita de Canela",
+    "1/2 cucharadita de Nuez Moscada",
+    "1 cucharadita de Extracto de Vainilla",
+    "1/2 cucharadita de Sal",
+    "1 1/2 tazas de Harina"
+  ],
+  "recipeInstructions": "1. Cocinar las pasas hasta que estén suaves y escurrir.\n2. Mezclar las pasas cocidas con el puré de manzana, huevos, endulzante artificial (igual a 1 taza de azúcar), aceite, bicarbonato de sodio, canela, nuez moscada, extracto de vainilla y sal.\n3. Combinar la harina con los ingredientes restantes en un bol separado.\n4. Verter la mezcla en un molde engrasado de 20 cm x 20 cm o 23 cm x 23 cm.\n5. Hornear a 175 °C durante el tiempo indicado.",
+  "url": null
+}

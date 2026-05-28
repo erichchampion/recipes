@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-cake",
+  "name": "Tarta de Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "tarta",
+    "tartas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "2 cucharadas de harina",
+    "1 libra de queso crema",
+    "4 huevos",
+    "1 taza de crema semiespesa",
+    "1 cucharadita de vainilla",
+    "1 masa de hojaldre"
+  ],
+  "recipeInstructions": "1. Forrar un molde profundo con la masa de hojaldre.\n2. Mezclar la harina y el azúcar; agregar el queso crema y mezclar bien.\n3. Batir ligeramente los huevos, incorporar la crema y la vainilla y combinar con la mezcla anterior.\n4. Verter en la concha de hojaldre, que se ha horneado a 400°F hasta empezar a dorar.\n5. Retirar solo lo suficiente para verter el relleno.\n6. Reducir la temperatura a 325°F y hornear por 40 minutos.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mint-and-yogurt-bread",
+  "name": "Pan de Menta y Yogur",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 paquete de levadura",
+    "Rindas ralladas de 1 limón fresco",
+    "3 tazas de harina de pan",
+    "1 taza de yogur natural",
+    "3 cucharadas de menta fresca picada",
+    "2 cucharadas de miel",
+    "1 cucharada de mantequilla",
+    "1/4 taza más 1 cucharada de agua tibia"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes en el orden indicado en la panera.\n2. Seleccionar pan blanco y presionar 'start'.\n3. NOTA: A menos que se indique lo contrario, todos los ingredientes deben estar a temperatura ambiente.\n4. Se puede mezclar manualmente en la máquina de pan.\n5. Después del segundo amasado, retirar la masa de la máquina, dividirla en dos porciones iguales y colocarla en moldes para panecillos pequeños. Cubrir y dejar levar hasta duplicar su tamaño, aproximadamente 45 minutos a 1 hora.\n6. Hornear a 350°F durante 35-40 minutos.",
+  "url": null
+}

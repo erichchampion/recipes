@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-waffles-2",
+  "name": "Waffles de Chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "desayuno",
+    "chocolate",
+    "plato principal",
+    "waffles"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de manteca",
+    "1 taza de azúcar",
+    "2 huevos",
+    "2 cuadritos de chocolate",
+    "1 1/2 tazas de harina de repostería",
+    "1/2 cucharadita de extracto de vainilla",
+    "1/2 cucharadita de sal",
+    "1/2 taza de leche"
+  ],
+  "recipeInstructions": "1. Batir la manteca y el azúcar hasta que queden ligeros y esponjosos.\n2. Agregar las yemas de huevo batidas a la mezcla y remover hasta combinarlas.\n3. Derretir el chocolate sobre agua caliente, revolviendo constantemente, luego incorporarlo a la mezcla batida. Mezclar bien.\n4. Tamizar juntos la harina, el polvo para hornear y la sal. Incorporar gradualmente los ingredientes tamizados con la leche alternativamente en la mezcla de chocolate.\n5. Añadir el extracto de vainilla y doblar las claras de huevo batidas firmes hasta que se combinen justo.\n6. Verter la masa en una plancha para waffles caliente y cocinar hasta que adquiera un color dorado.\n7. Servir inmediatamente con sirope caliente, crema batida o helado.",
+  "url": null
+}

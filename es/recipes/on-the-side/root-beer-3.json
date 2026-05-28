@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "root-beer-3",
+  "name": "Cerveza de Raíz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "mezclas",
+    "appendices"
+  ],
+  "recipeIngredient": [
+    "Azúcar granulada (2 tazas)",
+    "Levadura seca (1 cucharadita)",
+    "Agua caliente (1 litro)",
+    "Agua tibia (1/2 taza)",
+    "Extracto de cerveza de raíz (4 cucharaditas)"
+  ],
+  "recipeInstructions": "1. Disuelve la levadura en 1/2 taza de agua tibia.\n2. En un recipiente aparte, disuelve el azúcar granulada en 1 litro de agua caliente.\n3. Combina las soluciones de levadura y azúcar.\n4. Agrega el extracto de cerveza de raíz a la mezcla y revuelve hasta que esté bien combinada.\n5. Vierte la mezcla en un frasco de un galón.\n6. Llena el frasco con agua tibia, asegurándote de que todos los ingredientes estén bien mezclados.\n7. Cubre el frasco y déjalo en un lugar cálido durante 4 horas.\n8. La cerveza de raíz estará lista para beber al día siguiente. Refrigera antes de servir.",
+  "url": null
+}

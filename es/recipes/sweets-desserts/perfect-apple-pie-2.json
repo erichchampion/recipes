@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "perfect-apple-pie-2",
+  "name": "Pastel de Manzana Perfecto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "frutas",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "8 manzanas ácidas, peladas, sin corazón (6 tazas)",
+    "3/4 taza de azúcar",
+    "2 cucharadas de harina",
+    "1 cucharadita de canela",
+    "un toque de nuez moscada",
+    "2 bases de masa para pastel sin cocinar",
+    "2 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "1. Si las manzanas no son lo suficientemente ácidas, espolvorear con 1 cucharada de jugo de limón.\n2. Cortar las manzanas en rodajas finas.\n3. Combinar el azúcar, la harina, las especias (canela y nuez moscada) y la sal; mezclar con las manzanas.\n4. Forrar un molde para tarta de 9 pulgadas con masa para pastel.\n5. Llenar la base con la mezcla de manzana, haciendo puntos con la mantequilla.\n6. Ajustar la tapa superior y hacer cortes para que escape el vapor.\n7. Sellar los bordes de la masa.\n8. Espolvorear azúcar sobre el pastel.\n9. Hornear a 400°F durante 50 minutos o hasta que esté listo.",
+  "url": null
+}

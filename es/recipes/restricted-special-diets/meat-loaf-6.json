@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "meat-loaf-6",
+  "name": "Pastel de Carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetológico",
+    "plato principal",
+    "carne",
+    "dieta especial"
+  ],
+  "recipeIngredient": [
+    "1 Huevo",
+    "2 cucharadas de pimiento verde, picado finamente",
+    "2 tazas de carne molida magra redonda, 15% de grasa",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de mostaza en polvo",
+    "1 cucharada de rábano preparado (opcional)",
+    "1/4 taza de ketchup (opcional)",
+    "1/3 taza de cebolla, picada finamente"
+  ],
+  "recipeInstructions": "Precalentar el horno a 200 °C. Mezclar todos los ingredientes bien. Formar en un molde para hornear forrado con papel aluminio; hornear hasta que esté hecho (15-20 minutos).",
+  "url": null
+}

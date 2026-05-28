@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "spam-primavera-2",
+  "name": "Spam Primavera",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 spam cortado en tiras",
+    "2 zanahorias cortadas en rodajas finas",
+    "1 calabacín cortado en rodajas finas",
+    "1/4 taza de cebolla picada finamente",
+    "1 diente de ajo picado",
+    "6 cucharadas de aceite de oliva, divididas",
+    "1 paquete de linguini de 9 onzas, cocido",
+    "1/2 taza de queso parmesano rallado",
+    "2 cucharadas de jugo de limón",
+    "1/4 cucharadita de pimienta blanca"
+  ],
+  "recipeInstructions": "1. En una sartén grande, cocina el Spam, las zanahorias, el calabacín, la cebolla y el ajo en 3 cucharadas de aceite de oliva hasta que las verduras estén crujientes y tiernas.\n2. Mezcla el linguini, la mezcla de verduras, el queso parmesano, el aceite de oliva restante y el jugo de limón hasta que esté bien cubierto. Sirve inmediatamente.",
+  "url": null
+}

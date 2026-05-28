@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "nut-loaf",
+  "name": "Pastel de Nueces",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "2 tazas de Harina",
+    "1/2 taza de Azúcar",
+    "1/2 taza de Nueces picadas",
+    "2 cucharaditas de Sal",
+    "2 cucharaditas de Polvo de Hornear",
+    "1 Huevo"
+  ],
+  "recipeInstructions": "1. Bate el huevo en un bol aparte.\n2. Agrega leche poco a poco hasta que esté bien combinado con la mezcla de huevo.\n3. Incorpora la mezcla de leche a la harina, azúcar, nueces, sal y polvo de hornear.\n4. Hornea durante 35 a 40 minutos a una temperatura moderada de 175°C (350°F).\n5. Apaga el horno cuando el pastel esté cocido.",
+  "url": null
+}

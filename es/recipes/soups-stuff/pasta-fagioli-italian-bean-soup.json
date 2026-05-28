@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "pasta-fagioli-italian-bean-soup",
+  "name": "Pasta Fagioli (Sopa de Frijoles Italiana)",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "étnica",
+    "italiana",
+    "pasta",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 zanahoria picada",
+    "1 cebolla picada",
+    "1 costilla de apio picada",
+    "4 tiras de tocino picadas",
+    "1 diente de ajo picado",
+    "1 cucharada de aceite de oliva",
+    "1 lata de tomates picados (de 400 g)",
+    "1 lata de caldo de pollo (no condensado)",
+    "1 taza y media de agua",
+    "1 lata de frijoles blancos (de 340 g)",
+    "2 cucharadas de perejil picado",
+    "1/2 taza de pasta Ditalini cocida"
+  ],
+  "recipeInstructions": "1. En una olla grande, saltea la zanahoria, la cebolla, el apio, el tocino y el ajo ligeramente en aceite de oliva.\n2. Añade los tomates picados, el agua y el caldo de pollo.\n3. Deja cocinar a fuego lento durante 30 minutos.\n4. Incorpora el perejil, los frijoles y la pasta cocida.\n5. Calienta hasta que todo esté uniformemente caliente.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecued-ribs",
+  "name": "Costillas a la Barbacoa",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecue",
+    "plato principal",
+    "carne",
+    "cerdo",
+    "costillas"
+  ],
+  "recipeIngredient": [
+    "4 lb de costillas de cerdo, cortadas en trozos",
+    "1 cebolla grande",
+    "1/3 taza de salsa Worcestershire",
+    "1 cucharadita de sal",
+    "2 tazas de agua",
+    "1 limón",
+    "1 taza de ketchup",
+    "1 cucharadita de chile en polvo",
+    "2 gotas de salsa Tabasco"
+  ],
+  "recipeInstructions": "1. Coloca las costillas en una bandeja para hornear poco profunda con la cara carnosa hacia arriba.\n2. Sobre cada trozo de costilla, coloca una rodaja de limón sin pelar y una lámina fina de cebolla.\n3. Hornea en un horno muy caliente (450°F) durante 30 minutos.\n4. En un bol aparte, combina los ingredientes restantes y lleva a ebullición.\n5. Vierte la salsa sobre las costillas.\n6. Continúa horneando en un horno moderado (350°F) por aproximadamente 2 horas, untando las costillas con la salsa cada 15 minutos.",
+  "url": null
+}

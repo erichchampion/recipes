@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-drops",
+  "name": "Chocolate Drops",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de azúcar",
+    "1/2 taza de leche",
+    "1/2 taza de polvo de cacao",
+    "1 taza de coco rallado",
+    "2 tazas de avena en hojuelas"
+  ],
+  "recipeInstructions": "1. Combinar el azúcar, la leche y el polvo de cacao en una cacerola.\n2. Calentar a fuego medio hasta que la mezcla hierva.\n3. Continuar hirviendo por 5 minutos, removiendo ocasionalmente.\n4. Retirar del fuego y mezclar el coco y la avena hasta que estén bien integrados.\n5. Colocar cucharadas de la mezcla sobre papel pergamino.\n6. Dejar enfriar completamente antes de transferir a un recipiente hermético y refrigerar.",
+  "url": null
+}

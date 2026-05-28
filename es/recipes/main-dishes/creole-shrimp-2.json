@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "creole-shrimp-2",
+  "name": "Camarones Criollos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "mariscos",
+    "camarones"
+  ],
+  "recipeIngredient": [
+    "1 lata (400 g) de puré de tomate",
+    "1/2 taza de agua",
+    "3 cucharadas de vinagre blanco",
+    "3 cucharadas de salsa Worcestershire",
+    "1/2 cucharadita de salsa picante",
+    "1/2 cucharadita de polvo de ajo",
+    "1 cucharada de mostaza",
+    "1/4 cucharadita de sal",
+    "1/3 cucharadita de pimienta negra",
+    "2 cucharadas de jugo de naranja concentrado",
+    "3 sobrecitas Equal (no seguir instrucciones del paquete)",
+    "12 onzas de camarones cocidos"
+  ],
+  "recipeInstructions": "1. En una olla, combinar todos los ingredientes excepto las sobrecitas Equal y los camarones.\n2. Llevar lentamente a ebullición, revolviendo ocasionalmente.\n3. Retirar del fuego. Agregar las sobrecitas Equal.\n4. Incorporar los camarones a la salsa y servir sobre arroz.",
+  "url": null
+}

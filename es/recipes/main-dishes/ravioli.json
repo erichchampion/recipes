@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "ravioli",
+  "name": "Ravioli",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sin gluten",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "Salmón ahumado en hojuelas",
+    "Queso Fontina rallado (solo un poco)",
+    "Mantequilla (1/4 taza)",
+    "Harina de uso común cernida (1/4 taza)",
+    "Sal (1 cucharadita)",
+    "Pimienta blanca (1/8 cucharadita)",
+    "Leche (2 tazas)",
+    "Eneldo fresco (se puede usar enlatado seco)"
+  ],
+  "recipeInstructions": "1. Preparar y cocinar los raviolis.\n2. Derretir la mantequilla en una sartén, retirar del fuego y agregar harina, sal y pimienta blanca, removiendo constantemente.\n3. Agregar lentamente la leche mientras se mezcla continuamente hasta obtener una textura suave.\n4. Devolver la mezcla a la estufa y llevar a ebullición, removiendo con frecuencia.\n5. Reducir el fuego y cocinar por 1 minuto después de que hierva, luego agregar eneldo picado (usar al gusto).\n6. Servir sobre raviolis calientes, adornados con un ramito de eneldo fresco si se tiene disponible.",
+  "url": null
+}

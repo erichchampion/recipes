@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "clam-corn-chowder",
+  "name": "Sopa de Almejas y Maíz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "mariscos",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 litro de almejas",
+    "1 taza de cebolla picada",
+    "1 taza de papa cortada en cubos",
+    "1 cucharadita de sal",
+    "1 taza de maíz entero",
+    "1 cucharada de mantequilla",
+    "1/4 taza de tocino picado",
+    "1 taza de licor de almejas y agua",
+    "1 cucharadita de sal de apio",
+    "1 cucharadita de pimienta negra",
+    "2 tazas de leche",
+    "1/3 taza de migas de pan"
+  ],
+  "recipeInstructions": "1. Escurrir las almejas y reservar el licor.\n2. Picar las almejas.\n3. Freír el tocino hasta que esté crujiente; escurrir sobre papel absorbente.\n4. Cocinar la cebolla en mantequilla hasta que esté tierna.\n5. Agregar el licor reservado, las papas, las especias (sal de apio y pimienta negra) y las almejas a la olla. Cocinar durante 15 a 20 minutos o hasta que las papas estén tiernas.\n6. Incorporar el maíz, la leche y la mantequilla restante. Calentar suavemente.\n7. Espolvorear las migas de pan sobre la sopa antes de servir.",
+  "url": null
+}

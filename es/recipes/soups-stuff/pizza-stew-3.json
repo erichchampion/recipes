@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-stew-3",
+  "name": "Guiso de Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "diabetico",
+    "plato principal",
+    "cazuela lenta",
+    "sopas",
+    "sopas/guisos",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "6 oz de tocino canadiense, picado",
+    "9 tazas de salsa de tomate",
+    "1 ½ tazas de agua",
+    "6 cucharadas de apio, picado",
+    "6 cucharadas de pimiento verde, picado",
+    "6 cucharaditas de orégano",
+    "6 cucharaditas de polvo de ajo",
+    "6 cucharadas de champiñones en trozos",
+    "al gusto sal",
+    "6 cucharadas de aceitunas negras",
+    "3 tazas de macarrones cocidos tipo elb"
+  ],
+  "recipeInstructions": "1. Escurrir el tocino canadiense y retirar toda grasa.\n2. Calentar la salsa de tomate y el agua en una olla grande hasta que hierva.\n3. Agregar el tocino, apio, pimiento verde, orégano, polvo de ajo, champiñones y aceitunas negras.\n4. Cocinar hasta que las verduras estén tiernas.\n5. Incorporar los macarrones cocidos y reducir el fuego, dejar reposar unos minutos para calentar todo uniformemente.\n6. Ajustar la sazón si es necesario. Servir caliente.",
+  "url": null
+}

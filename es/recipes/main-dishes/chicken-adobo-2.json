@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-adobo-2",
+  "name": "Pollo Adobo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves"
+  ],
+  "recipeIngredient": [
+    "2 libras de trozos de pollo",
+    "1 cabeza de ajo, picada groseramente",
+    "4 cucharadas de salsa de soja, o al gusto",
+    "1 cucharadita de pimienta negra",
+    "2 tazas de agua",
+    "1/2 taza de vinagre de arroz (o vinagre blanco)",
+    "2 hojas de laurel",
+    "2 cucharadas de aceite vegetal"
+  ],
+  "recipeInstructions": "1. Combinar el vinagre, las hojas de laurel, la pimienta, la salsa de soja y el agua en una olla. \n2. Tapar y cocinar a fuego lento durante unos 15 minutos.\n3. Calentar el aceite vegetal en una sartén grande y pesada a fuego medio-bajo.\n4. Agregar el ajo y dorarlo hasta que esté fragante (aproximadamente 5 minutos).\n5. Dorar los trozos de pollo en la sartén a fuego medio-alto hasta que estén dorados (aproximadamente 5 minutos).\n6. Verter la mezcla de vinagre en la sartén y reducir el fuego a bajo, tapar parcialmente y cocinar durante unos 30 minutos o hasta que el pollo esté bien cocido. No dejar hervir.\n7. Retirar las hojas de laurel. Servir el pollo adobo sobre arroz cocido.",
+  "url": null
+}

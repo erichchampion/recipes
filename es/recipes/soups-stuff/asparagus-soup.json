@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "asparagus-soup",
+  "name": "Sopa de Espárragos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "histórica",
+    "sopas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb espárragos, cortados",
+    "2 1/2 tazas de crema o leche",
+    "5 huevos, bien batidos",
+    "1/4 palito de mantequilla o margarina",
+    "2 lonchas de tocino",
+    "2 tazas de agua",
+    "2 cucharadas de perejil fresco picado",
+    "sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. En una olla profunda, llevar el agua a ebullición.\n2. Agregar el tocino; cubrir y hervir durante 15 minutos. Descartar el tocino.\n3. Añadir los espárragos; cubrir y cocinar a fuego medio-bajo hasta que estén tiernos.\n4. En un bol para mezclar, batir los huevos con la crema. Incorporar esta mezcla a los espárragos, añadiendo las especias y la mantequilla.\n5. Cocinar a fuego bajo durante 2 minutos, removiendo continuamente.\n6. Retirar del fuego y servir.",
+  "url": null
+}

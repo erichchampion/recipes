@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "waffles",
+  "name": "Waffles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "waffles"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de avena (o 1 taza de copos de avena)",
+    "1/2 taza de maicena",
+    "1 taza de harina integral",
+    "2 cucharaditas de polvo de hornear",
+    "1 cucharada de sustituto de huevo",
+    "1 cucharada de puré de ciruelas secas (ver receta a continuación)",
+    "1 cucharadita de especias para pastel de calabaza",
+    "2 tazas de líquido (agua, jugo, leche de soja, etc.)"
+  ],
+  "recipeInstructions": "1. Medir los ingredientes secos.\n2. Preparar el sustituto de huevo según las instrucciones.\n3. Agregar agua y luego los ingredientes secos.\n4. Hornear en una gofrera caliente.\n5. Servir con sirope de arce, fruta o jarabe de fruta al gusto.\nPuré de ciruelas secas:\nCombinar 1 taza y 1/3 tazas (8 oz.) de ciruelas pasas sin hueso y 6 cucharadas de agua en un recipiente de procesador de alimentos. Pulsar hasta que las ciruelas estén finamente picadas. Da para 1 taza. Esta mezcla se puede usar como sustituto de la grasa en la repostería - usar 1 cucharada de puré por cada 1 cucharada de grasa.",
+  "url": null
+}

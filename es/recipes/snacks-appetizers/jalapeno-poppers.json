@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "jalapeno-poppers",
+  "name": "Jalapeños Poppers",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "chiles",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "jalapeños cortados por la mitad y sin semillas",
+    "crema de queso para rellenar cada mitad de pimiento",
+    "huevos para empanizar",
+    "pan rallado para empanizar"
+  ],
+  "recipeInstructions": "1. Cortar los jalapeños por la mitad y retirar las semillas.\n2. Rellenar cada mitad de pimiento con crema de queso.\n3. Sumergir los pimientos en huevo y luego espolvorear con pan rallado.\n4. Congelar los pimientos empanizados durante unos 20 minutos para que se asienten los pan rallados.\n5. Precalentar el horno a 175 °C (350 °F).\n6. Hornear los jalapeños poppers hasta que estén dorados y crujientes.",
+  "url": null
+}

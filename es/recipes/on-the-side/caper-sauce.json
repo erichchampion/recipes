@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "caper-sauce",
+  "name": "Salsa de Capers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "carne de res",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 taza de mayonesa",
+    "1/4 taza de capers (aceitunas en salmuera)",
+    "1/4 taza de crema agria láctea",
+    "1 cucharada de mostaza estilo Dijon",
+    "1 cucharada de rábano picante",
+    "1 cucharada de vinagre blanco",
+    "1/2 cucharadita de azúcar"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un tazón.\n2. Batir hasta que quede bien combinada.\n3. Probar y ajustar la sazonadura si es necesario.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-casserole-7",
+  "name": "Omelet de Papas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "omelet",
+    "plato principal",
+    "papas"
+  ],
+  "recipeIngredient": [
+    "4 papas medianas, cocidas y peladas",
+    "2 tazas de queso cheddar rallado",
+    "1 taza de crema líquida (media taza)",
+    "sal sazonada Lawry's"
+  ],
+  "recipeInstructions": "1. Rallar las papas cocidas.\n2. En un molde para hornear rectangular de 30x45 cm engrasado, colocar la mitad de las papas ralladas y espolvorear con queso cheddar.\n3. Sazonar generosamente con sal sazonada.\n4. Repetir las capas con el resto de las papas, queso y sal sazonada.\n5. Verter la crema líquida sobre todas las capas.\n6. Hornear a 180°C durante 30 minutos.",
+  "url": null
+}

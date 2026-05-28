@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "coca-cola-cake",
+  "name": "Pastel de Coca Cola",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de Harina",
+    "2 tazas de Azúcar",
+    "2 tazas de Manteca",
+    "1/2 taza de Buttermilk",
+    "1 taza de Coca Cola",
+    "2 Huevos, batidos",
+    "1 cucharadita de Bicarbonato de sodio",
+    "1 cucharadita de Extracto de vainilla",
+    "3/4 taza de Marshmallows",
+    "3 cucharadas de Cacao en polvo",
+    "1 paquete de Azúcar glas (caja completa)",
+    "1 taza de Nueces, picadas"
+  ],
+  "recipeInstructions": "1. Mezclar la harina y el azúcar.\n2. Calentar la manteca, cacao y Coca Cola hasta que hierva, luego verter sobre la mezcla de harina y azúcar.\n3. En un bol aparte, mezclar el buttermilk, huevos, bicarbonato de sodio, extracto de vainilla y marshmallows.\n4. Agregar la mezcla del paso 3 a la mezcla de harina y combinar bien. La masa estará líquida.\n5. Hornear en un molde de 13 x 9 pulgadas a 350°F durante 30-35 minutos.\n6. Mientras el pastel esté caliente, preparar el glaseado calentando la manteca, cacao y Coca Cola hasta que hierva.\n7. Verter la mezcla hirviendo sobre el azúcar glas y batir bien.\n8. Agregar las nueces al glaseado y extender sobre el pastel caliente.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "curried-rice-3",
+  "name": "Arroz al Curry",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "3 tazas de arroz cocido",
+    "1 yema de huevo",
+    "1 cucharadita de polvo de curry",
+    "1 pimiento verde picado",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "2 cucharadas de mantequilla",
+    "1/4 cucharadita de cayena",
+    "1 cebolla picada"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una sartén grande a fuego medio.\n2. Agrega la cebolla y el pimiento verde picados a la sartén. Cocina hasta que la cebolla esté tierna, removiendo ocasionalmente.\n3. Incorpora el polvo de curry, el huevo ligeramente batido, la sal, la pimienta y la cayena. Mezcla bien.\n4. Dobla el arroz cocido en la mezcla y revuelve suavemente para combinar.\n5. Espolvorea con pimiento verde picado adicional si lo deseas.",
+  "url": null
+}

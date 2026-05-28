@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheesy-chicken-2",
+  "name": "Pollo con Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave"
+  ],
+  "recipeIngredient": [
+    "8 pechugas de pollo sin piel ni hueso",
+    "polvo de ajo",
+    "polvo de cebolla",
+    "sal",
+    "pimienta",
+    "2 latas de sopa de pollo con crema",
+    "1 lata de sopa de queso cheddar"
+  ],
+  "recipeInstructions": "1. Espolvorear las pechugas de pollo congeladas con las especias (polvo de ajo, polvo de cebolla, sal y pimienta).\n2. Colocar las pechugas de pollo sazonadas en la olla de cocción lenta.\n3. Mezclar el contenido de las dos latas de sopa (sopa de pollo con crema y sopa de queso cheddar).\n4. Verter la mezcla de sopas sobre los pechugas de pollo en la olla de cocción lenta.\n5. Cubrir la olla de cocción lenta y cocinar a fuego lento durante 8-10 horas, removiendo ocasionalmente para asegurar una cocción uniforme.",
+  "url": null
+}

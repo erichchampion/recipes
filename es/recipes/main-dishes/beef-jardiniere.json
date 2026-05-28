@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-jardiniere",
+  "name": "Beef Jardinière",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de solomillo de res deshuesado",
+    "400 g de tomates enlatados",
+    "1 cucharadita de azúcar",
+    "1 cucharadita de sal",
+    "1 hoja de laurel",
+    "1 cubo de caldo",
+    "1/4 cucharadita de tomillo seco",
+    "1/4 cucharadita de pimienta negra",
+    "4 zanahorias medianas",
+    "400 g de guisantes dulces enlatados"
+  ],
+  "recipeInstructions": "1. Retirar toda la grasa del carne y cortarla en cubos pequeños.\n2. Pelar y cortar las zanahorias en cuartos.\n3. En una sartén grande, dorar rápidamente la carne utilizando la grasa retirada como aceite.\n4. Agregar los tomates, desmenuzándolos con una cuchara.\n5. Incorporar las especias y las zanahorias. Tapar y cocinar a fuego lento durante 1 1/2 horas.\n6. Añadir los guisantes y calentar hasta que estén listos.\n7. Servir sobre fideos o arroz.",
+  "url": null
+}

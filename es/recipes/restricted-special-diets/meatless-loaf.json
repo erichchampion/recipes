@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "meatless-loaf",
+  "name": "Pastel de soja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "plato principal",
+    "dieta especial",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz marrón cocido",
+    "1 huevo",
+    "2 cucharadas de cebolla picada",
+    "1 cucharadita de sal",
+    "2 tazas de maní molido",
+    "2 tazas de queso cottage",
+    "2 cucharadas de aceite de oliva",
+    "1/2 cucharadita de pimienta"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 grados.\n2. En un bol grande, mezclar todos los ingredientes hasta combinarlos bien.\n3. Verter la mezcla en un molde para pastel engrasado con aceite de oliva.\n4. Hornear durante unos 30 minutos, o hasta que el pastel esté cocido.",
+  "url": null
+}

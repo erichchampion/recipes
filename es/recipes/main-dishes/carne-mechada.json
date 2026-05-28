@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "carne-mechada",
+  "name": "Carne Mechada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 libras de lomo",
+    "4 cucharadas de vino tinto seco",
+    "1 diente de ajo machacado",
+    "2 cebollas en rodajas",
+    "3 hojas de laurel",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Cocinar la carne con el vino, ajo, cebollas y hojas de laurel sazonada con sal y pimienta durante aproximadamente 3 horas.\n2. Desmenuzar la carne y reservar.\n3. En una sartén aparte, saltear las cebollas y pimientos verdes en aceite.\n4. Agregar los ingredientes restantes para la salsa y cocinar a fuego lento por 30 minutos adicionales.\n5. Servir con la carne desmenuzada. Receta venezolana típica. Consulta la receta de salsa mechada.",
+  "url": null
+}

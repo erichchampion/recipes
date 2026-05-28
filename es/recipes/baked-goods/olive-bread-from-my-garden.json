@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "olive-bread-from-my-garden",
+  "name": "Pan de Aceitunas (del Jardín)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 tazas de aceitunas calamata picadas",
+    "3 cucharadas de romero picado",
+    "1 receta de masa de pizza",
+    "3 cucharadas de aceite de oliva"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 400 grados Fahrenheit.\n2. En un bol, mezclar las aceitunas calamata picadas y el romero picado.\n3. Combinar la mezcla de aceitunas con la masa de pizza y amasar suavemente hasta que se incorpore.\n4. Formar la masa en una forma circular.\n5. Colocar la forma sobre una bandeja para hornear ligeramente engrasada y cepillar con aceite de oliva.\n6. Hornear durante 35 minutos.\n7. Servir caliente o tibio.",
+  "url": null
+}

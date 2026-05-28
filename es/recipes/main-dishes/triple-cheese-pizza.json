@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "triple-cheese-pizza",
+  "name": "Pizza de Tres Quesos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "queso",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 base grande de Boboli",
+    "6 cucharadas de salsa pesto comprada",
+    "1 taza de queso Fontina rallado",
+    "5 tomates en puré, sin semillas y cortados finamente",
+    "2 cucharaditas de orégano seco",
+    "1/2 taza de queso Mozzarella rallado",
+    "1/4 taza de queso Parmesano rallado",
+    "Hojas de albahaca fresca - opcional"
+  ],
+  "recipeInstructions": "Precalentar el horno a 500°F.\nColocar la base de pizza en una bandeja para hornear grande. Extender el pesto sobre la base. Espolvorear el Fontina uniformemente sobre la superficie. Arreglar las rodajas de tomate encima. Sazonar con pimienta. Espolvorear el orégano, luego agregar la mozzarella y el Parmesano. Hornear hasta que la base esté dorada y los toppings estén burbujeantes, aproximadamente 10 minutos. Decorar con hojas de albahaca fresca.",
+  "url": null
+}

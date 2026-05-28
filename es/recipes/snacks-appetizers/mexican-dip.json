@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-dip",
+  "name": "Dip Mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "2 latas de salsa de frijoles jalapeño",
+    "2 aguacates grandes (machacados)",
+    "8 onzas de salsa taco",
+    "1 taza de crema agria",
+    "1 paquete de mezcla para tacos",
+    "1 taza de queso cheddar rallado",
+    "tomates picados",
+    "chiles verdes",
+    "olivas negras",
+    "cebollas verdes picadas"
+  ],
+  "recipeInstructions": "1. Prepara la primera capa mezclando 2 latas de salsa de frijoles jalapeño.\n2. Machaca 2 aguacates grandes y mézclalos con 8 onzas de salsa taco para crear la segunda capa.\n3. Combina 1 taza de crema agria con 1 paquete de mezcla para tacos para la tercera capa.\n4. Cubre todo con queso cheddar rallado, tomates picados, chiles verdes, olivas negras y cebollas verdes.",
+  "url": null
+}

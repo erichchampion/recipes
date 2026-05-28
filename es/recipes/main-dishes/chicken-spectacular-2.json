@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-spectacular-2",
+  "name": "Pollo Espectacular",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "pollo",
+    "plato principal",
+    "carne",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "3 tazas de pollo cocido y picado",
+    "1 paquete de arroz Uncle Ben's Wild & White, cocido",
+    "1 lata de sopa de apio Crema de Celeri",
+    "1 frasco mediano de pimientos en rodajas",
+    "1 cebolla mediana picada",
+    "1 lata de judías verdes estilo francés, escurridas",
+    "1 taza de mayonesa Hellman's",
+    "1 lata de chicharrones de agua",
+    "sal y pimienta al gusto",
+    "queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 grados.\n2. Mezclar todos los ingredientes en un recipiente para cazuela engrasado de 3 cuartos.\n3. Espolvorear queso rallado sobre la parte superior.\n4. Hornear durante aproximadamente 25 a 30 minutos.",
+  "url": null
+}

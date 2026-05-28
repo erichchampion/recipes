@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "vanilla-ice-cream",
+  "name": "Helado de Vainilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "helado",
+    "dieta especial"
+  ],
+  "recipeIngredient": [
+    "2 cucharaditas de gelatina",
+    "1 cucharada de extracto de vainilla",
+    "2 cucharadas de agua caliente",
+    "4 cucharadas de edulcorante equivalente al azúcar",
+    "1 y 1/4 tazas de leche evaporada, fría"
+  ],
+  "recipeInstructions": "1. Disolver la gelatina en el agua caliente.\n2. Batir la leche con la gelatina casi fría.\n3. Agregar el extracto de vainilla y el edulcorante.\n4. Verter en moldes para congelar y congelar sin remover.\n5. Servir con frutas.\nNota: 1 porción contiene: 60 calorías; 5 gramos (1/2 unidad) de carbohidratos; 4 gramos de proteína; 3 gramos de grasa.",
+  "url": null
+}

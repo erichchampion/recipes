@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-chili",
+  "name": "Chili rápido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "plato principal",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de aceite de ensalada",
+    "1 cebolla mediana, picada",
+    "1 lata de 350 g de carne para bocadillos, en cubos",
+    "1 lata de frijoles rojos (400 g)",
+    "1 cucharadita de sal",
+    "1 cucharadita de polvo de chili"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de ensalada en una sartén pesada a fuego medio.\n2. Agregar la cebolla picada y cocinar hasta que esté tierna.\n3. Incorporar la carne para bocadillos en cubos.\n4. Añadir los frijoles rojos, la sal y el polvo de chili.\n5. Mezclar bien para combinar todos los ingredientes.\n6. Tapar y dejar cocinar a fuego lento durante 30 minutos.\n7. Rinde para 4-6 porciones",
+  "url": null
+}

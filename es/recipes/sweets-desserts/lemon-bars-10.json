@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-bars-10",
+  "name": "Barras de Limón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "-1 taza de harina",
+    "-1 taza de azúcar glas",
+    "-1 taza de mantequilla",
+    "-1/2 taza de harina",
+    "-1 cucharadita de polvo de hornear",
+    "-1 huevo",
+    "-1 taza de azúcar",
+    "-jugo de 1 limón",
+    "-raspa de 1 limón amarillo oscuro",
+    "-2 cucharadas de harina"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes de la base.\n2. Presionar en un molde de 8x8 cm.\n3. Hornear a 175 °C durante 15 minutos.\n4. Verter el relleno sobre la base horneada.\n5. Hornear a 175 °C durante 20 minutos.\n6. Espolvorear con azúcar glas.\n7. Opcional: Aumentar el jugo de limón y agregar harina extra al gusto.",
+  "url": null
+}

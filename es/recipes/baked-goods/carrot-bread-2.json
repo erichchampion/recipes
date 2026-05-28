@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "carrot-bread-2",
+  "name": "Pan de Zanahoria",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "2 1/2 cucharaditas de levadura seca activa",
+    "2 cucharadas de leche desnatada en polvo",
+    "1 taza de harina de trigo para pan",
+    "1/3 taza de harina integral",
+    "2/3 taza de avena",
+    "2/3 cucharadita de sal",
+    "1 cucharada de azúcar moreno",
+    "1/3 taza de zanahoria rallada",
+    "1 cucharada de aceite vegetal",
+    "1/2 taza de agua"
+  ],
+  "recipeInstructions": "1. Medir todos los ingredientes.\n2. Colocar los ingredientes en el orden indicado en la máquina de pan.\n3. Seleccionar la opción \"Pan Blanco\".\n4. Mezclar hasta que se forme la masa.\n5. Hornear según las instrucciones de la máquina.",
+  "url": null
+}

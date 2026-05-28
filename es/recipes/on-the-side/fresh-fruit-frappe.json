@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fresh-fruit-frappe",
+  "name": "Frappe de Frutas Frescas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "licuados de frutas mexicanas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 taza de melón cortado en cubos",
+    "1 taza de cantalupo o melón dulce cortado en cubos",
+    "1 taza de piña cortada en cubos",
+    "1 taza de mango cortado en cubos",
+    "1 taza de fresas cortadas por la mitad",
+    "1/4 taza de azúcar",
+    "1 taza de jugo de naranja",
+    "1 taza de hielo triturado"
+  ],
+  "recipeInstructions": "1. Cortar el melón en cubos.\n2. Cortar el cantalupo o melón dulce en cubos.\n3. Cortar la piña en cubos.\n4. Cubar el mango.\n5. Cortar las fresas por la mitad.\n6. Mezclar todos los ingredientes en una licuadora con jugo de naranja y azúcar.\n7. Licuar hasta obtener una consistencia suave.\n8. Servir sobre hielo triturado.",
+  "url": null
+}

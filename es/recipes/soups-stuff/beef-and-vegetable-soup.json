@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-and-vegetable-soup",
+  "name": "Sopa de Carne y Verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne para guiso, cortada en cubos de 1 pulgada",
+    "2 cebollas",
+    "2 papas",
+    "3 zanahorias",
+    "3 tallos de apio",
+    "1/4 de repollo",
+    "3 cucharadas de margarina",
+    "1 1/2 cucharaditas de sal",
+    "1/2 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Derretir la margarina en una olla grande y pesada con tapa. Sacar toda la grasa de la carne y cortarla en cubos de 1 pulgada. Dorar la carne por todos lados.\n2. Agregar las verduras (excepto el repollo), cortadas en trozos del mismo tamaño aproximadamente, y añadir 5 tazas de agua. Cubrir y cocinar a fuego lento durante 1 hora y media, añadiendo más agua si es necesario.\n3. Cortar el repollo y agregar al recipiente junto con la sal y la pimienta. Cocinar a fuego lento por 20-25 minutos adicionales.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "butter-tarts-3",
+  "name": "Tartes de Mantequilla",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartes"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar morena",
+    "1/4 taza de mantequilla (a temperatura ambiente)",
+    "1/2 taza de jarabe de arce",
+    "2 huevos; batidos",
+    "1 cucharada de vinagre blanco",
+    "1/2 taza de nueces picadas (opcional)",
+    "1/2 taza de pasas",
+    "12 caparazones de tartas de 3 pulgadas, sin hornear"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375°F.\n2. En un bol, batir juntos el azúcar, la mantequilla, el jarabe de arce, los huevos y el vinagre hasta que quede suave.\n3. Dividir las nueces y las pasas entre los caparazones de tartas.\n4. Llenar cada caparazón aproximadamente tres cuartos con la mezcla de jarabe.\n5. Hornear durante 25 minutos o hasta que la mezcla burbujee y los caparazones estén dorados.",
+  "url": null
+}

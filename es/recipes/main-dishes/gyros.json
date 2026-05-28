@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "gyros",
+  "name": "Gyros",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "2 lb de cordero, cortado en láminas finas",
+    "1/2 taza de aceite de oliva",
+    "1/2 taza de jugo de limón fresco",
+    "3 dientes de ajo pelados y picados",
+    "1 cucharada de tomillo fresco",
+    "1 cucharada de orégano fresco",
+    "pimienta molida fresca"
+  ],
+  "recipeInstructions": "1. Mezcla el aceite de oliva, jugo de limón, dientes de ajo, tomillo, orégano y pimienta en un bol.\n2. Coloca las láminas de cordero en la marinada y cubre bien. Cubre y refrigera por 4 a 6 horas o durante la noche, volviendo varias veces.\n3. Para preparar el gyro, coloca la carne, lechuga, tomate cortado en cubos o en rodajas finas, cebolla en rodajas finas y queso feta desmenuzado en el centro de un pan pita.\n4. Agrega tzatziki (salsa de yogur y pepino) y dobla o envuelve el pan pita alrededor de la carne y verduras.\nAdorna con hierbas frescas si lo deseas antes de servir.",
+  "url": null
+}

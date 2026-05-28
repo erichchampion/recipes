@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-salsa",
+  "name": "Salsa de Tomate",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsa",
+    "salsas",
+    "guarniciones",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 tomates medianos maduros, picados groseramente",
+    "2 cucharadas de cebolla roja, picada finamente",
+    "1 cucharadita de jalapeño, picado finamente",
+    "1/4 taza de jugo de limón",
+    "1 cucharadita de polvo de chile Ancho",
+    "1/4 taza de cilantro, picado groseramente",
+    "sal",
+    "pimienta negra molida al gusto"
+  ],
+  "recipeInstructions": "1. Mezcla los tomates, cebollas, jalapeño, jugo de limón, polvo de chile y cilantro en un bol.\n2. Sazona con sal y pimienta al gusto.\nRendimiento: aproximadamente 1 taza",
+  "url": null
+}

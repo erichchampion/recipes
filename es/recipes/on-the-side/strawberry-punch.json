@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-punch",
+  "name": "Punch de Fresas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "punch",
+    "entrantes"
+  ],
+  "recipeIngredient": [
+    "3 latas de concentrado de jugo de naranja - 6 onzas cada una",
+    "3 latas de concentrado de limonada rosada - 6 onzas cada una",
+    "1 litro de ginger ale, helado",
+    "2 paquetes de fresas congeladas con jarabe - 10 onzas cada uno"
+  ],
+  "recipeInstructions": "1. Agregar agua fría al concentrado de jugo de fruta según las instrucciones en las latas.\n2. Mezclar con la ginger ale y las fresas congeladas.\n3. Añadir cubos de hielo.",
+  "url": null
+}

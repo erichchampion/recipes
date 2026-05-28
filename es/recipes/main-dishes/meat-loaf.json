@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "meat-loaf",
+  "name": "Pastel de Carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "pastel de carne"
+  ],
+  "recipeIngredient": [
+    "500g de carne molida de res",
+    "1 huevo batido",
+    "1 taza de copos de maíz",
+    "1 taza de jugo de tomate",
+    "250g de carne molida de cerdo",
+    "1 taza de migas de pan remojadas en leche",
+    "1 taza de leche",
+    "1 cebolla mediana picada",
+    "2 rebanadas de tocino"
+  ],
+  "recipeInstructions": "1. En un bol grande, combina la carne molida de res y cerdo.\n2. Agrega el huevo batido, las migas de pan mezcladas con leche, los copos de maíz, la cebolla picada y el jugo de tomate a la mezcla.\n3. Mezcla hasta que todos los ingredientes estén bien incorporados.\n4. Forma la mezcla en un pastel y colócalo en un molde para hornear engrasado.\n5. Cubre el pastel con las rebanadas de tocino y vierte cualquier jugo de tomate restante sobre la parte superior.\n6. Hornea a 180°C durante 1 a 1 hora y media, o hasta que la temperatura interna alcance los 71°C.\n7. Apaga el horno cuando la carne esté cocida y déjala reposar por 10 minutos antes de rebanar y servir.",
+  "url": null
+}

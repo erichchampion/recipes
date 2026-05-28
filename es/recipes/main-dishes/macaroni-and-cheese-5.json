@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "macaroni-and-cheese-5",
+  "name": "Macarrones con Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "queso",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "2 tazas de macarrones tipo elbow",
+    "1 lata de sopa de champiñones cremosos",
+    "1 lata de sopa de apio cremosos",
+    "1/2 taza de leche",
+    "1/4 taza de mayonesa",
+    "2 tazas de queso cheddar blanco rallado",
+    "pimienta"
+  ],
+  "recipeInstructions": "1. Cocinar los macarrones según las instrucciones del paquete, luego escurrir y colocar en un refractario.\n2. En un bol aparte, calentar juntos las sopas, la leche y la mayonesa hasta que estén ligeramente mezcladas.\n3. Espolvorear con pimienta al gusto.\n4. Agregar 3/4 de taza de queso cheddar blanco rallado a la mezcla de sopa.\n5. Mezclar con los macarrones cocidos.\n6. Colocar el resto del queso cheddar blanco rallado encima.\n7. Hornear a 180°C durante 25 minutos, sin cubrir.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "lisa-pizza",
+  "name": "Pizza Lisa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza",
+    "rápida"
+  ],
+  "recipeIngredient": [
+    "Base de pizza con sabor a tarragona grande",
+    "Salsa de pizza de ajo y albahaca",
+    "Condimento para pizza Brown & Serve bajo en grasa",
+    "Pepperoni",
+    "Queso mozzarella bajo en grasa y queso cheddar"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a la temperatura indicada en el paquete de la masa de pizza.\n2. Preparar la pizza con los ingredientes: extender la salsa de pizza sobre la base, colocar el pepperoni encima y espolvorear con queso mozzarella y cheddar bajo en grasa.\n3. Colocar la pizza preparada sobre una piedra para hornear.\n4. Hornear en el horno precalentado durante el tiempo indicado en el paquete de la masa de pizza.\n5. Retirar la pizza del horno cuando esté crujiente por fuera y suave por dentro.\nComentarios del chef:\n\"Finalmente usé la piedra para hornear que me regalaron en Navidad el año pasado. Un día, después del trabajo, hice una parada rápida en la tienda de alimentos, tomé ingredientes fáciles de preparar y preparé una pizza rápida que resultó deliciosa - ¡Neil pensó que la había comprado!\" - Lisa",
+  "url": null
+}

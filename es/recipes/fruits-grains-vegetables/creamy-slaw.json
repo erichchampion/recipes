@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "creamy-slaw",
+  "name": "Ensalada Cremosa de Col",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 lata pequeña de leche evaporada",
+    "1 cucharadita de sal",
+    "1/8 cucharadita de pimienta",
+    "4 tazas de col rallada",
+    "1 tallo de apio, picado",
+    "1/4 taza de vinagre de manzana",
+    "2 cucharadas de azúcar",
+    "1/4 cucharadita de semillas de apio",
+    "1/2 taza de mayonesa o aderezo para ensalada",
+    "1 zanahoria, rallada"
+  ],
+  "recipeInstructions": "1. Mezcla la leche, el vinagre, el azúcar, la sal, las semillas de apio y la pimienta en un bol.\n2. Agrega la mayonesa y mezcla hasta que quede bien combinada. Refrigera hasta que esté lista para servir.\n3. En otro bol, combina la col, la zanahoria y el apio. Refrigera hasta que esté lista para servir.\n4. Para servir, vierte la mezcla de aderezo sobre la mezcla de col.\n5. Revuelve suavemente para cubrir de manera uniforme.\n6. Sirve inmediatamente.",
+  "url": null
+}

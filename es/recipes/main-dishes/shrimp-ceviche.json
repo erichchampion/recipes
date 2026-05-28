@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "shrimp-ceviche",
+  "name": "Ceviche de Camarones",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "mariscos",
+    "camarones"
+  ],
+  "recipeIngredient": [
+    "1 libra de camarones",
+    "1 1/2 tazas de jugo de naranja",
+    "1/2 taza de jugo de limón",
+    "1/4 taza de ketchup",
+    "1 cebolla, cortada en rodajas finas",
+    "al gusto sal",
+    "al gusto salsa picante"
+  ],
+  "recipeInstructions": "1. Cocinar los camarones en agua hirviendo con sal durante no más de 3 minutos.\n2. Dejar enfriar completamente los camarones.\n3. Quitar las cáscaras y vaciarlos.\n4. Cortar los camarones en trozos dependiendo del tamaño (dos o tres pedazos).\n5. En un bol, mezclar los jugos (jugo de naranja y limón), sal, pimienta, ketchup, salsa picante y cebolla cortada.\n6. Refrigerar la mezcla por varias horas antes de servir para que los sabores se integren.",
+  "url": null
+}

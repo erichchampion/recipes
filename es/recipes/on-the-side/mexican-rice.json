@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-rice",
+  "name": "Arroz Mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "americano",
+    "étnico",
+    "mexicano",
+    "arroz",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz",
+    "un toque de pimienta blanca",
+    "un toque de sal",
+    "1 taza y media de agua",
+    "1 taza de cebolla amarilla picada",
+    "1/2 paquete de vegetales mixtos congelados",
+    "1 cucharadita de base de pollo",
+    "1 cucharadita de polvo de ajo",
+    "1 cucharada de aceite"
+  ],
+  "recipeInstructions": "1. Dorar el arroz en una cucharada de aceite. Tener cuidado de no sobrecocinar.\n2. Escurrir el arroz completamente.\n3. En una olla de 1 litro y medio, combinar el agua, la pasta de tomate, la cebolla picada, la base de pollo y las especias.\n4. Colocar la sartén en la estufa y llevar la mezcla a ebullición.\n5. Reducir el calor a bajo y mezclar el arroz con el líquido.\n6. Tapar y dejar cocinar el arroz durante 20 minutos sin revolver.\n7. Descongelar los vegetales rociándolos suavemente con agua y mezclarlos ligeramente con el arroz.\n8. Dejar reposar el arroz por 5 minutos antes de servir con salsa ranchera.",
+  "url": null
+}

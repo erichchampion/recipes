@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chiligetti",
+  "name": "Chiligetti",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "2 cebollas medianas, picadas",
+    "1 lata de 400 g de tomates triturados sin escurrir",
+    "1 lata de 200 g de salsa de tomate",
+    "1 cucharadita de polvo de chile",
+    "1 cucharadita de sal",
+    "1 lata de 397 g de frijoles rojos sin escurrir",
+    "1 paquete de 250 g de espagueti crudo"
+  ],
+  "recipeInstructions": "1. Cocinar y revolver la carne molida con las cebollas en una sartén grande hasta que la carne esté marrón y las cebollas estén tiernas.\n2. Incorporar los tomates, la salsa de tomate, el polvo de chile, la sal y los frijoles con su líquido.\n3. Llevar a ebullición; reducir el fuego.\n4. Cocinar destapado durante unos 10 minutos o hasta alcanzar la consistencia deseada.\n5. Cocinar el espagueti según las instrucciones del paquete. Escurrir.\n6. Extender el espagueti en un plato grande y cubrir con la mezcla de chili caliente.",
+  "url": null
+}

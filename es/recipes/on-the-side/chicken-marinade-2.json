@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-marinade-2",
+  "name": "Marinada de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "marinadas",
+    "pollo",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "6 cucharadas de aceite de oliva",
+    "4 cucharadas de vinagre de manzana",
+    "4 cucharadas de jugo de limón",
+    "1/2 taza de azúcar morena (presionada)",
+    "3 cucharadas de mostaza granulada",
+    "3 dientes de ajo medianos, machacados",
+    "1 1/2 cucharaditas de sal",
+    "500 gramos de pechugas de pollo deshuesadas y sin piel, en mitades"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el pollo en un bol.\n2. Colocar el pollo en la marinada y refrigerar por al menos 2 horas.\n3. Asar el pollo marinado durante 10-12 minutos, dándolo la vuelta una vez, hasta que ya no sea rosado y los jugos sean claros.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "hacienda-hamburger-2",
+  "name": "Hamburguesa de Hacienda",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "carne molida",
+    "plato principal",
+    "meat"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne molida",
+    "2 tazas de fideos crudos",
+    "2 cucharadas de aceite para cocinar",
+    "1 taza de queso americano picado",
+    "1 taza de aceitunas maduras en rodajas",
+    "1/2 taza de cebolla picada",
+    "2 cucharaditas de sal",
+    "2 cucharadas de pasta de tomate",
+    "1/2 cucharadita de pimienta",
+    "2 tazas de agua"
+  ],
+  "recipeInstructions": "1. Dorar la carne en aceite en una sartén eléctrica o una sartén grande.\n2. Agregar el apio y la cebolla; cubrir y cocinar a fuego lento durante 10 minutos.\n3. Incorporar la pasta de tomate, agua, fideos, queso, aceitunas, sal y pimienta a la sartén. Revolver para combinar todo uniformemente.\n4. Cubrir y cocinar hasta que los fideos estén tiernos, lo cual tomará aproximadamente 30 minutos.\nNOTA:\nEste plato también está delicioso al día siguiente.",
+  "url": null
+}

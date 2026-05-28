@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "picante-potato-salad",
+  "name": "Ensalada de Papas Picante",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "mexicana",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 lb de papas nuevas cocidas",
+    "4 tazas de (dado) pepino",
+    "1 taza de maíz en lata escurrido",
+    "1 pimiento rojo pequeño, picado",
+    "1/2 taza de cebolletas en rodajas",
+    "1/2 taza de salsa picante",
+    "2 cucharadas de aceite vegetal",
+    "2 cucharadas de vinagre de manzana",
+    "1/2 cucharadita de comino molido",
+    "1/4 cucharadita de sal",
+    "2 cucharadas de cilantro picado"
+  ],
+  "recipeInstructions": "1. Combinar las papas, maíz, pimiento y cebolletas en un tazón mediano.\n2. En un tazón aparte, combinar la salsa picante, aceite, vinagre, comino y sal; mezclar bien.\n3. Revolver suavemente la mezcla de papas con la salsa; enfriar.\n4. Espolvorear con cilantro y servir con salsa picante adicional.",
+  "url": null
+}

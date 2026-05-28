@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "cucumber-sauce",
+  "name": "Salsa de Pepino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 taza de crema agria",
+    "1/2 taza de pepino, sin semillas y picado",
+    "2 cucharadas de cebolla morada finamente picada",
+    "3/4 cucharadita de eneldo seco",
+    "Sal y pimienta blanca recién molida al gusto"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes de la salsa en un bol.\n2. Refrigera la mezcla hasta que esté lista para servir.",
+  "url": null
+}

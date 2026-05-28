@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "huevos-mexicanos-2",
+  "name": "Huevos Mexicanos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "americano",
+    "queso/huevos",
+    "étnico",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "2 cebollas, picadas",
+    "2 dientes de ajo, picados",
+    "6 huevos",
+    "1/3 taza de aceite de oliva",
+    "1/2 taza de queso cheddar rallado",
+    "2 tomates, picados",
+    "2 tortillas"
+  ],
+  "recipeInstructions": "1. En una sartén, combine cebollas, ajo y aceite de oliva. Calentar suavemente por 5 minutos.\n2. Agregue tomates y polvo de chile.\n3. Mientras tanto, en un pan separado, cocine los huevos al vapor.\n4. Tostar las tortillas hasta que estén calientes.\n5. Coloque las tortillas en platos individuales.\n6. Coloque un huevo pojado sobre cada plato.\n7. Vierta la salsa sobre los huevos.\n8. Espolvoree queso cheddar sobre el plato.",
+  "url": null
+}

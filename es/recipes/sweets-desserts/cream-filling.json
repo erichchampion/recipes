@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "cream-filling",
+  "name": "Relleno de Crema",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de crema batida",
+    "1 cucharada de azúcar",
+    "1 cucharadita de vainilla"
+  ],
+  "recipeInstructions": "1. Vierta la crema batida en un bol.\n2. Agregue el azúcar y la vainilla al bol con la crema batida.\n3. Bata la mezcla hasta que quede firme, pero no la bata demasiado.\n4. No sobrebatas el relleno de crema.",
+  "url": null
+}

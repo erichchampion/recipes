@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pesto",
+  "name": "Pesto",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "4 cucharaditas de condimento pesto",
+    "1/4 taza de queso parmesano",
+    "3 cucharadas de piñones o pistachos finamente picados",
+    "1 fettuccine o espagueti seco cocido según las instrucciones del producto",
+    "1 (cocido según las instrucciones del producto)"
+  ],
+  "recipeInstructions": "1. Mezclar y batir el aceite con el queso, las nueces y el condimento pesto.\n2. Sazonar y mezclar con la pasta cocida. Se puede agregar un poco de crema para un sabor suave y cremoso.\n3. Servir inmediatamente.",
+  "url": null
+}

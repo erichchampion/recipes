@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-chip-bread",
+  "name": "Pan con Chips de Chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "-------------",
+    "1 paquete de levadura",
+    "3 tazas de harina de pan",
+    "2 cucharadas de azúcar morena",
+    "2 cucharadas de azúcar blanca",
+    "1 cucharadita de sal",
+    "1 cucharadita de canela",
+    "4 cucharadas de mantequilla suave",
+    "1 huevo",
+    "1 taza de leche tibia",
+    "1/4 taza de agua",
+    "1 taza de chips de chocolate"
+  ],
+  "recipeInstructions": "-------------\nCombinar los primeros 10 ingredientes en un bol grande. Agregar los chips de chocolate y mezclar hasta su distribución uniforme. Verter en un molde para pan engrasado, seleccionar el ajuste de pan blanco y iniciar la máquina. El pitido indicará cuando haya terminado de mezclar por aproximadamente 5 minutos. Retirar de la máquina y ajustar el control de oscuridad ligeramente hacia la luz para evitar sobrecocinar los chips. Este pan tiene una textura similar a un pastel.",
+  "url": null
+}

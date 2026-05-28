@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "clam-chowder-new-england-style",
+  "name": "Chowder de Almejas al Estilo New England",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "pescado",
+    "cerdo/jamón",
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "24 almejas",
+    "1 3/4 tazas de media crema (Half & Half)",
+    "3 tazas de agua",
+    "1 taza de salsa de soja",
+    "1/2 libra de cerdo picado",
+    "2 dientes de ajo machacados",
+    "3 cucharadas de mantequilla",
+    "1 cucharadita de albahaca",
+    "1 cucharadita de perejil",
+    "1 cucharadita de tomillo"
+  ],
+  "recipeInstructions": "1. Combinar las almejas con su líquido y el agua; llevar a ebullición.\n2. Escurrir las almejas, reservando el líquido. Retirar las almejas de sus conchas y picar la carne; reservar.\n3. En mantequilla, freír el cerdo con cebolla hasta que la cebolla esté clara.\n4. Agregar las papas y el líquido de las almejas. Hervir a fuego lento durante 20 minutos.\n5. Incorporar la media crema, albahaca, perejil, tomillo y condimentos.\n6. Calentar hasta que esté bien caliente.\n7. Servir caliente.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "meat-loaf-2",
+  "name": "Pastel de Carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "2 1/2 libras de carne molida",
+    "1 1/2 cucharaditas de sal",
+    "1 cucharadita de tomillo",
+    "1/8 cucharadita de pimienta negra",
+    "1 1/2 tazas de migas de pan",
+    "3/4 taza de apio picado",
+    "1 cebolla mediana picada",
+    "3 cucharadas de perejil picado",
+    "2 huevos",
+    "1/2 taza de salsa de chili"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes en un bol grande.\n2. Forma la mezcla en un pastel y colócalo en un molde para hornear.\n3. Hornea a 350°F (175°C) durante 60 minutos.",
+  "url": null
+}

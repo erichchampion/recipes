@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cocoanut-cake",
+  "name": "Pastel de Coco",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3 tazas de Harina",
+    "3 cucharaditas de Polvo de Hornear",
+    "1/2 cucharadita de Sal",
+    "1/2 taza de Manteca",
+    "4 Claras de Huevo",
+    "1 1/2 tazas de Azúcar (blanca)",
+    "1 taza de Coco rallado",
+    "1 taza de Agua",
+    "1 cucharadita de Extracto de Limón"
+  ],
+  "recipeInstructions": "1. Batir la manteca y el azúcar hasta que quede ligero y esponjoso.\n2. Agregar el coco, la mezcla de harina (sifrada con polvo de hornear y sal), y el agua alternativamente a la mezcla de manteca, mezclando suavemente después de cada adición.\n3. Incorporar las claras de huevo al final, batiendo solo hasta que estén combinadas.\n4. Verter la masa en un molde para pastel engrasado.\n5. Hornear a 175°C durante el tiempo recomendado, o hasta que un palillo insertado en el centro salga limpio.",
+  "url": null
+}

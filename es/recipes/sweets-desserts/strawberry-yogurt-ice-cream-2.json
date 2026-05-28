@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-yogurt-ice-cream-2",
+  "name": "Helado de Fresa y Yogur",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "225 g fresas",
+    "75 g azúcar",
+    "450 g yogur natural bajo en grasa",
+    "1 clara de huevo (opcional)"
+  ],
+  "recipeInstructions": "1. Licúa las fresas con el azúcar y cuela si lo prefieres.\n2. Mezcla con el yogur.\n3. Congela la mezcla en una máquina de helados durante 20 minutos. Alternativamente, coloca la mezcla en un congelador hasta que comience a congelarse ligeramente alrededor de los bordes.\n4. Bate la clara de huevo y dóblala suavemente en la mezcla parcialmente congelada.\n5. Devuelve el helado al congelador hasta que esté completamente congelado.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-curry",
+  "name": "Curry de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de mantequilla o margarina",
+    "1 libra de pechugas de pollo sin hueso",
+    "1 tomate grande, picado groseramente",
+    "1 sobre de mezcla para sopa de cebolla",
+    "2 cucharaditas de polvo de curry",
+    "1 taza de agua",
+    "2 tazas de yogur natural",
+    "2 tazas de arroz cocido caliente",
+    "2 tazas de guisantes cocidos"
+  ],
+  "recipeInstructions": "1. Cortar las pechugas de pollo en tiras finas.\n2. En una sartén, saltear la cebolla hasta que esté dorada.\n3. Agregar el tomate y la mezcla para sopa de cebolla, revolver bien.\n4. Incorporar el polvo de curry y el agua, llevar a ebullición.\n5. Reducir el fuego, agregar el yogur, cocinar por 10 minutos más.\n6. Mezclar el arroz y los guisantes, servir sobre arroz cocido caliente.",
+  "url": null
+}

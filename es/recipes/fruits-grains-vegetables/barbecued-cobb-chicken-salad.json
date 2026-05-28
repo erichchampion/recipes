@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecued-cobb-chicken-salad",
+  "name": "Ensalada Cobb de Pollo a la Barbacoa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pollo",
+    "ensalada",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo a la barbacoa en rodajas",
+    "Salsa BBQ de Nuevo México",
+    "2 aguacates Haas, picados groseramente",
+    "2 tomates, sin semillas, picados groseramente",
+    "6 onzas de Queso Azul de alta calidad",
+    "6 onzas de Aderezo Buttermilk Picante",
+    "Lechuga romana - Picada"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcle la lechuga romana con el aderezo Buttermilk Picante.\n2. Sazone con sal y pimienta recién molida.\n3. Coloque encima el pollo, aguacate, tomates y queso azul.",
+  "url": null
+}

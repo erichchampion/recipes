@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chickpea-salad",
+  "name": "Ensalada de Garbanzos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de perejil picado",
+    "1/4 taza de cebolla picada",
+    "1 diente grande de ajo, picado o prensado",
+    "6 cucharadas de jugo de limón",
+    "1/8 cucharadita de guindilla en polvo",
+    "1/2 cucharadita de sal o al gusto",
+    "1.5 tazas de garbanzos escurridos",
+    "1.5 tazas de calabacín en rodajas o calabaza amarilla en trozos",
+    "6 cucharadas de líquido de los frijoles del frasco"
+  ],
+  "recipeInstructions": "1. Batir todos los ingredientes excepto los garbanzos y la calabaza.\n2. Incorporar los garbanzos y la calabaza.\n3. Dejar marinar en el refrigerador por al menos unas pocas horas para que se mezclen los sabores.",
+  "url": null
+}

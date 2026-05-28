@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-bread-2",
+  "name": "Pan de Fresa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "frutas",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "-1/2 taza de Leche",
+    "-1/2 taza de Fresas Machacadas",
+    "-1/2 taza de Plátano Machacado",
+    "-2 cucharadas de Margarina",
+    "-2 cucharaditas de Azúcar",
+    "-2 cucharaditas de Sal",
+    "-3 tazas de Harina de Pan",
+    "-2 1/2 cucharaditas de Levadura"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a ciclo de horneado medio.\n2. En un bol grande, combinar leche, fresas machacadas, plátano machacado, margarina, azúcar y sal.\n3. Agregar gradualmente harina y levadura a la mezcla, removiendo hasta que se combine ligeramente.\n4. Verter la masa en un molde para pan engrasado.\n5. Hornear en el horno precalentado durante 30-35 minutos, o hasta que un palillo insertado en el centro salga limpio.\n6. Retirar del horno y dejar enfriar antes de servir.\n7. Rinde un pan ligero con un toque de sabor a fresa y plátano.",
+  "url": null
+}

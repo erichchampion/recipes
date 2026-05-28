@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "pirate-steak-2",
+  "name": "Bistec Pirata",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 lata de Cerveza (12 oz.)",
+    "1/2 taza de Salsa Chili",
+    "1/4 taza de Aceite de ensalada",
+    "2 cucharadas de Salsa de soja",
+    "1 cucharada de Mostaza estilo Dijon",
+    "1/2 cucharadita de Salsa picante roja",
+    "1/8 cucharadita de Humo líquido",
+    "1/2 taza de Cebolla picada groseramente",
+    "2 dientes de Ajo machacados",
+    "3 lb Bistec de aguja de res, de 1 1/2 a 2 pulgadas de espesor",
+    "1 cucharadita de Sal",
+    "1/2 cucharadita de Pimienta"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes excepto el bistec, la sal y la pimienta en un bol.\n2. Reduce a fuego lento la mezcla durante 30 minutos.\n3. Unta el bistec con la salsa antes de asarlo.\n4. Coloca el bistec en una parrilla posicionada a 4 pulgadas sobre las brasas medianas.\n5. Cocina el bistec por 15 minutos por cada lado, bañándolo frecuentemente con la salsa.\n6. Sazonar el bistec con sal y pimienta después de darle la vuelta y después de sacarlo de la parrilla.\n7. Servir con la salsa restante.",
+  "url": null
+}

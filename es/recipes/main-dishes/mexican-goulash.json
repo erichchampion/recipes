@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-goulash",
+  "name": "Goulash Mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "diabetico",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1/2 libra de carne molida magra",
+    "1/2 taza de cebolla picada",
+    "1/4 taza de pimiento verde picado",
+    "3 tazas de jugo de tomate (Hunt's sin sal)",
+    "1 1/2 tazas de macarrones crudos",
+    "1/4 cucharadita de polvo de ajo",
+    "1/4 cucharadita de pimienta negra",
+    "1/4 cucharadita de polvo de chile"
+  ],
+  "recipeInstructions": "1. Añadir los macarrones al agua hirviendo y cocinar por 7 minutos.\n2. Cocinar los tres primeros ingredientes en una sartén de hierro fundido hasta que la carne esté marrón y las verduras estén tiernas. Escurrir el exceso de grasa.\n3. Agregar el jugo de tomate, los macarrones y las especias. Reducir a fuego lento hasta que el líquido se absorba casi por completo.\nNota: Servir con una ensalada, hace un plato delicioso.\nNutrientes por porción: Calorías 323, grasa 11g, colesterol 49mg, carbohidratos 36g, sodio 64mg.\nIntercambios: Pan 2, Carne 2, Verdura 1.",
+  "url": null
+}

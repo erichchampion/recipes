@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-pie",
+  "name": "Pastel de Hamburguesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "tartas para la cena",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 1/4 lb de carne molida redonda",
+    "8 oz de salsa de tomate enlatada",
+    "1 paquete de rollos crecescentes",
+    "1/4 cucharadita de polvo de ajo",
+    "1 taza de queso mozzarella",
+    "1/2 cucharadita de sal",
+    "1 taza de queso cheddar"
+  ],
+  "recipeInstructions": "1. Dorar la carne y retirar la grasa.\n2. Agregar la salsa de tomate, la sal y el polvo de ajo a la carne dorada. Dejar de lado.\n3. Colocar los rollos crecescentes en un molde para tarta de 9 pulgadas para formar la corteza.\n4. Extender 1 taza de los quesos combinados (mozzarella y cheddar) uniformemente sobre la base de la corteza.\n5. Verter la mezcla de carne en la corteza, distribuyéndola uniformemente.\n6. Cubrir con la taza restante de quesos combinados.\n7. Hornear a 375°F durante 25 minutos.",
+  "url": null
+}

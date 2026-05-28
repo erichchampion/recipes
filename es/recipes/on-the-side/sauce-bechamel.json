@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "sauce-bechamel",
+  "name": "Salsa Bechamel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "salsas londontowne",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de mantequilla (generosa)",
+    "1/2 cucharadita de harina",
+    "1 cucharadita de sal",
+    "1 cucharadita de pimienta",
+    "1 taza de leche",
+    "2 cucharadas de queso suizo rallado"
+  ],
+  "recipeInstructions": "1. En una olla, derrite la mantequilla a fuego medio.\n2. Agrega la harina y bate hasta obtener una mezcla suave.\n3. Añade la leche poco a poco mientras bates para evitar grumos.\n4. Incorpora la sal y la pimienta.\n5. Continúa cocinando hasta que la mezcla espese ligeramente.\n6. Retira del fuego y añade el queso suizo rallado hasta que se derrita.",
+  "url": null
+}

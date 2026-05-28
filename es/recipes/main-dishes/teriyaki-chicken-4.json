@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "teriyaki-chicken-4",
+  "name": "Pollo Teriyaki",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "asiático",
+    "pollo",
+    "étnico",
+    "japonés"
+  ],
+  "recipeIngredient": [
+    "1 taza de salsa de soja",
+    "1 cucharadita de ajo",
+    "1/4 taza de vino blanco",
+    "2/3 taza de azúcar",
+    "1 cucharadita de jengibre",
+    "piezas de pollo"
+  ],
+  "recipeInstructions": "1. Combinar la salsa de soja, el ajo, el vino blanco, el azúcar y el jengibre en un bol para hacer un adobo.\n2. Colocar las piezas de pollo marinadas sobre una bandeja para hornear forrada con papel aluminio.\n3. Asar bajo el grill durante unos 10 minutos por cada lado.\n4. Hornear a 350°F (175°C) durante media hora adicional.",
+  "url": null
+}

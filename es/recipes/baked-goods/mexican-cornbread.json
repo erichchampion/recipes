@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-cornbread",
+  "name": "Pan de Maíz Mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "panes con carnes rápidas"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "sal y pimienta al gusto",
+    "1 taza de cebolla picada",
+    "1/2 lb de queso americano rallado",
+    "3 pimientos jalapeños finamente picados",
+    "1 taza de maicena",
+    "3 huevos grandes",
+    "1/2 cucharadita de bicarbonato de sodio",
+    "3 cucharadas de grasas de tocino",
+    "1 taza de leche dulce",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Prepara la masa mezclando la maicena, huevos, bicarbonato de sodio, grasas de tocino, leche y sal. Mezcla bien.\n2. Dora la carne y escurre el exceso de grasa. Engrasa un molde para hornear de 9 x 13 pulgadas.\n3. Vierte la mitad de la masa en el molde y espolvorea con la carne, cebolla, pimientos y queso.\n4. Cubre con el resto de la masa. Hornea a 350°F durante unos 45 minutos.\n5. Sirve caliente.",
+  "url": null
+}

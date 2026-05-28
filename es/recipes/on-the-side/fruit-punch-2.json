@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-punch-2",
+  "name": "Ponche de Frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "frutas",
+    "bajo en calorías",
+    "ponche",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de jugo de piña sin azúcar",
+    "2 tazas de jugo de arándanos con gas",
+    "3/4 taza de jugo de naranja frío",
+    "3/4 taza de soda con gas fría",
+    "cubos de hielo",
+    "rebanadas de limón"
+  ],
+  "recipeInstructions": "1. Llena un bol de ponche con cubos de hielo.\n2. Vierte el jugo de naranja frío, el jugo de arándanos con gas y la soda con gas fría.\n3. Revuelve suavemente hasta que se combine.\n4. Adorna con rebanadas de limón justo antes de servir.",
+  "url": null
+}

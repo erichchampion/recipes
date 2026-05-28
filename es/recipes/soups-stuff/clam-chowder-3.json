@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "clam-chowder-3",
+  "name": "Sopa de almejas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "aperitivos",
+    "pescado",
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "1 litro de almejas al vapor con caparazón suave",
+    "1/4 libra de mantequilla",
+    "2 tazas de leche",
+    "3 papas medianas, cortadas en cubos",
+    "2 cucharadas de perejil picado"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una olla grande a fuego medio.\n2. Agrega la cebolla y cocina hasta que esté tierna pero sin dorar.\n3. Añade las papas a la olla y agrega suficiente agua para cubrírlas.\n4. Cocina las papas hasta que estén tiernas.\n5. Incorpora el perejil picado, sal y pimienta.\n6. Agrega las almejas con su jugo.\n7. Justo antes de servir, mezcla 2 tazas de leche y calienta suavemente sin llegar a hervir.",
+  "url": null
+}

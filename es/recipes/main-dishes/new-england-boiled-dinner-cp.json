@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "new-england-boiled-dinner-cp",
+  "name": "Cena Hervida de Nueva Inglaterra/cp",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pollo",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "3 libras de carne curada",
+    "6 zanahorias - cortadas en longitud",
+    "6 papas - cortadas en longitud",
+    "1 cabeza mediana de repollo",
+    "3 tazas de agua",
+    "6 nabos - cortados en cuartos"
+  ],
+  "recipeInstructions": "1. Coloca la carne curada y el agua en la olla de cocción lenta.\n2. Cubre y ajusta a calor alto.\n3. Cuando esté hirviendo con fuerza, reduce el calor a medio y continúa cocinando por 2.5 horas.\n4. Retira la carne de la olla.\n5. Agrega las papas, nabos, zanahorias y repollo a la olla.\n6. Coloca la carne sobre los vegetales.\n7. Cubre y ajusta a calor medio.\n8. Cocina hasta que la mezcla esté hirviendo con fuerza por 45 minutos.\n9. Se puede usar jamón en lugar de carne curada si se desea.",
+  "url": null
+}

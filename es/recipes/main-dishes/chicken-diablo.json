@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-diablo",
+  "name": "Pollo Diablo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "comida principal",
+    "carne",
+    "ave"
+  ],
+  "recipeIngredient": [
+    "6 pechugas de pollo enteras sin piel",
+    "4 cucharadas de margarina",
+    "1/2 taza de miel",
+    "1/4 taza de mostaza",
+    "1 cucharadita de polvo de curry"
+  ],
+  "recipeInstructions": "1. Derrite la margarina en una sartén pequeña.\n2. Agrega todas las especias y mezcla bien.\n3. Cubre el pollo completamente con la mezcla.\n4. Hornea a 375°F durante 1 hora.",
+  "url": null
+}

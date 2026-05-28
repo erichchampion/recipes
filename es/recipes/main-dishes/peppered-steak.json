@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "peppered-steak",
+  "name": "Steak con Pimienta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "entrada",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "6 filetes de res, de 2 pulgadas de grosor",
+    "pimienta negra - molida fresca",
+    "sal",
+    "1/4 taza de mantequilla",
+    "1/4 taza de aceite de oliva",
+    "1 cubo de caldo de pollo",
+    "3 onzas de agua",
+    "3 onzas de vino blanco seco",
+    "2 onzas de brandy"
+  ],
+  "recipeInstructions": "1. Presiona la pimienta molida fresca en ambos lados de los filetes usando un mortero y un pestillo para triturarlos groseramente.\n2. Sazona la carne con sal al gusto.\n3. Calienta la mantequilla y el aceite de oliva en una sartén grande hasta que esté caliente.\n4. Disuelve el cubo de caldo en el agua.\n5. Dora los filetes por ambos lados durante aproximadamente 5 minutos por lado, luego cocina por otros 5 minutos por cada lado.\n6. Transfiere la carne a un plato caliente.\n7. Añade el vino y el caldo a la sartén, removiendo para desglasar la sartén.\n8. Agrega el brandy y vierte la salsa sobre los filetes.\n9. Sirve inmediatamente.",
+  "url": null
+}

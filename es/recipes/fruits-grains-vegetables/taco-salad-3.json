@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-salad-3",
+  "name": "Ensalada de Tacos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "mexicana",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 lata grande de frijoles estilo ranch, escurridos",
+    "1 cabeza de lechuga, picada",
+    "1 lata de maíz dulce, escurrido",
+    "3 tomates medianos, cortados en trozos pequeños",
+    "1 manojo de cebollas verdes",
+    "1/2 libra de queso cheddar suave rallado",
+    "1 paquete de 6 onzas de totopos de maíz"
+  ],
+  "recipeInstructions": "1 Escurrir los frijoles y el maíz.\n2 Picar la lechuga.\n3 Cortar los tomates en trozos pequeños.\n4 Picar las cebollas.\n5 Rallar el queso y enfriar los primeros seis ingredientes.\n6 Antes de servir, agregar los totopos desmenuzados y cubrir con 1 botella de aderezo Catalina.",
+  "url": null
+}

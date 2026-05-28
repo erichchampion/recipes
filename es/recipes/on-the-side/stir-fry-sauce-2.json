@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "stir-fry-sauce-2",
+  "name": "Salsa para Saltear",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "acompañamientos",
+    "salteado"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de salsa de soja",
+    "2 cucharadas de vino de arroz o sake",
+    "1 cucharada de vinagre negro chino",
+    "salsa Worcestershire"
+  ],
+  "recipeInstructions": "1. Mezclar la salsa de soja, el vino y el vinagre.",
+  "url": null
+}

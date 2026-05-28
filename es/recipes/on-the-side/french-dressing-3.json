@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-dressing-3",
+  "name": "Aderezo Francés",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "aderezos",
+    "dip",
+    "acompañamiento"
+  ],
+  "recipeIngredient": [
+    "6 cucharadas de aceite Wesson",
+    "2 cucharadas de vinagre",
+    "1/2 cucharadita de sal",
+    "un toque de pimienta",
+    "un toque de pimentón"
+  ],
+  "recipeInstructions": "1. Combinar el aceite, el vinagre, la sal, el pimentón y la pimienta en ese orden.\n2. Remover bien después de cada adición.",
+  "url": null
+}

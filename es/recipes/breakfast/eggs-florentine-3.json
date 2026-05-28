@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "eggs-florentine-3",
+  "name": "Huevos Florentinos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 paquetes de espinacas congeladas picadas de 10 onzas",
+    "8 huevos pochados",
+    "1 taza de salsa Mornay",
+    "1/4 taza de queso Parmesano rallado"
+  ],
+  "recipeInstructions": "1. Cocinar las espinacas al vapor según las instrucciones del paquete. Escurrir bien y exprimir para eliminar el exceso de líquido.\n2. Pocharlos huevos.\n3. Colocar una capa de espinacas en un molde engrasado. Cubrir con los huevos pochados.\n4. Verter la salsa Mornay sobre todo y espolvorear con queso.\n5. Hornear a broil durante 5-10 minutos, o hasta que la parte superior esté dorada.",
+  "url": null
+}

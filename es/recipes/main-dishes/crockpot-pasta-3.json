@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-pasta-3",
+  "name": "Pasta en olla de cocción lenta",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "italiana",
+    "plato principal",
+    "cocción lenta"
+  ],
+  "recipeIngredient": [
+    "8 onzas de conchas pequeñas (cocidas)",
+    "8 onzas de queso mozzarella",
+    "8 onzas de queso provolone",
+    "1 libra de hamburguesa cocida",
+    "1 lata de setas",
+    "1 taza de crema agria",
+    "1 litro de salsa de espagueti"
+  ],
+  "recipeInstructions": "1. Mezcla la salsa, la hamburguesa, las conchas y las setas.\n2. Vierte la mitad de esta mezcla en la olla de cocción lenta.\n3. Agrega crema agria y rebanadas de provolone encima de la mezcla de carne.\n4. Espolvorea mozzarella rallada sobre la crema agria y el provolone.\n5. Vuelve a verter la mezcla de salsa restante en la olla.\n6. Cocina a fuego bajo durante 6-7 horas.",
+  "url": null
+}

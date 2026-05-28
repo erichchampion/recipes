@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pancakes-2",
+  "name": "Tortitas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "tortitas"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina de todo uso",
+    "1 cucharadita de polvo para hornear",
+    "1/4 cucharadita de bicarbonato de sodio",
+    "1 cucharada de azúcar"
+  ],
+  "recipeInstructions": "1. Mezcla los ingredientes secos en un bol grande.\n2. Agrega al menos 1 taza de agua, leche de soja u otro líquido hasta alcanzar la consistencia deseada. Más líquido para tortitas más delgadas.\n3. Opcionalmente, añade un chorrito de jugo de limón.\n4. Rocía una pequeña cantidad de spray antiadherente en la sartén entre cada tortita (sin aerosol) o unta muy ligeramente con aceite.",
+  "url": null
+}

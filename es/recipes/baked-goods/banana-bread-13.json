@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "banana-bread-13",
+  "name": "Pan de Plátano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "pasteles"
+  ],
+  "recipeIngredient": [
+    "2 tazas de Harina",
+    "1 taza de Azúcar",
+    "1/3 taza de Aceite",
+    "2 Huevos",
+    "1 cucharadita de Bicarbonato de Sodio",
+    "1 cucharadita de Extracto de Vainilla",
+    "1/2 cucharadita de Sal",
+    "4 Plátanos"
+  ],
+  "recipeInstructions": "1. Machaca los plátanos y mézclalos con los demás ingredientes.\n2. Hornea a 350°F durante 50 minutos.",
+  "url": null
+}

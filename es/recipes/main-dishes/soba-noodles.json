@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "soba-noodles",
+  "name": "Fideos Soba",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "fideos soba",
+    "caldo de alga kombu (seaweed stock)",
+    "salsa de soja oscura",
+    "mirin",
+    "azúcar",
+    "sal",
+    "garnicios opcionales: cebolletas, semillas de sésamo"
+  ],
+  "recipeInstructions": "1. Cocinar los fideos soba según las instrucciones del paquete hasta que estén al dente.\n2. Enjuagar los fideos cocidos con agua fría y escurrir bien en un colador o estopilla.\n3. Preparar la salsa de mojar mezclando el caldo de alga, salsa de soja oscura, mirin, azúcar y sal en una pequeña olla.\n4. Reducir la salsa a fuego lento hasta que espese ligeramente.\n5. Servir los fideos soba con la salsa de mojar, adornados con cebolletas o semillas de sésamo si se desea. ¡Disfrutar!",
+  "url": null
+}

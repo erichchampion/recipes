@@ -1,0 +1,35 @@
+{
+  "@type": "Recipe",
+  "identifier": "paella-stuffed-snapper",
+  "name": "Pescado relleno de paella",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "mariscos",
+    "pescado",
+    "plato principal de pescado tex-mex"
+  ],
+  "recipeIngredient": [
+    "1 Pescado (de 6 a 8 libras)",
+    "Jugo de limón",
+    "1/4 taza de margarina o mantequilla derretida",
+    "2 cucharadas de jugo de limón",
+    "1 gajo de limón",
+    "------------------------------",
+    "RELLENO DE PAELLA------------------------------",
+    "1/2 libra de salchicha chorizo picada",
+    "1 taza de cebolla picada (1 grande)",
+    "2 dientes de ajo finamente picados",
+    "2 chiles serrano sin semillas y picados",
+    "2 cucharadas de margarina o mantequilla",
+    "2 tazas de arroz cocido",
+    "1/4 taza de cilantro fresco picado",
+    "1/4 taza de salsa de tomate",
+    "1/4 cucharadita de azafrán molido",
+    "6 onzas de camarones medianos congelados cocidos"
+  ],
+  "recipeInstructions": "1. Utilice un pescado rojo de 6 a 8 libras, como snapper, cod o trucha de lago. Limpie y prepare el pescado.\n2. Los chiles serrano deben estar sin semillas y picados.",
+  "url": null
+}

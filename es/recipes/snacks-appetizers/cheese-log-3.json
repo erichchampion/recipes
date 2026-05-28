@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-log-3",
+  "name": "Rolo de Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "queso/huevos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de queso New York Sharp",
+    "1/2 lb de queso Pimento",
+    "1/2 lb de crema de queso",
+    "2 dientes de ajo",
+    "2 cucharaditas de salsa Worcestershire",
+    "1/4 cucharadita de pimienta roja",
+    "2 cucharadas de mayonesa",
+    "1/4 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Rallar los quesos.\n2. Mezclar todos los ingredientes en un bol y mezclar bien, luego enfriar durante unos 30 minutos.\n3. Dividir la mezcla en tres porciones iguales.\n4. Envolver cada porción en pimentón.\n5. El rollo se puede congelar para usar más tarde.",
+  "url": null
+}

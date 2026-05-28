@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "blueberry-sauce-2",
+  "name": "Salsa de Arándanos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "desayuno",
+    "frutas",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 taza de jugo de piña sin azúcar",
+    "4 cucharaditas de almidón de maíz",
+    "1 taza de arándanos, descongelados o frescos"
+  ],
+  "recipeInstructions": "1. Coloca el jugo en una cacerola con el almidón de maíz.\n2. Cocina, revolviendo hasta espesarse.\n3. Agrega los arándanos.\n4. Calienta a fuego lento y sirve caliente.",
+  "url": null
+}

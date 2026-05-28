@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "dog-cookies",
+  "name": "Galletas para Perros",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "perro",
+    "varias"
+  ],
+  "recipeIngredient": [
+    "1 taza de caldo de carne, pollo o vegetal",
+    "1 taza de pan rallado O harina de uso común",
+    "1 taza de harina de trigo integral o centeno",
+    "O otra harina oscura",
+    "1 taza de trigo bulgur",
+    "1/4 taza de leche en polvo sin grasa",
+    "1/2 cucharadita de sal",
+    "1 1/2 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Utilizar ciclo de masa.\n2. Estirar la masa hasta una grosor de 1/4 de pulgada.\n3. Cortar con cortadores de galletas o un cuchillo.\n4. Colocar en bandejas para hornear espolvoreadas con maicena.\n5. Cubrir con toallas de cocina limpias y dejar levar en lugar cálido durante unos 45 minutos.\n6. Hornear a 180 °C por 45 minutos.\n7. Una vez horneadas todas, apagar el horno y devolver las galletas al horno para que se endurezcan durante la noche.\n8. Guardar en un recipiente hermético.",
+  "url": null
+}

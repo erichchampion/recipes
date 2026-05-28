@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "brandy-sauce",
+  "name": "Salsa de Brandy",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 taza de agua",
+    "2 cucharadas de almidón de maíz",
+    "2 cucharadas de mantequilla",
+    "1/2 taza de azúcar",
+    "1 cucharadita de nuez moscada",
+    "1/4 taza de brandy",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. En un bol aparte, mezcla el almidón de maíz, el azúcar y la nuez moscada.\n2. Agrega esta mezcla gradualmente al agua hirviendo, removiendo hasta que se combine bien.\n3. Continúa cocinando a fuego lento durante 5 minutos.\n4. Incorpora la mantequilla, el brandy y el extracto de vainilla.\n5. Sirve caliente sobre pastel de carne o pan de jengibre.",
+  "url": null
+}

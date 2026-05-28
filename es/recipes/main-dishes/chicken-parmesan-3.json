@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-parmesan-3",
+  "name": "Pollo Parmesano",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de queso parmesano rallado",
+    "1/2 cucharadita de limón y pimienta",
+    "4 pechugas de pollo sin hueso ni piel en dos mitades",
+    "1 clara de huevo batida"
+  ],
+  "recipeInstructions": "1. En un bol poco profundo, mezclar el queso parmesano y la limón y pimienta.\n2. Sumergir cada mitad de pechuga de pollo en la clara de huevo batida.\n3. Cubrir el pollo con la mezcla de queso y limón.\n4. Calentar el horno a 400°F (200°C).\n5. Colocar el pollo sobre una rejilla y asar durante 8-10 minutos, o hasta que esté cocido por completo.\n6. Alternativamente, precalentar el horno a 400°F (200°C) y hornear el pollo destapado en un plato para hornear durante 11-17 minutos.",
+  "url": null
+}

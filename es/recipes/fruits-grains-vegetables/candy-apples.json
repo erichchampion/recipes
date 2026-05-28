@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "candy-apples",
+  "name": "Manzanas Carameladas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "manzanas",
+    "dulces",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "8 manzanas",
+    "8 palitos de helado",
+    "3 tazas de azúcar granulada",
+    "1 taza de agua",
+    "0.5 taza de jarabe de maíz",
+    "0.25 taza de dulces rojos calientes",
+    "0.5 cucharadita de colorante alimentario rojo"
+  ],
+  "recipeInstructions": "1. Inserta un palito de helado parcialmente a través del extremo del tallo de cada manzana.\n2. Prepara una bandeja para hornear con spray para cocinar y reserva.\n3. En una olla a fuego medio, combina el azúcar, el agua, el jarabe de maíz, los dulces y el colorante.\n4. Hierve sin revolver hasta que un termómetro de caramelo alcance 290°F (aproximadamente 20 minutos).\n5. Con un pincel mojado en agua, cepilla los lados de la olla para evitar quemaduras.\n6. Retira la mezcla del fuego y sumerge brevemente el fondo de la olla en agua fría para detener la cocción.\n7. Vierte cuidadosamente la olla, girando cada manzana en la mezcla para cubrirla uniformemente.\n8. Coloca las manzanas sobre la bandeja para hornear preparada para enfriar rápidamente antes de que la mezcla se endurezca.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegeburgers",
+  "name": "Hamburguesas vegetales",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "hamburguesas",
+    "plato principal",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "8 onzas de lentejas verdes",
+    "3 zanahorias medianas",
+    "1 cebolla",
+    "1 diente de ajo",
+    "1 onza de perejil (se puede omitir o usar cilantro)",
+    "1 huevo",
+    "especias al gusto",
+    "un poco de harina integral para empanizar (opcional)"
+  ],
+  "recipeInstructions": "1. Cocinar las lentejas en agua durante 20 minutos, luego escurrir y machacarlas suavemente para que algunas queden enteras.\n2. Mientras se cocinan las lentejas, pelar y rallar las zanahorias. Hacer migas el pan. Picar finamente la cebolla, el perejil y el ajo.\n3. Mezclar las zanahorias ralladas, las migas de pan, la cebolla picada, el perejil y el ajo machacado con las lentejas machacadas y las especias. Agregar el huevo para unir todo.\n4. Formar la mezcla en hamburguesas o albóndigas. Opcionalmente, empanizarlas con harina.\n5. Cocinar bajo el grill (parrilla) durante 5 minutos por cada lado.\nInstrucciones de la salsa:\n1. Microondas la cebolla y el ajo durante unos 3 minutos.\n2. Transferir a una sartén con puré de tomate, remover, agregar los tomates enlatados y agua. Condimentar.\n3. Llevar a ebullición y reducir a fuego lento por unos 15 minutos. Si está demasiado líquida, hervir más fuerte para reducir hasta alcanzar la consistencia deseada, considerando que el arroz la humedecerá.\nSugerencias de servicio:\nServir con arroz marrón, salsa de tomate y ensalada verde. Alternativamente, servir en panecillos con encurtidos.",
+  "url": null
+}

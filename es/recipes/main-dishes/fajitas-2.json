@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "fajitas-2",
+  "name": "Fajitas",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "mexicano",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de pechuga de pollo sin hueso",
+    "2 dientes de ajo",
+    "2 pimientos jalapeño",
+    "1/2 taza de aceite de oliva",
+    "1/3 taza de jerez seco",
+    "1 cucharada de polvo de chile",
+    "2 cucharaditas de comino molido"
+  ],
+  "recipeInstructions": "1. Cortar la pechuga de pollo en tiras largas y de medio centímetro de ancho.\n2. Para hacer el adobo, picar finamente los dientes de ajo y los pimientos jalapeño usando un procesador de alimentos con la cuchilla de picar en su lugar y el motor encendido hasta que quede suave (aproximadamente 10 segundos).\n3. Agregar los ingredientes restantes al procesador de alimentos y procesar hasta obtener una mezcla suave (otros 10 segundos).\n4. Verter el adobo sobre el pollo y dejar marinar por 2 horas a temperatura ambiente o durante la noche en el refrigerador, volteando ocasionalmente.\n5. Precalentar la parrilla del horno.\n6. Escurrir el pollo, reservando el adobo.\n7. Colocar el pollo en una rejilla sobre una bandeja para hornear y asar a 3 pulgadas de la fuente de calor durante 5 minutos, dar vuelta y untar con adobo. Continuar asando por otros 5 minutos.\n8. Servir con tortillas calientes, lechuga picada, queso rallado, tomates picados y salsa verde.",
+  "url": null
+}

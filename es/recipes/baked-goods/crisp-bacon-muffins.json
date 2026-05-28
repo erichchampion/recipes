@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "crisp-bacon-muffins",
+  "name": "Muffins de tocino crujiente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "muffins"
+  ],
+  "recipeIngredient": [
+    "8 rebanadas de tocino",
+    "1 1/3 tazas de harina para pastel",
+    "1 1/2 cucharaditas de azúcar",
+    "1 pizca de sal",
+    "2 1/2 cucharaditas de polvo de hornear",
+    "1 huevo",
+    "3/4 taza de leche",
+    "1 cucharada de grasa de tocino"
+  ],
+  "recipeInstructions": "1. Cocinar el tocino hasta que esté crujiente, luego picarlo finamente.\n2. Tamizar juntos la harina, el azúcar, la sal y el polvo de hornear.\n3. Agregar el tocino picado a los ingredientes secos tamizados.\n4. En un bol aparte, batir el huevo, la leche y la grasa de tocino hasta que estén bien combinados.\n5. Verter la mezcla húmeda en moldes para muffins engrasados, llenando cada uno aproximadamente un tercio.\n6. Hornear en un horno caliente (425°F) durante 15-20 minutos.",
+  "url": null
+}

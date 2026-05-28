@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "ham-salad-2",
+  "name": "Ensalada de Jamón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "cerdo",
+    "ensaladas",
+    "comida tradicional"
+  ],
+  "recipeIngredient": [
+    "2 tazas de mayonesa (marca Hellmann's)",
+    "1 taza de encurtidos dulces",
+    "2 cucharaditas de sal",
+    "1/2 cucharadita de pimienta negra molida",
+    "2 libras de jamón ahumado sin hueso (aproximadamente 6 tazas en cubos)",
+    "1 cebolla mediana (picada finamente, aproximadamente 1/2 taza)",
+    "1 pimiento verde (desvenado y sin semillas, aproximadamente 1 taza en cubos)",
+    "2 tallos de apio (picados finamente, aproximadamente 1 taza)"
+  ],
+  "recipeInstructions": "1. Mezcla la mayonesa, el encurtido, la sal y la pimienta en un bol grande hasta que quede bien combinado.\n2. Agrega los ingredientes restantes y revuelve hasta que estén cubiertos.\n3. Guarda la ensalada, cubierta, en el refrigerador.",
+  "url": null
+}

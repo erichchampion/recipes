@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "peanut-burgers",
+  "name": "Hamburguesas de Maní",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "plato principal",
+    "vegano"
+  ],
+  "recipeIngredient": [
+    "6 cucharadas de mantequilla o margarina vegana",
+    "1 cebolla -- pelada y picada",
+    "1 tallo de apio -- finamente picado",
+    "1 cucharadita de hierbas de Provenza secas",
+    "1 cucharada de harina de trigo integral",
+    "1/2 taza de caldo vegetal ligero (medida generosa)",
+    "1 cucharada de salsa de soja",
+    "1 cucharadita de extracto de levadura",
+    "1 taza de maní tostado sin sal (muy finamente molido)",
+    "1/2 taza de anacardos (escasos) -- finamente molidos",
+    "2/3 taza de migas de pan frescas (trigo integral)",
+    "sal",
+    "pimienta negra molida fresca",
+    "migas de pan secas para empanizar",
+    "aceite -- para freír en sartén poco profunda"
+  ],
+  "recipeInstructions": "------------------------\nLechuga en hojas\nRodajas de tomate\nRodajas de pepino\nDerretir la mantequilla o margarina vegana en una cacerola grande y saltear la cebolla y el apio durante 10 minutos. Agregar las hierbas y la harina, cocinar por 1-2 minutos más. Incorporar el caldo y remover hasta espesar, luego añadir la salsa de soja, el extracto de levadura, los frutos secos, las migas de pan y la sal y pimienta. Dejar enfriar la mezcla, luego formar 6 hamburguesas planas de 1/2 pulgada de grosor y empanizarlas con migas de pan secas. Freír las hamburguesas en un poco de aceite -- la sartén debe estar ligeramente engrasada -- durante unos 3 minutos por cada lado, hasta que estén doradas y crujientes. Escurrir sobre toallas de papel. Adornar y servir.",
+  "url": null
+}

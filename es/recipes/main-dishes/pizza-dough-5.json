@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-dough-5",
+  "name": "Masa de Pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "masa",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina de todo uso",
+    "1 cucharadita de azúcar",
+    "1 sobre de levadura seca activa",
+    "1/2 taza de agua tibia (aproximadamente 110°F)",
+    "2 cucharadas de aceite de oliva",
+    "sal al gusto"
+  ],
+  "recipeInstructions": "1. En un bol grande, mezcla la harina y la sal.\n2. Haz un hueco en el centro y agrega el azúcar, la levadura y el agua tibia.\n3. Revuelve hasta combinar, luego añade el aceite de oliva.\n4. Amasa la masa sobre una superficie enharinada durante unos 10 minutos hasta que quede suave.\n5. Coloca la masa en un bol engrasado, cubre y deja levar en un lugar cálido por al menos 1 hora o hasta que doble su tamaño.\n6. Desinfla la masa, divídela en cuatro porciones, forma bolas y déjalas reposar durante otros 10 minutos.\n7. Estira cada bola en una pizza de 12 pulgadas sobre una superficie enharinada.\n8. Deja levar las pizzas formadas brevemente antes de hornearlas según tu método preferido.",
+  "url": null
+}

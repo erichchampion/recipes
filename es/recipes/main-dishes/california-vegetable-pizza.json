@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "california-vegetable-pizza",
+  "name": "Pizza de Verduras de California",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panadería",
+    "plato principal",
+    "pizza",
+    "vegetariana"
+  ],
+  "recipeIngredient": [
+    "1 bola de masa de pizza integral (ver receta)",
+    "1/2 taza de salsa de pizza (ver receta)",
+    "1/2 taza de brócoli al vapor ligero",
+    "1/2 taza de corazones de artichoke picados",
+    "1/4 taza de aceitunas en rodajas",
+    "1 tomate en rodajas",
+    "6 anillos de pimiento verde"
+  ],
+  "recipeInstructions": "1 Precalentar el horno a 500°F y engrasar una bandeja para pizza de 30 cm.\n2 Colocar la masa sobre una superficie ligeramente enharinada y presionar para aplanarla. Estirar la masa hasta formar un círculo de 30 cm, colocar en la bandeja y sellar los bordes para hacer un borde.\n3 Extender la salsa sobre la masa, dejando aproximadamente 1 cm cerca del borde. Disponer las verduras sobre la salsa, colocando los tomates y pimientos al final.\n4 Hornear hasta que la corteza esté marrón y crujiente, aproximadamente 15 minutos. Retirar del horno y dejar enfriar durante 5 minutos. Cortar y servir caliente.",
+  "url": null
+}

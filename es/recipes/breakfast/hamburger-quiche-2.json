@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-quiche-2",
+  "name": "Quiche de Hamburguesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "carne de res",
+    "cazuelas",
+    "tartas para la cena",
+    "jamón",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1 cebolla mediana; picada",
+    "1/2 lb de setas; en rodajas",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "1 cucharadita de salsa Worcestershire",
+    "2 cucharadas de mezcla para galletas",
+    "concha de masa para pasteles de 9 pulgadas",
+    "3 huevos",
+    "1 taza de queso cottage cremoso"
+  ],
+  "recipeInstructions": "1. Saltear la carne molida, la cebolla y 2/3 de las setas en una sartén hasta que la carne esté bien dorada. Escurrir el exceso de grasa.\n2. Agregar sal, pimienta, salsa Worcestershire y mezcla para galletas a la mezcla de carne. Extender en un molde forrado con masa.\n3. Batir los huevos ligeramente, agregar el queso cottage y mezclar bien. Verter sobre la mezcla de carne.\n4. Decorar con las setas restantes.\n5. Hornear en horno a 175°C durante 30 minutos. Servir la quiche caliente.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-sauce",
+  "name": "Salsa Blanca",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de harina",
+    "2 cucharadas de mantequilla",
+    "1 taza de leche",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta"
+  ],
+  "recipeInstructions": "1. En un bol, bate la harina, la sal y la pimienta con la leche hasta obtener una mezcla suave.\n2. Coloca la mezcla en el recipiente superior de un baño maría a fuego bajo.\n3. Agrega la mantequilla a la mezcla mientras bates continuamente.\n4. Calienta lentamente, continuando con la mezcla, hasta que la salsa se caliente por completo durante unos 2 minutos.",
+  "url": null
+}

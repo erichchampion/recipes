@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "russian-tea-3",
+  "name": "Té Ruso",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "acompañamientos",
+    "té"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de té negro",
+    "4 tazas de agua hirviendo",
+    "1 taza de azúcar",
+    "Jugo de 4 limones"
+  ],
+  "recipeInstructions": "1. Verter agua hirviendo sobre el té negro.\n2. Agregar azúcar y jugo de limón.\n3. Dejar reposar por 2 horas.\n4. Colar a través de un paño.\n5. Añadir hielo y servir.",
+  "url": null
+}

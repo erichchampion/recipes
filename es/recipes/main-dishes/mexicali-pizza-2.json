@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexicali-pizza-2",
+  "name": "Pizza Mexicali",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "mexicano",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "2 tortillas de harina de 9 pulgadas",
+    "2 tazas de queso Monterey Jack",
+    "1 lata de VEG-ALL Vegetales Mezclados, escurridos (16 onzas)",
+    "1 taza de tomate picado",
+    "1/2 taza de cebolla verde finamente picada",
+    "1/2 taza de pimiento verde finamente picado",
+    "3 cucharadas de chiles verdes suaves",
+    "1/4 taza de aceitunas rebanadas"
+  ],
+  "recipeInstructions": "1. Coloca las tortillas en una bandeja para hornear ligeramente engrasada.\nEspolvorea una tortilla con 1/2 taza de queso; tapa con la mitad de los VEG-ALL, tomate, cebolla, pimiento y chiles.\n2. Espolvorea con 1/2 taza de queso y tapa con la mitad de las aceitunas.\n3. Repite el procedimiento con la segunda tortilla.\n4. Hornea a 425°F durante aproximadamente 10-12 minutos, hasta que el queso se derrita y las tortillas estén crujientes.",
+  "url": null
+}

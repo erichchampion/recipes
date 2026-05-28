@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "dave-s-meat-loaf",
+  "name": "Loaf de Carne de Dave",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida extra magra",
+    "1/4 libra de salchicha",
+    "1/4 taza de cerveza oscura",
+    "1 huevo",
+    "2 rebanadas de pan, desmenuzadas en migas suaves",
+    "1 cebolla picada",
+    "3 cucharadas de perejil picado",
+    "1/2 cucharadita de pimienta negra molida",
+    "pocas gotas de salsa Worcestershire y salsa Tabasco"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Dar forma suavemente a la mezcla en un pan redondo.\n3. Colocar el pan sobre un soporte en la olla de cocción lenta.\n4. Cubrir y cocinar a fuego lento durante aproximadamente 7 u 8 horas.\n5. Servir con salsa de tomate o salsa chili.\n6. Enfriar los sobras y rebanar para hacer sándwiches al día siguiente.\nLa mayoría de sopas y guisos se pueden preparar en una olla de cocción lenta. Solo disminuye los ingredientes líquidos (ya que menos líquido se evaporará de una olla cerrada) y déjalo cocinar durante 6 horas o más.",
+  "url": null
+}

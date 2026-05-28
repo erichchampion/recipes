@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "spritzer",
+  "name": "Spritzer",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "bebidas al lado",
+    "comida ligera"
+  ],
+  "recipeIngredient": [
+    "2 oz de vino blanco, frío",
+    "6 oz de agua tónica",
+    "cubos de hielo"
+  ],
+  "recipeInstructions": "1. Llena un vaso alto con cubos de hielo.\n2. Añade el vino blanco al vaso.\n3. Llena el vaso con agua tónica.\n4. Revuelve suavemente.",
+  "url": null
+}

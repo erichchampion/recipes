@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-roast-chicken",
+  "name": "Pollo asado con limón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves"
+  ],
+  "recipeIngredient": [
+    "2 limones",
+    "1 pollo de 1,5 a 2 kg, enjuagado y secado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 175 °C.\n2. Lavar y secar el pollo. Hacer agujeros en cada limón y rellenar la cavidad del pollo.\n3. Atar o sujetar firmemente el pollo.\n4. Colocar el pollo sobre una rejilla, con el pecho hacia abajo.\n5. Hornear durante 25 minutos.\n6. Darle la vuelta al pollo y hornear por otros 25 minutos.\n7. Aumentar la temperatura del horno a 200 °C y continuar asando durante 25 minutos adicionales, o hasta que los jugos salgan claros.\n8. Transferir el pollo a un plato y retirar cualquier cuerda.\n9. Dejar reposar el pollo de 5 a 15 minutos antes de cortarlo.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "funnel-cake",
+  "name": "Pastel de Tubo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de harina",
+    "1/4 cucharadita de sal",
+    "1/2 cucharadita de bicarbonato de sodio",
+    "1/2 taza de azúcar",
+    "1/2 cucharadita de polvo para hornear",
+    "1 huevo batido",
+    "2/3 taza de leche",
+    "azúcar en polvo"
+  ],
+  "recipeInstructions": "Combina los ingredientes secos en un bol: 3/4 taza de harina, 1/4 cucharadita de sal, 1/2 cucharadita de bicarbonato de sodio y 1/2 taza de azúcar.\nEn otro bol, bate juntos 1 huevo y 2/3 taza de leche.\nIncorpora los ingredientes húmedos a los secos hasta obtener una mezcla suave.\nCalienta aceite para cocinar en una sartén o plancha a 375°F (190°C).\nUsa un tubo limpio, tapando la punta pequeña con tu dedo. Vierte la masa por el agujero directamente al aceite caliente.\nMueve suavemente tu mano alejándote de la abertura, permitiendo que la masa fluya hacia el aceite y forme patrones.\nFríe durante aproximadamente 1-2 minutos o hasta que esté dorado.\nRetira con dos espátulas y escurre sobre toallas de papel.\nEspolvorea con azúcar en polvo y sirve inmediatamente.",
+  "url": null
+}

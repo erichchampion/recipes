@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-and-lentil-stew",
+  "name": "Estofado de Carne y Lentejas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne",
+    "carne molida",
+    "sopas",
+    "sopas/estofados",
+    "estofados",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida magra",
+    "1/2 taza de cebolla; picada",
+    "1 diente de ajo; picado",
+    "4 onzas de tallos y trozos de setas",
+    "1 tallo de apio; en rodajas",
+    "1 zanahoria grande; en rodajas",
+    "1 taza de lentejas; crudas",
+    "3 tazas de agua",
+    "1/4 taza de vino tinto; opcional",
+    "1 hoja de laurel",
+    "1 cucharadita de sal",
+    "1 cucharadita de caldo de carne instantáneo",
+    "1/4 cucharadita de pimienta",
+    "2 cucharadas de perejil; picado"
+  ],
+  "recipeInstructions": "1. Cocinar y revolver la carne, la cebolla y el ajo en una olla holandesa hasta que la carne esté marrón.\n2. Escurrir cualquier grasa excesiva.\n3. Incorporar las setas escurridas y los ingredientes restantes.\n4. Llevar a ebullición, luego reducir el calor, tapar y cocinar a fuego lento, revolviendo ocasionalmente, hasta que las lentejas estén tiernas (aproximadamente 40 minutos).\n5. Retirar la hoja de laurel antes de servir.",
+  "url": null
+}

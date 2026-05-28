@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "garlic-roasted-chicken",
+  "name": "Pollo asado con ajo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pollo",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "5 libras de pollo para asar",
+    "Sal",
+    "Pimienta",
+    "Pimentón",
+    "5 dientes de ajo machacados",
+    "1/4 libra de mantequilla dulce",
+    "1/2 taza de caldo de pollo"
+  ],
+  "recipeInstructions": "1. Espolvorea el pollo, por dentro y por fuera, con sal, pimienta y pimentón.\n2. Extiende la mitad del ajo machacado uniformemente en la cavidad y el resto sobre la superficie del ave.\n3. Coloca el pollo en la olla de cocción lenta.\n4. Agrega unas patadas de mantequilla dulce alrededor del pollo.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-marsala",
+  "name": "Pollo Marsala",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves"
+  ],
+  "recipeIngredient": [
+    "4 mitades de pechuga de pollo sin hueso",
+    "harina",
+    "3 cucharadas de mantequilla",
+    "2 cucharadas de chalotas picadas",
+    "1/2 taza de vino Marsala",
+    "1/4 taza de agua",
+    "1 cucharada de perejil",
+    "1/4 cucharadita de romero",
+    "1/8 cucharadita de sal"
+  ],
+  "recipeInstructions": "Golpea las mitades de pechuga de pollo hasta que tengan 0.6 cm de grosor. Pasa por harina. En una sartén grande, derrite 3 cucharadas de mantequilla. Agrega el pollo y cocina hasta que esté dorado por ambos lados. Retira a un plato para servir. Añade las chalotas a la sartén y cocina hasta que estén tiernas. Incorpora vino Marsala, agua, perejil, romero y sal. Cocina removiendo para desglasar la sartén. Devuelve el pollo a la sartén. Cocina removiendo una vez hasta que ambos lados estén glaseados y la salsa espese.",
+  "url": null
+}

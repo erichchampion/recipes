@@ -1,0 +1,17 @@
+{
+  "@type": "Recipe",
+  "identifier": "fancy-green-beans",
+  "name": "Frijoles Verdes Elegantes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "vegetales"
+  ],
+  "recipeIngredient": [
+    "400 g de frijoles verdes cortados en forma francesa",
+    "100 g de chicharrones de agua, escurridos y rebanados",
+    "1 taza de setas rebanadas"
+  ],
+  "recipeInstructions": "1. Cocinar los frijoles verdes según las instrucciones del paquete.\n2. Agregar los chicharrones de agua y las setas cocidas a los frijoles verdes.\n3. Sazonar con pimienta al gusto.",
+  "url": null
+}

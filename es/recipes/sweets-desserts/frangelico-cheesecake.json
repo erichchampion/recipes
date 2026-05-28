@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "frangelico-cheesecake",
+  "name": "Cheesecake de Frangelico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "tarta",
+    "tartas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "32 oz de queso crema",
+    "3 huevos",
+    "3/4 taza de azúcar",
+    "1 cucharada de vainilla",
+    "1/2 taza de Frangelico",
+    "crostal de galletas Graham"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta obtener una consistencia homogénea.\n2. Verter la mezcla en una base de masa o en un crustal de galletas Graham presionado en un molde desmontable.\n3. Precalentar el horno a 350°F (175°C).\n4. Hornear durante 40-50 minutos.\n5. Enfriar antes de servir.",
+  "url": null
+}

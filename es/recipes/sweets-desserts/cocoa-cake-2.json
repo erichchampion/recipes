@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cocoa-cake-2",
+  "name": "Pastel de Cacao",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3 tazas Harina",
+    "6 cucharadas Cacao en polvo",
+    "2 cucharaditas Bicarbonato de sodio",
+    "2 cucharaditas Extracto de vainilla",
+    "2 cucharadas Vinagre",
+    "2 tazas Azúcar",
+    "1 cucharadita Sal",
+    "3/4 taza Aceite vegetal",
+    "2 tazas Agua"
+  ],
+  "recipeInstructions": "1. Tamizar los ingredientes secos (harina, cacao en polvo, bicarbonato de sodio y sal) en un bol grande.\n2. En otro bol, batir juntos los ingredientes restantes (extracto de vainilla, vinagre, azúcar, aceite vegetal y agua).\n3. Verter los ingredientes húmedos sobre los secos y mezclar hasta que queden bien integrados.\n4. Verter la masa en un molde para pastel de 23 cm sin engrasar.\n5. Hornear en horno precalentado a 180°C durante 55-65 minutos.\n6. Apagar el calor y dejar enfriar el pastel antes de servir.",
+  "url": null
+}

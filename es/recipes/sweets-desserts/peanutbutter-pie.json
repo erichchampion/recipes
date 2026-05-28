@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "peanutbutter-pie",
+  "name": "Tarta de Maní",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 masa de tarta de 23 cm horneada",
+    "1/4 cucharadita de sal",
+    "1 taza de azúcar en polvo",
+    "2 tazas de leche escaldada",
+    "1/2 taza de mantequilla de maní (a su gusto)",
+    "3 yemas de huevo batidas",
+    "1/4 taza de almidón de maíz",
+    "2 cucharadas de margarina",
+    "2/3 taza de azúcar",
+    "1/4 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Mezcla el azúcar en polvo con la mantequilla de maní hasta obtener una consistencia homogénea.\n2. Extiende 3/4 de esta mezcla sobre la base de la tarta horneada.\n3. En un bol aparte, combina el almidón de maíz, el azúcar y la sal. Agrega gradualmente la leche escaldada y mezcla bien.\n4. Cocina la mezcla a fuego lento en un baño maría hasta que espese. Añade la margarina y la vainilla, luego viértela sobre la base de la tarta horneada.\n5. Puedes preparar merengue con las claras de huevo restantes, pero mi familia prefiere el aderezo batido. Espolvorea la mezcla de maní restante sobre el aderezo.",
+  "url": null
+}

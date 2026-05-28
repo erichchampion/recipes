@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pancakes-3",
+  "name": "Tortitas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "tortitas"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina (harina de masa integral)",
+    "1/2 taza de yogur sin grasa",
+    "1/2 taza de leche descremada",
+    "1 cucharadita de polvo para hornear",
+    "1 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de sal (opcional)",
+    "1 cucharada de azúcar (opcional)",
+    "2 claras de huevo batidas firmemente"
+  ],
+  "recipeInstructions": "1. En un bol grande, combina los ingredientes secos: 1 taza de harina, 1 cucharadita de polvo para hornear, 1 cucharadita de bicarbonato de sodio y 1 cucharadita de sal.\n2. Agrega 1/2 taza de yogur sin grasa y 1/2 taza de leche descremada a los ingredientes secos. Mezcla hasta combinar justo.\n3. Incorpora suavemente las claras de huevo batidas firmemente con un tenedor o batidor.\n4. Calienta una plancha caliente antiadherente o una sartén rociada con spray de shortening.\n5. Vierte aproximadamente 1/4 taza de masa sobre la plancha para cada tortita.\n6. Cocina hasta que formen burbujas en la superficie y los bordes estén firmes, aproximadamente 2-3 minutos.\n7. Voltea las tortitas y cocina el otro lado hasta que estén doradas, aproximadamente 2 minutos más.\n8. Retira del fuego y sirve inmediatamente.",
+  "url": null
+}

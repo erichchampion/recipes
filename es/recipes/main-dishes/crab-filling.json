@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "crab-filling",
+  "name": "Relleno de Cangrejo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "mantequilla o margarina",
+    "cebolla verde picada",
+    "2 libras de carne de cangrejo fresca en trozos",
+    "al gusto sal",
+    "pimienta blanca al gusto",
+    "polvo de ajo (opcional)",
+    "vermut seco"
+  ],
+  "recipeInstructions": "1. Derretir la mantequilla en una sartén a fuego medio.\n2. Incorporar la cebolla verde picada y cocinar hasta que desprenda su aroma.\n3. Agregar la carne de cangrejo y sazonar con sal y pimienta blanca al gusto.\n4. Si se usa polvo de ajo, incorporarlo en esta etapa.\n5. Verter el vermut seco y remover rápidamente hasta que el líquido se evapore casi por completo.\n6. Retirar del fuego y transferir la mezcla a un bol.",
+  "url": null
+}

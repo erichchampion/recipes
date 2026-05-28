@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "peach-melba-dessert",
+  "name": "Postre de Melba de Durazno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de duraznos, rebanados (pelados)",
+    "2 tazas de frambuesas, frescas o congeladas",
+    "3/4 taza de azúcar",
+    "2 cucharadas de agua",
+    "Helado - Vainilla"
+  ],
+  "recipeInstructions": "1. En una olla, llevar a ebullición los duraznos, frambuesas, azúcar y agua.\n2. Reducir el fuego y cocinar a fuego lento durante 5 minutos.\n3. Enfriar si se desea.\n4. Servir sobre helado.",
+  "url": null
+}

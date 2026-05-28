@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "farmer-s-breakfast",
+  "name": "Desayuno del Granjero",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1/2 libra de tocino, picado",
+    "2 papas cocidas, peladas y cortadas en cubos",
+    "1 cebolla, rebanada finamente",
+    "8 huevos, ligeramente batidos",
+    "sal",
+    "pimienta negra"
+  ],
+  "recipeInstructions": "1. Cocinar el tocino hasta que esté crujiente. Retirar del sartén y escurrir sobre papel toalla.\n2. Escurrir todo el aceite excepto 3 cucharadas.\n3. Saltear las cebollas en el aceite de tocino restante hasta que estén suaves.\n4. Agregar las papas a la sartén y cocinar, revolviendo con frecuencia, hasta que comiencen a dorarse.\n5. Si las papas se pegan a la sartén, agregar más aceite de tocino si es necesario.\n6. Cuando las papas empiecen a dorarse, devolver el tocino y los huevos a la sartén.\n7. Cocinar, revolviendo constantemente, hasta que los huevos estén cuajados.\n8. Sazonar con sal y pimienta al gusto.",
+  "url": null
+}

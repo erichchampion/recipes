@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "avocado-soup",
+  "name": "Sopa de Aguacate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "aperitivos",
+    "sopas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 aguacates grandes",
+    "2 tazas de caldo de pollo",
+    "sal, pimienta",
+    "2 tazas de crema batida",
+    "2 cucharadas de coñac",
+    "2 cucharadas de jerez",
+    "tazas de cáscara de aguacate congelada"
+  ],
+  "recipeInstructions": "1. Pelar los aguacates y picar la pulpa.\n2. Licuar la pulpa en un recipiente con el caldo de pollo.\n3. Sazonar al gusto con sal y pimienta.\n4. Agregar gradualmente la crema batida.\n5. Enfriar.\n6. Añadir el coñac y el jerez justo antes de servir.\nNota: Para hacer tazas de cáscara de aguacate congelada para la sopa, cortar una rodaja del extremo del tallo del aguacate. Sacar la pulpa y descartar la semilla. Reservar la tapa. Usar la pulpa para la sopa o licuar con un poco de jugo de limón y congelar para uso futuro. Colocar la cáscara en pie en una taza o cartón para huevos. Congelar hasta que esté firme. Para servir, incrustar la cáscara de aguacate en hielo triturado en un postre o bol de sopa. Cuidadosamente verter la sopa y colocar la tapa contra el lado del aguacate.",
+  "url": null
+}

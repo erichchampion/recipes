@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-dip-2",
+  "name": "Dip de Queso Picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempiés",
+    "texmex"
+  ],
+  "recipeIngredient": [
+    "1 frasco de salsa picante estilo rústica",
+    "1 lb de Velveeta",
+    "leche condensada o leche dulce"
+  ],
+  "recipeInstructions": "1. Cortar la Velveeta en cubos y derretirla en un baño maría a fuego bajo.\n2. Agregar la salsa picante a la queso derretido.\n3. Revolver hasta que el queso esté completamente derretido y la salsa bien mezclada.\n4. Añadir gradualmente leche condensada o dulce, ajustando según sea necesario para obtener la consistencia deseada para sumergir.\n5. Si es necesario, agregar más Velveeta antes de incorporar la leche.\n6. Servir el dip con nachos, tostadas, hamburguesas o sobre papas fritas.",
+  "url": null
+}

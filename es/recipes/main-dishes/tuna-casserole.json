@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tuna-casserole",
+  "name": "Cazuela de Atún",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lata de sopa de champiñones con crema",
+    "1/4 taza de agua",
+    "3 onzas de fideos chow mein enlatados",
+    "1 lata de atún",
+    "1 taza de brotes de soja",
+    "1 taza de anacardos salados picados",
+    "1/4 taza de cebolla picada",
+    "1 taza de naranjas mandarina"
+  ],
+  "recipeInstructions": "1. Mezcla la sopa de champiñones con crema y el agua.\n2. Agrega los demás ingredientes, reservando unos pocos fideos para decorar.\n3. Vierte en un recipiente para hornear enmantequillado.\n4. Cubre con los fideos reservados.\n5. Hornea a 180 °C durante 20-30 minutos.",
+  "url": null
+}

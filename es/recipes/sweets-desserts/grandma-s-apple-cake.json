@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "grandma-s-apple-cake",
+  "name": "Pastel de Manzana de la Abuela",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "3 tazas de harina sin blanquear",
+    "1 cucharadita de canela",
+    "2 tazas de azúcar",
+    "1 cucharadita de bicarbonato de sodio",
+    "1 taza de huevos batidos",
+    "4 tazas de manzanas picadas",
+    "1 taza de nueces picadas (pecán, nuez)",
+    "1 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes secos.\n2. Agregar los huevos y el aceite; mezclar bien sin sobrebatir.\n3. Incorporar las manzanas y las nueces.\n4. Verter la masa en un molde para pastel o para pastel de tubo sin engrasar.\n5. Hornear a 175 °C durante 1 a 1 hora y 15 minutos, hasta que esté listo.\n6. Enfriar completamente.\n7. Espolvorear con azúcar glas antes de servir.",
+  "url": null
+}

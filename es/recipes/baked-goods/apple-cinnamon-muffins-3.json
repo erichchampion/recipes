@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-cinnamon-muffins-3",
+  "name": "Muffins de Manzana y Canela",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "niños",
+    "muffins",
+    "rápidos"
+  ],
+  "recipeIngredient": [
+    "1 huevo",
+    "2 tazas de mezcla para pasteles Bisquick",
+    "3/4 taza de manzana picada",
+    "1/3 taza de azúcar",
+    "2/3 taza de leche",
+    "2 cucharadas de aceite",
+    "2 cucharaditas de canela"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 400 °F (200 °C).\n2. Enmantequillar solo la base de 12 moldes para muffins medianos.\n3. Batir ligeramente el huevo y mezclarlo con los ingredientes restantes hasta que estén apenas húmedos.\n4. Dividir la masa en partes iguales entre los moldes.\n5. Hornear durante 15-17 minutos, o hasta que estén dorados.",
+  "url": null
+}

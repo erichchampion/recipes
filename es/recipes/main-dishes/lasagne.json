@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "lasagne",
+  "name": "Lasaña",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne molida",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 libra de tallos de lasaña",
+    "1 cucharada de perejil",
+    "1 1/2 libras de carne molida",
+    "un toque de canela",
+    "2 libras de ricota",
+    "un toque de nuez moscada",
+    "2 tazas de queso mozzarella rallado",
+    "1/2 taza de queso parmesano rallado",
+    "3 huevos",
+    "1 litro de salsa para espagueti"
+  ],
+  "recipeInstructions": "1. Cocinar los tallos de lasaña según las instrucciones del paquete.\n2. Dorar la carne molida en una sartén hasta que ya no sea rosada. Retirar del fuego y reservar.\n3. En un bol, mezclar la ricota con 1 cucharada de perejil, un toque de nuez moscada, un toque de canela y 3 huevos.\n4. Precalentar el horno a 375°F (190°C).\n5. Cubrir el fondo de un molde para hornear con una capa de salsa para espagueti.\n6. Extender una capa de tallos de lasaña sobre la salsa.\n7. Esparcir la mitad de la mezcla de ricota sobre los tallos, seguido de algo de carne y queso mozzarella.\n8. Repetir capas con los ingredientes restantes, terminando con una capa de tallos cubierta con salsa.\n9. Espolvorear el parmesano restante encima.\n10. Hornear durante 30 minutos o hasta que esté caliente y burbujeante.",
+  "url": null
+}

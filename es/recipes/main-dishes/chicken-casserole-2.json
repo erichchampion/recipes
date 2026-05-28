@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-casserole-2",
+  "name": "Cazuela de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo cocidas y cortadas en cubos",
+    "7 oz de macarrones",
+    "16 oz de crema agria",
+    "2 latas de sopa de pollo (sin agua)",
+    "Queso Cheddar rallado",
+    "Queso Monterey Jack rallado"
+  ],
+  "recipeInstructions": "1. Cocinar los macarrones en caldo de pollo y escurrir.\n2. Mezclar el pollo, macarrones, crema agria y sopa.\n3. Verter la mezcla en un molde engrasado de 9x13.\n4. Cubrir con los quesos.\n5. Hornear a 300°F por 45 minutos.",
+  "url": null
+}

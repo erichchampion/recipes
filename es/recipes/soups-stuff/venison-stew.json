@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "venison-stew",
+  "name": "Estofado de Ciervo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "plato principal",
+    "sopas",
+    "estofados"
+  ],
+  "recipeIngredient": [
+    "2 lb de ciervo en cubos",
+    "1 taza de cebolla picada",
+    "12 papas en cubos",
+    "6 zanahorias en cubos",
+    "1 paquete de vegetales mixtos congelados",
+    "1 taza de apio picado",
+    "1/4 taza de cebada",
+    "8 tazas de agua",
+    "1 cucharadita de sal sazonada",
+    "1 diente de ajo picado",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimienta",
+    "2 cucharadas de perejil seco",
+    "1 cucharada de base para sopa de carne",
+    "1 paquete de mezcla para salsa gravy",
+    "1 hoja de laurel"
+  ],
+  "recipeInstructions": "1. Dorar el ciervo por todos lados.\n2. Agregar agua a la olla y llevar a ebullición.\n3. Incorporar apio, zanahorias, papas y cebollas, luego todos los demás ingredientes excepto los vegetales congelados.\n4. Cocinar a fuego medio hasta que las verduras estén tiernas y la carne cocida.\n5. Agregar los vegetales congelados y cocinar hasta que estén calientes.\n6. Retirar la hoja de laurel antes de servir.\n7. Servir con panecillos duros si se desea; puede necesitarse más caldo.",
+  "url": null
+}

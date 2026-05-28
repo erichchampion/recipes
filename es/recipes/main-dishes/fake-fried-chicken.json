@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fake-fried-chicken",
+  "name": "Pollo Frito Falso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "1 pechugas de pollo (cortadas/deshuesadas)",
+    "2/3 taza de yogur (sin grasa)",
+    "1 taza de migajas (de cereales, o las preferidas)",
+    "Especias al gusto (por ejemplo, pimentón, orégano, tomillo, chiles en hojuelas)"
+  ],
+  "recipeInstructions": "1. Preparar la cobertura: Coloca suficientes cereales en licuadora para obtener 1 taza de migajas. Puedes usar migajas de pan italiano, pita o cereales para una cobertura más crujiente. Agrega tus especias favoritas y mezcla o licúa hasta combinar.\n2. Cubrir el pollo: Retira la piel de las pechugas de pollo y cubre cada trozo con yogur.\n3. Pasar por las migajas: Sumerge los trozos de pollo cubiertos en la mezcla de migajas, asegurándote de que queden completamente recubiertos.\n4. Hornear: Coloca el pollo cubierto en una bandeja para hornear rociada con Pam. Hornea a 175°C (350°F) por aproximadamente una hora.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-bread-5",
+  "name": "Pan Italiano",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina",
+    "de/a la lista de panes"
+  ],
+  "recipeIngredient": [
+    "1 1/3 tazas de agua",
+    "2 cucharaditas de sal",
+    "2 cucharadas de aceite",
+    "3 1/2 tazas de harina de trigo para pan",
+    "2 cucharaditas de levadura"
+  ],
+  "recipeInstructions": "1. Agregar el agua, la sal, el aceite, la harina y la levadura al molde de pan en el orden especificado.\n2. Es esencial mantener la sal y la levadura separadas.\n3. Hornear en el ciclo regular o en la configuración de horneado programado.",
+  "url": null
+}

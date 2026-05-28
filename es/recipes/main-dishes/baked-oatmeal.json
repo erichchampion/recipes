@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-oatmeal",
+  "name": "Avena al horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "cereales",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "3 tazas de avena",
+    "1 a 2 tazas de azúcar morena",
+    "2 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de canela",
+    "1/2 cucharadita de sal",
+    "1/2 taza de puré de manzana",
+    "1 cucharadita de extracto de vainilla",
+    "2 huevos, o sustituto de huevo Ener-g equivalente",
+    "1 taza de leche de arroz",
+    "1 a 2 tazas de pasas o arándanos"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 grados.\n2. Mezclar los ingredientes secos (avena, azúcar morena, polvo de hornear, canela, sal) en un bol grande.\n3. Mezclar los ingredientes húmedos (puré de manzana, extracto de vainilla, huevos o sustituto de huevo, leche de arroz) en otro bol.\n4. Combinar los ingredientes húmedos y secos hasta que estén integrados.\n5. Incorporar las pasas o arándanos.\n6. Verter la mezcla en un molde 9x9 ligeramente engrasado.\n7. Hornear durante 20-30 minutos.\n8. Servir tal cual, o con leche encima.\nNotas: Esta receta da como resultado una textura similar a un pastel. Se usó 1/2 taza de azúcar para obtener un sabor más dulce; puedes reducirlo la próxima vez. El sustituto de huevo y la leche de arroz se utilizaron con éxito como sustitutos. La leche de soja también podría funcionar bien. La receta original sugería agregar nueces, pero esto aumenta el contenido de grasa, por lo que se omitieron para simplificar.",
+  "url": null
+}

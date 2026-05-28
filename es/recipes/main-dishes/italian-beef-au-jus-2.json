@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "italian-beef-au-jus-2",
+  "name": "Carne de res italiana al jugo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "cacerola lenta"
+  ],
+  "recipeIngredient": [
+    "1 asado de carne para cacerola lenta",
+    "1 sobre de mezcla de aderezo para ensalada italiana",
+    "1 lata de caldo de carne",
+    "1/2 lata de agua"
+  ],
+  "recipeInstructions": "1. Coloca el asado en una cacerola lenta.\n2. Combina los ingredientes de la salsa y viértela sobre la carne.\n3. Cubre y cocina a fuego bajo durante 8 horas.\n4. La carne puede cortarse en rebanadas y servirse con panecillos duros o desmenuzarse con 2 tenedores y servirse sobre fideos o arroz, con el jugo espesado con harina.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-apple-pie-cracker-pie",
+  "name": "Pastel de Manzana Simulado (Pastel de Galletas)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "4 tazas de agua",
+    "2 tazas de azúcar",
+    "4 cucharaditas de crema de tártaro",
+    "40 galletas Ritz; trituradas",
+    "Una pizca de canela",
+    "Una pizca de nuez moscada",
+    "1 base de tarta sin hornear",
+    "Mantequilla"
+  ],
+  "recipeInstructions": "1. Combinar el agua, el azúcar y la crema de tártaro en una cacerola. Llevar a ebullición.\n2. Continuar hirviendo durante 2 minutos.\n3. Agregar los trozos de galleta, la canela y la nuez moscada. Hervir por un minuto adicional.\n4. Permitir que la mezcla se enfríe completamente.\n5. Colocar la mezcla fría en la base de tarta sin hornear.\n6. Untar con mantequilla.\n7. Hornear a 350 grados Fahrenheit durante 55 minutos.",
+  "url": null
+}

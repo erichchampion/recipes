@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "creamy-chicken",
+  "name": "Pollo Cremoso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "8 mitades de pechuga de pollo sin piel",
+    "1 taza de mezcla de relleno con hierbas",
+    "8 rebanadas de queso suizo de 4 x 4 cm",
+    "1/4 taza de vino blanco",
+    "1/4 taza de mantequilla derretida",
+    "1 lata de sopa de pollo Crema"
+  ],
+  "recipeInstructions": "1. Coloca el pollo en un molde para hornear de 9 x 13 cm.\n2. Cubre con las rebanadas de queso.\n3. Mezcla el relleno, el vino y la mantequilla.\n4. Vierte sobre las pechugas de pollo.\n5. Espolvorea con la mezcla de relleno desmenuzada.\n6. Vierte la mantequilla derretida sobre los crujientes.\n7. Hornea a 350 grados durante 40-45 minutos.",
+  "url": null
+}

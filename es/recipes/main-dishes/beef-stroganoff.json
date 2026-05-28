@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-stroganoff",
+  "name": "Estofado de Carne de Res",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aceite vegetal",
+    "1 libra de bistec de falda sin hueso, cortado en tiras delgadas",
+    "200 gramos de setas frescas, laminadas",
+    "1/4 taza de agua",
+    "2 cucharadas de harina blanqueada",
+    "1 cucharadita de mostaza en polvo",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1 taza de crema agria",
+    "2 tazas de arroz cocido o fideos calientes",
+    "1 cebolla mediana, cortada en rodajas"
+  ],
+  "recipeInstructions": "1. Cortar el bistec de falda en tiras finas sin hueso.",
+  "url": null
+}

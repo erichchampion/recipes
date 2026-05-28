@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "orzo-vegetables",
+  "name": "Orzo con Verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "8 oz de pasta orzo cruda (o cualquier otra pasta pequeña)",
+    "1 taza de caldo de verduras",
+    "1 calabacín pequeño, cortado en cuartos y rebanado finamente",
+    "1 zanahoria, pelada y picada",
+    "1 cebolla grande, picada",
+    "1 taza de berenjena picada (pelar primero si se desea)"
+  ],
+  "recipeInstructions": "1. Cocinar el orzo según las instrucciones del paquete.\n2. Llevar el caldo de verduras a ebullición en una cacerola mediana.\n3. Agregar las verduras al caldo hirviendo y saltear hasta que estén al punto deseado (5-10 minutos).\n4. Escurrir el orzo cocido y añadirlo a las verduras.\n5. Continuar cocinando hasta alcanzar la temperatura deseada.\n6. Opcionalmente, espolvorear con queso bajo en grasa si se desea.",
+  "url": null
+}

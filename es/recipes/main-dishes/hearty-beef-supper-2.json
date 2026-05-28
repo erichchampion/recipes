@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "hearty-beef-supper-2",
+  "name": "Cena Consistente de Carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne",
+    "hamburguesas",
+    "queso",
+    "plato principal",
+    "carne",
+    "carnes",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 lb de carne molida magra",
+    "1 taza de cebolla; picada, 1 Lg",
+    "1 taza de trigo partido sin cocinar",
+    "2 tazas de tomate; fresco, picado, 2 Md",
+    "2 tazas de agua",
+    "3 cucharadas de perejil; picado",
+    "2 cucharaditas de caldo de carne instantáneo",
+    "1 1/2 cucharaditas de sal",
+    "1/2 cucharadita de orégano hojas",
+    "1/4 cucharadita de ajo molido instantáneo",
+    "1/4 cucharadita de pimienta",
+    "1/2 taza de queso parmesano; rallado"
+  ],
+  "recipeInstructions": "1. Cocinar y revolver la carne y la cebolla en una sartén grande hasta que la carne esté marrón. Escurrir el exceso de grasa.\n2. Incorporar los ingredientes restantes excepto el queso parmesano rallado. Llevar a ebullición.\n3. Reducir el calor y hervir, cubierto, revolviendo ocasionalmente, hasta que el trigo esté tierno, aproximadamente 30 minutos. (Se puede agregar un poco de agua si es necesario.)\n4. Incorporar el queso y sazonar con perejil picado adicional y/o queso parmesano.",
+  "url": null
+}

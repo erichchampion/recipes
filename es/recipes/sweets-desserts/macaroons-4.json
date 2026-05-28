@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "macaroons-4",
+  "name": "Macarrones",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de claras de huevo batidas firmemente",
+    "1/2 taza de azúcar morena",
+    "1/2 taza de azúcar blanca",
+    "2 tazas de copos de maíz",
+    "1/2 taza de nueces picadas",
+    "1/2 taza de coco rallado",
+    "1/2 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Batir las claras de huevo y los azúcares juntos hasta que formen picos firmes.\n2. Incorporar suavemente los copos de maíz, las nueces picadas, el coco rallado y la vainilla hasta combinarlos.\n3. Colocar cucharadas de la mezcla en una bandeja para galletas bien engrasada.\n4. Hornear a 180°C durante 15 minutos.\n5. Retirar del molde inmediatamente después de hornear.",
+  "url": null
+}

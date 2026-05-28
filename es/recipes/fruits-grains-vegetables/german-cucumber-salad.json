@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "german-cucumber-salad",
+  "name": "Ensalada de Pepino Alemán",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 pepinos medianos, cortados en láminas finas",
+    "4 cebollas verdes, cortadas en láminas finas",
+    "3 tomates pequeños, en rodajas",
+    "2 cucharadas de perejil fresco, picado",
+    "Salsa:",
+    "1/4 taza de crema agria",
+    "1/4 cucharadita de mostaza preparada",
+    "2 cucharadas de eneldo fresco, picado finamente",
+    "1 cucharada de vinagre",
+    "1 cucharada de leche",
+    "1/2 cucharadita de sal",
+    "1/8 cucharadita de pimienta"
+  ],
+  "recipeInstructions": "1. En un bol, combina los pepinos, cebollas, tomates y perejil.\n2. En otro bol, mezcla los ingredientes de la salsa.\n3. Vierte la salsa sobre la mezcla de pepino y revuelve suavemente para cubrir uniformemente.\n4. Tapa el bol y refrigera durante al menos 1 hora.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "creamy-tater-soup",
+  "name": "Sopa Cremosa de Papas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "baja en calorías",
+    "almuerzo",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "4 tazas de caldo de pollo desgrasado",
+    "1 taza de cebolla picada",
+    "3 tazas de apio picado, incluyendo las hojas",
+    "2 pequeñas papas peladas y cortadas en cubos",
+    "1/2 cucharadita de sal",
+    "1 clavo de pimienta cayena",
+    "1 taza de leche desnatada"
+  ],
+  "recipeInstructions": "1. En una olla grande, combina todos los ingredientes excepto la leche. Cocina hasta que las verduras estén muy tiernas, aproximadamente 10 minutos. Deja enfriar ligeramente.\n2. Transfiere a una licuadora y mezcla hasta obtener una consistencia suave. Agrega la leche.\n3. La sopa se puede almacenar en el refrigerador hasta por 1 semana. Calienta antes de servir.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "french-dressing",
+  "name": "Aderezo Francés",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "ensaladas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de aceite para ensalada",
+    "2 cucharadas de vinagre",
+    "2 cucharadas de jugo de limón",
+    "2 cucharaditas de azúcar",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de mostaza en polvo",
+    "1/2 cucharadita de pimentón dulce",
+    "Una pizca de pimienta cayena"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un recipiente para licuadora.\n2. Licuar hasta que los ingredientes estén bien combinados.\n3. Refrigerar el aderezo.\n4. Agitar el aderezo justo antes de servir.\nRinde 3/4 taza.",
+  "url": null
+}

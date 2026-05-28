@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "ground-beef-stroganoff-3",
+  "name": "Estofado de Carne Molida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "arroz",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne molida",
+    "2 cebollas medianas picadas",
+    "2 dientes de ajo picados finamente",
+    "1 lata pequeña de setas en rodajas, escurridas",
+    "2 1/2 cucharaditas de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1 taza de caldo o consomé",
+    "3 cucharadas de pasta de tomate",
+    "1 1/2 tazas de crema agria mezclada con 4 cucharadas de harina"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida en una sartén grande.\n2. Agregar las cebollas, el ajo y las setas a la sartén.\n3. Saltear hasta que las cebollas estén doradas.\n4. Transferir todo a una olla de cocción lenta.\n5. Mezclar bien para combinar todos los ingredientes.\n6. Tapar y cocinar a fuego lento durante 6 a 8 horas.\n7. Servir sobre fideos con mantequilla caliente o arroz.",
+  "url": null
+}

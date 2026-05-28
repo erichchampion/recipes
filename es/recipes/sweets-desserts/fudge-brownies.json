@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "fudge-brownies",
+  "name": "Brownies de Fudge",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "brownies",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de Manteca",
+    "4 Huevos",
+    "2 tazas de Azúcar",
+    "1 cucharadita de Polvo de Hornear",
+    "1 taza de Nueces picadas",
+    "4 onzas de Chocolate sin endulzar",
+    "Un pellizco de Sal",
+    "1 taza de Harina tamizada",
+    "1 cucharadita de Extracto de Vainilla"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 325°F (165°C). Engrasar un molde cuadrado de 9 pulgadas.\n2. Derretir la manteca y el chocolate en una cacerola pequeña sobre fuego bajo. Revolver hasta que esté mezclado y dejar enfriar.\n3. Batir los huevos hasta que estén de color amarillo claro; agregar la sal, el azúcar, la harina y el polvo de hornear. Batir bien.\n4. Incorporar el chocolate y la vainilla enfriados, junto con las nueces picadas. Mezclar bien.\n5. Verter la masa en el molde preparado y hornear durante 35-45 minutos o hasta que un cuchillo insertado en el centro salga limpio. Enfriar antes de cortar.",
+  "url": null
+}

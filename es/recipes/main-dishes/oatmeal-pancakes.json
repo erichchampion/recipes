@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "oatmeal-pancakes",
+  "name": "Tortas de Avena",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "tortas"
+  ],
+  "recipeIngredient": [
+    "3 tazas de avena",
+    "1 litro de buttermilk bajo en grasa (o leche descremada acidificada con 1 cucharadita de jugo de limón por taza)",
+    "1 taza de harina",
+    "2 cucharaditas de bicarbonato de sodio",
+    "2 cucharaditas de sal",
+    "Sustituto de huevo equivalente a cuatro huevos"
+  ],
+  "recipeInstructions": "1. Mezclar en un bol grande la avena, el buttermilk bajo en grasa (o leche acidificada), la harina, el bicarbonato de sodio y la sal hasta que queden bien combinados.\n2. Incorporar el sustituto de huevo hasta que esté completamente integrado.\n3. La masa estará líquida; si se desea, rociar ligeramente una plancha o sartén caliente con aceite para cocinar.\n4. Verter aproximadamente 1/4 taza de masa por torta sobre la superficie caliente.\n5. Cocinar hasta que estén doradas por ambos lados, aproximadamente 2-3 minutos por lado.",
+  "url": null
+}

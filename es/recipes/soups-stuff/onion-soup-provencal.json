@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "onion-soup-provencal",
+  "name": "Sopa de Cebolla Provenzal",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "vegetariana"
+  ],
+  "recipeIngredient": [
+    "8 lb cebollas amarillas, cortadas finamente",
+    "1/2 taza aceite de girasol o mantequilla",
+    "2 litros agua",
+    "1/2 taza perejil picado",
+    "2 hojas de laurel",
+    "1 cucharadita tomillo fresco, O...",
+    "1 cucharadita tomillo seco",
+    "1 cucharadita semillas de apio",
+    "1 cucharadita pimienta negra molida fresca",
+    "12 tomates frescos - escaldados 10 segundos, pelados y picados",
+    "1 taza vino tinto seco",
+    "2 cucharadas albahaca fresca, O...",
+    "2 cucharaditas albahaca seca",
+    "2 cucharadas marjoram fresco, O...",
+    "2 cucharaditas marjoram seco",
+    "1 taza miso de centeno seco",
+    "sal al gusto",
+    "croutons para decorar",
+    "queso Emmentaler (opcional) para decorar"
+  ],
+  "recipeInstructions": "1. Saltear lentamente las cebollas en aceite o mantequilla durante unos 30 minutos o hasta que estén doradas.\n2. Añadir agua y hierbas secas, luego dejar hervir a fuego lento durante 30 minutos.\n3. Apagar el calor y agregar tomates, vino, hierbas frescas y pimienta.\n4. Batir el miso y mezclarlo. Ajustar la sal y la pimienta según sea necesario.\n5. Calentar nuevamente, si es necesario, a fuego muy bajo. No hervir.\n6. Servir con croutons y queso Emmentaler (opcional).",
+  "url": null
+}

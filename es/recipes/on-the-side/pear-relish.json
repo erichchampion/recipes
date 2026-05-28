@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pear-relish",
+  "name": "Relish de Peras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "relishes",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 manojo de peras",
+    "2 libras de azúcar morena",
+    "3 cebollas picadas",
+    "1 libra de pasas",
+    "2 tazas de vinagre",
+    "Especias"
+  ],
+  "recipeInstructions": "1. Pelar y quitar el corazón a las peras.\n2. Mezclar las peras con los demás ingredientes, añadiendo especias al gusto.\n3. Revolver bien.\n4. Cocinar a fuego lento, revolviendo frecuentemente, hasta espesar.",
+  "url": null
+}

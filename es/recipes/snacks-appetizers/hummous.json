@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hummous",
+  "name": "Hummus",
+  "recipeCuisine": "Africa & Middle East",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "3 dientes de ajo medianos, picados",
+    "1 manojo grande de perejil",
+    "2 cebolletas medianas, cortadas en trozos de 1 pulgada",
+    "3 tazas de garbanzos cocidos",
+    "6 cucharadas de tahini",
+    "6 cucharadas de jugo de limón fresco",
+    "1 cucharadita de sal (al gusto)",
+    "OPCIONAL: PIPILLA Y/O COMINTO AL GUSTO"
+  ],
+  "recipeInstructions": "1. Coloca el ajo, perejil y cebolletas en una licuadora o procesador de alimentos y pica finamente.\n2. Agrega los garbanzos, tahini, jugo de limón y sal; licúa hasta obtener una pasta espesa.\nPuedes picar y machacar todo a mano también. El hummus tendrá una textura más rústica, pero eso también puede estar rico.\n3. Sazona al gusto con pipilla y/o cominto si lo deseas. Ajusta la sal según sea necesario.\n4. Transfiere a un recipiente con tapa apretada y refrigera.",
+  "url": null
+}

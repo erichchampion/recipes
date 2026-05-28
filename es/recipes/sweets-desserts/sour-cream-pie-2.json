@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "sour-cream-pie-2",
+  "name": "Tarta de Crema Ácida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 Huevos",
+    "1 taza de Azúcar",
+    "1 taza de Crema Ácida espesa",
+    "1/4 cucharadita de Canela en polvo",
+    "1/8 cucharadita de Sal",
+    "1 cucharada de Jugo de Limón",
+    "1 Base de Tarta sin hornear"
+  ],
+  "recipeInstructions": "1. Batir los huevos.\n2. Agregar el azúcar y batir hasta que esté ligero.\n3. Batir la crema ácida y doblarla en la mezcla de huevo.\n4. Incorporar las pasas, la canela, la sal y el jugo de limón. Mezclar bien.\n5. Verter la mezcla en la base de tarta.\n6. Hornear a 450 grados durante 10 minutos.\n7. Reducir la temperatura a 350 grados y continuar horneando por 20 minutos.",
+  "url": null
+}

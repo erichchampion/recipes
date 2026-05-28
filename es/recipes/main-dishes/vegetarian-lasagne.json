@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetarian-lasagne",
+  "name": "Lasaña Vegetariana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "vegetales"
+  ],
+  "recipeIngredient": [
+    "1 cebolla mediana picada",
+    "250 g zanahorias ralladas",
+    "500 g espinacas",
+    "150 g maíz dulce escurrido (1/2 lata)",
+    "100 g setas cortadas groseramente",
+    "250 g placas de lasaña (1/2 paquete)",
+    "2 dientes de ajo",
+    "100 g queso rallado",
+    "600 ml leche",
+    "50 g maicena (almidón de maíz)",
+    "50 g mantequilla"
+  ],
+  "recipeInstructions": "1. Saltear suavemente las zanahorias y el ajo en un poco de mantequilla. Reservar.\n2. Saltear la cebolla y las setas en un poco de mantequilla. Reservar.\n3. Lavar las espinacas y cocinarlas suavemente en una sartén sin agregar agua, revolviendo con frecuencia. Agregar el maíz a esta mezcla y reservar.\n4. Preparar la salsa blanca: Derretir la mantequilla en una sartén. Retirar del fuego, agregar la maicena y mezclar bien. Añadir lentamente la leche mientras se revuelve continuamente. Volver al fuego y continuar revolviendo hasta espesarse.\n5. Montar la lasaña en un molde para horno de al menos 5 cm de profundidad (aproximadamente 20x30 cm para las cantidades dadas). Alternar capas con placas de lasaña, salsa y una de las preparaciones de vegetales reservadas. Repetir las capas dos veces más, terminando con una capa de placas de lasaña y salsa.\n6. Cubrir con queso y espolvorear con pimentón si se desea.\n7. Hornear durante aproximadamente 35 minutos a 180°C.\n8. Servir las porciones enteras como se sirve tradicionalmente.",
+  "url": null
+}

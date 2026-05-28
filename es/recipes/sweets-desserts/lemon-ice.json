@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-ice",
+  "name": "Helado de Limón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "congelado",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "2 tazas de agua",
+    "1 cucharada de cáscara de limón (rallada fresca)",
+    "2/3 taza de jugo de limón (fresco)"
+  ],
+  "recipeInstructions": "Rinde aproximadamente 3 tazas o 6 porciones. En una olla, hierve el azúcar y el agua durante 5 minutos; deja enfriar. Vierte en un bol grande y mezcla con la cáscara de limón y el jugo. Congela hasta que se vuelva blando pero aún firme. Bate con una batidora hasta que esté suave. Devuelve al congelador y bate nuevamente. Extiende uniformemente en una bandeja poco profunda refrigerada (20 cm x 20 cm) o dos moldes para hielo. Congela hasta que esté completamente firme. Tapa apretadamente.",
+  "url": null
+}

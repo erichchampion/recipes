@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "basic-tomato-sauce",
+  "name": "Salsa de Tomate Básica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pizza",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 cebolla española, cortada en dados de 1/4 de pulgada",
+    "4 dientes de ajo, rebanados finamente",
+    "3 onzas de aceite de oliva virgen",
+    "4 cucharadas de tomillo fresco (o 2 cucharadas de tomillo seco)",
+    "1/2 zanahoria mediana, rallada finamente",
+    "2 tomates, machacados y mezclados bien con sus jugos",
+    "Sal al gusto"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla y el ajo en el aceite de oliva a fuego medio hasta que se vuelvan translúcidos, pero sin dorar (aproximadamente 10 minutos).\n2. Agregar el tomillo y la zanahoria y cocinar por 5 minutos adicionales.\n3. Incorporar los tomates. Llevar a ebullición, luego reducir el fuego hasta que hierva suavemente, removiendo ocasionalmente durante 30 minutos.\n4. Sazonar con sal al gusto.\n5. Servir inmediatamente o reservar para su uso posterior. La salsa se puede refrigerar por hasta una semana o congelar por hasta 6 meses.",
+  "url": null
+}

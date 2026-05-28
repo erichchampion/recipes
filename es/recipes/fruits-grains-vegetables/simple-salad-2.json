@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "simple-salad-2",
+  "name": "Ensalada Simple",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "de bajo calor",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 calabacines picados",
+    "2 calabacitas amarillas picadas",
+    "3 cebollas verdes picadas",
+    "2 tomates Roma picados",
+    "1/4 taza de tomates secos al sol picados",
+    "(sin enjuagar con aceite, por supuesto)",
+    "3 cucharadas de vinagre de sidra",
+    "1/2 cucharadita de orégano (usé seco, pero fresco sería mejor)",
+    "sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Mezcla el calabacín picado, las calabacitas amarillas, las cebollas verdes, los tomates Roma y los tomates secos al sol.\n2. Agrega 3 cucharadas de vinagre de sidra, 1/2 cucharadita de orégano, sal y pimienta al gusto.\n3. Revuelve todo hasta que esté bien combinado.\n4. Esta ensalada se puede comer sola o servir sobre pasta o arroz para un sabor adicional.",
+  "url": null
+}

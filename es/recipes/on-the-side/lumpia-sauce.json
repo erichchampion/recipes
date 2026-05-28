@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "lumpia-sauce",
+  "name": "Salsa Lumpia",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "guarniciones"
+  ],
+  "recipeIngredient": [
+    "3 dientes de ajo machacados",
+    "1/2 taza de vinagre de vino tinto",
+    "1 cucharadita de pimienta negra",
+    "1 cucharada de salsa de pescado",
+    "1 chile rojo picado finamente"
+  ],
+  "recipeInstructions": "1. Mezcla el ajo machacado con el vinagre de vino tinto en un bol.\n2. Agrega la pimienta negra y revuelve hasta que esté bien mezclado.\n3. Incorpora la salsa de pescado y mezcla hasta combinarse.\n4. Pica finamente los chiles rojos y añádelos a la mezcla.\n5. Revuelve todo bien y déjalo reposar por al menos un día antes de servir.",
+  "url": null
+}

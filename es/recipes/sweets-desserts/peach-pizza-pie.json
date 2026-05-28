@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "peach-pizza-pie",
+  "name": "Tarta de Pizza de Durazno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres"
+  ],
+  "recipeIngredient": [
+    "Base:",
+    "1/2 taza de mantequilla ablandada",
+    "1/4 taza de azúcar impalado",
+    "1 taza de harina de uso común",
+    "Relleno:",
+    "1 cucharada de almidón de maíz",
+    "2 cucharadas de azúcar",
+    "1/4 cucharadita de nuez moscada",
+    "1/2 taza de jugo de naranja",
+    "1/2 taza de gelatina de arándanos rojos",
+    "5 tazas de rebanadas de durazno fresco",
+    "Crema batida"
+  ],
+  "recipeInstructions": "Base: Precalentar el horno a 350 grados. Batir la mantequilla y el azúcar impalado. Incorporar la harina. Presionar la mezcla en un molde para pizza de 12 pulgadas. Pinchar la base con un tenedor. Hornear durante 10 minutos o hasta que los bordes estén dorados y enfriar.\nRelleno: Mezclar el almidón de maíz, el azúcar y la nuez moscada. Incorporar el jugo de naranja y la gelatina y cocinar, revolviendo, hasta que la mezcla hierva y espese. Enfriar. Disponer las rebanadas de durazno sobre la base y verter el relleno sobre los duraznos. Refrigerar hasta que el glaseado se solidifique. Servir con crema batida.",
+  "url": null
+}

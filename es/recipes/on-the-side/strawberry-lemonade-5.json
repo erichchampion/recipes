@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-lemonade-5",
+  "name": "Limonada de Fresas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "limonada",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 litro de fresas frescas sin cáscara",
+    "3 tazas de agua fría",
+    "3/4 taza de jugo de limón",
+    "3/4 taza de azúcar",
+    "2 tazas de soda club helada",
+    "hielo"
+  ],
+  "recipeInstructions": "1. Coloca las fresas en una licuadora (reserva algunas para decorar).\n2. Agrega el jugo de limón, agua fría y azúcar a la licuadora.\n3. Licúa hasta que quede suave según tu textura deseada.\n4. Vierte la mezcla en vasos.\n5. Corona cada vaso con soda club y hielo.\n6. Opcionalmente, usa cubos de hielo mientras licúas para facilitar la mezcla.",
+  "url": null
+}

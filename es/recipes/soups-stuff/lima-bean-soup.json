@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "lima-bean-soup",
+  "name": "Sopa de Frijoles de Lima",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas/estofados",
+    "vegetariana"
+  ],
+  "recipeIngredient": [
+    "1 lb de frijoles de lima congelados",
+    "3 1/2 tazas de zanahorias en rodajas",
+    "3 cucharadas de aceite de oliva",
+    "5 cebolletas picadas finamente",
+    "5 tazas de setas picadas",
+    "1 cucharadita de albahaca",
+    "1 cucharadita de pimienta negra",
+    "un toque de chile en polvo",
+    "3/4 taza de salsa de soya"
+  ],
+  "recipeInstructions": "1. Cocinar los frijoles de lima congelados en agua según las instrucciones del paquete.\n2. Al vapor las zanahorias en rodajas hasta que estén tiernas. Escurrir y reservar el agua de cocción.\n3. Calentar aceite de oliva en una sartén. Saltear las cebolletas y setas hasta que estén tiernas. Agregar albahaca, pimienta negra y chile; saltear por un minuto adicional.\n4. En lotes, mezclar los frijoles cocidos, zanahorias, setas y agua de cocción reservada con albahaca, pimienta y salsa de soya usando una licuadora hasta obtener una consistencia suave.\n5. Verter la mezcla licuada en una olla grande para sopa. Agregar leche. Cocinar a fuego lento por 15 a 20 minutos.",
+  "url": null
+}

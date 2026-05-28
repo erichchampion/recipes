@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "tomato-beef",
+  "name": "Carne de Res con Tomate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de lomo finamente cortado",
+    "3 tomates",
+    "2 cebollas verdes",
+    "1 diente de ajo (picado)",
+    "2 cucharadas de aceite",
+    "-------------------------------MARINADA DE CARNE-------------------------------",
+    "1 cucharada de salsa de soja clara",
+    "1 1/2 cucharadas de vino",
+    "1 1/2 cucharadas de agua",
+    "1/2 cucharada de aceite",
+    "1/2 cucharada de almidón de maíz",
+    "----------------------------------SAZÓN------------------------------",
+    "3 cucharadas de ketchup de tomate",
+    "1 cucharadita de azúcar",
+    "1/2 cucharadita de vinagre",
+    "1/2 cucharadita de almidón de maíz disuelto en 1 cucharadita de agua"
+  ],
+  "recipeInstructions": "1. Marina las rebanadas de carne durante 30 minutos.\n2. Calienta un wok con 2 cucharadas de aceite y el ajo durante 30 segundos, agrega la carne, cocina por 1 1/2 a 2 minutos, retira y escurre el aceite. Reserva.\n3. Calienta el wok a fuego alto, agrega los tomates en gajos y revuelve por 2 minutos, luego añade la mezcla de salsa. Espesa si está muy líquida.\n4. Devuelve la carne y revuelve bien, sirve caliente.\n5. Sirve inmediatamente.",
+  "url": null
+}

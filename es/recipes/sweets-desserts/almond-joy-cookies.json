@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "almond-joy-cookies",
+  "name": "Galletas Joy de Almendras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "almendras",
+    "productos horneados",
+    "caramelo",
+    "chocolate",
+    "coco rallado",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 cuadritos de chocolate sin endulzar",
+    "1 lata de leche condensada dulce",
+    "3 tazas de coco rallado dulce",
+    "1 cucharadita de extracto de vainilla",
+    "un pellizco de sal",
+    "almendras para decorar"
+  ],
+  "recipeInstructions": "1. Derrite el chocolate y 1 lata de leche condensada en un baño maría hasta que quede suave.\n2. Vierte la mezcla sobre un bol que contenga 3 tazas de coco rallado dulce.\n3. Agrega 1 cucharadita de extracto de vainilla y un pellizco de sal. Mezcla bien hasta que el coco esté completamente cubierto.\n4. Toma cucharadas de la masa y colócalas en una bandeja para hornear forrada con papel pergamino.\n5. Presiona una almendra entera en la parte superior de cada galleta.\n6. Hornea a 175 °C durante 10 a 12 minutos, revisando a los 8 minutos ya que los bordes se doran rápidamente.\n7. Retira del horno y deja enfriar antes de sacar de la bandeja.",
+  "url": null
+}

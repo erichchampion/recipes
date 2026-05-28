@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "spice-cake-5",
+  "name": "Pastel de Especias",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/3 taza de manteca vegetal",
+    "1 1/3 tazas de azúcar",
+    "2 1/2 tazas de harina blanca",
+    "4 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de nuez moscada",
+    "1/2 cucharadita de canela",
+    "1 taza de agua",
+    "1 taza de pasas"
+  ],
+  "recipeInstructions": "1. Batir la manteca vegetal durante 30 segundos.\n2. Agregar el azúcar y batir hasta que quede ligero y esponjoso, bien combinado.\n3. Alternar la adición de los ingredientes secos con el agua, un poco a la vez, batiendo bien después de cada adición.\n4. Mezclar las pasas.\n5. Hornear en un molde para pan grande engrasado durante 45 minutos a 175 °C.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "scrambled-eggs-mf",
+  "name": "Huevos Revueltos (Mf)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "huevos",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 huevos batidos ligeramente",
+    "1 cucharada de cebolla picada",
+    "sal y pimienta",
+    "1 cucharada de mantequilla sin sal"
+  ],
+  "recipeInstructions": "1. Agregar sal, pimienta y cebolla picada a los huevos batidos.\n2. En una sartén pequeña, derretir la mantequilla a fuego bajo hasta que la espuma disminuya.\n3. Añadir lentamente la mezcla de huevos a la sartén, revolviendo continuamente a fuego muy bajo.\n4. Cocinar hasta que los huevos formen una masa suave y cremosa.\n5. Retirar del fuego y continuar revolviendo hasta formar grumos con textura sedosa y terciopelo.\n6. Servir inmediatamente.\nRendimiento: 1 porción",
+  "url": null
+}

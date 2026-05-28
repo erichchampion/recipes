@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-with-chicken",
+  "name": "Arroz con Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "plato principal",
+    "pollo"
+  ],
+  "recipeIngredient": [
+    "3 libras de pechuga de pollo",
+    "1/2 sobre de mezcla de sopa de cebolla seca",
+    "1 lata de sopa de champiñones cremosos",
+    "1/2 lata de agua",
+    "2 cucharadas de pimientos picados",
+    "3 tazas de arroz cocido",
+    "1/2 taza de queso rallado, americano"
+  ],
+  "recipeInstructions": "1. Cocinar el pollo hasta que esté tierno. Retirar la carne de los huesos y cortarla en trozos pequeños.\n2. En un bol, mezclar la mezcla de sopa de cebolla con los pimientos picados.\n3. Alternar capas de arroz, trozos de pollo y mezcla de sopa en un recipiente para hornear. Espolvorear con queso rallado.\n4. Hornear a 180 °C hasta que el queso se derrita y dore.",
+  "url": null
+}

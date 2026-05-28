@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "onion-cheese-soup",
+  "name": "Sopa de Cebolla y Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de cebolla picada dulce",
+    "3 cucharadas de harina",
+    "1/2 cucharadita de sal",
+    "1 cucharadita de pimienta",
+    "4 tazas de leche",
+    "2 tazas de queso americano fuerte rallado"
+  ],
+  "recipeInstructions": "1. Cocinar la cebolla picada en mantequilla hasta que esté tierna, sin dorar.\n2. Mezclar la harina, la sal y la pimienta.\n3. Agregar la leche de una vez a la mezcla de harina.\n4. Calentar y revolver hasta que hierva.\n5. Retirar del fuego.\n6. Incorporar el queso rallado, revolviendo hasta que se derrita.",
+  "url": null
+}

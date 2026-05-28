@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "anadama-bread-2",
+  "name": "Pan Anadama",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 paquete de levadura",
+    "3 tazas y media de harina de trigo",
+    "1/3 taza de maíz molido amarillo",
+    "1 taza y media de agua hirviendo",
+    "1/3 taza de melaza",
+    "1 cucharadita de sal",
+    "2 cucharaditas de mantequilla"
+  ],
+  "recipeInstructions": "1. Coloca el maíz molido en un bol.\n2. Vierte cuidadosamente el agua hirviendo sobre el maíz molido, removiendo para asegurar una mezcla suave.\n3. Deja enfriar la mezcla durante unos 30 minutos.\n4. Agrega la melaza, la sal y la mantequilla.\n5. Añade la levadura al bol, luego espolvorea la harina de trigo encima.\n6. Vierte la mezcla de maíz molido sobre la levadura y la harina en el bol.\n7. Selecciona el programa de pan blanco en tu máquina de pan y arranca el proceso.",
+  "url": null
+}

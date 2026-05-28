@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "quick-chocolate-cake",
+  "name": "Pastel de Chocolate Rápido",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "5 tazas de mezcla para pastel de chocolate",
+    "1 taza de agua",
+    "1 cucharadita de extracto de vainilla",
+    "3 huevos"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 grados Fahrenheit.\n2. Agitar el recipiente de la mezcla para pastel antes de medir y cernir la mezcla suavemente en la taza medidora.\n3. Mezclar el agua y la vainilla, usando un batidor eléctrico o batiendo a mano con un total de 300 golpes. Añadir los huevos uno a la vez, batiendo bien después de cada adición.\n4. Verter la masa en dos moldes para capas de 9 pulgadas engrasados y hornear durante 25 a 30 minutos.",
+  "url": null
+}

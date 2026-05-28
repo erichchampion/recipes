@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "spiced-tea",
+  "name": "Té Especiado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de té instantáneo sin azúcar sabor limón (seco)",
+    "1/4 taza de azúcar",
+    "1/4 taza de bebida instantánea para desayuno sabor naranja (seca)",
+    "1/4 cucharadita de canela molida",
+    "1/4 cucharadita de clavo de olor molido",
+    "1/8 cucharadita de jengibre molido",
+    "12 tazas de agua hirviendo"
+  ],
+  "recipeInstructions": "Mezclar todos los ingredientes excepto el agua hirviendo; almacenar en un recipiente cerrado herméticamente a temperatura ambiente hasta por 1 semana. \nVerter el agua hirviendo sobre la mezcla de té y revolver hasta disolver. Decorar con rodajas de limón o naranja si se desea. Da para 16 porciones, aproximadamente 3/4 taza cada una; 35 calorías por porción.",
+  "url": null
+}

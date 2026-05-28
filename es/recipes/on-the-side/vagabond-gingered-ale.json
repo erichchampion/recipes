@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "vagabond-gingered-ale",
+  "name": "Vagabundo Ale con Jengibre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2.5 kg extracto de malta oscura Munton & Fison",
+    "1.5 kg extracto de malta seca",
+    "0.75 kg malta cristalizada",
+    "0.5 kg malta chocolate",
+    "2 oz lúpulos Cascade (en ebullición)",
+    "Igual a 10 HBU",
+    "1 oz lúpulos Willamette (finalización)",
+    "3 oz jengibre fresco rallado (ajustar al gusto)",
+    "1 paquete de levadura Ale",
+    "0.375 taza de azúcar de maíz (para embotellar)"
+  ],
+  "recipeInstructions": "1. Mezclar la malta cristalizada y chocolate con 3.8 litros de agua fría.\n2. Llevar a ebullición, retirar los granos.\n3. Agregar los extracto de malta. No dejar los granos en agua hirviendo para evitar un sabor \"sostado\".\n4. Disolver completamente los extractos.\n5. Añadir los lúpulos en ebullición y el jengibre rallado; seguir hirviendo durante 60 minutos.\n6. Finalizar añadiendo los lúpulos Willamette durante los últimos 1-2 minutos de ebullición.\n7. Enjuagar el fermentador con agua fría.\n8. Enfriar la mezcla, agregar la levadura y embotellar una vez finalizada la fermentación.",
+  "url": null
+}

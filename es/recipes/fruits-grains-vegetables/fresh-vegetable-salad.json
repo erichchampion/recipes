@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "fresh-vegetable-salad",
+  "name": "Ensalada de Verduras Frescas",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "tailandesa"
+  ],
+  "recipeIngredient": [
+    "Lechuga variada (3 tazas)",
+    "Zanahoria (1 taza, picada)",
+    "Pepino (1 taza, pelado y picado)",
+    "Tomate (1 taza, picado)",
+    "Cebolla verde (1 taza, picada)",
+    "Menta fresca (1/4 taza, picada, opcional)",
+    "Semillas de sésamo (1 cucharada)",
+    "Dientes de ajo (2, machacados)",
+    "Pimienta roja en polvo (1 cucharadita)",
+    "Jengibre oscuro (1/4 taza)",
+    "Jugo de limón (2 cucharadas)",
+    "Tamari (3 cucharadas)",
+    "Agua (2 cucharadas)",
+    "Maní tostado (1/4 taza, picado)"
+  ],
+  "recipeInstructions": "1. Parta la lechuga variada en trozos pequeños.\n2. Mezcle todos los ingredientes de la ensalada en un bol grande y dispóngalos en una fuente para servir.\n3. Para hacer el aderezo, toste las semillas de sésamo en una sartén pequeña a fuego medio, revolviendo con frecuencia hasta que se doren, aproximadamente 2 a 4 minutos. Deje enfriar.\n4. En un bol aparte, mezcle juntos el ajo machacado, la pimienta roja, el jengibre oscuro, el jugo de limón, el tamari y el agua.\n5. Vierta el aderezo sobre la ensalada y mezcle suavemente para combinarlos.\n6. Decore con semillas de sésamo y maní picado.\n7. Sirva a temperatura ambiente.",
+  "url": null
+}

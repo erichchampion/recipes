@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-crockpot",
+  "name": "Chili (Olla de Cocción Lenta)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "chili",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "3 latas de un kilo de frijoles rojos",
+    "-escurridos",
+    "2 latas de un kilo de tomates",
+    "-cortados en cubos",
+    "2 libras de carne molida dorada y",
+    "-escurrida",
+    "2 cebollas medianas picadas groseramente",
+    "1 taza de apio picado",
+    "1 diente de ajo picado finamente",
+    "4-6 cucharadas de polvo de chili",
+    "1 cucharadita de comino",
+    "-sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en la olla de cocción lenta en el orden indicado.\n2. Revuelve una vez.\n3. Tapa y cocina a fuego bajo durante 10-12 horas o a fuego alto durante 5-6 horas.",
+  "url": null
+}

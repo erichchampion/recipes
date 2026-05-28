@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "poached-chicken",
+  "name": "Pollo al agua",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves"
+  ],
+  "recipeIngredient": [
+    "4 tazas de caldo de pollo",
+    "6 mitades de pechuga de pollo"
+  ],
+  "recipeInstructions": "1. Llevar el caldo de pollo a ebullición en una olla grande.\n2. Reducir el fuego para mantener un hervor suave.\n3. Agregar suavemente las pechugas de pollo al caldo hirviendo y cocinar por 15 minutos.\n4. Retirar el pollo del caldo con una cuchara perforada y dejar enfriar en el líquido de cocción.\nListo para usar en cualquier receta que requiera pollo precocido.",
+  "url": null
+}

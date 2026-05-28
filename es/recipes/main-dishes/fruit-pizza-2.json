@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-pizza-2",
+  "name": "Pizza de Frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "aperitivos",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "Jugo de naranja (1 taza)",
+    "Agua (3/4 taza)",
+    "Jugo de limón (1/4 taza)",
+    "Maicena (3 cucharadas)",
+    "Una pizca de sal",
+    "Azúcar (1 taza)",
+    "Queso crema (225 g)",
+    "Extracto de vainilla (1 cucharada)",
+    "Azúcar (1/2 taza)",
+    "Masa de galleta de azúcar (paquete)",
+    "Duraznos",
+    "Uvas",
+    "Plátanos",
+    "Fresas",
+    "Kiwi"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes del glaseado en una cacerola y cocinar a fuego medio hasta que hierva y espese. Dejar enfriar.\n2. Extender la masa de galleta sobre una bandeja para pizza enmantequillada. Hornear a 350 grados durante 10 minutos, luego dejar enfriar.\n3. Mezclar los ingredientes del salsa y extender sobre la masa enfriada.\n4. Disponer las frutas sobre la salsa.\n5. Verter el glaseado sobre las frutas.\n6. Refrigerar hasta servir.",
+  "url": null
+}

@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "arroz-con-pollo-chicken-and-rice",
+  "name": "Arroz con Pollo (Pollo y Arroz)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 libra de pechuga de pollo sin piel ni hueso, cortada en tiras de 1 pulgada",
+    "1 cebolla mediana, en cuartos",
+    "2 pimientos verdes, picados",
+    "1 pimiento jalapeño, semillas retiradas y cortado por la mitad",
+    "3 dientes de ajo, finamente picados",
+    "2 cucharadas de cilantro fresco picado",
+    "2 tazas de caldo de pollo",
+    "1 taza de tomates italianos triturados enlatados, escurridos",
+    "1 cucharadita de comino molido",
+    "1 cucharadita de polvo de chile",
+    "3/4 taza de arroz largo y marrón",
+    "Una pizca de pimienta cayena",
+    "1 taza de guisantes verdes (frescos o congelados)",
+    "1 cucharada de pimientos en rodajas",
+    "1 cucharada de caparras escurridas y enjuagadas"
+  ],
+  "recipeInstructions": "1. Saltear las tiras de pollo en una sartén antiadherente hasta que estén blancas, aproximadamente 5 minutos. Reservar y mantener calientes.\n2. En una sartén grande, combinar todos los ingredientes excepto los guisantes, pimientos y caparras. Llevar a ebullición.\n3. Tapar y cocinar a fuego lento durante unos 30 minutos, hasta que el arroz haya absorbido el líquido.\n4. Agregar los guisantes, retirar del fuego y dejar reposar.\n5. Disponer el pollo y la salsa sobre el arroz, decorar con pimientos y caparras.\n6. Servir para 6 personas.",
+  "url": null
+}

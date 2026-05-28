@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "bourbon-chicken-2",
+  "name": "Pollo Bourbon",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "3 pechugas de pollo, cortadas por la mitad,",
+    "con piel o trozos mixtos de pollo.",
+    "1/3 taza de bourbon",
+    "1/3 taza de aceite de ensalada",
+    "1/4 taza de salsa de soja"
+  ],
+  "recipeInstructions": "1. Coloca el pollo lavado, con piel, en un plato para hornear, con la parte carnosa hacia abajo.\n2. Mezcla el bourbon, el aceite de ensalada y la salsa de soja.\n3. Vierte la mezcla sobre el pollo y marina durante varias horas para realzar el sabor.\n4. Hornea a 175°C por 50 minutos.\n5. Sirve con arroz cocido caliente.",
+  "url": null
+}

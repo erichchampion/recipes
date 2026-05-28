@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-soup",
+  "name": "Sopa de Fresas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "frutas",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "MCCALL WHNP81A",
+    "2 tazas de fresas; deshuesadas, trituradas",
+    "2 cucharadas de jugo de limón",
+    "3 tazas de agua",
+    "1 taza de azúcar",
+    "2 cucharadas de tapioca rápida",
+    "1 taza de vino blanco dulce"
+  ],
+  "recipeInstructions": "1. Combinar las fresas, el jugo de limón, el agua, el azúcar y la tapioca en una cacerola mediana.\n2. Mezclar bien.\n3. Llevar a ebullición a fuego medio, removiendo con frecuencia.\n4. Cocinar por 15 minutos.\n5. Incorporar el vino.\n6. Enfriar.\nRinde aproximadamente 5 1/2 tazas.",
+  "url": null
+}

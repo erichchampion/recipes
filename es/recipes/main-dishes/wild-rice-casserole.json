@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "wild-rice-casserole",
+  "name": "Cazuela de Arroz Salvaje",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz salvaje sin cocinar",
+    "1 libra de setas frescas en rodajas gruesas",
+    "1 taza de cebolla picada",
+    "3 tazas de caldo de verduras",
+    "3 dientes de ajo picados"
+  ],
+  "recipeInstructions": "1. Enjuagar bien el arroz salvaje.\n2. Mezclar el arroz salvaje, las setas, la cebolla y el ajo en un recipiente para horno de 3 cuartos.\n3. Verter el caldo de verduras sobre todos los ingredientes.\n4. Tapar y hornear a 175 °C durante aproximadamente 1 hora y media.",
+  "url": null
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "paella",
+  "name": "Paella",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "pollo"
+  ],
+  "recipeIngredient": [
+    "2 libras de piezas de pollo",
+    "Sal y pimienta",
+    "1 diente de ajo machacado",
+    "1 cucharadita de orégano",
+    "2 cucharadas de aceite vegetal",
+    "1 chorizo en rodajas",
+    "1 cebolla picada",
+    "1 pimiento verde picado",
+    "1 taza de arroz sin cocinar",
+    "2 1/2 tazas de caldo de carne",
+    "8 onzas de salsa de tomate",
+    "1/2 cucharadita de azafrán",
+    "1/2 libra de camarones cocidos y limpios",
+    "1/2 taza de guisantes cocidos"
+  ],
+  "recipeInstructions": "1. Lavar y secar las piezas de pollo.\n2. Untar el pollo con las especias (sal y pimienta).\n3. Dorar el pollo en aceite en una sartén grande hasta que esté completamente cocido.\n4. Agregar el chorizo; cocinar a fuego lento durante 10 minutos, revolviendo ocasionalmente.\n5. Añadir la cebolla y el pimiento verde; cocinar hasta ablandar, aproximadamente 5 minutos más.\n6. Incorporar el caldo, la salsa de tomate y el azafrán; tapar y reducir a fuego lento durante 20 minutos.\n7. Agregar el arroz; tapar y reducir durante otros 30 minutos.\n8. Incorporar los camarones y los guisantes; mezclar bien.\n9. Permitir que cualquier líquido excesivo se evapore antes de servir.",
+  "url": null
+}

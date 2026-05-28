@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-chip-brownies",
+  "name": "Brownies con Chispas de Chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "brownies",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 taza de Manteca",
+    "3 tazas de Azúcar",
+    "6 Huevos",
+    "1 cucharadita de Extracto de Vainilla",
+    "2 1/4 tazas de Harina",
+    "1/2 taza de Polvo de Chocolate",
+    "1 cucharadita de Polvo de Hornear",
+    "1 taza de Chispas de Chocolate Semisweet",
+    "1 taza de Chispas de Chocolate Blanco",
+    "1 taza de Nueces picadas"
+  ],
+  "recipeInstructions": "Receta por: Taste of Home Ago/Sept 95\nEn un bol para mezclar, bata la manteca y el azúcar hasta que quede suave. Agregue los huevos y el extracto de vainilla; mezcle bien.\nCombine la harina, el polvo de chocolate y el polvo de hornear en un bol separado. Incorpore a la mezcla cremosa hasta que esté bien mezclado (no sobremezcle). Vierta la masa en una bandeja para enrollar engrasada (15x10x1 pulgadas). Espolvoree con chispas de chocolate y nueces.\nHornear a 350 grados Fahrenheit por 30-35 minutos.",
+  "url": null
+}

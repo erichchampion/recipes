@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "avocado-ice-cream-2",
+  "name": "Helado de Aguacate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de jugo de naranja",
+    "1/2 taza de jugo de limón",
+    "14 1/2 onzas de leche evaporada bien fría",
+    "1 taza de aguacates maduros machacados",
+    "1 1/2 tazas de azúcar"
+  ],
+  "recipeInstructions": "1. Mezclar el jugo de naranja y limón.\n2. Batir la leche en un bol frío hasta que casi duplique su volumen.\n3. Agregar todos los ingredientes; mezclar bien.\n4. Congelar.",
+  "url": null
+}

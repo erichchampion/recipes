@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-dip-2",
+  "name": "Dip de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "dips",
+    "tentempiés",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "8 oz de queso crema, ablandado",
+    "2 manzanas medianas, picadas",
+    "1 cucharada de jugo de limón",
+    "1/2 taza de mayonesa",
+    "1/2 taza de nueces picadas"
+  ],
+  "recipeInstructions": "1. Mezcla el queso crema con la mayonesa.\n2. Agrega las manzanas, nueces y jugo de limón.\n3. Sirve con galletas saladas.",
+  "url": null
+}

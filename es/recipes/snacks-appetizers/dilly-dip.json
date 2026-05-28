@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "dilly-dip",
+  "name": "Dip con eneldo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "etc.",
+    "tentemates"
+  ],
+  "recipeIngredient": [
+    "2 tazas de crema agria",
+    "1 taza de mayonesa",
+    "3 cucharadas de queso parmesano",
+    "2 cucharadas de jugo de limón (al gusto)",
+    "2 cucharadas de vinagre",
+    "1 cucharada de salsa Worcestershire vegetariana",
+    "2 cucharadas de eneldo fresco",
+    "1 cucharadita de pimienta negra",
+    "1/2 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Mezclar la crema agria y la mayonesa en un bol.\n2. Agregar los ingredientes restantes al bol y mezclar bien hasta que estén completamente incorporados.\n3. Cubrir la mezcla y enfriar durante 2 horas.\n4. Servir con vegetales crudos, galletas saladas u otros aderezos.",
+  "url": null
+}

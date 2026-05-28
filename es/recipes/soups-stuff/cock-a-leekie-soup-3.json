@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "cock-a-leekie-soup-3",
+  "name": "Sopa de Pollo y Apio",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "pollo",
+    "sopas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 libras de pollo sin hueso",
+    "4 tazas de agua",
+    "1 zanahoria en rodajas",
+    "1 tallo de apio en rodajas",
+    "1/2 taza de cebada",
+    "2 cucharaditas de caldo de pollo en polvo",
+    "2 cucharaditas de sal",
+    "1/4 cucharadita de pimienta negra",
+    "1 hoja de laurel",
+    "1 1/2 tazas de ajos con sus tallos en rodajas"
+  ],
+  "recipeInstructions": "1. Llevar a ebullición todos los ingredientes excepto los ajos.\n2. Reducir el fuego, tapar y cocinar a fuego lento durante 30 minutos.\n3. Agregar los ajos y llevar a ebullición nuevamente.\n4. Reducir el fuego, tapar y cocinar a fuego lento por 10-15 minutos.",
+  "url": null
+}

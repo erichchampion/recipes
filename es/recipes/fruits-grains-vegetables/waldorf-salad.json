@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "waldorf-salad",
+  "name": "Ensalada Waldorf",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de manzanas picadas",
+    "1 taza de nueces picadas",
+    "1 taza de apio picado",
+    "Salsa de mayonesa",
+    "Unas hebras de sal"
+  ],
+  "recipeInstructions": "1. Mezcla en un bol grande las manzanas picadas, las nueces picadas y el apio picado.\n2. Agrega la sal al gusto.\n3. Vierte la salsa de mayonesa sobre los ingredientes hasta que estén uniformemente humedecidos.\n4. Revuelve suavemente la ensalada con dos tenedores hasta que todos los componentes estén bien combinados.\n5. Sirve sobre hojas de lechuga crujiente. Rinde para 6 porciones.",
+  "url": null
+}

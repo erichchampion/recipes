@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "meat-marinade-john-schmitt",
+  "name": "Marinada para Carne (John Schmitt)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "marinadas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de aceite",
+    "3/4 taza de salsa de soja",
+    "1/4 taza de salsa Worcestershire",
+    "2 cucharadas de mostaza en polvo",
+    "2 1/2 cucharaditas de sal",
+    "1 1/2 cucharaditas de perejil seco",
+    "1 cucharada de pimienta negra",
+    "1/2 taza de vinagre de vino",
+    "1 diente de ajo machacado",
+    "1/3 taza de jugo de limón"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes en un bol hasta que estén bien combinados.\n2. Coloca la marinada sobre la carne y extiéndela uniformemente.\n3. Deja que la carne marine hasta que estés listo para cocinar. Cocina hasta que esté lista.",
+  "url": null
+}

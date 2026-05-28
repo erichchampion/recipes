@@ -1,0 +1,35 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-soup",
+  "name": "Sopa de Pescado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "4 cucharadas de aceite de oliva",
+    "1 cebolla mediana picada",
+    "3 dientes de ajo picados",
+    "4 latas de almejas picadas",
+    "4 tazas de tomates pelados y picados",
+    "1 taza de zanahorias picadas finamente",
+    "2 tazas de apio picado finamente",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de mostaza en polvo",
+    "1/2 cucharadita de orégano",
+    "1/2 cucharadita de pimentón",
+    "4 hojas de laurel",
+    "1 1/2 libras de camarones",
+    "1 libra de escamoles",
+    "2 latas de caldo de carne",
+    "2 latas de caldo de pollo",
+    "4 latas de agua",
+    "1 libra de hadas cortadas en trozos mordidos",
+    "1 libra de bacalao cortado en trozos mordidos"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una sartén pesada a fuego medio. Agregar la cebolla y el ajo, saltear hasta que estén dorados.\n2. Añadir las almejas, tomates picados, zanahorias, apio, caldo de carne, caldo de pollo, agua, sal, mostaza en polvo, orégano, pimentón y hojas de laurel a la sartén.\n3. Revolver y llevar la mezcla a ebullición. Cocinar a fuego lento durante aproximadamente 1 hora, revolviendo ocasionalmente.\n4. Agregar los camarones, hadas y bacalao a la olla. Continuar cocinando a fuego lento hasta que el pescado se desmenuce fácilmente con un tenedor.",
+  "url": null
+}

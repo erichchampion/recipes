@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "vindaloo-2",
+  "name": "Vindaloo",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "asiático",
+    "étnico",
+    "india",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de semillas de cilantro",
+    "1 cucharada de semillas de amapola",
+    "1 cucharada de semillas de mostaza roja",
+    "1 cucharada de semillas de comino",
+    "1/2 taza de aceite de maíz o maní",
+    "2 cucharadas de flocos de chile rojo seco",
+    "1 cucharada de jengibre fresco rallado",
+    "4 dientes de ajo molidos hasta formar una pasta",
+    "1 libra de cerdo sin hueso, cortado en cubos de 2 pulgadas",
+    "1 libra de carne de res sin hueso, cortada en cubos de 2 pulgadas",
+    "1 cucharadita de sal al gusto",
+    "1 taza de agua",
+    "1/2 taza de vinagre"
+  ],
+  "recipeInstructions": "El vinagre es un conservante y el vindaloo se puede conservar en el refrigerador durante varios días antes de usarlo. Los sabores se intensifican si el vindaloo se come uno o dos días antes de cocinar, ligeramente calentado.\nTostar las semillas de cilantro, amapola, mostaza y comino en una sartén seca a fuego medio-bajo durante 2-3 minutos hasta que se libere su aroma. Moler las semillas hasta obtener un polvo fino y reservar.\nCalentar el aceite en una sartén y agregar todas las especias tostadas, los flocos de chile, el jengibre y el ajo. Saltear a fuego medio-bajo durante 2 minutos. Agregar la carne y revolver continuamente durante 10 minutos mientras se dora. Añadir el agua y cubrir la sartén. Cocinar hasta que la carne esté tierna, aproximadamente 1 hora.\nCuando la carne esté completamente tierna, agregar el vinagre y continuar cocinando hasta que el vinagre se evapore y el aceite flote en la superficie. Esto indica que el vindaloo está listo. Escurrir cualquier exceso de aceite antes de servir. Servir caliente con arroz blanco y masoor dal.",
+  "url": null
+}

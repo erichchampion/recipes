@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "calico-salad",
+  "name": "Ensalada Calico",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "ensaladas londontowne"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de azúcar",
+    "1/2 taza de aceite para ensalada",
+    "1/2 taza de vinagre",
+    "1 cucharadita de sal",
+    "1 cucharadita de pimienta",
+    "1 cebolla mediana, picada o en rodajas",
+    "1 taza de judías verdes, cortadas",
+    "1 lata de frijoles rojos, escurridos y enjuagados",
+    "1 lata de guisantes amarillos, escurridos y enjuagados"
+  ],
+  "recipeInstructions": "1. Enjuagar y escurrir las judías rojas, verdes y los guisantes amarillos.\n2. Agregar la cebolla picada o en rodajas a los frijoles y judías.\n3. En un bol, mezclar el azúcar, aceite para ensalada, vinagre, sal y pimienta hasta que se combinen bien.\n4. Verter el aderezo sobre la ensalada y refrigerar.",
+  "url": null
+}

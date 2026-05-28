@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "mushroom-soup-2",
+  "name": "Sopa de Setas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "aperitivos",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 zanahorias",
+    "1 raíz de perejil",
+    "2 tallos de apio",
+    "2 cebollas, en rodajas",
+    "4 tazas de agua con sal",
+    "400g de setas, en rodajas",
+    "1 taza de agua",
+    "sal y pimienta al gusto",
+    "2 cucharadas de harina instantánea",
+    "1/4 taza de agua fría",
+    "1/2 taza de crema agria",
+    "1 cucharadita de hojas de eneldo",
+    "400g de ruibarbo, picado finamente",
+    "400g de macarrones finos"
+  ],
+  "recipeInstructions": "1. Cocinar las zanahorias, el perejil, el apio y una cebolla en 4 tazas de agua con sal durante 20 minutos.\n2. Escurrir los vegetales y desechar el líquido.\n3. Cocinar las setas y la cebolla restante en 1 taza de agua durante 10 minutos.\n4. Añadir sal y pimienta al gusto.\n5. Mezclar los vegetales cocidos con caldo vegetal, incorporar la harina mezclada con agua fría.\n6. Llevar a ebullición.\n7. Retirar del fuego.\n8. Incorporar la crema agria, el eneldo, el perejil, el ruibarbo y los macarrones finos.",
+  "url": null
+}

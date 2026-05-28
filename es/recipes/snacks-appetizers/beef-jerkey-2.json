@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-jerkey-2",
+  "name": "Jerky de Carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "carne de res",
+    "ajo",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 bistec de falda o lomo",
+    "Pimienta negra gruesa",
+    "1/2 taza de salsa de soya",
+    "Polvo de ajo"
+  ],
+  "recipeInstructions": "1. Cortar el bistec de falda o lomo en tiras de 0,6 cm de grosor.\n2. Espolvorear con polvo de ajo y pimienta negra gruesa.\n3. Marinar en salsa de soya durante 24 horas.\n4. Hornear en un horno a 150°F (65°C) durante 10 a 12 horas, asegurándose de que la temperatura no supere los 150°F.",
+  "url": null
+}

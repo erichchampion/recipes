@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "braunburgers-3",
+  "name": "Hamburguesas Braunburgers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "carne molida",
+    "plato principal",
+    "salchichas"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "1/4 libra de salchicha Braunschweiger",
+    "2 cucharadas de crema agria láctea",
+    "1/4 taza de cebolla finamente picada"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes.\n2. Formar la mezcla en 5 hamburguesas, cada una de aproximadamente 1 cm de grosor.\n3. Asar a la parrilla o a la brasa a 4 pulgadas de distancia del calor, dando vuelta una vez, hasta alcanzar el punto deseado (aproximadamente 10 a 15 minutos).",
+  "url": null
+}

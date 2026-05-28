@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "brownies-5",
+  "name": "Brownies",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "brownies",
+    "galletas",
+    "postres",
+    "fiestas"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de polvo de cacao",
+    "1/4 taza de mantequilla o manteca vegetal",
+    "1/4 taza de puré de manzana",
+    "2 cucharadas (30 ml) de edulcorante líquido",
+    "2 cucharadas de extracto de vainilla",
+    "2 huevos batidos",
+    "1 taza de harina para todo uso",
+    "1/2 cucharadita de sal",
+    "1 1/2 cucharaditas de bicarbonato de sodio",
+    "1/4 taza de nueces picadas"
+  ],
+  "recipeInstructions": "1. Cernir juntos el polvo de cacao, la harina, la sal y el bicarbonato de sodio.\n2. Agregar el extracto de vainilla, el edulcorante y los huevos batidos a los ingredientes cernidos. Mezclar hasta que esté bien combinado.\n3. Incorporar las nueces picadas.\n4. Verter la masa en un molde cuadrado engrasado de 8 pulgadas y extender uniformemente.\n5. Hornear a 165°C (325°F) durante 20 minutos.\n6. Cortar en 16 cuadrados.",
+  "url": null
+}

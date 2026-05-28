@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "classic-potato-salad-2",
+  "name": "Ensalada de Papas Clásica",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "papas",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 taza de mayonesa",
+    "2 cucharadas de vinagre",
+    "1 1/2 cucharaditas de sal",
+    "1 cucharadita de pimienta",
+    "4 tazas de papas cocidas en cubos (5-6 medianas)",
+    "1 taza de apio en rodajas",
+    "1/2 taza de cebolla picada",
+    "2 huevos duros picados"
+  ],
+  "recipeInstructions": "1. En un bol grande, combina la mayonesa, el vinagre, la sal y la pimienta.\n2. Agrega las papas en cubos, el apio y la cebolla picada.\n3. Incorpora los huevos duros picados.\n4. Cubre el bol con papel film y refrigera por al menos 30 minutos para que se mezclen los sabores.\n5. Sirve fría. Rinde 5 tazas.",
+  "url": null
+}

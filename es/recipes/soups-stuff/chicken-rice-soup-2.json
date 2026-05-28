@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-rice-soup-2",
+  "name": "Sopa de Pollo y Arroz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "diabetico",
+    "pollo",
+    "arroz",
+    "sopas",
+    "guisos/sopas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 libras de trozos de pollo",
+    "1 pimiento entero",
+    "8 tazas de agua",
+    "1 hoja de laurel",
+    "1/2 taza de apio con hojas, picado",
+    "1/4 cucharadita de semillas de apio",
+    "1/4 taza de perejil fresco picado",
+    "1 cebolla pequeña",
+    "1/4 taza de zanahorias picadas"
+  ],
+  "recipeInstructions": "1. Coloca los trozos de pollo en una olla grande y cúbrelos con agua.\n2. Añade el apio, perejil, cebolla, pimiento, hoja de laurel y semillas de apio a la olla.\n3. Lleva a ebullición, luego reduce el calor a bajo y deja cocinar a fuego lento durante 4 horas (o 1 hora en la estufa a fuego bajo).\n4. Retira los trozos de pollo del caldo; desecha la hoja de laurel.\n5. Pica el pollo en trozos pequeños.\n6. Añade el arroz y las zanahorias a la olla con el caldo restante y cocina hasta que el arroz esté tierno, aproximadamente 30-40 minutos.",
+  "url": null
+}

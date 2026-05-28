@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "swedish-apple-pie",
+  "name": "Pastel de Manzana Sueco",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "frutas",
+    "bajo en calorías",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de Harina",
+    "3/4 taza de Azúcar",
+    "Un pellizco de Sal",
+    "2 cucharaditas de Polvo de Hornear",
+    "1 1/2 tazas de Manzanas en Cubos",
+    "1/2 taza de Nueces Picadas",
+    "1 Huevo Batido",
+    "1 cucharadita de Extracto de Vainilla"
+  ],
+  "recipeInstructions": "1. Mezclar la harina, el azúcar, la sal y el polvo de hornear.\n2. Agregar la mezcla a las manzanas en cubos y las nueces picadas.\n3. Batir el huevo y el extracto de vainilla por separado.\n4. Combinar todos los ingredientes hasta que estén bien mezclados.\n5. Extender la preparación en un molde para pastel de 23 cm engrasado y enharinado.\n6. Hornear a 175°C durante 25 minutos.\n7. Servir caliente con helado de vainilla o crema batida.",
+  "url": null
+}

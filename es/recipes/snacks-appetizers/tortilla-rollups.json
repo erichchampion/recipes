@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "tortilla-rollups",
+  "name": "Rellenos de Tortilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "250 gramos de queso crema",
+    "250 gramos de crema agria",
+    "1 sobre de mezcla para tacos",
+    "150 gramos de aceitunas negras picadas",
+    "100 gramos de chiles verdes picados",
+    "1 cebolla verde picada",
+    "10 tortillas de harina, tamaño fajita"
+  ],
+  "recipeInstructions": "1. Mezclar el queso crema y la crema agria.\n2. Agregar la mezcla para tacos y combinar bien.\n3. Incorporar las aceitunas negras y los chiles verdes. Mezclar hasta que quede uniforme.\n4. Extender la mezcla sobre las tortillas de harina.\n5. Enrollar cada tortilla.\n6. Refrigerar hasta el momento de servir.\n7. Cortar en porciones antes de servir.",
+  "url": null
+}

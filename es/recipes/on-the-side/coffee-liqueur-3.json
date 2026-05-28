@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "coffee-liqueur-3",
+  "name": "Licor de Café",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "café",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de agua",
+    "2 tazas de azúcar blanca",
+    "1/2 taza de café instantáneo",
+    "1/2 vaina de vainilla, picada",
+    "1 1/2 tazas de vodka"
+  ],
+  "recipeInstructions": "1. Llevar el agua y el azúcar a ebullición hasta que el azúcar se disuelva por completo.\n2. Apagar el calor y mezclar lentamente el café instantáneo seco.\n3. En un recipiente separado, agregar la vaina de vainilla picada al vodka.\n4. Combinar el jarabe de azúcar enfriado y la solución de café con el vodka.\n5. Sellar el recipiente herméticamente y agitar enérgicamente cada día durante 3 semanas.\n6. Colar y filtrar la mezcla.",
+  "url": null
+}

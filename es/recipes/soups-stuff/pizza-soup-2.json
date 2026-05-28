@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-soup-2",
+  "name": "Sopa de Pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "italiana",
+    "arroz",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de risotto sin cocinar",
+    "3/4 taza de cebolla picada",
+    "1 taza de champiñones laminados",
+    "1/4 taza de pimiento verde picado",
+    "2 dientes de ajo picados",
+    "2 cucharadas de aceite de oliva",
+    "2 tazas de caldo de carne",
+    "2 tazas de salsa de tomate",
+    "2 cucharaditas de albahaca seca",
+    "1 cucharadita de orégano",
+    "2 onzas de queso mozzarella rallado"
+  ],
+  "recipeInstructions": "1. En una olla grande, cocine el risotto durante unos 10 minutos, o hasta que esté tierno. Escurra el risotto.\n2. Calienta el aceite de oliva en un sartén aparte a fuego medio. Agrega la cebolla, los champiñones, el pimiento verde y el ajo. Cocina, revolviendo ocasionalmente, hasta que la cebolla se vuelva transparente.\n3. Vierte el caldo de carne y la salsa de tomate. Mezcla bien. Añade la albahaca seca, el orégano y el risotto cocido. Lleva la mezcla a ebullición y cocina durante 10 minutos.\n4. Sirve caliente, con queso mozzarella rallado por encima.\nRinde para 4 porciones.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cucumber-soup",
+  "name": "Sopa de Pepino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de Manteca",
+    "1/4 taza de Cebolla verde, picada",
+    "1 Pepino",
+    "1 cucharada de Harina",
+    "2 tazas de Caldo de Pollo",
+    "1/2 cucharadita de Vinagre",
+    "1 cucharada de Eneldo seco",
+    "1/4 taza de Crema agria"
+  ],
+  "recipeInstructions": "1. Los pepinos pueden pelarse o no.\n2. Derrite la manteca y sofríe la cebolla hasta que esté suave.\n3. Corta los pepinos en dados y añádelos a la olla; agrega la harina y revuelve bien.\n4. Vierte el caldo de pollo, el vinagre y el eneldo. Revuelve bien.\n5. Cocina durante 30 minutos.\n6. Licúa mientras se añade la crema agria.\n7. Sirve fría o caliente.",
+  "url": null
+}

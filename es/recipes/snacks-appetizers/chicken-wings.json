@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-wings",
+  "name": "Alas de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "bebidas",
+    "pollo",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 paquete de alas de pollo",
+    "1 taza de Coca-Cola",
+    "1 taza de ketchup",
+    "1/4 taza de mantequilla"
+  ],
+  "recipeInstructions": "1. Coloca las alas en un plato para hornear.\n2. Mezcla los ingredientes.\n3. Vierte la mezcla sobre las alas de pollo.\n4. Hornea a 325°F (163°C) hasta que las alas estén cocidas, aproximadamente 1 hora.",
+  "url": null
+}

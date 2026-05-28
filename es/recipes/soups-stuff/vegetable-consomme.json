@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetable-consomme",
+  "name": "Consome de Verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "dietético",
+    "sopas",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "2 cebollas medianas, solo la parte blanca, picadas",
+    "1/2 raíz de apio (o 2 tallos de apio), pelada y picada",
+    "4 chalotas, cortadas groseramente",
+    "1 tomate grande, pelado y sin semillas",
+    "3 zanahorias medianas, picadas",
+    "3 dientes de ajo, cortados groseramente",
+    "3 ramitas de perejil",
+    "10 hojas de albahaca",
+    "10 champiñones blancos, picados",
+    "1 ramita de tomillo",
+    "2 hojas de laurel",
+    "2 ramitas de cilantro",
+    "una pizca de cerfea",
+    "pimienta molida al gusto"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en una olla para caldo.\n2. Cubrir con 2 litros de agua fría y llevar a ebullición.\n3. Reducir el fuego a un hervor suave y cocinar durante unos 20 minutos.\n4. Apagar el fuego, mantener cubierto y dejar reposar para que infusione durante otros 20 minutos.\n5. Colar cuidadosamente el caldo por un colador fino.",
+  "url": null
+}

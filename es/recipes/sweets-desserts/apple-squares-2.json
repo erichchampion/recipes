@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-squares-2",
+  "name": "Cuadrados de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres",
+    "frutas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla o margarina",
+    "1/4 cucharadita de polvo de hornear",
+    "1/4 cucharadita de sal",
+    "1 huevo",
+    "2 manzanas, peladas y picadas",
+    "1 taza de harina"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F (175°C).\n2. Batir la mantequilla con el azúcar hasta obtener una mezcla cremosa.\n3. Incorporar el huevo y mezclar bien.\n4. Combinar la harina, el polvo de hornear y la sal; agregar gradualmente a la mezcla de mantequilla y azúcar.\n5. Agregar suavemente las manzanas y las nueces (opcional).\n6. Verter la masa en un molde engrasado de 20 cm x 20 cm.\n7. Hornear durante 35 minutos.",
+  "url": null
+}

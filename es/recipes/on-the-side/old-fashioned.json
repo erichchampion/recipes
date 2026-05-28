@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "old-fashioned",
+  "name": "Old Fashioned",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "drinks",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 oz de whisky mezclado",
+    "2 gotas de amargo",
+    "1 cucharadita de agua",
+    "1 cucharadita de azúcar",
+    "cubos de hielo",
+    "1 giro de cáscara de limón",
+    "1 rebanada de naranja",
+    "1 cereza maraschino"
+  ],
+  "recipeInstructions": "Vierte los amargos y el agua en un vaso Old Fashioned. Añade el azúcar y machaca bien con una cuchara de bar o una cucharadita. Agrega el whisky y revuelve. Coloca los cubos de hielo. Gira una cáscara de limón sobre la bebida y déjala caer dentro. Adorna con una rebanada de naranja y una cereza.",
+  "url": null
+}

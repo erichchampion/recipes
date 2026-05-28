@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "mock-sour-cream-2",
+  "name": "Crema ácida falsa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 taza de queso cottage sin grasa",
+    "2 cucharadas de jugo de limón",
+    "2 cucharadas de mayonesa sin grasa",
+    "1/4 taza de suero de leche sin grasa",
+    "la cáscara de medio limón (opcional, al gusto)"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en una licuadora.\n2. Licuar hasta que quede suave y bien mezclado.\n3. Usar en lugar de crema ácida en las recetas según sea necesario.",
+  "url": null
+}

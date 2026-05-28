@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "greek-hamburgers",
+  "name": "Hamburguesas griegas",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "griego",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de carne molida (magra)",
+    "2 cucharadas de aceite de oliva",
+    "3 dientes de ajo (picados)",
+    "3 cucharadas de vino tinto seco (Burgundy)",
+    "2 cucharaditas de orégano",
+    "2 cucharadas de mostaza Dijon"
+  ],
+  "recipeInstructions": "1. Mezcla la carne molida con los primeros seis ingredientes, combinándolos bien.\n2. Sazona al gusto con sal y pimienta.\n3. Prepara tu método de cocción preferido para las hamburguesas.\n4. Coloca cebolla frita, lechuga y tomate sobre cada hamburguesa antes de servir.\n5. Sirve en panecillos; si lo deseas, usa mostaza Dijon como topping en lugar de mayonesa u otros condimentos.\nRinde para 6 personas.",
+  "url": null
+}

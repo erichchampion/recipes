@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "corn-casserole-supreme",
+  "name": "Omelet de Maíz Supremo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "plato principal",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "17 oz lata de maíz estilo cremoso",
+    "2 huevos; batidos",
+    "1/2 taza de galletas saladas trituradas",
+    "1/4 taza de margarina derretida",
+    "1/4 taza de leche evaporada sin diluir",
+    "1/4 taza de zanahorias ralladas finamente",
+    "1 cucharadita de cebolla picada",
+    "1/4 taza de pimiento verde picado",
+    "1/4 taza de apio picado",
+    "1 cucharadita de salsa Tabasco",
+    "1/2 cucharadita de azúcar",
+    "sal al gusto",
+    "1/2 taza de queso cheddar rallado",
+    "pimentón"
+  ],
+  "recipeInstructions": "1. Mezcla el maíz con todos los ingredientes excepto el queso y el pimentón.\n2. Revuelve bien.\n3. Vierte la mezcla en un molde para hornear engrasado de 8 x 11 pulgadas.\n4. Cubre con queso.\n5. Espolvorea con pimentón.\n6. Hornea a 350 grados F durante 30 minutos.\n7. Sirve para 8 personas.",
+  "url": null
+}

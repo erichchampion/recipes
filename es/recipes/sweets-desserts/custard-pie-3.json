@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "custard-pie-3",
+  "name": "Tarta de Crema",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 huevos, ligeramente batidos",
+    "2 cucharadas de leche",
+    "2 tazas de azúcar",
+    "1/2 taza de harina",
+    "4 tazas de rábano"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes en un bol.\n2. Verter la mezcla en un molde para tarta o pastel forrado con masa de 23 cm.\n3. Hornear a 400 grados durante 10 minutos.\n4. Reducir la temperatura a 300 grados y hornear de 50 a 60 minutos.\n5. Enfriar la tarta.\n6. Cubrir con crema batida.",
+  "url": null
+}

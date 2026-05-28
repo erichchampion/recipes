@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "german-apple-cake",
+  "name": "Pastel de Manzana Alemán",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pastel",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 paquete de mezcla para pastel de chocolate alemán",
+    "2 tazas de relleno de pastel de manzana preparado (1 lata)",
+    "3 huevos"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes juntos según las instrucciones del paquete.\n2. Verter la masa en un molde engrasado y enharinado de 13 x 9 pulgadas.\n3. Hornear a 350 grados Fahrenheit durante 40 a 50 minutos, o hasta que la parte superior se vuelva firme al tacto suave.\n4. Enfriar completamente.\n5. Cubrir con crema batida y espolvorear con canela.",
+  "url": null
+}

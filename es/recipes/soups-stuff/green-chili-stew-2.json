@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "green-chili-stew-2",
+  "name": "Estofado de Chili Verde",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "chili numex",
+    "pimientos",
+    "sopas",
+    "estofados",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne molida",
+    "1/2 cucharadita de sal",
+    "2 tazas de agua",
+    "4 papas medianas",
+    "un pellizco de sal",
+    "1/4 taza de cebolla",
+    "1 taza de chili verde",
+    "1 lata de tomates"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida y escurrir el exceso de grasa.\n2. Agregar la sal, pimienta, agua, cebolla, tomates y papas en una olla.\n3. Tapar y llevar a ebullición a fuego bajo hasta que las papas estén tiernas.",
+  "url": null
+}

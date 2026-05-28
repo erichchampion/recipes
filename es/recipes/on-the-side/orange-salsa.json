@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "orange-salsa",
+  "name": "Salsa de Naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "2 naranjas grandes (de Florida), peladas, sin parte blanca y picadas (1 1/2 tazas)",
+    "1 tomate grande, sin semillas y picado (1 taza)",
+    "1/3 taza de cebolla roja picada",
+    "1 cucharada de cáscara de naranja rallada (recomiendo usar orgánica si es posible)",
+    "1 cucharada de ajo picado",
+    "1 cucharada de jengibre picado",
+    "1/2 pimiento jalapeño, picado finamente (2 cucharadas)",
+    "1/4 cucharadita de sal",
+    "1 cucharada de cilantro fresco, o corintio"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el cilantro en un bol y refrigerar cubierto hasta que esté listo para servir.\n2. Antes de servir, agregar el cilantro.",
+  "url": null
+}

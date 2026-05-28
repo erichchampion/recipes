@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pea-soup",
+  "name": "Sopa de Guisantes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "1 lata de guisantes",
+    "3 tazas de agua fría",
+    "3 tazas de leche",
+    "1 cebolla picada",
+    "2 cucharadas de mantequilla",
+    "2 cucharadas de harina",
+    "1 cucharadita de azúcar",
+    "sal",
+    "pimienta"
+  ],
+  "recipeInstructions": "1. Coloca los guisantes y el agua en una olla. \n2. Añade 3 tazas de agua fría a la mezcla.\n3. Hierve a fuego lento durante 15 minutos.\n4. Cuela por un colador.\n5. Calienta nuevamente los guisantes escurridos.\n6. Agrega harina y mantequilla, revolviendo hasta que esté suave.\n7. Vierte la leche con la cebolla en una sartén separada.\n8. Combina la mezcla de leche y cebolla con el puré de guisantes.\n9. Sazona con sal y pimienta al gusto.\n10. Sirve caliente.",
+  "url": null
+}

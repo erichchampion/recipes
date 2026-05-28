@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-lemon-chicken-2",
+  "name": "Pollo al Limón Asado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo sin hueso",
+    "1 palo de mantequilla",
+    "1/3 taza de jugo de limón",
+    "1/2 taza de harina",
+    "1/2 taza de cebolla picada",
+    "1 diente de ajo picado",
+    "1 cucharadita de sal",
+    "1 cucharadita de pimienta"
+  ],
+  "recipeInstructions": "1. Golpear las pechugas de pollo para que queden de grosor uniforme.\n2. Espolvorear con harina, cubriendo ambos lados.\n3. Derretir la mantequilla en una sartén para hornear a fuego bajo.\n4. Colocar el pollo en la mantequilla caliente, con la piel hacia arriba si no es sin hueso.\n5. Hornear a 180°C durante 30 minutos.\n6. Mientras tanto, preparar la mezcla de untado al limón mezclando el jugo de limón, la cebolla picada, el ajo, la sal y la pimienta.\n7. Untar el pollo con parte de la mezcla.\n8. Devolver el pollo a la sartén y untar el resto de la mezcla por encima.\n9. Continuar horneando durante 30 minutos adicionales o hasta que esté cocido completamente.\n10. Servir con arroz y una verdura.",
+  "url": null
+}

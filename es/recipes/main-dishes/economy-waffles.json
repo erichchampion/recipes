@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "economy-waffles",
+  "name": "Waffles económicos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "waffles"
+  ],
+  "recipeIngredient": [
+    "2 yemas de huevo",
+    "1/2 taza de leche (endulzada)",
+    "1/2 cucharadita de sal",
+    "1 cucharadita de polvo de hornear",
+    "1 taza de harina",
+    "1 cucharada de mantequilla derretida - o sustituto"
+  ],
+  "recipeInstructions": "1. Bate las yemas de huevo.\n2. Mezcla la leche, sal, harina y polvo de hornear con la mantequilla derretida.\n3. Agrega las claras de huevo batidas firmemente.\n4. Cocina en una plancha para waffles hasta que sean dorados y crujientes.",
+  "url": null
+}

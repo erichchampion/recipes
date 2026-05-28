@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-milk-2",
+  "name": "Leche de Arroz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "lácteos",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "4 tazas de agua",
+    "1 taza de arroz marrón cocido",
+    "1 cucharadita de vainilla"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en una licuadora y procesa hasta obtener una consistencia suave.\n2. Refrigera.\n3. Para un resultado más suave, deja reposar por 30 minutos, luego vierte la leche en otro recipiente, dejando el sedimento atrás.",
+  "url": null
+}

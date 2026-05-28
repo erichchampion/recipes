@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "madeleines",
+  "name": "Madeleines",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3 huevos",
+    "1/4 cucharadita de sal",
+    "1 taza de azúcar",
+    "1 cucharadita de extracto de vainilla",
+    "1 taza de harina para todo uso",
+    "1/4 libra de mantequilla sin sal, derretida y enfriada",
+    "opcional: ralladura de limón fresca o pasta de almendras",
+    "opcional: espolvorear con azúcar glas después de hornear"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 375°F (190°C).\n2. Enmantequillar y enharinar los moldes para madeleines. Si se usa un molde antiadherente, solo usar spray para cocinar.\n3. Batir los huevos, la sal y el azúcar juntos hasta que estén espesos (8 minutos).\n4. Agregar el extracto de vainilla.\n5. Incorporar la harina suavemente.\n6. Mezclar suavemente la mantequilla derretida.\n7. Verter la mezcla rápidamente en los moldes para madeleines, llenándolos hasta 3/4.\n8. Hornear hasta que estén dorados, aproximadamente 8-10 minutos.\n9. Retirar de los moldes y dejar enfriar sobre rejillas.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "romaine-salad-2",
+  "name": "Ensalada de Lechuga Romana",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "italiana",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 cabeza de lechuga romana",
+    "5 cucharadas de aceite de oliva",
+    "1 tomate grande, pelado y cortado en gajos",
+    "1 cucharada de jugo de limón",
+    "Sal y pimienta al gusto",
+    "Aderezo:"
+  ],
+  "recipeInstructions": "1. Deseche las hojas externas oscuras y lave, seque y pique la lechuga romana.\n2. Mezcle la lechuga picada con los gajos de tomate en un aderezo hecho con aceite de oliva, jugo de limón, sal, pimienta y eneldo opcional. Revuelva vigorosamente hasta que esté bien mezclado.\n3. Sirva y disfrute.",
+  "url": null
+}

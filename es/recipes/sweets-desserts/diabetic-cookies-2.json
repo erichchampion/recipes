@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "diabetic-cookies-2",
+  "name": "Galletas para Diabéticos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres",
+    "diabéticos"
+  ],
+  "recipeIngredient": [
+    "1 taza de pasas",
+    "1 taza de agua",
+    "2 huevos; batidos",
+    "1 cucharadita de vainilla",
+    "1 taza de harina",
+    "1/4 taza de dátiles; picados",
+    "1/2 taza de manteca",
+    "3 cucharadas de edulcorante",
+    "1 cucharadita de bicarbonato"
+  ],
+  "recipeInstructions": "1. Combinar pasas, dátiles y agua en una olla. Hervir durante 3 minutos.\n2. Agregar la manteca a la mezcla y dejar enfriar.\n3. En un bol aparte, batir los huevos.\n4. Agregar gradualmente los ingredientes restantes (harina, edulcorante, bicarbonato) a la mezcla de huevo y mezclar bien.\n5. Refrigerar la masa.\n6. Colocar cucharadas de masa en una bandeja para galletas sin engrasar.\n7. Hornear a 350 grados Fahrenheit durante 10 a 12 minutos.",
+  "url": null
+}

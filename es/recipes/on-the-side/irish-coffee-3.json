@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "irish-coffee-3",
+  "name": "Café Irlandés",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "café",
+    "bebida caliente",
+    "comidas acompañantes"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de agua tibia",
+    "1 cucharada de cristales de café instantáneo",
+    "1/4 taza de whisky irlandés",
+    "azúcar morena al gusto",
+    "1 lata de crema batida"
+  ],
+  "recipeInstructions": "1. En un medidor de 2 tazas, combina el agua tibia y los cristales de café instantáneo.\n2. Microondas sin cubrir a potencia máxima durante aproximadamente 4 minutos o hasta que esté humeante. Agrega el whisky irlandés y la azúcar morena. Sirve en tazas.\n3. Cubre cada taza de mezcla de café con un poco de crema batida.",
+  "url": null
+}

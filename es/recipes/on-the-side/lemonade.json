@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemonade",
+  "name": "Limonada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "limonada",
+    "comidas acompañantes"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de jugo de limón fresco",
+    "1 1/2 tazas de jarabe de azúcar - Ver Nota",
+    "1 taza de agua",
+    "- (agua con gas es",
+    "a veces refrescante)"
+  ],
+  "recipeInstructions": "PARA LIMONADA FRÍA, combina el jugo de limón, el jarabe de azúcar y el agua en un vaso y revuelve. Añade hielo para enfriar. Flota rodajas de limón.",
+  "url": null
+}

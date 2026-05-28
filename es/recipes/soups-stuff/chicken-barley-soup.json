@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-barley-soup",
+  "name": "Sopa de Pollo y Cebada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopa"
+  ],
+  "recipeIngredient": [
+    "1-2 libras de pollo (cortado en trozos)",
+    "2 litros de agua",
+    "1 1/2 tazas de zanahorias (picadas)",
+    "1 taza de apio (picado)",
+    "1/2 taza de cebada",
+    "1/2 taza de cebolla (picada)",
+    "1 caldo de pollo opcional",
+    "1 cucharadita de sal (opcional)",
+    "1 hoja de laurel",
+    "1/2 cucharadita de condimento para aves",
+    "1/2 cucharadita de pimienta negra",
+    "1/2 cucharadita de tomillo seco"
+  ],
+  "recipeInstructions": "1. En una olla grande, cocina el pollo en agua hasta que esté tierno.\n2. Deja enfriar el caldo y retira la grasa que flote en la superficie.\n3. Deshuesa el pollo y córtalo en trozos pequeños. Devuélvelos a la olla junto con los demás ingredientes.\n4. Hierve todo junto, cubierto, por al menos 1 hora o hasta que las verduras y la cebada estén tiernas. Retira la hoja de laurel antes de servir.",
+  "url": null
+}

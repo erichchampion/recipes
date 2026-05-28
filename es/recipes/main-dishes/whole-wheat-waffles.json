@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "whole-wheat-waffles",
+  "name": "Waffles de Trigo Integral",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "waffles"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina de trigo integral",
+    "2 cucharadas de aceite de maíz",
+    "1/4 taza de germen de trigo",
+    "1 1/2 tazas de buttermilk",
+    "2 cucharaditas de bicarbonato de sodio",
+    "1 huevo batido"
+  ],
+  "recipeInstructions": "1. Combinar los ingredientes secos en un bol mediano.\n2. Mezclar el aceite, el buttermilk y el huevo en un bol pequeño.\n3. Agregar a los ingredientes secos.\n4. Mezclar hasta combinar.\n5. No batir.\n6. Calentar la plancha para waffles, engrasándola ligeramente si es necesario.\n7. Verter suficiente masa para llenar justo la sartén para waffles.\n8. Cerrar la plancha para waffles.\n9. Cocinar hasta que deje de salir vapor y los waffles estén crujientes.\n10. Servir con puré de manzana o un aderezo de frutas frescas.",
+  "url": null
+}

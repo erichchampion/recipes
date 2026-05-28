@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "bread-mix",
+  "name": "Mezcla para pan",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "mezclas"
+  ],
+  "recipeIngredient": [
+    "Joy Quirk (HFTC65A)",
+    "20 tazas de harina de pan (5 libras)",
+    "1 1/4 tazas de azúcar",
+    "4 cucharaditas de sal",
+    "1 taza de leche en polvo sin grasa instantánea"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes en un bol grande.\n2. Mezclar para distribuir uniformemente.\n3. Transferir la mezcla a un recipiente hermético.\n4. Etiquetar el recipiente con el contenido y la fecha.\n5. Almacenar en un lugar fresco y seco.\n6. Consumir en 6 a 8 meses.\n7. La mezcla rinde aproximadamente 22 tazas de mezcla para pan lista para usar.",
+  "url": null
+}

@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "cold-bean-salad",
+  "name": "Ensalada de Frijoles Fríos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "aperitivos",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 taza de frijoles pintos cocidos",
+    "1 taza de frijoles habas cocidos",
+    "1 taza de frijoles rojos cocidos",
+    "1 tallo de apio, picado",
+    "1 pimiento verde, picado",
+    "2 dientes de ajo, picados",
+    "1/2 taza de aceite",
+    "3 cucharadas de tamari",
+    "2 cucharadas de vinagre de manzana",
+    "1 cucharada de melaza ligera",
+    "3 cucharadas de levadura nutricional",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de polvo de ajo",
+    "1/4 cucharadita de pimentón dulce",
+    "1/4 cucharadita de orégano",
+    "1/4 cucharadita de albahaca",
+    "1/8 cucharadita de pimienta roja"
+  ],
+  "recipeInstructions": "1. Mezclar los frijoles cocidos y las verduras picadas en un bol grande.\n2. En una licuadora, mezclar todos los ingredientes restantes hasta obtener una consistencia suave. Verter esta mezcla en el bol con los frijoles y las verduras.\n3. Ajustar la sazón al gusto. Dejar enfriar durante 2 horas antes de servir.",
+  "url": null
+}

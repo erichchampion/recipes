@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-smoothie",
+  "name": "Batido de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "frutas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de puré de manzana",
+    "1 taza de sidra de manzana",
+    "1 taza de jugo de naranja",
+    "2 cucharadas de jarabe de arce de Vermont",
+    "1/2 cucharadita de nuez moscada",
+    "1/2 cucharadita de canela"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes a una licuadora.\n2. Licuar hasta obtener una consistencia suave.\n3. Verter en vasos y servir.",
+  "url": null
+}

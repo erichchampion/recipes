@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "iced-coffee",
+  "name": "Café helado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de polvo de espresso instantáneo",
+    "Medaglia d'Oro es excelente",
+    "1/2 taza de agua del grifo caliente",
+    "2 tazas de cubos de hielo",
+    "1/2 taza de leche condensada endulzada"
+  ],
+  "recipeInstructions": "1. Disuelva el polvo de espresso en agua caliente hasta que esté completamente mezclado.\n2. Deje que la mezcla se enfríe a temperatura ambiente. Puede darle vueltas suavemente en un bol metálico pequeño para acelerar el enfriamiento.\n3. En una licuadora, combine la mezcla de espresso enfriada, leche condensada endulzada y cubos de hielo.\n4. Licúe a velocidad alta durante un minuto, asegurándose de que no queden trozos visibles de hielo.\n5. Vierta en vasos con una cuchara y sirva con un pajita.\nRinde para 2 tragos altos o 4 tragos pequeños.",
+  "url": null
+}

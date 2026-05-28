@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "spiced-tea-2",
+  "name": "Té Especiado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "acompañamientos",
+    "té"
+  ],
+  "recipeIngredient": [
+    "3 tazas de jugo de piña",
+    "1/2 taza de jugo de limón fresco",
+    "3 tazas de agua fría",
+    "3/4 taza de azúcar morena",
+    "3 varas de canela enteras",
+    "1 cucharadita de clavo molido",
+    "2 cucharaditas de jengibre molido",
+    "4 bolsitas de té entero"
+  ],
+  "recipeInstructions": "1. Combinar el jugo de piña, jugo de limón y agua en una olla grande.\n2. Llevar a ebullición a fuego alto.\n3. Agregar el azúcar morena y las especias, removiendo suavemente.\n4. Reducir el calor a medio-bajo y cocinar a fuego lento durante 20 minutos.\n5. Retirar del fuego y agregar las bolsitas de té.\n6. Tapar y dejar reposar por 10 minutos adicionales.\n7. Retirar las bolsitas de té y colar la mezcla a través de un colador fino.\n8. Servir caliente o frío.",
+  "url": null
+}

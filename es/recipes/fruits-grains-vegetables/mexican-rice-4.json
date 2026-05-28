@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-rice-4",
+  "name": "Arroz Mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz",
+    "mexicano",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz, Uncle Ben's Convertido",
+    "12 onzas de jugo V-8",
+    "1 taza de agua",
+    "1 cucharadita de polvo de chile",
+    "1 cucharadita de cebolla en polvo",
+    "1/2 taza de pimiento verde picado (más si se desea)",
+    "1/2 taza de maíz congelado o enlatado (más si se desea)"
+  ],
+  "recipeInstructions": "1. En una olla, mezcla el jugo V-8, agua, polvo de chile y cebolla en polvo.\n2. Lleva la mezcla a ebullición lenta a fuego medio.\n3. Agrega el arroz, pimiento verde picado y maíz a la olla.\n4. Tapa y reduce el calor a bajo.\n5. Cocina durante 25-30 minutos, revolviendo una vez durante el tiempo de cocción. El tiempo de cocción puede variar ligeramente dependiendo de la cantidad de verduras agregadas.\n6. Deja enfriar completamente antes de servir.",
+  "url": null
+}

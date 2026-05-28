@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-mushroom-soup-2",
+  "name": "Sopa de Pollo y Setas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopa"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de pechuga de pollo sin hueso",
+    "2 tazas de caldo de pollo",
+    "1 taza de setas frescas, cortadas en cuartos",
+    "4 cucharadas de aceite de sésamo",
+    "2 cucharadas de jerez",
+    "2 cucharadas de perejil fresco picado"
+  ],
+  "recipeInstructions": "1. Cortar la carne del pecho de pollo en lonchas finas.\n2. Llevar el caldo de pollo a ebullición y agregar el pollo y las setas.\n3. Cuando la sopa vuelva a hervir y todos los ingredientes floten, retirar del fuego.\n4. Incorporar el aceite de sésamo y el jerez, y sazonar al gusto. Ajustar con sal y pimienta si es necesario.\n5. Servir en cuencos individuales y espolvorear con perejil picado. Rinde para 2 personas.",
+  "url": null
+}

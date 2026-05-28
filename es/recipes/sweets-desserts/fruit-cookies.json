@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-cookies",
+  "name": "Galletas de Frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 Huevos; bien batidos",
+    "2 tazas Azúcar morena",
+    "1 taza Manteca derretida",
+    "3 cucharadas Leche agria",
+    "1 y 1/2 tazas Pasas",
+    "2 cucharaditas Canela",
+    "1 cucharadita Nuez moscada",
+    "1/2 cucharadita Clavo de olor",
+    "3 y 1/2 tazas Harina para todo uso",
+    "1 cucharadita Polvo de hornear",
+    "1/4 cucharadita Bicarbonato de sodio"
+  ],
+  "recipeInstructions": "1. Agregar el azúcar a los huevos. Batir bien.\n2. Incorporar la manteca y la leche agria, mezclando hasta combinar.\n3. Cernir en un bol aparte la harina, el bicarbonato de sodio y las especias (canela, nuez moscada, clavo de olor), junto con el polvo de hornear.\n4. Mezclar las pasas.\n5. Colocar por cucharaditas la masa sobre una bandeja para hornear engrasada.\n6. Hornear en horno precalentado (400°F) durante 12-15 minutos.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "puppy-chow-3",
+  "name": "Puppy Chow",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de margarina",
+    "1 taza de mantequilla de maní",
+    "2 tazas de azúcar en polvo",
+    "12 onzas de chips de chocolate",
+    "14 onzas de cereal Crispix"
+  ],
+  "recipeInstructions": "1. En un baño maría, derrite la margarina, los chips de chocolate y la mantequilla de maní juntos hasta que queden suaves.\n2. Vierte la mezcla derretida sobre el cereal y revuelve para cubrirlo uniformemente.\n3. Coloca el azúcar en polvo en una bolsa de papel.\n4. Vierte la mezcla de cereal en otro recipiente y agita para distribuir el azúcar en polvo.",
+  "url": null
+}

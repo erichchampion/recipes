@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "scones-3",
+  "name": "Scones",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "panes",
+    "desayuno"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "1/2 taza de azúcar",
+    "1 cucharadita de polvo para hornear",
+    "2 cucharaditas de polvo de vainilla",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de cremor tártaro",
+    "1/2 taza de manteca corta",
+    "2/3 taza de leche",
+    "1 taza de nueces picadas (opcional)",
+    "1 taza de fruta seca (opcional)"
+  ],
+  "recipeInstructions": "Mezclar todos los ingredientes hasta formar una masa. Dar forma a la masa en scones y hornear a 175°C hasta que estén ligeramente dorados en la parte superior. Separar la mezcla en porciones más pequeñas, darles forma de scones y colocarlos en una sartén de hierro colado para hornearlos en el horno. Las nueces y la fruta son opcionales pero muy recomendables cuando se combinan con arándanos secos o albaricoques para una experiencia de sabor mejorada.",
+  "url": null
+}

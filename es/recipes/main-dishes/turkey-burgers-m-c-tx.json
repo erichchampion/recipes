@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "turkey-burgers-m-c-tx",
+  "name": "Hamburguesas de pavo (M_c-tx)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "plato principal",
+    "carne",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida de pavo",
+    "1/2 cucharadita de polvo de ajo",
+    "1/2 taza de migas de pan sazonadas",
+    "1/4 cucharadita de mostaza en polvo",
+    "1/3 taza de cebolla finamente picada",
+    "1 cucharada de salsa de soja",
+    "1 cucharadita de salsa Worcestershire"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes y forma hamburguesas.\n2. Cocina las hamburguesas durante 3 a 4 minutos por cada lado en una sartén ligeramente engrasada o antiadherente.",
+  "url": null
+}

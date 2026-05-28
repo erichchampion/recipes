@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-salsa",
+  "name": "Salsa Picante",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "salsas y aderezos",
+    "acompañamientos",
+    "vegetariana"
+  ],
+  "recipeIngredient": [
+    "400 g de tomates enteros enlatados",
+    "1 pimiento verde pequeño, picado",
+    "1/3 taza de cebolla tierna picada",
+    "3 cucharadas de cebolla verde picada",
+    "85 g de chiles verdes enlatados, escurridos y cortados en cubos",
+    "3 cucharadas de cilantro fresco picado",
+    "1/2 diente de ajo picado"
+  ],
+  "recipeInstructions": "1. Licúa los tomates con su jugo en una licuadora o procesador de alimentos.\n2. Combina en un tazón el pimiento verde, la cebolla, la cebolla verde, los chiles verdes, el cilantro y el ajo.\n3. Mezcla la mezcla con el puré de tomates hasta que quede bien integrado.\n4. Refrigera la salsa por hasta 5 días.",
+  "url": null
+}

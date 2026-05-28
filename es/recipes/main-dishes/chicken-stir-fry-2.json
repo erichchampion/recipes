@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-stir-fry-2",
+  "name": "Pollo Salteado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "vacaciones",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo sin hueso y sin piel, cortadas por la mitad",
+    "3 cucharadas de almidón de maíz",
+    "2 cucharadas de salsa de soja",
+    "1/2 cucharadita de jengibre molido",
+    "1/4 cucharadita de polvo de ajo",
+    "3 cucharadas de aceite para cocinar (divididas)",
+    "2 tazas de brócoli en floretes",
+    "1 taza de apio cortado en rodajas (trozos de 1/2 pulgada)",
+    "1 taza de zanahorias cortadas finamente",
+    "1 cebolla pequeña cortada en gajos",
+    "1 taza de agua",
+    "1 cucharadita de granos de caldo de pollo"
+  ],
+  "recipeInstructions": "1. Cortar el pollo en tiras de 1/2 pulgada y colocarlo en una bolsa de plástico con cierre. Agregar almidón de maíz y mezclar para cubrirlo.\n2. Combinar salsa de soja, jengibre, polvo de ajo; añadir a la bolsa y sacudir bien.\n3. Refrigerar por 30 minutos.\n4. En una sartén grande o wok, calentar 2 cucharadas de aceite. Saltear el pollo hasta que ya no esté rosado, aproximadamente 3-5 minutos. Retirar y mantener caliente.\n5. Agregar el aceite restante; saltear el brócoli, apio, zanahorias y cebolla durante 4-5 minutos o hasta que estén crujientes.\n6. Añadir agua y caldo de pollo. Devolver el pollo a la sartén. Cocinar y revolver hasta que espese y burbujee.",
+  "url": null
+}

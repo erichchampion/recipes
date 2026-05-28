@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "stewed-chicken-4",
+  "name": "Pollo Estofado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "pollo",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 Pollo entero/piezas",
+    "2 Tallos de apio, cortados",
+    "2 Zanahorias, cortadas",
+    "2 Pequeños calabacines, en rodajas de 1 pulgada",
+    "Romero",
+    "Salvia",
+    "Perejil",
+    "Tomillo",
+    "Albahaca",
+    "Sal"
+  ],
+  "recipeInstructions": "1 Lavar el pollo y quitarle la piel. Secar el pollo con toallas de papel.\n2 Condimentar el pollo con las especias.\n3 Colocar el pollo en una olla de cocción lenta.\n4 Rodear el pollo con los vegetales cortados: apio, zanahorias y calabacines.\n5 Agregar agua para cubrir apenas los ingredientes.\n6 Cocinar a fuego alto hasta que hierva.\n7 Reducir el calor a bajo y cocinar por 6-8 horas.\n8 Servir con arroz.",
+  "url": null
+}

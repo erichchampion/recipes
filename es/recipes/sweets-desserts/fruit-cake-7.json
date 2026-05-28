@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-cake-7",
+  "name": "Pastel de Frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 lb de cerezas confitadas",
+    "1 lb de piña confitada",
+    "4 tazas de nueces picadas",
+    "1 taza de azúcar",
+    "2 tazas de harina leudante tamizada",
+    "5 huevos",
+    "2 cucharadas de vainilla",
+    "1 cucharadita de extracto de limón",
+    "1/2 lb de mantequilla"
+  ],
+  "recipeInstructions": "1. Mezclar las cerezas confitadas, piña confitada, nueces, azúcar, harina leudante, huevos, vainilla, extracto de limón y mantequilla.\n2. Verter la mezcla en un molde para pastel engrasado y enharinado.\n3. Hornear durante 45 minutos a 175°C.\n4. Disminuir la temperatura a 160°C y hornear por 45 minutos adicionales.\n5. El pastel está listo cuando se vuelve dorado en la parte superior y rebota al presionarlo suavemente.",
+  "url": null
+}

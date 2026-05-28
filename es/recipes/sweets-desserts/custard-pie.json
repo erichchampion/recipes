@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "custard-pie",
+  "name": "Tarta de Crema",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "2 Huevos, ligeramente batidos",
+    "2 cucharadas de Leche",
+    "2 tazas de Azúcar",
+    "1/2 taza de Harina",
+    "1 cucharadita de Extracto de Vainilla",
+    "4 tazas de Ruibarbo"
+  ],
+  "recipeInstructions": "1. Mezclar los ingredientes en un bol grande.\n2. Verter la mezcla en un molde para tarta o plato para pastel de 9 pulgadas forrado con masa.\n3. Hornear a 200 °C durante 10 minutos.\n4. Reducir la temperatura a 180 °C y hornear por 50 a 60 minutos adicionales, hasta que esté cuajada.\n5. Enfriar completamente.\n6. Decorar con crema batida antes de servir.",
+  "url": null
+}

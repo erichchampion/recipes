@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-brown-betty",
+  "name": "Apple Brown Betty",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "postres",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "4 tazas de cubos de pan pequeños (1/2\")",
+    "1/2 taza de mantequilla/margarina derretida",
+    "1/2 cucharadita de canela",
+    "1/4 cucharadita de nuez moscada",
+    "1/8 cucharadita de sal",
+    "3/4 taza de azúcar morena, firmemente compacta",
+    "4 tazas de manzanas para cocinar, peladas y picadas"
+  ],
+  "recipeInstructions": "1. Mezcla los cubos de pan con la mantequilla, canela, nuez moscada, sal y azúcar morena.\n2. Arregla capas alternas de la mezcla de pan con las manzanas en una olla de cocción lenta.\n3. Tapa y cocina a alta temperatura por 1 1/2 a 2 1/2 horas o hasta que las manzanas estén tiernas.\n4. Sirve caliente con crema, salsa dura o helado. Rinde de 4 a 5 porciones.",
+  "url": null
+}

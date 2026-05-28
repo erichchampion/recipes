@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "r-mm-impossible-pecan-pie",
+  "name": "Tarta de Pecán Imposible",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "4 Huevos",
+    "3/4 taza de Azúcar",
+    "4 cucharadas de Mantequilla",
+    "2 tazas de Leche",
+    "1/2 taza de Bisquick",
+    "1 taza de Nueces Pecán"
+  ],
+  "recipeInstructions": "1. Engrasa un molde para tartas de 30 cm.\n2. Licúa todos los ingredientes (excepto las nueces pecán) hasta que estén suaves.\n3. Agrega las nueces pecán a la mezcla.\n4. Hornea a 180°C durante 45 minutos.",
+  "url": null
+}

@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "venison-jerky-3",
+  "name": "Jerky de Ciervo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "carne de res",
+    "juego",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "5 lb de ciervo, cortado finamente",
+    "2 cucharadas de sal (no yodada)",
+    "1 cucharada de azúcar",
+    "3 cucharaditas de pimienta negra",
+    "2 cucharaditas de polvo de ajo",
+    "6 cucharaditas de glutamato monosódico",
+    "2 cucharaditas de humo líquido"
+  ],
+  "recipeInstructions": "1. Cortar y filetear la carne de ciervo.\n2. Colocar los filetes en un recipiente.\n3. Mezclar los ingredientes secos (sal, azúcar, pimienta negra, polvo de ajo, glutamato monosódico) en un bol aparte.\n4. Espolvorear los ingredientes secos sobre el ciervo fileteado.\n5. Agregar el humo líquido a la mezcla y cubrir el recipiente con papel film o aluminio.\n6. Refrigerar por 24 horas.\n7. Precalentar el horno a temperatura baja (200 grados).\n8. Colocar papel aluminio en la parte inferior de la rejilla del horno.\n9. Poner la carne marinada directamente sobre las rejillas.\n10. Hornear a baja temperatura durante 8 horas.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "tzatziki",
+  "name": "Tzatziki",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "étnico",
+    "griego"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de yogur griego escurrido",
+    "2 pepinos medianos",
+    "4 dientes de ajo grandes",
+    "4 cucharadas de aceite de oliva",
+    "un poco de vinagre",
+    "sal"
+  ],
+  "recipeInstructions": "1. Ralla el pepino pelado o córtalo en trozos finos.\n2. Sazona el pepino rallado con sal y exprime el líquido y deséchalo.\n3. Agrega el pepino sazonado a un bol con ajo picado, vinagre, yogur y mezcla bien.\n4. Incorpora el aceite de oliva hasta que esté combinado.\n5. Si lo deseas, espolvorea con pimentón y decora con aceitunas.\nVariación: Para un tzatziki más picante, añade más ajo. También puedes incluir almendras blanqueadas y peladas o nueces.",
+  "url": null
+}

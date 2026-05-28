@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "fresh-tomato-soup",
+  "name": "Sopa de Tomate Fresco",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "alemana"
+  ],
+  "recipeIngredient": [
+    "6 tomates; medianos O",
+    "2 libras de tomates italianos enlatados",
+    "1 cebolla; picada",
+    "1 tallo de apio; picado",
+    "2 tazas de caldo de pollo",
+    "1 cucharada de pasta de tomate",
+    "1/2 cucharadita de albahaca; seca",
+    "1/4 cucharadita de pimienta; molida fresca",
+    "1/2 cucharadita de sal",
+    "1/2 taza de yogur"
+  ],
+  "recipeInstructions": "1. Cortar los tomates en gajos y colocarlos en una olla de 1 1/2 litros.\n2. Agregar todos los ingredientes excepto el yogur.\n3. Hervir a fuego lento sin tapa durante 30 minutos.\n4. Colar para eliminar las pieles y semillas de tomate.\n5. Ajustar la sazón si es necesario.\n6. Decorar con cucharadas de yogur.",
+  "url": null
+}

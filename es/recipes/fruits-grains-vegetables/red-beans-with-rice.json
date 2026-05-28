@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "red-beans-with-rice",
+  "name": "Frijoles Rojos con Arroz",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frijoles",
+    "cajún",
+    "cerdo/jamón",
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "1 libra de frijoles rojos",
+    "1 libra de cerdo salado",
+    "2 dientes de ajo picados",
+    "1 pimiento rojo",
+    "1 cebolla picada",
+    "1 tallo de apio",
+    "1 chile entero picante",
+    "1 cucharadita de condimento italiano"
+  ],
+  "recipeInstructions": "1. Hierve el cerdo salado durante 5 minutos para eliminar el exceso de sal. Retira del fuego y reserva.\n2. En una olla grande, agrega los frijoles, agua (aproximadamente a un centímetro por encima de los frijoles) y el cerdo hervido.\n3. Añade el pimiento rojo, la cebolla picada, el apio, el ajo picado, el condimento italiano y el chile entero picante.\n4. Cocina a fuego lento durante 2 a 3 horas, o hasta que la salsa espese y los frijoles estén tiernos. Agrega una pizca de condimento italiano antes de servir.\n5. Ajusta la sal al gusto si es necesario.\n6. Sirve con arroz.",
+  "url": null
+}

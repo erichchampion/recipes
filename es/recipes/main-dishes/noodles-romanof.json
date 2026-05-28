@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "noodles-romanof",
+  "name": "Nudillos Romanof",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "6 oz de nudillos de huevo",
+    "1 taza de crema agria",
+    "1/2 taza de queso parmesano",
+    "1 diente de ajo machacado",
+    "1 cucharada de mantequilla",
+    "1/2 cucharadita de cebollino picado",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de pimienta"
+  ],
+  "recipeInstructions": "1. Cocinar los nudillos según las instrucciones del paquete.\n2. Mezclar en un bol la crema agria, la mitad del queso parmesano, el cebollino, la sal, la pimienta y el ajo.\n3. Escurrir los nudillos y devolverlos a la sartén. Incorporar la mantequilla. Envolver en la mezcla de crema agria.\n4. Colocar en un plato para servir y espolvorear con el queso parmesano restante.",
+  "url": null
+}

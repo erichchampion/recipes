@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "dessert-pizza",
+  "name": "Pizza de postre",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 paquete (20 onzas) de masa de galleta con chips de chocolate, refrigerada",
+    "2 tazas de Cool Whip descongelado",
+    "2 tazas de frutas variadas",
+    "Topping de postre de fresa"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 °F (175 °C).\n2. Forrar una bandeja para pizza de 12 pulgadas con papel aluminio y engrasar el papel.\n3. Presionar la masa de galleta en la bandeja preparada.\n4. Hornear durante 20 minutos o hasta que esté dorada.\n5. Retirar del horno y dejar enfriar sobre una rejilla.\n6. Quitar cuidadosamente el papel aluminio, dejando la base de galleta sobre el plato de servicio.\n7. Extender el Cool Whip uniformemente sobre la base de galleta.\n8. Decorar con frutas variadas.\n9. Vertir el topping de postre de fresa por encima.\n10. Servir inmediatamente o refrigerar hasta el momento de servir.",
+  "url": null
+}

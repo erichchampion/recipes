@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-sausage-3",
+  "name": "Salchicha para Desayuno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "pavo"
+  ],
+  "recipeIngredient": [
+    "5 libras de pavo molido",
+    "2 1/2 cucharadas de sal",
+    "1 1/2 cucharaditas de pimienta blanca",
+    "1 cucharada de tomillo",
+    "1/2 cucharadita de jengibre",
+    "1 1/2 cucharaditas de nuez moscada",
+    "1 1/2 cucharaditas de orégano",
+    "1 taza de agua fría"
+  ],
+  "recipeInstructions": "1. Mezcla las especias con el agua fría primero.\n2. Agrega el pavo a la mezcla.\n3. Amasa todo hasta combinarlo completamente con las manos.\n4. Cocina la mezcla en porciones más pequeñas y congela según sea necesario.",
+  "url": null
+}

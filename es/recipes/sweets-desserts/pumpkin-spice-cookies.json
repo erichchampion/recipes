@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "pumpkin-spice-cookies",
+  "name": "Galletas de Espicia de Calabaza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de margarina",
+    "2 claras de huevo",
+    "1 taza de calabaza",
+    "2 tazas de harina sin blanquear",
+    "1 taza de azúcar granulada",
+    "2 cucharaditas de polvo de hornear",
+    "1/4 cucharadita de sal",
+    "2 cucharaditas de canela",
+    "1/2 cucharadita de nuez moscada",
+    "1/4 cucharadita de jengibre",
+    "1/4 cucharadita de clavo"
+  ],
+  "recipeInstructions": "Precalentar el horno a 350°F. Preparar una bandeja para hornear con spray para cocinar. En un tazón para mezclar, combinar la margarina y las claras de huevo. En otro tazón, combinar la harina, el azúcar, el polvo de hornear, la sal, la canela, la nuez moscada, el jengibre y el clavo. Mezclar los ingredientes húmedos con los secos hasta que estén mojados. Colocar cucharaditas de la masa en las bandejas para galletas, separadas a 1 pulgada de distancia. Hornear por 15 minutos o hasta que estén firmes al tacto.",
+  "url": null
+}

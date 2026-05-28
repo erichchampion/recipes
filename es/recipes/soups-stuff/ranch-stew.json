@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "ranch-stew",
+  "name": "Estofado de Ranch",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "plato principal",
+    "sopas",
+    "estofados"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne magra, cortada en cubos pequeños",
+    "3 tazas de agua",
+    "2 zanahorias grandes, en rodajas",
+    "12 cebollas perla enlatadas",
+    "2 papas medianas, cortadas en dados",
+    "1 taza de guisantes congelados",
+    "2 cucharadas de harina integral (opcional)",
+    "1 cucharada de salsa Worcestershire",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta"
+  ],
+  "recipeInstructions": "1. Coloca la carne en un recipiente para hornear de 1 litro.\n2. Dora la carne en un horno lento a 325°F durante 45 minutos, removiendo ocasionalmente.\n3. Agrega 1 taza de agua al recipiente y cubre. Hornea por 1 hora o hasta que la carne esté tierna.\n4. Mientras se cocina la carne, cocina las zanahorias en las 2 tazas de agua restantes.\n5. Cuando las zanahorias estén parcialmente cocidas, agrega las papas y continúa cocinando hasta que todas las verduras estén tiernas.\n6. Añade las cebollas y los guisantes al recipiente.\n7. Espesa el líquido de las verduras con harina si lo deseas.\n8. Agrega salsa Worcestershire, sal y pimienta al líquido.\n9. Vierte sobre la carne y las verduras. Cubre y devuélvelo al horno durante 20 minutos.",
+  "url": null
+}

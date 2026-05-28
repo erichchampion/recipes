@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-sauce-3",
+  "name": "Salsa para Pizza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "pizza",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "10 oz de sopa de tomate enlatada",
+    "1 cucharadita de hojas de orégano seco",
+    "1/2 cucharadita de sal de ajo",
+    "8 onzas de mozzarella rallada",
+    "8 onzas de Muenster rallado",
+    "1/3 taza de Parmesano rallado",
+    "1 rebanada delgada de pepperoni (8 onzas)",
+    "8 onzas de champiñones escurridos"
+  ],
+  "recipeInstructions": "1. Coloca los ingredientes sobre la masa de pizza en el orden indicado.\n2. Deja que la pizza armada suba durante 20 minutos en un lugar cálido.\n3. Hornea a 450°F por 20-25 minutos.",
+  "url": null
+}

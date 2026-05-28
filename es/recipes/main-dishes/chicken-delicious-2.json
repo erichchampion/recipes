@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-delicious-2",
+  "name": "Pollo Delicioso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "4 a 6 pechugas de pollo enteras sin hueso y piel, cortadas por la mitad",
+    "jugo de limón",
+    "sal",
+    "pimienta",
+    "sal de apio",
+    "pimentón",
+    "1 lata (355 ml) de sopa de champiñones",
+    "1 lata (355 ml) de sopa de apio",
+    "1/3 taza de jerez seco o vino blanco",
+    "queso parmesano rallado",
+    "arroz esponjoso"
+  ],
+  "recipeInstructions": "1. Enjuaga las pechugas de pollo y sécalas.\n2. Condiméntalas con jugo de limón, sal, pimienta, sal de apio y pimentón.\n3. Colócalas en una olla de cocción lenta (Crock-Pot).\n4. En un tazón o sartén mediano, mezcla las sopas de champiñones y apio con el jerez.\n5. Vierte sobre las pechugas de pollo.\n6. Espolvorea con queso parmesano.\n7. Tapa y cocina a fuego lento durante 8 a 10 horas o a alto durante 4 a 5 horas.\n8. Sirve el pollo y la salsa sobre arroz caliente esponjoso.\nServir para 8 a 12 personas",
+  "url": null
+}

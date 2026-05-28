@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "white-pizza-4",
+  "name": "Pizza Blanca",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "lácteos",
+    "étnica",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "2 dientes de ajo, picados finamente",
+    "1/4 taza de mantequilla derretida",
+    "Masa o base de pizza",
+    "4 oz de queso cheddar o suizo rallado",
+    "4 oz de mozzarella rallada",
+    "2 oz de queso feta desmenuzado",
+    "1 oz de parmesano/romano rallado",
+    "1 cucharada de aceite de oliva",
+    "1/2 cucharadita de orégano seco",
+    "Pimienta roja al gusto"
+  ],
+  "recipeInstructions": "1. Saltear el ajo en la mantequilla hasta que esté ligeramente dorado.\n2. Rocía el fondo de una bandeja para horno con aceite antiadherente.\n3. Amasa la masa hasta ajustarla al tamaño de la bandeja o coloca la base sobre la misma.\n4. Espolvorea los quesos rallados de manera uniforme sobre la masa.\n5. Vierte el aceite de oliva y espolvorea orégano y pimienta roja (si lo deseas) sobre el queso.\n6. Hornea a 200°C hasta que esté dorada.",
+  "url": null
+}

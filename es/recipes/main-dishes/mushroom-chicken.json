@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "mushroom-chicken",
+  "name": "Pollo con Setas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "comidas congeladas",
+    "plato principal",
+    "carne",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "trozos de pollo",
+    "sopa de crema de setas"
+  ],
+  "recipeInstructions": "1. Precalienta el horno a la temperatura deseada.\n2. Coloca los trozos de pollo en un plato para hornear.\n3. Espolvorea sal, pimienta y polvo de ajo sobre el pollo.\n4. Hornea durante aproximadamente una hora, o hasta que el pollo esté cocido por completo.\n5. Mezcla 2 latas de sopa de crema de setas y viértela sobre el pollo.\n6. Continúa horneando hasta que se caliente completamente.\n7. Sirve con arroz.",
+  "url": null
+}

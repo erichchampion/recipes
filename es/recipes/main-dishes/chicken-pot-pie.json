@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-pot-pie",
+  "name": "Pastel de Pollo y Verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cacerolas",
+    "pollo",
+    "tartas para la cena",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de mantequilla",
+    "1/2 taza de cebolla picada",
+    "1 taza de sopa de champiñones",
+    "1/2 taza de leche",
+    "1/8 cucharadita de tomillo",
+    "1 1/2 tazas de pollo desmenuzado",
+    "1 taza de papas pequeñas cortadas en cubos",
+    "1 taza de guisantes"
+  ],
+  "recipeInstructions": "1. Cocinar la cebolla en la mantequilla hasta que esté tierna.\n2. Mezclar la sopa, la leche y el tomillo.\n3. Agregar la mezcla líquida a la cebolla y calentar.\n4. Combinar el pollo desmenuzado, las papas y los guisantes en un plato para hornear.\n5. Verter los ingredientes líquidos sobre el relleno.\n6. Espolvorear con la mezcla de Bisquick o con tu receta de galletas saladas individuales.\n7. Hornear a 450 grados Fahrenheit durante 20 minutos.",
+  "url": null
+}

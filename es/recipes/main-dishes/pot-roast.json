@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pot-roast",
+  "name": "Asado de Falda",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne",
+    "tiendas de carne",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 lb de asado de falda",
+    "6 papas, cortadas por la mitad",
+    "3 cebollas, peladas y en cuartos",
+    "4 zanahorias, cortadas en trozos de 2 pulgadas",
+    "1/2 taza de agua"
+  ],
+  "recipeInstructions": "Me encanta saber que mi cena ya está cocinándose, incluso en días que no trabajo fuera del hogar. A menudo preparo dos recetas: una u otra se cocina lentamente cuando llegan invitados fuera de la ciudad (mi familia es conocida por llegar tarde). Las comidas en olla de cocción lenta son perfectas para horarios inciertos. Coloca las verduras al fondo y pon la carne encima. Sazona con sal y pimienta. Vierte el agua sobre todo. Cocina a fuego lento durante todo el día. De vez en cuando, agrega un sobre de mezcla de sopa de cebolla o una latita pequeña de tomates enteros para variar.",
+  "url": null
+}

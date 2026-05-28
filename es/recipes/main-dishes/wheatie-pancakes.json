@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "wheatie-pancakes",
+  "name": "Tortas de Avena",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "tortas"
+  ],
+  "recipeIngredient": [
+    "1 taza de avena",
+    "1 taza de leche dulce",
+    "2 huevos",
+    "2 cucharaditas de polvo de hornear",
+    "un pellizco de sal",
+    "1 cucharada de mantequilla",
+    "harina"
+  ],
+  "recipeInstructions": "1. Mezclar en un bol grande la avena, la leche, los huevos, el polvo de hornear y la sal hasta que quede bien combinado.\n2. Agregar gradualmente la harina a la mezcla, removiendo continuamente hasta obtener una masa suave y líquida.\n3. Calentar una sartén o plancha a fuego medio-alto.\n4. Verter aproximadamente 1/4 taza de masa en la sartén caliente para cada torta.\n5. Cocinar hasta que se formen burbujas en la superficie de las tortas, luego dar la vuelta con cuidado.\n6. Continuar cocinando hasta que estén doradas por el otro lado.\n7. Retirar las tortas de la sartén y servir inmediatamente.",
+  "url": null
+}

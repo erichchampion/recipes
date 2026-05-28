@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-pie-4",
+  "name": "Tarta de Tacos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "estadounidense",
+    "étnica",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "1 paquete de rollos Crescent",
+    "1 paquete de mezcla para tacos",
+    "2 tazas de chips de maíz, triturados",
+    "1 taza de queso cheddar rallado",
+    "1 libra de hamburguesa",
+    "1/2 taza de agua",
+    "1 taza de crema agria"
+  ],
+  "recipeInstructions": "1. Cocinar la hamburguesa, la mezcla para tacos y el agua según las instrucciones del paquete.\n2. Colocar la masa de crescent sin enrollar en un molde para tarta sin engrasar para formar la base.\n3. Espolvorear la mitad de los chips de maíz sobre la masa.\n4. Agregar la mezcla de hamburguesa cocida.\n5. Extender la crema agria uniformemente sobre la parte superior.\n6. Cubrir con queso cheddar rallado y los chips de maíz restantes triturados.\n7. Hornear a 375 grados Fahrenheit por 20 minutos, o hasta que esté caliente.",
+  "url": null
+}

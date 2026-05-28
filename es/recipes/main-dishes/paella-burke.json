@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "paella-burke",
+  "name": "Paella (Burke)",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "pollo"
+  ],
+  "recipeIngredient": [
+    "3 lb de pollos, cortados en pedazos",
+    "2 lb de camarones crudos",
+    "sal y pimienta",
+    "2 tazas de arroz de grano largo",
+    "2 dientes de ajo picados",
+    "4 tazas de caldo de pollo",
+    "4 cucharadas de aceite de oliva",
+    "1/4 cucharadita de azafrán",
+    "1 1/2 lb de salchichas italianas dulces",
+    "48 almejas medianas",
+    "6 colas de langosta, cortadas por la mitad"
+  ],
+  "recipeInstructions": "1. Cocinar las salchichas hasta que estén ligeramente doradas y rebanarlas. Pelar y desvenar los camarones. Sazonar el pollo con sal y pimienta.\n2. En una sartén grande con tapa, calentar el aceite de oliva a fuego medio. Agregar el ajo y cocinar por 2 minutos hasta que esté fragante.\n3. Añadir el pollo a la sartén y saltear hasta que esté ligeramente dorado por todos lados. Cuando el pollo esté casi cocido (aproximadamente 20 minutos), agregar las salchichas y continuar cocinando por otros 5 minutos.\n4. Agregar las colas de langosta, camarones, y cocinar por otros 5 minutos hasta que los mariscos estén calientes.\n5. Incorporar el arroz y el azafrán con el líquido restante. Verter esta mezcla sobre el pollo, mariscos y salchichas en la sartén.\n6. Devolver la tapa a la sartén y continuar cocinando a fuego bajo hasta que el arroz esté tierno (aproximadamente 20-25 minutos). Asegurarse de que las almejas se abran durante el vapor; descartar las que permanezcan cerradas.\n7. Servir caliente con aceite de oliva adicional si se desea.",
+  "url": null
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "marinated-beef",
+  "name": "Bistec marinado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "bistec",
+    "parrilla",
+    "plato principal",
+    "carne",
+    "carnes",
+    "salsa"
+  ],
+  "recipeIngredient": [
+    "1 lb de bistec de falda sin hueso cortado en cubos de 1 pulgada",
+    "2 cucharadas de jugo de limón",
+    "2 cucharadas de cebolla rallada",
+    "2 cucharadas de vinagre de vino tinto",
+    "2 cucharadas de aceite vegetal",
+    "1/4 cucharadita de comino molido",
+    "1/4 cucharadita de polvo de ajo",
+    "1/4 cucharadita de pimentón rojo molido",
+    "1 pimiento verde cortado en 4 trozos",
+    "1 pimiento rojo cortado en 4 trozos",
+    "1 pimiento amarillo cortado en 4 trozos",
+    "4 cebollas pequeñas, escaldadas"
+  ],
+  "recipeInstructions": "1. Condimentar los cubos de bistec con sal y pimienta al gusto.\n2. En un bol, mezclar el jugo de limón, la cebolla rallada, el vinagre de vino tinto, el aceite vegetal, el comino molido, el polvo de ajo y el pimentón rojo.\n3. Agregar los cubos de bistec a la marinada y remover hasta que estén bien cubiertos.\n4. Enhebrar los cubos de bistec marinados y trozos de pimiento en 4 brochetas, añadiendo una cebolla escaldada a cada una.\n5. Colocar las brochetas sobre una rejilla en la parrilla, posicionándolas para que la superficie de la carne quede a 3-4 pulgadas de la fuente de calor.\n6. Parrillar durante 12-15 minutos, dando vuelta ocasionalmente, hasta que el bistec alcance el punto deseado de cocción.\n7. Sazonar con sal y pimienta adicional si es necesario. Rinde para 4 porciones.",
+  "url": null
+}

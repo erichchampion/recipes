@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "marinated-garden-salad",
+  "name": "Ensalada Marinada de Huerto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de apio, en rodajas",
+    "1/2 taza de pepino, en rodajas",
+    "1/2 taza de zanahoria, en rodajas",
+    "1/2 taza de radicios, en rodajas",
+    "1/2 taza de aderezo para ensalada italiana",
+    "5 tazas de lechuga para ensalada, desmenuzada"
+  ],
+  "recipeInstructions": "1. En un bol grande, combina el apio, pepino, zanahoria y radicios.\n2. Agrega el aderezo para ensalada italiana y refrigera por 1 hora.\n3. Justo antes de servir, añade la lechuga para ensalada y mezcla suavemente.",
+  "url": null
+}

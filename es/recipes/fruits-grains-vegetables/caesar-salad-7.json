@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "caesar-salad-7",
+  "name": "Ensalada César",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de aceite vegetal",
+    "1 diente de ajo, machacado",
+    "2 tazas de crotones",
+    "2 lechugas romanas, desmenuzadas",
+    "1 lechuga Boston, desmenuzada",
+    "1 manojo de rúcula",
+    "3/4 taza de queso parmesano rallado",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de mostaza en polvo",
+    "1/4 cucharadita de pimienta negra molida",
+    "1/3 taza de jugo de limón",
+    "2 huevos, ligeramente batidos",
+    "1 lata de filetes de anchoa, escurridos"
+  ],
+  "recipeInstructions": "1. Verter el aceite en un frasco.\n2. Agregar el ajo y cubrir la mezcla.\n3. Dejar reposar por al menos una hora.\n4. Desmenuzar las lechugas y colocarlas en un bol.\n5. Espolvorear queso, sal, mostaza en polvo y pimienta sobre las hojas verdes.\n6. Combinar los ingredientes restantes (anchoas, crotones, jugo de limón) con las hojas verdes.\n7. Mezclar suavemente hasta que esté bien combinado.",
+  "url": null
+}

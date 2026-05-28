@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "stewed-chicken-3",
+  "name": "Pollo Estofado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "queso",
+    "pollo",
+    "diabetico",
+    "de bajo calor",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo sin hueso",
+    "2 cucharadas de condimento italiano",
+    "400 gramos de tomates italianos enlatados, cortados en trozos pequeños",
+    "sal al gusto",
+    "2 cucharadas de ajo picado",
+    "pimienta al gusto",
+    "150 gramos de champiñones laminados",
+    "1 cebolla mediana, cortada en láminas finas"
+  ],
+  "recipeInstructions": "1. Coloca el pollo en un plato para hornear.\n2. Cubre con los tomates y su jugo, los champiñones, las cebollas y las especias.\n3. Cierra con papel aluminio.\n4. Hornea a 180°C durante 1 hora o hasta que el pollo esté cocido completamente.\n5. Retira del horno y espolvorea con queso mozzarella rallado.\n6. Cubre con papel aluminio hasta que el queso se derrita.",
+  "url": null
+}

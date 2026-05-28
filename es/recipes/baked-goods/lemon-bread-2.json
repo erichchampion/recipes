@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-bread-2",
+  "name": "Pan de Limón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 paquete de levadura",
+    "3 tazas de harina de pan",
+    "1/4 taza de azúcar",
+    "1/2 cucharadita de sal",
+    "1/4 taza de mantequilla (a temperatura ambiente)",
+    "3/4 taza de leche escaldada",
+    "1 huevo + 1 yema (a temperatura ambiente)",
+    "1/4 cucharadita de extracto de limón",
+    "2 cucharaditas de cáscara de limón seca o rallada"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en el pan de la máquina del pan en el orden indicado anteriormente.\n2. Selecciona la configuración de pan blanco y presiona iniciar.\nDe Loafing It por DAK",
+  "url": null
+}

@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "lime-chicken",
+  "name": "Pollo con Limón",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "indonesio",
+    "plato principal",
+    "carne",
+    "aves"
+  ],
+  "recipeIngredient": [
+    "6 muslos de pollo",
+    "2 cucharadas de aceite",
+    "1 cebolla mediana, picada",
+    "2 dientes de ajo, machacados",
+    "1/4 cucharadita de chile tailandés seco y molido",
+    "1 cucharada de comino molido",
+    "1 cucharada de cilantro molido",
+    "1/2 cucharadita de cúrcuma",
+    "2 cucharadas de salsa de soja",
+    "gajos de limón"
+  ],
+  "recipeInstructions": "1. Calentar el aceite en una sartén a fuego medio.\n2. Dorar los muslos de pollo por todos lados hasta que estén dorados.\n3. Agregar la cebolla, el ajo, el chile tailandés, el comino, el cilantro, la cúrcuma y la salsa de soja a la sartén.\n4. Revolver para combinar y cocinar durante 5-7 minutos, o hasta que fragante.\n5. Colocar el pollo en un recipiente cubierto (si se usa una sartén poco profunda) y agregar suficiente agua para cubrir la mitad del pollo.\n6. Reducir el fuego a bajo y tapar. Cocinar a fuego lento durante 15-20 minutos, o hasta que el pollo esté cocido y tierno.\n7. Servir con gajos de limón encima.",
+  "url": null
+}

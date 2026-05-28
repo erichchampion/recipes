@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cabbage-chowder",
+  "name": "Chaufa de Col",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "4 tazas de col, rallada",
+    "2 tazas de zanahorias, en rodajas",
+    "3 tazas de papas, cortadas en cubos",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimienta",
+    "1/2 cucharadita de azúcar",
+    "2 tazas de agua",
+    "2 cucharadas de mantequilla",
+    "4 tazas de leche"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes, excepto la leche y la mantequilla, en una olla.\n2. Cocina a fuego lento hasta que las verduras estén tiernas.\n3. Agrega la mantequilla y la leche, luego calienta hasta que esté bien mezclado.",
+  "url": null
+}

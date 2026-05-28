@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "stromboli",
+  "name": "Stromboli",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "masa de pan descongelada (1 libra por hogaza)",
+    "jamón en rodajas (1/4 de libra)",
+    "pepperoni en rodajas (1/4 de libra)",
+    "cebolla picada (1/4 taza)",
+    "pimiento verde picado (1/4 taza)",
+    "salsa de pizza (tarro de 14 onzas, 1/2 dividida)",
+    "mozzarella en rodajas (1/4 de libra)",
+    "bolonia en rodajas (1/4 de libra)",
+    "salami en rodajas (1/4 de libra)",
+    "queso suizo en rodajas (1/4 de libra)",
+    "aleces secos (1 cucharadita)",
+    "orégano seco (1 cucharadita)",
+    "polvo de ajo (1/4 cucharadita)",
+    "pimienta negra (1/4 cucharadita)",
+    "mantequilla o margarina derretida (2 cucharadas)"
+  ],
+  "recipeInstructions": "1. Dejar que la masa suba en un lugar cálido hasta que doble su tamaño.\n2. Desinflar la masa.\n3. Enrollar las hogazas juntas en un rectángulo de 15x12 pulgadas.\n4. Colocar una capa de jamón y pepperoni a lo largo del largo de la masa.\n5. Espolvorear cebolla y pimiento verde sobre la carne.\n6. Añadir 1/4 taza de salsa de pizza.\n7. Colocar mozzarella, bolonia, salami y queso suizo en rodajas encima.\n8. Espolvorear aleces, orégano, polvo de ajo y pimienta negra sobre el queso.\n9. Extender otra 1/4 taza de salsa de pizza encima.\n10. Doblar la mitad sin relleno de la masa sobre el relleno y sellar bien los bordes.\n11. Colocar el stromboli en una bandeja para hornear sin engrasar que mida 15x10x1 pulgadas.\n12. Hornear a 375 grados Fahrenheit durante 30-35 minutos, o hasta que sea dorado.\n13. Barnizar con mantequilla derretida antes de servir.\n14. Servir con salsa de pizza adicional y rodajas de stromboli.",
+  "url": null
+}

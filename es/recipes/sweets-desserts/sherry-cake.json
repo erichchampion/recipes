@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "sherry-cake",
+  "name": "Pastel de Sherry",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 paquete de mezcla para pastel amarillo",
+    "1 paquete de pudín instantáneo de vainilla",
+    "2 cucharaditas de nuez moscada",
+    "3/4 taza de aceite (o 3/4 taza de puré de manzana si estás controlando las grasas)",
+    "3/4 taza de sherry cremoso",
+    "4 huevos"
+  ],
+  "recipeInstructions": "1. Mezcla los ingredientes secos.\n2. Agrega los ingredientes restantes.\n3. Bate los ingredientes bien durante aproximadamente cuatro minutos.\n4. Vierte en un molde para pastel engrasado y hornea durante 50 minutos.\n5. Retira del horno y deja enfriar en el molde durante unos 20 minutos.\n6. Retira del molde y espolvorea azúcar glas sobre él.\nEste pastel queda muy húmedo y delicioso.",
+  "url": null
+}

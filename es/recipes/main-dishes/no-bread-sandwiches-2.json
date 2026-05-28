@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "no-bread-sandwiches-2",
+  "name": "Sándwiches sin pan",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "queso",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "Relleno de ensalada de huevo",
+    "3 huevos grandes cocidos duro, pelados y picados",
+    "1/3 taza de apio picado",
+    "Salsa picante al gusto",
+    "Mayonesa para humedecer",
+    "8 rebanadas de queso Monterey Jack",
+    "4 rodajas finas de tomate",
+    "4 hojas de lechuga",
+    "Sal y pimienta al gusto",
+    "Wedge de pepinillo encurtido",
+    "Aceitunas rellenas"
+  ],
+  "recipeInstructions": "1. Prepara el relleno de ensalada de huevo.\n- Refrigera por al menos 1 hora para que se mezclen los sabores.\n2. Extiende 4 rebanadas de queso con el relleno.\n3. Coloca las rodajas de tomate encima del relleno.\n4. Añade las hojas de lechuga y sazona con sal y pimienta al gusto.\n5. Cubre con las rebanadas de queso restantes.\n6. Sirve en platos individuales con pepinillos y aceitunas.",
+  "url": null
+}

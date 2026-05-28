@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-5",
+  "name": "Pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "MASA",
+    "2 tazas de harina",
+    "1 taza de agua tibia",
+    "1 cucharadita de levadura",
+    "2 cucharadas de aceite de oliva",
+    "sal",
+    "TOPING",
+    "2 libras de tomates, sin semillas y pelados",
+    "3 dientes de ajo picado",
+    "1 cucharada de albahaca fresca rallada",
+    "1 cucharadita de orégano",
+    "2 cucharadas de aceite de oliva",
+    "sal y pimienta al gusto",
+    "1 libra de queso mozzarella"
+  ],
+  "recipeInstructions": "MASA:\nDisuelve la levadura en 1 taza de agua tibia.\nAgrega sal, harina y aceite.\nDeja reposar por 2 horas.\nEstira la masa o estírala con las manos en una bandeja para pizza.\nDeja reposar por 1 hora.\nHornea a 200°C (425°F) durante 5 minutos.\nTOPING:\nCalienta el aceite de oliva en una sartén. Agrega el ajo y los tomates picados hasta que hierva ligeramente; apaga el fuego. Incorpora las hierbas, sal y pimienta.\nASAMBLAJE:\nCubre la masa con rodajas de mozzarella y vierte la salsa encima.\nHornea a 180°C (350°F) hasta que el queso se derrita.",
+  "url": null
+}

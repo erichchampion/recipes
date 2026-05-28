@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "steak-marinade",
+  "name": "Marinada para Carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "marinadas",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de jugo de limón",
+    "3 cucharaditas de salsa Worcestershire",
+    "1/4 taza de aceite",
+    "2 dientes de ajo, picados"
+  ],
+  "recipeInstructions": "1. Pincha la carne para que la marinada penetre.\n2. Coloca la carne en un plato no metálico lo suficientemente grande como para contenerla, o en una bolsa de plástico sellable.\n3. Refrigera durante 12 a 24 horas.",
+  "url": null
+}

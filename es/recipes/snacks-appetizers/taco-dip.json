@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-dip",
+  "name": "Taco Dip",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "frijoles refritos",
+    "crema agria",
+    "mezcla para taco",
+    "1 aguacate grande con limón, machacado",
+    "2 manojos de cebolla verde, picada",
+    "olivas negras",
+    "tomates - picados",
+    "queso - rallado"
+  ],
+  "recipeInstructions": "1. Mezcla la crema agria y la mezcla para taco.\n2. Coloca los ingredientes restantes en capas, en el orden deseado.",
+  "url": null
+}

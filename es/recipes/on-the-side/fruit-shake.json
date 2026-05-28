@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-shake",
+  "name": "Batido de Frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "frutas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 taza de leche",
+    "1 plátano",
+    "1 taza de fresas",
+    "1 cucharada de miel",
+    "1/2 cucharadita de vainilla"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una licuadora.\n2. Licuar hasta obtener una consistencia suave.\n3. Consumir inmediatamente o enfriar en el congelador durante 30 minutos.\n4. Después de enfriar, licuar nuevamente.\n5. Verter en vasos fríos y servir.",
+  "url": null
+}

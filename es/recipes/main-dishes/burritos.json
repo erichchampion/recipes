@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "burritos",
+  "name": "Burritos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "cerdo",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "3 rebanadas de lomo de cerdo, cortadas en trozos",
+    "1 cebolla mediana, picada",
+    "1 lata grande de tomates picados",
+    "1 lata grande de chiles verdes picados (opcional)",
+    "Agua - suficiente para mantener la humedad",
+    "Pimienta de ajo al gusto",
+    "Comino al gusto",
+    "1 libra de carne molida",
+    "1 frasco de salsa para tacos",
+    "1 lata de frijoles refritos",
+    "1 paquete de tortillas de harina",
+    "Queso cheddar rallado"
+  ],
+  "recipeInstructions": "1. Dorar la carne y las cebollas juntas.\n2. Agregar los tomates, chiles verdes, agua, pimienta de ajo y comino al cerdo y las cebollas. Cocinar a fuego lento durante 1 hora.\n3. Dorar y escurrir la carne molida.\n4. Añadir salsa para tacos y frijoles refritos a la carne molida en un plato separado.\n5. Colocar la mezcla de carne molida dentro de las tortillas de harina; doblar y transferir a un plato para hornear.\n6. Verter la mezcla de cerdo sobre cada burrito.\n7. Espolvorear con queso rallado.\n8. Hornear a 400°F durante 15 minutos.\n9. Cubrir con lechuga y tomate picados.",
+  "url": null
+}

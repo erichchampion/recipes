@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "meatball-stew-2",
+  "name": "Estofado de Albóndigas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "carne molida",
+    "sopas",
+    "sopas/estofados",
+    "estofados",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 Recetas de Albóndigas Básicas",
+    "4 Zanahorias medianas, picadas",
+    "2 Tallos de Apio, picados",
+    "3 Papas medianas, picadas",
+    "16 Onzas de Tomates en Ladra",
+    "1 Taza de Agua",
+    "Sal al gusto",
+    "1/8 Cucharadita de Pimienta",
+    "1 Hojas de Laurel"
+  ],
+  "recipeInstructions": "1. Prepara las albóndigas básicas según la Receta 12, pero cocínalas en una olla holandesa. Escurre el exceso de grasa.\n2. Agrega los ingredientes restantes a la olla y lleva la mezcla a ebullición.\n3. Reduce el fuego, tapa y deja cocinar a fuego lento, revolviendo ocasionalmente, hasta que las verduras estén tiernas (aproximadamente 40 minutos).\n4. Retira la hoja de laurel antes de servir.\nNOTA: Se pueden sustituir las verduras enlatadas por las zanahorias, apio y papas.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "breakfast-pizza-2",
+  "name": "Pizza para el desayuno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "desayuno",
+    "brunch",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 libra de salchicha de cerdo al por mayor",
+    "8 onzas de rollos creces refrigerados",
+    "1 taza de hash browns sueltos congelados descongelados",
+    "4 onzas de queso cheddar rallado",
+    "5 huevos batidos",
+    "1/4 taza de leche",
+    "1/2 cucharadita de sal",
+    "1/8 cucharadita de pimienta"
+  ],
+  "recipeInstructions": "1. Cocinar la salchicha en una sartén mediana hasta que esté dorada y escurrida.\n2. Separar la masa de los rollos creces en 8 triángulos.\n3. Colocar los triángulos con los puntos alargados hacia el centro en una bandeja para pizza engrasada de 12 pulgadas.\n4. Presionar la base y los lados para formar una corteza, sellando las perforaciones.\n5. Verter la salchicha sobre la masa, espolvorear con hash browns y queso.\n6. Mezclar los huevos, leche, sal y pimienta en un bol.\n7. Verter la mezcla de huevo sobre el relleno de salchicha.\n8. Hornear a 375°F durante 25 minutos.",
+  "url": null
+}

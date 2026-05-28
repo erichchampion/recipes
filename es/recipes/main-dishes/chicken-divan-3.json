@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-divan-3",
+  "name": "Pollo Divan",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "2 pechugas de pollo cocidas y cortadas en trozos pequeños",
+    "1 bolsa de brócoli congelado, descongelado",
+    "1 lata de sopa de pollo cremoso",
+    "2 tazas de queso cheddar suave",
+    "1 taza de mayonesa",
+    "Queso parmesano",
+    "Pimienta roja (pimentón)",
+    "Sal y pimienta"
+  ],
+  "recipeInstructions": "1. Coloca el brócoli descongelado en un plato de 8x10.\n2. Espolvorea queso parmesano sobre el brócoli.\n3. Cubre con una capa de pollo cocido.\n4. Repite el proceso con más pollo y queso parmesano.\n5. En un tazón mediano, mezcla la sopa de pollo cremoso, mayonesa y queso cheddar.\n6. Vierte la mezcla uniformemente sobre las capas de pollo.\n7. Espolvorea con el queso parmesano restante, pimienta roja, sal y pimienta.\n8. Hornea a 350°F (175°C) hasta que esté dorado y burbujeante.",
+  "url": null
+}

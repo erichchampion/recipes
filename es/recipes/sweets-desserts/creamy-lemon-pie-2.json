@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "creamy-lemon-pie-2",
+  "name": "Tarta Cremosa de Limón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "Base de galleta Graham",
+    "Leche evaporada endulzada",
+    "Jugo de limón",
+    "Colorante alimentario amarillo",
+    "Crema batida"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 325°F (160°C).\n2. Batir las yemas de huevo con la leche evaporada endulzada, el jugo de limón y el colorante alimentario amarillo hasta que esté bien combinada.\n3. Verter la mezcla en la base de galleta Graham preparada.\n4. Hornear durante 30 minutos o hasta que esté firme.\n5. Enfriar completamente antes de refrigerar.\n6. Servir fría, adornada con crema batida y rodajas de limón.",
+  "url": null
+}

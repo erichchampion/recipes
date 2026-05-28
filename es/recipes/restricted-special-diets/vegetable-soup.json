@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetable-soup",
+  "name": "Sopa de Verduras",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "asiática",
+    "étnica",
+    "india",
+    "sops",
+    "vegana",
+    "vegetariana"
+  ],
+  "recipeIngredient": [
+    "1 papa mediana, en rodajas",
+    "1 zanahoria mediana, en rodajas",
+    "1 remolacha mediana, en rodajas",
+    "1 nabo pequeño, en cubos",
+    "2 hojas de repollo, picadas",
+    "5 granos de pimienta negra",
+    "1/4 cucharadita de semillas de comino",
+    "1/4 taza de guisantes verdes, enjuagados",
+    "1/4 taza de judías verdes, sin tallo",
+    "1/4 cucharadita de sal",
+    "1 hoja de laurel",
+    "1 cucharada de mantequilla o aceite vegetal"
+  ],
+  "recipeInstructions": "1. Lavar y cortar las verduras en trozos pequeños sin pelar.\n2. En una olla de 4 litros, derretir la mantequilla a fuego medio. Agregar la hoja de laurel y las semillas de comino, y dorarlas ligeramente.\n3. Incorporar las verduras cortadas y la sal a la olla. Revolver bien.\n4. Tapar la olla y cocinar durante 10 minutos, revolviendo ocasionalmente cada pocos minutos.\n5. Verter 4 tazas de agua, llevar a ebullición, luego reducir el fuego y dejar cocer a fuego lento por una hora.",
+  "url": null
+}

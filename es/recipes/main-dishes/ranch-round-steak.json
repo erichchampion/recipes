@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "ranch-round-steak",
+  "name": "Steak de Rancho",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "3 lb de Steak de Res Redondo",
+    "1/4 taza de Harina",
+    "2 cucharadas de Mostaza en Polvo",
+    "1/8 cucharadita de Pimienta",
+    "1/4 taza de Corta (mantequilla)",
+    "1 cucharada de Salsa Worcestershire"
+  ],
+  "recipeInstructions": "1. Cortar el steak redondo en rebanadas de medio centímetro de grosor.\n2. Dividir la harina, mostaza en polvo, pimienta, corta y salsa Worcestershire de manera uniforme sobre el steak.\n3. Mezclar todos los ingredientes.\n4. Cubrir el steak completamente con la mezcla.\n5. Dejar marinar por al menos 30 minutos o durante la noche.\n6. Apagar el calor antes de servir.",
+  "url": null
+}

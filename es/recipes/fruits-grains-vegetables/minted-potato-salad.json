@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "minted-potato-salad",
+  "name": "Ensalada de Papas con Menta",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensalada",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "4 papas medianas",
+    "1/2 taza de perejil fresco picado",
+    "3 cucharadas de aceite de oliva o vegetal",
+    "2 cucharadas de jugo de limón",
+    "1 cucharada de menta fresca picada",
+    "1 diente de ajo picado",
+    "1/2 cucharadita de sal, opcional",
+    "1/2 cucharadita de pimienta molida"
+  ],
+  "recipeInstructions": "Cocinar las papas en agua hirviendo hasta que estén tiernas. Pelar y cortar en cubos; colocar en un bol mediano. Mezclar los ingredientes restantes en un bol pequeño. Agregar a las papas y mezclar bien. Refrigerar por al menos 1 hora antes de servir.",
+  "url": null
+}

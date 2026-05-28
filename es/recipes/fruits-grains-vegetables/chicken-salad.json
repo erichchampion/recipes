@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-salad",
+  "name": "Ensalada de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pollo",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "Encurtidos pequeños y dulces (1 unidad)",
+    "Cebolla cortada en trozos de 1 pulgada (1 unidad)",
+    "Pecho de pollo cocido cortado en cubos (1 unidad)",
+    "Mayonesa (1/3 taza)",
+    "Azúcar (1/2 cucharadita)",
+    "Sal (1/2 cucharadita)",
+    "Pimienta (1/2 cucharadita)"
+  ],
+  "recipeInstructions": "1. Coloca los encurtidos y la cebolla en una licuadora o procesador de alimentos.\n2. Licúa hasta obtener trozos finos.\n3. Agrega el pollo cortado en cubos y pulsa rápidamente tres veces.\n4. Incorpora los ingredientes restantes (mayonesa, azúcar, sal y pimienta) y pulsa rápidamente dos veces más.\n5. La mezcla debe renderizar aproximadamente 1 taza.",
+  "url": null
+}

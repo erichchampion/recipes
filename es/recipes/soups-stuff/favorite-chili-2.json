@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "favorite-chili-2",
+  "name": "Chili Favorito",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "chili",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 libras de carne molida",
+    "1 taza de cebolla picada",
+    "1 pimiento verde picado",
+    "10 ml ajo picado",
+    "1 lata (400 g) de salsa de tomate",
+    "1 lata (350 ml) de cerveza",
+    "1 taza de queso cheddar fuerte rallado",
+    "1 paquete de mezcla para chili de marca Carrol Shelby Texas"
+  ],
+  "recipeInstructions": "1. Dorar la carne y escurrir.\n2. Agregar cebolla, pimiento y ajo; cocinar hasta que las verduras estén tiernas.\n3. Incorporar salsa de tomate y 1 taza de cerveza a la olla.\n4. Añadir el sobre grande de especias, sal y pimienta cayena al gusto; remover bien.\n5. Llevar la mezcla a ebullición, luego reducir el calor.\n6. Cocinar a fuego lento durante 15 minutos.\n7. Agregar gradualmente la cerveza restante al paquete de chili, removiendo hasta que esté bien mezclado.\n8. Incorporar la mezcla combinada a la carne y cocinar a fuego lento por 5 minutos adicionales.\n9. Servir con queso cheddar fuerte rallado encima.",
+  "url": null
+}

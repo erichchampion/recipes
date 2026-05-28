@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "cappuccino",
+  "name": "Cappuccino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "bebidas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1/3 taza de crema en polvo sin lactosa",
+    "1/3 taza de azúcar",
+    "1/4 taza de café instantáneo seco",
+    "1-2 caramelos de naranja duros (triturados)"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes en una licuadora.\n2. Combina 1 cucharada con 3/4 taza de agua caliente.\n3. Almacena en un frasco hermético.\n14 porciones\nDe: Ronda Eikenberry",
+  "url": null
+}

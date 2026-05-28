@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "egg-burrito",
+  "name": "Burrito de Huevo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "americano",
+    "huevos/queso",
+    "étnico",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "Tortilla de Harina",
+    "2 Huevos",
+    "1/4 cucharadita de Suero de Leche",
+    "Sal",
+    "Pimienta",
+    "1 Lomo de Tocino, cocido crujiente",
+    "Frijoles Refritos",
+    "Chili Verde",
+    "Queso Mozzarella, Queso Cheddar y Queso Monterey Jack (rallado)"
+  ],
+  "recipeInstructions": "1. Calentar la tortilla de harina en una parrilla caliente.\n2. Batir los huevos con suero de leche, sal y pimienta; escalfar hasta que estén cuajados pero no duros.\n3. Extender los huevos escalfados sobre la tortilla calentada.\n4. Colocar un lomo de tocino cocido crujiente encima de los huevos.\n5. Agregar frijoles refritos y Chili Verde al burrito.\n6. Espolvorear generosamente los quesos (Mozzarella, Cheddar y Monterey Jack) sobre los ingredientes.\n7. Enrollar el burrito apretadamente.\n8. Calentar en un horno de microondas hasta que el queso se derrita.\nTiempo de preparación: 15 minutos\nTiempo de cocción: 2 minutos",
+  "url": null
+}

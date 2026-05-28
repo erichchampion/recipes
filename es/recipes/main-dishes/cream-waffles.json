@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "cream-waffles",
+  "name": "Waffles cremosos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "gofres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de crema agria",
+    "2 huevos; batidos por separado",
+    "2 tazas de harina",
+    "1 cucharadita de bicarbonato de sodio",
+    "1/2 cucharadita de sal",
+    "1 cucharada de maicena (opcional)"
+  ],
+  "recipeInstructions": "1. Mezcla las yemas de huevo batidas con la crema agria.\n2. Cierna los ingredientes secos y combínalos con la primera mezcla.\n3. Agrega las claras de huevo batidas firmemente a la mezcla.\n4. Cocina inmediatamente en una gofrera caliente.",
+  "url": null
+}

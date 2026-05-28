@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "rocky-road-pizza",
+  "name": "Pizza Rocky Road",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "20 1/2 onzas de mezcla para brownie bajo en grasa",
+    "7 onzas de crema de malvavisco",
+    "1/4 taza de chips de chocolate semiamargo",
+    "1/4 taza de nueces picadas"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350 °F (175 °C).\n2. Engrasar una sartén para pizza de 30 cm con spray para cocinar.\n3. Preparar la mezcla para brownie según las instrucciones del paquete y extenderla uniformemente sobre el fondo de la sartén para pizza preparada.\n4. Hornear durante 25 minutos.\n5. Extender la crema de malvavisco uniformemente sobre la capa de brownie.\n6. Espolvorear con chips de chocolate y nueces.",
+  "url": null
+}

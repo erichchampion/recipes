@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "blueberry-frozen-yogurt",
+  "name": "Yogur helado de arándanos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "yogur helado"
+  ],
+  "recipeIngredient": [
+    "2 tazas de arándanos lavados y revisados",
+    "1 plátano machacado",
+    "3/4 taza de azúcar",
+    "1/2 taza de jugo de naranja congelado descongelado",
+    "2 tazas de yogur sin grasa",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. En una licuadora eléctrica o procesador de alimentos, combina todos los ingredientes.\n2. Licúa hasta que quede suave.\n3. Vierte la mezcla en una máquina de helados y congela según las instrucciones del fabricante.\n4. Desmórfala ligeramente antes de servir.",
+  "url": null
+}

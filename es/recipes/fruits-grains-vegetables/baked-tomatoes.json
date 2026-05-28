@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-tomatoes",
+  "name": "Tomates al horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "tomates",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 tomates tipo pera",
+    "1 taza de migas de pan finas",
+    "1 taza de queso parmesano rallado",
+    "1 cucharadita de tomillo seco"
+  ],
+  "recipeInstructions": "1. Cortar cada tomate por la mitad y colocar las mitades con corte hacia arriba en un plato para hornear.\n2. Espolvorear ligeramente cada media parte con migas de pan, queso parmesano y tomillo.\n3. Hornear durante 15 a 20 minutos.",
+  "url": null
+}

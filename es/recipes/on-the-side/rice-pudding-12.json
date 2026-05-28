@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "rice-pudding-12",
+  "name": "Budín de Arroz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "postres",
+    "bajo en calorías",
+    "budines",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz",
+    "6 tazas de leche",
+    "3/4 taza de azúcar",
+    "1 cucharada de vainilla"
+  ],
+  "recipeInstructions": "1. Calentar la mezcla hasta que casi hierva, removiendo ocasionalmente.\n2. Disminuir el fuego, cubrir y dejar cocinar a fuego lento por 1 hora, removiendo ocasionalmente.\n3. Agregar la vainilla.\nVariaciones:\n- Se puede incorporar un plátano machacado o dos para endulzar naturalmente el budín y darle un sutil sabor a plátano. Esto podría permitir reducir la cantidad de azúcar.\n- Alternativamente, eliminar por completo el azúcar y endulzar el pudín con Equal una vez que se haya enfriado.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-bacon-soup-2",
+  "name": "Sopa de Queso y Tocino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "estofados"
+  ],
+  "recipeIngredient": [
+    "6 rebanadas de tocino, cocido y desmenuzado",
+    "1/2 taza de apio, picado",
+    "1/2 taza de zanahoria, picada",
+    "1/2 taza de cebolla, picada",
+    "1/2 taza de pimiento verde, picado",
+    "1/3 taza de harina",
+    "1/2 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "2 tazas de media crema",
+    "1 taza de leche",
+    "1 lata de caldo de pollo claro (400 g)",
+    "2 tazas de queso cheddar fuerte, rallado"
+  ],
+  "recipeInstructions": "1. Retirar el tocino de las grasas. \n2. Agregar los vegetales a las grasas del tocino y cocinar hasta que estén tiernos.\n3. Incorporar la harina, la sal y la pimienta; revolver bien.\n4. Añadir gradualmente la media crema, la leche y el caldo de pollo. Tapar y cocinar hasta espesarse y formar burbujas, revolviendo ocasionalmente.\n5. Agregar el queso, revolviendo hasta que se derrita. Colocar tocino sobre cada porción.",
+  "url": null
+}

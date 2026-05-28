@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-soup-3",
+  "name": "Sopa de Tacos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas y guisos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 libras de pechuga de pollo molida (sin piel)",
+    "1 taza de cebolla picada",
+    "1 taza de pimientos picados",
+    "1 sobre de mezcla para taco",
+    "2 tazas de agua",
+    "15 onzas de tomates enlatados estofados (escurridos, picados)",
+    "15 onzas de salsa de tomate",
+    "15 onzas de frijoles rojos oscuros enlatados (enjuagados, picados)",
+    "15 onzas de frijoles pintos enlatados (enjuagados, picados)",
+    "16 onzas de salsa"
+  ],
+  "recipeInstructions": "1. En una olla de tres cuartos de litro, cocina el pollo, la cebolla y los pimientos a fuego medio hasta que el pollo ya no sea rosado y las verduras estén tiernas.\n2. Agrega la mezcla para taco, agua, tomates enlatados, salsa de tomate, frijoles rojos, frijoles pintos y salsa.\n3. Lleva la mezcla a ebullición, luego reduce el calor a bajo.\n4. Deja cocinar durante 30 minutos, o hasta que los sabores se mezclen bien.",
+  "url": null
+}

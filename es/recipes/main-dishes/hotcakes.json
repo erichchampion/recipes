@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "hotcakes",
+  "name": "Hotcakes",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "panqueques",
+    "comida reconfortante"
+  ],
+  "recipeIngredient": [
+    "4 tazas de harina de todo uso",
+    "3/4 taza de azúcar",
+    "2 cucharadas de polvo de hornear",
+    "2 tazas de leche",
+    "8 cucharadas de mantequilla sin sal, derretida",
+    "más cantidad para la sartén",
+    "1 huevo grande",
+    "2 cucharaditas de extracto de vainilla",
+    "1/2 cucharadita de colorante alimentario amarillo"
+  ],
+  "recipeInstructions": "1) En un bol grande, mezcle juntos la harina, el azúcar y el polvo de hornear hasta que se combinen. En otro bol, bata la leche, la mantequilla derretida, el huevo, la vainilla y el colorante hasta que estén bien mezclados. Vierta gradualmente los ingredientes húmedos en los secos y mezcle hasta que solo estén combinados (dejar algunos grumos es preferible a sobremezclar y obtener panqueques duros). Para panqueques más ligeros, deje reposar la masa a temperatura ambiente durante unos 30 minutos o refrigérelos hasta por un día.\n2) Calentar una sartén o una sartén pesada grande (de hierro fundido funciona bien) a fuego medio. La sartén está lista cuando una gota de agua chisporrotea y se evapora rápidamente en la superficie. Unte ligeramente la sartén con mantequilla derretida. Vierta aproximadamente 1/3 taza de masa por cada panqueque, dejando espacio entre ellos para facilitar dar la vuelta. Cocine hasta que los bajos estén dorados marrones (comprobar levantando una esquina) y formen burbujas en el lado superior. Dar la vuelta suavemente a los panqueques y cocinar hasta que los bajos estén dorados marrones. Repita con la masa restante.\nSirva calientes con mantequilla y sirope de arce.",
+  "url": null
+}

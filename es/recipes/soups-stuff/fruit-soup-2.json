@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-soup-2",
+  "name": "Sopa de Frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "frutas",
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "1/3 taza de néctar de albaricoque",
+    "1 1/2 cucharaditas de miel",
+    "1/2 cucharadita de maicena",
+    "un toque de canela molida",
+    "1 pieza de fruta pelada y en rodajas"
+  ],
+  "recipeInstructions": "1. En un bol pequeño no metálico, mezcla el néctar de albaricoque con la maicena.\n2. Añade el brandy, la miel y la canela.\n3. Cocina a potencia máxima durante 1 a 2 minutos o hasta que espese y burbujee, removiendo cada 30 segundos.\n4. Incorpora la fruta.\n5. Cocina a potencia máxima durante 30 a 45 segundos adicionales o hasta que se caliente por completo.\n6. Deja enfriar si lo deseas. Sirve caliente o frío.",
+  "url": null
+}

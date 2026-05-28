@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "pollo-rellenos",
+  "name": "Pollo Relleno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "caliente",
+    "plato principal",
+    "carne",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo sin hueso",
+    "1 taza de caldo de pollo",
+    "3/4 taza de pasas doradas",
+    "1 cebolla pequeña; picada finamente",
+    "1/2 cucharadita de canela en polvo",
+    "un pellizco de clavos molidos",
+    "1/2 cucharadita de sal",
+    "1 cucharadita de comino",
+    "1 cucharadita de chile rojo caribe",
+    "1 taza de espinaca picada"
+  ],
+  "recipeInstructions": "1. Preparar el relleno mezclando las pasas doradas, la cebolla picada, los clavos, la canela, la sal, el comino y la espinaca picada.\n2. Rellenar las pechugas de pollo con la mezcla.\n3. Hornear a 180°C durante 1 hora o hasta que estén tiernas. Rocíar con caldo de pollo unas cuantas veces durante el horneado.",
+  "url": null
+}

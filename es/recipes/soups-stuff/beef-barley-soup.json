@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-barley-soup",
+  "name": "Sopa de Carne y Trigo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne molida",
+    "restaurantes",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 taza de zanahorias picadas",
+    "1 taza de apio picado",
+    "1 taza de cebolla picada",
+    "2 cucharadas de caldo de carne o 4 cubos de caldo",
+    "2 cucharadas de caldo de pollo o 4 cubos de caldo",
+    "6 ½ oz de trigo perlado",
+    "3 litros de agua",
+    "½ libra de carne molida",
+    "2 cucharadas de mantequilla"
+  ],
+  "recipeInstructions": "Sazonar con sal y pimienta al gusto.\nEn una olla grande, saltear las verduras en mantequilla hasta que estén tiernas. En una sartén separada, cocinar la carne molida y escurrir el exceso de grasa. Agregar la carne cocida a la olla con las verduras. Incorporar el caldo de carne o pollo (2 cucharadas) y 3 litros de agua. Añadir el trigo perlado y cocinar a fuego lento durante 30 minutos, sazonando con sal y pimienta al gusto.",
+  "url": null
+}

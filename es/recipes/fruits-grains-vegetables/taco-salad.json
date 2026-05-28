@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "taco-salad",
+  "name": "Ensalada de Tacos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "americana",
+    "étnica",
+    "mexicana"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1/2 lechuga (en trozos pequeños)",
+    "2 tomates medianos (cortados en pedazos)",
+    "15 oz de frijoles rojos (escurridos)",
+    "1 paquete de mezcla para tacos",
+    "1/2 taza de queso cheddar rallado sin grasa o 4 sobres",
+    "salsa picante al gusto",
+    "1/2 bolsa de chips de tortilla sin grasa (horneados)"
+  ],
+  "recipeInstructions": "1. Cocinar la carne molida hasta que esté completamente dorada, luego escurrir cualquier grasa excesiva.\n2. Preparar la mezcla para tacos según las instrucciones del paquete.\n3. Desmenuzar la lechuga en trozos pequeños y colocarla en un bol grande.\n4. Agregar los tomates cortados, frijoles rojos escurridos, queso rallado y aderezo para ensalada (del frasco de Kraft Fat-Free Catalina Salad Dressing) al bol con la lechuga.\n5. Mezclar todos los ingredientes hasta que estén bien combinados.\n6. Espolvorear los chips de tortilla horneados sobre la mezcla.\n7. Servir inmediatamente y agregar salsa picante al gusto.",
+  "url": null
+}

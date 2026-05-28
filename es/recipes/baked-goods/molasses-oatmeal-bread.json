@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "molasses-oatmeal-bread",
+  "name": "Pan de Avena con Melaza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "PAN DE TAMANO GRANDE:",
+    "1 sobre de 25 gramos de levadura seca activa",
+    "1 taza de avena rápida",
+    "3 tazas de harina de pan",
+    "1 cucharadita de sal",
+    "1/2 taza de melaza",
+    "1 cucharada de aceite",
+    "1 taza y 1 cucharadita de agua tibia (70-80°C)"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en la máquina de pan en el orden recomendado por el fabricante.\n2. Selecciona el ciclo de pan blanco.\n3. Hornea según las indicaciones en la configuración de corteza más clara.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "teriyaki-chicken",
+  "name": "Pollo Teriyaki",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "aperitivos",
+    "pollo",
+    "plato principal",
+    "carne",
+    "microondas",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "2 1/2 lb de pollo para asar, cortado en 8 pedazos",
+    "1/4 taza de salsa de soja",
+    "1/4 taza de azúcar",
+    "1/4 taza de sake (vino de arroz japonés) o jerez de cocinar",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de glutamato monosódico (opcional)",
+    "1 cucharada de aceite vegetal",
+    "1 cucharadita de jengibre fresco rallado"
+  ],
+  "recipeInstructions": "1. En un tazón grande, mezcle todos los ingredientes. Marinar los pedazos de pollo durante 3 a 4 horas.\n2. Coloque el pollo con la piel hacia abajo en un plato de horneado profundo y resistente al calor de 3 cuartos, y caliente en el horno de microondas durante 12 minutos.\n3. Voltee el pollo con la piel hacia arriba y caliente por 6 minutos adicionales o hasta que el pollo esté suave al tenedor. Bañar ocasionalmente con la salsa.",
+  "url": null
+}

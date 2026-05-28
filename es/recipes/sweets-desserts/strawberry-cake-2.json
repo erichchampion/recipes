@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "strawberry-cake-2",
+  "name": "Pastel de Fresas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "Mezcla para pastel blanco",
+    "Huevos (4)",
+    "Fresas (frescas o congeladas, 1/2 taza)",
+    "Aceite (2/3 taza)",
+    "Gelatina de fresa (paquete de 0.3 onzas)",
+    "Agua caliente (1/2 taza)"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F.\n2. Disolver la gelatina de fresa en agua caliente y mezclar con los ingredientes restantes.\n3. Hornear en un molde para pastel durante aproximadamente 1 hora.",
+  "url": null
+}

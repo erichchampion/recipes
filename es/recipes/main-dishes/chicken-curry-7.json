@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-curry-7",
+  "name": "Curry de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pollo",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 pechugas de pollo enteras sin hueso",
+    "1 lata (355 ml) de sopa de pollo",
+    "1/4 taza de jerez seco",
+    "2 cucharadas de mantequilla o margarina",
+    "2 cebollas verdes con las puntas, picadas finamente",
+    "1 cucharadita de polvo de curry",
+    "1 cucharadita de sal",
+    "un toque de pimienta"
+  ],
+  "recipeInstructions": "1. Cortar el pollo en trozos pequeños y colocarlo en una olla de cocción lenta.\n2. Agregar todos los ingredientes restantes excepto el arroz.\n3. Tapar y cocinar a temperatura alta durante 2 a 4 horas o a temperatura baja durante 6 a 8 horas.\n4. Servir sobre arroz caliente.\nRinde para 4 personas\nDuplicar la receta para una olla de 5 cuartos.",
+  "url": null
+}

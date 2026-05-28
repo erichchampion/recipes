@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "fettucine-alfredo",
+  "name": "Fettucine Alfredo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "acompañantes"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de mantequilla",
+    "8 onzas de fettuccine",
+    "1 1/2 tazas de crema espesa",
+    "1/2 taza de queso Parmesano rallado"
+  ],
+  "recipeInstructions": "1. Cocinar las pasta fettuccine en agua hirviendo con sal al gusto hasta que estén tiernas.\n2. Escurrir la pasta y enjuagar con agua fría.\n3. Derretir la mantequilla en una sartén a fuego medio. Sazonar con sal y pimienta al gusto.\n4. Agregar la crema a la sartén y llevar a ebullición, removiendo ocasionalmente.\n5. Dejar que la salsa espese por aproximadamente 10 minutos.\n6. Incorporar la pasta cocida y el queso Parmesano rallado a la salsa.\n7. Revolver hasta que esté bien combinada y servir.",
+  "url": null
+}

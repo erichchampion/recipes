@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-cacciatore",
+  "name": "Pollo Cacciatore",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "étnico",
+    "plato principal",
+    "carne",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "1 pollo entero de 3 libras",
+    "1/4 taza de harina de todo uso",
+    "sal",
+    "pimienta negra",
+    "pimentón cayena",
+    "1/4 taza de aceite de oliva",
+    "1 cebolla mediana, cortada en rodajas finas",
+    "1 diente de ajo, picado finamente",
+    "1 pimiento rojo grande, cortado en rodajas finas",
+    "1 lata de tomates pera italianos, cortados groseramente (24 onzas)",
+    "1/4 cucharadita de albahaca seca",
+    "1/4 cucharadita de orégano",
+    "1/4 cucharadita de romero",
+    "8 onzas de setas, cortadas en rodajas"
+  ],
+  "recipeInstructions": "1. Cortar el pollo en trozos para servir.\n2. Condimentar la harina con sal, pimienta y pimentón cayena.\n3. Pasear el pollo en la harina sazonada para cubrirlo.\n4. En una olla holandesa u olla pesada similar, saltear las cebollas, el ajo y el pimiento rojo en aceite de oliva hasta que se ablanden. Retirar del fuego.\n5. Dorar el pollo en el mismo aceite de oliva.\n6. Agregar la mezcla de cebolla cocida y los ingredientes restantes a la olla.\n7. Hervir a fuego medio-bajo hasta que el pollo esté completamente cocido, 30-40 minutos.",
+  "url": null
+}

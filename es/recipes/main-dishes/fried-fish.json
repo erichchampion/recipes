@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "fried-fish",
+  "name": "Pescado Frito",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carne",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "3 libras de filetes de pescado; firmes y blancos",
+    "2 cucharadas de jugo de limón",
+    "1 taza de leche, o más según sea necesario",
+    "2 tazas de harina",
+    "3 tazas de mezcla para tortitas",
+    "2 tazas de agua con gas (aproximadamente)",
+    "1 cucharadita de albahaca",
+    "1 cucharadita de pimienta",
+    "1/2 cucharadita de sal de ajo",
+    "aceite para cocinar"
+  ],
+  "recipeInstructions": "1. Cortar los filetes de pescado en mitades, formando formas triangulares.\n2. Cubrir con leche y jugo de limón, luego refrigerar durante 3-4 horas.\n3. Escurrir la leche.\n4. Sumergir los filetes en harina para cubrir ligeramente cada pieza.\n5. Dejar que se sequen en una bandeja para hornear, asegurándose de que las piezas no se endurezcan.\n6. Calentar el aceite en un freidor profundo o una sartén pesada a al menos 425°F.\n7. Combinar la mezcla para tortitas, albahaca, pimienta, sal de ajo y suficiente agua con gas para hacer una masa espesa con la consistencia de suero de leche.\n8. Sumergir los filetes enharinados en la masa y agregarlos al aceite caliente uno a la vez.\n9. Freír durante 4-5 minutos.\n10. Retirar los filetes a una bandeja para hornear, asegurándose de que no se toquen entre sí. Mantener calientes en un horno precalentado a 250°F.\n11. Freír los filetes restantes, manteniendo la profundidad del aceite de al menos 3 pulgadas. Nota: No apilar el pescado ya que esto crea vapor y hace que la cobertura sea suave.",
+  "url": null
+}

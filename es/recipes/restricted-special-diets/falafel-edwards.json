@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "falafel-edwards",
+  "name": "Falafel (Edwards)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "plato principal",
+    "dieta especial",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 taza de garbanzos secos, remojados en 5 tazas de agua durante 24 horas",
+    "1 cucharadita de bicarbonato de sodio",
+    "1 cucharadita de sal",
+    "1/2 taza de cebolla finamente picada",
+    "2 cucharadas de perejil finamente picado",
+    "1 cucharadita de comino molido",
+    "1 cucharadita de cilantro molido",
+    "2 dientes de ajo finamente picados",
+    "1 cucharada de jugo de limón",
+    "1 cucharadita de pimienta negra"
+  ],
+  "recipeInstructions": "1. Escurrir bien los garbanzos y colocarlos en un procesador de alimentos junto con los demás ingredientes.\n2. Procesar hasta obtener una consistencia similar a la harina de maíz gruesa.\n3. Formar hamburguesas y freír.",
+  "url": null
+}

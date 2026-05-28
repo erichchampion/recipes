@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "pop-up-pizza",
+  "name": "Pizza Pop",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "panes",
+    "carne molida",
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "Leche - 1 taza",
+    "Huevos - 2 unidades grandes",
+    "Harina - 1 taza",
+    "Aceite - 1 cucharada",
+    "Agua - 1/2 taza",
+    "Hamburguesa - 1 1/2 libras (molida)",
+    "Cebolla - 1 taza, picada",
+    "Pimiento verde - 1 taza, picado",
+    "Ajo - 1 diente",
+    "Salsa picante en polvo - 1/8 cucharadita",
+    "Salsa de tomate en polvo - 1 paquete (1.5 onzas)",
+    "Queso parmesano rallado - 1/2 taza",
+    "Sal - 1/2 cucharadita",
+    "Orégano - 1/2 cucharadita"
+  ],
+  "recipeInstructions": "Masa:\n1. En un bol, combina la leche, el aceite y los huevos. Bate durante 1 minuto a velocidad media.\n2. Agrega la harina y la sal. Bate hasta obtener una mezcla suave.\nRelleno:\n3. En una sartén grande, dora la hamburguesa y escurre el exceso de grasa.\n4. Incorpora la cebolla, el pimiento verde, el ajo, el orégano, la sal, el agua, la salsa picante y la salsa de tomate en polvo.\n5. Reduce el fuego y cocina por unos 10 minutos, revolviendo ocasionalmente.\nMontaje:\n6. Precalienta el horno a 400°F (200°C).\n7. Vierte la mezcla de carne caliente en un molde para hornear engrasado de 30x45 cm.\n8. Coloca rebanadas de queso sobre el relleno.\n9. Vierte la masa de manera uniforme sobre el queso, cubriendo completamente el relleno.\n10. Espolvorea queso parmesano por encima.\n11. Hornea durante 25-30 minutos o hasta que esté inflada y dorada.",
+  "url": null
+}

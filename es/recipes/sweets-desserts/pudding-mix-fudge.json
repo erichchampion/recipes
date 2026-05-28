@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pudding-mix-fudge",
+  "name": "Fudge de Mezcla de Pudín",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "dulces",
+    "pudín",
+    "postres",
+    "fudge"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de Manteca",
+    "4 onzas de Mezcla de Pudín de Chocolate",
+    "1/4 taza de Leche",
+    "1 3/4 tazas de Azúcar Glas"
+  ],
+  "recipeInstructions": "1. Derretir la manteca y mezclarla con la mezcla de pudín (no instantánea) y la leche.\n2. Llevar a ebullición la mezcla.\n3. Retirar del fuego y mezclar el azúcar glas y 1/2 cucharadita de extracto de vainilla.\n4. Agregar nueces si se desea.\n5. Verter en un molde enmantequillado.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "wacky-cake",
+  "name": "Pastel Loco",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pastel",
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de Harina para todo uso sin blanquear",
+    "1 taza de Azúcar",
+    "3 cucharadas de Cacao en polvo",
+    "1 cucharadita de Bicarbonato de sodio",
+    "1/2 cucharadita de Sal",
+    "1 cucharadita de Extracto de vainilla",
+    "1 cucharadita de Vinagre",
+    "5 cucharadas de Aceite vegetal",
+    "1 taza de Agua fría"
+  ],
+  "recipeInstructions": "1. En un bol grande, combina la harina, el azúcar, el cacao, el bicarbonato y la sal.\n2. Haz tres pozos en los ingredientes secos. Coloca el extracto de vainilla en un pozo, el vinagre en otro y el aceite vegetal en el tercero.\n3. Vierte 1 taza de agua fría sobre todos los ingredientes y revuelve hasta que estén apenas combinados. No batir.\n4. Vierte la masa en un molde rectangular de 20 x 20 cm.\n5. Hornea a 175 °C (350 °F) durante un pastel que rebote al tocarlo ligeramente.",
+  "url": null
+}

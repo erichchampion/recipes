@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-bread",
+  "name": "Pan de Limón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1 taza de azúcar",
+    "1 limón, ralladura de, picada finamente",
+    "1/3 taza de aceite para cocinar",
+    "2 huevos",
+    "1/2 taza de leche",
+    "1 1/2 tazas de harina, tamizada una vez",
+    "1 cucharadita de polvo de hornear",
+    "1/4 cucharadita de sal",
+    "1/2 taza de nueces picadas finamente (nueces, pecanas, etc.)"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes (excepto el glaseado) en el orden indicado.\n2. Verter la mezcla en un molde para pan engrasado.\n3. Hornear a 350 grados durante 45 minutos a 1 hora.\n4. Después de sacarlo del horno, glasear la parte superior con la mezcla de azúcar en polvo y jugo de limón mientras el pan aún esté caliente.\n5. Sirve para 8 a 10 personas. Ideal para un brunch o té de la tarde.",
+  "url": null
+}

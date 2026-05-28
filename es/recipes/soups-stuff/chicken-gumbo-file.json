@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-gumbo-file",
+  "name": "Gumbo de Pollo'",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "americano",
+    "cajún",
+    "étnico",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de Aceite",
+    "1 1/2 tazas de Harina",
+    "2 cebollas grandes, picadas",
+    "1 manojo de Cebollinos verdes, picados",
+    "1/2 - 1 manojo de Apio, picado",
+    "1 pimiento verde grande, picado",
+    "1 cucharada de Caldo de Pollo",
+    "1 gallina para guisar",
+    "1 hoja de laurel",
+    "Sal",
+    "Pimienta",
+    "1 lb de Andouille o salchicha ahumada",
+    "Casi 1 botella de File'",
+    "Arroz"
+  ],
+  "recipeInstructions": "1. En una olla grande, prepara un roux con aceite y harina.\n2. Saltea las cebollas, los cebollinos verdes, el apio y el pimiento verde en el roux.\n3. Añade el caldo de pollo, la gallina para guisar, la hoja de laurel, sal y pimienta a la olla.\n4. Cocina hasta que la gallina esté casi cocida.\n5. Agrega la salchicha Andouille.\n6. Agrega gradualmente el file, poco a poco.\n7. Sirve con arroz.",
+  "url": null
+}

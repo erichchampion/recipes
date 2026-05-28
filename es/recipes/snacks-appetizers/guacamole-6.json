@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "guacamole-6",
+  "name": "Guacamole",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "mexicano",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "2 aguacates, sin hueso y pelados",
+    "1 cebolla, picada finamente",
+    "1 cucharadita de polvo de chile",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimienta molida",
+    "1 tomate, picado"
+  ],
+  "recipeInstructions": "1. Machaca los aguacates con una cuchara.\n2. Mezcla bien los ingredientes restantes hasta obtener una consistencia cremosa.\n3. Refrigera la mezcla.\n4. Opcionalmente, puedes sustituir 2 chiles verdes finamente picados por el polvo de chile.",
+  "url": null
+}

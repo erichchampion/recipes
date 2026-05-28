@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "muffuletta-sandwich-2",
+  "name": "Sándwich Muffuletta",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "carnes",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "Ensalada de aceitunas:",
+    "1/2 taza de aceitunas verdes sin hueso y cortadas groseramente",
+    "1/2 taza de aceitunas negras sin hueso y cortadas groseramente",
+    "1/4 taza de pimiento rojo picado",
+    "3 dientes de ajo finamente picados",
+    "1 filete de anchoa machacado",
+    "1 cucharada de caparras",
+    "1/3 taza de perejil picado",
+    "1 cucharadita de orégano",
+    "1/4 cucharadita de pimienta negra",
+    "1/2 taza de aceite de oliva",
+    "El sándwich:",
+    "1 hogaza grande de pan italiano",
+    "1/3 lb de salami duro, cortado muy fino",
+    "1/3 lb de jamón, cortado muy fino",
+    "1/3 lb de provolone, cortado en rebanadas"
+  ],
+  "recipeInstructions": "1. Ensalada de aceitunas: Mezclar todos los ingredientes y dejar marinar por al menos 12 horas.\n2. El sándwich:\na. Cortar la hogaza de pan italiano por la mitad horizontalmente y retirar ligeramente parte del interior.\nb. Colocar en capas el salami, jamón y rebanadas de provolone.\nc. Extender la mezcla de ensalada de aceitunas sobre el pan con un grosor de al menos 3/4 de pulgada.\nd. Colocar la tapa superior de la hogaza y servir.",
+  "url": null
+}

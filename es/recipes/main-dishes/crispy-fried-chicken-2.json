@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "crispy-fried-chicken-2",
+  "name": "Pollo Frito Crujiente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "1 Pollo, cortado en piezas",
+    "1 1/2 tazas Pan rallado sin sazonar",
+    "1 taza Harina",
+    "1 cucharadita Sal",
+    "1 cucharadita Pimienta",
+    "1 cucharada Pimentón dulce",
+    "1/2 cucharadita Polvo de ajo",
+    "1/2 cucharadita Polvo de cebolla",
+    "2 Huevos"
+  ],
+  "recipeInstructions": "1. En una bolsa de papel o plástico mediana, mezcla la harina, el pan rallado y las especias.\n2. Sumerge cada pieza de pollo en el huevo, luego agita dos o tres piezas a la vez para que queden cubiertas con la mezcla de pan rallado.\n3. Coloca el pollo cubierto con la piel hacia abajo en una sartén engrasada.\n4. Hornea el pollo a 200°C durante 30 minutos.\n5. Voltea el pollo, reduce el calor a 180°C y continúa horneando por otros 20-30 minutos.\n6. Sirve con puré de papas y salsa.",
+  "url": null
+}

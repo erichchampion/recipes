@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-4",
+  "name": "Pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza",
+    "vegetal"
+  ],
+  "recipeIngredient": [
+    "13 onzas de masa para pizza",
+    "1 taza de agua caliente",
+    "1 cucharada de aceite de oliva",
+    "8 onzas de setas, en rodajas",
+    "1 taza de pimientos, picados",
+    "1/2 taza de cebolla, picada",
+    "14.5 onzas de tomates triturados sin escurrir",
+    "8 onzas de salsa de tomate sin sal añadida",
+    "2 cucharadas de condimento para pizza",
+    "1 1/2 cucharaditas de sal",
+    "1 cucharadita de azúcar granulada",
+    "1 cucharadita de orégano",
+    "1 cucharadita de albahaca",
+    "1/4 cucharadita de pimienta negra",
+    "2 tazas de setas, en rodajas",
+    "1 taza de queso cheddar sin grasa, rallado",
+    "1 taza de queso mozzarella sin grasa, rallado",
+    "1 taza de queso cheddar, rallado"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 450°F (230°C).\n2. Preparar una bandeja para pizza de 16 pulgadas con spray antiadherente y harina; reservar.\n3. Para preparar la masa, mezclar la masa para pizza con el agua hasta que esté húmeda. Tapar y dejar reposar durante 5 minutos.\n4. Presionar la masa en la bandeja preparada; reservar.\n5. Para preparar la salsa, calentar el aceite en una sartén. Cocinar las setas, los pimientos y la cebolla hasta que estén tiernos. Agregar los tomates, la salsa de tomate, el condimento para pizza, la sal, el azúcar, el orégano, la albahaca y la pimienta negra. Reducir a fuego lento todos los ingredientes hasta que burbujee o durante 15 minutos. Dejar enfriar.\n6. Verter la salsa sobre la masa. Luego agregar los toppings.\n7. Hornear durante 17 minutos o hasta que la masa esté ligeramente dorada y el queso se haya derretido.",
+  "url": null
+}

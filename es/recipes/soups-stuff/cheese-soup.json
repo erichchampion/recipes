@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-soup",
+  "name": "Sopa de Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas y guisos"
+  ],
+  "recipeIngredient": [
+    "3 1/2 tazas de caldo de pollo",
+    "2 zanahorias ralladas",
+    "1 taza de pollo cocido picado",
+    "3 cucharadas de jerez",
+    "1 cucharadita de salsa Worcestershire",
+    "1/4 cucharadita de semillas de apio",
+    "2 tazas de queso cheddar suave rallado",
+    "4 cucharadas de mantequilla o margarina",
+    "1/4 taza de harina",
+    "4 tazas de leche"
+  ],
+  "recipeInstructions": "1. En una olla grande, combina los primeros 6 ingredientes. Lleva a ebullición y reduce el fuego, cocinando a fuego lento con la tapa puesta durante 1 hora.\n2. Congela la sopa con el queso en una bolsa para congelar pegada al recipiente de la sopa.\n3. Cuando se haya descongelado, sofríe la cebolla en mantequilla hasta que esté ligeramente dorada.\n4. Agrega harina y leche para hacer una salsa blanca.\n5. Añade gradualmente el queso cheddar rallado a la salsa blanca, removiendo hasta que se derrita.\n6. Incorpora la mezcla de queso derretido a la sopa y caliéntala hasta que esté caliente.",
+  "url": null
+}

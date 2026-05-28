@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "ale-bread-2",
+  "name": "Pan de Cerveza Ale",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "panadería",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina sin blanquear",
+    "1 lata (350 ml) de cerveza o ale (no ligera)",
+    "2 cucharaditas de polvo de hornear",
+    "un puñado de cebolla verde picada",
+    "una pizca de sal",
+    "un puñado de queso rallado (opcional)"
+  ],
+  "recipeInstructions": "1. Mezclar la harina, la sal y el polvo de hornear.\n2. Agregar la cerveza. Incorporar las cebollas verdes y el queso, si se usa.\n3. Amasar brevemente la masa, añadiendo más harina si está pegajosa.\n4. Dar forma a la masa en un pan redondo y colocarlo en una fuente para pastel engrasada o en una bandeja para galletas engrasada.\n5. Hornear a 180°C durante 30 minutos, hasta que esté dorado y el pan suene hueco al golpearlo.",
+  "url": null
+}

@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "pina-colada-2",
+  "name": "Pina Colada",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "comidas acompañantes"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de hielo triturado",
+    "1 onza de ron claro",
+    "2 cucharadas de jugo de piña",
+    "1/2 onza de crema de coco"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en el recipiente de la licuadora.\n2. Licúa a velocidad alta hasta que espume, aproximadamente 30 segundos.\n3. Adorna con fruta, si lo deseas.",
+  "url": null
+}

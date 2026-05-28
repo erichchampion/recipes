@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "barbecued-fish",
+  "name": "Pescado a la Barbacoa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "bar-b-q",
+    "pescado",
+    "plato principal",
+    "carne",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "1 cebolla pequeña; picada",
+    "1 cucharada de azúcar morena",
+    "1/4 taza de vinagre de sidra",
+    "2 cucharadas de kétchup",
+    "2 cucharadas de mostaza en polvo",
+    "1 cucharadita de salsa Worcestershire",
+    "1/4 cucharadita de clavo molido",
+    "1 cucharadita de chile en polvo",
+    "1/4 cucharadita de pimienta cayena",
+    "1 1/2 libras de filetes o filletas firmes y blancas (como Red Snapper o Halibut)"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes de la salsa en una olla. Llevar a fuego medio y hervir hasta reducirla a un sirope fino.\n2. Verter el sirope a través de un colador, descartar los ingredientes cocidos y enfriar el sirope.\n3. Colocar las piezas de pescado en un plato para hornear y verter un poco de sirope sobre cada una.\n4. Marinar en el refrigerador durante 1 hora.\n5. Cocinar el pescado en una parrilla caliente, bañando con una cucharadita de salsa barbacoa en cada lado.",
+  "url": null
+}

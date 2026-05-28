@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "paella-5",
+  "name": "Paella",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "pescado",
+    "plato principal",
+    "carne",
+    "mexicano",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 pollo de corral, cortado en trozos",
+    "2 dientes de ajo",
+    "1/4 taza de aceite",
+    "1 lb camarones crudos",
+    "4 tomates en rodajas",
+    "1 lb guisantes",
+    "12 corazones de artichoke",
+    "1 1/2 tazas arroz moreno",
+    "6 hebras de azafrán",
+    "1 taza cebolla picada",
+    "1 pimiento verde picado",
+    "1 pimiento rojo picado",
+    "1 cucharadita de pimentón",
+    "1 taza vino blanco",
+    "2 tazas agua"
+  ],
+  "recipeInstructions": "1. Dorar el pollo y el ajo en el aceite. Retirar y colocar en un recipiente para horno grande.\n2. Agregar camarones, tomates, guisantes y corazones de artichoke al recipiente.\n3. En el mismo aceite utilizado para dorar el pollo, saltear el arroz, el azafrán, la cebolla, el pimiento verde y el pimiento rojo durante 7 minutos.\n4. Espolvorear el pimentón sobre la mezcla.\n5. Verter el vino blanco y el agua.\n6. Hornear destapado a 350 grados Fahrenheit por 1 hora, o hasta que el arroz esté cocido.",
+  "url": null
+}

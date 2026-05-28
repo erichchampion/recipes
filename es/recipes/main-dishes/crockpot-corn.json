@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-corn",
+  "name": "Maíz en olla de cocción lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "olla de cocción lenta",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 bolsa grande de maíz congelado",
+    "200 g de crema de queso",
+    "1 barra de margarina",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Derretir la crema de queso y la margarina juntos en un tazón apto para microondas.\n2. Rocíar la olla de cocción lenta con spray de cocina vegetal.\n3. Verter la mezcla derretida de crema de queso y margarina en la olla de cocción lenta preparada.\n4. Agregar el maíz congelado, sal y pimienta.\n5. Cocinar durante 2 horas a fuego bajo.",
+  "url": null
+}

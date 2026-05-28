@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "stew-3",
+  "name": "Guiso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne de res",
+    "cerdo",
+    "sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 lb de carne (res, cerdo o cordero)",
+    "cortada en cubos de 2 pulgadas",
+    "6 papas",
+    "peladas y cortadas en trozos",
+    "6 zanahorias",
+    "peladas y cortadas en rodajas",
+    "6 cebollas",
+    "peladas y picadas",
+    "1 hoja de laurel",
+    "1 1/2 cucharaditas de sal",
+    "1/4 cucharadita de pimienta negra",
+    "2 tazas de agua"
+  ],
+  "recipeInstructions": "1. Dorar la carne en aceite en una olla de presión.\n2. Agregar el resto de los ingredientes (papas, zanahorias, cebollas, hoja de laurel, sal y pimienta).\n3. Cocinar por 15 minutos a presión alta (10 libras) después de que comience a temblar.\n4. Reducir la presión utilizando liberación natural o colocando el recipiente bajo agua corriente.\n5. Si es necesario, espesar los jugos con una mezcla de 3 cucharadas de harina disuelta en agua hasta obtener la consistencia deseada.\n6. Retirar la hoja de laurel antes de servir.\n7. Rinde para 6 personas.",
+  "url": null
+}

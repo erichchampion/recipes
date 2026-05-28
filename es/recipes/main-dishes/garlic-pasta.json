@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "garlic-pasta",
+  "name": "Pasta con Ajo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "8 dientes de ajo",
+    "3 cucharadas de aceite de oliva",
+    "1/2 taza de crema de leche",
+    "sal y pimienta al gusto",
+    "1/2 libra de pasta cocida",
+    "Queso Parmesano o Romano rallado al gusto"
+  ],
+  "recipeInstructions": "1. Cortar el ajo en rodajas finas.\n2. Saltear las rodajas de ajo en aceite de oliva hasta que estén ligeramente doradas.\n3. Agregar la crema, una pizca de sal y mucha pimienta.\n4. Reducir un poco la crema a fuego lento.\n5. Mezclar con la pasta caliente escurrida.\n6. Añadir abundante queso y decorar con perejil.",
+  "url": null
+}

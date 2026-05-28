@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "lentil-stew-2",
+  "name": "Guiso de Lentejas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "frijoles",
+    "sopas",
+    "sopas/guisos",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "1 libra de lentejas secas, enjuagadas y remojadas",
+    "2 litros de agua",
+    "2 tallos de apio picados",
+    "1 cebolla mediana picada",
+    "2 zanahorias picadas",
+    "1 diente de ajo picado finamente",
+    "1 hoja de laurel",
+    "1/4 cucharadita de tomillo",
+    "1/2 taza de vino tinto",
+    "1 lata de tomates en puré"
+  ],
+  "recipeInstructions": "En una olla grande, combina todos los ingredientes excepto el vino y los tomates. Lleva a ebullición y cocina a fuego lento durante 1 hora y media. Agrega el vino y los tomates, y cocina por otros 20-30 minutos.",
+  "url": null
+}

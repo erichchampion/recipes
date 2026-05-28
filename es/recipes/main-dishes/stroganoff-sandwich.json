@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "stroganoff-sandwich",
+  "name": "Sándwich Stroganoff",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal de queso, carnes y vegetales",
+    "plato principal",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "Pan francés; hogaza entera sin cortar",
+    "Carne molida; magra, 1 1/2 libras",
+    "Cebolla; rallada, 2 cucharadas",
+    "Queso Cheddar; medio fuerte, 1 1/2 tazas rallado",
+    "Crema agria, 1 taza",
+    "Salsa Worcestershire, 1 cucharada",
+    "Sal y pimienta al gusto",
+    "Tomates; medianos, picados",
+    "Pimiento verde; tipo campana"
+  ],
+  "recipeInstructions": "1. Pelar y picar 1 pimiento verde tipo campana mediano.\n2. Cortar el pan por la longitud en dos mitades. Untar ligeramente con mantequilla y envolver en papel aluminio.\n3. Hornear a 350 grados F (175 °C) durante 15 minutos.\n4. Dorar la carne y escurrir el exceso de grasa. Agregar la cebolla y cocinar hasta que la cebolla esté transparente. Retirar del fuego y añadir la crema agria, salsa Worcestershire, sal y pimienta.\n5. Sacar el pan del horno y extender la mezcla de carne en cada mitad. Colocar los tomates picados y el pimiento verde encima de la mezcla de carne y cubrir con el queso rallado. Volver a hornear solo hasta que el queso se derrita. Servir caliente.",
+  "url": null
+}

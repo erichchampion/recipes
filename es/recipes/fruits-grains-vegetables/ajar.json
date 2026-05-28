@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "ajar",
+  "name": "Ensalada de Ajar",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "asiática",
+    "étnica",
+    "ensaladas",
+    "tailandesa",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de vinagre de arroz",
+    "1 pepino mediano, pelado",
+    "1 cucharada de azúcar",
+    "1/2 taza de cebolla roja, cortada en rodajas finas",
+    "1/2 cucharadita de sal",
+    "2 ramitas de cilantro picadas",
+    "1 pimiento rojo o verde fresco pequeño"
+  ],
+  "recipeInstructions": "1. En un bol mediano, mezcla el vinagre de arroz, el azúcar, la sal y la pimienta hasta que el azúcar y la sal se disuelvan.\n2. Corta el pepino por la mitad a lo largo y retira las semillas.\n3. Corta las mitades en rodajas finas en sentido transversal.\n4. Agrega el pepino, la cebolla, el cilantro y el pimiento al aderezo de vinagre; mezcla hasta combinarlos.\n5. Tapa el bol y refrigera durante 3 horas, removiendo ocasionalmente.",
+  "url": null
+}

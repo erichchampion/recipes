@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "ratatouille-3",
+  "name": "Ratatouille",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "diabetico",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 cebolla pequeña, cortada en rodajas finas",
+    "1/4 taza de aceite de oliva",
+    "3 calabacines pequeños, cortados en rodajas de 1/8 de pulgada",
+    "4 tomates medianos, pelados y picados",
+    "2 pimientos rojos medianos, picados",
+    "1 diente de ajo, picado finamente",
+    "1/2 cucharadita de azúcar (o edulcorante artificial si eres diabético)",
+    "1/4 cucharadita de pimienta blanca",
+    "1/8 cucharadita de mostaza en polvo",
+    "1 cucharadita de jugo de limón",
+    "1/4 taza de perejil, picado"
+  ],
+  "recipeInstructions": "1. Cocinar las rodajas de cebolla en el aceite hasta que estén tiernas.\n2. Incorporar los demás ingredientes excepto el perejil. Reducir el fuego; tapar y cocinar a fuego lento durante 3 minutos.\n3. Descubrir y cocinar a fuego medio, revolviendo constantemente, hasta que se evapore el líquido. (Prestar atención.)\n4. Servir en un plato para servir y espolvorear con perejil.\nPorción: 1 Porción = 1 Verdura + 2 Grasas",
+  "url": null
+}

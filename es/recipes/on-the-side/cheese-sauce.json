@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-sauce",
+  "name": "Salsa de Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "queso/huevos",
+    "McDougall",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1/4 taza de papa; cocida y pelada",
+    "2 tazas de agua",
+    "4 onzas de pimientos; en tarro",
+    "1/2 cucharadita de polvo de cebolla",
+    "1/4 taza de levadura nutricional",
+    "3 cucharadas de almidón de maíz",
+    "2 cucharadas de jugo de limón",
+    "Sal al gusto, si se desea"
+  ],
+  "recipeInstructions": "Licúa la papa con 1/2 a 1/3 tazas de agua en una licuadora. Agrega los ingredientes restantes y licúa hasta obtener una consistencia suave. Vierte en una cacerola. Cocina, revolviendo constantemente, hasta que se espese y adquiera una textura lisa, aproximadamente 7 a 8 minutos. Sirve inmediatamente. La salsa se solidificará al enfriarse y podrá recalentarse.",
+  "url": null
+}

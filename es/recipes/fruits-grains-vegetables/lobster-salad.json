@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "lobster-salad",
+  "name": "Ensalada de Langosta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensalada",
+    "ensaladas",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de carne de langosta cocida",
+    "Lechuga",
+    "1/3 taza de aceite de oliva",
+    "2 cucharadas de vinagre de vino",
+    "1/2 cucharadita de sal",
+    "6 gotas de salsa picante",
+    "1/4 cucharadita de mostaza en polvo",
+    "1/2 taza de mayonesa",
+    "2 tazas de apio cortado finamente",
+    "1 cebolla pequeña, picada"
+  ],
+  "recipeInstructions": "1. Cortar la carne de langosta en trozos y disponer sobre hojas de lechuga.\n2. Mezclar los ingredientes restantes en un bol y verter sobre la langosta.\n3. Refrigerar por 1 hora o más.",
+  "url": null
+}

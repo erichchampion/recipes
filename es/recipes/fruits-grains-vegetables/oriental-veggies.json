@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "oriental-veggies",
+  "name": "Verduras Orientales",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "oriental",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de cebolla, en rodajas",
+    "1 taza de zanahoria, en rodajas",
+    "1 taza de coliflor, en rodajas",
+    "1 taza de judías verdes, en rodajas",
+    "2 cucharadas de aceite de maní",
+    "1 taza de agua",
+    "2 cucharaditas de caldo de pollo",
+    "2 cucharaditas de almidón de maíz",
+    "un pellizco de ajo en polvo"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de maní en una sartén a fuego medio.\n2. Agregar las judías verdes, coliflor, zanahoria y cebolla en rodajas a la sartén.\n3. Cocinar las verduras hasta que estén tiernas.\n4. En un bol aparte, mezclar el agua, el caldo de pollo, el almidón de maíz y el ajo en polvo.\n5. Incorporar la mezcla de salsa a las verduras cocidas.\n6. Calentar hasta que la mezcla espese.\n7. Ajustar la receta aumentando la cantidad de cebolla o usando la mitad de cebolla y reemplazándola con apio.",
+  "url": null
+}

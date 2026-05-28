@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "shrimp-stroganoff",
+  "name": "Estofado de Camaron",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "mariscos",
+    "camaron"
+  ],
+  "recipeIngredient": [
+    "1 cebolla mediana, picada",
+    "1 diente de ajo, picado",
+    "1/4 taza pimiento verde, picado",
+    "1 taza setas, laminadas finamente",
+    "2 cucharadas perejil fresco, picado",
+    "1/4 taza mantequilla derretida",
+    "1/4 taza harina",
+    "1 taza caldo de carne",
+    "1 cucharadita sal",
+    "1/2 cucharadita pimienta negra",
+    "5 gotas salsa picante",
+    "2 tazas camarones pelados y desvenados",
+    "1/2 taza crema agria",
+    "Nudillos de fideos cocidos al vapor"
+  ],
+  "recipeInstructions": "1. Saltear la cebolla, el ajo, el pimiento verde, las setas y el perejil hasta que estén tiernos.\n2. Incorporar la harina y cocinar por 1 minuto.\n3. Agregar gradualmente el caldo de carne; cocinar a fuego medio, revolviendo constantemente, hasta que espese.\n4. Añadir sal, pimienta y salsa picante, mezclando bien.\n5. Incorporar los camarones y reducir el fuego; cocinar por 10 minutos, revolviendo ocasionalmente.\n6. Mezclar la crema agria hasta que se caliente uniformemente.\n7. Servir sobre fideos calientes.",
+  "url": null
+}

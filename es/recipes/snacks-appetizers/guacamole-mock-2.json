@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "guacamole-mock-2",
+  "name": "Guacamole (Similitud)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 taza de espinacas cocidas",
+    "2 cucharadas de pimientos chiles picados",
+    "2 cucharaditas de pasta de tomate",
+    "2 cucharaditas de jugo de limón",
+    "1 cebolla pequeña picada",
+    "3 cucharadas de mayonesa sin grasa",
+    "o yogur o crema agria",
+    "1/4 cucharadita de comino",
+    "1/4 cucharadita de polvo de ajo",
+    "1/8 cucharadita de pimienta blanca"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en una licuadora o procesador de alimentos.\n2. Licuar hasta obtener una consistencia suave y al gusto.\n3. Servir inmediatamente.",
+  "url": null
+}

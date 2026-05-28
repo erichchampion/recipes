@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "meatballs-chef-du-jour",
+  "name": "Albóndigas (Chef del Día)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida magra",
+    "1 huevo",
+    "1/3 taza de miga de pan italiano",
+    "1/2 cebolla Vidalia grande",
+    "1 cabeza de ajo picado"
+  ],
+  "recipeInstructions": "1. En un bol grande, combina los ingredientes.\n2. Forma bolas.\n3. Cocina en la salsa durante las últimas dos horas de cocción a fuego lento.\n4. Sirve.",
+  "url": null
+}

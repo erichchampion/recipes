@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "barley-soup",
+  "name": "Sopa de Trigo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 litros de Caldo de Pollo",
+    "1 taza de Pollo cocido en trozos pequeños",
+    "Cebolla pequeña, rebanada en anillos",
+    "Apio con costilla, picado",
+    "Pequeña zanahoria, cortada en láminas finas",
+    "1 taza de Trigo perlado",
+    "Pequeño trozo de Kombu",
+    "1 cucharadita de Albahaca seca",
+    "1/4 cucharadita de Pimienta blanca molida",
+    "1 cucharada de Sal (opcional)",
+    "1/4 taza de Zanahoria rallada (opcional)"
+  ],
+  "recipeInstructions": "1. El Kombu, disponible en tiendas de salud, hace que las legumbres sean más digestivas. Mezcla todos los ingredientes excepto la sal y la zanahoria.\n2. Hierve a fuego lento hasta que el trigo esté cocido, aproximadamente 45 minutos.\n3. Sazonar al gusto con sal si es necesario.\n4. Decorar con zanahoria rallada si se desea.\n5. Nota: La sopa de trigo puede ser una comida reconfortante y digestiva para personas en recuperación. Omite el pollo para facilitar su consumo. Esta sopa es rica en proteínas, carbohidratos y fibra.",
+  "url": null
+}

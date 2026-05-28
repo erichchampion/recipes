@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-broth",
+  "name": "Caldo de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas y guisos"
+  ],
+  "recipeIngredient": [
+    "2 libras de espaldas, cuellos y/o alas de pollo",
+    "8 tazas de agua",
+    "2 cebollas pequeñas, cortadas en cuartos",
+    "1 taza de apio con hojas picado groseramente",
+    "1/2 taza de zanahorias rebanadas",
+    "2 cucharaditas de perejil fresco picado",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta",
+    "1 hoja de laurel (opcional)"
+  ],
+  "recipeInstructions": "1. En una olla holandesa de 5 cuartos, combina el pollo con el agua. Lleva a ebullición.\n2. Reduce el calor; cocina a fuego lento cubierto parcialmente durante 30 minutos. Retira cualquier espuma que flote en la superficie.\n3. Agrega los ingredientes restantes excepto 1/4 cucharadita de sal; cocina a fuego lento cubierto parcialmente por 4 horas adicionales.\n4. Retira los huesos; cuela el caldo. Mezcla 1/4 cucharadita de sal. Enfría al aire libre en la nevera.\n5. Cubre y guarda en la nevera o congelador. Retira la grasa del caldo antes de usarlo en recetas.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "uncooked-cookies",
+  "name": "Galletas sin hornear",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres",
+    "étnica",
+    "tex-mex"
+  ],
+  "recipeIngredient": [
+    "2 tazas de azúcar",
+    "1/2 taza de leche",
+    "4 oz de margarina",
+    "3 tazas de avena de cocción rápida",
+    "1 cucharada de cacao",
+    "1/2 taza de nueces picadas",
+    "O",
+    "1/2 taza de coco rallado",
+    "1 cucharadita de extracto de vainilla"
+  ],
+  "recipeInstructions": "1. Combinar el azúcar, la leche y la margarina en una olla.\n2. Llevar a ebullición constante y continuar hirviendo durante un minuto.\n3. Mezclar juntos la avena, el cacao, las nueces o el coco rallado, y la vainilla (si se usa).\n4. Verter la mezcla líquida sobre los ingredientes secos.\n5. Mezclar bien hasta combinar.\n6. Colocar cucharadas sobre papel pergamino.\n7. Dejar enfriar hasta que estén firmes antes de retirar del horno.",
+  "url": null
+}

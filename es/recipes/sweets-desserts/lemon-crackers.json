@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "lemon-crackers",
+  "name": "Crackers de Limón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "galletas",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 1/2 tazas de azúcar",
+    "1 taza de manteca",
+    "2 cucharadas de amoníaco para hornear",
+    "1 cucharadita de aceite de limón",
+    "2 huevos",
+    "2 cucharadas de leche",
+    "1 litro de leche"
+  ],
+  "recipeInstructions": "1. Remojar el amoníaco durante la noche en un litro de leche.\n2. Batir los huevos por separado y agregar 2 cucharadas de leche a las yemas.\n3. Mezclar la masa hasta obtener una consistencia firme y extenderla delgada.\n4. Pinchar con un tenedor.\n5. Hornear hasta que estén listos. (Nota: No se indica la temperatura, pero generalmente alrededor de 425°F.)",
+  "url": null
+}

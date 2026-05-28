@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "cinnamon-raisin-bread-3",
+  "name": "Pan de Canela y Pasas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina",
+    "a/desde lista de panes"
+  ],
+  "recipeIngredient": [
+    "1 1/3 tazas de agua",
+    "2 cucharadas de mantequilla (o margarina o aceite)",
+    "2 cucharaditas de sal",
+    "2 cucharaditas de canela en polvo",
+    "3 1/2 tazas de harina de trigo para pan",
+    "3 cucharadas de azúcar",
+    "2 cucharadas de leche en polvo",
+    "1 taza de nueces picadas (opcional)",
+    "2 1/2 cucharaditas de levadura seca",
+    "1 taza de pasas"
+  ],
+  "recipeInstructions": "Para un pan grande (de 1 libra y media).\nCombina todos los ingredientes excepto las pasas en el orden indicado en la máquina.\nUsa la configuración de frutos y nueces y agrega las pasas cuando la máquina emita un pitido.\nSi las pasas no se mezclan bien con la masa, intenta espolvorearlas ligeramente con harina la próxima vez.\nNota: Para un perfil de sabor diferente, considera usar dátiles en lugar de pasas.",
+  "url": null
+}

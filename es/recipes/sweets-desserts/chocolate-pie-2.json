@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chocolate-pie-2",
+  "name": "Tarta de Chocolate",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "galletas",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "3 yemas de huevo, reservar las claras para la merengue",
+    "1 taza de azúcar",
+    "1/3 taza de harina",
+    "1 lata pequeña de leche evaporada",
+    "3/4 taza de agua",
+    "2 cucharaditas de cacao en polvo",
+    "1 cucharadita de extracto de vainilla",
+    "1 cucharada de margarina"
+  ],
+  "recipeInstructions": "Mezclar los ingredientes secos. Agregar yemas, leche evaporada, agua, margarina y vainilla. Cocinar hasta espesar. Verter sobre la masa de tarta precocida. Cubrir con merengue. Hornear a 350 grados hasta que el merengue se dore.",
+  "url": null
+}

@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "herb-butter",
+  "name": "Butter con Hierbas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "butters",
+    "condimentos",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de Mantequilla a temperatura ambiente",
+    "1 cucharada de Leche",
+    "2 cucharadas de Cebolla verde picada",
+    "1 cucharadita de Hierba de dill seca",
+    "1/2 cucharadita de Tomillo seco"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta obtener una crema.",
+  "url": null
+}

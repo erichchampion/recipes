@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "gazpacho-salad",
+  "name": "Ensalada de Gazpacho",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de arroz cocido (enfriado a temperatura ambiente)",
+    "2 tomates grandes; cortados en gajos",
+    "1 taza de champiñones frescos rebanados",
+    "1/4 taza de pimientos verdes en tiras",
+    "1/4 taza de cebolletas rebanadas (con las puntas)",
+    "1 cucharadita de perejil fresco picado O cilantro",
+    "2 cucharadas de aceite vegetal",
+    "2 cucharadas de vinagre blanco",
+    "1 diente de ajo picado",
+    "1/4 cucharadita de hojas de albahaca",
+    "1/8 cucharadita de sal",
+    "1/8 cucharadita de pimienta negra molida",
+    "Hojas de lechuga"
+  ],
+  "recipeInstructions": "1. Mezclar el arroz, las verduras y el perejil en un bol grande.\n2. En un bol pequeño, combinar el aceite vegetal, vinagre, ajo, albahaca, sal y pimienta.\n3. Verter el aderezo sobre la mezcla de arroz y mezclar suavemente.\n4. Servir sobre hojas de lechuga.",
+  "url": null
+}

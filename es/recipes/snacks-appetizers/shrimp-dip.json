@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "shrimp-dip",
+  "name": "Dip de Camarones",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "dips",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 paquete de queso crema, ablandado (3 onzas)",
+    "1 lata de camarones (lata pequeña)",
+    "1/2 taza de mayonesa",
+    "1/2 taza de crema agria",
+    "1/2 taza de apio picado",
+    "1/2 taza de cebolla verde picada",
+    "Jugo de medio limón"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes.\n2. Sirve con chips o galletas.",
+  "url": null
+}

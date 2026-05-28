@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "biscuit-mix",
+  "name": "Mezcla para Bizcocho",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "panes",
+    "varios",
+    "mezclas"
+  ],
+  "recipeIngredient": [
+    "1 taza de Harina; tamizada (mezcla para pastel y repostería)",
+    "1/3 taza de Polvo de Hornear",
+    "1 taza de Leche en Polvo",
+    "2 cucharadas de Leche en Polvo",
+    "4 cucharaditas de Sal",
+    "1 3/4 tazas de Manteca Vegetal"
+  ],
+  "recipeInstructions": "1. Tamizar todos los ingredientes secos.\n2. Cortar la manteca en la harina hasta que la mezcla se asemeje a migas gruesas.\n3. Guardar, bien cubierta, en un lugar fresco y seco.\nRinde: 13 tazas\nSe utiliza para panqueques, gofres, bizcochos o cualquier cosa que usarías una mezcla de bizcocho empaquetada.",
+  "url": null
+}

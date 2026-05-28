@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "greens-salad",
+  "name": "Ensalada de Verduras",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 taza de mayonesa regular, ligera o sin colesterol",
+    "1/2 taza de yogur natural",
+    "1 cucharadita de jugo de limón fresco",
+    "1/2 cucharadita de azúcar",
+    "1 taza de lechuga mixta picada:",
+    "Perejil fresco, eneldo, hojas de apio, cebollinos, pimiento verde picado",
+    "1 filete de anchoa (opcional)",
+    "Sal al gusto (no usar sal si se agrega anchoa)",
+    "Pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Para el aderezo: Mezcla la mayonesa, el yogur, el jugo de limón, el azúcar, las lechugas mixtas, la sal y la pimienta en una licuadora o procesador de alimentos. Agrega la anchoa si se desea. Tapa y refrigera hasta que los sabores se integren.\n2. Para la ensalada: Combina la chicoria, la lechuga rizada, las hojas de espinaca, el agua cres y las tiras de col rizada.",
+  "url": null
+}

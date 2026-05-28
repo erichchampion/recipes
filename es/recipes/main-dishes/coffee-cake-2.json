@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "coffee-cake-2",
+  "name": "Pastel de Café",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "pastel",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de aceite vegetal",
+    "6 huevos, batidos",
+    "9 tazas de harina para todo uso, tamizada",
+    "4 1/2 tazas de azúcar",
+    "4 cucharadas de polvo de hornear",
+    "1 cucharadita de sal",
+    "3 tazas de leche descremada del 1%",
+    "TOPPING ESPECIAL - ver receta"
+  ],
+  "recipeInstructions": "1. Mezclar el aceite vegetal, los huevos y la leche.\n2. Tamizar juntos los ingredientes secos: harina, azúcar, polvo de hornear y sal.\n3. Agregar los ingredientes secos tamizados a la mezcla de aceite, huevo y leche; mezclar bien.\n4. Verter la masa en un molde engrasado.\n5. Espolvorear el topping especial sobre la masa.\n6. Hornear a 175 °C durante 25 minutos, girando el molde después de 10 minutos.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-risotto-2",
+  "name": "Risotto de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "ave"
+  ],
+  "recipeIngredient": [
+    "2 calabacines, cortados en rodajas finas",
+    "2 cebollas verdes, cortadas",
+    "2 tazas de pollo desmenuzado con piel, cocido",
+    "1/2 cucharadita de sal",
+    "1/2 cucharadita de tomillo",
+    "2 cucharadas de pimiento picado",
+    "3 tazas de arroz cocido",
+    "1/4 taza de queso rallado"
+  ],
+  "recipeInstructions": "1. Cocinar los calabacines y las cebollas en un poco de agua hasta que estén tiernos, aproximadamente 5 a 10 minutos.\n2. Agregar los demás ingredientes, excepto el queso.\n3. Cocinar y revolver hasta que se calienten por completo.\n4. Retirar del fuego, mezclar el queso y servir.",
+  "url": null
+}

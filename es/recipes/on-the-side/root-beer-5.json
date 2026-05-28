@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "root-beer-5",
+  "name": "Cerveza de Raíz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "comida de acompañamiento"
+  ],
+  "recipeIngredient": [
+    "5 litros de agua",
+    "1/2 oz de raíz de burdock seca",
+    "1/2 oz de raíz de sarsaparilla seca",
+    "1/2 oz de raíz de espinaca seca",
+    "1/8 cucharadita de levadura granulada",
+    "1/4 oz de lúpulo",
+    "1/2 oz de raíz de amaranto amarilla seca",
+    "1/2 oz de raíz de sassafras seca",
+    "1 1/2 tazas de azúcar"
+  ],
+  "recipeInstructions": "1. Coloca todas las hierbas en una olla grande con agua y lleva a ebullición.\n2. Reduce el calor y deja cocinar a fuego lento durante 30 minutos.\n3. Añade el azúcar y revuelve hasta que se disuelva por completo.\n4. Cuela la mezcla en un jarro o recipiente.\n5. Enfría el líquido hasta llegar a una temperatura tibia.\n6. Incorpora la levadura y mezcla bien.\n7. Cubre el jarro y deja fermentar durante aproximadamente una hora.\n8. Botella según se describe en Consejos para Bebidas Carbonatadas y guarda en un lugar fresco.",
+  "url": null
+}

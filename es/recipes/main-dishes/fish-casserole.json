@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fish-casserole",
+  "name": "Cazuela de Pescado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cazuelas",
+    "plato principal",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "2 lb de trucha manchada, filetes de redfish o snapper rojo",
+    "1/2 taza de aderezo de ensalada italiana cremosa",
+    "1/2 taza de mantequilla derretida",
+    "1 1/2 tazas de chips de papa, desmenuzadas",
+    "8 rebanadas de queso Velveeta"
+  ],
+  "recipeInstructions": "1. Coloca el pescado en un molde para hornear de 9x12 pulgadas.\n2. Vierte el aderezo de ensalada italiana cremosa sobre el pescado.\n3. Vierte la mantequilla derretida uniformemente sobre el pescado.\n4. Espolvorea las chips de papa desmenuzadas y rebanadas de queso Velveeta encima del pescado.\n5. Hornea durante 15 minutos en un horno precalentado a 350°F.",
+  "url": null
+}

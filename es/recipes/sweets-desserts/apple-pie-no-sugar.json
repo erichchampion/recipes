@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-pie-no-sugar",
+  "name": "Tarta de Manzana (Sin Azúcar)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "diabetico",
+    "tarta",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "4 tazas de manzana en rodajas",
+    "1/2 taza de jugo de manzana congelado sin diluir",
+    "2 cucharadas de tapioca o almidón de maíz",
+    "1/2 a 1 cucharadita de canela"
+  ],
+  "recipeInstructions": "1. Mezcla las manzanas con todos los ingredientes hasta que estén bien recubiertas.\n2. Vierte la mezcla en la base de masa.\n3. Cubre con la masa superior.\n4. Hornea a 425°F durante 40 a 45 minutos.",
+  "url": null
+}

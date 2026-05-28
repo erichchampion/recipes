@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "corn-chowder-3",
+  "name": "Sopa de Maíz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "plato principal",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 cubos de 5 cm de cerdo salado; picados",
+    "1 cebolla mediana, picada finamente",
+    "4 papas, peladas y cortadas en dados",
+    "3 tazas de agua",
+    "2 tazas de granos de maíz frescos o congelados",
+    "3 tazas de leche",
+    "3 cucharadas de mantequilla",
+    "sal al gusto",
+    "pimienta negra molida"
+  ],
+  "recipeInstructions": "1. Cocinar lentamente el cerdo salado en una sartén profunda hasta que se derrita la grasa y los trozos se doren.\n2. Escurrir todo el aceite, dejando solo 2 cucharadas.\n3. Agregar la cebolla y cocinar por 5 minutos.\n4. Incorporar las papas y el agua, cubrir y cocinar hasta que las papas estén tiernas.\n5. Añadir el maíz y la leche, cocinar por 5 minutos adicionales.\n6. Antes de servir, agregar la mantequilla, sal y pimienta al gusto y calentar.",
+  "url": null
+}

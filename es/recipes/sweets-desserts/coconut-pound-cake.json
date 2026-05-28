@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "coconut-pound-cake",
+  "name": "Pastel de Coco Pound",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "3 tazas de harina para pastel",
+    "1/2 cucharadita de sal",
+    "1 1/2 tazas de manteca vegetal",
+    "1 taza de coco rallado",
+    "1 cucharadita de polvo de hornear",
+    "1 taza de leche",
+    "2 1/2 tazas de azúcar",
+    "5 huevos",
+    "1 cucharada de esencia de coco"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta obtener una masa homogénea.\n2. Verter la masa en un molde para pastel engrasado y enharinado.\n3. Colocar en el horno frío.\n4. Hornear durante 1 hora y 25 minutos a 325°F (160°C). No precalentar el horno.",
+  "url": null
+}

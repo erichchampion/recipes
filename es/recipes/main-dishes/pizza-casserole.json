@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-casserole",
+  "name": "Pizza Casserola",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne molida",
+    "casserolas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "1/2 cebolla picada",
+    "1/2 pimiento verde picado",
+    "2 tazas de macarrones crudos",
+    "1 frasco de salsa de pizza (comercial o casera)",
+    "1 taza de agua",
+    "1 paquete de pepperoni en rodajas"
+  ],
+  "recipeInstructions": "1. Coloca los ingredientes en orden, como se indica anteriormente, en un plato para horno.\n2. Cubre con papel plástico y calienta en el microondas durante 5 minutos a potencia máxima.\n3. Retira del microondas, mezcla suavemente, cubre nuevamente y calienta por otros 5 minutos a potencia máxima.\n4. Espolvorea queso mozzarella generosamente sobre la parte superior y deja reposar hasta que se derrita el queso.\nNota: Esta receta también puede prepararse en horno cocinando primero los macarrones y omitiendo el agua. Hornea a 175°C (350°F) durante aproximadamente 40 minutos, o hasta que burbujee.",
+  "url": null
+}

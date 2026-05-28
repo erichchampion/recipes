@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "crock-pot-chicken-and-rice",
+  "name": "Pollo y Arroz en Olla de Cocción Lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "avícola",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de arroz",
+    "200 g de sopa de apio enlatada",
+    "200 g de sopa de setas enlatada",
+    "200 g de champiñones enteros enlatados, escurridos",
+    "1/2 pimiento verde picado",
+    "1/2 cebolla picada",
+    "8 pechugas de pollo cortadas por la mitad",
+    "Queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. Escurrir los pimientos.\n2. Colocar el arroz en la olla de cocción lenta.\n3. Mezclar los ingredientes restantes (excepto el pollo y el queso) en un bol. Combinar bien.\n4. Verter la mitad de la mezcla sobre el arroz.\n5. Colocar el pollo encima.\n6. Verter el resto de la mezcla de sopa sobre todo.\n7. Cocinar a alta temperatura durante 3 horas o hasta que el pollo esté tierno.\n8. Decorar con queso.",
+  "url": null
+}

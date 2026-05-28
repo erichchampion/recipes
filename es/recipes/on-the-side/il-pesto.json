@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "il-pesto",
+  "name": "Pesto",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "étnico",
+    "italiano",
+    "salsas"
+  ],
+  "recipeIngredient": [
+    "1/4 lb de hígado de cerdo",
+    "2 cucharadas de mantequilla",
+    "1 cucharadita de cebolletas picadas",
+    "1/2 taza de queso blanco fuerte (rallado)",
+    "2 tazas de albahaca fresca",
+    "2 dientes de ajo",
+    "1/4 taza de nueces negras",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra",
+    "3/4 taza de aceite de oliva"
+  ],
+  "recipeInstructions": "1. Saltear el hígado en la mantequilla hasta que esté cocido. Retirar del fuego y picar groseramente.\n2. En una licuadora o procesador de alimentos, combinar la albahaca, ajo, nueces, cebolletas, queso, sal, pimienta y 1/4 taza de aceite de oliva. Licuar a velocidad baja hasta obtener una textura suave.\n3. Agregar lentamente el resto del aceite de oliva, licuando a baja velocidad hasta que se incorpore por completo y la mezcla tenga una consistencia similar a la crema batida.\n4. Incorporar el hígado picado y licuar solo durante 5 segundos, asegurándose de que el hígado mantenga su textura distintiva.\n5. Servir como untable para galletas saladas o como salsa para espagueti. Si se usa como salsa para espagueti, aumentar la cantidad de aceite de oliva a 1-1/2 tazas.",
+  "url": null
+}

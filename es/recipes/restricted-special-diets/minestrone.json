@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "minestrone",
+  "name": "Minestrone",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "olla de cocción lenta",
+    "sopas/estofados",
+    "dieta especial",
+    "verduras",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1/2 taza Apio; cortado en rodajas finas",
+    "1/2 taza Zanahoria; cortada en rodajas finas",
+    "3/4 taza (1 gran) Papa; cortada en trozos de 1 pulgada",
+    "1 diente Ajo; picado finamente",
+    "1 lata de 400g Tomates; escurridos",
+    "1/2 taza Calabacín; cortado en rodajas finas",
+    "1/2 taza Frijoles Verdes; cortados en trozos de 1 pulgada",
+    "1 taza Agua Caliente;",
+    "2 cucharadas Polvo de Caldo de Carne Instantáneo",
+    "1 cucharadita Hojas de Albahaca",
+    "1 cucharada Picadillo de Perejil"
+  ],
+  "recipeInstructions": "1. En una cacerola de 3 cuartos, combina todos los ingredientes.\n2. Tapa y microondas a potencia alta durante 25-35 minutos o hasta que las verduras estén tiernas, removiendo una o dos veces.",
+  "url": null
+}

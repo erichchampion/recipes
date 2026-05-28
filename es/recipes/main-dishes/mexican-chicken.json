@@ -1,0 +1,32 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-chicken",
+  "name": "Pollo Mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "mexicano",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "1 cebolla; mediana, laminada finamente",
+    "0.5 taza aceite vegetal",
+    "12 aceitunas verdes; sin hueso",
+    "4 tazas tomates; picados, 4 medianos",
+    "2 tallos apio; picados",
+    "2 dientes ajo; picados finamente",
+    "2 hojas de laurel",
+    "0.5 taza agua",
+    "2 cucharadas caparrones",
+    "1 cucharadita orégano en hojas; seco",
+    "0.5 cucharadita sal",
+    "0.25 cucharadita pimienta negra",
+    "6 mitades de pechuga de pollo;",
+    "8 onzas setas; frescas, laminadas"
+  ],
+  "recipeInstructions": "1. Cocinar y revolver la cebolla en el aceite en una sartén de 10 pulgadas hasta que esté tierna.\n2. Incorporar los ingredientes restantes excepto las mitades de pechuga de pollo y las setas. Llevar a ebullición; reducir el fuego y cocinar a fuego lento, sin cubrir, por 30 minutos.\n3. Colocar el pollo, con la piel hacia arriba, en una sola capa en la sartén. Cubrir y cocinar a fuego medio-bajo durante 30 minutos.\n4. Agregar las setas, cubrir y cocinar hasta que el pollo esté hecho, aproximadamente 15 minutos más.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-soup",
+  "name": "Sopa de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "1 pollo (con timbales), cortado en trozos",
+    "1 cucharada de sal",
+    "4 zanahorias, picadas",
+    "6 tallos de apio con hojas, picados",
+    "1 cebolla mediana, picada",
+    "1 diente de ajo, picado finamente",
+    "1 taza de arroz o fideos"
+  ],
+  "recipeInstructions": "1. Coloca los trozos de pollo en una olla grande con suficiente agua para cubrirlo.\n2. Añade la sal y lleva la mezcla a ebullición.\n3. Reduce el calor para permitir que la mezcla hierva suavemente. Retira la grasa que flote en la superficie.\n4. Agrega las zanahorias, apio, cebolla y ajo picados. Tapa y continúa cocinando hasta que las verduras estén tiernas.\n5. Retira los trozos de pollo de la olla. Puedes servirlas por separado o cortarlas en cubos y devolverlas a la sopa.\n6. Sazona con sal al gusto.\n7. Añade el arroz o fideos y cocina hasta que estén tiernos.",
+  "url": null
+}

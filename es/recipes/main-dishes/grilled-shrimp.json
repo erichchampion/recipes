@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "grilled-shrimp",
+  "name": "Camaronas a la parrilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal de pescado londontowne",
+    "plato principal",
+    "carne",
+    "mariscos",
+    "camaronas"
+  ],
+  "recipeIngredient": [
+    "2 lb camaronas grandes",
+    "1/4 taza perejil fresco",
+    "1 taza aceite de oliva",
+    "4 cucharadas jugo de limón",
+    "4 gotas salsa picante",
+    "1 cucharada ajo picado",
+    "1 cucharada orégano",
+    "1 cucharadita pasta de tomate",
+    "1 cucharadita sal",
+    "pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un plato de vidrio.\n2. Marinar durante 2 horas a temperatura ambiente.\n3. Asar a la parrilla por 3 minutos, dando vuelta a las camaronas ocasionalmente.\n4. Servir sobre arroz con ensalada verde y pan italiano.",
+  "url": null
+}

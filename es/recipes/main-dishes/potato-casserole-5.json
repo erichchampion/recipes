@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "potato-casserole-5",
+  "name": "Omelet de Papas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "omelet",
+    "plato principal",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "4 tazas de puré de papas instantáneo (preparado según las instrucciones, pero usando aproximadamente 1/4 taza menos líquido que la receta indica.)",
+    "8 onzas de queso crema",
+    "1 cucharadita de sal de ajo",
+    "1 cucharadita de sal de cebolla (se puede sustituir por condimento para ensaladas y pimienta)",
+    "8 onzas de crema agria"
+  ],
+  "recipeInstructions": "Mientras las papas aún estén calientes, agregar todos los demás ingredientes. Transferir a un plato para hornear.\nCubrir generosamente con mantequilla. Espolvorear con pimentón. Hornear a 175 °C durante 30 minutos.",
+  "url": null
+}

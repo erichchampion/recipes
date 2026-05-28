@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "christmas-cake",
+  "name": "Pastel de Navidad",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de mantequilla buena",
+    "1 3/4 tazas de azúcar morena",
+    "16 huevos",
+    "4 libras de pasas",
+    "4 libras de arándanos",
+    "1 libra de cáscara de naranja (cortada finamente)",
+    "2 libras de harina",
+    "1 libra de almendras (blanquedas y cortadas finamente)",
+    "2 nueces moscadas (ralladas)",
+    "la misma cantidad de macis",
+    "1/2 litro de brandy",
+    "1 cucharada de esencia de limón"
+  ],
+  "recipeInstructions": "1. Batir bien la mantequilla y el azúcar.\n2. Agregar las yemas batidas.\n3. Incorporar las claras batidas.\n4. Mezclar todos los frutos y nueces con un poco de harina, luego batir bien.\n5. Añadir las nueces y el brandy a la mezcla.\n6. Hornear lentamente.\n7. (Opcional) Para la mitad de la receta, agregar una pequeña cucharadita de bicarbonato.",
+  "url": null
+}

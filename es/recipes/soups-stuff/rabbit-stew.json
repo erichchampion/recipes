@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "rabbit-stew",
+  "name": "Estofado de Conejo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas y guisos",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "conejos",
+    "1 lata grande de tomates triturados",
+    "1 cebolla picada",
+    "polvo de curry -- al gusto"
+  ],
+  "recipeInstructions": "1. Escaldar y cortar los conejos en trozos. Escurrir y secar.\n2. Dorar los trozos de conejo con sal y pimienta al gusto.\n3. Preparar el guiso con tomates triturados, cebolla picada, polvo de curry, sal y pimienta.\n4. Agregar los trozos de conejo dorados al guiso.\n5. Cocinar a fuego lento por 3 a 4 horas hasta que la carne se desprenda de los huesos.\n6. Espesar la salsa con harina y agua si es necesario.",
+  "url": null
+}

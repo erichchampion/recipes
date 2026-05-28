@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-pasta-salad-2",
+  "name": "Ensalada de Pasta con Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "pollo",
+    "pasta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "5 oz de macarrones en espiral",
+    "1 1/2 tazas de guisantes",
+    "1/3 taza de mayonesa",
+    "1/4 taza de aderezo francés",
+    "2 tazas de pollo cocido y cortado en trozos"
+  ],
+  "recipeInstructions": "1. Cocinar los macarrones según las instrucciones del paquete.\n2. Agregar los guisantes y cocinar por 2 minutos adicionales después de que estén listos los macarrones.\n3. En un bol aparte, mezclar la mayonesa y el aderezo francés.\n4. Combinar la pasta cocida, los guisantes y el pollo en el bol con la mezcla de mayonesa y aderezo.\n5. Revolver hasta que todos los ingredientes estén bien combinados.\n6. Servir la ensalada.",
+  "url": null
+}

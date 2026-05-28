@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "easy-coffee-cake",
+  "name": "Pastel de Café Fácil",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "pastel",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "2 tazas de Bisquick",
+    "2/3 taza de leche",
+    "2 cucharadas de azúcar",
+    "1 huevo"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F (175°C).\n2. En un bol grande, mezclar el Bisquick, la leche, el azúcar y el huevo.\n3. Verter la mezcla en un molde para hornear engrasado.\n4. Hornear durante aproximadamente 30 minutos o hasta que un palillo insertado en el centro salga limpio.\n5. Dejar enfriar antes de servir.",
+  "url": null
+}

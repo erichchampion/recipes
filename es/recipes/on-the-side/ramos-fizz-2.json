@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "ramos-fizz-2",
+  "name": "Ramos Fizz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1 1/2 onzas de ginebra",
+    "1 cucharadita de azúcar en polvo",
+    "5 gotas de agua de flor de naranjo",
+    "3/4 onza de jugo de limón",
+    "2 onzas de leche",
+    "1 soda"
+  ],
+  "recipeInstructions": "1 Mezclar la ginebra, el azúcar en polvo, el agua de flor de naranjo y el jugo de limón en un agitador con hielo picado.\n2 Agitar hasta que esté bien combinado.\n3 Colar en un vaso para fizz frío.\n4 Completar con soda o agua con gas.",
+  "url": null
+}

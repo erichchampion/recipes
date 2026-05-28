@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "garbanzo-soup",
+  "name": "Sopa de Garbanzos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "3 cucharadas de mantequilla",
+    "1/4 taza de cebolla picada",
+    "3 tazas de agua",
+    "1 lata (400 g) de garbanzos o chícharos escurridos",
+    "2 cubos de caldo de carne",
+    "1/4 cucharadita de sal",
+    "1/4 cucharadita de sal de ajo",
+    "1/4 cucharadita de hojas de menta seca",
+    "1/8 cucharadita de pimienta negra",
+    "1/4 taza de macarrones crudos",
+    "Queso parmesano rallado",
+    "Perejil picado para decorar"
+  ],
+  "recipeInstructions": "1. En una olla de 2 litros, derrite la mantequilla a fuego medio.\n2. Sofríe la cebolla hasta que esté dorada. Añade el agua, los garbanzos o chícharos, los cubos de caldo, la sal, la sal de ajo, las hojas de menta y la pimienta. Lleva a ebullición.\n3. Incorpora los macarrones. Reduce el fuego. Tapa y deja cocinar a fuego lento durante 20 minutos.\n4. Sirve con queso parmesano rallado y decora con perejil picado.",
+  "url": null
+}

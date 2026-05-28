@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-corn-bread-6",
+  "name": "Pan de Maíz Mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "carne molida"
+  ],
+  "recipeIngredient": [
+    "1 taza de harina de maíz (levantada)",
+    "1 taza de maíz cremoso",
+    "1 huevo",
+    "1 cucharadita de sal",
+    "1 libra de carne molida, dorada",
+    "1 pimiento verde mediano, picado",
+    "1 cebolla mediana, picada",
+    "1/2 libra de queso rallado",
+    "pimentón picante (opcional)"
+  ],
+  "recipeInstructions": "1. Escurrir la carne molida y reservar.\n2. Verter la mitad de la masa en una sartén de hierro engrasada.\n3. Agregar la carne molida, cebollas, pimientos verdes y queso encima de la masa.\n4. Verter el resto de la masa sobre los ingredientes.\n5. Cocinar durante 45 minutos o hasta que esté listo.",
+  "url": null
+}

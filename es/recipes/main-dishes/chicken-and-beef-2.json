@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-beef-2",
+  "name": "Pollo y Carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "pollo asado",
+    "londontowne"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo",
+    "1/2 taza de crema agria",
+    "1/4 libra de carne picada",
+    "3 cucharadas de tocino, picado",
+    "1 lata de sopa de champiñones",
+    "1 cucharadita de pimentón"
+  ],
+  "recipeInstructions": "1. Deshuesa y divide las pechugas de pollo por la mitad.\n2. Coloca la carne picada en el fondo de un refractario.\n3. Dobla los extremos de las pechugas de pollo hacia abajo y colócalas encima de la carne.\n4. Mezcla la sopa de champiñones con la crema agria en un tazón.\n5. Extiende la mezcla sobre el pollo.\n6. Espolvorea con trozos de tocino.\n7. Polveriza con pimentón.\n8. Cubre con papel aluminio.\n9. Hornea a 275 grados durante 2 horas y media.",
+  "url": null
+}

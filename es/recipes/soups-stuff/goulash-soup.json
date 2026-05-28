@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "goulash-soup",
+  "name": "Sopa de Goulash",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "2 tazas Cebolla, picada",
+    "1/4 taza Mantequilla",
+    "3 Pimientos Verdes, picados",
+    "3 cucharadas Pasta de Tomate",
+    "1 lb Cubos de Carne de Res (cubes de 1 pulgada)",
+    "1 Pimiento Rojo",
+    "1 cucharadita Pimentón",
+    "2 Dientes de Ajo, picados",
+    "6 tazas Caldo de Res",
+    "1 cucharada Jugo de Limón",
+    "1/4 cucharadita Semillas de Eneldo"
+  ],
+  "recipeInstructions": "El caldo de res puede ser enlatado o casero (se prefiere casero).\n~------------------------------------------------------\n~----------------- Freír la cebolla en grasa caliente hasta que sea transparente. Agregar pimientos verdes y pasta de tomate.\nCubrir y cocinar a fuego lento 10 minutos. Añadir cubos de carne magra y los ingredientes restantes.\nCocinar a fuego lento aproximadamente 1 hora y media, hasta que la carne esté tierna. (Agregar cubos de papa si lo desea\ny cocinar hasta que las papas estén hechas.) Mejor cuando se recalienta y sirve el segundo día.",
+  "url": null
+}

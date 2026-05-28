@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "grilled-vegetable-soup-from-my-garden",
+  "name": "Sopa de Verduras a la Parrilla (de Mi Jardín)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopa",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "8 tomates",
+    "2 cebollas rojas, en rodajas",
+    "2 calabacines, en rodajas",
+    "2 calabazas amarillas, en rodajas",
+    "3 pimientos rojos, asados y pelados",
+    "2 dientes de ajo, picados",
+    "Sal",
+    "Pimienta",
+    "Jugo de un limón",
+    "2 cucharadas de romero, picado"
+  ],
+  "recipeInstructions": "1. A la parrilla todas las verduras excepto el ajo.\n2. En una licuadora, coloca los ingredientes restantes (excepto 1/2 taza de verduras) y licúa hasta obtener una consistencia suave.\n3. Sazona con sal, pimienta, jugo de limón y romero picado.\n4. Corta en dados la 1/2 taza de verduras restantes.\n5. Sirve caliente o fría, espolvoreando los dados de verduras encima.",
+  "url": null
+}

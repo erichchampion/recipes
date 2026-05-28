@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "shashlik",
+  "name": "Shashlik",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "cordero",
+    "plato principal",
+    "carne",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "3 lb de cordero, cortado en cubos",
+    "1 taza de aceite de oliva",
+    "3 cebollas, picadas",
+    "1 cucharadita de sal",
+    "1 cucharadita de pimienta molida"
+  ],
+  "recipeInstructions": "1. Utiliza cubos de pierna o hombro de cordero.\n2. Combina el aceite de oliva, las cebollas, la sal y la pimienta en un bol.\n3. Marina los cubos de cordero durante al menos un día en el refrigerador.\n4. Ensarta las piezas de carne marinada.\n5. Asa a la parrilla la carne ensartada hasta que esté marrón por todos lados.\n6. Sirve con arroz pilaf y tomates asados.",
+  "url": null
+}

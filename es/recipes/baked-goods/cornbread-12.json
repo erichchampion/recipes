@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "cornbread-12",
+  "name": "Pan de maíz",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes",
+    "harina de maíz",
+    "delicioso"
+  ],
+  "recipeIngredient": [
+    "1 1/3 tazas de harina de uso común",
+    "1 taza de harina de maíz",
+    "2 cucharadas de harina de maíz",
+    "2/3 taza de azúcar",
+    "5 cucharaditas de polvo de hornear",
+    "1/2 cucharadita de sal",
+    "1 1/3 tazas de leche",
+    "5 cucharadas de mantequilla derretida",
+    "1 cucharadita de grasa de tocino",
+    "1 huevo grande batido"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 350°F (175°C).\n2. En un bol grande, mezclar la harina, el azúcar, el polvo de hornear y la sal.\n3. En otro bol, combinar la leche, la mantequilla derretida, la grasa de tocino y el huevo.\n4. Agregar los ingredientes secos a los húmedos y mezclar hasta disolver todos los grumos.\n5. Verter la mezcla en un molde para hornear de 20 x 20 cm (8 x 8 pulgadas).\n6. Hornear hasta que esté dorado, aproximadamente entre 50 y 60 minutos.",
+  "url": null
+}

@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "stack-a-dinner",
+  "name": "Stack-a-Dinner",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "1/2 cucharadita de aceite de oliva",
+    "1 libra de pechuga de pollo molida sin piel y cocida",
+    "1/2 taza de cebolla picada",
+    "1/2 taza de pimientos picados",
+    "8 onzas de salsa de tomate sin sal añadida",
+    "1/4 taza de catup",
+    "1/2 cucharadita de orégano",
+    "3 gotas de salsa picante",
+    "1/4 taza de agua",
+    "1 cucharadita de sal",
+    "1/2 cucharadita de pimienta negra",
+    "2 tazas de arroz de grano largo cocido",
+    "1 taza de guisantes verdes congelados descongelados",
+    "1 taza de queso cheddar sin grasa rallado"
+  ],
+  "recipeInstructions": "1. En una sartén, calienta el aceite de oliva a fuego medio.\n2. Agrega el pollo, la cebolla y los pimientos a la sartén.\n3. Cocina hasta que el pollo ya no esté tierno y las verduras estén tiernas.\n4. Incorpora la salsa de tomate, el catup, el orégano, la salsa picante, el agua, la sal y la pimienta negra.\n5. Lleva la mezcla a ebullición y revuelve con frecuencia.",
+  "url": null
+}

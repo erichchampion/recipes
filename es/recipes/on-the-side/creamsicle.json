@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "creamsicle",
+  "name": "Creamsicle",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "drinks",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "1/2 oz de vodka",
+    "1/2 oz de triple sec; o Cointreau",
+    "1/2 oz de jugo de naranja",
+    "1 helado de vainilla"
+  ],
+  "recipeInstructions": "1. Agregar todos los ingredientes a una licuadora.\n2. Licuar a velocidad alta hasta que quede suave, aproximadamente 30 segundos.\n3. Servir con un pajita en un vaso para postre o cóctel.\n4. ¡Sabe igual que un Dreamsicle!",
+  "url": null
+}

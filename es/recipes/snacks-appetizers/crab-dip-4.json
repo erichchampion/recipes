@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "crab-dip-4",
+  "name": "Dip de Cangrejo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "mariscos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "24 oz crema de queso",
+    "1 cucharada cebolla picada",
+    "1 libra carne de cangrejo",
+    "sal y pimienta al gusto",
+    "1/2 taza mayonesa",
+    "1/2 taza jerez",
+    "2 cucharaditas mostaza",
+    "1 cucharadita azúcar en polvo"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes excepto el jerez en la parte superior de un baño maría y calentar hasta que quede cremoso.\n2. Agregar el jerez al gusto; media taza es suficiente para servir desde una fuente calentada, pero ligeramente más espesa si se sirve como salsa.",
+  "url": null
+}

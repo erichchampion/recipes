@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "chili-dogs",
+  "name": "Perros Calientes con Chili",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "2 salchichas",
+    "2 panecillos para hot dog, cortados por la mitad",
+    "1/3 taza de chili con frijoles",
+    "opcional: cebolla fresca picada"
+  ],
+  "recipeInstructions": "1. Calentar las salchichas al microondas sin cubrir a potencia alta (100%) durante 30 a 45 segundos, o hasta que estén calientes.\n2. Colocar una salchicha en cada panecillo sobre un plato de servir; añadir el chili encima.\n3. Calentar nuevamente al microondas sin cubrir hasta que el chili esté caliente, aproximadamente 1 a 1 1/2 minutos.\n4. Si se prepara solo un perro caliente, calentar durante 30 a 45 segundos.\n5. Para hacer perros cononi, espolvorear cebolla fresca picada sobre el chili caliente antes de servir.",
+  "url": null
+}

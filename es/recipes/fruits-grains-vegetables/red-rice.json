@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "red-rice",
+  "name": "Arroz Rojo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "americano",
+    "étnico",
+    "mexicano",
+    "plato lateral mexicano, sopas, verduras"
+  ],
+  "recipeIngredient": [
+    "2 pimientos rojos grandes, asados y pelados",
+    "2 pimientos jalapeños, asados, pelados y sin semillas",
+    "1/4 taza de cebolla picada",
+    "2 cucharadas de margarina o mantequilla",
+    "1 taza de arroz crudo",
+    "2 tazas de caldo de pollo",
+    "1/4 cucharadita de sal",
+    "1/8 cucharadita de salsa de chile rojo"
+  ],
+  "recipeInstructions": "1. Asa y pela los pimientos (ver las instrucciones abajo para detalles). Quítales las semillas.\n2. Pica la cebolla.\n3. Derrite la margarina o mantequilla en una olla a fuego medio.\n4. Agrega la cebolla picada a la olla y sofríe hasta que esté transparente, aproximadamente 5 minutos.\n5. Incorpora el arroz, el caldo de pollo, la sal y la salsa de chile rojo.\n6. Lleva la mezcla a ebullición, luego reduce el fuego a bajo y deja cocinar a fuego lento durante 20-25 minutos o hasta que el arroz esté tierno.\n7. Retira del fuego y añade los pimientos asados, pelados y sin semillas.\n8. Deja reposar el plato fuera del fuego por unos minutos antes de servir.",
+  "url": null
+}

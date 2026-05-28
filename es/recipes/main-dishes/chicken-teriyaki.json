@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-teriyaki",
+  "name": "Pollo Teriyaki",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves"
+  ],
+  "recipeIngredient": [
+    "3 pechugas de pollo enteras sin hueso"
+  ],
+  "recipeInstructions": "1. Calienta una sartén grande a fuego medio.\n2. Agrega aceite y gira para cubrir la sartén.\n3. Sazona los filetes de pollo con sal y pimienta.\n4. Coloca el pollo en la sartén caliente y cocina durante 6-8 minutos por cada lado, o hasta que se dore y esté cocido completamente.\n5. Retira el pollo de la sartén y reserva.\n6. En un tazón aparte, bate todos los ingredientes del salsa teriyaki: salsa de soja, miel, almidón de maíz, polvo de ajo, polvo de jengibre y chiles en hojuelas rojos.\n7. Devuelve el pollo a la sartén y vierte la salsa sobre él.\n8. Cocina por 2-3 minutos adicionales, o hasta que la salsa se espese ligeramente.\n9. Sirve caliente con arroz al vapor.",
+  "url": null
+}

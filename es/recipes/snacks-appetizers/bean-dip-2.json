@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "bean-dip-2",
+  "name": "Dip de Frijoles",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 libra de carne molida",
+    "1 cebolla mediana picada",
+    "1 lata de frijoles refritos",
+    "1 lata de chili sin frijoles",
+    "1 lata de chiles verdes picados",
+    "1 libra de queso Velveeta"
+  ],
+  "recipeInstructions": "1. Dorar la carne molida y la cebolla; escurrir el exceso de grasa.\n2. Agregar los ingredientes restantes a una olla de cocción lenta.\n3. Cocinar a fuego bajo durante al menos 2 horas.\n4. Servir con totopos de tortilla.",
+  "url": null
+}

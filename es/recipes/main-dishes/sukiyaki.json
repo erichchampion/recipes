@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "sukiyaki",
+  "name": "Sukiyaki",
+  "recipeCuisine": "Asia & Pacific Ocean",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "asiático",
+    "étnico",
+    "japonés",
+    "oriental",
+    "ternera"
+  ],
+  "recipeIngredient": [
+    "1 lb de solomillo de ternera",
+    "1/2 taza de caldo de carne",
+    "2 cucharadas de salsa de soja",
+    "1/4 lb de setas en rodajas",
+    "1/4 lb de espinacas",
+    "3 cucharadas de aceite de maní",
+    "3/4 taza de apio en rodajas",
+    "3/4 taza de cebolla en rodajas",
+    "1 taza de arroz cocido"
+  ],
+  "recipeInstructions": "1. Cortar la ternera en tiras diagonales contra el grano de aproximadamente 3 pulgadas de largo.\n2. Mezclar la mantequilla con la salsa de soja. Calentar el aceite en una sartén grande y sellar la carne.\n3. Añadir la mezcla de caldo y mover la carne a un lado de la sartén.\n4. Agregar el apio, las setas y las cebollas; cocinar y remover durante aproximadamente 4 minutos.\n5. Incorporar las espinacas y cocinar durante unos 2 minutos más.\n6. Servir sobre el arroz.",
+  "url": null
+}

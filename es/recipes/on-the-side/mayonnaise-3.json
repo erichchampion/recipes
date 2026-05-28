@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "mayonnaise-3",
+  "name": "Mayonesa Cajun",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "cajun",
+    "condimentos",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "Yemas de huevo - 2",
+    "Salsa Tabasco - 4 cucharadas",
+    "Sal - 1 cucharadita",
+    "Jugo de limón - Jugo de 1/2 limón",
+    "Ajo - 1 diente, picado finamente",
+    "Cebolla verde - 1/2 taza, picada finamente"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes excepto el aceite en una licuadora o procesador de alimentos con la tapa abierta.\n2. Licuar durante 2 minutos.\n3. Verter lentamente el aceite en un hilo fino hasta que esté completamente incorporado.\n4. Continuar licuando durante otros 30 segundos.\nRinde aproximadamente 2 tazas y media.",
+  "url": null
+}

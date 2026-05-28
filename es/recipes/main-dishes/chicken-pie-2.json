@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-pie-2",
+  "name": "Pastel de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "tartas para la cena",
+    "plato principal",
+    "pollo"
+  ],
+  "recipeIngredient": [
+    "4 tazas de pollo cocido",
+    "2 cucharaditas de sal",
+    "1 taza de apio picado finamente",
+    "4 huevos ligeramente batidos",
+    "1 taza de migas de pan suaves",
+    "2 tazas de caldo de pollo",
+    "2 cucharadas de perejil picado"
+  ],
+  "recipeInstructions": "1. Cortar el pollo cocido en trozos bastante grandes.\n2. Alternar capas de pollo, apio, migas de pan y perejil en un molde para horno engrasado.\n3. En un bol separado, mezclar la sal, los huevos y el caldo de pollo hasta que quede bien combinado.\n4. Verter la mezcla de huevo sobre la mezcla de pollo en el molde para horno.\n5. Hornear en una bandeja con agua caliente en un horno moderado (350°F) durante 1 hora o hasta que la mezcla no se adhiera a un cuchillo.\n6. Cubrir con Drop Biscuits.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-gravy",
+  "name": "Pollo y Salsa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "avícola",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 Pollo (3 lb.)",
+    "1 lata de sopa de setas con crema",
+    "1 lata (4 oz) de setas",
+    "1/4 taza de vino blanco (o agua)"
+  ],
+  "recipeInstructions": "1. Condimentar el pollo con sal y pimienta al gusto.\n2. Colocar el pollo sazonado en la olla de cocción lenta.\n3. Mezclar partes iguales de vino blanco y sopa de setas con crema.\n4. Verter la mezcla de vino y sopa sobre el pollo.\n5. Agregar las setas encima del pollo.\n6. Cocinar a fuego lento durante 7-9 horas o a alto durante 3-4 horas.\n7. Se pueden agregar cebollas en rodajas para un sabor diferente.",
+  "url": null
+}

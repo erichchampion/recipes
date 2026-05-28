@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "monkey-bread",
+  "name": "Pan de Mono",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de nueces pecanas",
+    "1 cucharada de canela",
+    "1/2 taza de azúcar",
+    "3 bizcochos",
+    "1 barra de mantequilla",
+    "1 taza de azúcar moreno"
+  ],
+  "recipeInstructions": "1. Coloca las nueces pecanas en el fondo de un molde para pan Bundt.\n2. Mezcla la canela y el azúcar.\n3. Corta cada bizcocho en cuartos y rodéalos en la mezcla de azúcar.\n4. Apila los bizcochos en el molde.\n5. Combina la mantequilla y el azúcar moreno.\n6. Vierte la mezcla sobre los bizcochos.\n7. Hornea durante 30-40 minutos a 180°C.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "pumpkin-cake",
+  "name": "Pastel de Calabaza",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Holiday Foods",
+  "keywords": [
+    "pasteles",
+    "postres",
+    "fiestas"
+  ],
+  "recipeIngredient": [
+    "4 Huevos",
+    "2 tazas Azúcar",
+    "2 tazas Calabaza cocida",
+    "1 taza Aceite vegetal",
+    "3 tazas Harina de trigo",
+    "1 cucharadita Sal",
+    "2 cucharaditas Bicarbonato de sodio",
+    "2 cucharaditas Polvo de hornear",
+    "2 cucharaditas Canela en polvo",
+    "1 taza Nueces o pasas"
+  ],
+  "recipeInstructions": "1. En un procesador de alimentos, batir los huevos con el azúcar hasta obtener una mezcla homogénea.\n2. Agregar la harina, el polvo de hornear, el bicarbonato de sodio, la sal, la canela y las nueces o pasas. Incorporar la calabaza cocida y machacada.\n3. Verter la masa en dos moldes redondos para pastel engrasados y enharinados.\n4. Hornear a 175°C (350°F) durante 40 minutos o hasta que al insertar un palillo, este salga limpio.\n5. Retirar del horno y desmoldar los pasteles.\n6. Apilarlos y cubrir con una cobertura de naranja.",
+  "url": null
+}

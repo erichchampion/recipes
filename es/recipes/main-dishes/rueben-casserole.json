@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "rueben-casserole",
+  "name": "Cazuela de Reuben",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "cazuelas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "10 oz de pan de centeno",
+    "3/4 taza de manzanas verdes picadas",
+    "1 1/4 taza de cebolla roja en rodajas finas",
+    "16 oz de chucrut escurrido y drenado",
+    "1/4 taza de mostaza dijon",
+    "1/4 taza de mayonesa ligera",
+    "8 oz de queso suizo rallado",
+    "1/2 libra de pechuga de carne curada finamente rebanada"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 400°F (200°C).\n2. Colocar los cubos de pan en un plato para hornear poco profundo (de 2 a 5 litros) y hornear durante 10 minutos hasta que estén crujientes.\n3. En un bol, mezclar las manzanas, la cebolla, el chucrut, la mostaza, la mayonesa y la mitad del queso.\n4. Extender la mitad de esta mezcla sobre los cubos de pan.\n5. Picar groseramente la carne curada y extenderla uniformemente sobre la mezcla.\n6. Cubrir con la mezcla restante de manzanas.\n7. Cubrir apretadamente con papel aluminio y hornear durante 50-60 minutos hasta que las manzanas estén tiernas.\n8. Retirar el papel aluminio y espolvorear con el pan restante y cubrir con el queso restante.\n9. Hornear destapado por un adicional de 20 minutos hasta que el queso esté derretido y dorado.",
+  "url": null
+}

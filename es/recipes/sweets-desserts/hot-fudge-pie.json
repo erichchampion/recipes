@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-fudge-pie",
+  "name": "Tarta de Caramelo Caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "tartas",
+    "productos horneados"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de mantequilla",
+    "3 cuadrados de chocolate para hornear",
+    "1 1/4 tazas de azúcar",
+    "1/4 taza de harina",
+    "1/4 cucharadita de extracto de vainilla",
+    "3 huevos grandes",
+    "1/4 taza de nueces picadas (opcional)",
+    "1 helado (opcional)"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla y el chocolate para hornear en un baño maría o en el microondas.\n2. Bate el azúcar y mezcla bien. Dobla la harina y las nueces.\n3. Vierte la mezcla en un molde para tarta engrasado de 23 cm de diámetro.\n4. Hornea a 180°C durante 20-30 minutos. El centro debe estar húmedo. No sobrehornear.\n5. Sirve caliente con helado.",
+  "url": null
+}

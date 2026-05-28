@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "antipasto-3",
+  "name": "Antipasto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "flores de coliflor",
+    "olivas maduras",
+    "flores de brócoli",
+    "setas frescas",
+    "rodajas de cebolla",
+    "tomates cherry",
+    "tiras de pimiento verde",
+    "mezcla de aderezo italiano para ensaladas",
+    "aceite vegetal",
+    "vinagre"
+  ],
+  "recipeInstructions": "1. Coloca los vegetales en un recipiente no metálico.\n2. Prepara el aderezo italiano según las instrucciones del paquete.\n3. Vierte el aderezo sobre los vegetales.\n4. Deja marinar la mezcla durante la noche.",
+  "url": null
+}

@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "red-devil-eggs-2",
+  "name": "Huevos Diablos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "queso/huevos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "6 huevos cocidos duro",
+    "2 cucharadas de mayonesa",
+    "1 cucharadita de cebolla rallada",
+    "1 cucharadita de mostaza",
+    "1/2 cucharadita de salsa Worcestershire",
+    "1 1/2 onzas de jamón picante"
+  ],
+  "recipeInstructions": "1. Sazonar con sal y pimienta al gusto.\n2. Cortar los huevos cocidos duro por la mitad y retirar las yemas en un bol.\n3. Mezclar los ingredientes restantes con las yemas en el bol.\n4. Rellenar suavemente las mitades de huevo reservadas con la mezcla.\n5. Espolvorear ligeramente con pimentón antes de servir.",
+  "url": null
+}

@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "cafe-brulot-2",
+  "name": "Café Brulot",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Miscellaneous & Other",
+  "keywords": [
+    "americano",
+    "bebidas",
+    "cajún",
+    "étnico"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de azúcar morena",
+    "1 rama de canela",
+    "5 clavos enteros",
+    "1 cáscara de limón, cortada en láminas finas",
+    "1 cáscara de naranja, cortada en láminas finas",
+    "2 rodajas finas de limón",
+    "1 rodaja fina de naranja",
+    "1/2 taza de licor de naranja con sabor",
+    "1/4 taza de brandy",
+    "3 tazas de café de Luisiana con chicory",
+    "Rulos de cáscara de limón",
+    "Rulos de cáscara de naranja"
+  ],
+  "recipeInstructions": "1. Mezcla el azúcar, la canela, los clavos y las cáscaras cítricas en un calentador o sartén mediano; calienta hasta que el azúcar comience a disolver.\n2. Agrega las rodajas cítricas, el licor y el brandy; calienta.\n3. Llena la mitad de una cuchara metalica con parte del líquido caliente y enciéndela con cuidado.\n4. Vierte el líquido encendido sobre la mezcla en la sartén para encenderla, distribuyendo los sabores uniformemente.\n5. Cuando se apague la llama, agrega el café; revuelve suavemente.\n6. Sirve en tazas demitasse; adorna con rulos de cáscara de limón y naranja si lo deseas.",
+  "url": null
+}

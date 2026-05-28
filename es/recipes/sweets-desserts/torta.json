@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "torta",
+  "name": "Torta de Anís",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres",
+    "italiano"
+  ],
+  "recipeIngredient": [
+    "1 taza de mantequilla derretida",
+    "1/3 taza de aceite de maíz",
+    "2 tazas de azúcar",
+    "12 yemas de huevo",
+    "1 taza de agua tibia",
+    "1 1/2 cucharaditas de levadura (rápida)",
+    "1 1/4 tazas de harina para todo uso",
+    "1/3 taza de leche evaporada",
+    "3 tazas de harina para todo uso (3 a 4 tazas)",
+    "2 cucharaditas de semillas de anís (tostadas)",
+    "1 cucharadita de extracto de anís"
+  ],
+  "recipeInstructions": "Batir las yemas de huevo. Mezclar con los tres primeros ingredientes. Dejar reposar.\nAgregar la levadura al agua tibia. Dejar levar por un minuto. Incorporar la harina.\nDejar reposar.\nMezclar la masa de yema con la masa de levadura. Agregar gradualmente el resto de la harina y la leche. Añadir las semillas y el extracto de anís. Seguir batiendo hasta que esté elástica y verter en moldes pequeños forrados con papel pergamino hasta que duplique su volumen. Hornear en horno precalentado a 350°F hasta que sea dorado. Untar con mantequilla derretida y espolvorear con queso rallado y azúcar.",
+  "url": null
+}

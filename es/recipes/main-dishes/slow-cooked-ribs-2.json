@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "slow-cooked-ribs-2",
+  "name": "Costillas asadas lentas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "bar-b-q",
+    "plato principal",
+    "carne",
+    "cerdo",
+    "costillas"
+  ],
+  "recipeIngredient": [
+    "Sal",
+    "Pimienta",
+    "Salsa barbacoa -- a base de tomate",
+    "Vinagre blanco",
+    "Agua mineral con gas"
+  ],
+  "recipeInstructions": "1. Condimentar las costillas de cerdo enteras y sin cortar con sal y pimienta.\n2. Cocinar lentamente en un asador a fuego bajo (220°F) durante dos horas.\n3. Durante las siguientes tres horas, untar las costillas cada media hora con una mezcla de partes iguales de salsa barbacoa a base de tomate, vinagre blanco y agua mineral con gas.\n4. En la última hora de cocción, cambiar el unte por una mezcla de partes iguales de salsa barbacoa y agua mineral con gas.\n5. Las costillas habrán estado cocinándose durante un total de seis horas. Servir con mucha salsa al lado.",
+  "url": null
+}

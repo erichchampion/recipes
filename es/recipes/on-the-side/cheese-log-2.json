@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheese-log-2",
+  "name": "Rulo de Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aperitivos",
+    "queso",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de queso New York Sharp",
+    "1/2 lb de queso con pimiento",
+    "1/2 lb de crema de queso",
+    "2 dientes de ajo",
+    "2 cucharadas de salsa Worcestershire",
+    "1/4 cucharadita de pimienta roja en copos",
+    "2 cucharadas de mayonesa",
+    "1/4 cucharadita de sal"
+  ],
+  "recipeInstructions": "1. Rallar el queso.\n2. En un tazón grande, mezclar todos los ingredientes hasta que estén bien combinados.\n3. Refrigerar la mezcla durante aproximadamente 30 minutos para permitir que se mezclen los sabores.\n4. Dividir la mezcla en tercios y enrollar cada porción en pimentón.\n5. Envolver cada rulo apretadamente con papel plástico o colocarlo en bolsas congeladoras.\n6. Almacenar en el congelador por hasta 2 meses.",
+  "url": null
+}

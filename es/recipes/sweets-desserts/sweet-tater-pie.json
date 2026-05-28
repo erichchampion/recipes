@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "sweet-tater-pie",
+  "name": "Pastel de Batata Dulce",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1 taza de puré de batatas dulces cocidas",
+    "2/3 taza de azúcar",
+    "2 huevos, batidos",
+    "1 taza de leche evaporada",
+    "1/2 cucharadita de extracto de limón",
+    "1/2 cucharadita de canela",
+    "1/2 cucharadita de sal",
+    "cascara de tarta sin hornear"
+  ],
+  "recipeInstructions": "1. Calentar la leche evaporada.\n2. Mezclar la leche evaporada calentada con el puré de batatas dulces, azúcar, huevos, extracto de limón, canela y sal hasta que esté bien combinada.\n3. Verter la mezcla en la cascara de tarta sin hornear.\n4. Hornear a 425°F (220°C) durante 20 minutos.\n5. Reducir la temperatura a 350°F (175°C) y continuar horneando por otros 20 minutos o hasta que la cascara esté dorada.\n6. Dejar enfriar el pastel antes de servir. Disfrutarlo caliente.",
+  "url": null
+}

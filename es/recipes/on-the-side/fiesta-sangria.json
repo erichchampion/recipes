@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "fiesta-sangria",
+  "name": "Fiesta Sangría",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "alcohol",
+    "bebidas",
+    "aperitivos"
+  ],
+  "recipeIngredient": [
+    "2 naranjas, cortadas en rodajas finas",
+    "1 1/2 tazas de brandy",
+    "2 manojos de verbena de limón larga",
+    "1 lima, cortada en rodajas finas (opcional)",
+    "Frutas de temporada frescas como uvas sin semillas, rebanadas de manzana y pera",
+    "1 galón de vino blanco seco",
+    "2 tazas de Grand Marnier"
+  ],
+  "recipeInstructions": "1. Combinar las naranjas, la verbena, la lima (si se usa) y otras frutas de temporada en un recipiente grande.\n2. Agregar el vino, el licor de naranja, el brandy y las hierbas a la mezcla de frutas.\n3. Tapar y refrigerar por al menos una noche, hasta 3 días.\n4. Llenar un jarro de vidrio transparente con la sangría.\n5. Añadir más frutas frescas cortadas, duraznos congelados, arándanos congelados y hierbas largas frescas.\n6. (Opcional) Agregar frutas blandas como fresas frescas o rodajas de kiwi antes de servir.\n7. Verter en copas de vino con un chorro de soda o champán, un pequeño racimo de uvas y un brote de hierba fresca.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-soup-2",
+  "name": "Sopa de Hamburguesa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 lb de hamburguesa molida",
+    "1 taza de cebolla picada",
+    "1 taza de apio picado",
+    "1 taza de papas cortadas en cubos",
+    "1 litro de tomates licuados",
+    "2 tazas de zanahorias ralladas",
+    "1 cucharadita de sal",
+    "2 cucharadas de caldo de carne en polvo",
+    "6 tazas de agua",
+    "2 latas pequeñas de maíz (en granos)",
+    "1 lata pequeña de frijoles amarillos",
+    "1 taza de guisantes congelados"
+  ],
+  "recipeInstructions": "1. Dorar la hamburguesa y la cebolla en una sartén hasta que estén marrones.\n2. Agregar el apio, las papas, los tomates, las zanahorias ralladas, la sal, el caldo de carne y el agua a la olla.\n3. Dejar hervir a fuego lento durante 30 minutos.\n4. Incorporar el maíz, los frijoles amarillos y los guisantes congelados. Continuar hirviendo a fuego lento por 5 minutos adicionales.",
+  "url": null
+}

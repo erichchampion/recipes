@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "pico-de-gallo-2",
+  "name": "Pico de Gallo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "salsas",
+    "platos secundarios"
+  ],
+  "recipeIngredient": [
+    "1 tomate, picado",
+    "1 cebolla, picada",
+    "5 ramitas de cilantro, picadas",
+    "1 pimiento jalapeño, picado",
+    "1/2 limón, cortado por la mitad",
+    "sal al gusto"
+  ],
+  "recipeInstructions": "1. Mezcla los tomates picados, cebollas picadas, cilantro y pimientos jalapeños en un plato para servir.\n2. Exprime el jugo de medio limón sobre la mezcla.\n3. Agrega sal al gusto.\n4. Revuelve suavemente hasta que esté bien combinado.\n5. Sirve inmediatamente.",
+  "url": null
+}

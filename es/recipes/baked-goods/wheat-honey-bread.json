@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "wheat-honey-bread",
+  "name": "Pan de Trigo y Miel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "máquina de pan",
+    "panes",
+    "máquina"
+  ],
+  "recipeIngredient": [
+    "1 sobre de levadura",
+    "3/4 taza de harina de trigo integral",
+    "2 1/2 tazas de harina de pan",
+    "1 cucharadita de sal",
+    "2 cucharadas de miel",
+    "2 cucharadas de mantequilla",
+    "1 huevo",
+    "1 taza más 1 cucharada de agua tibia"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Colocar la mezcla en un molde para horno.\n3. Seleccionar el ajuste de pan blanco y presionar \"Iniciar\".\n4. Nota: Las pasas se pueden agregar al principio para dar sabor, o durante el horneado para mantenerlas enteras.",
+  "url": null
+}

@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "picadillo-ground-beef",
+  "name": "Picadillo de Carne Molida",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne",
+    "carne molida",
+    "plato principal",
+    "carnes"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de aceite de oliva",
+    "1 cebolla mediana picada",
+    "1 pimiento verde mediano picado",
+    "1 1/2 libras de carne molida magra",
+    "2 dientes de ajo pelados y picados finamente",
+    "1 lata de tomates (1 libra 3 onzas)",
+    "1/2 taza de pimientos rellenos picados",
+    "1/4 taza de aceitunas verdes",
+    "arroz cocido al vapor Minute",
+    "1/3 taza de pasas, enjuagadas con agua caliente y escurridas",
+    "1 huevo duro",
+    "2 cucharadas de alcaparras escurridas",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "3/4 cucharadita de comino molido",
+    "1/8 cucharadita de canela en polvo"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una sartén de 10 pulgadas a fuego medio.\n2. Agregar las cebollas y los pimientos verdes, revolviendo con frecuencia hasta que se marchiten pero no se doren.\n3. Añadir la carne molida y el ajo al sartén. Machacar con un tenedor hasta que la carne pierda su color rojo y quede en migajas.\n4. Incorporar los tomates, las aceitunas, las pasas, las alcaparras, la sal, la pimienta, el comino y la canela. Seguir revolviendo durante 40 a 50 minutos.\n5. Servir sobre arroz caliente y decorar con huevos picados.",
+  "url": null
+}

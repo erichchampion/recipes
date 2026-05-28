@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "pecan-pie-1-2",
+  "name": "Pastel de Pecán 1",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1/2 barra de Manteca",
+    "3 Huevos",
+    "1 taza de Azúcar",
+    "1 taza de Jarabe Karo (blanco)",
+    "3 cucharadas de Maicena",
+    "un pellizco de Sal",
+    "1 cucharadita de Extracto de Vainilla",
+    "1 taza de Pecanes picados",
+    "1 masa de pastel"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol y remover bien.\n2. Verter la mezcla en la masa de pastel.\n3. Hornear por 1 hora a 300 grados Fahrenheit.\n4. Dejar enfriar antes de servir.",
+  "url": null
+}

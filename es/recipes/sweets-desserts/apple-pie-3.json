@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "apple-pie-3",
+  "name": "Pastel de Manzana",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "postres",
+    "favoritos",
+    "tartas"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de azúcar morena",
+    "1 cucharada de canela",
+    "2 cucharadas de harina",
+    "una pizca de sal",
+    "nuez moscada",
+    "6 tazas de manzanas laminadas finamente",
+    "mantequilla",
+    "masa para 2 tartas con doble base"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 425°F.\n2. Preparar la base y refrigerar hasta su uso.\n3. En un bol, mezclar el azúcar, la canela, la harina y la sal.\n4. Agregar las manzanas y remover suavemente para cubrirlas.\n5. Transferir la mezcla a la bandeja para pastel.\n6. Untar con mantequilla y espolvorear con nuez moscada.\n7. Cubrir con la base superior y hacer cortes para la vaporización.\n8. Hornear por 45-50 minutos.",
+  "url": null
+}

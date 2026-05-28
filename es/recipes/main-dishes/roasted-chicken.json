@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "roasted-chicken",
+  "name": "Pollo asado",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "2 pollos para asar (aproximadamente 5 libras en total)",
+    "1 cucharadita de sal",
+    "1 cucharadita de sal sazonada",
+    "1 cucharadita de sal de apio",
+    "1 cucharadita de sal de cebolla",
+    "1/2 cucharadita de pimienta"
+  ],
+  "recipeInstructions": "1. Lavar el pollo y secarlo con papel toalla.\n2. Colocar el pollo en una fuente para hornear de 13x9x2 pulgadas, con el pecho hacia arriba, sin engrasar.\n3. Mezclar las especias; frotar sobre y dentro de los pollos.\n4. Cubrir apretadamente y hornear a 400°F durante 1 hora.\n5. Descubrir y hornear por otros 30 minutos, o hasta que un termómetro de carne indique 180°F.\n6. Servir inmediatamente un pollo. Enfriar el segundo pollo; deshuesarlo y cortarlo en cubos, luego refrigerar o congelar (puede congelarse hasta por 3 meses).\nRinde: 4 a 6 porciones por pollo.",
+  "url": null
+}

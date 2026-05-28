@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "sourdough-wheat-bread",
+  "name": "Pan de Trigo con Levadura Natural",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "panadería",
+    "pan",
+    "levadura"
+  ],
+  "recipeIngredient": [
+    "2 tazas de masa madre",
+    "1 1/2 cucharaditas de sal",
+    "2 cucharadas de azúcar",
+    "1 taza de harina de trigo integral",
+    "1 1/2 tazas de harina blanca"
+  ],
+  "recipeInstructions": "1. Agregar la sal, el azúcar y la harina de trigo integral a la masa madre.\n2. Incorporar gradualmente la harina blanca hasta formar una masa suave.\n3. Amasar la masa durante 10 minutos.\n4. Colocar la masa en un bol engrasado y cubrir con un paño limpio.",
+  "url": null
+}

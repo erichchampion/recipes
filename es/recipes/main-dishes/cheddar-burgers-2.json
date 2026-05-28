@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cheddar-burgers-2",
+  "name": "Hamburguesas de Cheddar",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "carne molida magra",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida magra",
+    "1 taza de queso cheddar rallado",
+    "1/2 taza de migas de pan suaves",
+    "1/4 taza de cebolla picada finamente",
+    "3 cucharadas de salsa Heinz 57",
+    "1/4 cucharadita de sal",
+    "1 panecillo para hamburguesa tostado"
+  ],
+  "recipeInstructions": "1. Mezcla los primeros seis ingredientes en un bol.\n2. Forma la mezcla en cinco hamburguesas.\n3. Asa o gratina las hamburguesas hasta el punto de cocción deseado.\n4. Sirve en panecillos para hamburguesa tostados.\n5. Añade salsa Heinz 57 extra si lo deseas.\n6. Rinde para 5 porciones.",
+  "url": null
+}

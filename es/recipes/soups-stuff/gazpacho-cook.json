@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "gazpacho-cook",
+  "name": "Gazpacho (Preparación)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "aperitivos",
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "1 diente de ajo pelado",
+    "4 tomates maduros cortados en octavas partes",
+    "1 cucharadita de sal",
+    "1/2 cebolla pequeña pelada y en rodajas",
+    "3 cucharadas de vinagre de vino",
+    "1 pepino delgado pelado y cortado",
+    "1/2 pimiento verde sin semillas y en rodajas",
+    "1/4 cucharadita de pimienta negra",
+    "2 cucharadas de aceite de oliva",
+    "1/2 taza de agua helada"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en un recipiente de licuadora eléctrica.\n2. Agrega los ingredientes en el orden mencionado anteriormente.\n3. Tapa y licúa a velocidad alta durante 5-10 segundos o hasta que los ingredientes estén finamente picados.\n4. Deja enfriar completamente.\n5. Sirve, opcionalmente acompañado de guarniciones de pepino cortado, cebolla verde, pimiento verde, tomates y crotones.",
+  "url": null
+}

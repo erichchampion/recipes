@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "fast-foods-lunch",
+  "name": "Comida Rápida: Almuerzo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "diabetico",
+    "dieta especial"
+  ],
+  "recipeIngredient": [
+    "Pollo de la Receta Original KFC (1 muslo): 9g de grasa total, 2 intercambios de carne de grasa media",
+    "Hamburguesa McDonald's: 1 intercambio de grasa, 1 intercambio de carne de grasa media, 2 intercambios de carbohidratos",
+    "Papas fritas McDonald's (un pequeño pedido): 2 intercambios de grasa, 2 intercambios de carbohidratos",
+    "Sándwich de Pollo a la Parrilla Wendy's: 3 intercambios de carne magra, 2 intercambios de carbohidratos",
+    "Pizza Hut Pepperoni Hand-Tossed (1 rebanada mediana): 1 intercambio de grasa, 1 intercambio de carne de grasa media, 2 intercambios de carbohidratos",
+    "Taco Supreme Taco Bell: 1 intercambio de grasa, 1 intercambio de carbohidratos, 1 intercambio de carne de grasa media",
+    "Sándwich Sub de Res Asada Fría Subway (6 pulgadas): 2 intercambios de carne magra, 3 intercambios de carbohidratos"
+  ],
+  "recipeInstructions": "1. Revisa la información nutricional de cada opción de comida rápida, incluyendo calorías totales, grasa total, grasa saturada, sodio, carbohidratos y cualquier intercambio dietético específico.\n2. Considera incorporar estas opciones en un plan de comidas equilibrado basado en tus necesidades nutricionales.\n3. Ten en cuenta los tamaños de las porciones y cualquier aderezo o acompañamiento adicional que pueda aumentar el contenido calórico.\n4. Utiliza la información proporcionada para tomar decisiones informadas al seleccionar artículos de comida rápida para el almuerzo u otras comidas.",
+  "url": null
+}

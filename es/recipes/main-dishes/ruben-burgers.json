@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "ruben-burgers",
+  "name": "Hamburguesas Reuben",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "queso",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "4 1/2 oz de esparcido de carne curada, 1 taza",
+    "4 1/2 oz de jamón devilado, 1 taza",
+    "1/4 taza de cebolla picada finamente, 1",
+    "sal, 1/4 cucharadita",
+    "sal de ajo, 1/8 cucharadita",
+    "pimienta, 1/8 cucharadita",
+    "8 oz de chucrut escurrido, 1 taza",
+    "5 rebanadas de queso suizo"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes excepto el chucrut y el queso.\n2. Forma la mezcla en 5 hamburguesas, cada una de aproximadamente 3/4 de pulgada de grosor.\n3. Ajusta el control del horno a broilar o 550°F. Coloca las hamburguesas a 4 pulgadas de distancia del calor.\n4. Voltea las hamburguesas y broila hasta alcanzar el punto deseado (aproximadamente 10-15 minutos).\n5. Coloca chucrut y una rebanada de queso sobre cada hamburguesa.\n6. Continúa broilando hasta que el queso se derrita y dore ligeramente.\n7. Sirve en panecillos o panes de centeno tostados.",
+  "url": null
+}

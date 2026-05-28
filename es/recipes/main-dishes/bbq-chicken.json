@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "bbq-chicken",
+  "name": "Pollo a la Barbacoa",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbecue",
+    "pollo",
+    "plato principal",
+    "carne",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "1 taza de salsa barbacoa",
+    "1/2 taza de aderezo italiano",
+    "2 1/2 libras de pollo tipo asador"
+  ],
+  "recipeInstructions": "1. Mezclar la salsa barbacoa y el aderezo italiano.\n2. Colocar el pollo, con la piel hacia abajo, sobre una parrilla engrasada sobre brasas bajas.\n3. Asar el pollo destapado durante 50 a 60 minutos o hasta que esté tierno.\n4. Untar el pollo con la salsa frecuentemente durante los últimos 30 minutos de asado.\n5. Apagar el calor y dejar reposar el pollo antes de servir.",
+  "url": null
+}

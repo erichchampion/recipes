@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "reuben-casserole",
+  "name": "Cazuela Reuben",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "cazuelas",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de carne curada en rodajas (puede ser del supermercado), picada en trozos pequeños",
+    "1/2 lb de queso suizo en rodajas",
+    "1 frasco de chucrut, escurrido si es necesario",
+    "puré de papas instantáneo",
+    "pimentón o semillas de comino"
+  ],
+  "recipeInstructions": "1. Prepara una porción grande de puré de papas instantáneo según las instrucciones del paquete, o usa puré fresco (aproximadamente 6-8 porciones).\n2. Mezcla el chucrut al gusto.\n3. En un refractario engrasado, extiende la mitad de la mezcla de puré de papas.\n4. Coloca la carne curada sobre la mezcla de puré.\n5. Añade el queso suizo encima de la carne.\n6. Cubre con la mezcla de puré restante.\n7. Espolvorea pimentón o semillas de comino en la parte superior.\n8. Hornea durante 30 minutos a 175 °C.",
+  "url": null
+}

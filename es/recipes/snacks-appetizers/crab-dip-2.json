@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "crab-dip-2",
+  "name": "Dip de Cangrejo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "dips",
+    "pescado",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne de cangrejo",
+    "2 cucharadas de mostaza preparada",
+    "1/2 taza de mayonesa o aderezo para ensalada",
+    "2 cucharaditas de azúcar en polvo",
+    "2/3 taza de vino blanco",
+    "2 cucharadas de cebolla rallada",
+    "sal de ajo al gusto"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes excepto la carne de cangrejo en un bol.\n2. Calentar lentamente hasta que esté tibio.\n3. Agregar gradualmente la carne de cangrejo y remover suavemente.\n4. Servir caliente con galletas saladas.",
+  "url": null
+}

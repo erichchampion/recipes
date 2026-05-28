@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "pineapple-salad",
+  "name": "Ensalada de Piña",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "fruta",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 lata de 400 g de Cool Whip descongelado",
+    "1 lata de leche evaporada endulzada condensada",
+    "1/3 taza de jugo de limón",
+    "1 lata de piña triturada"
+  ],
+  "recipeInstructions": "1. Descongelar el Cool Whip.\n2. Mezclar 1/3 taza de jugo de limón con 1 lata de leche evaporada endulzada condensada hasta obtener una consistencia similar a la de crema agria.\n3. Incorporar la mezcla de leche al Cool Whip enfriado.\n4. Agregar la piña triturada.\n5. Refrigerar la ensalada durante media hora.",
+  "url": null
+}

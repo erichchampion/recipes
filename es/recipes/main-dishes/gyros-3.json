@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "gyros-3",
+  "name": "Gyros",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "étnico",
+    "griego",
+    "sándwiches"
+  ],
+  "recipeIngredient": [
+    "1 lb de bistec, lomo"
+  ],
+  "recipeInstructions": "1. Corta el bistec en rebanadas finas.\n2. Coloca las rebanadas en una parrilla caliente o en una sartén a fuego alto.\n3. Cocina la carne hasta que esté dorada y cocida por completo, aproximadamente 4-5 minutos por lado.\n4. Retira del calor y deja reposar unos minutos antes de cortar.\n5. Sirve con pan pita, verduras y salsa tzatziki.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "caesar-salad-5",
+  "name": "Ensalada César",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 diente de ajo, rebanado",
+    "1/2 taza de aceite de oliva",
+    "1 taza de pan francés, en cubos",
+    "2 lechugas romana, picadas en longitudes de 2 pulgadas",
+    "1 1/2 cucharaditas de sal",
+    "1/4 cucharadita de mostaza seca",
+    "pimienta negra",
+    "5 filetes de anchoa, machacados",
+    "3 gotas de salsa Worcestershire",
+    "3 cucharadas de vinagre de vino",
+    "1 huevo",
+    "1 limón, exprimido",
+    "3 cucharadas de queso parmesano"
+  ],
+  "recipeInstructions": "1. Remojar el ajo en media taza de aceite de oliva durante 24 horas.\n2. Saltear los cubos de pan francés en el aceite de ajo restante del paso 1.\n3. Lavar y secar las lechugas romana. Picarlas en longitudes de 2 pulgadas y colocarlas en un bol para ensalada.\n4. Espolvorear sal, mostaza seca y pimienta negra sobre la lechuga romana.\n5. Agregar pasta de anchoa y unas gotas de salsa Worcestershire.\n6. Verter vinagre de vino y el aceite de ajo restante en el bol.\n7. Romper el huevo sobre los ingredientes.\n8. Exprimir el jugo de limón sobre la ensalada y mezclar suavemente.\n9. Agregar queso parmesano y servir.",
+  "url": null
+}

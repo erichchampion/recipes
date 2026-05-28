@@ -1,0 +1,33 @@
+{
+  "@type": "Recipe",
+  "identifier": "pizza-3",
+  "name": "Pizza",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pizza"
+  ],
+  "recipeIngredient": [
+    "1 cucharada de levadura para panadero",
+    "1 cucharada de Sucanat",
+    "1 taza de agua tibia",
+    "2 tazas de harina blanca sin blanquear",
+    "1 taza de harina integral",
+    "1 taza de harina de maíz (aproximada)",
+    "3 cucharadas de trozos de tomate seco",
+    "1 taza de agua",
+    "1 1/2 cucharadita de sal",
+    "1 pimiento rojo (pimiento morrón)",
+    "1 pimiento naranja",
+    "4 berenjenas pequeñas",
+    "3 cebollas pequeñas",
+    "1 1/2 cucharadita de alcaparras",
+    "2 cucharadas de vinagre balsámico",
+    "10 hojas de albahaca",
+    "sal",
+    "pimienta negra molida"
+  ],
+  "recipeInstructions": "1. Precalentar el horno a 400°F (200°C).\n2. Colocar el pimiento rojo (cortado por la parte inferior), el pimiento naranja y las rodajas de berenjena en un molde para pizza. Cocinar durante unos 30 minutos.\n3. Preparar un molde desmontable con aceite o Pam y espolvorear con harina de maíz.\n4. En un lugar cálido, mezclar la levadura, el Sucanat y el agua tibia. Dejar crecer hasta que esté espumoso.\n5. Combinar 3 tazas de harina y la sal, reservar.\n6. Cortar las cebollas y saltearlas en agua hasta caramelizarlas.\n7. Reducir los trozos de tomate seco con más agua, luego escurrir pero conservar el líquido.\n8. Mezclar la mezcla de levadura con la harina, la sal, los trozos de tomate y algo del líquido de tomate. Amasar bien.\n9. Amasar la masa sobre una superficie con harina de maíz para prepararla para estirar.\n10. Estirar en un círculo ancho unos 5 pulgadas más grande que el molde.\n11. Colocar la masa estirada en un lugar cálido.\n12. Rellenar con las cebollas cocidas y salpimentar ligeramente, luego agregar vinagre balsámico, hojas de albahaca, berenjenas, sal, pimienta negra molida y alcaparras.\n13. Armar alternando los pimientos rojo y naranja en un patrón de rayos solares, rociando con el vinagre balsámico restante.\n14. Poner un punto en el centro con queso sobrante o una hoja de albahaca.\n15. Hornear durante 20-30 minutos. Cortar y servir.",
+  "url": null
+}

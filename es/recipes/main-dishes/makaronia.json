@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "makaronia",
+  "name": "Makaronia",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de mantequilla dulce",
+    "1/4 lb de mizithra (o feta) rallada",
+    "1 1/2 lb de espagueti cocido al dente",
+    "16 aceitunas jumbo Calamata"
+  ],
+  "recipeInstructions": "1. En una olla grande, coloca la mantequilla y caliéntala a fuego medio hasta que se derrita.\n2. Agrega el queso y revuelve hasta combinarlo.\n3. Añade la pasta y mezcla bien para que quede cubierta con la mezcla de mantequilla y queso.\n4. Incorpora las aceitunas cortadas y revuelve bien para combinar.",
+  "url": null
+}

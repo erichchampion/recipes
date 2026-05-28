@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "nachos-2",
+  "name": "Nachos",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "aperitivos mexicanos",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "4 oz de queso cheddar rallado",
+    "3 chiles jalapeños (sin semillas)",
+    "2 tortillas fritas"
+  ],
+  "recipeInstructions": "1. Ralla el queso cheddar hasta obtener un total de 4 onzas.\n2. Retira las semillas de cada chile jalapeño, luego córtalos en 6 rodajas por peppero.\n3. Coloca las tortillas fritas en un plato para servir.",
+  "url": null
+}

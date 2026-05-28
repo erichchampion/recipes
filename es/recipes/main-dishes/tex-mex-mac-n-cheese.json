@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "tex-mex-mac-n-cheese",
+  "name": "Macarrones Tex-Mex con Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "queso",
+    "plato principal"
+  ],
+  "recipeIngredient": [
+    "1 lb de carne molida",
+    "O pavo molido",
+    "1 pimiento rojo - picado",
+    "1 cebolla - picada",
+    "1/2 taza de setas en rodajas",
+    "1 lata de pasta de tomate",
+    "1/2 taza de agua",
+    "1 lata de maíz entero (escurrido)",
+    "Sal, pimienta y especias al gusto",
+    "1 paquete de macarrones con queso",
+    "O Velveeta y conas"
+  ],
+  "recipeInstructions": "1. En una sartén grande, dora la carne molida o el pavo con el pimiento rojo picado, la cebolla y las setas.\n2. Incorpora la pasta de tomate y el agua. Agrega el maíz entero (escurrido).\n3. Cocina los macarrones con queso según las instrucciones del paquete. Si es necesario, añade leche y margarina.\n4. Mezcla los macarrones cocidos con la mezcla de carne.\n5. Combina bien y sirve.",
+  "url": null
+}

@@ -1,0 +1,26 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-marengo-4",
+  "name": "Pollo Marengo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves"
+  ],
+  "recipeIngredient": [
+    "2 1/2 lb de pollo",
+    "1 cucharadita de sal",
+    "Unas cuantas vueltas de pimienta negra",
+    "4 cucharadas de aceite de oliva",
+    "1 cebolla, picada",
+    "1/2 diente de ajo, picado finamente",
+    "1/2 taza de tomates picados",
+    "1/4 taza de jerez",
+    "2 cucharadas de harina"
+  ],
+  "recipeInstructions": "1. Cortar el pollo en trozos y espolvorear con sal, pimienta y harina.\n2. Dorar el pollo sazonado en aceite caliente.\n3. Retirar el pollo dorado del fuego.\n4. En la misma sartén, sofreír las cebollas y el ajo hasta que estén aromáticos.\n5. Agregar los ingredientes restantes (tomates, jerez) a la sartén.\n6. Tapar y cocinar a fuego lento durante 30-40 minutos, o hasta que el pollo esté tierno.\n7. Se puede sustituir el jerez por vino blanco si se prefiere.",
+  "url": null
+}

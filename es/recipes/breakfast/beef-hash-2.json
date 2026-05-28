@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-hash-2",
+  "name": "Hash de Carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Breakfast",
+  "keywords": [
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de carne cocida, picada",
+    "10 onzas de papas hash congeladas, descongeladas",
+    "1 cebolla, finamente picada",
+    "1/4 taza de margarina derretida",
+    "1 taza de salsa de carne",
+    "1 taza de caldo de carne",
+    "pimienta"
+  ],
+  "recipeInstructions": "1. Coloca todos los ingredientes en la olla de cocción lenta.\n2. Tapa y cocina a temperatura baja durante 6 a 8 horas.",
+  "url": null
+}

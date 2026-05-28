@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "hamburger-stroganoff-3",
+  "name": "Estofado de Hamburguesa Stroganoff",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "hamburguesas",
+    "plato principal",
+    "carne",
+    "carnes",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "500g de carne molida magra",
+    "1/2 taza de cebolla; picada, 1 mediana",
+    "1 diente de ajo; picado",
+    "3 cucharadas de harina blanqueada",
+    "1 cucharadita de caldo de carne instantáneo",
+    "3/4 cucharadita de sal",
+    "1/4 cucharadita de pimienta negra",
+    "8 oz de tallos/trozos de setas; escurridos",
+    "4 tazas de agua",
+    "2 tazas de crema agria",
+    "4 tazas de fideos o arroz cocido caliente"
+  ],
+  "recipeInstructions": "1. Cocinar y remover la carne, cebolla y ajo en una sartén grande hasta que la carne esté marrón.\n2. Escurrir el exceso de grasa.\n3. Mezclar la harina, caldo, sal, pimienta y los tallos/trozos de setas.\n4. Incorporar el agua y calentar a ebullición. Reducir el fuego y cocinar a fuego lento, cubierto, por 10 minutos.\n5. Agregar la crema agria y calentar hasta que esté caliente.\n6. Servir sobre fideos o arroz si se desea, y decorar con perejil picado si lo desea.",
+  "url": null
+}

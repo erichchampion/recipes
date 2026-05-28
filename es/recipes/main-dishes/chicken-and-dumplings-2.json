@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-dumplings-2",
+  "name": "Pollo y Empanadillas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "avícola"
+  ],
+  "recipeIngredient": [
+    "1 lata de pollo",
+    "2 tazas de mezcla Bisquick",
+    "3 tazas de agua",
+    "2/3 taza de leche",
+    "2 cubos de caldo de res"
+  ],
+  "recipeInstructions": "1 Calentar el agua, los cubos de caldo y el pollo en una olla grande a fuego medio hasta que el agua hierva.\n2 En un bol aparte, mezclar la mezcla Bisquick con 2/3 taza de leche para formar una masa.\n3 Verter cucharadas de la mezcla de Bisquick en el líquido hirviendo, removiendo suavemente para evitar salpicaduras.\n4 Tapar la olla y reducir el fuego a bajo. Cocinar a fuego lento durante 10-12 minutos hasta que las empanadillas estén cocidas.",
+  "url": null
+}

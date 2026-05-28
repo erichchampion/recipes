@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "spicy-bread",
+  "name": "Pan Picante",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "300 g de Harina de trigo",
+    "350 g de Harina de centeno",
+    "700 g de Levadura",
+    "20 g de Sal",
+    "20 g de Levadura fresca",
+    "300 cc de Agua a 40°C",
+    "10 g de Hierbas provenzales"
+  ],
+  "recipeInstructions": "1. Echar la harina en un recipiente y mezclarla con las hierbas usando una cuchara.\n2. Agregar la sal y la levadura en extremos opuestos del recipiente.\n3. Añadir el agua poco a poco mientras se amasa hasta formar una masa.\n4. Amasar la masa bien durante 5 minutos.\n5. Cubrir y dejar reposar por 30 minutos.\n6. Amasar la masa nuevamente y darle la forma deseada.\n7. Cubrir y dejar reposar por otras 60 minutos, o hasta que doble su volumen.\n8. Hornear en horno precalentado a 225°C por 70 minutos. Si se usan hierbas individuales como el tomillo, el tiempo de horneado puede reducirse a 50 minutos.",
+  "url": null
+}

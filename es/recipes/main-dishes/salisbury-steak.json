@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "salisbury-steak",
+  "name": "Steak Salisbury",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne de res",
+    "plato principal",
+    "carne"
+  ],
+  "recipeIngredient": [
+    "8 oz. de carne molida de chuck",
+    "1 cucharada de cebolla amarilla finamente picada",
+    "1 cucharada de cebolla verde finamente picada",
+    "1 pequeño diente de ajo (pasado por el prensador)",
+    "1 cucharadita de pimentón",
+    "1 cucharada de perejil finamente picado",
+    "sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes hasta que estén bien integrados.\n2. Formar la mezcla en una hamburguesa.\n3. Asar sobre fuego de leña o carbón, dando la vuelta una vez. Asegurarse de que la hamburguesa esté bien dorada por fuera y aún húmeda por dentro pero pasada del tono rosado.\n4. Si se cocina en la estufa, freír en un poco de aceite de oliva.",
+  "url": null
+}

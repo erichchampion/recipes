@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "nancy-s-company-salad",
+  "name": "Ensalada de la Compañía de Nancy",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "frutas",
+    "ensalada",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1 lechuga Boston o roja hoja, picada",
+    "1 taza de fresas frescas, cortadas en cuartos",
+    "2 latas de mandarinas, escurridas",
+    "1 cebolla morada, rebanada finamente",
+    "1 kiwi, cortado en rodajas",
+    "ADEREZO",
+    "1/2 taza de azúcar",
+    "1/4 cucharadita de sal",
+    "1/4 taza de vinagre de manzana",
+    "3/4 taza de aceite para ensalada (girasol)",
+    "1 cucharada de semillas de amapola",
+    "1/2 cucharadita de mostaza en polvo",
+    "1/4 cucharadita de pimentón"
+  ],
+  "recipeInstructions": "1. Pique la lechuga.\n2. Mezcle la lechuga picada con las fresas cortadas, las mandarinas escurridas, la cebolla y el kiwi en un tazón grande.\n3. En un tazón aparte, batir juntos el azúcar, la sal, el vinagre de manzana, el aceite para ensalada, las semillas de amapola, la mostaza en polvo y el pimentón para hacer el aderezo.\n4. Revuelva la ensalada con el aderezo justo antes de servir.",
+  "url": null
+}

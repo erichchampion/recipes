@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "salmon-steaks-2",
+  "name": "Solomillo de Salmón",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "salmón",
+    "mariscos"
+  ],
+  "recipeIngredient": [
+    "4 solomillos de salmón",
+    "2 cucharadas de salsa de soya",
+    "1/4 taza de aceite",
+    "2 cucharadas de jugo de limón",
+    "1/2 cucharadita de jengibre"
+  ],
+  "recipeInstructions": "1. Combinar la salsa de soya, el aceite, el jugo de limón y el jengibre en un bol para hacer un marinado.\n2. Verter el marinado sobre los solomillos de salmón y marinar por 30 minutos, dando vuelta a los solomillos ocasionalmente.\n3. Dar la vuelta a los solomillos y cepillar con el marinado restante.\n4. Asar a la parrilla los solomillos por otros 10 minutos, dándoles la vuelta una vez más para cocinar de manera uniforme.",
+  "url": null
+}

@@ -1,0 +1,34 @@
+{
+  "@type": "Recipe",
+  "identifier": "kaesekuchen",
+  "name": "Kaesekuchen",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "tarta",
+    "postres",
+    "étnico"
+  ],
+  "recipeIngredient": [
+    "3 tazas de queso cottage",
+    "1 taza de crema agria",
+    "1 taza de azúcar",
+    "4 huevos enteros",
+    "1/2 limón, cáscara rallada",
+    "1/4 cucharadita de vainilla",
+    "1 taza de pasas",
+    "1/2 taza de almidón de maíz",
+    "1 cucharadita de harina",
+    "1 cucharadita de bicarbonato de sodio",
+    "1/2 taza de almendras ralladas",
+    "2 tazas de harina",
+    "1/4 libra de mantequilla",
+    "1/2 taza de azúcar",
+    "1 huevo",
+    "un pellizco de sal",
+    "1 cucharadita de polvo de hornear"
+  ],
+  "recipeInstructions": "1. Prepara la masa y forra el fondo y los lados de un molde para torta engrasado.\n2. Cuela el queso cottage y mézclalo con la crema agria.\n3. Agrega el azúcar, los huevos, la cáscara rallada de limón, la vainilla, las pasas y el almidón de maíz a la mezcla.\n4. Mezcla la harina y el bicarbonato de sodio, luego añádelos a la mezcla.\n5. Vierte la masa en el molde forrado y coloca las almendras ralladas encima.\n6. Hornea en un horno precalentado a 375°F durante aproximadamente 1 hora.\n7. Deja enfriar la tarta en un lugar cálido; no la refrigeres.",
+  "url": null
+}

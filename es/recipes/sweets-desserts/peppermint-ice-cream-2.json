@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "peppermint-ice-cream-2",
+  "name": "Helado de Menta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres",
+    "helado"
+  ],
+  "recipeIngredient": [
+    "1 litro de leche",
+    "1 libra de palitos de caramelo de menta suave",
+    "2 tazas de media crema",
+    "2 tazas de crema batida"
+  ],
+  "recipeInstructions": "1. Combinar la leche y los palitos de caramelo de menta en un bol. Cubrir y refrigerar durante 12 horas, permitiendo que se disuelva el caramelo.\n2. En un recipiente para helado de 1 galón, manual o eléctrico, combinar la mezcla disuelta de caramelo, media crema y crema batida según las instrucciones del fabricante.\n3. Congelar según las indicaciones del fabricante.\n4. Dejar reposar el helado durante al menos 1 hora antes de servir.",
+  "url": null
+}

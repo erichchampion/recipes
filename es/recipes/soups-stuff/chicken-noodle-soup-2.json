@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-noodle-soup-2",
+  "name": "Sopa de Pollo con Fideos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "amish",
+    "sopas",
+    "sopas/estofados"
+  ],
+  "recipeIngredient": [
+    "4 libras de pollo",
+    "3 cuartos de agua fría",
+    "1 cebolla, en rodajas",
+    "1 zanahoria, en rodajas",
+    "1 hoja de laurel",
+    "1 cucharadita de perejil",
+    "sal y pimienta"
+  ],
+  "recipeInstructions": "1. Lavar y limpiar el pollo cuidadosamente. Cortarlo en pedazos.\n2. Cubrir el pollo con agua fría en una olla grande.\n3. Agregar la cebolla, zanahoria, hoja de laurel, perejil, sal y pimienta.\n4. Llevar a ebullición, luego reducir el calor y dejar cocinar a fuego lento por 3 horas o hasta que el pollo esté tierno.\n5. Retirar la grasa que flote en la superficie.\n6. Sacar el pollo de la olla y desmenuzarlo si se desea.\n7. Añadir los fideos a la olla y cocinar por 15 minutos adicionales hasta que estén hechos.\n8. Servir caliente.",
+  "url": null
+}

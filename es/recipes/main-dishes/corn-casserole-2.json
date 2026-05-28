@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "corn-casserole-2",
+  "name": "Omelet de Maíz",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "plato principal",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "2 huevos",
+    "1/2 taza de aceite",
+    "1/2 cucharadita de bicarbonato",
+    "1 cebolla mediana picada",
+    "1 lata pequeña de chiles verdes",
+    "1 taza de maicena",
+    "10 onzas de queso Cheddar rallado",
+    "3/4 taza de leche",
+    "1 cucharadita de sal",
+    "5 cucharadas de azúcar",
+    "1 frasco pequeño de pimientos",
+    "1 lata de maíz cremoso",
+    "1 lata de maíz entero escurrido"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes excepto el maíz, la maicena y el queso.\n2. Licuar hasta obtener una consistencia suave.\n3. Agregar el maíz y la maicena; verter en un molde para hornear engrasado.\n4. Cubrir con queso.\n5. Hornear a 180 °C durante aproximadamente 45 minutos o hasta que esté firme.",
+  "url": null
+}

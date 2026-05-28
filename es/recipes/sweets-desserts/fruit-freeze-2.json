@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-freeze-2",
+  "name": "Helado de Frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "postres"
+  ],
+  "recipeIngredient": [
+    "2 tazas de plátano machacado muy maduro",
+    "2 cucharadas de jugo de limón",
+    "2 tazas de jugo de naranja",
+    "10 fresas (opcional)",
+    "1 taza de piña triturada con su jugo"
+  ],
+  "recipeInstructions": "1. Mezcla todos los ingredientes en un bol grande.\n2. Vierte la mezcla en un molde cuadrado de 9 pulgadas.\n3. Coloca el molde en el congelador y congela por aproximadamente una hora, o hasta que esté firme.\n4. Retira del congelador y bate el contenido para combinarlo.\n5. Devuélvelo al congelador y refrigera por otra hora.\n6. Sirve frío, dividido en 12 porciones.",
+  "url": null
+}

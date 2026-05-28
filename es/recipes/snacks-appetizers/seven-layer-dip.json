@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "seven-layer-dip",
+  "name": "Dip de Siete Capas",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "mexicano",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "1 lata de frijoles refritos (para la base)",
+    "2 tomates, picados",
+    "1 manojo de cebollas verdes en rodajas",
+    "1 latita de aceitunas negras picadas",
+    "1 taza de guacamole",
+    "1 paquete de aderezo para tacos",
+    "1 taza de crema agria",
+    "2 tazas de queso cheddar rallado (para cubrir)"
+  ],
+  "recipeInstructions": "exprimir semillas y jugo del tomate\n- Mezclar el aderezo para tacos con la crema agria.\n- En un molde cuadrado de 8x8 pulgadas, colocar los ingredientes en capas, empezando por los frijoles y terminando con el queso.",
+  "url": null
+}

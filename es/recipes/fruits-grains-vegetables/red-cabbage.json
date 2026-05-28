@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "red-cabbage",
+  "name": "Repollo Rojo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "repollo",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 cebolla mediana, picada finamente",
+    "1 taza de vino tinto",
+    "2 cucharadas de grasa de pato (o 3 hojas de laurel enteras)",
+    "2 cucharadas de aceite vegetal",
+    "Sal al gusto",
+    "1 repollo rojo, cortado en tiras finas",
+    "Pimienta negra recién molida",
+    "1 cucharadita de azúcar, al gusto",
+    "1/2 taza de vinagre de vino tinto"
+  ],
+  "recipeInstructions": "1. Pica finamente la cebolla.\n2. Calienta la grasa de pato en una sartén grande a fuego medio-alto. Agrega la cebolla y sofríe hasta que esté transparente.\n3. Añade el repollo cortado en tiras a la sartén y continúa cocinando, revolviendo ocasionalmente, por 2 minutos o hasta que el repollo comience a ablandarse.\n4. Incorpora el azúcar, el vinagre, el vino tinto, las hojas de laurel (si las usas), sal y pimienta.\n5. Reduce el fuego a bajo y deja cocinar a fuego lento durante 20 minutos.\n6. Sirve inmediatamente.",
+  "url": null
+}

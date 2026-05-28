@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "antipasto-5",
+  "name": "Antipasto",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "aperitivos",
+    "salsas",
+    "tentempiés"
+  ],
+  "recipeIngredient": [
+    "2 pimientos verdes",
+    "1 cebolla mediana",
+    "2 tallos de apio",
+    "3 zanahorias",
+    "1 diente de ajo",
+    "0.5 lb champiñones rebanados",
+    "1 taza de atún enlatado (escurrido)",
+    "1 limón (jugo de uno)",
+    "2 cucharadas de aceite",
+    "1 cucharadita de azúcar granulada",
+    "1 botella de 400 g de ketchup"
+  ],
+  "recipeInstructions": "1. Picar finamente los pimientos, la cebolla, el apio, las zanahorias, el ajo, los champiñones y el brócoli.\n2. Calentar el aceite en una sartén y cocinar las verduras picadas durante 5 minutos, revolviendo ocasionalmente hasta que estén bien combinadas.\n3. Verter la mezcla en frascos esterilizados, cubrir con tapas y refrigerar.\n4. Al servir, colocar el antipasto en un plato bonito y rodearlo de galletas.",
+  "url": null
+}

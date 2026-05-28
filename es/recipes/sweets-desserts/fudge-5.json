@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fudge-5",
+  "name": "Fudge",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "candy",
+    "chocolate",
+    "postres",
+    "fudge"
+  ],
+  "recipeIngredient": [
+    "18 oz de chispas de chocolate",
+    "14 oz de leche condensada",
+    "1 1/2 cucharaditas de extracto de vainilla",
+    "Una pizca de sal"
+  ],
+  "recipeInstructions": "1. Derrite el chocolate, la leche condensada y la sal juntos en una sartén pesada a fuego bajo.\n2. Retira del fuego y mezcla el extracto de vainilla.\n3. Vierte la mezcla en un molde forrado con papel para hornear (un molde de 11x7 pulgadas funciona bien).\n4. Refrigera hasta que esté firme.",
+  "url": null
+}

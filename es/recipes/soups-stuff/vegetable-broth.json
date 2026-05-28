@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetable-broth",
+  "name": "Caldo de Verduras (Latinoamérica)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas",
+    "caldos"
+  ],
+  "recipeIngredient": [
+    "2 cebollas amarillas",
+    "1 cebolla roja",
+    "2 dientes de ajo",
+    "5 zanahorias",
+    "4 cebollinos verdes",
+    "4 tallos de apio (usé las partes superiores del manojo, incluyendo las hojas)",
+    "aproximadamente 2 cucharaditas de perejil seco",
+    "aproximadamente 2 cucharaditas de tomillo seco",
+    "1 cucharadita de sal",
+    "hoja de laurel"
+  ],
+  "recipeInstructions": "1. Cortar groseramente las cebollas y aplastar el ajo (no es necesario pelar).\n2. Cortar todo lo demás groseramente.\n3. Colocar todos los ingredientes en una olla con 2 litros de agua.\n4. Llevar a ebullición baja.\n5. Cocinar por 1 hora y media.\n6. Colar el caldo.\n7. Descartar las zanahorias, ya que quedan muy blandas para mi gusto.",
+  "url": null
+}

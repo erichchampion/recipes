@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "ceviche-2",
+  "name": "Ceviche",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americano",
+    "étnico",
+    "peruano"
+  ],
+  "recipeIngredient": [
+    "2 lbs de mariscos mixtos, incluyendo pescado firme, almejas, camarones (o cualquier otro marisco disponible)",
+    "1 cebolla muy grande, laminada finamente",
+    "1/4 taza de perejil picado",
+    "5 costillas de apio, laminadas finamente",
+    "Chiles serrano al gusto",
+    "Sal y pimienta al gusto",
+    "Jugo de limón para cubrir los ingredientes"
+  ],
+  "recipeInstructions": "1. Limpiar y cortar el marisco mixto en trozos pequeños.\n2. Colocar el marisco en un bol y agregar cebolla laminada, perejil picado, costillas de apio, chiles serrano, sal, pimienta y suficiente jugo de limón para cubrir todos los ingredientes.\n3. Refrigerar la mezcla por al menos dos horas para permitir que se mezclen los sabores y el marisco se 'cuezca' gracias a la acidez del jugo de limón.\n4. Servir el ceviche con arroz con pollo hecho con cerveza y mucho cilantro.",
+  "url": null
+}

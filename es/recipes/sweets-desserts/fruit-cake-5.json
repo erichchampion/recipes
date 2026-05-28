@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "fruit-cake-5",
+  "name": "Pastel de Frutas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pasteles",
+    "postres",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1 taza de pasas",
+    "2 tazas de agua",
+    "2 tazas de azúcar",
+    "2/3 taza de manteca vegetal",
+    "1 cucharada de bicarbonato de sodio",
+    "2 cucharaditas de polvo de hornear",
+    "4 tazas de harina blanca",
+    "1 cucharadita de canela",
+    "1 cucharadita de guindilla",
+    "1 cucharadita de clavo de olor",
+    "1 taza de frutas mixtas",
+    "1 taza de arándanos"
+  ],
+  "recipeInstructions": "1. En una olla, combina los primeros cuatro ingredientes. Lleva a ebullición y reduce el fuego, cocinando a fuego lento durante 1 minuto.\n2. Deja enfriar.\n3. Tamiza juntos los ingredientes secos: polvo de hornear, bicarbonato de sodio, harina blanca, canela, guindilla y clavo de olor.\n4. Haz un hueco en el centro de la mezcla tamizada y agrega la mezcla hervida.\n5. Mezcla bien hasta que esté combinada.\n6. Hornea a 300°F durante 60 minutos.\n7. Comprueba si está hecho insertando un palillo en el centro; si sale limpio, está listo.\n8. Si no está hecho, devuélvelo al horno por unos minutos más y comprueba de nuevo.\n9. Enfría sobre una rejilla.",
+  "url": null
+}

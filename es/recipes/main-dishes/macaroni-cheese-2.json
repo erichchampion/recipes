@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "macaroni-cheese-2",
+  "name": "Macarrones con Queso",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "queso",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "8 onzas de macarrones",
+    "2 cucharadas de mantequilla",
+    "1/2 taza de crema",
+    "1 taza de queso cheddar rallado",
+    "un toque de salsa Worcestershire"
+  ],
+  "recipeInstructions": "1. Cocinar los macarrones según las instrucciones del paquete. Escurrir y devolverlos a la olla.\n2. A fuego bajo, agregar la mantequilla y remover hasta que se derrita.\n3. Incorporar la crema y el queso cheddar rallado, removiendo constantemente hasta que se derrita el queso.\n4. Sazonar con un toque de salsa Worcestershire. Servir inmediatamente.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "snicker-cake",
+  "name": "Pastel de Snickers",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "productos horneados",
+    "pastel",
+    "pasteles",
+    "chocolate",
+    "postres"
+  ],
+  "recipeIngredient": [
+    "mezcla para pastel de chocolate alemán (o 1 receta de pastel de chocolate alemán)",
+    "1 paquete de caramelos Kraft",
+    "4 oz de mantequilla o margarina",
+    "½ taza de leche",
+    "1 taza de chips de chocolate",
+    "1 ½ tazas de nueces picadas"
+  ],
+  "recipeInstructions": "Prepara la mezcla para pastel según las instrucciones. Retira la mitad de la mezcla de pastel y colócala en un molde engrasado y enharinado de 13x9x2 pulgadas. Hornea a 350°F durante aproximadamente 25 minutos o hasta que el pastel se vuelva firme al tacto. Retíralo del horno y baja la temperatura a 250°F.\nDerrite los caramelos con la margarina y la leche en una cacerola, revolviendo hasta que el caramelo se derrita. Vierte sobre la porción horneada del pastel. Extiende las nueces picadas y los chips de chocolate uniformemente sobre el pastel, luego vierte la mezcla restante de pastel encima. Hornea a 250°F durante 20 minutos, luego aumenta la temperatura a 350°F y hornea por 10 minutos adicionales o hasta que esté firme. Deja enfriar durante la noche antes de servir del molde.",
+  "url": null
+}

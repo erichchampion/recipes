@@ -1,0 +1,19 @@
+{
+  "@type": "Recipe",
+  "identifier": "ganache-filling",
+  "name": "Relleno de Ganache",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Sweets & Desserts",
+  "keywords": [
+    "chocolate",
+    "postres",
+    "glaseado"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de crema espesa",
+    "1/4 taza de crema agria",
+    "9 onzas de chocolate semiamargo finamente picado"
+  ],
+  "recipeInstructions": "1. Calentar la crema espesa hasta que esté a punto de hervir.\n2. Retirar del fuego y agregar la crema agria, removiendo bien.\n3. Verter la mezcla sobre el chocolate picado en un bol de vidrio.\n4. Mezclar hasta obtener una consistencia suave.",
+  "url": null
+}

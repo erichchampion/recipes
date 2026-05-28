@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-with-sauce-supreme",
+  "name": "Pollo con Salsa Suprema",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves de corral"
+  ],
+  "recipeIngredient": [
+    "2 1/2 lb de pollo para asar",
+    "1 cucharada de sal",
+    "1/8 cucharadita de pimienta",
+    "1 lata de sopa de pollo (340 g)",
+    "cebollas enteras (450 g)"
+  ],
+  "recipeInstructions": "1. En un tazón grande, combina el pollo, la sal y la pimienta.\n2. Agrega las cebollas escurridas y mezcla bien.\n3. Vierte la sopa de pollo y revuelve hasta que el pollo quede uniformemente cubierto.\n4. Sirve sobre arroz cocido caliente.",
+  "url": null
+}

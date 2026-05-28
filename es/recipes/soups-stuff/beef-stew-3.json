@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-stew-3",
+  "name": "Guiso de Carne",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "carne",
+    "sopas",
+    "guisos y sopas",
+    "guisos"
+  ],
+  "recipeIngredient": [
+    "2 libras de bistec de falda o chuletón",
+    "2 cebollas",
+    "3 papas grandes",
+    "6 zanahorias",
+    "sal",
+    "pimienta",
+    "2 latas de sopa de setas (condensada)",
+    "agua"
+  ],
+  "recipeInstructions": "1. Dorar la carne con las cebollas, sal, pimienta y un poco de aceite.\n2. Agregar los cubos de papas y zanahorias a la olla.\n3. Incorporar 1 o 2 latas de sopa de setas y aproximadamente la mitad de agua.\n4. Cocinar hasta que esté hecho - ya sea en el horno, en la estufa o usando un cocinero lento.\n5. El guiso hará su propia salsa.",
+  "url": null
+}

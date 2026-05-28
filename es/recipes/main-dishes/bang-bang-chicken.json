@@ -1,0 +1,29 @@
+{
+  "@type": "Recipe",
+  "identifier": "bang-bang-chicken",
+  "name": "Pollo Bang Bang",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves"
+  ],
+  "recipeIngredient": [
+    "4 pechugas de pollo deshuesadas y sin piel",
+    "1 litro de caldo de pollo",
+    "1 zanahoria",
+    "2 cebollinos",
+    "1/4 pepino",
+    "2 cucharadas de semillas de sésamo tostadas ligeramente",
+    "para la salsa:",
+    "180 gramos de mantequilla de maní suave",
+    "2 cucharaditas de salsa picante",
+    "2 cucharaditas de azúcar morena",
+    "2 cucharadas de aceite de sésamo",
+    "2 cucharadas de aceite vegetal"
+  ],
+  "recipeInstructions": "Para preparar la salsa, coloca la mantequilla de maní en un bol y colócalo sobre agua hirviendo durante 10 minutos para ablandarla. Retira del fuego y bate hasta incorporar la salsa picante y el azúcar. Añade lentamente ambos aceites hasta obtener la consistencia adecuada para verter - dependiendo del tipo de mantequilla de maní, es posible que no necesites todo el aceite.\nCocina las pechugas de pollo en el caldo durante unos 10 minutos (hasta que estén cocidas) y escurre y enfría. Luego córtalas en tiras de 2 cm y reserva.\nPelar la zanahoria y cortarla en tiras de 2 cm, también aproximadamente del mismo tamaño. Corta los cebollinos hasta el mismo largo, usando solo las partes verdes y blancas. Corta el pepino en trozos de 2 cm, dejando la piel. Corta longitudinalmente y córtalas en formas de palillo, descartando las semillas. Coloca los vegetales en un plato para servir y apila el pollo encima. Vierte generosamente la salsa sobre el pollo y espolvorea con semillas de sésamo tostadas.",
+  "url": null
+}

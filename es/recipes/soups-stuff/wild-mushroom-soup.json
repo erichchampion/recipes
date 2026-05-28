@@ -1,0 +1,22 @@
+{
+  "@type": "Recipe",
+  "identifier": "wild-mushroom-soup",
+  "name": "Sopa de Setas Silvestres",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopa"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de mantequilla",
+    "2 cucharadas de harina",
+    "1 cucharadita de sal",
+    "1 cucharadita de pimienta negra molida",
+    "1 taza de vino tinto Borgoña o Beaujolais",
+    "1/4 de cebolla mediana picada finamente",
+    "3 a 4 tazas de apio y setas silvestres mixtas",
+    "1 libra de setas silvestres mixtas"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una olla grande a fuego medio.\n2. Agrega la harina y revuelve hasta que esté suave; cocina durante 1 minuto.\n3. Incorpora la sal, la pimienta, el vino y la cebolla; reduce a fuego lento hasta que el vino se haya reducido a la mitad.\n4. Añade el apio y las setas silvestres mixtas a la olla; cocina hasta que las verduras estén tiernas.\n5. Ajusta la sazón si es necesario y sirve caliente.",
+  "url": null
+}

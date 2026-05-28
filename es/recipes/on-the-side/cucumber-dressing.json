@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "cucumber-dressing",
+  "name": "Aderezo de Pepino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "ensaladas",
+    "acompañamientos",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1/2 pepino mediano",
+    "1 taza crema agria láctea",
+    "2 cucharadas jugo de limón",
+    "2 cucharadas azúcar",
+    "1/2 cucharadita sal",
+    "una pizca salsa picante en botella"
+  ],
+  "recipeInstructions": "1. Cortar el pepino por la mitad a lo largo, retirando las semillas.\n2. Cortar el pepino en trozos pequeños.\n3. Colocar todos los ingredientes restantes en un recipiente para licuadora.\n4. Licuar hasta que el pepino esté finamente picado. Si es necesario, detener la licuadora y raspar con una espátula de goma las paredes del recipiente.\nRinde 2 tazas.",
+  "url": null
+}

@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "ceasar-salad",
+  "name": "Ensalada César",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "clásicos estadounidenses",
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "4 onzas de anchoas",
+    "3 cucharadas de mostaza dijon",
+    "2 onzas de ajo picado",
+    "4 yemas de huevo",
+    "1/2 taza de vinagre de vino tinto",
+    "1 cucharada de salsa Worcestershire",
+    "1 taza de queso parmesano",
+    "1 litro de aceite de oliva",
+    "1 cucharadita de pimienta negra",
+    "sal al gusto",
+    "12 tazas de lechuga romana",
+    "croutons"
+  ],
+  "recipeInstructions": "PASO UNO: Preparar Croutons (Opcional)\nCortar un pan duro en cubos de 1/4 de pulgada. Condimentar con mantequilla derretida, tomillo, albahaca, ajo, orégano, sal y pimienta. Hornear hasta que estén crujientes.\nPASO DOS: Preparar Aderezo César\nEn un bol grande, machacar las anchoas hasta obtener una consistencia de pasta. Mezclar con todos los ingredientes restantes excepto la lechuga romana.\nPASO TRES:\nDesmenuzar la lechuga romana en trozos grandes y colocarla en un bol grande. Verter el aderezo sobre la lechuga y mezclar bien. Servir inmediatamente.",
+  "url": null
+}

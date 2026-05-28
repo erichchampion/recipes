@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "vegetable-burger-from-my-garden",
+  "name": "Hamburguesa Vegetal (de Mi Jardín)",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "burgers",
+    "plato principal",
+    "vegetales",
+    "vegetariano"
+  ],
+  "recipeIngredient": [
+    "1/2 cebolla, picada",
+    "2 cucharadas de mantequilla",
+    "1 costilla de apio, picada",
+    "1 zanahoria, picada",
+    "1 taza de nueces molidas o pecanas",
+    "1/2 taza de migas de pan sazonadas",
+    "1/2 taza de arroz cocido",
+    "2 huevos",
+    "Sal",
+    "Pimienta"
+  ],
+  "recipeInstructions": "1. En una sartén grande, saltea la cebolla en mantequilla hasta que se vuelva translúcida.\n2. Agrega el apio y la zanahoria a la sartén. Cocina hasta que las verduras estén suaves.\n3. Deja enfriar la mezcla por completo.\n4. Mezcla los ingredientes restantes: nueces molidas o pecanas, migas de pan sazonadas, arroz cocido, huevos, sal y pimienta.\n5. Forma la mezcla en hamburguesas.\n6. Asa las hamburguesas hasta que comiencen a dorarse.",
+  "url": null
+}

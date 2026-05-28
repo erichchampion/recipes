@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "cranberry-sauce",
+  "name": "Salsa de Arándanos",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "frutas",
+    "encurtidos",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "4 tazas de arándanos",
+    "2 tazas de azúcar",
+    "1 taza de agua"
+  ],
+  "recipeInstructions": "1. Selecciona arándanos buenos y lávalos bien.\n2. Combina el azúcar y el agua en una cacerola y cocina a fuego medio durante unos 10 minutos.\n3. Agrega los arándanos a la sartén, tapa y continúa cocinando hasta que los arándanos dejen de estallar (aproximadamente 10 minutos más).\n4. Retira cualquier espuma de la superficie si es necesario.\n5. Deja enfriar la salsa antes de servir.",
+  "url": null
+}

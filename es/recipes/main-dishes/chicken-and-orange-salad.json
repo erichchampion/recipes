@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-and-orange-salad",
+  "name": "Ensalada de Pollo y Naranja",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "fruta",
+    "plato principal",
+    "carne",
+    "aves"
+  ],
+  "recipeIngredient": [
+    "1 1/2 tazas de pechuga de pollo cocida en cubos de 1/2 pulgada",
+    "2 naranjas navel peladas y en rodajas",
+    "2 tallos de apio picados",
+    "2 cebollas verdes rebanadas",
+    "1/3 taza de mayonesa sin grasa",
+    "1/4 cucharadita de sal",
+    "1/8 cucharadita de pimienta",
+    "Una pizca de polvo de curry (opcional)",
+    "Hojas de lechuga o rúcula"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un bol.\n2. Revolver suavemente hasta que esté bien combinado.\n3. Servir sobre hojas de lechuga o rúcula.",
+  "url": null
+}

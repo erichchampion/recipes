@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-parisienne-2",
+  "name": "Pollo Parisiense",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "francés",
+    "plato principal",
+    "pollo",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "6 pechugas de pollo medianas",
+    "300 gramos de sopa de setas (crema de champiñones)",
+    "sal y pimienta al gusto",
+    "pimentón dulce",
+    "100 gramos de champiñones laminados (secos)",
+    "1/2 taza de vino blanco seco, vermut o caldo (opcional)",
+    "1 taza de mezcla de crema agria (1/4 taza de harina mezclada con 1 taza de crema agria)"
+  ],
+  "recipeInstructions": "1. Espolvorear las pechugas de pollo con sal, pimienta y pimentón.\n2. Colocar las pechugas de pollo en una olla de cocción lenta (Crock-POT).\n3. Mezclar el vino blanco, la sopa y los champiñones hasta que estén bien combinados.\n4. Verter la mezcla sobre las pechugas de pollo en la olla de cocción lenta.\n5. Espolvorear con pimentón dulce.\n6. Tapar y cocinar a fuego lento durante 6 a 8 horas (o a fuego alto durante 2.5 a 3.5 horas).\n7. Retirar las pechugas de pollo y mezclar la mezcla de crema agria durante los últimos 30 minutos.\n8. Servir el salsa sobre el pollo con arroz o fideos.",
+  "url": null
+}

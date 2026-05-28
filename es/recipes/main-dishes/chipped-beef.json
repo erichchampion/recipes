@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "chipped-beef",
+  "name": "Carne desmenuzada",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "carne",
+    "desayuno",
+    "plato principal",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "1 frasco de carne seca, desmenuzada",
+    "2 huevos duros, picados",
+    "2 tazas de leche",
+    "1/4 taza de harina",
+    "1/4 taza de mantequilla o margarina",
+    "Pimienta al gusto (por lo general)"
+  ],
+  "recipeInstructions": "1. Preparar una salsa blanca derritiendo la mantequilla en un baño maría.\n2. Incorporar la harina y agregar gradualmente la leche.\n3. Cocinar, revolviendo constantemente hasta que la salsa espese.\n4. Añadir pimienta y comprobar la sal. Ajustar la sazón si es necesario.\n5. Esta receta dará para suficiente salsa para unos 6-8 mitades de muffins, dependiendo de lo generoso que sea con la salsa.\n6. Servir sobre tostadas de muffin inglés.",
+  "url": null
+}

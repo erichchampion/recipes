@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "beef-jerky-2-3",
+  "name": "Carne seca 2",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Snacks & Appetizers",
+  "keywords": [
+    "munchies",
+    "tentempiés",
+    "carne seca"
+  ],
+  "recipeIngredient": [
+    "1/2 cucharadita de pimienta (más para picante)",
+    "1/2 cucharadita de polvo de ajo",
+    "1/2 cucharadita de sal de cebolla",
+    "1 libra de bistec de res",
+    "1/2 taza de salsa de soya",
+    "1/2 cucharadita de sal de ajo",
+    "1/2 cucharadita de pimienta limón"
+  ],
+  "recipeInstructions": "1. Mezcla la pimienta, el polvo de ajo, la sal de cebolla, la salsa de soya, la sal de ajo y la pimienta limón.\n2. Coloca el bistec en un adobo con la mezcla anterior y déjalo marinar por al menos 1 hora o durante la noche.\n3. Precalienta el horno a 150-170 °C (300-320 °F).\n4. Cocina el bistec en el horno durante 10-12 horas, apagando el calor una vez que se alcance la textura deseada de carne seca.",
+  "url": null
+}

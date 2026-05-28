@@ -1,0 +1,27 @@
+{
+  "@type": "Recipe",
+  "identifier": "grilled-shrimp-2",
+  "name": "Camaronas a la parrilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pescado",
+    "plato principal",
+    "carne",
+    "mariscos",
+    "camaronas"
+  ],
+  "recipeIngredient": [
+    "2 lb camaronas grandes",
+    "1/4 taza perejil fresco",
+    "1 taza aceite de oliva",
+    "1 cucharadita orégano",
+    "1 pizca sal",
+    "4 cucharadas jugo de limón",
+    "1 tomate pasta",
+    "4 gotas salsa picante",
+    "al gusto pimienta"
+  ],
+  "recipeInstructions": "1. Mezclar todos los ingredientes en un recipiente de vidrio.\n2. Marinar por 2 horas a temperatura ambiente.\n3. Asar a la parrilla a 3-4 pulgadas de distancia del calor durante 3 minutos. Darle la vuelta y asar más tiempo.\n4. Servir sobre arroz con ensalada verde y pan italiano.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "shrimp-soup-2",
+  "name": "Sopa de Camarones",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "estadounidense",
+    "cajún",
+    "sopas cajún",
+    "étnica"
+  ],
+  "recipeIngredient": [
+    "8 tazas de caldo de pollo",
+    "2 cucharadas de salsa Louisiana caliente",
+    "1/2 taza de apio picado",
+    "1 cucharadita de sal al gusto",
+    "1 cucharada de Lea & Perrins",
+    "2 tazas de vino blanco seco",
+    "2 libras de camarones picados"
+  ],
+  "recipeInstructions": "1. Combinar todos los ingredientes excepto los camarones en el caldo de pollo.\n2. Llevar la mezcla a ebullición a fuego medio.\n3. Reducir el calor y tapar; cocinar a fuego lento durante 45 minutos.\n4. Agregar los camarones y continuar cocinando a fuego lento por 30 minutos adicionales.\n5. Ajustar la cantidad de vino según el gusto (por ejemplo, reducir a 1 taza si se prefiere menos).\n6. Retirar del calor y servir inmediatamente.",
+  "url": null
+}

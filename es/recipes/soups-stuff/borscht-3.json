@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "borscht-3",
+  "name": "Borscht",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Soups & Stuff",
+  "keywords": [
+    "sopas"
+  ],
+  "recipeIngredient": [
+    "2 (10 oz.) latas de caldo de carne",
+    "1/2 taza de vino blanco seco",
+    "1 taza de crema agria",
+    "2 cucharadas de eneldo fresco o 1 cucharada de eneldo seco",
+    "2 cucharadas de vinagre de vino blanco",
+    "36 onzas de remolachas enlatadas, escurridas",
+    "1 1/2 cucharaditas de rábano picante o al gusto",
+    "Sal y pimienta al gusto",
+    "Una pizca de azúcar"
+  ],
+  "recipeInstructions": "1. Licúa las remolachas con parte del caldo en un procesador o licuadora (puede ser necesario hacerlo por lotes).\n2. Coloca las remolachas, el caldo restante y el vino en una cacerola.\n3. Calienta lentamente y bate la crema agria.\n4. Agrega sal, pimienta, azúcar, vinagre y rábano picante. Ajusta la sazón al gusto.\n5. Sirve caliente o frío, adornado con un chorro de crema agria y perejil picado.",
+  "url": null
+}

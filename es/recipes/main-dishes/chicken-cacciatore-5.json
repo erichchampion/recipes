@@ -1,0 +1,28 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-cacciatore-5",
+  "name": "Pollo Cacciatore",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "2 1/2 a 3 lb de pollo; sin piel",
+    "1 lata de tomates enlatados",
+    "1 lata de salsa de tomate",
+    "2 dientes de ajo; picados",
+    "1 cebolla mediana; picada",
+    "2 tallos de apio; picados",
+    "1 cucharadita de orégano",
+    "1/2 cucharadita de albahaca dulce",
+    "1/2 cucharadita de romero",
+    "1/2 cucharadita de cilantro",
+    "1 cucharadita de sal",
+    "1/4 cucharadita de pimienta"
+  ],
+  "recipeInstructions": "1. Mezcla los tomates enlatados y la salsa de tomate.\n2. Agrega el resto de los ingredientes a la mezcla.\n3. Combina todo bien.\n4. Coloca el pollo en una olla de cocción lenta.\n5. Vierte la mezcla sobre el pollo.\n6. Cocina a fuego alto hasta que comience a hervir.\n7. Reduce el calor a bajo y deja que hierva a fuego lento durante el día.\n8. Sirve sobre pasta o arroz.",
+  "url": null
+}

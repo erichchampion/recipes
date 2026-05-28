@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "kugel",
+  "name": "Kugel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "queso/huevos",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "6 Huevos",
+    "Sal y pimienta al gusto",
+    "1/4 lb Manteca",
+    "1 lb Pasta"
+  ],
+  "recipeInstructions": "1. Combinar la manteca con las pasta cocidas en un bol grande, luego agregar los huevos y remover hasta que estén bien integrados.\n2. Sazonar al gusto con sal y pimienta.\n3. Verter la mezcla en un molde para hornear de 9 x 13 pulgadas y hornear a 350°F durante una hora.\n4. Servir con verduras asadas u otros platos. Esta receta es bastante flexible. Para una versión más ligera del kugel, batir las claras primero; sin embargo, yo nunca lo hago. Esta es la forma tradicional de servir lo que se considera poco saludable pero delicioso. En la actualidad, solo lo preparo para ocasiones especiales, como cuando pequeña Sara viene a cenar.",
+  "url": null
+}

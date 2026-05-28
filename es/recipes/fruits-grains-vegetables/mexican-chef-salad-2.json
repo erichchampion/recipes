@@ -1,0 +1,30 @@
+{
+  "@type": "Recipe",
+  "identifier": "mexican-chef-salad-2",
+  "name": "Ensalada del Chef Mexicano",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "cerdo",
+    "ensaladas",
+    "verduras"
+  ],
+  "recipeIngredient": [
+    "1 lb de salchicha ahumada, cortada en trozos",
+    "15 oz de frijoles rojos en lata,",
+    "pimienta chili",
+    "comino",
+    "1 lechuga, partida en mitades",
+    "cebolla roja, cortada en anillos",
+    "pimiento verde, cortado en anillos",
+    "tomates, en trozos",
+    "queso cheddar rallado",
+    "aguacate, cortado en rodajas",
+    "apio, cortado en tallos",
+    "aderezo francés o ranch",
+    "salsa picante de chile",
+    "chips de taco"
+  ],
+  "recipeInstructions": "1. Dorar la salchicha ahumada en una sartén.\n2. Agregar los frijoles, pimienta chili y comino a la sartén. Cocinar por 10-15 minutos, revolviendo con frecuencia hasta que se calienten completamente.\n3. Mezclar la lechuga, pimiento verde, tomates, queso, aguacate y apio con el aderezo y salsa picante de chile.\n4. Agregar los chips de taco.\n5. Incorporar la mezcla de salchicha y frijoles calientes y servir inmediatamente.",
+  "url": null
+}

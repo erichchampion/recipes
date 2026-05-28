@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "salsa-peach",
+  "name": "Salsa de Durazno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "condimentos",
+    "salsas",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "2 tazas de duraznos frescos, pelados y picados",
+    "1/2 taza de cebolla roja, picada",
+    "1/2 taza de pimiento rojo, picado",
+    "1/2 cucharadita de jalapeño, picado finamente",
+    "2 cucharadas de aceite de oliva",
+    "2 cucharadas de jugo de lima",
+    "1/4 taza de menta fresca, picada finamente",
+    "2 cucharaditas de jengibre fresco, rallado"
+  ],
+  "recipeInstructions": "1. En un bol grande, combina los duraznos picados, la cebolla roja, el pimiento rojo y el jalapeño.\n2. Agrega el aceite de oliva, jugo de lima, menta fresca y jengibre rallado al bol.\n3. Mezcla todos los ingredientes hasta que estén bien combinados.\n4. Cubre la mezcla y déjala reposar durante 30 minutos para permitir que se mezclen los sabores.\n5. Sirve la salsa fría o a temperatura ambiente.",
+  "url": null
+}

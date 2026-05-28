@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "wheat-and-honey-bread",
+  "name": "Pan de Trigo y Miel",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Baked Goods",
+  "keywords": [
+    "productos horneados",
+    "pan",
+    "máquina de pan",
+    "panes"
+  ],
+  "recipeIngredient": [
+    "levadura",
+    "harina de trigo integral (3/4 taza)",
+    "harina para pan (2 1/2 tazas)",
+    "sal (1 cucharadita)",
+    "miel (2 cucharadas)",
+    "huevo (1 unidad)",
+    "agua tibia (1 taza más 1 cucharada)"
+  ],
+  "recipeInstructions": "1. En el orden indicado, coloque todos los ingredientes en la panera.\n2. Seleccione la opción de pan blanco en las configuraciones de la máquina.\n3. Presione el botón \"iniciar\".",
+  "url": null
+}

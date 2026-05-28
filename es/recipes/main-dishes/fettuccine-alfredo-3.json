@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fettuccine-alfredo-3",
+  "name": "Fettuccine Alfredo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "italiano",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "4 cucharadas de mantequilla",
+    "Sal y pimienta al gusto",
+    "1/2 taza de crema espesa",
+    "8 onzas de fettuccine",
+    "6 cucharadas de queso parmesano rallado"
+  ],
+  "recipeInstructions": "1. Derrite la mantequilla en una sartén pequeña a fuego bajo.\n2. Apaga el fuego, agrega la crema y el queso parmesano rallado.\n3. Coloca nuevamente a fuego medio para calentar y derretir el queso. No dejes hervir.\n4. Incorpora sal y pimienta. Cocina los fettuccine en abundante agua hirviendo con sal. Escurre bien.\n5. Mezcla los fideos con la salsa, luego deja reposar cubierto por dos minutos antes de servir.",
+  "url": null
+}

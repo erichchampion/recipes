@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chicken-n-olives",
+  "name": "Pollo y Olivas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "carne",
+    "aves"
+  ],
+  "recipeIngredient": [
+    "1 pavo de 3 libras, cortado en porciones",
+    "sal y pimienta",
+    "1 diente de ajo picado",
+    "1 cebolla grande picada",
+    "2 hojas de laurel",
+    "1 lata de salsa de tomate (8 onzas)",
+    "1/2 taza de aceitunas rellenas de pimiento",
+    "arroz esponjoso"
+  ],
+  "recipeInstructions": "1. Enjuaga las piezas de pollo y sécalas con papel toalla.\n2. Condimenta ligeramente con sal y pimienta.\n3. Combina todos los ingredientes excepto el pollo y el arroz en una olla de cocción lenta.\n4. Revuelve bien para mezclar todo.\n5. Agrega las piezas de pollo, asegurándote de que cada pieza esté cubierta uniformemente.\n6. Tapa y cocina a fuego lento durante 7 a 9 horas.\nSirve para 4 a 6 personas.",
+  "url": null
+}

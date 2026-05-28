@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-chicken-rice",
+  "name": "Pollo y arroz en olla de cocción lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pollo",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "Setas frescas",
+    "Cebolla picada",
+    "Pollo crudo (2 libras)",
+    "Caldo de pollo (1 cucharadita)",
+    "Condimento para aves (1 cucharadita)",
+    "Sal (1/4 cucharadita)",
+    "Agua (2 tazas)",
+    "Arroz sin cocer (3/4 taza)"
+  ],
+  "recipeInstructions": "1. Cortar las setas en rodajas.\n2. Retirar la piel de los trozos de pollo.\n3. Dorar las setas, cebolla y pollo en una sartén a fuego medio durante unos 15 minutos.\n4. Incorporar el caldo de pollo, condimento para aves y sal.\n5. Transferir la mezcla a la olla de cocción lenta.\n6. Encender la olla a temperatura baja.\n7. Cuando los ingredientes estén calientes, agregar el arroz y cocinar hasta que esté hecho.",
+  "url": null
+}

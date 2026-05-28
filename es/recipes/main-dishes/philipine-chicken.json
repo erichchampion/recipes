@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "philipine-chicken",
+  "name": "Pollo filipino",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "cacerola lenta"
+  ],
+  "recipeIngredient": [
+    "1 pollo cortado en trozos",
+    "1 taza de agua",
+    "1/2 taza de vinagre",
+    "1/4 taza de salsa de soja",
+    "2 dientes de ajo cortados"
+  ],
+  "recipeInstructions": "1. Colocar todos los ingredientes en una olla de cocción lenta.\n2. Cocinar durante 6 a 8 horas a fuego bajo.\n3. Servir sobre arroz.",
+  "url": null
+}

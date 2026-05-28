@@ -1,0 +1,21 @@
+{
+  "@type": "Recipe",
+  "identifier": "fettuccine-alfredo-4",
+  "name": "Fettuccine Alfredo",
+  "recipeCuisine": "Europe",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "1 lb de fettuccine",
+    "1/2 taza de mantequilla",
+    "1 taza de crema ligera",
+    "3/4 taza de queso parmesano rallado",
+    "3/4 taza de queso cheddar rallado",
+    "1/4 cucharadita de pimienta"
+  ],
+  "recipeInstructions": "1. Cocinar fettuccine según las instrucciones del paquete.\n2. Derretir la mantequilla en el fondo de un baño maría a fuego bajo.\n3. Agregar los ingredientes restantes y cocinar hasta que esté suave, revolviendo constantemente.\n4. Retirar del fuego cuando esté caliente, pero sin hervir. Mezclar con las pasta.",
+  "url": null
+}

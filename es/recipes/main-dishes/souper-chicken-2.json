@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "souper-chicken-2",
+  "name": "Sopa de Pollo",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "plato principal",
+    "olla de cocción lenta",
+    "estofados"
+  ],
+  "recipeIngredient": [
+    "2 libras de trozos de pollo",
+    "1 lata de sopa condensada de apio",
+    "1/4 taza de harina",
+    "2 calabacines medianos, cortados a lo largo y luego rebanados diagonalmente en rodajas de 1/2 pulgada",
+    "1 cucharadita de pimentón",
+    "1/2 cucharadita de orégano seco",
+    "1 diente de ajo picado finamente",
+    "1 taza de tomates enlatados, escurridos"
+  ],
+  "recipeInstructions": "1. Enjuaga los trozos de pollo y sécalos con un papel toalla.\n2. Mezcla la sopa de apio con la harina para crear una pasta espesa.\n3. Combina todos los ingredientes en la olla de cocción lenta, removiendo bien para que el pollo quede cubierto con la mezcla.\n4. Tapa la olla y cocina a fuego lento durante 8 a 10 horas (rinde para 4 personas).",
+  "url": null
+}

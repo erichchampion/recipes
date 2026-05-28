@@ -1,0 +1,31 @@
+{
+  "@type": "Recipe",
+  "identifier": "fajitas-beef",
+  "name": "Fajitas de Carne - Vacuno",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "vacuno",
+    "plato principal",
+    "carne",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "3 lb de lomo de res; desmenuzado",
+    "1/2 taza de jugo de limón",
+    "1/3 taza de aceite de ensalada",
+    "1/3 taza de tequila",
+    "4 dientes de ajo; picados finamente",
+    "1 1/2 cucharaditas de comino molido",
+    "1 cucharadita de orégano seco",
+    "1/2 cucharadita de pimienta molida",
+    "4 mitades de cebolla pequeña",
+    "16 tortillas de harina",
+    "4 tazas de salsa picante",
+    "1 taza de guacamole",
+    "1 taza de crema agria",
+    "1/4 taza de cilantro fresco picado"
+  ],
+  "recipeInstructions": "1. Cortar la carne en 12 tiras finas en sentido transversal.\n2. Mezclar el jugo de limón, aceite, tequila, ajo picado, comino, orégano y pimienta para hacer un adobo. \n3. Colocar la carne y las mitades de cebolla en el bol con el adobo; revolver bien para que todos los ingredientes estén cubiertos.\n4. Dejar marinar durante la noche o al menos 4 horas.\n5. Saltear las mitades de cebolla hasta que estén ligeramente doradas.\n6. Asar las cebollas y la carne en una parrilla interna o externa hasta que la carne esté poco hecha a media cocción (no sobrecocinar) y las cebollas estén suaves. Mantener todo caliente.\n7. Calentar las tortillas en una parrilla o en el microondas hasta que estén suaves y calientes. \n8. Montar cada fajita colocando un trozo de carne en el centro de una tortilla caliente, agregar salsa, guacamole, crema agria y cilantro (y cualquier otro adorno). Doblar la parte inferior de la tortilla, luego doblar los lados para cerrar la rellena. Servir.",
+  "url": null
+}

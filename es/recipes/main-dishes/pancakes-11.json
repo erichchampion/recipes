@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "pancakes-11",
+  "name": "Tortitas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "desayuno",
+    "plato principal",
+    "tortitas"
+  ],
+  "recipeIngredient": [
+    "2 tazas de harina",
+    "2 cucharadas de azúcar",
+    "3/4 cucharadita de sal",
+    "3 cucharaditas de polvo de hornear",
+    "2 huevos",
+    "1 1/4 tazas de leche",
+    "1/4 taza de aceite vegetal o Crisco derretido"
+  ],
+  "recipeInstructions": "1. Mezclar la harina, el azúcar, la sal y el polvo de hornear.\n2. Batir los huevos y agregar la leche. Incorporar a los ingredientes secos hasta obtener una masa suave.\n3. Añadir la manteca o el aceite vegetal.\n4. Verter por cucharadas en una plancha caliente.",
+  "url": null
+}

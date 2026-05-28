@@ -1,0 +1,18 @@
+{
+  "@type": "Recipe",
+  "identifier": "baked-rice-2",
+  "name": "Arroz al horno",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "arroz"
+  ],
+  "recipeIngredient": [
+    "1 taza de arroz largo de Uncle Ben's",
+    "1 lata de sopa de cebolla",
+    "1 lata de caldo de carne",
+    "1 palita de oleo o 1/2 palita si se prefiere menos grasa"
+  ],
+  "recipeInstructions": "1. Coloca los ingredientes en un plato para hornear.\n2. Tapa y hornea durante 1 hora a 375 grados Fahrenheit.\n3. Revuelve ocasionalmente hasta que el arroz esté cocido.",
+  "url": null
+}

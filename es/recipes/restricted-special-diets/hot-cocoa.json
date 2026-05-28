@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "hot-cocoa",
+  "name": "Cacao Caliente",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Restricted & Special Diets",
+  "keywords": [
+    "bebidas",
+    "diabetico",
+    "dieta especial"
+  ],
+  "recipeIngredient": [
+    "3/4 taza de cacao en polvo",
+    "1 taza de leche desnatada",
+    "1 cucharadita de edulcorante artificial granulado",
+    "un toque de sal"
+  ],
+  "recipeInstructions": "1. Mezcla el cacao con media taza de leche.\n2. Agrega la leche restante y mezcla bien.\n3. Calienta a fuego lento, revolviendo constantemente hasta que hierva.\n4. Retira del fuego.\n5. Añade la sal, vainilla (al gusto, opcional) y edulcorante artificial.\nNota: 1 porción contiene 95 calorías, 9.1 g de proteína, 0.9 g de grasa, 14.1 g de carbohidratos, 126 mg de sodio (excluyendo un toque de sal), 467.5 mg de potasio, 0.2 g de fibra y 4 mg de colesterol.",
+  "url": null
+}

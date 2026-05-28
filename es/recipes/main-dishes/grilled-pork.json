@@ -1,0 +1,20 @@
+{
+  "@type": "Recipe",
+  "identifier": "grilled-pork",
+  "name": "Cerdo a la parrilla",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "barbacoa",
+    "plato principal",
+    "carne",
+    "carnes",
+    "cerdo"
+  ],
+  "recipeIngredient": [
+    "Cerveza (suficiente para cubrir)",
+    "Condimento de limón y pimienta"
+  ],
+  "recipeInstructions": "1. Marinar la carne en cerveza hasta que quede bien cubierta, al menos durante la noche, o por más tiempo.\n2. Encender el fuego en la parrilla.\n3. Frotar el condimento de limón y pimienta en todos los lados de la carne, incluyendo las cavidades y pliegues.\n4. Cocinar la carne en la parrilla hasta alcanzar el punto deseado de cocción. Este método se puede utilizar para costillas, asados o lomo.\n5. Alternativamente, se puede usar Cider (una mezcla de especias) en lugar del condimento de limón y pimienta.",
+  "url": null
+}

@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "chipotle-vinaigrette-2",
+  "name": "Vinaigrette Chipotle",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "On the Side",
+  "keywords": [
+    "aderezos",
+    "picante y caliente",
+    "ensaladas y aderezos",
+    "acompañamientos"
+  ],
+  "recipeIngredient": [
+    "2 cucharadas de vinagre de sidra",
+    "2 cucharadas de jugo de limón fresco",
+    "2 cucharaditas de mostaza dijon",
+    "2 cucharaditas de pimientos chipotle finamente picados en salsa adobo",
+    "1 cucharadita de cilantro picado",
+    "1 cucharadita de azúcar",
+    "2 cucharadas de aceite de oliva",
+    "sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. En un bol pequeño, bate juntos el vinagre, el jugo de limón, la mostaza, los chipotles, el cilantro y el azúcar.\n2. Agrega gradualmente el aceite de oliva mientras bates.\n3. Sazona con sal y pimienta al gusto.",
+  "url": null
+}

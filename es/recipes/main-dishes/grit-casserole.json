@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "grit-casserole",
+  "name": "Omelet de Maicena",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "casseroles",
+    "huevos",
+    "plato principal",
+    "pasta"
+  ],
+  "recipeIngredient": [
+    "2 tazas de agua hirviendo",
+    "1 cucharadita de sal",
+    "3 yemas de huevo",
+    "3 claras de huevo",
+    "1 taza de queso garlic en cubos",
+    "1/2 taza de maicena"
+  ],
+  "recipeInstructions": "1. Agregar 1/2 taza de maicena al agua hirviendo con la sal. Cocinar hasta que espese.\n2. Batir las yemas por separado de las claras.\n3. Incorporar los cubos de queso garlic y las yemas mientras la maicena esté caliente.\n4. Verter la mezcla en un molde para horno.\n5. Doblar las claras batidas y hornear hasta que esté hecho.",
+  "url": null
+}

@@ -1,0 +1,24 @@
+{
+  "@type": "Recipe",
+  "identifier": "arroz-con-pollo-4",
+  "name": "Arroz con Pollo",
+  "recipeCuisine": "North & South America",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "americano",
+    "étnico",
+    "mexicano"
+  ],
+  "recipeIngredient": [
+    "1/2 taza de aceite de oliva",
+    "1/4 taza de salsa de tomate",
+    "1 pollo frito en trozos",
+    "1/8 cucharadita de azafrán (en polvo)",
+    "1 cebolla pequeña picada",
+    "2 1/2 tazas de caldo de pollo",
+    "1 diente de ajo picado",
+    "Sal y pimienta al gusto"
+  ],
+  "recipeInstructions": "1. Calentar el aceite de oliva en una sartén grande a fuego medio.\n2. Dorar el pollo por ambos lados hasta que esté cocido por completo.\n3. Agregar la cebolla picada y el ajo picado. Freír por unos minutos hasta que estén fragantes.\n4. Incorporar la salsa de tomate y el azafrán disuelto con parte del caldo de pollo, sal y pimienta.\n5. Verter el resto del caldo de pollo. Llevar a ebullición.\n6. Tapar y cocinar por 20 minutos.\n7. Agregar el arroz y remover bien para combinar con el líquido.\n8. Volver a tapar y continuar cocinando hasta que se absorba todo el líquido y el pollo esté tierno, aproximadamente 30 minutos más.",
+  "url": null
+}

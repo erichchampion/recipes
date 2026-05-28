@@ -1,0 +1,25 @@
+{
+  "@type": "Recipe",
+  "identifier": "lentil-salad",
+  "name": "Ensalada de Lentejas",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Fruits, Grains & Vegetables",
+  "keywords": [
+    "ensaladas"
+  ],
+  "recipeIngredient": [
+    "1/2 lb de lentejas cocidas",
+    "1 cebolla picada",
+    "1 diente de ajo prensado",
+    "3 tazas de vino blanco",
+    "1 cucharada de albahaca",
+    "1/2 cucharadita de tomillo",
+    "4 cucharadas de perejil",
+    "1 cucharada de jugo de limón",
+    "4 cucharadas de aceite",
+    "2 gajos de tomate",
+    "1/2 lechuga iceberg, lavada"
+  ],
+  "recipeInstructions": "1. Mezclar las lentejas, la cebolla, el ajo y el vino blanco en un bol grande.\n2. Cocinar a fuego medio durante 3 minutos.\n3. Retirar del fuego y agregar la albahaca, el tomillo, el perejil, el jugo de limón y el aceite, mezclando bien.\n4. Incorporar los gajos de tomate.\n5. Servir la ensalada sobre hojas individuales de lechuga iceberg.",
+  "url": null
+}

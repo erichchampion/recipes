@@ -1,0 +1,23 @@
+{
+  "@type": "Recipe",
+  "identifier": "crockpot-chicken",
+  "name": "Pollo en olla de cocción lenta",
+  "recipeCuisine": "Non-regional",
+  "recipeCategory": "Main Dishes",
+  "keywords": [
+    "pollo",
+    "plato principal",
+    "olla de cocción lenta"
+  ],
+  "recipeIngredient": [
+    "Zanahorias, cortadas en rodajas finas (1 a 2)",
+    "Apio, cortado en rodajas finas (1 a 2)",
+    "Cebolla, cortada en rodajas",
+    "Pollo cortado en partes o 2 pechugas de pollo enteras",
+    "Paquete de caldo en polvo",
+    "Pimienta",
+    "Ajo en polvo"
+  ],
+  "recipeInstructions": "1. Coloca las verduras en la olla de cocción lenta.\n2. Pon el pollo encima de las verduras.\n3. Espolvorea con caldo en polvo y especias.\n4. Añade 1/4 taza de agua.\n5. Cocina a fuego bajo durante 8 horas. Es similar a un delicioso pollo asado.",
+  "url": null
+}
